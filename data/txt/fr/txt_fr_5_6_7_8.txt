@@ -6802,6 +6802,7 @@
 73F416|épître de Paul aux Colossiens
 73F417|épîtres de Paul aux Thessaloniciens
 73F42|épîtres personnelles de Paul
+73F421|épîtres de Paul à Timothée
 73F421(...)|épîtres de Paul à Timothée (avec LIVRE CHAPITRE:VERSET)
 73F422|épître de Paul à Tite
 73F423|épître de Paul à Philémon
