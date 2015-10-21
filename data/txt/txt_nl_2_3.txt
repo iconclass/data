@@ -1,0 +1,83 @@
+22A21|chemische reactie
+23Q8|morgen
+23Q81|
+24C3|group of the seven planets symbolically representing metals
+24C31|the sun representing gold
+24C32|the moon representing silver
+24C33|Mercury representing the metal mercury
+24C34|Venus representing copper
+24C35|Mars representing iron
+24C36|Jupiter representing tin
+24C37|Saturn representing lead
+24C39|other celestial bodies representing metals
+24C39(...)|other celestial bodies representing metals (with NAME)
+24C39(URANUS)|Uranus representing platinum
+24D0|allegorische of symbolische voorstellingen van sterren
+24D1(POLARIS)|sterren en sterrebeelden: Polaris, poolster
+25C112|
+25C151|
+25D11(TURQUOISE)|edelstenen en halfedelstenen: turkoois
+25D12(FLINT)|
+25D13(TIN)|
+25F23(POLAR BEAR)|
+25F24(ZEBRA)|hoofed animals: zebra
+25F29(KANGAROO)|other mammals: kangaroo
+25F29(SLOTH)|other mammals: sloth
+25F32(TIT)|zangvogels: mees
+25F35(COCKATOO)|siervogel: kaketoe
+25F6(...)|vissen (met NAAM)
+25F711(DRAGON-FLY)|
+25F711(FLEA)|
+25F711(HORNET)|insekten: horzel
+25F711(LOUSE)|
+25F711(MOSQUITO)|insekten: mug
+25F713(...)|spinnen (met NAAM)
+25FF312|cockatrice, a two-legged dragon with a rooster's head
+25G21(BLACKBERRY)|vrucht: braam
+25G21(KAKI PERSIMMON)|vrucht: sharon fruit
+25G21(MULBERRY)|vrucht: moerbei
+25G21(OLIVE)|vrucht: olijf
+25G21(ORANGE)|vrucht: sinaasappel
+25G21(RASPBERRY)|vrucht: framboos
+25G3(ACER)|
+25G3(ASH-TREE)|
+25G3(CHERRY-TREE)|bomen: kersenboom
+25G3(INDIAN BANYAN)|
+25G3(OLEASTER)|
+25G3(PLUM TREE)|bomen: pruimenboom
+25G391|philosophical tree (Arbor philosophicus) ~ alchemy
+25G4(CACTUS)|
+25G4111|krans, guirlande
+25H182|een geploegde akker
+25H183|een akker met gewas
+26B4|regenbui, stortbui
+26C6|wind als een gezicht, blazend met bolle wangen
+29A2|
+31A22324|nier
+31A223624|vagina
+31A25362|
+31A25373|de oren bedekken
+31A25434|
+31A27113|wandelen
+31A283|een man in gevecht met zijn eigen schaduw
+31A3420|allegorische of symbolische voorstelling van zoete smaak
+31A3450|allegorische of symbolische voorstelling van bitterheid
+31A4191|persoon met één arm
+31A4626|aids
+31A511111|distortion
+31A51511|tatoeage
+31A53421|bakkebaarden
+31A5455|stoombad
+31A59|
+31A623|faeces, uitwerpsel
+31A731|rebis, the divine hermaphrodite, reconciliation of spirit and matter ~ alchemy
+31A74|transgender, transsexual
+31AA4626|aids - AA - aids epidemie
+31AA511111|vervorming - AA - (voor) vrouwen
+31B0|
+31B531|alcoholisme
+31D1129|philosophical child ~ alchemy
+31F12|bones (symbol of Death)
+33B33|klap in het gezicht
+34A111|kortwieken
+34B1311|lege vogelkooi

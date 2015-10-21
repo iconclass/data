@@ -1,0 +1,201 @@
+41A414|goudleerbehang
+41A7122|boekenplanken
+41A71221|boekenkast, voorzien van deuren
+41A735|
+41A7351|sleutel ~ meubels
+41A7352|bolt ~ furniture
+41A7353|hangslot ~ meubels
+41A77111|
+41B372|neonlamp, neonbuis
+41B6|ventilatiesystemen
+41B61|luchtschacht, luchtkoker
+41C27(CAULDRON)|
+41C27(COLANDER)|keukengerei: schuimspaan
+41C27(FRYING PAN)|
+41C27(GRATER)|
+41C27(LADLE)|
+41C27(PAN)|
+41C27(POT)|
+41C27(ROLLING-PIN)|keukengerei: deegrol
+41C27(SKIMMER)|
+41C323(...)|glas (met NAAM)
+41C323(BERKEMEYER)|glas: berkemeier
+41C323(PASGLAS)|glas: pasglas
+41C7134|brandewijn
+41D211(...)|
+41D211(BALL GOWN)|
+41D211(CHEMISE À LA REINE)|
+41D211(COURT GOWN)|
+41D211(DAY DRESS)|
+41D211(DINNER DRESS)|
+41D211(EVENING DRESS)|
+41D211(MANTEAU)|
+41D211(MORNING DRESS)|
+41D211(REDINGOTE)|
+41D211(ROBE À L’ANGLAISE)|
+41D211(ROBE VOLANTE)|
+41D211(ROBE À L'ANGLAISE)|
+41D211(ROBE À LA CIRCASSIENNE)|
+41D211(ROBE À LA FRANÇAISE)|
+41D211(ROBE À LA LÉVITE)|
+41D211(ROBE À LA POLONAISE)|
+41D211(WALKING DRESS)|
+41D2121|jas
+41D2121(...)|jas (met NAAM)
+41D2121(BOLERO)|jas: bolero
+41D2121(CARACO)|jas: caraco
+41D2121(OVERCOAT)|jas: overjas
+41D21211|kamerjas, huisjas
+41D21211(...)|huisjas (met NAAM)
+41D21211(BANYAN)|huisjas: japonse rok
+41D2122|cape
+41D2122(...)|cape (met NAAM)
+41D2122(MANTELET)|cape: mantelet
+41D213|ensemble, bestaand uit meerdere kledingstukken
+41D213(...)|
+41D213(SAILOR SUIT)|ensemble, bestaand uit meerdere kledingstukken: matrozenpak
+41D221(BERET)|
+41D221(BICORNE)|
+41D221(BOATER)|
+41D221(BOWLER)|
+41D221(CAP)|
+41D221(CLOCHE HAT)|
+41D221(FONTANGE)|
+41D221(HAT)|
+41D221(HOOD)|
+41D221(MORNING CAP)|
+41D221(TOP HAT)|
+41D221(TOQUE)|
+41D221(TRICORNE)|
+41D221(TURBAN)|
+41D222(COLLAR)|
+41D222(JABOT)|
+41D223(BLOUSE)|
+41D2231(...)|
+41D225(...)|
+41D231(...)|broek (met NAAM)
+41D232(...)|
+41D23322|slippers
+41D244|fantasiekostuum
+41D2512(CORSET)|
+41D2513(BLOOMERS)|
+41D26(...)|andere kledingaccesoires (met NAAM)
+41D2646|ritssluiting
+41D268(...)|
+42A4213|
+42B54|
+42B541|
+42B542|
+43C39612|
+44B114(DOGE)|andere vorsten: doge
+44B2113|staatssecretaris
+44B5121|
+44B5122|
+44G3110|
+44G321(BIRCH ROD)|martelwerktuigen, instrumenten voor lijfstraffen: roede
+44G321(CROSS)|
+44G321(GALLOWS)|Martelinstrumenten, executiewerktuigen: galg
+45C131|parts of hacking and thrusting weapons
+45C131(...)|parts of hacking and thrusting weapons (with NAME)
+45C131(BLADE)|parts of hacking and thrusting weapons: blade
+45C131(GRIP)|
+45C131(GUARD)|parts of hacking and thrusting weapons: guard
+45C131(POMMEL)|parts of hacking and thrusting weapons: pommel
+45C15(CROSSBOW)|
+46B133|toonbank
+46B3521|brochure
+46C11213|ophaalbrug
+46C1160|
+46C215(WINDLASS)|
+46C29231|
+47D311|wieken
+47D411|schoepraderen
+47D7(HOPPER)|onderdelen van machines: maalkuip
+47H56|
+47K14|haringvisserij
+47K42|visnet
+48C1614|
+48C1615|
+48C34(POTTER'S WHEEL)|tools, implements of craftsman: potter's wheel
+48C5157|schildersstok
+48C7356(CONCH)|andere blaasinstrumenten: schelp
+48C737(...)|
+48C737(RUMBLING-POT)|geïmproviseerde muziekinstrumenten: rommelpot
+48C85431(COLOMBINE)|types in 'commedia dell'arte': Colombina
+48CC7356(CONCH)|andere blaasinstumenten: schelp - CC - buiten
+49D11(666)|getallen: 666
+49D342(RHOMBUS)|regelmatige vierhoek: ruit
+49D363|omtrek van een cirkel
+49D364|straal van een cirkel
+49D365|middelpunt van een cirkel
+49D366|diameter van een cirkel
+49D541|laptop, notebook
+49D542|tablet computer
+49E2515|stereoscoop
+49E255|
+49E3911|
+49E3912|alchemist op zoek naar de Steen der Wijzen
+49E3913|alchemist failing at work
+49E393|alchemistic equipment
+49E3931|alchemistic vessels
+49E3931(...)|
+49E39311|bottles (ampullae)
+49E39311(...)|bottles (ampullae) (with NAME)
+49E39311(OVUM PHILOSOPHICUM)|bottle: philosophical egg (ovum philosophicum)
+49E39312|flasks (cucurbitae)
+49E39312(...)|flasks (cucurbitae) (with NAME)
+49E39313|pots, jars (ollae)
+49E39313(...)|
+49E3932|alchemistic furnace
+49E3932(...)|alchemistic furnace (with NAME)
+49E3932(ASSAY FURNACE)|assay furnace
+49E3932(ATHANOR)|athanor
+49E3933|alchemistic bath (balneum)
+49E3939|other alchemistic equipment
+49E3939(...)|other alchemistic equipment (with NAME)
+49E394|
+49E3941|Sulphur ~ alchemistic substance
+49E3942|Mercury ~ alchemistic substance
+49E39421|Philosophical Mercury ~ alchemistic substance
+49E394211|Bird of Hermes
+49E3943|Sal ~ alchemistic substance
+49E3944|Prima Materia
+49E3945|Steen der Wijzen (Lapis philosophorum)
+49E39451|Quintessence
+49E39452|
+49E39453|the Red Stone
+49E3946|Levenselixer
+49E39461|Panacea ~ alchemistic substance
+49E3949|other substances
+49E3949(...)|other substances (with NAME)
+49E395|alchemistische processen
+49E3951|Magnum opus: the four original stages of transmutation
+49E39511|nigredo (blackening)
+49E39512|albedo (whitening)
+49E39513|citrinitas (yellowing)
+49E39514|rubedo (reddening)
+49E3952|Magnum opus: additional stages of transmutation
+49E3952(...)|Magnum opus: additional stages of transmutation (with NAME)
+49E3952(CALCINATION)|additional stages: calcination
+49E3952(CIBATION)|additional stages: cibation
+49E3952(COAGULATION)|additional stages: coagulation (fixation)
+49E3952(CONJUNCTION)|other stages: conjunction (chemical wedding)
+49E3952(DISTILLATION)|additional stages: distillation (destillatio)
+49E3952(EXALTATION)|additional stages: exaltation
+49E3952(MULTIPLICATION)|additional stages: multiplication
+49E3952(PROJECTION)|additional stages: projection
+49E3952(PUTREFACTION)|additional stages: putrefaction (fermentation)
+49E3952(SEPARATION)|additional stages: separation or division
+49E3952(SOLUTION)|additional stages: solution (or dissolution)
+49E3952(SUBLIMATION)|additional stages: sublimation
+49E3953|
+49E3954|interaction or reaction of alchemistic substances
+49E39541|exchange of chemical properties (e.g. wet for dry)
+49E39542|evaporation of solvent
+49E39543|interaction between (pairs of) opposites
+49E395431|Mercury and Sulphur ~ Luna and Sol
+49G441|ambulance, ziekenwagen
+49G914|slangen, kikkers, spinnen, etc. eten
+49L33|spiegelschrift
+49L6411|notitieboekje
+49L64511|Emerald Tablet ~ alchemy

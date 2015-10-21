@@ -1,0 +1,11 @@
+11D3124|
+11P315(AUGUSTINIANS)|kloosterorden, het kloosterleven: Augustijnen
+11P315(BENEDICTINES)|kloosterorden, het kloosterleven: Benedictijnen
+11P315(CARMELITES)|kloosterorden, kloosterleven: Carmelieten
+11P315(CARTHUSIANS)|kloosterorden, het kloosterleven: Kartuizers
+11P315(CISTERCIANS)|kloosterorden, het kloosterleven: Cisterciënsers
+11P315(DOMINICANS)|kloosterorden, het kloosterleven: Dominicanen
+11P315(FRANCISCANS)|kloosterorden, het kloosterleven: Franciscanen
+11P315(PRAEMONSTRATENSIANS)|kloosterorden, het kloosterleven: Praemonstratensen
+11Q73215|doopjurk
+11Q732452|
