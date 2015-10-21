@@ -1,4 +1,3 @@
-45G|defensive measures (military)
 4|yhteiskunta, sivilisaatio, kulttuuri
 41|jokapäiväisen elämän aineelliset aspektit
 41A|asuminen
@@ -494,6 +493,7 @@
 41C265|ornamenting, decorating, dressing (preparing food)
 41C269|washing up
 41C27|keittiövälineet
+41C27(...)|keittiövälineet (NIMEN kanssa)
 41C27(CAULDRON)|
 41C27(COLANDER)|
 41C27(FRYING PAN)|
@@ -3167,6 +3167,7 @@
 45F8|challenging the enemy
 45F9|treason
 45F90|'Tradimento' (Ripa)
+45G|defensive measures (military)
 45G1|cutting communication lines and making obstructions
 45G11|removing beacons, roadsigns, etc. (defensive measures)
 45G12|obstructions, barricades (defensive measures)

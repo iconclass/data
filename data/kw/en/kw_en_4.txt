@@ -1,10 +1,3 @@
-45G|civilization
-45G|culture
-45G|defending
-45G|military affairs
-45G|occupations
-45G|society
-45G|war
 4|civilization
 4|culture
 4|society
@@ -4723,6 +4716,13 @@
 45F9|treason
 45F90|Ripa
 45F90|Tradimento
+45G|civilization
+45G|culture
+45G|defending
+45G|military affairs
+45G|occupations
+45G|society
+45G|war
 45G1|communication
 45G1|cutting
 45G11|beacon

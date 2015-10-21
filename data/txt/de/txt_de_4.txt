@@ -1,4 +1,3 @@
-45G|defensive Maßnahmen (beim Militär)
 4|Gesellschaft, Zivilisation, Kultur
 41|materielle Aspekte des Alltagslebens
 41A|wohnen
@@ -496,6 +495,7 @@
 41C265|verzieren, dekorieren (zubereitung von Lebensmitteln)
 41C269|abwaschen
 41C27|Küchengeräte
+41C27(...)|Küchengeräte (mit NAMEN)
 41C27(CAULDRON)|Küchengeräte: Kessel
 41C27(COLANDER)|Küchengeräte: Seiher
 41C27(FRYING PAN)|Küchengeräte: Bratpfanne
@@ -3172,6 +3172,7 @@
 45F8|den Feind herausfordern
 45F9|(Landes-)Verrat
 45F90|Ripa: Tradimento
+45G|defensive Maßnahmen (beim Militär)
 45G1|feindliche Kommunikation verhindern und Hindernisse errichten
 45G11|Leuchtfeuer, Wegweiser etc. beseitigen (defensive Maßnahmen)
 45G12|Hindernisse, Barrikaden (defensive Maßnahmen)
