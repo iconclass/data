@@ -6804,6 +6804,7 @@
 73F417|lettera di Paolo ai Tessalonicesi
 73F42|lettere di Paolo a singole persone
 73F421|lettera di Paolo a Timoteo
+73F421(...)|lettera di Paolo a Timoteo (con lettera, capitolo e versi)
 73F422|lettera di Paolo a Tito
 73F423|lettera di Paolo a Filemone
 73F43|lettera (di Paolo) agli Ebrei
