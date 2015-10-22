@@ -1,10 +1,3 @@
-45G|civilizzazione
-45G|cultura
-45G|difendere
-45G|guerra
-45G|occupazioni
-45G|società
-45G|vita militare
 4|civilizzazione
 4|cultura
 4|società
@@ -4863,6 +4856,13 @@
 45F9|tradire
 45F90|Ripa
 45F90|Tradimento
+45G|civilizzazione
+45G|cultura
+45G|difendere
+45G|guerra
+45G|occupazioni
+45G|società
+45G|vita militare
 45G1|comunicazione
 45G1|tagliare
 45G11|cartello stradale

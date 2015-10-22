@@ -1,4 +1,3 @@
-45G|misure difensive (militari)
 4|società, civilizzazione, cultura
 41|aspetti materiali della vita quotidiana
 41A|abitare
@@ -496,6 +495,7 @@
 41C265|ornare, decorare, rivestire (preparazione del cibo)
 41C269|rigovernare
 41C27|utensili da cucina
+41C27(...)|utensili da cucin (col NOME)
 41C27(CAULDRON)|utensili da cucina: calderone
 41C27(COLANDER)|utensili da cucina: colino
 41C27(FRYING PAN)|utensili da cucina: padella
@@ -3172,6 +3172,7 @@
 45F8|provocazione, sfida al nemico
 45F9|tradimento
 45F90|'Tradimento' (Ripa)
+45G|misure difensive (militari)
 45G1|interruzione delle linee di comunicazione; creazione di ostacoli
 45G11|rimozione di fari, segnali stradali, ecc. (misure difensive)
 45G12|ostacoli, ostruzioni, barricate (misure difensive militari)

@@ -6804,6 +6804,7 @@
 73F417|die Briefe des Paulus an die Thessalonicher
 73F42|Briefe des Paulus an verschiedene Personen
 73F421|die Briefe des Paulus an Timotheus
+73F421(...)|die Briefe des Paulus an Timotheus (mit BUCH, KAPITEL, VERS)
 73F422|der Brief des Paulus an Titus
 73F423|der Brief des Paulus an Philemon
 73F43|der Brief (des Paulus?) an die Hebräer

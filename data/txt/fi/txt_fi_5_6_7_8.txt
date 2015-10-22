@@ -6801,7 +6801,7 @@
 73F416|epistle of Paul to the Colossians
 73F417|epistles of Paul to the Thessalonians
 73F42|epistles of Paul to particular persons
-73F421|epistles of Paul to Timothy
+73F421(...)|epistles of Paul to Timothy (with BOOK CHAPTER:VERSE)
 73F422|epistle of Paul to Titus
 73F423|epistle of Paul to Philemon
 73F43|epistle (of Paul) to the Hebrews
