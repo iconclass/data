@@ -4,16 +4,15 @@ redis_c = redis.StrictRedis()
 
 __version__ = 1
 
-DATA_ROOT_DIR = './data'
+DATA_ROOT_DIR = '../data/'
 
 WITH_NAME_MATCH = re.compile(r'\((?!\.\.\.)[^+]+\)')
 BRACKETS = re.compile(r'\([\w ]+?\)') 
 SPLITTER = re.compile(r'(\(.+?\))')
 
-def read_dbtxt(filename):    
-    if not os.path.exists(filename): return {}    
+def read_dbtxt(input_data):
     data = {}
-    for chunk in open(filename).read().split('\n$'):
+    for chunk in input_data.split('\n$'):
         obj = parse_dbtxt(chunk)
         notation = obj.get('n')
         if notation:
@@ -21,21 +20,24 @@ def read_dbtxt(filename):
     return data
 
 def prime_redis():
-    sys.stderr.write('Reading structure\n')
-    read_structure()
-    sys.stderr.write('Reading textual correlates\n')
-    read_textual_correlates()
-    sys.stderr.write('Reading keywords\n')
-    read_keywords()
-    sys.stderr.write('Reading keys\n')
-    read_keys()
+    for dirpath, dirs, files in os.walk(DATA_ROOT_DIR):
+        for filename in files:
+            if filename == 'notations.txt':
+                read_structure(open(os.path.join(dirpath, filename)).read())
+            elif filename == 'keys.txt':
+                read_keys(open(os.path.join(dirpath, filename)).read())
+            elif filename.startswith('kw_'):
+                language = filename[3:5]
+                read_keywords(open(os.path.join(dirpath, filename)).read(), language)
+            elif filename.startswith('txt_'):
+                language = filename[4:6]
+                read_textual_correlates(open(os.path.join(dirpath, filename)).read(), language)
 
-def read_keys():
-    if not os.path.exists(DATA_ROOT_DIR +'/keys.txt'): return
+
+def read_keys(input_data):
     buf = {}
     keys = {}
-    filedata = open(DATA_ROOT_DIR +'/keys.txt').read()    
-    for line in filedata.split('\n'):
+    for line in input_data.split('\n'):
         if line == '$':
             txt = {}
             for k,v in buf.items():
@@ -55,8 +57,8 @@ def read_keys():
     for k,v in keys.items():
         redis_c.set(k, json.dumps(v))
 
-def read_structure():    
-    data = read_dbtxt(DATA_ROOT_DIR + '/notations.txt')
+def read_structure(input_data):
+    data = read_dbtxt(input_data)
     idx = 0
     for notation, obj in data.items():
         for k,v in obj.items():
@@ -69,62 +71,38 @@ def read_structure():
         if idx % 1000 == 0:
             sys.stderr.write('%s           \r' % idx)
             
-def read_keywords(language=None):
-    languagefiles = []
-    for dirpath, dirs, files in os.walk(DATA_ROOT_DIR + '/kw/'):
-        for filename in files:
-            if not filename.startswith('kw_'): continue
-            if not language: languagefiles.append(os.path.join(dirpath, filename))
-            if language and language == filename[3:5]:
-                languagefiles.append(os.path.join(dirpath, filename))
+def read_keywords(input_data, language):
     idx = 0
     data = {}
-    sys.stderr.write('Reading keywords into memory\n')
-    for filename in languagefiles:
-        tmp = filename.split('kw_')
+
+    for line in input_data.split('\n'):
+        line = line.strip()
+        tmp = line.split('|')
         if len(tmp) != 2:
-            raise Exception('Language detection from filename failed, split on kw_ is not two chunks: ' +filename)
-        language = tmp[1][:2]
-        for line in open(filename).read().split('\n'):
-            line = line.strip()
-            tmp = line.split('|')
-            if len(tmp) != 2:
-                continue
-            notation, keyword = tmp
-            data.setdefault(notation, {}).setdefault(language, []).append(keyword)
-    sys.stderr.write('Putting keywords into redis\n')
-    for notation, languages in data.items():
-        for language, v in languages.items():
-            redis_c.hset(notation, "kw_" + language, '\n'.join(v))
-            idx += 1
-            if idx % 1000 == 0:
-                sys.stderr.write('%s           \r' % idx)
+            continue
+        notation, keyword = tmp
+        data.setdefault(notation, []).append(keyword)
+
+    for notation, v in data.items():
+        redis_c.hset(notation, "kw_" + language, '\n'.join(v))
+        idx += 1
+        if idx % 1000 == 0:
+            sys.stderr.write('%s           \r' % idx)
 
 
-def read_textual_correlates(language=None):
-    languagefiles = []
-    for dirpath, dirs, files in os.walk(DATA_ROOT_DIR + '/txt/'):
-        for filename in files:
-            if not filename.startswith('txt_'): continue
-            if not language: languagefiles.append(os.path.join(dirpath, filename))
-            if language and language == filename[4:6]:
-                languagefiles.append(os.path.join(dirpath, filename))
+def read_textual_correlates(input_data, language):
     idx = 0
-    for filename in languagefiles:
-        tmp = filename.split('txt_')
+    for line in input_data.split('\n'):
+        line = line.strip()
+        tmp = line.split('|')
         if len(tmp) != 2:
-            raise Exception('Language detection from filename failed, split on txt_ is not two chunks: ' +filename)
-        language = tmp[1][:2]
-        for line in open(filename).read().split('\n'):
-            line = line.strip()
-            tmp = line.split('|')
-            if len(tmp) != 2:
-                continue
-            notation, text = tmp
-            redis_c.hset(notation, "txt_"+language, text)
-            idx += 1
-            if idx % 1000 == 0:
-                sys.stderr.write('%s           \r' % idx)
+            continue
+        notation, text = tmp
+        redis_c.hset(notation, "txt_"+language, text)
+        idx += 1
+        if idx % 1000 == 0:
+            sys.stderr.write('%s           \r' % idx)
+
 
 def parse_dbtxt(data):
     obj = {}
@@ -367,7 +345,7 @@ def hier(notation):
         return
     if not obj:
         raise Exception('Object %s does not exist' % notation)
-    sys.stderr.write( '%s\t%s\r' % (notation.encode('utf8'), obj.get('txt', {}).get('en').encode('utf8')[:70]) )
+    sys.stderr.write( '%20s\t%s\r' % (notation.encode('utf8'), obj.get('txt', {}).get('en').encode('utf8')[:70]) )
     for c in obj.get('c', []):
         hier(c)
 
