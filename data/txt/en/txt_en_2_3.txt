@@ -3290,6 +3290,7 @@
 31AA2537|hand(s) towards the ear(s) - AA - both arms or hands
 31AA25371|cupping one's ear - AA - both arms or hands
 31AA25372|scratching one's ear - AA - both arms or hands
+31AA25373|covering one's ear - AA - both arms or hands
 31AA254|postures and gestures of arm(s) and hand(s) in relation to another person - AA - both arms or hands
 31AA2541|gripping someone by the arm - AA - both arms or hands
 31AA25411|walking arm in arm - AA - both arms or hands
