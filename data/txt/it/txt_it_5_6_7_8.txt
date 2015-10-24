@@ -4015,6 +4015,8 @@
 71O134|Amos vede un canestro di frutta
 71O135|Amos vede il Signore presso l'altare che ordina la sua distruzione
 71O14|Amos viene ucciso da Amazia, un sacerdote di Betel
+71O19|altre scene ~ Amos
+71O19(...)|altre scene ~ Amos (con libro, capitolo e versetti tra parentesi)
 71O2|il libro di Osea
 71O21|il Signore parla a Osea: 'Và, prendi in moglie una prostituta...' (Os. 1, 2)
 71O22|Osea, Gomer e i tre figli (Os. 1, 3-11)
