@@ -10112,6 +10112,10 @@
 49E3946|Elixir Vitae
 49E3946|Lebenselixir
 49E39461|Panacea
+49E3949(ANTIMONY)|Antimon
+49E3949(SAL AMMONIAC)|Salmiak
+49E3949(SAL AMMONIAC)|Ammoniumchlorid
+49E3949(VITRIOL)|Vitriol
 49E395|Prozess
 49E3951|Abschnitt
 49E3951|Magnum opus

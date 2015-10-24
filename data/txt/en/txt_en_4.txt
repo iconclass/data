@@ -6130,6 +6130,9 @@
 49E39461|Panacea ~ alchemistic substance
 49E3949|other substances
 49E3949(...)|other substances (with NAME)
+49E3949(ANTIMONY)|other substances: antimony
+49E3949(SAL AMMONIAC)|other substances: sal ammoniac
+49E3949(VITRIOL)|other substances: vitriol
 49E395|alchemistic processes
 49E3951|Magnum opus: the four original stages of transmutation
 49E39511|nigredo (blackening)

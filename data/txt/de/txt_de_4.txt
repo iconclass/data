@@ -6126,6 +6126,9 @@
 49E39461|Panacea ~ alchemistische Substanz
 49E3949|andere Substanzen
 49E3949(...)|andere Substanzen (mit NAMEN)
+49E3949(ANTIMONY)|andere Substanzen: Antimon
+49E3949(SAL AMMONIAC)|andere Substanzen: Salmiak (Ammoniumchlorid)
+49E3949(VITRIOL)|andere Substanzen: Vitriol
 49E395|alchemistische Prozesse
 49E3951|Magnum opus: die vier ursprünglichen Stufen der Transmutation
 49E39511|Nigredo (Schwärzung
@@ -6135,7 +6138,6 @@
 49E3952|Magnum opus: zusätzliche Stufen der Transmutation
 49E3952(...)|Magnum opus: zusätzliche Stufen der Transmutation (mit NAME)
 49E3952(CALCINATION)|zusätzliche Stufen: Calcinatio (Kalzinierung)
-
 49E3952(CIBATION)|andere Stufen: Cibatio
 49E3952(COAGULATION)|andere Stufen: Coagulatio oder Fixatio (Gerinnung)
 49E3952(CONJUNCTION)|andere Stufen: Coniunctio (Chemische Hochzeit)
