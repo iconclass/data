@@ -9622,14 +9622,14 @@
 11P31441(...)|congregations ~ Roman Catholic church (with NAME)
 11P315|monastic orders, monastic life ~ Roman Catholic church
 11P315(...)|monastic orders, monastic life ~ Roman Catholic church (with NAME of order)
-11P315(AUGUSTINIANS)|monastic orders, monastic life: Augustinians
-11P315(BENEDICTINES)|monastic orders, monastic life: Benedictines
-11P315(CARMELITES)|monastic orders, monastic life: Carmelites
-11P315(CARTHUSIANS)|monastic orders, monastic life: Carthusians
-11P315(CISTERCIANS)|monastic orders, monastic life: Cistercians
-11P315(DOMINICANS)|monastic orders, monastic life: Dominicans
-11P315(FRANCISCANS)|monastic orders, monastic life: Franciscans
-11P315(PRAEMONSTRATENSIANS)|monastic orders, monastic life: Praemonstratensians
+11P315(AUGUSTINIANS)|kloosterorden, het kloosterleven: Augustijnen
+11P315(BENEDICTINES)|kloosterorden, het kloosterleven: Benedictijnen
+11P315(CARMELITES)|kloosterorden, kloosterleven: Carmelieten
+11P315(CARTHUSIANS)|kloosterorden, het kloosterleven: Kartuizers
+11P315(CISTERCIANS)|kloosterorden, het kloosterleven: Cisterciënsers
+11P315(DOMINICANS)|kloosterorden, het kloosterleven: Dominicanen
+11P315(FRANCISCANS)|kloosterorden, het kloosterleven: Franciscanen
+11P315(PRAEMONSTRATENSIANS)|kloosterorden, het kloosterleven: Praemonstratensen
 11P3151|abbey, monastery, convent ~ Roman Catholic church
 11P31511|cell ~ monastery
 11P31512|dormitory ~ monastery
@@ -9962,7 +9962,7 @@
 11Q73212|lay-baptism
 11Q73213|godfather and godmother
 11Q73214|baptismal font
-11Q73215|baptism, christening gown
+11Q73215|doop, doopjurk
 11Q7322|confirmation ~ the second of the seven sacraments
 11Q7323|confession; 'Confessione Sacramentale' (Ripa) ~ the third of the seven sacraments
 11Q73231|symbols of confession
