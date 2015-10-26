@@ -1,6 +1,6 @@
-4|Society, Civilization, Culture
-41|material aspects of daily life
-41A|housing
+4|NL = Maatschappij, civilisatie en cultuur
+41|NL = materiële aspecten van het dagelijks leven
+41A|NL = huis en huishouding
 41A1|civic architecture; edifices; dwellings
 41A10|'Edifitio overo un sito' (Ripa)
 41A11|palace
@@ -216,7 +216,6 @@
 41A712|shelves, rack, sideboard
 41A7121|what-not
 41A7122|bookshelves
-
 41A71221|bookcase, with doors
 41A713|cover for table, etc.
 41A72|seating furniture
@@ -257,7 +256,7 @@
 41A77|containers
 41A771|container of metal: bucket, can, canister, drum, tin, etc.
 41A7711|container of precious metal
-41A77111|
+41A77111
 41A772|container of stone: stone vase
 41A7721|container of (semi-)precious stone
 41A773|container of ceramics: jar, jug, pot, vase
@@ -346,7 +345,7 @@
 41AA337|view through a window - AA - feigned window
 41AA3371|view through a window from the outside - AA - feigned window
 41AA3372|view through a window from the inside - AA - feigned window
-41B|heating, lighting, ventilating
+41B|NL = verwarming en licht
 41B1|open fire (in general)
 41B11|kindling a fire
 41B111|flint and steel
@@ -436,7 +435,7 @@
 41B6|ventilation systems
 41B61|airshaft
 41BB32|torch - BB - torch held upside down
-41C|nutrition, nourishment
+41C|NL = eten en drinken
 41C1|eating and drinking
 41C10|gastronomy, the art of eating and drinking
 41C11|eating
@@ -525,7 +524,6 @@
 41C3221|goblet foot
 41C323|glass, rummer
 41C323(...)|glass, rummer (with NAME)
-
 41C323(BERKEMEYER)|glass, rummer: berkemeyer
 41C323(PASGLAS)|glass, rummer: pasglas
 41C324|tankard
@@ -749,7 +747,7 @@
 41CC51|banquet of elegant company - CC - out of doors
 41CC52|carousal, drinking-bout, orgy - CC - out of doors
 41CC520|'Crapula' (Ripa) - CC - out of doors
-41D|fashion, clothing
+41D|NL = kleding en mode
 41D1|fashion
 41D11|fashion plates
 41D12|fashion show
@@ -771,7 +769,7 @@
 41D211(CHEMISE À LA REINE)|dress, gown: chemise à la Reine
 41D211(COURT GOWN)|dress, gown: court gown or court dress
 41D211(DAY DRESS)|dress, gown: day dress
-41D211(DINNER DRESS)|dress, gown: dinner dress 
+41D211(DINNER DRESS)|dress, gown: dinner dress
 41D211(EVENING DRESS)|dress, gown: evening dress
 41D211(MANTEAU)|dress, gown: manteau
 41D211(MORNING DRESS)|dress, gown: morning dress
@@ -783,7 +781,6 @@
 41D211(ROBE À LA FRANÇAISE)|dress, gown: robe à la française
 41D211(ROBE À LA LÉVITE)|dress, gown: robe à la lévite
 41D211(ROBE À LA POLONAISE)|dress, gown: robe à la polonaise
-
 41D211(WALKING DRESS)|dress, gown: walking dress
 41D212|coat, cape
 41D2121|coat
@@ -969,11 +966,11 @@
 41D99|being ashamed (of one's nakedness)
 41D991|attempt to cover one's nakedness
 41DD121|model, mannequin - DD - male model
-41E|still life of miscellaneous objects
+41E|NL = stilleven (algemeen)
 41E1|still life of related objects
 41E2|'trompe l'oeil'
-42|family, descendance
-42A|procreation, birth and (early) youth
+42|NL = familie
+42A|NL = geboorte en eerste jeugd
 42A1|procreation and pregnancy
 42A11|conception, impregnation
 42A12|pregnant woman
@@ -1123,7 +1120,7 @@
 42AA571|child running errands - AA - girl
 42AA58|shock-headed Peter, 'Struwwelpeter' - AA - girl
 42AA59|bogey-man, bugaboo - AA - girl
-42B|parents with their children
+42B|NL = ouders en hun kinderen
 42B1|parental love
 42B11|father-love
 42B111|father with son(s) (father-love)
@@ -1201,12 +1198,12 @@
 42B831|the good child
 42B832|the naughty child
 42B9|child (young man, young woman) leaving his (her) parents
-42C|period of adolescence
+42C|NL = adolescentie
 42C1|initiation usages for young men
 42C2|initiation usages for young women
 42C21|'débutante'
 42C3|maiden versus married woman
-42D|betrothal and marriage
+42D|NL = verloving en huwelijk
 42D1|betrothal
 42D11|proposal, declaration of love
 42D111|man kneeling before his beloved (proposing)
@@ -1349,7 +1346,7 @@
 42DD5|divorce - DD - married woman given to another man, e.g. by her father
 42DD7|mistress - DD - cicisbeo
 42DD71|concubine - DD - cicisbeo
-42E|burial rites
+42E|NL = dood en begrafenis
 42E1|preparation of the corpse, mortuary toilet ~ burial
 42E11|washing and dressing of the corpse
 42E111|shroud
@@ -1464,7 +1461,7 @@
 42E54|provisions for support of spouse and children
 42E541|insurance (provision for support of spouse and children)
 42EE224|'pleurants' - EE - female
-42F|household management; housewife at work
+42F|NL = het huishouden
 42F0|Economy; 'Economia', 'Providenza dell'annona' (Ripa)
 42F1|housewife
 42F11|housewife giving orders to servants
@@ -1499,7 +1496,7 @@
 42F9|badly run house
 42F91|a perfect shambles (Dutch: 'huishouden van Jan Steen')
 42F92|slovenly housewife, 'Vrou(w) Lor(t)s'
-42G|family, relationship, descent
+42G|NL = de familie
 42G1|family lineage, pedigree, genealogical tree or table
 42G11|series of ancestral portraits, 'Ahnengalerie'
 42G2|family relationships (first, second, third and fourth degree), generations
@@ -1531,7 +1528,7 @@
 42G244|second cousins (fourth degree family relationships)
 42G245|great-great grandchildren (fourth degree family relationships)
 42G29|incest
-42Z|exotic and non-monogamous family forms
+42Z|NL = exotische en niet monogame familievormen
 42Z1|polygamy
 42Z11|harem
 42Z111|odalisque
@@ -1541,8 +1538,8 @@
 42Z3|communal marriages
 42Z31|'Weibergemeinschaft'
 42Z32|family or group marriage ('Punalua')
-43|recreation, amusement
-43A|festivities
+43|NL = recreatie en amusement
+43A|NL = feesten
 43A1|periodic celebrations, popular feasts
 43A11|calendar festivals, non-liturgical celebrations of days belonging to the ecclesiastical calendar
 43A12|non-liturgical celebrations of Christmas, carnival and Easter
@@ -1708,7 +1705,7 @@
 43AA46|activities in the air ~ public festivities, e.g. fly-past - AA - festivities on the water
 43AA49|public funeral - AA - festivities on the water
 43AA491|catafalque, 'castrum doloris' (~ public funeral) - AA - festivities on the water
-43B|recreation
+43B|NL = recreatie
 43B1|enjoying nature
 43B11|contemplating nature
 43B12|picnic, alfresco, 'déjeuner sur l'herbe'
@@ -1755,7 +1752,7 @@
 43B613|seesaw
 43B7|zoo (as place of recreation)
 43B8|collection, exhibition, show
-43C|sports, games and physical performances
+43C|NL = sport, spelen en fysieke activiteiten
 43C1|sports, games ~ animals
 43C11|hunting, chase
 43C111|game, hunted animals
@@ -2243,11 +2240,11 @@
 43CC7373|throwing snowballs - CC - adult(s) ~ snow and ice
 43CC7374|with chair on ice - CC - adult(s) ~ snow and ice
 43CC7379|going through the ice ~ playing children - CC - adult(s) ~ snow and ice
-43D|other leisure time activities
+43D|NL = andere vormen van vrijetijdsbesteding
 43D1|handicrafts, hobbies (leisure time activities)
 43D2|collecting (leisure time activity)
-44|state; law; political life
-44A|symbols of the state (in general)
+44|NL = de staat
+44A|NL = symbolen van de staat
 44A1|coat of arms (as symbol of the state, etc.)
 44A11|device (as symbol of the state, etc.)
 44A2|seal (as symbol of the state, etc.)
@@ -2260,7 +2257,7 @@
 44A5|symbols of particular nations, states, districts, etc.
 44A51|personifications of countries, nations, states, districts, etc.
 44A51(...)|personifications of countries, nations, states, districts, etc. (with NAME)
-44B|government, the State; 'Politica', 'Auttorità o Potestà' (Ripa)
+44B|NL = regering, de Staat
 44B0|governmental systems
 44B01|monarchy; 'Monarchia mondana' (Ripa)
 44B011|aristocracy; 'Aristocratia' (Ripa)
@@ -2562,7 +2559,7 @@
 44BB1971|imperial mantle (symbol of sovereignty) - BB - female ruler
 44BB1972|royal mantle (symbol of sovereignty) - BB - female ruler
 44BB198|pectoral (symbol of sovereignty) - BB - female ruler
-44C|the citizen and his rights
+44C|NL = de burger en zijn rechten
 44C1|nationality, citizenship
 44C11|patriotism
 44C110|'Amor della patria' (Ripa)
@@ -2601,7 +2598,7 @@
 44C59|censorship
 44C591|burning of books
 44C6|racial emancipation
-44D|administrative bodies
+44D|NL = administratieve organen
 44D1|registration bureau, civil registry
 44D2|taxes and financial administration
 44D20|'Datio overo Gabella' (Ripa)
@@ -2621,7 +2618,7 @@
 44D321|land parcelling
 44D4|official; civil servant; functionary (in general)
 44D4(...)|official; civil servant; functionary (in general) (with NAME of function)
-44E|government services, public services
+44E|NL = government services
 44E1|water-supply (~ public services)
 44E11|water tower
 44E12|purification system (~ water supply)
@@ -2641,7 +2638,7 @@
 44E6|food rationing
 44E61|rationing card
 44E62|soup-kitchen, cook-shop
-44F|revolution, revolt
+44F|NL = revolutie, opstand
 44F0|'Seditio'; 'Rebellione', 'Seditione civile' (Ripa)
 44F1|street-fights, riots
 44F11|barricades ~ riot
@@ -2689,7 +2686,7 @@
 44F741|reign of terror
 44F7411|'agent provocateur'
 44F7412|informing (~ reign of terror)
-44G|law and jurisprudence
+44G|NL = recht en rechtspraak
 44G0|symbols and allegories of jurisprudence
 44G01|symbols and allegories of law; 'Legge', 'Legge civile' (Ripa)
 44G02|'Rechtsdenkmäler'
@@ -2882,8 +2879,8 @@
 44GG562|piracy - GG - female
 44GG59|tools ~ criminals - GG - female
 44GG591|dark lantern - GG - female
-45|warfare; military affairs
-45A|war and peace
+45|NL = oorlogszaken, militaire zaken
+45A|NL = oorlog en vrede
 45A1|war
 45A10|symbols, allegories of war; 'Guerra' (Ripa)
 45A11|militarism
@@ -2918,7 +2915,7 @@
 45A6|fifth column
 45A61|sabotage by fifth column
 45A9|non-belligerents, neutrals
-45B|the soldier; the soldier's life
+45B|NL = soldatenleven
 45B1|soldier(s) before enlisting
 45B11|recruitment
 45B111|recruiter, crimp
@@ -3011,7 +3008,7 @@
 45B84|reunion, memorial gathering (~ veteran soldiers)
 45B9|desertion
 45B91|desertion to the enemy
-45C|(military) equipment and supply
+45C|NL = het leger: uitrusting en bevoorrading
 45C1|weapons
 45C10|'Arme' (Ripa)
 45C11|casting weapons
@@ -3115,7 +3112,7 @@
 45C9|military music
 45C91|military band
 45C92|(military) signals
-45D|insignia; division of armed forces; ranks
+45D|NL = militaire rangen
 45D1|(military) flags and standards
 45D11|insignia of companies, etc.
 45D12|(military) standard-bearer
@@ -3134,7 +3131,7 @@
 45D322|officer
 45D323|sailor
 45D33|ranks in the air force
-45E|communication and transport
+45E|NL = communicatie en transport
 45E1|communication (military)
 45E2|transport, train (military)
 45E3|military vehicles
@@ -3147,7 +3144,7 @@
 45E511|pontoon bridge
 45E512|Bailey bridge
 45E52|removing obstructions, barricades, etc. ~ army
-45F|preparation for battle
+45F|NL = voorbereiding op de strijd
 45F1|council of war
 45F11|plan of battle
 45F12|negotiations between combatants
@@ -3175,7 +3172,7 @@
 45F8|challenging the enemy
 45F9|treason
 45F90|'Tradimento' (Ripa)
-45G|defensive measures (military)
+45G|NL = verdedigingsmaatregelen
 45G1|cutting communication lines and making obstructions
 45G11|removing beacons, roadsigns, etc. (defensive measures)
 45G12|obstructions, barricades (defensive measures)
@@ -3195,7 +3192,7 @@
 45G1233|defensive balloons
 45G2|(military) self-protection
 45G21|underground shelters
-45H|battle, fighting in general
+45H|NL = de slag., het gevecht
 45H1|(military) attack
 45H11|signal to attack
 45H111|war-cry
@@ -3226,7 +3223,7 @@
 45HH52|putting out of action by wounding - HH - being put out of action
 45HH53|putting out of action by killing - HH - being put out of action
 45HH54|putting out of action by breaking the supply lines - HH - being put out of action
-45I|after the battle
+45I|NL = na de strijd
 45I1|prisoner of war (after the battle)
 45I11|surrender ~ prisoner of war
 45I12|disarmament ~ prisoner of war
@@ -3256,7 +3253,7 @@
 45I63|(conqueror) gripping the victim's hair
 45I7|the defeated (after the battle)
 45I71|the defeated before the victor
-45K|siege, position war
+45K|NL = overwinning
 45K1|fortifications, military engineering
 45K11|temporary fortifications
 45K111|trenches
@@ -3293,7 +3290,7 @@
 45K5|raising the siege
 45K51|raising the siege with outside assistance, relief
 45K52|liberation of besieged city
-45L|occupation ~ war
+45L|NL = bezetting
 45L1|surrender ~ war
 45L11|surrender of keys
 45L12|march into the conquered place
@@ -3312,7 +3309,7 @@
 45L41|demolishing (of conquered city)
 45L42|setting on fire (of conquered city)
 45L43|devastated, ruined place or city (~ warfare)
-45M|non-combatants ~ war
+45M|NL = oorlog: degenen die niet deelnemen aan de strijd
 45M1|non-combatants in military situations
 45M11|non-combatants on the battle-scene
 45M12|non-combatants during passage of soldiers
@@ -3328,8 +3325,8 @@
 45M52|fugitives resting, camping
 45M6|internment camp
 45M7|concentration camp
-46|social and economic life, transport and communication
-46A|communal life
+46|NL = nijverheid en industrie
+46A|NL = maatschappij, de sociale klassen: armen en rijken
 46A1|social stratification, social groups
 46A11|division into classes (~ society)
 46A111|the three Estates: nobility, clergy, commoners
@@ -3570,7 +3567,7 @@
 46AA636|chaos, disorderly procedure (~ meeting) - AA - in the open air
 46AA637|closing the meeting - AA - in the open air
 46AA638|assembly-room - AA - in the open air
-46B|trade, commerce and finance
+46B|NL = handel en financiën
 46B0|allegory of trade; 'Commertio della vita humana' (Ripa)
 46B1|locations for trading
 46B11|market
@@ -3709,7 +3706,7 @@
 46BB27|customer - BB - women engaged in trade and commerce
 46BB271|satisfied customer - BB - women engaged in trade and commerce
 46BB272|complaining customer - BB - women engaged in trade and commerce
-46C|traffic and transport
+46C|NL = verkeer en transport
 46C1|traffic on land
 46C11|road, path
 46C111|ford
@@ -3720,7 +3717,7 @@
 46C1121|bridges by construction
 46C11211|suspension bridge
 46C11212|cantilever bridge
-46C11213|bascule bridge 
+46C11213|bascule bridge
 46C1122|bridge forms
 46C11221|bridge with structure, i.e. cover or buildings
 46C113|viaduct
@@ -4154,7 +4151,7 @@
 46CC216|parts of ship's interior - CC - more than one ship
 46CC216(...)|parts of ship's interior (with NAME) - CC - more than one ship
 46CC219|improvised and unusual traffic on the water - CC - more than one ship
-46D|press, journalism
+46D|NL = de pers, journalistiek
 46D1|oral spreading of news, town crier
 46D2|distributing pamphlets
 46D3|newspaper, news-sheet
@@ -4168,7 +4165,7 @@
 46D52|journalist, reporter
 46D53|press photographer
 46D54|interviewing
-46E|post, telegraph and telephone; means of communication
+46E|NL = post, telegraaf, telefoon
 46E1|messenger
 46E11|messenger's box
 46E12|messenger's badge
@@ -4259,7 +4256,7 @@
 46E81|communication by means of 'statue parlanti', such as Marforio and Pasquino in Rome
 47|crafts and industries
 470|'Artes Mechanicae' (Lanificium, Armatura, Navigatio, Agricultura, Venatio, Medicina, Theatrica)
-47A|industrial structures
+47A|NL = industrie: structuren
 47A1|exterior of industrial structures, factories
 47A11|workshop
 47A12|factory-building
@@ -4273,7 +4270,7 @@
 47A22|factory-interior, machine shop
 47A221|assembly line
 47A23|laboratory, research room
-47B|handicrafts and industries
+47B|NL = handwerk en industrie
 47B1|handicrafts, craftsman at work
 47B11|handicrafts ~ metal
 47B111|smith, blacksmith
@@ -4364,7 +4361,7 @@
 47B27|chemical industry
 47B28|electronics industry
 47B29|other industries
-47C|industrial processes, handling of materials
+47C|NL = industriële processen; behandeling van materialen
 47C1|preparing, cleaning, sorting, selecting (industrial processes, handling of materials)
 47C11|laying out of material
 47C12|preparing of material
@@ -4452,7 +4449,7 @@
 47C732|chasing, embossing (industrial process)
 47C74|making the given form durable (industrial process)
 47C8|boring, drilling, piercing (industrial processes)
-47D|machines; parts of machines; tools and appliances
+47D|NL = machines, gereedschap
 47D1|machines, engines ~ crafts and industries
 47D2|machine driven by human or animal power
 47D21|handmill
@@ -4509,7 +4506,7 @@
 47D8(WEDGE)|tools, aids, implements ~ crafts and industries: wedge
 47D8(WINDLASS)|tools, aids, implements ~ crafts and industries: windlass
 47D9|loss, damage, destruction of machinery
-47E|organization of craft and industry
+47E|NL = de organisatie van nijverheid en industrie
 47E1|forms of production in craft and industry
 47E11|home production
 47E12|craft-production, skilled handiwork
@@ -4536,7 +4533,7 @@
 47E3|modern professional organization, trade union
 47E4|personnel in modern industry
 47E41|director, boss (in modern industry)
-47F|before and after production
+47F|NL = voor en na de productie
 47F1|planning, designing ~ production
 47F11|research, experiment (~ production)
 47F12|design, plan (~ production)
@@ -4552,7 +4549,7 @@
 47F9|loss, damage, destruction of products
 47F91|loss, damage, destruction of products during production
 47F92|loss, damage, destruction of products after production
-47G|building activities
+47G|NL = bouwactiviteiten
 47G1|building-site
 47G11|choosing the building-site
 47G111|building-site indicated by a miracle
@@ -4622,7 +4619,7 @@
 47G8|technological aspects of building
 47G9|demolition of building
 47G91|collapsing building
-47H|textile industry and clothing industry
+47H|NL = textielindustrie
 47H1|materials ~ textile industry
 47H11|linen (material ~ textile industry)
 47H111|flax (material ~ textile industry)
@@ -4692,7 +4689,7 @@
 47H74|clog-maker
 47H75|wigmaker, 'perruquier'
 47H76|making of feather attire
-47I|agriculture, cattle-breeding, horticulture, flowerculture, etc.
+47I|NL = landbouw, veeteelt en bloementeelt
 47I1|agriculture
 47I10|personification of agriculture, 'Agricultura'; 'Agricoltura', 'Studio dell'agricoltura' (Ripa)
 47I11|plants ~ agriculture
@@ -4880,7 +4877,7 @@
 47I872|beam, log of wood
 47I88|peat-cutting
 47I9|land-clearing, reclamation
-47K|commercial fishery
+47K|NL = visserij
 47K1|sea and coastal fishery
 47K11|whale fishery, whaling
 47K12|shell fishery
@@ -4893,7 +4890,7 @@
 47K4|making of fishing nets
 47K41|mending of fishing nets
 47K42|fishing net
-47L|shipbuilding industry
+47L|NL = scheepsbouw
 47L1|building a ship, ship under construction
 47L11|slipway ~ shipbuilding
 47L12|scaffolding ~ shipbuilding
@@ -4903,9 +4900,9 @@
 47L3|launching a ship
 47L31|christening a ship
 47L32|maidentrip of a ship
-48|art
+48|NL = kunst
 480|symbolic representations, allegories and emblems ~ art; 'Arte' (Ripa)
-48A|art and the public; styles and ornaments
+48A|NL = kunst en publiek; stijlen en ornament
 48A1|person stimulating the arts; art lover, connoisseur, maecenas, patron
 48A11|artist receiving commission
 48A111|patron (or client) visiting the artist
@@ -5102,7 +5099,7 @@
 48AA9856|ornament derived from architectural details - AA - stylized
 48AA9857|(other) ornaments derived from objects - AA - stylized
 48AA9857(...)|(other) ornaments derived from objects (with NAME) - AA - stylized
-48B|artist (in general)
+48B|NL = kunstenaar
 48B1|artist at work, in his workshop
 48B10|inspiration of the artist (in general)
 48B101|the artist and his muse (in general)
@@ -5156,7 +5153,7 @@
 48BB143|artist training pupils - BB - out of doors
 48BB15|artist at work with assistants or pupils - BB - out of doors
 48BB19|artist destroying his own work - BB - out of doors
-48C|the arts; artists
+48C|NL = de schone kunsten
 48C1|architecture
 48C10|'Architectura', symbolic representations, allegories and emblems ~ architecture; 'Architettura' (Ripa)
 48C101|origin of architecture
@@ -5775,12 +5772,12 @@
 48CC841|training ~ ballet - CC - female
 48CC844|ballet dress - CC - female
 48CC853|stage costume - CC - female
-49|education, science and learning
-49A|education
+49|NL = onderwijs en wetenschap
+49A|NL = onderwijs
 49A0|symbolic representations, allegories and emblems ~ education; 'Ammaestramento', Dottrina', 'Educatione', 'Istitutione' (Ripa)
 49A1|study and diversion
 49A11|study and play considered as the two principal aspects of education
-49B|scholastic education, tuition
+49B|NL = schoolonderwijs
 49B1|nursery school
 49B2|elementary school; class, form
 49B21|going to school
@@ -5863,7 +5860,7 @@
 49BB44284|party (students) - BB - female student
 49BB44285|students' pageant - BB - female student
 49BB4429|wandering student, 'Bettelstudent' - BB - female student
-49C|aspects of science in general
+49C|NL = aspecten van wetenschap algemeen
 49C0|symbolic representations, allegories and emblems ~ science, 'Scientia'; 'Scienza', 'Studio' (Ripa)
 49C01|science versus worldly temptation
 49C011|scientist renouncing the world, 'ivory tower'
@@ -5904,7 +5901,7 @@
 49C34|wandering scholar
 49C4|discussion, dialogue, dispute ~ scholar, philosopher
 49C41|disturbance, interruption of philosophical discussion
-49D|mathematics
+49D|NL = wiskunde
 49D0|'Mathematica'; 'Mathematica' (Ripa)
 49D1|arithmetic
 49D11|numerals
@@ -6034,7 +6031,7 @@
 49D7|mathematical perspective
 49D70|'Perspective' (alleg.); 'Prospetiva' (Ripa)
 49D71|anamorphosis
-49E|science and technology
+49E|NL = wetenschap en technologie
 49E1|astronomy (and cosmography)
 49E10|'Astronomia', 'Cosmografia'; 'Cosmografia' (Ripa)
 49E11|astronomical instruments
@@ -6106,7 +6103,6 @@
 49E39312|flasks (cucurbitae)
 49E39312(...)|flasks (cucurbitae) (with NAME)
 49E39313|pots, jars (ollae)
-
 49E39313(...)|pots (with NAME)
 49E3932|alchemistic furnace
 49E3932(...)|alchemistic furnace (with NAME)
@@ -6130,9 +6126,6 @@
 49E39461|Panacea ~ alchemistic substance
 49E3949|other substances
 49E3949(...)|other substances (with NAME)
-49E3949(ANTIMONY)|other substances: antimony
-49E3949(SAL AMMONIAC)|other substances: sal ammoniac
-49E3949(VITRIOL)|other substances: vitriol
 49E395|alchemistic processes
 49E3951|Magnum opus: the four original stages of transmutation
 49E39511|nigredo (blackening)
@@ -6171,7 +6164,7 @@
 49E811|popular laboratory device, used for demonstration
 49E9|experiment, test ~ science and technology
 49E91|invention, discovery ~ science and technology
-49F|biology
+49F|NL = biologie
 49F1|botany
 49F11|botanic garden, 'hortus botanicus'
 49F12|herbarium
@@ -6180,7 +6173,7 @@
 49F22|palaeontology
 49F3|physical anthropology
 49F31|craniology
-49G|medicine, medical science
+49G|NL = medicijnen
 49G0|'Medicina', allegorical representations ~ medicine; 'Medicina' (Ripa)
 49G01|symbol, emblem, sign ~ medicine
 49G011|Aesculapian sign
@@ -6298,11 +6291,11 @@
 49G912|quack extracting teeth or molars
 49G913|other 'operations'
 49G914|eating snakes, frogs, spiders, etc.
-49H|social sciences
+49H|NL = sociologie
 49H1|sociology
 49H2|folklore, the study of popular tradition
 49H3|ethnology, cultural anthropology
-49I|geography
+49I|NL = geografie
 49I0|'Geografia'
 49I1|exploration, expedition, voyage of discovery
 49I11|explorer
@@ -6317,7 +6310,7 @@
 49K32|language ~ philology
 49K321|word
 49K322|phrase, sentence
-49L|writing and letters
+49L|NL = schrijven, het alfabet
 49L1|letters, alphabet, script
 49L10|invention of letters
 49L11|handwriting, writing as activity
@@ -6392,7 +6385,7 @@
 49LL71|scroll - LL - scroll unfolded
 49LL711|'capsa', casket for scrolls - LL - scroll unfolded
 49LL72|codex - LL - codex open
-49M|production of printed matter, book-production
+49M|NL = boekdrukkunst
 49M1|printing, printing office
 49M10|'Stampa' (Ripa)
 49M11|printing press
@@ -6441,7 +6434,7 @@
 49MM3211|blockbook - MM - book open
 49MM3212|comic strip, 'bande dessinée' - MM - book open
 49MM322|pamphlet ~ printed matter - MM - book open
-49N|reading
+49N|NL = lezen
 49N1|reading to somebody
 49N2|reading-accessories
 49N21|lectern ~ reading

@@ -4014,6 +4014,8 @@
 71O134|Amos voit une corbeille de fruits ~ vision d'Amos
 71O135|Amos voit le Seigneur, posté sur un autel, ordonnant sa destruction
 71O14|Amos est tué par Amasias, un prêtre de Béthel
+71O19|autres scènes ~ Amos
+71O19(...)|autres scènes ~ Amos (avec LIVRE CHAPITRE:VERSET) 
 71O2|le livre d'Osée
 71O21|le Seigneur parle à Osée : 'Va, prends-toi une femme de fornication...' (Osée 1:2)
 71O22|Osée, Gomer et les trois enfants (Osée 1:3-11)

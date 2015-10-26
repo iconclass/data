@@ -6124,15 +6124,15 @@
 49E39453|la Pietra Rossa
 49E3946|Elixir Vitae (Elisir di lunga vita)
 49E39461|Panacea ~ sostanza alchemica
-
 49E3949|altre sostanze
 49E3949(...)|altre sostanze (col NOME)
-
+49E3949(ANTIMONY)|altre sostanze: antimonio
+49E3949(SAL AMMONIAC)|altre sostanze: sale di ammonio (cloruro di ammonio)
+49E3949(VITRIOL)|altre sostanze: vetriolo
 49E395|processi alchemici
 49E3951|Magnum opus: le quattro fasi della trasmutazione
 49E39511|nigredo (opera al nero)
 49E39512|albedo (opera al bianco)
-
 49E39513|citrinitas (opera al giallo)
 49E39514|rubedo (opera al rosso)
 49E3952|Magnum opus: fasi e procedimenti ulteriori

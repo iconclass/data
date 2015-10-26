@@ -11774,6 +11774,10 @@
 49E39453|Red stone
 49E3946|Elixir Vitae
 49E39461|Panacea
+49E3949(ANTIMONY)|antimony
+49E3949(SAL AMMONIAC)|sal ammoniac
+49E3949(SAL AMMONIAC)|ammoniac
+49E3949(VITRIOL)|vitriol
 49E395|process
 49E3951|Magnum opus
 49E3951|transmutation
