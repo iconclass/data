@@ -3065,6 +3065,7 @@
 45C221|Helm
 45C222|Armschützer
 45C2221|Fehdehandschuh, gepanzerter Handschuh zum Schutz der Hand
+45C223|Küriß
 45C23|Köcher
 45C231|Scheide (für Schwert, Degen oder Messer)
 45C24|Tarnung, Tarnkleidung

@@ -3065,6 +3065,7 @@
 45C221|elmo
 45C222|protezione per il braccio, bracciale
 45C2221|manopola, guanto d'armatura a protezione della mano
+45C223|corazza
 45C23|faretra
 45C231|guaina, fodero
 45C24|mimetizzazione
