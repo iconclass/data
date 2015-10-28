@@ -2,6 +2,12 @@
 0|art
 0|non-representational art
 1|supernatural
+10|cosmogony
+10|cosmos
+10|creation
+10|life
+10|symbol
+10|universe
 11|Christian religion
 11|religion
 11A|God
