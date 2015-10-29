@@ -9010,6 +9010,10 @@
 49E39453|rouge
 49E3946|Elixir vitae
 49E39461|Panacea
+49E3949(ANTIMONY)|antimoine
+49E3949(SAL AMMONIAC)|sal ammoniaque
+49E3949(SAL AMMONIAC)|ammoniaque
+49E3949(VITRIOL)|vitriole
 49E395|processus
 49E3951|étape
 49E3951|Magnum opus

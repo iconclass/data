@@ -4015,6 +4015,8 @@
 71O134|Amos sieht einen Obstkorb (das Buch Amos)
 71O135|Amos sieht Gott, der auf einem Altar steht, dessen Zerstörung er befiehlt
 71O14|Amos wird von dem Priester Amazja aus Bethel getöter
+71O19|andere Szenen aus dem Buch Amos
+71O19(...)|andere Szenen aus dem Buch Amos (mit BUCH, KAPITEL, VERS)
 71O2|das Buch Hosea
 71O21|Gott spricht zu Hosea: Geh, nimm dir ein buhlerisches Weib ... (Hosea 1:2)
 71O22|Hosea, Gomer und die drei Kinder (Hosea 1:3-11)

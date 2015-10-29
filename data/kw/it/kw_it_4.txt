@@ -9180,6 +9180,10 @@
 49E3946|Elisir di lunga vita
 49E3946|Elixir Vitae
 49E39461|Panacea
+49E3949(ANTIMONY)|antimonio
+49E3949(SAL AMMONIAC)|sale di ammonio
+49E3949(SAL AMMONIAC)|cloruro di ammonio
+49E3949(VITRIOL)|vetriolo
 49E395|processo
 49E3951|fase
 49E3951|Magnum opus
