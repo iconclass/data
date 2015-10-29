@@ -6,11 +6,27 @@ test_notations = [
     '0', '1', '25FF'   
 ]
 
+def test_commented_lines():
+    x = get('00A')
+    assert x is None
+    data_with_comments = '# this is a comment\n#N 00A\n$'
+    read_structure(data_with_comments, None)
+    x = get('00A')
+    assert x is None
+    read_keywords('#0|foo', 'en')
+    x = get('0')
+    assert 'foo' not in x['kw']['en']
+    read_textual_correlates('#0|foo', 'en')
+    x = get('0')
+    assert x['txt']['en'] != 'foo'
+
+
 def test_keywords():
     x = get('0')
     assert x['kw']['en'] == [u'abstract art', u'art', u'non-representational art']
     x = get('31AA25')
     assert x['kw']['de'] == [u'Arm', u'Geste', u'Haltung', u'Hand']
+
 
 def test_keys():
     x = get('11(+1)')    
@@ -20,10 +36,12 @@ def test_keys():
     x = get('25FF1(+8)')
     assert x is None
 
+
 def test_withnames():
     o = get('11H(FOO)')
     assert o['txt']['en'] == 'male saints (FOO)'
     assert get('11H(FOO)0')['txt']['en'] == u'male saints (FOO) - male saint represented in a group'
+
 
 def test_basic():
     results = get_list(test_notations)
@@ -36,6 +54,7 @@ def test_basic():
     c = ['25FF1', '25FF2', '25FF3', '25FF4', '25FF5', '25FF6', '25FF7', '25FF8', '25FF9', 
          '25FF(+0)', '25FF(+1)', '25FF(+2)', '25FF(+3)', '25FF(+4)', '25FF(+5)', '25FF(+6)', '25FF(+7)']   
     assert results[2]['c'] == c
+
 
 def test_spaces():
     assert add_space(u'11H1') == u'11 H 1'

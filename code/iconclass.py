@@ -46,9 +46,10 @@ def read_keys(input_data, language):
     buf = {}
     keys = {}
     for line in input_data.split('\n'):
+        if line.startswith('#'): continue
         if line == '$':
             txt = {}
-            for k,v in buf.items():
+            for k, v in buf.items():
                 if k.startswith('txt_'):
                     tmp = k[4:].lower()
                     txt[tmp] = v.decode('utf8')
@@ -84,6 +85,7 @@ def read_keywords(input_data, language):
     data = {}
 
     for line in input_data.split('\n'):
+        if line.startswith('#'): continue
         line = line.strip()
         tmp = line.split('|')
         if len(tmp) != 2:
@@ -101,6 +103,7 @@ def read_keywords(input_data, language):
 def read_textual_correlates(input_data, language):
     idx = 0
     for line in input_data.split('\n'):
+        if line.startswith('#'): continue
         line = line.strip()
         tmp = line.split('|')
         if len(tmp) != 2:
@@ -117,6 +120,7 @@ def parse_dbtxt(data):
     buf = []
     last_field = None
     for line in data.split('\n'):
+        if line.startswith('#'): continue
         data = line.split(' ')
         if len(data) < 2:
             continue
