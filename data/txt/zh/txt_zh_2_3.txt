@@ -2,22 +2,22 @@
 20|'Natura' (allegorical figure or scene; or as Diana of Ephesus, with many breasts); 'Natura' (Ripa)
 21|四行
 210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
-21A|air (one of the four elements)
+21A|空氣（四要素之一）
 21A0|'Aria', 'Carro dell'aria' (Ripa)
 21A1|spirit of the air, sylph
-21B|earth (one of the four elements)
+21B|大地（四要素之一）
 21B0|'Terra', 'Carro della terra' (Ripa)
 21B1|spirit of the earth, gnome, troll
-21C|fire (one of the four elements)
+21C|火（四要素之一）
 21C0|'Fuoco', 'Carro del fuoco' (Ripa)
-21D|water (one of the four elements)
+21D|水（四大要素之一）
 21D0|'Acqua', 'Carro dell'acqua' (Ripa)
 21D1|spirit of water, nix, undine
 21D2|ice ~ state of water
 21D3|steam
 21E|ether as 'quinta essentia'
 22|natural phenomena
-22A|matter
+22A|材料
 22A0|Matter (allegorical representation)
 22A1|chemical substances
 22A1(...)|chemical substances (with NAME)
@@ -30,7 +30,7 @@
 22A3121|condensation
 22A31211|vapour trail
 22A313|gas (state of matter)
-22B|electricity and magnetism
+22B|電學和磁學
 22B1|electrical phenomena
 22B11|spark ~ electricity
 22B2|magnetic phenomena
@@ -38,7 +38,7 @@
 22B22|magnetic force
 22B221|attractive force, attraction ~ magnetic force
 22B222|repulsive force, repulsion ~ magnetic force
-22C|light
+22C|光
 22C1|natural light
 22C11|rays of natural light
 22C2|artificial light
@@ -73,7 +73,7 @@
 22C9|darkness
 22C90|'Buio' (Ripa)
 22C91|half-light
-22D|sound
+22D|聲音
 22D1|loud sound, noise
 22D11|harmonious sound, harmony, consonance
 22D110|'Armonia' (Ripa)
@@ -82,7 +82,7 @@
 22D3|sound-barrier
 22D4|echo
 22D9|silence
-22E|temperature
+22E|溫度
 22E1|heat
 22E11|glowing (heat)
 22E12|burning
@@ -569,7 +569,7 @@
 24C39|other celestial bodies representing metals
 24C39(...)|other celestial bodies representing metals (with NAME)
 24C39(URANUS)|Uranus representing platinum
-24D|stars
+24D|明星
 24D0|stars, represented symbolically or allegorically
 24D1|stars and constellations
 24D1(...)|stars and constellations (with NAME)
@@ -582,7 +582,7 @@
 24D211|銀河系的起源（朱諾乳大力神）
 24D4|other galaxies or stellar systems
 24D4(...)|other galaxies or stellar systems (with NAME)
-24E|astronomical phenomena
+24E|天文現象
 24E1|comet
 24E10|'Cometa, ninfa dell'aria' (Ripa)
 24E2|meteor
@@ -2286,7 +2286,7 @@
 26A42|cumulonimbus, i.e. thunder clouds
 26A5|uniformly spread high-hanging haze
 26A51|stratus
-26B|rain
+26B|雨
 26B0|'Pioggia, ninfa dell'aria' (Ripa)
 26B1|mist, fog
 26B2|rainbow
