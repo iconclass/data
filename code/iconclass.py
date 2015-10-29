@@ -19,22 +19,30 @@ def read_dbtxt(input_data):
             data[notation] = obj
     return data
 
+
+def action(filename):
+    # Split out into a seprate function so that we can call it from external packages
+    # to determine what action to perform based on filename
+    if filename == 'notations.txt':
+        return read_structure, None
+    elif filename == 'keys.txt':
+        return read_keys, None
+    elif filename.startswith('kw_'):
+        language = filename[3:5]
+        return read_keywords, language
+    elif filename.startswith('txt_'):
+        language = filename[4:6]
+        return read_textual_correlates, language
+    return None, None
+
 def prime_redis():
     for dirpath, dirs, files in os.walk(DATA_ROOT_DIR):
         for filename in files:
-            if filename == 'notations.txt':
-                read_structure(open(os.path.join(dirpath, filename)).read())
-            elif filename == 'keys.txt':
-                read_keys(open(os.path.join(dirpath, filename)).read())
-            elif filename.startswith('kw_'):
-                language = filename[3:5]
-                read_keywords(open(os.path.join(dirpath, filename)).read(), language)
-            elif filename.startswith('txt_'):
-                language = filename[4:6]
-                read_textual_correlates(open(os.path.join(dirpath, filename)).read(), language)
+            fn, language = action(filename)
+            if fn:
+                fn(open(os.path.join(dirpath, filename)).read(), language)
 
-
-def read_keys(input_data):
+def read_keys(input_data, language):
     buf = {}
     keys = {}
     for line in input_data.split('\n'):
@@ -57,11 +65,11 @@ def read_keys(input_data):
     for k,v in keys.items():
         redis_c.set(k, json.dumps(v))
 
-def read_structure(input_data):
+def read_structure(input_data, language):
     data = read_dbtxt(input_data)
     idx = 0
     for notation, obj in data.items():
-        for k,v in obj.items():
+        for k, v in obj.items():
             if not v: continue
             if type(v) is list:
                 redis_c.hset(notation, k, '\n'.join(v))
