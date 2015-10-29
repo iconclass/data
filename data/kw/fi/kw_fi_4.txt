@@ -5997,6 +5997,7 @@
 45C2221|hansikas
 45C2221|käsine
 45C2221|taisteluhansikas
+45C223|kyrassi
 45C23|nuolikotelo
 45C231|huotra
 45C231|tuppi

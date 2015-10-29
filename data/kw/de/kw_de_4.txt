@@ -5276,6 +5276,7 @@
 45C2221|Handschuh
 45C2221|Handschutz
 45C2221|Panzerhandschuh
+45C223|Küriß
 45C23|Koecher
 45C231|Scheide (eines Messers)
 45C231|Scheide (fuer Schwert oder Degen)

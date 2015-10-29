@@ -4702,6 +4702,7 @@
 45C2221|manopola (armatura)
 45C2221|moffola
 45C2221|protezione della mano
+45C223|corazza
 45C23|feretra
 45C231|fodero
 45C231|guaina
