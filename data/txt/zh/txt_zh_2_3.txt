@@ -587,7 +587,7 @@
 24E10|'Cometa, ninfa dell'aria' (Ripa)
 24E2|meteor
 24E3|meteorites
-24F|firmament, sky
+24F|蒼穹，天空
 24F1|contemplating the firmament
 24F2|stars in the firmament
 24G|spheres ~ heavens
@@ -2265,12 +2265,12 @@
 25M7|Pharos of Alexandria (Wonder of the World)
 25M8|other monuments which are sometimes included in the Wonders of the World
 25M8(...)|other monuments which are sometimes included in the Wonders of the World (with NAME)
-25N|fictitious countries
+25N|虛構的國家
 25N(...)|fictitious countries (with NAME)
 25N(ATLANTIS)|fictitious countries: Atlantis
 25N1|Land of Cockaigne
 26|气象
-26A|clouds
+26A|雲
 26A1|high clouds
 26A11|cirrus (high clouds)
 26A12|cirrostratus
@@ -2349,7 +2349,7 @@
 26C5|barometer
 26C6|wind as a human face, blowing with rounded cheeks
 26C9|absence of wind, calm
-26D|frost, freezing weather
+26D|霜凍，冰凍天氣
 26D1|snow
 26D11|avalanche
 26D111|protection against avalanches
