@@ -8929,6 +8929,8 @@
 49E3932(ATHANOR)|athanor
 49E3933|bath
 49E3933|balneum
+49E3933(BALNEUM ARENAE)|balneum arenae
+49E3933(BALNEUM MARIAE)|Mary's bath
 49E394|substance
 49E3941|sulphur
 49E3942|mercury
