@@ -2295,6 +2295,7 @@
 26B30|Ripa: Rugiada, ninfa dell'aria
 26B4|Regenguß
 26B9|Trockenheit
+26C|Winde
 26C0|Ripa: Venti
 26C1|Winde (entsprechend verschiedenen Einteilungen)
 26C11|die vier hauptsächlichen Windrichtungen

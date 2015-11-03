@@ -2259,6 +2259,7 @@
 26B30|"Rugiada, ninfa dell'aria" (Ripa)
 26B4|aguaceiro, chuva
 26B9|seca
+26C|ventos
 26C0|"Venti" (Ripa)
 26C1|várias direcções dos ventos
 26C11|as quatro principais direcções dos ventos

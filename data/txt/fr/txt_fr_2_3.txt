@@ -2295,6 +2295,7 @@
 26B30|'Rugiada, ninfa dell'aria' (Ripa)
 26B4|averse
 26B9|sécheresse
+26C|vents
 26C0|'Venti' (Ripa)
 26C1|divisions des vents en différentes aires
 26C11|les quatre directions principales du vent

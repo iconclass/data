@@ -2295,6 +2295,7 @@
 26B30|'Rugiada, ninfa dell'aria' (Ripa)
 26B4|downpour, rain shower
 26B9|drought
+26C|winds
 26C0|'Venti' (Ripa)
 26C1|winds according to several divisions
 26C11|the four main directions of the wind

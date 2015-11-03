@@ -2294,6 +2294,7 @@
 26B30|'Rugiada, ninfa dell'aria' (Ripa)
 26B4|kaatosade
 26B9|drought
+26|tuuli, tuulet
 26C0|'Venti' (Ripa)
 26C1|winds according to several divisions
 26C11|the four main directions of the wind
