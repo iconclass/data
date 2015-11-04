@@ -6923,7 +6923,7 @@
 #73G573|the tree of life with its twelve kinds of fruit ~ Revelation
 #73G6|John adoring the angel after the Revelation
 #73GG411|a pregnant woman, clothed with the sun and standing on the moon, appears; she is threatened by a red dragon with a long tail and seven heads - GG - Mary as the apocalyptic woman
-#8|文学
+8|文学
 81|系列文学作品
 81(...)|系列文学作品 (with NAME of CYCLE)
 #81(ARTHURIAN LEGEND)|'Arthurian legend'
@@ -6947,7 +6947,7 @@
 #81H(...)|other cycles (with NAME of CYCLE, Character) : Use 81(...)
 #81H(KALEVALA)|'Kalevala' : Use 81(KALEVALA)
 #81H(KALEVALA, Lemminkäinen)|Lemminkäinen : Use 82A(...)
-#82|literary characters and objects
+82|文学作品中的人物
 #82A|names of literary characters
 #82A(...)|male literary characters (with NAME)
 #82A(AHASVERUS)|Ahasverus, the wandering Jew
@@ -7165,9 +7165,8 @@
 #85B(...)|fables of Lafontaine (with TITLE) : Use 85(...)
 #85C|other fables : Use 85(...)
 #85C(...)|other fables (with TITLE) : Use 85(...)
-#86|proverbs, sayings, etc.
+86|谚语与格言
 #86(...)|proverbs, sayings, etc. (with TEXT)
 #86(BEWARE THE GEESE WHEN THE FOX PREACHES)|proverbs, sayings, etc.: Beware the geese when the fox preaches
 #86(LIGHTLY COME, LIGHTLY GO)|proverbs, sayings, etc.: Lightly come, lightly go
 #86(OMNIA MECUM PORTO)|proverbs, sayings, etc.: Omnia mecum porto
-#
