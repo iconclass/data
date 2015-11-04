@@ -3814,7 +3814,7 @@
 #31BB18|unconsciousness - BB - out of doors
 #31BB181|fainting, swooning - BB - out of doors
 #31BB19|resting - BB - out of doors
-#31C|spirit (or soul) versus body
+31C|精神（或靈魂）或身體
 31D|人生与年龄
 #31D1|the ages of man
 #31D11|the first years ~ the ages of man
