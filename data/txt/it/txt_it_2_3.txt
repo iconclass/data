@@ -2295,6 +2295,7 @@
 26B30|'Rugiada, ninfa dell'aria' (Ripa)
 26B4|acquazzone
 26B9|siccità
+26C|venti
 26C0|'Venti' (Ripa)
 26C1|venti secondo differenti suddivisioni
 26C11|le quattro direzioni principali dei venti

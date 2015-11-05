@@ -2295,14 +2295,15 @@
 #26B30|'Rugiada, ninfa dell'aria' (Ripa)
 #26B4|downpour, rain shower
 #26B9|drought
-#26C0|'Venti' (Ripa)
-26C1|Winden volgens verschillende indelingen
-26C11|De vier hoofdrichtingen
+26C|winden
+26C0|'Venti' (Ripa)
+26C1|winden volgens verschillende indelingen
+26C11|de vier hoofdrichtingen
 26C111|Noorderwind
 26C112|Oostenwind
 26C113|Zuidenwind
 26C114|Westenwind
-26C12|Indeling in acht richtingen
+26C12|indeling in acht richtingen
 26C121|Noordenwind, ‘Aquilo’, ‘Boreas’, Septentrionarius’
 26C122|Noordoosten wind, ‘Kaikias’
 26C123|Oosten wind, ‘Subsolanus’

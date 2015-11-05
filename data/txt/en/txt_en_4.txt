@@ -6100,20 +6100,38 @@
 49E392|alchemistic symbols
 49E393|alchemistic equipment
 49E3931|alchemistic vessels
-49E3931(...)|alchemist's vessels (with NAME)
 49E39311|bottles (ampullae)
 49E39311(...)|bottles (ampullae) (with NAME)
-49E39311(OVUM PHILOSOPHICUM)|bottle: philosophical egg (ovum philosophicum)
+49E39311(OVUM PHILOSOPHICUM)|bottles: philosophical egg (ovum philosophicum)
+49E39311(PELICAN)|bottles: pelican
+49E39311(PHIAL)|bottles: phial
+49E39311(RECEPTACULUM)|bottles: receiver (receptaculum)
 49E39312|flasks (cucurbitae)
 49E39312(...)|flasks (cucurbitae) (with NAME)
+49E39312(ALEMBIC)|flasks: alembic
+49E39312(MOOR'S HEAD)|flasks: Moor's head
+49E39312(OPERCULUM)|flasks: operculum
+49E39312(RETORT)|flasks: retort
+49E39312(ROSENHUT)|flasks: rosenhut
 49E39313|pots, jars (ollae)
-
+49E39313(...)|pots, jars (ollae) (with NAME)
+49E39313(ALUDEL)|pots, jars: aludel
+49E39313(CHALICE)|pots, jars: chalice
+49E39313(CRUCIBLE)|pots, jars: crucible
+49E39313(CUPEL)|pots, jars: cupel
 49E39313(...)|pots (with NAME)
 49E3932|alchemistic furnace
 49E3932(...)|alchemistic furnace (with NAME)
-49E3932(ASSAY FURNACE)|assay furnace
-49E3932(ATHANOR)|athanor
+49E3932(ASSAY FURNACE)|alchemistic furnace: assay furnace
+49E3932(ATHANOR)|alchemistic furnace: athanor
+49E3932(CARBURIZING FURNACE)|alchemistic furnace: carburizing furnace
+49E3932(PIGER HENRICUS)|alchemistic furnace: piger henricus, 'slow Harry'
+49E3932(REVERBATORY FURNACE)|alchemistic furnace: reverbatory furnace
+49E3932(SMELTING FURNACE)|alchemistic furnace: smelting furnace
 49E3933|alchemistic bath (balneum)
+49E3933(...)|alchemistic bath (balneum) (with NAME)
+49E3933(BALNEUM ARENAE)|alchemistic bath: balneum arenae
+49E3933(BALNEUM MARIAE)|alchemistic bath: Mary's bath
 49E3939|other alchemistic equipment
 49E3939(...)|other alchemistic equipment (with NAME)
 49E394|alchemistic substances

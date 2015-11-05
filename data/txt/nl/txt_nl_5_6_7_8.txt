@@ -962,413 +962,414 @@
 #61K|(other) historical names
 #61K(...)|(other) historical names (with NAME)
 62|visie op de toekomst
-#7|Bijbel
-#71|NL1 Oude Testament
-#71A|NL1 Genesis, vanaf de schepping tot de verdrijving uit het paradijs en de latere jaren van Adam en Eva.
-#71A1|NL1 In het begin...' de ordening van de chaos (Genesis 1:1-2)
-#71A11|NL1 de aarde was woest en doods
-#71A12|NL1 Gods geest zweefde over het water
-#71A2|NL1 de zes dagen van de schepping (Genesis 1:3-25)
-#71A21|NL1 scheiding van licht en duisternis
-#71A22|NL1 schepping van het hemelgewelf en de scheiding van het water boven het gewelf en eronder
-#71A23|NL1 het water stroomt naar een plaats onder de hemel; er verschijnt droog land dat allerlei planten voortbrengt
-#71A231|NL1 schepping van vegetatie, jong groen (afzonderlijk)
-#71A24|NL1 schepping van de zon, maan en de sterren
-#71A25|NL1 schepping van de dieren ~ Genesis
-#71A251|NL1 schepping van vogels en vissen
-#71A252|NL1 schepping van de levende wezens op het land
-#71A3|NL1 schepping van de mens; de tuin van Eden (Genesis 1:26 - 2)
-#71A31|NL1 God vormt de mens uit stof, aarde
-#71A311|NL1 de mens (Adam) komt tot leven: doorgaans strekt God zijn hand uit of blaast hij levensadem in zijn neusgaten
-#71A32|NL1 God legt de tuin van Eden aan
-#71A321|NL1 Tuin van Eden, paradijs
-#71A3211|NL1 de vier rivieren van het paradijs (die ontspringen in een fontein)
-#71A32111|NL1 Pison (rivier in het paradijs)
-#71A32112|NL1 Gichon (rivier in het paradijs)
-#71A32113|NL1 Tigris (Hiddekel) (rivier in het paradijs)
-#71A32114|NL1 Eufraat (rivier in het Paradijs)
-#71A3212|NL1 de levensboom en de boom van de kennis van goed en kwaad
-#71A32121|NL1 de levensboom in de tuin van Eden
-#71A32122|NL1 de boom van de kennis van goed en kwaad (de vruchten, gewoonlijk appels of vijgen, zijn dodelijk); de boom wordt soms door de slang bewaakt
-#71A33|NL1 Adam in de tuin van Eden
-#71A331|NL1 God brengt Adam naar het paradijs
-#71A332|NL1 God spreekt tot Adam
-#71A333|NL1 Adam geeft de dieren een naam
-#71A34|NL1 schepping van Eva
-#71A341|NL1 God neemt een rib uit de zij van de slapende Adam
-#71A342|NL1 Eva wordt gevormd uit een rib van Adam
-#71A3421|NL1 Eva verschijnt uit Adams lichaam
-#71A35|NL1 Adam en Eva in het paradijs (voor de zondeval)
-#71A351|NL1 God brengt Eva bij Adam
-#71A352|NL1 God zegent Adam en Eva; instelling van het huwelijk
-#71A353|NL1 Adam krijgt heerschappij over alles wat geschapen is
-#71A354|NL1 God geeft Adam en Eva het gebod niet te eten van de boom van de kennis van goed en kwaad
-#71A36|NL1 God rust op de zevende dag
-#71A4|NL1 Verleiding en zondeval (Genesis 3:1-7)
-#71A41|NL1 Verleiding en zondeval (scènes met Eva alleen)
-#71A411|NL1 de slang probeert Eva over te halen om wat fruit te nemen (meestal een appel)
-#71A412|NL1 Eva plukt de vrucht of neemt die aan
-#71A42|NL1 Verleiding en zondeval (scènes met zowel Adam als Eva)
-#71A421|NL1 Eva neemt de vrucht aan van de slang (of plukt de vrucht van de boom) in aanwezigheid van Adam (die haar misschien probeert te weerhouden)
-#71A422|NL1 Eva biedt Adam de vrucht aan
-#71A4221|NL1 Eva geeft wat van het fruit aan Adam en neemt nog wat aan van de slang (of plukt nog meer van de boom)
-#71A4222|NL1 Adam neemt zelf fruit van de boom
-#71A423|NL1 Adam en Eva die de vrucht vasthouden (en er wellicht ook van eten)
-#71A4231|NL1 Adam (alleen) die de vrucht vasthoudt
-#71A4232|NL1 Eva (alleen) die de vrucht vasthoudt
-#71A424|NL1 Adam en Eva ontdekken hun naaktheid; ze bedekken zichzelf met hun handen of met vijgenbladeren
-#71A5|NL1 Verleiding en zondeval: Adam en Eva in het paradijs (na de zondeval) (Genesis 3:8-21)
-#71A51|NL1 Adam en/of Eva overweldigd door berouw
-#71A52|NL1 God wandelt in de tuin van Eden
-#71A521|NL1 God roept Adam en Eva ter verantwoording voor hun daad
-#71A522|NL1 Adam en Eva verbergen zich voor God
-#71A53|NL1 Adam en Eva worden berispt door God
-#71A531|NL1 Adam (alleen) door God berispt; Adam geeft Eva de schuld
-#71A532|NL1 Eva (alleen) door God berispt; Eva geeft de slang de schuld
-#71A54|NL1 de bestraffing van Adam en Eva
-#71A541|NL1 de slang wordt door God vervloekt en veroordeeld tot het eten van stof en het kruipen op zijn buik
-#71A542|NL1 straf van Eva (alleen)
-#71A543|NL1 straf van Adam (alleen)
-#71A55|NL1 Adam en Eva worden door God gekleed
-#71A551|NL1 Adam en Eva krijgen gereedschap, gewoonlijk een spade en een spindel
-#71A6|NL1 verdrijving van Adam en Eva uit het paradijs (Genesis 3:22-24)
-#71A61|NL1 God verdrijft Adam en Eva uit het paradijs en laat de levensboom bewaken door een engel met een vlammend zwaard
-#71A611|NL1 een engel jaagt Adam en Eva uit het paradijs met een (vlammend) zwaard
-#71A62|NL1 Adam en Eva buiten de tuin van Eden, waarvan de ingang wordt bewaakt door cherubs
-#71A63|NL1 Adam en Eva doen boete
-#71A631|NL1 reinigingsbad van Adam en Eva
-#71A7|NL1 de arbeid van Adam en Eva; de jeugd van Kaïn en Abel (Genesis 4:1-2)
-#71A71|NL1 Eva zwanger
-#71A711|NL1 geboorte van Kaïn
-#71A7111|NL1 bad, rituele reiniging van Eva
-#71A712|NL1 geboorte van Abel
-#71A7121|NL1 Adam doet Abel in bad met de hulp van Kaïn
-#71A7122|NL1 Eva geeft Abel de borst; Kaïn wendt zich af, d.w.z. de jaloezie van Kaïn
-#71A72|NL1 Adam (en Eva) houden zich bezig met agrarische activiteiten
-#71A721|NL1 Adam houdt zich bezig met agrarische activiteiten, Eva spint en gewoonlijk spelen hun kinderen
-#71A722|NL1 Adam houdt zich bezig met agrarische activiteiten, Eva geeft de kinderen de borst
-#71A723|NL1 een engel instrueert Adam in agrarische activiteiten
-#71A73|NL1 onderwijs, opvoeding van Kaïn en Abel
-#71A731|NL1 Kaïn en Abel leren hun vader te helpen; Kaïn in de landbouw, Abel bij het hoeden van het vee
-#71A732|NL1 Kaïn (alleen) aan het werk, als landbouwer
-#71A733|NL1 Abel (alleen) aan het werk, als herder
-#71A8|NL1 het verhaal van Kaïn en Abel (Genesis 4:3-17)
-#71A81|NL1 het offer van Kaïn en Abel: Abel offert een lam, Kaïn gewoonlijk een korenschoof
-#71A811|NL1 God (of de hand van God) verschijnt en zegent Abel ~ offer
-#71A812|NL1 de rook van Abels offer stijgt rechtstreeks naar de hemel, terwijl de rook van Kaïns offer neerslaat
-#71A8121|NL1 de rook van Abels offer stijgt rechtstreeks naar de hemel, terwijl de rook van Kaïns offer neerslaat, met God die Abel zegent
-#71A813|NL1 een engel ontvangt het lam van Abel, terwijl een duivel Kaïn mogelijk helpt
-#71A814|NL1 Abel brengt zijn offer (alleen)
-#71A815|NL1 Kaïn brengt zijn offer (alleen)
-#71A82|NL1 het doden van Abel: Kaïn doodt hem met een steen, een knuppel of een kaakbeen, als alternatief met een spade of een ander hulpmiddel als wapen
-#71A821|NL1 de dood van Abel
-#71A822|NL1 Kaïn begraaft Abel
-#71A823|NL1 Adam en Eva ontdekken de gestorven Abel en treuren bij zijn lichaam
-#71A824|NL1 Adam en Eva begraven Abel
-#71A83|NL1 de vervloeking en vlucht van Kaïn
-#71A831|NL1 de Heer roept Kaïn ter verantwoording voor zijn daad
-#71A8311|NL1 Abels bloed schreeuwt om wraak
-#71A832|NL1 de vervloeking van Kaïn
-#71A8321|NL1 God merkt Kaïn met een teken
-#71A833|NL1 de vlucht van Kaïn
-#71A834|NL1 Kaïn heeft berouw
-#71A84|NL1 het latere leven van Kaïn
-#71A841|NL1 Kaïn en zijn familie
-#71A8411|NL1 geboorte van Henoch
-#71A842|NL1 Kaïn bouwt de stad Henoch
-#71A9|NL1 de laatste jaren en de dood van Adam en Eva, en het verhaal van Set (Genesis 4:25, 5:1-8)
-#71A91|NL1 de laatste jaren en de dood van Adam en Eva
-#71A911|NL1 geboorte van Set
-#71A912|NL1 dood van Adam
-#71A9121|NL1 begrafenis van Adam
-#71A9122|NL1 het graf van Adam
-#71A913|NL1 dood van Eva
-#71A92|NL1 geschiedenis van Set
-#71B|NL1 Genesis vanaf de nakomelingen van Kaïn en Set tot Abraham
-#71B1|NL1 de afstammelingen van Kaïn, de Kaïnieten (Genesis 4:18-24)
-#71B11|NL1 geschiedenis van Henoch, de zoon van Kaïn
-#71B12|NL1 geschiedenis van Irad
-#71B13|NL1 geschiedenis van Mechujaël
-#71B14|NL1 geschiedenis van Metusaël
-#71B15|NL1 geschiedenis van Lamech, de zoon van Metusaël
-#71B151|NL1 Lamech doodt Kaïn: Kaïn wordt per ongeluk doodgeschoten door een pijl van de blinde Lamech, die bij de jacht wordt geholpen door zijn zoon Tubal-Kaïn
-#71B1511|NL1 de vertoornde Lamech doodt Tubal-Kaïn
-#71B152|NL1 Lamech bekend aan zijn vrouwen, Ada en Silla, dat hij een oude en een jonge man heeft gedood (Kaïn en Tubal-Kaïn)
-#71B1521|NL1 Lamech wordt terechtgewezen of geslagen door zijn vrouwen
-#71B16|NL1 de kinderen van Lamech
-#71B161|NL1 geschiedenis van Jabal, stamvader van hen die in tenten leven en vee houden
-#71B162|NL1 geschiedenis van Jubal, stamvader van hen die op de lier of fluit spelen
-#71B163|NL1 geschiedenis van Tubal-Kaïn, de eerste smid en stamvader van hen die brons en ijzer bewerken
-#71B2|NL1 de nakomelingen van Set (Genesis 4:26, 5:9-32)
-#71B21|NL1 geschiedenis van Enos
-#71B22|NL1 geschiedenis van Kenan
-#71B23|NL1 geschiedenis van Mahalalel
-#71B24|NL1 geschiedenis van Jered
-#71B25|NL1 geschiedenis van Henoch, zoon van Jered, die het schrift uitvond en de eerste was die het jaar in seizoenen en twaalf maanden verdeelde
-#71B251|NL1 de ten hemel opneming van Henoch
-#71B26|NL1 geschiedenis van Metuselach
-#71B27|NL1 geschiedenis van Lamech, de zoon van Metuselach
-#71B271|NL1 geboorte van Noach
-#71B3|NL1 geschiedenis van Noach
-#71B31|NL1 voor de zondvloed (Genesis 6-7:4)
-#71B311|NL1 de zondige mensheid; de zondaars worden meestal feestend afgebeeld
-#71B3111|NL1 de giganten op aarde ~ de zonde van de mensheid
-#71B312|NL1 God ziet de verdorvenheid van de mens
-#71B3121|NL1 God kondigt een grote vloed aan en geeft Noch de opdracht een ark te bouwen
-#71B32|NL1 de bouw van de ark, en de inscheping (Genesis 7:5-9)
-#71B321|NL1 Noach bouwt de ark
-#71B3211|NL1 Noach bouwt de ark samen met zijn zonen
-#71B3212|NL1 de ark wordt bestreken met pek ~ Noach
-#71B3213|NL1 de duivel probeert de bouw van de ark te voorkomen
-#71B322|NL1 de inscheping van de ark
-#71B3221|NL1 het verzamelen van de dieren in paren ~ geschiedenis van Noach
-#71B3222|NL1 de dieren gaan de ark binnen
-#71B3223|NL1 Noach en zijn familie gaan de ark binnen
-#71B323|NL1 God sluit de ark ~ geschiedenis van Noach
-#71B33|NL1 de zondvloed en de vernietiging van de mensheid ~ geschiedenis van Noach (Genesis 7:10 - 8:17)
-#71B331|NL1 de ark drijft op het water, terwijl het leven op aarde wordt vernietigd ~ geschiedenis van Noach
-#71B3311|NL1 de ark drijft op het water (de vernietiging van de mensheid niet zichtbaar)
-#71B33111|NL1 de ark ~ geschiedenis van Noach
-#71B3312|NL1 vernietiging van de mensheid door de zondvloed (de ark afwezig of nauwelijks zichtbaar)
-#71B332|NL1 de ark van Noach loopt vast op het Araratgebergte
-#71B3321|NL1 Noach laat een raaf los die niet terugkeert
-#71B3322|NL1 Noach laat een duif los
-#71B33221|NL1 de duif keert terug met een olijftak ~ geschiedenis van Noach
-#71B33222|NL1 de duif die niet terugkeerde ~ geschiedenis van Noach
-#71B3323|NL1 de duivel ontsnapt door een gat te maken in de bodem van de ark, de ringslang vult het gat op met zijn staart om te voorkomen dat de ark zinkt
-#71B34|NL1 de ontscheping ~ geschiedenis van Noach
-#71B341|NL1 God geeft Noach de opdracht de ark te verlaten en opent de ark
-#71B342|NL1 Noach, zijn familie en de dieren verlaten de ark (soms in combinatie met de regenboog van het verbond)
-#71B3421|NL1 de dieren verlaten de ark ~ geschiedenis van Noach
-#71B343|NL1 het offer van Noach; verschillende dieren worden geofferd, mogelijk een lam, een duif en een ram (vaak in combinatie met de regenboog van het verbond
-#71B3431|NL1 God zegent Noach en geeft hem zijn geboden
-#71B34311|NL1 Gods verbond met Noach: er zal nooit meer een zondvloed zijn; als teken van dit verbond plaatst God een regenboog aan de hemel
-#71B344|NL1 de overblijfselen van de ark ~ geschiedenis van Noach
-#71B35|NL1 Noach als wijnbouwer (Genesis 9:18-27)
-#71B351|NL1 Noach legt een wijngaard aan
-#71B3511|NL1 Noach proeft de wijn
-#71B352|NL1 dronkenschap van Noach
-#71B3521|NL1 bespotting van Noach: Cham ziet zijn vader (deels) naakt en slapend buiten (of in zijn tent of in een schuur in de wijngaard); Cham roept zijn broers
-#71B35211|NL1 Sem en Jafet bedekken hun vader Noach; meestal bespot Cham zijn vader
-#71B352111|NL1 Sem en Jafet lopen achterwaarts richting Noach
-#71B3522|NL1 Noach ontwaakt uit zijn roes en vervloekt Kanaän, de zoon van Cham
-#71B35221|NL1 Noach vervloekt Cham (en Kanaän)
-#71B353|NL1 Noach zegent zijn zonen Sem en Jafet
-#71B36|NL1 de laatste jaren van Noach (Genesis 9:28-29)
-#71B361|NL1 Noach verdeelt de wereld middels een loting onder zijn zonen, die allemaal zweren tevreden te zijn met het deel dat ze krijgen toegewezen
-#71B362|NL1 Noachs dood en begrafenis
-#71B37|NL1 Noachs nakomelingen (Genesis 10, 11:10-26)
-#71B371|NL1 geschiedenis van Nimrod, een geweldige jager, de eerste machthebber op aarde
-#71B3711|NL1 de bouw van Nineve
-#71B4|NL1 geschiedenis van de toren van Babel (Genesis 11:1-9)
-#71B41|NL1 de reis naar Sinear
-#71B42|NL1 de toren van Babel
-#71B421|NL1 de bouw van de toren van Babel; Nimrod kan aanwezig zijn om toezicht te houden op de bouw, of om mee te bouwen
-#71B4211|NL1 de toren van Babel wordt bekeken door God
-#71B422|NL1 vernietiging van de toren van Babel
-#71B4221|NL1 de spraakverwarring en de verspreiding van de mensen over de hele aarde ~ geschiedenis van de toren van Babel
-#71B42211|NL1 de ruïnes van de toren van Babel
-#71C|NL1 Genesis: de aartsvaders
-#71C1|NL1 geschiedenis van Abraham
-#71C11|NL1 geschiedenis van Abraham (deel I)
-#71C111|NL1 Abrahams jeugd (Genesis 11:39-32)
-#71C1111|NL1 Abraham trouwt Sara
-#71C1112|NL1 Terach neemt Abraham, Sara en Lot mee van Ur naar de stad Charan
-#71C1113|NL1 Abraham vernietigt zijn vaders afgodsbeelden
-#71C11131|NL1 Terach levert Abraham uit aan koning Nimrod, die hem veroordeelt om in het vuur (of de vurige oven) van de Chaldeeën te worden gegooid; hij wordt op wonderlijke wijze gered door God
-#71C11132|NL1 Haran, Abrahams broer besluit ook de vuurproef te ondergaan nadat hij het wonder gezien heeft, maar hij wordt onmiddellijk verteerd door het vuur
-#71C1114|NL1 dood van Terach
-#71C112|NL1 Abraham spreekt met God (in het algemeen)
-#71C113|NL1 Abraham gaat naar Kanaän (Genesis 12:1-9
-#71C1131|NL1 de roeping van Abraham
-#71C1132|NL1 Abraham vertrekt naar het land Kanaän met Sara, Lot en zijn bezittingen
-#71C1133|NL1 Abraham in Kanaän
-#71C11331|NL1 Abraham komt bij de eik van More bij Sichem en bouwt daar zijn eerste altaar
-#71C11332|NL1 Abraham verplaatst zijn tentenkamp naar Betel en bouwt zijn tweede altaar
-#71C114|NL1 Abraham in Egypte (Genesis 12:10-20)
-#71C1141|NL1 een hongersnood drijft Abraham van Kanaän naar Egypte
-#71C1142|NL1 Abraham geeft instructies aan Sara: `Zeg dat je mijn zuster bent`
-#71C1143|NL1 Sara trekt de aamdacht van de Egyptenaren en wordt naar het paleis van de farao gebracht
-#71C1144|NL1 Sara met de farao
-#71C11441|NL1 Abraham wordt door de farao met geschenken overladen
-#71C11442|NL1 God treft de farao met plagen ~ geschiedenis van Abram
-#71C11443|NL1 Abram wordt bij de farao ontboden en hij krijgt de opdracht met Sara Egypte te verlaten
-#71C1145|NL1 Abraham verlaat Egypte met Sara, Lot en zijn bezittingen
-#71C1146|NL1 Abraham onderwijst de Egyptenaren astronomie
-#71C115|NL1 Abraham en Lot gaan uiteen (Genesis 13)
-#71C1151|NL1 na hun terugkeer in Kanaän aanbidt Abraham God opnieuw in Betel
-#71C1152|NL1 de ruzie tussen de herders ~ geschiedenis van Abraham
-#71C1153|NL1 Abraham geeft Lot de keuze uit het omringende land
-#71C1154|NL1 Lot vestigt zich in Sodom
-#71C11541|NL1 de zondigheid van de mensen in Sodom
-#71C116|NL1 de strijd van de koningen en de bevrijding van Lot (Genesis 14:1-17)
-#71C1161|NL1 de koning van Elam en drie andere koningen, zijn bondgenoten, voeren oorlog tegen de vijf rebellerende koningen van de Pentapolis
-#71C1162|NL1 de koning van Elam en zijn drie bondgenoten verslaan de vijf rebellerende koningen van de Pentapolis; op de vlucht vallen twee van de vijf koningen in aardpekbronnen, de drie andere koningen ontsnappen naar de bergen
-#71C1163|NL1 Sodom en Gomorra worden geplunderd; Lot wordt gevangen genomen
-#71C1164|NL1 het nieuws over de gevangenneming van Lot wordt door een vluchteling aan Abraham verteld
-#71C1165|NL1 Abraham roept alle mannen uit zijn kamp bij elkaar en gaat op weg om de vier koningen te achtervolgen
-#71C11651|NL1 de vier koningen worden 's nachts aangevallen, en verslagen door Abraham
-#71C11652|NL1 Abram bevrijdt Lot, haalt de gestolen goederen terug en keert zegevierend terug
-#71C117|NL1 de ontmoeting van Abram en Melchisedek, de hogepriester en de koning van Salem, die brood en wijn laat brengen (Genesis 14:18-20)
-#71C1171|NL1 Melchisedek zegent Abraham
-#71C1172|NL1 Abraham geeft Melchisedek een tiende van de buit die hij heeft heroverd
-#71C1173|NL1 Abram tegemoet gekomen door de koning van Sodom (Genesis 14:21-24)
-#71C11731|NL1 Abraham weigert zijn deel van de buit, maar staat toe dat een aantal van zijn bondgenoten nemen wat hun toekomt
-#71C118|NL1 Gods verbond met Abraham (Genesis 15)
-#71C1181|NL1 God belooft dat Abrahams nakomelingen net zo talrijk zullen zijn als de sterren van de hemel
-#71C11811|NL1 Abraham telt de sterren
-#71C1182|NL1 Gods belofte aan Abraham wordt bezegeld door een offer
-#71C11821|NL1 Abraham brengt de dieren ~ offer
-#71C118211|NL1 Abraham snijdt de dieren middendoor (offer), behalve de vogels
-#71C11822|NL1 Abraham jaagt de gieren weg die op de kadavers afkomen
-#71C11823|NL1 Abraham valt in slaap ~ offer
-#71C11824|NL1 het visioen van de rokende oven en een brandende fakkel in de nacht ~ Abrahams offer
-#71C119|NL1 Abraham en Hagar (Genesis 16)
-#71C1191|NL1 Abraham neemt Hagar tot zijn vrouw
-#71C11911|NL1 Sara brengt Hagar naar Abraham, die meestal in bed ligt
-#71C1192|NL1 de zwangere Hagar minacht de onvruchtbare Sara
-#71C11921|NL1 Sara beklaagt zich bij Abraham
-#71C1193|NL1 Hagar wordt slecht behandeld door Sara
-#71C11931|NL1 Hagar vlucht de woestijn in
-#71C11932|NL1 een engel treft Hagar aan bij de waterbron aan de weg naar Sur en overtuigt haar om terug te keren
-#71C1194|NL1 Hagar keert terug naar Abraham
-#71C11941|NL1 geboorte van Ismaël
-#71C12|NL1 de geschiedenis van Abraham (deel II)
-#71C121|NL1 besnijdenis, het teken van het verbond ~ geschiedenis van Abraham (Genesis 17)
-#71C1211|NL1 Abram wordt besneden
-#71C1212|NL1 Ismaël en alle mannen van het huishouden worden besneden
-#71C122|NL1 het bezoek van de drie engelen (drie mannen) ~ geschiedenis van Abraham (Genesis 18)
-#71C1221|NL1 als Abraham bij zijn huis (of tent) zit, verschijnen drie engelen aan hem
-#71C1222|NL1 Abram knielt voor de engelen
-#71C1223|NL1 Abram haalt water en wast de voeten van de engelen
-#71C1224|NL1 Abram ontvangt de drie engelen gastvrij
-#71C12241|NL1 Sara krijgt de opdracht brood te bakken
-#71C12242|NL1 Abraham geeft het bevel een kalf en ander voedsel klaar te maken
-#71C12243|NL1 de belofte van een zoon wordt opnieuw gedaan; Sara die dit hoort, lacht ongelovig
-#71C122431|NL1 Abraham verwijt Sara
-#71C1225|NL1 Abraham doet de vertrekkende engelen uitgeleide
-#71C12251|NL1 God vertelt Abram over de aanstaande verwoesting van Sodom en Gomorra, en belooft de steden niet te verwoesten als hij daar tien rechtvaardige mensen kan vinden
-#71C123|NL1 Lot en de twee engelen (Genesis 19:1-23)
-#71C1231|NL1 twee engelen op weg naar Sodom
-#71C1232|NL1 de engelen vinden Lot zittend bij de stadspoort; hij staat op en knielt voor hen
-#71C1233|NL1 Lot ontvangt de engelen gastvrij
-#71C12331|NL1 een maaltijd wordtklaargemaakt voor de engelen in Lots huis
-#71C12332|NL1 Lots huis wordt omringd door een menigte mannen
-#71C12333|NL1 Lot probeert de menigte te bedaren
-#71C12334|NL1 de twee engelen komen tussenbeide en slaan de mannen die het huis van Lot omringen met blindheid
-#71C1234|NL1 de engelen geven Lot het advies de stad te verlaten
-#71C12341|NL1 Lot waarschuwt zijn aanstaande schoonzonen maar wordt niet serieus genomen
-#71C12342|NL1 de engelen manen Lot vlug de stad te verlaten
-#71C124|NL1 de verwoesting van Sodom en Gomorra: Lot en zijn familie vluchten naar Soar, ze dragen hun bezittingen; een engel kan ze de weg wijzen (Genesis 19:24-29)
-#71C1241|NL1 de vrouw van Lot kijkt om naar de stad en verandert in een zoutpilaar
-#71C1242|NL1 Sodom en Gomorra branden
-#71C12421|NL1 Abraham is getuige van de verwoesting van Sodom en Gomorra
-#71C125|NL1 Lot en zijn dochters (Genesis 19:30-38)
-#71C1251|NL1 Lot, die de verwoesting van de steden heeft gezien en vreest voor zijn veiligheid in Soar, vlucht met zijn dochters naar een grot in de bergen
-#71C1252|NL1 de dochters van Lot voeren hun vader dronken
-#71C12521|NL1 de dochters van Lot slapen om de beurt met hun vader
-#71C1253|NL1 de dochters van Lot baren Moab en Ben-Ammi
-#71C126|NL1 Abraham en Abimelech, koning van Gerar (Genesis 20)
-#71C1261|NL1 Abrahams reis naar Gerar
-#71C1262|NL1 omdat hij vreest voor zijn leven zegt Abraham dat zijn vrouw zijn zuster is; Abimelech laat Sara bij zich brengen
-#71C1263|NL1 de droom van Abimelech: God verschijnt aan hem
-#71C12631|NL1 Abimelech vertelt zijn droom aan zijn dienaren
-#71C1264|NL1 Abraham moet voor Abimelech verschijnen; Sara wordt aan Abraham teruggegeven, die wordt geëerd met duizend zilverstukken en andere geschenken
-#71C1265|NL1 Abraham bidt voor Abimelech
-#71C12651|NL1 de genezing van Abimelech
-#71C127|NL1 geboorte van Isaak (Genesis 21:1-8)
-#71C1271|NL1 de besnijdenis van Isaak
-#71C1272|NL1 Sara geeft Isaak de borst
-#71C1273|NL1 Abraham geeft een feest op de dag dat Isaak van de borst wordt genomen
-#71C128|NL1 de verstoting van Hagar en Ismaël (Genesis 21:9-21)
-#71C1281|NL1 Sara beklaagt zich bij Abraham over Ismaël
-#71C1282|NL1 Abraham geeft Hagar en Ismaël brood en een kruik met water
-#71C1283|NL1 Hagar en Ismaël (vaak met pijl en boog) vertrekken
-#71C1284|NL1 Hagar en Ismaël in de woestijn
-#71C12841|NL1 Hagar zit te huilen nadat ze Ismaël onder een struik heeft gelegd om te sterven
-#71C128411|NL1 een engel verschijnt en wijst Hagar een waterput
-#71C12842|NL1 Ismaël, die opgroeit in de woestijn, wordt een goede jager
-#71C12843|NL1 het huwelijk van Ismaël
-#71C129|NL1 het bondgenootschap van Abraham en Abimelech
-#71C1291|NL1 Abimelech en zijn legeraanvoerder (Pichol) komen bij Abraham
-#71C1292|NL1 Abram doet zijn beklag over een bron die door Abimelechs knechten is toegeëigend
-#71C1293|NL1 Abraham geeft Abimelech enkele schapen, runderen en ooilammeren
-#71C1294|NL1 Abimelech en Pichol nemen afscheid van Abraham
-#71C1295|NL1 Abram plant een boom bij Berseba
-#71C13|NL1 de geschiedenis van Abraham (deel III)
-#71C131|NL1 het offer van Isaak (Genesis 22)
-#71C1311|NL1 Abraham met Isaak, een ezel en de knechten op weg naar Moria
-#71C13111|NL1 de knechten blijven achter terwijl Abraham en Isaak (meestal dragen ze hout) de berg beklimmen
-#71C1312|NL1 voorbereidingen voor het offer, bijv. Abraham die Isaak vastbindt
-#71C1313|NL1 Abraham pakt het mes op om Isaak te doden
-#71C13131|NL1 als Abraham zijn hand heft om Isaak te doden houdt God, of de hand van God, de hand van Abraham tegen
-#71C131311|NL1 als Abraham zijn hand heft om Isaak te doden houdt een engel Abrahams hand tegen
-#71C1314|NL1 een ram die met zijn horens verstrikt is geraakt in de struiken wordt geofferd in plaats van Isaak
-#71C13141|NL1 de ram van het offer ~ het offeren van Isaak
-#71C1315|NL1 de terugkeer naar Berseba ~ Abraham en Isaak
-#71C13151|NL1 het nieuws van de kinderen van Nachor ~ Abraham en Isaak
-#71C132|NL1 dood van Sara (Genesis 23)
-#71C1321|NL1 Abraham onderhandelt met Efron over een graf
-#71C13211|NL1 Abraham weegt vierhonderd zilverstukken af
-#71C1322|NL1 de begrafenis van Sara in de grot van Machpela
-#71C2|NL1 geschiedenis van Isaak
-#71C21|NL1 Rebekka (Rebecca) gezocht voor het huwelijk met Isaak (Genesis 24)
-#71C211|NL1 Eliëzer zweert de eed: Abraham stuurt hem naar zijn verwanten in Mesopotamië om een vrouw voor Isaak te vinden
-#71C212|NL1 Eliëzer op weg naar Mesopotamië
-#71C2121|NL1 als ze bij de stad komen laat Eliëzer zijn kamelen neerknielen bij een waterput en bidt hij om leiding
-#71C213|NL1 de ontmoeting bij de waterput: Eliëzer ziet Rebekka aankomen met een kruik op haar schouder
-#71C2131|NL1 Rebekka bij de waterput (zonder Eliëzer)
-#71C21311|NL1 Rebekka biedt Eliëzer water aan uit haar kruik
-#71C2132|NL1 Rebekka haalt water voor de kamelen
-#71C2133|NL1 Rebekka krijgt oorringen en gouden armbanden van Eliëzer
-#71C2134|NL1 Rebekka keert terug naar huis
-#71C2135|NL1 Laban, de broer van Rebekka, komt naar Eliëzer bij de waterput ~ Eliëzer zoekt een vrouw voor Isaak
-#71C214|NL1 Eliëzer in het huis van Rebekka
-#71C2141|NL1 de huwelijksovereenkomst ~ geschiedenis van Isaak
-#71C2142|NL1 kleding, goud en juwelen worden aan Rebekka's ouders geschonken
-#71C2143|NL1 Eliëzer wordt gastvrij ontvangen door de ouders van Rebekka
-#71C2144|NL1 het afscheid van Rebekka; Laban geeft haar een voorraad mee
-#71C215|NL1 de terugreis en de aankomst in Kanaän (Eliëzer en Rebekka)
-#71C2151|NL1 Isaak ontmoet Rebekka als hij in de velden loopt
-#71C21511|NL1 Rebekka stapt van haar kameel en bedekt haar gezicht met een sluier
-#71C216|NL1 Isaak brengt Rebekka naar de tent van Sara
-#71C217|NL1 het huwelijk van Isaak en Rebekka
-#71C22|NL1 de laatste jaren en de dood van Abraham (Genesis 25:1-11)
-#71C221|NL1 Abraham trouwt Ketura
-#71C222|NL1 Abraham geeft al zijn bezittingen aan Isaak
-#71C223|NL1 de zonen van zijn bijvrouwen ontvangen geschenken van Abraham
-#71C224|NL1 dood van Abraham
-#71C2241|NL1 Abraham wordt begraven door Isaak en Ismaël in de grot van Machpela
-#71C23|NL1 de verdere geschiedenis van Ismaël na de dood van Abraham (Genesis 25:12-18)
-#71C231|NL1 Ismaëls nakomelingen
-#71C232|NL1 dood en begrafenis van Ismaël
-#71C24|NL1 de kinderen van Isaak (Esau en Jakob) (Genesis 25:19-34)
-#71C241|NL1 Isaak bidt God om de onvruchtbaarheid van Rebekka te genezen
-#71C242|NL1 Rebekka vraagt God waarom de kinderen in haar baarmoeder tegen elkaar botsen
-#71C243|NL1 de geboorte van de tweeling: Jakob houdt de hiel van Esau vast
-#71C244|NL1 de jeugd van Esau en Jakob: Esau, de favoriet van Isaak, wordt een uitstekend jager, terwijl Jakob, Rebekka's lieveling, het liefst bij de tenten blijft
-#71C2441|NL1 Esau komt hongerig terug van de jacht en verkoopt zijn eerstgeboorterecht aan Jakob voor een kom linzensoep
-#71C25|NL1 Isaak en Abimelech (Genesis 26:1-33)
-#71C251|NL1 een hongersnood drijft Isaak naar het zuiden
-#71C2511|NL1 God verschijnt aan Isaak en waarschuwt hem om niet naar Egypte te gaan
-#71C252|NL1 Isaak in Gerar
-#71C2521|NL1 Isaak ontkent dat Rebekka zijn vrouw is
-#71C25211|NL1 Koning Abimelech kijkt uit zijn raam en ziet hoe Isaak en Rebekka elkaar liefkozen
-#71C25212|NL1 Isaak en Rebekka voor Abimelech
-#71C2522|NL1 Isaaks voorspoed als boer en herder
-#71C25221|NL1 de jaloerse Filistijnen vullen alle putten van Abraham met aarde
-#71C25222|NL1 Abimelech vraagt Isaak zijn land te verlaten
-#71C253|NL1 Isaak verhuist naar het dal van Gerar
-#71C2531|NL1 nieuwe putten worden geslagen in het dal van Gerar
-#71C254|NL1 Isaak gaat naar Berseba
-#71C2541|NL1 God verschijnt aan Isaak (reis naar Berseba)
-#71C2542|NL1 Isaak bouwt een altaar
-#71C255|NL1 het verdrag met Abimelech, die naar Berseba gekomen is met Pichol en Achuzzat
-#71C2551|NL1 het feestmaal met Abimelech
-#71C256|NL1 de waterput van Berseba wordt geslagen
-#71C26|NL1 Esau trouwt (Genesis 26:34-35)
-#71C261|NL1 Esau trouwt twee Hethietische meisjes: Jehudit en Basemat
-#71C262|NL1 Jehudit en Basemat zijn een bron van voortdurende ergernis voor Isaak en Rebekka
+7|Bijbel
+71|Oude Testament
+71A|Genesis, vanaf de schepping tot de verdrijving uit het paradijs en de latere jaren van Adam en Eva.
+71A1|In het begin...' de ordening van de chaos (Genesis 1:1-2)
+71A11|de aarde was woest en doods
+71A12|Gods geest zweefde over het water
+71A2|de zes dagen van de schepping (Genesis 1:3-25)
+71A21|scheiding van licht en duisternis
+71A22|schepping van het hemelgewelf en de scheiding van het water boven het gewelf en eronder
+71A23|het water stroomt naar een plaats onder de hemel; er verschijnt droog land dat allerlei planten voortbrengt
+71A231|schepping van vegetatie, jong groen (afzonderlijk)
+71A24|schepping van de zon, maan en de sterren
+71A25|schepping van de dieren ~ Genesis
+71A251|schepping van vogels en vissen
+71A252|schepping van de levende wezens op het land
+71A3|schepping van de mens; de tuin van Eden (Genesis 1:26 - 2)
+71A31|God vormt de mens uit stof, aarde
+71A311|de mens (Adam) komt tot leven: doorgaans strekt God zijn hand uit of blaast hij levensadem in zijn neusgaten
+71A32|God legt de tuin van Eden aan
+71A321|Tuin van Eden, paradijs
+71A3211|de vier rivieren van het paradijs (die ontspringen in een fontein)
+71A32111|Pison (rivier in het paradijs)
+71A32112|Gichon (rivier in het paradijs)
+71A32113|Tigris (Hiddekel) (rivier in het paradijs)
+71A32114|Eufraat (rivier in het Paradijs)
+71A3212|de levensboom en de boom van de kennis van goed en kwaad
+71A32121|de levensboom in de tuin van Eden
+71A32122|de boom van de kennis van goed en kwaad (de vruchten, gewoonlijk appels of vijgen, zijn dodelijk); de boom wordt soms door de slang bewaakt
+71A33|Adam in de tuin van Eden
+71A331|God brengt Adam naar het paradijs
+71A332|God spreekt tot Adam
+71A333|Adam geeft de dieren een naam
+71A34|schepping van Eva
+71A341|God neemt een rib uit de zij van de slapende Adam
+71A342|Eva wordt gevormd uit een rib van Adam
+71A3421|Eva verschijnt uit Adams lichaam
+71A35|Adam en Eva in het paradijs (voor de zondeval)
+71A351|God brengt Eva bij Adam
+71A352|God zegent Adam en Eva; instelling van het huwelijk
+71A353|Adam krijgt heerschappij over alles wat geschapen is
+71A354|God geeft Adam en Eva het gebod niet te eten van de boom van de kennis van goed en kwaad
+71A36|God rust op de zevende dag
+71A4|Verleiding en zondeval (Genesis 3:1-7)
+71A41|Verleiding en zondeval (scènes met Eva alleen)
+71A411|de slang probeert Eva over te halen om wat fruit te nemen (meestal een appel)
+71A412|Eva plukt de vrucht of neemt die aan
+71A42|Verleiding en zondeval (scènes met zowel Adam als Eva)
+71A421|Eva neemt de vrucht aan van de slang (of plukt de vrucht van de boom) in aanwezigheid van Adam (die haar misschien probeert te weerhouden)
+71A422|Eva biedt Adam de vrucht aan
+71A4221|Eva geeft wat van het fruit aan Adam en neemt nog wat aan van de slang (of plukt nog meer van de boom)
+71A4222|Adam neemt zelf fruit van de boom
+71A423|Adam en Eva die de vrucht vasthouden (en er wellicht ook van eten)
+71A4231|Adam (alleen) die de vrucht vasthoudt
+71A4232|Eva (alleen) die de vrucht vasthoudt
+71A424|Adam en Eva ontdekken hun naaktheid; ze bedekken zichzelf met hun handen of met vijgenbladeren
+71A5|Verleiding en zondeval: Adam en Eva in het paradijs (na de zondeval) (Genesis 3:8-21)
+71A51|Adam en/of Eva overweldigd door berouw
+71A52|God wandelt in de tuin van Eden
+71A521|God roept Adam en Eva ter verantwoording voor hun daad
+71A522|Adam en Eva verbergen zich voor God
+71A53|Adam en Eva worden berispt door God
+71A531|Adam (alleen) door God berispt; Adam geeft Eva de schuld
+71A532|Eva (alleen) door God berispt; Eva geeft de slang de schuld
+71A54|de bestraffing van Adam en Eva
+71A541|de slang wordt door God vervloekt en veroordeeld tot het eten van stof en het kruipen op zijn buik
+71A542|straf van Eva (alleen)
+71A543|straf van Adam (alleen)
+71A55|Adam en Eva worden door God gekleed
+71A551|Adam en Eva krijgen gereedschap, gewoonlijk een spade en een spindel
+71A6|verdrijving van Adam en Eva uit het paradijs (Genesis 3:22-24)
+71A61|God verdrijft Adam en Eva uit het paradijs en laat de levensboom bewaken door een engel met een vlammend zwaard
+71A611|een engel jaagt Adam en Eva uit het paradijs met een (vlammend) zwaard
+71A62|Adam en Eva buiten de tuin van Eden, waarvan de ingang wordt bewaakt door cherubs
+71A63|Adam en Eva doen boete
+71A631|reinigingsbad van Adam en Eva
+71A7|de arbeid van Adam en Eva; de jeugd van Kaïn en Abel (Genesis 4:1-2)
+71A71|Eva zwanger
+71A711|geboorte van Kaïn
+71A7111|bad, rituele reiniging van Eva
+71A712|geboorte van Abel
+71A7121|Adam doet Abel in bad met de hulp van Kaïn
+71A7122|Eva geeft Abel de borst; Kaïn wendt zich af, d.w.z. de jaloezie van Kaïn
+71A72|Adam (en Eva) houden zich bezig met agrarische activiteiten
+71A721|Adam houdt zich bezig met agrarische activiteiten, Eva spint en gewoonlijk spelen hun kinderen
+71A722|Adam houdt zich bezig met agrarische activiteiten, Eva geeft de kinderen de borst
+71A723|een engel instrueert Adam in agrarische activiteiten
+71A73|onderwijs, opvoeding van Kaïn en Abel
+71A731|Kaïn en Abel leren hun vader te helpen; Kaïn in de landbouw, Abel bij het hoeden van het vee
+71A732|Kaïn (alleen) aan het werk, als landbouwer
+71A733|Abel (alleen) aan het werk, als herder
+71A8|het verhaal van Kaïn en Abel (Genesis 4:3-17)
+71A81|het offer van Kaïn en Abel: Abel offert een lam, Kaïn gewoonlijk een korenschoof
+71A811|God (of de hand van God) verschijnt en zegent Abel ~ offer
+71A812|de rook van Abels offer stijgt rechtstreeks naar de hemel, terwijl de rook van Kaïns offer neerslaat
+71A8121|de rook van Abels offer stijgt rechtstreeks naar de hemel, terwijl de rook van Kaïns offer neerslaat, met God die Abel zegent
+71A813|een engel ontvangt het lam van Abel, terwijl een duivel Kaïn mogelijk helpt
+71A814|Abel brengt zijn offer (alleen)
+71A815|Kaïn brengt zijn offer (alleen)
+71A82|het doden van Abel: Kaïn doodt hem met een steen, een knuppel of een kaakbeen, als alternatief met een spade of een ander hulpmiddel als wapen
+71A821|de dood van Abel
+71A822|Kaïn begraaft Abel
+71A823|Adam en Eva ontdekken de gestorven Abel en treuren bij zijn lichaam
+71A824|Adam en Eva begraven Abel
+71A83|de vervloeking en vlucht van Kaïn
+71A831|de Heer roept Kaïn ter verantwoording voor zijn daad
+71A8311|Abels bloed schreeuwt om wraak
+71A832|de vervloeking van Kaïn
+71A8321|God merkt Kaïn met een teken
+71A833|de vlucht van Kaïn
+71A834|Kaïn heeft berouw
+71A84|het latere leven van Kaïn
+71A841|Kaïn en zijn familie
+71A8411|geboorte van Henoch
+71A842|Kaïn bouwt de stad Henoch
+71A9|de laatste jaren en de dood van Adam en Eva, en het verhaal van Set (Genesis 4:25, 5:1-8)
+71A91|de laatste jaren en de dood van Adam en Eva
+71A911|geboorte van Set
+71A912|dood van Adam
+71A9121|begrafenis van Adam
+71A9122|het graf van Adam
+71A913|dood van Eva
+71A92|geschiedenis van Set
+71B|Genesis vanaf de nakomelingen van Kaïn en Set tot Abraham
+71B1|de afstammelingen van Kaïn, de Kaïnieten (Genesis 4:18-24)
+71B11|geschiedenis van Henoch, de zoon van Kaïn
+71B12|geschiedenis van Irad
+71B13|geschiedenis van Mechujaël
+71B14|geschiedenis van Metusaël
+71B15|geschiedenis van Lamech, de zoon van Metusaël
+71B151|Lamech doodt Kaïn: Kaïn wordt per ongeluk doodgeschoten door een pijl van de blinde Lamech, die bij de jacht wordt geholpen door zijn zoon Tubal-Kaïn
+71B1511|de vertoornde Lamech doodt Tubal-Kaïn
+71B152|Lamech bekend aan zijn vrouwen, Ada en Silla, dat hij een oude en een jonge man heeft gedood (Kaïn en Tubal-Kaïn)
+71B1521|Lamech wordt terechtgewezen of geslagen door zijn vrouwen
+71B16|de kinderen van Lamech
+71B161|geschiedenis van Jabal, stamvader van hen die in tenten leven en vee houden
+71B162|geschiedenis van Jubal, stamvader van hen die op de lier of fluit spelen
+71B163|geschiedenis van Tubal-Kaïn, de eerste smid en stamvader van hen die brons en ijzer bewerken
+71B2|de nakomelingen van Set (Genesis 4:26, 5:9-32)
+71B21|geschiedenis van Enos
+71B22|geschiedenis van Kenan
+71B23|geschiedenis van Mahalalel
+71B24|geschiedenis van Jered
+71B25|geschiedenis van Henoch, zoon van Jered, die het schrift uitvond en de eerste was die het jaar in seizoenen en twaalf maanden verdeelde
+71B251|de ten hemel opneming van Henoch
+71B26|geschiedenis van Metuselach
+71B27|geschiedenis van Lamech, de zoon van Metuselach
+71B271|geboorte van Noach
+71B3|geschiedenis van Noach
+71B31|voor de zondvloed (Genesis 6-7:4)
+71B311|de zondige mensheid; de zondaars worden meestal feestend afgebeeld
+71B3111|de giganten op aarde ~ de zonde van de mensheid
+71B312|God ziet de verdorvenheid van de mens
+71B3121|God kondigt een grote vloed aan en geeft Noch de opdracht een ark te bouwen
+71B32|de bouw van de ark, en de inscheping (Genesis 7:5-9)
+71B321|Noach bouwt de ark
+71B3211|Noach bouwt de ark samen met zijn zonen
+71B3212|de ark wordt bestreken met pek ~ Noach
+71B3213|de duivel probeert de bouw van de ark te voorkomen
+71B322|de inscheping van de ark
+71B3221|het verzamelen van de dieren in paren ~ geschiedenis van Noach
+71B3222|de dieren gaan de ark binnen
+71B3223|Noach en zijn familie gaan de ark binnen
+71B323|God sluit de ark ~ geschiedenis van Noach
+71B33|de zondvloed en de vernietiging van de mensheid ~ geschiedenis van Noach (Genesis 7:10 - 8:17)
+71B331|de ark drijft op het water, terwijl het leven op aarde wordt vernietigd ~ geschiedenis van Noach
+71B3311|de ark drijft op het water (de vernietiging van de mensheid niet zichtbaar)
+71B33111|de ark ~ geschiedenis van Noach
+71B3312|vernietiging van de mensheid door de zondvloed (de ark afwezig of nauwelijks zichtbaar)
+71B332|de ark van Noach loopt vast op het Araratgebergte
+71B3321|Noach laat een raaf los die niet terugkeert
+71B3322|Noach laat een duif los
+71B33221|de duif keert terug met een olijftak ~ geschiedenis van Noach
+71B33222|de duif die niet terugkeerde ~ geschiedenis van Noach
+71B3323|de duivel ontsnapt door een gat te maken in de bodem van de ark, de ringslang vult het gat op met zijn staart om te voorkomen dat de ark zinkt
+71B34|de ontscheping ~ geschiedenis van Noach
+71B341|God geeft Noach de opdracht de ark te verlaten en opent de ark
+71B342|Noach, zijn familie en de dieren verlaten de ark (soms in combinatie met de regenboog van het verbond)
+71B3421|de dieren verlaten de ark ~ geschiedenis van Noach
+71B343|het offer van Noach; verschillende dieren worden geofferd, mogelijk een lam, een duif en een ram (vaak in combinatie met de regenboog van het verbond
+71B3431|God zegent Noach en geeft hem zijn geboden
+71B34311|Gods verbond met Noach: er zal nooit meer een zondvloed zijn; als teken van dit verbond plaatst God een regenboog aan de hemel
+71B344|de overblijfselen van de ark ~ geschiedenis van Noach
+71B35|Noach als wijnbouwer (Genesis 9:18-27)
+71B351|Noach legt een wijngaard aan
+71B3511|Noach proeft de wijn
+71B352|dronkenschap van Noach
+71B3521|bespotting van Noach: Cham ziet zijn vader (deels) naakt en slapend buiten (of in zijn tent of in een schuur in de wijngaard); Cham roept zijn broers
+71B35211|Sem en Jafet bedekken hun vader Noach; meestal bespot Cham zijn vader
+71B352111|Sem en Jafet lopen achterwaarts richting Noach
+71B3522|Noach ontwaakt uit zijn roes en vervloekt Kanaän, de zoon van Cham
+71B35221|Noach vervloekt Cham (en Kanaän)
+71B353|Noach zegent zijn zonen Sem en Jafet
+71B36|de laatste jaren van Noach (Genesis 9:28-29)
+71B361|Noach verdeelt de wereld middels een loting onder zijn zonen, die allemaal zweren tevreden te zijn met het deel dat ze krijgen toegewezen
+71B362|Noachs dood en begrafenis
+71B37|Noachs nakomelingen (Genesis 10, 11:10-26)
+71B371|geschiedenis van Nimrod, een geweldige jager, de eerste machthebber op aarde
+71B3711|de bouw van Nineve
+71B4|geschiedenis van de toren van Babel (Genesis 11:1-9)
+71B41|de reis naar Sinear
+71B42|de toren van Babel
+71B421|de bouw van de toren van Babel; Nimrod kan aanwezig zijn om toezicht te houden op de bouw, of om mee te bouwen
+71B4211|de toren van Babel wordt bekeken door God
+71B422|vernietiging van de toren van Babel
+71B4221|de spraakverwarring en de verspreiding van de mensen over de hele aarde ~ geschiedenis van de toren van Babel
+71B42211|de ruïnes van de toren van Babel
+71C|Genesis: de aartsvaders
+71C1|geschiedenis van Abraham
+71C11|geschiedenis van Abraham (deel I)
+71C111|Abrahams jeugd (Genesis 11:39-32)
+71C1111|Abraham trouwt Sara
+71C1112|Terach neemt Abraham, Sara en Lot mee van Ur naar de stad Charan
+71C1113|Abraham vernietigt zijn vaders afgodsbeelden
+71C11131|Terach levert Abraham uit aan koning Nimrod, die hem veroordeelt om in het vuur (of de vurige oven) van de Chaldeeën te worden gegooid; hij wordt op wonderlijke wijze gered door God
+71C11132|Haran, Abrahams broer besluit ook de vuurproef te ondergaan nadat hij het wonder gezien heeft, maar hij wordt onmiddellijk verteerd door het vuur
+71C1114|dood van Terach
+71C112|Abraham spreekt met God (in het algemeen)
+71C113|Abraham gaat naar Kanaän (Genesis 12:1-9
+71C1131|de roeping van Abraham
+71C1132|Abraham vertrekt naar het land Kanaän met Sara, Lot en zijn bezittingen
+71C1133|Abraham in Kanaän
+71C11331|Abraham komt bij de eik van More bij Sichem en bouwt daar zijn eerste altaar
+71C11332|Abraham verplaatst zijn tentenkamp naar Betel en bouwt zijn tweede altaar
+71C114|Abraham in Egypte (Genesis 12:10-20)
+71C1141|een hongersnood drijft Abraham van Kanaän naar Egypte
+71C1142|Abraham geeft instructies aan Sara: `Zeg dat je mijn zuster bent`
+71C1143|Sara trekt de aamdacht van de Egyptenaren en wordt naar het paleis van de farao gebracht
+71C1144|Sara met de farao
+71C11441|Abraham wordt door de farao met geschenken overladen
+71C11442|God treft de farao met plagen ~ geschiedenis van Abram
+71C11443|Abram wordt bij de farao ontboden en hij krijgt de opdracht met Sara Egypte te verlaten
+71C1145|Abraham verlaat Egypte met Sara, Lot en zijn bezittingen
+71C1146|Abraham onderwijst de Egyptenaren astronomie
+71C115|Abraham en Lot gaan uiteen (Genesis 13)
+71C1151|na hun terugkeer in Kanaän aanbidt Abraham God opnieuw in Betel
+71C1152|de ruzie tussen de herders ~ geschiedenis van Abraham
+71C1153|Abraham geeft Lot de keuze uit het omringende land
+71C1154|Lot vestigt zich in Sodom
+71C11541|de zondigheid van de mensen in Sodom
+71C116|de strijd van de koningen en de bevrijding van Lot (Genesis 14:1-17)
+71C1161|de koning van Elam en drie andere koningen, zijn bondgenoten, voeren oorlog tegen de vijf rebellerende koningen van de Pentapolis
+71C1162|de koning van Elam en zijn drie bondgenoten verslaan de vijf rebellerende koningen van de Pentapolis; op de vlucht vallen twee van de vijf koningen in aardpekbronnen, de drie andere koningen ontsnappen naar de bergen
+71C1163|Sodom en Gomorra worden geplunderd; Lot wordt gevangen genomen
+71C1164|het nieuws over de gevangenneming van Lot wordt door een vluchteling aan Abraham verteld
+71C1165|Abraham roept alle mannen uit zijn kamp bij elkaar en gaat op weg om de vier koningen te achtervolgen
+71C11651|de vier koningen worden 's nachts aangevallen, en verslagen door Abraham
+71C11652|Abram bevrijdt Lot, haalt de gestolen goederen terug en keert zegevierend terug
+71C117|de ontmoeting van Abram en Melchisedek, de hogepriester en de koning van Salem, die brood en wijn laat brengen (Genesis 14:18-20)
+71C1171|Melchisedek zegent Abraham
+71C1172|Abraham geeft Melchisedek een tiende van de buit die hij heeft heroverd
+71C1173|Abram tegemoet gekomen door de koning van Sodom (Genesis 14:21-24)
+71C11731|Abraham weigert zijn deel van de buit, maar staat toe dat een aantal van zijn bondgenoten nemen wat hun toekomt
+71C118|Gods verbond met Abraham (Genesis 15)
+71C1181|God belooft dat Abrahams nakomelingen net zo talrijk zullen zijn als de sterren van de hemel
+71C11811|Abraham telt de sterren
+71C1182|Gods belofte aan Abraham wordt bezegeld door een offer
+71C11821|Abraham brengt de dieren ~ offer
+71C118211|Abraham snijdt de dieren middendoor (offer), behalve de vogels
+71C11822|Abraham jaagt de gieren weg die op de kadavers afkomen
+71C11823|Abraham valt in slaap ~ offer
+71C11824|het visioen van de rokende oven en een brandende fakkel in de nacht ~ Abrahams offer
+71C119|Abraham en Hagar (Genesis 16)
+71C1191|Abraham neemt Hagar tot zijn vrouw
+71C11911|Sara brengt Hagar naar Abraham, die meestal in bed ligt
+71C1192|de zwangere Hagar minacht de onvruchtbare Sara
+71C11921|Sara beklaagt zich bij Abraham
+71C1193|Hagar wordt slecht behandeld door Sara
+71C11931|Hagar vlucht de woestijn in
+71C11932|een engel treft Hagar aan bij de waterbron aan de weg naar Sur en overtuigt haar om terug te keren
+71C1194|Hagar keert terug naar Abraham
+71C11941|geboorte van Ismaël
+71C12|de geschiedenis van Abraham (deel II)
+71C121|besnijdenis, het teken van het verbond ~ geschiedenis van Abraham (Genesis 17)
+71C1211|Abram wordt besneden
+71C1212|Ismaël en alle mannen van het huishouden worden besneden
+71C122|het bezoek van de drie engelen (drie mannen) ~ geschiedenis van Abraham (Genesis 18)
+71C1221|als Abraham bij zijn huis (of tent) zit, verschijnen drie engelen aan hem
+71C1222|Abram knielt voor de engelen
+71C1223|Abram haalt water en wast de voeten van de engelen
+71C1224|Abram ontvangt de drie engelen gastvrij
+71C12241|Sara krijgt de opdracht brood te bakken
+71C12242|Abraham geeft het bevel een kalf en ander voedsel klaar te maken
+71C12243|de belofte van een zoon wordt opnieuw gedaan; Sara die dit hoort, lacht ongelovig
+71C122431|Abraham verwijt Sara
+71C1225|Abraham doet de vertrekkende engelen uitgeleide
+71C12251|God vertelt Abram over de aanstaande verwoesting van Sodom en Gomorra, en belooft de steden niet te verwoesten als hij daar tien rechtvaardige mensen kan vinden
+71C123|Lot en de twee engelen (Genesis 19:1-23)
+71C1231|twee engelen op weg naar Sodom
+71C1232|de engelen vinden Lot zittend bij de stadspoort; hij staat op en knielt voor hen
+71C1233|Lot ontvangt de engelen gastvrij
+71C12331|een maaltijd wordtklaargemaakt voor de engelen in Lots huis
+71C12332|Lots huis wordt omringd door een menigte mannen
+71C12333|Lot probeert de menigte te bedaren
+71C12334|de twee engelen komen tussenbeide en slaan de mannen die het huis van Lot omringen met blindheid
+71C1234|de engelen geven Lot het advies de stad te verlaten
+71C12341|Lot waarschuwt zijn aanstaande schoonzonen maar wordt niet serieus genomen
+71C12342|de engelen manen Lot vlug de stad te verlaten
+71C124|de verwoesting van Sodom en Gomorra: Lot en zijn familie vluchten naar Soar, ze dragen hun bezittingen; een engel kan ze de weg wijzen (Genesis 19:24-29)
+71C1241|de vrouw van Lot kijkt om naar de stad en verandert in een zoutpilaar
+71C1242|Sodom en Gomorra branden
+71C12421|Abraham is getuige van de verwoesting van Sodom en Gomorra
+71C125|Lot en zijn dochters (Genesis 19:30-38)
+71C1251|Lot, die de verwoesting van de steden heeft gezien en vreest voor zijn veiligheid in Soar, vlucht met zijn dochters naar een grot in de bergen
+71C1252|de dochters van Lot voeren hun vader dronken
+71C12521|de dochters van Lot slapen om de beurt met hun vader
+71C1253|de dochters van Lot baren Moab en Ben-Ammi
+71C126|Abraham en Abimelech, koning van Gerar (Genesis 20)
+71C1261|Abrahams reis naar Gerar
+71C1262|omdat hij vreest voor zijn leven zegt Abraham dat zijn vrouw zijn zuster is; Abimelech laat Sara bij zich brengen
+71C1263|de droom van Abimelech: God verschijnt aan hem
+71C12631|Abimelech vertelt zijn droom aan zijn dienaren
+71C1264|Abraham moet voor Abimelech verschijnen; Sara wordt aan Abraham teruggegeven, die wordt geëerd met duizend zilverstukken en andere geschenken
+71C1265|Abraham bidt voor Abimelech
+71C12651|de genezing van Abimelech
+71C127|geboorte van Isaak (Genesis 21:1-8)
+71C1271|de besnijdenis van Isaak
+71C1272|Sara geeft Isaak de borst
+71C1273|Abraham geeft een feest op de dag dat Isaak van de borst wordt genomen
+71C128|de verstoting van Hagar en Ismaël (Genesis 21:9-21)
+71C1281|Sara beklaagt zich bij Abraham over Ismaël
+71C1282|Abraham geeft Hagar en Ismaël brood en een kruik met water
+71C1283|Hagar en Ismaël (vaak met pijl en boog) vertrekken
+71C1284|Hagar en Ismaël in de woestijn
+71C12841|Hagar zit te huilen nadat ze Ismaël onder een struik heeft gelegd om te sterven
+71C128411|een engel verschijnt en wijst Hagar een waterput
+71C12842|Ismaël, die opgroeit in de woestijn, wordt een goede jager
+71C12843|het huwelijk van Ismaël
+71C129|het bondgenootschap van Abraham en Abimelech
+71C1291|Abimelech en zijn legeraanvoerder (Pichol) komen bij Abraham
+71C1292|Abram doet zijn beklag over een bron die door Abimelechs knechten is toegeëigend
+71C1293|Abraham geeft Abimelech enkele schapen, runderen en ooilammeren
+71C1294|Abimelech en Pichol nemen afscheid van Abraham
+71C1295|Abram plant een boom bij Berseba
+71C13|de geschiedenis van Abraham (deel III)
+71C131|het offer van Isaak (Genesis 22)
+71C1311|Abraham met Isaak, een ezel en de knechten op weg naar Moria
+71C13111|de knechten blijven achter terwijl Abraham en Isaak (meestal dragen ze hout) de berg beklimmen
+71C1312|voorbereidingen voor het offer, bijv. Abraham die Isaak vastbindt
+71C1313|Abraham pakt het mes op om Isaak te doden
+71C13131|als Abraham zijn hand heft om Isaak te doden houdt God, of de hand van God, de hand van Abraham tegen
+71C131311|als Abraham zijn hand heft om Isaak te doden houdt een engel Abrahams hand tegen
+71C1314|een ram die met zijn horens verstrikt is geraakt in de struiken wordt geofferd in plaats van Isaak
+71C13141|de ram van het offer ~ het offeren van Isaak
+71C1315|de terugkeer naar Berseba ~ Abraham en Isaak
+71C13151|het nieuws van de kinderen van Nachor ~ Abraham en Isaak
+71C132|dood van Sara (Genesis 23)
+71C1321|Abraham onderhandelt met Efron over een graf
+71C13211|Abraham weegt vierhonderd zilverstukken af
+71C1322|de begrafenis van Sara in de grot van Machpela
+71C2|geschiedenis van Isaak
+71C21|Rebekka (Rebecca) gezocht voor het huwelijk met Isaak (Genesis 24)
+71C211|Eliëzer zweert de eed: Abraham stuurt hem naar zijn verwanten in Mesopotamië om een vrouw voor Isaak te vinden
+71C212|Eliëzer op weg naar Mesopotamië
+71C2121|als ze bij de stad komen laat Eliëzer zijn kamelen neerknielen bij een waterput en bidt hij om leiding
+71C213|de ontmoeting bij de waterput: Eliëzer ziet Rebekka aankomen met een kruik op haar schouder
+71C2131|Rebekka bij de waterput (zonder Eliëzer)
+71C21311|Rebekka biedt Eliëzer water aan uit haar kruik
+71C2132|Rebekka haalt water voor de kamelen
+71C2133|Rebekka krijgt oorringen en gouden armbanden van Eliëzer
+71C2134|Rebekka keert terug naar huis
+71C2135|Laban, de broer van Rebekka, komt naar Eliëzer bij de waterput ~ Eliëzer zoekt een vrouw voor Isaak
+71C214|Eliëzer in het huis van Rebekka
+71C2141|de huwelijksovereenkomst ~ geschiedenis van Isaak
+71C2142|kleding, goud en juwelen worden aan Rebekka's ouders geschonken
+71C2143|Eliëzer wordt gastvrij ontvangen door de ouders van Rebekka
+71C2144|het afscheid van Rebekka; Laban geeft haar een voorraad mee
+71C215|de terugreis en de aankomst in Kanaän (Eliëzer en Rebekka)
+71C2151|Isaak ontmoet Rebekka als hij in de velden loopt
+71C21511|Rebekka stapt van haar kameel en bedekt haar gezicht met een sluier
+71C216|Isaak brengt Rebekka naar de tent van Sara
+71C217|het huwelijk van Isaak en Rebekka
+71C22|de laatste jaren en de dood van Abraham (Genesis 25:1-11)
+71C221|Abraham trouwt Ketura
+71C222|Abraham geeft al zijn bezittingen aan Isaak
+71C223|de zonen van zijn bijvrouwen ontvangen geschenken van Abraham
+71C224|dood van Abraham
+71C2241|Abraham wordt begraven door Isaak en Ismaël in de grot van Machpela
+71C23|de verdere geschiedenis van Ismaël na de dood van Abraham (Genesis 25:12-18)
+71C231|Ismaëls nakomelingen
+71C232|dood en begrafenis van Ismaël
+71C24|de kinderen van Isaak (Esau en Jakob) (Genesis 25:19-34)
+71C241|Isaak bidt God om de onvruchtbaarheid van Rebekka te genezen
+71C242|Rebekka vraagt God waarom de kinderen in haar baarmoeder tegen elkaar botsen
+71C243|de geboorte van de tweeling: Jakob houdt de hiel van Esau vast
+71C244|de jeugd van Esau en Jakob: Esau, de favoriet van Isaak, wordt een uitstekend jager, terwijl Jakob, Rebekka's lieveling, het liefst bij de tenten blijft
+71C2441|Esau komt hongerig terug van de jacht en verkoopt zijn eerstgeboorterecht aan Jakob voor een kom linzensoep
+71C25|Isaak en Abimelech (Genesis 26:1-33)
+71C251|een hongersnood drijft Isaak naar het zuiden
+71C2511|God verschijnt aan Isaak en waarschuwt hem om niet naar Egypte te gaan
+71C252|Isaak in Gerar
+71C2521|Isaak ontkent dat Rebekka zijn vrouw is
+71C25211|Koning Abimelech kijkt uit zijn raam en ziet hoe Isaak en Rebekka elkaar liefkozen
+71C25212|Isaak en Rebekka voor Abimelech
+71C2522|Isaaks voorspoed als boer en herder
+71C25221|de jaloerse Filistijnen vullen alle putten van Abraham met aarde
+71C25222|Abimelech vraagt Isaak zijn land te verlaten
+71C253|Isaak verhuist naar het dal van Gerar
+71C2531|nieuwe putten worden geslagen in het dal van Gerar
+71C254|Isaak gaat naar Berseba
+71C2541|God verschijnt aan Isaak (reis naar Berseba)
+71C2542|Isaak bouwt een altaar
+71C255|het verdrag met Abimelech, die naar Berseba gekomen is met Pichol en Achuzzat
+71C2551|het feestmaal met Abimelech
+71C256|de waterput van Berseba wordt geslagen
+71C26|Esau trouwt (Genesis 26:34-35)
+71C261|Esau trouwt twee Hethietische meisjes: Jehudit en Basemat
+71C262|Jehudit en Basemat zijn een bron van voortdurende ergernis voor Isaak en Rebekka
+>>>>>>> bba2778dd99d6aca374e480c42031799001daf22
 #71C27|Isaac's blessing (of Jacob and Esau) (Genesis 27)
 #71C271|Isaac, stricken with old age and near blindness, sends Esau for venison; Rebekah overhears the conversation
 #71C272|Esau hunting
