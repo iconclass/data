@@ -56,7 +56,7 @@
 #22C3121|oval or almond-shaped mandorla
 #22C3122|circular mandorla
 #22C32|light shining out of the heavens
-#22C4|colours, pigments, and paints
+22C4|顏色, 顏料, 和 油漆
 #22C4(...)|colours, pigments, and paints (with NAME)
 #22C4(BLACK)|colours, pigments, and paints: black
 #22C4(BLUE)|colours, pigments, and paints: blue

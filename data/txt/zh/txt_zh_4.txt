@@ -969,7 +969,7 @@
 #41D99|being ashamed (of one's nakedness)
 #41D991|attempt to cover one's nakedness
 #41DD121|model, mannequin - DD - male model
-#41E|still life of miscellaneous objects
+41E|各種物體靜物
 #41E1|still life of related objects
 #41E2|'trompe l'oeil'
 42|家庭，后裔
@@ -4979,7 +4979,7 @@
 #48A95|children's art
 #48A96|psychotic and psychiatric art
 #48A97|'kitsch', 'Trivialkunst'
-#48A98|ornaments ~ art
+48A98|裝飾品〜藝術
 #48A981|ornament ~ geometric motifs
 #48A9811|ornament ~ straight lines (right angles only)
 #48A98111|ornament ~ meander
