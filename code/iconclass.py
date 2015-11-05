@@ -229,7 +229,9 @@ def get_list(notations):
     return [buf.get(x) for x in notations]
 
 def redis_get(notation):
-    # Handle the Keys (+ etc. )    
+    # Handle the Keys (+ etc. )
+    if type(notation) == unicode:
+        notation = notation.encode('utf8')
     tmp = notation.split('(+')
     if len(tmp) == 2:
         base, key = tmp
@@ -276,6 +278,7 @@ def redis_get(notation):
         # # Fix the children
         new_kids = set()
         for kk in key_obj.keys():
+            kk = kk.encode('utf8') # Make sure kk is a string to prevent unicodedecodeerrors
             if kk.startswith(key) and len(kk) == (len(key)+1):
                 new_kids.add('%s(+%s)' % (base, kk))
         if key:
@@ -357,7 +360,8 @@ def hier(notation):
         return
     if not obj:
         raise Exception('Object %s does not exist' % notation)
-    sys.stderr.write( '%20s\t%s\r' % (notation.encode('utf8'), obj.get('txt', {}).get('en').encode('utf8')[:70]) )
+    sys.stderr.write(' ' * 110 + '\r')
+    sys.stderr.write( '%20s\t%s\r' % (notation.encode('utf8'), obj.get('txt', {}).get('en').encode('utf8')[:90]) )
     for c in obj.get('c', []):
         hier(c)
 

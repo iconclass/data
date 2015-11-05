@@ -6,6 +6,11 @@ test_notations = [
     '0', '1', '25FF'   
 ]
 
+def test_bogosity():
+    x = get('41D211(CHEMISE À LA REINE)(+1)')  # The unicode part of this notation was causing problems with the keys
+    assert x is not None
+
+
 def test_commented_lines():
     x = get('00A')
     assert x is None
