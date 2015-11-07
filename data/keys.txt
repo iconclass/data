@@ -130,7 +130,7 @@ TXT_IT donatore/i, supplice/i, con o senza santo/i patrono/i
 TXT_FR donateur(s), suppliant(s), avec ou sans saint(s) patron(s)
 TXT_DE Stifter, Bittsteller, mit oder ohne Schutzheilige(n)
 TXT_PL donatorzy, suplikanci, z (bez) świętymi patronami
-TXT_NL 
+TXT_NL donor(en), smekeling(en), al dan niet met beschermheilige(n)
 $
 CODE 23k
 SUFFIX 0
