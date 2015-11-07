@@ -900,7 +900,7 @@
 #59CC22|Partiality; 'Partialità' (Ripa)
 #59CC221|Corruptibility, Venality, Corruption
 #59CC3|Illegality
-#6|History
+6|Historia
 61|eventos y situaciones históricas; personajes históricos
 #61A|historical events and situations
 #61A(...)|historical events and situations (with DATE)
@@ -962,7 +962,7 @@
 #61K|(other) historical names
 #61K(...)|(other) historical names (with NAME)
 62|visiones de futuro
-#7|Bible
+7|Biblia
 71|Antiguo Testamento
 #71A|Genesis from the creation to the expulsion from paradise, and later years of Adam and Eve
 #71A1|'In the beginning ...' the ordering of chaos (Genesis 1:1-2)
@@ -6921,7 +6921,7 @@
 #73G573|the tree of life with its twelve kinds of fruit ~ Revelation
 #73G6|John adoring the angel after the Revelation
 #73GG411|a pregnant woman, clothed with the sun and standing on the moon, appears; she is threatened by a red dragon with a long tail and seven heads - GG - Mary as the apocalyptic woman
-#8|Literature
+8|Literatura
 81|ciclos literarios
 #81(...)|literary cycle (with NAME of CYCLE)
 #81(ARTHURIAN LEGEND)|'Arthurian legend'
