@@ -2386,7 +2386,7 @@
 #29B|plants behaving as human beings or animals
 #29C|objects coming to life, e.g. puppets
 #29D|natural forms in stones, wood, clouds, etc. interpreted as representations
-#3|Human Being, Man in General
+3|Ser Humano, hombre en general
 #31|man in a general biological sense
 #31A|the (nude) human figure; 'Corpo humano' (Ripa)
 #31A1|canon, proportions
