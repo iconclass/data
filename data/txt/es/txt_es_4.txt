@@ -1,6 +1,6 @@
 4|Sociedad, Civilización, Cultura
 41|aspectos materiales de la vida diaria
-#41A|housing
+41A|viviendas
 #41A1|civic architecture; edifices; dwellings
 #41A10|'Edifitio overo un sito' (Ripa)
 #41A11|palace

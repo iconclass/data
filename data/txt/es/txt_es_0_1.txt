@@ -598,7 +598,7 @@
 #11G32|the Archangel Michael (and other angels) casting the rebel angels out of heaven
 #11G321|angels casting the rebel angels out of heaven (Michael not present)
 #11G33|fall of the rebel angels, who become devils
-#11G331|the fall of Satan, fall of Lucifer
+11G331|la caída de Satanás, caída de Lucifer
 #11G34|angels fighting against other evil powers
 #11G4|specific aspects of angels, e.g. intervening in human affairs
 #11G41|guardian angel

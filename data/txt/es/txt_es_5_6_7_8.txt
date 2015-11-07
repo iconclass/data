@@ -198,7 +198,7 @@
 #51MM11|Slowness, Tardiness; 'Tardità' (Ripa)
 #51MM12|Lingering
 52|Razonamiento y Formación de las Ideas
-#52A|Intelligence and Intellectual Faculties
+52A|La inteligencia y las facultades intelectuales
 #52A1|Intellect, Intelligence; 'Intelletto', 'Intelligenza' (Ripa)
 #52A11|Attention, Concentration
 #52A12|Curiosity, Inquisitiveness, Desire of Knowledge; 'Curiosità' (Ripa)

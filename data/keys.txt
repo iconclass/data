@@ -31,6 +31,7 @@ TXT_IT Dio Padre
 TXT_FR Dieu le Père
 TXT_DE Gottvater
 TXT_PL Bóg Ojciec
+TXT_NL God de Vader
 $
 CODE 11k
 SUFFIX 111
@@ -39,6 +40,7 @@ TXT_IT Dio Padre sotto forma di luce
 TXT_FR Dieu le Père sous la forme de lumière
 TXT_DE Gottvater in Form von Licht
 TXT_PL Bóg Ojciec pod postacią światła
+TXT_NL God de Vader in de vorm van licht
 $
 CODE 11k
 SUFFIX 12
@@ -47,6 +49,7 @@ TXT_IT Cristo
 TXT_FR le Christ
 TXT_DE Christus
 TXT_PL Chrystus
+TXT_NL Christus
 $
 CODE 11k
 SUFFIX 121
@@ -55,6 +58,7 @@ TXT_IT Cristo barbato
 TXT_FR Christ (barbu)
 TXT_DE Christus (bärtig)
 TXT_PL Chrystus brodaty
+TXT_NL Christus met baard
 $
 CODE 11k
 SUFFIX 122
@@ -63,6 +67,7 @@ TXT_IT Cristo senza barba
 TXT_FR Christ (imberbe)
 TXT_DE Christus (ohne Bart)
 TXT_PL Chrystus bez brody
+TXT_NL Christus zonder baard
 $
 CODE 11k
 SUFFIX 13
@@ -71,6 +76,7 @@ TXT_IT Spirito Santo (come colomba)
 TXT_FR le Saint-Esprit (sous la forme d'une colombe)
 TXT_DE der Hl. Geist (als Taube)
 TXT_PL Duch Święty (jako gołębica)
+TXT_NL De Heilige Geest (als duif)
 $
 CODE 11k
 SUFFIX 131
@@ -79,6 +85,7 @@ TXT_IT Spirito Santo (non come colomba)
 TXT_FR le Saint-Esprit (sous une autre forme que celle d'une colombe)
 TXT_DE der Hl. Geist (nicht als Taube)
 TXT_PL Duch Święty (w postaci innej niż gołębica)
+TXT_NL De Heilige Geest (niet als duif)
 $
 CODE 11k
 SUFFIX 2
@@ -87,6 +94,7 @@ TXT_IT Maria Vergine
 TXT_FR Marie
 TXT_DE Maria
 TXT_PL Maria
+TXT_NL Maria
 $
 CODE 11k
 SUFFIX 3
@@ -95,6 +103,7 @@ TXT_IT angelo/i
 TXT_FR ange(s)
 TXT_DE Engel
 TXT_PL anioł(y)
+TXT_NL engel(en)
 $
 CODE 11k
 SUFFIX 31
@@ -103,6 +112,7 @@ TXT_IT angeli che volano
 TXT_FR anges flottant dans les airs
 TXT_DE Engel schweben in der Luft
 TXT_PL anioły unoszące się w powietrzu
+TXT_NL zwevende engelen
 $
 CODE 11k
 SUFFIX 4
@@ -111,6 +121,7 @@ TXT_IT diavolo/i
 TXT_FR diable(s)
 TXT_DE Teufel
 TXT_PL diabeł
+TXT_NL duivel(s0
 $
 CODE 11k
 SUFFIX 5
@@ -119,6 +130,7 @@ TXT_IT donatore/i, supplice/i, con o senza santo/i patrono/i
 TXT_FR donateur(s), suppliant(s), avec ou sans saint(s) patron(s)
 TXT_DE Stifter, Bittsteller, mit oder ohne Schutzheilige(n)
 TXT_PL donatorzy, suplikanci, z (bez) świętymi patronami
+TXT_NL 
 $
 CODE 23k
 SUFFIX 0

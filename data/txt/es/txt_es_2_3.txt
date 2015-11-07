@@ -2353,7 +2353,7 @@
 #26D1|snow
 #26D11|avalanche
 #26D111|protection against avalanches
-#26D2|hail
+26D2|granizo
 #26D3|glazed frost, hoar frost
 #26D4|ice ~ freezing weather
 #26D41|drift ice

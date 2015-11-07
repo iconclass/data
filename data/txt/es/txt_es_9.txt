@@ -2623,7 +2623,7 @@
 #94M8|attributes of Theseus
 #94M8(...)|attributes of Theseus (with NAME)
 #94M9|(story of) Theseus - offspring, companion(s), train etc.
-#94N|(story of) Meleager
+94N|(historia de) Meleagro
 #94N1|early life, prime youth of Meleager
 #94N11|birth of Meleager: Althaea, his mother, warned by a prediction of the Fates, snatches a brand from the fire
 #94N12|early life, prime youth of Meleager - infancy, upbringing
