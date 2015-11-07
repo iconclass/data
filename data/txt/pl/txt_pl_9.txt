@@ -2,7 +2,7 @@
 91|mity o stworzeniu kosmogonia, teogonia i początki człowieka
 91A|powstanie wszechświata ~ mitologia klasyczna
 #91A1|primeval deities, elementary gods ~ classical mythology
-#91A11|Uranus (Caelus), Heaven
+91A11|Uran (Coelus), Niebo
 #91A12|Gaea (Ge), Earth
 #91A13|Pontus, Sea
 #91A14|other primeval deities

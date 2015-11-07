@@ -232,7 +232,7 @@
 41A732|szafka ścienna zdobiona
 41A733|skrzynia, kufer
 41A734|'cassone'-rodzaj skrzyni (we Włoszech)
-#41A735|lock ~ furniture
+41A735|zamknij ~ meble
 #41A7351|key ~ furniture
 #41A7352|bolt ~ furniture
 #41A7353|padlock ~ furniture

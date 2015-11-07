@@ -14,7 +14,7 @@
 #21D0|'Acqua', 'Carro dell'acqua' (Ripa)
 #21D1|spirit of water, nix, undine
 #21D2|ice ~ state of water
-#21D3|steam
+21D3|parowy
 21E|eter jako 'quinta essentia'
 22|zjawiska naturalne
 22A|materia

@@ -1,7 +1,7 @@
 5|Abstrakcyjne idee i pojęcia
-51|pojęcia ogólne
-51A|istnienie i rodzaje istnienia
-#51A1|Existence
+51|Pojęcia ogólne
+51A|Istnienie i rodzaje istnienia
+51A1|Istnienie
 #51A11|the Universe
 #51A2|Materiality
 #51A3|Concreteness
