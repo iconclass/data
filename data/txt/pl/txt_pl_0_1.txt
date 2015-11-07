@@ -84,7 +84,7 @@
 #11D1132|adoration of the name of Jesus
 #11D114|'Ichthys' ~ symbol of Christ
 11D12|krzyż ~ symbole Chrystusa
-#11D121|cross as symbol of Christ
+11D121|Krzyż jako symbol Chrystusa
 #11D122|cross with symbol of Christ on it, e.g. lamb
 #11D1221|cross with head or bust of Christ
 #11D123|specific forms of the cross
