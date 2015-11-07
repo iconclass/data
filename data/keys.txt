@@ -121,7 +121,7 @@ TXT_IT diavolo/i
 TXT_FR diable(s)
 TXT_DE Teufel
 TXT_PL diabeł
-TXT_NL duivel(s0
+TXT_NL duivel(s)
 $
 CODE 11k
 SUFFIX 5
