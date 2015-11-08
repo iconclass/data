@@ -13774,7 +13774,7 @@
 73C113|wijzend
 73C12|dopen
 73C121|hoofd
-73C121|Holy Ghost
+73C121|Heilige Geest
 73C121|Jordan (river)
 73C121|gieten
 73C121|rivier
@@ -15248,7 +15248,7 @@
 73D271|redevoering
 73D271(Jo. 14:2)|huis
 73D271(Jo. 14:2)|kamer
-73D271(Jo. 16:13)|Holy Ghost
+73D271(Jo. 16:13)|Heilige Geest
 73D271(Jo. 16:13)|geest
 73D271(Jo. 16:13)|waarheid
 73D271(Jo. 16:21)|geboorte
@@ -16003,7 +16003,7 @@
 73E44|voetspoor
 73E5|Handelingen 02
 73E5|aflopend
-73E5|Holy Ghost
+73E5|Heilige Geest
 73E5|Mary (Virgin)
 73E5|nation
 73E5|Pinksteren
@@ -16078,7 +16078,7 @@
 73E79|Drieëenheid
 73E791|God
 73E793|God
-73E794|Holy Ghost
+73E794|Heilige Geest
 73E795|engel
 73E8|dood
 73E8|Joseph (St.)
@@ -16193,7 +16193,7 @@
 73F2112|bidden
 73F2113|Matthias (St.)
 73F2114|verkiezing
-73F2114|Holy Ghost
+73F2114|Heilige Geest
 73F2114|Matthias (St.)
 73F212|samenwerking
 73F212|wonder
@@ -16239,7 +16239,7 @@
 73F21234|vrijgeven
 73F2124|Handelingen 08
 73F2124|gelovige
-73F2124|Holy Ghost
+73F2124|Heilige Geest
 73F2124|imposition of hands
 73F2124|John (St.)
 73F2124|Samaria
@@ -16304,7 +16304,7 @@
 73F2134|drie
 73F2135|dopen
 73F2135|aflopend
-73F2135|Holy Ghost
+73F2135|Heilige Geest
 73F21351|heiden
 73F21351|heidens
 73F2136|Handelingen 11
@@ -16613,7 +16613,7 @@
 73F22341|Apollos
 73F22341|dopen
 73F22341|discipel
-73F22341|Holy Ghost
+73F22341|Heilige Geest
 73F22342|prediking
 73F223421|synagogue
 73F223422|school

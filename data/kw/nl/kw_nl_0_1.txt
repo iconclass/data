@@ -30,7 +30,7 @@
 11A31|gesel
 11B|Christus
 11B|God
-11B|Holy Ghost
+11B|Heilige Geest
 11B|zoon
 11B|Trinitas
 11B|Drieëenheid
@@ -588,7 +588,7 @@
 11DD35|type
 11DD36|kruisiging
 11DD36|type
-11E|Holy Ghost
+11E|Heilige Geest
 11E1|duif
 11E1|vlam
 11E2|vlam
@@ -715,7 +715,7 @@
 11F261|borst
 11F261|bruid
 11F261|duif
-11F261|Holy Ghost
+11F261|Heilige Geest
 11F262|shepherdess
 11F263|pelgrim
 11F264|hermit
@@ -21872,7 +21872,7 @@
 11I4111|dicteren
 11I4111|duif
 11I4111|hand of God
-11I4111|Holy Ghost
+11I4111|Heilige Geest
 11I4111|inspiratie
 11I4111|Mary (Virgin)
 11I41111|assistent
