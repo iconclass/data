@@ -306,7 +306,7 @@
 91C3121|ibis
 91C3121|Juno
 91C3121|Jupiter
-91C3121|kwik
+91C3121|Mercurius
 91C3121|metamorfose
 91C3121|RAM
 91C3121|raaf
@@ -323,7 +323,7 @@
 91C411|capturing
 91C411|Mars
 91C411|vaartuig
-91C4111|kwik
+91C4111|Mercurius
 91C4111|vrijgeven
 91C412|hemel
 91C412|berg
@@ -442,7 +442,7 @@
 91E46|tegenslag
 91E46|lijden
 91E461|chaining
-91E461|kwik
+91E461|Mercurius
 91E461|straf
 91E461|rots
 91E461|Vulcan
@@ -489,7 +489,7 @@
 91E6112|Olympus (Mount)
 91E6113|lucht (in)
 91E6113|dragende
-91E6113|kwik
+91E6113|Mercurius
 91E612|infancy
 91E612|opvoeding
 91E62|love-affair
@@ -499,7 +499,7 @@
 91E64|quarrelling
 91E64|unfriendliness
 91E651|Epimetheus
-91E651|kwik
+91E651|Mercurius
 91E652|doos (container)
 91E652|nieuwsgierigheid
 91E652|good and bad
@@ -545,7 +545,7 @@
 92A|Juno
 92A|Jupiter
 92A|Mars
-92A|kwik
+92A|Mercurius
 92A|Minerva
 92A|Neptune
 92A|twaalf
@@ -657,7 +657,7 @@
 92B141|bliksemflits
 92B141|bezoekende
 92B142|Lara
-92B142|kwik
+92B142|Mercurius
 92B142|tong
 92B143|Ate
 92B143|aangrijpend
@@ -810,7 +810,7 @@
 92B321|Cassandra
 92B321|hofmakerij
 92B322|Chione
-92B322|kwik
+92B322|Mercurius
 92B322|verleiden
 92B323|Clymene
 92B323|hofmakerij
@@ -830,7 +830,7 @@
 92B32422|Aesculapius
 92B32422|geboorte
 92B32422|snijdend
-92B32422|kwik
+92B32422|Mercurius
 92B325|Daphne
 92B325|love unrequited
 92B325|nastreven
@@ -1053,7 +1053,7 @@
 92B492|Pallor
 92B492|Pavor
 92B493|Kydoimos
-92B5|kwik
+92B5|Mercurius
 92B51|kind
 92B51|jeugd
 92B511|baby
@@ -1179,7 +1179,7 @@
 92BB321|stag
 92BB322|Chione
 92BB322|Hyacinthus
-92BB322|kwik
+92BB322|Mercurius
 92BB322|verleiden
 92BB3221|ongeval
 92BB3221|blazen
@@ -1588,7 +1588,7 @@
 92D111|geboorte
 92D112|infancy
 92D112|opvoeding
-92D1121|kwik
+92D1121|Mercurius
 92D1121|Venus
 92D12|love-affair
 92D121|minnaar
@@ -1790,7 +1790,7 @@
 92D19217451|ontwaken
 92D19218|lucht (in)
 92D19218|dragende
-92D19218|kwik
+92D19218|Mercurius
 92D19218|Olympus (Mount)
 92D192181|huwelijk
 92D2|Hours (Horae)
@@ -2947,7 +2947,7 @@
 92L112|opvoeding
 92L1121|baby
 92L1121|geven
-92L1121|kwik
+92L1121|Mercurius
 92L1121|nimf
 92L1121|Nysa
 92L11211|zorg
@@ -3698,7 +3698,7 @@
 92M252|granaatappel
 92M252|zaad
 92M252|onderwereld
-92M253|kwik
+92M253|Mercurius
 92M253|onderwereld
 92M26|tegenslag
 92M26|lijden
@@ -4481,12 +4481,12 @@
 94C111|drie
 94C111|Venus
 94C112|geven
-94C112|kwik
+94C112|Mercurius
 94C113|schoonheid
 94C113|wedstrijd
 94C113|oordeel
 94C113|Juno
-94C113|kwik
+94C113|Mercurius
 94C113|Minerva
 94C113|Venus
 94C1132|dromen
@@ -4933,7 +4933,7 @@
 94G41|adviseren
 94G41|Iris
 94G411|guiding
-94G411|kwik
+94G411|Mercurius
 94G411|tent
 94G42|goud
 94G42|weging
@@ -5211,7 +5211,7 @@
 94I162|geven
 94I162|herb
 94I162|magie
-94I162|kwik
+94I162|Mercurius
 94I162|moly
 94I163|vragen
 94I163|kop
@@ -5265,7 +5265,7 @@
 94I21|Ogygia (island)
 94I21|receiving a person
 94I211|Homer, Odyssey 05
-94I211|kwik
+94I211|Mercurius
 94I211|vrijgeven
 94I2111|home-sick
 94I2111|verlangen
@@ -5485,7 +5485,7 @@
 94I8|minnaar
 94I81|guiding
 94I81|Hades
-94I81|kwik
+94I81|Mercurius
 94I81|ziel
 94I82|vader
 94I82|father and son
@@ -5749,7 +5749,7 @@
 94L333|dragende
 94L333|Cerberus
 94L3331|Hades
-94L3331|kwik
+94L3331|Mercurius
 94L3331|Minerva
 94L33311|vergadering
 94L3332|voor
@@ -6446,7 +6446,7 @@
 94P31|geven
 94P31|goden
 94P31|helm
-94P31|kwik
+94P31|Mercurius
 94P31|Minerva
 94P31|spiegel
 94P31|ontvangen
@@ -6529,7 +6529,7 @@
 94Q11|zoon
 94Q111|vermakelijk
 94Q111|Jupiter
-94Q111|kwik
+94Q111|Mercurius
 94Q111|Neptune
 94Q12|infancy
 94Q12|opvoeding
@@ -7340,7 +7340,7 @@
 95A(ARISTAEUS)11|jeugd
 95A(ARISTAEUS)121|Gaea
 95A(ARISTAEUS)121|Hours (Horae)
-95A(ARISTAEUS)121|kwik
+95A(ARISTAEUS)121|Mercurius
 95A(ARISTAEUS)2|love-affair
 95A(ARISTAEUS)3|daad
 95A(ARISTAEUS)41|honingbij
@@ -8143,7 +8143,7 @@
 95A(ION)122|jongen
 95A(ION)122|Delphi
 95A(ION)122|vondeling
-95A(ION)122|kwik
+95A(ION)122|Mercurius
 95A(ION)1221|adoptie
 95A(ION)1221|vergadering
 95A(ION)1221|orakel
@@ -8943,7 +8943,7 @@
 95A(PELOPS)121|Clotho
 95A(PELOPS)121|ivoor
 95A(PELOPS)121|Jupiter
-95A(PELOPS)121|kwik
+95A(PELOPS)121|Mercurius
 95A(PELOPS)121|raising from the dead
 95A(PELOPS)121|schouder
 95A(PELOPS)122|ontvoeren
@@ -9068,7 +9068,7 @@
 95A(PHILEMON & BAUCIS)51|vermakelijk
 95A(PHILEMON & BAUCIS)51|goose
 95A(PHILEMON & BAUCIS)51|Jupiter
-95A(PHILEMON & BAUCIS)51|kwik
+95A(PHILEMON & BAUCIS)51|Mercurius
 95A(PHILEMON & BAUCIS)51|toevlucht
 95A(PHILEMON & BAUCIS)51|traveller
 95A(PHILEMON & BAUCIS)51|bezoekende
@@ -9209,7 +9209,7 @@
 95A(PHRIXUS)311|menselijk slachtoffer
 95A(PHRIXUS)311|tussenliggende
 95A(PHRIXUS)312|Jupiter
-95A(PHRIXUS)312|kwik
+95A(PHRIXUS)312|Mercurius
 95A(PHRIXUS)312|Nephele
 95A(PHRIXUS)32|broer
 95A(PHRIXUS)32|ontsnappen
@@ -9465,7 +9465,7 @@
 95A(SISYPHUS)682|Sisyphus
 95A(SISYPHUS)6821|guiding
 95A(SISYPHUS)6821|Hades
-95A(SISYPHUS)6821|kwik
+95A(SISYPHUS)6821|Mercurius
 95A(SISYPHUS)7|allegorie
 95A(SISYPHUS)7|beschermheer
 95A(SISYPHUS)7|patroness
@@ -12173,10 +12173,10 @@
 96B324|klagen
 96B324|Iarbas
 96B324|Jupiter
-96B324|kwik
+96B324|Mercurius
 96B324|boodschapper
 96B325|het bouwen van een stad
-96B325|kwik
+96B325|Mercurius
 96B325|bestellen
 96B33|vloot
 96B331|klagen
@@ -12188,7 +12188,7 @@
 96B3312|Anna (Dido's zus)
 96B3312|vragen
 96B3313|uiterlijk
-96B3313|kwik
+96B3313|Mercurius
 96B3313|slapen
 96B332|pyre
 96B332|zelfmoord
@@ -13490,7 +13490,7 @@
 97CC63|Apollo
 97CC63|oren ezel
 97CC63|koning
-97CC63|kwik
+97CC63|Mercurius
 97CC63|Midas (King)
 97CC63|bestellen
 97CC63|Ovid, Metamorphoses 11
@@ -13500,7 +13500,7 @@
 97CC64|fluit
 97CC64|koning
 97CC64|slaapliedje
-97CC64|kwik
+97CC64|Mercurius
 97CC64|Midas (King)
 97CC64|music making
 97CC64|Ovid, Metamorphoses 11
@@ -13555,7 +13555,7 @@
 97D12|Ovid, Metamorphoses 01
 97D12|pauw
 97D12|staart
-97D121|kwik
+97D121|Mercurius
 97D13|Ascalaphus
 97D13|Ovid, Metamorphoses 05
 97D13|uil
@@ -13608,7 +13608,7 @@
 97D21|Venus
 97D22|havik
 97D22|Hierax
-97D22|kwik
+97D22|Mercurius
 97D23|as
 97D23|opkomende
 97D23|Memnon
@@ -13860,7 +13860,7 @@
 97F|steen
 97F1|Battus
 97F1|woordbreuk
-97F1|kwik
+97F1|Mercurius
 97F1|Ovid, Metamorphoses 02
 97F1|veelbelovend
 97F1|shepherd
@@ -13871,7 +13871,7 @@
 97F2|rots
 97F2|shepherd
 97F21|blindheid
-97F21|kwik
+97F21|Mercurius
 97F3|Lichas
 97F3|Ovid, Metamorphoses 09
 97F3|rots
@@ -13884,7 +13884,7 @@
 97FF|vrouw
 97FF1|Aglauros
 97FF1|man
-97FF1|kwik
+97FF1|Mercurius
 97FF1|Ovid, Metamorphoses 02
 97FF1|refusing (admission)
 97FF2|Anaxarete
