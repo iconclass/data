@@ -18098,7 +18098,7 @@
 85(FATHER, SON AND ASS)|pai e filho
 85(FATHER, SON AND ASS)|filho
 85(FOX AND RAVEN)|Raposa
-85(FOX AND RAVEN)|Fox and Raven
+85(FOX AND RAVEN)|Raposa e Corvo
 85(FOX AND RAVEN)|corvo
 85(FROG AND COW)|vaca
 85(FROG AND COW)|rã

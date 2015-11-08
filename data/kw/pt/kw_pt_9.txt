@@ -308,7 +308,7 @@
 91C3121|Júpiter
 91C3121|mercúrio
 91C3121|metamorfose
-91C3121|RAM
+91C3121|carneiro
 91C3121|corvo
 91C3121|transformação
 91C3121|Vênus

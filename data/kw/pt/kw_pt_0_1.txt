@@ -3537,7 +3537,7 @@
 11H(BONIFACE)84|bênção
 11H(BONIFACE)84|canonização
 11H(BONIFACE)9|retrato
-11H(BRUNO)|De Bruno (St)
+11H(BRUNO)|Bruno (St)
 11H(BRUNO)|Carthusians
 11H(BRUNO)|atravessar
 11H(BRUNO)|dedo aos lábios

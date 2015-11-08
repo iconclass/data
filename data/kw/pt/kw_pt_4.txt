@@ -16,7 +16,7 @@
 41A121|fortificação
 41A121|casa
 41A13|loja de departamento
-41A13|Edifício público
+41A13|edifício público
 41A13|loja
 41A14|cidade
 41A14|casa
