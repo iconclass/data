@@ -2599,7 +2599,7 @@
 62|toekomst
 62|visie
 7|bijbel
-71|Old Testament
+71|Oude Testament
 71A|Genesis
 71A1|begin
 71A1|chaos
@@ -2617,7 +2617,7 @@
 71A2|Genesis 01
 71A2|God
 71A2|zes
-71A2|Trinity
+71A2|Drieëenheid
 71A21|duisternis
 71A21|scheidslijn
 71A21|licht
@@ -3217,7 +3217,7 @@
 71C122|Genesis 18
 71C122|man
 71C122|drie
-71C122|Trinity
+71C122|Drieëenheid
 71C122|bezoekende
 71C1221|uiterlijk
 71C1221|huis
@@ -13729,7 +13729,7 @@
 73B754|onderwijs
 73B8|Holy Family
 73B81|Trinitas
-73B81|Trinity
+73B81|Drieëenheid
 73B82|Anna (St.)
 73B821|John the Baptist (St.)
 73B8211|Elisabeth (St.)
@@ -13778,7 +13778,7 @@
 73C121|Jordan (river)
 73C121|gieten
 73C121|rivier
-73C121|Trinity
+73C121|Drieëenheid
 73C121|water
 73C1211|zegen
 73C122|ruzie
@@ -16075,7 +16075,7 @@
 73E79|kroning
 73E79|bekroning
 73E79|hemel
-73E79|Trinity
+73E79|Drieëenheid
 73E791|God
 73E793|God
 73E794|Holy Ghost

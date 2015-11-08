@@ -33,7 +33,7 @@
 11B|Holy Ghost
 11B|zoon
 11B|Trinitas
-11B|Trinity
+11B|Drieëenheid
 11B1|symbool
 11B1|drie
 11B11|cirkel
@@ -681,7 +681,7 @@
 11F234|zwangerschap
 11F2341|Christus-kind
 11F235|opening
-11F2351|Trinity
+11F2351|Drieëenheid
 11F2352|Passion of Christ
 11F236|Aehrenkleidmaria
 11F236|Christus-kind
@@ -2443,7 +2443,7 @@
 11H(AUGUSTINE)33|renouncing
 11H(AUGUSTINE)34|visie
 11H(AUGUSTINE)341|overpeinzing
-11H(AUGUSTINE)341|Trinity
+11H(AUGUSTINE)341|Drieëenheid
 11H(AUGUSTINE)342|strand
 11H(AUGUSTINE)342|vulling
 11H(AUGUSTINE)342|gat
@@ -9450,7 +9450,7 @@
 11H(JOHN OF MATHA)|John of Matha (St.)
 11H(JOHN OF MATHA)|monnik
 11H(JOHN OF MATHA)|gevangene
-11H(JOHN OF MATHA)|Trinity
+11H(JOHN OF MATHA)|Drieëenheid
 11H(JOHN OF MATHA)0|groep
 11H(JOHN OF MATHA)11|interceding
 11H(JOHN OF MATHA)11|visie
@@ -11501,7 +11501,7 @@
 11H(MARTIN)69|martelen
 11H(MARTIN)7|engel
 11H(MARTIN)7|dragende
-11H(MARTIN)7|Trinity
+11H(MARTIN)7|Drieëenheid
 11H(MARTIN)8|post-mortem
 11H(MARTIN)81|bevinding
 11H(MARTIN)81|relikwie
@@ -18970,7 +18970,7 @@
 11HH(GERTRUDE)33|renouncing
 11HH(GERTRUDE)34|Augustine (St.)
 11HH(GERTRUDE)34|overpeinzing
-11HH(GERTRUDE)34|Trinity
+11HH(GERTRUDE)34|Drieëenheid
 11HH(GERTRUDE)34|visie
 11HH(GERTRUDE)35|toewijding
 11HH(GERTRUDE)35|verleiding
@@ -21404,7 +21404,7 @@
 11HH(THERESA)344|Kroon van doornen
 11HH(THERESA)344|tonen
 11HH(THERESA)344|wond
-11HH(THERESA)345|Trinity
+11HH(THERESA)345|Drieëenheid
 11HH(THERESA)346|hoofd
 11HH(THERESA)346|schouder
 11HH(THERESA)35|toewijding
@@ -23962,7 +23962,7 @@
 11Q61|geven
 11Q61|vowing
 11Q6111|Pestsäule
-11Q6111|Trinity
+11Q6111|Drieëenheid
 11Q62|groep
 11Q62|pelgrim
 11Q62|pilgrimage
