@@ -1,485 +1,484 @@
-4|社会，文明，文化
-41|物质性的日常生活
-41A|住房
-#41A1|civic architecture; edifices; dwellings
-#41A10|'Edifitio overo un sito' (Ripa)
-#41A11|palace
-#41A111|hôtel, i.e. small palace in city
-#41A12|castle
-#41A121|fortified house in city
-#41A13|edifice, e.g.: public building, department store
-#41A14|urban housing
-#41A141|the usual house or row of houses
-#41A142|house combined with shop
-#41A143|detached house in city
-#41A144|flat-building, apartment house
-#41A15|skyscraper
-#41A16|rural housing, e.g. country-house, villa, cottage
-#41A161|country-house
-#41A162|villa
-#41A163|cottage
-#41A17|farm (building)
-#41A171|barn
-#41A18|hut, cabin, lodge
-#41A181|log-cabin
-#41A182|Indian lodge
-#41A1821|wigwam
-#41A19|other dwelling types
-#41A191|tent
-#41A1911|tent-camp
-#41A1912|tepee, tipi, teepee
-#41A192|caravan (trailer)
-#41A1921|caravan-camp
-#41A1922|trailer
-#41A193|houseboat
-#41A194|lake-dwelling, pile-dwelling
-#41A1941|other dwellings standing off the ground
-#41A195|snow-hut, igloo
-#41A196|cave-dwelling
-#41A2|interior of the house
-#41A21|vestibule, hall
-#41A211|corridor
-#41A2111|gallery (spacious corridor)
-#41A22|communal rooms
-#41A221|living-room, parlour, sitting-room
-#41A222|drawing-room, 'salon'
-#41A2221|boudoir
-#41A223|dining-room
-#41A23|bedroom
-#41A24|bathroom
-#41A241|bathroom equipment
-#41A2411|bath-tub
-#41A2412|shower
-#41A2413|bidet
-#41A2414|fitted basin
-#41A2415|jug and basin; wash-basin
-#41A25|other rooms
-#41A251|study; 'studiolo'; library
-#41A252|chapel (interior of the house)
-#41A253|sun-porch, sun-parlour, glazed verandah
-#41A2531|winter-garden, conservatory
-#41A254|wardrobe
-#41A2541|linen-closet
-#41A255|attic, loft
-#41A256|storage space
-#41A3|parts (of house or building)
-#41A31|façade (of house or building)
-#41A311|front façade
-#41A3111|stone tablet in façade
-#41A312|rear façade
-#41A313|façade of inner court
-#41A32|door
-#41A321|opening the door
-#41A3211|open door
-#41A3212|divided door, upper part opened
-#41A3213|revolving door
-#41A322|closing, shutting the door
-#41A3221|closed door
-#41A323|monumental door, porch, 'aediculum'
-#41A324|metalwork of a door
-#41A3241|door-knocker, doorbell
-#41A3242|door-handle, doorknob
-#41A325|threshold
-#41A3251|stile, post, doorjamb
-#41A3252|door furniture, e.g. boot scraper, brush, doormat
-#41A326|letter-box ~ door
-#41A327|doorkeeper, house-guard (inanimate)
-#41A328|lock ~ door
-#41A3281|key
-#41A32811|master-key, 'passe-partout', skeleton key
-#41A3282|latch
-#41A3283|bolt
-#41A3284|padlock
-#41A33|window
-#41A331|opening the window
-#41A3311|open window
-#41A332|closing the window
-#41A3321|closed window
-#41A333|window shutters
-#41A3331|window shutters on the outside
-#41A3332|window shutters on the inside
-#41A334|sunblind, sunshade, awning
-#41A335|window-seat
-#41A336|human figure at (open) window
-#41A3361|human figure at (open) window, seen from outside
-#41A3362|human figure at (open) window, seen from inside
-#41A337|view through a window
-#41A3371|view through a window from the outside
-#41A3372|view through a window from the inside
-#41A34|staircase
-#41A341|stairwell
-#41A3411|escalator
-#41A342|elevator, lift
-#41A343|ladder
-#41A344|fire-escape
-#41A345|back steps
-#41A35|front steps
-#41A351|terrace
-#41A352|canopy (over entrance)
-#41A36|roof (of house or building)
-#41A361|tower (of house or building)
-#41A3611|spire (of tower on house or building)
-#41A362|roof-covering
-#41A363|decorated gable
-#41A37|basement, cellar
-#41A38|balcony
-#41A381|loggia, verandah, porch
-#41A382|bay-window, oriel
-#41A39|piping and wiring
-#41A391|water-supply and draining, pipework (in house or building)
-#41A3911|well
-#41A3912|pump
-#41A3913|tap, faucet
-#41A3914|lavatory, water-closet
-#41A3915|fountain (indoors)
-#41A3916|sink, basin
-#41A392|gas conduits
-#41A393|electric installation, fittings, e.g. socket, plug, light switch, cable, wire
-#41A4|decorations (interior of the house)
-#41A41|wall-covering
-#41A411|wall-paper
-#41A412|panelling
-#41A413|tapestry
+4|Społeczeństwo, Cywilizacja, Kultura
+41|materialne aspekty życia codziennego
+41A|zamieszkiwanie
+41A1|architektura cywilna; budowle; różne rodzaje mieszkania
+41A10|'Edifitio overo un sito' (Ripa)
+41A11|pałac
+41A111|'l' hôtel', niewielki pałac miejski
+41A12|zamek
+41A121|ufortyfikowana, obronna siedziba w mieście
+41A13|gmachy, np. budynek użyteczności publicznej, dom towarowy
+41A14|zamieszkiwanie w mieście
+41A141|dom stojący w szeregu budynków
+41A142|dom połączony ze sklepem
+41A143|dom wolnostojący w mieście
+41A144|budynek z mieszkaniami, apartamentowiec
+41A15|wieżowiec, drapacz chmur
+41A16|zamieszkiwanie na wsi dom wiejski, willa, cottage- okazała siedziba wiejska
+41A161|dom wiejski
+41A162|willa
+41A163|cottage-okazała siedziba wiejska
+41A17|dom farmerski (budynek)
+41A171|stodoła
+41A18|chata, szałas
+41A181|chata, szałas z bali
+41A182|szałas indiański
+41A1821|wigwam
+41A19|pozostałe rodzaje miejsc mieszkalnych
+41A191|namiot
+41A1911|namiot obozowy
+41A1912|tipi
+41A192|pojazd kempingowy z przyczepą
+41A1921|obóz kempingowy
+41A1922|przyczepa kempingowa
+41A193|'dom na łodzi'
+41A194|mieszkanie nad jeziorem,'mieszkanie na palach' (na fundamentach palowych)
+41A1941|pozostałe siedziby mieszkalne posadowione na gruncie stałym
+41A195|'śnieżna chata' (dom), igloo
+41A196|mieszkanie w jaskini (grocie), skalny dom
+41A2|wnętrze domu
+41A21|przedsionek, hol wejściowy
+41A211|korytarz
+41A2111|'galeria' (wielki, długi korytarz)
+41A22|pokoje wspólne, (wspólnego użytkowania)
+41A221|pokój dzienny, salonik, salon
+41A222|bawialnia, 'salon'
+41A2221|'buduar'
+41A223|jadalnia
+41A23|sypialnia
+41A24|łazienka
+41A241|wyposażenie łazienki
+41A2411|wanna łazienkowa
+41A2412|prysznic
+41A2413|bidet
+41A2414|miska, miednica łazienkowa ('umywalnia')
+41A2415|dzban, miednica; umywalka
+41A25|pozostałe pomieszczenia
+41A251|pracownia; 'studiolo'; biblioteka
+41A252|kaplica domowa
+41A253|przybudówka-weranda, 'słoneczny salonik', przeszklona weranda
+41A2531|ogród zimowy, rodzaj werandy
+41A254|szafa ubraniowa (garderoba)
+41A2541|szafa na bieliznę
+41A255|mieszkanie na poddaszu, loft
+41A256|przestrzeń magazynowa
+41A3|części składowe domu lub budynku
+41A31|fasada-główna elewacja domu lub budynku
+41A311|elewacja frontowa, główna
+41A3111|kamienna tablica na elewacji
+41A312|fasada, elewacja tylna
+41A313|fasada dziedzińca wewnętrznego
+41A32|drzwi
+41A321|otwierać, otwieranie, otwarcie drzwi
+41A3211|otwarte drzwi
+41A3212|drzwi składające się z dwóch części, dwuskrzydłowe
+41A3213|drzwi obrotowe, rozsuwane
+41A322|zamknięcie, zamykanie drzwi
+41A3221|drzwi zamknięte
+41A323|drzwi monumentalne, portyk, 'aediculum'
+41A324|drzwi z elementami metalowymi
+41A3241|kołatka drzwiowa, dzwonek u drzwi
+41A3242|klamka, uchwyt, gałka drzwi
+41A325|próg
+41A3251|futryna, framuga, ramiak-obramienie drzwi
+41A3252|'wyposażenie do drzwi' szczotka, skrobaczka, wycieraczka
+41A326|skrzynka pocztowa (na drzwiach)
+41A327|dozorca, stróż
+41A328|zamek drzwiowy
+41A3281|klucz
+41A32811|wytrych
+41A3282|zatrzask, zasuwka
+41A3283|rygiel
+41A3284|kłódka
+41A33|okno
+41A331|otwarcie, otwieranie okna
+41A3311|okno otwarte
+41A332|zamknięcie, zamykanie okna
+41A3321|okno zamknięte
+41A333|okiennice
+41A3331|okiennice zewnętrzne
+41A3332|okiennice wewnętrzne
+41A334|zasłona przeciwsłoneczna-roleta, markiza, żaluzja
+41A335|siedzenie w oknie (okienne)
+41A336|postać ludzka w (otwartym) oknie
+41A3361|postać ludzka w oknie, widziana z zewnątrz
+41A3362|postać ludzka w oknie widziana z wewnątrz
+41A337|widok przez okno
+41A3371|widok przez okno z zewnątrz
+41A3372|widok przez okno z wewnątrz
+41A34|schody
+41A341|klatka schodowa
+41A3411|schody mechaniczne, ruchome
+41A342|winda
+41A343|drabina
+41A344|wyjście ewakuacyjne
+41A345|schody boczne, służbowe
+41A35|schody główne
+41A351|taras
+41A352|okap
+41A36|dach (domu lub budynku)
+41A361|wieża domu lub budynku)
+41A3611|wieżyczka, iglica (domu lub budynku)
+41A362|pokrycie dachu
+41A363|'udekorowana elewacja'
+41A37|piwnica, przyziemie
+41A38|balkon
+41A381|loggia, weranda, portyk
+41A382|wykusz, oszklony balkon
+41A39|rurociąg, instalacja elektryczna
+41A391|zapas wody i system odwadniania, rurociąg (w domu lub budynku)
+41A3911|studnia
+41A3912|pompa
+41A3913|kran, kurek
+41A3914|toaleta, ubikacja
+41A3915|fontanna-zbiornik wodny (we wnętrzu)
+41A3916|zlewozmywak, zlew
+41A392|gazociąg
+41A393|urządzenie/a, instalacja/e elektryczna/e gniazdko elektryczne, prąd, wyłącznik światła, kabel, wtyczka, przewód
+41A4|dekoracje (wnętrza domu)
+41A41|pokrycie ścian, mural
+41A411|tapeta
+41A412|okładzina drewniana, boazeria
+41A413|tapiseria
 #41A414|cordwain, cordovan leather, Dutch: goudleer
-#41A42|upholstery (of a room)
-#41A421|curtains
-#41A422|hangings and drapery
-#41A4221|velum (hangings and drapery)
-#41A423|ceremonial drapery
-#41A4231|canopy, baldachin
-#41A43|floor-covering
-#41A43(...)|floor-covering (with NAME)
-#41A431|carpet, rug
-#41A44|(decorated) ceiling
-#41A5|annexes and outbuildings; fencing; gate
-#41A51|courtyard
-#41A511|inner court of palace or 'hôtel'
-#41A512|backyard
-#41A52|coach-house
-#41A521|garage
-#41A53|shed
-#41A54|fence, wall, paling
-#41A541|balustrade
-#41A542|gate, entrance
-#41A5421|barrier
-#41A5422|kissing gate, clap gate
-#41A543|stile
-#41A544|watergate
-#41A6|garden
-#41A61|plan, map of garden
-#41A62|garden buildings
-#41A621|pergola
-#41A622|summer-house, arbour, garden-house (Dutch: 'theekoepel')
-#41A623|hermitage
-#41A624|belvedere
-#41A625|trellis
-#41A626|sham-buildings
-#41A63|lay-out of garden
-#41A631|lawn
-#41A632|flower-bed
-#41A633|rock-garden
-#41A634|labyrinth, maze ~ garden
-#41A635|fenced or walled garden; 'Hortus Conclusus'
-#41A6351|roof garden
-#41A636|French or architectonic garden; formal garden
-#41A637|English or landscape garden
-#41A638|garden approach, garden drive
-#41A64|garden ornaments
-#41A641|statues, sculptures in garden
-#41A6411|dwarfs, 'grylloi' (garden ornaments)
-#41A642|obelisks (garden ornaments)
-#41A643|pyramids (garden ornaments)
-#41A644|herms (garden ornaments)
-#41A645|ruins (garden ornaments)
-#41A646|garden vase
-#41A65|water-works in garden
-#41A651|garden fountain
-#41A652|garden pond
-#41A653|garden cascade
-#41A66|artificial grotto in garden
-#41A67|ornamental plants
-#41A671|still life of plants, flowers and fruit
-#41A6711|flowers in a vase
-#41A6712|arranging flowers
-#41A672|topiary work (shrubs and trees trimmed and trained into ornamental shape); bonsai, espalliered, etc.
-#41A673|potted plants
-#41A68|cultivation of (ornamental) garden
-#41A681|gardening
-#41A6811|watering plants
-#41A682|gardening-tools
-#41A682(...)|gardening-tools (with NAME)
-#41A7|furniture and household effects
-#41A71|furniture to put things on
-#41A711|table
-#41A7111|tripod
-#41A7112|trestle table
-#41A712|shelves, rack, sideboard
-#41A7121|what-not
+41A42|tkanina obiciowa (obicie pokoju lub mebla)
+41A421|zasłony, firanki
+41A422|duże firany, kotary, portiery i draperie - ciężkie tkaniny
+41A4221|velum-lekka tkanina osłaniająca
+41A423|'tkanina ceremonialna', wystawna
+41A4231|baldachim
+41A43|posadzka, pokrycie posadzki
+41A43(...)|pokrycie posadzki (z nazwą)
+41A431|dywan, kilim, kobierzec
+41A44|dekorowany sufit, plafon
+41A5|aneksy zewnętrzne budynku przybudówki, oficyny; (o)grodzenie; brama
+41A51|dziedziniec
+41A511|dziedziniec wewnętrzny pałacu lub 'hotelu'- niewielkiego pałacu miejskiego
+41A512|dziedziniec tylny
+41A52|wozownia
+41A521|garaż
+41A53|hangar, hala
+41A54|płot, mur, palisada
+41A541|balustrada
+41A542|brama, wejście główne
+41A5421|barierka
+41A5422|ogrodzenie metalowe zamykane
+41A543|przełaz, przejście (w płocie lub murze)
+41A544|ogrodzenie ochronne, brama spuszczana, zapora
+41A6|ogród
+41A61|plan, rzut założenia ogrodowego
+41A62|budowle ogrodowe
+41A621|pergola
+41A622|pawilon ogrodowy, altana (w Holandii 'theekoepel')
+41A623|'ermitaż'-budowla ogrodowa
+41A624|'belweder'-budowla ogrodowa
+41A625|trejaż ogrodowy, 'płot pleciony'
+41A626|'sztuczne budowle'
+41A63|rozplanowanie, wytyczenie ogrodu
+41A631|trawnik
+41A632|kwietnik, rabata
+41A633|ogród skalny
+41A634|labirynt ogrodowy
+41A635|ogród zamknięty, ogrodzony; tzw. 'Hortus Conclusus'
+41A6351|ogród na dachu
+41A636|ogród francuski lub 'architektoniczny'; ogród regularny
+41A637|ogród angielski lub krajobrazowy
+41A638|ogród ze ścieżkami, alejkami
+41A64|ozdoby ogrodowe
+41A641|statuy, rzeźby ogrodowe
+41A6411|karły-'grylloi' (ozdoby ogrodowe)
+41A642|obeliski (ozdoby ogrodowe)
+41A643|piramidy (ozdoby ogrodowe)
+41A644|hermy (ozdoby ogrodowe)
+41A645|ruiny (sztuczne, jako ozdoby ogrodowe)
+41A646|waza ogrodowa
+41A65|system wodny w ogrodzie
+41A651|fontanna ogrodowa
+41A652|sadzawka ogrodowa, 'oczko wodne'
+41A653|kaskada ogrodowa
+41A66|sztuczna grota ogrodowa
+41A67|rośliny ozdobne
+41A671|'martwe', nieożywione rośliny, kwiaty i owoce (martwa natura z roślin, kwiatów i owoców)
+41A6711|kwiaty w wazonie
+41A6712|układ, kompozycja (aranżacja) kwiatowa
+41A672|sztuka ogrodnicza ozdobnego strzyżenia krzewów (przycinanie krzewów i drzewek w dekoracyjne formy)- bonsai, szpaleru roślin ozdobnych
+41A673|rośliny doniczkowe
+41A68|utrzymywanie, pielęgnowanie ogrodu ozdobnego
+41A681|ogrodnictwo
+41A6811|rośliny wodne
+41A682|narzędzia ogrodnicze
+41A682(...)|narzędzia ogrodnicze (z nazwą)
+41A7|umeblowanie i wyposażenie gospodarstwa domowego
+41A71|umeblowanie służące do przechowywania rzeczy, przedmiotów...
+41A711|stół
+41A7111|trójnóg
+41A7112|podstawa stołu
+41A712|półki, szafka, kredens, konsola
+41A7121|etażerka
 #41A7122|bookshelves
-#
 #41A71221|bookcase, with doors
-#41A713|cover for table, etc.
-#41A72|seating furniture
-#41A721|chair
-#41A7211|stool
-#41A72111|footstool
-#41A7212|armchair, seat
-#41A7213|rocking-chair
-#41A722|couch, sofa, settee
-#41A7221|cushion
-#41A723|bench
-#41A73|furniture for storage
-#41A731|cupboard
-#41A732|ornamental cupboard
-#41A733|chest, coffer
-#41A734|'cassone'
-#41A735|lock ~ furniture
+41A713|nakryty stół, obrus itp.
+41A72|mebel przeznaczony do siedzenia
+41A721|krzesło
+41A7211|taboret
+41A72111|taboret-podnóżek
+41A7212|fotel
+41A7213|'fotel bujany'
+41A722|kanapa, sofa
+41A7221|poduszka
+41A723|ława
+41A73|umeblowanie zmagazynowane, składowane
+41A731|szafka ścienna
+41A732|szafka ścienna zdobiona
+41A733|skrzynia, kufer
+41A734|'cassone'-rodzaj skrzyni (we Włoszech)
+41A735|zamknij ~ meble
 #41A7351|key ~ furniture
 #41A7352|bolt ~ furniture
 #41A7353|padlock ~ furniture
-#41A74|furniture for special use
-#41A741|screen, folding screen
-#41A75|decorative furniture
-#41A751|draught-screen
-#41A76|furniture to lie on or in
-#41A761|bed
-#41A7611|built-in bedstead (Dutch: 'bedstee')
-#41A7612|bed with tester
-#41A76121|two poster bed
-#41A76122|four poster bed
-#41A762|hammock
-#41A763|bedding
+41A74|umeblowanie specjalnego użytkowania
+41A741|składany parawan
+41A75|meble zdobione
+41A751|parawan, osłona
+41A76|meble służące do leżenia
+41A761|łóżko
+41A7611|'łóżko zabudowane', np. połączone z szafą (w Holandii 'bedstee')
+41A7612|łóżko z baldachimem
+41A76121|łóżko z dwoma słupkami
+41A76122|łóżko z czterema słupkami
+41A762|hamak
+41A763|pościel
 #41A7631|mattress
 #41A7632|pillow
 #41A7633|sheet
 #41A7634|blanket
 #41A7635|bed-spread
-#41A77|containers
-#41A771|container of metal: bucket, can, canister, drum, tin, etc.
+41A77|pojemnik, zbiornik
+41A771|pojemnik metalowy wiadro, bidon, kanister, pudełko metalowe, puszka
 #41A7711|container of precious metal
-#41A77111|
-#41A772|container of stone: stone vase
+#41A77111
+41A772|pojemnik kamienny waza
 #41A7721|container of (semi-)precious stone
-#41A773|container of ceramics: jar, jug, pot, vase
-#41A774|container of glass: bottle, jar, vase
-#41A775|wooden container: barrel, cask
+41A773|pojemnik ceramiczny garnek, dzban, waza, wazon
+41A774|pojemnik ze szkła butelka, słój, wazon
+41A775|pojemnik drewniany beczka, baryłka
 #41A7751|container made of plant material other than wood: basket
-#41A776|container of leather: leather bag
+41A776|pojemnik skórzany torba skórzana
 #41A7761|container of other animal material
-#41A777|container of textile material: bag, sack, net
-#41A778|container of paper, cardboard: bag, carton
-#41A779|container of synthetic material
-#41A78|fancy goods, knick-knacks
-#41A8|use of the house
-#41A81|furnishing (the house)
-#41A82|moving (house)
-#41A9|ruin of a dwelling, house, castle, etc.
-#41AA1|civic architecture; edifices; dwellings - AA - civic architecture: inside
-#41AA10|'Edifitio overo un sito' (Ripa) - AA - civic architecture: inside
-#41AA11|palace - AA - civic architecture: inside
-#41AA111|hôtel, i.e. small palace in city - AA - civic architecture: inside
-#41AA12|castle - AA - civic architecture: inside
-#41AA121|fortified house in city - AA - civic architecture: inside
-#41AA13|edifice, e.g.: public building, department store - AA - civic architecture: inside
-#41AA14|urban housing - AA - civic architecture: inside
-#41AA141|the usual house or row of houses - AA - civic architecture: inside
-#41AA142|house combined with shop - AA - civic architecture: inside
-#41AA143|detached house in city - AA - civic architecture: inside
-#41AA144|flat-building, apartment house - AA - civic architecture: inside
-#41AA15|skyscraper - AA - civic architecture: inside
-#41AA16|rural housing, e.g. country-house, villa, cottage - AA - civic architecture: inside
-#41AA161|country-house - AA - civic architecture: inside
-#41AA162|villa - AA - civic architecture: inside
-#41AA163|cottage - AA - civic architecture: inside
-#41AA17|farm (building) - AA - civic architecture: inside
-#41AA171|barn - AA - civic architecture: inside
-#41AA18|hut, cabin, lodge - AA - civic architecture: inside
-#41AA181|log-cabin - AA - civic architecture: inside
-#41AA182|Indian lodge - AA - civic architecture: inside
-#41AA1821|wigwam - AA - civic architecture: inside
-#41AA19|other dwelling types - AA - civic architecture: inside
-#41AA191|tent - AA - civic architecture: inside
-#41AA1911|tent-camp - AA - civic architecture: inside
-#41AA1912|tepee, tipi, teepee - AA - civic architecture: inside
-#41AA192|caravan (trailer) - AA - civic architecture: inside
-#41AA1921|caravan-camp - AA - civic architecture: inside
-#41AA1922|trailer - AA - civic architecture: inside
-#41AA193|houseboat - AA - civic architecture: inside
-#41AA194|lake-dwelling, pile-dwelling - AA - civic architecture: inside
-#41AA1941|other dwellings standing off the ground - AA - civic architecture: inside
-#41AA195|snow-hut, igloo - AA - civic architecture: inside
-#41AA196|cave-dwelling - AA - civic architecture: inside
-#41AA32|door - AA - feigned door, sham-door
-#41AA321|opening the door - AA - feigned door, sham-door
-#41AA3211|open door - AA - feigned door, sham-door
-#41AA3212|divided door, upper part opened - AA - feigned door, sham-door
-#41AA3213|revolving door - AA - feigned door, sham-door
-#41AA322|closing, shutting the door - AA - feigned door, sham-door
-#41AA3221|closed door - AA - feigned door, sham-door
-#41AA323|monumental door, porch, 'aediculum' - AA - feigned door, sham-door
-#41AA324|metalwork of a door - AA - feigned door, sham-door
-#41AA3241|door-knocker, doorbell - AA - feigned door, sham-door
-#41AA3242|door-handle, doorknob - AA - feigned door, sham-door
-#41AA325|threshold - AA - feigned door, sham-door
-#41AA3251|stile, post, doorjamb - AA - feigned door, sham-door
-#41AA3252|door furniture, e.g. boot scraper, brush, doormat - AA - feigned door, sham-door
-#41AA326|letter-box ~ door - AA - feigned door, sham-door
-#41AA327|doorkeeper, house-guard (inanimate) - AA - feigned door, sham-door
-#41AA328|lock ~ door - AA - feigned door, sham-door
-#41AA3281|key - AA - feigned door, sham-door
-#41AA32811|master-key, 'passe-partout', skeleton key - AA - feigned door, sham-door
-#41AA3282|latch - AA - feigned door, sham-door
-#41AA3283|bolt - AA - feigned door, sham-door
-#41AA3284|padlock - AA - feigned door, sham-door
-#41AA33|window - AA - feigned window
-#41AA331|opening the window - AA - feigned window
-#41AA3311|open window - AA - feigned window
-#41AA332|closing the window - AA - feigned window
-#41AA3321|closed window - AA - feigned window
-#41AA333|window shutters - AA - feigned window
-#41AA3331|window shutters on the outside - AA - feigned window
-#41AA3332|window shutters on the inside - AA - feigned window
-#41AA335|window-seat - AA - feigned window
-#41AA336|human figure at (open) window - AA - feigned window
-#41AA3361|human figure at (open) window, seen from outside - AA - feigned window
-#41AA3362|human figure at (open) window, seen from inside - AA - feigned window
-#41AA337|view through a window - AA - feigned window
-#41AA3371|view through a window from the outside - AA - feigned window
-#41AA3372|view through a window from the inside - AA - feigned window
-41B|取暖与照明
-#41B1|open fire (in general)
-#41B11|kindling a fire
-#41B111|flint and steel
-#41B112|tinder-box
-#41B113|sulphur match
-#41B114|match
-#41B1141|match-box
-#41B115|fuse
-#41B12|burning as process
-#41B12(...)|burning as process (with NAME of fuel)
-#41B12(COAL)|burning as process: coal
-#41B12(FAGGOT)|burning as process: faggot
-#41B12(LOG)|burning as process: log
-#41B12(OIL)|burning as process: oil
-#41B12(STRAW)|burning as process: straw
-#41B121|flame
-#41B122|spark ~ fire
-#41B123|gases liberated by combustion
-#41B13|stirring up a fire
-#41B131|blowing (stirring up a fire)
-#41B1311|bellows
-#41B132|fanning (stirring up a fire)
-#41B1321|fan
-#41B133|poking (stirring up a fire)
-#41B1331|poker (~ open fire)
-#41B14|extinguishing a fire
-#41B15|deposits of combustion
-#41B151|soot
-#41B152|ash
-#41B153|cinders, slag
-#41B16|camp-fire; watch-fire
-#41B161|bonfire
-#41B162|smoke
-#41B2|hearth and stove
-#41B21|open hearth, fire-place
-#41B211|warming oneself at a fire (or hearth, stove, fire-pan, brazier)
-#41B212|implements ~ fire-place
-#41B2121|fire-tongs
-#41B2122|extinguisher for coal
-#41B213|accessories ~ fire-place
-#41B2131|fire-screen
-#41B2132|fender
-#41B2133|hearth-plate
-#41B2134|dummy board figures
-#41B2135|pot suspended by chain
-#41B2136|andiron, fire-dog
-#41B214|chimney
-#41B2141|chimney-piece, mantelpiece
-#41B2142|chimney ornaments
-#41B22|heating stove
-#41B221|grate (of heating stove)
-#41B222|stove-pipe
-#41B223|coal-bucket
-#41B224|coal-shovel
-#41B23|foot-stove
-#41B231|warming-pan (for bed)
-#41B232|hot-water bottle
-#41B24|central heating
-#41B241|radiator (central heating)
-#41B29|cooling, air conditioning
-#41B3|lighting; lamps
-#41B31|candle
-#41B311|chandelier, candelabrum
-#41B312|sconce, wall lamp
-#41B313|candlestick
-#41B314|snuffers
-#41B32|torch
-#41B33|lantern
-#41B34|oil-lamp
-#41B35|paraffin lamp
-#41B36|gas-lamp
-#41B37|electric lamp
-#41B371|light bulb (electric)
+41A777|pojemnik na tekstylia, materie tkackie torba, worek
+41A778|pojemnik na papier, karton, tekturę torba, pudełko kartonowe
+41A779|pojemnik na materiały syntetyczne, sztuczne, plastyczne
+41A78|bibeloty, drobne przedmioty
+41A8|użytkowanie domu
+41A81|umeblowanie (domu)
+41A82|przeprowadzka (domowa)
+41A9|ruiny obiektów mieszkalnych, domu, zamku, itp.
+41AA1|architektura cywilna; budowle; rodzaje mieszkań - AA - architektura cywilna wewnątrz; w środku
+41AA10|'Edifitio overo un sito' (Ripa) - AA - architektura cywilna wewnątrz
+41AA11|pałac- AA - architektura cywilna wewnątrz
+41AA111|'l' hôtel' niewielki pałac miejski - AA - architektura cywilna wewnątrz
+41AA12|zamek - AA - architektura cywilna wewnątrz
+41AA121|ufortyfikowany 'dom' miejski - AA - architektura cywilna wewnątrz
+41AA13|budowla, np budynek użyteczności publicznej, sklep wielobranżowy - AA - architektura cywilna wewnątrz
+41AA14|zamieszkiwanie w mieście- AA - architektura cywilna wewnątrz
+41AA141|dom stojący w szeregu budynków - AA - architektura cywilna wewnątrz
+41AA142|dom połączony ze sklepem - AA - architektura cywilna wewnątrz
+41AA143|dom wolnostojący w mieście - AA - architektura cywilna wewnątrz
+41AA144|budynek z mieszkaniami, apartamentowiec - AA - architektura cywilna wewnątrz
+41AA15|'drapacz chmur', wieżowiec - AA - architektura cywilna wewnątrz
+41AA16|zamieszkiwanie na wsi dom wiejski, willa, cottage -okazała siedziba wiejska - AA - architektura cywilna wewnątrz
+41AA161|dom wiejski - AA - architektura cywilna wewnątrz
+41AA162|villa - AA - architektura cywilna wewnątrz
+41AA163|cottage-okazała siedziba wiejska - AA - architektura cywilna wewnątrz
+41AA17|dom farmerski (budynek) - AA - architektura cywilna wewnątrz
+41AA171|'stodoła' - AA - architektura cywilna wewnątrz
+41AA18|chatka, szałas-pomieszczenie - AA - architektura cywilna wewnątrz
+41AA181|rodzaj szałasu, chatki - AA - architektura cywilna wewnątrz
+41AA182|szałas indiański - AA - architektura cywilna wewnątrz
+41AA1821|wigwam - AA - architektura cywilna wewnątrz
+41AA19|pozostałe rodzaje mieszkań - AA - architektura cywilna wewnątrz
+41AA191|namiot - AA - architektura cywilna wewnątrz
+41AA1911|namiot obozowy - AA - architektura cywilna wewnątrz
+41AA1912|tepee, tipi, teepee - AA - architektura cywilna wewnątrz
+41AA192|pojazd kempingowy z przyczepą - AA - architektura cywilna wewnątrz
+41AA1921|obóz kempingowy - AA - architektura cywilna wewnątrz
+41AA1922|przyczepa kempingowa - AA - architektura cywilna wnętrze
+41AA193|'dom na łodzi' - AA - architektura cywilna wewnątrz
+41AA194|mieszkanie nad jeziorem, 'mieszkanie na palach' - AA - architektura cywilna wewnątrz
+41AA1941|pozostałe rodzaje mieszkań posadowione na gruncie stałym - AA - architektura cywilna wewnątrz
+41AA195|'śnieżna chata' (dom), igloo - AA - architektura cywilna wewnątrz
+41AA196|mieszkanie w jaskini (grocie), skalny dom - AA - architektura cywilna wewnątrz
+41AA32|drzwi - AA - drzwi symulowane
+41AA321|otwierać, otwieranie, otwarcie drzwi - AA - drzwi symulowane
+41AA3211|otwarte drzwi - AA - drzwi symulowane
+41AA3212|drzwi składające się z dwóch części - AA - drzwi symulowane
+41AA3213|drzwi obrotowe, rozsuwane - AA - drzwi symulowane
+41AA322|zamknięcie, zamykanie drzwi - AA - drzwi symulowane
+41AA3221|drzwi zamknięte - AA - drzwi symulowane
+41AA323|drzwi monumentalne, portyk, 'aediculum' - AA -drzwi symulowane
+41AA324|drzwi z elementami metalowymi - AA - drzwi symulowane
+41AA3241|kołatka drzwiowa, dzwonek u drzwi - AA - drzwi symulowane
+41AA3242|klamka, uchwyt, gałka drzwi - AA - drzwi symulowane
+41AA325|próg - AA - drzwi symulowane
+41AA3251|futryna, framuga, ramiak - AA - drzwi symulowane
+41AA3252|'wyposażenie drzwi' szczotka, skrobaczka, wycieraczka- AA - drzwi symulowane
+41AA326|skrzynka pocztowa (na drzwiach) - AA - drzwi symulowane
+41AA327|dozorca, stróż - AA - drzwi symulowane
+41AA328|zamek drzwiowy- AA - drzwi symulowane
+41AA3281|klucz - AA - drzwi symulowane
+41AA32811|wytrych - AA - drzwi symulowane
+41AA3282|zatrzask, zasuwka - AA - drzwi symulowane
+41AA3283|rygiel - AA - drzwi symulowane
+41AA3284|kłódka - AA - drzwi symulowane
+41AA33|okno - AA - okno symulowane, sztuczne, nieistniejące, fałszywe
+41AA331|otwarcie, otwieranie okna - AA - okno symulowane
+41AA3311|okno otwarte - AA - okno symulowane
+41AA332|zamknięcie, zamykanie okna - AA - okno symulowane
+41AA3321|okno zamknięte - AA - okno symulowane
+41AA333|okiennice - AA - okno symulowane
+41AA3331|okiennice zewnętrzne - AA - okno symulowane
+41AA3332|okiennice wewnętrzne - AA - okno symulowane
+41AA335|siedzenie w oknie (okienne) - AA - okno symulowane
+41AA336|postać ludzka w (otwartym) oknie - AA - okno symulowane
+41AA3361|postać ludzka w oknie, widziana z zewnątrz - AA - okno symulowane
+41AA3362|postać ludzka w oknie, widziana z wewnątrz - AA - okno symulowane
+41AA337|widok przez okno - AA - okno symulowane
+41AA3371|widok przez okno z zewnątrz - AA - okno symulowane
+41AA3372|widok przez okno z wewnątrz - AA - okno symulowane
+41B|ogrzewanie i oświetlanie
+41B1|płonący ogień (generalnie)
+41B11|zapalanie ognia (wł. 'drewno do podpałki')
+41B111|zapalniczka, krzemień
+41B112|hubka z krzesiwem
+41B113|siarka
+41B114|zapałka
+41B1141|pudełko zapałek
+41B115|lont
+41B12|proces spalania
+41B12(...)|proces spalania (z nazwą)
+41B12(COAL)|proces spalania węgiel
+41B12(FAGGOT)|proces spalania wiązka chrustu, patyków lub suchego drzewa
+41B12(LOG)|proces spalania kłoda, kloc
+41B12(OIL)|proces spalania olej
+41B12(STRAW)|proces spalania słoma
+41B121|płomień
+41B122|iskra ~ ogień
+41B123|gaz uwalniający się poprzez spalanie (zapłon)
+41B13|rozniecanie, podsycanie ognia
+41B131|dmuchanie, dmuchnięcie (rozniecanie ognia)
+41B1311|miech
+41B132|'wachlowanie', ruch wiatru (-rozniecający ogień)
+41B1321|wachlarz (do rozniecania ognia)
+41B133|rozgarnianie, grzebanie-w ogniu (rozniecanie, podsycanie ognia)
+41B1331|pogrzebacz (~ do płonącego ognia)
+41B14|gaszenie ognia
+41B15|pozostałości, osad po spaleniu się (-czegoś)
+41B151|sadza
+41B152|popiół
+41B153|żużle, zgorzeliny
+41B16|ognisko obozowe, biwak z ogniskiem
+41B161|ognisko
+41B162|dym
+41B2|palenisko i piec, piecyk
+41B21|kominek, palenisko (kominka)
+41B211|urządzenie grzejące (kominek, piec, piecyk, 'palenisko')
+41B212|urządzenia ~ do kominka
+41B2121|szczypce do ognia
+41B2122|gaśnica (dla węgla)
+41B213|przybory ~ palenisko, miejsce pożaru
+41B2131|ekran kominkowy, zasłona
+41B2132|zasłona przeciwogniowa
+41B2133|płyta paleniska
+41B2134|dummy board figures-figurki, marionetki z papier mache
+41B2135|garnek, kociołek zawieszony na łańcuchu
+41B2136|'wilk kominkowy' (kuchenny)
+41B214|kominek
+41B2141|półka kominkowa
+41B2142|zdobienia kominka/kominkowe
+41B22|gorący, rozgrzany piec
+41B221|ruszt (pieca)
+41B222|rura piecowa
+41B223|wiadro na węgiel
+41B224|szufla do węgla
+41B23|grzejnik do nóg
+41B231|ogrzewalnik łóżka
+41B232|termofor
+41B24|centralne ogrzewanie
+41B241|kaloryfer, grzejnik (centralnego ogrzewania)
+41B29|chłodzenie, klimatyzowanie, klimatyzacja (-'układ chłodzenia')
+41B3|oświetlanie, oświetlenie, lampy
+41B31|świeca
+41B311|kandelabr, świecznik
+41B312|kinkiet, lampa ścienna
+41B313|lichtarz
+41B314|szczypce do świec
+41B32|pochodnia
+41B33|latarnia
+41B34|lampa oliwna
+41B35|lampa parafinowa
+41B36|lampa gazowa
+41B37|lampa elektryczna
+41B371|żarówka (elektryczna)
 #41B372|neon lamp, neon tube
-#41B4|on fire, ablaze
-#41B5|fire-fighting
-#41B51|fire-department, fire-brigade
-#41B511|firemen
-#41B52|fire-extinguishing equipment
-#41B521|pails (fire-extinguishing equipment)
-#41B522|pump (fire-extinguishing equipment)
-#41B523|fire-hose
-#41B524|chemical fire-extinguishing apparatus
-#41B525|fire-engine
-#41B53|rescue from fire
-#41B531|rescue from fire with jumping-sheet
+41B4|'w płomieniach'
+41B5|walka z ogniem
+41B51|straż pożarna, brygada straży ogniowej
+41B511|strażak
+41B52|wyposażenie straży pożarnej (gaszących ogień)
+41B521|kubeł, wiadro (wyposażenie straży pożarnej)
+41B522|pompa (wyposażenie straży pożarnej)
+41B523|wąż gaśniczy
+41B524|gaśnica chemiczna straży pożarnej
+41B525|pojazd straży pożarnej
+41B53|ratunek przed ogniem
+41B531|ratunek przed ogniem za pomocą płachty strażackiej
 #41B6|ventilation systems
 #41B61|airshaft
-#41BB32|torch - BB - torch held upside down
-41C|食物，营养
-#41C1|eating and drinking
-#41C10|gastronomy, the art of eating and drinking
-#41C11|eating
-#41C111|giving food
-#41C119|hunger
-#41C1190|personification of hunger, 'Fames'; 'Fame' (Ripa)
-#41C1191|starvation, famine
-#41C1192|hunger-strike
-#41C12|drinking
-#41C121|giving drink
-#41C122|pouring
-#41C129|thirst
-#41C13|blowing, to cool food before eating
-#41C14|stirring, to cool food before eating
-#41C18|saturation, satiation ~ eating and drinking
-#41C19|insatiable hunger or thirst
-#41C2|kitchen and cellar
-#41C21|kitchen
-#41C211|kitchen-interior
-#41C2111|kitchen-interior with foodstuffs in foreground (Dutch: 'keukenstuk')
-#41C212|sink (kitchen)
-#41C22|kitchen-personnel
-#41C221|cook
-#41C222|kitchen-maid, kitchen servant
-#41C23|poor and rich kitchen
-#41C231|rich kitchen
-#41C232|poor kitchen
-#41C24|conserving food
-#41C241|cellar
-#41C2411|wine-cellar
-#41C24111|wine-steward
-#41C242|ice-cellar
-#41C2421|ice-box, refrigerator
-#41C25|cooking food
-#41C251|roasting, grilling
-#41C2511|spit ~ cooking
-#41C2512|grill, gridiron ~ cooking food
-#41C252|frying
-#41C253|boiling
-#41C254|kitchen-fire
-#41C2541|open fire, fire-place, stove (in kitchen)
-#41C2542|cooker
-#41C2543|oven ~ kitchen
+41BB32|pochodnia - BB - 'pochodnia odwrócona ku dołowi', do góry nogami
+41C|odżywianie, kultura odżywiania
+41C1|jedzenie i picie
+41C10|gastronomia, sztuka (kultura) jedzenia i picia
+41C11|jedzenie
+41C111|otrzymywanie pożywienia
+41C119|głód
+41C1190|personifikacja głodu, pragnienia - 'Fames'; 'Fame' (Ripa)
+41C1191|głodowanie, głód
+41C1192|strajk głodowy, okupacyjny
+41C12|picie
+41C121|otrzymywanie napoju
+41C122|nalewanie, rozlewanie
+41C129|pragnienie
+41C13|dmuchanie, chłodzenie posiłku przed spożyciem
+41C14|mieszanie posiłku przed spożyciem
+41C18|nasycenie się, zaspokojenie głodu ~ jedzenie i picie
+41C19|nienasycenie pragnienia, głodu
+41C2|kuchnia i piwnica
+41C21|kuchnia
+41C211|wnętrze kuchni
+41C2111|wnętrze kuchni z artykułami spożywczymi na pierwszym planie (w Holandii 'keukenstuk')
+41C212|zlew, zlewozmywak (kuchenny)
+41C22|personel kuchenny
+41C221|kucharz
+41C222|obsługa kuchni
+41C23|kuchnia uboga i bogata
+41C231|kuchnia bogata
+41C232|kuchnia uboga
+41C24|przechowywanie żywności
+41C241|piwnica
+41C2411|piwnica na wino
+41C24111|'piwniczny'-zajmujący się winami
+41C242|'lodownia'-piwnica na lód
+41C2421|lodówka
+41C25|gotowanie żywności
+41C251|pieczenie, grillowanie
+41C2511|rożen ~ gotowanie
+41C2512|grill, ruszt ~ gotowanie, przyrządzanie żywności
+41C252|smażenie
+41C253|'wrzenie'
+41C254|przyrządzanie potraw na ogniu
+41C2541|płonący ogień, palenisko, piec (w kuchni)
+41C2542|kuchenka
+41C2543|piekarnik ~ kuchenny
 #41C26|preparation of food
 #41C261|cleaning (food)
 #41C2611|cleaning vegetables
@@ -525,7 +524,6 @@
 #41C3221|goblet foot
 #41C323|glass, rummer
 #41C323(...)|glass, rummer (with NAME)
-#
 #41C323(BERKEMEYER)|glass, rummer: berkemeyer
 #41C323(PASGLAS)|glass, rummer: pasglas
 #41C324|tankard
@@ -707,16 +705,16 @@
 #41C76|scents, perfumes ~ stimulants, drugs
 #41C761|scent-box
 #41C762|incense-burner ~ scents, perfumes
-#41C9|cannibalism
-#41C91|necrophagism
-#41CC221|cook - CC - female cook
-#41CC25|cooking food - CC - in the open air
-#41CC251|roasting, grilling - CC - in the open air
-#41CC2511|spit ~ cooking - CC - in the open air
-#41CC2512|grill, gridiron ~ cooking food - CC - in the open air
-#41CC252|frying - CC - in the open air
-#41CC253|boiling - CC - in the open air
-#41CC254|kitchen-fire - CC - in the open air
+41C9|kanibalizm
+41C91|nekrofagizm
+41CC221|kucharz - CC - kucharka
+41CC25|gotowanie żywności - CC - 'na świeżym powietrzu'
+41CC251|smażenie, grillowanie - CC - 'na świeżym powietrzu'
+41CC2511|rożen ~ gotowanie - CC - 'na świeżym powietrzu'
+41CC2512|grill, ruszt ~ gotowanie żywności- CC - 'na świeżym powietrzu'
+41CC252|smażyć - CC - 'na świeżym powietrzu'
+41CC253|wrzenie, kipienie - CC - 'na świeżym powietrzu'
+41CC254|kuchenka - CC - 'na świeżym powietrzu'
 #41CC2541|open fire, fire-place, stove (in kitchen) - CC - in the open air
 #41CC2542|cooker - CC - in the open air
 #41CC2543|oven ~ kitchen - CC - in the open air
@@ -749,7 +747,7 @@
 #41CC51|banquet of elegant company - CC - out of doors
 #41CC52|carousal, drinking-bout, orgy - CC - out of doors
 #41CC520|'Crapula' (Ripa) - CC - out of doors
-41D|时尚，服装
+41D|moda, ubiór
 #41D1|fashion
 #41D11|fashion plates
 #41D12|fashion show
@@ -771,7 +769,7 @@
 #41D211(CHEMISE À LA REINE)|dress, gown: chemise à la Reine
 #41D211(COURT GOWN)|dress, gown: court gown or court dress
 #41D211(DAY DRESS)|dress, gown: day dress
-#41D211(DINNER DRESS)|dress, gown: dinner dress 
+#41D211(DINNER DRESS)|dress, gown: dinner dress
 #41D211(EVENING DRESS)|dress, gown: evening dress
 #41D211(MANTEAU)|dress, gown: manteau
 #41D211(MORNING DRESS)|dress, gown: morning dress
@@ -783,7 +781,6 @@
 #41D211(ROBE À LA FRANÇAISE)|dress, gown: robe à la française
 #41D211(ROBE À LA LÉVITE)|dress, gown: robe à la lévite
 #41D211(ROBE À LA POLONAISE)|dress, gown: robe à la polonaise
-#
 #41D211(WALKING DRESS)|dress, gown: walking dress
 #41D212|coat, cape
 #41D2121|coat
@@ -969,11 +966,11 @@
 #41D99|being ashamed (of one's nakedness)
 #41D991|attempt to cover one's nakedness
 #41DD121|model, mannequin - DD - male model
-41E|各種物體靜物
-#41E1|still life of related objects
-#41E2|'trompe l'oeil'
-42|家庭，后裔
-42A|生殖，生育，等h
+41E|martwa natura złożona z różnorodnych przedmiotów
+41E1|martwa natura złożona z przedmiotów pokrewnych
+41E2|'trompe l'oeil'-iluzja, złudzenie optyczne
+42|rodzina, potomstwo
+42A|prokreacja, narodziny i (wczesna) młodość
 #42A1|procreation and pregnancy
 #42A11|conception, impregnation
 #42A12|pregnant woman
@@ -1123,7 +1120,7 @@
 #42AA571|child running errands - AA - girl
 #42AA58|shock-headed Peter, 'Struwwelpeter' - AA - girl
 #42AA59|bogey-man, bugaboo - AA - girl
-42B|父母與子女
+42B|rodzice z dziećmi
 #42B1|parental love
 #42B11|father-love
 #42B111|father with son(s) (father-love)
@@ -1201,12 +1198,12 @@
 #42B831|the good child
 #42B832|the naughty child
 #42B9|child (young man, young woman) leaving his (her) parents
-42C|青春期的時期
+42C|okres dojrzewania
 #42C1|initiation usages for young men
 #42C2|initiation usages for young women
 #42C21|'débutante'
 #42C3|maiden versus married woman
-42D|婚约与婚姻
+42D|zaręczyny i małżeństwo
 #42D1|betrothal
 #42D11|proposal, declaration of love
 #42D111|man kneeling before his beloved (proposing)
@@ -1349,7 +1346,7 @@
 #42DD5|divorce - DD - married woman given to another man, e.g. by her father
 #42DD7|mistress - DD - cicisbeo
 #42DD71|concubine - DD - cicisbeo
-42E|葬礼
+42E|obrzędy pogrzebowe
 #42E1|preparation of the corpse, mortuary toilet ~ burial
 #42E11|washing and dressing of the corpse
 #42E111|shroud
@@ -1376,32 +1373,32 @@
 #42E192|execution of punishment on corpse
 #42E193|despoiling corpse of its valuables or vestments
 #42E194|necrophily
-#42E2|funerary ceremonial
-#42E21|announcement of death
+42E2|ceremoniał pogrzebowy
+42E21|ogłoszenie zgonu
 #42E211|oral announcement (of death), undertaker's man
 #42E212|mourning card, death notice, obituary
 #42E213|memorial medal
 #42E214|funeral parlour
-#42E22|cortege, funeral procession
+42E22|kondukt, procesja pogrzebowa
 #42E221|hearse, funeral car
 #42E222|funeral carriages
 #42E223|litter, coffin rest
 #42E224|'pleurants'
-#42E23|burial
+42E23|pochówek
 #42E231|opening of grave, exhumation
 #42E232|re-burial
-#42E24|address at open grave
-#42E241|funeral prayers
-#42E242|throwing something into the open grave
-#42E25|body-burning, cremation
-#42E26|return from the funeral
+42E24|wystąpienie nad otwartym grobem
+42E241|modlitwy pogrzebowe
+42E242|składanie rzeczy w otwartym grobie
+42E25|spopielenie zwłok, kremacja
+42E26|powrót z pogrzebu
 #42E261|funeral repast, mourners' meal
-#42E27|mortuary specialists
+42E27|zawody związane z pogrzebem
 #42E271|undertaker, mortician
 #42E272|grave digger
 #42E273|cemetery guard
 #42E274|burial association
-#42E28|destruction of possessions of the deceased (women, horses, servants, etc. are killed after the death of the master)
+42E28|niszczenie własności zmarłego (kobiety, konie, słudzy itd. są zabijani po śmierci pana)
 #42E281|person on deathbed having his possessions destroyed
 #42E3|grave, tomb and other grave-forms and grave-markers
 #42E31|grave, tomb
@@ -1464,7 +1461,7 @@
 #42E54|provisions for support of spouse and children
 #42E541|insurance (provision for support of spouse and children)
 #42EE224|'pleurants' - EE - female
-42F|戶籍管理;家庭主婦在工作
+42F|utrzymanie domu; gospodyni przy pracy
 #42F0|Economy; 'Economia', 'Providenza dell'annona' (Ripa)
 #42F1|housewife
 #42F11|housewife giving orders to servants
@@ -1499,7 +1496,7 @@
 #42F9|badly run house
 #42F91|a perfect shambles (Dutch: 'huishouden van Jan Steen')
 #42F92|slovenly housewife, 'Vrou(w) Lor(t)s'
-42G|家庭，關係，血統
+42G|rodzina, pokrewieństwo, potomkowie
 #42G1|family lineage, pedigree, genealogical tree or table
 #42G11|series of ancestral portraits, 'Ahnengalerie'
 #42G2|family relationships (first, second, third and fourth degree), generations
@@ -1531,7 +1528,7 @@
 #42G244|second cousins (fourth degree family relationships)
 #42G245|great-great grandchildren (fourth degree family relationships)
 #42G29|incest
-#42Z|exotic and non-monogamous family forms
+42Z|egzotyczne i niemonogamiczne formy rodziny
 #42Z1|polygamy
 #42Z11|harem
 #42Z111|odalisque
@@ -1541,8 +1538,8 @@
 #42Z3|communal marriages
 #42Z31|'Weibergemeinschaft'
 #42Z32|family or group marriage ('Punalua')
-43|消遣，娱乐
-#43A|festivities
+43|wypoczynek, rozrywka
+43A|uroczystości
 #43A1|periodic celebrations, popular feasts
 #43A11|calendar festivals, non-liturgical celebrations of days belonging to the ecclesiastical calendar
 #43A12|non-liturgical celebrations of Christmas, carnival and Easter
@@ -1642,7 +1639,7 @@
 #43A38|circus or fair 'en route'
 #43A381|setting up the tents (circus or fair 'en route')
 #43A382|taking down the tents (circus or fair 'en route')
-#43A4|public festivities
+43A4|uroczystości publiczne
 #43A41|rejoicing on special occasions
 #43A411|festivities on events of national importance
 #43A412|public festivities on the occasion of royal events
@@ -1673,8 +1670,8 @@
 #43A44|bonfire, fire-works
 #43A45|public disgrace
 #43A46|activities in the air ~ public festivities, e.g. fly-past
-#43A49|public funeral
-#43A491|catafalque, 'castrum doloris' (~ public funeral)
+43A49|publiczny pogrzeb
+43A491|katafalk, 'castrum doloris' (~ publiczny pogrzeb)
 #43AA2|private festivities, merry company - AA - in the open air, 'fête champêtre'
 #43AA21|reception, cocktail party - AA - in the open air, 'fête champêtre'
 #43AA22|commemoration, jubilee - AA - in the open air, 'fête champêtre'
@@ -1708,7 +1705,7 @@
 #43AA46|activities in the air ~ public festivities, e.g. fly-past - AA - festivities on the water
 #43AA49|public funeral - AA - festivities on the water
 #43AA491|catafalque, 'castrum doloris' (~ public funeral) - AA - festivities on the water
-#43B|recreation
+43B|wypoczynek
 #43B1|enjoying nature
 #43B11|contemplating nature
 #43B12|picnic, alfresco, 'déjeuner sur l'herbe'
@@ -1755,7 +1752,7 @@
 #43B613|seesaw
 #43B7|zoo (as place of recreation)
 #43B8|collection, exhibition, show
-#43C|sports, games and physical performances
+43C|sport, gry i aktywność fizyczna
 #43C1|sports, games ~ animals
 #43C11|hunting, chase
 #43C111|game, hunted animals
@@ -2243,11 +2240,11 @@
 #43CC7373|throwing snowballs - CC - adult(s) ~ snow and ice
 #43CC7374|with chair on ice - CC - adult(s) ~ snow and ice
 #43CC7379|going through the ice ~ playing children - CC - adult(s) ~ snow and ice
-#43D|other leisure time activities
+43D|inne formy spędzania czasu wolnego
 #43D1|handicrafts, hobbies (leisure time activities)
 #43D2|collecting (leisure time activity)
-44|国家
-#44A|symbols of the state (in general)
+44|państwo; prawo; życie polityczne
+44A|symbole państwowe (w ogólności)
 #44A1|coat of arms (as symbol of the state, etc.)
 #44A11|device (as symbol of the state, etc.)
 #44A2|seal (as symbol of the state, etc.)
@@ -2257,10 +2254,10 @@
 #44A311|standard-bearer, flag-bearer
 #44A32|flagpole
 #44A4|decorations, honours (as symbols of the state, etc.)
-#44A5|symbols of particular nations, states, districts, etc.
+44A5|symbole poszczególnych, narodów, państw, regionów itd.
 #44A51|personifications of countries, nations, states, districts, etc.
 #44A51(...)|personifications of countries, nations, states, districts, etc. (with NAME)
-#44B|government, the State; 'Politica', 'Auttorità o Potestà' (Ripa)
+44B|rząd; Państwo; 'Politica', 'Auttorità o Potestà' (Ripa)
 #44B0|governmental systems
 #44B01|monarchy; 'Monarchia mondana' (Ripa)
 #44B011|aristocracy; 'Aristocratia' (Ripa)
@@ -2562,7 +2559,7 @@
 #44BB1971|imperial mantle (symbol of sovereignty) - BB - female ruler
 #44BB1972|royal mantle (symbol of sovereignty) - BB - female ruler
 #44BB198|pectoral (symbol of sovereignty) - BB - female ruler
-#44C|the citizen and his rights
+44C|obywatel i jego prawa
 #44C1|nationality, citizenship
 #44C11|patriotism
 #44C110|'Amor della patria' (Ripa)
@@ -2601,7 +2598,7 @@
 #44C59|censorship
 #44C591|burning of books
 #44C6|racial emancipation
-#44D|administrative bodies
+44D|organy administracji
 #44D1|registration bureau, civil registry
 #44D2|taxes and financial administration
 #44D20|'Datio overo Gabella' (Ripa)
@@ -2621,7 +2618,7 @@
 #44D321|land parcelling
 #44D4|official; civil servant; functionary (in general)
 #44D4(...)|official; civil servant; functionary (in general) (with NAME of function)
-#44E|government services, public services
+44E|rząd, służba publiczna
 #44E1|water-supply (~ public services)
 #44E11|water tower
 #44E12|purification system (~ water supply)
@@ -2641,7 +2638,7 @@
 #44E6|food rationing
 #44E61|rationing card
 #44E62|soup-kitchen, cook-shop
-#44F|revolution, revolt
+44F|rewolucja, przewrót
 #44F0|'Seditio'; 'Rebellione', 'Seditione civile' (Ripa)
 #44F1|street-fights, riots
 #44F11|barricades ~ riot
@@ -2689,7 +2686,7 @@
 #44F741|reign of terror
 #44F7411|'agent provocateur'
 #44F7412|informing (~ reign of terror)
-#44G|law and jurisprudence
+44G|prawo i wymiar sprawiedliwości
 #44G0|symbols and allegories of jurisprudence
 #44G01|symbols and allegories of law; 'Legge', 'Legge civile' (Ripa)
 #44G02|'Rechtsdenkmäler'
@@ -2882,8 +2879,8 @@
 #44GG562|piracy - GG - female
 #44GG59|tools ~ criminals - GG - female
 #44GG591|dark lantern - GG - female
-45|战争；军事行动
-#45A|war and peace
+45|wojna; wojskowość
+45A|wojna i pokój
 #45A1|war
 #45A10|symbols, allegories of war; 'Guerra' (Ripa)
 #45A11|militarism
@@ -2918,7 +2915,7 @@
 #45A6|fifth column
 #45A61|sabotage by fifth column
 #45A9|non-belligerents, neutrals
-#45B|the soldier; the soldier's life
+45B|żołnierz; życie żołnierskie
 #45B1|soldier(s) before enlisting
 #45B11|recruitment
 #45B111|recruiter, crimp
@@ -3011,7 +3008,7 @@
 #45B84|reunion, memorial gathering (~ veteran soldiers)
 #45B9|desertion
 #45B91|desertion to the enemy
-#45C|(military) equipment and supply
+45C|(wojskowe) wyposażenie i zaopatrzenie
 #45C1|weapons
 #45C10|'Arme' (Ripa)
 #45C11|casting weapons
@@ -3060,15 +3057,14 @@
 #45C19|protective weapons
 #45C19(...)|protective weapons (with NAME)
 #45C19(SHIELD)|protective weapons: shield
-#45C2|military clothing and other equipment (uniforms, cap, armour, helmet, etc.)
+45C2|wojskowy strój i inne wyposażenie (mundur, czapka, zbroja, hełm itd.)
 #45C21|(military) uniforms
 #45C211|uniform cap
 #45C212|baton of general
-#45C22|armour
-#45C221|helmet
+45C22|zbroja
+45C221|hełm
 #45C222|arm protector
 #45C2221|gauntlet, armoured glove to protect the hand
-#45C223|cuirass
 #45C23|quiver
 #45C231|scabbard, sheath
 #45C24|camouflage
@@ -3116,7 +3112,7 @@
 #45C9|military music
 #45C91|military band
 #45C92|(military) signals
-#45D|insignia; division of armed forces; ranks
+45D|znaki wojskowe; podział sił zbrojnych; stopnie
 #45D1|(military) flags and standards
 #45D11|insignia of companies, etc.
 #45D12|(military) standard-bearer
@@ -3135,7 +3131,7 @@
 #45D322|officer
 #45D323|sailor
 #45D33|ranks in the air force
-#45E|communication and transport
+45E|łączność i transport
 #45E1|communication (military)
 #45E2|transport, train (military)
 #45E3|military vehicles
@@ -3148,7 +3144,7 @@
 #45E511|pontoon bridge
 #45E512|Bailey bridge
 #45E52|removing obstructions, barricades, etc. ~ army
-#45F|preparation for battle
+45F|przygotowania do bitwy
 #45F1|council of war
 #45F11|plan of battle
 #45F12|negotiations between combatants
@@ -3176,7 +3172,7 @@
 #45F8|challenging the enemy
 #45F9|treason
 #45F90|'Tradimento' (Ripa)
-#45G|defensive measures (military)
+45G|środki obrony (wojskowe)
 #45G1|cutting communication lines and making obstructions
 #45G11|removing beacons, roadsigns, etc. (defensive measures)
 #45G12|obstructions, barricades (defensive measures)
@@ -3196,7 +3192,7 @@
 #45G1233|defensive balloons
 #45G2|(military) self-protection
 #45G21|underground shelters
-#45H|battle, fighting in general
+45H|bitwa, walka w ogólności
 #45H1|(military) attack
 #45H11|signal to attack
 #45H111|war-cry
@@ -3227,7 +3223,7 @@
 #45HH52|putting out of action by wounding - HH - being put out of action
 #45HH53|putting out of action by killing - HH - being put out of action
 #45HH54|putting out of action by breaking the supply lines - HH - being put out of action
-#45I|after the battle
+45I|po bitwie
 #45I1|prisoner of war (after the battle)
 #45I11|surrender ~ prisoner of war
 #45I12|disarmament ~ prisoner of war
@@ -3257,7 +3253,7 @@
 #45I63|(conqueror) gripping the victim's hair
 #45I7|the defeated (after the battle)
 #45I71|the defeated before the victor
-#45K|siege, position war
+45K|oblężenie, wojna pozycyjna
 #45K1|fortifications, military engineering
 #45K11|temporary fortifications
 #45K111|trenches
@@ -3294,7 +3290,7 @@
 #45K5|raising the siege
 #45K51|raising the siege with outside assistance, relief
 #45K52|liberation of besieged city
-#45L|occupation ~ war
+45L|okupacja ~ wojna
 #45L1|surrender ~ war
 #45L11|surrender of keys
 #45L12|march into the conquered place
@@ -3313,7 +3309,7 @@
 #45L41|demolishing (of conquered city)
 #45L42|setting on fire (of conquered city)
 #45L43|devastated, ruined place or city (~ warfare)
-#45M|non-combatants ~ war
+45M|cywile ~ wojna
 #45M1|non-combatants in military situations
 #45M11|non-combatants on the battle-scene
 #45M12|non-combatants during passage of soldiers
@@ -3329,8 +3325,8 @@
 #45M52|fugitives resting, camping
 #45M6|internment camp
 #45M7|concentration camp
-46|社会生活与经济生活，运输与通讯
-#46A|communal life
+46|życie społeczne i gospodarcze, transport i komunikacja
+46A|życie społeczne
 #46A1|social stratification, social groups
 #46A11|division into classes (~ society)
 #46A111|the three Estates: nobility, clergy, commoners
@@ -3571,7 +3567,7 @@
 #46AA636|chaos, disorderly procedure (~ meeting) - AA - in the open air
 #46AA637|closing the meeting - AA - in the open air
 #46AA638|assembly-room - AA - in the open air
-#46B|trade, commerce and finance
+46B|gospodarka, handel i finanse
 #46B0|allegory of trade; 'Commertio della vita humana' (Ripa)
 #46B1|locations for trading
 #46B11|market
@@ -3710,9 +3706,9 @@
 #46BB27|customer - BB - women engaged in trade and commerce
 #46BB271|satisfied customer - BB - women engaged in trade and commerce
 #46BB272|complaining customer - BB - women engaged in trade and commerce
-#46C|traffic and transport
-#46C1|traffic on land
-#46C11|road, path
+46C|transport i komunikacja
+46C1|komunikacja lądowa
+46C11|droga, ścieżka
 #46C111|ford
 #46C1111|crossing a river
 #46C1112|ferry
@@ -3721,7 +3717,7 @@
 #46C1121|bridges by construction
 #46C11211|suspension bridge
 #46C11212|cantilever bridge
-#46C11213|bascule bridge 
+#46C11213|bascule bridge
 #46C1122|bridge forms
 #46C11221|bridge with structure, i.e. cover or buildings
 #46C113|viaduct
@@ -3738,7 +3734,7 @@
 #46C117|road-cross, 'mont-joie'
 #46C118|other structures ~ road, path
 #46C1181|flight of steps
-#46C12|human strength ~ traffic and transport on land
+46C12|siły ludzkie ~ transport i komunikacja lądowa)
 #46C121|carrying something
 #46C1211|carrying something in basket, bag, rucksack, etc.
 #46C1212|carrying something with yoke
@@ -3766,22 +3762,22 @@
 #46C1272|(carrying a person on a) litter, stretcher
 #46C1273|(carrying a person in a) sedan-chair
 #46C128|human being(s) drawing or pushing a vehicle not usually propelled by manpower
-#46C13|animal mounts; pack-animals
-#46C131|riding a horse, ass, or mule; rider, horseman
-#46C1311|riding-school, manège
+46C13|zwierzęta wierzchowe; zwierzęta juczne
+46C131|jazda na koniu, ośle lub mule; jeździec
+46C1311|szkoła jeździecka, maneż
 #46C13111|high-school riding
 #46C13112|carrousel
-#46C1312|equestrian state-portrait
-#46C1313|equestrian statue
-#46C1314|horses and kindred animals
-#46C13141|horse
-#46C13141(...)|horse (with NAME of race or kind)
-#46C131411|fighting horses
-#46C13142|ass, donkey
-#46C13143|mule
-#46C13144|hinny
-#46C1315|stud farm
-#46C1316|saddling and bridling
+46C1312|portret konny
+46C1313|rzeźba jeźdźca
+46C1314|konie i pokrewne zwierzęta
+46C13141|koń
+46C13141(...)|koń (z NAZWĄ rasy lub rodzaju)
+46C131411|walczące konie
+46C13142|osioł
+46C13143|muł
+46C13144|osłomuł
+46C1315|stadnina
+46C1316|siodłanie i zakładanie uzdy
 #46C13161|saddle and bridle (saddlery)
 #46C131611|head-stall
 #46C131612|bit
@@ -3791,10 +3787,10 @@
 #46C131615|stirrup
 #46C131616|blinkers
 #46C131617|horse-blanket
-#46C1317|grooming
+46C1317|czyszczenie
 #46C13171|groom
 #46C13172|curry-comb
-#46C1318|horse in motion
+46C1318|koń w ruchu
 #46C13181|walking (horse in motion)
 #46C13182|trotting (horse in motion)
 #46C13183|galloping horse
@@ -3802,13 +3798,13 @@
 #46C13185|rearing (horse in motion)
 #46C13186|kicking (horse in motion)
 #46C13187|leading a horse by the reins; rider beside his horse
-#46C1319|accident with horse (or kindred animal)
+46C1319|wypadek z koniem (lub zwierzęciem pokrewnym)
 #46C13191|bolting, running away (~ horse)
 #46C13192|horse throwing rider
 #46C13193|horse attacked by wild animal
-#46C132|riding on animal other than horse, ass, or mule
-#46C133|pack-animal
-#46C14|animal traction, animal-drawn vehicle (carriage etc.)
+46C132|jazda na zwierzęciu innym niż koń, osioł lub muł
+46C133|zwierzę juczne
+46C14|zwierzę pociągowe; pojazdy ciągnione przez zwierzę (wóz i in.)
 #46C141|hitching up, harnessing ~ animal traction
 #46C1411|harness
 #46C14111|yoke
@@ -3866,7 +3862,7 @@
 #46C14963|whip ~ accident
 #46C1497|accident with diligence, omnibus, horse-tram
 #46C1498|accident with animal-drawn sledge (Dutch: 'toeslede')
-#46C15|railway-traffic
+46C15|komunikacja kolejowa
 #46C151|railway, tramway; rack railway
 #46C1511|railway, train
 #46C15111|freight train
@@ -3912,7 +3908,7 @@
 #46C1597|accident with monorail
 #46C1598|accident with suspension railway
 #46C15981|accident with funicular railway
-#46C16|traffic by road or path with motor-vehicle
+46C16|komunikacja po drodze lub ścieżce przy użyciu pojazdu motorowego
 #46C161|automobile
 #46C1611|three-wheeled automobile, car
 #46C162|bus, coach
@@ -3941,8 +3937,8 @@
 #46C1693|accident with truck, van
 #46C1694|accident with amphibian vehicle
 #46C1695|accident with motor-cycles or other two-wheeled motor-vehicles
-#46C17|sailing-car
-#46C18|locomotion on snow and ice (non-sport)
+46C17|pojazd żaglowy
+46C18|poruszanie się po śniegu i lodzie (nie dla sportu)
 #46C181|sleigh, sledge (non-sport)
 #46C1811|horse-sleigh
 #46C1812|dog-sleigh
@@ -3951,7 +3947,7 @@
 #46C182|snow-shoes
 #46C183|ice-boat
 #46C189|accident on snow or ice
-#46C19|wheel (of vehicle)
+46C19|koło (pojazdu)
 #46C191|nave, hub (of wheel)
 #46C1911|ball-bearing (of wheel)
 #46C192|spokes
@@ -3959,7 +3955,7 @@
 #46C1931|inner tube
 #46C1939|tyre track
 #46C199|wheel track
-#46C2|traffic on the water
+46C2|komunikacja wodna
 #46C20|'Navigatione' (Ripa)
 #46C21|ships (in general)
 #46C211|shipyard, shipdock
@@ -4072,7 +4068,7 @@
 #46C296|sea-sickness
 #46C297|sea-burial
 #46C298|damage (to a ship)
-#46C3|airborne traffic, aviation
+46C3|komunikacja powietrzna; awiacja
 #46C31|flying on or with the aid of animal(s)
 #46C32|flying on or with the aid of object(s)
 #46C33|self-propelled flying
@@ -4099,13 +4095,13 @@
 #46C3811|airport control tower
 #46C3812|hangar
 #46C39|air-crash, air disaster, flying-accident
-#46C4|astronautics, space-travel, interplanetary travel
+46C4|astronautyka, podróże kosmiczne, podróże międzyplanetarne
 #46C41|rocket (astronautics)
 #46C42|space craft; capsule, station
 #46C43|astronaut, cosmonaut
 #46C49|UFO, flying saucer
 #46C491|beings from outer space
-#46C5|travelling; tourism
+46C5|podróże; turystyka
 #46C51|stadia of travel
 #46C511|preparations ~ travelling
 #46C512|departure ~ travelling
@@ -4155,7 +4151,7 @@
 #46CC216|parts of ship's interior - CC - more than one ship
 #46CC216(...)|parts of ship's interior (with NAME) - CC - more than one ship
 #46CC219|improvised and unusual traffic on the water - CC - more than one ship
-#46D|press, journalism
+46D|prasa, dziennikarstwo
 #46D1|oral spreading of news, town crier
 #46D2|distributing pamphlets
 #46D3|newspaper, news-sheet
@@ -4169,7 +4165,7 @@
 #46D52|journalist, reporter
 #46D53|press photographer
 #46D54|interviewing
-#46E|post, telegraph and telephone; means of communication
+46E|poczta; telegraf i telefon; środki łączności
 #46E1|messenger
 #46E11|messenger's box
 #46E12|messenger's badge
@@ -4258,9 +4254,9 @@
 #46E731|radar
 #46E8|other means of communication
 #46E81|communication by means of 'statue parlanti', such as Marforio and Pasquino in Rome
-47|技艺与工业
-#470|'Artes Mechanicae' (Lanificium, Armatura, Navigatio, Agricultura, Venatio, Medicina, Theatrica)
-#47A|industrial structures
+47|rzemiosło i przemysł
+470|'Artes Mechanicae' (Lanificium, Armatura, Navigatio, Agricultura, Venatio, Medicina, Theatrica)
+47A|struktury przemysłowe
 #47A1|exterior of industrial structures, factories
 #47A11|workshop
 #47A12|factory-building
@@ -4274,12 +4270,12 @@
 #47A22|factory-interior, machine shop
 #47A221|assembly line
 #47A23|laboratory, research room
-#47B|handicrafts and industries
+47B|rękodzieło i przemysł
 #47B1|handicrafts, craftsman at work
 #47B11|handicrafts ~ metal
 #47B111|smith, blacksmith
 #47B1111|farrier, shoeing-smith
-#47B11111|horseshoe
+47B11111|horseshoe
 #47B1112|gun-smith, rifle-maker, armourer
 #47B1113|lock-smith
 #47B112|coppersmith, brassworker
@@ -4365,7 +4361,7 @@
 #47B27|chemical industry
 #47B28|electronics industry
 #47B29|other industries
-#47C|industrial processes, handling of materials
+47C|procesy przemysłowe, obróbka materiałów
 #47C1|preparing, cleaning, sorting, selecting (industrial processes, handling of materials)
 #47C11|laying out of material
 #47C12|preparing of material
@@ -4453,7 +4449,7 @@
 #47C732|chasing, embossing (industrial process)
 #47C74|making the given form durable (industrial process)
 #47C8|boring, drilling, piercing (industrial processes)
-#47D|machines; parts of machines; tools and appliances
+47D|maszyny, części maszyn; narzędzia i urządzenia
 #47D1|machines, engines ~ crafts and industries
 #47D2|machine driven by human or animal power
 #47D21|handmill
@@ -4510,7 +4506,7 @@
 #47D8(WEDGE)|tools, aids, implements ~ crafts and industries: wedge
 #47D8(WINDLASS)|tools, aids, implements ~ crafts and industries: windlass
 #47D9|loss, damage, destruction of machinery
-#47E|organization of craft and industry
+47E|organizacja rzemiosła i przemysłu
 #47E1|forms of production in craft and industry
 #47E11|home production
 #47E12|craft-production, skilled handiwork
@@ -4537,7 +4533,7 @@
 #47E3|modern professional organization, trade union
 #47E4|personnel in modern industry
 #47E41|director, boss (in modern industry)
-#47F|before and after production
+47F|przed i po produkcji
 #47F1|planning, designing ~ production
 #47F11|research, experiment (~ production)
 #47F12|design, plan (~ production)
@@ -4553,7 +4549,7 @@
 #47F9|loss, damage, destruction of products
 #47F91|loss, damage, destruction of products during production
 #47F92|loss, damage, destruction of products after production
-#47G|building activities
+47G|działalność budowlana
 #47G1|building-site
 #47G11|choosing the building-site
 #47G111|building-site indicated by a miracle
@@ -4623,7 +4619,7 @@
 #47G8|technological aspects of building
 #47G9|demolition of building
 #47G91|collapsing building
-#47H|textile industry and clothing industry
+47H|przemysł włókienniczy i przemysł odzieżowy
 #47H1|materials ~ textile industry
 #47H11|linen (material ~ textile industry)
 #47H111|flax (material ~ textile industry)
@@ -4693,7 +4689,7 @@
 #47H74|clog-maker
 #47H75|wigmaker, 'perruquier'
 #47H76|making of feather attire
-#47I|agriculture, cattle-breeding, horticulture, flowerculture, etc.
+47I|rolnictwo, hodowla bydła, ogrodnictwo, kwiaciarstwo itp.
 #47I1|agriculture
 #47I10|personification of agriculture, 'Agricultura'; 'Agricoltura', 'Studio dell'agricoltura' (Ripa)
 #47I11|plants ~ agriculture
@@ -4881,7 +4877,7 @@
 #47I872|beam, log of wood
 #47I88|peat-cutting
 #47I9|land-clearing, reclamation
-#47K|commercial fishery
+47K|rybołóstwo komercyjne
 #47K1|sea and coastal fishery
 #47K11|whale fishery, whaling
 #47K12|shell fishery
@@ -4894,7 +4890,7 @@
 #47K4|making of fishing nets
 #47K41|mending of fishing nets
 #47K42|fishing net
-#47L|shipbuilding industry
+47L|przemysł stoczniowy
 #47L1|building a ship, ship under construction
 #47L11|slipway ~ shipbuilding
 #47L12|scaffolding ~ shipbuilding
@@ -4904,9 +4900,9 @@
 #47L3|launching a ship
 #47L31|christening a ship
 #47L32|maidentrip of a ship
-48|艺术
-#480|symbolic representations, allegories and emblems ~ art; 'Arte' (Ripa)
-#48A|art and the public; styles and ornaments
+48|sztuka
+480|przedstawienia symboliczne, alegorie i emblemy ~ sztuka; 'Arte' (Ripa)
+48A|sztuka i sfera publiczna; style i ornamenty
 #48A1|person stimulating the arts; art lover, connoisseur, maecenas, patron
 #48A11|artist receiving commission
 #48A111|patron (or client) visiting the artist
@@ -4979,7 +4975,7 @@
 #48A95|children's art
 #48A96|psychotic and psychiatric art
 #48A97|'kitsch', 'Trivialkunst'
-48A98|裝飾品〜藝術
+#48A98|ornaments ~ art
 #48A981|ornament ~ geometric motifs
 #48A9811|ornament ~ straight lines (right angles only)
 #48A98111|ornament ~ meander
@@ -5103,8 +5099,8 @@
 #48AA9856|ornament derived from architectural details - AA - stylized
 #48AA9857|(other) ornaments derived from objects - AA - stylized
 #48AA9857(...)|(other) ornaments derived from objects (with NAME) - AA - stylized
-#48B|artist (in general)
-#48B1|artist at work, in his workshop
+48B|artysta (w ogólności)
+48B1|artysta przy pracy, w swojej pracowni
 #48B10|inspiration of the artist (in general)
 #48B101|the artist and his muse (in general)
 #48B11|workshop, studio of the artist (in general)
@@ -5124,15 +5120,15 @@
 #48B143|artist training pupils
 #48B15|artist at work with assistants or pupils
 #48B19|artist destroying his own work
-#48B2|artist in non-work situation
+48B2|artysta w sytuacji, gdy nie pracuje
 #48B21|Fame ~ artist
 #48B22|the artist and his family, relatives, etc.
 #48B23|circle, club of artists
 #48B24|Bohemian life of artist
 #48B25|the artist's genius unrecognized
 #48B26|artist on his deathbed
-#48B3|portrait, self-portrait of artist
-#48B4|(professional) organization of artists
+48B3|portret, autoportret artysty
+48B4|(zawodowe) organizacje artystów
 #48B41|Guild of St. Luke
 #48B411|coat of arms of Guild of St. Luke
 #48B42|academy, association of artists
@@ -5157,18 +5153,18 @@
 #48BB143|artist training pupils - BB - out of doors
 #48BB15|artist at work with assistants or pupils - BB - out of doors
 #48BB19|artist destroying his own work - BB - out of doors
-#48C|the arts; artists
-#48C1|architecture
-#48C10|'Architectura', symbolic representations, allegories and emblems ~ architecture; 'Architettura' (Ripa)
+48C|sztuki piękne; artyści
+48C1|architektura
+48C10|'Architectura', przedstawienia symboliczne, alegorie i emblemy ~ architektura; 'Architettura' (Ripa)
 #48C101|origin of architecture
-#48C11|architect at work
+48C11|architekt przy pracy
 #48C111|designing, sketching ~ architect
 #48C112|architect studying ancient architecture
 #48C113|architect offering design or model to patron
 #48C114|architect supervising building activities
-#48C12|architect in non-work situation
-#48C13|portrait, self-portrait of architect
-#48C14|architectural representations in general
+48C12|architekt w sytuacjach innych niż praca
+48C13|portret, autoportret architekta
+48C14|przedstawienia architektoniczne w ogólności
 #48C141|representation of real building (either existing or having existed)
 #48C1411|exterior ~ representation of a building
 #48C14111|bird's eye view ~ representation of building
@@ -5196,39 +5192,39 @@
 #48C145|architectural settings in paintings, sculptures, etc.
 #48C1451|'Architekturbild'
 #48C149|ruin of a building ~ architecture
-#48C15|tools, implements of architect
-#48C16|architectural detail
-#48C161|column, pillar ~ architecture
-#48C1611|half-column, pilaster ~ architecture
-#48C1612|capital (~ column, pillar)
-#48C1613|base (~ column, pillar)
+48C15|narzędzia, przybory architekta
+48C16|detal architektoniczny
+48C161|kolumna, filar ~ architektura
+48C1611|półkolumna, pilaster ~ architektura
+48C1612|kapitel (~ kolumna, filar)
+48C1613|baza (~ kolumna, filar)
 #48C1614|spiral or Solomonic column
 #48C1615|colonnade
-#48C162|arch, archivolt ~ architecture
-#48C1621|arcade ~ architecture
-#48C1622|vault ~ architecture
-#48C1622(...)|vault (with NAME)
-#48C16221|keystone ~ architecture
-#48C1623|dome ~ architecture
-#48C1624|'concha' ~ architecture
-#48C163|orders, order-books ~ architecture
+48C162|arkada, archiwolta ~ architektura
+48C1621|arkada ~ architektura
+48C1622|sklepienie ~ architektura
+48C1622(...)|sklepienie (z NAZWĄ)
+48C16221|zwornik ~ architektura
+48C1623|kopuła ~ architektura
+48C1624|koncha ~ architektura
+48C163|porządki architektoniczne, wzorniki porządków ~ architektura
 #48C1631|Doric order ~ architecture
 #48C1632|Tuscan order ~ architecture
 #48C1633|Ionic order ~ architecture
 #48C1634|Corinthian order ~ architecture
 #48C1635|composite order ~ architecture
-#48C164|constructive (architectural) parts ~ human beings
+48C164|elementy konstrukcyjne (architektoniczne) ~ istoty ludzkie
 #48C1641|atlantes ~ architecture
 #48C1642|caryatids ~ architecture
 #48C165|mouldings ~ architecture
 #48C165(...)|mouldings ~ architecture (with NAME)
-#48C166|surface decorations ~ architecture
-#48C1661|rustication ~ surface decorations (architecture)
-#48C167|pavement, floor ~ architecture
-#48C168|other architectural details
+48C166|zdobienie elewacji ~ architektura
+48C1661|rustyka ~ zdobienie elewacji (architektura)
+48C167|posadzka, podłoga ~ architektura
+48C168|inne detale architektoniczne
 #48C168(...)|other architectural details (with NAME)
 #48C168(ARCHITRAVE)|other architectural details: architrave
-#48C2|sculpture
+48C2|rzeźba
 #48C20|'Sculptura', symbolic representations, allegories and emblems ~ sculpture; 'Scoltura' (Ripa)
 #48C21|sculptor at work
 #48C211|sculptor making a model, bozzetto
@@ -5246,7 +5242,7 @@
 #48C25(MALLET)|tools, implements of sculptor: mallet
 #48C26|medal (considered as a piece of sculpture, regardless of its specific function)
 #48C27|gem, gemstone
-#48C3|applied arts, arts and crafts; industrial design
+48C3|sztuki dekoracyjne, rzemiosło artystyczne; wzornictwo przemysłowe
 #48C30|symbolic representations, allegories and emblems ~ applied arts
 #48C31|craftsman ~ applied arts
 #48C311|jeweller, goldsmith, silversmith
@@ -5280,7 +5276,7 @@
 #48C3536|encrusting ~ applied arts
 #48C36|industrial design
 #48C361|industrial designer
-#48C4|the monumental arts
+48C4|sztuka monumentalna
 #48C40|symbolic representations, allegories and emblems ~ the monumental arts
 #48C41|monumental artist
 #48C411|mosaicist
@@ -5289,7 +5285,7 @@
 #48C42|portrait, self-portrait of monumental artist
 #48C43|work of monumental art
 #48C44|tools and implements of monumental artist
-#48C5|painting, drawing and the graphic arts
+48C5|malarstwo, rysunek i grafika
 #48C51|painting (including book-illumination, miniature-painting)
 #48C510|'Pictura', symbolic representations, allegories and emblems ~ painting; 'Pittura' (Ripa)
 #48C5101|the origin of painting and drawing
@@ -5350,7 +5346,7 @@
 #48C533|print, e.g.: engraving, etching, lithograph
 #48C534|tools, implements of graphic artist
 #48C534(...)|tools, implements of graphic artist (with NAME)
-#48C6|photography, cinematography
+48C6|fotografia, kinematografia
 #48C61|photography
 #48C610|symbolic representations, allegories and emblems ~ photography
 #48C611|photographer at work
@@ -5387,7 +5383,7 @@
 #48C6251|film camera, movie camera, video camera
 #48C6252|film projector
 #48C63|first beginnings of photography and cinematography
-#48C7|music
+48C7|muzyka
 #48C70|'Musica', symbolic representations, allegories and emblems ~ music; 'Musica'(Ripa)
 #48C701|origin of music
 #48C702|magic power of music
@@ -5501,7 +5497,7 @@
 #48C77|conductor ~ music
 #48C771|baton ~ conductor
 #48C78|listening to music
-#48C8|the arts of the stage: ballet, theatre, musical drama, motion picture
+48C8|sztuki sceniczne balet, teatr, musical, film
 #48C80|symbolic representations, allegories and emblems ~ the arts of the stage
 #48C801|symbolic representations, allegories and emblems ~ dance and ballet
 #48C802|symbolic representations, allegories and emblems ~ the theatre
@@ -5598,7 +5594,7 @@
 #48C8732|nature film
 #48C8733|documentary film
 #48C8734|animated cartoon
-#48C9|literature ~ arts
+48C9|literatura ~ sztuki
 #48C90|'litterae', symbolic representations, allegories and emblems ~ literature; 'Lettere' (Ripa)
 #48C901|symbolic representations, allegories and emblems ~ poetry; 'Poesia' (Ripa)
 #48C9011|symbolic representations, allegories and emblems ~ epic, narrative poetry
@@ -5776,12 +5772,12 @@
 #48CC841|training ~ ballet - CC - female
 #48CC844|ballet dress - CC - female
 #48CC853|stage costume - CC - female
-49|教育，科学与学术
-#49A|education
+49|wykształcenie, wiedza i nauczanie
+49A|wykształcenie
 #49A0|symbolic representations, allegories and emblems ~ education; 'Ammaestramento', Dottrina', 'Educatione', 'Istitutione' (Ripa)
 #49A1|study and diversion
 #49A11|study and play considered as the two principal aspects of education
-#49B|scholastic education, tuition
+49B|szkolnictwo, nauczanie
 #49B1|nursery school
 #49B2|elementary school; class, form
 #49B21|going to school
@@ -5864,7 +5860,7 @@
 #49BB44284|party (students) - BB - female student
 #49BB44285|students' pageant - BB - female student
 #49BB4429|wandering student, 'Bettelstudent' - BB - female student
-#49C|aspects of science in general
+49C|aspekty nauki w ogólności
 #49C0|symbolic representations, allegories and emblems ~ science, 'Scientia'; 'Scienza', 'Studio' (Ripa)
 #49C01|science versus worldly temptation
 #49C011|scientist renouncing the world, 'ivory tower'
@@ -5905,7 +5901,7 @@
 #49C34|wandering scholar
 #49C4|discussion, dialogue, dispute ~ scholar, philosopher
 #49C41|disturbance, interruption of philosophical discussion
-#49D|mathematics
+49D|matematyka
 #49D0|'Mathematica'; 'Mathematica' (Ripa)
 #49D1|arithmetic
 #49D11|numerals
@@ -6035,7 +6031,7 @@
 #49D7|mathematical perspective
 #49D70|'Perspective' (alleg.); 'Prospetiva' (Ripa)
 #49D71|anamorphosis
-#49E|science and technology
+49E|nauki ścisłe i technologia
 #49E1|astronomy (and cosmography)
 #49E10|'Astronomia', 'Cosmografia'; 'Cosmografia' (Ripa)
 #49E11|astronomical instruments
@@ -6100,38 +6096,19 @@
 #49E392|alchemistic symbols
 #49E393|alchemistic equipment
 #49E3931|alchemistic vessels
+#49E3931(...)|alchemist's vessels (with NAME)
 #49E39311|bottles (ampullae)
 #49E39311(...)|bottles (ampullae) (with NAME)
-#49E39311(OVUM PHILOSOPHICUM)|bottles: philosophical egg (ovum philosophicum)
-#49E39311(PELICAN)|bottles: pelican
-#49E39311(PHIAL)|bottles: phial
-#49E39311(RECEPTACULUM)|bottles: receiver (receptaculum)
+#49E39311(OVUM PHILOSOPHICUM)|bottle: philosophical egg (ovum philosophicum)
 #49E39312|flasks (cucurbitae)
 #49E39312(...)|flasks (cucurbitae) (with NAME)
-#49E39312(ALEMBIC)|flasks: alembic
-#49E39312(MOOR'S HEAD)|flasks: Moor's head
-#49E39312(OPERCULUM)|flasks: operculum
-#49E39312(RETORT)|flasks: retort
-#49E39312(ROSENHUT)|flasks: rosenhut
 #49E39313|pots, jars (ollae)
-#49E39313(...)|pots, jars (ollae) (with NAME)
-#49E39313(ALUDEL)|pots, jars: aludel
-#49E39313(CHALICE)|pots, jars: chalice
-#49E39313(CRUCIBLE)|pots, jars: crucible
-#49E39313(CUPEL)|pots, jars: cupel
 #49E39313(...)|pots (with NAME)
 #49E3932|alchemistic furnace
 #49E3932(...)|alchemistic furnace (with NAME)
-#49E3932(ASSAY FURNACE)|alchemistic furnace: assay furnace
-#49E3932(ATHANOR)|alchemistic furnace: athanor
-#49E3932(CARBURIZING FURNACE)|alchemistic furnace: carburizing furnace
-#49E3932(PIGER HENRICUS)|alchemistic furnace: piger henricus, 'slow Harry'
-#49E3932(REVERBATORY FURNACE)|alchemistic furnace: reverbatory furnace
-#49E3932(SMELTING FURNACE)|alchemistic furnace: smelting furnace
+#49E3932(ASSAY FURNACE)|assay furnace
+#49E3932(ATHANOR)|athanor
 #49E3933|alchemistic bath (balneum)
-#49E3933(...)|alchemistic bath (balneum) (with NAME)
-#49E3933(BALNEUM ARENAE)|alchemistic bath: balneum arenae
-#49E3933(BALNEUM MARIAE)|alchemistic bath: Mary's bath
 #49E3939|other alchemistic equipment
 #49E3939(...)|other alchemistic equipment (with NAME)
 #49E394|alchemistic substances
@@ -6149,9 +6126,6 @@
 #49E39461|Panacea ~ alchemistic substance
 #49E3949|other substances
 #49E3949(...)|other substances (with NAME)
-#49E3949(ANTIMONY)|other substances: antimony
-#49E3949(SAL AMMONIAC)|other substances: sal ammoniac
-#49E3949(VITRIOL)|other substances: vitriol
 #49E395|alchemistic processes
 #49E3951|Magnum opus: the four original stages of transmutation
 #49E39511|nigredo (blackening)
@@ -6190,7 +6164,7 @@
 #49E811|popular laboratory device, used for demonstration
 #49E9|experiment, test ~ science and technology
 #49E91|invention, discovery ~ science and technology
-#49F|biology
+49F|biologia
 #49F1|botany
 #49F11|botanic garden, 'hortus botanicus'
 #49F12|herbarium
@@ -6199,7 +6173,7 @@
 #49F22|palaeontology
 #49F3|physical anthropology
 #49F31|craniology
-#49G|medicine, medical science
+49G|medycyna, nauki medyczne
 #49G0|'Medicina', allegorical representations ~ medicine; 'Medicina' (Ripa)
 #49G01|symbol, emblem, sign ~ medicine
 #49G011|Aesculapian sign
@@ -6317,15 +6291,15 @@
 #49G912|quack extracting teeth or molars
 #49G913|other 'operations'
 #49G914|eating snakes, frogs, spiders, etc.
-#49H|social sciences
+49H|nauki społeczne
 #49H1|sociology
 #49H2|folklore, the study of popular tradition
 #49H3|ethnology, cultural anthropology
-#49I|geography
+49I|geografia
 #49I0|'Geografia'
 #49I1|exploration, expedition, voyage of discovery
 #49I11|explorer
-#49K|historical disciplines; philology
+49K|nauki historyczne; filologia
 #49K1|history and archaeology
 #49K10|'Historia'; 'Historia' (Ripa)
 #49K11|excavation ~ archaeology
@@ -6336,7 +6310,7 @@
 #49K32|language ~ philology
 #49K321|word
 #49K322|phrase, sentence
-#49L|writing and letters
+49L|pisanie i litery
 #49L1|letters, alphabet, script
 #49L10|invention of letters
 #49L11|handwriting, writing as activity
@@ -6411,7 +6385,7 @@
 #49LL71|scroll - LL - scroll unfolded
 #49LL711|'capsa', casket for scrolls - LL - scroll unfolded
 #49LL72|codex - LL - codex open
-#49M|production of printed matter, book-production
+49M|drukarstwo, produkcja książek
 #49M1|printing, printing office
 #49M10|'Stampa' (Ripa)
 #49M11|printing press
@@ -6460,10 +6434,9 @@
 #49MM3211|blockbook - MM - book open
 #49MM3212|comic strip, 'bande dessinée' - MM - book open
 #49MM322|pamphlet ~ printed matter - MM - book open
-#49N|reading
+49N|czytanie
 #49N1|reading to somebody
 #49N2|reading-accessories
 #49N21|lectern ~ reading
 #49N22|pointer ~ reading
 #49N23|book-marker
-#

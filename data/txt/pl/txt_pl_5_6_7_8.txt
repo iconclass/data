@@ -1,7 +1,7 @@
-5|抽象的思想与概念
-#51|Generalities
-#51A|Existence and Modes of Existence
-#51A1|Existence
+5|Abstrakcyjne idee i pojęcia
+51|Pojęcia ogólne
+51A|Istnienie i rodzaje istnienia
+51A1|Istnienie
 #51A11|the Universe
 #51A2|Materiality
 #51A3|Concreteness
@@ -11,7 +11,7 @@
 #51A6|Elementariness, Irreducibility
 #51A7|Perfection, Completeness; 'Perfettione', 'Operatione perfetta' (Ripa)
 #51A8|Things Known, the Known
-#51AA|Existence and Modes of Existence (opposing concepts)
+51AA|istnienie i rodzaje istnienia (pojęcia przeciwstawne)
 #51AA1|Non-existence
 #51AA2|Immateriality
 #51AA3|Abstractness, Insubstantiality
@@ -22,7 +22,7 @@
 #51AA61|Synthesis
 #51AA7|Imperfection, Incompleteness; 'Imperfettione' (Ripa)
 #51AA8|Things Unknown, the Unknown
-#51B|Kinds of Relation
+51B|rodzaje relacji
 #51B1|Relation
 #51B2|Similarity, Likeness
 #51B3|Parity, Equality
@@ -31,7 +31,7 @@
 #51B6|Imitation; 'Imitatione' (Ripa)
 #51B61|Repetition
 #51B7|Normality
-#51BB|Kinds of Relation (opposing concepts)
+51BB|rodzaje relacji (pojęcia przeciwstawne)
 #51BB1|Absoluteness, Non-relatedness
 #51BB2|Dissimilarity, Unlikeness
 #51BB3|Imparity, Inequality, Difference
@@ -41,17 +41,17 @@
 #51BB6|Originality
 #51BB61|Singularity, Uniqueness
 #51BB7|Abnormality
-#51C|Causation
+51C|przyczynowość
 #51C1|Cause
 #51C2|Necessity, Inevitability; 'Necessità' (Ripa)
-#51CC|Causation (opposing concepts)
+51CC|przyczynowość (pojęcia przeciwstawne)
 #51CC1|Effect, Result
 #51CC11|Positive Result, Good Result
 #51CC12|Negative Result, Bad Result
 #51CC13|Side-effect, Secondary Effect
 #51CC19|No Result, Lack of Result, Inefficacy, Futility
 #51CC2|Chance, Haphazard
-#51D|Order and Disorder
+51D|porządek i nieład
 #51D1|Order, Arrangement, Organization
 #51D2|Harmony, Regularity
 #51D21|Eurhythmy
@@ -61,28 +61,28 @@
 #51D42|Splendour
 #51D43|the Sublime
 #51D5|Balance, Equilibrium
-#51DD|Order and Disorder (opposing concepts)
+51DD|porządek i nieład (pojęcia przeciwstawne)
 #51DD1|Disorder, Confusion, Derangement, Disorganization, Chaos
 #51DD11|Contamination
 #51DD2|Disharmony, Irregularity
 #51DD3|Asymmetry
 #51DD4|Ugliness
 #51DD5|Imbalance, Disequilibrium
-#51E|Hierarchical Order
+51E|uporządkowanie hierarchiczne
 #51E1|Independence, Autonomy
 #51E11|Freedom, Liberty; 'Libertà' (Ripa)
 #51E12|Liberation
 #51E2|Superiority
 #51E3|Conformity; 'Temperamento delle cose terrene con le celesti' (Ripa)
 #51E4|Coherence
-#51EE|Hierarchical Order (opposing concepts)
+51EE|uporządkowanie hierarchiczne (pojęcia przeciwstawne)
 #51EE1|Dependence
 #51EE11|Restriction, Limitation
 #51EE12|Curtailment
 #51EE2|Inferiority
 #51EE3|Nonconformity
 #51EE4|Incoherence
-#51F|Temporal Relationship
+51F|relacje czasowe
 #51F1|Precedence
 #51F2|Continuity
 #51F3|Priority, Pre-eminence
@@ -98,7 +98,7 @@
 #51F71|Periodicity
 #51F711|Cycle
 #51F8|Middle
-#51FF|Temporal Relationship (opposing concepts)
+51FF|relacje czasowe (pojęcia przeciwstawne)
 #51FF1|Subsequence
 #51FF2|Discontinuity
 #51FF3|Posteriority
@@ -110,21 +110,21 @@
 #51FF521|Delay
 #51FF6|Infrequency
 #51FF7|Irregularity of Recurrence
-#51G|Some Characteristics of Matter
+51G|niektóre własności rzeczy
 #51G1|Largeness, Magnitude
 #51G2|Heaviness
 #51G3|Toughness
 #51G4|Hardness
 #51G5|Visibility
 #51G6|Smoothness
-#51GG|Some Characteristics of Matter (opposing concepts)
+51GG|niektóre własności rzeczy (pojęcia przeciwstawne)
 #51GG1|Littleness, Smallness
 #51GG2|Lightness; 'Leggierezza' (Ripa)
 #51GG3|Fragility; 'Fragilità' (Ripa)
 #51GG4|Softness (matter)
 #51GG5|Invisibility
 #51GG6|Roughness
-#51H|Quantity and Degree
+51H|ilość i stopień
 #51H1|Totality, the Whole
 #51H11|Indivisibility
 #51H2|Universality
@@ -135,7 +135,7 @@
 #51H421|Excess
 #51H43|Redundance
 #51H5|Growth, Increase
-#51HH|Quantity and Degree (opposing concepts)
+51HH|ilość i stopień (pojęcia przeciwstawne)
 #51HH1|Part, Section, Aspect
 #51HH11|Divisibility
 #51HH2|Particularity, Individuality
@@ -143,14 +143,14 @@
 #51HH4|Lack, Deficiency
 #51HH41|Insufficiency
 #51HH5|Decrease
-#51I|Space
+51I|przestrzeń
 #51I1|Limited, Defined Space
 #51I2|Fullness
 #51I3|Location, Position
 #51I4|Nearness
 #51I5|Middle; 'Mezo' (Ripa)
 #51I6|High, Top
-#51II|Space (opposing concepts)
+51II|przestrzeń (pojęcia przeciwstawne)
 #51II1|Unlimited Space
 #51II11|Expansion
 #51II2|Emptiness, Void
@@ -158,7 +158,7 @@
 #51II4|Farness
 #51II5|Isolation
 #51II6|Low, Bottom
-#51K|Aspects of Change
+51K|aspekty zmiany
 #51K1|Change
 #51K11|Reform; 'Riforma' (Ripa)
 #51K2|Mutability; 'Immutatione' (Ripa)
@@ -167,12 +167,12 @@
 #51K4|Evolution
 #51K41|Revolution
 #51K5|Reaction
-#51KK|Aspects of Change (opposing concepts)
+51KK|aspekty zmiany (pojęcia przeciwstawne)
 #51KK1|Permanence
 #51KK11|Conservation; 'Conservatione' (Ripa)
 #51KK2|Immutability
 #51KK3|Interchange, Exchange
-#51L|Types of Motion
+51L|rodzaje ruchu
 #51L1|Motion
 #51L2|Regular Motion
 #51L3|Direction, Orientation
@@ -181,7 +181,7 @@
 #51L42|Motion Towards, Attractive Force, Attraction, Pull
 #51L5|Ascent
 #51L51|Resurrection; 'Ressurrettione' (Ripa)
-#51LL|Types of Motion (opposing concepts)
+51LL|rodzaje ruchu (pojęcia przeciwstawne)
 #51LL1|Rest, Immobility, Stasis
 #51LL2|Irregular Motion
 #51LL3|Deviation, Divergence
@@ -189,16 +189,16 @@
 #51LL41|Recession
 #51LL42|Motion From, Repulsive Force, Repulsion, Push
 #51LL5|Descent
-#51M|Quality of Motion
+51M|jakość ruchu
 #51M1|Fast Motion
 #51M11|Swiftness, Speed; 'Agilità', 'Celerità', 'Velocità' (Ripa)
 #51M12|Haste
-#51MM|Quality of Motion (opposing concepts)
+51MM|jakość ruchu (pojęcia przeciwstawne)
 #51MM1|Slow Motion
 #51MM11|Slowness, Tardiness; 'Tardità' (Ripa)
 #51MM12|Lingering
-#52|Reasoning and Formation of Ideas
-#52A|Intelligence and Intellectual Faculties
+52|rozumowanie i kształtowanie pojęć
+52A|inteligencja i zdolności intelektualne
 #52A1|Intellect, Intelligence; 'Intelletto', 'Intelligenza' (Ripa)
 #52A11|Attention, Concentration
 #52A12|Curiosity, Inquisitiveness, Desire of Knowledge; 'Curiosità' (Ripa)
@@ -223,7 +223,7 @@
 #52A55|Subtlety, Acumen, Lucidity, Wit; 'Acutezza de l'Ingegno', 'Sottilità' (Ripa)
 #52A6|Truth; 'Verità' (Ripa)
 #52A7|Omniscience
-#52AA|Intelligence and Intellectual Faculties (opposing concepts)
+52AA|inteligencja i zdolności intelektualne (pojęcia przeciwstawne)
 #52AA1|Stupidity, Poverty of Intellect; 'Stupidità overo Stolidità' (Ripa)
 #52AA11|Lack of Talent
 #52AA2|Absent-mindedness
@@ -247,7 +247,7 @@
 #52AA552|Intellectual Blindness; 'Cecità della Mente' (Ripa)
 #52AA553|Prejudice, Bias
 #52AA6|Falsehood
-#52B|Reasoning
+52B|rozumowanie
 #52B1|Thinking, Thought, Reflection; 'Pensiero' (Ripa)
 #52B11|Contemplation
 #52B12|Brooding
@@ -268,7 +268,7 @@
 #52B513|Reason versus Amorous Lust; 'Combattimento della ragione con l'appetito' (Ripa)
 #52B52|Syllogism, Demonstration
 #52B53|Proof
-#52BB|Reasoning (opposing concepts)
+52BB|rozumowanie (pojęcia przeciwstawne)
 #52BB1|Thoughtlessness
 #52BB2|Doubt; 'Dubbio' (Ripa)
 #52BB21|Incredulity
@@ -284,7 +284,7 @@
 #52BB54|Baseless Speculation
 #52BB6|Frenzy
 #52BB61|Infatuation
-#52C|Understanding and Misunderstanding
+52C|pojmowanie i niepojmowanie
 #52C1|Consideration; 'Consideratione' (Ripa)
 #52C11|Opinion
 #52C111|Public Opinion; 'Opinione' (Ripa)
@@ -297,14 +297,14 @@
 #52C5|Theory; 'Theoria' (Ripa)
 #52C51|Doctrine
 #52C52|Ideology
-#52CC|Understanding and Misunderstanding (opposing concepts)
+52CC|pojmowanie i niepojmowanie (pojęcia przeciwstawne)
 #52CC1|Inconsideration
 #52CC2|Denial, Negation
 #52CC3|Dissidence
 #52CC31|Refutation, Confutation, Disproving
 #52CC4|Misunderstanding, Incomprehension
 #52CC41|Error; 'Errore' (Ripa)
-#52D|Communication of Thought (qualitative aspects)
+52D|przekazywanie myśli (aspekty jakościowe)
 #52D1|Communication of Thought
 #52D2|Clarity, Precision
 #52D21|Conciseness
@@ -313,24 +313,24 @@
 #52D4|Prolixity, Verbosity, Loquacity; 'Loquacità' (Ripa)
 #52D41|Trifles, 'Nugae'
 #52D5|Rumour; 'Rumore' (Ripa)
-#52DD|Communication of Thought (qualitative aspects) (opposing concepts)
+52DD|przekazywanie myśli (aspekty jakościowe) (pojęcia przeciwstawne)
 #52DD1|Secrecy, Latency, Concealment; 'Secretezza' (Ripa)
 #52DD11|Secret
 #52DD2|Unclarity, Imprecision
 #52DD21|Confusion, Obscurity; 'Confusione' (Ripa)
 #52DD22|Mystification
 #52DD3|Taciturnity; 'Secretezza', 'Secretezza overo Taciturnità' (Ripa)
-#52E|Communication of Thought (answer and question)
+52E|przekazywanie myśli (odpowiedź i pytanie)
 #52E1|Response, Answer, Solution
 #52E2|Prediction, Prophecy; 'Augurio', 'Divinatione', 'Profetia' (Ripa)
 #52E21|Good Omen; 'Augurio buono' (Ripa)
 #52E22|Bad Omen; 'Augurio cattivo' (Ripa)
 #52E3|Counsel; 'Consiglio' (Ripa)
-#52EE|Communication of Thought (answer and question) (opposing concepts)
+52EE|przekazywanie myśli (odpowiedź i pytanie) (pojęcia przeciwstawne)
 #52EE1|Asking, Question, Interrogation
 #52EE11|Inquiry, Investigation; 'Investigatione' (Ripa)
-#53|Will, Volition
-#53A|Characteristics of Will
+53|wola, chęć
+53A|przymioty woli
 #53A1|Will; 'Volontà' (Ripa)
 #53A11|Choice; 'Elettione' (Ripa)
 #53A2|Perseverance, Resolution, Determination; 'Perseveranza' (Ripa)
@@ -338,13 +338,13 @@
 #53A211|Obstinacy; 'Ostinatione', 'Pertinacia' (Ripa)
 #53A212|Implacability
 #53A22|Stability, Firmness; 'Fermezza', 'Stabilimento', 'Stabilità' (Ripa)
-#53AA|Characteristics of Will (opposing concepts)
+53AA|przymioty woli (pojęcia przeciwstawne)
 #53AA1|Will-lessness
 #53AA11|Predetermination
 #53AA2|Irresolution; 'Irresolutione' (Ripa)
 #53AA21|Inconstancy; 'Incostanza', 'Instabilità', 'Instabilità overo Incostanza' (Ripa)
 #53AA22|Tergiversation
-#53B|Acts of the Will
+53B|akty woli
 #53B1|Acceptance
 #53B2|Decisiveness, Decision
 #53B3|Self-control; 'Dominio di se stesso' (Ripa)
@@ -353,7 +353,7 @@
 #53B5|Obedience; 'Obedienza' (Ripa)
 #53B6|Discipline
 #53B7|Observance, Fulfilment
-#53BB|Acts of the Will (opposing concepts)
+53BB|akty woli (pojęcia przeciwstawne)
 #53BB1|Rejection
 #53BB2|Hesitation
 #53BB3|Self-indulgence
@@ -363,7 +363,7 @@
 #53BB6|Indiscipline
 #53BB61|Laxity
 #53BB7|Non-observance
-#53C|Authority and Subordination
+53C|władza i podporządkowanie
 #53C1|Predominance
 #53C11|Authority, Power; 'Dominio', 'Giurisdittione' (Ripa)
 #53C12|Severity; 'Severità' (Ripa)
@@ -371,7 +371,7 @@
 #53C2|Command
 #53C21|Compulsion
 #53C22|Menace, Intimidation; 'Minaccie' (Ripa)
-#53CC|Authority and Subordination (opposing concepts)
+53CC|władza i podporządkowanie (pojęcia przeciwstawne)
 #53CC1|Subordination
 #53CC11|Service
 #53CC12|Servility
@@ -380,18 +380,18 @@
 #53CC3|Supplication; 'Supplicatione' (Ripa)
 #53CC31|Invocation; 'Invocatione' (Ripa)
 #53CC32|Pleading
-#53D|Intersocial Volition
+53D|międzyludzkie działanie z wolnej woli
 #53D1|Offer, Proposition
 #53D11|Permission
 #53D12|Favour; 'Favore' (Ripa)
 #53D2|Promise; 'Promissione' (Ripa)
 #53D3|Intercession
-#53DD|Intersocial Volition (opposing concepts)
+53DD|międzyludzkie działanie z wolnej woli (pojęcia przeciwstawne)
 #53DD1|Refusal
 #53DD11|Prohibition
 #53DD2|Breach of Promise
-#54|Process of Action
-#54A|State of Being while Doing
+54|działanie
+54A|stan lub postawa w trakcie działania
 #54A1|Activity
 #54A11|Industriousness, Assiduity; 'Assiduità', 'Industria', 'Zelo' (Ripa)
 #54A2|Carefulness, Diligence; 'Diligenza' (Ripa)
@@ -420,7 +420,7 @@
 #54A8|Courage, Bravery, Valiance, Manliness; 'Ardire magnanimo et generoso', 'Gagliardezza', 'Valore', 'Virtù heroica', 'Virtù dell'animo e del corpo' (Ripa)
 #54A81|Fearlessness, Intrepidity; 'Intrepidità & Costanza' (Ripa)
 #54A82|Audacity, Temerity; 'Audacia' (Ripa)
-#54AA|State of Being while Doing (opposing concepts)
+54AA|stan lub postawa w trakcie działania (pojęcia przeciwstawne)
 #54AA1|Inactivity
 #54AA11|Sluggishness, Inertia; 'Dapocaggine', 'Pigritia' (Ripa)
 #54AA2|Negligence; 'Negligenza' (Ripa)
@@ -446,7 +446,7 @@
 #54AA71|Vincibility
 #54AA72|Vulnerability
 #54AA8|Cowardice
-#54B|Means and Characteristics of Means
+54B|środki i własności środków
 #54B1|Means
 #54B11|Use
 #54B12|Opportunity, Opportuneness, Seasonableness
@@ -459,7 +459,7 @@
 #54B4|Efficiency
 #54B5|Importance, Preponderance
 #54B6|Worth, Value
-#54BB|Means and Characteristics of Means (opposing concepts)
+54BB|środki i własności środków
 #54BB1|Disuse
 #54BB11|Misuse, Misemployment
 #54BB12|Profanation
@@ -470,7 +470,7 @@
 #54BB4|Inefficiency
 #54BB5|Unimportance
 #54BB6|Worthlessness
-#54C|Intention, Purpose, Aim
+54C|intencja, zamiar, cel
 #54C1|Purposefulness
 #54C11|Intention
 #54C12|Purpose, Aim
@@ -480,13 +480,13 @@
 #54C3|Influence
 #54C31|Example
 #54C4|Temptation; 'Tentatione' (Ripa)
-#54CC|Intention, Purpose, Aim (opposing concepts)
+54CC|intencja, zamiar, cel (pojęcia przeciwstawne)
 #54CC1|Aimlessness
 #54CC11|Without Intention, Non-design, Unintendedness, Undeliberateness
 #54CC2|Discouragement
 #54CC21|Dissuasion
 #54CC22|Deterrence
-#54D|Procedure
+54D|postępowanie, procedura
 #54D1|Preparation
 #54D11|Attempt, Trial
 #54D12|Exercise; 'Essercitio' (Ripa)
@@ -497,7 +497,7 @@
 #54D4|Facility
 #54D5|Safety
 #54D6|Custom, Habit; 'Consuetudine' (Ripa)
-#54DD|Procedure (opposing concepts)
+54DD|postępowanie, procedura (pojęcia przeciwstawne)
 #54DD1|Improvisation
 #54DD2|Idleness; 'Otio' (Ripa)
 #54DD3|Start
@@ -510,7 +510,7 @@
 #54DD51|Danger; 'Pericolo' (Ripa)
 #54DD52|Risk; 'Ardire ultimo & necessario' (Ripa)
 #54DD6|Desuetude
-#54E|Reciprocal Action
+54E|działanie wzajemne
 #54E1|Co-operation, Association
 #54E11|Necessity of Mutual Co-operation
 #54E2|Guidance
@@ -521,7 +521,7 @@
 #54E41|Self-defence
 #54E42|Protection; 'Custodia', 'Difesa contra nimici, malefici & venefici', 'Difesa contra pericoli', 'Riparo da i tradimenti' (Ripa)
 #54E43|Preservation, Sustenance; 'Salvezza', 'Sostanza' (Ripa)
-#54EE|Reciprocal Action (opposing concepts)
+54EE|działanie wzajemne (pojęcia przeciwstawne)
 #54EE1|Non co-operation
 #54EE11|Opposition, Counteraction, Resistance
 #54EE2|Hindrance, Obstruction
@@ -530,7 +530,7 @@
 #54EE32|Defiance
 #54EE33|Competition, Rivalry, Emulation; 'Emulatione' (Ripa)
 #54EE4|Attack
-#54F|Fortune and Misfortune
+54F|pomyślność i niepomyślność
 #54F1|Success; 'Evento buono' (Ripa)
 #54F11|Welfare, Prosperity; 'Felicità publica', 'Prosperità della vita', 'Salute' (Ripa)
 #54F12|Luck, Fortune, Lot; 'Fato', 'Fortuna', 'Fortuna aurea', 'Fortuna buona', 'Fortuna pacifica overo clemente', 'Sorte' (Ripa)
@@ -540,7 +540,7 @@
 #54F131|Renovation
 #54F14|Advantage
 #54F2|Victory
-#54FF|Fortune and Misfortune (opposing concepts)
+54FF|pomyślność i niepomyślność (pojęcia przeciwstawne)
 #54FF1|Failure
 #54FF11|Adversity, Misfortune, Bad Luck; 'Fortuna infelice', 'Infortunio' (Ripa)
 #54FF12|Fate, Doom
@@ -548,22 +548,22 @@
 #54FF14|Disadvantage
 #54FF15|Submission; 'Forza minore da maggior forza superata' (Ripa)
 #54FF2|Defeat
-#55|Property
-#55A|Acquisition and Loss
+55|własność
+55A|zysk i strata
 #55A1|Acquisition, Gain, Profit
 #55A11|Retention
 #55A12|Reward, 'Praemium'; 'Premio', 'Remuneratione' (Ripa)
-#55AA|Acquisition and Loss (opposing concepts)
+55AA|zysk i strata (pojęcia przeciwstawne)
 #55AA1|Loss
 #55AA11|Relinquishment, Abandonment of Property
-#55B|Possession
+55B|posiadanie
 #55B1|Wealth, Opulence; 'Opulenza', 'Richezza' (Ripa)
 #55B2|Luxury, Luxuriousness
 #55B3|'Not too poor, not too rich'
-#55BB|Possession (opposing concepts)
+55BB|posiadanie (pojęcia przeciwstawne)
 #55BB1|Poverty; 'Povertà', 'Povertà del doni', 'Povertà in uno ch'habbia bell'ingegno' (Ripa)
 #55BB2|Scarcity; 'Carestia' (Ripa)
-#55C|Use of Property
+55C|użycie własności
 #55C1|Spending
 #55C11|Squandering, Extravagance, Prodigality, Waste; 'Prodigalità' (Ripa)
 #55C2|Giving
@@ -573,22 +573,22 @@
 #55C3|Lending, Letting
 #55C4|Taking
 #55C5|Sharing
-#55CC|Use of Property (opposing concepts)
+55CC|użycie własności (pojęcia przeciwstawne)
 #55CC1|Saving, Frugality, Parsimony; 'Parsimonia' (Ripa)
 #55CC11|Greed, Covetousness, Cupidity; 'Cupidità' (Ripa)
 #55CC2|Receiving
 #55CC3|Borrowing, Hiring
 #55CC4|Restitution; 'Restitutione' (Ripa)
 #55CC5|Withholding, Keeping to oneself
-#56|Emotion
-#56A|Feeling
+56|emocja
+56A|czucie
 #56A1|Sensation, Sensibility, Sensitivity
 #56A2|Excitation
 #56A21|Ecstasy, Exaltation
-#56AA|Feeling (opposing concepts)
+56AA|czucie (pojęcia przeciwstawne)
 #56AA1|Insensibility, Insensitivity
 #56AA11|Impassibility; 'Impassibilità' (Ripa)
-#56B|Joy and Sorrow
+56B|radość i smutek
 #56B1|Pleasure, Enjoyment, Joy; 'Allegrezza', 'Allegrezza da le medaglie', 'Allegrezza, letitia e giubilo', 'Diletto', 'Piacere', 'Piacere honesto' (Ripa)
 #56B11|Mirth, Hilarity
 #56B12|Jovialness
@@ -601,7 +601,7 @@
 #56B4|Amusement
 #56B41|Fastidiousness, Epicurism
 #56B42|Coarseness, Rusticity
-#56BB|Joy and Sorrow (opposing concepts)
+56BB|radość i smutek (pojęcia przeciwstawne)
 #56BB1|Pain, Sorrow, Sadness; 'Dolore', 'Dolore di Zeusi' (Ripa)
 #56BB11|Bitterness; 'Amaritudine' (Ripa)
 #56BB12|Torment; 'Tribulatione' (Ripa)
@@ -620,14 +620,14 @@
 #56BB35|Frustration
 #56BB4|Disgust, Dislike, Repulsion, Nausea
 #56BB41|Satiety
-#56C|Aesthetic Sense
+56C|zmysł estetyczny
 #56C1|Sense of Beauty
 #56C2|Admiration
 #56C3|Inspiration; 'Ispiratione' (Ripa)
-#56CC|Aesthetic Sense (opposing concepts)
+56CC|zmysł estetyczny (pojęcia przeciwstawne)
 #56CC1|Insensibility to Beauty
 #56CC2|Depreciation
-#56D|Hope and Fear
+56D|nadzieja i lęk
 #56D1|Hope; 'Speranza', 'Speranza delle fatiche' (Ripa)
 #56D2|Trust
 #56D21|Refuge; 'Refugio' (Ripa)
@@ -635,7 +635,7 @@
 #56D3|Confidence, Security, Tranquillity; 'Confidenza', 'Sicurezza e Tranquillità', 'Sicurtà', 'Sicurtà o Sicurezza', 'Tranquillità' (Ripa)
 #56D31|Self-confidence
 #56D32|Commitment
-#56DD|Hope and Fear (opposing concepts)
+56DD|nadzieja i lęk (pojęcia przeciwstawne)
 #56DD1|Fear, Dread; 'Paura', 'Timidità o Timore', 'Timore' (Ripa)
 #56DD11|Despair; 'Disperatione' (Ripa)
 #56DD2|Distrust, Suspicion; 'Sospitione' (Ripa)
@@ -644,16 +644,16 @@
 #56DD32|Alarm, Fright; 'Spavento', 'Terrore' (Ripa)
 #56DD33|Confusion, Bewilderment, Panic; 'Perturbatione' (Ripa)
 #56DD34|Horror, Abhorrence
-#56E|Anger and Meekness
+56E|gniew i łagodność
 #56E1|Irritation
 #56E11|Indignation; 'Sdegno' (Ripa)
 #56E2|Rage, Anger
 #56E21|Irascibility
 #56E3|Fury; 'Furore', 'Furore implacabile', 'Furore & Rabbia', 'Furore superbo & Indomito' (Ripa)
-#56EE|Anger and Meekness (opposing concepts)
+56EE|gniew i łagodność (pojęcia przeciwstawne)
 #56EE1|Forbearance
 #56EE2|Meekness; 'Mansuetudine' (Ripa)
-#56F|Desire and Aversion
+56F|pożądanie i wstręt
 #56F1|Desire; 'Desiderio' (Ripa)
 #56F11|Ambition; 'Ambitione', 'Amor di Fama' (Ripa)
 #56F12|Contento ~ Malcontento: the pursuit of Happiness
@@ -683,15 +683,15 @@
 #56F2521|'Contento amoroso' (Ripa)
 #56F2522|'Tormento d'amore' (Ripa)
 #56F2523|'Falsita d'amore overo inganno' (Ripa)
-#56FF|Desire and Aversion (opposing concepts)
+56FF|pożądanie i wstręt (pojęcia przeciwstawne)
 #56FF1|Aversion
 #56FF13|(Feeling of) Repulsion
 #56FF2|Hate; 'Odio capitale' (Ripa)
 #56FF21|Indifference towards Love; 'Oblivione d'amore' (Ripa)
 #56FF22|Unrequited Love
 #56FF23|Enmity; 'Inimicitia', 'Inimicitia mortale' (Ripa)
-#57|Morality
-#57A|Good and Bad Behaviour, Moral Qualities
+57|moralność
+57A|dobre i złe zachowanie, zalety moralne
 #57A1|Good Behaviour
 #57A2|Sense of Duty, Devotion to Duty
 #57A21|Duty
@@ -742,7 +742,7 @@
 #57A77|Friendliness, Gentleness, Affability; 'Affabilità, piacevolezza, amabilità', 'Animo piacevole, trattabile & amorevole', 'Benignità' (Ripa)
 #57A8|Gratitude; 'Gratitudine', 'Memoria grata de beneficii ricevuti' (Ripa)
 #57A9|Humanity, Politeness; 'Cortesia', 'Humanità' (Ripa)
-#57AA|Good and Bad Behaviour, Moral Qualities (opposing concepts)
+57AA|dobre i złe zachowanie, zalety moralne (pojęcia przeciwstawne)
 #57AA1|Bad Behaviour
 #57AA2|Evasion of Duty, Dereliction of Duty
 #57AA21|Irresponsibility
@@ -800,14 +800,14 @@
 #57AA9|Brutality
 #57AA91|Cruelty, Ferocity; 'Crudeltà', 'Ferocità' (Ripa)
 #57AA92|Infamy; 'Sciagurataggine' (Ripa)
-#57B|Judgment of Conduct
+57B|osąd postępowania
 #57B1|Praise, Approbation, Approval; 'Lode' (Ripa)
 #57B11|Rewarding Goodness
 #57B2|Respect, Reverence, Esteem
 #57B21|'Pietas'; 'Pietà' (Ripa)
 #57B3|Justification, Vindication
 #57B31|Palliation, Extenuation
-#57BB|Judgment of Conduct (opposing concepts)
+57BB|osąd postępowania (pojęcia przeciwstawne)
 #57BB1|Disapprobation, Disapproval, Rebuking
 #57BB11|Admonition, Reprehension; 'Riprensione', 'Riprensione giovevole' (Ripa)
 #57BB12|Correction; 'Correttione' (Ripa)
@@ -825,18 +825,18 @@
 #57BB25|Calumny, Detraction; 'Biasimo vitioso', 'Calunnia', 'Detrattione', 'Maledicenza' (Ripa)
 #57BB251|Calumny of Apelles: bad judge with ass's ears on throne, with Deceit, Envy, Ignorance, Suspicion and Treachery, confronted with innocent accused; Remorse and Truth present
 #57BB3|Accusation, Incrimination
-#58|Creation
-#58A|Creation and Destruction
+58|tworzenie
+58A|tworzenie i niszczenie
 #58A1|Originating
 #58A2|Procreation
 #58A3|Fruitfulness, Productiveness, Fertility, Fecundity; 'Fecondità' (Ripa)
-#58AA|Creation and Destruction (opposing concepts)
+58AA|tworzenie i niszczenie (pojęcia przeciwstawne)
 #58AA1|Destruction
 #58AA11|Extirpation
 #58AA12|Self-destruction
 #58AA2|Non-procreation
 #58AA3|Unproductiveness, Fruitlessness, Lost Labour, Wasted Labour
-#58B|Vitality and Mortality
+58B|żywotność i śmiertelność
 #58B1|Vitality, Viability, Vital Force
 #58B11|Germination
 #58B2|Life
@@ -849,22 +849,22 @@
 #58B4|Rebirth, Renaissance, Regeneration
 #58B5|Heredity
 #58B6|Instinct, Natural Disposition; 'Instinto naturale' (Ripa)
-#58BB|Vitality and Mortality (opposing concepts)
+58BB|żywotność i śmiertelność (pojęcia przeciwstawne)
 #58BB1|Mortality, Extinction of Life
-#59|Aspects of Social Conduct
-#59A|Man ~ Community
+59|aspekty postępowania społecznego
+59A|człowiek ~ społeczność
 #59A1|Sociality
 #59A2|Refinement, Taste
 #59A3|Propriety, Decorum; 'Decoro' (Ripa)
 #59A4|Elegance
 #59A5|Hospitality; 'Hospitalità' (Ripa)
-#59AA|Man ~ Community (opposing concepts)
+59AA|człowiek ~ społeczność (pojęcia przeciwstawne)
 #59AA1|Loneliness; 'Solitudine' (Ripa)
 #59AA2|Ill-breeding, Bad Taste
 #59AA3|Vulgarity
 #59AA4|Affectation, Mannerism
 #59AA5|Inhospitality
-#59B|Social Position
+59B|pozycja społeczna
 #59B1|Everyman, 'Elckerlyc'
 #59B2|Advancement, Promotion
 #59B3|Repute, Renown; 'Splendore del nome' (Ripa)
@@ -875,7 +875,7 @@
 #59B4|Dignity; 'Dignità' (Ripa)
 #59B41|Regality, Majesty; 'Maestà regia', 'Regalità' (Ripa)
 #59B5|Merit; 'Merito' (Ripa)
-#59BB|Social Position (opposing concepts)
+59BB|pozycja społeczna (pojęcia przeciwstawne)
 #59BB1|Nobody, 'Nemo'
 #59BB2|Degradation
 #59BB3|Dishonour, Disrepute
@@ -885,14 +885,14 @@
 #59BB34|Ingloriousness
 #59BB4|Despicableness
 #59BB5|Demerit
-#59C|Justice and Injustice
+59C|sprawiedliwość i niesprawiedliwość
 #59C1|Maintenance of the Law
 #59C2|Justice; 'Forza alla giustitia sottoposta', 'Giustitia', 'Giustitia retta', 'Giustitia rigorosa', 'Impietà e violenza soggetta alla giustitia' (Ripa)
 #59C21|Equality, Equity, Fairness, Righteousness; 'Equalità', 'Equità', 'Giuditio giusto', 'Ordine dritto e giusto', 'Ugualità' (Ripa)
 #59C22|Impartiality
 #59C221|Incorruptibility
 #59C3|Legality
-#59CC|Justice and Injustice (opposing concepts)
+59CC|sprawiedliwość i niesprawiedliwość (pojęcia przeciwstawne)
 #59CC1|Violation of the Law
 #59CC2|Injustice; 'Ingiustitia' (Ripa)
 #59CC21|Inequality, Inequity, Iniquity; 'Iniquità' (Ripa)
@@ -900,71 +900,71 @@
 #59CC22|Partiality; 'Partialità' (Ripa)
 #59CC221|Corruptibility, Venality, Corruption
 #59CC3|Illegality
-6|历史
-#61|历史事件与历史情形; 歷史人物
-#61A|历史事件与历史情形
+6|Historia
+61|wydarzenia i sytuacje historyczne; osoby historyczne
+61A|historyczne wydarzenia i sytuacje
 #61A(...)|historical events and situations (with DATE)
-#61B|historical persons (portraits and scenes from the life)
-#61B1|historical persons not known by name
-#61B11|anonymous historical person portrayed
-#61B111|anonymous historical person portrayed alone
-#61B112|anonymous historical persons portrayed in a double portrait
-#61B113|anonymous historical persons portrayed in a group, in a group-portrait
-#61B12|scenes ~ anonymous historical person(s)
-#61B121|scene directly related with life or life-story of anonymous person
-#61B122|fictitious scene ~ anonymous historical person(s)
-#61B2|historical persons
-#61B2(...)|historical person (with NAME)
-#61B2(...)1|historical person (with NAME) - historical person(s) portrayed
+61B|postacie historyczne (portrety i sceny z życia)
+61B1|postacie historyczne nie znane z imienia
+61B11|sportetowana anonimowa postać historyczna
+61B111|anonimowa postać historyczna sportetowana w pojedynkę
+61B112|anonimowe postacie historyczne sportretowane w parze, w portrecie podwójnym
+61B113|anonimowe postacie historyczne sportretowane w grupie; w portrecie grupowym
+61B12|sceny ~ z udziałem anonimowej(ych) postaci historycznej(ych)
+61B121|scena bezpośrednio związana z życiem lub historią anonimowej postaci
+61B122|scena fikcyjna ~ z udziałem anonimowej(ych) postaci historycznej(ych)
+61B2|postacie historyczne
+61B2(...)|postać historyczna (z IMIENIEM)
+61B2(...)1|postać historyczna (z IMIENIEM) - sportretowana(e) postać(cie) historyczna(e)
 #61B2(...)11|historical person (with NAME) - historical person (with NAME) portrayed alone
 #61B2(...)12|historical person (with NAME) - historical person (with NAME) in a double-portrait
 #61B2(...)13|historical person (with NAME) - historical person (with NAME) portrayed in a group, in a group-portrait
-#61B2(...)2|historical person (with NAME) - scene ~ historical person(s) (with NAME of person)
+61B2(...)2|postać historyczna (z IMIENIEM) - scena ~ postać(cie) historyczna(e) (z IMIENIEM postaci)
 #61B2(...)21|historical person (with NAME) - scene directly related with life or life-story (with NAME of person)
 #61B2(...)22|historical person (with NAME) - fictitious scene ~ historical person (with NAME of person)
-#61B2(...)3|historical person (with NAME) - other representations to which the NAME of a historical person may be attached (with NAME of person)
-#61BB|historical persons (portraits and scenes from the life) - BB - woman
-#61BB1|historical persons not known by name - BB - woman
-#61BB11|anonymous historical person portrayed - BB - woman
-#61BB111|anonymous historical person portrayed alone - BB - woman
-#61BB112|anonymous historical persons portrayed in a double portrait - BB - woman
-#61BB113|anonymous historical persons portrayed in a group, in a group-portrait - BB - woman
-#61BB12|scenes ~ anonymous historical person(s) - BB - woman
-#61BB121|scene directly related with life or life-story of anonymous person - BB - woman
-#61BB122|fictitious scene ~ anonymous historical person(s) - BB - woman
-#61BB2|historical persons - BB - woman
-#61BB2(...)|historical person (with NAME) - BB - woman
-#61BB2(...)1|historical person (with NAME) - BB - woman - historical person(s) portrayed
+61B2(...)3|postać historyczna (z IMIENIEM) - inne przedstawienia z którymi IMIĘ postaci historycznej może zostać związane
+61BB|postacie historyczne (portrety i sceny z życia) - BB - kobieta
+61BB1|postacie historyczne nie znane z imienia - BB - kobieta
+61BB11|sportetowana anonimowa postać historyczna - BB - kobieta
+61BB111|anonimowa postać historyczna sportetowana w pojedynkę - BB - kobieta
+61BB112|anonimowe postacie historyczne sportretowane w parze, w portrecie podwójnym - BB - kobieta
+61BB113|anonimowe postacie historyczne sportretowane w grupie; w portrecie grupowym - BB - kobieta
+61BB12|sceny ~ z udziałem anonimowej(ych) postaci historycznej(ych) - BB - kobieta
+61BB121|scena bezpośrednio związana z życiem lub historią anonimowej postaci - BB - kobieta
+61BB122|scena fikcyjna ~ z udziałem anonimowej(ych) postaci historycznej(ych) - BB - kobieta
+61BB2|postacie historyczne - BB - kobieta
+61BB2(...)|postać historyczna (z IMIENIEM) - BB - kobieta
+61BB2(...)1|postać historyczna (z IMIENIEM) - BB - kobieta - sportretowana(e) postać(cie) historyczna(e)
 #61BB2(...)11|historical person (with NAME) - BB - woman - historical person (with NAME) portrayed alone
 #61BB2(...)12|historical person (with NAME) - BB - woman - historical person (with NAME) in a double-portrait
 #61BB2(...)13|historical person (with NAME) - BB - woman - historical person (with NAME) portrayed in a group, in a group-portrait
-#61BB2(...)2|historical person (with NAME) - BB - woman - scene ~ historical person(s) (with NAME of person)
+61BB2(...)2|postać historyczna (z IMIENIEM) - BB - kobieta - scena ~ postać(cie) historyczna(e) (z IMIENIEM postaci)
 #61BB2(...)21|historical person (with NAME) - BB - woman - scene directly related with life or life-story (with NAME of person)
 #61BB2(...)22|historical person (with NAME) - BB - woman - fictitious scene ~ historical person (with NAME of person)
-#61BB2(...)3|historical person (with NAME) - BB - woman - other representations to which the NAME of a historical person may be attached (with NAME of person)
-#61C|proper names of plants and animals
+61BB2(...)3|postać historyczna (z IMIENIEM) - BB - kobieta inne przedstawienia z którymi IMIĘ postaci historycznej może zostać związane
+61C|nazwy własne roślin i zwierząt
 #61C1|proper names of plants
-#61C1(...)|proper names of plants (with NAME)
+61C1(...)|nazwy własne roślin (z NAZWĄ)
 #61C2|proper names of animals
 #61C2(...)|proper names of animals (with NAME)
-#61D|geographical names of countries, regions, mountains, rivers, etc.
+61D|nazwy geograficzne krajów, regionów, gór, rzek itd.
 #61D(...)|geographical names of countries, regions, mountains, rivers, etc. (names of cities and villages excepted) (with NAME)
-#61E|names of cities and villages
-#61E(...)|names of cities and villages (with NAME)
-#61F|names of historical buildings, sites, streets, etc.
-#61F(...)|names of historical buildings, sites, streets, etc. (with NAME)
-#61G|names of artefacts and man-made objects
+61E|nazwy miast i wsi
+61E(...)|nazwy miast i wsi (z NAZWĄ)
+61F|nazwy historycznych budynków, miejsc, ulic itd.
+61F(...)|nazwy historycznych budynków, miejsc, ulic itd. (z NAZWĄ)
+61G|nazwy przedmiotów i obiektów wytworzonych przez człowieka
 #61G(...)|names of artefacts and man-made objects (buildings excluded) (with NAME)
-#61H|names of organizations, companies, trade unions, etc.
+61H|nazwy organizacji; przedsiębiorstw; związków itd.
 #61H(...)|names of organizations, companies, trade unions, etc. (with NAME)
-#61I|names of historical events and situations
+61I|nazwy wydarzeń i sytuacji historycznych
 #61I(...)|names of historical events and situations (with NAME)
-#61K|(other) historical names
+61K|(inne) nazwy historyczne
 #61K(...)|(other) historical names (with NAME)
-#62|visions of the future
-7|圣经
-#71|Old Testament
-#71A|Genesis from the creation to the expulsion from paradise, and later years of Adam and Eve
+62|wizje przyszłości
+7|Biblia
+71|Stary Testament
+71A|Księga Rodzaju od stworzenia do wygnania z raju oraz późniejsze dzieje Adama i Ewy
 #71A1|'In the beginning ...' the ordering of chaos (Genesis 1:1-2)
 #71A11|the earth formless and desolate
 #71A12|the spirit of God moves upon the waters
@@ -1084,7 +1084,7 @@
 #71A9122|Adam's tomb
 #71A913|death of Eve
 #71A92|story of Seth
-#71B|Genesis from the descendants of Cain and Seth to Abraham
+71B|Księga Rodzaju od potomków Kaina i Seta do Abrahama
 #71B1|the descendants of Cain, the Cainites (Genesis 4:18-24)
 #71B11|story of Enoch, son of Cain
 #71B12|story of Irad
@@ -1168,7 +1168,7 @@
 #71B422|destruction of the Tower of Babel
 #71B4221|the confusion of languages and the scattering of people over the earth ~ story of the Tower of Babel
 #71B42211|the ruins of the Tower of Babel
-#71C|Genesis: the patriarchs
+71C|Księga Rodzaju patriarchowie
 #71C1|story of Abraham
 #71C11|story of Abraham (part I)
 #71C111|Abraham's youth (Genesis 11:29-32)
@@ -1520,7 +1520,7 @@
 #71C342|Jacob and Esau parting; Esau moves with all his possessions to Edom
 #71C343|the descendants of Seir the Horite, the original inhabitants of Edom
 #71C344|the kings who reigned in Edom
-#71D|Genesis: the story of Joseph
+71D|Księga Rodzaju historia Józefa
 #71D1|story of Joseph (part I)
 #71D11|Joseph incurs the hatred of his brothers (Genesis 37:1-11)
 #71D111|Joseph tending the sheep and goats with his brothers
@@ -1678,7 +1678,7 @@
 #71D26|later years of Joseph (Genesis 50:15-26)
 #71D261|Joseph's brothers fear the possible vengeance of Joseph and beg his forgiveness
 #71D262|Joseph's death
-#71E|Exodus, Leviticus, Numbers, Deuteronomy, Joshua: from the bondage of the Israelites in Egypt to their settlement in Canaan
+71E|Księga Wyjścia, Księga Kapłańska, Księga Liczb, Księga Powtórzonego Prawa, Księga Jozuego od niewoli Izraelitów w Egipcie do ich osiedlenia się w Kanaan
 #71E1|the book Exodus: story of Moses and Aaron
 #71E11|Exodus (part I): events preceding and preparing the exit of Israel from Egypt
 #71E111|oppression of the Israelites in Egypt (Exodus 1)
@@ -2195,7 +2195,7 @@
 #71EE114232|miracle of the leprous hand ~ Moses and the burning bush - EE - Mary in the burning bush
 #71EE114233|miracle of the water changed to blood ~ burning bush - EE - Mary in the burning bush
 #71EE114234|Moses is given a rod - EE - Mary in the burning bush
-#71F|the time of the Judges
+71F|okres Sędziów
 #71F1|Judges 1-5
 #71F11|from Joshua's death to Othniel (Judges 1-2)
 #71F111|Judah appointed to fight against the Canaanites at the beginning of the time of the Judges
@@ -2578,7 +2578,7 @@
 #71F84321|anger of Samuel
 #71F84322|Samuel communicating with God
 #71F84323|Samuel speaking to the elders about the rights of kingship
-#71G|story of Saul
+71G|historia Saula
 #71G1|Saul chosen as king (1 Samuel 9-12)
 #71G11|Samuel and Saul
 #71G111|Saul instructed by his father to seek the lost asses
@@ -2671,7 +2671,7 @@
 #71G433|Saul's war against Edom
 #71G434|Saul's war against Zobah
 #71G44|Saul victoriously returns to Gibeah after the wars
-#71H|story of David
+71H|historia Dawida
 #71H1|David as a young man at Saul's court
 #71H11|David chosen as king by God (1 Samuel 16:1-13)
 #71H111|Samuel communicating with God when he is about to anoint David
@@ -3253,7 +3253,7 @@
 #71H961|plundering of David's grave
 #71H9611|plundering of David's grave by Johannes Hyrcanus
 #71H9612|plundering of David's grave by Herod the Great
-#71I|story of Solomon
+71I|historia Salomona
 #71I1|Solomon and Bathsheba
 #71I11|Solomon enthroned
 #71I111|Solomon and his court
@@ -3390,7 +3390,7 @@
 #71I81|burial of Solomon
 #71I811|Solomon's grave
 #71I9|Rehoboam appointed successor of Solomon
-#71K|division of the Kingdom, and story of Israel, the Northern Kingdom
+71K|podział królestwa i historia Izraela, królestwa północnego
 #71K1|division of the Kingdom (Israel and Judah) (1 Kings 12:1-19; 2 Chronicles 10)
 #71K11|Rehoboam, Solomon's son, comes to Shechem where the people of Northern Israel have gathered to make him king
 #71K12|Jeroboam returns from exile in Egypt
@@ -3585,7 +3585,7 @@
 #71K432|lions sent by God kill some of the new inhabitants of Samaria
 #71K433|an Israelite priest, deported to Assyria, is sent back to Bethel where he teaches the people how to worship God
 #71K434|the Samaritans worship God but continue to worship their own gods as well
-#71L|the divided kingdom: story of the Southern Kingdom (Judah)
+71L|podzielone królestwo historia królestwa południowego (Judy)
 #71L1|story of the kings and kingdom of Judah (part I)
 #71L11|story of Rehoboam, king of Judah (1 Kings 12:21-24, 14:21-31)
 #71L111|Shemaiah's prophecy
@@ -3856,7 +3856,7 @@
 #71L334|eighty men who came to offer sacrifice in the temple are killed and their bodies thrown into a well (Jeremiah 41:4-7)
 #71L335|Johanan and the rest of the Judaeans flee to Egypt (Jeremiah 41:16-18)
 #71L4|the Babylonian Captivity of the Jews
-#71M|story of Elijah (Elias)
+71M|historia Eliasza
 #71M1|Elijah at the brook Cherith (1 Kings 17:1-6)
 #71M11|Elijah announces to King Ahab that God will bring a long drought in the land to avenge the apostasy of Israel
 #71M12|Elijah fed by the raven(s): while the prophet is living by the brook, ravens bring him food
@@ -3932,7 +3932,7 @@
 #71M91|birth of Elijah
 #71M911|two angels swaddle the infant Elijah in flames
 #71M92|Enoch receives Elijah into heaven
-#71N|story of Elisha (Eliseus)
+71N|historia Elizeusza
 #71N1|seven miracles of assistance ~ story of Elisha (Eliseus)
 #71N11|the water of Jericho is purified: when the citizens of Jericho complain about their water, Elisha puts some salt into a jar; he then throws the salt into the water (2 Kings 2:19-22)
 #71N12|the widow's oil: the little oil a woman has in store increases so that she and her son are able to fill many borrowed jars with it (2 Kings 4:1-7)
@@ -3999,7 +3999,7 @@
 #71N621|burial of Elisha
 #71N7|Elisha's bones (2 Kings 13:21)
 #71N71|during a funeral a band of ransacking Moabites is seen approaching and the corpse is thrown hastily into Elisha's tomb; when it touches Elisha's bones the man comes back to life
-#71O|prophets (before and during the Babylonian Captivity)
+71O|prorocy (przed i podczas niewoli babilońskiej)
 #71O1|the book of Amos
 #71O11|Amos, the herdsman of Tekoa, prophesies at Bethel (Amos 1-2)
 #71O111|the Lord will roar from Zion ~ prophecy of Amos
@@ -4015,8 +4015,6 @@
 #71O134|Amos sees a basket of fruit ~ visions of Amos
 #71O135|Amos sees the Lord standing on the altar, ordering its destruction
 #71O14|Amos is killed by Amaziah, a priest at Bethel
-#71O19|other scenes from Amos
-#71O19(...)|other scenes from Amos (with BOOK CHAPTER:VERSE)
 #71O2|the book of Hosea
 #71O21|the Lord speaks to Hosea 'Go, take yourself a wife of harlotry ...' (Hosea 1:2)
 #71O22|Hosea, Gomer and the three children (Hosea 1:3-11)
@@ -4267,7 +4265,7 @@
 #71O97|other scenes from the book of Ezekiel not meant or mentioned above
 #71O97(...)|other scenes from the book of Ezekiel not meant or mentioned above (with BOOK CHAPTER:VERSE)
 #71O97(Ez. 13:18)|Ezekiel condemning the women that sew pillows to all armholes
-#71P|the story of the prophet Daniel; his visions and prophecies
+71P|historia proroka Daniela; jego wizje i proroctwa
 #71P1|Daniel and King Nebuchadnezzar
 #71P11|Israelites (usually four) are brought before the prince of eunuchs because King Nebuchadnezzar wants to have them educated in the palace (Daniel 1)
 #71P111|Daniel and his three friends are educated in the palace by Melzar
@@ -4386,7 +4384,7 @@
 #71P6|prophetic passages in the book of Daniel
 #71P6(...)|prophetic passages in the book of Daniel (with BOOK CHAPTER:VERSE)
 #71P6(Dan. 12:1)|the archangel Michael, who shall deliver the Israelites ~ prophetic passages in the book of Daniel
-#71Q|the story of Esther
+71Q|historia Estery
 #71Q1|the dream of Mordecai: two fighting dragons appear, a righteous nation is about to be attacked by evil nations, and a little spring turns into a great river (Esther 11:2-12)
 #71Q2|Esther becomes queen (Esther 1 - 2:20)
 #71Q21|the feast of Ahasuerus (Xerxes, alternatively Artaxerxes); the downfall of Queen Vashti (Astin)
@@ -4477,7 +4475,7 @@
 #71QQ7411|King Ahasuerus gets up in a fury and goes into the palace garden - QQ - Mordecai present
 #71QQ742|Haman begs Esther for his life - QQ - Mordecai present
 #71QQ7421|as Haman is kneeling at Esther's feet or is prostrated on her couch King Ahasuerus returns; Haman is condemned to be hanged - QQ - Mordecai present
-#71R|the books of Ezra, Nehemiah, and Esdras
+71R|księgi Ezdrasza i Nehemiasza
 #71R1|return from the Babylonian Captivity
 #71R11|Cyrus, king of Persia, puts and end to the Babylonian Captivity (Ezra 1)
 #71R111|God speaks to Cyrus
@@ -4584,7 +4582,7 @@
 #71R44|Ezra commanded to write prophecies (2 Esdras 15:1-2)
 #71R5|other scenes from Ezra and Esdras
 #71R5(...)|other scenes from Ezra and Esdras (with BOOK CHAPTER:VERSE)
-#71S|prophets (after the Babylonian Captivity)
+71S|prorocy (po niewoli babilońskiej)
 #71S1|the book of Haggai
 #71S11|Haggai, urged by God, exhorts Zerubbabel and Joshua to resume the building of the temple (Haggai 1:1-11)
 #71S111|the old temple of Jerusalem lying waste ~ book of Haggai
@@ -4652,7 +4650,7 @@
 #71S63|Baruch brings the collection of money to Jerusalem (Baruch 1:7-14)
 #71S64|the epistle of Jeremiah (Baruch 6)
 #71S641|Jeremiah exposing idols
-#71T|the book of Tobit
+71T|Księga Tobiasza
 #71T1|the marriage of Tobit and Anna (Tobit 1:1-9)
 #71T11|Tobit and Anna with their son Tobias
 #71T12|Tobit reads to Anna from the bible
@@ -4733,7 +4731,7 @@
 #71T8|death of Tobit: on his deathbed he speaks to Tobias and his seven sons (Tobit 14)
 #71T9|other scenes ~ the book of Tobit
 #71T9(...)|other scenes ~ the book of Tobit (with BOOK CHAPTER:VERSE)
-#71U|the book of Judith
+71U|Księga Judyty
 #71U1|Nebuchadnezzar fights Arphaxad (Judith 1)
 #71U11|the Median king Arphaxad has the city of Ecbatana fortified
 #71U12|Nebuchadnezzar, king of Assyria, sends ambassadors to the neighbouring states to ask for military aid against Arphaxad
@@ -4792,7 +4790,7 @@
 #71U5|other scenes ~ the book of Judith
 #71U5(...)|other scenes ~ the book of Judith (with BOOK CHAPTER:VERSE)
 #71U5(Judith 16:23)|Judith's death
-#71V|the book of Jonah
+71V|Księga Jonasza
 #71V1|Jonah's call and disobedience (Jonah 1)
 #71V11|Jonah is sent by God to Nineveh to preach to its sinful citizens
 #71V12|to escape the assigned task by God Jonah boards a ship about to go to Tarshish
@@ -4816,7 +4814,7 @@
 #71V42|the prophet Jonah withdraws from Nineveh; he builds a booth and while enjoying the shade of a plant (gourd or vine) which God made grow for him, he awaits the destiny of the city
 #71V43|the gourd (or vine) is eaten by a worm and Jonah is exposed to the burning rays of the sun
 #71V44|when Jonah again murmurs and wishes to die, God rebukes him
-#71W|the book of Job
+71W|Księga Hioba
 #71W1|Job's wealth and piety (Job 1:1-5)
 #71W11|Job's wealth
 #71W111|Job's children, seven sons and three daughters
@@ -4890,7 +4888,7 @@
 #71W75|Job thanking the Lord
 #71W76|Job's death
 #71W761|Job's ascension
-#71X|the lyric books: Psalms and Song of Solomon
+71X|księgi poetyckie Psalmy i Pieśń nad Pieśniami
 #71X1|the book of Psalms
 #71X1(...)|the book of Psalms (with BOOK CHAPTER:VERSE)
 #71X1(...)1|the book of Psalms (with BOOK CHAPTER:VERSE) - the book of Psalms ~ scenes from the Old Testament
@@ -4943,7 +4941,7 @@
 #71X23|Solomon's bed guarded by sixty soldiers (Song of Solomon 3:7-10)
 #71X24|Tower of David (Song of Solomon 4:4)
 #71X25|the sealed fountain in the enclosed garden (Song of Solomon 4:12)
-#71Y|the books of Wisdom
+71Y|Księgi Mądrości
 #71Y1|the book of Proverbs
 #71Y1(...)|the book of Proverbs (with BOOK CHAPTER:VERSE)
 #71Y1(Prov. 20:1)|'wine is a mocker ...' ~ drunken brawl
@@ -4962,7 +4960,7 @@
 #71Y4(...)|the book of Ecclesiasticus, the wisdom of Jesus Sirach (with BOOK CHAPTER:VERSE)
 #71Y4(Eccles. 30:1)|'he who loves his son will whip him often' ~ father spanking his son
 #71Y4(Eccles. 44:16)|'Enoch ... was taken up' ~ Enoch's translation
-#71Z|(books of the) Maccabees
+71Z|Księgi Machabejskie
 #71Z1|first book of the Maccabees (part I)
 #71Z11|Antiochus IV Epiphanes robbing the temple of its treasures (1 Maccabees 1:21-23)
 #71Z12|Mattathias kills a Jew, who wanted to offer sacrifices to pagan gods, and pulls down the altar in Modin (1 Maccabees 2:23-26)
@@ -5026,15 +5024,15 @@
 #71Z52|King Ptolemy IV Philopator tries to have the Jews killed by drunken elephants; the Jews pray and are saved by two angels (3 Maccabees 5)
 #71Z6|fourth book of the Maccabees (4 Maccabees)
 #71Z6(...)|fourth book of the Maccabees (with BOOK CHAPTER:VERSE)
-#72|typological juxtapositions and compositions
-#72A|typological juxtapositions
-#72B|comprehensive typological compositions
-#73|New Testament
-#73A|(scenes from the life of) John the Baptist and Mary
-#73A(...)|series of scenes from the life of John the Baptist and Mary (with NAME)
+72|typologiczne zestawienia i kompozycje
+72A|zestawienia typologiczne
+72B|wyczerpujące systemy typologiczne
+73|Nowy Testament
+73A|Jan Chrzciciel i Maria (sceny z ich życia)
+73A(...)|seria scen z życia św. Jana Chrzciciela i Marii (z IMIENIEM)
 #73A(JOHN THE BAPTIST)|series of scenes from the life of John the Baptist
 #73A(MARY)|series of scenes from the life of Mary
-#73A1|story of the birth and youth of John the Baptist (Luke 1:5-25, 1:57-80)
+73A1|historia narodzenia i młodości św. Jana Chrzciciela (Łk 15-25, 157-80)
 #73A11|annunciation of the birth of John the Baptist to Zacharias: while he is offering incense in the temple an angel (Gabriel) appears to him
 #73A111|Zacharias speechless before the people
 #73A12|annunciation of the birth of John the Baptist to Elisabeth
@@ -5055,7 +5053,7 @@
 #73A185|John the Baptist called by an angel
 #73A19|the murder of Zacharias
 #73A191|recovering of the remains of Zacharias
-#73A2|ancestors and parents of Christ
+73A2|przodkowie i rodzice Chrystusa
 #73A21|tree of Jesse: genealogical tree showing Christ's ancestors, sprouting from Jesse's loins
 #73A22|Holy Kinship
 #73A221|'Anna selbdritt', i.e. Anna, Mary and Christ-child close together
@@ -5107,7 +5105,7 @@
 #73A2381|the two other marriages of Anna
 #73A2382|three daughters of Anna, all named Mary
 #73A2383|death of Anna, usually Mary and Christ present
-#73A3|birth and youth of Mary
+73A3|narodziny i młodość Marii
 #73A31|birth of Mary
 #73A311|several childbed scenes ~ birth of Mary
 #73A312|Joachim and Anna at the bed of Mary
@@ -5129,7 +5127,7 @@
 #73A355|Joachim and Anna visiting Mary in the temple
 #73A356|other scenes ~ Mary's life in the temple
 #73A36|devout Mary together with her parents; angels, and perhaps God the Father present
-#73A4|Mary and Joseph
+73A4|Maria i Józef
 #73A41|recruitment of the bridegroom: the suitors are kneeling before the altar on which rods are placed
 #73A411|Joseph is chosen as husband because his rod is flowering (sometimes a dove on it)
 #73A412|after Joseph is chosen as husband the other suitors show their dismay; perhaps one of them breaking his rod
@@ -5140,7 +5138,7 @@
 #73A4231|the marriage procession of Mary and Joseph
 #73A424|Mary's settlement in the house of Joseph
 #73A4241|Joseph at work in his carpenter's workshop
-#73A5|the announcement of Christ's birth (Luke 1:26-38)
+73A5|zwiastowanie narodzenia Chrystusa (Łukasz 126-38)
 #73A51|Mary (alone) reading, praying, etc. ~ Annunciation
 #73A52|the Annunciation: Mary, usually reading, is visited by the angel (sometimes a woman overhears the conversation)
 #73A521|the Annunciation: Mary standing
@@ -5158,7 +5156,7 @@
 #73A574|Mary pardons Joseph
 #73A575|Joseph's repentance
 #73A576|Joseph recognizing Mary as the mother of the Messiah
-#73A6|Visitation (possibly Joseph and/or Zacharias present) (Luke 1:39-56)
+73A6|Nawiedzenie (możliwa obecność Józefa i Zachariasza) (Łukasz 139-56)
 #73A61|Mary on her way to Judah
 #73A62|Mary's arrival in Judah
 #73A621|Mary saluting Elisabeth from a distance
@@ -5174,12 +5172,12 @@
 #73AA521|the Annunciation: Mary standing - AA - Mary to the left, the angel to the right
 #73AA522|the Annunciation: Mary sitting - AA - Mary to the left, the angel to the right
 #73AA523|the Annunciation: Mary kneeling - AA - Mary to the left, the angel to the right
-#73B|birth and youth of Christ
-#73B(...)|series of scenes from the life of Christ (with NAME)
+73B|narodzenie i młodość Chrystusa
+73B(...)|cykle scen z życia Chrystusa (z NAZWĄ)
 #73B(CHRIST)|series of scenes from the life of Christ
-#73B1|story of the birth of Christ (Luke 2:1-20)
-#73B11|a census is ordered by Caesar Augustus
-#73B12|journey of Mary and Joseph to Bethlehem
+73B1|historia narodzenia Chrystusa (Łukasz 2, 1-20)
+73B11|cesarz August zarządza spis ludności
+73B12|podróż Marii i Józefa do Betlejem
 #73B121|journey of Mary and Joseph to Bethlehem, first son of Joseph present
 #73B122|an angel explaining the vision of Mary during the journey to Bethlehem
 #73B123|the people's census at Bethlehem: Mary and Joseph are registered
@@ -5187,7 +5185,7 @@
 #73B125|Mary and Joseph find shelter in a stable
 #73B1251|Joseph mending a hole in the wall of the stable
 #73B1252|Joseph making a manger
-#73B13|Mary, Joseph and the new-born Christ (Nativity)
+73B13|Maria, Józef i nowo narodzony Chrystus (Boże Narodzenie)
 #73B131|Mary reclining in bed or on a couch, looking at the Christ-child
 #73B132|care of the new-born Christ-child, e.g. swaddling
 #73B1321|bathing the new-born Christ-child (usually by the midwives)
@@ -5195,32 +5193,32 @@
 #73B1323|Joseph drying napkins
 #73B1324|Joseph cutting some of his clothes to swathe the Christ-child
 #73B1325|angels bringing napkins ~ care of the new-born Christ-child
-#73B14|annunciation of Christ's birth to the shepherds (and/or shepherdesses) at night; a host of singing angels in the air
+73B14|zwiastowanie narodzenia Chrystusa pasterzom (i/lub pasterkom) w nocy; zastęp aniołów śpiewających w powietrzu
 #73B141|the shepherds go to Bethlehem
-#73B15|miracles at Christ's birth
+73B15|cuda przy narodzeniu Chrystusa
 #73B151|the temple of Peace in Rome collapses ~ Christ's birth
 #73B152|an oil spring erupts in Rome ~ Christ's birth
 #73B153|miracle of the withered hand of Mary Salome (also called Zelami or Zebel), one of the midwives ~ Christ's birth
-#73B2|adoration of the Christ-child ~ Christ's birth
-#73B21|adoration of the Christ-child by Mary
-#73B22|adoration of the Christ-child by Mary; John the Baptist present
-#73B23|adoration of the Christ-child by Mary and Joseph
+73B2|adoracja Dzieciątka Jezus ~ Boże Narodzenie
+73B21|adoracja Dzieciątka Jezus przez Marię
+73B22|adoracja Dzieciątka Jezus przez Marię; obecny św. Jan Chrzciciel
+73B23|adoracja Dzieciątka Jezus przez Marię i Józefa
 #73B24|adoration of the Christ-child by Mary, Joseph, Elisabeth and John the Baptist
-#73B25|adoration of the Christ-child by the shepherds; Mary and Joseph present
+73B25|adoracja Dzieciątka Jezus przez pasterzy; obecni Maria i Józef
 #73B251|adoration of the Christ-child by the shepherds, without Joseph and Mary
 #73B26|the shepherds returning, telling what they have seen ~ adoration of the Christ-child
 #73B27|the midwives adoring the Christ-child, Mary and Joseph may be present
-#73B28|Christ-child in the manger
+73B28|Dzieciątko Jezus w żłobie
 #73B281|the ox and the ass at the manger ~ Christ's birth
-#73B3|circumcision of the Christ-child by the priest in the temple (Luke 2:21)
+73B3|obrzezanie Dzieciątka Jezus przez kapłana w świątyni (Łk 221)
 #73B31|circumcision of the Christ-child by Mary
-#73B4|presentation of the Christ-child in the temple, usually Simeon (and Anna) present (Luke 2:22-39)
+73B4|ofiarowanie Chrystusa w Świątyni, zwykle w obecności Symeona (i Anny) (Łukasz 2, 22-39)
 #73B41|purification of Mary; the offering of the doves
 #73B411|Joseph paying the ransom ~ purification of Mary
 #73B42|Simeon, holding the Christ-child, sings his canticle: 'Nunc dimittis'
 #73B43|Mary and Joseph blessed by Simeon ~ presentation of the Christ-child
 #73B44|Anna prophesying ~ presentation of the Christ-child
-#73B5|the story of the three Wise Men (kings or Magi) (Matthew 2:1-12)
+73B5|historia trzech Mędrców (Królów lub Magów) (Mateusz 2, 1-12)
 #73B51|the three Wise Men see a star and are astonished by its magnitude
 #73B511|one of the kings sees the star
 #73B52|journey of the three Wise Men to Jerusalem
@@ -5232,7 +5230,7 @@
 #73B55|the star appears again and guides the three Wise Men to Bethlehem
 #73B551|the Magi rest on their journey
 #73B56|the arrival of the three Wise Men in Bethlehem
-#73B57|adoration of the kings: the Wise Men present their gifts to the Christ-child (gold, frankincense and myrrh)
+73B57|pokłon Trzech Króli trzej Mędrcy ofiarowują swe dary Dzieciątku (złoto, kadzidło i mirrę)
 #73B571|Mary distributing the gifts among the poor
 #73B58|the three Wise Men are warned in a dream by an angel not to return to Herod
 #73B581|the three Wise Men depart for their own countries
@@ -5241,17 +5239,17 @@
 #73B591|(later life of) Melchior, the bearded 'Asian' king
 #73B592|(later life of) Caspar, the youthful 'European' king
 #73B593|(later life of) Balthasar, the 'African' (negro) king
-#73B6|the massacre of the innocents and the flight into Egypt (Matthew 2:13-23)
+73B6|rzeź niewiniątek i ucieczka do Egiptu (Mateusz 2, 13-23)
 #73B61|the Holy Family visits Elisabeth, Zacharias and the new-born John the Baptist
 #73B62|an angel appearing to Joseph in a dream summons him to flee into Egypt
-#73B63|the massacre of the innocents
+73B63|rzeź niewiniątek
 #73B631|Herod gives orders to slay the children
 #73B632|soldiers entering Bethlehem ~ massacre of the innocents
-#73B633|the massacre ot the innocents; sometimes Herod looking on
+73B633|rzeź niewiniątek; czasem z przyglądającym się Herodem
 #73B6331|the massacre; Elisabeth fleeing with John the Baptist
 #73B634|death of Herod: he is eaten by worms
-#73B64|flight into Egypt and miracles during the journey
-#73B641|the flight into Egypt: Mary, Joseph, the child (and sometimes others) on their way; Mary usually riding on an ass
+73B64|ucieczka do Egiptu i cuda podczas podróży
+73B641|ucieczka do Egiptu Maria, Józef, Dzieciątko (czasem inne osoby) w drodze; Maria zwykle dosiada osła
 #73B6411|the flight into Egypt: the first son of Joseph leading the ass
 #73B6412|crossing a river in a boat, perhaps an angel (or sometimes Charon) as ferryman ~ the flight into Egypt
 #73B642|miracles during the flight into Egypt
@@ -5273,7 +5271,7 @@
 #73B691|rest on the return of the Holy Family to Israel
 #73B6911|Holy Family visiting Elisabeth on the return journey
 #73B692|arrival of the Holy Family at Nazareth
-#73B7|daily life in Nazareth
+73B7|życie codzienne w Nazarecie
 #73B71|household occupations of Mary
 #73B72|Joseph and the Christ-child ~ daily life in Nazareth
 #73B721|Joseph with the Christ-child (and Mary) in his carpenter's workshop
@@ -5298,7 +5296,7 @@
 #73B7535|other games and plays ~ the Christ-child playing
 #73B7536|the Christ-child together with other children
 #73B754|the Christ-child teaching
-#73B8|Holy Family, and derived representations
+73B8|Święta Rodzina i przedstawienia pochodne
 #73B81|Holy Family (alone), 'Trinitas terrestris'
 #73B82|Holy Family with others, e.g.: Anna
 #73B821|Holy Family with John the Baptist (as child)
@@ -5313,7 +5311,7 @@
 #73B8321|the Christ-child and John the Baptist (as child) with others
 #73B83211|the Christ-child and John the Baptist with others, Elisabeth present
 #73B83212|the Christ-child and John the Baptist with others; Elisabeth and Zacharias present
-#73B9|story of the twelve years old Christ in Jerusalem (Luke 2:41-52)
+73B9|historia dwunastoletniego Jezusa w Jerozolimie (Łukasz 2, 41-52)
 #73B91|journey of Mary, Joseph and Christ to Jerusalem
 #73B92|Mary and Joseph return home; Christ stays in Jerusalem
 #73B921|Mary and Joseph searching for their child
@@ -5322,23 +5320,23 @@
 #73B932|Christ questioned by Mary
 #73B94|Christ returning with his parents
 #73B95|further events in Christ's life up to his baptism
-#73BB641|the flight into Egypt: Mary, Joseph, the child (and sometimes others) on their way; Mary usually riding on an ass - BB - landscape predominant
+73BB641|ucieczka do Egiptu Maria, Józef, Dzieciątko (czasem inne osoby) w drodze; Maria zwykle dosiada osła - BB - dominuje pejzaż
 #73BB6411|the flight into Egypt: the first son of Joseph leading the ass - BB - landscape predominant
 #73BB6412|crossing a river in a boat, perhaps an angel (or sometimes Charon) as ferryman ~ the flight into Egypt - BB - landscape predominant
 #73BB65|rest on the flight into Egypt - BB - landscape predominant
 #73BB651|miracle of the bending palmtree ~ rest on the flight into Egypt - BB - landscape predominant
 #73BB652|miracle of the well ~ rest on the flight into Egypt - BB - landscape predominant
-#73C|public life of Christ: from his baptism until the Passion
-#73C1|story of John the Baptist (Matthew 3; Mark 1:4-11; Luke 3:1-22; John 1:19-34)
-#73C11|John the Baptist preaching (perhaps Christ among the bystanders)
+73C|publiczne życie Jezusa od Jego chrztu do męki
+73C1|historia św. Jana Chrzciciela (Mateusz 3; Marek 14-11; Łukasz 31-22; Jan 119-34)
+73C11|Jan Chrzciciel wygłaszający kazanie (prawdopodobnie Chrystus pomiędzy słuchaczami)
 #73C111|'the axe is laid to the root of the trees' ~ John the Baptist preaching
 #73C112|John the Baptist disputing
 #73C113|John the Baptist identifies Christ as the Lamb of God ('Ecce Agnus Dei') (John 1:29, 1:36)
-#73C12|John the Baptist baptizing
-#73C121|baptism of Christ in the river Jordan: John the Baptist pouring out water on Christ's head: the Holy Ghost descends
-#73C1211|John the Baptist blessing Christ
-#73C122|some of the disciples of John the Baptist are arguing with Christ
-#73C13|martyrdom and death of John the Baptist (Matthew 14:3-12; Mark 6:17-29)
+73C12|Jan Chrzciciel udzielający chrztu
+73C121|chrzest Chrystusa w rzece Jordan Jan Chrzciciel polewa wodą głowę Chrystusa Duch Święty zstępuje
+73C1211|Jan Chrzciciel błogosławiący Chrystusa
+73C122|niektórzy uczniowie Jana Chrzciciela dyskutują z Chrystusem
+73C13|męczeństwo i śmierć Jana Chrzciciela (Mateusz 143-12; Marek 617-29)
 #73C131|John the Baptist reproaches Herod (Herod Antipas) and Herodias
 #73C132|John the Baptist arrested and imprisoned
 #73C1321|John the Baptist in prison
@@ -5804,7 +5802,7 @@
 #73C9392|'and the glory, for ever' ~ the Lord's prayer
 #73C94|A voice from heaven says: I have already brought glory to it, and I will glorify it again!" (John 12:28-29)
 #73C941|Philip and Andrew on their way to Christ to tell him some Greeks wish to meet him (John 12:20-22)
-#73D|Passion of Christ
+73D|męka Chrystusa
 #73D1|prelude to Christ's Passion
 #73D11|Christ foretelling his Passion (at various occasions) (Matthew 16:21, 17:22-23; Mark 8:32, 9:31; Luke 9:22, 9:44)
 #73D12|Caiaphas and the priests conspiring against Christ (Matthew 26:3-5; Mark 14:1-2; Luke 22:2; John 11:47-53)
@@ -6113,7 +6111,7 @@
 #73DD65|Christ on the cross combined with other scenes from the Passion - DD - the three crosses
 #73DD651|Christ on the cross; only scenes preceding the crucifixion added - DD - the three crosses
 #73DD652|Christ on the cross; only scenes following the crucifixion added - DD - the three crosses
-#73E|events from Resurrection to Pentecost (Matthew 28; Mark 16; Luke 24; John 20-21; Acts 1:3-11); Mary's and Joseph's death
+73E|zdarzenia od zmartwychwstania do zesłania Ducha Świętego (Mateusz 28; Marek 16; Łukasz 24; Jan 20-21; Dzieje 13-11); śmierć Marii i Józefa
 #73E1|Resurrection of Christ
 #73E11|events just before the Resurrection
 #73E111|the hand of God awakens Christ
@@ -6199,7 +6197,7 @@
 #73E425|Christ almost vanished: only feet visible ~ Ascension
 #73E426|Christ ascends into heaven while the apostles sit at a table (~ Mark 16:14-19)
 #73E427|Christ ascends into heaven; apostles (and Mary) beneath
-#73E43|angel(s) talking to the apostles and perhaps to other witnesses of the Ascension
+73E43|anioł(owie) rozmawiający z apostołami i zapewne innymi świadkami Wniebowstąpienia
 #73E44|the footprints of Christ on the Mount of Olives ~ the Ascension
 #73E5|Pentecost: the Holy Ghost descends upon (Mary and) the apostles, sometimes Paul and/or representatives of the nations present (Acts 2:1-4)
 #73E51|the Holy Ghost going out from God the Father (or God the Father present)
@@ -6265,7 +6263,7 @@
 #73EE353|Christ blessing the apostles ~ after the Resurrection - EE - Thomas not present
 #73EE354|Christ breathing on the apostles (sometimes a dove comes out of Christ's mouth) - EE - Thomas not present
 #73EE355|Christ exhorting the apostles to stay in Jerusalem - EE - Thomas not present
-#73F|lives and acts of the apostles of Christ; epistles
+73F|życie i działalność apostołów Chrystusa, listy apostolskie
 #73F1|community of disciples (preaching, healing, etc. in general) (Acts 2:42-47, 4:32 - 5:11)
 #73F11|disciples awaiting the return of Christ
 #73F12|disciples preaching and baptizing (in general)
@@ -6814,7 +6812,7 @@
 #73F45|epistles of Peter
 #73F46|epistles of John
 #73F47|epistle of Jude
-#73G|the Revelation of John, the Apocalypse
+73G|objawienie św. Jana, Apokalipsa
 #73G1|Revelation 1-3
 #73G11|John (writing) on the island of Patmos, possibly the eagle beside him
 #73G111|an angel sent by Christ appears to John on Patmos
@@ -6882,7 +6880,7 @@
 #73G42|the beast out of the sea (Antichrist, 666) ~ Revelation of John
 #73G421|the leopard-like beast with seven heads comes out of the sea and is worshipped together with the dragon
 #73G422|the beast out of the sea makes war with the saints
-#73G423|
+#73G423
 #73G43|the beast out of the earth ~ Revelation of John
 #73G431|the two-horned beast out of the earth and the beast out of the sea are worshipped
 #73G432|people are marked on their hands or foreheads ~ beast out of the earth
@@ -6923,32 +6921,32 @@
 #73G573|the tree of life with its twelve kinds of fruit ~ Revelation
 #73G6|John adoring the angel after the Revelation
 #73GG411|a pregnant woman, clothed with the sun and standing on the moon, appears; she is threatened by a red dragon with a long tail and seven heads - GG - Mary as the apocalyptic woman
-8|文学
-81|系列文学作品
-81(...)|系列文学作品 (with NAME of CYCLE)
+8|Literatura
+81|cykle literackie
+81(...)|cykl literacki (z NAZWĄ)
 #81(ARTHURIAN LEGEND)|'Arthurian legend'
 #81(KALEVALA)|'Kalevala'
 #81(NIBELUNGENLIED)|'Nibelungenlied'
-#81A|Arthurian legend : Use 81(ARTHURIAN LEGEND)
+81A|legendy arturiańskie użyj 81(ARTHURIAN LEGEND)
 #81A(...)|male characters from Arthurian legend : Use 82A(...)
-#81B|'Nibelungenlied' : Use 81(NIBELUNGENLIED)
+81B|'Pieśń o Nibelungach' użyj 81(NIBELUNGENLIED)
 #81B(...)|male characters from the 'Nibelungenlied' : Use 82A(...)
-#81C|Dante, 'Divina Commedia' : Use 83(DANTE, Divina Commedia)
+81C|Dante, 'Boska Komedia' użyj 83(DANTE, Divina Commedia)
 #81C(...)|male characters from the 'Divina Commedia' : Use 82A(...)
-#81D|Boccaccio, 'Decameron' : Use 83(BOCCACCIO, Decamerone)
+81D|Boccaccio, 'Dekameron' użyj 83(BOCCACCIO, Decamerone)
 #81D(...)|male characters from the 'Decameron' : Use 82A(...)
-#81E|Ariosto, 'Orlando Furioso' : Use 83(ARIOSTO, Orlando Furioso)
+81E|Ariosto, 'Orland Szalony' użyj 83(ARIOSTO, Orlando Furioso)
 #81E(...)|male characters from 'Orlando Furioso' : Use 82A(...)
-#81F|Tasso, 'Gerusalemme Liberata' : Use 83(TASSO, Gerusalemme Liberata)
+81F|Tasso, 'Jerozolima wyzwolona' użyj 83(TASSO, Gerusalemme Liberata)
 #81F(...)|male characters from 'Gerusalemme Liberata' : Use 82A(...)
-#81G|'The Poems of Ossian' : Use 83(MACPHERSON, Poems of Ossian)
+81G|'Pieśni Osjana' użyj 83(MACPHERSON, Poems of Ossian)
 #81G(...)|male characters from 'The Poems of Ossian' : Use 82A(...)
-#81H|other cycles : Use 81(...)
+81H|inne cykle użyj 81(...)
 #81H(...)|other cycles (with NAME of CYCLE, Character) : Use 81(...)
 #81H(KALEVALA)|'Kalevala' : Use 81(KALEVALA)
 #81H(KALEVALA, Lemminkäinen)|Lemminkäinen : Use 82A(...)
-82|文学作品中的人物
-#82A|names of literary characters
+82|postacie i przedmioty literackie
+82A|imiona bohaterów literackich
 #82A(...)|male literary characters (with NAME)
 #82A(AHASVERUS)|Ahasverus, the wandering Jew
 #82A(ALBOIN)|King Alboin
@@ -7080,7 +7078,7 @@
 #82AA(PRECIOSA)|Preciosa
 #82AA(ROSAMUND)|Rosamund
 #82AA(SOFRONIA)|Sofronia
-#82B|names of fictional animals, plants, objects, etc.
+82B|nazwy zmyślonych zwierząt, roślin, obiektów itd.
 #82B(...)|fictional animals, plants, objects, etc. (with NAME)
 #82B(BAIARDO)|Baiardo, the horse of Rinaldo
 #82B(BALISARDA)|Balisarda, the sword of Ruggiero
@@ -7091,66 +7089,66 @@
 #82B(FUSBERTA)|Fusberta, the sword of Rinaldo; also known as Froberge and Floberge
 #82B(RABICANO)|Rabicano, the horse of Astolfo
 #82B(SACHS)|Sachs, the sword of Dietrich von Bern
-#83|specific works of literature
-#83(...)|(scenes from) specific works of literature (with AUTHOR, Title)
-#83(ANON., Busant)|(scenes from) specific works of literature: Anon., Busant
-#83(ANON., Romaunt of the Rose)|(scenes from) specific works of literature: Anon., Romaunt of the Rose : Use 83 (LORRIS ET MEUN, Roman de la Rose)
-#83(ARIOSTO, Orlando Furioso)|(scenes from) specific works of literature: Ariosto, Orlando Furioso
-#83(BERNARDIN DE SAINT-PIERRE, Paul et Virginie)|(scenes from) specific works of literature: Bernardin de Saint-Pierre, Paul et Virginie
-#83(BOCCACCIO, Decamerone)|(scenes from) specific works of literature: Boccaccio, Decamerone
-#83(BRANT, Ship of Fools)|(scenes from) specific works of literature: Brant, Ship of Fools
-#83(BREDERO, Lucelle)|(scenes from) specific works of literature: Bredero, Lucelle
-#83(BREDERO, Moortje)|(scenes from) specific works of literature: Bredero, Moortje
-#83(BYRON, Bride of Abydos)|(scenes from) specific works of literature: Byron, Bride of Abydos
-#83(BYRON, Corsaire)|(scenes from) specific works of literature: Byron, Corsaire
-#83(CHATEAUBRIAND, Atala)|(scenes from) specific works of literature: Chateaubriand, Atala
-#83(COLONNA, Hypnerotomachia Poliphili)|(scenes from) specific works of literature: Colonna, Hypnerotomachia Poliphili
-#83(D'URFE, Astrée)|(scenes from) specific works of literature: D'Urfé, Astrée
-#83(DANTE, Divina Commedia)|(scenes from) specific works of literature: Dante, Divina Commedia
-#83(DEFOE, Robinson Crusoe)|(scenes from) specific works of literature: Defoe, Robinson Crusoe
-#83(DESMARETS DE SAINT-SORLIN, Ariane)|(scenes from) specific works of literature: Desmarets de Saint-Sorlin, Ariane
-#83(DIEGO DI SAN PEDRO, Carcel de Amor)|(scenes from) specific works of literature: Diego di San Pedro, Carcel de Amor
-#83(FLAUBERT, Tentation de Saint Antoine)|(scenes from) specific works of literature: Flaubert, Tentation de Saint Antoine
-#83(FOUQUE, Zauberring)|(scenes from) specific works of literature: Fouqué, Zauberring
-#83(GOETHE, Faust)|(scenes from) specific works of literature: Goethe, Faust
-#83(GOETHE, Werther)|(scenes from) specific works of literature: Goethe, Werther
-#83(GUARINI, Pastor Fido)|(scenes from) specific works of literature: Guarini, Pastor Fido
-#83(HELIODORUS, Aethiopica)|(scenes from) specific works of literature: Heliodorus, Aethiopica
-#83(HOOFT, Granida)|(scenes from) specific works of literature: Hooft, Granida
-#83(IBSEN, Peer Gynt)|(scenes from) specific works of literature: Ibsen, Peer Gynt
-#83(LORRIS ET MEUN, Roman de la Rose)|(scenes from) specific works of literature: Lorris et Meun, Roman de la Rose
-#83(MACPHERSON, Poems of Ossian)|(scenes from) specific works of literature: Macpherson, Poems of Ossian
-#83(MANZONI, Promessi Sposi)|(scenes from) specific works of literature: Manzoni, Promessi Sposi
-#83(MELVILLE, Moby Dick)|(scenes from) specific works of literature: Melville, Moby Dick
-#83(PETRARCA, Trionfi)|(scenes from) specific works of literature: Petrarca, Trionfi
-#83(POPE, Rape of the lock)|(scenes from) specific works of literature: Pope, Rape of the lock
-#83(SCARRON, Roman Comique)|(scenes from) specific works of literature: Scarron, Roman Comique
-#83(SCHILLER, Mädchen aus der Fremde)|(scenes from) specific works of literature: Schiller, Mädchen aus der Fremde
-#83(SHAKESPEARE, Cymbeline)|(scenes from) specific works of literature: Shakespeare, Cymbeline
-#83(SHAKESPEARE, Midsummernight's Dream)|(scenes from) specific works of literature: Shakespeare, Midsummernight's Dream
-#83(SHAKESPEARE, Tempest)|(scenes from) specific works of literature: Shakespeare, Tempest
-#83(SWIFT, Gulliver's Travels)|(scenes from) specific works of literature: Swift, Gulliver's Travels
-#83(TASSO, Aminta)|(scenes from) specific works of literature: Tasso, Aminta
-#83(TASSO, Gerusalemme Liberata)|(scenes from) specific works of literature: Tasso, Gerusalemme Liberata
-#83(TEBALDEO, Second Eclogue, Damon and Thyrsis)|(scenes from) specific works of literature: Tebaldeo, Second Eclogue, Damon and Thyrsis
-#83(TENNYSON, Lady of Shalott)|(scenes from) specific works of literature: Tennyson, Lady of Shalott
-#84|tales and fairy tales
-#84(...)|tales and fairy tales (with TITLE)
+83|określone dzieła literackie
+83(...)|sceny z określonych dzieł literackich (z AUTOREM, tytułem)
+83(ANON., Busant)|scena z anonim, Der Busant
+83(ANON., Romaunt of the Rose)|scena z anonim, Roman de la Rose użyj 83 (LORRIS ET MEUN, Roman de la Rose)
+83(ARIOSTO, Orlando Furioso)|scena z Ariosto, Orland Szalony
+83(BERNARDIN DE SAINT-PIERRE, Paul et Virginie)|scena z Bernardin de Saint-Pierre, Paweł i Wirginia
+83(BOCCACCIO, Decamerone)|scena z Boccaccio, Dekameron
+83(BRANT, Ship of Fools)|scena z Brant, Okręt błaznów
+83(BREDERO, Lucelle)|scena z Bredero, Lucelle
+83(BREDERO, Moortje)|scena z Bredero, Moortje
+83(BYRON, Bride of Abydos)|scena z Byron, Narzeczona z Abydos
+83(BYRON, Corsaire)|scena z Byron, Korsarz
+83(CHATEAUBRIAND, Atala)|scena z Chateaubriand, Atala
+83(COLONNA, Hypnerotomachia Poliphili)|scena z Colonna, Hypnerotomachia Poliphili
+83(D'URFE, Astrée)|scena z d'Urfé, Astrea
+83(DANTE, Divina Commedia)|scena z Dante, Boska Komedia
+83(DEFOE, Robinson Crusoe)|scena z Defoe, Robinson Crusoe
+83(DESMARETS DE SAINT-SORLIN, Ariane)|scena z Desmarets de Saint-Sorlin, Ariane
+83(DIEGO DI SAN PEDRO, Carcel de Amor)|scena z Diego di San Pedro, Cárcel de amor
+83(FLAUBERT, Tentation de Saint Antoine)|scena z Flaubert, Kuszenie świętego Antoniego
+83(FOUQUE, Zauberring)|scena z Fouqué, Zauberring
+83(GOETHE, Faust)|scena z Goethe, Faust
+83(GOETHE, Werther)|scena z Goethe, Werter
+83(GUARINI, Pastor Fido)|scena z Guarini, Pastor Fido
+83(HELIODORUS, Aethiopica)|scena z Heliodorus Emessenus, Opowieść etiopska o Theagenesie i Chariklei
+83(HOOFT, Granida)|scena z Hooft, Granida
+83(IBSEN, Peer Gynt)|scena z Ibsen, Peer Gynt
+83(LORRIS ET MEUN, Roman de la Rose)|scena z Lorris et Meun, Powieść o róży
+83(MACPHERSON, Poems of Ossian)|scena z Macpherson, Pieśni Osjana
+83(MANZONI, Promessi Sposi)|scena z Manzoni, Narzeczeni
+83(MELVILLE, Moby Dick)|scena z Melville, Moby Dick
+83(PETRARCA, Trionfi)|scena z Petrarka, Triumfy
+83(POPE, Rape of the lock)|scena z Pope, Porwany lok
+83(SCARRON, Roman Comique)|scena z Scarron, Opowieść ucieszna
+83(SCHILLER, Mädchen aus der Fremde)|scena z Schiller, Obca dziewczyna
+83(SHAKESPEARE, Cymbeline)|scena z Szekspir, Cymbelin
+83(SHAKESPEARE, Midsummernight's Dream)|scena z Szekspir, Sen nocy letniej
+83(SHAKESPEARE, Tempest)|scena z Szekspir, Burza
+83(SWIFT, Gulliver's Travels)|scena z Swift, Podróże Guliwera
+83(TASSO, Aminta)|scena z Tasso, Aminta
+83(TASSO, Gerusalemme Liberata)|scena z Tasso, Jerozolima wyzwolona
+83(TEBALDEO, Second Eclogue, Damon and Thyrsis)|scena z Tebaldeo, Druga ekloga, Damon i Thyrsis
+83(TENNYSON, Lady of Shalott)|scena z Tennyson, Lady of Shalott
+84|opowieści i baśnie
+84(...)|opowieści i baśnie (z TYTUŁEM)
 #84(BLUEBEARD)|tales and fairy tales: Bluebeard
 #84(CINDERELLA)|tales and fairy tales: Cinderella
 #84(LITTLE RED RIDING-HOOD)|tales and fairy tales: Little Red Riding-hood
 #84(LITTLE THUMBLING)|tales and fairy tales: Little Thumbling
-#84(MELUSINE)|tales and fairy tales: Melusine
+84(MELUSINE)|opowieści i baśnie Meluzyna
 #84(ONE THOUSAND AND ONE NIGHTS)|tales and fairy tales: One Thousand and One Nights
 #84(PUSS IN BOOTS)|tales and fairy tales: Puss in boots
-#84(RAY-SLAYERS OF WEERT)|tales and fairy tales: Ray-slayers of Weert
-#84(SAVAGERY OF THE BULL)|tales and fairy tales: Savagery of the Bull
+84(RAY-SLAYERS OF WEERT)|opowieści i baśnie De Weerter Rogstekers
+84(SAVAGERY OF THE BULL)|opowieści i baśnie Stiers Wreedheijd
 #84(SLEEPING BEAUTY)|tales and fairy tales: Sleeping Beauty
 #84(THE BEAUTY AND THE BEAST)|tales and fairy tales: The Beauty and the Beast
-#84(UNDINE)|tales and fairy tales: Undine
-#84(WOMEN OF WEINSBERG)|tales and fairy tales: Women of Weinsberg
-#85|fables
-#85(...)|fables (with TITLE)
+84(UNDINE)|opowieści i baśnie Ondyna
+84(WOMEN OF WEINSBERG)|opowieści i baśnie Kobiety z Weinsberg
+85|bajki
+85(...)|bajki (z TYTUŁEM)
 #85(COCK AND PEARL)|fable of the Cock and the Pearl
 #85(DOG ON BRIDGE)|fable of the Dog on the Bridge
 #85(FATHER, SON AND ASS)|fable of the Father, Son and Ass
@@ -7159,14 +7157,14 @@
 #85(RAVEN AND SCORPION)|fable of the Raven and the Scorpion
 #85(REYNARD THE FOX)|fable of Reynard the Fox
 #85(SWAN AND COOK)|fable of the Swan and the Cook
-#85A|fables of Aesop : Use 85(...)
+85A|bajki Ezopa proszę użyć 85(...)
 #85A(...)|fables of Aesop (with TITLE) : Use 85(...)
-#85B|fables of Lafontaine : Use 85(...)
+85B|bajki Lafontaine'a proszę użyć 85(...)
 #85B(...)|fables of Lafontaine (with TITLE) : Use 85(...)
-#85C|other fables : Use 85(...)
+85C|inne bajki proszę użyć 85(...)
 #85C(...)|other fables (with TITLE) : Use 85(...)
-86|谚语与格言
-#86(...)|proverbs, sayings, etc. (with TEXT)
-#86(BEWARE THE GEESE WHEN THE FOX PREACHES)|proverbs, sayings, etc.: Beware the geese when the fox preaches
-#86(LIGHTLY COME, LIGHTLY GO)|proverbs, sayings, etc.: Lightly come, lightly go
-#86(OMNIA MECUM PORTO)|proverbs, sayings, etc.: Omnia mecum porto
+86|przysłowia, powiedzenia itp.
+86(...)|przysłowia, powiedzenia itp. (z TEKSTEM)
+86(BEWARE THE GEESE WHEN THE FOX PREACHES)|przysłowia, powiedzenia itp. Uważaj na gęsi, gdy lis kazanie głosi
+86(LIGHTLY COME, LIGHTLY GO)|przysłowia, powiedzenia itp. Łatwo przyszło, łatwo poszło
+86(OMNIA MECUM PORTO)|przysłowia, powiedzenia itp. Omnia mecum porto

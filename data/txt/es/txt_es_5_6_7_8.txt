@@ -1,5 +1,5 @@
-5|抽象的思想与概念
-#51|Generalities
+5|Ideas abstractas y conceptos
+51|Generalidades
 #51A|Existence and Modes of Existence
 #51A1|Existence
 #51A11|the Universe
@@ -197,8 +197,8 @@
 #51MM1|Slow Motion
 #51MM11|Slowness, Tardiness; 'Tardità' (Ripa)
 #51MM12|Lingering
-#52|Reasoning and Formation of Ideas
-#52A|Intelligence and Intellectual Faculties
+52|Razonamiento y Formación de las Ideas
+52A|La inteligencia y las facultades intelectuales
 #52A1|Intellect, Intelligence; 'Intelletto', 'Intelligenza' (Ripa)
 #52A11|Attention, Concentration
 #52A12|Curiosity, Inquisitiveness, Desire of Knowledge; 'Curiosità' (Ripa)
@@ -329,7 +329,7 @@
 #52EE|Communication of Thought (answer and question) (opposing concepts)
 #52EE1|Asking, Question, Interrogation
 #52EE11|Inquiry, Investigation; 'Investigatione' (Ripa)
-#53|Will, Volition
+53|Voluntad
 #53A|Characteristics of Will
 #53A1|Will; 'Volontà' (Ripa)
 #53A11|Choice; 'Elettione' (Ripa)
@@ -390,7 +390,7 @@
 #53DD1|Refusal
 #53DD11|Prohibition
 #53DD2|Breach of Promise
-#54|Process of Action
+54|Desarollo de Acción
 #54A|State of Being while Doing
 #54A1|Activity
 #54A11|Industriousness, Assiduity; 'Assiduità', 'Industria', 'Zelo' (Ripa)
@@ -548,7 +548,7 @@
 #54FF14|Disadvantage
 #54FF15|Submission; 'Forza minore da maggior forza superata' (Ripa)
 #54FF2|Defeat
-#55|Property
+55|Propiedad
 #55A|Acquisition and Loss
 #55A1|Acquisition, Gain, Profit
 #55A11|Retention
@@ -580,7 +580,7 @@
 #55CC3|Borrowing, Hiring
 #55CC4|Restitution; 'Restitutione' (Ripa)
 #55CC5|Withholding, Keeping to oneself
-#56|Emotion
+56|Emoción
 #56A|Feeling
 #56A1|Sensation, Sensibility, Sensitivity
 #56A2|Excitation
@@ -690,7 +690,7 @@
 #56FF21|Indifference towards Love; 'Oblivione d'amore' (Ripa)
 #56FF22|Unrequited Love
 #56FF23|Enmity; 'Inimicitia', 'Inimicitia mortale' (Ripa)
-#57|Morality
+57|La moralidad
 #57A|Good and Bad Behaviour, Moral Qualities
 #57A1|Good Behaviour
 #57A2|Sense of Duty, Devotion to Duty
@@ -825,7 +825,7 @@
 #57BB25|Calumny, Detraction; 'Biasimo vitioso', 'Calunnia', 'Detrattione', 'Maledicenza' (Ripa)
 #57BB251|Calumny of Apelles: bad judge with ass's ears on throne, with Deceit, Envy, Ignorance, Suspicion and Treachery, confronted with innocent accused; Remorse and Truth present
 #57BB3|Accusation, Incrimination
-#58|Creation
+58|Creación
 #58A|Creation and Destruction
 #58A1|Originating
 #58A2|Procreation
@@ -851,7 +851,7 @@
 #58B6|Instinct, Natural Disposition; 'Instinto naturale' (Ripa)
 #58BB|Vitality and Mortality (opposing concepts)
 #58BB1|Mortality, Extinction of Life
-#59|Aspects of Social Conduct
+59|Aspectos de Conducta Social
 #59A|Man ~ Community
 #59A1|Sociality
 #59A2|Refinement, Taste
@@ -900,9 +900,9 @@
 #59CC22|Partiality; 'Partialità' (Ripa)
 #59CC221|Corruptibility, Venality, Corruption
 #59CC3|Illegality
-6|历史
-#61|历史事件与历史情形; 歷史人物
-#61A|历史事件与历史情形
+6|Historia
+61|eventos y situaciones históricas; personajes históricos
+#61A|historical events and situations
 #61A(...)|historical events and situations (with DATE)
 #61B|historical persons (portraits and scenes from the life)
 #61B1|historical persons not known by name
@@ -961,9 +961,9 @@
 #61I(...)|names of historical events and situations (with NAME)
 #61K|(other) historical names
 #61K(...)|(other) historical names (with NAME)
-#62|visions of the future
-7|圣经
-#71|Old Testament
+62|visiones de futuro
+7|Biblia
+71|Antiguo Testamento
 #71A|Genesis from the creation to the expulsion from paradise, and later years of Adam and Eve
 #71A1|'In the beginning ...' the ordering of chaos (Genesis 1:1-2)
 #71A11|the earth formless and desolate
@@ -4015,8 +4015,6 @@
 #71O134|Amos sees a basket of fruit ~ visions of Amos
 #71O135|Amos sees the Lord standing on the altar, ordering its destruction
 #71O14|Amos is killed by Amaziah, a priest at Bethel
-#71O19|other scenes from Amos
-#71O19(...)|other scenes from Amos (with BOOK CHAPTER:VERSE)
 #71O2|the book of Hosea
 #71O21|the Lord speaks to Hosea 'Go, take yourself a wife of harlotry ...' (Hosea 1:2)
 #71O22|Hosea, Gomer and the three children (Hosea 1:3-11)
@@ -5026,10 +5024,10 @@
 #71Z52|King Ptolemy IV Philopator tries to have the Jews killed by drunken elephants; the Jews pray and are saved by two angels (3 Maccabees 5)
 #71Z6|fourth book of the Maccabees (4 Maccabees)
 #71Z6(...)|fourth book of the Maccabees (with BOOK CHAPTER:VERSE)
-#72|typological juxtapositions and compositions
+72|yuxtaposiciones y composiciones tipológicas
 #72A|typological juxtapositions
 #72B|comprehensive typological compositions
-#73|New Testament
+73|Nuevo Testamento
 #73A|(scenes from the life of) John the Baptist and Mary
 #73A(...)|series of scenes from the life of John the Baptist and Mary (with NAME)
 #73A(JOHN THE BAPTIST)|series of scenes from the life of John the Baptist
@@ -6882,7 +6880,7 @@
 #73G42|the beast out of the sea (Antichrist, 666) ~ Revelation of John
 #73G421|the leopard-like beast with seven heads comes out of the sea and is worshipped together with the dragon
 #73G422|the beast out of the sea makes war with the saints
-#73G423|
+#NOT 73G423
 #73G43|the beast out of the earth ~ Revelation of John
 #73G431|the two-horned beast out of the earth and the beast out of the sea are worshipped
 #73G432|people are marked on their hands or foreheads ~ beast out of the earth
@@ -6903,29 +6901,29 @@
 #73G4932|lament over the fall of Babylon
 #73G4933|a mighty angel casting a great (mill)stone into the sea
 #73G5|Revelation 19-22
-#73G51|praise of the judgement of God in heaven
-#73G52|the marriage of the Lamb
-#73G53|the beast and the false prophet conquered
-#73G531|the horseman whose name was Faithful and True (Christ) with his heavenly army
-#73G532|battle between the beast (Antichrist), the false prophet, and the horseman with his army
-#73G54|the thousand year realm ~ Revelation of John
-#73G541|an angel with a key and a chain binds the dragon (Satan) and casts him into the pit
-#73G542|first resurrection of the dead
-#73G55|judgement of Satan (Antichrist)
-#73G551|after a thousand years, Satan is released from prison, and with Gog and Magog besieges the Holy City
-#73G552|fire from heaven devours Satan, Gog and Magog, and Satan is cast into a lake of fire
-#73G56|the Judge on the great white throne
-#73G561|death and hell are cast into the lake of fire
-#73G57|the new heaven and the new earth ~ Revelation of John
-#73G571|an angel shows John the New (Heavenly) Jerusalem coming down from heaven; sometimes Christ is shown leading his lambs to the city
-#73G5711|the New Jerusalem
-#73G572|the New Jerusalem measured
+73G51|alabanza al juicio de Dios en el cielo
+73G52|las bodas del Cordero
+73G53|la bestia y el falso profeta son derrotados
+73G531|el caballero que se llamaba Fiel y Verdadero (Cristo ) con sus ejércitos del cielo
+73G532|batalla entre la bestia ( Anticristo) , el falso profeta , y el caballero con su ejército
+73G54|el reino de los mil años de Apocalipsis ~ John
+73G541|un ángel con una llave y una cadena se une al dragón ( Satanás) y lo arroja al abismo
+73G542|primera resurrección de entre los muertos
+73G55|juicio de Satanás ( el Anticristo)
+73G551|después de mil años , Satanás es liberado de la cárcel, y con Gog y Magog sitiar la ciudad santa
+73G552|fuego del cielo devorará Satanás , Gog y Magog, y Satanás será arrojado a un lago de fuego
+73G56|juez en el gran trono blanco
+73G561|La muerte y el Hades fueron lanzados al lago de fuego
+73G57|un cielo nuevo y una tierra nueva ~ Apocalipsis
+73G571|un ángel le muestra a Juan la Nueva Jerusalén ( celestial) que baja del cielo , a veces se representaba a Cristo que conduce a sus ovejas a la ciudad
+73G5711|la Nueva Jerusalén
+73G572|Nueva Jerusalén es medida
 #73G573|the tree of life with its twelve kinds of fruit ~ Revelation
 #73G6|John adoring the angel after the Revelation
 #73GG411|a pregnant woman, clothed with the sun and standing on the moon, appears; she is threatened by a red dragon with a long tail and seven heads - GG - Mary as the apocalyptic woman
-8|文学
-81|系列文学作品
-81(...)|系列文学作品 (with NAME of CYCLE)
+8|Literatura
+81|ciclos literarios
+#81(...)|literary cycle (with NAME of CYCLE)
 #81(ARTHURIAN LEGEND)|'Arthurian legend'
 #81(KALEVALA)|'Kalevala'
 #81(NIBELUNGENLIED)|'Nibelungenlied'
@@ -6947,7 +6945,7 @@
 #81H(...)|other cycles (with NAME of CYCLE, Character) : Use 81(...)
 #81H(KALEVALA)|'Kalevala' : Use 81(KALEVALA)
 #81H(KALEVALA, Lemminkäinen)|Lemminkäinen : Use 82A(...)
-82|文学作品中的人物
+82|personajes y objetos literarios
 #82A|names of literary characters
 #82A(...)|male literary characters (with NAME)
 #82A(AHASVERUS)|Ahasverus, the wandering Jew
@@ -7091,7 +7089,7 @@
 #82B(FUSBERTA)|Fusberta, the sword of Rinaldo; also known as Froberge and Floberge
 #82B(RABICANO)|Rabicano, the horse of Astolfo
 #82B(SACHS)|Sachs, the sword of Dietrich von Bern
-#83|specific works of literature
+83|obras específicas de literatura
 #83(...)|(scenes from) specific works of literature (with AUTHOR, Title)
 #83(ANON., Busant)|(scenes from) specific works of literature: Anon., Busant
 #83(ANON., Romaunt of the Rose)|(scenes from) specific works of literature: Anon., Romaunt of the Rose : Use 83 (LORRIS ET MEUN, Roman de la Rose)
@@ -7134,7 +7132,7 @@
 #83(TASSO, Gerusalemme Liberata)|(scenes from) specific works of literature: Tasso, Gerusalemme Liberata
 #83(TEBALDEO, Second Eclogue, Damon and Thyrsis)|(scenes from) specific works of literature: Tebaldeo, Second Eclogue, Damon and Thyrsis
 #83(TENNYSON, Lady of Shalott)|(scenes from) specific works of literature: Tennyson, Lady of Shalott
-#84|tales and fairy tales
+84|cuentos y cuentos de hadas
 #84(...)|tales and fairy tales (with TITLE)
 #84(BLUEBEARD)|tales and fairy tales: Bluebeard
 #84(CINDERELLA)|tales and fairy tales: Cinderella
@@ -7149,7 +7147,7 @@
 #84(THE BEAUTY AND THE BEAST)|tales and fairy tales: The Beauty and the Beast
 #84(UNDINE)|tales and fairy tales: Undine
 #84(WOMEN OF WEINSBERG)|tales and fairy tales: Women of Weinsberg
-#85|fables
+85|fábulas
 #85(...)|fables (with TITLE)
 #85(COCK AND PEARL)|fable of the Cock and the Pearl
 #85(DOG ON BRIDGE)|fable of the Dog on the Bridge
@@ -7165,7 +7163,7 @@
 #85B(...)|fables of Lafontaine (with TITLE) : Use 85(...)
 #85C|other fables : Use 85(...)
 #85C(...)|other fables (with TITLE) : Use 85(...)
-86|谚语与格言
+86|proverbios, refranes, etc.
 #86(...)|proverbs, sayings, etc. (with TEXT)
 #86(BEWARE THE GEESE WHEN THE FOX PREACHES)|proverbs, sayings, etc.: Beware the geese when the fox preaches
 #86(LIGHTLY COME, LIGHTLY GO)|proverbs, sayings, etc.: Lightly come, lightly go

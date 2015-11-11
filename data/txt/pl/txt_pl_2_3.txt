@@ -1,23 +1,23 @@
-2|自然
-20|“自然”（寓言人物或場景;或作為戴安娜以弗所，許多乳房）; “自然”（馬國賢）
-21|四行
-#210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
-21A|空氣（四要素之一）
+2|Natura
+20|'Natura' (figura lub scena alegoryczna; lub jak Diana z Efezu, z wieloma piersiami); 'Natura' (Ripa)
+21|cztery żywioły oraz eter, żywioł piąty
+210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
+21A|powietrze (jeden z czterech żywiołów)
 #21A0|'Aria', 'Carro dell'aria' (Ripa)
-21A1|空氣，空氣精靈精神
-21B|大地（四要素之一）
+#21A1|spirit of the air, sylph
+21B|ziemia (jeden z czterech żywiołów)
 #21B0|'Terra', 'Carro della terra' (Ripa)
 #21B1|spirit of the earth, gnome, troll
-21C|火（四要素之一）
+21C|ogień (jeden z czterech żywiołów)
 #21C0|'Fuoco', 'Carro del fuoco' (Ripa)
-21D|水（四大要素之一）
+21D|woda (jeden z czterech żywiołów)
 #21D0|'Acqua', 'Carro dell'acqua' (Ripa)
 #21D1|spirit of water, nix, undine
-21D2|水冰〜狀態
-21D3|蒸汽
-#21E|ether as 'quinta essentia'
-22|自然現象
-22A|材料
+#21D2|ice ~ state of water
+21D3|parowy
+21E|eter jako 'quinta essentia'
+22|zjawiska naturalne
+22A|materia
 #22A0|Matter (allegorical representation)
 #22A1|chemical substances
 #22A1(...)|chemical substances (with NAME)
@@ -30,7 +30,7 @@
 #22A3121|condensation
 #22A31211|vapour trail
 #22A313|gas (state of matter)
-22B|電學和磁學
+22B|elektryczność i magnetyzm
 #22B1|electrical phenomena
 #22B11|spark ~ electricity
 #22B2|magnetic phenomena
@@ -38,7 +38,7 @@
 #22B22|magnetic force
 #22B221|attractive force, attraction ~ magnetic force
 #22B222|repulsive force, repulsion ~ magnetic force
-22C|光
+22C|światło
 #22C1|natural light
 #22C11|rays of natural light
 #22C2|artificial light
@@ -56,7 +56,7 @@
 #22C3121|oval or almond-shaped mandorla
 #22C3122|circular mandorla
 #22C32|light shining out of the heavens
-22C4|顏色, 顏料, 和 油漆
+#22C4|colours, pigments, and paints
 #22C4(...)|colours, pigments, and paints (with NAME)
 #22C4(BLACK)|colours, pigments, and paints: black
 #22C4(BLUE)|colours, pigments, and paints: blue
@@ -73,7 +73,7 @@
 #22C9|darkness
 #22C90|'Buio' (Ripa)
 #22C91|half-light
-22D|聲音
+22D|dźwięk
 #22D1|loud sound, noise
 #22D11|harmonious sound, harmony, consonance
 #22D110|'Armonia' (Ripa)
@@ -82,7 +82,7 @@
 #22D3|sound-barrier
 #22D4|echo
 #22D9|silence
-22E|溫度
+22E|temperatura
 #22E1|heat
 #22E11|glowing (heat)
 #22E12|burning
@@ -97,8 +97,8 @@
 #22E34|other temperature scales
 #22E34(...)|other temperature scales (with NAME)
 #22E4|thermometer
-23|时间
-#23A|allegory of Time and Eternity
+23|czas
+23A|alegoria Czasu i Wieczności
 #23A1|Father Time, man with wings and scythe
 #23A11|other allegories of Time, e.g. 'Tempo' (Ripa)
 #23A2|Eternity, 'Aeternitas'; 'Eternità','Eternità o Perpetuità' (Ripa)
@@ -115,7 +115,7 @@
 #23A44|fugacity of Time
 #23A441|Time causing the ruin of buildings, etc.
 #23A45|Time abducting Beauty
-#23B|period of more than one year
+23B|okres dłuższy niż jeden rok
 #23B1|period of more than 1000 years
 #23B2|millennium
 #23B3|100 years, century
@@ -127,11 +127,11 @@
 #23B8|5 years, lustrum
 #23B9|other periods
 #23B9(...)|other periods (with NUMBER of years)
-#23C|year, solar year
+23C|rok, rok słoneczny
 #23C1|'Annus', personification of the year; 'Anno', 'Carro dell'anno' (Ripa)
 #23C2|lunar year
 #23C3|sidereal year
-#23D|seasons of the year (esp. personifications); 'Stagione', 'Le quattro stagione dell'anno' (Ripa)
+23D|pory roku (zwł. personifikacje); 'Stagione', 'Le quattro stagione dell'anno' (Ripa)
 #23D1|not used
 #23D2|year divided into two seasons
 #23D21|winter half-year
@@ -167,7 +167,7 @@
 #23D624|June and July (year divided into six seasons)
 #23D625|August and September (year divided into six seasons)
 #23D626|October and November (year divided into six seasons)
-#23E|seasons of the year represented by scenes showing human activities, usually in a landscape
+23E|pory roku przedstawione poprzez sceny ukazujące ludzkie zajęcia, zwykle w pejzażu
 #23E2|year divided into two seasons ~ human activities
 #23E21|winter half-year ~ human activities (year divided into two seasons)
 #23E22|summer half-year ~ human activities (year divided into two seasons)
@@ -202,7 +202,7 @@
 #23E624|June and July ~ human activities (year divided into six seasons)
 #23E625|August and September ~ human activities (year divided into six seasons)
 #23E626|October and November ~ human activities (year divided into six seasons)
-#23F|seasons of the year represented by landscapes
+23F|pory roku przedstawione poprzez krajobrazy
 #23F2|year divided into two seasons ~ landscapes
 #23F21|winter half-year ~ landscapes (year divided into two seasons)
 #23F22|summer half-year ~ landscapes (year divided into two seasons)
@@ -237,7 +237,7 @@
 #23F624|June and July ~ landscapes (year divided into six seasons)
 #23F625|August and September ~ landscapes (year divided into six seasons)
 #23F626|October and November ~ landscapes (year divided into six seasons)
-#23G|seasons of the year represented by still lifes of flowers and/or fruits
+23G|pory roku przedstawione poprzez martwe natury z kwiatów i/lub owoców
 #23G2|year divided into two seasons ~ still lifes of flowers and/or fruits
 #23G21|winter half-year ~ still lifes of flowers and/or fruits (year divided into two seasons)
 #23G22|summer half-year ~ still lifes of flowers and/or fruits (year divided into two seasons)
@@ -272,7 +272,7 @@
 #23G624|June and July ~ still lifes of flowers and/or fruits (year divided into six seasons)
 #23G625|August and September ~ still lifes of flowers and/or fruits (year divided into six seasons)
 #23G626|October and November ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23H|seasons of the year represented by concepts other than personifications, human activities, landscapes, or still lifes of flowers and/or fruits (e.g. biblical scenes)
+23H|pory roku przedstawione poprzez pojęcia inne niż personifikacje, zajęcia ludzkie, krajobrazy albo martwe natury z kwiatów i/lub owoców (np. sceny biblijne)
 #23H2|year divided into two seasons ~ other concepts (e.g. biblical scenes)
 #23H21|winter half-year ~ other concepts (e.g. biblical scenes) (year divided into two seasons)
 #23H22|summer half-year ~ other concepts (e.g. biblical scenes) (year divided into two seasons)
@@ -307,7 +307,7 @@
 #23H624|June and July ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
 #23H625|August and September ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
 #23H626|October and November ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23I|the twelve months (especially personifications); 'Mese in generale' (Ripa)
+23I|dwanaście miesięcy (zwłaszcza ich personifikacje); 'Mese in generale' (Ripa)
 #23I1|months of the first quarter of the year
 #23I11|January; 'Gennaro' (Ripa)
 #23I12|February; 'Febraro' (Ripa)
@@ -324,7 +324,7 @@
 #23I41|October; 'Ottobre' (Ripa)
 #23I42|November; 'Novembre' (Ripa)
 #23I43|December; 'Decembre' (Ripa)
-23K|劳作十二月
+23K|dwanaście miesięcy przedstawione poprzez sceny ukazujące ludzkie zajęcia, zwykle w pejzażu; tak zwane &quot;prace miesiąca&quot;
 #23K1|the months of the first quarter of the year ~ human activities (the 'labours' of January, February and March)
 #23K11|January and its 'labours'
 #23K12|February and its 'labours'
@@ -341,7 +341,7 @@
 #23K41|October and its 'labours'
 #23K42|November and its 'labours'
 #23K43|December and its 'labours'
-#23L|the twelve months represented by landscapes
+23L|dwanaście miesięcy przedstawione poprzez krajobrazy
 #23L1|months of the first quarter of the year represented by landscapes
 #23L11|landscape symbolizing January
 #23L12|landscape symbolizing February
@@ -358,7 +358,7 @@
 #23L41|landscape symbolizing October
 #23L42|landscape symbolizing November
 #23L43|landscape symbolizing December
-#23M|the twelve months represented by still lifes of flowers and/or fruits
+23M|dwanaście miesięcy przedstawionych poprzez martwe natury z kwiatów i/lub owoców
 #23M1|months of the first quarter of the year represented by still life of flowers and/or fruits
 #23M11|January represented by still life of flowers and/or fruits
 #23M12|February represented by still life of flowers and/or fruits
@@ -375,7 +375,7 @@
 #23M41|October represented by still life of flowers and/or fruits
 #23M42|November represented by still life of flowers and/or fruits
 #23M43|December represented by still life of flowers and/or fruits
-#23N|the twelve months of the year represented by concepts other than personifications, human activities, landscapes, or still lifes of flowers and/or fruits
+23N|dwanaście miesięcy roku przedstawionych poprzez pojęcia inne niż personifikacje, zajęcia ludzkie, krajobrazy albo martwe natury z kwiatów i/lub owoców
 #23N1|months of the first quarter of the year ~ other concepts
 #23N11|January ~ other concepts
 #23N12|February ~ other concepts
@@ -392,7 +392,7 @@
 #23N41|October ~ other concepts
 #23N42|November ~ other concepts
 #23N43|December ~ other concepts
-#23O|zodiac; the twelve zodiacal signs together
+23O|zodiak; wszystkie dwanaście znaków zodiaku
 #23O1|zodiacal signs of the winter season
 #23O11|Capricorn (zodiacal sign of December)
 #23O12|Aquarius (zodiacal sign of January)
@@ -410,8 +410,8 @@
 #23O42|Scorpio (zodiacal sign of October)
 #23O43|Sagittarius (zodiacal sign of November)
 #23O5|zodiacal man; zodiac combined with parts of the human body
-#23P|weeks
-#23Q|days of the week
+23P|tygodnie
+23Q|dni tygodnia
 #23Q1|Sunday
 #23Q2|Monday
 #23Q3|Tuesday
@@ -421,7 +421,7 @@
 #23Q7|Saturday
 #23Q8|tomorrow
 #23Q81|the day after tomorrow
-23R|晝夜
+23R|dzień i noc
 #23R1|day of 24 hours, natural day
 #23R10|'Giorno naturale', 'Carro del giorno naturale' (Ripa)
 #23R11|morning
@@ -448,8 +448,8 @@
 #23R310|'Hore del giorno' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
 #23R32|the last 12 hours of the day
 #23R320|'Hore della notte' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
-#23S|the empires of the world
-#23S1|the four world empires (Babylon, Persia, Greece, Rome)
+23S|mocarstwa świata
+23S1|cztery mocarstwa świata (Babilon, Persja, Grecja, Rzym)
 #23S11|Babylon (one of the four world empires)
 #23S12|Persia (one of the four world empires)
 #23S13|Greece (one of the four world empires
@@ -458,7 +458,7 @@
 #23S21|the world empires symbolized by a large statue of various materials (Daniel ch. 2)
 #23S22|the world empires symbolized by four beasts (Daniel ch. 7)
 #23S3|the empires of the world divided otherwise
-#23T|historical epochs
+23T|epoki historyczne
 #23T1|history of the world divided into seven epochs from Adam to the end of the world
 #23T11|epoch from Adam to Noah ~ history of the world
 #23T12|epoch from Noah to Abraham or Moses ~ history of the world
@@ -476,7 +476,7 @@
 #23T26|Renaissance (historical epoch, through 16th century)
 #23T27|modern division of historical epochs ~ centuries
 #23T27(...)|modern division of historical epochs ~ centuries (with Roman NUMBER of century)
-#23U|chronology
+23U|chronologia
 #23U1|calendar, almanac
 #23U11|perpetual calendar
 #23U2|(instruments for) measurement of time
@@ -487,9 +487,9 @@
 #23U24|clock
 #23U241|watchmaker, clockmaker
 #23U25|watch
-24|天
-#240|allegorical representation of the heavens (celestial bodies)
-#24A|sun as celestial body
+24|niebo (ciała niebieskie)
+240|alegoryczne przedstawienie nieba (ciała niebieskie)
+24A|słońce jako ciało niebieskie
 #24A1|sunrise
 #24A11|dawn
 #24A110|'Crepuscolo della matina' (Ripa)
@@ -514,7 +514,7 @@
 #24A740|'Equinottio della primavera' (Ripa)
 #24A8|sunlight
 #24A81|sunbeams
-#24B|moon as celestial body
+24B|księżyc jako ciało niebieskie
 #24B1|waxing moon, i.e. facing this way: )
 #24B11|waxing moon represented as face
 #24B2|full moon
@@ -528,7 +528,7 @@
 #24B62|contemplation of the moon, 'schwärmen'
 #24B7|moonrise
 #24B8|setting of the moon
-24C|天体
+24C|planety (z wyjątkiem Ziemi)
 #24C1|planets; planetary system, solar system
 #24C11|Ceres (planet)
 #24C12|Jupiter (planet)
@@ -569,7 +569,7 @@
 #24C39|other celestial bodies representing metals
 #24C39(...)|other celestial bodies representing metals (with NAME)
 #24C39(URANUS)|Uranus representing platinum
-24D|明星
+24D|gwiazdy
 #24D0|stars, represented symbolically or allegorically
 #24D1|stars and constellations
 #24D1(...)|stars and constellations (with NAME)
@@ -577,24 +577,24 @@
 #24D1(POLARIS)|stars and constellations: Polaris, Pole star
 #24D1(SIRIUS)|stars and constellations: Sirius
 #24D11|catasterism, honouring a person by including him among the stars
-24D2|星系
-24D21|銀河系
-24D211|銀河系的起源（朱諾乳大力神）
+#24D2|galaxies
+#24D21|Milky Way
+#24D211|genesis of the Milky Way (Juno suckling Hercules)
 #24D4|other galaxies or stellar systems
 #24D4(...)|other galaxies or stellar systems (with NAME)
-24E|天文現象
+24E|zjawiska astronomiczne
 #24E1|comet
 #24E10|'Cometa, ninfa dell'aria' (Ripa)
 #24E2|meteor
 #24E3|meteorites
-24F|蒼穹，天空
+24F|firmament, niebo
 #24F1|contemplating the firmament
 #24F2|stars in the firmament
-#24G|spheres ~ heavens
+24G|sfery ~ niebo
 #24G1|empyrean
-25|地
-#250|'Mondo', 'Machina del mondo' (Ripa)
-25A|地图、地图集
+25|ziemia, świat jako ciało niebieskie
+250|'Mondo', 'Machina del mondo' (Ripa)
+25A|mapy, atlasy
 #25A1|map of the world
 #25A11|map in square or circular form according to old ideas about the shape of the world
 #25A111|centre of the world, 'omphalos' (on map or atlas)
@@ -643,7 +643,7 @@
 #25A911|instruments used in geodesy, surveying instruments
 #25A911(...)|instruments used in geodesy, surveying instruments (with NAME)
 #25A9111|Jacob's staff (surveying instrument)
-#25B|continents represented allegorically
+25B|alegoryczne przedstawienia kontynentów
 #25B1|Europe represented allegorically; 'Europa' (Ripa)
 #25B2|Asia represented allegorically; 'Asia' (Ripa)
 #25B3|Africa represented allegorically; 'Africa' (Ripa)
@@ -652,7 +652,7 @@
 #25B6|the polar regions, frigid zones represented allegorically
 #25B61|allegorical representation of the North Pole
 #25B62|allegorical representation of the South Pole
-#25C|geological phenomena
+25C|zjawiska geologiczne
 #25C1|volcanism
 #25C11|eruption (of volcano)
 #25C111|stream of lava
@@ -671,7 +671,7 @@
 #25C2|terrestrial magnetism
 #25C21|compass
 #25C211|compass card
-#25D|rock types; minerals and metals; soil types
+25D|rodzaje skał; minerały i metale; rodzaje ziemi
 #25D1|rock types
 #25D11|precious and semiprecious stones
 #25D11(...)|precious and semiprecious stones (with NAME)
@@ -755,18 +755,18 @@
 #25D4511|gasworks
 #25D4512|gasholder, gas tank
 #25D5|movement in geological layers
-#25E|geological-chronological division; historical geology; geological era
+25E|chronologia geologiczna; geologia historyczna; okres geologiczny
 #25E(...)|geological-chronological division; historical geology; geological era (with NAME of period)
 #25E(BIG BANG)|geological-chronological division; geological era: Big Bang
 #25E(CENOZOIC)|geological-chronological division; geological era: Cenozoic
 #25E(PALEOZOIC)|geological-chronological division; geological era: Paleozoic
 #25E(TERTIARY)|geological-chronological division; geological era: Tertiary
-25F|动物
-#25F1|groups of animals
-#25F2|mammals
+25F|zwierzęta
+25F1|grupy zwierząt
+25F2|ssaki
 #25F21|groups of mammals
 #25F22|monkeys, apes
-#25F22(...)|monkeys, apes (with NAME)
+25F22(...)|małpy (z NAZWĄ)
 #25F22(BABOON)|monkeys, apes: baboon
 #25F23|beasts of prey, predatory animals
 #25F23(...)|beasts of prey, predatory animals (with NAME)
@@ -840,7 +840,7 @@
 #25F29(MOLE)|other mammals: mole
 #25F29(PORCUPINE)|other mammals: porcupine
 #25F29(SLOTH)|other mammals: sloth
-#25F3|birds
+25F3|ptaki
 #25F31|groups of birds
 #25F32|song-birds
 #25F32(...)|song-birds (with NAME)
@@ -922,7 +922,7 @@
 #25F39(TURTLE DOVE)|other birds: turtle dove
 #25F39(WOODPECKER)|other birds: woodpecker
 #25F39(WRYNECK)|other birds: wryneck
-#25F4|reptiles
+25F4|gady
 #25F41|lizards
 #25F41(...)|lizards (with NAME)
 #25F41(CHAMELEON)|lizards: chameleon
@@ -935,14 +935,14 @@
 #25F43(ALLIGATOR)|crocodiles: alligator
 #25F43(CROCODILE)|crocodiles: crocodile
 #25F44|tortoises, turtles
-#25F5|amphibians
+25F5|płazy
 #25F51|tailless amphibians
 #25F51(...)|tailless amphibians (with NAME)
 #25F51(FROG)|tailless amphibians: frog
 #25F51(TOAD)|tailless amphibians: toad
 #25F52|amphibians with tail
 #25F52(...)|amphibians with tail (with NAME)
-#25F6|fishes
+25F6|ryby
 #25F6(...)|fishes (with NAME)
 #25F61|cartilaginous fishes
 #25F61(...)|cartilaginous fishes (with NAME)
@@ -986,7 +986,7 @@
 #25F64(...)|deep-sea fishes (with NAME)
 #25F65|other fishes
 #25F65(...)|other fishes (with NAME)
-#25F7|lower animals
+25F7|zwierzęta niższe
 #25F71|arthropods
 #25F711|insects
 #25F711(...)|insects (with NAME)
@@ -1027,7 +1027,7 @@
 #25F72|molluscs
 #25F72(...)|molluscs (with NAME)
 #25F72(CUTTLE-FISH)|molluscs: cuttle-fish
-25F72(MUREX)|軟體動物：骨螺
+#25F72(MUREX)|molluscs: murex
 #25F72(MUSSEL)|molluscs: mussel
 #25F72(NAUTILUS)|molluscs: nautilus
 #25F72(OCTOPUS)|molluscs: octopus
@@ -1047,11 +1047,11 @@
 #25F75(JELLY-FISH)|coelenterata: jelly-fish
 #25F75(SPONGE)|coelenterata: sponge
 #25F76|unicellular animals, bacteria, bacilli
-#25F8|extinct animals
+25F8|zwierzęta wymarłe
 #25F8(...)|extinct animals (with NAME)
 #25F81|prehistoric animals
 #25F82|fossil animals
-#25F9|mis-shapen animals; monsters
+25F9|zwierzęta przekształcone; potwory
 #25F91|monsters larger than normal
 #25F92|monsters smaller than normal
 #25F93|multiple birth ~ mis-shapen animals, monsters
@@ -1063,12 +1063,12 @@
 #25F97|monsters with parts, limbs, organs, etc. of abnormal shape
 #25F971|monsters with parts, limbs, organs, etc. larger than normal
 #25F972|monsters with parts, limbs, organs, etc. smaller than normal
-25FF|想象的动物
+25FF|zwierzęta fantastyczne (czasem nieprawidłowo zwane &quot;groteski&quot;); 'Mostri' (Ripa)
 #25FF1|groups of fabulous animals
 #25FF2|fabulous animals ~ mammals
 #25FF21|fabulous animals ~ domestic animals
 #25FF22|fabulous animals ~ monkeys
-#25FF22(...)|monkeys, apes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF22(...)|małpy (z NAZWĄ) – FF - zwierzęta fantastyczne (czasem nieprawidłowo zwane &quot;groteski&quot;); 'Mostri' (Ripa)
 #25FF22(BABOON)|monkeys, apes: baboon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF23|fabulous animals ~ predatory animals
 #25FF23(...)|fabulous animals ~ predatory animals (with NAME)
@@ -1262,7 +1262,7 @@
 #25FF41(...)|lizards (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF41(CHAMELEON)|lizards: chameleon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF41(LIZARD)|lizards: lizard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF411|dragon
+25FF411|smok
 #25FF412|salamander (fabulous animal); salamander as spirit of fire
 #25FF42|fabulous animals ~ snakes (aspic, dragon, hydrus, hydra, amphisbaena, horned snake, cerastes)
 #25FF42(...)|snakes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1401,7 +1401,7 @@
 #25FF97|monsters with parts, limbs, organs, etc. of abnormal shape - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF971|monsters with parts, limbs, organs, etc. larger than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF972|monsters with parts, limbs, organs, etc. smaller than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25G|植物
+25G|rośliny; wegetacja
 #25G1|plants (in general)
 #25G11|groups of trees
 #25G12|groups of shrubs
@@ -1797,7 +1797,7 @@
 #25GG61|prehistoric plants - GG - fantastic plants, fabulous vegetation
 #25GG62|fossil plants - GG - fantastic plants, fabulous vegetation
 #25GG7|language of flowers - GG - fantastic plants, fabulous vegetation
-25H|风景
+25H|krajobrazy
 #25H1|landscapes in the temperate zone
 #25H11|mountains
 #25H111|mountain-range, snow peaks
@@ -2071,7 +2071,7 @@
 #25HH2324|straits, narrows - HH - ideal landscapes
 #25HH2324(...)|straits, narrows (with NAME) - HH - ideal landscapes
 #25HH23241|pillars of Hercules - HH - ideal landscapes
-25I|市景，带有建筑物的风景
+25I|widoki miast i krajobrazy z konstrukcjami wykonanymi ludzką ręką
 #25I1|city-view in general; 'veduta'
 #25I10|ideal city : Use 25 II 1
 #25I11|city founding
@@ -2185,7 +2185,7 @@
 #25II71|landscape with menhir - II - ideal landscapes
 #25II8|landscape with other man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc. - II - ideal landscapes
 #25II9|landscape with ruins - II - ideal landscapes
-25K|在非溫帶景觀，充滿異國情調的風景#'exotic landscapes' obviously seen from a Western point of view...
+25K|krajobrazy w strefach klimatu innego niż umiarkowany; krajobrazy egzotyczne
 #25K1|landscapes in tropical and sub-tropical regions
 #25K11|mountains (in tropical and sub-tropical regions)
 #25K12|ravine (in tropical and sub-tropical regions)
@@ -2243,7 +2243,7 @@
 #25KK25|tundra, country with vegetation - KK - ideal landscapes
 #25KK26|icefield - KK - ideal landscapes
 #25KK3|exoticism - KK - idealized exoticism
-25L|城市寓言
+25L|alegoryczne lub symboliczne przedstawienia miast
 #25L(...)|cities represented allegorically or symbolically (with NAME)
 #25L(...)0|cities represented allegorically or symbolically (with NAME) - personification of a city, town-patron(ess)
 #25L(...)1|cities represented allegorically or symbolically (with NAME) - city represented symbolically
@@ -2255,7 +2255,7 @@
 #25L0|personification of a city, town-patron(ess)
 #25L1|city represented symbolically
 #25L11|city-crown, mural crown
-25M|世界七大奇蹟
+25M|Siedem Cudów świata
 #25M1|Egyptian pyramids (Wonder of the World)
 #25M2|hanging gardens of Semiramis at Babylon (Wonder of the World)
 #25M3|temple of Artemis at Ephesus (Wonder of the World)
@@ -2265,12 +2265,12 @@
 #25M7|Pharos of Alexandria (Wonder of the World)
 #25M8|other monuments which are sometimes included in the Wonders of the World
 #25M8(...)|other monuments which are sometimes included in the Wonders of the World (with NAME)
-25N|虛構的國家
+25N|kraje fantastyczne
 #25N(...)|fictitious countries (with NAME)
 #25N(ATLANTIS)|fictitious countries: Atlantis
 #25N1|Land of Cockaigne
-26|气象
-26A|雲
+26|zjawiska meteorologiczne
+26A|chmury
 #26A1|high clouds
 #26A11|cirrus (high clouds)
 #26A12|cirrostratus
@@ -2286,7 +2286,7 @@
 #26A42|cumulonimbus, i.e. thunder clouds
 #26A5|uniformly spread high-hanging haze
 #26A51|stratus
-26B|雨
+26B|deszcz
 #26B0|'Pioggia, ninfa dell'aria' (Ripa)
 #26B1|mist, fog
 #26B2|rainbow
@@ -2295,7 +2295,6 @@
 #26B30|'Rugiada, ninfa dell'aria' (Ripa)
 #26B4|downpour, rain shower
 #26B9|drought
-26C|風
 #26C0|'Venti' (Ripa)
 #26C1|winds according to several divisions
 #26C11|the four main directions of the wind
@@ -2350,7 +2349,7 @@
 #26C5|barometer
 #26C6|wind as a human face, blowing with rounded cheeks
 #26C9|absence of wind, calm
-26D|霜凍，冰凍天氣
+26D|mróz, mroźna pogoda
 #26D1|snow
 #26D11|avalanche
 #26D111|protection against avalanches
@@ -2361,7 +2360,7 @@
 #26D42|icicle
 #26D5|severe winters
 #26D9|thaw
-26E|雷暴
+26E|burza
 #26E1|thunder
 #26E2|lightning, flash of lightning, thunderbolt
 #26E21|lightning conductor
@@ -2369,7 +2368,7 @@
 #26E3|other electrical weather phenomena
 #26E31|St. Elmo's fire
 #26E32|northern lights, 'aurora borealis'
-26F|好的和壞的天氣
+26F|dobra i zła pogoda
 #26F1|good weather
 #26F10|'Salubrità o purità dell'aria' (Ripa)
 #26F11|heat-wave
@@ -2378,18 +2377,18 @@
 #26F21|cold-wave
 #26F22|'Pruina', winter weather
 #26F3|consequences of weather, e.g. After the drought, Before the storm, After the cyclone
-26G|海市蜃樓，“海市蜃樓”
-#26H|still other meteorological phenomena
-29|超現實的現象, 超現實主義的影像
-#29A|animals acting as human beings
+26G|miraż, fatamorgana
+26H|inne zjawiska meteorologiczne
+29|surrealia; przedstawienia surrealistyczne
+29A|zwierzęta działające jak ludzie
 #29A1|'mundus inversus', the reversed world, the topsy-turvy world, 'le monde bestourné'
 #29A2|plants or trees acting as, or being compared with human beings
-#29B|plants behaving as human beings or animals
-#29C|objects coming to life, e.g. puppets
-#29D|natural forms in stones, wood, clouds, etc. interpreted as representations
-3|人，一般概念的人
-31|生物学意义上的人
-31A|人体
+29B|rośliny zachowujące się jak istoty ludzkie lub zwierzęta
+29C|ożywione przedmioty, np. marionetki
+29D|naturalne kształty kamieni, drewna, chmur itp. interpretowane jako przedstawienia
+3|Istota ludzka, Człowiek w ogólności
+31|człowiek w ogólnym sensie biologicznym
+31A|(naga) postać ludzka; 'Corpo humano' (Ripa)
 #31A1|canon, proportions
 #31A11|standing figure (canon, proportions)
 #31A12|figure in circle or square, legs apart and arms raised or stretched sidewards
@@ -2398,8 +2397,8 @@
 #31A140|allegorical representation of human figure of ideal proportions
 #31A141|nude with covered genitals
 #31A19|'homo Platonis', 'animal bipes implume'
-31A2|解剖
-31A21|骨骼
+#31A2|anatomy (non-medical)
+#31A21|(human) skeleton
 #31A211|(human) skull
 #31A2111|jaw (human)
 #31A2112|teeth
@@ -2516,7 +2515,7 @@
 #31A2263|muscles
 #31A2264|tendons, sinews
 #31A2265|nerves
-31A23|姿势与手势
+#31A23|postures of the human figure
 #31A231|standing figure
 #31A2311|'contrapposto', 'Standbein und Spielbein'
 #31A2312|'figura serpentinata'
@@ -2564,7 +2563,7 @@
 #31A246|head slanting to the right
 #31A247|looking over the shoulder
 #31A249|other postures of the head, not meant or mentioned above
-31A25|姿勢和胳膊和手手勢
+#31A25|postures and gestures of arms and hands
 #31A251|postures and gestures of arms and hands in general
 #31A2511|arm raised upward
 #31A25111|arms raised, with fingers closed
@@ -2779,7 +2778,7 @@
 #31A2811|man without shadow
 #31A282|man following his shadow
 #31A283|man fighting his own shadow
-31A3|感觉
+#31A3|the (five) senses
 #31A30|'Sensi', 'Sensi, come si possono rappresentare in una figura sola', 'Senso', 'Sentimenti del corpo' (Ripa)
 #31A31|sight, looking (one of the five senses)
 #31A310|'Viso' (Ripa)
@@ -2814,7 +2813,7 @@
 #31A350|'Tatto' (Ripa)
 #31A351|agreeable feeling
 #31A352|disagreeable feeling
-31A4|残疾，畸形，等
+#31A4|disabilities, deformations and monstrosities; diseases
 #31A41|disabilities, deformations
 #31A411|disabilities affecting the eyes
 #31A4111|blind, blindness
@@ -2852,7 +2851,7 @@
 #31A43|multiple birth (legendary)
 #31A431|very large number of births
 #31A431(...)|very large number of births (with NUMBER)
-31A44|怪物
+#31A44|anthropomorphic beings (legendary or not) with heads, limbs or organs of an abnormal number, in abnormal places or of an abnormal shape)
 #31A441|anthropomorphic beings with parts missing
 #31A4411|'Acephalia', 'Blemyae', i.e. beings without head
 #31A4412|'Scopodes', 'Sciapodes', i.e. beings with one leg
@@ -2868,7 +2867,7 @@
 #31A4441|excessive hairiness
 #31A44411|wild man, wodewose, woodehouse
 #31A44412|person with big beard
-31A45|半人半兽的怪物
+#31A45|monsters of mixed human and animal shape; 'Mostri' (Ripa)
 #31A451|monsters ~ animals in general (of undetermined kind)
 #31A4511|monsters with animal head
 #31A45111|monsters with three animal heads
@@ -3291,7 +3290,6 @@
 #31AA2537|hand(s) towards the ear(s) - AA - both arms or hands
 #31AA25371|cupping one's ear - AA - both arms or hands
 #31AA25372|scratching one's ear - AA - both arms or hands
-#31AA25373|covering one's ear - AA - both arms or hands
 #31AA254|postures and gestures of arm(s) and hand(s) in relation to another person - AA - both arms or hands
 #31AA2541|gripping someone by the arm - AA - both arms or hands
 #31AA25411|walking arm in arm - AA - both arms or hands
@@ -3707,9 +3705,9 @@
 #31AA66|sweating, perspiration - AA - female human figure
 #31AA8|the body regarded as a machine - AA - female human figure
 #31AA9|ways pretending to cure or improve parts of the body - AA - female human figure
-31B|心智，精神
+31B|umysł, duch
 #31B0|symbolic representations, allegories and emblems ~ mind, spirit
-31B1|睡眠
+#31B1|sleeping; unconsciousness
 #31B10|'Sonno' (Ripa)
 #31B11|sleeping in bed
 #31B12|sleeping in chair
@@ -3814,8 +3812,8 @@
 #31BB18|unconsciousness - BB - out of doors
 #31BB181|fainting, swooning - BB - out of doors
 #31BB19|resting - BB - out of doors
-31C|精神（或靈魂）或身體
-31D|人生与年龄
+31C|duch (lub dusza) kontra ciało
+31D|życie ludzkie i jego okresy (młodość, dorosłość, starość itp.)
 #31D1|the ages of man
 #31D11|the first years ~ the ages of man
 #31D110|Infancy (alleg.)
@@ -3865,8 +3863,8 @@
 #31D39|90-100 years
 #31D4|birthday
 #31D4(...)|birthday (with NUMBER of years)
-31D41|... years old
-31D41(...)|... years old (with NUMBER of years)
+#31D41|... years old
+#31D41(...)|... years old (with NUMBER of years)
 #31D5|young versus old age; young and old
 #31D51|children behaving like adults
 #31D52|adults behaving like children
@@ -3898,7 +3896,7 @@
 #31DD37|70-80 years - DD - decades above 100 years
 #31DD38|80-90 years - DD - decades above 100 years
 #31DD39|90-100 years - DD - decades above 100 years
-31E|死亡
+31E|śmierć istoty ludzkiej
 #31E1|dying
 #31E11|settlement of affairs ~ dying
 #31E111|making a testament
@@ -3938,7 +3936,7 @@
 #31E225|dying from the effects of a fall
 #31E228|death caused by effects of natural surroundings, especially natural catastrophes
 #31E229|death caused by undesired effects of human activities, in traffic, at work, etc.
-31E23|暴死, 橫死
+#31E23|violent death, being killed; being mishandled and maltreated; seeking death
 #31E231|violent death ~ elements
 #31E2311|violent death ~ water
 #31E23111|drowning (violent death ~ water)
@@ -4159,7 +4157,7 @@
 #31EE238|seeking death, suicide - EE - death not certain; wounded person
 #31EE2381|self-sacrifice, death in the service of a higher purpose - EE - death not certain; wounded person
 #31EE2382|suicide out of despair - EE - death not certain; wounded person
-31F|死神（符号的与拟人化符号的）
+31F|symbole i personifikacje Śmierci
 #31F1|symbols of Death
 #31F11|death's head, skull (symbol of Death)
 #31F111|skull as danger signal
@@ -4187,7 +4185,7 @@
 #31FF25|Death as (rotting) corpse - FF - Death as female
 #31FF26|Death as skeleton - FF - Death as female
 #31FF27|Death as devilish being - FF - Death as female
-#31G|the soul
+31G|dusza
 #31G1|the soul during lifetime
 #31G2|the soul during death
 #31G3|the soul after death
@@ -4204,8 +4202,8 @@
 #31G36|the soul going to its last destination
 #31G361|devil carrying the soul off
 #31G4|the soul in eternity
-32|人种；不同民族与国家的人
-#32A|human types
+32|typy ludzkie; narody i narodowości
+32A|typy ludzkie
 #32A1|the four temperaments; 'Complessione' (Ripa)
 #32A11|choleric temperament
 #32A110|'Colerico (per il fuoco)' (Ripa)
@@ -4239,7 +4237,7 @@
 #32A62|chirognomy
 #32A7|characters (human types)
 #32A8|passions, emotions, affections
-#32B|human races; peoples; nationalities
+32B|rasy ludzkie; narody; narodowości
 #32B1|prehistoric man
 #32B11|reconstruction of prehistoric man
 #32B11(...)|reconstruction of prehistoric man (with NAME)
@@ -4293,9 +4291,9 @@
 #32B383|mestee, mestizo, i.e. offspring of Spanish and South-American Indian people
 #32B39|(still other) human races and peoples
 #32B39(...)|(still other) human races and peoples (with NAME)
-#32C|scientific classification of human races
-33|人与人接触
-33A|非攻击性接触
+32C|naukowa klasyfikacja ras ludzkich
+33|relacje pomiędzy osobami
+33A|relacje nieagresywne
 #33A1|saluting
 #33A11|baring the head, lifting one's hat
 #33A12|shaking hands, 'dextrarum junctio'
@@ -4335,7 +4333,7 @@
 #33A711|unequal partners
 #33A8|double
 #33A81|stand-in
-33B|攻击性接触
+33B|relacje agresywne, wrogość, animozja
 #33B1|quarrel, argument
 #33B10|'Lite' (Ripa)
 #33B11|mocking, insulting; teasing
@@ -4357,7 +4355,7 @@
 #33B9|flight, running away; pursuing
 #33B90|'Fuga', 'Fuga popolare', 'Persecutione' (Ripa)
 #33B91|hiding, hiding oneself
-33C|两性接触
+33C|relacje pomiędzy płciami
 #33C1|pernicious influence of women, 'femmes fatales'
 #33C11|Aristotle and Phyllis
 #33C12|Virgil in the basket
@@ -4543,8 +4541,8 @@
 #33CC6|homosexual love - CC - homosexual love between women: lesbianism
 #33CC61|pederasty, sexual contact between man and boy - CC - homosexual love between women: lesbianism
 #33CC62|sodomy, sexual contact between men - CC - homosexual love between women: lesbianism
-34|人与动物
-#34A|taming and training of animals
+34|człowiek i zwierzę
+34A|oswajanie i tresowanie zwierząt
 #34A1|friendship between man and animal; caressing, petting
 #34A11|taming, domestication of animals; tamed or domesticated animal
 #34A111|clipping the wings of a bird
@@ -4562,7 +4560,7 @@
 #34A43|earning money with guinea-pig
 #34A44|earning money with other animals
 #34A9|man tormenting animal(s)
-#34B|domestic animals, kept in and outside the house
+34B|zwierzęta domowe, trzymane wewnątrz domu i poza nim
 #34B1|domestic animals, kept in the house
 #34B11|dog
 #34B11(...)|dog (with NAME of kind)
@@ -4597,7 +4595,7 @@
 #34B41|aquarium
 #34B411|fish bowl
 #34B42|fish pond (in garden)
-#34C|protection of animals
+34C|ochrona zwierząt
 #34C1|feeding wild animals
 #34C11|feeding wild animals in winter
 #34C12|providing water for wild animals during drought
@@ -4611,7 +4609,7 @@
 #34C4|defending animals against maltreatment
 #34C41|organizations for the defence of animals
 #34C5|veterinarian
-#34D|control and eradication of injurious animals
+34D|kontrola i tępienie szkodników
 #34D1|eradication of injurious mammals
 #34D11|eradication of mice
 #34D111|mouse trap
@@ -4631,7 +4629,7 @@
 #34D4|control and eradication of other injurious animals
 #34D5|modern methods of eradication of injurious animals
 #34D51|spraying of chemical solutions (modern methods of eradication of injurious animals)
-#34E|restraint of animals
+34E|powściąganie zwierząt
 #34E1|dangerous wild animals ~ restraint of animals
 #34E11|lion's den
 #34E12|bear-pit
@@ -4640,7 +4638,7 @@
 #34E22|zoological garden, zoo, seen as place where non-domestic animals are kept
 #34E221|caretakers ~ zoological garden
 #34E3|animals tied up
-#34F|man and (wild) animal
+34F|człowiek i (dzikie) zwierzę
 #34F1|animals threatening man
 #34F11|man struggling with animals
 #34F111|man struggling with animals as ornamental variant with antithetically placed animals (mostly lions)
@@ -4649,12 +4647,12 @@
 #34F14|(corpse of) man eaten by animals
 #34F2|animal taking care of man
 #34F21|animal taking care of foundling
-#34G|man disguised as animal
-35|田園詩，田園場景
-36|人類和環境
-#36A|environmental conservation, protection
+34G|człowiek przebrany za zwierzę
+35|sceny pasterskie, arkadyjskie
+36|człowiek i środowisko
+36A|ochrona, zachowanie środowiska
 #36A1|environmental clean-up
-#36B|environmental destruction
+36B|niszczenie środowiska
 #36B1|environmental pollution
 #36B11|pollution ~ nature
 #36B111|air pollution

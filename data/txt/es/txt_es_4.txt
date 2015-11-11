@@ -1,6 +1,6 @@
-4|社会，文明，文化
-41|物质性的日常生活
-41A|住房
+4|Sociedad, Civilización, Cultura
+41|aspectos materiales de la vida diaria
+41A|viviendas
 #41A1|civic architecture; edifices; dwellings
 #41A10|'Edifitio overo un sito' (Ripa)
 #41A11|palace
@@ -216,7 +216,6 @@
 #41A712|shelves, rack, sideboard
 #41A7121|what-not
 #41A7122|bookshelves
-#
 #41A71221|bookcase, with doors
 #41A713|cover for table, etc.
 #41A72|seating furniture
@@ -257,7 +256,7 @@
 #41A77|containers
 #41A771|container of metal: bucket, can, canister, drum, tin, etc.
 #41A7711|container of precious metal
-#41A77111|
+#NOT 41A77111
 #41A772|container of stone: stone vase
 #41A7721|container of (semi-)precious stone
 #41A773|container of ceramics: jar, jug, pot, vase
@@ -346,7 +345,7 @@
 #41AA337|view through a window - AA - feigned window
 #41AA3371|view through a window from the outside - AA - feigned window
 #41AA3372|view through a window from the inside - AA - feigned window
-41B|取暖与照明
+#41B|heating, lighting, ventilating
 #41B1|open fire (in general)
 #41B11|kindling a fire
 #41B111|flint and steel
@@ -436,7 +435,7 @@
 #41B6|ventilation systems
 #41B61|airshaft
 #41BB32|torch - BB - torch held upside down
-41C|食物，营养
+#41C|nutrition, nourishment
 #41C1|eating and drinking
 #41C10|gastronomy, the art of eating and drinking
 #41C11|eating
@@ -525,7 +524,6 @@
 #41C3221|goblet foot
 #41C323|glass, rummer
 #41C323(...)|glass, rummer (with NAME)
-#
 #41C323(BERKEMEYER)|glass, rummer: berkemeyer
 #41C323(PASGLAS)|glass, rummer: pasglas
 #41C324|tankard
@@ -749,7 +747,7 @@
 #41CC51|banquet of elegant company - CC - out of doors
 #41CC52|carousal, drinking-bout, orgy - CC - out of doors
 #41CC520|'Crapula' (Ripa) - CC - out of doors
-41D|时尚，服装
+#41D|fashion, clothing
 #41D1|fashion
 #41D11|fashion plates
 #41D12|fashion show
@@ -771,7 +769,7 @@
 #41D211(CHEMISE À LA REINE)|dress, gown: chemise à la Reine
 #41D211(COURT GOWN)|dress, gown: court gown or court dress
 #41D211(DAY DRESS)|dress, gown: day dress
-#41D211(DINNER DRESS)|dress, gown: dinner dress 
+#41D211(DINNER DRESS)|dress, gown: dinner dress
 #41D211(EVENING DRESS)|dress, gown: evening dress
 #41D211(MANTEAU)|dress, gown: manteau
 #41D211(MORNING DRESS)|dress, gown: morning dress
@@ -783,7 +781,6 @@
 #41D211(ROBE À LA FRANÇAISE)|dress, gown: robe à la française
 #41D211(ROBE À LA LÉVITE)|dress, gown: robe à la lévite
 #41D211(ROBE À LA POLONAISE)|dress, gown: robe à la polonaise
-#
 #41D211(WALKING DRESS)|dress, gown: walking dress
 #41D212|coat, cape
 #41D2121|coat
@@ -969,11 +966,11 @@
 #41D99|being ashamed (of one's nakedness)
 #41D991|attempt to cover one's nakedness
 #41DD121|model, mannequin - DD - male model
-41E|各種物體靜物
+#41E|still life of miscellaneous objects
 #41E1|still life of related objects
 #41E2|'trompe l'oeil'
-42|家庭，后裔
-42A|生殖，生育，等h
+42|familia, descendencia
+#42A|procreation, birth and (early) youth
 #42A1|procreation and pregnancy
 #42A11|conception, impregnation
 #42A12|pregnant woman
@@ -1123,7 +1120,7 @@
 #42AA571|child running errands - AA - girl
 #42AA58|shock-headed Peter, 'Struwwelpeter' - AA - girl
 #42AA59|bogey-man, bugaboo - AA - girl
-42B|父母與子女
+#42B|parents with their children
 #42B1|parental love
 #42B11|father-love
 #42B111|father with son(s) (father-love)
@@ -1201,12 +1198,12 @@
 #42B831|the good child
 #42B832|the naughty child
 #42B9|child (young man, young woman) leaving his (her) parents
-42C|青春期的時期
+#42C|period of adolescence
 #42C1|initiation usages for young men
 #42C2|initiation usages for young women
 #42C21|'débutante'
 #42C3|maiden versus married woman
-42D|婚约与婚姻
+#42D|betrothal and marriage
 #42D1|betrothal
 #42D11|proposal, declaration of love
 #42D111|man kneeling before his beloved (proposing)
@@ -1349,7 +1346,7 @@
 #42DD5|divorce - DD - married woman given to another man, e.g. by her father
 #42DD7|mistress - DD - cicisbeo
 #42DD71|concubine - DD - cicisbeo
-42E|葬礼
+#42E|burial rites
 #42E1|preparation of the corpse, mortuary toilet ~ burial
 #42E11|washing and dressing of the corpse
 #42E111|shroud
@@ -1464,7 +1461,7 @@
 #42E54|provisions for support of spouse and children
 #42E541|insurance (provision for support of spouse and children)
 #42EE224|'pleurants' - EE - female
-42F|戶籍管理;家庭主婦在工作
+#42F|household management; housewife at work
 #42F0|Economy; 'Economia', 'Providenza dell'annona' (Ripa)
 #42F1|housewife
 #42F11|housewife giving orders to servants
@@ -1499,7 +1496,7 @@
 #42F9|badly run house
 #42F91|a perfect shambles (Dutch: 'huishouden van Jan Steen')
 #42F92|slovenly housewife, 'Vrou(w) Lor(t)s'
-42G|家庭，關係，血統
+#42G|family, relationship, descent
 #42G1|family lineage, pedigree, genealogical tree or table
 #42G11|series of ancestral portraits, 'Ahnengalerie'
 #42G2|family relationships (first, second, third and fourth degree), generations
@@ -1541,7 +1538,7 @@
 #42Z3|communal marriages
 #42Z31|'Weibergemeinschaft'
 #42Z32|family or group marriage ('Punalua')
-43|消遣，娱乐
+43|recreación, diversión
 #43A|festivities
 #43A1|periodic celebrations, popular feasts
 #43A11|calendar festivals, non-liturgical celebrations of days belonging to the ecclesiastical calendar
@@ -2246,7 +2243,7 @@
 #43D|other leisure time activities
 #43D1|handicrafts, hobbies (leisure time activities)
 #43D2|collecting (leisure time activity)
-44|国家
+44|estado; la ley; la vida política
 #44A|symbols of the state (in general)
 #44A1|coat of arms (as symbol of the state, etc.)
 #44A11|device (as symbol of the state, etc.)
@@ -2882,7 +2879,7 @@
 #44GG562|piracy - GG - female
 #44GG59|tools ~ criminals - GG - female
 #44GG591|dark lantern - GG - female
-45|战争；军事行动
+45|la guerra; asuntos militares
 #45A|war and peace
 #45A1|war
 #45A10|symbols, allegories of war; 'Guerra' (Ripa)
@@ -3068,7 +3065,6 @@
 #45C221|helmet
 #45C222|arm protector
 #45C2221|gauntlet, armoured glove to protect the hand
-#45C223|cuirass
 #45C23|quiver
 #45C231|scabbard, sheath
 #45C24|camouflage
@@ -3244,24 +3240,24 @@
 #45I31|criticism of communiqué (after the battle)
 #45I4|negotiations for truce
 #45I41|negotiations for truce on a demolished bridge
-#45I5|suspension of hostilities (truce)
-#45I51|truce of God, 'Trève-Dieu'
-#45I52|suspension of hostilities in order to bury the dead
-#45I53|armistice, truce
-#45I530|'Tregua' (Ripa)
-#45I6|victor (after the battle)
-#45I61|conqueror triumphing, triumphal entry of victor
-#45I611|crowning the victor with laurel
-#45I612|prisoners chained to the victor's chariot
-#45I62|conqueror (on horseback) tramples conquered
-#45I63|(conqueror) gripping the victim's hair
-#45I7|the defeated (after the battle)
-#45I71|the defeated before the victor
-#45K|siege, position war
-#45K1|fortifications, military engineering
-#45K11|temporary fortifications
-#45K111|trenches
-#45K112|no man's land
+45I5|la suspensión de las hostilidades (tregua)
+45I51|Tregua de Dios ", Treve-Dieu"
+45I52|la suspensión de las hostilidades para enterrar a los muertos
+45I53|armisticio, tregua
+45I530|Tregua '(Ripa)
+45I6|ganador (después de la batalla)
+45I61|conquistador triunfante, la entrada triunfal de un ganador
+45I611|coronando el ganador con el laurel
+45I612|prisioneros encadenados al carro del ganador
+45I62|conquistador (a caballo) pisoteando los vencidos
+45I63|(Conquistador) agarra a la víctima por los pelos
+45I7|los perdedores (después de una batalla)
+45I71|los perdedores en frente del ganador
+45K|estado de sitio, guerra de posiciones
+45K1|fortificaciones, obras de ingeniería militar ~ un asedio
+45K11|fortificaciones temporales (ingeniería militar)
+45K111|trincheras
+45K112|tierra de nadie
 #45K12|permanent fortifications
 #45K121|palisades
 #45K122|bastion, bulwark
@@ -3329,7 +3325,7 @@
 #45M52|fugitives resting, camping
 #45M6|internment camp
 #45M7|concentration camp
-46|社会生活与经济生活，运输与通讯
+46|vida social y económica, el transporte y la comunicación
 #46A|communal life
 #46A1|social stratification, social groups
 #46A11|division into classes (~ society)
@@ -3721,7 +3717,7 @@
 #46C1121|bridges by construction
 #46C11211|suspension bridge
 #46C11212|cantilever bridge
-#46C11213|bascule bridge 
+#46C11213|bascule bridge
 #46C1122|bridge forms
 #46C11221|bridge with structure, i.e. cover or buildings
 #46C113|viaduct
@@ -4258,7 +4254,7 @@
 #46E731|radar
 #46E8|other means of communication
 #46E81|communication by means of 'statue parlanti', such as Marforio and Pasquino in Rome
-47|技艺与工业
+47|artesanías e industrias
 #470|'Artes Mechanicae' (Lanificium, Armatura, Navigatio, Agricultura, Venatio, Medicina, Theatrica)
 #47A|industrial structures
 #47A1|exterior of industrial structures, factories
@@ -4904,7 +4900,7 @@
 #47L3|launching a ship
 #47L31|christening a ship
 #47L32|maidentrip of a ship
-48|艺术
+48|arte
 #480|symbolic representations, allegories and emblems ~ art; 'Arte' (Ripa)
 #48A|art and the public; styles and ornaments
 #48A1|person stimulating the arts; art lover, connoisseur, maecenas, patron
@@ -4979,7 +4975,7 @@
 #48A95|children's art
 #48A96|psychotic and psychiatric art
 #48A97|'kitsch', 'Trivialkunst'
-48A98|裝飾品〜藝術
+#48A98|ornaments ~ art
 #48A981|ornament ~ geometric motifs
 #48A9811|ornament ~ straight lines (right angles only)
 #48A98111|ornament ~ meander
@@ -5776,7 +5772,7 @@
 #48CC841|training ~ ballet - CC - female
 #48CC844|ballet dress - CC - female
 #48CC853|stage costume - CC - female
-49|教育，科学与学术
+49|educación, la ciencia y el aprendizaje
 #49A|education
 #49A0|symbolic representations, allegories and emblems ~ education; 'Ammaestramento', Dottrina', 'Educatione', 'Istitutione' (Ripa)
 #49A1|study and diversion
@@ -6100,38 +6096,19 @@
 #49E392|alchemistic symbols
 #49E393|alchemistic equipment
 #49E3931|alchemistic vessels
+#49E3931(...)|alchemist's vessels (with NAME)
 #49E39311|bottles (ampullae)
 #49E39311(...)|bottles (ampullae) (with NAME)
-#49E39311(OVUM PHILOSOPHICUM)|bottles: philosophical egg (ovum philosophicum)
-#49E39311(PELICAN)|bottles: pelican
-#49E39311(PHIAL)|bottles: phial
-#49E39311(RECEPTACULUM)|bottles: receiver (receptaculum)
+#49E39311(OVUM PHILOSOPHICUM)|bottle: philosophical egg (ovum philosophicum)
 #49E39312|flasks (cucurbitae)
 #49E39312(...)|flasks (cucurbitae) (with NAME)
-#49E39312(ALEMBIC)|flasks: alembic
-#49E39312(MOOR'S HEAD)|flasks: Moor's head
-#49E39312(OPERCULUM)|flasks: operculum
-#49E39312(RETORT)|flasks: retort
-#49E39312(ROSENHUT)|flasks: rosenhut
 #49E39313|pots, jars (ollae)
-#49E39313(...)|pots, jars (ollae) (with NAME)
-#49E39313(ALUDEL)|pots, jars: aludel
-#49E39313(CHALICE)|pots, jars: chalice
-#49E39313(CRUCIBLE)|pots, jars: crucible
-#49E39313(CUPEL)|pots, jars: cupel
 #49E39313(...)|pots (with NAME)
 #49E3932|alchemistic furnace
 #49E3932(...)|alchemistic furnace (with NAME)
-#49E3932(ASSAY FURNACE)|alchemistic furnace: assay furnace
-#49E3932(ATHANOR)|alchemistic furnace: athanor
-#49E3932(CARBURIZING FURNACE)|alchemistic furnace: carburizing furnace
-#49E3932(PIGER HENRICUS)|alchemistic furnace: piger henricus, 'slow Harry'
-#49E3932(REVERBATORY FURNACE)|alchemistic furnace: reverbatory furnace
-#49E3932(SMELTING FURNACE)|alchemistic furnace: smelting furnace
+#49E3932(ASSAY FURNACE)|assay furnace
+#49E3932(ATHANOR)|athanor
 #49E3933|alchemistic bath (balneum)
-#49E3933(...)|alchemistic bath (balneum) (with NAME)
-#49E3933(BALNEUM ARENAE)|alchemistic bath: balneum arenae
-#49E3933(BALNEUM MARIAE)|alchemistic bath: Mary's bath
 #49E3939|other alchemistic equipment
 #49E3939(...)|other alchemistic equipment (with NAME)
 #49E394|alchemistic substances
@@ -6149,9 +6126,6 @@
 #49E39461|Panacea ~ alchemistic substance
 #49E3949|other substances
 #49E3949(...)|other substances (with NAME)
-#49E3949(ANTIMONY)|other substances: antimony
-#49E3949(SAL AMMONIAC)|other substances: sal ammoniac
-#49E3949(VITRIOL)|other substances: vitriol
 #49E395|alchemistic processes
 #49E3951|Magnum opus: the four original stages of transmutation
 #49E39511|nigredo (blackening)
@@ -6466,4 +6440,3 @@
 #49N21|lectern ~ reading
 #49N22|pointer ~ reading
 #49N23|book-marker
-#
