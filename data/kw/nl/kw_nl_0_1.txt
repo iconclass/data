@@ -53,14 +53,14 @@
 11B13|monster
 11B2|dierlijk
 11B21|duif
-11B21|hand of God
+11B21|hand van God
 11B21|lam
 11B22|kruis
 11B22|duif
-11B22|hand of God
+11B22|hand van God
 11B23|kelk
 11B23|duif
-11B23|hand of God
+11B23|hand van God
 11B3|human figure
 11B31|drie
 11B311|gelijkenis
@@ -124,7 +124,7 @@
 11C11|oog
 11C11|omniscience
 11C11|driehoek
-11C12|hand of God
+11C12|hand van God
 11C13|tetragram
 11C14|brand
 11C14|pillar of fire
@@ -9699,7 +9699,7 @@
 11H(JOHN)121|secretaresse
 11H(JOHN)122|engel
 11H(JOHN)122|dicteren
-11H(JOHN)122|hand of God
+11H(JOHN)122|hand van God
 11H(JOHN)122|inspiratie
 11H(JOHN)122|Mary (Virgin)
 11H(JOHN)13|oprichting
@@ -11009,7 +11009,7 @@
 11H(LUKE)121|Paul (St.)
 11H(LUKE)122|engel
 11H(LUKE)122|duif
-11H(LUKE)122|hand of God
+11H(LUKE)122|hand van God
 11H(LUKE)123|Christus
 11H(LUKE)123|geven
 11H(LUKE)13|oprichting
@@ -11227,7 +11227,7 @@
 11H(MARK)12|vleugel
 11H(MARK)12|geschrift
 11H(MARK)121|Peter (St.)
-11H(MARK)122|hand of God
+11H(MARK)122|hand van God
 11H(MARK)122|wijsheid
 11H(MARK)123|Christus
 11H(MARK)123|geven
@@ -20043,7 +20043,7 @@
 11HH(MARTHA)59|stigmata
 11HH(MARTHA)68|kaars
 11HH(MARTHA)68|Christus
-11HH(MARTHA)68|hand of God
+11HH(MARTHA)68|hand van God
 11HH(MARTHA)68|aanmaakhout
 11HH(MARTHA)68|Mary Magdalene (St.)
 11HH(MARTHA)69|lijk
@@ -21871,7 +21871,7 @@
 11I4111|engel
 11I4111|dicteren
 11I4111|duif
-11I4111|hand of God
+11I4111|hand van God
 11I4111|Heilige Geest
 11I4111|inspiratie
 11I4111|Mary (Virgin)
