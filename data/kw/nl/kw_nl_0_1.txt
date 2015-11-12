@@ -1,4 +1,4 @@
-0|abstracte kunst
+﻿0|abstracte kunst
 0|kunst
 0|non-figuratieve kunst
 1|bovennatuurlijk
@@ -16,6 +16,7 @@
 11A11|kompassen
 11A11|meten
 11A11|heelal
+11A11|universum
 11A2|goddelijk
 11A2|natuur
 11A21|Divinità
