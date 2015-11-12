@@ -874,7 +874,7 @@
 24C12|Jupiter
 24C13|Mars
 24C14|kwik
-24C15|Neptune
+24C15|Neptunus
 24C16|Pluto
 24C17|Saturnus
 24C18|Uranus
