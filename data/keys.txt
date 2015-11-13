@@ -138,6 +138,7 @@ TXT_EN variant
 TXT_IT variante
 TXT_FR variante
 TXT_DE Variante
+TXT_NL variant
 $
 CODE 23k
 SUFFIX 1
@@ -145,6 +146,7 @@ TXT_EN with zodiacal signs
 TXT_IT segni zodiacali
 TXT_FR avec signes du zodiaque
 TXT_DE mit Tierkreiszeichen
+TXT_NL met de tekens van de dierenriem
 $
 CODE 23k
 SUFFIX 11
@@ -152,6 +154,7 @@ TXT_EN with zodiacal signs of the winter season
 TXT_IT segni zodiacali dell'inverno
 TXT_FR avec signes zodiacaux de l'hiver
 TXT_DE mit Tierkreiszeichen des Winters
+TXT_NL met de tekens van de Dierenriem van de winter
 $
 CODE 23k
 SUFFIX 111
@@ -159,6 +162,7 @@ TXT_EN with Capricorn (December)
 TXT_IT Capricorno (dicembre)
 TXT_FR avec Capricorne (décembre)
 TXT_DE mit Capricorn, Steinbock (Dezember)
+TXT_NL met Capricornus, Steenbok (december)
 $
 CODE 23k
 SUFFIX 112
@@ -166,6 +170,7 @@ TXT_EN with Aquarius (January)
 TXT_IT Acquario (gennaio)
 TXT_FR avec Verseau (janvier)
 TXT_DE mit Aquarius, Wassermann (Januar)
+TXT_NL met Aquarius, Waterman (januari)
 $
 CODE 23k
 SUFFIX 113
@@ -173,6 +178,7 @@ TXT_EN with Pisces (February)
 TXT_IT Pesci (febbraio)
 TXT_FR avec Poissons (février
 TXT_DE mit Pisces, Fische (Februar)
+TXT_NL met Pisces, Vissen (februari)
 $
 CODE 23k
 SUFFIX 12
@@ -180,6 +186,7 @@ TXT_EN with zodiacal signs of the spring season
 TXT_IT segni zodiacali della primavera
 TXT_FR avec signes zodiacaux du printemps
 TXT_DE mit Tierkreiszeichen des Frühlings
+TXT_NL met de tekens van de Dierenriem van de lente
 $
 CODE 23k
 SUFFIX 121
@@ -187,6 +194,7 @@ TXT_EN with Aries (March)
 TXT_IT Ariete (marzo)
 TXT_FR avec Bélier (mars)
 TXT_DE mit Aries, Widder (März)
+TXT_NL met Aries, Ram (maart)
 $
 CODE 23k
 SUFFIX 122
@@ -194,6 +202,7 @@ TXT_EN with Taurus (April)
 TXT_IT Toro (aprile)
 TXT_FR avec Taureau (avril)
 TXT_DE mit Taurus, Stier (April)
+TXT_NL met Taurus, Stier (april)
 $
 CODE 23k
 SUFFIX 123
@@ -201,6 +210,7 @@ TXT_EN with Gemini (May)
 TXT_IT Gemelli (maggio)
 TXT_FR avec Gémeaux (mai)
 TXT_DE mit Gemini, Zwillinge (Mai)
+TXT_NL met Gemini, Tweelingen (mei)
 $
 CODE 23k
 SUFFIX 13
