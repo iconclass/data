@@ -1797,7 +1797,7 @@
 #25GG61|prehistoric plants - GG - fantastic plants, fabulous vegetation
 #25GG62|fossil plants - GG - fantastic plants, fabulous vegetation
 #25GG7|language of flowers - GG - fantastic plants, fabulous vegetation
-#25H|landscapes
+25H|paisajes
 #25H1|landscapes in the temperate zone
 #25H11|mountains
 #25H111|mountain-range, snow peaks

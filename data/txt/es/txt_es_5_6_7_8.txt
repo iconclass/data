@@ -964,7 +964,7 @@
 62|visiones de futuro
 7|Biblia
 71|Antiguo Testamento
-71A|Génesis: desde la cración hasta la expulsión del paraíso, y últimos años de la vida de Adan y Eva
+71A|Génesis: desde la creación hasta la expulsión del paraíso, y últimos años de la vida de Adan y Eva
 71A1|'Al principio...' el orden del caos (Génesis 1:1-2)
 71A11|La tierra sin forma y desierta
 71A12|el espíritu de Dios se mueve sobre las aguas
