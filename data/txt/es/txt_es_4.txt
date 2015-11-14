@@ -4974,7 +4974,7 @@
 #48A95|children's art
 #48A96|psychotic and psychiatric art
 #48A97|'kitsch', 'Trivialkunst'
-#48A98|ornaments ~ art
+48A98|adornos ~ arte
 #48A981|ornament ~ geometric motifs
 #48A9811|ornament ~ straight lines (right angles only)
 #48A98111|ornament ~ meander
@@ -5934,7 +5934,7 @@
 #49D2|algebra and statistics
 #49D21|algebraic formula, equation, etc.
 #49D22|statistic diagram, graph; pictorial chart, etc.
-#49D3|planimetry, geometry
+49D3|planimetría, geometría
 #49D30|'Planimetria', 'Ichonografia' (Ripa)
 #49D31|point (~ planimetry, geometry)
 #49D32|line (~ planimetry, geometry)
@@ -5975,7 +5975,7 @@
 #49D372|parabola
 #49D373|hyperbola
 #49D38|other planimetric figures not meant or mentioned above
-#49D4|stereometry, solid geometry
+49D4|estereometría, geometría sólida
 #49D40|'Sterometria'; 'Sterometria' (Ripa)
 #49D41|the five Platonic solids (one inside the other)
 #49D42|corner ~ stereometry
@@ -6027,7 +6027,7 @@
 #49D63|multi-dimensional geometry
 #49D64|trigonometry, polygonometry
 #49D65|descriptive geometry
-#49D7|mathematical perspective
+49D7|perspectiva matemática
 #49D70|'Perspective' (alleg.); 'Prospetiva' (Ripa)
 #49D71|anamorphosis
 #49E|science and technology

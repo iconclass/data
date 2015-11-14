@@ -38,7 +38,7 @@
 #22B22|magnetic force
 #22B221|attractive force, attraction ~ magnetic force
 #22B222|repulsive force, repulsion ~ magnetic force
-#22C|light
+22C|luz
 #22C1|natural light
 #22C11|rays of natural light
 #22C2|artificial light
@@ -56,7 +56,7 @@
 #22C3121|oval or almond-shaped mandorla
 #22C3122|circular mandorla
 #22C32|light shining out of the heavens
-#22C4|colours, pigments, and paints
+22C4|colores, pigmentos, y pinturas
 #22C4(...)|colours, pigments, and paints (with NAME)
 #22C4(BLACK)|colours, pigments, and paints: black
 #22C4(BLUE)|colours, pigments, and paints: blue
@@ -73,7 +73,7 @@
 #22C9|darkness
 #22C90|'Buio' (Ripa)
 #22C91|half-light
-#22D|sound
+22D|sonar
 #22D1|loud sound, noise
 #22D11|harmonious sound, harmony, consonance
 #22D110|'Armonia' (Ripa)
@@ -761,7 +761,7 @@
 #25E(CENOZOIC)|geological-chronological division; geological era: Cenozoic
 #25E(PALEOZOIC)|geological-chronological division; geological era: Paleozoic
 #25E(TERTIARY)|geological-chronological division; geological era: Tertiary
-#25F|animals
+25F|animales
 #25F1|groups of animals
 #25F2|mammals
 #25F21|groups of mammals
@@ -2387,7 +2387,7 @@
 #29C|objects coming to life, e.g. puppets
 #29D|natural forms in stones, wood, clouds, etc. interpreted as representations
 3|Ser Humano, hombre en general
-#31|man in a general biological sense
+31|hombre en un sentido biológico en general
 #31A|the (nude) human figure; 'Corpo humano' (Ripa)
 #31A1|canon, proportions
 #31A11|standing figure (canon, proportions)

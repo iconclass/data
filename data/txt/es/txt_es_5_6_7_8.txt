@@ -14,7 +14,7 @@
 #51AA|Existence and Modes of Existence (opposing concepts)
 #51AA1|Non-existence
 #51AA2|Immateriality
-#51AA3|Abstractness, Insubstantiality
+51AA3|Abstracción, insustancialidad
 #51AA4|Nothingness, Absence
 #51AA5|Circumstance, Accident
 #51AA51|Exterior, Exteriority
@@ -142,8 +142,8 @@
 #51HH3|Paucity, Fewness
 #51HH4|Lack, Deficiency
 #51HH41|Insufficiency
-#51HH5|Decrease
-#51I|Space
+51HH5|Disminución
+51I|Espacio
 #51I1|Limited, Defined Space
 #51I2|Fullness
 #51I3|Location, Position
