@@ -202,6 +202,23 @@ KWD_DE Stifter
 TXT_PL donatorzy, suplikanci, z (bez) świętymi patronami
 TXT_NL donor(en), smekeling(en), al dan niet met beschermheilige(n)
 $
+CODE 12k
+SUFFIX 0
+TXT_EN variant
+KWD_EN variant
+TXT_IT variante
+KWD_IT variante
+TXT_FR variante
+KWD_FR variante
+TXT_DE Variante
+KWD_DE Variante
+TXT_PL odmiana
+TXT_NL variant
+TXT_ES variante
+TXT_ZH 變種
+TXT_PT variante
+TXT_FI variant
+$
 CODE 23k
 SUFFIX 0
 TXT_EN variant
