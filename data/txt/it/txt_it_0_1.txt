@@ -1,5 +1,6 @@
 0|arte astratta
 1|Religione e Magia
+10|rappresentazioni (simboliche) ~ la creazione, cosmo, cosmogonia, universo e vita (in senso lato)
 11|religione cristiana
 11A|Divinità, Dio (in generale) ~ religione cristiana
 11A1|Dio creatore
