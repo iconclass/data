@@ -1,507 +1,508 @@
-0|摘要，非具象藝術
-1|宗教与巫术
-10|（符号的）再现 ~ 创世，宇宙，等
+0|抽象，非具象藝術
+1|宗教和巫術
+10|（符號）表示〜創造，宇宙，宇宙起源，宇宙和生命（在最廣泛的意義上）
 11|基督教
-#11A|Deity, God (in general) ~ Christian religion
-#11A1|God the Creator
-#11A11|God measuring the Universe (with compasses)
-#11A2|Divine Nature
-#11A21|Divinity, 'Divinità' (Ripa)
-#11A22|symbols ~ Divine Nature
-#11A221|circle symbolizing God's perfectness
-#11A23|God's perfections
-#11A3|God's wrath
-#11A31|'Flagello di Dio' (Ripa)
-11B|三位一体
-#11B1|Trinity represented by tripartite symbols
-#11B11|symbols of the Trinity ~ circular and/or triangular forms or arrangements
-#11B111|three concentric circles ~ Trinity
-#11B112|three interlocked circles ~ Trinity
-#11B113|triangle (within circle), with eye or tetragram ~ Trinity
-#11B114|three animals, geometrically arranged within a circle or triangle ~ Trinity
-#11B115|three running men, arranged in circular form ~ Trinity
-#11B12|Trinity represented as a person with three heads
-#11B121|'Tricephalus', three fused heads or faces only (~ Trinity)
-#11B13|Trinity represented by three animals sharing one head
-#11B14|other tripartite symbols of the Trinity
-#11B2|Trinity in which each of the Persons (God, Christ, Holy Ghost) is represented either by an object or by an animal
-#11B21|representation of the Trinity: hand (Father), lamb (Son), and dove (Holy Ghost)
-#11B22|representation of the Trinity: hand, cross and dove
-#11B23|representation of the Trinity: hand, chalice and dove
-#11B3|Holy Trinity in which one, two or all figures are represented in human shape
-#11B31|Trinity as three persons
-#11B311|Trinity as three identical persons
-#11B312|Father and Holy Ghost holding the crucified Christ (~ Trinity)
-#11B32|Trinity in which God the Father and Christ are represented as persons, the Holy Ghost as dove
-#11B321|God the Father seated, holding the youthful Christ (Emmanuel) in his lap
-#11B322|God the Father and Christ enthroned
-#11B3221|God the Father and Christ as identical persons
-#11B3222|Christ showing his wounds
-#11B323|God the Father holding the crucified or dead Christ
-#11B3231|God the Father holding the crucifix, 'Gnadenstuhl', Mercy-Seat, Throne of Grace
-#11B3232|God the Father standing or seated, holding the body of Christ, 'Pitié-de-Notre-Seigneur', 'Not Gottes'
-#11B33|representations of the Trinity
-#11B331|representation of the Trinity: person (Father), lamb (Son), and dove (Holy Ghost)
-#11B332|representation of the Trinity: person (Father), lion (Son), and dove (Holy Ghost)
-#11B333|representation of the Trinity: symbol (Father), person (Son), dove (Holy Ghost)
-#11B4|'Ratschluss der Erlösung', 'Prolog im Himmel'; Divine decree of Redemption
-#11B41|Divine decree of Redemption, allegorical figures present, e.g. Justice, Mercy, Peace and Truth (the Virtues reconciled)
-#11B42|sending of Gabriel ~ 'Ratschluss der Erlösung'
-#11B43|return of Gabriel ~ 'Ratschluss der Erlösung'
-#11B44|sending of the Son ~ 'Ratschluss der Erlösung'
-#11B45|return of the Son ~ 'Ratschluss der Erlösung'
-#11B5|extensions of the Holy Trinity
-#11B51|Quaternity (i.e. Trinity with Mary)
-#11B52|Quinity
-#11C|圣父上帝
-#11C1|symbols of God the Father
-#11C11|the all-seeing eye, triangle with eye ~ symbol of God the Father
-#11C12|hand, 'Dextera Dei' ~ symbol of God the Father
-#11C13|tetragram (in Roman or Hebrew script) ~ symbol of God the Father
-#11C14|(pillar of) fire ~ symbol of God the Father
-#11C15|(rays of) light ~ symbol of God the Father
-#11C16|alpha and omega ~ symbol of God the Father
-#11C2|God the Father represented as human being, usually with crown or tiara or sceptre and/or globe
-#11C21|God the Father as young or adult man (perhaps resembling Christ)
-#11C211|God the Father enthroned, usually with sceptre and/or globe
-#11C22|God the Father as young or adult man resembling Jupiter
-#11C221|God the Father (resembling Jupiter) enthroned, usually with sceptre and/or globe
-#11C23|God the Father as bearded old man, usually with crown or tiara or sceptre and/or globe
-#11C231|God the Father (as bearded old man) enthroned, usually with crown or tiara, and with sceptre and/or globe
-#11C3|Christ sitting at God's right hand
-#11C31|God crowning Christ
-#11C32|God simultaneously crowning Christ and Mary
-#11C4|'Scala Salutis', Christ and Mary interceding with God the Father
-#11C41|Christ interceding with God the Father
-#11C5|other representations ~ God the Father
-#11C51|God the Father between the sun and the moon
-#11D|基督
-#11D1|symbols and prefigurations of Christ
-#11D11|letters and monograms ~ symbols of Christ
-#11D111|alpha and omega, sometimes with wreath, triangle, instruments of the Passion, etc. ~ symbol of Christ
-#11D112|Chrismon and derived forms ~ symbol of Christ
-#11D113|IHS ('Iesus Hominum Salvator') ~ symbol of Christ
-#11D1131|labarum, i.e. imperial standard bearing the christogram IHS
-#11D1132|adoration of the name of Jesus
-#11D114|'Ichthys' ~ symbol of Christ
-#11D12|the cross ~ symbols of Christ
-#11D121|cross as symbol of Christ
-#11D122|cross with symbol of Christ on it, e.g. lamb
-#11D1221|cross with head or bust of Christ
-#11D123|specific forms of the cross
-#11D123(...)|specific forms of the cross (with NAME)
-#11D123(ANDREW'S CROSS)|specific forms of the cross: Andrew's cross
-#11D123(ANSATE CROSS)|specific forms of the cross: ansate cross
-#11D123(BENEDICTINE CROSS)|specific forms of the cross: Benedictine cross
-#11D123(CARAVACA CROSS)|specific forms of the cross: Caravaca cross
-#11D123(FORKED CROSS)|specific forms of the cross: forked cross
-#11D123(GREEK CROSS)|specific forms of the cross: Greek cross
-#11D123(LORRAINE CROSS)|specific forms of the cross: Lorraine cross
-#11D123(SWASTIKA)|specific forms of the cross: swastika
-#11D123(TAU-CROSS)|specific forms of the cross: Tau-cross
-#11D124|venerating the cross
-#11D13|(other) symbols of Christ
-#11D131|symbols of Christ ~ animals
-#11D1311|lamb bearing cross or banner, 'Agnus Dei' ~ symbol of Christ
-#11D132|symbols of Christ ~ plants
-#11D133|symbols of Christ ~ objects
-#11D1331|'Etimasia', empty throne with the book of life, prepared for Christ
-#11D134|bread and fish ~ symbols of Christ
-#11D14|prefigurations of Christ, Christ and his prefigurations
-#11D15|the Incarnation ~ Christ
-#11D2|Christ as child or youth (in general) ~ Christian religion
-#11D21|Christ-child (with attributes)
-#11D22|Christ-child ~ types of adult Christ
-#11D23|Christ-child ~ Passion, 'Schmerzenskind'
-#11D231|Christ-child meditating before the instruments of the Passion
-#11D232|Christ-child surrounded by the instruments of the Passion
-#11D233|Christ-child carrying the instruments of the Passion
-#11D234|Christ-child displaying the five wounds
-#11D235|Christ-child winding a crown of thorns, or with thorny twigs
-#11D236|Christ-child carrying the cross
-#11D237|Christ-child kneeling before the cross
-#11D238|Christ-child sleeping on the cross
-#11D24|Christ-child as eucharistic symbol
-#11D241|Christ-child in or on a chalice
-#11D2411|'Melismos' ~ Christ-child as eucharistic symbol
-#11D242|Christ-child in the mystic mill
-#11D25|Christ-child together with others
-#11D26|Christ as youth
-#11D261|Christ 'Emmanuel'
-#11D3|Christ as adult
-#11D31|'portraits' of Christ
-#11D311|'Mandylion', i.e. portrait, perhaps made for King Abgar of Edessa by Christ himself, by pressing his face against a cloth
-#11D3111|Christ gives the Mandylion to the messenger of King Abgar
-#11D3112|the Mandylion is brought to Edessa
-#11D312|'Vera Icon', 'Sudarium', Veronica-portrait
-#11D3121|'Vera Icon', held up by Veronica
-#11D3122|'Vera Icon', held up by angels
-#11D3123|'Vera Icon', held up by Peter and Paul
-#11D3124|'Vera Icon', held up by the four symbols of the evangelists
-#11D313|'portrait' of Christ according to the letter of Lentulus
-#11D314|'Volto Santo', e.g. of Lucca (perhaps carved by Nicodemus)
-#11D315|portrait of Christ made by Luke
-#11D316|ex-voto of the woman healed from the issue of blood
-#11D317|(full-length) image of Christ on shroud, 'Sindone'
-#11D318|(other) 'portraits' of Christ, e.g. profile portrait
-#11D32|particular types of adult Christ (without others)
-#11D321|'Majestas Domini': Christ in mandorla seated on a rainbow or sphere and accompanied by the Tetramorph
-#11D322|Christ enthroned
-#11D3221|'Pantocrator', (bust of) Christ, making a speaking or blessing gesture and holding a book
-#11D3222|'Christus Rex'
-#11D3223|Christ as (heavenly) judge
-#11D323|Christ-'Logos', the Word Incarnate
-#11D324|'Salvator Mundi', making a blessing gesture; an orb in his hand or at his feet
-#11D325|Christ ~ the Eucharist
-#11D3251|Christ with chalice, and bread or Host
-#11D3252|Christ in the wine-press, 'Christus in der Kelter' (Is. 63:3)
-#11D3253|Christ in the symbolic mill
-#11D326|'Fons Vitae', 'Fons Pietatis'
-#11D3261|Christ standing on or near a fountain, shedding his blood
-#11D3262|Christ on the cross (in a fountain), shedding his blood
-#11D327|Christ ~ human occupations
-#11D3271|Christ as Good Shepherd
-#11D3272|Christ as physician
-#11D32721|Christ as apothecary
-#11D3273|Christ fishing
-#11D3274|Christ as pedlar
-#11D3275|Christ as farmer or gardener
-#11D3276|Christ as host
-#11D3277|Christ as (high) priest or prophet
-#11D3278|Christ as pilgrim
-#11D3279|'Feiertagschristus', Christ with craftsman's tools
-#11D328|types of adult Christ (alone)
-#11D3281|Christ as woman
-#11D3282|Christ in orans attitude
-#11D3283|Christ as angel
-#11D3284|Christ ~ Orpheus
-#11D3285|Christ ~ Apollo (Helios)
-#11D33|adult Christ together with others (non-narrative representations)
-#11D331|adult Christ with Mary
-#11D3311|Christ and Mary as bridegroom and bride
-#11D332|adult Christ together with angels
-#11D333|adult Christ ~ devil(s) and demonic creatures
-#11D3331|Christ triumphing over devil(s)
-#11D334|adult Christ together with apostles, evangelists, saints, etc.
-#11D3341|Christ with John the Evangelist leaning on his breast, 'Johannesminne', 'Christus-Johannes-Gruppe'
-#11D3342|'Traditio legis', 'Dominus legem dat', i.e. Christ giving a scroll (the Law) to Paul; Peter present
-#11D33421|Christ giving a scroll (the Law) to Paul; apostle(s) present
-#11D3343|Christ with penitent sinners (Adam, David, prodigal son, Mary Magdalene, good malefactor, Peter, etc.)
-#11D335|adult Christ together with mortals
-#11D3351|(adult) Christ appearing to mortals
-#11D336|triumphant Christ, e.g. on triumphal chariot
-#11D337|Christ on horseback
-#11D3371|Christ on horseback leading an army of knights, 'Militia Christi'
-#11D34|adult Christ ~ abstract conceptions
-#11D35|specific types of crucified Christ (in non-narrative context)
-#11D351|Christ suffering (with crown of thorns, head usually turned sidewards)
-#11D352|Christ covered with pest-sores, 'Pestkruzifixus'
-#11D353|Christ triumphing (with crown, head usually upright)
-#11D354|Christ bowing down from the cross to embrace someone
-#11D355|Christ crucified on a tree or on a vine
-#11D356|Christ crucified on a 'living' cross
-#11D357|the Virtues ~ crucified Christ
-#11D36|other types of crucified Christ in non-narrative context
-#11D4|legends and devotions ~ Christ
-#11D41|legends ~ Christ
-#11D411|legend of the True Cross
-#11D4111|Seth puts a branch from the Tree of Knowledge on Adam's grave ~ legend of the True Cross
-#11D41111|Seth searching for paradise; the angel gives him a twig or a flask of oil ~ legend of the True Cross
-#11D4112|the wood is used for the building of the temple of Solomon ~ the legend of the True Cross
-#11D4113|the wood, serving as a bridge, is worshipped by the queen of Sheba ~ the legend of the True Cross
-#11D4114|the wood is taken from the pool of Bethesda to serve as Christ's cross ~ legend of the True Cross
-#11D4115|Helena's vision of the Holy Cross borne by angels ~ legend of the True Cross
-#11D4116|the finding of the True Cross
-#11D41161|Judas, a Jew, put into a well by Helena, mother of Constantine ~ legend of the True Cross
-#11D41162|the three crosses are dug up near the temple of Venus ~ legend of the True Cross
-#11D41163|Helena identifies the True Cross: a human corpse is restored to life when it touches the cross
-#11D41164|Helena and Constantine kneeling before (or standing beside) the True Cross
-#11D4117|the raising of the True Cross, Exaltation of the Holy Cross
-#11D41171|Emperor Heraclius defeats Chosroes II of Persia, and recovers a part of the True Cross
-#11D41172|Heraclius' entry into Jerusalem: as asked by an angel, the emperor, stripped of his royal robes, carries the True Cross into the city
-#11D411721|emperor Heraclius' entry into Jerusalem, riding on an ass or on horseback ~ legend of the True Cross
-#11D41173|the True Cross is erected on Golgotha (or on an altar) ~ legend of the True Cross
-#11D41174|Chosroes II, having refused baptism, is executed ~ legend of the True Cross
-#11D412|legend of the bleeding Holy Lance
-#11D413|legend of the Holy Grail
-#11D414|the prophecy of Basilides: on his way to Jerusalem, emperor Titus consults Basilides the Carmelite, who shows him a vision of God the Father with the dead Christ
-#11D42|devotion ~ Christ
-#11D421|the Seven Bleedings of Christ
-#11D4211|single scenes of the Seven Bleedings of Christ
-#11D422|the Sacred Heart
-#11D423|the Sacred Blood
-#11D424|the Sacred Tear
-#11D425|Christ's length
-#11D43|relics ~ Christ
-#11D431|splinters of the cross ~ relics of Christ
-#11D432|nails of the cross ~ relics of Christ
-#11D433|the Holy Lance ~ relics of Christ
-#11D434|Christ's robe ~ relics of Christ
-#11D435|'Scala Santa', the stairs of Pilate's palace ~ relics of Christ
-#11D5|mystic ideas ~ Christ
-#11D51|Christ and the Soul
-#11D511|the Soul as bride of Christ
-#11D52|Christ and the human heart
-#11D53|Christ's blood saving mankind
-#11D6|miraculous statues of Christ or the Christ-child
-#11D6(...)|miraculous statues of Christ or the Christ-child (with NAME)
-#11D9|Antichrist
-#11D91|scenes from the life of the Antichrist
-#11DD3|Christ as adult - DD - Christ beardless
-#11DD31|'portraits' of Christ - DD - Christ beardless
-#11DD311|'Mandylion', i.e. portrait, perhaps made for King Abgar of Edessa by Christ himself, by pressing his face against a cloth - DD - Christ beardless
-#11DD3111|Christ gives the Mandylion to the messenger of King Abgar - DD - Christ beardless
-#11DD3112|the Mandylion is brought to Edessa - DD - Christ beardless
-#11DD312|'Vera Icon', 'Sudarium', Veronica-portrait - DD - Christ triumphant
-#11DD3121|'Vera Icon', held up by Veronica - DD - Christ triumphant
-#11DD3122|'Vera Icon', held up by angels - DD - Christ triumphant
-#11DD3123|'Vera Icon' held up by Peter and Paul - DD - Christ triumphant
-#11DD313|'portrait' of Christ according to the letter of Lentulus - DD - Christ beardless
-#11DD314|'Volto Santo', e.g. of Lucca (perhaps carved by Nicodemus) - DD - Christ beardless
-#11DD315|portrait of Christ made by Luke - DD - Christ beardless
-#11DD316|ex-voto of the woman healed from the issue of blood - DD - Christ beardless
-#11DD317|(full-length) image of Christ on shroud, 'Sindone' - DD - Christ beardless
-#11DD318|(other) 'portraits' of Christ, e.g. profile portrait - DD - Christ beardless
-#11DD32|particular types of adult Christ (without others) - DD - Christ beardless
-#11DD321|'Majestas Domini': Christ in mandorla seated on a rainbow or sphere and accompanied by the Tetramorph - DD - Christ beardless
-#11DD322|Christ enthroned - DD - Christ beardless
-#11DD3221|'Pantocrator', (bust of) Christ, making a speaking or blessing gesture and holding a book - DD - Christ beardless
-#11DD3222|'Christus Rex' - DD - Christ beardless
-#11DD3223|Christ as (heavenly) judge - DD - Christ beardless
-#11DD323|Christ-'Logos', the Word Incarnate - DD - Christ beardless
-#11DD324|'Salvator Mundi', making a blessing gesture; an orb in his hand or at his feet - DD - Christ beardless
-#11DD325|Christ ~ the Eucharist - DD - Christ beardless
-#11DD3251|Christ with chalice, and bread or Host - DD - Christ beardless
-#11DD3252|Christ in the wine-press, 'Christus in der Kelter' (Is. 63:3) - DD - Christ beardless
-#11DD3253|Christ in the symbolic mill - DD - Christ beardless
-#11DD326|'Fons Vitae', 'Fons Pietatis' - DD - Christ beardless
-#11DD3261|Christ standing on or near a fountain, shedding his blood - DD - Christ beardless
-#11DD3262|Christ on the cross (in a fountain), shedding his blood - DD - Christ beardless
-#11DD327|Christ ~ human occupations - DD - Christ beardless
-#11DD3271|Christ as Good Shepherd - DD - Christ beardless
-#11DD3272|Christ as physician - DD - Christ beardless
-#11DD32721|Christ as apothecary - DD - Christ beardless
-#11DD3273|Christ fishing - DD - Christ beardless
-#11DD3274|Christ as pedlar - DD - Christ beardless
-#11DD3275|Christ as farmer or gardener - DD - Christ beardless
-#11DD3276|Christ as host - DD - Christ beardless
-#11DD3277|Christ as (high) priest or prophet - DD - Christ beardless
-#11DD3278|Christ as pilgrim - DD - Christ beardless
-#11DD3279|'Feiertagschristus', Christ with craftsman's tools - DD - Christ beardless
-#11DD328|types of adult Christ (alone) - DD - Christ beardless
-#11DD3281|Christ as woman - DD - Christ beardless
-#11DD3282|Christ in orans attitude - DD - Christ beardless
-#11DD3283|Christ as angel - DD - Christ beardless
-#11DD3284|Christ ~ Orpheus - DD - Christ beardless
-#11DD3285|Christ ~ Apollo (Helios) - DD - Christ beardless
-#11DD33|adult Christ together with others (non-narrative representations) - DD - Christ beardless
-#11DD331|adult Christ with Mary - DD - Christ beardless
-#11DD3311|Christ and Mary as bridegroom and bride - DD - Christ beardless
-#11DD332|adult Christ together with angels - DD - Christ beardless
-#11DD333|adult Christ ~ devil(s) and demonic creatures - DD - Christ beardless
-#11DD3331|Christ triumphing over devil(s) - DD - Christ beardless
-#11DD334|adult Christ together with apostles, evangelists, saints, etc. - DD - Christ beardless
-#11DD3341|Christ with John the Evangelist leaning on his breast, 'Johannesminne', 'Christus-Johannes-Gruppe' - DD - Christ beardless
-#11DD3342|'Traditio legis', 'Dominus legem dat', i.e. Christ giving a scroll (the Law) to Paul; Peter present - DD - Christ beardless
-#11DD33421|Christ giving a scroll (the Law) to Paul; apostle(s) present - DD - Christ beardless
-#11DD3343|Christ with penitent sinners (Adam, David, prodigal son, Mary Magdalene, good malefactor, Peter, etc.) - DD - Christ beardless
-#11DD335|adult Christ together with mortals - DD - Christ scornful, threatening, etc.
-#11DD3351|(adult) Christ appearing to mortals - DD - Christ scornful, threatening, etc.
-#11DD336|triumphant Christ, e.g. on triumphal chariot - DD - Christ beardless
-#11DD337|Christ on horseback - DD - Christ beardless
-#11DD3371|Christ on horseback leading an army of knights, 'Militia Christi' - DD - Christ beardless
-#11DD34|adult Christ ~ abstract conceptions - DD - Christ beardless
-#11DD35|specific types of crucified Christ (in non-narrative context) - DD - Christ beardless
-#11DD351|Christ suffering (with crown of thorns, head usually turned sidewards) - DD - Christ beardless
-#11DD352|Christ covered with pest-sores, 'Pestkruzifixus' - DD - Christ beardless
-#11DD353|Christ triumphing (with crown, head usually upright) - DD - Christ beardless
-#11DD354|Christ bowing down from the cross to embrace someone - DD - Christ beardless
-#11DD355|Christ crucified on a tree or on a vine - DD - Christ beardless
-#11DD356|Christ crucified on a 'living' cross - DD - Christ beardless
-#11DD357|the Virtues ~ crucified Christ - DD - Christ beardless
-#11DD36|other types of crucified Christ in non-narrative context - DD - Christ beardless
-#11DD422|the Sacred Heart - DD - the Christ-child and the Sacred Heart
-#11E|聖靈
-#11E1|Holy Ghost represented as a dove (in flames)
-#11E2|Holy Ghost represented as flames
-#11E3|Holy Ghost represented in human shape
-#11E4|Holy Ghost represented otherwise, e.g. ray(s) of light
-#11E5|the seven gifts of the Holy Ghost
-#11E51|the seven gifts of the Holy Ghost represented as seven doves
-#11E52|the seven gifts of the Holy Ghost represented as seven flames
-#11E53|the seven gifts of the Holy Ghost represented as seven lamps or as a seven-branched candelabrum
-#11E54|separate representations of the seven gifts of the Holy Ghost
-#11E541|'Sapientia', Wisdom; 'Sapienza divina' (Ripa) ~ one of the seven gifts of the Holy Ghost
-#11E542|'Intellectus', 'Intelligentia', Understanding ~ one of the seven gifts of the Holy Ghost
-#11E543|'Consilium', Counsel ~ one of the seven gifts of the Holy Ghost
-#11E544|'Fortitudo', Fortitude ~ one of the seven gifts of the Holy Ghost
-#11E545|'Pietas', Piety ~ one of the seven gifts of the Holy Ghost
-#11E546|'Scientia', Knowledge ~ one of the seven gifts of the Holy Ghost
-#11E547|'Timor Domini', Holy Fear ~ one of the seven gifts of the Holy Ghost
-#11F|圣母玛丽亚
-#11F1|symbols and prefigurations of Mary
-#11F11|symbols of Mary
-#11F111|symbols of Mary from litanies
-#11F111(...)|symbols (of Mary) from litanies (with TEXT)
-#11F112|Mary or Madonna with symbols of the Lauretanian Litany
-#11F12|monograms of Mary
-#11F13|coat of arms of Mary
-#11F14|'Defensorium inviolatae virginitatis'; symbols of virginal motherhood
-#11F15|prefigurations of Mary; Mary and her prefigurations
-#11F2|玛丽亚（基督诞生之前的）
-#11F21|Mary as child
-#11F22|'portraits' of Mary
-#11F23|upright figures of Mary without the Christ-child
-#11F231|Mary as orante (sometimes called 'Blacherniotissa')
-#11F232|'Immaculata', 'Purisima': Mary, usually standing on a crescent moon, descending from heaven, exempt from original sin (sometimes trampling serpent)
-#11F2321|'Immaculata', 'Purisima': Mary with saints
-#11F233|Mary standing or resting on the earth
-#11F234|pregnant Mary, Our Lady of Expectation, 'Madonna del Parto'
-#11F2341|pregnant Mary, Christ-child visible
-#11F235|opening Virgin
-#11F2351|Trinity inside the opening Virgin
-#11F2352|Passion of Christ inside the opening Virgin
-#11F236|'Aehrenkleidmaria' (sometimes with Christ-child)
-#11F24|sitting figures of Mary (alone)
-#11F241|Our Lady of the Sorrows
-#11F2411|the (Seven) Sorrows of Mary
-#11F2412|Mary pierced by seven swords
-#11F242|Our Lady of the Joys
-#11F2421|the (Seven) Joys of Mary
-#11F243|Mary and the unicorn
-#11F244|Mary enthroned
-#11F26|other types of Mary (alone)
-#11F25|'Mater Dolorosa'
-#11F251|Mary weeping
-#11F252|Mary pierced by a sword
-#11F253|Mary with the instruments of the Passion
-#11F261|Mary as bride of the Holy Ghost (with a dove on her bosom)
-#11F262|Mary as shepherdess
-#11F263|Mary as pilgrim
-#11F264|Mary as hermit (after Christ's death), 'Nostra señora de la Soledad'
-#11F265|Mary as doctor
-#11F266|Mary conquering the devil
-#11F267|Mary saving soul(s)
-#11F268|Mary as priestess, administering the Eucharist
-#11F3|Mary (without Christ-child), together with others
-#11F31|Mary interceding (with Christ), 'Maria Mediatrix' (sometimes Mary showing her breasts)
-#11F32|Mary together with mortals, who adore her, or implore her to help
-#11F33|Mary giving milk from her breasts, 'Lactatio'
-#11F34|Mary protecting mankind against the plague, e.g. by hiding people under her cloak; 'Pestbild'
-#11F35|Mary as Queen of the apostles
-#11F36|triumph of Mary, on triumphal chariot
-#11F4|圣母
-#11F41|Madonna: Mary standing (or half-length), Christ-child close to her bosom
-#11F411|Mary standing (or half-length), the Christ-child in front of her, close to her bosom
-#11F4111|Mary standing (or half-length), the Christ-child in front of her, close to her bosom; standing
-#11F4112|Mary standing (or half-length), the Christ-child in front of her, close to her bosom; sitting
-#11F41121|'Nikopoia' ~ Madonna
-#11F4113|Mary standing (or half-length), the Christ-child in front of her, close to her bosom; lying
-#11F412|Mary standing (or half-length), the Christ-child on her arm (Christ-child to Mary's left)
-#11F4121|Mary standing (or half-length), the Christ-child standing on her arm (Christ-child to Mary's left)
-#11F4122|Mary standing (or half-length), the Christ-child sitting on her arm (Christ-child to Mary's left)
-#11F41221|'Hodegetria' ~ Madonna
-#11F41222|'Dexiocratousa' ~ Madonna
-#11F41223|'Eleousa', 'Glykophilousa' ~ Madonna
-#11F4123|Mary standing (or half-length), the Christ-child lying on her arm (Christ-child to Mary's left)
-#11F41231|'Galaktotrophousa' ~ Madonna
-#11F413|specific types of standing (or half-length) Madonna's, without others
-#11F4131|'Platytera', i.e. Mary in orans-position with the Christ-child in a clipeus in front of her
-#11F41311|Mary, usually with the Christ-child, in orans-position in a fountain (of life)
-#11F4132|Madonna on the crescent of the moon (sometimes called Queen of Heaven) (in mandorla)
-#11F4133|Christ-child on Mary's arm fighting the dragon
-#11F4134|'Madonna della Vittoria', triumphing, e.g. over Protestantism
-#11F4135|'Marianum', Madonna in aureole or mandorla (surrounded by the rosary), Mary in the Glory
-#11F4136|Madonna on a column, 'Mariensäule'
-#11F4137|Madonna standing (or sitting) on a lion (of Judah)
-#11F42|Madonna: Mary sitting or enthroned, the Christ-child in her lap (or in front of her bosom) (Mary sometimes represented half-length)
-#11F421|Mary sitting or enthroned, the Christ-child in front of her in her lap (or in front of her bosom)
-#11F4211|Mary sitting or enthroned, the Christ-child in front of her, standing in her lap (or in front of her bosom)
-#11F4212|Mary sitting or enthroned, the Christ-child in front of her, sitting in her lap (or in front of her bosom)
-#11F42121|'Sedes Sapientiae'
-#11F42122|Madonna (or Mary alone) on the throne of Solomon, sometimes surrounded by virtues
-#11F4213|Mary sitting or enthroned, the Christ-child in front of her, lying in her lap (or in front of her bosom), sometimes in Pietà-posture
-#11F422|Mary sitting or enthroned, the Christ-child on her knee (Christ-child to Mary's left)
-#11F4221|Mary sitting or enthroned, the Christ-child standing on her knee (Christ-child to Mary's left)
-#11F4222|Mary sitting or enthroned, the Christ-child sitting on her knee (Christ-child to Mary's left)
-#11F4223|Mary sitting or enthroned, the Christ-child lying on her knee (Christ-child to Mary's left)
-#11F423|specific types of Madonna's sitting or enthroned (without others)
-#11F4231|Madonna in the rose-garden, 'Paradiesgärtlein'
-#11F4232|Madonna surrounded by a garland of flowers (or fruits)
-#11F4233|Madonna in a tree
-#11F43|Madonna: Mary sitting on the ground, the Christ-child in her lap
-#11F431|Mary sitting on the ground, the Christ-child in front of her in her lap
-#11F4311|Mary sitting on the ground, the Christ-child in front of her, standing in her lap
-#11F4312|Mary sitting on the ground, the Christ-child in front of her, sitting in her lap
-#11F4313|Mary sitting on the ground, the Christ-child in front of her, lying in her lap
-#11F43131|'Madonna dell'Umiltà' (usually Mary suckling the Christ-child while sitting on the ground)
-#11F4314|Mary sitting on the ground, the Christ-child in front of her, kneeling in her lap
-#11F432|Mary sitting on the ground, the Christ-child in her lap or on her knee (Christ-child to Mary's left)
-#11F4321|Mary sitting on the ground, the Christ-child standing or stepping in Mary's lap or on her knee (Christ-child to Mary's left)
-#11F4322|Mary sitting on the ground, the Christ-child sitting in Mary's lap or on her knee (Christ-child to Mary's left)
-#11F4323|Mary sitting on the ground, the Christ-child lying in Mary's lap or on her knee (Christ-child to Mary's left)
-#11F4324|Mary sitting on the ground, the Christ-child kneeling in Mary's lap or on her knee (Christ-child to Mary's left)
-#11F44|Madonna: Mary (standing) with the Christ-child free-standing (or leaning against her)
-#11F441|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her)
-#11F4411|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her); Christ-child standing
-#11F4412|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her); Christ-child sitting
-#11F4413|Mary (standing) with the Christ-child in front of her (free-standing); Christ-child lying
-#11F4414|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her); Christ-child kneeling
-#11F442|Mary (standing) with the Christ-child beside her (free-standing or leaning against her)
-#11F4421|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child standing
-#11F4422|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child sitting
-#11F4423|Mary (standing) with the Christ-child beside her (free-standing); Christ-child lying
-#11F4424|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child kneeling
-#11F45|Mary kneeling (on the ground), the Christ-child in front of her
-#11F451|Mary kneeling (on the ground), the Christ-child standing in front of her
-#11F452|Mary kneeling (on the ground), the Christ-child sitting in front of her
-#11F453|Mary kneeling (on the ground), the Christ-child lying in front of her
-#11F454|Mary kneeling (on the ground), the Christ-child kneeling in front of her
-#11F46|Christ-child sitting on Mary's shoulder
-#11F461|Mary standing, the Christ-child sitting on her shoulder
-#11F462|Mary sitting, enthroned, the Christ-child sitting on her shoulder
-#11F463|Mary sitting on the ground, the Christ-child sitting on her shoulder
-#11F464|Mary kneeling, the Christ-child sitting on her shoulder
-#11F5|Madonna (i.e. Mary with the Christ-child) in the air, or on the clouds
-#11F6|Madonna (i.e. Mary with the Christ-child) accompanied or surrounded by others
-#11F61|Madonna accompanied by saint(s)
-#11F611|'Sacra Conversazione'
-#11F612|'Ueber dich freut sich'
-#11F62|specific types of Madonna with others
-#11F621|'Regina Coeli', 'Regina Angelorum', 'Maestà' ~ Madonna
-#11F6211|'Regina Coeli', 'Regina Angelorum', 'Maestà', John the Baptist present
-#11F622|'Virgo inter Virgines'
-#11F623|Madonna of the Rosary
-#11F624|Mother of Mercy, 'Mater Misericordiae', 'Schutzmantelmadonna', 'Schutzmantelmaria'
-#11F63|Madonna (or Mary without Christ-child) as patroness or protectress, e.g. of a confraternity or lay order
-#11F7|specific aspects ~ Madonna-representations (N.B. secondary notations only)
-#11F71|specific aspects of Christ-child ~ Madonna-representations (N.B. secondary notation only)
-#11F711|Christ-child making speaking or blessing gestures ~ Madonna-representations
-#11F712|Christ-child looking out of the picture ~ Madonna-representations
-#11F713|Christ-child looking towards saint(s) or donor(s) ~ Madonna-representations
-#11F714|Christ-child sleeping ~ Madonna-representations
-#11F715|Christ-child holding something in his hand, e.g. apple, bird, cherries, crucifix, grapes, paper wind-mill ~ Madonna-representations
-#11F7151|Christ-child handing over something to someone ~ Madonna-representations
-#11F7152|Christ-child accepting, reaching out for something ~ Madonna-representations
-#11F716|Christ-child eating ~ Madonna-representations
-#11F717|Christ-child playing ~ Madonna-representations
-#11F7171|Christ-child playing with angels ~ Madonna-representations
-#11F7172|Christ-child playing with lamb ~ Madonna-representations
-#11F72|specific aspects of Christ-child and Mary ~ Madonna-representations (N.B. secondary notation only)
-#11F721|Christ-child looking or turning to Mary ~ Madonna-representations
-#11F722|Christ-child reaching out towards Mary; showing her something ~ Madonna-representations
-#11F723|Christ-child lifting Mary's veil, grappling at her dress, laying his hands on her breast ~ Madonna-representations
-#11F724|Christ-child throwing his arm(s) around her neck ~ Madonna-representations
-#11F725|Christ-child cheek to cheek with Mary, or kissing her ~ Madonna-representations
-#11F726|Christ-child suckling, or beginning to suckle, e.g. Mary uncovering her breast ~ Madonna-representations
-#11F7261|'ablactatio'; Christ not drinking, Mary's breast bare ~ Madonna-representations
-#11F7269|Christ-child refusing to drink from Mary's breast ~ Madonna-representation
-#11F727|Mary holding the inkpot, the Christ-child writing ~ Madonna-representations
-#11F728|the Christ-child crowning Mary ~ Madonna-representations
-#11F73|specific aspects of Mary ~ Madonna-representations (N.B. secondary notation only)
-#11F731|Mary holding something, e.g. apple, bunch of grapes, crucifix, goldfinch ~ Madonna-representations
-#11F732|Mary sitting on steps or a staircase ~ Madonna-representations
-#11F74|other specific aspects of Madonna-representations
+11A|神，上帝（一般性） 〜基督教
+11A1|上帝造物主
+11A11|上帝測量宇宙（用圓規）
+11A2|神性
+11A21|神性，'Divinità' （Ripa）
+11A22|神性〜象徵
+11A221|圓形象徵著上帝的全能
+11A23|上帝的完美無缺
+11A3|上帝的憤怒
+NOT 11A31
+TXT'Flagello di Dio' （Ripa）
+11B|三位一體， 'Trinitas coelestis': 聖父，聖子和聖靈〜基督教
+11B1|以三種象徵符號代表的三位一體
+11B11|三位一體象徵符號〜圓形和/或三角形構成的
+11B111|三個同心圓〜三位一體
+11B112|三個連環〜三位一體
+11B113|三角形（在圓形之內的） ，並帶有眼睛或四個字母組成的文字 〜三位一體
+11B114|三個動物，按幾何排列在圓形或三角形內〜三位一體
+11B115|三位奔跑的男人，組成一個圓形〜三位一體
+11B12|以三個頭部一個身體的人為代表的三位一體
+11B121|'Tricephalus' ，交融在一起的三個頭部或面部（ 〜三位一體​​）
+11B13|以三個頭部一個身體的動物為代表的三位一體
+11B14|以其它三種象徵符號代表的三位一體
+11B2|三位一體,其中每位（上帝，基督，聖靈）由一個物體或動物來再現
+11B21|三位一體的再現：手（聖父） ，羊肉（聖子） ，和鴿子（聖靈）
+11B22|三位一體的再現：手，十字架和鴿子
+11B23|三位一體的再現：手，聖杯和鴿子
+11B3|三位一體，其中一位，兩位或三位以人物來代表
+11B31|以三個人物代表的三位一體
+11B311|以三個面貌一致的人物代表的三位一體
+11B312|聖父和聖靈抱著被釘在十字架上的基督（ 〜三位一體​​）
+11B32|三位一體, 其中聖父和聖子以人物來再現，聖靈以鴿子來再現
+11B321|坐著的聖父抱著在他的腿上的年輕的基督（以馬內利）
+11B322|在寶座上的聖父和基督
+11B3221|面貌一致的聖父和基督
+11B3222|基督展示其傷口
+11B323|聖父抱著十字架上的或死去的基督
+11B3231|聖父抱著十字架， 'Gnadenstuhl' ，憐憫之座，施恩之寶座
+11B3232|站立著或坐著的聖父，抱著基督的身體， 'Pitié - de-Notre-Seigneur'，' Not Gottes'
+11B33|三位一體的各種再現方式
+11B331|三位一體的再現：人物 (聖父） ，羔羊（聖子） ，鴿子（聖靈）
+11B332|三位一體的再現：人物（聖父） ，獅子（聖子） ，鴿子（聖靈）
+11B333|三位一體的再現：符號（聖父） ，人物（聖子） ，鴿子（聖靈）
+11B4|'Ratschluss der Erlösung'，' Prolog im Himmel';救贖的聖旨
+11B41|救贖之神的命令，象徵性人物在現場，如：正義，慈悲，和平和真理（各種美德和諧一致）
+11B42|加百列阿的派遣〜' Ratschluss der Erlösung '
+11B43|加百列阿的歸來〜' Ratschluss der Erlösung '
+11B44|聖子的派遣〜' Ratschluss der Erlösung '
+11B45|聖子的歸來〜 'Ratschluss der Erlösung'
+11B5|三位一體的延伸
+11B51|四位一體（即三位一體加瑪利亞）
+11B52|Quinity
+11C|聖父
+11C1|聖父的象徵
+11C11|無所不見之眼，含有眼睛的三角形〜聖父的象徵
+11C12|手， 'Dextera Del'〜聖父的象徵
+11C13|四個字母組成的文字 （在羅馬或希伯來文字裡的） 〜聖父的象徵
+11C14|火(柱)〜聖父的象徵
+11C15|光（芒）〜聖父的象徵
+11C16|阿拉法和俄梅戛〜聖父的象徵
+11C2|再現為人類的聖父，通常還有皇冠或冕，或權杖和/或圓球
+11C21|作為年輕或成年男子的聖父（也許類似基督模樣）
+11C211|寶座上的聖父，一般還有權杖和/或圓球
+11C22|作為年輕或成年男子的聖父, 類似丘比特
+11C221|寶座上的聖父(類似丘比特)，一般還有權杖和/或圓球
+11C23|作為留鬚老年男子的聖父，通常還有皇冠或冕，或權杖和/或圓球
+11C231|寶座上(作為留鬚老年男子)的聖父，通常還有皇冠或冕，或權杖和/或圓球
+11C3|基督坐在上帝的右邊
+11C31|上帝給基督加冕
+11C32|上帝同時給基督和瑪利亞加冕
+11C4|'scala salutis' ，基督和瑪利亞代求聖父
+11C41|基督代求聖父
+11C5|其他再現形式〜聖父
+11C51|聖父在太陽和月亮之間
+11D|基督
+11D1|基督的象徵符號和預兆
+11D11|字母和交織字母〜基督的象徵符號
+11D111|阿拉法和俄梅戛,有時飾以花環,三角形,基督受難刑具,等等〜基督的象徵符號
+11D112|基督交織字母及派生形式〜基督的象徵符號
+11D113|IHS （' Iesus Hominum Salvator'） 〜基督的象徵符號
+11D1131|labarum ，即標有HIS符號的旗蠧
+11D1132|對耶穌名稱的崇拜
+11D114|'Ichthys'〜基督的象徵符號
+11D12|十字架〜基督的象徵符號
+11D121|作為基督象徵符號的十字架
+11D122|帶有基督象徵符號(如羔羊)的十字架
+11D1221|帶有基督頭像或胸像的十字架
+11D123|十字架的具體形式
+11D123(...)|十字架的具體形式（名稱）
+11D123(ANDREW'S CROSS)|十字架的具體形式：安德魯十字架
+11D123(ANSATE CROSS)|十字架的具體形式： 上端環狀十字架
+11D123(BENEDICTINE CROSS)|十字架的具體形式：本尼迪克特十字架
+11D123(CARAVACA CROSS)|十字架的具體形式：雙橫十字架
+11D123(FORKED CROSS)|十字架的具體形式：叉形十字架
+11D123(GREEK CROSS)|十字架的具體形式：希臘式十字架
+11D123(LORRAINE CROSS)|十字架的具體形式：洛林十字架
+11D123(SWASTIKA)|十字架的具體形式：卍十字架
+11D123(TAU-CROSS)|十字架的具體形式：T字形十字架
+11D124|對十字架的崇拜
+11D13|基督的（其他）象徵符號
+11D131|基督象徵符號〜動物
+11D1311|羔羊軸扛著十字架或旗幟, 'AGNUS Dei'〜基督的象徵符號
+11D132|基督的象徵符號〜植物
+11D133|基督的象徵符號〜器物
+11D1331|'Etimasia' ，為基督準備的寶座及生命冊
+11D134|麵包和魚〜基督的象徵符號
+11D14|基督的預兆，基督和他的預兆
+11D15|道成肉身〜基督
+11D2|作為兒童或青少年（一般）的基督 〜基督教
+11D21|基督-孩童（帶屬性）
+11D22|基督-孩童〜成人基督的種類
+11D23|基督-孩童〜受難， 'Schmerzenkind'。
+11D231|基督-孩童在受難刑具面前沉思
+11D232|基督-孩童被受難刑具環繞
+11D233|基督-孩童拿著受難刑具
+11D234|基督-孩童展示傷口
+11D235|基督-孩童纏繞荊冠，或手持帶刺的樹枝
+11D236|基督-孩童背著十字架
+11D237|基督-孩童跪在十字架前
+11D238|基督-孩童睡在十字架上
+11D24|作為聖餐象徵的基督-孩童
+11D241|基督-孩童在聖餐杯裡或聖餐杯上
+11D2411|'Melismos' 〜作為聖餐象徵的基督-孩童
+11D242|基督-孩童在神秘磨坊
+11D25|基督-孩童與其他人在一起
+11D26|作為青年人的基督
+11D261|基督'以馬內利'
+11D3|作為成人的基督
+11D31|基督的'肖像'
+11D311|'Mandylion'，即肖像，也許是基督自己為埃德薩的國王阿布加爾而製作，臉對著布印按而成
+11D3111|基督把Mandylion肖像贈送給國王阿布加爾的使者
+11D3112|Mandylion肖像被帶到埃德薩地方
+11D312|'Vera Icon'，' Sudarium' ，維羅尼卡面紗肖像
+11D3121|'Vera Icon' ，由維羅尼卡舉起
+11D3122|'Vera Icon' ，由天使舉起
+11D3123|'Vera Icon' ，由彼得和保羅舉起
+11D3124|'Vera Icon' ，由福音書四作者的四個象徵物舉起
+11D313|根據倫圖羅斯書敘述的基督'肖像'
+11D314|'Volto santo' ，如盧卡地方的（也許由尼哥底母雕刻）
+11D315|由路加製作的基督肖像
+11D316|醫治好血漏的女人的還願物
+11D317|基督的裹屍布上的（全身）像， 'Sindone'
+11D318|基督的（其它）'肖像' ，如側面像
+11D32|特定類型的成人基督（不含其他人）
+11D321|'Majestas Domini'：帶有橢圓形背光的基督坐於彩虹或球體之上, 並伴有四連圖像
+11D322|寶座上的基督
+11D3221|'Pantocrator' ， 基督(胸像)，作演說或賜福的姿勢，並拿著一本書
+11D3222|'Christus Rex'
+11D3223|基督作為（天國的）法官
+11D323|基督-'Logos'， 道成肉身
+11D324|'Salvator Mundi', 作賜福的手勢; 圓球在手裡或在腳下
+11D325|基督〜聖餐裡的聖體
+11D3251|基督與聖杯，麵包或聖餅
+11D3252|基督在酒榨中, 'Christus in der Kelter' （以賽亞書63:3 ）
+11D3253|基督在象徵磨坊裡
+11D326|'Fons Vitae','Fons Pieratis'
+11D3261|基督站立在噴泉上或噴泉邊，流著血
+11D3262|基督在(噴泉裡)十字架上，流著血
+11D327|基督〜人類職業
+11D3271|基督作為好牧人
+11D3272|基督作為醫生
+11D32721|基督作為藥劑師
+11D3273|基督在捕魚
+11D3274|基督作為貨郎
+11D3275|基督作為農民或園丁
+11D3276|基督作為聖餅
+11D3277|基督作為（高級）祭司或先知
+11D3278|基督作為朝聖者
+11D3279|'Feiertagschristus' ，基督與匠人工具
+11D328|成人基督的類型（單人）
+11D3281|基督作為女人
+11D3282|基督作Orans祈禱姿勢
+11D3283|基督作為天使
+11D3284|基督〜俄耳甫斯
+11D3285|基督〜阿波羅（赫利俄斯）
+11D33|成人基督與他人在一起（非敘事性再現）
+11D331|成人基督與馬利亞
+11D3311|基督和馬利亞作為新郎和新娘
+11D332|成人基督與天使在一起
+11D333|成人基督〜魔鬼（們）和妖怪
+11D3331|基督戰勝魔鬼（ 們）
+11D334|成人基督與使徒、福音書作者、聖徒等在一起
+11D3341|福音作者約翰靠在基督胸前， 'Johannesminne'，'Christ-Johannes-Gruppe'
+11D3342|'Traditio legis'，'Dominus legem dat' , 即基督把(法)卷遞予保羅; 彼得在場
+11D33421|基督把(法)卷遞予保羅; 使徒（們 ）在場
+11D3343|基督與懺悔的罪人（亞當，大衛，浪子，抹大拉的馬利亞，為義作惡者，彼得等）
+11D335|成人基督與凡人在一起
+11D3351|（成人）基督打扮成凡人
+11D336|勝利者基督，如在凱旋戰車上
+11D337|基督在馬背上
+11D3371|基督在馬背上帶領騎士隊伍，'Militia Christ'
+11D34|成人基督〜抽象的概念
+11D35|在十字架上基督的特定類型（非敘事性情境）
+11D351|基督受苦（帶荊冠，通常頭轉向側面）
+11D352|基督遍體瘡痍，' Pestkruzifixus '
+11D353|基督勝利（頭帶王冠，頭通常直立）
+11D354|基督從十字架上彎身擁抱某人
+11D355|基督被釘在樹上或在藤蔓上
+11D356|基督被釘在'活的'十字架上
+11D357|美德〜十字架上的基督
+11D36|非敘事情境中十字架上的基督的其他類型
+11D4|傳說和敬禮〜基督
+11D41|傳說〜基督
+11D411|十字聖架的傳說
+11D4111|賽特把知識之樹上的一個分枝放在亞當的墓上〜十字聖架的傳說
+11D41111|賽特尋找天堂;天使給他一個枝條或一隻油壺〜十字聖架的傳說
+11D4112|用於建造所羅門神廟的木料〜十字聖架的傳說
+11D4113|示巴王後禮拜用來建造一架橋樑的木料〜十字聖架的傳說
+11D4114|取自畢士大池畔的木料作為基督十字架的材料〜十字聖架的傳說
+11D4115|海倫娜看到天使抬著聖十字架〜十字聖架的傳說
+11D4116|十字聖架的發現
+11D41161|猶大，一個猶太人，被君士坦丁之母的海倫娜投入水井〜十字聖架的傳說
+11D41162|維納斯神廟附近三個十字架被挖出〜十字聖架的傳說
+11D41163|海倫娜認出十字聖架：一具屍體接觸它後隨即復活
+11D41164|海倫娜和君士坦丁跪在十字聖架前(或站在聖十字架旁)
+11D4117|豎立十字聖架，光榮十字聖架
+11D41171|赫拉克略皇帝擊敗波斯國王Chosroes二世，重新找到十字聖架的一部分
+11D41172|赫拉克略進入耶路撒冷：皇帝遵照天使指示，脫去皇袍，扛著十字聖架入城
+11D411721|赫拉克略皇帝進入耶路撒冷: 騎在驢背或馬背上〜十字聖架的傳說
+11D41173|十字聖架豎立在各各他（或一祭壇上）〜十字聖架的傳說
+11D41174|Chosroes二世，因不肯洗禮, 被處決〜十字聖架的傳說
+11D412|聖槍流血的傳說
+11D413|聖杯的傳說
+11D414|巴西里德的預言：在去耶路撒冷的途中，提多皇帝諮詢巴西里德, 一位卡梅爾教團的托缽僧, 後者向前者顯示聖父與死去的基督的景象
+11D42|敬禮〜基督
+11D421|基督的七次流血
+11D4211|單一場景再現基督的七次流血
+11D422|聖心
+11D423|聖血
+11D424|聖淚
+11D425|基督的長度
+11D43|遺物〜基督
+11D431|十字架碎片〜基督的遺物
+11D432|十字架的釘子〜基督的遺物
+11D433|聖槍〜基督的遺物
+11D434|基督的長袍〜基督的遺物
+11D435|'Scala Santa' ，彼拉多的宮殿裡的樓梯〜基督的遺物
+11D5|神秘觀念〜基督
+11D51|基督與靈魂
+11D511|靈魂是基督新娘
+11D52|基督與人心
+11D53|基督的血拯救人類
+11D6|基督雕像的奇蹟或基督-孩童
+11D6(...)|基督雕像的奇蹟或基督-孩童(名稱)
+11D9|敵基督者
+11D91|敵基督者的生活
+11DD3|作為成人的基督 - DD - 沒有鬍鬚的基督
+11DD31|基督的'肖像' - DD - 沒有鬍鬚的基督
+11DD311|'Mandylion'，即肖像，也許是基督自己為埃德薩的國王阿布加爾而製作，臉對著布印按而成 - DD - 沒有鬍鬚的基督
+11DD3111|基督把Mandylion肖像贈送給國王阿布加爾的使者 - DD - 沒有鬍鬚的基督
+11DD3112|該Mandylion被帶到埃德薩 - DD - 沒有鬍鬚的基督
+11DD312|Vera Icon'，' Sudarium' ，維羅尼卡面紗肖像- DD - 基督得勝
+11DD3121|'Vera Icon' ，由維羅尼卡舉起- DD - 基督得勝
+11DD3122|'Vera Icon'，由天使舉起 - DD - 基督得勝
+11DD3123|'Vera Icon', 由'彼得和保羅舉起 - DD - 基督得勝
+11DD313|根據倫圖羅斯書敘述的基督'肖像' - DD - 基督得勝
+11DD314|'Volto santo' ，如盧卡地方的（也許由尼哥底母雕刻) - DD - 沒有鬍鬚的基督
+11DD315|由路加製作的基督肖像 - DD - 沒有鬍鬚的基督
+11DD316|醫治好血漏的女人的還願物- DD - 沒有鬍鬚的基督
+11DD317|基督的裹屍布上的（全身）像， 'Sindone'- DD - 沒有鬍鬚的基督
+11DD318|基督的（其它）'肖像' ，如側面像- DD - 沒有鬍鬚的基督
+11DD32|特定類型的成人基督（不含其他人）- DD - 沒有鬍鬚的基督
+11DD321|'Majestas Domini'：帶有橢圓形背光的基督坐於彩虹或球體之上, 並伴有四連圖像- DD - 沒有鬍鬚的基督
+11DD322|寶座上的基督- DD - 沒有鬍鬚的基督
+11DD3221|'Pantocrator' ， 基督(胸像)，作演說或賜福的姿勢，並拿著一本書- DD - 沒有鬍鬚的基督
+11DD3222|Christus Rex' - DD - 沒有鬍鬚的基督
+11DD3223|基督為（天堂）法官 - DD - 沒有鬍鬚的基督
+11DD323|基督-'Logos'， 道成肉身 - DD - 沒有鬍鬚的基督
+11DD324|'Salvator Mundi', 作賜福的手勢; 圓球在手裡或在腳下 - DD - 沒有鬍鬚的基督
+11DD325|基督〜聖餐裡的聖體 - DD - 沒有鬍鬚的基督
+11DD3251|基督與聖杯，麵包或聖餅- DD - 沒有鬍鬚的基督
+11DD3252|基督在酒榨中, 'Christus in der Kelter' （以賽亞書63:3 ）- DD - 沒有鬍鬚的基督
+11DD3253|基督在象徵磨坊裡- DD - 沒有鬍鬚的基督
+11DD326|Fons Vitae','Fons Pietatis'- DD - 沒有鬍鬚的基督
+11DD3261|基督站立在噴泉上或噴泉邊，流著血- DD - 沒有鬍鬚的基督
+11DD3262|基督在(噴泉裡)十字架上，流著血- DD - 沒有鬍鬚的基督
+11DD327|基督〜人類職業 - DD - 沒有鬍鬚的基督
+11DD3271|基督作為好牧人  - DD - 沒有鬍鬚的基督
+11DD3272|基督作為醫師 - DD - 沒有鬍鬚的基督
+11DD32721|基督為藥劑師 - DD - 沒有鬍鬚的基督
+11DD3273|基督在捕魚 - DD - 沒有鬍鬚的基督
+11DD3274|基督作為貨郎 - DD - 沒有鬍鬚的基督
+11DD3275|基督作為農民或園丁 - DD - 沒有鬍鬚的基督
+11DD3276|基督作為聖餅 - DD - 沒有鬍鬚的基督
+11DD3277|基督作為（高級）祭司或先知 - DD - 沒有鬍鬚的基督
+11DD3278|基督作為朝聖者 - DD - 沒有鬍鬚的基督
+11DD3279|'Feiertagschristus' ，基督與匠人工具 - DD - 沒有鬍鬚的基督
+11DD328|成人基督的類型（單人） - DD - 沒有鬍鬚的基督
+11DD3281|基督作為女人 - DD - 沒有鬍鬚的基督
+11DD3282|基督作舉雙手手掌向上祈禱姿勢 - DD - 沒有鬍鬚的基督
+11DD3283|基督作為天使 - DD - 沒有鬍鬚的基督
+11DD3284|基督〜俄耳甫斯 - DD - 沒有鬍鬚的基督
+11DD3285|基督〜阿波羅（赫利俄斯） - DD - 沒有鬍鬚的基督
+11DD33|成人基督與他人在一起（非敘事性再現） - DD - 沒有鬍鬚的基督
+11DD331|成人基督與馬利亞 - DD - 沒有鬍鬚的基督
+11DD3311|基督和馬利亞作為新郎和新娘 - DD - 沒有鬍鬚的基督
+11DD332|成人基督與天使 - DD - 沒有鬍鬚的基督
+11DD333|成人基督〜魔鬼（們）和妖怪 - DD - 沒有鬍鬚的基督
+11DD3331|基督戰勝魔鬼（ 們） - DD - 沒有鬍鬚的基督
+11DD334|成人基督與使徒、福音書作者、聖徒等在一起 - DD - 沒有鬍鬚的基督
+11DD3341|福音作者約翰靠在基督胸前， 'Johannesminne'，'Christ-Johannes-Gruppe' - DD -  沒有鬍鬚的基督
+11DD3342|'Traditio legis'，'Dominus legem dat' , 即基督把(法)卷遞予保羅; 彼得在場 - DD - 沒有鬍鬚的基督
+11DD33421|基督把(法)卷遞予保羅; 使徒（們 ）在場 - DD - 沒有鬍鬚的基督
+11DD3343|基督與懺悔的罪人（亞當，大衛，浪子，抹大拉的馬利亞，為義作惡者，彼得等） - DD - 沒有鬍鬚的基督
+11DD335|成人基督與凡人在一起 - DD - 基督受輕蔑，恐嚇，等等
+11DD3351|（成人）基督打扮成凡人 - DD - 基督受輕蔑，恐嚇，等等
+11DD336|勝利的基督，如在凱旋戰車上 - DD - 沒有鬍鬚的基督
+11DD337|基督在馬背上 - DD - 沒有鬍鬚的基督
+11DD3371|基督在馬背上帶領騎士隊伍,'Militia Christ' - DD - 沒有鬍鬚的基督
+11DD34|成人基督〜抽象的概念 - DD - 沒有鬍鬚的基督
+11DD35|在十字架上基督的特定類型（非敘事性情境） - DD - 沒有鬍鬚的基督
+11DD351|基督受苦（帶荊冠，通常頭轉向側面） - DD - 沒有鬍鬚的基督
+11DD352|基督遍體瘡痍，' Pestkruzifixus' - DD - 沒有鬍鬚的基督
+11DD353|基督勝利（頭帶王冠，頭通常直立） - DD - 沒有鬍鬚的基督
+11DD354|基督從十字架上彎身擁抱某人 - DD - 沒有鬍鬚的基督
+11DD355|基督被釘在樹上或在藤蔓上- DD - 沒有鬍鬚的基督
+11DD356|基督被釘在'活的'十字架上 - DD - 沒有鬍鬚的基督
+11DD357|美德〜十字架上的基督 - DD - 沒有鬍鬚的基督
+11DD36|非敘事情境中十字架上基督的其他類型 - DD - 沒有鬍鬚的基督
+11DD422|聖心 - DD - 基督 - 孩子和聖心
+11E|聖靈
+11E1|聖靈再現為（火焰中的）一隻鴿子
+11E2|聖靈再現為火焰
+11E3|聖靈再現為人
+11E4|聖靈再現為其它，如光芒
+11E5|聖靈七恩
+11E51|聖靈七恩再現為七隻鴿子
+11E52|聖靈七恩再現為七個火焰
+11E53|聖靈七恩再現為七盞油燈或七枝燭台
+11E54|聖靈七恩的單一再現
+11E541|'Sapientia', 智慧;'Sapienza divina' (Ripa) 〜 聖靈七恩之一
+11E542|'Intellectus','Intelligentia', 明達 〜 聖靈七恩之一
+11E543|'Consilium', 超見〜聖靈七恩之一
+11E544|'Fortitudo', 剛毅〜聖靈七恩之一
+11E545|'Pietas', 孝愛〜 聖靈七恩之一
+11E546|'Scientia', 知識〜聖靈七恩之一
+11E547|'Timor Domini', 敬畏〜聖靈七恩之一
+11F|貞女馬利亞
+11F1|馬利亞的象徵符號和預兆
+11F11|馬利亞的象徵符號
+11F111|禱文中馬利亞的象徵符號
+11F111(...)|禱文中馬利亞的象徵符號（帶文字）
+11F112|馬利亞與Lauretanian禱文象徵符號
+11F12|馬利亞的交織字母
+11F13|馬利亞的紋章
+11F14|'Defensorium inviolatae virginitatis';貞女的象徵
+11F15|馬利亞的預兆; 馬利亞與她的預兆
+11F2|馬利亞（沒有基督-孩童）
+11F21|馬利亞作為孩童
+11F22|馬利亞的'肖像'
+11F23|沒有基督-孩童的站立著的馬利亞
+11F231|馬利亞作為orante禱告者 （有時被稱為 'Blacherniotissa'）
+11F232|'Immaculata','Purisima': 馬利亞通常站在新月之上，從天而降，無原罪（有時腳踏蟒蛇）
+11F2321|'Immaculata','Purisima': 馬利亞與聖徒們
+11F233|馬利亞站或坐在地上
+11F234|受胎之馬利亞，期待之聖母,'Madonna Parto'
+11F2341|受胎之馬利亞，及可視基督-孩童形象
+11F235|展開胸膛之聖母
+11F2351|聖母展開胸膛之內的三位一體
+11F2352|聖母展開胸膛之內的耶穌受難
+11F236|'Ährenkleidmaria' （有時包括基督-孩童）
+11F24|坐著的馬利亞（單人）
+11F241|痛苦聖母
+11F2411|聖母七苦
+11F2412|馬利亞被七把劍所刺
+11F242|喜樂聖母
+11F2421|馬利亞(七)樂
+11F243|馬利亞和獨角獸
+11F244|寶座上的馬利亞
+11F26|other types of Mary (alone)
+11F25|'Mater Dolorosa'
+11F251|馬利亞哭泣
+11F252|馬利亞被一把劍所刺
+11F253|馬利亞與受難刑具
+11F261|馬利亞作為聖靈的新娘（她的胸前有一隻鴿子）
+11F262|馬利亞作為牧羊女
+11F263|馬利亞作為朝聖者
+11F264|馬利亞作為隱士（基督死亡以後),'Nostra señora de la Soledad'
+11F265|馬利亞作為醫生
+11F266|馬利亞征服魔鬼
+11F267|馬利亞拯救(眾)靈魂
+11F268|馬利亞作為女祭司，管理聖餐
+11F3|馬利亞（無基督-孩童） ，與他人在一起
+11F31|馬利亞代求（有基督),'Maria Mediatrix' （有時馬利亞顯示出乳房）
+11F32|馬利亞與凡人在一起，他們崇拜她，或者懇求她幫助
+11F33|馬利亞哺乳, 'Lactatio'
+11F34|馬利亞保護人類對抗瘟疫，如把人們罩在她的斗篷下面; 'Pestbild'
+11F35|馬利亞作為使徒們的女王
+11F36|勝利馬利亞，在凱旋戰車上
+11F4|聖母：即馬利亞與基督-孩童
+11F41|聖母：馬利亞站立（或半身), 基督-孩童靠在胸前
+11F411|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前
+11F4111|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前, 站姿
+11F4112|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前, 坐姿
+11F41121|'Nikopoia'〜聖母馬利亞
+11F4113|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前, 躺姿
+11F412|馬利亞站立（或半身） ，基督-孩童在她手臂上(基督-孩童在馬利亞左側)
+11F4121|馬利亞站立（或半身） ，基督-孩童站在她手臂上(基督-孩童在馬利亞左側)
+11F4122|馬利亞站立（或半身） ，基督-孩童坐在她手臂上(基督-孩童在馬利亞左側)
+11F41221|'Hodegetria'〜聖母馬利亞
+11F41222|聖母
+11F41223|'Eleousa'，'Glykophilousa'〜聖母
+11F4123|馬利亞站立（或半身） ，基督-孩童坐在她手臂上(基督-孩童在馬利亞左側)
+11F41231|'Galaktotrophousa'〜聖母
+11F413|特定類型的站立（或半身）聖母，無其他人
+11F4131|'Platytera' ，即馬利亞作Orans祈禱姿勢, 基督-孩童在她面前圓形盾牌裡
+11F41311|馬利亞，通常包括基督-孩童，在一個(生命)噴泉裡作Orans祈禱姿勢
+11F4132|(帶橢圓形背光的)聖母在新月之上（有時也被稱為天國女王）
+11F4133|在馬利亞手臂上的基督-孩童與龍搏鬥
+11F4134|'Madonna della Vittoria', 戰勝，如戰勝新教
+11F4135|'Marianum', 帶圓形或橢圓形背光的聖母（為念珠環繞） ，光榮馬利亞
+11F4136|圓柱上的聖母， 'Mariensäule'
+11F4137|聖母在站立(或坐)在(猶大)獅子上
+11F42|聖母: 坐著或寶座上的馬利亞, 基督-孩童在她腿上(或在她胸前)(有時馬利亞是半身像)
+11F421|馬利亞坐著或在寶座上, 基督-孩童在她面前, 在她的腿上(或在她的胸前)
+11F4211|馬利亞坐著或在寶座上, 基督-孩童在她面前, 站在她的腿上(或在她的胸前)
+11F4212|馬利亞坐著或在寶座上, 基督-孩童在她面前, 坐在她的腿上(或在她的胸前)
+11F42121|'Sedes Sapientiae'
+11F42122|聖母（或馬利亞獨自一人）在所羅門寶座上，有時由美德環繞
+11F4213|馬利亞坐著或在寶座上, 基督-孩童在她面前, 躺在她的腿上(或在她的胸前), 有時作聖殤姿勢
+11F422|馬利亞坐著或在寶座上, 基督-孩童在她膝上 (基督-孩童在馬利亞左側)
+11F4221|馬利亞坐著或在寶座上, 基督-孩童站在她膝上 (基督-孩童在馬利亞左側)
+11F4222|馬利亞坐著或在寶座上, 基督-孩童坐在她膝上 (基督-孩童在馬利亞左側)
+11F4223|馬利亞坐著或在寶座上, 基督-孩童躺在她膝上 (基督-孩童在馬利亞左側)
+11F423|特定類型的聖母的坐姿或在寶座上（無其他人）
+11F4231|聖母在玫瑰園， 'Paradiesgärtlein'
+11F4232|聖母被花環（或水果）環繞
+11F4233|聖母在樹裡
+11F43|聖母：馬利亞坐在地上，基督-孩童在她的腿上
+11F431|馬利亞坐在地上，基督-孩童在她面前, 在她的腿上
+11F4311|馬利亞坐在地上，基督-孩童在她的面前，站在她的腿上
+11F4312|馬利亞坐在地上，基督-孩童在她的面前，坐在她的腿上
+11F4313|馬利亞坐在地上，基督-孩童在她的面前，躺在她的腿上
+11F43131|Madonna dell'Umiltà' （通常是馬利亞坐在地上給基督-孩童哺乳）
+11F4314|馬利亞坐在地上，基督-孩童在她的面前，跪在她的腿上
+11F432|馬利亞坐在地上，基督-孩童在她的腿上或她的膝上（基督-孩童在馬利亞的左側）
+11F4321|馬利亞坐在地上，基督-孩子站在或踩在她的腿上或她的膝上（基督-孩子在馬利亞的左側）
+11F4322|馬利亞坐在地上，基督-孩子坐在她的腿上或她的膝上（基督-孩子在馬利亞的左側）
+11F4323|馬利亞坐在地上，基督-孩子躺在她的腿上或她的膝上（基督-孩子在馬利亞的左側）
+11F4324|馬利亞坐在地上，基督-孩子跪在她的腿上或她的膝上（基督-孩子馬利亞的左側）
+11F44|聖母：馬利亞（站立著）, 基督-孩子單獨站著（或靠著她）
+11F441|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）
+11F4411|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她), 基督-孩童站立著
+11F4412|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童坐著
+11F4413|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童躺著
+11F4414|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童跪著
+11F442|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）
+11F4421|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童站立著
+11F4422|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）,基督-孩童坐著
+11F4423|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童躺著
+11F4424|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童跪著
+11F45|馬利亞跪（在地面上） ，基督-孩童在她面前
+11F451|馬利亞跪（在地面上） ，基督-孩童站在她面前
+11F452|馬利亞跪（在地面上） ，基督-孩童坐在她面前
+11F453|馬利亞跪（在地面上） ，基督-孩童躺在她面前
+11F454|馬利亞跪（在地面上） ，基督-孩童跪在她面前
+11F46|基督的孩子坐在瑪麗的肩膀上
+11F461|瑪麗站立著，基督-孩童坐在她的肩膀上
+11F462|馬利亞坐在寶座上, 基督-孩童坐在她的肩膀上
+11F463|馬利亞坐在地上, 基督-孩童坐在她的肩膀上
+11F464|，馬利亞跪, 基督-孩童坐在她的肩膀上
+11F5|聖母（即馬利亞與基督-孩童）在空中, 或在雲端
+11F6|聖母（即馬利亞與基督-孩童）由他人陪伴或由他人環繞
+11F61|聖母由聖徒(們)陪伴
+11F611|'Sacra Conversazione'
+11F612|'Über dich freut sich'
+11F62|特定類型的聖母與其他人
+11F621|'Regina Coeli','Regina Angelorum','Maestà' ~ 聖母
+11F6211|'Regina Coeli','Regina Angelorum','Maestà', 施洗者約翰在場
+11F622|'Virgo inter Virgines'
+11F623|玫瑰經聖母
+11F624|慈悲之母,'Mater Misericordiae','Schutzmantelmadonna','Schutzmantelmaria'
+11F63|聖母（或無基督-孩童的馬利亞）作為贊助人或保護人，如：一個修會或者平信徒會
+11F7|特定方面〜聖母的再現（注：只用於二級標注）
+11F71|基督-孩童的特定方面〜聖母的再現（注：只用於二級標注）
+11F711|基督-孩童作演說或賜福的姿勢〜聖母的再現
+11F712|基督-孩童向畫外看〜聖母的再現
+11F713|基督-孩童看著聖徒（們）或施主（們） 〜聖母的再現
+11F714|基督-孩童在睡覺〜聖母的再現
+11F715|基督-孩子手裡拿著東西，如蘋果，鳥，櫻桃，受難像十字架，葡萄，紙風車〜聖母的再現
+11F7151|基督-孩童將東西交給別人〜聖母的再現
+11F7152|基督-孩童接受，伸手取東西〜聖母的再現
+11F716|基督-孩童在吃〜聖母的再現
+11F717|基督-孩童在玩〜聖母的再現
+11F7171|基督-孩童和天使在玩耍〜聖母的再現
+11F7172|基督-孩童和羔羊在玩耍〜聖母的再現
+11F72|基督-孩童和馬利亞的特定方面〜聖母的再現（注：只用於二級標注）
+11F721|基督-孩童看著或轉向馬利亞〜聖母的再現
+11F722|基督-孩童朝著馬利亞伸手; 讓她看東西〜聖母的再現
+11F723|基督-孩童掀起馬利亞的面紗，拉著她的衣服，手放在她的乳房上〜聖母的再現
+11F724|基督-孩童展開雙臂抱住她的脖子〜聖母的再現
+11F725|基督-孩童臉靠著馬利亞的臉，或親吻她〜聖母的再現
+11F726|基督-孩童吃奶，或開始吃奶，如馬利亞顯示她的乳房〜聖母的再現
+11F7261|'ablactatio';基督不在吃奶，馬利亞的乳房袒露〜聖母的再現
+11F7269|基督-孩童拒絕從瑪麗的乳房吃奶〜聖母的再現
+11F727|馬利亞拿著墨水瓶，基督-孩童在書寫〜聖母的再現
+11F728|基督-孩童為瑪麗加冕〜聖母的再現
+11F73|馬利亞的特定方面〜聖母的再現（注：只用於二級標注）
+11F731|瑪麗拿著東西，例如蘋果，一串葡萄，十字架，金翅雀〜聖母的再現
+11F732|瑪麗坐在台階或樓梯〜聖母的再現
+11F74|聖母的再現的其他具體方面
 #11F741|John the Baptist as child ~ Madonna-representations (N.B. secondary notation only)
 #11F8|miracles, appearances, and legends ~ Mary
 #11F81|miraculous statues of Mary or the Madonna
