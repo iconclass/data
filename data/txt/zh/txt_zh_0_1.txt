@@ -46,7 +46,7 @@ TXT'Flagello di Dio' （Ripa）
 11B332|三位一體的再現：人物（聖父） ，獅子（聖子） ，鴿子（聖靈）
 11B333|三位一體的再現：符號（聖父） ，人物（聖子） ，鴿子（聖靈）
 11B4|'Ratschluss der Erlösung'，' Prolog im Himmel';救贖的聖旨
-11B41|救贖之神的命令，象徵性人物在現場，如：正義，慈悲，和平和真理（各種美德和諧一致）
+11B41|救贖之神的命令，寓言化人物在現場，如：正義，慈悲，和平和真理（各種美德和諧一致）
 11B42|加百列阿的派遣〜' Ratschluss der Erlösung '
 11B43|加百列阿的歸來〜' Ratschluss der Erlösung '
 11B44|聖子的派遣〜' Ratschluss der Erlösung '
@@ -404,7 +404,7 @@ TXT'Flagello di Dio' （Ripa）
 11F41221|'Hodegetria'〜聖母馬利亞
 11F41222|聖母
 11F41223|'Eleousa'，'Glykophilousa'〜聖母
-11F4123|馬利亞站立（或半身） ，基督-孩童坐在她手臂上(基督-孩童在馬利亞左側)
+11F4123|馬利亞站立（或半身） ，基督-孩童躺在她手臂上(基督-孩童在馬利亞左側)
 11F41231|'Galaktotrophousa'〜聖母
 11F413|特定類型的站立（或半身）聖母，無其他人
 11F4131|'Platytera' ，即馬利亞作Orans祈禱姿勢, 基督-孩童在她面前圓形盾牌裡
@@ -8685,8 +8685,8 @@ TXT'Flagello di Dio' （Ripa）
 #11HH(WILGEFORTIS)84|the martyr Wilgefortis (Uncumber, Liberata); possible attributes: beard, crown, fiddler (with shoe), shoe - beatification, canonization of female saint
 #11HH(WILGEFORTIS)9|the martyr Wilgefortis (Uncumber, Liberata); possible attributes: beard, crown, fiddler (with shoe), shoe - portrait of female saint
 #11HH0|group of female saints
-#11I|先知，女巫，等
-#11I1|先知
+#11I|先知, 女巫, 福音書作者, 教會博士; 人物 ~ 聖經 (不在聖經文本裡)
+#11I1|成組的先知, 通常拿著書本或書卷 (以賽亞, 耶利米, 以西結, 但以利, 何西阿, 約珥, 阿摩斯, 俄巴底, 約拿, 米迦, 那鴻, 哈巴谷, 西番雅, 哈該, 撒迦利雅, 瑪拉基) 
 #11I11|the four major prophets (not in biblical context): Isaiah, Jeremiah, Ezekiel, Daniel
 #11I12|the twelve minor prophets (not in biblical context): Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
 #11I13|the sixteen prophets, i.e. the four major and the twelve minor prophets together (not in biblical context)
@@ -8695,8 +8695,8 @@ TXT'Flagello di Dio' （Ripa）
 #11I16|(single) prophet, unspecified
 #11I19|non-biblical prophets
 #11I19(...)|non-biblical prophets (with NAME)
-#11I2|女巫
-#11I2(...)|sibyls (with NAME)
+11I2|女巫
+11I2(...)|女巫 (人名)
 #11I2(AGRIPPINE)|Agrippine sibyl
 #11I2(CUMAEAN)|Cumaean sibyl
 #11I2(ERYTHRAEAN)|Erythraean sibyl
@@ -8712,7 +8712,7 @@ TXT'Flagello di Dio' （Ripa）
 #11I35|other groups of apostles
 #11I351|the twelve apostles, Judas Iscariot included
 #11I36|(single) apostle, unspecified
-#11I4|evangelists, usually with books or scrolls (not in biblical context)
+11I4|福音書作者們, 通常拿著書本或書卷 (不在聖經上下文裡)
 #11I41|the four evangelists together (author portraits)
 #11I411|the evangelists writing
 #11I4111|the evangelists inspired, e.g. by the Holy Ghost (dove), hand of God, Mary, angel
@@ -8734,12 +8734,12 @@ TXT'Flagello di Dio' （Ripa）
 #11I43|the four evangelists ~ other themes
 #11I431|the four evangelists ~ Doctors of the Church
 #11I432|the four evangelists ~ the four main prophets
-#11I5|Doctors (Fathers) of the Church
+11I5|教會博士 (神父)
 #11I51|the four Latin (Western) Fathers of the Church together: Ambrose (usually as bishop), Jerome (usually as cardinal), Augustine (usually as bishop), Gregory the Great (usually as pope)
 #11I52|the four Greek (Eastern) Fathers of the Church together: Basil the Great, Gregory of Nazianzus, John Chrysostom and Athanasius the Great
 #11I521|the four Greek Fathers of the Church, with Cyril of Alexandria as fifth Father
 #11I53|other groups of Fathers of the Church
-#11I6|旧约中人物
+11I6|舊約中人物 (不在聖經上下文裡, 也不在71部份的傳說/文學分部裡)
 #11I61|groups of persons from the Old Testament
 #11I611|patriarchs from the Old Testament (not in biblical context)
 #11I6111|the three patriarchs together: Abraham, Isaac, Jacob (not in biblical context)
@@ -9123,8 +9123,8 @@ TXT'Flagello di Dio' （Ripa）
 #11I62(TUBALCAIN)6|Tubalcain (not in biblical context) - post-mortem occurrences of male persons from the Old Testament, e.g. finding and transportation of relics
 #11I62(TUBALCAIN)7|other activities, relationships, etc. of Tubalcain
 #11I62(TUBALCAIN)71|Tubalcain and Jubal forging nails
-#11I63|female persons from the Old Testament (not in biblical context)
-#11I63(...)|female persons from the Old Testament (with NAME) (not in biblical context)
+11I63|舊約中的女性人物 (不在聖經上下文裡)
+11I63(...)|舊約中的女性人物 (人名) (不在聖經上下文裡)
 #11I63(...)1|female persons from the Old Testament (with NAME) (not in biblical context) - foundress, initiatrix ~ Old Testament
 #11I63(...)2|female persons from the Old Testament (with NAME) (not in biblical context) - patroness, female intercessor ~ Old Testament
 #11I63(...)3|female persons from the Old Testament (with NAME) (not in biblical context) - (other) specific aspects, e.g. allegorical and symbolical aspects ~ female persons from the Old Testament
@@ -9259,8 +9259,8 @@ TXT'Flagello di Dio' （Ripa）
 #11I63(SHEBA)5|Sheba (not in biblical context); possible attributes of Sheba (as negress): goosefeet, scroll - legendary/historical addition to life-story of female persons from the Old Testament
 #11I63(SHEBA)6|Sheba (not in biblical context); possible attributes of Sheba (as negress): goosefeet, scroll - post-mortem occurrences of female persons from the Old Testament, e.g. finding and transportation of relics
 #11I63(SHEBA)7|Sheba (not in biblical context); possible attributes of Sheba (as negress): goosefeet, scroll - relationships, etc. of female persons from the Old Testament
-#11I7|persons from the New Testament (not in biblical context)
-#11I71|persons from the New Testament (in general, especially groups)
+11I7|新約中的人物 (不在聖經上下文裡)
+11I71|新約中的人物 (一般性的, 特別是成組的)
 #11I711|the twenty-four Elders
 #11I72|male persons from the New Testament (not in biblical context)
 #11I72(...)|male persons from the New Testament (with NAME) (not in biblical context)
@@ -9351,14 +9351,14 @@ TXT'Flagello di Dio' （Ripa）
 #11II43|the four evangelists ~ other themes - II - the evangelists without their symbols
 #11II431|the four evangelists ~ Doctors of the Church - II - the evangelists without their symbols
 #11II432|the four evangelists ~ the four main prophets - II - the evangelists without their symbols
-#11II614|groups of heroines from the Old Testament (not in biblical context)
-#11K|魔与妖
-#11K(...)|devil(s) and demons (with NAME)
+11II614|舊約中成組的女英雄 (不在聖經上下文裡)
+11K|魔鬼和妖怪
+11K(...)|魔鬼和妖怪 (名稱)
 #11K(BEHEMOTH)|devil(s) and demons: Behemoth
 #11K(LEVIATHAN)|devil(s) and demons: Leviathan
 #11K(LUCIFER)|devil(s) and demons: Lucifer
 #11K(SATAN)|devil(s) and demons: Satan
-#11K1|human-shaped devil
+11K1|具有人形的魔鬼
 #11K11|human-shaped devil ~ winged youth
 #11K12|human-shaped devils ~ musculous Hades type
 #11K121|human-shaped devils ~ musculous Hades type with wings
@@ -9366,19 +9366,20 @@ TXT'Flagello di Dio' （Ripa）
 #11K14|human-shaped devils ~ handsome seducer
 #11K15|devil as a woman
 #11K2|devils in the form of (fabulous) animals
-#11K2(...)|devils in the form of (fabulous) animals (with NAME)
-#11K3|devils in other than human or animal form
-#11K3(...)|devils in other form (with NAME)
-#11K31|devils in purely fantasy shape
+11K2|具有(神話般的)動物形狀的魔鬼
+11K2(...)|具有(神話般的)動物形狀的魔鬼 (名稱)
+11K3|具有其它形狀的魔鬼
+11K3(...)|具有其它形狀的魔鬼 (名稱)
+11K31|魔鬼的活動
 #11K4|activities of devil(s)
 #11K41|devil(s) appearing to mortals, trying to seduce them; temptation
 #11K42|pact with the devil, selling one's soul to the devil
 #11K43|devil or demons attacking mortals
 #11K431|incubus or succubus descending on sleeping person, having sexual intercourse
-#11K5|worshipping the devil
+11K5|魔鬼崇拜
 #11K51|Black Mass
-#11L|基督教教義
-#11L1|Old Testament and New Testament ~ Christian doctrine
+11L|基督教學說
+11L1|舊約和新約  ~  基督教學說
 #11L11|Old Testament and New Testament compared
 #11L111|Moses gives the Old Testament to 'Ecclesia'
 #11L112|the mystic mill; 'Hostienmühle'
@@ -9389,7 +9390,7 @@ TXT'Flagello di Dio' （Ripa）
 #11L142|'sub lege'
 #11L143|'sub gratia'
 #11L15|personification of Holy Writ, 'Sacra Scriptura'
-#11L2|the ten commandments (Exodus 20:3-17)
+11L2|十誡 (出埃及記 20:3-17)
 #11L21|the ten commandments represented together
 #11L211|the ten commandments represented together on stone tablets
 #11L22|separate representations ~ the ten commandments
@@ -9403,7 +9404,7 @@ TXT'Flagello di Dio' （Ripa）
 #11L227|'you shall not steal' ~ separate representation of the eigth of the ten commandments
 #11L228|'you shall not bear false witness' ~ separate representation of the ninth of the ten commandments
 #11L229|'you shall not covet' ~ separate representation of the tenth of the ten commandments
-#11L3|the articles of faith; confessions
+11L3|信條; 懺悔
 #11L31|creed, credo
 #11L311|the apostolic creed, 'symbolum apostolicum'
 #11L3111|first part of the articles of faith
@@ -9426,8 +9427,8 @@ TXT'Flagello di Dio' （Ripa）
 #11L32(...)|protestant confessions (with NAME)
 #11L321|'Confessio Augustana', 'Augsburger Konfession'
 #11L33|'Konfessionsbild'
-#11L4|catechism
-#11L5|Canon Law, ethics, and theological sciences
+11L4|教義問答
+11L5|教會法, 倫理, 和神學
 #11L51|Canon Law; 'Legge canonica' (Ripa)
 #11L52|Ethics; 'Etica' (Ripa)
 #11L521|casuistry
@@ -9462,38 +9463,38 @@ TXT'Flagello di Dio' （Ripa）
 #11L5423|liturgical theology
 #11L59|atheism; rejecting religion
 #11L591|atheist
-#11L6|books, treatises, etc. ~ Christian doctrine and religion
+11L6|著作, 論文, 等等 ~ 基督教學說和宗教
 #11L61|'De Civitate Dei', by St. Augustine
 #11L611|'Civitas Dei'
 #11L6111|Bethlehem (the 'heathen' church), and Jerusalem (the 'Jewish' church)
-#11L9|heretic doctrine
-#11M|善
-#11M1|'Sapientia', mother of the Seven Virtues
+11L9|異端學說
+11M|'Sapientia' 和七德, 即神學三德和四樞德
+11M1|'Sapientia', 七德之母 
 #11M11|temple of 'Sapientia', with seven columns
-#11M2|the Seven Virtues (symbolized)
+11M2|七德之象徵符號
 #11M21|tree of Virtues
 #11M22|ladder of Virtues
 #11M23|garden of Virtues
-#11M3|the Three Theological Virtues
+11M3|神學三德
 #11M30|the Three Theological Virtues ~ Barbara, Catharine and Mary Magdalene
 #11M31|Faith, 'Fides'; 'Fede', 'Fede catholica', 'Fede christiana', 'Fede christiana catholica' (Ripa) ~ one of the Three Theological Virtues
 #11M311|godliness ~ the Three Theological Virtues
 #11M312|Piety, 'Pietas', 'Timor Dei' ~ the Three Theological Virtues
 #11M32|Hope, 'Spes'; 'Speranza divina e certa' (Ripa) ~ one of the Three Theological Virtues
 #11M33|Charity, 'Caritas'; 'Carità' (Ripa) ~ one of the Three Theological Virtues
-#11M4|the Four Cardinal Virtues
+11M4|四樞德
 #11M41|Prudence, 'Prudentia'; 'Prudenza' (Ripa) ~ one of the Four Cardinal Virtues
 #11M42|Temperance, 'Temperantia'; 'Temperanza' (Ripa) ~ one of the Four Cardinal Virtues
 #11M43|Fortitude, 'Fortitudo' ~ one of the Four Cardinal Virtues
 #11M44|Justice, 'Justitia'; 'Giustitia divina' (Ripa) ~ one of the Four Cardinal Virtues
-#11MM3|the Three Theological Virtues - MM - Virtues triumphant
+11MM3|神學三德 - MM - 美德勝利
 #11MM30|the Three Theological Virtues ~ Barbara, Catharine and Mary Magdalene - MM - Virtues triumphant
 #11MM31|Faith, 'Fides'; 'Fede', 'Fede catholica', 'Fede christiana', 'Fede christiana catholica' (Ripa) ~ one of the Three Theological Virtues - MM - Virtues triumphant
 #11MM311|godliness ~ the Three Theological Virtues - MM - Virtues triumphant
 #11MM312|Piety, 'Pietas', 'Timor Dei' ~ the Three Theological Virtues - MM - Virtues triumphant
 #11MM32|Hope, 'Spes'; 'Speranza divina e certa' (Ripa) ~ one of the Three Theological Virtues - MM - Virtues triumphant
 #11MM33|Charity, 'Caritas'; 'Carità' (Ripa) ~ one of the Three Theological Virtues - MM - Virtues triumphant
-#11MM4|the Four Cardinal Virtues - MM - triumph
+11MM4|四樞德 - MM - 勝利
 #11MM41|Prudence, 'Prudentia'; 'Prudenza' (Ripa) ~ one of the Four Cardinal Virtues - MM - triumph
 #11MM42|Temperance, 'Temperantia'; 'Temperanza' (Ripa) ~ one of the Four Cardinal Virtues - MM - triumph
 #11MM43|Fortitude, 'Fortitudo' ~ one of the Four Cardinal Virtues - MM - triumph
@@ -9506,7 +9507,7 @@ TXT'Flagello di Dio' （Ripa）
 #11N21|dragon with seven heads ~ the Seven deadly Sins symbolized
 #11N22|Tree of Vices, Tree of Corruption
 #11N23|man above a pit, with seven swords in his body ~ the Seven deadly Sins symbolized
-#11N3|the Seven Deadly Sins (personified)
+11N3|七宗原罪 (人格化)
 #11N31|Pride; 'Superbia' (Ripa) ~ personification of one of the Seven Deadly Sins
 #11N32|Envy; 'Invidia' (Ripa) ~ personification of one of the Seven Deadly Sins
 #11N33|Anger; 'Ira' (Ripa) ~ personification of one of the Seven Deadly Sins
@@ -9515,14 +9516,14 @@ TXT'Flagello di Dio' （Ripa）
 #11N36|Lust, Luxury, 'Luxuria'; 'Lussuria' (Ripa) ~ personification of one of the Deadly Sins
 #11N361|Garden of Delights (sometimes called 'Hortus Deliciarum')
 #11N37|Sloth, Indolence, 'Acedia', 'Desidia'; 'Accidia' (Ripa) ~ personification of one of the Seven Deadly Sins
-#11N4|Unbelief, 'Infidelitas'
+11N4|無信仰, 'Infidelitas'
 #11N41|Idolatry; 'Idololatria', 'Religione finta' (Ripa)
 #11N42|Heresy; 'Heresia' (Ripa)
 #11N43|Impiety; 'Impietà' (Ripa)
 #11N44|Sacrilege; 'Sacrilegio' (Ripa)
 #11N45|Blasphemy
-#11N5|venial sin
-#11NN3|the Seven Deadly Sins (personified) - NN - triumph
+11N5|輕罪
+11NN3|七宗原罪 (人格化) - NN - 勝利
 #11NN31|Pride; 'Superbia' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
 #11NN32|Envy; 'Invidia' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
 #11NN33|Anger; 'Ira' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
@@ -9531,12 +9532,12 @@ TXT'Flagello di Dio' （Ripa）
 #11NN36|Lust, Luxury, 'Luxuria'; 'Lussuria' (Ripa) ~ personification of one of the Deadly Sins - NN - triumph
 #11NN361|Garden of Delights (sometimes called 'Hortus Deliciarum') - NN - triumph
 #11NN37|Sloth, Indolence, 'Acedia', 'Desidia'; 'Accidia' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
-#11O|美德和惡習，Psychomachy之間的紛爭
-#11O1|one Virtue fighting against or treading upon one Vice
+11O|美德和惡習，Psychomachy之間的紛爭
+11O1|美德之一與罪惡之一在搏鬥, 或把罪惡之一踩在腳下
 #11O11|one Virtue vs. figure representing a Vice
 #11O12|figure representing a Virtue vs. a Vice
-#11P|教会
-#11P1|allegorical and symbolical representations ~ the Church and Religion
+11P|教會(作為機構的)
+11P1|寓言化的和象徵的表現 ~ 教會與宗教
 #11P11|the Church personified, 'Ecclesia', usually with chalice and banner
 #11P110|triumph of the Church (or Religion)
 #11P111|'Ecclesia' born from Christ's side
