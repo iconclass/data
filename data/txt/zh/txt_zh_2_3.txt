@@ -1,492 +1,491 @@
 2|自然
-20|“自然”（寓言人物或場景;或作為戴安娜以弗所，許多乳房）; “自然”（馬國賢）
-21|四行
-#210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
-21A|空氣（四要素之一）
-#21A0|'Aria', 'Carro dell'aria' (Ripa)
-21A1|空氣，空氣精靈精神
-21B|大地（四要素之一）
-#21B0|'Terra', 'Carro della terra' (Ripa)
-#21B1|spirit of the earth, gnome, troll
-21C|火（四要素之一）
-#21C0|'Fuoco', 'Carro del fuoco' (Ripa)
-21D|水（四大要素之一）
-#21D0|'Acqua', 'Carro dell'acqua' (Ripa)
-#21D1|spirit of water, nix, undine
-21D2|水冰〜狀態
-21D3|蒸汽
-#21E|ether as 'quinta essentia'
+20|Natura' (寓言化的形象或景象; 或作為 以弗所的狄安娜, 有許多乳房); 'Natura' (Ripa)
+21|四元素, 和以太第五元素
+210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
+21A|氣 (四元素之一)
+21A0|'Aria', 'Carro dell'aria' (Ripa)
+21A1|氣之精靈, sylph
+21B|土 (四元素之一)
+21B0|'Terra', 'Carro della terra' (Ripa)
+21B1|土地之精靈, 土地神, 侏儒/巨人
+21C|火 (四元素之一)
+21C0|'Fuoco', 'Carro del fuoco' (Ripa)
+21D|水 (四元素之一)
+21D0|'Acqua', 'Carro dell'acqua' (Ripa)
+21D1|水之精靈, 水妖, 女水神
+21D2|冰 ~ 水的狀態
+21D3|蒸氣
+21E|以太作為 'quinta essentia'
 22|自然現象
-22A|材料
-#22A0|Matter (allegorical representation)
-#22A1|chemical substances
-#22A1(...)|chemical substances (with NAME)
-#22A2|chemical phenomena
-#22A21|chemical reaction
-#22A3|physical phenomena
-#22A31|states of matter
-#22A311|solid (state of matter)
-#22A312|liquid (state of matter)
-#22A3121|condensation
-#22A31211|vapour trail
-#22A313|gas (state of matter)
-22B|電學和磁學
-#22B1|electrical phenomena
-#22B11|spark ~ electricity
-#22B2|magnetic phenomena
-#22B21|magnet
-#22B22|magnetic force
-#22B221|attractive force, attraction ~ magnetic force
-#22B222|repulsive force, repulsion ~ magnetic force
+22A|物質
+22A0|物質 (寓言化再現)
+22A1|化學物質
+22A1(...)|化學物質 (名稱)
+22A2|化學現象
+22A3|物理現象
+22A31|物質的狀態
+22A311|固態 (物質的狀態)
+22A312|液態 (物質的狀態)
+22A3121|凝固 
+22A31211|霧化痕跡
+22A313|氣體 (物質的狀態)
+22B|電和磁性
+22B1|電的現象
+22B11|火花 ~ 電
+22B2|磁的現象
+22B21|磁鐵
+22B22|磁力
+22B221|吸引力, 吸引 ~  磁力
+22B222|排斥力, 排斥 ~  磁力
 22C|光
-#22C1|natural light
-#22C11|rays of natural light
-#22C2|artificial light
-#22C21|rays of artificial light
-#22C3|supernatural light
-#22C31|radiance emanating from persons or things
-#22C311|nimbus, halo ~ radiance emanating from persons or things
-#22C3111|cross-nimbus
-#22C3112|square or rhombic nimbus
-#22C3113|star-shaped nimbus
-#22C3114|rays as nimbus
-#22C3115|(golden) thread as nimbus
-#22C3116|other types of nimbus, halo
-#22C312|mandorla
-#22C3121|oval or almond-shaped mandorla
-#22C3122|circular mandorla
-#22C32|light shining out of the heavens
-22C4|顏色, 顏料, 和 油漆
-#22C4(...)|colours, pigments, and paints (with NAME)
-#22C4(BLACK)|colours, pigments, and paints: black
-#22C4(BLUE)|colours, pigments, and paints: blue
-#22C4(BROWN)|colours, pigments, and paints: brown
-#22C4(GOLD)|colours, pigments, and paints: gold
-#22C4(GREEN)|colours, pigments, and paints: green
-#22C4(PURPLE)|colours, pigments, and paints: purple
-#22C4(RED)|colours, pigments, and paints: red
-#22C4(WHITE)|colours, pigments, and paints: white
-#22C4(YELLOW)|colours, pigments, and paints: yellow
-#22C5|reflection (light in general)
-#22C8|shadow
-#22C81|shadow of an object
-#22C9|darkness
-#22C90|'Buio' (Ripa)
-#22C91|half-light
+22C1|自然光
+22C11|自然光線
+22C2|人造光
+22C21|人造光線
+22C3|超自然光
+22C31|人或物發光
+22C311|光環, 光圈 ~ 人或物發光
+22C3111|十字形-光環
+22C3112|正方形或菱形光環
+22C3113|星形光環
+22C3114|光線作為光環
+22C3115|(金色)線作為光環
+22C3116|其它類型的光環, 光圈
+22C312|神像畫中人體光環
+22C3121|橢圓形或杏仁形人體光環
+22C3122|圓形人體光環
+22C32|天空放射出的光
+22C4|色彩, 顏料, 和顏色
+22C4(...)|色彩, 顏料, 和顏色 (名稱)
+22C4(BLACK)|色彩, 顏料, 和顏色 (黑色)
+22C4(BLUE)|色彩, 顏料, 和顏色 (藍色)
+22C4(BROWN)|色彩, 顏料, 和顏色 (棕色)
+22C4(GOLD)|色彩, 顏料, 和顏色 (金色)
+22C4(GREEN)|色彩, 顏料, 和顏色 (綠色)
+22C4(PURPLE)|色彩, 顏料, 和顏色 (紫色)
+22C4(RED)|色彩, 顏料, 和顏色 (紅色)
+22C4(WHITE)|色彩, 顏料, 和顏色 (白色)
+22C4(YELLOW)|色彩, 顏料, 和顏色 (黃色)
+22C5|反射 (一般)
+22C8|投影
+22C81|一個物體的投影
+22C9|黑暗
+22C90|'Buio' (Ripa)
+22C91|半明
 22D|聲音
-#22D1|loud sound, noise
-#22D11|harmonious sound, harmony, consonance
-#22D110|'Armonia' (Ripa)
-#22D12|disharmonious sound, dissonance
-#22D2|soft sound
-#22D3|sound-barrier
-#22D4|echo
-#22D9|silence
+22D1|大聲, 噪音
+22D11|和諧的聲音, 和聲, 共鳴
+22D110|'Armonia' (Ripa)
+22D12|不和諧的聲音, 不協調
+22D2|柔聲
+22D3|聲障
+22D4|回聲
+22D9|寂靜
 22E|溫度
-#22E1|heat
-#22E11|glowing (heat)
-#22E12|burning
-#22E13|radiating (heat)
-#22E2|coldness
-#22E21|freezing
-#22E22|absolute zero point
-#22E3|temperature scales
-#22E31|Fahrenheit (temperature scale)
-#22E32|Réaumur (temperature scale)
-#22E33|Celsius (temperature scale)
-#22E34|other temperature scales
-#22E34(...)|other temperature scales (with NAME)
-#22E4|thermometer
-23|时间
-#23A|allegory of Time and Eternity
-#23A1|Father Time, man with wings and scythe
-#23A11|other allegories of Time, e.g. 'Tempo' (Ripa)
-#23A2|Eternity, 'Aeternitas'; 'Eternità','Eternità o Perpetuità' (Ripa)
-#23A21|serpent Ouroboros
-#23A3|past, present and future
-#23A31|past
-#23A32|present
-#23A33|future
-#23A4|allegorical representations of the effects of time
-#23A41|Time revealing Truth; Time carrying Truth aloft
-#23A411|Time denuding Truth
-#23A42|Time concealing the Past
-#23A43|Time rewarding Industry and punishing Sloth
-#23A44|fugacity of Time
-#23A441|Time causing the ruin of buildings, etc.
-#23A45|Time abducting Beauty
-#23B|period of more than one year
-#23B1|period of more than 1000 years
-#23B2|millennium
-#23B3|100 years, century
-#23B30|'Secolo' (Ripa)
-#23B4|50 years
-#23B5|25 years
-#23B6|12 1/2 years
-#23B7|10 years, decade
-#23B8|5 years, lustrum
-#23B9|other periods
-#23B9(...)|other periods (with NUMBER of years)
-#23C|year, solar year
-#23C1|'Annus', personification of the year; 'Anno', 'Carro dell'anno' (Ripa)
-#23C2|lunar year
-#23C3|sidereal year
-#23D|seasons of the year (esp. personifications); 'Stagione', 'Le quattro stagione dell'anno' (Ripa)
-#23D1|not used
-#23D2|year divided into two seasons
-#23D21|winter half-year
-#23D22|summer half-year
-#23D23|strife of summer and winter
-#23D3|year divided into three seasons
-#23D31|year divided into three seasons (first series)
-#23D311|January - April (year divided into three seasons)
-#23D312|May - August (year divided into three seasons)
-#23D313|September - December (year divided into three seasons)
-#23D32|year divided into three seasons (second series)
-#23D321|December - March (year divided into three seasons)
-#23D322|April - July (year divided into three seasons)
-#23D323|August - November (year divided into three seasons)
-#23D4|year divided into four seasons
-#23D41|winter, 'Hyems'; 'Inverno' (Ripa)
-#23D42|spring, 'Ver'; 'Primavera' (Ripa)
-#23D43|summer, 'Aestas'; 'Estate' (Ripa)
-#23D44|autumn, fall, 'Autumnus'; 'Autunno' (Ripa)
-#23D5|year divided into five seasons
-#23D6|year divided into six seasons
-#23D61|year divided into six seasons (first series)
-#23D611|January and February (year divided into six seasons)
-#23D612|March and April (year divided into six seasons)
-#23D613|May and June (year divided into six seasons)
-#23D614|July and August (year divided into six seasons)
-#23D615|September and October (year divided into six seasons)
-#23D616|November and December (year divided into six seasons)
-#23D62|year divided into six seasons (second series)
-#23D621|December and January (year divided into six seasons)
-#23D622|February and March (year divided into six seasons)
-#23D623|April and May (year divided into six seasons)
-#23D624|June and July (year divided into six seasons)
-#23D625|August and September (year divided into six seasons)
-#23D626|October and November (year divided into six seasons)
-#23E|seasons of the year represented by scenes showing human activities, usually in a landscape
-#23E2|year divided into two seasons ~ human activities
-#23E21|winter half-year ~ human activities (year divided into two seasons)
-#23E22|summer half-year ~ human activities (year divided into two seasons)
-#23E23|strife of summer and winter ~ human activities (year divided into two seasons)
-#23E3|year divided into three seasons ~ human activities
-#23E31|year divided into three seasons ~ human activities (first series)
-#23E311|January - April ~ human activities (year divided into three seasons)
-#23E312|May - August ~ human activities (year divided into three seasons)
-#23E313|September - December ~ human activities (year divided into three seasons)
-#23E32|year divided into three seasons ~ human activities (second series)
-#23E321|December - March ~ human activities (year divided into three seasons)
-#23E322|April - July ~ human activities (year divided into three seasons)
-#23E323|August - November ~ human activities (year divided into three seasons)
-#23E4|the four seasons of the year ~ human activities
-#23E41|winter ~ human activities (the four seasons of the year)
-#23E42|spring ~ human activities (the four seasons of the year)
-#23E43|summer ~ human activities (the four seasons of the year)
-#23E44|autumn ~ human activities (the four seasons of the year)
-#23E5|year divided into five seasons ~ human activities
-#23E6|year divided into six seasons ~ human activities
-#23E61|year divided into six seasons ~ human activities (first series)
-#23E611|January and February ~ human activities (year divided into six seasons)
-#23E612|March and April ~ human activities (year divided into six seasons)
-#23E613|May and June ~ human activities (year divided into six seasons)
-#23E614|July and August ~ human activities (year divided into six seasons)
-#23E615|September and October ~ human activities (year divided into six seasons)
-#23E616|November and December ~ human activities (year divided into six seasons)
-#23E62|year divided into six seasons ~ human activities (second series)
-#23E621|December and January ~ human activities (year divided into six seasons)
-#23E622|February and March ~ human activities (year divided into six seasons)
-#23E623|April and May ~ human activities (year divided into six seasons)
-#23E624|June and July ~ human activities (year divided into six seasons)
-#23E625|August and September ~ human activities (year divided into six seasons)
-#23E626|October and November ~ human activities (year divided into six seasons)
-#23F|seasons of the year represented by landscapes
-#23F2|year divided into two seasons ~ landscapes
-#23F21|winter half-year ~ landscapes (year divided into two seasons)
-#23F22|summer half-year ~ landscapes (year divided into two seasons)
-#23F23|strife of summer and winter ~ landscapes (year divided into two seasons)
-#23F3|year divided into three seasons ~ landscapes
-#23F31|year divided into three seasons ~ landscapes (first series)
-#23F311|January - April ~ landscapes (year divided into three seasons)
-#23F312|May - August ~ landscapes (year divided into three seasons)
-#23F313|September - December ~ landscapes (year divided into three seasons)
-#23F32|year divided into three seasons ~ landscapes (second series)
-#23F321|December - March ~ landscapes (year divided into three seasons)
-#23F322|April - July ~ landscapes (year divided into three seasons)
-#23F323|August - November ~ landscapes (year divided into three seasons)
-#23F4|the four seasons of the year ~ landscapes
-#23F41|winter landscape; landscape symbolizing winter (the four seasons of the year)
-#23F42|spring landscape; landscape symbolizing spring (the four seasons of the year)
-#23F43|summer landscape; landscape symbolizing summer (the four seasons of the year)
-#23F44|autumn landscape; landscape symbolizing autumn (the four seasons of the year)
-#23F5|year divided into five seasons ~ landscapes
-#23F6|year divided into six seasons ~ landscapes
-#23F61|year divided into six seasons ~ landscapes (first series)
-#23F611|January and February ~ landscapes (year divided into six seasons)
-#23F612|March and April ~ landscapes (year divided into six seasons)
-#23F613|May and June ~ landscapes (year divided into six seasons)
-#23F614|July and August ~ landscapes (year divided into six seasons)
-#23F615|September and October ~ landscapes (year divided into six seasons)
-#23F616|November and December ~ landscapes (year divided into six seasons)
-#23F62|year divided into six seasons ~ landscapes (second series)
-#23F621|December and January ~ landscapes (year divided into six seasons)
-#23F622|February and March ~ landscapes (year divided into six seasons)
-#23F623|April and May ~ landscapes (year divided into six seasons)
-#23F624|June and July ~ landscapes (year divided into six seasons)
-#23F625|August and September ~ landscapes (year divided into six seasons)
-#23F626|October and November ~ landscapes (year divided into six seasons)
-#23G|seasons of the year represented by still lifes of flowers and/or fruits
-#23G2|year divided into two seasons ~ still lifes of flowers and/or fruits
-#23G21|winter half-year ~ still lifes of flowers and/or fruits (year divided into two seasons)
-#23G22|summer half-year ~ still lifes of flowers and/or fruits (year divided into two seasons)
-#23G23|strife of summer and winter ~ still lifes of flowers and/or fruits (year divided into two seasons)
-#23G3|year divided into three seasons ~ still lifes of flowers and/or fruits
-#23G31|year divided into three seasons ~ still lifes of flowers and/or fruits (first series)
-#23G311|January - April ~ still lifes of flowers and/or fruits (year divided into three seasons)
-#23G312|May - August ~ still lifes of flowers and/or fruits (year divided into three seasons)
-#23G313|September - December ~ still lifes of flowers and/or fruits (year divided into three seasons)
-#23G32|year divided into three seasons ~ still lifes of flowers and/or fruits (second series)
-#23G321|December - March ~ still lifes of flowers and/or fruits (year divided into three seasons)
-#23G322|April - July ~ still lifes of flowers and/or fruits (year divided into three seasons)
-#23G323|August - November ~ still lifes of flowers and/or fruits (year divided into three seasons)
-#23G4|the four seasons of the year ~ still lifes of flowers and/or fruits
-#23G41|still life symbolizing winter (the four seasons of the year)
-#23G42|still life symbolizing spring (the four seasons of the year)
-#23G43|still life symbolizing summer (the four seasons of the year)
-#23G44|still life symbolizing autumn (the four seasons of the year)
-#23G5|year divided into five seasons ~ still lifes of flowers and/or fruits
-#23G6|year divided into six seasons ~ still lifes of flowers and/or fruits
-#23G61|year divided into six seasons ~ still lifes of flowers and/or fruits (first series)
-#23G611|January and February ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G612|March and April ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G613|May and June ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G614|July and August ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G615|September and October ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G616|November and December ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G62|year divided into six seasons ~ still lifes of flowers and/or fruits (second series)
-#23G621|December and January ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G622|February and March ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G623|April and May ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G624|June and July ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G625|August and September ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23G626|October and November ~ still lifes of flowers and/or fruits (year divided into six seasons)
-#23H|seasons of the year represented by concepts other than personifications, human activities, landscapes, or still lifes of flowers and/or fruits (e.g. biblical scenes)
-#23H2|year divided into two seasons ~ other concepts (e.g. biblical scenes)
-#23H21|winter half-year ~ other concepts (e.g. biblical scenes) (year divided into two seasons)
-#23H22|summer half-year ~ other concepts (e.g. biblical scenes) (year divided into two seasons)
-#23H23|strife of summer and winter ~ other concepts (e.g. biblical scenes) (year divided into two seasons)
-#23H3|year divided into three seasons ~ other concepts (e.g. biblical scenes)
-#23H31|year divided into three seasons ~ other concepts (e.g. biblical scenes) (first series)
-#23H311|January - April ~ other concepts (e.g. biblical scenes) (year divided into three seasons)
-#23H312|May - August ~ other concepts (e.g. biblical scenes) (year divided into three seasons)
-#23H313|September - December ~ other concepts (e.g. biblical scenes) (year divided into three seasons)
-#23H32|year divided into three seasons ~ other concepts (e.g. biblical scenes) (second series)
-#23H321|December - March ~ other concepts (e.g. biblical scenes) (year divided into three seasons)
-#23H322|April - July ~ other concepts (e.g. biblical scenes) (year divided into three seasons)
-#23H323|August - November ~ other concepts (e.g. biblical scenes) (year divided into three seasons)
-#23H4|the four seasons of the year ~ other concepts (e.g. biblical scenes)
-#23H41|winter ~ other concepts (e.g. biblical scenes) (the four seasons of the year)
-#23H42|spring ~ other concepts (e.g. biblical scenes) (the four seasons of the year)
-#23H43|summer ~ other concepts (e.g. biblical scenes) (the four seasons of the year)
-#23H44|autumn ~ other concepts (e.g. biblical scenes) (the four seasons of the year)
-#23H5|year divided into five seasons ~ other concepts (e.g. biblical scenes)
-#23H6|year divided into six seasons ~ other concepts (e.g. biblical scenes)
-#23H61|year divided into three seasons ~ other concepts (e.g. biblical scenes) (first series)
-#23H611|January and February ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H612|March and April ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H613|May and June ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H614|July and August ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H615|September and October ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H616|November and December ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H62|year divided into three seasons ~ other concepts (e.g. biblical scenes) (second series)
-#23H621|December and January ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H622|February and March ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H623|April and May ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H624|June and July ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H625|August and September ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23H626|October and November ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-#23I|the twelve months (especially personifications); 'Mese in generale' (Ripa)
-#23I1|months of the first quarter of the year
-#23I11|January; 'Gennaro' (Ripa)
-#23I12|February; 'Febraro' (Ripa)
-#23I13|March; 'Marzo' (Ripa)
-#23I2|months of the second quarter of the year
-#23I21|April; 'Aprile' (Ripa)
-#23I22|May; 'Maggio' (Ripa)
-#23I23|June; 'Giugno' (Ripa)
-#23I3|months of the third quarter of the year
-#23I31|July; 'Luglio' (Ripa)
-#23I32|August; 'Agosto' (Ripa)
-#23I33|September; 'Settembre' (Ripa)
-#23I4|months of the fourth quarter of the year
-#23I41|October; 'Ottobre' (Ripa)
-#23I42|November; 'Novembre' (Ripa)
-#23I43|December; 'Decembre' (Ripa)
+22E1|熱
+22E11|熾(熱)
+22E12|火熱
+22E13|(熱)輻射
+22E2|冷
+22E21|冰冷
+22E22|絕對零度
+22E3|溫標
+22E31|華氏 (溫標)
+22E32|列氏 (溫標)
+22E33|攝氏 (溫標)
+22E34|其他溫標
+22E34(...)|其他溫標 (名稱)
+22E4|溫度計
+23|時間
+23A|時間和永恆的寓言
+23A1|時光老人, 一個帶翅和長柄大鐮刀的男性
+23A11|時間的其他寓言, 如  'Tempo' (Ripa)
+23A2|永恆, 'Aeternitas'; 'Eternità','Eternità o Perpetuità' (Ripa)
+23A21|含尾蛇
+23A3|過去, 現在和未來
+23A31|過去, 現在和未來
+23A32|現在
+23A33|未來
+23A4|寓言化再現時光產生的結果
+23A41|時光顯示真理; 時間高舉真理
+23A411|時間使真理赤裸
+23A42|時間掩隱過去
+23A43|時間獎賞勤奮和懲罰怠惰
+23A44|時光易逝
+23A441|時光造成建築廢墟
+23A45|時光拐走美麗
+23B|長於一年的時期
+23B1|長於百年的時期
+23B2|一千年
+23B3|一百年, 世紀
+23B30|'Secolo' (Ripa)
+23B4|50年
+23B5|25年
+23B6|121/2年
+23B7|10年, decade
+23B8|5年, lustrum
+23B9|其他時期
+23B9(...)|其他時期 (年數)
+23C|年, 陽年
+23C1|Annus', 年的人格化; 'Anno', 'Carro dell'anno' (Ripa)
+23C2|年, 陰年
+23C3|恆星年
+23D|一年中的季節 (特別是人格化的); 'Stagione', 'Le quattro stagione dell'anno' (Ripa)
+23D1|
+23D2|一年分成兩個季節
+23D21|冬季半年
+23D22|夏季半年
+23D23|冬夏季之間的爭鬥
+23D3|一年分成三個季節
+23D31|一年分成三個季節 (第一序列)
+23D311|一月-四月 (一年分成三個季節)
+23D312|五月-八月 (一年分成三個季節) 
+23D313|九月-十二月 (一年分成三個季節)
+23D32|一年分成三個季節 (第二序列)
+23D321|十二月-三月 (一年分成三個季節)
+23D322|四月-七月 (一年分成三個季節)
+23D323|八月-十一月 (一年分成三個季節)
+23D4|一年分成四個季節
+23D41|冬季,  'Hyems'; 'Inverno' (Ripa)
+23D42|春季,  'Ver'; 'Primavera' (Ripa)
+23D43|夏季, 'Aestas'; 'Estate' (Ripa)
+23D44|秋季,  'Autumnus'; 'Autunno' (Ripa)
+23D5|一年分成五個季節
+23D6|一年分成六個季節
+23D61|一年分成六個季節 (第一序列)
+23D611|一月-二月 (一年分成六個季節)
+23D612|三月-四月 (一年分成六個季節)
+23D613|五月-六月 (一年分成六個季節)
+23D614|七月-八月 (一年分成六個季節)
+23D615|九月-十月 (一年分成六個季節)
+23D616|十一月-十二月 (一年分成六個季節)
+23D62|一年分成六個季節 (第二序列)
+23D621|十二月-一月 (一年分成六個季節)
+23D622|二月-三月 (一年分成六個季節)
+23D623|四月-五月 (一年分成六個季節)
+23D624|六月-七月 (一年分成六個季節)
+23D625|八月-九月 (一年分成六個季節)
+23D626|十月-十一月 (一年分成六個季節)
+23E|季節由人類活動場景表現, 通常在風景裡
+23E2|一年分成兩個季節 ~ 人類活動
+23E21|冬季半年 ~ 人類活動 (一年兩季)
+23E22|夏季半年 ~ 人類活動 (一年兩季)
+23E23|冬夏季之間的爭鬥 ~ 人類活動
+23E3|一年分成三個季節 ~ 人類活動
+23E31|一年分成三個季節 ~ 人類活動 (第一序列)
+23E311|一月-四月 ~ 人類活動 (一年分成三個季節)
+23E312|五月-八月 ~ 人類活動 (一年分成三個季節) 
+23E313|九月-十二月 ~ 人類活動 (一年分成三個季節)
+23E32|一年分成三個季節 ~ 人類活動 (第二序列)
+23E321|十二月-三月 ~ 人類活動 (一年分成三個季節)
+23E322|四月-七月 ~ 人類活動 (一年分成三個季節)
+23E323|八月-十一月 ~ 人類活動 (一年分成三個季節)
+23E4|一年分成四個季節 ~ 人類活動
+23E41|冬季 ~ 人類活動 (一年四季)
+23E42|春季 ~ 人類活動 (一年四季)
+23E43|夏季 ~ 人類活動 (一年四季)
+23E44|秋季 ~ 人類活動 (一年四季)
+23E5|一年分成五個季節 ~ 人類活動
+2E6|一年分成六個季節 ~ 人類活動
+23E61|一年分成六個季節 ~ 人類活動 (第一序列)
+23E611|一月-二月 ~ 人類活動 (一年分成六個季節)
+23E612|三月-四月 ~ 人類活動 (一年分成六個季節)
+23E613|五月-六月 ~ 人類活動 (一年分成六個季節)
+23E614|七月-八月 ~ 人類活動 (一年分成六個季節)
+23E615|九月-十月 ~ 人類活動 (一年分成六個季節)
+23E616|十一月-十二月 ~ 人類活動 (一年分成六個季節)
+23E62|一年分成六個季節 ~ 人類活動 (第二序列)
+23E621|十二月-一月 ~ 人類活動 (一年分成六個季節)
+23E622|二月-三月 ~ 人類活動 (一年分成六個季節)
+23E623|四月-五月 ~ 人類活動 (一年分成六個季節)
+23E624|六月-七月 ~ 人類活動 (一年分成六個季節)
+23E625|八月-九月 ~ 人類活動 (一年分成六個季節)
+23E626|十月-十一月 ~ 人類活動 (一年分成六個季節)
+23F|季節由風景表現
+23F2|一年分成兩個季節 ~ 風景
+23F21|冬季半年 ~ 風景 (一年兩季)
+23F22|夏季半年 ~ 風景 (一年兩季)
+23F23|冬夏季之間的爭鬥 ~ 風景
+23F3|一年分成三個季節 ~ 風景
+23F31|一年分成三個季節 ~ 風景 (第一序列)
+23F311|一月-四月 ~ 風景 (一年分成三個季節)
+23F312|五月-八月 ~ 風景 (一年分成三個季節) 
+23F313|九月-十二月 ~ 風景 (一年分成三個季節)
+23F32|一年分成三個季節 ~ 風景 (第二序列)
+23F321|十二月-三月 ~ 風景 (一年分成三個季節)
+23F322|四月-七月 ~ 風景 (一年分成三個季節)
+23F323|八月-十一月 ~ 風景 (一年分成三個季節)
+23F4|一年分成四個季節 ~ 風景
+23F41|冬季 ~ 風景 (一年四季)
+23F42|春季 ~ 風景 (一年四季)
+23F43|夏季 ~ 風景 (一年四季)
+23F44|秋季 ~ 風景 (一年四季)
+23F5|一年分成五個季節 ~ 風景
+23F6|一年分成六個季節 ~ 風景
+23F61|一年分成六個季節 ~ 風景 (第一序列)
+23F611|一月-二月 ~ 風景 (一年分成六個季節)
+23F612|三月-四月 ~ 風景 (一年分成六個季節)
+23F613|五月-六月 ~ 風景 (一年分成六個季節)
+23F614|七月-八月 ~ 風景 (一年分成六個季節)
+23F615|九月-十月 ~ 風景 (一年分成六個季節)
+23F616|十一月-十二月 ~ 風景 (一年分成六個季節)
+23F62|一年分成六個季節 ~ 風景 (第二序列)
+23F621|十二月-一月 ~ 風景 (一年分成六個季節)
+23F622|二月-三月 ~ 風景 (一年分成六個季節)
+23F623|四月-五月 ~ 風景 (一年分成六個季節)
+23F624|六月-七月 ~ 風景 (一年分成六個季節)
+23F625|八月-九月 ~ 風景 (一年分成六個季節)
+23F626|十月-十一月 ~ 風景 (一年分成六個季節)
+23G|季節由花卉和/或瓜果靜物表現
+23G2|一年分成兩個季節 ~ 花卉和/或瓜果靜物
+23G21|冬季半年 ~ 花卉和/或瓜果靜物 (一年兩季)
+23G22|夏季半年 ~ 花卉和/或瓜果靜物 (一年兩季)
+23G23|冬夏季之間的爭鬥 ~ 花卉和/或瓜果靜物
+23G3|一年分成三個季節 ~ 花卉和/或瓜果靜物
+23G31|一年分成三個季節 ~ 花卉和/或瓜果靜物 (第一序列)
+23G311|一月-四月 ~ 花卉和/或瓜果靜物 (一年分成三個季節)
+23G312|五月-八月 ~ 花卉和/或瓜果靜物 (一年分成三個季節) 
+23G313|九月-十二月 ~ 花卉和/或瓜果靜物 (一年分成三個季節)
+23G32|一年分成三個季節 ~ 花卉和/或瓜果靜物 (第二序列)
+23G321|十二月-三月 ~ 花卉和/或瓜果靜物 (一年分成三個季節)
+23G322|四月-七月 ~ 花卉和/或瓜果靜物 (一年分成三個季節)
+23G323|八月-十一月 ~ 花卉和/或瓜果靜物 (一年分成三個季節)
+23G4|一年分成四個季節 ~ 花卉和/或瓜果靜物
+23G41|冬季 ~ 花卉和/或瓜果靜物 (一年四季)
+23G42|春季 ~ 花卉和/或瓜果靜物 (一年四季)
+23G43|夏季 ~ 花卉和/或瓜果靜物 (一年四季)
+23G44|秋季 ~ 花卉和/或瓜果靜物 (一年四季)
+23G5|一年分成五個季節 ~ 花卉和/或瓜果靜物
+23G6|一年分成六個季節 ~ 花卉和/或瓜果靜物
+23G61|一年分成六個季節 ~ 花卉和/或瓜果靜物 (第一序列)
+23G611|一月-二月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G612|三月-四月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G613|五月-六月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G614|七月-八月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G615|九月-十月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G616|十一月-十二月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G62|一年分成六個季節 ~ 花卉和/或瓜果靜物 (第二序列)
+23G621|十二月-一月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G622|二月-三月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G623|四月-五月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G624|六月-七月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G625|八月-九月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23G626|十月-十一月 ~ 花卉和/或瓜果靜物 (一年分成六個季節)
+23H|季節由其它概念而不是人格化, 人類活動, 風景, 或花卉和/瓜果靜物表現 (如聖經場景)
+23H2|一年分成兩個季節 ~ 其他概念 (如聖經場景)
+23H21|冬季半年 ~ 概念 (如聖經場景) (一年兩季)
+23H22|夏季半年 ~ 其他概念 (如聖經場景) (一年兩季)
+23H23|冬夏季之間的爭鬥 ~ 其他概念 (如聖經場景)
+23H3|一年分成三個季節 ~ 其他概念 (如聖經場景)
+23H31|一年分成三個季節 ~ 其他概念 (如聖經場景) (第一序列)
+23H311|一月-四月 ~ 其他概念 (如聖經場景) (一年分成三個季節)
+23H312|五月-八月 ~ 其他概念 (如聖經場景) (一年分成三個季節) 
+23H313|九月-十二月 ~ 其他概念 (如聖經場景) (一年分成三個季節)
+23H32|一年分成三個季節 ~ 其他概念 (如聖經場景) (第二序列)
+23H321|十二月-三月 ~ 其他概念 (如聖經場景) (一年分成三個季節)
+23H322|四月-七月 ~ 其他概念 (如聖經場景) (一年分成三個季節)
+23H323|八月-十一月 ~ 其他概念 (如聖經場景) (一年分成三個季節)
+23H4|一年分成四個季節 ~ 其他概念 (如聖經場景)
+23H41|冬季 ~ 其他概念 (如聖經場景) (一年四季)
+23H42|春季 ~ 其他概念 (如聖經場景) (一年四季)
+23H43|夏季 ~ 其他概念 (如聖經場景) (一年四季)
+23H44|秋季 ~ 其他概念 (如聖經場景) (一年四季)
+23H5|一年分成五個季節 ~ 其他概念 (如聖經場景)
+23H6|一年分成六個季節 ~ 其他概念 (如聖經場景)
+23H61|一年分成六個季節 ~ 其他概念 (如聖經場景) (第一序列)
+23H611|一月-二月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H612|三月-四月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H613|五月-六月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H614|七月-八月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H615|九月-十月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H616|十一月-十二月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H62|一年分成六個季節 ~ 其他概念 (如聖經場景) (第二序列)
+23H621|十二月-一月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H622|二月-三月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H623|四月-五月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H624|六月-七月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H625|八月-九月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23H626|十月-十一月 ~ 其他概念 (如聖經場景) (一年分成六個季節)
+23I|十二個月 (特別是人格化);  'Mese in generale' (Ripa)
+23I1|第一個四分之一年的月份
+23I11|一月; 'Gennaro' (Ripa)
+23I12|二月; 'Febraro' (Ripa)
+23I13|三月; 'Marzo' (Ripa)
+23I2|第二個四分之一年的月份
+23I21|四月; 'Aprile' (Ripa)
+23I22|五月; 'Maggio' (Ripa)
+23I23|六月; 'Giugno' (Ripa)
+23I3|第三個四分之一年的月份
+23I31|七月; 'Luglio' (Ripa)
+23I32|八月; 'Agosto' (Ripa)
+23I33|九月; 'Settembre' (Ripa)
+23I4|第四個四分之一年的月份
+23I41|十月; 'Ottobre' (Ripa)
+23I42|十一月; 'Novembre' (Ripa)
+23I43|十二月; 'Decembre' (Ripa)
 23K|劳作十二月
-#23K1|the months of the first quarter of the year ~ human activities (the 'labours' of January, February and March)
-#23K11|January and its 'labours'
-#23K12|February and its 'labours'
-#23K13|March and its 'labours'
-#23K2|the months of the second quarter of the year ~ human activities (the 'labours' of April, May and June)
-#23K21|April and its 'labours'
-#23K22|May and its 'labours'
-#23K23|June and its 'labours'
-#23K3|the months of the third quarter of the year ~ human activities (the 'labours' of July, August and September)
-#23K31|July and its 'labours'
-#23K32|August and its 'labours'
-#23K33|September and its 'labours'
-#23K4|the months of the fourth quarter of the year ~ human activities (the 'labours' of October, November and December)
-#23K41|October and its 'labours'
-#23K42|November and its 'labours'
-#23K43|December and its 'labours'
-#23L|the twelve months represented by landscapes
-#23L1|months of the first quarter of the year represented by landscapes
-#23L11|landscape symbolizing January
-#23L12|landscape symbolizing February
-#23L13|landscape symbolizing March
-#23L2|months of the second quarter of the year represented by landscapes
-#23L21|landscape symbolizing April
-#23L22|landscape symbolizing May
-#23L23|landscape symbolizing June
-#23L3|months of the third quarter of the year represented by landscapes
-#23L31|landscape symbolizing July
-#23L32|landscape symbolizing August
-#23L33|landscape symbolizing September
-#23L4|months of the fourth quarter of the year represented by landscapes
-#23L41|landscape symbolizing October
-#23L42|landscape symbolizing November
-#23L43|landscape symbolizing December
-#23M|the twelve months represented by still lifes of flowers and/or fruits
-#23M1|months of the first quarter of the year represented by still life of flowers and/or fruits
-#23M11|January represented by still life of flowers and/or fruits
-#23M12|February represented by still life of flowers and/or fruits
-#23M13|March represented by still life of flowers and/or fruits
-#23M2|months of the second quarter of the year represented by still life of flowers and/or fruits
-#23M21|April represented by still life of flowers and/or fruits
-#23M22|May represented by still life of flowers and/or fruits
-#23M23|June represented by still life of flowers and/or fruits
-#23M3|months of the third quarter of the year represented by still life of flowers and/or fruits
-#23M31|July represented by still life of flowers and/or fruits
-#23M32|August represented by still life of flowers and/or fruits
-#23M33|September represented by still life of flowers and/or fruits
-#23M4|months of the fourth quarter of the year represented by still life of flowers and/or fruits
-#23M41|October represented by still life of flowers and/or fruits
-#23M42|November represented by still life of flowers and/or fruits
-#23M43|December represented by still life of flowers and/or fruits
-#23N|the twelve months of the year represented by concepts other than personifications, human activities, landscapes, or still lifes of flowers and/or fruits
-#23N1|months of the first quarter of the year ~ other concepts
-#23N11|January ~ other concepts
-#23N12|February ~ other concepts
-#23N13|March ~ other concepts
-#23N2|months of the second quarter of the year ~ other concepts
-#23N21|April ~ other concepts
-#23N22|May ~ other concepts
-#23N23|June ~ other concepts
-#23N3|months of the third quarter of the year ~ other concepts
-#23N31|July ~ other concepts
-#23N32|August ~ other concepts
-#23N33|September ~ other concepts
-#23N4|months of the fourth quarter of the year ~ other concepts
-#23N41|October ~ other concepts
-#23N42|November ~ other concepts
-#23N43|December ~ other concepts
-#23O|zodiac; the twelve zodiacal signs together
-#23O1|zodiacal signs of the winter season
-#23O11|Capricorn (zodiacal sign of December)
-#23O12|Aquarius (zodiacal sign of January)
-#23O13|Pisces (zodiacal sign of February)
-#23O2|zodiacal signs of the spring season
-#23O21|Aries (zodical sign of March)
-#23O22|Taurus (zodiacal sign of April)
-#23O23|Gemini (zodiacal sign of May)
-#23O3|zodiacal signs of the summer season
-#23O31|Cancer (zodiacal sign of June)
-#23O32|Leo (zodiacal sign of July)
-#23O33|Virgo (zodiacal sign of August)
-#23O4|zodiacal signs of the autumn season
-#23O41|Libra (zodiacal sign of September)
-#23O42|Scorpio (zodiacal sign of October)
-#23O43|Sagittarius (zodiacal sign of November)
-#23O5|zodiacal man; zodiac combined with parts of the human body
-#23P|weeks
-#23Q|days of the week
-#23Q1|Sunday
-#23Q2|Monday
-#23Q3|Tuesday
-#23Q4|Wednesday
-#23Q5|Thursday
-#23Q6|Friday
-#23Q7|Saturday
-#23Q8|tomorrow
-#23Q81|the day after tomorrow
-23R|晝夜
-#23R1|day of 24 hours, natural day
-#23R10|'Giorno naturale', 'Carro del giorno naturale' (Ripa)
-#23R11|morning
-#23R110|personification of the morning, 'Aurora'; 'Aurora' (Ripa)
-#23R111|morning ~ landscape (sometimes titled 'Aurora')
-#23R112|morning ~ other concepts
-#23R113|noon
-#23R12|afternoon
-#23R120|personification of the afternoon, 'Meridies'
-#23R121|afternoon ~ landscape (sometimes titled 'Meridies')
-#23R122|afternoon ~ other concepts
-#23R13|evening
-#23R130|personification of the evening, 'Vesper'
-#23R131|evening ~ landscape (sometimes titled 'Vesper')
-#23R132|evening ~ other concepts
-#23R14|night
-#23R140|personification of the night, 'Nox'; 'Notte', 'Carro della notte', 'Serenità della notte' (Ripa)
-#23R141|night ~ landscape (sometimes titled 'Nox')
-#23R142|night ~ other concepts
-#23R2|day from sunrise to sunset
-#23R20|'Giorno artificiale', 'Carro del giorno artificiale', 'Serenità del giorno, ninfa dell'aria' (Ripa)
-#23R3|the 24 hours of day and night
-#23R31|the first 12 hours of the day
-#23R310|'Hore del giorno' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
-#23R32|the last 12 hours of the day
-#23R320|'Hore della notte' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
-#23S|the empires of the world
-#23S1|the four world empires (Babylon, Persia, Greece, Rome)
-#23S11|Babylon (one of the four world empires)
-#23S12|Persia (one of the four world empires)
-#23S13|Greece (one of the four world empires
-#23S14|Rome (one of the four world empires)
-#23S2|the empires of the world according to biblical divisions
-#23S21|the world empires symbolized by a large statue of various materials (Daniel ch. 2)
-#23S22|the world empires symbolized by four beasts (Daniel ch. 7)
-#23S3|the empires of the world divided otherwise
-#23T|historical epochs
-#23T1|history of the world divided into seven epochs from Adam to the end of the world
-#23T11|epoch from Adam to Noah ~ history of the world
-#23T12|epoch from Noah to Abraham or Moses ~ history of the world
-#23T13|epoch from Abraham or Moses to David ~ history of the world
-#23T14|epoch from David to the Babylonian Captivity ~ history of the world
-#23T15|epoch from the Captivity to the coming of Christ ~ history of the world
-#23T16|epoch from Christ to the end of the world ~ working, waking
-#23T17|epoch from Christ to the end of the world ~ sleeping, resting (eternal Sabbath)
-#23T2|modern division of historical epochs
-#23T21|pre-history (historical epoch)
-#23T22|ancient history (historical epoch)
-#23T23|classical antiquity (historical epoch)
-#23T24|dark ages (historical epoch)
-#23T25|medieval history, middle ages (historical epoch)
-#23T26|Renaissance (historical epoch, through 16th century)
-#23T27|modern division of historical epochs ~ centuries
-#23T27(...)|modern division of historical epochs ~ centuries (with Roman NUMBER of century)
-#23U|chronology
-#23U1|calendar, almanac
-#23U11|perpetual calendar
-#23U2|(instruments for) measurement of time
-#23U20|'Horografia' (Ripa)
-#23U21|sundial
-#23U22|hourglass
-#23U23|water clock
-#23U24|clock
-#23U241|watchmaker, clockmaker
-#23U25|watch
+23K1|第一個四分之一年的月份 ~ 人類活動 (一月,二月和三月的'勞作')
+23K11|一月及其'勞作'
+23K12|二月及其'勞作'
+23K13|三月及其'勞作'
+23K2|第二個四分之一年的月份 ~ 人類活動 (四月,五月和六月的'勞作')
+23K21|四月及其'勞作'
+23K22|五月及其'勞作'
+23K23|六月及其'勞作'
+23K3|第三個四分之一年的月份 ~ 人類活動 (七月,八月和九月的'勞作')
+23K31|七月及其'勞作'
+23K32|八月及其'勞作'
+23K33|九月及其'勞作'
+23K4|第四個四分之一年的月份 ~ 人類活動 (十月,十一月和十二月的'勞作') 
+23K41|十月及其'勞作'
+23K42|十一月及其'勞作'
+23K43|十二月及其'勞作'
+23L|十二個月由風景表現
+23L1|第一個四分之一年的月份由風景表現
+23L11|風景象徵一月
+23L12|風景象徵二月
+23L13|風景象徵三月
+23L2|第二個四分之一年的月份由風景表現
+23L21|風景象徵四月
+23L22|風景象徵五月
+23L23|風景象徵六月
+23L3|第三個四分之一年的月份由風景表現
+23L31|風景象徵七月
+23L32|風景象徵八月
+23L33|風景象徵九月
+23L4|第四個四分之一年的月份由風景表現
+23L41|風景象徵十月
+23L42|風景象徵十一月
+23L43|風景象徵十二月
+23M|十二個月由花卉和/或瓜果靜物表現
+23M1|第一個四分之一年的月份由花卉和/或瓜果靜物表現
+23M11|花卉和/或瓜果靜物表現一月
+23M12|花卉和/或瓜果靜物表現二月
+23M13|花卉和/或瓜果靜物表現三月
+23M2|第二個四分之一年的月份由花卉和/或瓜果靜物表現
+23M21|花卉和/或瓜果靜物表現四月
+23M22|花卉和/或瓜果靜物表現五月
+23M23|花卉和/或瓜果靜物表現六月
+23M3|第三個四分之一年的月份由花卉和/或瓜果靜物表現
+23M31|花卉和/或瓜果靜物表現七月
+23M32|花卉和/或瓜果靜物表現八月
+23M33|花卉和/或瓜果靜物表現九月
+23M4|第四個四分之一年的月份由花卉和/或瓜果靜物表現
+23M41|花卉和/或瓜果靜物表現十月
+23M42|花卉和/或瓜果靜物表現十一月
+23M43|花卉和/或瓜果靜物表現十二月
+23N|十二個月由其它概念而不是人格化, 人類活動, 風景, 或花卉和/瓜果靜物表現 (如聖經場景)
+23N1|第一個四分之一年的月份 ~ 其它概念
+23N11|一月 ~ 其它概念
+23N12|二月 ~ 其它概念
+23N13|三月 ~ 其它概念
+23N2|第二個四分之一年的月份 ~ 其它概念
+23N21|四月 ~ 其它概念
+23N22|五月 ~ 其它概念
+23N23|六月 ~ 其它概念
+23N3|第三個四分之一年的月份 ~ 其它概念
+23N31|七月 ~ 其它概念
+23N32|八月 ~ 其它概念
+23N33|九月 ~ 其它概念
+23N4|第四個四分之一年的月份 ~ 其它概念
+23N41|十月 ~ 其它概念
+23N42|十一月 ~ 其它概念
+23N43|十二月 ~ 其它概念
+23O|黃道星座; 十二個星座符號在一起
+23O1| 冬季星座符號
+23O11|摩羯座
+23O12|水瓶座
+23O13|雙魚座
+23O2| 春季星座符號
+23O21|白羊座
+23O22|金牛座
+23O23|雙子座
+23O3| 夏季星座符號
+23O31|巨蟹座
+23O32|獅子座
+23O33|處女座
+23O4| 秋季星座符號
+23O41|天秤座
+23O42|天蠍座
+23O43|射手座
+23O5|黃道星座人; 星座符號與人體部位相對應
+23P|星期,周
+23Q|一星期的日
+23Q1|星期天
+23Q2|星期一
+23Q3|星期二
+23Q4|星期三
+23Q5|星期四
+23Q6|星期五
+23Q7|星期六
+23Q8|明天
+23Q81|後天
+23R|白天與黑夜
+23R1|一天二十四小時,自然的一天
+23R10|'Giorno naturale', 'Carro del giorno naturale' (Ripa)
+23R11|上午
+23R110|上午的人格化
+23R111|上午 ~ 風景 (有時稱為'Aurora')
+23R112|上午 ~ 其它的概念
+23R113|中午
+23R12|下午
+23R120|下午的人格化
+23R121|下午 ~ 風景 (有時稱為'Meridies')
+23R122|下午 ~ 其它的概念
+23R13|晚間
+23R130|晚間的人格化
+23R131|晚間 ~ 風景 (有時稱為'Vesper')
+23R132|晚間 ~ 其它的概念
+23R14|夜間
+23R140|夜間的人格化
+23R141|夜間 ~ 風景 (有時稱為'Nox')
+23R142|夜間 ~ 其它的概念
+23R2|從日出到日落的一天
+23R20|'Giorno artificiale', 'Carro del giorno artificiale', 'Serenità del giorno, ninfa dell'aria' (Ripa)
+23R3|二十四小時的白天和黑夜
+23R31|前十二小時
+23R310|'Hore del giorno' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
+23R32|後十二小時
+23R320|'Hore della notte' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
+23S|世界性的帝國
+23S1|四個世界性的帝國 (巴比倫, 波斯, 希臘, 羅馬)
+23S11|巴比倫
+23S12|波斯
+23S13|希臘
+23S14|羅馬
+23S2|根據聖經來劃分的世界性的帝國
+23S21|世界性的帝國由不同材質的雕塑來象徵 (但以理書ch. 2)
+23S22|世界性的帝國由四個野獸來象徵 (但以理書ch. 7)
+23S3|根據其它方式來劃分世界性的帝國
+23T|歷史時期
+23T1|世界歷史劃分為從亞當到末世的七個時期
+23T11|從亞當到諾亞的時期 ~ 世界歷史
+23T12|從諾亞到亞伯拉罕或摩西的時期 ~ 世界歷史
+23T13|從亞伯拉罕或摩西到大衛的時期 ~ 世界歷史
+23T14|從大衛到巴比伦被掳的時期 ~ 世界歷史
+23T15|從巴比伦被掳到基督到來的時期 ~ 世界歷史
+23T16|從基督到到末世的時期 ~ 工作, 甦醒
+23T17|從基督到到末世的時期 ~ 睡眠, 休息(永恆的安息)
+23T2|現代劃分歷史時期
+23T21|史前 (歷史時期)
+23T22|古代 (歷史時期)
+23T23|古典 (歷史時期)
+23T24|黑暗時代 (歷史時期)
+23T25|中世紀 (歷史時期)
+23T26|文藝復興時期 (歷史時期,十六世紀)
+23T27|現代劃分歷史時期 ~ 世紀
+23T27(...)|現代劃分歷史時期 ~ 世紀(用羅馬數字紀錄的)
+23U|編年史
+23U1|日歷,曆書
+23U11|萬年歷
+23U2|測量時間(的儀器)
+23U20|'Horografia' (Ripa)
+23U21|日晷儀
+23U22|時漏
+23U23|水鐘
+23U24|時鐘
+23U241|鐘表匠
+23U25|(手)錶
 24|天
 #240|allegorical representation of the heavens (celestial bodies)
 #24A|sun as celestial body
