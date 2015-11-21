@@ -9918,23 +9918,23 @@ TXT'Flagello di Dio' （Ripa）
 #11Q71477|lectionary
 #11Q71478|'collectarium'
 #11Q71479|other ecclesiastical books
-#11Q7148|other objects ~ the church (not necessarily liturgical
+11Q7148|其他物件 ~ 教堂 (不一定與禮儀相關)
 #11Q7148(...)|other objects ~ the church (not necessarily liturgical) (with NAME)
 #11Q71481|Nativity scene ~ equipment of church
 #11Q71482|'Palmesel'
 #11Q71483|church bell
-#11Q715|substances used in the church
+11Q715|教堂用基本物質資料
 #11Q7151|bread, Host
 #11Q7152|wine, the Precious Blood
 #11Q7153|Holy Water
 #11Q7154|oil used in the church
 #11Q7155|incense used in the church
-#11Q72|going to church
+11Q72|上教堂禮拜
 #11Q721|entering the church
 #11Q7211|leaving the church after service
 #11Q722|the congregation
 #11Q7221|people in church, walking, talking, etc.
-#11Q73|圣礼
+11Q73|禮拜儀式 ~ 基督教的教堂
 #11Q731|types of service ~ Christian churches
 #11Q7311|Holy Mass (divine service, especially of Roman Catholic Church)
 #11Q73111|first part of the Holy Mass
@@ -9998,7 +9998,7 @@ TXT'Flagello di Dio' （Ripa）
 #11Q732731|Rudolf of Habsburg offers his horse to a priest ~ extreme unction
 #11Q73274|last communion, administering of the Holy Viaticum
 #11Q733|preaching (in general)
-#11Q74|the Offices
+11Q74|日課
 #11Q741|votive office
 #11Q742|office of the Dead
 #11Q743|little office of Our Lady
