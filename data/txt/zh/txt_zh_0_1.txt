@@ -504,7 +504,7 @@ TXT'Flagello di Dio' （Ripa）
 11F732|瑪麗坐在台階或樓梯〜聖母的再現
 11F74|聖母的再現的其他具體方面
 #11F741|John the Baptist as child ~ Madonna-representations (N.B. secondary notation only)
-#11F8|miracles, appearances, and legends ~ Mary
+11F8|奇蹟，顯現和傳說〜馬利亞
 #11F81|miraculous statues of Mary or the Madonna
 #11F81(...)|miraculous statues of Mary or the Madonna (with NAME)
 #11F82|appearances of Mary
@@ -514,10 +514,10 @@ TXT'Flagello di Dio' （Ripa）
 #11F832|legend of the Jewish boy, who was burned after having taken the host; he was saved by Mary
 #11F833|Mary saving a child that was dedicated to the devil
 #11F834|the house of Nazareth which came to Loreto (Mary-miracle)
-#11F9|Mary devotion
+11F9|敬禮瑪麗
 #11F91|sacred heart of Mary
-#11F92|relics of Mary
-#11FF25|'Mater Dolorosa' - FF - 'Mater Dolorosa', head or bust
+11F92|瑪麗的遺物
+11FF25|'Mater Dolorosa' - FF - 'Mater Dolorosa', 頭像或胸像
 #11FF251|Mary weeping - FF - 'Mater Dolorosa', head or bust
 #11FF252|Mary pierced by a sword - FF - 'Mater Dolorosa', head or bust
 #11FF253|Mary with the instruments of the Passion - FF - 'Mater Dolorosa', head or bust
@@ -547,8 +547,8 @@ TXT'Flagello di Dio' （Ripa）
 #11FF4422|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child sitting - FF - Mary sitting or enthroned
 #11FF4423|Mary (standing) with the Christ-child beside her (free-standing); Christ-child lying - FF - Mary sitting or enthroned
 #11FF4424|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child kneeling - FF - Mary sitting or enthroned
-#11G|天使
-#11G1|the nine choirs of angels, hierarchy of angels
+11G|天使
+11G1|九個天使合唱團，天使的等級
 #11G11|Seraphim
 #11G12|Cherubim
 #11G13|Thrones (holding thrones) ~ hierarchy of angels
@@ -586,14 +586,14 @@ TXT'Flagello di Dio' （Ripa）
 #11G194|angels in other than human form
 #11G1941|angels as rays of light
 #11G1942|angels as wheel with wings
-#11G2|activities of angels (in heaven)
+11G2|天使的活動（在天國）
 #11G21|angels singing, making music
 #11G22|angels celebrating the Eucharist
 #11G23|angels crowning and/or bringing palm-branches
 #11G24|angels holding a curtain
 #11G25|angels in adoration
 #11G26|angels riding on horseback
-#11G3|angels fighting
+11G3|搏鬥的天使
 #11G31|the Archangel Michael fighting the dragon (devil, Satan)
 #11G311|Michael resting beside the dragon's corpse
 #11G32|the Archangel Michael (and other angels) casting the rebel angels out of heaven
@@ -601,7 +601,7 @@ TXT'Flagello di Dio' （Ripa）
 #11G33|fall of the rebel angels, who become devils
 #11G331|the fall of Satan, fall of Lucifer
 #11G34|angels fighting against other evil powers
-#11G4|specific aspects of angels, e.g. intervening in human affairs
+11G4|天使的特定方面，如干預人事
 #11G41|guardian angel
 #11G42|angels rescuing a soul pursued by devils
 #11G43|destroying angel
@@ -619,17 +619,17 @@ TXT'Flagello di Dio' （Ripa）
 #11GG193|female angels - GG - lower angel(s) without wings
 #11GG194|angels in other than human form - GG - lower angel(s) without wings
 #11GG1941|angels as rays of light - GG - lower angel(s) without wings
-#11H|男圣徒
-#11H(...)|male saints (with NAME)
-#11H(...)0|male saints (with NAME) - male saint represented in a group
-#11H(...)1|male saints (with NAME) - specific aspects ~ male saint
+11H|聖徒
+#11H(...)|男性聖徒（人名 ）
+11H(...)0|男性聖徒（人名） - 一組男性聖徒的再現
+11H(...)1|男性聖徒（人名） - 特定方面〜男性聖徒
 #11H(...)11|male saints (with NAME) - male saint as patron, protector, intercessor
 #11H(...)119|male saints (with NAME) - male saint protecting devotees with cloak, 'Schutzmantel'
 #11H(...)12|male saints (with NAME) - male saint writing, studying, teaching, dictating (e.g. as Doctor of the Church)
 #11H(...)13|male saints (with NAME) - male saint as founder of Order
 #11H(...)131|male saints (with NAME) - male saint ~ confirmation of Order, approval of Rule(s)
-#11H(...)2|male saints (with NAME) - early life of male saint
-#11H(...)3|male saints (with NAME) - personal devotion of male saint
+11H(...)2|男性聖徒（人名） - 男性聖徒的早年生活
+11H(...)3|男性聖徒（人名 ） - 男性聖徒的個人敬禮
 #11H(...)31|male saints (with NAME) - vocation, conversion of male saint
 #11H(...)32|male saints (with NAME) - baptism, consecration, taking vows of male saint
 #11H(...)33|male saints (with NAME) - renouncing worldly goods, ascetic life of male saint
@@ -637,19 +637,19 @@ TXT'Flagello di Dio' （Ripa）
 #11H(...)35|male saints (with NAME) - temptation of male saint
 #11H(...)36|male saints (with NAME) - penitence of male saint
 #11H(...)37|male saints (with NAME) - male saint meditating, in ecstasy
-#11H(...)4|male saints (with NAME) - non-miraculous activities and events ~ male saint
-#11H(...)5|male saints (with NAME) - miraculous activities and events ~ male saint
+#11H(...)4|男性聖徒（人名） - 非奇蹟般的活動和事件〜男性聖徒
+#11H(...)5|男性聖徒（人名） - 神奇的活動和事件〜男性聖徒
 #11H(...)59|male saints (with NAME) - stigmatization of male saint
-#11H(...)6|male saints (with NAME) - martyrdom, suffering, misfortune, death of male saint
+#11H(...)6|男性聖徒（人名） - 殉難，苦難，不幸，男性聖徒的死亡
 #11H(...)68|male saints (with NAME) - death, deathbed of male saint
 #11H(...)69|male saints (with NAME) - maltreatment of corpse of male saint
-#11H(...)7|male saints (with NAME) - apotheosis, glory, triumph of male saint
-#11H(...)8|male saints (with NAME) - post-mortem occurrences ~ male saint
+#11H(...)7|男性聖徒（人名） - 男性聖徒被封為聖徒, 光榮, 勝利
+#11H(...)8|男性聖徒（人名 ）- 死後經歷〜男性聖徒
 #11H(...)81|male saints (with NAME) - finding, transportation of relics of male saint
 #11H(...)82|male saints (with NAME) - miracles occurring during handling of relics of male saint
 #11H(...)83|male saints (with NAME) - posthumous deeds, appearances of male saints
 #11H(...)84|male saints (with NAME) - beatification, canonization of male saint
-#11H(...)9|male saints (with NAME) - portrait of male saint
+#11H(...)9|男性聖徒（人名） - 男性聖徒的肖像
 #11H(ACHATIUS)|the warrior martyr Achatius (Acacius); possible attributes: bunch of thorns, crucifix, sword
 #11H(ACHATIUS)0|the warrior martyr Achatius (Acacius); possible attributes: bunch of thorns, crucifix, sword - male saint represented in a group
 #11H(ACHATIUS)1|the warrior martyr Achatius (Acacius); possible attributes: bunch of thorns, crucifix, sword - specific aspects ~ male saint
@@ -8685,7 +8685,7 @@ TXT'Flagello di Dio' （Ripa）
 #11HH(WILGEFORTIS)84|the martyr Wilgefortis (Uncumber, Liberata); possible attributes: beard, crown, fiddler (with shoe), shoe - beatification, canonization of female saint
 #11HH(WILGEFORTIS)9|the martyr Wilgefortis (Uncumber, Liberata); possible attributes: beard, crown, fiddler (with shoe), shoe - portrait of female saint
 #11HH0|group of female saints
-#11I|先知, 女巫, 福音書作者, 教會博士; 人物 ~ 聖經 (不在聖經文本裡)
+11I|先知, 女巫, 福音書作者, 教會博士; 人物 ~ 聖經 (不在聖經文本裡)
 #11I1|成組的先知, 通常拿著書本或書卷 (以賽亞, 耶利米, 以西結, 但以利, 何西阿, 約珥, 阿摩斯, 俄巴底, 約拿, 米迦, 那鴻, 哈巴谷, 西番雅, 哈該, 撒迦利雅, 瑪拉基) 
 #11I11|the four major prophets (not in biblical context): Isaiah, Jeremiah, Ezekiel, Daniel
 #11I12|the twelve minor prophets (not in biblical context): Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
@@ -8703,7 +8703,7 @@ TXT'Flagello di Dio' （Ripa）
 #11I2(PERSIAN)|Persian sibyl
 #11I2(SAMIAN)|Samian sibyl
 #11I21|the Tiburtine sibyl and Augustus: the sibyl reveals to the emperor a vision of the Madonna in heaven
-#11I3|the twelve apostles (as a group), usually with books or scrolls (not in biblical context)
+11I3|十二使徒 (一組), 通常拿著書本或書卷 (不在聖經上下文裡)
 #11I31|symbolic representations of the twelve apostles, e.g.: twelve doves, twelve lambs
 #11I32|the twelve apostles ~ the twelve prophets
 #11I321|twelve prophets carrying the twelve apostles on their shoulders
@@ -9365,7 +9365,7 @@ TXT'Flagello di Dio' （Ripa）
 #11K13|human-shaped devils ~ emaciate 'eidolon' type
 #11K14|human-shaped devils ~ handsome seducer
 #11K15|devil as a woman
-#11K2|devils in the form of (fabulous) animals
+11K2|具有(神話般的)動物形狀的魔鬼
 11K2|具有(神話般的)動物形狀的魔鬼
 11K2(...)|具有(神話般的)動物形狀的魔鬼 (名稱)
 11K3|具有其它形狀的魔鬼
@@ -9499,11 +9499,11 @@ TXT'Flagello di Dio' （Ripa）
 #11MM42|Temperance, 'Temperantia'; 'Temperanza' (Ripa) ~ one of the Four Cardinal Virtues - MM - triumph
 #11MM43|Fortitude, 'Fortitudo' ~ one of the Four Cardinal Virtues - MM - triumph
 #11MM44|Justice, 'Justitia'; 'Giustitia divina' (Ripa) ~ one of the Four Cardinal Virtues - MM - triumph
-#11N|恶
-#11N1|Vice, Evil, Sin; 'Peccato' (Ripa)
+11N|恶
+11N1|罪惡, 邪惡, 原罪; 'Peccato' (Ripa)
 #11N11|'Fürst der Welt'
 #11N12|'Frau Welt'
-#11N2|(group of) the Seven Deadly Sins (symbolized)
+11N2|(成組的)七宗原罪 (象徵符號)
 #11N21|dragon with seven heads ~ the Seven deadly Sins symbolized
 #11N22|Tree of Vices, Tree of Corruption
 #11N23|man above a pit, with seven swords in his body ~ the Seven deadly Sins symbolized
@@ -9577,7 +9577,7 @@ TXT'Flagello di Dio' （Ripa）
 #11P1642|Counter Reformation (Roman Catholic Church vs. Protestantism)
 #11P165|the Church vs. the World
 #11P166|Church (and Religion) vs. Philosophy and Science
-#11P2|the Christian Churches
+11P2|基督教教會
 #11P21|the early Christian Churches, e.g. Armenians, Copts, Syrians
 #11P22|Orthodox Churches
 #11P221|Greek Orthodox Church
@@ -9589,7 +9589,7 @@ TXT'Flagello di Dio' （Ripa）
 #11P250|allegories and personifications ~ Protestantism
 #11P251|movements derived from Protestant Churches
 #11P251(...)|movements derived from Protestant Churches (with NAME)
-#11P3|organization, functionaries and dignitaries in churches and in related institutions
+11P3|教會以及相關機構的組織, 功能和要人
 #11P31|organization, functionaries and dignitaries in Roman Catholic church; clergy in general
 #11P311|hierarchy of jurisdiction ~ Roman Catholic church
 #11P3111|教皇
@@ -9696,7 +9696,7 @@ TXT'Flagello di Dio' （Ripa）
 #11P37|institution for ecclesiastical education and training, e.g. seminary
 #11P371|religious instruction of clergy
 #11P372|religious instruction of laity, e.g. Sunday School
-#11P4|representants of the Church (Christians in general, laymen, monks, etc.) in strife with each other or with opponents
+11P4|教會的再現 (一般性的基督徒, 平信徒, 僧侶, 等等) 相互爭鬥
 #11P41|strife of laity and clergy
 #11P42|dispute of Christians and Jews
 #11P43|aggression against the Church
@@ -9714,10 +9714,10 @@ TXT'Flagello di Dio' （Ripa）
 #11P44331|execution of heretic, e.g. by burning at the stake, 'auto-da-fé'
 #11P444|burning of books ~ persecution of believers, dissidents, etc.
 #11P45|excommunication
-#11P5|spreading the gospel; missionary work
+11P5|傳布福音; 傳教士工作
 #11P51|converts abjuring their former faith
-#11P6|destruction of pagan idols
-#11P9|(aspects of) Christian Religion or the Church (as institution) ridiculed, criticized, or caricaturized
+11P6|摧毀異教偶像
+11P9|基督教或教會被嘲笑, 批評或諷刺(的方方面面)
 #11P91|the richness of the Church opposed to Christ's humility
 #11P911|the pope on horseback, and Christ on an ass
 #11PP3111|pope - PP - antipope
@@ -9735,12 +9735,12 @@ TXT'Flagello di Dio' （Ripa）
 #11PP315311|abbot - PP - abbess
 #11PP3159|abuses of monks - PP - nuns
 #11PP31591|sexual abuses of monks - PP - nuns
-#11Q|崇拜上帝
-#11Q0|devotion, piety; 'Divotione' (Ripa)
-#11Q01|love towards God; 'Amore verso Iddio' (Ripa)
-#11Q02|'Desiderio verso Iddio' (Ripa)
-#11Q03|'Obedienza verso Dio' (Ripa)
-#11Q1|conversion and belief
+11Q|崇拜上帝
+11Q0|敬禮, 孝愛; 'Divotione' (Ripa)
+11Q01|對上帝之愛; 'Amore verso Iddio' (Ripa)
+11Q02|'Desiderio verso Iddio' (Ripa)
+11Q03|'Obedienza verso Dio' (Ripa)
+11Q1|皈依和信仰
 #11Q10|'Conversione' (Ripa)
 #11Q11|the believer
 #11Q111|man between Good and Evil
@@ -9756,7 +9756,7 @@ TXT'Flagello di Dio' （Ripa）
 #11Q142|female martyr dragged into a brothel
 #11Q15|the Christian knight, 'Miles Christianus'
 #11Q16|the commandments of the Church, e.g. Sunday observance
-#11Q2|（私下的）祈祷
+11Q2|(私人性的) 禱告; 'Oratione', 'Preghiere', 'Preghiere a Dio' (Ripa)
 #11Q21|one person praying
 #11Q211|daily (vocal) prayer by one person
 #11Q2111|prayer at table, saying grace
@@ -9767,7 +9767,7 @@ TXT'Flagello di Dio' （Ripa）
 #11Q23|making the sign of the cross
 #11Q29|good vs. bad prayer
 #11Q291|bad prayer
-#11Q3|ascetic life and practice
+11Q3|苦行的生活與實踐
 #11Q31|mortification of the senses ~ ascetic life
 #11Q311|fasting, abstinence from food ~ ascetic life
 #11Q3110|'Digiuno' (Ripa)
@@ -9782,18 +9782,18 @@ TXT'Flagello di Dio' （Ripa）
 #11Q331|anchorite, hermit
 #11Q3311|Thebaid
 #11Q332|stylite; dendrite
-#11Q4|mysticism
+11Q4|神秘主義
 #11Q41|contemplation
 #11Q42|ecstasy, spiritual exaltation, rapture
 #11Q421|levitation ~ mysticism
 #11Q43|stigmatization, stigmata
 #11Q44|mystic marriage
-#11Q5|private worship and religious study
+11Q5|私人性的禮拜與宗教研究
 #11Q51|reading the Bible or other religious books
 #11Q511|the Bible as a book
 #11Q52|singing of psalms, hymns, etc.
 #11Q53|private religious instruction
-#11Q6|pious customs
+11Q6|表達虔敬的風俗
 #11Q61|giving an 'ex voto'
 #11Q611|'ex voto', votive image or object
 #11Q6111|'Pestsäule'
@@ -9813,13 +9813,13 @@ TXT'Flagello di Dio' （Ripa）
 #11Q65|(veneration of) devotional objects
 #11Q651|crucifix ~ personal devotion
 #11Q652|relics (and reliquaries)
-#11Q7|public worship and liturgy of the Christian churches
-#11Q71|the place of worship and its equipment ~ Christian churches
-#11Q711|building of church
+11Q7|公眾性的禮拜與基督教的教會禮儀
+11Q71|禮拜的地方與器用 ~ 基督教的教堂
+11Q711|教堂的建築
 #11Q7111|building-site of church indicated by a miracle
 #11Q71111|miraculous indication of the building-site of Santa Maria Maggiore in the snow (by the Virgin Mary)
 #11Q7112|patron handing over model of church (or chapel)
-#11Q712|教堂
+11Q712|教堂建築 (外部)
 #11Q7121|parts of church exterior and annexes
 #11Q7121(...)|parts of church exterior and annexes (with NAME)
 #11Q7121(APSE)|parts of church exterior and annexes: apse
@@ -9837,7 +9837,7 @@ TXT'Flagello di Dio' （Ripa）
 #11Q7121(TYMPANUM)|parts of church exterior and annexes: tympanum
 #11Q7121(WEST FACADE)|parts of church exterior and annexes: west façade
 #11Q7129|ruin of church, monastery, etc.
-#11Q713|interior of church
+11Q713|教堂內部
 #11Q7131|parts of church interior
 #11Q7131(...)|parts of church interior (with NAME)
 #11Q7131(AISLE)|parts of church interior: aisle
@@ -9854,14 +9854,14 @@ TXT'Flagello di Dio' （Ripa）
 #11Q7131(TRANSEPT)|parts of church interior: transept
 #11Q7131(VAULT)|parts of church interior: vault
 #11Q71311|church-window, e.g. rose-window
-#11Q714|(liturgical) equipment of church
-#11Q7141|altar
+11Q714|教堂(禮儀用的)用具
+11Q7141|祭壇
 #11Q71411|fixed altar
 #11Q714111|altar under altar-canopy or ciborium
 #11Q714112|altar with dossel (dorsal), 'reredos', altar-screen, retable
 #11Q714113|altar with altar-piece
 #11Q71412|portable altar
-#11Q7142|altar accoutrement
+11Q7142|祭壇配備物
 #11Q71421|altar-cloths, e.g. veil covering the altar at Lent
 #11Q71422|antependium, frontal
 #11Q71423|altarcross, crucifix
@@ -9871,9 +9871,9 @@ TXT'Flagello di Dio' （Ripa）
 #11Q71427|altarlamp, altar fire
 #11Q71428|censer
 #11Q71429|aspergillum
-#11Q7143|tabernacle ~ altar
+11Q7143|聖体櫃 ~ 祭壇
 #11Q71431|Sacrament-House
-#11Q7144|vessels and utensils used in the church
+11Q7144|教堂用器皿和相關用具
 #11Q71441|chalice
 #11Q71442|paten
 #11Q71443|ciborium
@@ -9888,7 +9888,7 @@ TXT'Flagello di Dio' （Ripa）
 #11Q71449(AQUAMANILE)|other utensils used in the church: aquamanile
 #11Q71449(BURSE)|other utensils used in the church: burse
 #11Q71449(SPOON)|other utensils used in the church: spoon
-#11Q7145|liturgical furniture, etc.
+11Q7145|禮儀傢俱
 #11Q71451|bishop's throne
 #11Q71452|seats of the celebrant and acolytes
 #11Q71453|seats of the clergy, choir-stalls
@@ -9899,7 +9899,7 @@ TXT'Flagello di Dio' （Ripa）
 #11Q71457|rood-screen, choir-screen; iconostasis
 #11Q71458|kneeling-chair
 #11Q71459|communion-bench
-#11Q7146|liturgical vestments, canonicals
+11Q7146|禮儀祭服
 #11Q71461|alb
 #11Q71462|amice ~ liturgical vestments
 #11Q71463|chasuble
@@ -9908,7 +9908,7 @@ TXT'Flagello di Dio' （Ripa）
 #11Q71466|stole
 #11Q71467|other liturgical vestments
 #11Q71467(...)|other liturgical vestments (with NAME)
-#11Q7147|ecclesiastical books, scrolls, etc.
+11Q7147|教會書本, 書卷, 等等
 #11Q71471|missal
 #11Q71472|pontifical
 #11Q71473|breviary, Book of Hours
@@ -10201,7 +10201,7 @@ TXT'Flagello di Dio' （Ripa）
 11U4|馬利亞和施洗者約翰與作審判的基督在一起 (如跪在基督面前), 'Deesis' ~ 最後的審判
 11U5|末日之十五個預兆
 11U6|基督再臨
-#11V|慈善之事
+11V|慈善之事
 11V1|施食於飢者, 'esuriens cibatur' ~  (七大) 善事之一
 11V2|施飲於渴者, 'sitiens potatur' ~  (七大) 善事之一
 11V3|給陌生人住宿, 'hospes colligitur' ~ (七大) 善事之一
