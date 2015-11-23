@@ -11,8 +11,7 @@
 11A221|圓形象徵著上帝的全能
 11A23|上帝的完美無缺
 11A3|上帝的憤怒
-NOT 11A31
-TXT'Flagello di Dio' （Ripa）
+#11A31|'Flagello di Dio' （Ripa）
 11B|三位一體， 'Trinitas coelestis': 聖父，聖子和聖靈〜基督教
 11B1|以三種象徵符號代表的三位一體
 11B11|三位一體象徵符號〜圓形和/或三角形構成的
@@ -47,9 +46,9 @@ TXT'Flagello di Dio' （Ripa）
 11B333|三位一體的再現：符號（聖父） ，人物（聖子） ，鴿子（聖靈）
 11B4|'Ratschluss der Erlösung'，' Prolog im Himmel';救贖的聖旨
 11B41|救贖之神的命令，寓言化人物在現場，如：正義，慈悲，和平和真理（各種美德和諧一致）
-11B42|加百列阿的派遣〜' Ratschluss der Erlösung '
-11B43|加百列阿的歸來〜' Ratschluss der Erlösung '
-11B44|聖子的派遣〜' Ratschluss der Erlösung '
+11B42|加百列阿的派遣〜 'Ratschluss der Erlösung'
+11B43|加百列阿的歸來〜'Ratschluss der Erlösung'
+11B44|聖子的派遣〜'Ratschluss der Erlösung'
 11B45|聖子的歸來〜 'Ratschluss der Erlösung'
 11B5|三位一體的延伸
 11B51|四位一體（即三位一體加瑪利亞）
@@ -196,7 +195,7 @@ TXT'Flagello di Dio' （Ripa）
 11D34|成人基督〜抽象的概念
 11D35|在十字架上基督的特定類型（非敘事性情境）
 11D351|基督受苦（帶荊冠，通常頭轉向側面）
-11D352|基督遍體瘡痍，' Pestkruzifixus '
+11D352|基督遍體瘡痍，'Pestkruzifixus'
 11D353|基督勝利（頭帶王冠，頭通常直立）
 11D354|基督從十字架上彎身擁抱某人
 11D355|基督被釘在樹上或在藤蔓上
