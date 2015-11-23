@@ -39,7 +39,7 @@
 11B3222|基督展示其傷口
 11B323|聖父抱著十字架上的或死去的基督
 11B3231|聖父抱著十字架， 'Gnadenstuhl' ，憐憫之座，施恩之寶座
-11B3232|站立著或坐著的聖父，抱著基督的身體， 'Pitié - de-Notre-Seigneur'，' Not Gottes'
+11B3232|站立著或坐著的聖父，抱著基督的身體， 'Pitié-de-Notre-Seigneur'，' Not Gottes'
 11B33|三位一體的各種再現方式
 11B331|三位一體的再現：人物 (聖父） ，羔羊（聖子） ，鴿子（聖靈）
 11B332|三位一體的再現：人物（聖父） ，獅子（聖子） ，鴿子（聖靈）
@@ -47,8 +47,8 @@
 11B4|'Ratschluss der Erlösung'，' Prolog im Himmel';救贖的聖旨
 11B41|救贖之神的命令，寓言化人物在現場，如：正義，慈悲，和平和真理（各種美德和諧一致）
 11B42|加百列阿的派遣〜 'Ratschluss der Erlösung'
-11B43|加百列阿的歸來〜'Ratschluss der Erlösung'
-11B44|聖子的派遣〜'Ratschluss der Erlösung'
+11B43|加百列阿的歸來〜 'Ratschluss der Erlösung'
+11B44|聖子的派遣〜 'Ratschluss der Erlösung'
 11B45|聖子的歸來〜 'Ratschluss der Erlösung'
 11B5|三位一體的延伸
 11B51|四位一體（即三位一體加瑪利亞）
@@ -80,7 +80,7 @@
 11D11|字母和交織字母〜基督的象徵符號
 11D111|阿拉法和俄梅戛,有時飾以花環,三角形,基督受難刑具,等等〜基督的象徵符號
 11D112|基督交織字母及派生形式〜基督的象徵符號
-11D113|IHS （' Iesus Hominum Salvator'） 〜基督的象徵符號
+11D113|IHS （'Iesus Hominum Salvator'） 〜基督的象徵符號
 11D1131|labarum ，即標有HIS符號的旗蠧
 11D1132|對耶穌名稱的崇拜
 11D114|'Ichthys'〜基督的象徵符號
