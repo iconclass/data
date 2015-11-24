@@ -1,5 +1,5 @@
-2|自然
-20|Natura' (寓言化的形象或景象; 或作為 以弗所的狄安娜, 有許多乳房); 'Natura' (Ripa)
+﻿2|自然
+20|Natura' (寓言化的形象或景象; 或作為以弗所的狄安娜, 有許多乳房); 'Natura' (Ripa)
 21|四元素, 和以太第五元素
 210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
 21A|氣 (四元素之一)
@@ -486,190 +486,190 @@
 23U24|時鐘
 23U241|鐘表匠
 23U25|(手)錶
-24|天
-#240|allegorical representation of the heavens (celestial bodies)
-#24A|sun as celestial body
-#24A1|sunrise
-#24A11|dawn
+24|天文
+#240|對天文(天體)寓言式的再現 
+#24A|太陽作為天體 
+#24A1|日出 
+#24A11|黎明 
 #24A110|'Crepuscolo della matina' (Ripa)
-#24A2|sunset
-#24A21|dusk, evening twilight
+#24A2|日落 
+#24A21|黃昏 
 #24A210|'Crepuscolo della sera' (Ripa)
-#24A3|solar eclipse
-#24A31|total solar eclipse with corona
-#24A4|midnight sun
-#24A5|physical aspects of the sun
-#24A51|sun-spots
-#24A52|unusual solar phenomena: parhelion or mock sun, spots on solar halo, etc.
-#24A6|sun represented as face, wheel, etc.
-#24A7|positions of the sun
-#24A71|summer solstice, midsummer's day
+#24A3|日食 
+#24A31|日全食 
+#24A4|夜半太陽 
+#24A5|太陽的物理方面 
+#24A51|太陽黑子 
+#24A52|太陽的通常現象: 幻日,太陽光斑,等等 
+#24A6|太陽被再現成面龐,車輪,等等 
+#24A7|太陽的位置 
+#24A71|夏至,仲夏日 
 #24A710|'Solstitio estivo' (Ripa)
-#24A72|autumnal equinox
+#24A72|秋分 
 #24A720|'Equinottio dell'autunno' (Ripa)
-#24A73|winter solstice
+#24A73|冬至 
 #24A730|'Solstitio hiemale' (Ripa)
-#24A74|vernal equinox
+#24A74|春分 
 #24A740|'Equinottio della primavera' (Ripa)
-#24A8|sunlight
-#24A81|sunbeams
-#24B|moon as celestial body
-#24B1|waxing moon, i.e. facing this way: )
-#24B11|waxing moon represented as face
-#24B2|full moon
-#24B21|full moon represented as face
-#24B3|waning moon, i.e. facing this way (
-#24B31|waning moon represented as face
-#24B4|eclipse of the moon
-#24B5|surface of the moon
-#24B6|moonlight
-#24B61|moonbeams
+#24A8|太陽光 
+#24A81|太陽光線 
+#24B|月亮作為天體 
+#24B1|上弦月,即朝向如此: ) 
+#24B11|上弦月被再現為面龐 
+#24B2|月圓 
+#24B21|圓月被再現為面龐 
+#24B3|下弦月,即朝向如此: ( 
+#24B31|下弦月被再現為面龐 
+#24B4|月食 
+#24B5|月亮的表面 
+#24B6|月光 
+#24B61|月亮的光線 
 #24B62|contemplation of the moon, 'schwärmen'
-#24B7|moonrise
-#24B8|setting of the moon
-24C|天体
-#24C1|planets; planetary system, solar system
-#24C11|Ceres (planet)
-#24C12|Jupiter (planet)
-#24C13|Mars (planet)
-#24C14|Mercury (planet)
-#24C15|Neptune (planet)
-#24C16|Pluto (planet)
-#24C17|Saturn (planet)
-#24C18|Uranus (planet)
-#24C19|Venus (planet)
-#24C191|morning star (Venus)
-#24C192|evening star (Venus or other planet)
-#24C2|mankind influenced by the planets, including sun and moon; 'Planetenkinder'
-#24C21|(personifications of the) planets with their 'children', so-called 'Planetenkinder'
-#24C211|Saturn and his children ('Planetenkinder')
-#24C212|Jupiter and his children ('Planetenkinder')
-#24C213|Mars and his children ('Planetenkinder')
-#24C214|Sol and his children ('Planetenkinder')
-#24C215|Venus and her children ('Planetenkinder')
-#24C216|Mercury and his children ('Planetenkinder')
-#24C217|Luna and her children ('Planetenkinder')
-#24C22|(personifications of the) planets with their 'children', so-called 'Planetenkinder', accompanied by the corresponding zodiacal signs
-#24C221|Saturn and his children ('Planetenkinder') ~ Aquarius and Capricorn
-#24C222|Jupiter and his children ('Planetenkinder') ~ Pisces and Sagittarius
-#24C223|Mars and his children ('Planetenkinder') ~ Aries and Scorpio
-#24C224|Sol and his children ('Planetenkinder') ~ Leo
-#24C225|Venus and her children ('Planetenkinder') ~ Taurus and Libra
-#24C226|Mercury and his children ('Planetenkinder') ~ Gemini and Virgo
-#24C227|Luna and her children ('Planetenkinder') ~ Cancer
-#24C3|canonical group of seven planets symbolically representing metals
-#24C31|the sun representing gold
-#24C32|the moon representing silver
-#24C33|Mercury representing the metal mercury
-#24C34|Venus representing copper
-#24C35|Mars representing iron
-#24C36|Jupiter representing tin
-#24C37|Saturn representing lead
-#24C39|other celestial bodies representing metals
-#24C39(...)|other celestial bodies representing metals (with NAME)
-#24C39(URANUS)|Uranus representing platinum
-24D|明星
-#24D0|stars, represented symbolically or allegorically
-#24D1|stars and constellations
-#24D1(...)|stars and constellations (with NAME)
-#24D1(ORION)|stars and constellations: Orion
-#24D1(POLARIS)|stars and constellations: Polaris, Pole star
-#24D1(SIRIUS)|stars and constellations: Sirius
-#24D11|catasterism, honouring a person by including him among the stars
+#24B7|月出 
+#24B8|月落 
+24C|行星(地球除外)
+#24C1|行星;行星系統,太陽系 
+#24C11|谷神星(行星) 
+#24C12|木星(行星) 
+#24C13|火星(行星) 
+#24C14|水星(行星) 
+#24C15|海王星(行星) 
+#24C16|冥王星(行星) 
+#24C17|土星(行星) 
+#24C18|天王星(行星) 
+#24C19|金星(行星) 
+#24C191|啟明星(金星) 
+#24C192|昏星(金星或其它行星) 
+#24C2|人類受行星的影響,包括日和月; 'Planetenkinder' 
+#24C21|行星及其'子女'(的人格化),所謂'Planetenkinder' 
+#24C211|土星及其'子女'('Planetenkinder') 
+#24C212|木星及其'子女'('Planetenkinder') 
+#24C213|火星及其'子女'('Planetenkinder') 
+#24C214|太陽及其'子女'('Planetenkinder') 
+#24C215|金星及其'子女'('Planetenkinder') 
+#24C216|水星及其'子女'('Planetenkinder') 
+#24C217|月亮及其'子女'('Planetenkinder') 
+#24C22|行星及其'子女'(的人格化),所謂'Planetenkinder',由它們的相應星座附號陪伴 
+#24C221|土星及其'子女'('Planetenkinder') ~ 水瓶座和摩羯座 
+#24C222|木星及其'子女'('Planetenkinder') ~ 雙魚座和射手座 
+#24C223|火星及其'子女'('Planetenkinder') ~ 白羊座和天蠍座 
+#24C224|太陽及其'子女'('Planetenkinder') ~ 獅子座 
+#24C225|金星及其'子女'('Planetenkinder') ~ 金牛座和天秤座 
+#24C226|水星及其'子女'('Planetenkinder') ~ 雙子座和處女座 
+#24C227|月亮及其'子女'('Planetenkinder') ~ 巨蟹座 
+#24C3|七大行星為一組來象徵金屬 
+#24C31|太陽再現金 
+#24C32|月亮再現銀 
+#24C33|水星再現汞 
+#24C34|金星再現銅 
+#24C35|火星再現鐵 
+#24C36|木星再現錫 
+#24C37|土星再現鉛 
+#24C39|其它天體代表金屬 
+#24C39(...)|其它天體代表金屬(名稱) 
+#24C39(URANUS)|天王星代表鉑(天王星) 
+24D|恆星
+#24D0|恆星,被象徵性的或寓言式的表現 
+#24D1|恆星和星座 
+#24D1(...)|恆星和星座(名稱) 
+#24D1(ORION)|恆星和星座:獵戶星座 
+#24D1(POLARIS)|恆星和星座:北極星座 
+#24D1(SIRIUS)|恆星和星座:天狼星座 
+#24D11|天官法,為了尊崇某人將其置於星際 
 24D2|星系
 24D21|銀河系
 24D211|銀河系的起源（朱諾乳大力神）
-#24D4|other galaxies or stellar systems
-#24D4(...)|other galaxies or stellar systems (with NAME)
+#24D4|其它星系 
+#24D4(...)|其它星系(名稱) 
 24E|天文現象
-#24E1|comet
+#24E1|彗星 
 #24E10|'Cometa, ninfa dell'aria' (Ripa)
-#24E2|meteor
-#24E3|meteorites
-24F|蒼穹，天空
-#24F1|contemplating the firmament
-#24F2|stars in the firmament
-#24G|spheres ~ heavens
-#24G1|empyrean
-25|地
+#24E2|流星 
+#24E3|隕石 
+24F|天空,夜空
+#24F1|仰望天空 
+#24F2|星星在天空 
+#24G|多重天 ~ 天文
+#24G1|最高天 
+25|地理
 #250|'Mondo', 'Machina del mondo' (Ripa)
-25A|地图、地图集
-#25A1|map of the world
-#25A11|map in square or circular form according to old ideas about the shape of the world
-#25A111|centre of the world, 'omphalos' (on map or atlas)
-#25A1111|map with Jerusalem as centre
-#25A1112|map with Delphi as 'omphalos'
-#25A12|modern projections ~ map of the world
-#25A13|globe
-#25A131|globe in the shape of an icosahedron
-#25A14|the four main directions
-#25A141|north (one of the four main directions)
+25A|地圖,地圖集
+#25A1|世界地圖 
+#25A11|根據世界形狀的古老觀念的方形或圓形地圖 
+#25A111|世界的中心,(地圖或地圖集上的)'omphalos'  
+#25A1111|耶路撒冷作為中心的地圖 
+#25A1112|特爾菲作為'omphalos'的地圖 
+#25A12|現代投影 ~ 世界地圖 
+#25A13|地球 
+#25A131|正二十面體形的地球 
+#25A14|四個主要方位 
+#25A141|北方(四個主要方位之一)  
 #25A1410|'Settentrione' (Ripa)
-#25A142|east (one of the four main directions)
+#25A142|東方(四個主要方位之一) 
 #25A1420|'Oriente' (Ripa)
 #25A1421|orientation, facing the east
-#25A143|south (one of the four main directions)
+#25A143|南方(四個主要方位之一) 
 #25A1430|'Mezzodì' (Ripa)
-#25A144|west (one of the four main directions)
+#25A144|西方(四個主要方位之一) 
 #25A1440|'Occidente' (Ripa)
-#25A15|latitude and longitude
-#25A151|latitude
-#25A1511|equator
-#25A1512|tropics
-#25A152|longitude
-#25A1521|meridian
-#25A2|maps of the continents and the polar regions
-#25A21|(map of) Europe
-#25A22|(map of) Asia
-#25A23|(map of) Eurasia
-#25A24|(map of) Africa
-#25A25|(map of) America
-#25A251|(map of) North America
-#25A252|(map of) South America
-#25A26|(map of) Australia
-#25A27|(map of) the polar regions, frigid zones
-#25A271|(map of) the North Pole
-#25A272|(map of) the South Pole
-#25A3|maps of separate countries or regions
-#25A3(...)|maps of separate countries or regions (with NAME)
-#25A4|maps of cities
-#25A4(...)|maps of cities (with NAME)
-#25A5|marine charts
-#25A9|map making
+#25A15|緯度和經度 
+#25A151|緯度 
+#25A1511|赤道 
+#25A1512|熱帶 
+#25A152|經度 
+#25A1521|子午線 
+#25A2|各大陸和南北極地圖 
+#25A21|歐洲(地圖) 
+#25A22|亞洲(地圖) 
+#25A23|歐亞(地圖) 
+#25A24|非洲(地圖) 
+#25A25|美洲(地圖) 
+#25A251|北美洲(地圖) 
+#25A252|南美洲(地圖) 
+#25A26|澳洲(地圖) 
+#25A27|南北極(地圖) 
+#25A271|北極(地圖) 
+#25A272|南極(地圖) 
+#25A3|國家或地區地圖 
+#25A3(...)|國家或地區地圖(名稱) 
+#25A4|城市地圖 
+#25A4(...)|城市地圖(名稱) 
+#25A5|海圖 
+#25A9|製圖 
 #25A90|'Corografia', 'Geografia', 'Hidrografia' (Ripa)
-#25A91|geodesy, surveying
+#25A91|大地測量學,測量 
 #25A910|'Altimetria' (Ripa)
-#25A911|instruments used in geodesy, surveying instruments
-#25A911(...)|instruments used in geodesy, surveying instruments (with NAME)
-#25A9111|Jacob's staff (surveying instrument)
-#25B|continents represented allegorically
-#25B1|Europe represented allegorically; 'Europa' (Ripa)
-#25B2|Asia represented allegorically; 'Asia' (Ripa)
-#25B3|Africa represented allegorically; 'Africa' (Ripa)
-#25B4|America represented allegorically; 'America' (Ripa)
-#25B5|Australia represented allegorically
-#25B6|the polar regions, frigid zones represented allegorically
-#25B61|allegorical representation of the North Pole
-#25B62|allegorical representation of the South Pole
-#25C|geological phenomena
-#25C1|volcanism
-#25C11|eruption (of volcano)
-#25C111|stream of lava
-#25C112|ash cloud
-#25C12|volcano
-#25C13|hot spring, geyser
-#25C14|fumes, brimstone, etc.
-#25C15|earthquake
+#25A911|測地學儀器,測量儀器 
+#25A911(...)|測地學儀器,測量儀器(名稱) 
+#25A9111|十字測天儀(測量儀器) 
+#25B|各大陸被寓言式表現 
+#25B1|歐洲被寓言式表現; 'Europa' (Ripa) 
+#25B2|亞洲被寓言式表現; 'Asia' (Ripa) 
+#25B3|非洲被寓言式表現; 'Africa' (Ripa) 
+#25B4|美洲被寓言式表現; 'America' (Ripa) 
+#25B5|澳洲被寓言式表現 
+#25B6|南北極被寓言式表現
+#25B61|北極被寓言式表現
+#25B62|南極被寓言式表現
+#25C|地理現象 
+#25C1|火山活動 
+#25C11|(火山的)噴發 
+#25C111|熔岩流 
+#25C112|火山灰雲 
+#25C12|火山 
+#25C13|溫泉 
+#25C14|煙霧,硫黃,等等 
+#25C15|地震 
 #25C150|'Terremoto' (Ripa)
-#25C151|consequences of an earthquake
-#25C16|genesis of mountain chain, etc.
-#25C17|genesis of island
-#25C19|extinct volcano
-#25C191|volcanic formations
-#25C192|cold lava
-#25C2|terrestrial magnetism
-#25C21|compass
-#25C211|compass card
+#25C151|地震的後果 
+#25C16|山脈的成因 
+#25C17|海島的成因 
+#25C19|死火山 
+#25C191|火山的形成 
+#25C192|冷熔岩 
+#25C2|地磁 
+#25C21|羅盤 
+#25C211|羅盤刻度盤 
 #25D|rock types; minerals and metals; soil types
 #25D1|rock types
 #25D11|precious and semiprecious stones
