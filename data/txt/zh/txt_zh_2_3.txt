@@ -525,8 +525,8 @@
 24B6|月光 
 24B61|月亮的光線 
 24B62|對著月亮沉思, 'schwärmen'
-24B7|月出
-24B8|月落
+24B7|月出 
+24B8|月落 
 24C|行星(地球除外)
 24C1|行星;行星系統,太陽系 
 24C11|谷神星(行星) 
@@ -759,14 +759,14 @@
 25E(BIG BANG)|地質年代分期;歷史地質學;地質年代:宇宙大爆炸 
 25E(CENOZOIC)|地質年代分期;歷史地質學;地質年代:新生代 
 25E(PALEOZOIC)|地質年代分期;歷史地質學;地質年代:古生代 
-25E(TERTIARY)|地質年代分期;歷史地質學;地質年代:第三紀
+25E(TERTIARY)|地質年代分期;歷史地質學;地質年代:第三紀 
 25F|动物
-25F1|成群的動物 groups of animals
-25F2|哺乳動物 mammals
-25F21|成群的哺乳動物 groups of mammals
-25F22|猴,猿 monkeys, apes
-25F22(...)|猴,猿(名稱) monkeys, apes (with NAME)
-25F22(BABOON)|猴,猿:狒狒 monkeys, apes: baboon
+25F1|成群的動物
+25F2|哺乳動物
+25F21|成群的哺乳動物
+25F22|猴,猿
+25F22(...)|猴,猿(名稱)
+25F22(BABOON)|猴,猿:狒狒
 25F23|食肉獸,食肉動物 beasts of prey, predatory animals
 25F23(...)|食肉獸,食肉動物(名稱) beasts of prey, predatory animals (with NAME)
 25F23(BADGER)|食肉獸,食肉動物:獾 beasts of prey, predatory animals: badger
