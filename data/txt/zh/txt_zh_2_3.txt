@@ -921,7 +921,7 @@
 25F39(TURTLE DOVE)|其它鳥類: 斑鳩
 25F39(WOODPECKER)|其它鳥類: 啄木鳥
 25F39(WRYNECK)|其它鳥類: 歪脖
-25F4|reptiles
+#25F4|reptiles
 #25F41|lizards
 #25F41(...)|lizards (名稱)
 #25F41(CHAMELEON)|lizards: chameleon
