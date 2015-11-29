@@ -767,287 +767,287 @@
 25F22|猴,猿
 25F22(...)|猴,猿(名稱)
 25F22(BABOON)|猴,猿:狒狒
-25F23|食肉獸,食肉動物 beasts of prey, predatory animals
-25F23(...)|食肉獸,食肉動物(名稱) beasts of prey, predatory animals (with NAME)
-25F23(BADGER)|食肉獸,食肉動物:獾 beasts of prey, predatory animals: badger
-25F23(BEAR)|食肉獸,食肉動物:熊 beasts of prey, predatory animals: bear
-25F23(CHEETAH)|食肉獸,食肉動物:獵豹 beasts of prey, predatory animals: cheetah
-25F23(ERMINE)|食肉獸,食肉動物:銀貂 beasts of prey, predatory animals: ermine
-25F23(FERRET)|食肉獸,食肉動物:白鼬 beasts of prey, predatory animals: ferret
-25F23(FOX)|食肉獸,食肉動物:狐狸 beasts of prey, predatory animals: fox
-25F23(HYENA)|食肉獸,食肉動物:土狼 beasts of prey, predatory animals: hyena
-25F23(ICHNEUMON)|食肉獸,食肉動物:貓鼬 beasts of prey, predatory animals: ichneumon
-25F23(LEOPARD)|食肉獸,食肉動物:雲豹 beasts of prey, predatory animals: leopard
-25F23(LION)|食肉獸,食肉動物:獅 beasts of prey, predatory animals: lion
-25F23(LYNX)|食肉獸,食肉動物:猞猁 beasts of prey, predatory animals: lynx
-25F23(MANGOUSTE)|食肉獸,食肉動物:獴 beasts of prey, predatory animals: mangouste
-25F23(MARTEN)|食肉獸,食肉動物:貂鼠 beasts of prey, predatory animals: marten
-25F23(OTTER)|食肉獸,食肉動物:水獺 beasts of prey, predatory animals: otter
-25F23(PANTHER)|食肉獸,食肉動物:豹 beasts of prey, predatory animals: panther
-25F23(POLAR BEAR)|食肉獸,食肉動物:北極熊 beasts of prey, predatory animals: polar bear
-25F23(SABLE)|食肉獸,食肉動物:黑貂 beasts of prey, predatory animals: sable
-25F23(TIGER)|食肉獸,食肉動物:虎 beasts of prey, predatory animals: tiger
-25F23(WEASEL)|食肉獸,食肉動物:鼬鼠 beasts of prey, predatory animals: weasel
-25F23(WOLF)|食肉獸,食肉動物:狼 beasts of prey, predatory animals: wolf
-#25F24|hoofed animals
-#25F24(...)|hoofed animals (with NAME)
-#25F24(ANTELOPE)|hoofed animals: antelope
-#25F24(BISON)|hoofed animals: bison
-#25F24(BOAR)|hoofed animals: boar
-#25F24(CAMEL)|hoofed animals: camel
-#25F24(DEER)|hoofed animals: deer
-#25F24(DROMEDARY)|hoofed animals: dromedary
-#25F24(ELK)|hoofed animals: elk
-#25F24(GAZELLE)|hoofed animals: gazelle
-#25F24(GIRAFFE)|hoofed animals: giraffe
-#25F24(GNU)|hoofed animals: gnu
-#25F24(HIPPOPOTAMUS)|hoofed animals: hippopotamus
-#25F24(IBEX)|hoofed animals: ibex
-#25F24(MUSK-DEER)|hoofed animals: musk-deer
-#25F24(ONAGER)|hoofed animals: onager
-#25F24(ORYX)|hoofed animals: oryx
-#25F24(QUAGGA)|hoofed animals: quagga
-#25F24(RHINOCEROS)|hoofed animals: rhinoceros
-#25F24(STAG)|hoofed animals: stag
-#25F24(ZEBRA)|hoofed animals: zebra
-#25F25|trunked animals
-#25F25(...)|trunked animals (with NAME)
-#25F25(ELEPHANT)|trunked animals: elephant
-#25F26|rodents
-#25F26(...)|rodents (with NAME)
-#25F26(BEAVER)|rodents: beaver
-#25F26(HARE)|rodents: hare
-#25F26(MOUSE)|rodents: mouse
-#25F26(MUSK-RAT)|rodents: musk-rat
-#25F26(RABBIT)|rodents: rabbit
-#25F26(RAT)|rodents: rat
-#25F26(SQUIRREL)|rodents: squirrel
-#25F26(WOMBAT)|rodents: wombat
-#25F27|swimming mammals
-#25F27(...)|swimming mammals (with NAME)
-#25F27(DOLPHIN)|swimming mammals: dolphin
-#25F27(SEAL)|swimming mammals: seal
-#25F27(WHALE)|swimming mammals: whale
-#25F28|flying mammals
-#25F28(...)|flying mammals (with NAME)
-#25F28(BAT)|flying mammals: bat
-#25F29|other mammals
-#25F29(...)|other mammals (with NAME)
-#25F29(ARMADILLO)|other mammals: armadillo
-#25F29(HEDGEHOG)|other mammals: hedgehog
-#25F29(KANGAROO)|other mammals: kangaroo
-#25F29(MOLE)|other mammals: mole
-#25F29(PORCUPINE)|other mammals: porcupine
-#25F29(SLOTH)|other mammals: sloth
-#25F3|birds
-#25F31|groups of birds
-#25F32|song-birds
-#25F32(...)|song-birds (with NAME)
-#25F32(CROW)|song-birds: crow
-#25F32(FINCH)|song-birds: finch
-#25F32(GOLDFINCH)|song-birds: goldfinch
-#25F32(JACKDAW)|song-birds: jackdaw
-#25F32(LARK)|song-birds: lark
-#25F32(MAGPIE)|song-birds: magpie
-#25F32(NIGHTINGALE)|song-birds: nightingale
-#25F32(RAVEN)|song-birds: raven
-#25F32(ROBIN)|song-birds: robin
-#25F32(SPARROW)|song-birds: sparrow
-#25F32(STARLING)|song-birds: starling
-#25F32(SWALLOW)|song-birds: swallow
-#25F32(THRUSH)|song-birds: thrush
-#25F32(TIT)|song-birds: tit
-#25F32(WAGTAIL)|song-birds: wagtail
-#25F32(WARBLER)|song-birds: warbler
-#25F32(WHITE THROAT)|song-birds: white throat
-#25F32(WREN)|song-birds: wren
-#25F33|predatory birds
-#25F33(...)|predatory birds (with NAME)
-#25F33(EAGLE)|predatory birds: eagle
-#25F33(FALCON)|predatory birds: falcon
-#25F33(FISH-HAWK)|predatory birds: fish-hawk, osprey
-#25F33(HAWK)|predatory birds: hawk
-#25F33(KITE)|predatory birds: kite
-#25F33(SPARROW-HAWK)|predatory birds: sparrow-hawk
-#25F33(VULTURE)|predatory birds: vulture
-#25F34|owls
-#25F35|ornamental birds
-#25F35(...)|ornamental birds (with NAME)
-#25F35(BIRD OF PARADISE)|ornamental birds: bird of paradise
-#25F35(COCKATOO)|ornamental birds: cockatoo
-#25F35(HORNBILL)|ornamental birds: hornbill
-#25F35(PARROT)|ornamental birds: parrot
-#25F35(PEACOCK)|ornamental birds: peacock
-#25F36|water-birds
-#25F36(...)|water-birds (with NAME)
-#25F36(COOT)|water-birds: coot
-#25F36(DIPPER)|water-birds: dipper
-#25F36(DUCK)|water-birds: duck
-#25F36(GOOSE)|water-birds: goose
-#25F36(PELICAN)|water-birds: pelican
-#25F36(SWAMP-HEN)|water-birds: swamp-hen
-#25F36(SWAN)|water-birds: swan
-#25F37|shore-birds and wading-birds
-#25F37(...)|shore-birds and wading-birds (with NAME)
-#25F37(BITTERN)|shore-birds and wading-birds: bittern
-#25F37(CRANE)|shore-birds and wading-birds: crane
-#25F37(GULL)|shore-birds and wading-birds: gull
-#25F37(HERON)|shore-birds and wading-birds: heron
-#25F37(IBIS)|shore-birds and wading-birds: ibis
-#25F37(LAPWING)|shore-birds and wading-birds: lapwing
-#25F37(MARABOU)|shore-birds and wading-birds: marabou
-#25F37(PLOVER)|shore-birds and wading-birds: plover
-#25F37(PURPLE WATER-HEN)|shore-birds and wading-birds: purple water-hen
-#25F37(SNIPE)|shore-birds and wading-birds: snipe
-#25F37(STORK)|shore-birds and wading-birds: stork
-#25F37(TROCHILUS)|shore-birds and wading-birds: trochilus
-#25F37(WOODCOCK)|shore-birds and wading-birds: woodcock
-#25F38|walker and runner birds
-#25F38(...)|walker and runner birds (with NAME)
-#25F38(BUSTARD)|walker and runner birds: bustard
-#25F38(OSTRICH)|walker and runner birds: ostrich
-#25F38(PARTRIDGE)|walker and runner birds: partridge
-#25F38(PHEASANT)|walker and runner birds: pheasant
-#25F38(QUAIL)|walker and runner birds: quail
-#25F38(TURKEY)|walker and runner birds: turkey
-#25F39|other birds
-#25F39(...)|other birds (with NAME)
-#25F39(CUCKOO)|other birds: cuckoo
-#25F39(DODO)|other birds: dodo
-#25F39(DOVE)|other birds: dove
-#25F39(HOOPOE)|other birds: hoopoe
-#25F39(HUMMING-BIRD)|other birds: humming-bird
-#25F39(KINGFISHER)|other birds: kingfisher
-#25F39(TURTLE DOVE)|other birds: turtle dove
-#25F39(WOODPECKER)|other birds: woodpecker
-#25F39(WRYNECK)|other birds: wryneck
-#25F4|reptiles
-#25F41|lizards
-#25F41(...)|lizards (with NAME)
-#25F41(CHAMELEON)|lizards: chameleon
-#25F41(LIZARD)|lizards: lizard
-#25F42|snakes
-#25F42(...)|snakes (with NAME)
-#25F42(VIPER)|snakes: viper
-#25F43|crocodiles
-#25F43(...)|crocodiles (with NAME)
-#25F43(ALLIGATOR)|crocodiles: alligator
-#25F43(CROCODILE)|crocodiles: crocodile
-#25F44|tortoises, turtles
-#25F5|amphibians
-#25F51|tailless amphibians
-#25F51(...)|tailless amphibians (with NAME)
-#25F51(FROG)|tailless amphibians: frog
-#25F51(TOAD)|tailless amphibians: toad
-#25F52|amphibians with tail
-#25F52(...)|amphibians with tail (with NAME)
-#25F6|fishes
-#25F6(...)|fishes (with NAME)
-#25F61|cartilaginous fishes
-#25F61(...)|cartilaginous fishes (with NAME)
-#25F61(DOGFISH)|cartilaginous fishes: dogfish
-#25F61(RAY)|cartilaginous fishes: ray
-#25F61(SAWFISH)|cartilaginous fishes: sawfish
-#25F61(SHARK)|cartilaginous fishes: shark
-#25F62|bony fishes
-#25F62(...)|bony fishes (with NAME)
-#25F62(BARBEL)|bony fishes: barbel
-#25F62(BUTTERFISH)|bony fishes: butterfish
-#25F62(CARP)|bony fishes: carp
-#25F62(HERRING)|bony fishes: herring
-#25F62(HIPPOCAMPUS)|bony fishes: hippocampus
-#25F62(LUNGFISH)|bony fishes: lungfish
-#25F62(MACKEREL)|bony fishes: mackerel
-#25F62(MULLET)|bony fishes: mullet
-#25F62(PIKE)|bony fishes: pike
-#25F62(PILOT-FISH)|bony fishes: pilot-fish
-#25F62(RED HERRING)|'red' or smoked herring : Use 41 C 68 (SMOKED HERRING); herring : Use 25 F 62 (HERRING)
-#25F62(ROACH)|bony fishes: roach
-#25F62(SALMON)|bony fishes: salmon
-#25F62(SARDINE)|bony fishes: sardine
-#25F62(SCARUS)|bony fishes: scarus
-#25F62(SEA-BREAM)|bony fishes: sea-bream
-#25F62(SEA-DEVIL)|bony fishes: sea-devil
-#25F62(SEA-PERCH)|bony fishes: sea-perch
-#25F62(SEA-WOLF)|bony fishes: sea-wolf
-#25F62(SHEAT-FISH)|bony fishes: sheat-fish
-#25F62(STURGEON)|bony fishes: sturgeon
-#25F62(SUN-FISH)|bony fishes: sun-fish
-#25F62(SWORD-FISH)|bony fishes: sword-fish
-#25F62(TUNNY)|bony fishes: tunny
-#25F62(WEEVER)|bony fishes: weever
-#25F63|eels
-#25F63(...)|eels (with NAME)
-#25F63(EEL)|eels: eel
-#25F63(LAMPREY)|eels: lamprey
-#25F63(SEA-EEL)|eels: sea-eel
-#25F64|deep-sea fishes
-#25F64(...)|deep-sea fishes (with NAME)
-#25F65|other fishes
-#25F65(...)|other fishes (with NAME)
-#25F7|lower animals
-#25F71|arthropods
-#25F711|insects
-#25F711(...)|insects (with NAME)
-#25F711(ANT)|insects: ant
-#25F711(BEE)|insects: bee
-#25F711(BEETLE)|insects: beetle
-#25F711(BUTTERFLY)|insects: butterfly
-#25F711(CATERPILLAR)|insects: caterpillar
-#25F711(CICADA)|insects: cicada
-#25F711(CRICKET)|insects: cricket
-#25F711(DAY-FLY)|insects: day-fly
-#25F711(DRAGON-FLY)|insects: dragon-fly
-#25F711(DUNG-BEETLE)|insects: dung-beetle
-#25F711(FLEA)|insects: flea
-#25F711(FLY)|insects: fly
-#25F711(GLOW-WORM)|insects: glow-worm
-#25F711(GNAT)|insects: gnat
-#25F711(GRASS-HOPPER)|insects: grass-hopper
-#25F711(HORNET)|insects: hornet
-#25F711(ICHNEUMON-FLY)|insects: ichneumon-fly
-#25F711(LADYBIRD)|insects: ladybird
-#25F711(LOUSE)|insects: louse
-#25F711(MANTIS)|insects: mantis
-#25F711(MOSQUITO)|insects: mosquito
-#25F711(MOTH)|insects: moth
-#25F711(PRAYING-MANTIS)|insects: praying-mantis
-#25F711(SCARABAEUS)|insects: scarabaeus
-#25F711(WASP)|insects: wasp
-#25F712|centipedes, millipedes
-#25F713|spiders
-#25F713(...)|spiders (with NAME)
-#25F714|mites
-#25F715|scorpions
-#25F716|crustaceans
-#25F716(...)|crustaceans (with NAME)
-#25F716(CRAB)|crustaceans: crab
-#25F716(LOBSTER)|crustaceans: lobster
-#25F72|molluscs
-#25F72(...)|molluscs (with NAME)
-#25F72(CUTTLE-FISH)|molluscs: cuttle-fish
+25F23|食肉獸,食肉動物 
+25F23(...)|食肉獸,食肉動物(名稱) 
+25F23(BADGER)|食肉獸,食肉動物:獾 
+25F23(BEAR)|食肉獸,食肉動物:熊 
+25F23(CHEETAH)|食肉獸,食肉動物:獵豹 
+25F23(ERMINE)|食肉獸,食肉動物:銀貂 
+25F23(FERRET)|食肉獸,食肉動物:白鼬 
+25F23(FOX)|食肉獸,食肉動物:狐狸 
+25F23(HYENA)|食肉獸,食肉動物:鬣狗 
+25F23(ICHNEUMON)|食肉獸,食肉動物:貓鼬 
+25F23(LEOPARD)|食肉獸,食肉動物:雲豹 
+25F23(LION)|食肉獸,食肉動物:獅 
+25F23(LYNX)|食肉獸,食肉動物:猞猁 
+25F23(MANGOUSTE)|食肉獸,食肉動物:獴 
+25F23(MARTEN)|食肉獸,食肉動物:貂鼠 
+25F23(OTTER)|食肉獸,食肉動物:水獺 
+25F23(PANTHER)|食肉獸,食肉動物:豹 
+25F23(POLAR BEAR)|食肉獸,食肉動物:北極熊 
+25F23(SABLE)|食肉獸,食肉動物:黑貂 
+25F23(TIGER)|食肉獸,食肉動物:虎 
+25F23(WEASEL)|食肉獸,食肉動物:鼬鼠 
+25F23(WOLF)|食肉獸,食肉動物:狼 
+25F24|有蹄類動物
+25F24(...)|有蹄類動物(名稱)
+25F24(ANTELOPE)|有蹄類動物: 羚羊
+25F24(BISON)|有蹄類動物: 野牛
+25F24(BOAR)|有蹄類動物: 野豬
+25F24(CAMEL)|有蹄類動物: 駱駝
+25F24(DEER)|有蹄類動物: 鹿
+25F24(DROMEDARY)|有蹄類動物: 單峰駱駝
+25F24(ELK)|有蹄類動物: 麋鹿
+25F24(GAZELLE)|有蹄類動物: 瞪羚
+25F24(GIRAFFE)|有蹄類動物: 長頸鹿
+25F24(GNU)|有蹄類動物: 角馬
+25F24(HIPPOPOTAMUS)|有蹄類動物: 河馬
+25F24(IBEX)|有蹄類動物: 高地山羊
+25F24(MUSK-DEER)|有蹄類動物: 麝香鹿
+25F24(ONAGER)|有蹄類動物: 中亞野驢
+25F24(ORYX)|有蹄類動物: 羚羊
+25F24(QUAGGA)|有蹄類動物: 白氏斑馬
+25F24(RHINOCEROS)|有蹄類動物: 犀牛
+25F24(STAG)|有蹄類動物: 牡鹿
+25F24(ZEBRA)|有蹄類動物: 斑馬
+25F25|象鼻類動物
+25F25(...)|象鼻類動物(名稱) 
+25F25(ELEPHANT)|象鼻類動物: 大象
+25F26|囓齒目
+25F26(...)|囓齒目(名稱)
+25F26(BEAVER)|囓齒目: 海狸
+25F26(HARE)|囓齒目: 野兔
+25F26(MOUSE)|囓齒目: 鼠
+25F26(MUSK-RAT)|囓齒目: 麝鼠
+25F26(RABBIT)|囓齒目: 兔
+25F26(RAT)|囓齒目: 老鼠
+25F26(SQUIRREL)|囓齒目: 松鼠
+25F26(WOMBAT)|囓齒目: 袋熊
+25F27|水栖哺乳動物
+25F27(...)|水栖哺乳動物 (名稱)
+25F27(DOLPHIN)|水栖哺乳動物: 海豚
+25F27(SEAL)|水栖哺乳動物: 海豹
+25F27(WHALE)|水栖哺乳動物: 鯨魚
+25F28|會飛類哺乳動物
+25F28(...)|會飛類哺乳動物(名稱)
+25F28(BAT)|會飛類哺乳動物: 蝙蝠
+25F29|other 哺乳動物
+25F29(...)|其它哺乳動物(名稱)
+25F29(ARMADILLO)|其它哺乳動物: 犰狳
+25F29(HEDGEHOG)|其它哺乳動物: 刺蝟
+25F29(KANGAROO)|其它哺乳動物: 袋鼠
+25F29(MOLE)|其它哺乳動物: 鼹形鼠
+25F29(PORCUPINE)|其它哺乳動物: 豪豬
+25F29(SLOTH)|其它哺乳動物: 樹懶
+25F3|鳥類
+25F31|成群的鳥類
+25F32|鳴禽
+25F32(...)|鳴禽 (名稱)
+25F32(CROW)|鳴禽: 烏鴉
+25F32(FINCH)|鳴禽: 雀
+25F32(GOLDFINCH)|鳴禽: 金翅雀
+25F32(JACKDAW)|鳴禽: 寒鴉
+25F32(LARK)|鳴禽: 百靈鳥
+25F32(MAGPIE)|鳴禽: 喜雀
+25F32(NIGHTINGALE)|鳴禽: 夜鶯
+25F32(RAVEN)|鳴禽: 渡鴉
+25F32(ROBIN)|鳴禽: 鴝
+25F32(SPARROW)|鳴禽: 麻雀
+25F32(STARLING)|鳴禽: 星椋鳥
+25F32(SWALLOW)|鳴禽: 燕子
+25F32(THRUSH)|鳴禽: 鶇
+25F32(TIT)|鳴禽: 山雀
+25F32(WAGTAIL)|鳴禽: 灶巢鳥
+25F32(WARBLER)|鳴禽: 鶯
+25F32(WHITE THROAT)|鳴禽: white throat
+25F32(WREN)|鳴禽: 鷦鷯
+25F33|猛禽
+25F33(...)|猛禽 (名稱)
+25F33(EAGLE)|猛禽: 鷹
+25F33(FALCON)|猛禽: 隼
+25F33(FISH-HAWK)|猛禽: 魚鷹, 鶚
+25F33(HAWK)|猛禽: 鷹
+25F33(KITE)|猛禽: 鳶
+25F33(SPARROW-HAWK)|猛禽: 雀鷹
+25F33(VULTURE)|猛禽: 鷲
+25F34|鴞
+25F35|觀賞鳥
+25F35(...)|觀賞鳥 (名稱)
+25F35(BIRD OF PARADISE)|觀賞鳥: 天堂鳥
+25F35(COCKATOO)|觀賞鳥: 鳳頭鸚鵡
+25F35(HORNBILL)|觀賞鳥: 犀鳥
+25F35(PARROT)|觀賞鳥: 鸚鵡
+25F35(PEACOCK)|觀賞鳥: 孔雀
+25F36|水鳥
+25F36(...)|水鳥 (名稱)
+25F36(COOT)|水鳥: 黑鴨
+25F36(DIPPER)|水鳥: 潛鳥
+25F36(DUCK)|水鳥: 鴨
+25F36(GOOSE)|水鳥: 鵝
+25F36(PELICAN)|水鳥: 鵜鶘
+25F36(SWAMP-HEN)|水鳥: 沼澤水雞
+25F36(SWAN)|水鳥: 天鵝
+25F37|沙禽和涉禽
+25F37(...)|沙禽和涉禽 (名稱)
+25F37(BITTERN)|沙禽和涉禽: 麻鳽
+25F37(CRANE)|沙禽和涉禽: 鶴
+25F37(GULL)|沙禽和涉禽: 鷗
+25F37(HERON)|沙禽和涉禽: 蒼鷺
+25F37(IBIS)|沙禽和涉禽: 白鷺
+25F37(LAPWING)|沙禽和涉禽: 麥鳧
+25F37(MARABOU)|沙禽和涉禽: 禿鸛
+25F37(PLOVER)|沙禽和涉禽: 千鳥
+25F37(PURPLE WATER-HEN)|沙禽和涉禽: 紫水雞
+25F37(SNIPE)|沙禽和涉禽: 鷸
+25F37(STORK)|沙禽和涉禽: 鸛
+25F37(TROCHILUS)|沙禽和涉禽: 柳鶯
+25F37(WOODCOCK)|沙禽和涉禽: 鳥鷸
+25F38|行禽
+25F38(...)|行禽 (名稱)
+25F38(BUSTARD)|行禽: 鴇
+25F38(OSTRICH)|行禽: 鴕鳥
+25F38(PARTRIDGE)|行禽: 鷓鴣
+25F38(PHEASANT)|行禽: 錦雞
+25F38(QUAIL)|行禽: 鵪鶉
+25F38(TURKEY)|行禽: 火雞
+25F39|其它鳥類
+25F39(...)|其它鳥類 (名稱)
+25F39(CUCKOO)|其它鳥類: 布穀鳥
+25F39(DODO)|其它鳥類: 渡渡鳥
+25F39(DOVE)|其它鳥類: 鴿
+25F39(HOOPOE)|其它鳥類: 戴勝
+25F39(HUMMING-BIRD)|其它鳥類: 蜂鳥
+25F39(KINGFISHER)|其它鳥類: 翠鳥
+25F39(TURTLE DOVE)|其它鳥類: 斑鳩
+25F39(WOODPECKER)|其它鳥類: 啄木鳥
+25F39(WRYNECK)|其它鳥類: 歪脖
+25F4|爬行動物
+25F41|蜥蜴類
+25F41(...)|蜥蜴類(名稱)
+25F41(CHAMELEON)|蜥蜴類: 變色龍
+25F41(LIZARD)|蜥蜴類: 蜥蜴
+25F42|蛇
+25F42(...)|蛇(名稱)
+25F42(VIPER)|蛇: 蝰蛇
+25F43|鱷類
+25F43(...)|鱷類(名稱)
+25F43(ALLIGATOR)|鱷類: 短吻鱷
+25F43(CROCODILE)|鱷類: 鱷
+25F44|龜
+25F5|水陸兩棲動物
+25F51|無尾水陸兩棲動物
+25F51(...)|無尾水陸兩棲動物 (名稱)
+25F51(FROG)|無尾水陸兩棲動物: 蛙  
+25F51(TOAD)|無尾水陸兩棲動物: 蟾蜍
+25F52|有尾水陸兩棲動物
+25F52(...)|有尾水陸兩棲動物 (名稱)
+25F6|魚類
+25F6(...)|魚類(名稱)
+25F61|軟骨魚類
+25F61(...)|軟骨魚類 (名稱)
+25F61(DOGFISH)|軟骨魚類: 狗鯊
+25F61(RAY)|軟骨魚類: 鰩魚
+25F61(SAWFISH)|軟骨魚類: 鋸鰩
+25F61(SHARK)|軟骨魚類: 鯊魚
+25F62|硬骨魚類
+25F62(...)|硬骨魚類 (名稱)
+25F62(BARBEL)|硬骨魚類: 有觸鬚的魚,鲃魚
+25F62(BUTTERFISH)|硬骨魚類: 溜滑的魚,鯧魚
+25F62(CARP)|硬骨魚類: 鯉魚
+25F62(HERRING)|硬骨魚類: 鯡魚
+25F62(HIPPOCAMPUS)|硬骨魚類: 海馬
+25F62(LUNGFISH)|硬骨魚類: 肺魚
+25F62(MACKEREL)|硬骨魚類: 鯖魚
+25F62(MULLET)|硬骨魚類: 鯔魚
+25F62(PIKE)|硬骨魚類: 梭子魚
+25F62(PILOT-FISH)|硬骨魚類: 鰣魚
+25F62(RED HERRING)|熏鯖魚 : 採用 41 C 68 (熏鯖魚); 鯡魚: 使用 25 F 62 (鯡魚)
+25F62(ROACH)|硬骨魚類: 歐鯉,翻車魚
+25F62(SALMON)|硬骨魚類: 鮭魚
+25F62(SARDINE)|硬骨魚類: 沙丁魚
+25F62(SCARUS)|硬骨魚類: 鸚嘴魚
+25F62(SEA-BREAM)|硬骨魚類: 鯛魚
+25F62(SEA-DEVIL)|硬骨魚類: 華臍魚
+25F62(SEA-PERCH)|硬骨魚類: 黑鯛
+25F62(SEA-WOLF)|硬骨魚類: 狼魚
+25F62(SHEAT-FISH)|硬骨魚類: 六須鯰
+25F62(STURGEON)|硬骨魚類: 鱔魚,鱘魚
+25F62(SUN-FISH)|硬骨魚類: 翻車魚
+25F62(SWORD-FISH)|硬骨魚類: 旗魚
+25F62(TUNNY)|硬骨魚類: 鮪魚,金槍魚
+25F62(WEEVER)|硬骨魚類: 鱸魚
+25F63|鱔魚類
+25F63(...)|鱔魚類(名稱)
+25F63(EEL)|鱔魚類: 鱔魚,鰻魚
+25F63(LAMPREY)|鱔魚類: 七腮鰻魚
+25F63(SEA-EEL)|鱔魚類: 海鱔
+25F64|深海魚類
+25F64(...)|深海魚類 (名稱)
+25F65|其它魚類
+25F65(...)|其它魚類 (名稱)
+25F7|較低級動物 
+25F71|節肢動物 
+25F711|昆蟲 
+25F711(...)|昆蟲(名稱)
+25F711(ANT)|昆蟲: 螞蟻
+25F711(BEE)|昆蟲: 蜜蜂
+25F711(BEETLE)|昆蟲: 甲蟲
+25F711(BUTTERFLY)|昆蟲: 蝴蝶
+25F711(CATERPILLAR)|昆蟲: 毛蟲
+25F711(CICADA)|昆蟲: 蟬
+25F711(CRICKET)|昆蟲: 蟋蟀
+25F711(DAY-FLY)|昆蟲: 蜉蝣
+25F711(DRAGON-FLY)|昆蟲: 蜻蜓
+25F711(DUNG-BEETLE)|昆蟲: 蜣螂
+25F711(FLEA)|昆蟲: 跳蚤
+25F711(FLY)|昆蟲: 蒼蠅
+25F711(GLOW-WORM)|昆蟲: 螢火蟲
+25F711(GNAT)|昆蟲: 叮人小蟲
+25F711(GRASS-HOPPER)|昆蟲: 蚱蜢
+25F711(HORNET)|昆蟲: 大黃蜂
+25F711(ICHNEUMON-FLY)|昆蟲: 姬蜂
+25F711(LADYBIRD)|昆蟲: 瓢蟲
+25F711(LOUSE)|昆蟲: 蝨子
+25F711(MANTIS)|昆蟲: 螳螂
+25F711(MOSQUITO)|昆蟲: 蚊子
+25F711(MOTH)|昆蟲: 蛾子
+25F711(PRAYING-MANTIS)|昆蟲: 合掌螳螂
+25F711(SCARABAEUS)|昆蟲: 聖甲蟲
+25F711(WASP)|昆蟲: 黃蜂
+25F712|蜈蚣,百足蟲
+25F713|蜘蛛
+25F713(...)|蜘蛛 (名稱)
+25F714|螨,壁蟲
+25F715|蝎子
+25F716|甲殼蟲
+25F716(...)|甲殼蟲(名稱)
+25F716(CRAB)|甲殼蟲: 螃蟹
+25F716(LOBSTER)|甲殼蟲: 龍蝦
+25F72|軟體動物
+25F72(...)|軟體動物(名稱)
+25F72(CUTTLE-FISH)|軟體動物: 墨魚,烏賊
 25F72(MUREX)|軟體動物：骨螺
-#25F72(MUSSEL)|molluscs: mussel
-#25F72(NAUTILUS)|molluscs: nautilus
-#25F72(OCTOPUS)|molluscs: octopus
-#25F72(OYSTER)|molluscs: oyster
-#25F72(POLYP)|molluscs: polyp
-#25F72(SNAIL)|molluscs: snail
-#25F72(SQUID)|molluscs: squid
+25F72(MUSSEL)|軟體動物: 貝類,蚌類
+25F72(NAUTILUS)|軟體動物: 鸚鵡螺殼
+25F72(OCTOPUS)|軟體動物: 章魚
+25F72(OYSTER)|軟體動物: 牡蠣
+25F72(POLYP)|軟體動物: 珊瑚蟲
+25F72(SNAIL)|軟體動物: 螺,蜗牛
+25F72(SQUID)|軟體動物: 魷魚
 #25F73|worms
-#25F73(...)|worms (with NAME)
+#25F73(...)|worms (名稱)
 #25F74|echinoderms
-#25F74(...)|echinoderms (with NAME)
+#25F74(...)|echinoderms (名稱)
 #25F74(SEA-URCHIN)|echinoderms: sea-urchin
 #25F74(STARFISH)|echinoderms: starfish
 #25F75|coelenterata
-#25F75(...)|coelenterata (with NAME)
+#25F75(...)|coelenterata (名稱)
 #25F75(CORAL)|coelenterata: coral
 #25F75(JELLY-FISH)|coelenterata: jelly-fish
 #25F75(SPONGE)|coelenterata: sponge
 #25F76|unicellular animals, bacteria, bacilli
 #25F8|extinct animals
-#25F8(...)|extinct animals (with NAME)
+#25F8(...)|extinct animals (名稱)
 #25F81|prehistoric animals
 #25F82|fossil animals
 #25F9|mis-shapen animals; monsters
@@ -1064,62 +1064,62 @@
 #25F972|monsters with parts, limbs, organs, etc. smaller than normal
 25FF|想象的动物
 #25FF1|groups of fabulous animals
-#25FF2|fabulous animals ~ mammals
+#25FF2|fabulous animals ~ 哺乳動物
 #25FF21|fabulous animals ~ domestic animals
 #25FF22|fabulous animals ~ monkeys
-#25FF22(...)|monkeys, apes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF22(...)|monkeys, apes (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF22(BABOON)|monkeys, apes: baboon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF23|fabulous animals ~ predatory animals
-#25FF23(...)|fabulous animals ~ predatory animals (with NAME)
-#25FF23(BADGER)|beasts of prey, predatory animals: badger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(BEAR)|beasts of prey, predatory animals: bear - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(CHEETAH)|beasts of prey, predatory animals: cheetah - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(...)|fabulous animals ~ predatory animals (名稱)
+#25FF23(BADGER)|食肉獸,食肉動物: badger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(BEAR)|食肉獸,食肉動物: bear - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(CHEETAH)|食肉獸,食肉動物: cheetah - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF23(CROCOTAS)|fabulous animals ~ predatory animals: crocotas
-#25FF23(ERMINE)|beasts of prey, predatory animals: ermine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(FERRET)|beasts of prey, predatory animals: ferret - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(FOX)|beasts of prey, predatory animals: fox - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(HYENA)|beasts of prey, predatory animals: hyena - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(ICHNEUMON)|beasts of prey, predatory animals: ichneumon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(LEOPARD)|beasts of prey, predatory animals: leopard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(LION)|beasts of prey, predatory animals: lion - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(LYNX)|beasts of prey, predatory animals: lynx - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(MANGOUSTE)|beasts of prey, predatory animals: mangouste - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(MARTEN)|beasts of prey, predatory animals: marten - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(OTTER)|beasts of prey, predatory animals: otter - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(PANTHER)|beasts of prey, predatory animals: panther - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(SABLE)|beasts of prey, predatory animals: sable - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(TIGER)|beasts of prey, predatory animals: tiger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(WEASEL)|beasts of prey, predatory animals: weasel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(WOLF)|beasts of prey, predatory animals: wolf - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(ERMINE)|食肉獸,食肉動物: ermine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(FERRET)|食肉獸,食肉動物: ferret - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(FOX)|食肉獸,食肉動物: fox - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(HYENA)|食肉獸,食肉動物: hyena - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(ICHNEUMON)|食肉獸,食肉動物: ichneumon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(LEOPARD)|食肉獸,食肉動物: leopard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(LION)|食肉獸,食肉動物: lion - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(LYNX)|食肉獸,食肉動物: lynx - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(MANGOUSTE)|食肉獸,食肉動物: mangouste - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(MARTEN)|食肉獸,食肉動物: marten - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(OTTER)|食肉獸,食肉動物: otter - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(PANTHER)|食肉獸,食肉動物: panther - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(SABLE)|食肉獸,食肉動物: sable - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(TIGER)|食肉獸,食肉動物: tiger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(WEASEL)|食肉獸,食肉動物: weasel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF23(WOLF)|食肉獸,食肉動物: wolf - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF231|griffin (lion/eagle); 'Griffo' (Ripa)
 #25FF232|chimera (lion/goat/snake); 'Chimera' (Ripa)
 #25FF233|hyena, capable of changing sex
-#25FF24|fabulous animals ~ hoofed animals
-#25FF24(...)|fabulous animals ~ hoofed animals (with NAME)
-#25FF24(ANTELOPE)|hoofed animals: antelope - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(BISON)|hoofed animals: bison - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(BOAR)|hoofed animals: boar - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(BONNACON)|fabulous animals ~ hoofed animals: bonnacon
-#25FF24(CAMEL)|hoofed animals: camel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(CATOBLEPAS)|fabulous animals ~ hoofed animals: catoblepas
-#25FF24(DEER)|hoofed animals: deer - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(DROMEDARY)|hoofed animals: dromedary - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(ELK)|hoofed animals: elk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(GAZELLE)|hoofed animals: gazelle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(GIRAFFE)|hoofed animals: giraffe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(GNU)|hoofed animals: gnu - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(HIPPOPOTAMUS)|hoofed animals: hippopotamus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(IBEX)|hoofed animals: ibex - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(MUSK-DEER)|hoofed animals: musk-deer - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(ONAGER)|hoofed animals: onager - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(ORYX)|hoofed animals: oryx - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(OX WITH ONE HORN)|fabulous animals ~ hoofed animals: ox with one horn
-#25FF24(OX WITH THREE HORNS)|fabulous animals ~ hoofed animals: ox with three horns
-#25FF24(PEGASUS)|fabulous animals ~ hoofed animals : Use 93D1 Pegasus, the winged horse, or 25FF(WINGED HORSE) for winged horse (not in classical context)
-#25FF24(QUAGGA)|hoofed animals: quagga - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(RHINOCEROS)|hoofed animals: rhinoceros - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(STAG)|hoofed animals: stag - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(WINGED HORSE)|fabulous animals ~ hoofed animals: winged horse
+#25FF24|fabulous animals ~ 有蹄類動物
+#25FF24(...)|fabulous animals ~ 有蹄類動物 (名稱)
+#25FF24(ANTELOPE)|有蹄類動物: antelope - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(BISON)|有蹄類動物: bison - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(BOAR)|有蹄類動物: boar - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(BONNACON)|fabulous animals ~ 有蹄類動物: bonnacon
+#25FF24(CAMEL)|有蹄類動物: camel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(CATOBLEPAS)|fabulous animals ~ 有蹄類動物: catoblepas
+#25FF24(DEER)|有蹄類動物: deer - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(DROMEDARY)|有蹄類動物: dromedary - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(ELK)|有蹄類動物: elk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(GAZELLE)|有蹄類動物: gazelle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(GIRAFFE)|有蹄類動物: giraffe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(GNU)|有蹄類動物: gnu - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(HIPPOPOTAMUS)|有蹄類動物: hippopotamus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(IBEX)|有蹄類動物: ibex - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(MUSK-DEER)|有蹄類動物: musk-deer - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(ONAGER)|有蹄類動物: onager - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(ORYX)|有蹄類動物: oryx - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(OX WITH ONE HORN)|fabulous animals ~ 有蹄類動物: ox with one horn
+#25FF24(OX WITH THREE HORNS)|fabulous animals ~ 有蹄類動物: ox with three horns
+#25FF24(PEGASUS)|fabulous animals ~ 有蹄類動物 : Use 93D1 Pegasus, the winged horse, or 25FF(WINGED HORSE) for winged horse (not in classical context)
+#25FF24(QUAGGA)|有蹄類動物: quagga - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(RHINOCEROS)|有蹄類動物: rhinoceros - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(STAG)|有蹄類動物: stag - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF24(WINGED HORSE)|fabulous animals ~ 有蹄類動物: winged horse
 #25FF241|unicorn
 #25FF2411|unicorn caught by a virgin, 'Chasse à la licorne'
 #25FF2412|'pirassoipi' (unicorn with two horns)
@@ -1131,140 +1131,140 @@
 #25FF246|yale, 'éale'
 #25FF2461|'centicore'
 #25FF25|fabulous animals ~ trunked animals
-#25FF25(...)|trunked animals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF25(...)|trunked animals (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF25(ELEPHANT)|trunked animals: elephant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26|fabulous animals ~ rodents
-#25FF26(...)|rodents (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(BEAVER)|rodents: beaver - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(HARE)|rodents: hare - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(MOUSE)|rodents: mouse - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(MUSK-RAT)|rodents: musk-rat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(RABBIT)|rodents: rabbit - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(RAT)|rodents: rat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(SQUIRREL)|rodents: squirrel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(WOMBAT)|rodents: wombat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27|fabulous animals ~ swimming mammals
-#25FF27(...)|swimming mammals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27(DOLPHIN)|swimming mammals: dolphin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27(SEAL)|swimming mammals: seal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27(WHALE)|swimming mammals: whale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF28|fabulous animals ~ flying mammals
-#25FF28(...)|flying mammals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF28(BAT)|flying mammals: bat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29|fabulous animals ~ other mammals not meant or mentioned above
-#25FF29(...)|fabulous animals ~ other mammals not meant or mentioned above (with NAME)
-#25FF29(ARMADILLO)|other mammals: armadillo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29(HEDGEHOG)|other mammals: hedgehog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29(LERTIX)|fabulous animals ~ other mammals not meant or mentioned above: lertix
-#25FF29(MOLE)|other mammals: mole - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29(PORCUPINE)|other mammals: porcupine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF3|fabulous animals ~ birds
-#25FF3(...)|fabulous animals ~ birds (with NAME)
-#25FF3(AVALERION)|fabulous animals ~ birds: avalerion
-#25FF3(CARABAS)|fabulous animals ~ birds: carabas
-#25FF3(CARISTA)|fabulous animals ~ birds: carista
-#25FF3(FIRE-BIRD)|fabulous animals ~ birds: fire-bird
+#25FF26|fabulous animals ~ 囓齒目
+#25FF26(...)|囓齒目 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(BEAVER)|囓齒目: beaver - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(HARE)|囓齒目: hare - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(MOUSE)|囓齒目: mouse - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(MUSK-RAT)|囓齒目: musk-rat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(RABBIT)|囓齒目: rabbit - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(RAT)|囓齒目: rat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(SQUIRREL)|囓齒目: squirrel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF26(WOMBAT)|囓齒目: wombat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF27|fabulous animals ~ 水栖哺乳動物
+#25FF27(...)|水栖哺乳動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF27(DOLPHIN)|水栖哺乳動物: dolphin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF27(SEAL)|水栖哺乳動物: seal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF27(WHALE)|水栖哺乳動物: whale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF28|fabulous animals ~ 會飛類哺乳動物
+#25FF28(...)|會飛類哺乳動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF28(BAT)|會飛類哺乳動物: bat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF29|fabulous animals ~ 其它 哺乳動物 not meant or mentioned above
+#25FF29(...)|fabulous animals ~ 其它 哺乳動物 not meant or mentioned above (名稱)
+#25FF29(ARMADILLO)|其它 哺乳動物: armadillo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF29(HEDGEHOG)|其它 哺乳動物: hedgehog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF29(LERTIX)|fabulous animals ~ 其它 哺乳動物 not meant or mentioned above: lertix
+#25FF29(MOLE)|其它 哺乳動物: mole - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF29(PORCUPINE)|其它 哺乳動物: porcupine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF3|fabulous animals ~鳥類
+#25FF3(...)|fabulous animals ~鳥類 (名稱)
+#25FF3(AVALERION)|fabulous animals ~鳥類: avalerion
+#25FF3(CARABAS)|fabulous animals ~鳥類: carabas
+#25FF3(CARISTA)|fabulous animals ~鳥類: carista
+#25FF3(FIRE-BIRD)|fabulous animals ~鳥類: fire-bird
 #25FF3(HARPY)|harpy (fabulous bird); 'Arpie' (Ripa)
-#25FF3(HERCYNIAN BIRD)|fabulous animals ~ birds: hercynian bird
-#25FF3(PHOENIX)|fabulous animals ~ birds: phoenix
-#25FF3(PORPHYRION)|fabulous animals ~ birds: porphyrion
-#25FF3(ROC)|fabulous animals ~ birds: roc
-#25FF3(SELEUCIDIAN BIRD)|fabulous animals ~ birds: seleucidian bird
-#25FF3(STELLINUS)|fabulous animals ~ birds: stellinus
-#25FF3(TRAGOPA)|fabulous animals ~ birds: tragopa
+#25FF3(HERCYNIAN BIRD)|fabulous animals ~鳥類: hercynian bird
+#25FF3(PHOENIX)|fabulous animals ~鳥類: phoenix
+#25FF3(PORPHYRION)|fabulous animals ~鳥類: porphyrion
+#25FF3(ROC)|fabulous animals ~鳥類: roc
+#25FF3(SELEUCIDIAN BIRD)|fabulous animals ~鳥類: seleucidian bird
+#25FF3(STELLINUS)|fabulous animals ~鳥類: stellinus
+#25FF3(TRAGOPA)|fabulous animals ~鳥類: tragopa
 #25FF31|fabulous animals ~ domestic birds
 #25FF311|basilisk (cock with posterior of snake)
 #25FF312|cockatrice, a two-legged dragon with a rooster's head
-#25FF32|fabulous animals ~ song-birds
-#25FF32(...)|song-birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(CROW)|song-birds: crow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(FINCH)|song-birds: finch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(GOLDFINCH)|song-birds: goldfinch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(JACKDAW)|song-birds: jackdaw - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(LARK)|song-birds: lark - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(MAGPIE)|song-birds: magpie - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(NIGHTINGALE)|song-birds: nightingale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(RAVEN)|song-birds: raven - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(ROBIN)|song-birds: robin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(SPARROW)|song-birds: sparrow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(STARLING)|song-birds: starling - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(SWALLOW)|song-birds: swallow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(THRUSH)|song-birds: thrush - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WAGTAIL)|song-birds: wagtail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WARBLER)|song-birds: warbler - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WHITE THROAT)|song-birds: white throat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WREN)|song-birds: wren - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33|fabulous animals ~ predatory birds
-#25FF33(...)|predatory birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(EAGLE)|predatory birds: eagle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(FALCON)|predatory birds: falcon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(FISH-HAWK)|predatory birds: fish-hawk, osprey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(HAWK)|predatory birds: hawk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(KITE)|predatory birds: kite - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(SPARROW-HAWK)|predatory birds: sparrow-hawk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(VULTURE)|predatory birds: vulture - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32|fabulous animals ~ 鳴禽
+#25FF32(...)|鳴禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(CROW)|鳴禽: crow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(FINCH)|鳴禽: finch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(GOLDFINCH)|鳴禽: goldfinch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(JACKDAW)|鳴禽: jackdaw - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(LARK)|鳴禽: lark - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(MAGPIE)|鳴禽: magpie - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(NIGHTINGALE)|鳴禽: nightingale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(RAVEN)|鳴禽: raven - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(ROBIN)|鳴禽: robin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(SPARROW)|鳴禽: sparrow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(STARLING)|鳴禽: starling - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(SWALLOW)|鳴禽: swallow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(THRUSH)|鳴禽: thrush - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(WAGTAIL)|鳴禽: wagtail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(WARBLER)|鳴禽: warbler - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(WHITE THROAT)|鳴禽: white throat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF32(WREN)|鳴禽: wren - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33|fabulous animals ~ 猛禽
+#25FF33(...)|猛禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33(EAGLE)|猛禽: eagle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33(FALCON)|猛禽: falcon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33(FISH-HAWK)|猛禽: fish-hawk, osprey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33(HAWK)|猛禽: hawk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33(KITE)|猛禽: kite - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33(SPARROW-HAWK)|猛禽: sparrow-hawk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF33(VULTURE)|猛禽: vulture - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF331|vulpanser
 #25FF332|double-headed eagle
 #25FF34|fabulous animals ~ owls
-#25FF35|fabulous animals ~ ornamental birds
-#25FF35(...)|ornamental birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(BIRD OF PARADISE)|ornamental birds: bird of paradise - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(HORNBILL)|ornamental birds: hornbill - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(PARROT)|ornamental birds: parrot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(PEACOCK)|ornamental birds: peacock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36|fabulous animals ~ water-birds
-#25FF36(...)|water-birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(COOT)|water-birds: coot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(DIPPER)|water-birds: dipper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(DUCK)|water-birds: duck - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(GOOSE)|water-birds: goose - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(PELICAN)|water-birds: pelican - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(SWAMP-HEN)|water-birds: swamp-hen - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(SWAN)|water-birds: swan - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37|fabulous animals ~ shore-birds and wading-birds
-#25FF37(...)|shore-birds and wading-birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(BITTERN)|shore-birds and wading-birds: bittern - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(CRANE)|shore-birds and wading-birds: crane - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(GULL)|shore-birds and wading-birds: gull - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(HERON)|shore-birds and wading-birds: heron - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(IBIS)|shore-birds and wading-birds: ibis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(LAPWING)|shore-birds and wading-birds: lapwing - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(MARABOU)|shore-birds and wading-birds: marabou - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(PLOVER)|shore-birds and wading-birds: plover - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(PURPLE WATER-HEN)|shore-birds and wading-birds: purple water-hen - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(SNIPE)|shore-birds and wading-birds: snipe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(STORK)|shore-birds and wading-birds: stork - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(TROCHILUS)|shore-birds and wading-birds: trochilus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(WOODCOCK)|shore-birds and wading-birds: woodcock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF35|fabulous animals ~ 觀賞鳥
+#25FF35(...)|觀賞鳥 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF35(BIRD OF PARADISE)|觀賞鳥: bird of paradise - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF35(HORNBILL)|觀賞鳥: hornbill - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF35(PARROT)|觀賞鳥: parrot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF35(PEACOCK)|觀賞鳥: peacock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36|fabulous animals ~ 水鳥
+#25FF36(...)|水鳥 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36(COOT)|水鳥: coot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36(DIPPER)|水鳥: dipper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36(DUCK)|水鳥: duck - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36(GOOSE)|水鳥: goose - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36(PELICAN)|水鳥: pelican - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36(SWAMP-HEN)|水鳥: swamp-hen - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF36(SWAN)|水鳥: swan - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37|fabulous animals ~ 沙禽和涉禽
+#25FF37(...)|沙禽和涉禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(BITTERN)|沙禽和涉禽: bittern - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(CRANE)|沙禽和涉禽: crane - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(GULL)|沙禽和涉禽: gull - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(HERON)|沙禽和涉禽: heron - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(IBIS)|沙禽和涉禽: ibis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(LAPWING)|沙禽和涉禽: lapwing - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(MARABOU)|沙禽和涉禽: marabou - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(PLOVER)|沙禽和涉禽: plover - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(PURPLE WATER-HEN)|沙禽和涉禽: purple water-hen - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(SNIPE)|沙禽和涉禽: snipe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(STORK)|沙禽和涉禽: stork - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(TROCHILUS)|沙禽和涉禽: trochilus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF37(WOODCOCK)|沙禽和涉禽: woodcock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF371|'caladrius', 'charadrius' (fabulous bird)
-#25FF38|fabulous animals ~ walker and runner birds
-#25FF38(...)|walker and runner birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(BUSTARD)|walker and runner birds: bustard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(OSTRICH)|walker and runner birds: ostrich - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(PARTRIDGE)|walker and runner birds: partridge - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(PHEASANT)|walker and runner birds: pheasant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(QUAIL)|walker and runner birds: quail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(TURKEY)|walker and runner birds: turkey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39|fabulous animals ~ other birds not meant of mentioned above
-#25FF39(...)|other birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(CUCKOO)|other birds: cuckoo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(DODO)|other birds: dodo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(DOVE)|other birds: dove - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(HOOPOE)|other birds: hoopoe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(HUMMING-BIRD)|other birds: humming-bird - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(KINGFISHER)|other birds: kingfisher - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(TURTLE DOVE)|other birds: turtle dove - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(WOODPECKER)|other birds: woodpecker - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(WRYNECK)|other birds: wryneck - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF38|fabulous animals ~ 行禽
+#25FF38(...)|行禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF38(BUSTARD)|行禽: bustard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF38(OSTRICH)|行禽: ostrich - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF38(PARTRIDGE)|行禽: partridge - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF38(PHEASANT)|行禽: pheasant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF38(QUAIL)|行禽: quail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF38(TURKEY)|行禽: turkey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39|fabulous animals ~ 其它鳥類 not meant of mentioned above
+#25FF39(...)|其它鳥類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(CUCKOO)|其它鳥類: cuckoo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(DODO)|其它鳥類: dodo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(DOVE)|其它鳥類: dove - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(HOOPOE)|其它鳥類: hoopoe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(HUMMING-BIRD)|其它鳥類: humming-bird - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(KINGFISHER)|其它鳥類: kingfisher - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(TURTLE DOVE)|其它鳥類: turtle dove - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(WOODPECKER)|其它鳥類: woodpecker - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF39(WRYNECK)|其它鳥類: wryneck - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF4|fabulous animals ~ reptiles
 #25FF41|fabulous animals ~ lizards
-#25FF41(...)|lizards (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF41(...)|lizards (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF41(CHAMELEON)|lizards: chameleon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF41(LIZARD)|lizards: lizard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF411|dragon
 #25FF412|salamander (fabulous animal); salamander as spirit of fire
 #25FF42|fabulous animals ~ snakes (aspic, dragon, hydrus, hydra, amphisbaena, horned snake, cerastes)
-#25FF42(...)|snakes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF42(...)|snakes (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF42(VIPER)|snakes: viper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF421|aspic
 #25FF422|dragon (large fabulous serpent, sometimes with wings and legs)
@@ -1274,121 +1274,121 @@
 #25FF425|horned snake
 #25FF4251|'cerastes'
 #25FF43|fabulous animals ~ crocodiles
-#25FF43(...)|crocodiles (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF43(...)|crocodiles (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF43(ALLIGATOR)|crocodiles: alligator - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF43(CROCODILE)|crocodiles: crocodile - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF44|fabulous animals ~ tortoises
-#25FF5|fabulous animals ~ amphibians
-#25FF51|fabulous animals ~ tailless amphibians
-#25FF51(...)|tailless amphibians (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF51(FROG)|tailless amphibians: frog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF51(TOAD)|tailless amphibians: toad - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF52|fabulous animals ~ amphibians with tail
-#25FF52(...)|amphibians with tail (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF6|fabulous animals ~ fishes
+#25FF5|fabulous animals ~ 水陸兩棲動物
+#25FF51|fabulous animals ~ 無尾水陸兩棲動物
+#25FF51(...)|無尾水陸兩棲動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF51(FROG)|無尾水陸兩棲動物: frog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF51(TOAD)|無尾水陸兩棲動物: toad - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF52|fabulous animals ~ 有尾水陸兩棲動物
+#25FF52(...)|有尾水陸兩棲動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF6|fabulous animals ~魚類
 #25FF61|leviathan (fabulous fish)
-#25FF61(...)|cartilaginous fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(DOGFISH)|cartilaginous fishes: dogfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(RAY)|cartilaginous fishes: ray - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(SAWFISH)|cartilaginous fishes: sawfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(SHARK)|cartilaginous fishes: shark - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF61(...)|軟骨魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF61(DOGFISH)|軟骨魚類: dogfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF61(RAY)|軟骨魚類: ray - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF61(SAWFISH)|軟骨魚類: sawfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF61(SHARK)|軟骨魚類: shark - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF62|sea-horse, hippocamp, 'hippocampus', (horse/fish) (mythological hybrid monster)
-#25FF62(...)|bony fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(BARBEL)|bony fishes: barbel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(BUTTERFISH)|bony fishes: butterfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(CARP)|bony fishes: carp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(HERRING)|bony fishes: herring - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(HIPPOCAMPUS)|bony fishes: hippocampus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(LUNGFISH)|bony fishes: lungfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(MACKEREL)|bony fishes: mackerel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(MULLET)|bony fishes: mullet - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(PIKE)|bony fishes: pike - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(PILOT-FISH)|bony fishes: pilot-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(...)|硬骨魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(BARBEL)|硬骨魚類: barbel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(BUTTERFISH)|硬骨魚類: butterfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(CARP)|硬骨魚類: carp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(HERRING)|硬骨魚類: herring - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(HIPPOCAMPUS)|硬骨魚類: hippocampus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(LUNGFISH)|硬骨魚類: lungfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(MACKEREL)|硬骨魚類: mackerel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(MULLET)|硬骨魚類: mullet - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(PIKE)|硬骨魚類: pike - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(PILOT-FISH)|硬骨魚類: pilot-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF62(RED HERRING)|'red' or smoked herring : Use 41 C 68 (SMOKED HERRING); herring : Use 25 F 62 (HERRING) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(ROACH)|bony fishes: roach - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SALMON)|bony fishes: salmon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SARDINE)|bony fishes: sardine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SCARUS)|bony fishes: scarus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-BREAM)|bony fishes: sea-bream - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-DEVIL)|bony fishes: sea-devil - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-PERCH)|bony fishes: sea-perch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-WOLF)|bony fishes: sea-wolf - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SHEAT-FISH)|bony fishes: sheat-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(STURGEON)|bony fishes: sturgeon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SUN-FISH)|bony fishes: sun-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SWORD-FISH)|bony fishes: sword-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(TUNNY)|bony fishes: tunny - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(WEEVER)|bony fishes: weever - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(ROACH)|硬骨魚類: roach - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SALMON)|硬骨魚類: salmon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SARDINE)|硬骨魚類: sardine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SCARUS)|硬骨魚類: scarus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SEA-BREAM)|硬骨魚類: sea-bream - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SEA-DEVIL)|硬骨魚類: sea-devil - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SEA-PERCH)|硬骨魚類: sea-perch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SEA-WOLF)|硬骨魚類: sea-wolf - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SHEAT-FISH)|硬骨魚類: sheat-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(STURGEON)|硬骨魚類: sturgeon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SUN-FISH)|硬骨魚類: sun-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(SWORD-FISH)|硬骨魚類: sword-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(TUNNY)|硬骨魚類: tunny - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(WEEVER)|硬骨魚類: weever - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF63|'pistrix', sea-dragon
-#25FF63(...)|eels (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF63(EEL)|eels: eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF63(LAMPREY)|eels: lamprey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF63(SEA-EEL)|eels: sea-eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF63(...)|鱔魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF63(EEL)|鱔魚類: eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF63(LAMPREY)|鱔魚類: lamprey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF63(SEA-EEL)|鱔魚類: sea-eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF64|'remore', 'echeneis remora' (fabulous fish)
-#25FF64(...)|deep-sea fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF64(...)|深海魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF65|'serra' (fish with enormous fins)
-#25FF65(...)|other fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF7|fabulous animals ~ lower animals
-#25FF71|fabulous animals ~ arthropods ('pyrausta')
+#25FF65(...)|其它魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF7|fabulous animals ~ 低級動物
+#25FF71|fabulous animals ~ 節肢動物 ('pyrausta')
 #25FF711|'pyrausta'
-#25FF711(...)|insects (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(ANT)|insects: ant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(BEE)|insects: bee - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(BEETLE)|insects: beetle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(BUTTERFLY)|insects: butterfly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(CATERPILLAR)|insects: caterpillar - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(CICADA)|insects: cicada - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(CRICKET)|insects: cricket - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(DAY-FLY)|insects: day-fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(DUNG-BEETLE)|insects: dung-beetle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(FLY)|insects: fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(GLOW-WORM)|insects: glow-worm - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(GNAT)|insects: gnat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(GRASS-HOPPER)|insects: grass-hopper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(ICHNEUMON-FLY)|insects: ichneumon-fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(LADYBIRD)|insects: ladybird - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(MANTIS)|insects: mantis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(MOTH)|insects: moth - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(PRAYING-MANTIS)|insects: praying-mantis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(SCARABAEUS)|insects: scarabaeus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(WASP)|insects: wasp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(...)|昆蟲 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(ANT)|昆蟲: ant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(BEE)|昆蟲: bee - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(BEETLE)|昆蟲: beetle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(BUTTERFLY)|昆蟲: butterfly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(CATERPILLAR)|昆蟲: caterpillar - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(CICADA)|昆蟲: cicada - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(CRICKET)|昆蟲: cricket - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(DAY-FLY)|昆蟲: day-fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(DUNG-BEETLE)|昆蟲: dung-beetle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(FLY)|昆蟲: fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(GLOW-WORM)|昆蟲: glow-worm - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(GNAT)|昆蟲: gnat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(GRASS-HOPPER)|昆蟲: grass-hopper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(ICHNEUMON-FLY)|昆蟲: ichneumon-fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(LADYBIRD)|昆蟲: ladybird - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(MANTIS)|昆蟲: mantis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(MOTH)|昆蟲: moth - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(PRAYING-MANTIS)|昆蟲: praying-mantis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(SCARABAEUS)|昆蟲: scarabaeus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(WASP)|昆蟲: wasp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF712|centipedes, millipedes - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF713|spiders - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF714|mites - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF715|scorpions - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716|crustaceans - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716(...)|crustaceans (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716(CRAB)|crustaceans: crab - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716(LOBSTER)|crustaceans: lobster - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72|fabulous animals ~ molluscs
-#25FF72(...)|fabulous animals ~ molluscs (with NAME)
-#25FF72(CUTTLE-FISH)|molluscs: cuttle-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(KRAKEN)|fabulous animals ~ molluscs: kraken
-#25FF72(MUREX)|molluscs: murex - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(MUSSEL)|molluscs: mussel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(NAUTILUS)|molluscs: nautilus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(OCTOPUS)|molluscs: octopus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(OYSTER)|molluscs: oyster - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(POLYP)|molluscs: polyp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(SNAIL)|molluscs: snail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(SQUID)|molluscs: squid - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF716|甲殼蟲 - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF716(...)|甲殼蟲 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF716(CRAB)|甲殼蟲: crab - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF716(LOBSTER)|甲殼蟲: lobster - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72|fabulous animals ~ 軟體動物
+#25FF72(...)|fabulous animals ~ 軟體動物 (名稱)
+#25FF72(CUTTLE-FISH)|軟體動物: cuttle-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(KRAKEN)|fabulous animals ~ 軟體動物: kraken
+#25FF72(MUREX)|軟體動物: murex - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(MUSSEL)|軟體動物: mussel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(NAUTILUS)|軟體動物: nautilus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(OCTOPUS)|軟體動物: octopus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(OYSTER)|軟體動物: oyster - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(POLYP)|軟體動物: polyp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(SNAIL)|軟體動物: snail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF72(SQUID)|軟體動物: squid - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF73|worms - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF73(...)|worms (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF73(...)|worms (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF74|echinoderms - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF74(...)|echinoderms (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF74(...)|echinoderms (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF74(SEA-URCHIN)|echinoderms: sea-urchin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF74(STARFISH)|echinoderms: starfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF75|coelenterata - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF75(...)|coelenterata (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF75(...)|coelenterata (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF75(CORAL)|coelenterata: coral - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF75(JELLY-FISH)|coelenterata: jelly-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF75(SPONGE)|coelenterata: sponge - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF76|unicellular animals, bacteria, bacilli - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF8|extinct animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF8(...)|extinct animals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF8(...)|extinct animals (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF81|prehistoric animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF82|fossil animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF9|still other fabulous animals which cannot be classified under 25 FF 2 - 25 FF 7
+#25FF9|still 其它 fabulous animals which cannot be classified under 25 FF 2 - 25 FF 7
 #25FF91|monsters larger than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF92|monsters smaller than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF93|multiple birth ~ mis-shapen animals, monsters - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1408,7 +1408,7 @@
 #25G14|groups of lower plants
 #25G2|products of plants in general
 #25G21|fruits
-#25G21(...)|fruits (with NAME)
+#25G21(...)|fruits (名稱)
 #25G21(ACORN)|fruits: acorn
 #25G21(ALMOND)|fruits: almond
 #25G21(APPLE)|fruits: apple
@@ -1441,21 +1441,21 @@
 #25G21(STRAWBERRY)|fruits: strawberry
 #25G21(WALNUT)|fruits: walnut
 #25G211|parts of a fruit
-#25G211(...)|parts of a fruit (with NAME)
+#25G211(...)|parts of a fruit (名稱)
 #25G211(NUTSHELL)|parts of a fruit: nutshell
 #25G2111|seed
-#25G2111(...)|seed (with NAME)
+#25G2111(...)|seed (名稱)
 #25G2111(PEA)|seed: pea
 #25G2111(THISTLE-SEED)|seed: thistle-seed
 #25G22|(non-fruit) products of plants or trees
-#25G22(...)|(non-fruit) products of plants or trees (with NAME)
+#25G22(...)|(non-fruit) products of plants or trees (名稱)
 #25G22(ASPARAGUS)|(non-fruit) products of plants or trees: asparagus
 #25G22(CINNAMON)|(non-fruit) products of plants or trees: cinnamon
 #25G22(ONION)|(non-fruit) products of plants or trees: onion
 #25G22(RADISH)|(non-fruit) products of plants or trees: radish
 #25G22(TURNIP)|(non-fruit) products of plants or trees: turnip
 #25G3|trees
-#25G3(...)|trees (with NAME)
+#25G3(...)|trees (名稱)
 #25G3(ACACIA)|trees: acacia
 #25G3(ACER)|trees: acer
 #25G3(ALDER)|trees: alder
@@ -1486,7 +1486,7 @@
 #25G3(OLIVE-TREE)|trees: olive-tree
 #25G3(PALM-TREE)|trees: palm-tree
 #25G3(PEACH-TREE)|trees: peach-tree
-#25G3(PEAR-TREE)|trees (with NAME)
+#25G3(PEAR-TREE)|trees (名稱)
 #25G3(PINE)|trees: pine
 #25G3(PLANE-TREE)|trees: plane-tree
 #25G3(PLUM TREE)|trees: plum tree
@@ -1501,7 +1501,7 @@
 #25G3(WILLOW)|trees: willow
 #25G3(YEW)|trees: yew
 #25G31|shrubs
-#25G31(...)|shrubs (with NAME)
+#25G31(...)|shrubs (名稱)
 #25G31(BLACKBERRY-BUSH)|shrubs: blackberry-bush
 #25G31(BOX)|shrubs: box
 #25G31(BROOM)|shrubs: broom
@@ -1515,7 +1515,7 @@
 #25G39|tree as a scheme of relations, diagram in form of a tree
 #25G391|philosophical tree (Arbor philosophicus) ~ alchemy
 #25G4|plants and herbs
-#25G4(...)|plants and herbs (with NAME)
+#25G4(...)|plants and herbs (名稱)
 #25G4(ACANTHUS)|plants and herbs: acanthus
 #25G4(ALOE)|plants and herbs: aloe
 #25G4(AMARANTH)|plants and herbs: amaranth
@@ -1566,7 +1566,7 @@
 #25G4(WHEAT)|plants and herbs: wheat
 #25G4(WORMWOOD)|plants and herbs: wormwood
 #25G41|flowers
-#25G41(...)|flowers (with NAME)
+#25G41(...)|flowers (名稱)
 #25G41(ALMOND-BLOSSOM)|flowers: almond-blossom
 #25G41(ANEMONE)|flowers: anemone
 #25G41(BUTTERCUP)|flowers: buttercup
@@ -1588,10 +1588,10 @@
 #25G41(VIOLET)|flowers: violet
 #25G41(WATER-LILY)|flowers: water-lily
 #25G411|cut flowers; nosegay, bunch of flowers
-#25G411(...)|cut flowers; nosegay, bunch of flowers (with NAME)
+#25G411(...)|cut flowers; nosegay, bunch of flowers (名稱)
 #25G4111|garland, wreath
 #25G412|dried flowers
-#25G412(...)|dried flowers (with NAME)
+#25G412(...)|dried flowers (名稱)
 #25G49|artificial plants and flowers
 #25G5|lower plants
 #25G51|ferns
@@ -1600,10 +1600,10 @@
 #25G54|fungi
 #25G541|mushrooms
 #25G55|lichens
-#25G56|other lower plants
-#25G56(...)|other lower plants (with NAME)
+#25G56|其它 lower plants
+#25G56(...)|其它 lower plants (名稱)
 #25G6|extinct plants
-#25G6(...)|extinct plants (with NAME)
+#25G6(...)|extinct plants (名稱)
 #25G61|prehistoric plants
 #25G62|fossil plants
 #25G7|language of flowers
@@ -1615,7 +1615,7 @@
 #25GG14|groups of fabulous lower plants
 #25GG2|products of fabulous plants in general
 #25GG21|fruits of fabulous plants
-#25GG21(...)|fruits of fabulous plants (with NAME)
+#25GG21(...)|fruits of fabulous plants (名稱)
 #25GG21(ACORN)|fruits: acorn - GG - fantastic plants, fabulous vegetation
 #25GG21(ALMOND)|fruits: almond - GG - fantastic plants, fabulous vegetation
 #25GG21(APPLE)|fruits: apple - GG - fantastic plants, fabulous vegetation
@@ -1641,21 +1641,21 @@
 #25GG21(STRAWBERRY)|fruits: strawberry - GG - fantastic plants, fabulous vegetation
 #25GG21(WALNUT)|fruits: walnut - GG - fantastic plants, fabulous vegetation
 #25GG211|parts of fruit of fabulous plant
-#25GG211(...)|parts of fruit of fabulous plant (with NAME)
+#25GG211(...)|parts of fruit of fabulous plant (名稱)
 #25GG211(NUTSHELL)|parts of a fruit: nutshell - GG - fantastic plants, fabulous vegetation
 #25GG2111|seed of fabulous plant
-#25GG2111(...)|seed of fabulous plant (with NAME)
+#25GG2111(...)|seed of fabulous plant (名稱)
 #25GG2111(PEA)|seed: pea - GG - fantastic plants, fabulous vegetation
 #25GG2111(THISTLE-SEED)|seed: thistle-seed - GG - fantastic plants, fabulous vegetation
 #25GG22|(non-fruit) products of fabulous plants or trees
-#25GG22(...)|(non-fruit) products of fabulous plants or trees (with NAME)
+#25GG22(...)|(non-fruit) products of fabulous plants or trees (名稱)
 #25GG22(ASPARAGUS)|(non-fruit) products of plants or trees: asparagus - GG - fantastic plants, fabulous vegetation
 #25GG22(CINNAMON)|(non-fruit) products of plants or trees: cinnamon - GG - fantastic plants, fabulous vegetation
 #25GG22(ONION)|(non-fruit) products of plants or trees: onion - GG - fantastic plants, fabulous vegetation
 #25GG22(RADISH)|(non-fruit) products of plants or trees: radish - GG - fantastic plants, fabulous vegetation
 #25GG22(TURNIP)|(non-fruit) products of plants or trees: turnip - GG - fantastic plants, fabulous vegetation
 #25GG3|fabulous trees
-#25GG3(...)|fabulous trees (with NAME)
+#25GG3(...)|fabulous trees (名稱)
 #25GG3(ACACIA)|trees: acacia - GG - fantastic plants, fabulous vegetation
 #25GG3(ALDER)|trees: alder - GG - fantastic plants, fabulous vegetation
 #25GG3(ALMOND-TREE)|trees: almond-tree - GG - fantastic plants, fabulous vegetation
@@ -1693,7 +1693,7 @@
 #25GG3(WILLOW)|trees: willow - GG - fantastic plants, fabulous vegetation
 #25GG3(YEW)|trees: yew - GG - fantastic plants, fabulous vegetation
 #25GG31|fabulous shrubs
-#25GG31(...)|fabulous shrubs (with NAME)
+#25GG31(...)|fabulous shrubs (名稱)
 #25GG31(BLACKBERRY-BUSH)|shrubs: blackberry-bush - GG - fantastic plants, fabulous vegetation
 #25GG31(BOX)|shrubs: box - GG - fantastic plants, fabulous vegetation
 #25GG31(BROOM)|shrubs: broom - GG - fantastic plants, fabulous vegetation
@@ -1706,7 +1706,7 @@
 #25GG31(ROSE-BUSH)|shrubs: rose-bush - GG - fantastic plants, fabulous vegetation
 #25GG39|tree as a scheme of relations, diagram in form of a tree - GG - fantastic plants, fabulous vegetation
 #25GG4|fabulous plants and herbs
-#25GG4(...)|fabulous plants and herbs (with NAME)
+#25GG4(...)|fabulous plants and herbs (名稱)
 #25GG4(ACANTHUS)|plants and herbs: acanthus - GG - fantastic plants, fabulous vegetation
 #25GG4(ALOE)|plants and herbs: aloe - GG - fantastic plants, fabulous vegetation
 #25GG4(AMARANTH)|plants and herbs: amaranth - GG - fantastic plants, fabulous vegetation
@@ -1756,7 +1756,7 @@
 #25GG4(WHEAT)|plants and herbs: wheat - GG - fantastic plants, fabulous vegetation
 #25GG4(WORMWOOD)|plants and herbs: wormwood - GG - fantastic plants, fabulous vegetation
 #25GG41|fabulous flowers
-#25GG41(...)|fabulous flowers (with NAME)
+#25GG41(...)|fabulous flowers (名稱)
 #25GG41(ALMOND-BLOSSOM)|flowers: almond-blossom - GG - fantastic plants, fabulous vegetation
 #25GG41(ANEMONE)|flowers: anemone - GG - fantastic plants, fabulous vegetation
 #25GG41(BUTTERCUP)|flowers: buttercup - GG - fantastic plants, fabulous vegetation
@@ -1778,9 +1778,9 @@
 #25GG41(VIOLET)|flowers: violet - GG - fantastic plants, fabulous vegetation
 #25GG41(WATER-LILY)|flowers: water-lily - GG - fantastic plants, fabulous vegetation
 #25GG411|cut fabulous flowers; nosegay, bunch of fabulous flowers
-#25GG411(...)|cut flowers; nosegay, bunch of flowers (with NAME) - GG - fantastic plants, fabulous vegetation
+#25GG411(...)|cut flowers; nosegay, bunch of flowers (名稱) - GG - fantastic plants, fabulous vegetation
 #25GG412|dried fabulous flowers
-#25GG412(...)|dried flowers (with NAME) - GG - fantastic plants, fabulous vegetation
+#25GG412(...)|dried flowers (名稱) - GG - fantastic plants, fabulous vegetation
 #25GG49|artificial fabulous plants and flowers
 #25GG5|fabulous lower plants
 #25GG51|fabulous ferns
@@ -1789,10 +1789,10 @@
 #25GG54|fabulous fungi
 #25GG541|fabulous mushroom, fairy mushroom
 #25GG55|fabulous lichens
-#25GG56|other fabulous lower plants
-#25GG56(...)|other lower plants (with NAME) - GG - fantastic plants, fabulous vegetation
+#25GG56|其它 fabulous lower plants
+#25GG56(...)|其它 lower plants (名稱) - GG - fantastic plants, fabulous vegetation
 #25GG6|extinct plants - GG - fantastic plants, fabulous vegetation
-#25GG6(...)|extinct plants (with NAME) - GG - fantastic plants, fabulous vegetation
+#25GG6(...)|extinct plants (名稱) - GG - fantastic plants, fabulous vegetation
 #25GG61|prehistoric plants - GG - fantastic plants, fabulous vegetation
 #25GG62|fossil plants - GG - fantastic plants, fabulous vegetation
 #25GG7|language of flowers - GG - fantastic plants, fabulous vegetation
@@ -1869,7 +1869,7 @@
 #25H212|brook
 #25H213|river
 #25H2130|river personified, 'Fiumi' (Ripa)
-#25H2130(...)|river personified (with NAME)
+#25H2130(...)|river personified (名稱)
 #25H2130(ADIGE)|personification of river Adige; 'Adige' (Ripa)
 #25H2130(ARNO)|personification of river Arno; 'Arno' (Ripa)
 #25H2130(CLAMOR)|river personified: Clamor
@@ -1925,14 +1925,14 @@
 #25H2316|ocean floor
 #25H232|particular seas, etc.
 #25H2321|ocean
-#25H2321(...)|ocean (with NAME)
+#25H2321(...)|ocean (名稱)
 #25H23210|ocean personified
 #25H2322|sea
-#25H2322(...)|sea (with NAME)
+#25H2322(...)|sea (名稱)
 #25H2323|gulf, bay
-#25H2323(...)|gulf, bay (with NAME)
+#25H2323(...)|gulf, bay (名稱)
 #25H2324|straits, narrows
-#25H2324(...)|straits, narrows (with NAME)
+#25H2324(...)|straits, narrows (名稱)
 #25H23241|pillars of Hercules
 #25HH|landscapes - HH - ideal landscapes
 #25HH1|landscapes in the temperate zone - HH - ideal landscapes
@@ -2005,7 +2005,7 @@
 #25HH212|brook - HH - ideal landscapes
 #25HH213|river - HH - ideal landscapes
 #25HH2130|river personified, 'Fiumi' (Ripa) - HH - ideal landscapes
-#25HH2130(...)|river personified (with NAME) - HH - ideal landscapes
+#25HH2130(...)|river personified (名稱) - HH - ideal landscapes
 #25HH2130(ADIGE)|personification of river Adige; 'Adige' (Ripa) - HH - ideal landscapes
 #25HH2130(ARNO)|personification of river Arno; 'Arno' (Ripa) - HH - ideal landscapes
 #25HH2130(CLAMOR)|river personified: Clamor - HH - ideal landscapes
@@ -2061,14 +2061,14 @@
 #25HH2316|ocean floor - HH - ideal landscapes
 #25HH232|particular seas, etc. - HH - ideal landscapes
 #25HH2321|ocean - HH - ideal landscapes
-#25HH2321(...)|ocean (with NAME) - HH - ideal landscapes
+#25HH2321(...)|ocean (名稱) - HH - ideal landscapes
 #25HH23210|ocean personified - HH - ideal landscapes
 #25HH2322|sea - HH - ideal landscapes
-#25HH2322(...)|sea (with NAME) - HH - ideal landscapes
+#25HH2322(...)|sea (名稱) - HH - ideal landscapes
 #25HH2323|gulf, bay - HH - ideal landscapes
-#25HH2323(...)|gulf, bay (with NAME) - HH - ideal landscapes
+#25HH2323(...)|gulf, bay (名稱) - HH - ideal landscapes
 #25HH2324|straits, narrows - HH - ideal landscapes
-#25HH2324(...)|straits, narrows (with NAME) - HH - ideal landscapes
+#25HH2324(...)|straits, narrows (名稱) - HH - ideal landscapes
 #25HH23241|pillars of Hercules - HH - ideal landscapes
 25I|市景，带有建筑物的风景
 #25I1|city-view in general; 'veduta'
@@ -2125,7 +2125,7 @@
 #25I6|landscape with bridge, viaduct or aqueduct
 #25I7|landscape with monument
 #25I71|landscape with menhir
-#25I8|landscape with other man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc.
+#25I8|landscape with 其它 man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc.
 #25I9|landscape with ruins
 #25II|city-view, and landscape with man-made constructions - II - ideal landscapes
 #25II1|city-view in general; 'veduta' - II - ideal city
@@ -2182,7 +2182,7 @@
 #25II6|landscape with bridge, viaduct or aqueduct - II - ideal landscapes
 #25II7|landscape with monument - II - ideal landscapes
 #25II71|landscape with menhir - II - ideal landscapes
-#25II8|landscape with other man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc. - II - ideal landscapes
+#25II8|landscape with 其它 man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc. - II - ideal landscapes
 #25II9|landscape with ruins - II - ideal landscapes
 25K|在非溫帶景觀，充滿異國情調的風景#'exotic landscapes' obviously seen from a Western point of view...
 #25K1|landscapes in tropical and sub-tropical regions
@@ -2243,10 +2243,10 @@
 #25KK26|icefield - KK - ideal landscapes
 #25KK3|exoticism - KK - idealized exoticism
 25L|城市寓言
-#25L(...)|cities represented allegorically or symbolically (with NAME)
-#25L(...)0|cities represented allegorically or symbolically (with NAME) - personification of a city, town-patron(ess)
-#25L(...)1|cities represented allegorically or symbolically (with NAME) - city represented symbolically
-#25L(...)11|cities represented allegorically or symbolically (with NAME) - city-crown
+#25L(...)|cities represented allegorically or symbolically (名稱)
+#25L(...)0|cities represented allegorically or symbolically (名稱) - personification of a city, town-patron(ess)
+#25L(...)1|cities represented allegorically or symbolically (名稱) - city represented symbolically
+#25L(...)11|cities represented allegorically or symbolically (名稱) - city-crown
 #25L(ROME)|cities represented allegorically or symbolically: Rome
 #25L(ROME)0|cities represented allegorically or symbolically: Rome - personification of a city, town-patron(ess)
 #25L(ROME)1|cities represented allegorically or symbolically: Rome - city represented symbolically
@@ -2262,10 +2262,10 @@
 #25M5|Mausoleum at Halicarnassus (Wonder of the World)
 #25M6|Colossus of Rhodes (Wonder of the World)
 #25M7|Pharos of Alexandria (Wonder of the World)
-#25M8|other monuments which are sometimes included in the Wonders of the World
-#25M8(...)|other monuments which are sometimes included in the Wonders of the World (with NAME)
+#25M8|其它 monuments which are sometimes included in the Wonders of the World
+#25M8(...)|其它 monuments which are sometimes included in the Wonders of the World (名稱)
 25N|虛構的國家
-#25N(...)|fictitious countries (with NAME)
+#25N(...)|fictitious countries (名稱)
 #25N(ATLANTIS)|fictitious countries: Atlantis
 #25N1|Land of Cockaigne
 26|气象
@@ -2330,10 +2330,10 @@
 #26C1326|west-northwest wind (WNW) (one of sixteen directions)
 #26C1327|northwest wind (NW) (one of sixteen directions)
 #26C1328|north-northwest wind (NNW) (one of sixteen directions)
-#26C14|other divisions of winds
+#26C14|其它 divisions of winds
 #26C2|division of winds according to strength
 #26C21|marine terms for wind strength
-#26C21(...)|marine terms for wind strength (with NAME)
+#26C21(...)|marine terms for wind strength (名稱)
 #26C22|scale of Beaufort
 #26C3|storm
 #26C31|storm on land
@@ -2365,7 +2365,7 @@
 #26E2|lightning, flash of lightning, thunderbolt
 #26E21|lightning conductor
 #26E22|accidents with lightning
-#26E3|other electrical weather phenomena
+#26E3|其它 electrical weather phenomena
 #26E31|St. Elmo's fire
 #26E32|northern lights, 'aurora borealis'
 26F|好的和壞的天氣
@@ -2378,7 +2378,7 @@
 #26F22|'Pruina', winter weather
 #26F3|consequences of weather, e.g. After the drought, Before the storm, After the cyclone
 26G|海市蜃樓，“海市蜃樓”
-#26H|still other meteorological phenomena
+#26H|still 其它 meteorological phenomena
 29|超現實的現象, 超現實主義的影像
 #29A|animals acting as human beings
 #29A1|'mundus inversus', the reversed world, the topsy-turvy world, 'le monde bestourné'
@@ -2392,7 +2392,7 @@
 #31A1|canon, proportions
 #31A11|standing figure (canon, proportions)
 #31A12|figure in circle or square, legs apart and arms raised or stretched sidewards
-#31A13|other systems or canons
+#31A13|其它 systems or canons
 #31A14|human figure of ideal proportions, e.g. academic nude
 #31A140|allegorical representation of human figure of ideal proportions
 #31A141|nude with covered genitals
@@ -2425,7 +2425,7 @@
 #31A221|head (human)
 #31A2211|face
 #31A22111|parts of the face
-#31A22111(...)|parts of the face (with NAME)
+#31A22111(...)|parts of the face (名稱)
 #31A22111(LIPS)|parts of the face: lips
 #31A22111(NOSE)|parts of the face: nose
 #31A2212|eyes
@@ -2503,7 +2503,7 @@
 #31A22552|foot-print, track
 #31A2256|toes
 #31A2257|nails (toes)
-#31A226|other anatomical details
+#31A226|其它 anatomical details
 #31A2261|blood circulation
 #31A22611|blood
 #31A22612|arteries
@@ -2547,10 +2547,10 @@
 #31A23711|hanging by one arm
 #31A2372|hanging by the legs
 #31A23721|hanging by one leg
-#31A2373|hanging by other parts of the body
+#31A2373|hanging by 其它 parts of the body
 #31A23731|hanging by the hair
 #31A23732|hanging by the teeth
-#31A239|other postures of the human figure, not meant or mentioned above
+#31A239|其它 postures of the human figure, not meant or mentioned above
 #31A2391|bending figure
 #31A24|postures of the head
 #31A241|head in normal upright position
@@ -2562,7 +2562,7 @@
 #31A245|head slanting to the left
 #31A246|head slanting to the right
 #31A247|looking over the shoulder
-#31A249|other postures of the head, not meant or mentioned above
+#31A249|其它 postures of the head, not meant or mentioned above
 31A25|姿勢和胳膊和手手勢
 #31A251|postures and gestures of arms and hands in general
 #31A2511|arm raised upward
@@ -2748,7 +2748,7 @@
 #31A2747|drawing, pulling something
 #31A2748|pushing something
 #31A27481|turning something, (causing) circular movement
-#31A275|some other movements
+#31A275|some 其它 movements
 #31A2751|curling up (movement of the human body)
 #31A2752|stretching (movement of the human body)
 #31A2753|rotating, twisting (movement of the human body)
@@ -2847,7 +2847,7 @@
 #31A4222|goblins, hobgoblins
 #31A4223|'grylloi'
 #31A423|human beings with superhuman powers or achievements
-#31A423(...)|human beings with superhuman powers or achievements (with NAME)
+#31A423(...)|human beings with superhuman powers or achievements (名稱)
 #31A43|multiple birth (legendary)
 #31A431|very large number of births
 #31A431(...)|very large number of births (with NUMBER)
@@ -2872,29 +2872,29 @@
 #31A4511|monsters with animal head
 #31A45111|monsters with three animal heads
 #31A4512|animals with human head
-#31A4512(...)|animals with human head (with NAME)
-#31A452|monsters ~ mammals
+#31A4512(...)|animals with human head (名稱)
+#31A452|monsters ~ 哺乳動物
 #31A4521|monsters ~ domestic animals
 #31A45211|cynocephalus
 #31A4522|monsters ~ apes, monkeys
 #31A4523|monsters ~ predatory animals (sphinx, 'manticora')
 #31A45231|sphinx (lion/woman); 'Sfinge' (Ripa)
 #31A45232|'manticora'
-#31A4524|monsters ~ hoofed animals
+#31A4524|monsters ~ 有蹄類動物
 #31A4525|monsters ~ trunked animals
-#31A4526|monsters ~ rodents
-#31A4527|monsters ~ swimming mammals
-#31A4528|monsters ~ flying mammals
-#31A4529|monsters ~ other mammals
-#31A453|monsters ~ birds
+#31A4526|monsters ~ 囓齒目
+#31A4527|monsters ~ 水栖哺乳動物
+#31A4528|monsters ~ 會飛類哺乳動物
+#31A4529|monsters ~ 其它 哺乳動物
+#31A453|monsters ~鳥類
 #31A4531|siren (fabulous bird with woman's head)
 #31A454|monsters ~ reptiles
 #31A4541|monsters ~ lizards
 #31A4542|monsters ~ snakes
-#31A455|monsters ~ amphibians
-#31A456|monsters ~ fishes
+#31A455|monsters ~ 水陸兩棲動物
+#31A456|monsters ~魚類
 #31A4561|merman
-#31A457|monsters ~ lower animals
+#31A457|monsters ~ 低級動物
 #31A458|fabulous beings with wings
 #31A4581|fairy
 #31A4582|elf
@@ -2903,28 +2903,28 @@
 #31A4611|fever
 #31A46110|'Febre' (Ripa)
 #31A462|diseases affecting the whole body
-#31A462(...)|diseases affecting the whole body (with NAME)
+#31A462(...)|diseases affecting the whole body (名稱)
 #31A4621|plague
 #31A46210|personification of plague
 #31A4622|leprosy
 #31A46221|leper's rattle
 #31A46222|leprosarium
 #31A46223|leper's procession
-#31A4623|(other) contagious diseases
-#31A4623(...)|(other) contagious diseases (with NAME)
+#31A4623|(其它) contagious diseases
+#31A4623(...)|(其它) contagious diseases (名稱)
 #31A46230|contagious disease personified; 'Contagione' (Ripa)
 #31A4624|skin and venereal diseases
-#31A4624(...)|skin and venereal diseases (with NAME)
+#31A4624(...)|skin and venereal diseases (名稱)
 #31A4624(SYPHILIS)|skin and venereal diseases: syphilis
 #31A46241|itching
 #31A46242|ulcer
 #31A4625|dropsy
 #31A4626|aids
 #31A4629|poisoning
-#31A4629(...)|poisoning (with NAME)
+#31A4629(...)|poisoning (名稱)
 #31A4629(ERGOTISM)|poisoning: ergotism
 #31A463|diseases affecting parts of the body
-#31A463(...)|diseases affecting parts of the body (with NAME)
+#31A463(...)|diseases affecting parts of the body (名稱)
 #31A4631|fractures of bones
 #31A4632|infections and wounds
 #31A46321|scar, cicatrix
@@ -2956,13 +2956,13 @@
 #31A513|making up
 #31A514|using scents, perfumes, ointments, etc.
 #31A5141|scents
-#31A5141(...)|scents (with NAME)
+#31A5141(...)|scents (名稱)
 #31A5142|perfumes
-#31A5142(...)|perfumes (with NAME)
+#31A5142(...)|perfumes (名稱)
 #31A5143|ointments
 #31A5144|powder ~ making toilet
 #31A5145|implements ~ making toilet
-#31A5145(...)|implements ~ making toilet (with NAME)
+#31A5145(...)|implements ~ making toilet (名稱)
 #31A51451|pomander, musk ball
 #31A51452|perfume bottle
 #31A51453|ointment-jar
@@ -2977,11 +2977,11 @@
 #31A523|'Spinario', child pulling a thorn out of its foot
 #31A53|hairdress
 #31A531|care of the hair
-#31A5311|comb, brush and other tools (care of the hair)
+#31A5311|comb, brush and 其它 tools (care of the hair)
 #31A532|hair-cutting
 #31A5321|hairdresser
 #31A533|styles of hairdress
-#31A533(...)|styles of hairdress (with NAME)
+#31A533(...)|styles of hairdress (名稱)
 #31A5331|wig
 #31A5332|shaven head
 #31A5333|tonsure
@@ -3031,7 +3031,7 @@
 #31A559|partially clothed
 #31A5591|négligé
 #31A56|servant
-#31A57|removing insects from body
+#31A57|removing 昆蟲 from body
 #31A571|'motherly care', delousing
 #31A572|looking for fleas
 #31A58|body-building
@@ -3075,7 +3075,7 @@
 #31AA1|canon, proportions - AA - female human figure
 #31AA11|standing figure (canon, proportions) - AA - female human figure
 #31AA12|figure in circle or square, legs apart and arms raised or stretched sidewards - AA - female human figure
-#31AA13|other systems or canons - AA - female human figure
+#31AA13|其它 systems or canons - AA - female human figure
 #31AA14|human figure of ideal proportions, e.g. academic nude - AA - female human figure
 #31AA140|allegorical representation of human figure of ideal proportions - AA - female human figure of ideal proportions; 'Bellezza feminile' (Ripa)
 #31AA141|nude with covered genitals - AA - female human figure
@@ -3108,7 +3108,7 @@
 #31AA221|head (human) - AA - female human figure
 #31AA2211|face - AA - mask (mould taken from face)
 #31AA22111|parts of the face - AA - mask (mould taken from face)
-#31AA22111(...)|parts of the face (with NAME) - AA - mask (mould taken from face)
+#31AA22111(...)|parts of the face (名稱) - AA - mask (mould taken from face)
 #31AA22111(LIPS)|parts of the face: lips - AA - mask (mould taken from face)
 #31AA22111(NOSE)|parts of the face: nose - AA - mask (mould taken from face)
 #31AA2212|eyes - AA - female human figure
@@ -3184,7 +3184,7 @@
 #31AA22552|foot-print, track - AA - female human figure
 #31AA2256|toes - AA - female human figure
 #31AA2257|nails (toes) - AA - female human figure
-#31AA226|other anatomical details - AA - female human figure
+#31AA226|其它 anatomical details - AA - female human figure
 #31AA2261|blood circulation - AA - female human figure
 #31AA22611|blood - AA - female human figure
 #31AA22612|arteries - AA - female human figure
@@ -3228,10 +3228,10 @@
 #31AA23711|hanging by one arm - AA - female human figure
 #31AA2372|hanging by the legs - AA - female human figure
 #31AA23721|hanging by one leg - AA - female human figure
-#31AA2373|hanging by other parts of the body - AA - female human figure
+#31AA2373|hanging by 其它 parts of the body - AA - female human figure
 #31AA23731|hanging by the hair - AA - female human figure
 #31AA23732|hanging by the teeth - AA - female human figure
-#31AA239|other postures of the human figure, not meant or mentioned above - AA - female human figure
+#31AA239|其它 postures of the human figure, not meant or mentioned above - AA - female human figure
 #31AA2391|bending figure - AA - female human figure
 #31AA24|postures of the head - AA - female human figure
 #31AA241|head in normal upright position - AA - female human figure
@@ -3243,7 +3243,7 @@
 #31AA245|head slanting to the left - AA - female human figure
 #31AA246|head slanting to the right - AA - female human figure
 #31AA247|looking over the shoulder - AA - female human figure
-#31AA249|other postures of the head, not meant or mentioned above - AA - female human figure
+#31AA249|其它 postures of the head, not meant or mentioned above - AA - female human figure
 #31AA25|postures and gestures of arms and hands - AA - both arms or hands
 #31AA251|postures and gestures of arms and hands in general - AA - both arms or hands
 #31AA2511|arm raised upward - AA - both arms or hands
@@ -3318,7 +3318,7 @@
 #31AA2553|postures and gestures of the thumb - AA - both arms or hands
 #31AA25531|thumb turned up - AA - both arms or hands
 #31AA25532|thumb turned down - AA - both arms or hands
-#31AA2554|postures and gestures of thumb and other fingers - AA - both arms or hands
+#31AA2554|postures and gestures of thumb and 其它 fingers - AA - both arms or hands
 #31AA25541|stroking with the thumb over the top of the index finger - AA - both arms or hands
 #31AA25542|thumb between the index finger and the middle finger - AA - both arms or hands
 #31AA25543|snapping one's fingers - AA - both arms or hands
@@ -3329,9 +3329,9 @@
 #31AA2556|postures and gestures of index finger and middle finger - AA - both arms or hands
 #31AA25561|index finger and middle finger raised, closed - AA - both arms or hands
 #31AA25562|index finger and middle finger raised, spread out; V-sign - AA - both arms or hands
-#31AA2559|postures and gestures of other fingers - AA - both arms or hands
+#31AA2559|postures and gestures of 其它 fingers - AA - both arms or hands
 #31AA256|gesture-language - AA - both arms or hands
-#31AA259|still other postures and gestures of arm(s) and hand(s) not mentioned or meant under 31 A 25 1 up to 31 A 25 6 - AA - both arms or hands
+#31AA259|still 其它 postures and gestures of arm(s) and hand(s) not mentioned or meant under 31 A 25 1 up to 31 A 25 6 - AA - both arms or hands
 #31AA26|postures of the legs - AA - female human figure
 #31AA261|legs in the same position - AA - female human figure
 #31AA2611|both legs straight - AA - female human figure
@@ -3414,7 +3414,7 @@
 #31AA2747|drawing, pulling something - AA - female human figure
 #31AA2748|pushing something - AA - female human figure
 #31AA27481|turning something, (causing) circular movement - AA - female human figure
-#31AA275|some other movements - AA - female human figure
+#31AA275|some 其它 movements - AA - female human figure
 #31AA2751|curling up (movement of the human body) - AA - female human figure
 #31AA2752|stretching (movement of the human body) - AA - female human figure
 #31AA2753|rotating, twisting (movement of the human body) - AA - female human figure
@@ -3506,7 +3506,7 @@
 #31AA4222|goblins, hobgoblins - AA - female human figure
 #31AA4223|'grylloi' - AA - female human figure
 #31AA423|human beings with superhuman powers or achievements - AA - female human figure
-#31AA423(...)|human beings with superhuman powers or achievements (with NAME) - AA - female human figure
+#31AA423(...)|human beings with superhuman powers or achievements (名稱) - AA - female human figure
 #31AA43|multiple birth (legendary) - AA - female human figure
 #31AA431|very large number of births - AA - female human figure
 #31AA431(...)|very large number of births (with NUMBER) - AA - female human figure
@@ -3531,29 +3531,29 @@
 #31AA4511|monsters with animal head - AA - female human figure
 #31AA45111|monsters with three animal heads - AA - female human figure
 #31AA4512|animals with human head - AA - female human figure
-#31AA4512(...)|animals with human head (with NAME) - AA - female human figure
-#31AA452|monsters ~ mammals - AA - female human figure
+#31AA4512(...)|animals with human head (名稱) - AA - female human figure
+#31AA452|monsters ~ 哺乳動物 - AA - female human figure
 #31AA4521|monsters ~ domestic animals - AA - female human figure
 #31AA45211|cynocephalus - AA - female human figure
 #31AA4522|monsters ~ apes, monkeys - AA - female human figure
 #31AA4523|monsters ~ predatory animals (sphinx, 'manticora') - AA - female human figure
 #31AA45231|sphinx (lion/woman); 'Sfinge' (Ripa) - AA - female human figure
 #31AA45232|'manticora' - AA - female human figure
-#31AA4524|monsters ~ hoofed animals - AA - female human figure
-#31AA4525|monsters ~ trunked animals - AA - female human figure
-#31AA4526|monsters ~ rodents - AA - female human figure
-#31AA4527|monsters ~ swimming mammals - AA - female human figure
-#31AA4528|monsters ~ flying mammals - AA - female human figure
-#31AA4529|monsters ~ other mammals - AA - female human figure
-#31AA453|monsters ~ birds - AA - female
+#31AA4524|monsters ~ 有蹄類動物 - AA - female human figure
+#31AA4525|monsters ~ 象鼻類動物 - AA - female human figure
+#31AA4526|monsters ~ 囓齒目 - AA - female human figure
+#31AA4527|monsters ~ 水栖哺乳動物 - AA - female human figure
+#31AA4528|monsters ~ 會飛類哺乳動物 - AA - female human figure
+#31AA4529|monsters ~ 其它 哺乳動物 - AA - female human figure
+#31AA453|monsters ~鳥類 - AA - female
 #31AA4531|siren (fabulous bird with woman's head) - AA - female
 #31AA454|monsters ~ reptiles - AA - female human figure
 #31AA4541|monsters ~ lizards - AA - female human figure
 #31AA4542|monsters ~ snakes - AA - female human figure
-#31AA455|monsters ~ amphibians - AA - female human figure
-#31AA456|monsters ~ fishes - AA - female human figure
+#31AA455|monsters ~ 水陸兩棲動物 - AA - female human figure
+#31AA456|monsters ~魚類 - AA - female human figure
 #31AA4561|merman - AA - mermaid, siren
-#31AA457|monsters ~ lower animals - AA - female human figure
+#31AA457|monsters ~ 低級動物 - AA - female human figure
 #31AA458|fabulous beings with wings - AA - female human figure
 #31AA4581|fairy - AA - female human figure
 #31AA4582|elf - AA - female human figure
@@ -3562,28 +3562,28 @@
 #31AA4611|fever - AA - female human figure
 #31AA46110|'Febre' (Ripa) - AA - female human figure
 #31AA462|diseases affecting the whole body - AA - epidemic diseases
-#31AA462(...)|diseases affecting the whole body (with NAME) - AA - epidemic diseases
+#31AA462(...)|diseases affecting the whole body (名稱) - AA - epidemic diseases
 #31AA4621|plague - AA - plague epidemic
 #31AA46210|personification of plague - AA - personification of plague epidemic; 'Peste overo Pestilentia' (Ripa)
 #31AA4622|leprosy - AA - epidemic diseases
 #31AA46221|leper's rattle - AA - epidemic diseases
 #31AA46222|leprosarium - AA - epidemic diseases
 #31AA46223|leper's procession - AA - epidemic diseases
-#31AA4623|(other) contagious diseases - AA - epidemic diseases
-#31AA4623(...)|(other) contagious diseases (with NAME) - AA - epidemic diseases
+#31AA4623|(其它) contagious diseases - AA - epidemic diseases
+#31AA4623(...)|(其它) contagious diseases (名稱) - AA - epidemic diseases
 #31AA46230|contagious disease personified; 'Contagione' (Ripa) - AA - epidemic diseases
 #31AA4624|skin and venereal diseases - AA - epidemic diseases
-#31AA4624(...)|skin and venereal diseases (with NAME) - AA - epidemic diseases
+#31AA4624(...)|skin and venereal diseases (名稱) - AA - epidemic diseases
 #31AA4624(SYPHILIS)|skin and venereal diseases: syphilis - AA - epidemic diseases
 #31AA46241|itching - AA - epidemic diseases
 #31AA46242|ulcer - AA - epidemic diseases
 #31AA4625|dropsy - AA - epidemic diseases
 #31AA4626|aids - AA - aids epidemic
 #31AA4629|poisoning - AA - epidemic diseases
-#31AA4629(...)|poisoning (with NAME) - AA - epidemic diseases
+#31AA4629(...)|poisoning (名稱) - AA - epidemic diseases
 #31AA4629(ERGOTISM)|poisoning: ergotism - AA - epidemic diseases
 #31AA463|diseases affecting parts of the body - AA - female human figure
-#31AA463(...)|diseases affecting parts of the body (with NAME) - AA - female human figure
+#31AA463(...)|diseases affecting parts of the body (名稱) - AA - female human figure
 #31AA4631|fractures of bones - AA - female human figure
 #31AA4632|infections and wounds - AA - female human figure
 #31AA46321|scar, cicatrix - AA - female human figure
@@ -3615,13 +3615,13 @@
 #31AA513|making up - AA - (for) women
 #31AA514|using scents, perfumes, ointments, etc. - AA - (for) women
 #31AA5141|scents - AA - (for) women
-#31AA5141(...)|scents (with NAME) - AA - (for) women
+#31AA5141(...)|scents (名稱) - AA - (for) women
 #31AA5142|perfumes - AA - (for) women
-#31AA5142(...)|perfumes (with NAME) - AA - (for) women
+#31AA5142(...)|perfumes (名稱) - AA - (for) women
 #31AA5143|ointments - AA - (for) women
 #31AA5144|powder ~ making toilet - AA - (for) women
 #31AA5145|implements ~ making toilet - AA - (for) women
-#31AA5145(...)|implements ~ making toilet (with NAME) - AA - (for) women
+#31AA5145(...)|implements ~ making toilet (名稱) - AA - (for) women
 #31AA51451|pomander, musk ball - AA - (for) women
 #31AA51452|perfume bottle - AA - (for) women
 #31AA51453|ointment-jar - AA - (for) women
@@ -3635,11 +3635,11 @@
 #31AA523|'Spinario', child pulling a thorn out of its foot - AA - girl
 #31AA53|hairdress - AA - ~ women
 #31AA531|care of the hair - AA - ~ women
-#31AA5311|comb, brush and other tools (care of the hair) - AA - ~ women
+#31AA5311|comb, brush and 其它 tools (care of the hair) - AA - ~ women
 #31AA532|hair-cutting - AA - ~ women
 #31AA5321|hairdresser - AA - ~ women
 #31AA533|styles of hairdress - AA - ~ women
-#31AA533(...)|styles of hairdress (with NAME) - AA - ~ women
+#31AA533(...)|styles of hairdress (名稱) - AA - ~ women
 #31AA5331|wig - AA - ~ women
 #31AA5332|shaven head - AA - ~ women
 #31AA5333|tonsure - AA - ~ women
@@ -3687,7 +3687,7 @@
 #31AA559|partially clothed - AA - female human figure
 #31AA5591|négligé - AA - female human figure
 #31AA56|servant - AA - chambermaid
-#31AA57|removing insects from body - AA - female human figure
+#31AA57|removing 昆蟲 from body - AA - female human figure
 #31AA571|'motherly care', delousing - AA - female human figure
 #31AA572|looking for fleas - AA - female human figure
 #31AA58|body-building - AA - female human figure
@@ -3873,7 +3873,7 @@
 #31D61|fountain of youth, 'Fontaine de Jouvence'
 #31D62|rejuvenation by means of fire, or by boiling
 #31D7|unnatural aging
-#31D71|'paidogeron', i.e. child or youth with beard or other sign of old age
+#31D71|'paidogeron', i.e. child or youth with beard or 其它 sign of old age
 #31D8|personal name
 #31D81|nameday
 #31D82|the individual and his name
@@ -4230,8 +4230,8 @@
 #32A44|miser
 #32A45|parasite, sponger
 #32A46|sluggard
-#32A49|other human types
-#32A49(...)|other human types (with NAME of type)
+#32A49|其它 human types
+#32A49(...)|其它 human types (名稱 of type)
 #32A5|caricatures (human types)
 #32A6|physiognomy
 #32A61|phrenology
@@ -4241,29 +4241,29 @@
 #32B|human races; peoples; nationalities
 #32B1|prehistoric man
 #32B11|reconstruction of prehistoric man
-#32B11(...)|reconstruction of prehistoric man (with NAME)
+#32B11(...)|reconstruction of prehistoric man (名稱)
 #32B12|reconstruction of life and culture of prehistoric man
 #32B2|extinct, 'historical' peoples
-#32B2(...)|extinct, 'historical' peoples (with NAME)
+#32B2(...)|extinct, 'historical' peoples (名稱)
 #32B2(GAULS)|extinct, 'historical' peoples: Gauls
 #32B2(TEUTONS)|extinct, 'historical' peoples: Teutons
 #32B3|human races, peoples and nationalities (other than prehistoric or extinct)
 #32B31|white races and peoples
 #32B311|Europeans
-#32B311(...)|Europeans (with NAME)
+#32B311(...)|Europeans (名稱)
 #32B311(ENGLISHMEN)|Europeans: Englishmen
 #32B311(GERMANS)|Europeans: Germans
 #32B311(SPANIARDS)|Europeans: Spaniards
 #32B312|non-European white peoples
-#32B312(...)|non-European white peoples (with NAME)
+#32B312(...)|non-European white peoples (名稱)
 #32B312(AMERICANS)|non-European white peoples: Americans
 #32B32|Africans
-#32B32(...)|Africans (with NAME)
+#32B32(...)|Africans (名稱)
 #32B321|African negroes
-#32B321(...)|African negroes (with NAME)
+#32B321(...)|African negroes (名稱)
 #32B3211|American negroes
 #32B33|Asiatic races and peoples
-#32B33(...)|Asiatic races and peoples (with NAME)
+#32B33(...)|Asiatic races and peoples (名稱)
 #32B33(INDIANS)|Asiatic races and peoples: Indians
 #32B33(PERSIANS)|Asiatic races and peoples: Persians
 #32B33(TURKS)|Asiatic races and peoples: Turks
@@ -4273,16 +4273,16 @@
 #32B34|coloured races of America
 #32B341|Eskimos
 #32B342|Red Indians, American Indians
-#32B342(...)|Red Indians, American Indians (with NAME)
+#32B342(...)|Red Indians, American Indians (名稱)
 #32B343|coloured races of Central America
 #32B344|coloured races of South America
 #32B345|coloured races of the Caribbean
 #32B35|Australian and Oceanian races
-#32B35(...)|Australian and Oceanian races (with NAME)
+#32B35(...)|Australian and Oceanian races (名稱)
 #32B36|primitive races and peoples; aborigines
 #32B37|dwarf-tribes, pygmies
 #32B371|African pygmies
-#32B371(...)|African pygmies (with NAME)
+#32B371(...)|African pygmies (名稱)
 #32B3711|Bushmen
 #32B3712|Hottentots
 #32B372|New-Guinean pygmies
@@ -4290,8 +4290,8 @@
 #32B381|mulatto (offspring of white and negro)
 #32B382|Eurasian, half-caste
 #32B383|mestee, mestizo, i.e. offspring of Spanish and South-American Indian people
-#32B39|(still other) human races and peoples
-#32B39(...)|(still other) human races and peoples (with NAME)
+#32B39|(still 其它) human races and peoples
+#32B39(...)|(still 其它) human races and peoples (名稱)
 #32C|scientific classification of human races
 33|人与人接触
 33A|非攻击性接触
@@ -4492,7 +4492,7 @@
 #33C8911|flagellantism ~ sexual perversities
 #33C892|masochism
 #33C893|fetishism
-#33C9|Love: 'Frau Minne' and other allegories
+#33C9|Love: 'Frau Minne' and 其它 allegories
 #33C91|Love personified
 #33C911|'Frau Minne'
 #33C9111|'Frau Minne' shooting arrows
@@ -4559,18 +4559,18 @@
 #34A41|earning money with bear
 #34A42|earning money with monkey
 #34A43|earning money with guinea-pig
-#34A44|earning money with other animals
+#34A44|earning money with 其它 animals
 #34A9|man tormenting animal(s)
 #34B|domestic animals, kept in and outside the house
 #34B1|domestic animals, kept in the house
 #34B11|dog
-#34B11(...)|dog (with NAME of kind)
+#34B11(...)|dog (名稱 of kind)
 #34B111|collar (of a dog)
 #34B112|dog with bone
 #34B113|watch-dog, dog watching
 #34B114|walking the dog
 #34B12|cat
-#34B12(...)|cat (with NAME of kind)
+#34B12(...)|cat (名稱 of kind)
 #34B121|cat and mouse
 #34B13|domestic birds (inside the house)
 #34B131|bird in a cage
@@ -4580,7 +4580,7 @@
 #34B2|domestic animal kept outside the house
 #34B21|poultry house
 #34B211|pond
-#34B22|domestic mammals kept outside the house
+#34B22|domestic 哺乳動物 kept outside the house
 #34B23|domestic birds kept outside the house
 #34B231|doves, pigeons
 #34B2311|dove-cote
@@ -4590,7 +4590,7 @@
 #34B2331|swans (domestic waterbirds)
 #34B2332|geese (domestic waterbirds)
 #34B2333|ducks (domestic waterbirds)
-#34B3|amphibians as domestic animals
+#34B3|水陸兩棲動物 as domestic animals
 #34B31|terrarium
 #34B4|fishes as domestic animals
 #34B41|aquarium
@@ -4611,7 +4611,7 @@
 #34C41|organizations for the defence of animals
 #34C5|veterinarian
 #34D|control and eradication of injurious animals
-#34D1|eradication of injurious mammals
+#34D1|eradication of injurious 哺乳動物
 #34D11|eradication of mice
 #34D111|mouse trap
 #34D12|extermination of rats
@@ -4620,14 +4620,14 @@
 #34D123|modern methods of eradication
 #34D2|scaring away of birds
 #34D21|scarecrow
-#34D3|eradication of injurious insects
+#34D3|eradication of injurious 昆蟲
 #34D31|fly extermination
 #34D311|fly swatter
 #34D312|fly-paper
 #34D32|mosquito control
 #34D321|mosquito netting, screens
-#34D322|burning smoke-maker, smudge pot ~ extermination of insects
-#34D4|control and eradication of other injurious animals
+#34D322|burning smoke-maker, smudge pot ~ extermination of 昆蟲
+#34D4|control and eradication of 其它 injurious animals
 #34D5|modern methods of eradication of injurious animals
 #34D51|spraying of chemical solutions (modern methods of eradication of injurious animals)
 #34E|restraint of animals
