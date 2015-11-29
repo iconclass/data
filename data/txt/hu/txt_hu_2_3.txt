@@ -1,34 +1,34 @@
-2. | Természet
-20 | "Natura" (allegorikus vagy jelenetet, vagy ahogyan Diana Epheszosz, sok mell); "Natura" (Ripa)
-21 | a négy elem, és éterrel, az ötödik elem
-210 | "Elementi", "Elementi secondo Empedocle" (Ripa)
-21A | levegőben (az egyik a négy elem)
-21A0 | "Aria", "Carro dell'aria" (Ripa)
-21A1 | szellemében a levegő, tündérkastély
-21B | Föld (egyik a négy elem)
-21B0 | "Terra", "Carro della terra" (Ripa)
-21B1 | Föld fizikai, gnome, troll
-21C | Tűz (az egyik a négy elem)
-21C0 | "Fuoco ',' Carro del fuoco" (Ripa)
-21D | víz (az egyik a négy elem)
-21D0 | 'Acqua', 'Carro dell'Acqua "(Ripa)
-21D1 | szellemében víz, nix, vízitündér
-21D2 | jég ~ víz állapotával
-21D3 | gőzt
-21E | éter "Quinta Essentia"
-22 | természeti jelenségek
-22A | ügyet
-22A0 | Matter (allegorikus)
-22A1 | vegyi anyagok
-22A1 (...) | vegyi anyagok (névvel)
-22A2 | kémiai jelenségeket
-22A21 | kémiai reakció
-22A3 | fizikai jelenségek
-22A31 | halmazállapot
-22A311 | szilárd (halmazállapot)
-22A312 | folyékony (halmazállapot)
-22A3121 | kondenzációs
-22A31211 | kondenzcsík
+2.|Természet
+20|"Natura" (allegorikus vagy jelenetet, vagy ahogyan Diana Epheszosz, sok mell); "Natura" (Ripa)
+21|a négy elem, és éterrel, az ötödik elem
+210|"Elementi", "Elementi secondo Empedocle" (Ripa)
+21A|levegőben (az egyik a négy elem)
+21A0|"Aria", "Carro dell'aria" (Ripa)
+21A1|szellemében a levegő, tündérkastély
+21B|Föld (egyik a négy elem)
+21B0|"Terra", "Carro della terra" (Ripa)
+21B1|Föld fizikai, gnome, troll
+21C|Tűz (az egyik a négy elem)
+21C0|"Fuoco ',' Carro del fuoco" (Ripa)
+21D|víz (az egyik a négy elem)
+21D0|'Acqua', 'Carro dell'Acqua "(Ripa)
+21D1|szellemében víz, nix, vízitündér
+21D2|jég ~ víz állapotával
+21D3|gőzt
+21E|éter "Quinta Essentia"
+22|természeti jelenségek
+22A|ügyet
+22A0|Matter (allegorikus)
+22A1|vegyi anyagok
+22A1 (...)|vegyi anyagok (névvel)
+22A2|kémiai jelenségeket
+22A21|kémiai reakció
+22A3|fizikai jelenségek
+22A31|halmazállapot
+22A311|szilárd (halmazállapot)
+22A312|folyékony (halmazállapot)
+22A3121|kondenzációs
+22A31211|kondenzcsík
 #22A313|gas (state of matter)
 #22B|electricity and magnetism
 #22B1|electrical phenomena
@@ -2387,31 +2387,31 @@
 #29B|plants behaving as human beings or animals
 #29C|objects coming to life, e.g. puppets
 #29D|natural forms in stones, wood, clouds, etc. interpreted as representations
-3. | Emberi Lény, ember általában
-31 | férfi egy általános biológiai értelemben
-31A | A (akt) emberi alak; "Corpo humano" (Ripa)
-31A1 | kánon, az arányok
-31A11 | Állandó figura (kánon, arányok)
-31A12 | alakja kör vagy négyzet alakú, lábait és felemelt karral vagy feszített oldalra
-31A13 | más rendszerek vagy kanonokok
-31A14 | emberi alakja ideális arányait, így például akadémiai meztelen
-31A140 | allegorikus emberi alakja ideális arányait
-31A141 | meztelen fedett nemi szervek
-31A19 | "homo Platonis", "állati bipes implume"
-31A2 | anatómiája (nem orvosi)
-31A21 | (humán) csontváz
-31A211 | (humán) koponya
-31A2111 | állkapocs (humán)
-31A2112 | foga
-31A21121 | frontfogak
-31A21122 | hátsó fogak, őrlőfogak
-31A212 | mellkas
-31A2121 | bordák
-31A2122 | gerinc
-31A2123 | kulcscsont, kulcscsont
-31A2124 | lapockatövishez, lapocka
-31A213 | medence
-31A214 | csontok a karok
+3.|Emberi Lény, ember általában
+31|férfi egy általános biológiai értelemben
+31A|A (akt) emberi alak; "Corpo humano" (Ripa)
+31A1|kánon, az arányok
+31A11|Állandó figura (kánon, arányok)
+31A12|alakja kör vagy négyzet alakú, lábait és felemelt karral vagy feszített oldalra
+31A13|más rendszerek vagy kanonokok
+31A14|emberi alakja ideális arányait, így például akadémiai meztelen
+31A140|allegorikus emberi alakja ideális arányait
+31A141|meztelen fedett nemi szervek
+31A19|"homo Platonis", "állati bipes implume"
+31A2|anatómiája (nem orvosi)
+31A21|(humán) csontváz
+31A211|(humán) koponya
+31A2111|állkapocs (humán)
+31A2112|foga
+31A21121|frontfogak
+31A21122|hátsó fogak, őrlőfogak
+31A212|mellkas
+31A2121|bordák
+31A2122|gerinc
+31A2123|kulcscsont, kulcscsont
+31A2124|lapockatövishez, lapocka
+31A213|medence
+31A214|csontok a karok
 #31A2141|humerus, bone of the upper arm
 #31A2142|radius and ulna, bones of the lower arm
 #31A2143|carpus and metacarpus, parts of the hand
