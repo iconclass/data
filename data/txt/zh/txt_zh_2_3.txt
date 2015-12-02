@@ -848,7 +848,7 @@
 25F32(GOLDFINCH)|鳴禽: 金翅雀
 25F32(JACKDAW)|鳴禽: 寒鴉
 25F32(LARK)|鳴禽: 百靈鳥
-25F32(MAGPIE)|鳴禽: 喜雀
+25F32(MAGPIE)|鳴禽: 喜鵲
 25F32(NIGHTINGALE)|鳴禽: 夜鶯
 25F32(RAVEN)|鳴禽: 渡鴉
 25F32(ROBIN)|鳴禽: 鴝
@@ -907,7 +907,7 @@
 25F38(BUSTARD)|行禽: 鴇
 25F38(OSTRICH)|行禽: 鴕鳥
 25F38(PARTRIDGE)|行禽: 鷓鴣
-25F38(PHEASANT)|行禽: 錦雞
+25F38(PHEASANT)|行禽: 雉,野雞,錦雞
 25F38(QUAIL)|行禽: 鵪鶉
 25F38(TURKEY)|行禽: 火雞
 25F39|其它鳥類
@@ -1034,238 +1034,238 @@
 25F72(POLYP)|軟體動物: 珊瑚蟲
 25F72(SNAIL)|軟體動物: 螺,蜗牛
 25F72(SQUID)|軟體動物: 魷魚
-#25F73|worms
-#25F73(...)|worms (名稱)
-#25F74|echinoderms
-#25F74(...)|echinoderms (名稱)
-#25F74(SEA-URCHIN)|echinoderms: sea-urchin
-#25F74(STARFISH)|echinoderms: starfish
-#25F75|coelenterata
-#25F75(...)|coelenterata (名稱)
-#25F75(CORAL)|coelenterata: coral
-#25F75(JELLY-FISH)|coelenterata: jelly-fish
-#25F75(SPONGE)|coelenterata: sponge
-#25F76|unicellular animals, bacteria, bacilli
-#25F8|extinct animals
-#25F8(...)|extinct animals (名稱)
-#25F81|prehistoric animals
-#25F82|fossil animals
-#25F9|mis-shapen animals; monsters
-#25F91|monsters larger than normal
-#25F92|monsters smaller than normal
-#25F93|multiple birth ~ mis-shapen animals, monsters
-#25F94|monsters with parts missing
-#25F95|monsters with parts in greater number than normal
-#25F951|three-headed beast
-#25F952|bicorporates, animals with two bodies and a single head
-#25F96|monsters with limbs, organs, etc. in unusual places
-#25F97|monsters with parts, limbs, organs, etc. of abnormal shape
-#25F971|monsters with parts, limbs, organs, etc. larger than normal
-#25F972|monsters with parts, limbs, organs, etc. smaller than normal
-25FF|想象的动物
-#25FF1|groups of fabulous animals
-#25FF2|fabulous animals ~ 哺乳動物
-#25FF21|fabulous animals ~ domestic animals
-#25FF22|fabulous animals ~ monkeys
-#25FF22(...)|monkeys, apes (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF22(BABOON)|monkeys, apes: baboon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23|fabulous animals ~ predatory animals
-#25FF23(...)|fabulous animals ~ predatory animals (名稱)
-#25FF23(BADGER)|食肉獸,食肉動物: badger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(BEAR)|食肉獸,食肉動物: bear - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(CHEETAH)|食肉獸,食肉動物: cheetah - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(CROCOTAS)|fabulous animals ~ predatory animals: crocotas
-#25FF23(ERMINE)|食肉獸,食肉動物: ermine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(FERRET)|食肉獸,食肉動物: ferret - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(FOX)|食肉獸,食肉動物: fox - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(HYENA)|食肉獸,食肉動物: hyena - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(ICHNEUMON)|食肉獸,食肉動物: ichneumon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(LEOPARD)|食肉獸,食肉動物: leopard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(LION)|食肉獸,食肉動物: lion - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(LYNX)|食肉獸,食肉動物: lynx - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(MANGOUSTE)|食肉獸,食肉動物: mangouste - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(MARTEN)|食肉獸,食肉動物: marten - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(OTTER)|食肉獸,食肉動物: otter - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(PANTHER)|食肉獸,食肉動物: panther - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(SABLE)|食肉獸,食肉動物: sable - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(TIGER)|食肉獸,食肉動物: tiger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(WEASEL)|食肉獸,食肉動物: weasel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF23(WOLF)|食肉獸,食肉動物: wolf - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF231|griffin (lion/eagle); 'Griffo' (Ripa)
-#25FF232|chimera (lion/goat/snake); 'Chimera' (Ripa)
-#25FF233|hyena, capable of changing sex
-#25FF24|fabulous animals ~ 有蹄類動物
-#25FF24(...)|fabulous animals ~ 有蹄類動物 (名稱)
-#25FF24(ANTELOPE)|有蹄類動物: antelope - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(BISON)|有蹄類動物: bison - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(BOAR)|有蹄類動物: boar - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(BONNACON)|fabulous animals ~ 有蹄類動物: bonnacon
-#25FF24(CAMEL)|有蹄類動物: camel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(CATOBLEPAS)|fabulous animals ~ 有蹄類動物: catoblepas
-#25FF24(DEER)|有蹄類動物: deer - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(DROMEDARY)|有蹄類動物: dromedary - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(ELK)|有蹄類動物: elk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(GAZELLE)|有蹄類動物: gazelle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(GIRAFFE)|有蹄類動物: giraffe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(GNU)|有蹄類動物: gnu - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(HIPPOPOTAMUS)|有蹄類動物: hippopotamus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(IBEX)|有蹄類動物: ibex - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(MUSK-DEER)|有蹄類動物: musk-deer - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(ONAGER)|有蹄類動物: onager - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(ORYX)|有蹄類動物: oryx - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(OX WITH ONE HORN)|fabulous animals ~ 有蹄類動物: ox with one horn
-#25FF24(OX WITH THREE HORNS)|fabulous animals ~ 有蹄類動物: ox with three horns
-#25FF24(PEGASUS)|fabulous animals ~ 有蹄類動物 : Use 93D1 Pegasus, the winged horse, or 25FF(WINGED HORSE) for winged horse (not in classical context)
-#25FF24(QUAGGA)|有蹄類動物: quagga - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(RHINOCEROS)|有蹄類動物: rhinoceros - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(STAG)|有蹄類動物: stag - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF24(WINGED HORSE)|fabulous animals ~ 有蹄類動物: winged horse
-#25FF241|unicorn
-#25FF2411|unicorn caught by a virgin, 'Chasse à la licorne'
-#25FF2412|'pirassoipi' (unicorn with two horns)
-#25FF2413|'oryx unicornis' (cloven footed antelope)
-#25FF242|'hippogriffe' (horse/eagle)
-#25FF243|'antalops' (fabulous reindeer)
+#25F73|蠕蟲
+#25F73(...)|蠕蟲(名稱)
+#25F74|棘皮類動物
+#25F74(...)|棘皮類動物(名稱)
+#25F74(SEA-URCHIN)|棘皮類動物: 海膽
+#25F74(STARFISH)|棘皮類動物: 海星
+#25F75|刺絲胞類動物
+#25F75(...)|刺絲胞類動物(名稱)
+#25F75(CORAL)|刺絲胞類動物: 珊瑚蟲
+#25F75(JELLY-FISH)|刺絲胞類動物: 水母,海蜇
+#25F75(SPONGE)|刺絲胞類動物: 海綿
+#25F76|單細胞動物, 細菌, 桿菌
+#25F8|已滅絕的動物
+#25F8(...)|已滅絕的動物 (名稱)
+#25F81|史前動物
+#25F82|化石動物
+#25F9|變形的動物; 怪獸
+#25F91|特大型怪獸
+#25F92|特小型怪獸
+#25F93|多胎,一胎多仔 ~ 變形的動物; 怪獸
+#25F94|缺少身體某部分的怪獸
+#25F95|身體某部分數量特多的怪獸
+#25F951|三頭獸
+#25F952|雙體,一頭雙身的動物
+#25F96|軀幹、器官或其它部分不在正常位置的怪物
+#25F97|軀幹、器官或其它部分不是正常形狀的怪物
+#25F971|軀幹、器官或其它部分特大的怪物 
+#25F972|軀幹、器官或其它部分特小的怪物 
+25FF|傳說中的動物
+#25FF1|成組傳說中的動物
+#25FF2|傳說中的動物 ~ 哺乳動物
+#25FF21|傳說中的動物 ~ 家畜
+#25FF22|傳說中的動物 ~ 猴
+#25FF22(...)|猴, 猿 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF22(BABOON)|猴, 猿: 狒狒 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23|傳說中的動物 ~ 食肉動物
+#25FF23(...)|傳說中的動物 ~ 食肉動物 (名稱)
+#25FF23(BADGER)|食肉獸,食肉動物: 獾 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(BEAR)|食肉獸,食肉動物: 熊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(CHEETAH)|食肉獸,食肉動物: 獵豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(CROCOTAS)|傳說中的動物 ~ 食肉動物: crocotas
+#25FF23(ERMINE)|食肉獸,食肉動物: 銀貂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(FERRET)|食肉獸,食肉動物: 白鼬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(FOX)|食肉獸,食肉動物: 狐狸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(HYENA)|食肉獸,食肉動物: 鬣狗 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(ICHNEUMON)|食肉獸,食肉動物: 貓鼬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(LEOPARD)|食肉獸,食肉動物: 雲豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(LION)|食肉獸,食肉動物: 獅 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(LYNX)|食肉獸,食肉動物: 猞猁 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(MANGOUSTE)|食肉獸,食肉動物: 獴 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(MARTEN)|食肉獸,食肉動物: 貂鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(OTTER)|食肉獸,食肉動物: 水獺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(PANTHER)|食肉獸,食肉動物: 豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(SABLE)|食肉獸,食肉動物: 黑貂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(TIGER)|食肉獸,食肉動物: 虎 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(WEASEL)|食肉獸,食肉動物: 鼬鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF23(WOLF)|食肉獸,食肉動物: 狼 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF231|獅身鷹頭的動物; 'Griffo' (Ripa)
+#25FF232|吐火獸(獅/山羊/蛇); 'Chimera' (Ripa)
+#25FF233|鬣狗, 可改變性別的
+#25FF24|傳說中的動物 ~ 有蹄類動物
+#25FF24(...)|傳說中的動物 ~ 有蹄類動物 (名稱)
+#25FF24(ANTELOPE)|有蹄類動物: 羚羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(BISON)|有蹄類動物: 野牛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(BOAR)|有蹄類動物: 野豬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(BONNACON)|傳說中的動物 ~ 有蹄類動物: 波那空
+#25FF24(CAMEL)|有蹄類動物: 駱駝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(CATOBLEPAS)|傳說中的動物 ~ 有蹄類動物: 卡托布萊帕斯
+#25FF24(DEER)|有蹄類動物: 鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(DROMEDARY)|有蹄類動物: 單峰駱駝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(ELK)|有蹄類動物: 麋鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(GAZELLE)|有蹄類動物: 瞪羚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(GIRAFFE)|有蹄類動物: 長頸鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(GNU)|有蹄類動物: 角馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(HIPPOPOTAMUS)|有蹄類動物: 河馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(IBEX)|有蹄類動物: 高地山羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(MUSK-DEER)|有蹄類動物: 麝香鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(ONAGER)|有蹄類動物: 中亞野驢 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(ORYX)|有蹄類動物: 羚羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(OX WITH ONE HORN)|傳說中的動物 ~ 有蹄類動物: 獨角公牛
+#25FF24(OX WITH THREE HORNS)|傳說中的動物 ~ 有蹄類動物: 三角公牛
+#25FF24(PEGASUS)|傳說中的動物 ~ 有蹄類動物 : 採用 93D1 珀加索斯, 有雙翼的馬, 或者採用 25FF(有雙翼的馬) 來表示有雙翼的馬 (在非古典文本中)
+#25FF24(QUAGGA)|有蹄類動物: 白氏斑馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(RHINOCEROS)|有蹄類動物: 犀牛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(STAG)|有蹄類動物: 牡鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF24(WINGED HORSE)|傳說中的動物 ~ 有蹄類動物: 有雙翼的馬
+#25FF241|獨角獸
+#25FF2411|獨角獸被一貞女所獲, 'Chasse à la licorne'
+#25FF2412|'pirassoipi' (有雙角的獨角獸)
+#25FF2413|'oryx unicornis' (分趾蹄羚羊)
+#25FF242|'hippogriffe' (獅/鷹)
+#25FF243|'antalops' (傳說中的馴鹿)
 #25FF244|'leucrota'
-#25FF245|'parandrus' (stag/bear)
+#25FF245|'parandrus' (牡鹿/熊)
 #25FF246|yale, 'éale'
 #25FF2461|'centicore'
-#25FF25|fabulous animals ~ trunked animals
-#25FF25(...)|trunked animals (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF25(ELEPHANT)|trunked animals: elephant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26|fabulous animals ~ 囓齒目
-#25FF26(...)|囓齒目 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(BEAVER)|囓齒目: beaver - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(HARE)|囓齒目: hare - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(MOUSE)|囓齒目: mouse - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(MUSK-RAT)|囓齒目: musk-rat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(RABBIT)|囓齒目: rabbit - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(RAT)|囓齒目: rat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(SQUIRREL)|囓齒目: squirrel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF26(WOMBAT)|囓齒目: wombat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27|fabulous animals ~ 水栖哺乳動物
-#25FF27(...)|水栖哺乳動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27(DOLPHIN)|水栖哺乳動物: dolphin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27(SEAL)|水栖哺乳動物: seal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF27(WHALE)|水栖哺乳動物: whale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF28|fabulous animals ~ 會飛類哺乳動物
-#25FF28(...)|會飛類哺乳動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF28(BAT)|會飛類哺乳動物: bat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29|fabulous animals ~ 其它 哺乳動物 not meant or mentioned above
-#25FF29(...)|fabulous animals ~ 其它 哺乳動物 not meant or mentioned above (名稱)
-#25FF29(ARMADILLO)|其它 哺乳動物: armadillo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29(HEDGEHOG)|其它 哺乳動物: hedgehog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29(LERTIX)|fabulous animals ~ 其它 哺乳動物 not meant or mentioned above: lertix
-#25FF29(MOLE)|其它 哺乳動物: mole - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF29(PORCUPINE)|其它 哺乳動物: porcupine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF3|fabulous animals ~鳥類
-#25FF3(...)|fabulous animals ~鳥類 (名稱)
-#25FF3(AVALERION)|fabulous animals ~鳥類: avalerion
-#25FF3(CARABAS)|fabulous animals ~鳥類: carabas
-#25FF3(CARISTA)|fabulous animals ~鳥類: carista
-#25FF3(FIRE-BIRD)|fabulous animals ~鳥類: fire-bird
-#25FF3(HARPY)|harpy (fabulous bird); 'Arpie' (Ripa)
-#25FF3(HERCYNIAN BIRD)|fabulous animals ~鳥類: hercynian bird
-#25FF3(PHOENIX)|fabulous animals ~鳥類: phoenix
-#25FF3(PORPHYRION)|fabulous animals ~鳥類: porphyrion
-#25FF3(ROC)|fabulous animals ~鳥類: roc
-#25FF3(SELEUCIDIAN BIRD)|fabulous animals ~鳥類: seleucidian bird
-#25FF3(STELLINUS)|fabulous animals ~鳥類: stellinus
-#25FF3(TRAGOPA)|fabulous animals ~鳥類: tragopa
-#25FF31|fabulous animals ~ domestic birds
-#25FF311|basilisk (cock with posterior of snake)
-#25FF312|cockatrice, a two-legged dragon with a rooster's head
-#25FF32|fabulous animals ~ 鳴禽
-#25FF32(...)|鳴禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(CROW)|鳴禽: crow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(FINCH)|鳴禽: finch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(GOLDFINCH)|鳴禽: goldfinch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(JACKDAW)|鳴禽: jackdaw - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(LARK)|鳴禽: lark - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(MAGPIE)|鳴禽: magpie - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(NIGHTINGALE)|鳴禽: nightingale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(RAVEN)|鳴禽: raven - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(ROBIN)|鳴禽: robin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(SPARROW)|鳴禽: sparrow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(STARLING)|鳴禽: starling - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(SWALLOW)|鳴禽: swallow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(THRUSH)|鳴禽: thrush - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WAGTAIL)|鳴禽: wagtail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WARBLER)|鳴禽: warbler - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WHITE THROAT)|鳴禽: white throat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF32(WREN)|鳴禽: wren - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33|fabulous animals ~ 猛禽
-#25FF33(...)|猛禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(EAGLE)|猛禽: eagle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(FALCON)|猛禽: falcon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(FISH-HAWK)|猛禽: fish-hawk, osprey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(HAWK)|猛禽: hawk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(KITE)|猛禽: kite - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(SPARROW-HAWK)|猛禽: sparrow-hawk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF33(VULTURE)|猛禽: vulture - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF25|傳說中的動物 ~ 象鼻類動物
+#25FF25(...)|象鼻類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF25(ELEPHANT)|象鼻類動物: 大象 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26|傳說中的動物 ~ 囓齒目
+#25FF26(...)|囓齒目 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(BEAVER)|囓齒目: 海狸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(HARE)|囓齒目: 野兔 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(MOUSE)|囓齒目: 鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(MUSK-RAT)|囓齒目: 麝鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(RABBIT)|囓齒目: 兔 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(RAT)|囓齒目: 老鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(SQUIRREL)|囓齒目: 松鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF26(WOMBAT)|囓齒目: 袋熊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF27|傳說中的動物 ~ 水栖哺乳動物
+#25FF27(...)|水栖哺乳動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF27(DOLPHIN)|水栖哺乳動物: 海豚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF27(SEAL)|水栖哺乳動物: 海獅- FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF27(WHALE)|水栖哺乳動物: 鯨魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF28|傳說中的動物 ~ 會飛類哺乳動物
+#25FF28(...)|會飛類哺乳動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF28(BAT)|會飛類哺乳動物: 蝙蝠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF29|傳說中的動物 ~ 以上未提及的其它哺乳動物
+#25FF29(...)|傳說中的動物 ~ 以上未提及的其它哺乳動物 (名稱)
+#25FF29(ARMADILLO)|其它哺乳動物: 犰狳 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF29(HEDGEHOG)|其它哺乳動物: 刺蝟 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF29(LERTIX)|傳說中的動物 ~ 以上未提及的其它哺乳動物: lertix
+#25FF29(MOLE)|其它哺乳動物: 鼹形鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF29(PORCUPINE)|其它 哺乳動物: 豪豬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF3|傳說中的動物 ~鳥類
+#25FF3(...)|傳說中的動物 ~鳥類 (名稱)
+#25FF3(AVALERION)|傳說中的動物 ~鳥類: avalerion
+#25FF3(CARABAS)|傳說中的動物 ~鳥類: carabas
+#25FF3(CARISTA)|傳說中的動物 ~鳥類: carista
+#25FF3(FIRE-BIRD)|傳說中的動物 ~鳥類: 火鳥
+#25FF3(HARPY)|鳥身女妖 (傳說中的鳥); 'Arpie' (Ripa)
+#25FF3(HERCYNIAN BIRD)|傳說中的動物 ~鳥類: 海西鳥
+#25FF3(PHOENIX)|傳說中的動物 ~鳥類: 鳳凰 
+#25FF3(PORPHYRION)|傳說中的動物 ~鳥類: porphyrion
+#25FF3(ROC)|傳說中的動物 ~鳥類: rocfire-bird
+#25FF3(SELEUCIDIAN BIRD)|傳說中的動物 ~鳥類: seleucidian bird
+#25FF3(STELLINUS)|傳說中的動物 ~鳥類: stellinus
+#25FF3(TRAGOPA)|傳說中的動物 ~鳥類: tragopa
+#25FF31|傳說中的動物 ~ 家禽
+#25FF311|basilisk (身體後半部為蛇的雄雞)
+#25FF312|cockatrice, 雞頭雙足龍
+#25FF32|傳說中的動物 ~ 鳴禽
+#25FF32(...)|鳴禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(CROW)|鳴禽: 烏鴉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(FINCH)|鳴禽: 雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(GOLDFINCH)|鳴禽: 金翅雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(JACKDAW)|鳴禽: 寒鴉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(LARK)|鳴禽: 百靈鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(MAGPIE)|鳴禽: 喜鵲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(NIGHTINGALE)|鳴禽: 夜鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(RAVEN)|鳴禽: 渡鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(ROBIN)|鳴禽: 鴝,知更鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(SPARROW)|鳴禽: 麻雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(STARLING)|鳴禽: 星椋鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(SWALLOW)|鳴禽: 燕子 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(THRUSH)|鳴禽: 鶇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(WAGTAIL)|鳴禽: 灶巢鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(WARBLER)|鳴禽: 鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(WHITE THROAT)|鳴禽: white throat - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF32(WREN)|鳴禽: 鷦鷯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33|傳說中的動物 ~ 猛禽
+#25FF33(...)|猛禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33(EAGLE)|猛禽: 鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33(FALCON)|猛禽: 隼(sun) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33(FISH-HAWK)|猛禽: 魚鷹, 鶚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33(HAWK)|猛禽: 鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33(KITE)|猛禽: 鳶(yuan) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33(SPARROW-HAWK)|猛禽: 雀鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF33(VULTURE)|猛禽: 鷲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 #25FF331|vulpanser
-#25FF332|double-headed eagle
-#25FF34|fabulous animals ~ owls
-#25FF35|fabulous animals ~ 觀賞鳥
-#25FF35(...)|觀賞鳥 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(BIRD OF PARADISE)|觀賞鳥: bird of paradise - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(HORNBILL)|觀賞鳥: hornbill - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(PARROT)|觀賞鳥: parrot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF35(PEACOCK)|觀賞鳥: peacock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36|fabulous animals ~ 水鳥
-#25FF36(...)|水鳥 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(COOT)|水鳥: coot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(DIPPER)|水鳥: dipper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(DUCK)|水鳥: duck - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(GOOSE)|水鳥: goose - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(PELICAN)|水鳥: pelican - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(SWAMP-HEN)|水鳥: swamp-hen - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF36(SWAN)|水鳥: swan - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37|fabulous animals ~ 沙禽和涉禽
-#25FF37(...)|沙禽和涉禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(BITTERN)|沙禽和涉禽: bittern - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(CRANE)|沙禽和涉禽: crane - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(GULL)|沙禽和涉禽: gull - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(HERON)|沙禽和涉禽: heron - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(IBIS)|沙禽和涉禽: ibis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(LAPWING)|沙禽和涉禽: lapwing - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(MARABOU)|沙禽和涉禽: marabou - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(PLOVER)|沙禽和涉禽: plover - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(PURPLE WATER-HEN)|沙禽和涉禽: purple water-hen - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(SNIPE)|沙禽和涉禽: snipe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(STORK)|沙禽和涉禽: stork - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(TROCHILUS)|沙禽和涉禽: trochilus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF37(WOODCOCK)|沙禽和涉禽: woodcock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF371|'caladrius', 'charadrius' (fabulous bird)
-#25FF38|fabulous animals ~ 行禽
-#25FF38(...)|行禽 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(BUSTARD)|行禽: bustard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(OSTRICH)|行禽: ostrich - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(PARTRIDGE)|行禽: partridge - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(PHEASANT)|行禽: pheasant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(QUAIL)|行禽: quail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF38(TURKEY)|行禽: turkey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39|fabulous animals ~ 其它鳥類 not meant of mentioned above
-#25FF39(...)|其它鳥類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(CUCKOO)|其它鳥類: cuckoo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(DODO)|其它鳥類: dodo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(DOVE)|其它鳥類: dove - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(HOOPOE)|其它鳥類: hoopoe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(HUMMING-BIRD)|其它鳥類: humming-bird - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(KINGFISHER)|其它鳥類: kingfisher - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(TURTLE DOVE)|其它鳥類: turtle dove - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(WOODPECKER)|其它鳥類: woodpecker - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF39(WRYNECK)|其它鳥類: wryneck - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF4|fabulous animals ~ reptiles
-#25FF41|fabulous animals ~ lizards
-#25FF41(...)|lizards (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF41(CHAMELEON)|lizards: chameleon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF41(LIZARD)|lizards: lizard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF332|雙頭鷹
+#25FF34|傳說中的動物 ~ 貓頭鷹
+#25FF35|傳說中的動物 ~ 觀賞鳥
+#25FF35(...)|觀賞鳥 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF35(BIRD OF PARADISE)|觀賞鳥: 天堂鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF35(HORNBILL)|觀賞鳥: 犀鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF35(PARROT)|觀賞鳥: 鸚鵡 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF35(PEACOCK)|觀賞鳥: 孔雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36|傳說中的動物 ~ 水鳥
+#25FF36(...)|水鳥 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36(COOT)|水鳥: 黑鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36(DIPPER)|水鳥: 潛鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36(DUCK)|水鳥: 鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36(GOOSE)|水鳥: 鵝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36(PELICAN)|水鳥: 鵜鶘 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36(SWAMP-HEN)|水鳥: 沼澤水雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF36(SWAN)|水鳥: 天鵝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37|傳說中的動物 ~ 沙禽和涉禽
+#25FF37(...)|沙禽和涉禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(BITTERN)|沙禽和涉禽: 麻鳽 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(CRANE)|沙禽和涉禽: 鶴 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(GULL)|沙禽和涉禽: 鷗 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(HERON)|沙禽和涉禽: 蒼鷺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(IBIS)|沙禽和涉禽: 白鷺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(LAPWING)|沙禽和涉禽: 麥鳧 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(MARABOU)|沙禽和涉禽: 禿鸛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(PLOVER)|沙禽和涉禽: 千鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(PURPLE WATER-HEN)|沙禽和涉禽: 紫水雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(SNIPE)|沙禽和涉禽: 鷸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(STORK)|沙禽和涉禽: 鸛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(TROCHILUS)|沙禽和涉禽: 柳鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF37(WOODCOCK)|沙禽和涉禽: 鳥鷸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF371|'caladrius', 'charadrius' (傳說中的鳥)
+#25FF38|傳說中的動物 ~ 行禽
+#25FF38(...)|行禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF38(BUSTARD)|行禽: 鴇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF38(OSTRICH)|行禽: 鴕鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF38(PARTRIDGE)|行禽: 鷓鴣 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF38(PHEASANT)|行禽: 雉,野雞,錦雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF38(QUAIL)|行禽: 鵪鶉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF38(TURKEY)|行禽: 火雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39|傳說中的動物 ~ 以上未提及的其它鳥類
+#25FF39(...)|其它鳥類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(CUCKOO)|其它鳥類: cuckoo - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(DODO)|其它鳥類: dodo - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(DOVE)|其它鳥類: dove - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(HOOPOE)|其它鳥類: hoopoe - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(HUMMING-BIRD)|其它鳥類: humming-bird - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(KINGFISHER)|其它鳥類: kingfisher - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(TURTLE DOVE)|其它鳥類: turtle dove - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(WOODPECKER)|其它鳥類: woodpecker - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF39(WRYNECK)|其它鳥類: wryneck - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF4|傳說中的動物 ~ reptiles
+#25FF41|傳說中的動物 ~ lizards
+#25FF41(...)|lizards (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF41(CHAMELEON)|lizards: chameleon - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF41(LIZARD)|lizards: lizard - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 #25FF411|dragon
 #25FF412|salamander (fabulous animal); salamander as spirit of fire
-#25FF42|fabulous animals ~ snakes (aspic, dragon, hydrus, hydra, amphisbaena, horned snake, cerastes)
-#25FF42(...)|snakes (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF42(VIPER)|snakes: viper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF42|傳說中的動物 ~ snakes (aspic, dragon, hydrus, hydra, amphisbaena, horned snake, cerastes)
+#25FF42(...)|snakes (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF42(VIPER)|snakes: viper - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 #25FF421|aspic
 #25FF422|dragon (large fabulous serpent, sometimes with wings and legs)
 #25FF423|'hydrus' (watersnake)
@@ -1273,133 +1273,133 @@
 #25FF424|'amphisbaena' (snake with head at both ends)
 #25FF425|horned snake
 #25FF4251|'cerastes'
-#25FF43|fabulous animals ~ crocodiles
-#25FF43(...)|crocodiles (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF43(ALLIGATOR)|crocodiles: alligator - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF43(CROCODILE)|crocodiles: crocodile - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF44|fabulous animals ~ tortoises
-#25FF5|fabulous animals ~ 水陸兩棲動物
-#25FF51|fabulous animals ~ 無尾水陸兩棲動物
-#25FF51(...)|無尾水陸兩棲動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF51(FROG)|無尾水陸兩棲動物: frog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF51(TOAD)|無尾水陸兩棲動物: toad - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF52|fabulous animals ~ 有尾水陸兩棲動物
-#25FF52(...)|有尾水陸兩棲動物 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF6|fabulous animals ~魚類
+#25FF43|傳說中的動物 ~ crocodiles
+#25FF43(...)|crocodiles (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF43(ALLIGATOR)|crocodiles: alligator - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF43(CROCODILE)|crocodiles: crocodile - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF44|傳說中的動物 ~ tortoises
+#25FF5|傳說中的動物 ~ 水陸兩棲動物
+#25FF51|傳說中的動物 ~ 無尾水陸兩棲動物
+#25FF51(...)|無尾水陸兩棲動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF51(FROG)|無尾水陸兩棲動物: frog - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF51(TOAD)|無尾水陸兩棲動物: toad - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF52|傳說中的動物 ~ 有尾水陸兩棲動物
+#25FF52(...)|有尾水陸兩棲動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF6|傳說中的動物 ~魚類
 #25FF61|leviathan (fabulous fish)
-#25FF61(...)|軟骨魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(DOGFISH)|軟骨魚類: dogfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(RAY)|軟骨魚類: ray - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(SAWFISH)|軟骨魚類: sawfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF61(SHARK)|軟骨魚類: shark - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF61(...)|軟骨魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF61(DOGFISH)|軟骨魚類: dogfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF61(RAY)|軟骨魚類: ray - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF61(SAWFISH)|軟骨魚類: sawfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF61(SHARK)|軟骨魚類: shark - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 #25FF62|sea-horse, hippocamp, 'hippocampus', (horse/fish) (mythological hybrid monster)
-#25FF62(...)|硬骨魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(BARBEL)|硬骨魚類: barbel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(BUTTERFISH)|硬骨魚類: butterfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(CARP)|硬骨魚類: carp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(HERRING)|硬骨魚類: herring - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(HIPPOCAMPUS)|硬骨魚類: hippocampus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(LUNGFISH)|硬骨魚類: lungfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(MACKEREL)|硬骨魚類: mackerel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(MULLET)|硬骨魚類: mullet - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(PIKE)|硬骨魚類: pike - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(PILOT-FISH)|硬骨魚類: pilot-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(RED HERRING)|'red' or smoked herring : Use 41 C 68 (SMOKED HERRING); herring : Use 25 F 62 (HERRING) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(ROACH)|硬骨魚類: roach - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SALMON)|硬骨魚類: salmon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SARDINE)|硬骨魚類: sardine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SCARUS)|硬骨魚類: scarus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-BREAM)|硬骨魚類: sea-bream - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-DEVIL)|硬骨魚類: sea-devil - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-PERCH)|硬骨魚類: sea-perch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SEA-WOLF)|硬骨魚類: sea-wolf - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SHEAT-FISH)|硬骨魚類: sheat-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(STURGEON)|硬骨魚類: sturgeon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SUN-FISH)|硬骨魚類: sun-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(SWORD-FISH)|硬骨魚類: sword-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(TUNNY)|硬骨魚類: tunny - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF62(WEEVER)|硬骨魚類: weever - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF62(...)|硬骨魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(BARBEL)|硬骨魚類: barbel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(BUTTERFISH)|硬骨魚類: butterfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(CARP)|硬骨魚類: carp - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(HERRING)|硬骨魚類: herring - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(HIPPOCAMPUS)|硬骨魚類: hippocampus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(LUNGFISH)|硬骨魚類: lungfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(MACKEREL)|硬骨魚類: mackerel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(MULLET)|硬骨魚類: mullet - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(PIKE)|硬骨魚類: pike - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(PILOT-FISH)|硬骨魚類: pilot-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(RED HERRING)|'red' or smoked herring : Use 41 C 68 (SMOKED HERRING); herring : Use 25 F 62 (HERRING) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(ROACH)|硬骨魚類: roach - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SALMON)|硬骨魚類: salmon - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SARDINE)|硬骨魚類: sardine - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SCARUS)|硬骨魚類: scarus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SEA-BREAM)|硬骨魚類: sea-bream - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SEA-DEVIL)|硬骨魚類: sea-devil - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SEA-PERCH)|硬骨魚類: sea-perch - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SEA-WOLF)|硬骨魚類: sea-wolf - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SHEAT-FISH)|硬骨魚類: sheat-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(STURGEON)|硬骨魚類: sturgeon - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SUN-FISH)|硬骨魚類: sun-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(SWORD-FISH)|硬骨魚類: sword-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(TUNNY)|硬骨魚類: tunny - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF62(WEEVER)|硬骨魚類: weever - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 #25FF63|'pistrix', sea-dragon
-#25FF63(...)|鱔魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF63(EEL)|鱔魚類: eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF63(LAMPREY)|鱔魚類: lamprey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF63(SEA-EEL)|鱔魚類: sea-eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF63(...)|鱔魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF63(EEL)|鱔魚類: eel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF63(LAMPREY)|鱔魚類: lamprey - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF63(SEA-EEL)|鱔魚類: sea-eel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 #25FF64|'remore', 'echeneis remora' (fabulous fish)
-#25FF64(...)|深海魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF64(...)|深海魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 #25FF65|'serra' (fish with enormous fins)
-#25FF65(...)|其它魚類 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF7|fabulous animals ~ 低級動物
-#25FF71|fabulous animals ~ 節肢動物 ('pyrausta')
+#25FF65(...)|其它魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF7|傳說中的動物 ~ 低級動物
+#25FF71|傳說中的動物 ~ 節肢動物 ('pyrausta')
 #25FF711|'pyrausta'
-#25FF711(...)|昆蟲 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(ANT)|昆蟲: ant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(BEE)|昆蟲: bee - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(BEETLE)|昆蟲: beetle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(BUTTERFLY)|昆蟲: butterfly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(CATERPILLAR)|昆蟲: caterpillar - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(CICADA)|昆蟲: cicada - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(CRICKET)|昆蟲: cricket - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(DAY-FLY)|昆蟲: day-fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(DUNG-BEETLE)|昆蟲: dung-beetle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(FLY)|昆蟲: fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(GLOW-WORM)|昆蟲: glow-worm - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(GNAT)|昆蟲: gnat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(GRASS-HOPPER)|昆蟲: grass-hopper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(ICHNEUMON-FLY)|昆蟲: ichneumon-fly - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(LADYBIRD)|昆蟲: ladybird - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(MANTIS)|昆蟲: mantis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(MOTH)|昆蟲: moth - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(PRAYING-MANTIS)|昆蟲: praying-mantis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(SCARABAEUS)|昆蟲: scarabaeus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF711(WASP)|昆蟲: wasp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF712|centipedes, millipedes - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF713|spiders - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF714|mites - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF715|scorpions - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716|甲殼蟲 - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716(...)|甲殼蟲 (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716(CRAB)|甲殼蟲: crab - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF716(LOBSTER)|甲殼蟲: lobster - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72|fabulous animals ~ 軟體動物
-#25FF72(...)|fabulous animals ~ 軟體動物 (名稱)
-#25FF72(CUTTLE-FISH)|軟體動物: cuttle-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(KRAKEN)|fabulous animals ~ 軟體動物: kraken
-#25FF72(MUREX)|軟體動物: murex - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(MUSSEL)|軟體動物: mussel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(NAUTILUS)|軟體動物: nautilus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(OCTOPUS)|軟體動物: octopus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(OYSTER)|軟體動物: oyster - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(POLYP)|軟體動物: polyp - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(SNAIL)|軟體動物: snail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF72(SQUID)|軟體動物: squid - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF73|worms - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF73(...)|worms (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF74|echinoderms - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF74(...)|echinoderms (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF74(SEA-URCHIN)|echinoderms: sea-urchin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF74(STARFISH)|echinoderms: starfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF75|coelenterata - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF75(...)|coelenterata (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF75(CORAL)|coelenterata: coral - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF75(JELLY-FISH)|coelenterata: jelly-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF75(SPONGE)|coelenterata: sponge - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF76|unicellular animals, bacteria, bacilli - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF8|extinct animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF8(...)|extinct animals (名稱) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF81|prehistoric animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF82|fossil animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF9|still 其它 fabulous animals which cannot be classified under 25 FF 2 - 25 FF 7
-#25FF91|monsters larger than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF92|monsters smaller than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF93|multiple birth ~ mis-shapen animals, monsters - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF94|monsters with parts missing - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF95|monsters with parts in greater number than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF951|three-headed beast - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF952|bicorporates, animals with two bodies and a single head - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF96|monsters with limbs, organs, etc. in unusual places - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF97|monsters with parts, limbs, organs, etc. of abnormal shape - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF971|monsters with parts, limbs, organs, etc. larger than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-#25FF972|monsters with parts, limbs, organs, etc. smaller than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25FF711(...)|昆蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(ANT)|昆蟲: ant - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(BEE)|昆蟲: bee - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(BEETLE)|昆蟲: beetle - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(BUTTERFLY)|昆蟲: butterfly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(CATERPILLAR)|昆蟲: caterpillar - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(CICADA)|昆蟲: cicada - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(CRICKET)|昆蟲: cricket - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(DAY-FLY)|昆蟲: day-fly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(DUNG-BEETLE)|昆蟲: dung-beetle - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(FLY)|昆蟲: fly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(GLOW-WORM)|昆蟲: glow-worm - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(GNAT)|昆蟲: gnat - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(GRASS-HOPPER)|昆蟲: grass-hopper - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(ICHNEUMON-FLY)|昆蟲: ichneumon-fly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(LADYBIRD)|昆蟲: ladybird - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(MANTIS)|昆蟲: mantis - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(MOTH)|昆蟲: moth - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(PRAYING-MANTIS)|昆蟲: praying-mantis - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(SCARABAEUS)|昆蟲: scarabaeus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF711(WASP)|昆蟲: wasp - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF712|centipedes, millipedes - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF713|spiders - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF714|mites - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF715|scorpions - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF716|甲殼蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF716(...)|甲殼蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF716(CRAB)|甲殼蟲: crab - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF716(LOBSTER)|甲殼蟲: lobster - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72|傳說中的動物 ~ 軟體動物
+#25FF72(...)|傳說中的動物 ~ 軟體動物 (名稱)
+#25FF72(CUTTLE-FISH)|軟體動物: cuttle-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(KRAKEN)|傳說中的動物 ~ 軟體動物: kraken
+#25FF72(MUREX)|軟體動物: murex - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(MUSSEL)|軟體動物: mussel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(NAUTILUS)|軟體動物: nautilus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(OCTOPUS)|軟體動物: octopus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(OYSTER)|軟體動物: oyster - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(POLYP)|軟體動物: polyp - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(SNAIL)|軟體動物: snail - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF72(SQUID)|軟體動物: squid - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF73|蠕蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF73(...)|蠕蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF74|棘皮類動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF74(...)|棘皮類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF74(SEA-URCHIN)|棘皮類動物: sea-urchin - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF74(STARFISH)|棘皮類動物: starfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF75|刺絲胞類動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF75(...)|刺絲胞類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF75(CORAL)|刺絲胞類動物: coral - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF75(JELLY-FISH)|刺絲胞類動物: jelly-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF75(SPONGE)|刺絲胞類動物: sponge - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF76|unicellular animals, bacteria, bacilli - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF8|extinct animals - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF8(...)|extinct animals (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF81|prehistoric animals - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF82|fossil animals - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF9|still 其它 傳說中的動物 which cannot be classified under 25 FF 2 - 25 FF 7
+#25FF91|monsters larger than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF92|monsters smaller than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF93|multiple birth ~ mis-shapen animals, monsters - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF94|monsters with parts missing - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF95|monsters with parts in greater number than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF951|three-headed beast - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF952|bicorporates, animals with two bodies and a single head - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF96|monsters with limbs, organs, etc. in unusual places - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF97|monsters with parts, limbs, organs, etc. of abnormal shape - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF971|monsters with parts, limbs, organs, etc. larger than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+#25FF972|monsters with parts, limbs, organs, etc. smaller than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 25G|植物
 #25G1|plants (in general)
 #25G11|groups of trees
@@ -2874,9 +2874,9 @@
 #31A4512|animals with human head
 #31A4512(...)|animals with human head (名稱)
 #31A452|monsters ~ 哺乳動物
-#31A4521|monsters ~ domestic animals
+#31A4521|monsters ~ 家禽
 #31A45211|cynocephalus
-#31A4522|monsters ~ apes, monkeys
+#31A4522|monsters ~ apes, 猴
 #31A4523|monsters ~ predatory animals (sphinx, 'manticora')
 #31A45231|sphinx (lion/woman); 'Sfinge' (Ripa)
 #31A45232|'manticora'
@@ -3533,9 +3533,9 @@
 #31AA4512|animals with human head - AA - female human figure
 #31AA4512(...)|animals with human head (名稱) - AA - female human figure
 #31AA452|monsters ~ 哺乳動物 - AA - female human figure
-#31AA4521|monsters ~ domestic animals - AA - female human figure
+#31AA4521|monsters ~ 家禽 - AA - female human figure
 #31AA45211|cynocephalus - AA - female human figure
-#31AA4522|monsters ~ apes, monkeys - AA - female human figure
+#31AA4522|monsters ~ apes, 猴 - AA - female human figure
 #31AA4523|monsters ~ predatory animals (sphinx, 'manticora') - AA - female human figure
 #31AA45231|sphinx (lion/woman); 'Sfinge' (Ripa) - AA - female human figure
 #31AA45232|'manticora' - AA - female human figure
@@ -4561,8 +4561,8 @@
 #34A43|earning money with guinea-pig
 #34A44|earning money with 其它 animals
 #34A9|man tormenting animal(s)
-#34B|domestic animals, kept in and outside the house
-#34B1|domestic animals, kept in the house
+#34B|家禽, kept in and outside the house
+#34B1|家禽, kept in the house
 #34B11|dog
 #34B11(...)|dog (名稱 of kind)
 #34B111|collar (of a dog)
@@ -4590,9 +4590,9 @@
 #34B2331|swans (domestic waterbirds)
 #34B2332|geese (domestic waterbirds)
 #34B2333|ducks (domestic waterbirds)
-#34B3|水陸兩棲動物 as domestic animals
+#34B3|水陸兩棲動物 as 家禽
 #34B31|terrarium
-#34B4|fishes as domestic animals
+#34B4|fishes as 家禽
 #34B41|aquarium
 #34B411|fish bowl
 #34B42|fish pond (in garden)
@@ -4636,7 +4636,7 @@
 #34E12|bear-pit
 #34E2|collection of animals
 #34E21|circus animals
-#34E22|zoological garden, zoo, seen as place where non-domestic animals are kept
+#34E22|zoological garden, zoo, seen as place where non-家禽 are kept
 #34E221|caretakers ~ zoological garden
 #34E3|animals tied up
 #34F|man and (wild) animal
