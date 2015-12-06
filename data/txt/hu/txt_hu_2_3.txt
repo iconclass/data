@@ -1490,8 +1490,7 @@
 #25G3(PEAR-TREE)|trees (with NAME)
 #25G3(PINE)|trees: pine
 #25G3(PLANE-TREE)|trees: plane-tree
-#25G3(PLUM TREE)|trees: plum tree
-#25G3(PLUM-TREE)|tree: plum-tree
+#25G3(PLUM-TREE)|trees: plum-tree
 #25G3(POMEGRANATE-TREE)|trees: pomegranate-tree
 #25G3(POPLAR)|trees: poplar
 #25G3(QUINCE-TREE)|trees: quince-tree

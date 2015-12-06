@@ -1489,7 +1489,6 @@
 25G3(PEAR-TREE)|puut (NIMEN kanssa)
 25G3(PINE)|puut: mänty
 25G3(PLANE-TREE)|trees: plane-tree
-25G3(PLUM TREE)|puut: luumupuu
 25G3(PLUM-TREE)|puut: luumupuu
 25G3(POMEGRANATE-TREE)|trees: pomegranate-tree
 25G3(POPLAR)|puut: poppeli

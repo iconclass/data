@@ -1490,7 +1490,6 @@
 25G3(PEAR-TREE)|arbres (avec NOM)
 25G3(PINE)|arbres : pin
 25G3(PLANE-TREE)|arbres : platane
-25G3(PLUM TREE)|arbres: prunier
 25G3(PLUM-TREE)|arbres: prunier
 25G3(POMEGRANATE-TREE)|arbres : grenadier
 25G3(POPLAR)|arbres : peuplier

@@ -1034,565 +1034,565 @@
 25F72(POLYP)|軟體動物: 珊瑚蟲
 25F72(SNAIL)|軟體動物: 螺,蜗牛
 25F72(SQUID)|軟體動物: 魷魚
-#25F73|蠕蟲
-#25F73(...)|蠕蟲(名稱)
-#25F74|棘皮類動物
-#25F74(...)|棘皮類動物(名稱)
-#25F74(SEA-URCHIN)|棘皮類動物: 海膽
-#25F74(STARFISH)|棘皮類動物: 海星
-#25F75|刺絲胞類動物
-#25F75(...)|刺絲胞類動物(名稱)
-#25F75(CORAL)|刺絲胞類動物: 珊瑚蟲
-#25F75(JELLY-FISH)|刺絲胞類動物: 水母,海蜇
-#25F75(SPONGE)|刺絲胞類動物: 海綿
-#25F76|單細胞動物, 細菌, 桿菌
-#25F8|已滅絕的動物
-#25F8(...)|已滅絕的動物 (名稱)
-#25F81|史前動物
-#25F82|化石動物
-#25F9|變形的動物; 怪獸
-#25F91|特大型怪獸
-#25F92|特小型怪獸
-#25F93|多胎,一胎多仔 ~ 變形的動物; 怪獸
-#25F94|缺少身體某部分的怪獸
-#25F95|身體某部分數量特多的怪獸
-#25F951|三頭獸
-#25F952|雙體,一頭雙身的動物
-#25F96|軀幹、器官或其它部分不在正常位置的怪物
-#25F97|軀幹、器官或其它部分不是正常形狀的怪物
-#25F971|軀幹、器官或其它部分特大的怪物 
-#25F972|軀幹、器官或其它部分特小的怪物 
+25F73|蠕蟲
+25F73(...)|蠕蟲(名稱)
+25F74|棘皮類動物
+25F74(...)|棘皮類動物(名稱)
+25F74(SEA-URCHIN)|棘皮類動物: 海膽
+25F74(STARFISH)|棘皮類動物: 海星
+25F75|刺絲胞類動物
+25F75(...)|刺絲胞類動物(名稱)
+25F75(CORAL)|刺絲胞類動物: 珊瑚蟲
+25F75(JELLY-FISH)|刺絲胞類動物: 水母,海蜇
+25F75(SPONGE)|刺絲胞類動物: 海綿
+25F76|單細胞動物, 細菌, 桿菌
+25F8|已滅絕的動物
+25F8(...)|已滅絕的動物 (名稱)
+25F81|史前動物
+25F82|化石動物
+25F9|變形的動物; 怪獸
+25F91|特大型怪獸
+25F92|特小型怪獸
+25F93|多胎,一胎多仔 ~ 變形的動物; 怪獸
+25F94|缺少身體某部分的怪獸
+25F95|身體某部分數量特多的怪獸
+25F951|三頭獸
+25F952|雙體,一頭雙身的動物
+25F96|軀幹、器官或其它部分不在正常位置的怪物
+25F97|軀幹、器官或其它部分不是正常形狀的怪物
+25F971|軀幹、器官或其它部分特大的怪物 
+25F972|軀幹、器官或其它部分特小的怪物 
 25FF|傳說中的動物
-#25FF1|成組傳說中的動物
-#25FF2|傳說中的動物 ~ 哺乳動物
-#25FF21|傳說中的動物 ~ 家畜
-#25FF22|傳說中的動物 ~ 猴
-#25FF22(...)|猴, 猿 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF22(BABOON)|猴, 猿: 狒狒 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23|傳說中的動物 ~ 食肉動物
-#25FF23(...)|傳說中的動物 ~ 食肉動物 (名稱)
-#25FF23(BADGER)|食肉獸,食肉動物: 獾 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(BEAR)|食肉獸,食肉動物: 熊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(CHEETAH)|食肉獸,食肉動物: 獵豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(CROCOTAS)|傳說中的動物 ~ 食肉動物: crocotas
-#25FF23(ERMINE)|食肉獸,食肉動物: 銀貂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(FERRET)|食肉獸,食肉動物: 白鼬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(FOX)|食肉獸,食肉動物: 狐狸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(HYENA)|食肉獸,食肉動物: 鬣狗 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(ICHNEUMON)|食肉獸,食肉動物: 貓鼬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(LEOPARD)|食肉獸,食肉動物: 雲豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(LION)|食肉獸,食肉動物: 獅 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(LYNX)|食肉獸,食肉動物: 猞猁 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(MANGOUSTE)|食肉獸,食肉動物: 獴 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(MARTEN)|食肉獸,食肉動物: 貂鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(OTTER)|食肉獸,食肉動物: 水獺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(PANTHER)|食肉獸,食肉動物: 豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(SABLE)|食肉獸,食肉動物: 黑貂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(TIGER)|食肉獸,食肉動物: 虎 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(WEASEL)|食肉獸,食肉動物: 鼬鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF23(WOLF)|食肉獸,食肉動物: 狼 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF231|獅身鷹頭的動物; 'Griffo' (Ripa)
-#25FF232|吐火獸(獅/山羊/蛇); 'Chimera' (Ripa)
-#25FF233|鬣狗, 可改變性別的
-#25FF24|傳說中的動物 ~ 有蹄類動物
-#25FF24(...)|傳說中的動物 ~ 有蹄類動物 (名稱)
-#25FF24(ANTELOPE)|有蹄類動物: 羚羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(BISON)|有蹄類動物: 野牛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(BOAR)|有蹄類動物: 野豬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(BONNACON)|傳說中的動物 ~ 有蹄類動物: 波那空
-#25FF24(CAMEL)|有蹄類動物: 駱駝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(CATOBLEPAS)|傳說中的動物 ~ 有蹄類動物: 卡托布萊帕斯
-#25FF24(DEER)|有蹄類動物: 鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(DROMEDARY)|有蹄類動物: 單峰駱駝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(ELK)|有蹄類動物: 麋鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(GAZELLE)|有蹄類動物: 瞪羚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(GIRAFFE)|有蹄類動物: 長頸鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(GNU)|有蹄類動物: 角馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(HIPPOPOTAMUS)|有蹄類動物: 河馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(IBEX)|有蹄類動物: 高地山羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(MUSK-DEER)|有蹄類動物: 麝香鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(ONAGER)|有蹄類動物: 中亞野驢 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(ORYX)|有蹄類動物: 羚羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(OX WITH ONE HORN)|傳說中的動物 ~ 有蹄類動物: 獨角公牛
-#25FF24(OX WITH THREE HORNS)|傳說中的動物 ~ 有蹄類動物: 三角公牛
-#25FF24(PEGASUS)|傳說中的動物 ~ 有蹄類動物 : 採用 93D1 珀加索斯, 有雙翼的馬, 或者採用 25FF(有雙翼的馬) 來表示有雙翼的馬 (在非古典文本中)
-#25FF24(QUAGGA)|有蹄類動物: 白氏斑馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(RHINOCEROS)|有蹄類動物: 犀牛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(STAG)|有蹄類動物: 牡鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF24(WINGED HORSE)|傳說中的動物 ~ 有蹄類動物: 有雙翼的馬
-#25FF241|獨角獸
-#25FF2411|獨角獸被一貞女所獲, 'Chasse à la licorne'
-#25FF2412|'pirassoipi' (有雙角的獨角獸)
-#25FF2413|'oryx unicornis' (分趾蹄羚羊)
-#25FF242|'hippogriffe' (獅/鷹)
-#25FF243|'antalops' (傳說中的馴鹿)
-#25FF244|'leucrota'
-#25FF245|'parandrus' (牡鹿/熊)
-#25FF246|yale, 'éale'
-#25FF2461|'centicore'
-#25FF25|傳說中的動物 ~ 象鼻類動物
-#25FF25(...)|象鼻類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF25(ELEPHANT)|象鼻類動物: 大象 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26|傳說中的動物 ~ 囓齒目
-#25FF26(...)|囓齒目 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(BEAVER)|囓齒目: 海狸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(HARE)|囓齒目: 野兔 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(MOUSE)|囓齒目: 鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(MUSK-RAT)|囓齒目: 麝鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(RABBIT)|囓齒目: 兔 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(RAT)|囓齒目: 老鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(SQUIRREL)|囓齒目: 松鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF26(WOMBAT)|囓齒目: 袋熊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF27|傳說中的動物 ~ 水栖哺乳動物
-#25FF27(...)|水栖哺乳動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF27(DOLPHIN)|水栖哺乳動物: 海豚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF27(SEAL)|水栖哺乳動物: 海獅- FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF27(WHALE)|水栖哺乳動物: 鯨魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF28|傳說中的動物 ~ 會飛類哺乳動物
-#25FF28(...)|會飛類哺乳動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF28(BAT)|會飛類哺乳動物: 蝙蝠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF29|傳說中的動物 ~ 以上未提及的其它哺乳動物
-#25FF29(...)|傳說中的動物 ~ 以上未提及的其它哺乳動物 (名稱)
-#25FF29(ARMADILLO)|其它哺乳動物: 犰狳 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF29(HEDGEHOG)|其它哺乳動物: 刺蝟 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF29(LERTIX)|傳說中的動物 ~ 以上未提及的其它哺乳動物: lertix
-#25FF29(MOLE)|其它哺乳動物: 鼹形鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF29(PORCUPINE)|其它 哺乳動物: 豪豬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF3|傳說中的動物 ~鳥類
-#25FF3(...)|傳說中的動物 ~鳥類 (名稱)
-#25FF3(AVALERION)|傳說中的動物 ~鳥類: avalerion
-#25FF3(CARABAS)|傳說中的動物 ~鳥類: carabas
-#25FF3(CARISTA)|傳說中的動物 ~鳥類: carista
-#25FF3(FIRE-BIRD)|傳說中的動物 ~鳥類: 火鳥
-#25FF3(HARPY)|鳥身女妖 (傳說中的鳥); 'Arpie' (Ripa)
-#25FF3(HERCYNIAN BIRD)|傳說中的動物 ~鳥類: 海西鳥
-#25FF3(PHOENIX)|傳說中的動物 ~鳥類: 鳳凰 
-#25FF3(PORPHYRION)|傳說中的動物 ~鳥類: porphyrion
-#25FF3(ROC)|傳說中的動物 ~鳥類: rocfire-bird
-#25FF3(SELEUCIDIAN BIRD)|傳說中的動物 ~鳥類: seleucidian bird
-#25FF3(STELLINUS)|傳說中的動物 ~鳥類: stellinus
-#25FF3(TRAGOPA)|傳說中的動物 ~鳥類: tragopa
-#25FF31|傳說中的動物 ~ 家禽
-#25FF311|basilisk (身體後半部為蛇的雄雞)
-#25FF312|cockatrice, 雞頭雙足龍
-#25FF32|傳說中的動物 ~ 鳴禽
-#25FF32(...)|鳴禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(CROW)|鳴禽: 烏鴉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(FINCH)|鳴禽: 雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(GOLDFINCH)|鳴禽: 金翅雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(JACKDAW)|鳴禽: 寒鴉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(LARK)|鳴禽: 百靈鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(MAGPIE)|鳴禽: 喜鵲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(NIGHTINGALE)|鳴禽: 夜鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(RAVEN)|鳴禽: 渡鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(ROBIN)|鳴禽: 鴝,知更鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(SPARROW)|鳴禽: 麻雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(STARLING)|鳴禽: 星椋鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(SWALLOW)|鳴禽: 燕子 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(THRUSH)|鳴禽: 鶇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(WAGTAIL)|鳴禽: 灶巢鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(WARBLER)|鳴禽: 鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(WHITE THROAT)|鳴禽: white throat - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF32(WREN)|鳴禽: 鷦鷯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33|傳說中的動物 ~ 猛禽
-#25FF33(...)|猛禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33(EAGLE)|猛禽: 鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33(FALCON)|猛禽: 隼(sun) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33(FISH-HAWK)|猛禽: 魚鷹, 鶚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33(HAWK)|猛禽: 鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33(KITE)|猛禽: 鳶(yuan) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33(SPARROW-HAWK)|猛禽: 雀鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF33(VULTURE)|猛禽: 鷲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF331|vulpanser
-#25FF332|雙頭鷹
-#25FF34|傳說中的動物 ~ 貓頭鷹
-#25FF35|傳說中的動物 ~ 觀賞鳥
-#25FF35(...)|觀賞鳥 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF35(BIRD OF PARADISE)|觀賞鳥: 天堂鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF35(HORNBILL)|觀賞鳥: 犀鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF35(PARROT)|觀賞鳥: 鸚鵡 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF35(PEACOCK)|觀賞鳥: 孔雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36|傳說中的動物 ~ 水鳥
-#25FF36(...)|水鳥 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36(COOT)|水鳥: 黑鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36(DIPPER)|水鳥: 潛鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36(DUCK)|水鳥: 鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36(GOOSE)|水鳥: 鵝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36(PELICAN)|水鳥: 鵜鶘 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36(SWAMP-HEN)|水鳥: 沼澤水雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF36(SWAN)|水鳥: 天鵝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37|傳說中的動物 ~ 沙禽和涉禽
-#25FF37(...)|沙禽和涉禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(BITTERN)|沙禽和涉禽: 麻鳽 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(CRANE)|沙禽和涉禽: 鶴 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(GULL)|沙禽和涉禽: 鷗 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(HERON)|沙禽和涉禽: 蒼鷺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(IBIS)|沙禽和涉禽: 白鷺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(LAPWING)|沙禽和涉禽: 麥鳧 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(MARABOU)|沙禽和涉禽: 禿鸛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(PLOVER)|沙禽和涉禽: 千鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(PURPLE WATER-HEN)|沙禽和涉禽: 紫水雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(SNIPE)|沙禽和涉禽: 鷸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(STORK)|沙禽和涉禽: 鸛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(TROCHILUS)|沙禽和涉禽: 柳鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF37(WOODCOCK)|沙禽和涉禽: 鳥鷸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF371|'caladrius', 'charadrius' (傳說中的鳥)
-#25FF38|傳說中的動物 ~ 行禽
-#25FF38(...)|行禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF38(BUSTARD)|行禽: 鴇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF38(OSTRICH)|行禽: 鴕鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF38(PARTRIDGE)|行禽: 鷓鴣 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF38(PHEASANT)|行禽: 雉,野雞,錦雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF38(QUAIL)|行禽: 鵪鶉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF38(TURKEY)|行禽: 火雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39|傳說中的動物 ~ 以上未提及的其它鳥類
-#25FF39(...)|其它鳥類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(CUCKOO)|其它鳥類: cuckoo - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(DODO)|其它鳥類: dodo - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(DOVE)|其它鳥類: dove - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(HOOPOE)|其它鳥類: hoopoe - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(HUMMING-BIRD)|其它鳥類: humming-bird - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(KINGFISHER)|其它鳥類: kingfisher - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(TURTLE DOVE)|其它鳥類: turtle dove - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(WOODPECKER)|其它鳥類: woodpecker - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF39(WRYNECK)|其它鳥類: wryneck - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF4|傳說中的動物 ~ reptiles
-#25FF41|傳說中的動物 ~ lizards
-#25FF41(...)|lizards (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF41(CHAMELEON)|lizards: chameleon - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF41(LIZARD)|lizards: lizard - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF411|dragon
-#25FF412|salamander (fabulous animal); salamander as spirit of fire
-#25FF42|傳說中的動物 ~ snakes (aspic, dragon, hydrus, hydra, amphisbaena, horned snake, cerastes)
-#25FF42(...)|snakes (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF42(VIPER)|snakes: viper - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF421|aspic
-#25FF422|dragon (large fabulous serpent, sometimes with wings and legs)
-#25FF423|'hydrus' (watersnake)
-#25FF4231|'hydra'; 'Hidra' (Ripa)
-#25FF424|'amphisbaena' (snake with head at both ends)
-#25FF425|horned snake
-#25FF4251|'cerastes'
-#25FF43|傳說中的動物 ~ crocodiles
-#25FF43(...)|crocodiles (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF43(ALLIGATOR)|crocodiles: alligator - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF43(CROCODILE)|crocodiles: crocodile - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF44|傳說中的動物 ~ tortoises
-#25FF5|傳說中的動物 ~ 水陸兩棲動物
-#25FF51|傳說中的動物 ~ 無尾水陸兩棲動物
-#25FF51(...)|無尾水陸兩棲動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF51(FROG)|無尾水陸兩棲動物: frog - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF51(TOAD)|無尾水陸兩棲動物: toad - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF52|傳說中的動物 ~ 有尾水陸兩棲動物
-#25FF52(...)|有尾水陸兩棲動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF6|傳說中的動物 ~魚類
-#25FF61|leviathan (fabulous fish)
-#25FF61(...)|軟骨魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF61(DOGFISH)|軟骨魚類: dogfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF61(RAY)|軟骨魚類: ray - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF61(SAWFISH)|軟骨魚類: sawfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF61(SHARK)|軟骨魚類: shark - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62|sea-horse, hippocamp, 'hippocampus', (horse/fish) (mythological hybrid monster)
-#25FF62(...)|硬骨魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(BARBEL)|硬骨魚類: barbel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(BUTTERFISH)|硬骨魚類: butterfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(CARP)|硬骨魚類: carp - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(HERRING)|硬骨魚類: herring - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(HIPPOCAMPUS)|硬骨魚類: hippocampus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(LUNGFISH)|硬骨魚類: lungfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(MACKEREL)|硬骨魚類: mackerel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(MULLET)|硬骨魚類: mullet - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(PIKE)|硬骨魚類: pike - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(PILOT-FISH)|硬骨魚類: pilot-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(RED HERRING)|'red' or smoked herring : Use 41 C 68 (SMOKED HERRING); herring : Use 25 F 62 (HERRING) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(ROACH)|硬骨魚類: roach - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SALMON)|硬骨魚類: salmon - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SARDINE)|硬骨魚類: sardine - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SCARUS)|硬骨魚類: scarus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SEA-BREAM)|硬骨魚類: sea-bream - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SEA-DEVIL)|硬骨魚類: sea-devil - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SEA-PERCH)|硬骨魚類: sea-perch - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SEA-WOLF)|硬骨魚類: sea-wolf - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SHEAT-FISH)|硬骨魚類: sheat-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(STURGEON)|硬骨魚類: sturgeon - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SUN-FISH)|硬骨魚類: sun-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(SWORD-FISH)|硬骨魚類: sword-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(TUNNY)|硬骨魚類: tunny - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF62(WEEVER)|硬骨魚類: weever - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF63|'pistrix', sea-dragon
-#25FF63(...)|鱔魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF63(EEL)|鱔魚類: eel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF63(LAMPREY)|鱔魚類: lamprey - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF63(SEA-EEL)|鱔魚類: sea-eel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF64|'remore', 'echeneis remora' (fabulous fish)
-#25FF64(...)|深海魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF65|'serra' (fish with enormous fins)
-#25FF65(...)|其它魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF7|傳說中的動物 ~ 低級動物
-#25FF71|傳說中的動物 ~ 節肢動物 ('pyrausta')
-#25FF711|'pyrausta'
-#25FF711(...)|昆蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(ANT)|昆蟲: ant - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(BEE)|昆蟲: bee - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(BEETLE)|昆蟲: beetle - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(BUTTERFLY)|昆蟲: butterfly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(CATERPILLAR)|昆蟲: caterpillar - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(CICADA)|昆蟲: cicada - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(CRICKET)|昆蟲: cricket - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(DAY-FLY)|昆蟲: day-fly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(DUNG-BEETLE)|昆蟲: dung-beetle - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(FLY)|昆蟲: fly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(GLOW-WORM)|昆蟲: glow-worm - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(GNAT)|昆蟲: gnat - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(GRASS-HOPPER)|昆蟲: grass-hopper - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(ICHNEUMON-FLY)|昆蟲: ichneumon-fly - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(LADYBIRD)|昆蟲: ladybird - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(MANTIS)|昆蟲: mantis - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(MOTH)|昆蟲: moth - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(PRAYING-MANTIS)|昆蟲: praying-mantis - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(SCARABAEUS)|昆蟲: scarabaeus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF711(WASP)|昆蟲: wasp - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF712|centipedes, millipedes - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF713|spiders - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF714|mites - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF715|scorpions - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF716|甲殼蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF716(...)|甲殼蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF716(CRAB)|甲殼蟲: crab - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF716(LOBSTER)|甲殼蟲: lobster - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72|傳說中的動物 ~ 軟體動物
-#25FF72(...)|傳說中的動物 ~ 軟體動物 (名稱)
-#25FF72(CUTTLE-FISH)|軟體動物: cuttle-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(KRAKEN)|傳說中的動物 ~ 軟體動物: kraken
-#25FF72(MUREX)|軟體動物: murex - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(MUSSEL)|軟體動物: mussel - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(NAUTILUS)|軟體動物: nautilus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(OCTOPUS)|軟體動物: octopus - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(OYSTER)|軟體動物: oyster - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(POLYP)|軟體動物: polyp - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(SNAIL)|軟體動物: snail - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF72(SQUID)|軟體動物: squid - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF73|蠕蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF73(...)|蠕蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF74|棘皮類動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF74(...)|棘皮類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF74(SEA-URCHIN)|棘皮類動物: sea-urchin - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF74(STARFISH)|棘皮類動物: starfish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF75|刺絲胞類動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF75(...)|刺絲胞類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF75(CORAL)|刺絲胞類動物: coral - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF75(JELLY-FISH)|刺絲胞類動物: jelly-fish - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF75(SPONGE)|刺絲胞類動物: sponge - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF76|unicellular animals, bacteria, bacilli - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF8|extinct animals - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF8(...)|extinct animals (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF81|prehistoric animals - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF82|fossil animals - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF9|still 其它 傳說中的動物 which cannot be classified under 25 FF 2 - 25 FF 7
-#25FF91|monsters larger than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF92|monsters smaller than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF93|multiple birth ~ mis-shapen animals, monsters - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF94|monsters with parts missing - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF95|monsters with parts in greater number than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF951|three-headed beast - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF952|bicorporates, animals with two bodies and a single head - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF96|monsters with limbs, organs, etc. in unusual places - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF97|monsters with parts, limbs, organs, etc. of abnormal shape - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF971|monsters with parts, limbs, organs, etc. larger than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-#25FF972|monsters with parts, limbs, organs, etc. smaller than normal - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF1|成組傳說中的動物
+25FF2|傳說中的動物 ~ 哺乳動物
+25FF21|傳說中的動物 ~ 家畜
+25FF22|傳說中的動物 ~ 猴
+25FF22(...)|猴, 猿 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF22(BABOON)|猴, 猿: 狒狒 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23|傳說中的動物 ~ 食肉動物
+25FF23(...)|傳說中的動物 ~ 食肉動物 (名稱)
+25FF23(BADGER)|食肉獸,食肉動物: 獾 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(BEAR)|食肉獸,食肉動物: 熊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(CHEETAH)|食肉獸,食肉動物: 獵豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(CROCOTAS)|傳說中的動物 ~ 食肉動物: crocotas
+25FF23(ERMINE)|食肉獸,食肉動物: 銀貂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(FERRET)|食肉獸,食肉動物: 白鼬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(FOX)|食肉獸,食肉動物: 狐狸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(HYENA)|食肉獸,食肉動物: 鬣狗 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(ICHNEUMON)|食肉獸,食肉動物: 貓鼬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(LEOPARD)|食肉獸,食肉動物: 雲豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(LION)|食肉獸,食肉動物: 獅 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(LYNX)|食肉獸,食肉動物: 猞猁 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(MANGOUSTE)|食肉獸,食肉動物: 獴 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(MARTEN)|食肉獸,食肉動物: 貂鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(OTTER)|食肉獸,食肉動物: 水獺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(PANTHER)|食肉獸,食肉動物: 豹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(SABLE)|食肉獸,食肉動物: 黑貂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(TIGER)|食肉獸,食肉動物: 虎 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(WEASEL)|食肉獸,食肉動物: 鼬鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF23(WOLF)|食肉獸,食肉動物: 狼 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF231|獅身鷹頭的動物; 'Griffo' (Ripa)
+25FF232|吐火獸(獅/山羊/蛇); 'Chimera' (Ripa)
+25FF233|鬣狗, 可改變性別的
+25FF24|傳說中的動物 ~ 有蹄類動物
+25FF24(...)|傳說中的動物 ~ 有蹄類動物 (名稱)
+25FF24(ANTELOPE)|有蹄類動物: 羚羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(BISON)|有蹄類動物: 野牛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(BOAR)|有蹄類動物: 野豬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(BONNACON)|傳說中的動物 ~ 有蹄類動物: 波那空
+25FF24(CAMEL)|有蹄類動物: 駱駝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(CATOBLEPAS)|傳說中的動物 ~ 有蹄類動物: 卡托布萊帕斯
+25FF24(DEER)|有蹄類動物: 鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(DROMEDARY)|有蹄類動物: 單峰駱駝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(ELK)|有蹄類動物: 麋鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(GAZELLE)|有蹄類動物: 瞪羚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(GIRAFFE)|有蹄類動物: 長頸鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(GNU)|有蹄類動物: 角馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(HIPPOPOTAMUS)|有蹄類動物: 河馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(IBEX)|有蹄類動物: 高地山羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(MUSK-DEER)|有蹄類動物: 麝香鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(ONAGER)|有蹄類動物: 中亞野驢 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(ORYX)|有蹄類動物: 羚羊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(OX WITH ONE HORN)|傳說中的動物 ~ 有蹄類動物: 獨角公牛
+25FF24(OX WITH THREE HORNS)|傳說中的動物 ~ 有蹄類動物: 三角公牛
+25FF24(PEGASUS)|傳說中的動物 ~ 有蹄類動物 : 採用 93D1 珀加索斯, 有雙翼的馬, 或者採用 25FF(有雙翼的馬) 來表示有雙翼的馬 (在非古典文本中)
+25FF24(QUAGGA)|有蹄類動物: 白氏斑馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(RHINOCEROS)|有蹄類動物: 犀牛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(STAG)|有蹄類動物: 牡鹿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF24(WINGED HORSE)|傳說中的動物 ~ 有蹄類動物: 有雙翼的馬
+25FF241|獨角獸
+25FF2411|獨角獸被一貞女所獲, 'Chasse à la licorne'
+25FF2412|'pirassoipi' (有雙角的獨角獸)
+25FF2413|'oryx unicornis' (分趾蹄羚羊)
+25FF242|'hippogriffe' (獅/鷹)
+25FF243|'antalops' (傳說中的馴鹿)
+25FF244|'leucrota'
+25FF245|'parandrus' (牡鹿/熊)
+25FF246|yale, 'éale'
+25FF2461|'centicore'
+25FF25|傳說中的動物 ~ 象鼻類動物
+25FF25(...)|象鼻類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF25(ELEPHANT)|象鼻類動物: 大象 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26|傳說中的動物 ~ 囓齒目
+25FF26(...)|囓齒目 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(BEAVER)|囓齒目: 海狸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(HARE)|囓齒目: 野兔 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(MOUSE)|囓齒目: 鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(MUSK-RAT)|囓齒目: 麝鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(RABBIT)|囓齒目: 兔 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(RAT)|囓齒目: 老鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(SQUIRREL)|囓齒目: 松鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF26(WOMBAT)|囓齒目: 袋熊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF27|傳說中的動物 ~ 水栖哺乳動物
+25FF27(...)|水栖哺乳動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF27(DOLPHIN)|水栖哺乳動物: 海豚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF27(SEAL)|水栖哺乳動物: 海獅- FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF27(WHALE)|水栖哺乳動物: 鯨魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF28|傳說中的動物 ~ 會飛類哺乳動物
+25FF28(...)|會飛類哺乳動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF28(BAT)|會飛類哺乳動物: 蝙蝠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF29|傳說中的動物 ~ 以上未提及的其它哺乳動物
+25FF29(...)|傳說中的動物 ~ 以上未提及的其它哺乳動物 (名稱)
+25FF29(ARMADILLO)|其它哺乳動物: 犰狳 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF29(HEDGEHOG)|其它哺乳動物: 刺蝟 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF29(LERTIX)|傳說中的動物 ~ 以上未提及的其它哺乳動物: lertix
+25FF29(MOLE)|其它哺乳動物: 鼹形鼠 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF29(PORCUPINE)|其它 哺乳動物: 豪豬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF3|傳說中的動物 ~鳥類
+25FF3(...)|傳說中的動物 ~鳥類 (名稱)
+25FF3(AVALERION)|傳說中的動物 ~鳥類: avalerion
+25FF3(CARABAS)|傳說中的動物 ~鳥類: carabas
+25FF3(CARISTA)|傳說中的動物 ~鳥類: carista
+25FF3(FIRE-BIRD)|傳說中的動物 ~鳥類: 火鳥
+25FF3(HARPY)|鳥身女妖 (傳說中的鳥); 'Arpie' (Ripa)
+25FF3(HERCYNIAN BIRD)|傳說中的動物 ~鳥類: 海西鳥
+25FF3(PHOENIX)|傳說中的動物 ~鳥類: 鳳凰 
+25FF3(PORPHYRION)|傳說中的動物 ~鳥類: porphyrion
+25FF3(ROC)|傳說中的動物 ~鳥類: rocfire-bird
+25FF3(SELEUCIDIAN BIRD)|傳說中的動物 ~鳥類: seleucidian bird
+25FF3(STELLINUS)|傳說中的動物 ~鳥類: stellinus
+25FF3(TRAGOPA)|傳說中的動物 ~鳥類: tragopa
+25FF31|傳說中的動物 ~ 家禽
+25FF311|basilisk (身體後半部為蛇的雄雞)
+25FF312|cockatrice, 雞頭雙足龍
+25FF32|傳說中的動物 ~ 鳴禽
+25FF32(...)|鳴禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(CROW)|鳴禽: 烏鴉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(FINCH)|鳴禽: 雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(GOLDFINCH)|鳴禽: 金翅雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(JACKDAW)|鳴禽: 寒鴉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(LARK)|鳴禽: 百靈鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(MAGPIE)|鳴禽: 喜鵲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(NIGHTINGALE)|鳴禽: 夜鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(RAVEN)|鳴禽: 渡鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(ROBIN)|鳴禽: 鴝,知更鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(SPARROW)|鳴禽: 麻雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(STARLING)|鳴禽: 星椋鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(SWALLOW)|鳴禽: 燕子 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(THRUSH)|鳴禽: 鶇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(WAGTAIL)|鳴禽: 灶巢鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(WARBLER)|鳴禽: 鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(WHITE THROAT)|鳴禽: white throat - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF32(WREN)|鳴禽: 鷦鷯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33|傳說中的動物 ~ 猛禽
+25FF33(...)|猛禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33(EAGLE)|猛禽: 鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33(FALCON)|猛禽: 隼(sun) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33(FISH-HAWK)|猛禽: 魚鷹, 鶚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33(HAWK)|猛禽: 鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33(KITE)|猛禽: 鳶(yuan) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33(SPARROW-HAWK)|猛禽: 雀鷹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF33(VULTURE)|猛禽: 鷲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF331|vulpanser
+25FF332|雙頭鷹
+25FF34|傳說中的動物 ~ 貓頭鷹
+25FF35|傳說中的動物 ~ 觀賞鳥
+25FF35(...)|觀賞鳥 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF35(BIRD OF PARADISE)|觀賞鳥: 天堂鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF35(HORNBILL)|觀賞鳥: 犀鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF35(PARROT)|觀賞鳥: 鸚鵡 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF35(PEACOCK)|觀賞鳥: 孔雀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36|傳說中的動物 ~ 水鳥
+25FF36(...)|水鳥 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36(COOT)|水鳥: 黑鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36(DIPPER)|水鳥: 潛鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36(DUCK)|水鳥: 鴨 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36(GOOSE)|水鳥: 鵝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36(PELICAN)|水鳥: 鵜鶘 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36(SWAMP-HEN)|水鳥: 沼澤水雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF36(SWAN)|水鳥: 天鵝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37|傳說中的動物 ~ 沙禽和涉禽
+25FF37(...)|沙禽和涉禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(BITTERN)|沙禽和涉禽: 麻鳽 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(CRANE)|沙禽和涉禽: 鶴 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(GULL)|沙禽和涉禽: 鷗 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(HERON)|沙禽和涉禽: 蒼鷺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(IBIS)|沙禽和涉禽: 白鷺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(LAPWING)|沙禽和涉禽: 麥鳧 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(MARABOU)|沙禽和涉禽: 禿鸛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(PLOVER)|沙禽和涉禽: 千鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(PURPLE WATER-HEN)|沙禽和涉禽: 紫水雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(SNIPE)|沙禽和涉禽: 鷸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(STORK)|沙禽和涉禽: 鸛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(TROCHILUS)|沙禽和涉禽: 柳鶯 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF37(WOODCOCK)|沙禽和涉禽: 鳥鷸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF371|'caladrius', 'charadrius' (傳說中的鳥)
+25FF38|傳說中的動物 ~ 行禽
+25FF38(...)|行禽 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF38(BUSTARD)|行禽: 鴇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF38(OSTRICH)|行禽: 鴕鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF38(PARTRIDGE)|行禽: 鷓鴣 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF38(PHEASANT)|行禽: 雉,野雞,錦雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF38(QUAIL)|行禽: 鵪鶉 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF38(TURKEY)|行禽: 火雞 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39|傳說中的動物 ~ 以上未提及的其它鳥類
+25FF39(...)|其它鳥類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(CUCKOO)|其它鳥類: 布穀鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(DODO)|其它鳥類: 渡渡鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(DOVE)|其它鳥類: 鴿子 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(HOOPOE)|其它鳥類: 戴勝 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(HUMMING-BIRD)|其它鳥類: 蜂鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(KINGFISHER)|其它鳥類: 翠鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(TURTLE DOVE)|其它鳥類: 斑鳩 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(WOODPECKER)|其它鳥類: 啄木鳥 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF39(WRYNECK)|其它鳥類: 歪脖 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF4|傳說中的動物 ~ 爬行動物
+25FF41|傳說中的動物 ~ 蜥蜴類
+25FF41(...)|蜥蜴類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF41(CHAMELEON)|蜥蜴類: 變色龍 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF41(LIZARD)|蜥蜴類: 蜥蜴 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF411|龍
+25FF412|火蜥蜴 (傳說中的動物); 作為火精的火蜥蜴
+25FF42|傳說中的動物 ~ 蛇 (aspic, 龍, 水蛇, 水螅, 雙頭蛇, 有角的蛇, 角蝰)
+25FF42(...)|蛇 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF42(VIPER)|蛇: 蝰蛇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF421|aspic
+25FF422|龍 (傳說中的巨蛇, 有時長雙翼和腿)
+25FF423|'hydrus' (水蛇)
+25FF4231|'hydra'; 'Hidra' (Ripa)
+25FF424|'amphisbaena' (首尾均長頭的雙頭蛇)
+25FF425|有角的蛇
+25FF4251|'cerastes'
+25FF43|傳說中的動物 ~ 鱷類
+25FF43(...)|鱷類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF43(ALLIGATOR)|鱷類: 短吻鱷 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF43(CROCODILE)|鱷類: 鱷 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF44|傳說中的動物 ~ 龜
+25FF5|傳說中的動物 ~ 水陸兩棲動物
+25FF51|傳說中的動物 ~ 無尾水陸兩棲動物
+25FF51(...)|無尾水陸兩棲動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF51(FROG)|無尾水陸兩棲動物: 蛙 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF51(TOAD)|無尾水陸兩棲動物: 蟾蜍 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF52|傳說中的動物 ~ 有尾水陸兩棲動物
+25FF52(...)|有尾水陸兩棲動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF6|傳說中的動物 ~ 魚類
+25FF61|海兽 (傳說中的魚)
+25FF61(...)|軟骨魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF61(DOGFISH)|軟骨魚類: 狗鯊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF61(RAY)|軟骨魚類: 鰩魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF61(SAWFISH)|軟骨魚類: 鋸鰩 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF61(SHARK)|軟骨魚類: 鯊魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62|海馬, hippocamp, 'hippocampus', (馬/魚) (神話中拼湊的怪獸)
+25FF62(...)|硬骨魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(BARBEL)|硬骨魚類: 有觸鬚的魚,鲃魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(BUTTERFISH)|硬骨魚類: 溜滑的魚,鯧魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(CARP)|硬骨魚類: 鯉魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(HERRING)|硬骨魚類: 鯡魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(HIPPOCAMPUS)|硬骨魚類: 海馬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(LUNGFISH)|硬骨魚類: 肺魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(MACKEREL)|硬骨魚類: 鯖魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(MULLET)|硬骨魚類: 鯔魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(PIKE)|硬骨魚類: 梭子魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(PILOT-FISH)|硬骨魚類: 鰣魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(RED HERRING)|熏鯖魚 : 採用 41 C 68 (熏鯖魚); 鯡魚: 使用 25 F 62 (鯡魚) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(ROACH)|硬骨魚類: 歐鯉,翻車魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SALMON)|硬骨魚類: 鮭魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SARDINE)|硬骨魚類: 沙丁魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SCARUS)|硬骨魚類: 鸚嘴魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SEA-BREAM)|硬骨魚類: 鯛魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SEA-DEVIL)|硬骨魚類: 華臍魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SEA-PERCH)|硬骨魚類: 黑鯛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SEA-WOLF)|硬骨魚類: 狼魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SHEAT-FISH)|硬骨魚類: 六須鯰 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(STURGEON)|硬骨魚類: 鱔魚,鱘魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SUN-FISH)|硬骨魚類: 翻車魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(SWORD-FISH)|硬骨魚類: 旗魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(TUNNY)|硬骨魚類: 金槍魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF62(WEEVER)|硬骨魚類: 鱸魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF63|'pistrix', 海龍
+25FF63(...)|鱔魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF63(EEL)|鱔魚類: 鱔魚,鰻魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF63(LAMPREY)|鱔魚類: 七腮鰻魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF63(SEA-EEL)|鱔魚類: 海鱔 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF64|'remore', 'echeneis remora' (傳說中的魚)
+25FF64(...)|深海魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF65|'serra' (有大鰭的魚)
+25FF65(...)|其它魚類 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF7|傳說中的動物 ~ 低級動物
+25FF71|傳說中的動物 ~ 節肢動物 ('pyrausta')
+25FF711|'pyrausta'
+25FF711(...)|昆蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(ANT)|昆蟲: 螞蟻 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(BEE)|昆蟲: 蜜蜂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(BEETLE)|昆蟲: 甲蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(BUTTERFLY)|昆蟲: 蝴蝶 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(CATERPILLAR)|昆蟲: 毛蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(CICADA)|昆蟲: 蟬 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(CRICKET)|昆蟲: 蟋蟀 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(DAY-FLY)|昆蟲: 蜉蝣 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(DUNG-BEETLE)|昆蟲: 蜣螂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(FLY)|昆蟲: 蒼蠅 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(GLOW-WORM)|昆蟲: 螢火蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(GNAT)|昆蟲: 叮人小蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(GRASS-HOPPER)|昆蟲: 蚱蜢 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(ICHNEUMON-FLY)|昆蟲: 姬蜂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(LADYBIRD)|昆蟲: 瓢蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(MANTIS)|昆蟲: 螳螂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(MOTH)|昆蟲: 蛾子 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(PRAYING-MANTIS)|昆蟲: 合掌螳螂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(SCARABAEUS)|昆蟲: 聖甲蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF711(WASP)|昆蟲: 黃蜂 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF712|蜈蚣,百足蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF713|蜘蛛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF714|螨,壁蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF715|蝎子 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF716|甲殼蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF716(...)|甲殼蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF716(CRAB)|甲殼蟲: 蟹 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF716(LOBSTER)|甲殼蟲: 龍蝦 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72|傳說中的動物 ~ 軟體動物
+25FF72(...)|傳說中的動物 ~ 軟體動物 (名稱)
+25FF72(CUTTLE-FISH)|軟體動物: 墨魚,烏賊 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(KRAKEN)|傳說中的動物 ~ 軟體動物: (傳說在挪威海中出現的)海怪
+25FF72(MUREX)|軟體動物: 骨螺 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(MUSSEL)|軟體動物: 貝類,蚌類 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(NAUTILUS)|軟體動物: 鸚鵡螺殼 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(OCTOPUS)|軟體動物: 章魚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(OYSTER)|軟體動物: 牡蠣 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(POLYP)|軟體動物: 珊瑚蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(SNAIL)|軟體動物: 螺,蜗牛 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF72(SQUID)|軟體動物: 魷魚- FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF73|蠕蟲 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF73(...)|蠕蟲 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF74|棘皮類動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF74(...)|棘皮類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF74(SEA-URCHIN)|棘皮類動物: 海膽 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF74(STARFISH)|棘皮類動物: 海星 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF75|刺絲胞類動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF75(...)|刺絲胞類動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF75(CORAL)|刺絲胞類動物: 珊瑚 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF75(JELLY-FISH)|刺絲胞類動物: 水母,海蜇 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF75(SPONGE)|刺絲胞類動物: 海綿 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF76|單細胞動物, 細菌, 桿菌 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF8|已滅絕的動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF8(...)|已滅絕的動物 (名稱) - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF81|史前動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF82|化石動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF9|不能夠劃分在22 FF 2 - 25 FF 7之下的其它傳說中的動物
+25FF91|特大型怪獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF92|特小型怪獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF93|多胎,一胎多仔 ~ 變形的動物; 怪獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF94|缺少身體某部分的怪獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF95|身體某部分數量特多的怪獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF951|三頭獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF952|雙體,一頭雙身的動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF96|軀幹、器官或其它部分不在正常位置的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF97|軀幹、器官或其它部分不是正常形狀的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF971|軀幹、器官或其它部分特大的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
+25FF972|軀幹、器官或其它部分特小的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 25G|植物
-#25G1|plants (in general)
-#25G11|groups of trees
-#25G12|groups of shrubs
-#25G13|groups of plants (herbs)
-#25G14|groups of lower plants
-#25G2|products of plants in general
-#25G21|fruits
-#25G21(...)|fruits (名稱)
-#25G21(ACORN)|fruits: acorn
-#25G21(ALMOND)|fruits: almond
-#25G21(APPLE)|fruits: apple
-#25G21(BEANS)|fruits: beans
-#25G21(BILBERRY)|fruits: bilberry
-#25G21(BLACKBERRY)|fruits: blackberry
-#25G21(CHERRY)|fruits: cherry
-#25G21(CHESTNUT)|fruits: chestnut
-#25G21(FIG)|fruits: fig
-#25G21(GOURD)|fruits: gourd
-#25G21(HAZELNUT)|fruits: hazelnut
-#25G21(KAKI PERSIMMON)|fruits: kaki persimmon
-#25G21(LEMON)|fruits: lemon
-#25G21(MEDLAR)|fruits: medlar
-#25G21(MELON)|fruits: melon
-#25G21(MULBERRY)|fruits: mulberry
-#25G21(NUTS)|fruits: nuts
-#25G21(OLIVE)|fruits: olive
-#25G21(ORANGE)|fruits: orange
-#25G21(PEACH)|fruits: peach
-#25G21(PEAR)|fruits: pear
-#25G21(PINE-CONE)|fruits: pine-cone
-#25G21(PINEAPPLE)|fruits: pineapple
-#25G21(PLUM)|fruits: plum
-#25G21(POMEGRANATE)|fruits: pomegranate
-#25G21(PUMPKIN)|fruits: pumpkin
-#25G21(QUINCE)|fruits: quince
-#25G21(RASPBERRY)|fruits: raspberry
-#25G21(SPRUCE-CONE)|fruits: spruce-cone
-#25G21(STRAWBERRY)|fruits: strawberry
-#25G21(WALNUT)|fruits: walnut
-#25G211|parts of a fruit
-#25G211(...)|parts of a fruit (名稱)
-#25G211(NUTSHELL)|parts of a fruit: nutshell
-#25G2111|seed
-#25G2111(...)|seed (名稱)
-#25G2111(PEA)|seed: pea
-#25G2111(THISTLE-SEED)|seed: thistle-seed
-#25G22|(non-fruit) products of plants or trees
-#25G22(...)|(non-fruit) products of plants or trees (名稱)
-#25G22(ASPARAGUS)|(non-fruit) products of plants or trees: asparagus
-#25G22(CINNAMON)|(non-fruit) products of plants or trees: cinnamon
-#25G22(ONION)|(non-fruit) products of plants or trees: onion
-#25G22(RADISH)|(non-fruit) products of plants or trees: radish
-#25G22(TURNIP)|(non-fruit) products of plants or trees: turnip
-#25G3|trees
-#25G3(...)|trees (名稱)
-#25G3(ACACIA)|trees: acacia
-#25G3(ACER)|trees: acer
-#25G3(ALDER)|trees: alder
-#25G3(ALMOND-TREE)|trees: almond-tree
-#25G3(APPLE-TREE)|trees: apple-tree
-#25G3(ASH-TREE)|trees: ash-tree
-#25G3(AVOCADO)|trees: avocado
-#25G3(BEECH)|trees: beech
-#25G3(BIRCH)|trees: birch
-#25G3(CEDAR)|trees: cedar
-#25G3(CHERRY-TREE)|trees: cherry-tree
-#25G3(COCONUT-TREE)|trees: coconut-tree
-#25G3(CYPRESS)|trees: cypress
-#25G3(DATE-PALM)|trees: date-palm
-#25G3(DRACENA)|trees: dracena
-#25G3(ELM)|trees: elm
-#25G3(FIG-TREE)|trees: fig-tree
-#25G3(FIR)|trees: fir
-#25G3(HOLM-OAK)|trees: holm-oak
-#25G3(INDIAN BANYAN)|trees: Indian banyan
-#25G3(LAUREL)|trees: laurel
-#25G3(LEMON-TREE)|trees: lemon-tree
-#25G3(LINDEN)|trees: linden
-#25G3(MULBERRY-TREE)|trees: mulberry-tree
-#25G3(MYRRH-TREE)|trees: myrrh-tree
-#25G3(OAK)|trees: oak
-#25G3(OLEASTER)|trees: oleaster
-#25G3(OLIVE-TREE)|trees: olive-tree
-#25G3(PALM-TREE)|trees: palm-tree
-#25G3(PEACH-TREE)|trees: peach-tree
-#25G3(PEAR-TREE)|trees (名稱)
-#25G3(PINE)|trees: pine
-#25G3(PLANE-TREE)|trees: plane-tree
-#25G3(PLUM TREE)|trees: plum tree
-#25G3(PLUM-TREE)|tree: plum-tree
-#25G3(POMEGRANATE-TREE)|trees: pomegranate-tree
-#25G3(POPLAR)|trees: poplar
-#25G3(QUINCE-TREE)|trees: quince-tree
-#25G3(SPRUCE)|trees: spruce
-#25G3(STINKING BEAN TREFOIL)|trees: stinking bean trefoil
-#25G3(WALNUT-TREE)|trees: walnut-tree
-#25G3(WHITE POPLAR)|trees: white poplar
-#25G3(WILLOW)|trees: willow
-#25G3(YEW)|trees: yew
-#25G31|shrubs
-#25G31(...)|shrubs (名稱)
-#25G31(BLACKBERRY-BUSH)|shrubs: blackberry-bush
-#25G31(BOX)|shrubs: box
-#25G31(BROOM)|shrubs: broom
-#25G31(BUCKTHORN)|shrubs: buckthorn
-#25G31(HAZEL)|shrubs: hazel
-#25G31(JUNIPER)|shrubs: juniper
-#25G31(MYRTLE)|shrubs: myrtle
-#25G31(OLEANDER)|shrubs: oleander
-#25G31(PRIVET)|shrubs: privet
-#25G31(ROSE-BUSH)|shrubs: rose-bush
-#25G39|tree as a scheme of relations, diagram in form of a tree
-#25G391|philosophical tree (Arbor philosophicus) ~ alchemy
-#25G4|plants and herbs
-#25G4(...)|plants and herbs (名稱)
-#25G4(ACANTHUS)|plants and herbs: acanthus
-#25G4(ALOE)|plants and herbs: aloe
-#25G4(AMARANTH)|plants and herbs: amaranth
-#25G4(ARTICHOKE)|plants and herbs: artichoke
-#25G4(BASIL)|plants and herbs: basil
-#25G4(BEAN)|plants and herbs: bean
-#25G4(CABBAGE)|plants and herbs: cabbage
-#25G4(CACTUS)|plants and herbs: cactus
-#25G4(CAMOMILE)|plants and herbs: camomile
-#25G4(CHONDRILLA)|plants and herbs: chondrilla
-#25G4(CLOVER)|plants and herbs: clover
-#25G4(DICTAMNUS)|plants and herbs: dictamnus
-#25G4(FIELD ERYNGO)|plants and herbs: field eryngo
-#25G4(FLEA-BANE)|plants and herbs: flea-bane
-#25G4(GARLIC)|plants and herbs: garlic
-#25G4(GERMANDER)|plants and herbs: germander
-#25G4(GIANT FENNEL)|plants and herbs: giant fennel
-#25G4(GROUNDSEL)|plants and herbs: groundsel
-#25G4(HELLEBORE)|plants and herbs: hellebore
-#25G4(HEMLOCK)|plants and herbs: hemlock
-#25G4(HENBANE)|plants and herbs: henbane
-#25G4(HOP)|plants and herbs: hop
-#25G4(HOUSELEEK)|plants and herbs: houseleek
-#25G4(HYSSOP)|plants and herbs: hyssop
-#25G4(IVY)|plants and herbs: ivy
-#25G4(LETTUCE)|plants and herbs: lettuce
-#25G4(LUPIN)|plants and herbs: lupin
-#25G4(MANDRAKE)|plants and herbs: mandrake
-#25G4(MARJORAM)|plants and herbs: marjoram
-#25G4(MISTLETOE)|plants and herbs: mistletoe
-#25G4(NETTLE)|plants and herbs: nettle
-#25G4(ORIGANUM)|plants and herbs: origanum
-#25G4(PEA)|plants and herbs: pea
-#25G4(PENNYROYAL)|plants and herbs: pennyroyal
-#25G4(PEONY)|plants and herbs: peony
-#25G4(PUMPKIN)|plants and herbs: pumpkin
-#25G4(REED)|plants and herbs: reed
-#25G4(ROCKET)|plants and herbs: rocket
-#25G4(RUE)|plants and herbs: rue
-#25G4(SAFFRON)|plants and herbs: saffron
-#25G4(SAGE)|plants and herbs: sage
-#25G4(STINGING-NETTLE)|plants and herbs: stinging-nettle
-#25G4(STRAWBERRY)|plants and herbs: strawberry
-#25G4(SUNDEW)|plants and herbs: sundew
-#25G4(THISTLE)|plants and herbs: thistle
-#25G4(THYME)|plants and herbs: thyme
-#25G4(WATER-HEMLOCK)|plants and herbs: water-hemlock
-#25G4(WHEAT)|plants and herbs: wheat
-#25G4(WORMWOOD)|plants and herbs: wormwood
-#25G41|flowers
-#25G41(...)|flowers (名稱)
-#25G41(ALMOND-BLOSSOM)|flowers: almond-blossom
-#25G41(ANEMONE)|flowers: anemone
-#25G41(BUTTERCUP)|flowers: buttercup
-#25G41(CARNATION)|flowers: carnation
-#25G41(COLUMBINE)|flowers: columbine
-#25G41(CROCUS)|flowers: crocus
-#25G41(HELIOTROPE)|flowers: heliotrope
-#25G41(HYACINTH)|flowers: hyacinth
-#25G41(IMMORTELLE)|flowers: immortelle
-#25G41(LILY)|flowers: lily
-#25G41(LOTUS)|flowers: lotus
-#25G41(NARCISSUS)|flowers: narcissus
-#25G41(ORCHID)|flowers: orchid
-#25G41(PETUNIA)|flowers: petunia
-#25G41(POPPY)|flowers: poppy
-#25G41(ROSE)|flowers: rose
-#25G41(SUNFLOWER)|flowers: sunflower
-#25G41(TULIP)|flowers: tulip
-#25G41(VIOLET)|flowers: violet
-#25G41(WATER-LILY)|flowers: water-lily
-#25G411|cut flowers; nosegay, bunch of flowers
-#25G411(...)|cut flowers; nosegay, bunch of flowers (名稱)
-#25G4111|garland, wreath
-#25G412|dried flowers
-#25G412(...)|dried flowers (名稱)
-#25G49|artificial plants and flowers
+25G1|植物 (一般性)
+25G11|成組的樹
+25G12|成組的灌木
+25G13|成組的植物 (草本植物)
+25G14|成組的低等植物
+25G2|一般性的植物的產品
+25G21|果實
+25G21(...)|果實 (名稱)
+25G21(ACORN)|果實: 橡子
+25G21(ALMOND)|果實: 杏仁
+25G21(APPLE)|果實: 蘋果
+25G21(BEANS)|果實: 豆類
+25G21(BILBERRY)|果實: 越橘
+25G21(BLACKBERRY)|果實: 黑莓
+25G21(CHERRY)|果實: 櫻桃
+25G21(CHESTNUT)|果實: 栗
+25G21(FIG)|果實: 無花果
+25G21(GOURD)|果實: 葫蘆
+25G21(HAZELNUT)|果實: 榛實
+25G21(KAKI PERSIMMON)|果實: 柿
+25G21(LEMON)|果實: 檸檬
+25G21(MEDLAR)|果實: 枇杷
+25G21(MELON)|果實: 甜瓜
+25G21(MULBERRY)|果實: 桑果
+25G21(NUTS)|果實: 堅果
+25G21(OLIVE)|果實: 橄欖
+25G21(ORANGE)|果實: 橘
+25G21(PEACH)|果實: 桃
+25G21(PEAR)|果實: 梨
+25G21(PINE-CONE)|果實: 松果
+25G21(PINEAPPLE)|果實: 鳳梨
+25G21(PLUM)|果實: 李
+25G21(POMEGRANATE)|果實: 石榴
+25G21(PUMPKIN)|果實: 南瓜
+25G21(QUINCE)|果實: 榲桲,木瓜
+25G21(RASPBERRY)|果實: 木莓
+25G21(SPRUCE-CONE)|果實: 雲杉果
+25G21(STRAWBERRY)|果實: 草莓
+25G21(WALNUT)|果實: 胡桃,核桃
+25G211|果實的部分
+25G211(...)|果實的部分 (名稱)
+25G211(NUTSHELL)|果實的部分: 堅果殼
+25G2111|籽
+25G2111(...)|籽 (名稱)
+25G2111(PEA)|籽: 豆
+25G2111(THISTLE-SEED)|籽: 薊子
+25G22|(非果實類) 植物或樹的產品
+25G22(...)|(非果實類) 植物或樹的產品 (名稱)
+25G22(ASPARAGUS)|(非果實類) 植物或樹的產品: 蘆筍
+25G22(CINNAMON)|(非果實類) 植物或樹的產品: 肉桂
+25G22(ONION)|(非果實類) 植物或樹的產品: 洋蔥
+25G22(RADISH)|(非果實類) 植物或樹的產品: 蘿卜
+25G22(TURNIP)|(非果實類) 植物或樹的產品: 蕪菁,大頭菜
+25G3|樹
+25G3(...)|樹 (名稱)
+25G3(ACACIA)|樹: 洋槐,合歡樹,相思樹
+25G3(ACER)|樹: 大槭樹,楓樹
+25G3(ALDER)|樹: 榿木,赤楊木
+25G3(ALMOND-TREE)|樹: 杏樹,扁桃樹
+25G3(APPLE-TREE)|樹: 蘋果樹
+25G3(ASH-TREE)|樹: 梣木
+25G3(AVOCADO)|樹: 鳄梨, 油梨树
+25G3(BEECH)|樹: 山毛櫸
+25G3(BIRCH)|樹: 樺木
+25G3(CEDAR)|樹: 雪松,翠柏,香柏,西洋杉
+25G3(CHERRY-TREE)|樹: 櫻桃木
+25G3(COCONUT-TREE)|樹: 椰子樹
+25G3(CYPRESS)|樹: 柏樹
+25G3(DATE-PALM)|樹: 枣椰樹
+25G3(DRACENA)|樹: 龍血樹
+25G3(ELM)|樹: 榆木
+25G3(FIG-TREE)|樹: 無花果樹
+25G3(FIR)|樹: 冷杉,杉樹
+25G3(HOLM-OAK)|樹: 聖櫟木
+25G3(INDIAN BANYAN)|樹: 印度榕樹
+25G3(LAUREL)|樹: 月桂樹
+25G3(LEMON-TREE)|樹: 檸檬樹
+25G3(LINDEN)|樹: 椴木,菩提樹
+25G3(MULBERRY-TREE)|樹: 桑樹
+25G3(MYRRH-TREE)|樹: 沒藥樹
+25G3(OAK)|樹: 櫟木
+25G3(OLEASTER)|樹: 野生橄欖樹
+25G3(OLIVE-TREE)|樹: 橄欖樹
+25G3(PALM-TREE)|樹: 棕櫚樹,椰子樹
+25G3(PEACH-TREE)|樹: 桃樹
+25G3(PEAR-TREE)|樹 (名稱)
+25G3(PINE)|樹: 松樹
+25G3(PLANE-TREE)|樹: 懸鈴木,法國梧桐
+25G3(PLUM TREE)|樹: 梅樹,李樹
+25G3(PLUM-TREE)|樹: plum-tree
+25G3(POMEGRANATE-TREE)|樹: 石榴樹
+25G3(POPLAR)|樹: 楊木
+25G3(QUINCE-TREE)|樹: 榲桲樹
+25G3(SPRUCE)|樹: 雲杉
+25G3(STINKING BEAN TREFOIL)|樹: stinking bean trefoil
+25G3(WALNUT-TREE)|樹: 胡桃樹,核桃樹
+25G3(WHITE POPLAR)|樹: 白楊樹
+25G3(WILLOW)|樹: 柳樹
+25G3(YEW)|樹: 紫杉木
+25G31|灌木
+25G31(...)|灌木 (名稱)
+25G31(BLACKBERRY-BUSH)|灌木: 黑莓灌木叢
+25G31(BOX)|灌木: 黃楊灌木叢
+25G31(BROOM)|灌木: 山核桃木
+25G31(BUCKTHORN)|灌木: 鼠李
+25G31(HAZEL)|灌木: 榛木
+25G31(JUNIPER)|灌木: 檜木
+25G31(MYRTLE)|灌木: 香桃木
+25G31(OLEANDER)|灌木: 夾竹桃
+25G31(PRIVET)|灌木: 女貞樹叢,水蠟樹叢
+25G31(ROSE-BUSH)|灌木: 玫瑰灌木叢
+25G39|作為圖解關係的樹木, 樹形圖表
+25G391|哲學之樹 (Arbor philosophicus) ~ 煉金術
+#25G4|植物和草本植物
+#25G4(...)|植物和草本植物 (名稱)
+#25G4(ACANTHUS)|植物和草本植物: acanthus
+#25G4(ALOE)|植物和草本植物: aloe
+#25G4(AMARANTH)|植物和草本植物: amaranth
+#25G4(ARTICHOKE)|植物和草本植物: artichoke
+#25G4(BASIL)|植物和草本植物: basil
+#25G4(BEAN)|植物和草本植物: bean
+#25G4(CABBAGE)|植物和草本植物: cabbage
+#25G4(CACTUS)|植物和草本植物: cactus
+#25G4(CAMOMILE)|植物和草本植物: camomile
+#25G4(CHONDRILLA)|植物和草本植物: chondrilla
+#25G4(CLOVER)|植物和草本植物: clover
+#25G4(DICTAMNUS)|植物和草本植物: dictamnus
+#25G4(FIELD ERYNGO)|植物和草本植物: field eryngo
+#25G4(FLEA-BANE)|植物和草本植物: flea-bane
+#25G4(GARLIC)|植物和草本植物: garlic
+#25G4(GERMANDER)|植物和草本植物: germander
+#25G4(GIANT FENNEL)|植物和草本植物: giant fennel
+#25G4(GROUNDSEL)|植物和草本植物: groundsel
+#25G4(HELLEBORE)|植物和草本植物: hellebore
+#25G4(HEMLOCK)|植物和草本植物: hemlock
+#25G4(HENBANE)|植物和草本植物: henbane
+#25G4(HOP)|植物和草本植物: hop
+#25G4(HOUSELEEK)|植物和草本植物: houseleek
+#25G4(HYSSOP)|植物和草本植物: hyssop
+#25G4(IVY)|植物和草本植物: ivy
+#25G4(LETTUCE)|植物和草本植物: lettuce
+#25G4(LUPIN)|植物和草本植物: lupin
+#25G4(MANDRAKE)|植物和草本植物: mandrake
+#25G4(MARJORAM)|植物和草本植物: marjoram
+#25G4(MISTLETOE)|植物和草本植物: mistletoe
+#25G4(NETTLE)|植物和草本植物: nettle
+#25G4(ORIGANUM)|植物和草本植物: origanum
+#25G4(PEA)|植物和草本植物: pea
+#25G4(PENNYROYAL)|植物和草本植物: pennyroyal
+#25G4(PEONY)|植物和草本植物: peony
+#25G4(PUMPKIN)|植物和草本植物: pumpkin
+#25G4(REED)|植物和草本植物: reed
+#25G4(ROCKET)|植物和草本植物: rocket
+#25G4(RUE)|植物和草本植物: rue
+#25G4(SAFFRON)|植物和草本植物: saffron
+#25G4(SAGE)|植物和草本植物: sage
+#25G4(STINGING-NETTLE)|植物和草本植物: stinging-nettle
+#25G4(STRAWBERRY)|植物和草本植物: strawberry
+#25G4(SUNDEW)|植物和草本植物: sundew
+#25G4(THISTLE)|植物和草本植物: thistle
+#25G4(THYME)|植物和草本植物: thyme
+#25G4(WATER-HEMLOCK)|植物和草本植物: water-hemlock
+#25G4(WHEAT)|植物和草本植物: wheat
+#25G4(WORMWOOD)|植物和草本植物: wormwood
+#25G41|花卉
+#25G41(...)|花卉 (名稱)
+#25G41(ALMOND-BLOSSOM)|花卉: almond-blossom
+#25G41(ANEMONE)|花卉: anemone
+#25G41(BUTTERCUP)|花卉: buttercup
+#25G41(CARNATION)|花卉: carnation
+#25G41(COLUMBINE)|花卉: columbine
+#25G41(CROCUS)|花卉: crocus
+#25G41(HELIOTROPE)|花卉: heliotrope
+#25G41(HYACINTH)|花卉: hyacinth
+#25G41(IMMORTELLE)|花卉: immortelle
+#25G41(LILY)|花卉: lily
+#25G41(LOTUS)|花卉: 蓮花,荷花
+#25G41(NARCISSUS)|花卉: 水仙花
+#25G41(ORCHID)|花卉: 蘭花
+#25G41(PETUNIA)|花卉: petunia
+#25G41(POPPY)|花卉: 罌粟花
+#25G41(ROSE)|花卉: 玫瑰花
+#25G41(SUNFLOWER)|花卉: 葵花
+#25G41(TULIP)|花卉: 鬱金香
+#25G41(VIOLET)|花卉: violet
+#25G41(WATER-LILY)|花卉: 睡蓮
+#25G411|cut 花卉; nosegay, bunch of flowers
+#25G411(...)|折枝花卉; nosegay, 束花 (名稱)
+#25G4111|花環,花冠,花圈
+#25G412|dried 花卉
+#25G412(...)|dried 花卉 (名稱)
+#25G49|artificial plants and 花卉
 #25G5|lower plants
 #25G51|ferns
 #25G52|mosses
@@ -1600,188 +1600,188 @@
 #25G54|fungi
 #25G541|mushrooms
 #25G55|lichens
-#25G56|其它 lower plants
-#25G56(...)|其它 lower plants (名稱)
-#25G6|extinct plants
-#25G6(...)|extinct plants (名稱)
-#25G61|prehistoric plants
-#25G62|fossil plants
-#25G7|language of flowers
-#25GG|fantastic plants, fabulous vegetation
-#25GG1|fabulous plants (in general)
-#25GG11|groups of fabulous trees
-#25GG12|groups of fabulous shrubs
-#25GG13|groups of fabulous plants (herbs)
-#25GG14|groups of fabulous lower plants
-#25GG2|products of fabulous plants in general
-#25GG21|fruits of fabulous plants
-#25GG21(...)|fruits of fabulous plants (名稱)
-#25GG21(ACORN)|fruits: acorn - GG - fantastic plants, fabulous vegetation
-#25GG21(ALMOND)|fruits: almond - GG - fantastic plants, fabulous vegetation
-#25GG21(APPLE)|fruits: apple - GG - fantastic plants, fabulous vegetation
-#25GG21(BEANS)|fruits: beans - GG - fantastic plants, fabulous vegetation
-#25GG21(BILBERRY)|fruits: bilberry - GG - fantastic plants, fabulous vegetation
-#25GG21(CHERRY)|fruits: cherry - GG - fantastic plants, fabulous vegetation
-#25GG21(CHESTNUT)|fruits: chestnut - GG - fantastic plants, fabulous vegetation
-#25GG21(FIG)|fruits: fig - GG - fantastic plants, fabulous vegetation
-#25GG21(GOURD)|fruits: gourd - GG - fantastic plants, fabulous vegetation
-#25GG21(LEMON)|fruits: lemon - GG - fantastic plants, fabulous vegetation
-#25GG21(MEDLAR)|fruits: medlar - GG - fantastic plants, fabulous vegetation
-#25GG21(MELON)|fruits: melon - GG - fantastic plants, fabulous vegetation
-#25GG21(NUTS)|fruits: nuts - GG - fantastic plants, fabulous vegetation
-#25GG21(PEACH)|fruits: peach - GG - fantastic plants, fabulous vegetation
-#25GG21(PEAR)|fruits: pear - GG - fantastic plants, fabulous vegetation
-#25GG21(PINE-CONE)|fruits: pine-cone - GG - fantastic plants, fabulous vegetation
-#25GG21(PINEAPPLE)|fruits: pineapple - GG - fantastic plants, fabulous vegetation
-#25GG21(PLUM)|fruits: plum - GG - fantastic plants, fabulous vegetation
-#25GG21(POMEGRANATE)|fruits: pomegranate - GG - fantastic plants, fabulous vegetation
-#25GG21(PUMPKIN)|fruits: pumpkin - GG - fantastic plants, fabulous vegetation
-#25GG21(QUINCE)|fruits: quince - GG - fantastic plants, fabulous vegetation
-#25GG21(SPRUCE-CONE)|fruits: spruce-cone - GG - fantastic plants, fabulous vegetation
-#25GG21(STRAWBERRY)|fruits: strawberry - GG - fantastic plants, fabulous vegetation
-#25GG21(WALNUT)|fruits: walnut - GG - fantastic plants, fabulous vegetation
-#25GG211|parts of fruit of fabulous plant
-#25GG211(...)|parts of fruit of fabulous plant (名稱)
-#25GG211(NUTSHELL)|parts of a fruit: nutshell - GG - fantastic plants, fabulous vegetation
+#25G56|其它低等植物
+#25G56(...)|其它低等植物 (名稱)
+#25G6|已經滅絕的植物
+#25G6(...)|已經滅絕的植物 (名稱)
+#25G61|史前植物
+#25G62|化石植物
+#25G7|花卉的語言
+#25GG|幻想中的植物, 傳說中的植被
+#25GG1|傳說中的植物 (in general)
+#25GG11|成組的傳說中的樹
+#25GG12|成組的傳說中的灌木
+#25GG13|成組的傳說中的植物 (草本)
+#25GG14|成組的傳說中的低等植物
+#25GG2|傳說中的植物的一般產品
+#25GG21|傳說中的植物果實 
+#25GG21(...)|傳說中的植物果實 (名稱)
+#25GG21(ACORN)|果實: acorn - GG - 幻想中的植物, 傳說中的植被
+#25GG21(ALMOND)|果實: almond - GG - 幻想中的植物, 傳說中的植被
+#25GG21(APPLE)|果實: apple - GG - 幻想中的植物, 傳說中的植被
+#25GG21(BEANS)|果實: beans - GG - 幻想中的植物, 傳說中的植被
+#25GG21(BILBERRY)|果實: bilberry - GG - 幻想中的植物, 傳說中的植被
+#25GG21(CHERRY)|果實: cherry - GG - 幻想中的植物, 傳說中的植被
+#25GG21(CHESTNUT)|果實: chestnut - GG - 幻想中的植物, 傳說中的植被
+#25GG21(FIG)|果實: fig - GG - 幻想中的植物, 傳說中的植被
+#25GG21(GOURD)|果實: gourd - GG - 幻想中的植物, 傳說中的植被
+#25GG21(LEMON)|果實: lemon - GG - 幻想中的植物, 傳說中的植被
+#25GG21(MEDLAR)|果實: medlar - GG - 幻想中的植物, 傳說中的植被
+#25GG21(MELON)|果實: melon - GG - 幻想中的植物, 傳說中的植被
+#25GG21(NUTS)|果實: nuts - GG - 幻想中的植物, 傳說中的植被
+#25GG21(PEACH)|果實: peach - GG - 幻想中的植物, 傳說中的植被
+#25GG21(PEAR)|果實: pear - GG - 幻想中的植物, 傳說中的植被
+#25GG21(PINE-CONE)|果實: pine-cone - GG - 幻想中的植物, 傳說中的植被
+#25GG21(PINEAPPLE)|果實: pineapple - GG - 幻想中的植物, 傳說中的植被
+#25GG21(PLUM)|果實: plum - GG - 幻想中的植物, 傳說中的植被
+#25GG21(POMEGRANATE)|果實: pomegranate - GG - 幻想中的植物, 傳說中的植被
+#25GG21(PUMPKIN)|果實: pumpkin - GG - 幻想中的植物, 傳說中的植被
+#25GG21(QUINCE)|果實: quince - GG - 幻想中的植物, 傳說中的植被
+#25GG21(SPRUCE-CONE)|果實: spruce-cone - GG - 幻想中的植物, 傳說中的植被
+#25GG21(STRAWBERRY)|果實: strawberry - GG - 幻想中的植物, 傳說中的植被
+#25GG21(WALNUT)|果實: walnut - GG - 幻想中的植物, 傳說中的植被
+#25GG211|傳說中的植物的果實的部分
+#25GG211(...)|傳說中的植物的果實的部分 (名稱)
+#25GG211(NUTSHELL)|parts of a fruit: nutshell - GG - 幻想中的植物, 傳說中的植被
 #25GG2111|seed of fabulous plant
 #25GG2111(...)|seed of fabulous plant (名稱)
-#25GG2111(PEA)|seed: pea - GG - fantastic plants, fabulous vegetation
-#25GG2111(THISTLE-SEED)|seed: thistle-seed - GG - fantastic plants, fabulous vegetation
-#25GG22|(non-fruit) products of fabulous plants or trees
-#25GG22(...)|(non-fruit) products of fabulous plants or trees (名稱)
-#25GG22(ASPARAGUS)|(non-fruit) products of plants or trees: asparagus - GG - fantastic plants, fabulous vegetation
-#25GG22(CINNAMON)|(non-fruit) products of plants or trees: cinnamon - GG - fantastic plants, fabulous vegetation
-#25GG22(ONION)|(non-fruit) products of plants or trees: onion - GG - fantastic plants, fabulous vegetation
-#25GG22(RADISH)|(non-fruit) products of plants or trees: radish - GG - fantastic plants, fabulous vegetation
-#25GG22(TURNIP)|(non-fruit) products of plants or trees: turnip - GG - fantastic plants, fabulous vegetation
+#25GG2111(PEA)|seed: pea - GG - 幻想中的植物, 傳說中的植被
+#25GG2111(THISTLE-SEED)|seed: thistle-seed - GG - 幻想中的植物, 傳說中的植被
+#25GG22|(non-fruit) products of 傳說中的植物 or trees
+#25GG22(...)|(non-fruit) products of 傳說中的植物 or trees (名稱)
+#25GG22(ASPARAGUS)|(非果實類) 植物或樹的產品: asparagus - GG - 幻想中的植物, 傳說中的植被
+#25GG22(CINNAMON)|(非果實類) 植物或樹的產品: cinnamon - GG - 幻想中的植物, 傳說中的植被
+#25GG22(ONION)|(非果實類) 植物或樹的產品: onion - GG - 幻想中的植物, 傳說中的植被
+#25GG22(RADISH)|(非果實類) 植物或樹的產品: radish - GG - 幻想中的植物, 傳說中的植被
+#25GG22(TURNIP)|(非果實類) 植物或樹的產品: turnip - GG - 幻想中的植物, 傳說中的植被
 #25GG3|fabulous trees
 #25GG3(...)|fabulous trees (名稱)
-#25GG3(ACACIA)|trees: acacia - GG - fantastic plants, fabulous vegetation
-#25GG3(ALDER)|trees: alder - GG - fantastic plants, fabulous vegetation
-#25GG3(ALMOND-TREE)|trees: almond-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(APPLE-TREE)|trees: apple-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(AVOCADO)|trees: avocado - GG - fantastic plants, fabulous vegetation
-#25GG3(BEECH)|trees: beech - GG - fantastic plants, fabulous vegetation
-#25GG3(BIRCH)|trees: birch - GG - fantastic plants, fabulous vegetation
-#25GG3(CEDAR)|trees: cedar - GG - fantastic plants, fabulous vegetation
-#25GG3(COCONUT-TREE)|trees: coconut-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(CYPRESS)|trees: cypress - GG - fantastic plants, fabulous vegetation
-#25GG3(DATE-PALM)|trees: date-palm - GG - fantastic plants, fabulous vegetation
-#25GG3(DRACENA)|trees: dracena - GG - fantastic plants, fabulous vegetation
-#25GG3(ELM)|trees: elm - GG - fantastic plants, fabulous vegetation
-#25GG3(FIG-TREE)|trees: fig-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(FIR)|trees: fir - GG - fantastic plants, fabulous vegetation
-#25GG3(HOLM-OAK)|trees: holm-oak - GG - fantastic plants, fabulous vegetation
-#25GG3(LAUREL)|trees: laurel - GG - fantastic plants, fabulous vegetation
-#25GG3(LEMON-TREE)|trees: lemon-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(LINDEN)|trees: linden - GG - fantastic plants, fabulous vegetation
-#25GG3(MULBERRY-TREE)|trees: mulberry-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(MYRRH-TREE)|trees: myrrh-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(OAK)|trees: oak - GG - fantastic plants, fabulous vegetation
-#25GG3(OLIVE-TREE)|trees: olive-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(PALM-TREE)|trees: palm-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(PEACH-TREE)|trees: peach-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(PINE)|trees: pine - GG - fantastic plants, fabulous vegetation
-#25GG3(PLANE-TREE)|trees: plane-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(POMEGRANATE-TREE)|trees: pomegranate-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(POPLAR)|trees: poplar - GG - fantastic plants, fabulous vegetation
-#25GG3(QUINCE-TREE)|trees: quince-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(SPRUCE)|trees: spruce - GG - fantastic plants, fabulous vegetation
-#25GG3(STINKING BEAN TREFOIL)|trees: stinking bean trefoil - GG - fantastic plants, fabulous vegetation
-#25GG3(WALNUT-TREE)|trees: walnut-tree - GG - fantastic plants, fabulous vegetation
-#25GG3(WHITE POPLAR)|trees: white poplar - GG - fantastic plants, fabulous vegetation
-#25GG3(WILLOW)|trees: willow - GG - fantastic plants, fabulous vegetation
-#25GG3(YEW)|trees: yew - GG - fantastic plants, fabulous vegetation
+#25GG3(ACACIA)|trees: 洋槐,合歡樹,相思樹 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(ALDER)|樹: 榿木,赤楊木 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(ALMOND-TREE)|樹: 杏樹,扁桃樹 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(APPLE-TREE)|樹: 蘋果樹 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(AVOCADO)|樹: 鳄梨, 油梨树 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(BEECH)|樹: 山毛櫸 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(BIRCH)|樹: 樺木 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(CEDAR)|樹: 雪松,翠柏,香柏,西洋杉 - GG - 幻想中的植物, 傳說中的植被
+#25GG3(COCONUT-TREE)|樹: coconut-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(CYPRESS)|樹: cypress - GG - 幻想中的植物, 傳說中的植被
+#25GG3(DATE-PALM)|樹: date-palm - GG - 幻想中的植物, 傳說中的植被
+#25GG3(DRACENA)|樹: dracena - GG - 幻想中的植物, 傳說中的植被
+#25GG3(ELM)|樹: elm - GG - 幻想中的植物, 傳說中的植被
+#25GG3(FIG-TREE)|樹: fig-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(FIR)|樹: fir - GG - 幻想中的植物, 傳說中的植被
+#25GG3(HOLM-OAK)|樹: holm-oak - GG - 幻想中的植物, 傳說中的植被
+#25GG3(LAUREL)|樹: laurel - GG - 幻想中的植物, 傳說中的植被
+#25GG3(LEMON-TREE)|樹: lemon-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(LINDEN)|樹: linden - GG - 幻想中的植物, 傳說中的植被
+#25GG3(MULBERRY-TREE)|樹: mulberry-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(MYRRH-TREE)|樹: myrrh-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(OAK)|樹: oak - GG - 幻想中的植物, 傳說中的植被
+#25GG3(OLIVE-TREE)|樹: olive-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(PALM-TREE)|樹: palm-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(PEACH-TREE)|樹: peach-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(PINE)|樹: pine - GG - 幻想中的植物, 傳說中的植被
+#25GG3(PLANE-TREE)|樹: plane-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(POMEGRANATE-TREE)|樹: pomegranate-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(POPLAR)|樹: poplar - GG - 幻想中的植物, 傳說中的植被
+#25GG3(QUINCE-TREE)|樹: quince-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(SPRUCE)|樹: spruce - GG - 幻想中的植物, 傳說中的植被
+#25GG3(STINKING BEAN TREFOIL)|樹: stinking bean trefoil - GG - 幻想中的植物, 傳說中的植被
+#25GG3(WALNUT-TREE)|樹: walnut-tree - GG - 幻想中的植物, 傳說中的植被
+#25GG3(WHITE POPLAR)|樹: white poplar - GG - 幻想中的植物, 傳說中的植被
+#25GG3(WILLOW)|樹: willow - GG - 幻想中的植物, 傳說中的植被
+#25GG3(YEW)|樹: yew - GG - 幻想中的植物, 傳說中的植被
 #25GG31|fabulous shrubs
 #25GG31(...)|fabulous shrubs (名稱)
-#25GG31(BLACKBERRY-BUSH)|shrubs: blackberry-bush - GG - fantastic plants, fabulous vegetation
-#25GG31(BOX)|shrubs: box - GG - fantastic plants, fabulous vegetation
-#25GG31(BROOM)|shrubs: broom - GG - fantastic plants, fabulous vegetation
-#25GG31(BUCKTHORN)|shrubs: buckthorn - GG - fantastic plants, fabulous vegetation
-#25GG31(HAZEL)|shrubs: hazel - GG - fantastic plants, fabulous vegetation
-#25GG31(JUNIPER)|shrubs: juniper - GG - fantastic plants, fabulous vegetation
-#25GG31(MYRTLE)|shrubs: myrtle - GG - fantastic plants, fabulous vegetation
-#25GG31(OLEANDER)|shrubs: oleander - GG - fantastic plants, fabulous vegetation
-#25GG31(PRIVET)|shrubs: privet - GG - fantastic plants, fabulous vegetation
-#25GG31(ROSE-BUSH)|shrubs: rose-bush - GG - fantastic plants, fabulous vegetation
-#25GG39|tree as a scheme of relations, diagram in form of a tree - GG - fantastic plants, fabulous vegetation
-#25GG4|fabulous plants and herbs
-#25GG4(...)|fabulous plants and herbs (名稱)
-#25GG4(ACANTHUS)|plants and herbs: acanthus - GG - fantastic plants, fabulous vegetation
-#25GG4(ALOE)|plants and herbs: aloe - GG - fantastic plants, fabulous vegetation
-#25GG4(AMARANTH)|plants and herbs: amaranth - GG - fantastic plants, fabulous vegetation
-#25GG4(ARTICHOKE)|plants and herbs: artichoke - GG - fantastic plants, fabulous vegetation
-#25GG4(BASIL)|plants and herbs: basil - GG - fantastic plants, fabulous vegetation
-#25GG4(BEAN)|plants and herbs: bean - GG - fantastic plants, fabulous vegetation
-#25GG4(CABBAGE)|plants and herbs: cabbage - GG - fantastic plants, fabulous vegetation
-#25GG4(CAMOMILE)|plants and herbs: camomile - GG - fantastic plants, fabulous vegetation
-#25GG4(CHONDRILLA)|plants and herbs: chondrilla - GG - fantastic plants, fabulous vegetation
-#25GG4(CLOVER)|plants and herbs: clover - GG - fantastic plants, fabulous vegetation
-#25GG4(DICTAMNUS)|plants and herbs: dictamnus - GG - fantastic plants, fabulous vegetation
-#25GG4(FIELD ERYNGO)|plants and herbs: field eryngo - GG - fantastic plants, fabulous vegetation
-#25GG4(FLEA-BANE)|plants and herbs: flea-bane - GG - fantastic plants, fabulous vegetation
-#25GG4(GARLIC)|plants and herbs: garlic - GG - fantastic plants, fabulous vegetation
-#25GG4(GERMANDER)|plants and herbs: germander - GG - fantastic plants, fabulous vegetation
-#25GG4(GIANT FENNEL)|plants and herbs: giant fennel - GG - fantastic plants, fabulous vegetation
-#25GG4(GROUNDSEL)|plants and herbs: groundsel - GG - fantastic plants, fabulous vegetation
-#25GG4(HELLEBORE)|plants and herbs: hellebore - GG - fantastic plants, fabulous vegetation
-#25GG4(HEMLOCK)|plants and herbs: hemlock - GG - fantastic plants, fabulous vegetation
-#25GG4(HENBANE)|plants and herbs: henbane - GG - fantastic plants, fabulous vegetation
-#25GG4(HOP)|plants and herbs: hop - GG - fantastic plants, fabulous vegetation
-#25GG4(HOUSELEEK)|plants and herbs: houseleek - GG - fantastic plants, fabulous vegetation
-#25GG4(HYSSOP)|plants and herbs: hyssop - GG - fantastic plants, fabulous vegetation
-#25GG4(IVY)|plants and herbs: ivy - GG - fantastic plants, fabulous vegetation
-#25GG4(LETTUCE)|plants and herbs: lettuce - GG - fantastic plants, fabulous vegetation
-#25GG4(LUPIN)|plants and herbs: lupin - GG - fantastic plants, fabulous vegetation
-#25GG4(MANDRAKE)|plants and herbs: mandrake - GG - fantastic plants, fabulous vegetation
-#25GG4(MARJORAM)|plants and herbs: marjoram - GG - fantastic plants, fabulous vegetation
-#25GG4(MISTLETOE)|plants and herbs: mistletoe - GG - fantastic plants, fabulous vegetation
-#25GG4(NETTLE)|plants and herbs: nettle - GG - fantastic plants, fabulous vegetation
-#25GG4(ORIGANUM)|plants and herbs: origanum - GG - fantastic plants, fabulous vegetation
-#25GG4(PEA)|plants and herbs: pea - GG - fantastic plants, fabulous vegetation
-#25GG4(PENNYROYAL)|plants and herbs: pennyroyal - GG - fantastic plants, fabulous vegetation
-#25GG4(PEONY)|plants and herbs: peony - GG - fantastic plants, fabulous vegetation
-#25GG4(PUMPKIN)|plants and herbs: pumpkin - GG - fantastic plants, fabulous vegetation
-#25GG4(REED)|plants and herbs: reed - GG - fantastic plants, fabulous vegetation
-#25GG4(ROCKET)|plants and herbs: rocket - GG - fantastic plants, fabulous vegetation
-#25GG4(RUE)|plants and herbs: rue - GG - fantastic plants, fabulous vegetation
-#25GG4(SAFFRON)|plants and herbs: saffron - GG - fantastic plants, fabulous vegetation
-#25GG4(SAGE)|plants and herbs: sage - GG - fantastic plants, fabulous vegetation
-#25GG4(STINGING-NETTLE)|plants and herbs: stinging-nettle - GG - fantastic plants, fabulous vegetation
-#25GG4(STRAWBERRY)|plants and herbs: strawberry - GG - fantastic plants, fabulous vegetation
-#25GG4(SUNDEW)|plants and herbs: sundew - GG - fantastic plants, fabulous vegetation
-#25GG4(THISTLE)|plants and herbs: thistle - GG - fantastic plants, fabulous vegetation
-#25GG4(THYME)|plants and herbs: thyme - GG - fantastic plants, fabulous vegetation
-#25GG4(WATER-HEMLOCK)|plants and herbs: water-hemlock - GG - fantastic plants, fabulous vegetation
-#25GG4(WHEAT)|plants and herbs: wheat - GG - fantastic plants, fabulous vegetation
-#25GG4(WORMWOOD)|plants and herbs: wormwood - GG - fantastic plants, fabulous vegetation
+#25GG31(BLACKBERRY-BUSH)|灌木: blackberry-bush - GG - 幻想中的植物, 傳說中的植被
+#25GG31(BOX)|灌木: box - GG - 幻想中的植物, 傳說中的植被
+#25GG31(BROOM)|灌木: broom - GG - 幻想中的植物, 傳說中的植被
+#25GG31(BUCKTHORN)|灌木: buckthorn - GG - 幻想中的植物, 傳說中的植被
+#25GG31(HAZEL)|灌木: hazel - GG - 幻想中的植物, 傳說中的植被
+#25GG31(JUNIPER)|灌木: juniper - GG - 幻想中的植物, 傳說中的植被
+#25GG31(MYRTLE)|灌木: myrtle - GG - 幻想中的植物, 傳說中的植被
+#25GG31(OLEANDER)|灌木: oleander - GG - 幻想中的植物, 傳說中的植被
+#25GG31(PRIVET)|灌木: privet - GG - 幻想中的植物, 傳說中的植被
+#25GG31(ROSE-BUSH)|灌木: rose-bush - GG - 幻想中的植物, 傳說中的植被
+#25GG39|tree as a scheme of relations, diagram in form of a tree - GG - 幻想中的植物, 傳說中的植被
+#25GG4|fabulous 植物和草本植物
+#25GG4(...)|fabulous 植物和草本植物 (名稱)
+#25GG4(ACANTHUS)|植物和草本植物: acanthus - GG - 幻想中的植物, 傳說中的植被
+#25GG4(ALOE)|植物和草本植物: aloe - GG - 幻想中的植物, 傳說中的植被
+#25GG4(AMARANTH)|植物和草本植物: amaranth - GG - 幻想中的植物, 傳說中的植被
+#25GG4(ARTICHOKE)|植物和草本植物: artichoke - GG - 幻想中的植物, 傳說中的植被
+#25GG4(BASIL)|植物和草本植物: basil - GG - 幻想中的植物, 傳說中的植被
+#25GG4(BEAN)|植物和草本植物: bean - GG - 幻想中的植物, 傳說中的植被
+#25GG4(CABBAGE)|植物和草本植物: cabbage - GG - 幻想中的植物, 傳說中的植被
+#25GG4(CAMOMILE)|植物和草本植物: camomile - GG - 幻想中的植物, 傳說中的植被
+#25GG4(CHONDRILLA)|植物和草本植物: chondrilla - GG - 幻想中的植物, 傳說中的植被
+#25GG4(CLOVER)|植物和草本植物: clover - GG - 幻想中的植物, 傳說中的植被
+#25GG4(DICTAMNUS)|植物和草本植物: dictamnus - GG - 幻想中的植物, 傳說中的植被
+#25GG4(FIELD ERYNGO)|植物和草本植物: field eryngo - GG - 幻想中的植物, 傳說中的植被
+#25GG4(FLEA-BANE)|植物和草本植物: flea-bane - GG - 幻想中的植物, 傳說中的植被
+#25GG4(GARLIC)|植物和草本植物: garlic - GG - 幻想中的植物, 傳說中的植被
+#25GG4(GERMANDER)|植物和草本植物: germander - GG - 幻想中的植物, 傳說中的植被
+#25GG4(GIANT FENNEL)|植物和草本植物: giant fennel - GG - 幻想中的植物, 傳說中的植被
+#25GG4(GROUNDSEL)|植物和草本植物: groundsel - GG - 幻想中的植物, 傳說中的植被
+#25GG4(HELLEBORE)|植物和草本植物: hellebore - GG - 幻想中的植物, 傳說中的植被
+#25GG4(HEMLOCK)|植物和草本植物: hemlock - GG - 幻想中的植物, 傳說中的植被
+#25GG4(HENBANE)|植物和草本植物: henbane - GG - 幻想中的植物, 傳說中的植被
+#25GG4(HOP)|植物和草本植物: hop - GG - 幻想中的植物, 傳說中的植被
+#25GG4(HOUSELEEK)|植物和草本植物: houseleek - GG - 幻想中的植物, 傳說中的植被
+#25GG4(HYSSOP)|植物和草本植物: hyssop - GG - 幻想中的植物, 傳說中的植被
+#25GG4(IVY)|植物和草本植物: ivy - GG - 幻想中的植物, 傳說中的植被
+#25GG4(LETTUCE)|植物和草本植物: lettuce - GG - 幻想中的植物, 傳說中的植被
+#25GG4(LUPIN)|植物和草本植物: lupin - GG - 幻想中的植物, 傳說中的植被
+#25GG4(MANDRAKE)|植物和草本植物: mandrake - GG - 幻想中的植物, 傳說中的植被
+#25GG4(MARJORAM)|植物和草本植物: marjoram - GG - 幻想中的植物, 傳說中的植被
+#25GG4(MISTLETOE)|植物和草本植物: mistletoe - GG - 幻想中的植物, 傳說中的植被
+#25GG4(NETTLE)|植物和草本植物: nettle - GG - 幻想中的植物, 傳說中的植被
+#25GG4(ORIGANUM)|植物和草本植物: origanum - GG - 幻想中的植物, 傳說中的植被
+#25GG4(PEA)|植物和草本植物: pea - GG - 幻想中的植物, 傳說中的植被
+#25GG4(PENNYROYAL)|植物和草本植物: pennyroyal - GG - 幻想中的植物, 傳說中的植被
+#25GG4(PEONY)|植物和草本植物: peony - GG - 幻想中的植物, 傳說中的植被
+#25GG4(PUMPKIN)|植物和草本植物: pumpkin - GG - 幻想中的植物, 傳說中的植被
+#25GG4(REED)|植物和草本植物: reed - GG - 幻想中的植物, 傳說中的植被
+#25GG4(ROCKET)|植物和草本植物: rocket - GG - 幻想中的植物, 傳說中的植被
+#25GG4(RUE)|植物和草本植物: rue - GG - 幻想中的植物, 傳說中的植被
+#25GG4(SAFFRON)|植物和草本植物: saffron - GG - 幻想中的植物, 傳說中的植被
+#25GG4(SAGE)|植物和草本植物: sage - GG - 幻想中的植物, 傳說中的植被
+#25GG4(STINGING-NETTLE)|植物和草本植物: stinging-nettle - GG - 幻想中的植物, 傳說中的植被
+#25GG4(STRAWBERRY)|植物和草本植物: strawberry - GG - 幻想中的植物, 傳說中的植被
+#25GG4(SUNDEW)|植物和草本植物: sundew - GG - 幻想中的植物, 傳說中的植被
+#25GG4(THISTLE)|植物和草本植物: thistle - GG - 幻想中的植物, 傳說中的植被
+#25GG4(THYME)|植物和草本植物: thyme - GG - 幻想中的植物, 傳說中的植被
+#25GG4(WATER-HEMLOCK)|植物和草本植物: water-hemlock - GG - 幻想中的植物, 傳說中的植被
+#25GG4(WHEAT)|植物和草本植物: wheat - GG - 幻想中的植物, 傳說中的植被
+#25GG4(WORMWOOD)|植物和草本植物: wormwood - GG - 幻想中的植物, 傳說中的植被
 #25GG41|fabulous flowers
 #25GG41(...)|fabulous flowers (名稱)
-#25GG41(ALMOND-BLOSSOM)|flowers: almond-blossom - GG - fantastic plants, fabulous vegetation
-#25GG41(ANEMONE)|flowers: anemone - GG - fantastic plants, fabulous vegetation
-#25GG41(BUTTERCUP)|flowers: buttercup - GG - fantastic plants, fabulous vegetation
-#25GG41(CARNATION)|flowers: carnation - GG - fantastic plants, fabulous vegetation
-#25GG41(COLUMBINE)|flowers: columbine - GG - fantastic plants, fabulous vegetation
-#25GG41(CROCUS)|flowers: crocus - GG - fantastic plants, fabulous vegetation
-#25GG41(HELIOTROPE)|flowers: heliotrope - GG - fantastic plants, fabulous vegetation
-#25GG41(HYACINTH)|flowers: hyacinth - GG - fantastic plants, fabulous vegetation
-#25GG41(IMMORTELLE)|flowers: immortelle - GG - fantastic plants, fabulous vegetation
-#25GG41(LILY)|flowers: lily - GG - fantastic plants, fabulous vegetation
-#25GG41(LOTUS)|flowers: lotus - GG - fantastic plants, fabulous vegetation
-#25GG41(NARCISSUS)|flowers: narcissus - GG - fantastic plants, fabulous vegetation
-#25GG41(ORCHID)|flowers: orchid - GG - fantastic plants, fabulous vegetation
-#25GG41(PETUNIA)|flowers: petunia - GG - fantastic plants, fabulous vegetation
-#25GG41(POPPY)|flowers: poppy - GG - fantastic plants, fabulous vegetation
-#25GG41(ROSE)|flowers: rose - GG - fantastic plants, fabulous vegetation
-#25GG41(SUNFLOWER)|flowers: sunflower - GG - fantastic plants, fabulous vegetation
-#25GG41(TULIP)|flowers: tulip - GG - fantastic plants, fabulous vegetation
-#25GG41(VIOLET)|flowers: violet - GG - fantastic plants, fabulous vegetation
-#25GG41(WATER-LILY)|flowers: water-lily - GG - fantastic plants, fabulous vegetation
+#25GG41(ALMOND-BLOSSOM)|花卉: almond-blossom - GG - 幻想中的植物, 傳說中的植被
+#25GG41(ANEMONE)|花卉: anemone - GG - 幻想中的植物, 傳說中的植被
+#25GG41(BUTTERCUP)|花卉: buttercup - GG - 幻想中的植物, 傳說中的植被
+#25GG41(CARNATION)|花卉: carnation - GG - 幻想中的植物, 傳說中的植被
+#25GG41(COLUMBINE)|花卉: columbine - GG - 幻想中的植物, 傳說中的植被
+#25GG41(CROCUS)|花卉: crocus - GG - 幻想中的植物, 傳說中的植被
+#25GG41(HELIOTROPE)|花卉: heliotrope - GG - 幻想中的植物, 傳說中的植被
+#25GG41(HYACINTH)|花卉: hyacinth - GG - 幻想中的植物, 傳說中的植被
+#25GG41(IMMORTELLE)|花卉: immortelle - GG - 幻想中的植物, 傳說中的植被
+#25GG41(LILY)|花卉: lily - GG - 幻想中的植物, 傳說中的植被
+#25GG41(LOTUS)|花卉: lotus - GG - 幻想中的植物, 傳說中的植被
+#25GG41(NARCISSUS)|花卉: narcissus - GG - 幻想中的植物, 傳說中的植被
+#25GG41(ORCHID)|花卉: orchid - GG - 幻想中的植物, 傳說中的植被
+#25GG41(PETUNIA)|花卉: petunia - GG - 幻想中的植物, 傳說中的植被
+#25GG41(POPPY)|花卉: poppy - GG - 幻想中的植物, 傳說中的植被
+#25GG41(ROSE)|花卉: rose - GG - 幻想中的植物, 傳說中的植被
+#25GG41(SUNFLOWER)|花卉: sunflower - GG - 幻想中的植物, 傳說中的植被
+#25GG41(TULIP)|花卉: tulip - GG - 幻想中的植物, 傳說中的植被
+#25GG41(VIOLET)|花卉: violet - GG - 幻想中的植物, 傳說中的植被
+#25GG41(WATER-LILY)|花卉: water-lily - GG - 幻想中的植物, 傳說中的植被
 #25GG411|cut fabulous flowers; nosegay, bunch of fabulous flowers
-#25GG411(...)|cut flowers; nosegay, bunch of flowers (名稱) - GG - fantastic plants, fabulous vegetation
+#25GG411(...)|cut 花卉; nosegay, bunch of flowers (名稱) - GG - 幻想中的植物, 傳說中的植被
 #25GG412|dried fabulous flowers
-#25GG412(...)|dried flowers (名稱) - GG - fantastic plants, fabulous vegetation
-#25GG49|artificial fabulous plants and flowers
+#25GG412(...)|dried flowers (名稱) - GG - 幻想中的植物, 傳說中的植被
+#25GG49|artificial 傳說中的植物 and flowers
 #25GG5|fabulous lower plants
 #25GG51|fabulous ferns
 #25GG52|fabulous mosses
@@ -1790,12 +1790,12 @@
 #25GG541|fabulous mushroom, fairy mushroom
 #25GG55|fabulous lichens
 #25GG56|其它 fabulous lower plants
-#25GG56(...)|其它 lower plants (名稱) - GG - fantastic plants, fabulous vegetation
-#25GG6|extinct plants - GG - fantastic plants, fabulous vegetation
-#25GG6(...)|extinct plants (名稱) - GG - fantastic plants, fabulous vegetation
-#25GG61|prehistoric plants - GG - fantastic plants, fabulous vegetation
-#25GG62|fossil plants - GG - fantastic plants, fabulous vegetation
-#25GG7|language of flowers - GG - fantastic plants, fabulous vegetation
+#25GG56(...)|其它 lower plants (名稱) - GG - 幻想中的植物, 傳說中的植被
+#25GG6|extinct plants - GG - 幻想中的植物, 傳說中的植被
+#25GG6(...)|extinct plants (名稱) - GG - 幻想中的植物, 傳說中的植被
+#25GG61|prehistoric plants - GG - 幻想中的植物, 傳說中的植被
+#25GG62|fossil plants - GG - 幻想中的植物, 傳說中的植被
+#25GG7|language of 花卉 - GG - 幻想中的植物, 傳說中的植被
 25H|风景
 #25H1|landscapes in the temperate zone
 #25H11|mountains
@@ -1840,7 +1840,7 @@
 #25H15|forest, wood
 #25H151|deciduous forest
 #25H152|forest of coniferous trees
-#25H153|bush, shrubs ~ forest
+#25H153|bush, 灌木 ~ forest
 #25H154|glade, 'Lichtung im Wald'
 #25H155|fringe, edge of the wood
 #25H156|forest path or lane
@@ -1849,7 +1849,7 @@
 #25H161|grasslands, savanna, prairie
 #25H17|meadow, pasture
 #25H171|mountain meadow, alp
-#25H172|'locus amoenus' motif; pleasant place with trees (~ taste), meadows (~ sight), spring or brook (~ feeling), singing birds (~ hearing) and flowers (~ smell)
+#25H172|'locus amoenus' motif; pleasant place with trees (~ taste), meadows (~ sight), spring or brook (~ feeling), singing birds (~ hearing) and 花卉 (~ smell)
 #25H18|cultivated land
 #25H181|waste land, no man's land
 #25H182|ploughed field
@@ -1978,7 +1978,7 @@
 #25HH15|forest, wood - HH - ideal landscapes
 #25HH151|deciduous forest - HH - ideal landscapes
 #25HH152|forest of coniferous trees - HH - ideal landscapes
-#25HH153|bush, shrubs ~ forest - HH - ideal landscapes
+#25HH153|bush, 灌木 ~ forest - HH - ideal landscapes
 #25HH154|glade, 'Lichtung im Wald' - HH - ideal landscapes
 #25HH155|fringe, edge of the wood - HH - ideal landscapes
 #25HH156|forest path or lane - HH - ideal landscapes
@@ -1987,7 +1987,7 @@
 #25HH161|grasslands, savanna, prairie - HH - ideal landscapes
 #25HH17|meadow, pasture - HH - ideal landscapes
 #25HH171|mountain meadow, alp - HH - ideal landscapes
-#25HH172|'locus amoenus' motif; pleasant place with trees (~ taste), meadows (~ sight), spring or brook (~ feeling), singing birds (~ hearing) and flowers (~ smell) - HH - ideal landscapes
+#25HH172|'locus amoenus' motif; pleasant place with trees (~ taste), meadows (~ sight), spring or brook (~ feeling), singing birds (~ hearing) and 花卉 (~ smell) - HH - ideal landscapes
 #25HH18|cultivated land - HH - ideal landscapes
 #25HH181|waste land, no man's land - HH - ideal landscapes
 #25HH19|swamps and polders - HH - ideal landscapes
