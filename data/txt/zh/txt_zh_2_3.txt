@@ -1445,7 +1445,7 @@
 25G211(NUTSHELL)|果實的部分: 堅果殼
 25G2111|籽
 25G2111(...)|籽 (名稱)
-25G2111(PEA)|籽: 豆
+25G2111(PEA)|籽: 豌豆
 25G2111(THISTLE-SEED)|籽: 薊子
 25G22|(非果實類) 植物或樹的產品
 25G22(...)|(非果實類) 植物或樹的產品 (名稱)
@@ -1514,289 +1514,289 @@
 25G31(ROSE-BUSH)|灌木: 玫瑰灌木叢
 25G39|作為圖解關係的樹木, 樹形圖表
 25G391|哲學之樹 (Arbor philosophicus) ~ 煉金術
-#25G4|植物和草本植物
-#25G4(...)|植物和草本植物 (名稱)
-#25G4(ACANTHUS)|植物和草本植物: acanthus
-#25G4(ALOE)|植物和草本植物: aloe
-#25G4(AMARANTH)|植物和草本植物: amaranth
-#25G4(ARTICHOKE)|植物和草本植物: artichoke
-#25G4(BASIL)|植物和草本植物: basil
-#25G4(BEAN)|植物和草本植物: bean
-#25G4(CABBAGE)|植物和草本植物: cabbage
-#25G4(CACTUS)|植物和草本植物: cactus
-#25G4(CAMOMILE)|植物和草本植物: camomile
-#25G4(CHONDRILLA)|植物和草本植物: chondrilla
-#25G4(CLOVER)|植物和草本植物: clover
-#25G4(DICTAMNUS)|植物和草本植物: dictamnus
-#25G4(FIELD ERYNGO)|植物和草本植物: field eryngo
-#25G4(FLEA-BANE)|植物和草本植物: flea-bane
-#25G4(GARLIC)|植物和草本植物: garlic
-#25G4(GERMANDER)|植物和草本植物: germander
-#25G4(GIANT FENNEL)|植物和草本植物: giant fennel
-#25G4(GROUNDSEL)|植物和草本植物: groundsel
-#25G4(HELLEBORE)|植物和草本植物: hellebore
-#25G4(HEMLOCK)|植物和草本植物: hemlock
-#25G4(HENBANE)|植物和草本植物: henbane
-#25G4(HOP)|植物和草本植物: hop
-#25G4(HOUSELEEK)|植物和草本植物: houseleek
-#25G4(HYSSOP)|植物和草本植物: hyssop
-#25G4(IVY)|植物和草本植物: ivy
-#25G4(LETTUCE)|植物和草本植物: lettuce
-#25G4(LUPIN)|植物和草本植物: lupin
-#25G4(MANDRAKE)|植物和草本植物: mandrake
-#25G4(MARJORAM)|植物和草本植物: marjoram
-#25G4(MISTLETOE)|植物和草本植物: mistletoe
-#25G4(NETTLE)|植物和草本植物: nettle
-#25G4(ORIGANUM)|植物和草本植物: origanum
-#25G4(PEA)|植物和草本植物: pea
-#25G4(PENNYROYAL)|植物和草本植物: pennyroyal
-#25G4(PEONY)|植物和草本植物: peony
-#25G4(PUMPKIN)|植物和草本植物: pumpkin
-#25G4(REED)|植物和草本植物: reed
-#25G4(ROCKET)|植物和草本植物: rocket
-#25G4(RUE)|植物和草本植物: rue
-#25G4(SAFFRON)|植物和草本植物: saffron
-#25G4(SAGE)|植物和草本植物: sage
-#25G4(STINGING-NETTLE)|植物和草本植物: stinging-nettle
-#25G4(STRAWBERRY)|植物和草本植物: strawberry
-#25G4(SUNDEW)|植物和草本植物: sundew
-#25G4(THISTLE)|植物和草本植物: thistle
-#25G4(THYME)|植物和草本植物: thyme
-#25G4(WATER-HEMLOCK)|植物和草本植物: water-hemlock
-#25G4(WHEAT)|植物和草本植物: wheat
-#25G4(WORMWOOD)|植物和草本植物: wormwood
-#25G41|花卉
-#25G41(...)|花卉 (名稱)
-#25G41(ALMOND-BLOSSOM)|花卉: almond-blossom
-#25G41(ANEMONE)|花卉: anemone
-#25G41(BUTTERCUP)|花卉: buttercup
-#25G41(CARNATION)|花卉: carnation
-#25G41(COLUMBINE)|花卉: columbine
-#25G41(CROCUS)|花卉: crocus
-#25G41(HELIOTROPE)|花卉: heliotrope
-#25G41(HYACINTH)|花卉: hyacinth
-#25G41(IMMORTELLE)|花卉: immortelle
-#25G41(LILY)|花卉: lily
-#25G41(LOTUS)|花卉: 蓮花,荷花
-#25G41(NARCISSUS)|花卉: 水仙花
-#25G41(ORCHID)|花卉: 蘭花
-#25G41(PETUNIA)|花卉: petunia
-#25G41(POPPY)|花卉: 罌粟花
-#25G41(ROSE)|花卉: 玫瑰花
-#25G41(SUNFLOWER)|花卉: 葵花
-#25G41(TULIP)|花卉: 鬱金香
-#25G41(VIOLET)|花卉: violet
-#25G41(WATER-LILY)|花卉: 睡蓮
-#25G411|cut 花卉; nosegay, bunch of flowers
-#25G411(...)|折枝花卉; nosegay, 束花 (名稱)
-#25G4111|花環,花冠,花圈
-#25G412|dried 花卉
-#25G412(...)|dried 花卉 (名稱)
-#25G49|artificial plants and 花卉
-#25G5|lower plants
-#25G51|ferns
-#25G52|mosses
-#25G53|algae, seaweed
-#25G54|fungi
-#25G541|mushrooms
-#25G55|lichens
-#25G56|其它低等植物
-#25G56(...)|其它低等植物 (名稱)
-#25G6|已經滅絕的植物
-#25G6(...)|已經滅絕的植物 (名稱)
-#25G61|史前植物
-#25G62|化石植物
-#25G7|花卉的語言
-#25GG|幻想中的植物, 傳說中的植被
-#25GG1|傳說中的植物 (in general)
-#25GG11|成組的傳說中的樹
-#25GG12|成組的傳說中的灌木
-#25GG13|成組的傳說中的植物 (草本)
-#25GG14|成組的傳說中的低等植物
-#25GG2|傳說中的植物的一般產品
-#25GG21|傳說中的植物果實 
-#25GG21(...)|傳說中的植物果實 (名稱)
-#25GG21(ACORN)|果實: acorn - GG - 幻想中的植物, 傳說中的植被
-#25GG21(ALMOND)|果實: almond - GG - 幻想中的植物, 傳說中的植被
-#25GG21(APPLE)|果實: apple - GG - 幻想中的植物, 傳說中的植被
-#25GG21(BEANS)|果實: beans - GG - 幻想中的植物, 傳說中的植被
-#25GG21(BILBERRY)|果實: bilberry - GG - 幻想中的植物, 傳說中的植被
-#25GG21(CHERRY)|果實: cherry - GG - 幻想中的植物, 傳說中的植被
-#25GG21(CHESTNUT)|果實: chestnut - GG - 幻想中的植物, 傳說中的植被
-#25GG21(FIG)|果實: fig - GG - 幻想中的植物, 傳說中的植被
-#25GG21(GOURD)|果實: gourd - GG - 幻想中的植物, 傳說中的植被
-#25GG21(LEMON)|果實: lemon - GG - 幻想中的植物, 傳說中的植被
-#25GG21(MEDLAR)|果實: medlar - GG - 幻想中的植物, 傳說中的植被
-#25GG21(MELON)|果實: melon - GG - 幻想中的植物, 傳說中的植被
-#25GG21(NUTS)|果實: nuts - GG - 幻想中的植物, 傳說中的植被
-#25GG21(PEACH)|果實: peach - GG - 幻想中的植物, 傳說中的植被
-#25GG21(PEAR)|果實: pear - GG - 幻想中的植物, 傳說中的植被
-#25GG21(PINE-CONE)|果實: pine-cone - GG - 幻想中的植物, 傳說中的植被
-#25GG21(PINEAPPLE)|果實: pineapple - GG - 幻想中的植物, 傳說中的植被
-#25GG21(PLUM)|果實: plum - GG - 幻想中的植物, 傳說中的植被
-#25GG21(POMEGRANATE)|果實: pomegranate - GG - 幻想中的植物, 傳說中的植被
-#25GG21(PUMPKIN)|果實: pumpkin - GG - 幻想中的植物, 傳說中的植被
-#25GG21(QUINCE)|果實: quince - GG - 幻想中的植物, 傳說中的植被
-#25GG21(SPRUCE-CONE)|果實: spruce-cone - GG - 幻想中的植物, 傳說中的植被
-#25GG21(STRAWBERRY)|果實: strawberry - GG - 幻想中的植物, 傳說中的植被
-#25GG21(WALNUT)|果實: walnut - GG - 幻想中的植物, 傳說中的植被
-#25GG211|傳說中的植物的果實的部分
-#25GG211(...)|傳說中的植物的果實的部分 (名稱)
-#25GG211(NUTSHELL)|parts of a fruit: nutshell - GG - 幻想中的植物, 傳說中的植被
-#25GG2111|seed of fabulous plant
-#25GG2111(...)|seed of fabulous plant (名稱)
-#25GG2111(PEA)|seed: pea - GG - 幻想中的植物, 傳說中的植被
-#25GG2111(THISTLE-SEED)|seed: thistle-seed - GG - 幻想中的植物, 傳說中的植被
-#25GG22|(non-fruit) products of 傳說中的植物 or trees
-#25GG22(...)|(non-fruit) products of 傳說中的植物 or trees (名稱)
-#25GG22(ASPARAGUS)|(非果實類) 植物或樹的產品: asparagus - GG - 幻想中的植物, 傳說中的植被
-#25GG22(CINNAMON)|(非果實類) 植物或樹的產品: cinnamon - GG - 幻想中的植物, 傳說中的植被
-#25GG22(ONION)|(非果實類) 植物或樹的產品: onion - GG - 幻想中的植物, 傳說中的植被
-#25GG22(RADISH)|(非果實類) 植物或樹的產品: radish - GG - 幻想中的植物, 傳說中的植被
-#25GG22(TURNIP)|(非果實類) 植物或樹的產品: turnip - GG - 幻想中的植物, 傳說中的植被
-#25GG3|fabulous trees
-#25GG3(...)|fabulous trees (名稱)
-#25GG3(ACACIA)|trees: 洋槐,合歡樹,相思樹 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(ALDER)|樹: 榿木,赤楊木 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(ALMOND-TREE)|樹: 杏樹,扁桃樹 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(APPLE-TREE)|樹: 蘋果樹 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(AVOCADO)|樹: 鳄梨, 油梨树 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(BEECH)|樹: 山毛櫸 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(BIRCH)|樹: 樺木 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(CEDAR)|樹: 雪松,翠柏,香柏,西洋杉 - GG - 幻想中的植物, 傳說中的植被
-#25GG3(COCONUT-TREE)|樹: coconut-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(CYPRESS)|樹: cypress - GG - 幻想中的植物, 傳說中的植被
-#25GG3(DATE-PALM)|樹: date-palm - GG - 幻想中的植物, 傳說中的植被
-#25GG3(DRACENA)|樹: dracena - GG - 幻想中的植物, 傳說中的植被
-#25GG3(ELM)|樹: elm - GG - 幻想中的植物, 傳說中的植被
-#25GG3(FIG-TREE)|樹: fig-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(FIR)|樹: fir - GG - 幻想中的植物, 傳說中的植被
-#25GG3(HOLM-OAK)|樹: holm-oak - GG - 幻想中的植物, 傳說中的植被
-#25GG3(LAUREL)|樹: laurel - GG - 幻想中的植物, 傳說中的植被
-#25GG3(LEMON-TREE)|樹: lemon-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(LINDEN)|樹: linden - GG - 幻想中的植物, 傳說中的植被
-#25GG3(MULBERRY-TREE)|樹: mulberry-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(MYRRH-TREE)|樹: myrrh-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(OAK)|樹: oak - GG - 幻想中的植物, 傳說中的植被
-#25GG3(OLIVE-TREE)|樹: olive-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(PALM-TREE)|樹: palm-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(PEACH-TREE)|樹: peach-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(PINE)|樹: pine - GG - 幻想中的植物, 傳說中的植被
-#25GG3(PLANE-TREE)|樹: plane-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(POMEGRANATE-TREE)|樹: pomegranate-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(POPLAR)|樹: poplar - GG - 幻想中的植物, 傳說中的植被
-#25GG3(QUINCE-TREE)|樹: quince-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(SPRUCE)|樹: spruce - GG - 幻想中的植物, 傳說中的植被
-#25GG3(STINKING BEAN TREFOIL)|樹: stinking bean trefoil - GG - 幻想中的植物, 傳說中的植被
-#25GG3(WALNUT-TREE)|樹: walnut-tree - GG - 幻想中的植物, 傳說中的植被
-#25GG3(WHITE POPLAR)|樹: white poplar - GG - 幻想中的植物, 傳說中的植被
-#25GG3(WILLOW)|樹: willow - GG - 幻想中的植物, 傳說中的植被
-#25GG3(YEW)|樹: yew - GG - 幻想中的植物, 傳說中的植被
-#25GG31|fabulous shrubs
-#25GG31(...)|fabulous shrubs (名稱)
-#25GG31(BLACKBERRY-BUSH)|灌木: blackberry-bush - GG - 幻想中的植物, 傳說中的植被
-#25GG31(BOX)|灌木: box - GG - 幻想中的植物, 傳說中的植被
-#25GG31(BROOM)|灌木: broom - GG - 幻想中的植物, 傳說中的植被
-#25GG31(BUCKTHORN)|灌木: buckthorn - GG - 幻想中的植物, 傳說中的植被
-#25GG31(HAZEL)|灌木: hazel - GG - 幻想中的植物, 傳說中的植被
-#25GG31(JUNIPER)|灌木: juniper - GG - 幻想中的植物, 傳說中的植被
-#25GG31(MYRTLE)|灌木: myrtle - GG - 幻想中的植物, 傳說中的植被
-#25GG31(OLEANDER)|灌木: oleander - GG - 幻想中的植物, 傳說中的植被
-#25GG31(PRIVET)|灌木: privet - GG - 幻想中的植物, 傳說中的植被
-#25GG31(ROSE-BUSH)|灌木: rose-bush - GG - 幻想中的植物, 傳說中的植被
-#25GG39|tree as a scheme of relations, diagram in form of a tree - GG - 幻想中的植物, 傳說中的植被
-#25GG4|fabulous 植物和草本植物
-#25GG4(...)|fabulous 植物和草本植物 (名稱)
-#25GG4(ACANTHUS)|植物和草本植物: acanthus - GG - 幻想中的植物, 傳說中的植被
-#25GG4(ALOE)|植物和草本植物: aloe - GG - 幻想中的植物, 傳說中的植被
-#25GG4(AMARANTH)|植物和草本植物: amaranth - GG - 幻想中的植物, 傳說中的植被
-#25GG4(ARTICHOKE)|植物和草本植物: artichoke - GG - 幻想中的植物, 傳說中的植被
-#25GG4(BASIL)|植物和草本植物: basil - GG - 幻想中的植物, 傳說中的植被
-#25GG4(BEAN)|植物和草本植物: bean - GG - 幻想中的植物, 傳說中的植被
-#25GG4(CABBAGE)|植物和草本植物: cabbage - GG - 幻想中的植物, 傳說中的植被
-#25GG4(CAMOMILE)|植物和草本植物: camomile - GG - 幻想中的植物, 傳說中的植被
-#25GG4(CHONDRILLA)|植物和草本植物: chondrilla - GG - 幻想中的植物, 傳說中的植被
-#25GG4(CLOVER)|植物和草本植物: clover - GG - 幻想中的植物, 傳說中的植被
-#25GG4(DICTAMNUS)|植物和草本植物: dictamnus - GG - 幻想中的植物, 傳說中的植被
-#25GG4(FIELD ERYNGO)|植物和草本植物: field eryngo - GG - 幻想中的植物, 傳說中的植被
-#25GG4(FLEA-BANE)|植物和草本植物: flea-bane - GG - 幻想中的植物, 傳說中的植被
-#25GG4(GARLIC)|植物和草本植物: garlic - GG - 幻想中的植物, 傳說中的植被
-#25GG4(GERMANDER)|植物和草本植物: germander - GG - 幻想中的植物, 傳說中的植被
-#25GG4(GIANT FENNEL)|植物和草本植物: giant fennel - GG - 幻想中的植物, 傳說中的植被
-#25GG4(GROUNDSEL)|植物和草本植物: groundsel - GG - 幻想中的植物, 傳說中的植被
-#25GG4(HELLEBORE)|植物和草本植物: hellebore - GG - 幻想中的植物, 傳說中的植被
-#25GG4(HEMLOCK)|植物和草本植物: hemlock - GG - 幻想中的植物, 傳說中的植被
-#25GG4(HENBANE)|植物和草本植物: henbane - GG - 幻想中的植物, 傳說中的植被
-#25GG4(HOP)|植物和草本植物: hop - GG - 幻想中的植物, 傳說中的植被
-#25GG4(HOUSELEEK)|植物和草本植物: houseleek - GG - 幻想中的植物, 傳說中的植被
-#25GG4(HYSSOP)|植物和草本植物: hyssop - GG - 幻想中的植物, 傳說中的植被
-#25GG4(IVY)|植物和草本植物: ivy - GG - 幻想中的植物, 傳說中的植被
-#25GG4(LETTUCE)|植物和草本植物: lettuce - GG - 幻想中的植物, 傳說中的植被
-#25GG4(LUPIN)|植物和草本植物: lupin - GG - 幻想中的植物, 傳說中的植被
-#25GG4(MANDRAKE)|植物和草本植物: mandrake - GG - 幻想中的植物, 傳說中的植被
-#25GG4(MARJORAM)|植物和草本植物: marjoram - GG - 幻想中的植物, 傳說中的植被
-#25GG4(MISTLETOE)|植物和草本植物: mistletoe - GG - 幻想中的植物, 傳說中的植被
-#25GG4(NETTLE)|植物和草本植物: nettle - GG - 幻想中的植物, 傳說中的植被
-#25GG4(ORIGANUM)|植物和草本植物: origanum - GG - 幻想中的植物, 傳說中的植被
-#25GG4(PEA)|植物和草本植物: pea - GG - 幻想中的植物, 傳說中的植被
-#25GG4(PENNYROYAL)|植物和草本植物: pennyroyal - GG - 幻想中的植物, 傳說中的植被
-#25GG4(PEONY)|植物和草本植物: peony - GG - 幻想中的植物, 傳說中的植被
-#25GG4(PUMPKIN)|植物和草本植物: pumpkin - GG - 幻想中的植物, 傳說中的植被
-#25GG4(REED)|植物和草本植物: reed - GG - 幻想中的植物, 傳說中的植被
-#25GG4(ROCKET)|植物和草本植物: rocket - GG - 幻想中的植物, 傳說中的植被
-#25GG4(RUE)|植物和草本植物: rue - GG - 幻想中的植物, 傳說中的植被
-#25GG4(SAFFRON)|植物和草本植物: saffron - GG - 幻想中的植物, 傳說中的植被
-#25GG4(SAGE)|植物和草本植物: sage - GG - 幻想中的植物, 傳說中的植被
-#25GG4(STINGING-NETTLE)|植物和草本植物: stinging-nettle - GG - 幻想中的植物, 傳說中的植被
-#25GG4(STRAWBERRY)|植物和草本植物: strawberry - GG - 幻想中的植物, 傳說中的植被
-#25GG4(SUNDEW)|植物和草本植物: sundew - GG - 幻想中的植物, 傳說中的植被
-#25GG4(THISTLE)|植物和草本植物: thistle - GG - 幻想中的植物, 傳說中的植被
-#25GG4(THYME)|植物和草本植物: thyme - GG - 幻想中的植物, 傳說中的植被
-#25GG4(WATER-HEMLOCK)|植物和草本植物: water-hemlock - GG - 幻想中的植物, 傳說中的植被
-#25GG4(WHEAT)|植物和草本植物: wheat - GG - 幻想中的植物, 傳說中的植被
-#25GG4(WORMWOOD)|植物和草本植物: wormwood - GG - 幻想中的植物, 傳說中的植被
-#25GG41|fabulous flowers
-#25GG41(...)|fabulous flowers (名稱)
-#25GG41(ALMOND-BLOSSOM)|花卉: almond-blossom - GG - 幻想中的植物, 傳說中的植被
-#25GG41(ANEMONE)|花卉: anemone - GG - 幻想中的植物, 傳說中的植被
-#25GG41(BUTTERCUP)|花卉: buttercup - GG - 幻想中的植物, 傳說中的植被
-#25GG41(CARNATION)|花卉: carnation - GG - 幻想中的植物, 傳說中的植被
-#25GG41(COLUMBINE)|花卉: columbine - GG - 幻想中的植物, 傳說中的植被
-#25GG41(CROCUS)|花卉: crocus - GG - 幻想中的植物, 傳說中的植被
-#25GG41(HELIOTROPE)|花卉: heliotrope - GG - 幻想中的植物, 傳說中的植被
-#25GG41(HYACINTH)|花卉: hyacinth - GG - 幻想中的植物, 傳說中的植被
-#25GG41(IMMORTELLE)|花卉: immortelle - GG - 幻想中的植物, 傳說中的植被
-#25GG41(LILY)|花卉: lily - GG - 幻想中的植物, 傳說中的植被
-#25GG41(LOTUS)|花卉: lotus - GG - 幻想中的植物, 傳說中的植被
-#25GG41(NARCISSUS)|花卉: narcissus - GG - 幻想中的植物, 傳說中的植被
-#25GG41(ORCHID)|花卉: orchid - GG - 幻想中的植物, 傳說中的植被
-#25GG41(PETUNIA)|花卉: petunia - GG - 幻想中的植物, 傳說中的植被
-#25GG41(POPPY)|花卉: poppy - GG - 幻想中的植物, 傳說中的植被
-#25GG41(ROSE)|花卉: rose - GG - 幻想中的植物, 傳說中的植被
-#25GG41(SUNFLOWER)|花卉: sunflower - GG - 幻想中的植物, 傳說中的植被
-#25GG41(TULIP)|花卉: tulip - GG - 幻想中的植物, 傳說中的植被
-#25GG41(VIOLET)|花卉: violet - GG - 幻想中的植物, 傳說中的植被
-#25GG41(WATER-LILY)|花卉: water-lily - GG - 幻想中的植物, 傳說中的植被
-#25GG411|cut fabulous flowers; nosegay, bunch of fabulous flowers
-#25GG411(...)|cut 花卉; nosegay, bunch of flowers (名稱) - GG - 幻想中的植物, 傳說中的植被
-#25GG412|dried fabulous flowers
-#25GG412(...)|dried flowers (名稱) - GG - 幻想中的植物, 傳說中的植被
-#25GG49|artificial 傳說中的植物 and flowers
-#25GG5|fabulous lower plants
-#25GG51|fabulous ferns
-#25GG52|fabulous mosses
-#25GG53|fabulous algae, seaweed
-#25GG54|fabulous fungi
-#25GG541|fabulous mushroom, fairy mushroom
-#25GG55|fabulous lichens
-#25GG56|其它 fabulous lower plants
-#25GG56(...)|其它 lower plants (名稱) - GG - 幻想中的植物, 傳說中的植被
-#25GG6|extinct plants - GG - 幻想中的植物, 傳說中的植被
-#25GG6(...)|extinct plants (名稱) - GG - 幻想中的植物, 傳說中的植被
-#25GG61|prehistoric plants - GG - 幻想中的植物, 傳說中的植被
-#25GG62|fossil plants - GG - 幻想中的植物, 傳說中的植被
-#25GG7|language of 花卉 - GG - 幻想中的植物, 傳說中的植被
-25H|风景
+25G4|植物和草本植物
+25G4(...)|植物和草本植物 (名稱)
+25G4(ACANTHUS)|植物和草本植物: 莨苕
+25G4(ALOE)|植物和草本植物: 蘆薈
+25G4(AMARANTH)|植物和草本植物: 紫心蘇,莧菜
+25G4(ARTICHOKE)|植物和草本植物: 朝鮮薊,洋薊
+25G4(BASIL)|植物和草本植物: 羅勒
+25G4(BEAN)|植物和草本植物: 豆
+25G4(CABBAGE)|植物和草本植物: 卷心菜,包菜
+25G4(CACTUS)|植物和草本植物: 仙人掌
+25G4(CAMOMILE)|植物和草本植物: 甘菊,春黃菊
+25G4(CHONDRILLA)|植物和草本植物: 軟海綿
+25G4(CLOVER)|植物和草本植物: 四葉苜蓿,幸運草
+25G4(DICTAMNUS)|植物和草本植物: 白蘚
+25G4(FIELD ERYNGO)|植物和草本植物: 野刺芹
+25G4(FLEA-BANE)|植物和草本植物: 蒿,紫莞
+25G4(GARLIC)|植物和草本植物: 蒜
+25G4(GERMANDER)|植物和草本植物: 石蠶
+25G4(GIANT FENNEL)|植物和草本植物: 大茴香
+25G4(GROUNDSEL)|植物和草本植物: 千里光草
+25G4(HELLEBORE)|植物和草本植物: 黑黎蘆,鹿食草
+25G4(HEMLOCK)|植物和草本植物: 毒芹
+25G4(HENBANE)|植物和草本植物: 天仙子,莨菪
+25G4(HOP)|植物和草本植物: 蛇麻草
+25G4(HOUSELEEK)|植物和草本植物: 長生草
+25G4(HYSSOP)|植物和草本植物: 牛膝草
+25G4(IVY)|植物和草本植物: 長春藤
+25G4(LETTUCE)|植物和草本植物: 萵苣,生菜
+25G4(LUPIN)|植物和草本植物: 羽扇豆
+25G4(MANDRAKE)|植物和草本植物: 茄參
+25G4(MARJORAM)|植物和草本植物: 馬郁蘭
+25G4(MISTLETOE)|植物和草本植物: 槲寄生
+25G4(NETTLE)|植物和草本植物: 蕁麻
+25G4(ORIGANUM)|植物和草本植物: 牛至
+25G4(PEA)|植物和草本植物: 豌豆
+25G4(PENNYROYAL)|植物和草本植物: 薄荷
+25G4(PEONY)|植物和草本植物: 牡丹,芍藥
+25G4(PUMPKIN)|植物和草本植物: 南瓜
+25G4(REED)|植物和草本植物: 蘆葦
+25G4(ROCKET)|植物和草本植物: 芝麻菜,大蒜芥
+25G4(RUE)|植物和草本植物: 芸香
+25G4(SAFFRON)|植物和草本植物: 藏紅花
+25G4(SAGE)|植物和草本植物: 鼠尾草
+25G4(STINGING-NETTLE)|植物和草本植物: 大蕁麻
+25G4(STRAWBERRY)|植物和草本植物: 草莓
+25G4(SUNDEW)|植物和草本植物: 毛膏菜
+25G4(THISTLE)|植物和草本植物: 薊
+25G4(THYME)|植物和草本植物: 麝香草,百里香
+25G4(WATER-HEMLOCK)|植物和草本植物: 水毒芹
+25G4(WHEAT)|植物和草本植物: 小麥
+25G4(WORMWOOD)|植物和草本植物: 苦艾,蒿
+25G41|花卉
+25G41(...)|花卉 (名稱)
+25G41(ALMOND-BLOSSOM)|花卉: 扁桃樹花
+25G41(ANEMONE)|花卉: 秋牡丹
+25G41(BUTTERCUP)|花卉: 金鳳花
+25G41(CARNATION)|花卉: 康乃馨,香石竹
+25G41(COLUMBINE)|花卉: 耬斗菜
+25G41(CROCUS)|花卉: 番紅花
+25G41(HELIOTROPE)|花卉: 天芥菜,洋茉莉
+25G41(HYACINTH)|花卉: 風信子
+25G41(IMMORTELLE)|花卉: 不凋花,蠟菊
+25G41(LILY)|花卉: 百合花
+25G41(LOTUS)|花卉: 蓮花,荷花
+25G41(NARCISSUS)|花卉: 水仙花
+25G41(ORCHID)|花卉: 蘭花
+25G41(PETUNIA)|花卉: 喇叭花,牽牛花
+25G41(POPPY)|花卉: 罌粟花
+25G41(ROSE)|花卉: 玫瑰花
+25G41(SUNFLOWER)|花卉: 葵花
+25G41(TULIP)|花卉: 鬱金香
+25G41(VIOLET)|花卉: 紫羅蘭
+25G41(WATER-LILY)|花卉: 睡蓮
+25G411|cut 花卉; (分香撲鼻的)花束
+25G411(...)|折枝花卉; (分香撲鼻的)花束 (名稱)
+25G4111|花環,花冠,花圈
+25G412|乾花
+25G412(...)|乾花 (名稱)
+25G49|人造樹木花卉
+25G5|低等植物
+25G51|蕨類
+25G52|苔類
+25G53|藻類, 海藻
+25G54|真菌
+25G541|蘑菇
+25G55|地衣類
+25G56|其它低等植物
+25G56(...)|其它低等植物 (名稱)
+25G6|已經滅絕的植物
+25G6(...)|已經滅絕的植物 (名稱)
+25G61|史前植物
+25G62|化石植物
+25G7|花卉的語言
+25GG|幻想中的植物, 傳說中的植被
+25GG1|傳說中的植物 (一般)
+25GG11|成組的傳說中的樹
+25GG12|成組的傳說中的灌木
+25GG13|成組的傳說中的植物 (草本)
+25GG14|成組的傳說中的低等植物
+25GG2|傳說中的植物的一般產品
+25GG21|傳說中的植物果實 
+25GG21(...)|傳說中的植物果實 (名稱)
+25GG21(ACORN)|果實: 橡子 - GG - 幻想中的植物, 傳說中的植被
+25GG21(ALMOND)|果實: 杏仁 - GG - 幻想中的植物, 傳說中的植被
+25GG21(APPLE)|果實: 蘋果 - GG - 幻想中的植物, 傳說中的植被
+25GG21(BEANS)|果實: 豆類 - GG - 幻想中的植物, 傳說中的植被
+25GG21(BILBERRY)|果實: 越橘 - GG - 幻想中的植物, 傳說中的植被
+25GG21(CHERRY)|果實: 櫻桃 - GG - 幻想中的植物, 傳說中的植被
+25GG21(CHESTNUT)|果實: 栗 - GG - 幻想中的植物, 傳說中的植被
+25GG21(FIG)|果實: 無花果 - GG - 幻想中的植物, 傳說中的植被
+25GG21(GOURD)|果實: 葫蘆 - GG - 幻想中的植物, 傳說中的植被
+25GG21(LEMON)|果實: 檸檬 - GG - 幻想中的植物, 傳說中的植被
+25GG21(MEDLAR)|果實: 枇杷 - GG - 幻想中的植物, 傳說中的植被
+25GG21(MELON)|果實: 甜瓜 - GG - 幻想中的植物, 傳說中的植被
+25GG21(NUTS)|果實: 堅果 - GG - 幻想中的植物, 傳說中的植被
+25GG21(PEACH)|果實: 桃子 - GG - 幻想中的植物, 傳說中的植被
+25GG21(PEAR)|果實: 梨子 - GG - 幻想中的植物, 傳說中的植被
+25GG21(PINE-CONE)|果實: 松果 - GG - 幻想中的植物, 傳說中的植被
+25GG21(PINEAPPLE)|果實: 鳳梨 - GG - 幻想中的植物, 傳說中的植被
+25GG21(PLUM)|果實: 李 - GG - 幻想中的植物, 傳說中的植被
+25GG21(POMEGRANATE)|果實: 石榴 - GG - 幻想中的植物, 傳說中的植被
+25GG21(PUMPKIN)|果實: 南瓜 - GG - 幻想中的植物, 傳說中的植被
+25GG21(QUINCE)|果實: 榲桲,木瓜 - GG - 幻想中的植物, 傳說中的植被
+25GG21(SPRUCE-CONE)|果實: 雲杉果 - GG - 幻想中的植物, 傳說中的植被
+25GG21(STRAWBERRY)|果實: 草莓 - GG - 幻想中的植物, 傳說中的植被
+25GG21(WALNUT)|果實: 胡桃,核桃 - GG - 幻想中的植物, 傳說中的植被
+25GG211|傳說中的植物的果實的部分
+25GG211(...)|傳說中的植物的果實的部分 (名稱)
+25GG211(NUTSHELL)|果實的部分: 堅果殼 - GG - 幻想中的植物, 傳說中的植被
+25GG2111|傳說中的植物的籽
+25GG2111(...)|傳說中的植物的籽 (名稱)
+25GG2111(PEA)|籽: 豌豆 - GG - 幻想中的植物, 傳說中的植被
+25GG2111(THISTLE-SEED)|籽: 薊子 - GG - 幻想中的植物, 傳說中的植被
+25GG22|(non-fruit) 傳說中的植物或樹的產品
+25GG22(...)|(non-fruit) 傳說中的植物或樹的產品 (名稱)
+25GG22(ASPARAGUS)|(非果實類) 植物或樹的產品: 蘆筍 - GG - 幻想中的植物, 傳說中的植被
+25GG22(CINNAMON)|(非果實類) 植物或樹的產品: 肉桂 - GG - 幻想中的植物, 傳說中的植被
+25GG22(ONION)|(非果實類) 植物或樹的產品: 洋蔥 - GG - 幻想中的植物, 傳說中的植被
+25GG22(RADISH)|(非果實類) 植物或樹的產品: 蘿卜 - GG - 幻想中的植物, 傳說中的植被
+25GG22(TURNIP)|(非果實類) 植物或樹的產品: 蕪菁,大頭菜 - GG - 幻想中的植物, 傳說中的植被
+25GG3|傳說中的樹
+25GG3(...)|傳說中的樹 (名稱)
+25GG3(ACACIA)|樹: 洋槐,合歡樹,相思樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(ALDER)|樹: 榿木,赤楊木 - GG - 幻想中的植物, 傳說中的植被
+25GG3(ALMOND-TREE)|樹: 杏樹,扁桃樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(APPLE-TREE)|樹: 蘋果樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(AVOCADO)|樹: 鳄梨, 油梨树 - GG - 幻想中的植物, 傳說中的植被
+25GG3(BEECH)|樹: 山毛櫸 - GG - 幻想中的植物, 傳說中的植被
+25GG3(BIRCH)|樹: 樺木 - GG - 幻想中的植物, 傳說中的植被
+25GG3(CEDAR)|樹: 雪松,翠柏,香柏,西洋杉 - GG - 幻想中的植物, 傳說中的植被
+25GG3(COCONUT-TREE)|樹: 椰子樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(CYPRESS)|樹: 柏樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(DATE-PALM)|樹: 枣椰樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(DRACENA)|樹: 龍血樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(ELM)|樹: 榆木 - GG - 幻想中的植物, 傳說中的植被
+25GG3(FIG-TREE)|樹: 無花果樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(FIR)|樹: 冷杉,杉樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(HOLM-OAK)|樹: 聖櫟木 - GG - 幻想中的植物, 傳說中的植被
+25GG3(LAUREL)|樹: 月桂樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(LEMON-TREE)|樹: 檸檬樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(LINDEN)|樹: 椴木,菩提樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(MULBERRY-TREE)|樹: 桑樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(MYRRH-TREE)|樹: 沒藥樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(OAK)|樹: 櫟木 - GG - 幻想中的植物, 傳說中的植被
+25GG3(OLIVE-TREE)|樹: 橄欖樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(PALM-TREE)|樹: 棕櫚樹,椰子樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(PEACH-TREE)|樹: 桃樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(PINE)|樹: 松樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(PLANE-TREE)|樹: 懸鈴木,法國梧桐 - GG - 幻想中的植物, 傳說中的植被
+25GG3(POMEGRANATE-TREE)|樹: 石榴樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(POPLAR)|樹: 楊木 - GG - 幻想中的植物, 傳說中的植被
+25GG3(QUINCE-TREE)|樹: 榲桲樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(SPRUCE)|樹: 雲杉 - GG - 幻想中的植物, 傳說中的植被
+25GG3(STINKING BEAN TREFOIL)|樹: stinking bean trefoil - GG - 幻想中的植物, 傳說中的植被
+25GG3(WALNUT-TREE)|樹: 胡桃樹,核桃樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(WHITE POPLAR)|樹: 白楊樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(WILLOW)|樹: 柳樹 - GG - 幻想中的植物, 傳說中的植被
+25GG3(YEW)|樹: 紫杉木 - GG - 幻想中的植物, 傳說中的植被
+25GG31|傳說中的灌木
+25GG31(...)|傳說中的灌木 (名稱)
+25GG31(BLACKBERRY-BUSH)|灌木: 黑莓灌木叢 - GG - 幻想中的植物, 傳說中的植被
+25GG31(BOX)|灌木: 黃楊灌木叢 - GG - 幻想中的植物, 傳說中的植被
+25GG31(BROOM)|灌木: 山核桃木 - GG - 幻想中的植物, 傳說中的植被
+25GG31(BUCKTHORN)|灌木: 鼠李 - GG - 幻想中的植物, 傳說中的植被
+25GG31(HAZEL)|灌木: 榛木 - GG - 幻想中的植物, 傳說中的植被
+25GG31(JUNIPER)|灌木: 檜木 - GG - 幻想中的植物, 傳說中的植被
+25GG31(MYRTLE)|灌木: 香桃木 - GG - 幻想中的植物, 傳說中的植被
+25GG31(OLEANDER)|灌木: 夾竹桃 - GG - 幻想中的植物, 傳說中的植被
+25GG31(PRIVET)|灌木: 女貞樹叢,水蠟樹叢 - GG - 幻想中的植物, 傳說中的植被
+25GG31(ROSE-BUSH)|灌木: 玫瑰灌木叢 - GG - 幻想中的植物, 傳說中的植被
+25GG39|作為圖解關係的樹木, 樹形圖表 - GG - 幻想中的植物, 傳說中的植被
+25GG4|植物和草本植物
+25GG4(...)|傳說中的植物和草本植物 (名稱)
+25GG4(ACANTHUS)|植物和草本植物: 莨苕 - GG - 幻想中的植物, 傳說中的植被
+25GG4(ALOE)|植物和草本植物: 蘆薈 - GG - 幻想中的植物, 傳說中的植被
+25GG4(AMARANTH)|植物和草本植物: 紫心蘇,莧菜 - GG - 幻想中的植物, 傳說中的植被
+25GG4(ARTICHOKE)|植物和草本植物: 朝鮮薊,洋薊 - GG - 幻想中的植物, 傳說中的植被
+25GG4(BASIL)|植物和草本植物: 羅勒 - GG - 幻想中的植物, 傳說中的植被
+25GG4(BEAN)|植物和草本植物: 豆 - GG - 幻想中的植物, 傳說中的植被
+25GG4(CABBAGE)|植物和草本植物: 卷心菜,包菜 - GG - 幻想中的植物, 傳說中的植被
+25GG4(CAMOMILE)|植物和草本植物: 甘菊,春黃菊 - GG - 幻想中的植物, 傳說中的植被
+25GG4(CHONDRILLA)|植物和草本植物: 軟海綿 - GG - 幻想中的植物, 傳說中的植被
+25GG4(CLOVER)|植物和草本植物: 四葉苜蓿,幸運草 - GG - 幻想中的植物, 傳說中的植被
+25GG4(DICTAMNUS)|植物和草本植物: 白蘚 - GG - 幻想中的植物, 傳說中的植被
+25GG4(FIELD ERYNGO)|植物和草本植物: 野刺芹 - GG - 幻想中的植物, 傳說中的植被
+25GG4(FLEA-BANE)|植物和草本植物: 蒿,紫莞 - GG - 幻想中的植物, 傳說中的植被
+25GG4(GARLIC)|植物和草本植物: 蒜 - GG - 幻想中的植物, 傳說中的植被
+25GG4(GERMANDER)|植物和草本植物: 石蠶 - GG - 幻想中的植物, 傳說中的植被
+25GG4(GIANT FENNEL)|植物和草本植物: 大茴香 - GG - 幻想中的植物, 傳說中的植被
+25GG4(GROUNDSEL)|植物和草本植物: 千里光草 - GG - 幻想中的植物, 傳說中的植被
+25GG4(HELLEBORE)|植物和草本植物: 黑黎蘆,鹿食草 - GG - 幻想中的植物, 傳說中的植被
+25GG4(HEMLOCK)|植物和草本植物: 毒芹 - GG - 幻想中的植物, 傳說中的植被
+25GG4(HENBANE)|植物和草本植物: 天仙子,莨菪 - GG - 幻想中的植物, 傳說中的植被
+25GG4(HOP)|植物和草本植物: 蛇麻草 - GG - 幻想中的植物, 傳說中的植被
+25GG4(HOUSELEEK)|植物和草本植物: 長生草 - GG - 幻想中的植物, 傳說中的植被
+25GG4(HYSSOP)|植物和草本植物: 牛膝草 - GG - 幻想中的植物, 傳說中的植被
+25GG4(IVY)|植物和草本植物: 常春藤 - GG - 幻想中的植物, 傳說中的植被
+25GG4(LETTUCE)|植物和草本植物: 萵苣,生菜 - GG - 幻想中的植物, 傳說中的植被
+25GG4(LUPIN)|植物和草本植物: 羽扇豆 - GG - 幻想中的植物, 傳說中的植被
+25GG4(MANDRAKE)|植物和草本植物: 茄參 - GG - 幻想中的植物, 傳說中的植被
+25GG4(MARJORAM)|植物和草本植物: 馬郁蘭 - GG - 幻想中的植物, 傳說中的植被
+25GG4(MISTLETOE)|植物和草本植物: 槲寄生 - GG - 幻想中的植物, 傳說中的植被
+25GG4(NETTLE)|植物和草本植物: 蕁麻 - GG - 幻想中的植物, 傳說中的植被
+25GG4(ORIGANUM)|植物和草本植物: 牛至 - GG - 幻想中的植物, 傳說中的植被
+25GG4(PEA)|植物和草本植物: 豌豆 - GG - 幻想中的植物, 傳說中的植被
+25GG4(PENNYROYAL)|植物和草本植物: 薄荷 - GG - 幻想中的植物, 傳說中的植被
+25GG4(PEONY)|植物和草本植物: 牡丹,芍藥 - GG - 幻想中的植物, 傳說中的植被
+25GG4(PUMPKIN)|植物和草本植物: 南瓜 - GG - 幻想中的植物, 傳說中的植被
+25GG4(REED)|植物和草本植物: 蘆葦 - GG - 幻想中的植物, 傳說中的植被
+25GG4(ROCKET)|植物和草本植物: 芝麻菜,大蒜芥 - GG - 幻想中的植物, 傳說中的植被
+25GG4(RUE)|植物和草本植物: 芸香 - GG - 幻想中的植物, 傳說中的植被
+25GG4(SAFFRON)|植物和草本植物: 藏紅花 - GG - 幻想中的植物, 傳說中的植被
+25GG4(SAGE)|植物和草本植物: 鼠尾草 - GG - 幻想中的植物, 傳說中的植被
+25GG4(STINGING-NETTLE)|植物和草本植物: 大蕁麻 - GG - 幻想中的植物, 傳說中的植被
+25GG4(STRAWBERRY)|植物和草本植物: 草莓 - GG - 幻想中的植物, 傳說中的植被
+25GG4(SUNDEW)|植物和草本植物: 毛膏菜 - GG - 幻想中的植物, 傳說中的植被
+25GG4(THISTLE)|植物和草本植物: 薊 - GG - 幻想中的植物, 傳說中的植被
+25GG4(THYME)|植物和草本植物: 麝香草,百里香 - GG - 幻想中的植物, 傳說中的植被
+25GG4(WATER-HEMLOCK)|植物和草本植物: 水毒芹 - GG - 幻想中的植物, 傳說中的植被
+25GG4(WHEAT)|植物和草本植物: 小麥 - GG - 幻想中的植物, 傳說中的植被
+25GG4(WORMWOOD)|植物和草本植物: 苦艾,蒿 - GG - 幻想中的植物, 傳說中的植被
+25GG41|傳說中的花卉
+25GG41(...)|傳說中的花卉 (名稱)
+25GG41(ALMOND-BLOSSOM)|花卉: 扁桃樹花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(ANEMONE)|花卉: 秋牡丹 - GG - 幻想中的植物, 傳說中的植被
+25GG41(BUTTERCUP)|花卉: 金鳳花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(CARNATION)|花卉: 康乃馨,香石竹 - GG - 幻想中的植物, 傳說中的植被
+25GG41(COLUMBINE)|花卉: 耬斗菜 - GG - 幻想中的植物, 傳說中的植被
+25GG41(CROCUS)|花卉: 番紅花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(HELIOTROPE)|花卉: 天芥菜,洋茉莉 - GG - 幻想中的植物, 傳說中的植被
+25GG41(HYACINTH)|花卉: 風信子 - GG - 幻想中的植物, 傳說中的植被
+25GG41(IMMORTELLE)|花卉: 不凋花,蠟菊 - GG - 幻想中的植物, 傳說中的植被
+25GG41(LILY)|花卉: 百合花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(LOTUS)|花卉: 蓮花,荷花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(NARCISSUS)|花卉: 水仙花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(ORCHID)|花卉: 蘭花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(PETUNIA)|花卉: 喇叭花,牽牛花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(POPPY)|花卉: 罌粟花 - GG - 幻想中的植物, 傳說中的植被
+25GG41(ROSE)|花卉: 玫瑰 - GG - 幻想中的植物, 傳說中的植被
+25GG41(SUNFLOWER)|花卉: 向日葵 - GG - 幻想中的植物, 傳說中的植被
+25GG41(TULIP)|花卉: 鬱金香 - GG - 幻想中的植物, 傳說中的植被
+25GG41(VIOLET)|花卉: 紫羅蘭 - GG - 幻想中的植物, 傳說中的植被
+25GG41(WATER-LILY)|花卉: 睡蓮 - GG - 幻想中的植物, 傳說中的植被
+25GG411|傳說中的折枝花卉; 傳說中的(分香撲鼻的)花束
+25GG411(...)|折枝花卉; (分香撲鼻的)花束 (名稱) - GG - 幻想中的植物, 傳說中的植被
+25GG412|傳說中的乾花
+25GG412(...)|乾花 (名稱) - GG - 幻想中的植物, 傳說中的植被
+25GG49|傳說中的人造植物與花卉
+25GG5|傳說中的低等植物
+25GG51|傳說中的蕨類
+25GG52|傳說中的苔類
+25GG53|傳說中的藻類,海藻
+25GG54|傳說中的真菌類
+25GG541|傳說中的蘑菇, 仙菇
+25GG55|傳說中的地衣
+25GG56|其它傳說中的低等植物
+25GG56(...)|傳說中的其它低等植物 (名稱) - GG - 幻想中的植物, 傳說中的植被
+25GG6|已經滅絕的植物 - GG - 幻想中的植物, 傳說中的植被
+25GG6(...)|已經滅絕的植物 (名稱) - GG - 幻想中的植物, 傳說中的植被
+25GG61|史前植物 - GG - 幻想中的植物, 傳說中的植被
+25GG62|化石植物 - GG - 幻想中的植物, 傳說中的植被
+25GG7|花卉的語言 - GG - 幻想中的植物, 傳說中的植被
+#25H|风景
 #25H1|landscapes in the temperate zone
 #25H11|mountains
 #25H111|mountain-range, snow peaks
