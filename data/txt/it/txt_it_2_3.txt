@@ -1490,7 +1490,6 @@
 25G3(PEAR-TREE)|alberi (col NOME)
 25G3(PINE)|alberi: pino
 25G3(PLANE-TREE)|alberi: platano
-25G3(PLUM TREE)|alberi: susino
 25G3(PLUM-TREE)|alberi: susino
 25G3(POMEGRANATE-TREE)|alberi: melograno
 25G3(POPLAR)|alberi: pioppo
