@@ -1058,17 +1058,10 @@
 25F95|身體某部分數量特多的怪獸
 25F951|三頭獸
 25F952|雙體,一頭雙身的動物
-<<<<<<< HEAD
 25F96|四肢、器官或其它部分不在正常位置的怪物
 25F97|四肢、器官或其它部分不是正常形狀的怪物
 25F971|四肢、器官或其它部分特大的怪物 
 25F972|四肢、器官或其它部分特小的怪物 
-=======
-25F96|軀幹、器官或其它部分不在正常位置的怪物
-25F97|軀幹、器官或其它部分不是正常形狀的怪物
-25F971|軀幹、器官或其它部分特大的怪物 
-25F972|軀幹、器官或其它部分特小的怪物 
->>>>>>> origin/master
 25FF|傳說中的動物
 25FF1|成組傳說中的動物
 25FF2|傳說中的動物 ~ 哺乳動物
@@ -1403,17 +1396,10 @@
 25FF95|身體某部分數量特多的怪獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 25FF951|三頭獸 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 25FF952|雙體,一頭雙身的動物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-<<<<<<< HEAD
 25FF96|四肢、器官或其它部分不在正常位置的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 25FF97|四肢、器官或其它部分不是正常形狀的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 25FF971|四肢、器官或其它部分特大的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
 25FF972|四肢、器官或其它部分特小的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-=======
-25FF96|軀幹、器官或其它部分不在正常位置的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-25FF97|軀幹、器官或其它部分不是正常形狀的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-25FF971|軀幹、器官或其它部分特大的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
-25FF972|軀幹、器官或其它部分特小的怪物 - FF - 傳說中的動物 (有時誤稱為'怪誕的'); 'Mostri' (Ripa)
->>>>>>> origin/master
 25G|植物
 25G1|植物 (一般性)
 25G11|成組的樹
@@ -1810,7 +1796,6 @@
 25GG61|史前植物 - GG - 幻想中的植物, 傳說中的植被
 25GG62|化石植物 - GG - 幻想中的植物, 傳說中的植被
 25GG7|花卉的語言 - GG - 幻想中的植物, 傳說中的植被
-<<<<<<< HEAD
 25H|风景
 25H1|溫帶的風景
 25H11|山
@@ -2283,480 +2268,6 @@
 25N(...)|虛構的國度 (名稱)
 25N(ATLANTIS)|虛構的國度: 大西島
 25N1|安樂鄉,世外桃源
-=======
-#25H|风景
-#25H1|landscapes in the temperate zone
-#25H11|mountains
-#25H111|mountain-range, snow peaks
-#25H1111|glacier
-#25H112|rocks
-#25H1121|mountain-top, peak
-#25H1122|ravine, chasm, abyss, canyon
-#25H1123|rock-formations
-#25H1124|boulder, stone
-#25H113|(high) hill
-#25H1131|mound, verge
-#25H114|low hill country
-#25H115|pit, hole
-#25H116|landslide
-#25H119|cave, grotto
-#25H1191|stalactitic cave
-#25H12|dale, valley
-#25H121|inland cliff face
-#25H13|coast
-#25H131|rocky coast
-#25H1311|fjord, sea loch
-#25H1312|reef ~ coast
-#25H1313|cape (coast)
-#25H1314|coastal cliff or crag
-#25H132|dune coast
-#25H1321|dunes (sea not visible); in the dunes
-#25H133|beach
-#25H1331|sand-bank
-#25H1332|mud flat
-#25H1333|coastal inlet
-#25H134|coastal marsh
-#25H135|haff, lagoon created by sand, shingle bank ~ coast
-#25H138|coastal structures
-#25H1381|coastal protection work, breakwater
-#25H13811|sea-wall
-#25H13812|groyne ~ breakwater
-#25H13813|mole ~ breakwater
-#25H14|island
-#25H141|peninsula
-#25H142|isthmus
-#25H15|forest, wood
-#25H151|deciduous forest
-#25H152|forest of coniferous trees
-#25H153|bush, 灌木 ~ forest
-#25H154|glade, 'Lichtung im Wald'
-#25H155|fringe, edge of the wood
-#25H156|forest path or lane
-#25H159|forest fire
-#25H16|plain
-#25H161|grasslands, savanna, prairie
-#25H17|meadow, pasture
-#25H171|mountain meadow, alp
-#25H172|'locus amoenus' motif; pleasant place with trees (~ taste), meadows (~ sight), spring or brook (~ feeling), singing birds (~ hearing) and 花卉 (~ smell)
-#25H18|cultivated land
-#25H181|waste land, no man's land
-#25H182|ploughed field
-#25H183|field filled with a crop
-#25H19|swamps and polders
-#25H191|swamp, inland marsh, fens
-#25H192|polder, reclaimed land
-#25H1921|pumping installation, pumping-engine (~ polder)
-#25H1922|technical aspects and details of pumping-engine
-#25H193|draining for land reclamation
-#25H199|flood
-#25H1991|dike-break
-#25H1992|rescue work during a flood
-#25H2|landscapes with waters, waterscapes, seascapes (in the temperate zone)
-#25H21|water course
-#25H211|spring, source of river or stream
-#25H212|brook
-#25H213|river
-#25H2130|river personified, 'Fiumi' (Ripa)
-#25H2130(...)|river personified (名稱)
-#25H2130(ADIGE)|personification of river Adige; 'Adige' (Ripa)
-#25H2130(ARNO)|personification of river Arno; 'Arno' (Ripa)
-#25H2130(CLAMOR)|river personified: Clamor
-#25H2130(DANUBE)|personification of river Danube; 'Danubio' (Ripa)
-#25H2130(GANGES)|personification of river Ganges; 'Gange', 'Gange Fiume' (Ripa)
-#25H2130(INDUS)|personification of river Indus; 'Indo' (Ripa)
-#25H2130(JORDAN)|river personified: Jordan
-#25H2130(MEANDER)|personification of river Meander; 'Historia' (Ripa)
-#25H2130(NIGER)|personification of river Niger; 'Niger' (Ripa)
-#25H2130(NILE)|personification of river Nile; 'Nilo' (Ripa)
-#25H2130(PO)|personification of river Po; 'Po' (Ripa)
-#25H2130(RHINE)|river personified: Rhine
-#25H2130(TIBER)|personification of river Tiber; 'Tevere' (Ripa)
-#25H2130(TIGRIS)|personification of river Tigris; 'Tigre' (Ripa)
-#25H2131|whirlpool
-#25H214|lake
-#25H2141|dammed-up lake
-#25H21411|barrage
-#25H2142|fen, Du. 'ven'
-#25H2143|pond, pool
-#25H21431|pool, puddle
-#25H215|river mouth, estuary
-#25H216|waterfall
-#25H2161|rapids
-#25H217|river bank
-#25H2171|dikes, levee
-#25H2172|water meadows
-#25H21721|water meadows under water
-#25H2173|towing path
-#25H219|dry river, river bed
-#25H22|canal
-#25H221|lift-lock, canal lock
-#25H222|dam (in canal)
-#25H223|sluice, weir
-#25H224|small canal, ditch
-#25H225|construction of canal
-#25H2251|dredge, dredging machine
-#25H23|sea (seascape)
-#25H230|sea personified; 'Mare' (Ripa)
-#25H231|phenomena connected with the sea
-#25H2311|wave
-#25H23111|surf, breakers
-#25H23112|wave caused by ship; backwash
-#25H2312|tide
-#25H23121|ebb, low tide
-#25H23122|flood, high tide
-#25H23123|spring-tide
-#25H23124|tidal wave
-#25H2313|phosphorescence
-#25H2314|currents
-#25H23141|maelstrom
-#25H2315|deep sea
-#25H2316|ocean floor
-#25H232|particular seas, etc.
-#25H2321|ocean
-#25H2321(...)|ocean (名稱)
-#25H23210|ocean personified
-#25H2322|sea
-#25H2322(...)|sea (名稱)
-#25H2323|gulf, bay
-#25H2323(...)|gulf, bay (名稱)
-#25H2324|straits, narrows
-#25H2324(...)|straits, narrows (名稱)
-#25H23241|pillars of Hercules
-#25HH|landscapes - HH - ideal landscapes
-#25HH1|landscapes in the temperate zone - HH - ideal landscapes
-#25HH11|mountains - HH - ideal landscapes
-#25HH111|mountain-range, snow peaks - HH - ideal landscapes
-#25HH1111|glacier - HH - ideal landscapes
-#25HH112|rocks - HH - ideal landscapes
-#25HH1121|mountain-top, peak - HH - ideal landscapes
-#25HH1122|ravine, chasm, abyss, canyon - HH - ideal landscapes
-#25HH1123|rock-formations - HH - ideal landscapes
-#25HH1124|boulder, stone - HH - ideal landscapes
-#25HH113|(high) hill - HH - ideal landscapes
-#25HH1131|mound, verge - HH - ideal landscapes
-#25HH114|low hill country - HH - ideal landscapes
-#25HH115|pit, hole - HH - ideal landscapes
-#25HH116|landslide - HH - ideal landscapes
-#25HH119|cave, grotto - HH - ideal landscapes
-#25HH1191|stalactitic cave - HH - ideal landscapes
-#25HH12|dale, valley - HH - ideal landscapes
-#25HH121|inland cliff face - HH - ideal landscapes
-#25HH13|coast - HH - ideal landscapes
-#25HH131|rocky coast - HH - ideal landscapes
-#25HH1311|fjord, sea loch - HH - ideal landscapes
-#25HH1312|reef ~ coast - HH - ideal landscapes
-#25HH1313|cape (coast) - HH - ideal landscapes
-#25HH1314|coastal cliff or crag - HH - ideal landscapes
-#25HH132|dune coast - HH - ideal landscapes
-#25HH1321|dunes (sea not visible); in the dunes - HH - ideal landscapes
-#25HH133|beach - HH - ideal landscapes
-#25HH1331|sand-bank - HH - ideal landscapes
-#25HH1332|mud flat - HH - ideal landscapes
-#25HH1333|coastal inlet - HH - ideal landscapes
-#25HH134|coastal marsh - HH - ideal landscapes
-#25HH135|haff, lagoon created by sand, shingle bank ~ coast - HH - ideal landscapes
-#25HH138|coastal structures - HH - ideal landscapes
-#25HH1381|coastal protection work, breakwater - HH - ideal landscapes
-#25HH13811|sea-wall - HH - ideal landscapes
-#25HH13812|groyne ~ breakwater - HH - ideal landscapes
-#25HH13813|mole ~ breakwater - HH - ideal landscapes
-#25HH14|island - HH - ideal landscapes
-#25HH141|peninsula - HH - ideal landscapes
-#25HH142|isthmus - HH - ideal landscapes
-#25HH15|forest, wood - HH - ideal landscapes
-#25HH151|deciduous forest - HH - ideal landscapes
-#25HH152|forest of coniferous trees - HH - ideal landscapes
-#25HH153|bush, 灌木 ~ forest - HH - ideal landscapes
-#25HH154|glade, 'Lichtung im Wald' - HH - ideal landscapes
-#25HH155|fringe, edge of the wood - HH - ideal landscapes
-#25HH156|forest path or lane - HH - ideal landscapes
-#25HH159|forest fire - HH - ideal landscapes
-#25HH16|plain - HH - ideal landscapes
-#25HH161|grasslands, savanna, prairie - HH - ideal landscapes
-#25HH17|meadow, pasture - HH - ideal landscapes
-#25HH171|mountain meadow, alp - HH - ideal landscapes
-#25HH172|'locus amoenus' motif; pleasant place with trees (~ taste), meadows (~ sight), spring or brook (~ feeling), singing birds (~ hearing) and 花卉 (~ smell) - HH - ideal landscapes
-#25HH18|cultivated land - HH - ideal landscapes
-#25HH181|waste land, no man's land - HH - ideal landscapes
-#25HH19|swamps and polders - HH - ideal landscapes
-#25HH191|swamp, inland marsh, fens - HH - ideal landscapes
-#25HH192|polder, reclaimed land - HH - ideal landscapes
-#25HH1921|pumping installation, pumping-engine (~ polder) - HH - ideal landscapes
-#25HH1922|technical aspects and details of pumping-engine - HH - ideal landscapes
-#25HH193|draining for land reclamation - HH - ideal landscapes
-#25HH199|flood - HH - ideal landscapes
-#25HH1991|dike-break - HH - ideal landscapes
-#25HH1992|rescue work during a flood - HH - ideal landscapes
-#25HH2|landscapes with waters, waterscapes, seascapes (in the temperate zone) - HH - ideal landscapes
-#25HH21|water course - HH - ideal landscapes
-#25HH211|spring, source of river or stream - HH - ideal landscapes
-#25HH212|brook - HH - ideal landscapes
-#25HH213|river - HH - ideal landscapes
-#25HH2130|river personified, 'Fiumi' (Ripa) - HH - ideal landscapes
-#25HH2130(...)|river personified (名稱) - HH - ideal landscapes
-#25HH2130(ADIGE)|personification of river Adige; 'Adige' (Ripa) - HH - ideal landscapes
-#25HH2130(ARNO)|personification of river Arno; 'Arno' (Ripa) - HH - ideal landscapes
-#25HH2130(CLAMOR)|river personified: Clamor - HH - ideal landscapes
-#25HH2130(DANUBE)|personification of river Danube; 'Danubio' (Ripa) - HH - ideal landscapes
-#25HH2130(GANGES)|personification of river Ganges; 'Gange', 'Gange Fiume' (Ripa) - HH - ideal landscapes
-#25HH2130(INDUS)|personification of river Indus; 'Indo' (Ripa) - HH - ideal landscapes
-#25HH2130(JORDAN)|river personified: Jordan - HH - ideal landscapes
-#25HH2130(MEANDER)|personification of river Meander; 'Historia' (Ripa) - HH - ideal landscapes
-#25HH2130(NIGER)|personification of river Niger; 'Niger' (Ripa) - HH - ideal landscapes
-#25HH2130(NILE)|personification of river Nile; 'Nilo' (Ripa) - HH - ideal landscapes
-#25HH2130(PO)|personification of river Po; 'Po' (Ripa) - HH - ideal landscapes
-#25HH2130(RHINE)|river personified: Rhine - HH - ideal landscapes
-#25HH2130(TIBER)|personification of river Tiber; 'Tevere' (Ripa) - HH - ideal landscapes
-#25HH2130(TIGRIS)|personification of river Tigris; 'Tigre' (Ripa) - HH - ideal landscapes
-#25HH2131|whirlpool - HH - ideal landscapes
-#25HH214|lake - HH - ideal landscapes
-#25HH2141|dammed-up lake - HH - ideal landscapes
-#25HH21411|barrage - HH - ideal landscapes
-#25HH2142|fen, Du. 'ven' - HH - ideal landscapes
-#25HH2143|pond, pool - HH - ideal landscapes
-#25HH21431|pool, puddle - HH - ideal landscapes
-#25HH215|river mouth, estuary - HH - ideal landscapes
-#25HH216|waterfall - HH - ideal landscapes
-#25HH2161|rapids - HH - ideal landscapes
-#25HH217|river bank - HH - ideal landscapes
-#25HH2171|dikes, levee - HH - ideal landscapes
-#25HH2172|water meadows - HH - ideal landscapes
-#25HH21721|water meadows under water - HH - ideal landscapes
-#25HH2173|towing path - HH - ideal landscapes
-#25HH219|dry river, river bed - HH - ideal landscapes
-#25HH22|canal - HH - ideal landscapes
-#25HH221|lift-lock, canal lock - HH - ideal landscapes
-#25HH222|dam (in canal) - HH - ideal landscapes
-#25HH223|sluice, weir - HH - ideal landscapes
-#25HH224|small canal, ditch - HH - ideal landscapes
-#25HH225|construction of canal - HH - ideal landscapes
-#25HH2251|dredge, dredging machine - HH - ideal landscapes
-#25HH23|sea (seascape) - HH - ideal landscapes
-#25HH230|sea personified; 'Mare' (Ripa) - HH - ideal landscapes
-#25HH231|phenomena connected with the sea - HH - ideal landscapes
-#25HH2311|wave - HH - ideal landscapes
-#25HH23111|surf, breakers - HH - ideal landscapes
-#25HH23112|wave caused by ship; backwash - HH - ideal landscapes
-#25HH2312|tide - HH - ideal landscapes
-#25HH23121|ebb, low tide - HH - ideal landscapes
-#25HH23122|flood, high tide - HH - ideal landscapes
-#25HH23123|spring-tide - HH - ideal landscapes
-#25HH23124|tidal wave - HH - ideal landscapes
-#25HH2313|phosphorescence - HH - ideal landscapes
-#25HH2314|currents - HH - ideal landscapes
-#25HH23141|maelstrom - HH - ideal landscapes
-#25HH2315|deep sea - HH - ideal landscapes
-#25HH2316|ocean floor - HH - ideal landscapes
-#25HH232|particular seas, etc. - HH - ideal landscapes
-#25HH2321|ocean - HH - ideal landscapes
-#25HH2321(...)|ocean (名稱) - HH - ideal landscapes
-#25HH23210|ocean personified - HH - ideal landscapes
-#25HH2322|sea - HH - ideal landscapes
-#25HH2322(...)|sea (名稱) - HH - ideal landscapes
-#25HH2323|gulf, bay - HH - ideal landscapes
-#25HH2323(...)|gulf, bay (名稱) - HH - ideal landscapes
-#25HH2324|straits, narrows - HH - ideal landscapes
-#25HH2324(...)|straits, narrows (名稱) - HH - ideal landscapes
-#25HH23241|pillars of Hercules - HH - ideal landscapes
-25I|市景，带有建筑物的风景
-#25I1|city-view in general; 'veduta'
-#25I10|ideal city : Use 25 II 1
-#25I11|city founding
-#25I111|city founders
-#25I12|prospect of city, town panorama, silhouette of city
-#25I13|public gardens, park
-#25I14|public road
-#25I141|street
-#25I1411|lane, alley
-#25I1412|passage
-#25I1413|sloping street; street with steps or stairs
-#25I142|avenue, boulevard, promenade, esplanade
-#25I143|quay
-#25I144|square, place, circus, etc.
-#25I145|canals, waters (in city)
-#25I1451|bridge in city across river, canal, etc.
-#25I14511|bridge in city with structures, i.e. shops, houses, e.g. Ponte Vecchio in Florence
-#25I146|city-walls
-#25I1461|city-gate
-#25I15|monumental adornments (in city)
-#25I151|ornamental fountain
-#25I152|monument, statue
-#25I153|obelisk, needle
-#25I154|triumphal column with helical friezes
-#25I155|tower, clock tower ~ monumental adornment
-#25I16|public convenience
-#25I17|underground structures in city
-#25I171|sewers
-#25I18|outskirts of city
-#25I19|metropolis
-#25I2|village
-#25I21|founding a village
-#25I22|prospect of village, silhouette of village
-#25I24|public road in village
-#25I241|village street
-#25I2411|village lane, alley
-#25I242|avenue, boulevard in village
-#25I244|village square, place
-#25I245|canals, waters (in village)
-#25I2451|bridge in village across river, canal, etc.
-#25I246|village-walls
-#25I2461|village-gate
-#25I25|monumental adornments (in village)
-#25I251|ornamental fountain (in village)
-#25I28|outskirts of village
-#25I3|farm or solitary house in landscape
-#25I4|factories and mills in landscape
-#25I41|windmill in landscape
-#25I42|watermill in landscape
-#25I43|factory in landscape
-#25I5|landscape with tower or castle
-#25I6|landscape with bridge, viaduct or aqueduct
-#25I7|landscape with monument
-#25I71|landscape with menhir
-#25I8|landscape with 其它 man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc.
-#25I9|landscape with ruins
-#25II|city-view, and landscape with man-made constructions - II - ideal landscapes
-#25II1|city-view in general; 'veduta' - II - ideal city
-#25II10|ideal city : Use 25 II 1 - II - ideal city
-#25II11|city founding - II - ideal city
-#25II111|city founders - II - ideal city
-#25II12|prospect of city, town panorama, silhouette of city - II - ideal city
-#25II13|public gardens, park - II - ideal city
-#25II14|public road - II - ideal city
-#25II141|street - II - ideal city
-#25II1411|lane, alley - II - ideal city
-#25II1412|passage - II - ideal city
-#25II1413|sloping street; street with steps or stairs - II - ideal city
-#25II142|avenue, boulevard, promenade, esplanade - II - ideal city
-#25II143|quay - II - ideal city
-#25II144|square, place, circus, etc. - II - ideal city
-#25II145|canals, waters (in city) - II - ideal city
-#25II1451|bridge in city across river, canal, etc. - II - ideal city
-#25II14511|bridge in city with structures, i.e. shops, houses, e.g. Ponte Vecchio in Florence - II - ideal city
-#25II146|city-walls - II - ideal city
-#25II1461|city-gate - II - ideal city
-#25II15|monumental adornments (in city) - II - ideal city
-#25II151|ornamental fountain - II - ideal city
-#25II152|monument, statue - II - ideal city
-#25II153|obelisk, needle - II - ideal city
-#25II154|triumphal column with helical friezes - II - ideal city
-#25II155|tower, clock tower ~ monumental adornment - II - ideal city
-#25II16|public convenience - II - ideal city
-#25II17|underground structures in city - II - ideal city
-#25II171|sewers - II - ideal city
-#25II18|outskirts of city - II - ideal city
-#25II19|metropolis - II - ideal city
-#25II2|village - II - ideal landscapes
-#25II21|founding a village - II - ideal landscapes
-#25II22|prospect of village, silhouette of village - II - ideal landscapes
-#25II24|public road in village - II - ideal landscapes
-#25II241|village street - II - ideal landscapes
-#25II2411|village lane, alley - II - ideal landscapes
-#25II242|avenue, boulevard in village - II - ideal landscapes
-#25II244|village square, place - II - ideal landscapes
-#25II245|canals, waters (in village) - II - ideal landscapes
-#25II2451|bridge in village across river, canal, etc. - II - ideal landscapes
-#25II246|village-walls - II - ideal landscapes
-#25II2461|village-gate - II - ideal landscapes
-#25II25|monumental adornments (in village) - II - ideal landscapes
-#25II251|ornamental fountain (in village) - II - ideal landscapes
-#25II28|outskirts of village - II - ideal landscapes
-#25II3|farm or solitary house in landscape - II - ideal landscapes
-#25II4|factories and mills in landscape - II - ideal landscapes
-#25II41|windmill in landscape - II - ideal landscapes
-#25II42|watermill in landscape - II - ideal landscapes
-#25II43|factory in landscape - II - ideal landscapes
-#25II5|landscape with tower or castle - II - ideal landscapes
-#25II6|landscape with bridge, viaduct or aqueduct - II - ideal landscapes
-#25II7|landscape with monument - II - ideal landscapes
-#25II71|landscape with menhir - II - ideal landscapes
-#25II8|landscape with 其它 man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc. - II - ideal landscapes
-#25II9|landscape with ruins - II - ideal landscapes
-25K|在非溫帶景觀，充滿異國情調的風景#'exotic landscapes' obviously seen from a Western point of view...
-#25K1|landscapes in tropical and sub-tropical regions
-#25K11|mountains (in tropical and sub-tropical regions)
-#25K12|ravine (in tropical and sub-tropical regions)
-#25K121|valley (in tropical and sub-tropical regions)
-#25K13|coast (in tropical and sub-tropical regions)
-#25K14|island (in tropical and sub-tropical regions)
-#25K141|coral island
-#25K142|coral reef
-#25K15|jungle
-#25K16|desert
-#25K161|oasis
-#25K162|wadi, dry river bed in desert
-#25K17|steppes, open fields
-#25K18|cultivated land (in tropical and sub-tropical regions)
-#25K181|sawahs, rice paddies
-#25K182|plantation
-#25K19|swamp (in tropical and sub-tropical regions)
-#25K2|landscapes in polar regions
-#25K21|mountains (in polar regions)
-#25K211|glacier (in polar regions)
-#25K22|ravine (in polar regions)
-#25K221|valley (in polar regions)
-#25K23|coast (in polar regions)
-#25K24|island (in polar regions)
-#25K241|iceberg
-#25K25|tundra, country with vegetation
-#25K26|icefield
-#25K3|exoticism
-#25KK|landscapes in the non-temperate zone, exotic landscapes - KK - ideal landscapes
-#25KK1|landscapes in tropical and sub-tropical regions - KK - ideal landscapes
-#25KK11|mountains (in tropical and sub-tropical regions) - KK - ideal landscapes
-#25KK12|ravine (in tropical and sub-tropical regions) - KK - ideal landscapes
-#25KK121|valley (in tropical and sub-tropical regions) - KK - ideal landscapes
-#25KK13|coast (in tropical and sub-tropical regions) - KK - ideal landscapes
-#25KK14|island (in tropical and sub-tropical regions) - KK - ideal landscapes
-#25KK141|coral island - KK - ideal landscapes
-#25KK142|coral reef - KK - ideal landscapes
-#25KK15|jungle - KK - ideal landscapes
-#25KK16|desert - KK - ideal landscapes
-#25KK161|oasis - KK - ideal landscapes
-#25KK162|wadi, dry river bed in desert - KK - ideal landscapes
-#25KK17|steppes, open fields - KK - ideal landscapes
-#25KK18|cultivated land (in tropical and sub-tropical regions) - KK - ideal landscapes
-#25KK181|sawahs, rice paddies - KK - ideal landscapes
-#25KK182|plantation - KK - ideal landscapes
-#25KK19|swamp (in tropical and sub-tropical regions) - KK - ideal landscapes
-#25KK2|landscapes in polar regions - KK - ideal landscapes
-#25KK21|mountains (in polar regions) - KK - ideal landscapes
-#25KK211|glacier (in polar regions) - KK - ideal landscapes
-#25KK22|ravine (in polar regions) - KK - ideal landscapes
-#25KK221|valley (in polar regions) - KK - ideal landscapes
-#25KK23|coast (in polar regions) - KK - ideal landscapes
-#25KK24|island (in polar regions) - KK - ideal landscapes
-#25KK241|iceberg - KK - ideal landscapes
-#25KK25|tundra, country with vegetation - KK - ideal landscapes
-#25KK26|icefield - KK - ideal landscapes
-#25KK3|exoticism - KK - idealized exoticism
-25L|城市寓言
-#25L(...)|cities represented allegorically or symbolically (名稱)
-#25L(...)0|cities represented allegorically or symbolically (名稱) - personification of a city, town-patron(ess)
-#25L(...)1|cities represented allegorically or symbolically (名稱) - city represented symbolically
-#25L(...)11|cities represented allegorically or symbolically (名稱) - city-crown
-#25L(ROME)|cities represented allegorically or symbolically: Rome
-#25L(ROME)0|cities represented allegorically or symbolically: Rome - personification of a city, town-patron(ess)
-#25L(ROME)1|cities represented allegorically or symbolically: Rome - city represented symbolically
-#25L(ROME)11|cities represented allegorically or symbolically: Rome - city-crown
-#25L0|personification of a city, town-patron(ess)
-#25L1|city represented symbolically
-#25L11|city-crown, mural crown
-25M|世界七大奇蹟
-#25M1|Egyptian pyramids (Wonder of the World)
-#25M2|hanging gardens of Semiramis at Babylon (Wonder of the World)
-#25M3|temple of Artemis at Ephesus (Wonder of the World)
-#25M4|statue of Zeus by Phidias (Wonder of the World)
-#25M5|Mausoleum at Halicarnassus (Wonder of the World)
-#25M6|Colossus of Rhodes (Wonder of the World)
-#25M7|Pharos of Alexandria (Wonder of the World)
-#25M8|其它 monuments which are sometimes included in the Wonders of the World
-#25M8(...)|其它 monuments which are sometimes included in the Wonders of the World (名稱)
-25N|虛構的國家
-#25N(...)|fictitious countries (名稱)
-#25N(ATLANTIS)|fictitious countries: Atlantis
-#25N1|Land of Cockaigne
->>>>>>> origin/master
 26|气象
 26A|雲
 26A1|高空雲層 
@@ -2784,7 +2295,6 @@
 26B4|傾盆大雨
 26B9|乾旱
 26C|風
-<<<<<<< HEAD
 26C0|'Venti' (Ripa)
 26C1|按不同分法的風
 26C11|四個主要方向的風
@@ -2858,81 +2368,6 @@
 26E3|其它與電有關的氣象
 26E31|桅頂(塔頂等)電光
 26E32|北極光, 'aurora borealis'
-=======
-#26C0|'Venti' (Ripa)
-#26C1|winds according to several divisions
-#26C11|the four main directions of the wind
-#26C111|north wind (one of the four main directions)
-#26C112|east wind (one of the four main directions)
-#26C113|south wind (one of the four main directions)
-#26C114|west wind (one of the four main directions)
-#26C12|division into eight wind directions
-#26C121|north wind, 'Aquilo', 'Boreas', 'Septentrionarius' (one of eight directions)
-#26C122|northeast wind, 'Kaikias' (Caecias) (one of eight directions)
-#26C123|east wind, 'Subsolanus' (one of eight directions)
-#26C124|southeast wind, 'Eurus', 'Volturnus'; 'Euro' (Ripa) (one of eight directions)
-#26C125|south wind, 'Auster', 'Notus' (one of eight directions)
-#26C126|southwest wind, 'Africus' (one of eight directions)
-#26C127|west wind, 'Favonius', 'Zephirus' (one of eight directions)
-#26C128|northwest wind, 'Iapyx', 'Caurus' (one of eight directions)
-#26C13|division into sixteen wind directions
-#26C131|division into sixteen wind directions, from north to south, clockwise
-#26C1311|north wind (N) (one of sixteen directions)
-#26C1312|north-northeast wind (NNE) (one of sixteen directions)
-#26C1313|northeast wind (NE) (one of sixteen directions)
-#26C1314|east-northeast wind (ENE) (one of sixteen directions)
-#26C1315|east wind (E) (one of sixteen directions)
-#26C1316|east-southeast wind (ESE) (one of sixteen directions)
-#26C1317|southeast wind (SE) (one of sixteen directions)
-#26C1318|south-southeast wind (SSE) (one of sixteen directions)
-#26C132|from south to north, clockwise
-#26C1321|south wind (S) (one of sixteen directions)
-#26C1322|south-southwest wind (SSW) (one of sixteen directions)
-#26C1323|southwest wind (SW) (one of sixteen directions)
-#26C1324|west-southwest wind (WSW) (one of sixteen directions)
-#26C1325|west wind (W) (one of sixteen directions)
-#26C1326|west-northwest wind (WNW) (one of sixteen directions)
-#26C1327|northwest wind (NW) (one of sixteen directions)
-#26C1328|north-northwest wind (NNW) (one of sixteen directions)
-#26C14|其它 divisions of winds
-#26C2|division of winds according to strength
-#26C21|marine terms for wind strength
-#26C21(...)|marine terms for wind strength (名稱)
-#26C22|scale of Beaufort
-#26C3|storm
-#26C31|storm on land
-#26C32|storm at sea
-#26C33|sandstorm
-#26C34|snowstorm
-#26C35|whirlwind, cyclone, hurricane, typhoon, tornado
-#26C351|whirlwind, cyclone, hurricane, typhoon, tornado on land
-#26C352|whirlwind, cyclone, hurricane, typhoon, tornado at sea
-#26C4|weather-vane
-#26C41|weathercock
-#26C42|windsock
-#26C5|barometer
-#26C6|wind as a human face, blowing with rounded cheeks
-#26C9|absence of wind, calm
-26D|霜凍，冰凍天氣
-#26D1|snow
-#26D11|avalanche
-#26D111|protection against avalanches
-#26D2|hail
-#26D3|glazed frost, hoar frost
-#26D4|ice ~ freezing weather
-#26D41|drift ice
-#26D42|icicle
-#26D5|severe winters
-#26D9|thaw
-26E|雷暴
-#26E1|thunder
-#26E2|lightning, flash of lightning, thunderbolt
-#26E21|lightning conductor
-#26E22|accidents with lightning
-#26E3|其它 electrical weather phenomena
-#26E31|St. Elmo's fire
-#26E32|northern lights, 'aurora borealis'
->>>>>>> origin/master
 26F|好的和壞的天氣
 26F1|好天氣
 26F10|'Salubrità o purità dell'aria' (Ripa)
@@ -2943,7 +2378,6 @@
 26F22|'Pruina', 冬天的天氣
 26F3|天氣產生的後果, 如乾旱後, 暴風雨前, 旋風之後
 26G|海市蜃樓，“海市蜃樓”
-<<<<<<< HEAD
 26H|其它氣象
 29|Suurealia, 超現實的再現
 29A|動物像人類那樣活動
@@ -3637,7 +3071,7 @@
 31A74|變性, 變性別
 31A8|作為機器的身體
 31A9|偽裝治癒或改進部份身體的途徑ways pretending to cure or improve parts of the body
-#31AA|人体(裸體); 'Corpo humano' (Ripa) - AA - 女性人體
+31AA|人体(裸體); 'Corpo humano' (Ripa) - AA - 女性人體
 #31AA1|canon, proportions - AA - 女性人體
 #31AA11|standing figure (canon, proportions) - AA - 女性人體
 #31AA12|figure in circle or square, legs apart and arms raised or stretched sidewards - AA - 女性人體
@@ -3646,7 +3080,7 @@
 #31AA140|allegorical representation of human figure of ideal proportions - AA - 女性人體 of ideal proportions; 'Bellezza feminile' (Ripa)
 #31AA141|nude with covered genitals - AA - 女性人體
 #31AA19|'homo Platonis', 'animal bipes implume' - AA - 女性人體
-#31AA2|人體解剖(非醫學) - AA - 女性人體
+31AA2|人體解剖(非醫學) - AA - 女性人體
 #31AA21|(human) skeleton - AA - 女性人體
 #31AA211|(human) skull - AA - 女性人體
 #31AA2111|jaw (human) - AA - 女性人體
@@ -3672,742 +3106,11 @@
 #31AA216|bones in general (human body) - AA - 女性人體
 #31AA22|parts of the human body (skeleton excepted) - AA - 女性人體
 #31AA221|head (human) - AA - 女性人體
-=======
-#26H|still 其它 meteorological phenomena
-29|超現實的現象, 超現實主義的影像
-#29A|animals acting as human beings
-#29A1|'mundus inversus', the reversed world, the topsy-turvy world, 'le monde bestourné'
-#29A2|plants or trees acting as, or being compared with human beings
-#29B|plants behaving as human beings or animals
-#29C|objects coming to life, e.g. puppets
-#29D|natural forms in stones, wood, clouds, etc. interpreted as representations
-3|人，一般概念的人
-31|生物学意义上的人
-31A|人体
-#31A1|canon, proportions
-#31A11|standing figure (canon, proportions)
-#31A12|figure in circle or square, legs apart and arms raised or stretched sidewards
-#31A13|其它 systems or canons
-#31A14|human figure of ideal proportions, e.g. academic nude
-#31A140|allegorical representation of human figure of ideal proportions
-#31A141|nude with covered genitals
-#31A19|'homo Platonis', 'animal bipes implume'
-31A2|解剖
-31A21|骨骼
-#31A211|(human) skull
-#31A2111|jaw (human)
-#31A2112|teeth
-#31A21121|front teeth
-#31A21122|back teeth, molars
-#31A212|thorax
-#31A2121|ribs
-#31A2122|spine
-#31A2123|clavicle, collar-bone
-#31A2124|scapula, shoulder-blade
-#31A213|pelvis
-#31A214|bones of the arms
-#31A2141|humerus, bone of the upper arm
-#31A2142|radius and ulna, bones of the lower arm
-#31A2143|carpus and metacarpus, parts of the hand
-#31A2144|phalanges of the fingers
-#31A215|bones of the legs
-#31A2151|femur, bone of the upper leg
-#31A2152|tibia and fibula, bones of the lower leg
-#31A2153|tarsus and metatarsus, parts of the foot
-#31A2154|phalanges of the toes
-#31A216|bones in general (human body)
-#31A22|parts of the human body (skeleton excepted)
-#31A221|head (human)
-#31A2211|face
-#31A22111|parts of the face
-#31A22111(...)|parts of the face (名稱)
-#31A22111(LIPS)|parts of the face: lips
-#31A22111(NOSE)|parts of the face: nose
-#31A2212|eyes
-#31A22121|'imago omnia videntis'
-#31A2213|ears
-#31A2214|mouth
-#31A22141|tongue
-#31A2215|head (internal)
-#31A22151|brains
-#31A22152|nasal cavity
-#31A22153|mouth and throat cavity
-#31A222|chest, bust
-#31A2221|heart
-#31A22210|heart symbolism
-#31A222101|profane heart symbolism ~ love
-#31A22211|parts of the heart
-#31A2222|lungs, bronchia
-#31A22221|breathing, respiration
-#31A22222|gasping for breath
-#31A22229|suffocating
-#31A2223|breasts
-#31A22231|nipples
-#31A22232|breasts giving milk
-#31A2224|shoulder
-#31A2225|back
-#31A2226|torso
-#31A223|abdomen, belly (human being)
-#31A2231|external aspects ~ abdomen
-#31A22311|navel
-#31A22312|hip
-#31A2232|glands
-#31A22321|liver (human anatomy)
-#31A22322|gall bladder
-#31A22323|spleen
-#31A22324|kidney
-#31A2233|stomach
-#31A22331|gullet
-#31A2234|intestines
-#31A2235|bladder
-#31A2236|sexual organs (human)
-#31A22361|male sexual organs
-#31A223611|testicles
-#31A223612|penis, phallus
-#31A2236121|image of phallus, 'phallos'
-#31A223613|sperm
-#31A22362|female sexual organs
-#31A223621|womb, uterus
-#31A2236211|uterus with foetus
-#31A223622|ovaries
-#31A223623|menstruation
-#31A223624|vagina
-#31A2237|buttocks, 'partes posteriores'
-#31A22371|anus
-#31A224|arms
-#31A2241|upper arm
-#31A2242|elbow
-#31A2243|lower arm
-#31A2244|wrist
-#31A2245|hand
-#31A22451|hand-print
-#31A2246|fingers
-#31A22461|thumb
-#31A22462|index finger, forefinger
-#31A22463|middle finger, second finger
-#31A22464|ring finger
-#31A22465|little finger
-#31A2247|nails (fingers)
-#31A225|legs
-#31A2251|upper leg
-#31A2252|knee
-#31A2253|lower leg
-#31A2254|ankle
-#31A2255|foot
-#31A22551|heel
-#31A22552|foot-print, track
-#31A2256|toes
-#31A2257|nails (toes)
-#31A226|其它 anatomical details
-#31A2261|blood circulation
-#31A22611|blood
-#31A22612|arteries
-#31A22613|veins
-#31A2262|skin (human)
-#31A22621|hair
-#31A22622|body hair
-#31A22623|pubic hair
-#31A2263|muscles
-#31A2264|tendons, sinews
-#31A2265|nerves
-31A23|姿势与手势
-#31A231|standing figure
-#31A2311|'contrapposto', 'Standbein und Spielbein'
-#31A2312|'figura serpentinata'
-#31A2313|standing on one leg
-#31A2319|standing on the head or on the hands
-#31A232|leaning figure
-#31A2321|leaning forward
-#31A2322|leaning backward
-#31A2323|leaning sideways
-#31A233|kneeling figure
-#31A2331|kneeling on both knees
-#31A234|squatting, crouching figure
-#31A2341|huddled figure
-#31A235|sitting figure
-#31A2351|sitting on the ground
-#31A2352|sitting on an elevation
-#31A2353|sitting with arms or elbows on the knees
-#31A23531|sitting with hand(s) resting on the thigh or knee
-#31A2354|sitting in someone's lap
-#31A236|lying figure
-#31A2361|lying on the back with uplifted upper part of the body
-#31A2362|lying face downwards
-#31A2363|lying on one side, stretched out
-#31A2364|lying on one side, with uplifted upper part of the body and leaning on the arm
-#31A2365|lying on the back with hands under the head
-#31A2366|lying face downwards with hands under the head
-#31A237|hanging figure (by the arms, legs, etc.)
-#31A2371|hanging by the arms
-#31A23711|hanging by one arm
-#31A2372|hanging by the legs
-#31A23721|hanging by one leg
-#31A2373|hanging by 其它 parts of the body
-#31A23731|hanging by the hair
-#31A23732|hanging by the teeth
-#31A239|其它 postures of the human figure, not meant or mentioned above
-#31A2391|bending figure
-#31A24|postures of the head
-#31A241|head in normal upright position
-#31A242|head turned sideways
-#31A2421|head turned to the left
-#31A2422|head turned to the right
-#31A243|head bent backwards
-#31A244|head bent forward; bowing
-#31A245|head slanting to the left
-#31A246|head slanting to the right
-#31A247|looking over the shoulder
-#31A249|其它 postures of the head, not meant or mentioned above
-31A25|姿勢和胳膊和手手勢
-#31A251|postures and gestures of arms and hands in general
-#31A2511|arm raised upward
-#31A25111|arms raised, with fingers closed
-#31A25112|arm raised, with fingers spread out
-#31A25113|arm raised, with fist
-#31A2512|arm stretched forward
-#31A2513|arm stretched sidewards
-#31A2514|arm held backwards
-#31A2515|arm held downwards
-#31A2516|arm or hand held in front of the body
-#31A25161|arm or hand held in front of the chest
-#31A251611|hand holding the breast
-#31A25162|hand on the heart
-#31A25163|hand striking the chest
-#31A25164|hand uncovering the chest
-#31A25165|arms folded over the abdomen
-#31A2517|arm or hand bent behind the body
-#31A25171|arm bent behind the back
-#31A25172|hand behind the head
-#31A2518|hand on the hip
-#31A2519|hand not visible
-#31A25191|hand in the pocket
-#31A25192|hand in the sleeve
-#31A25193|hand on breast (or stomach), slipped into opening of vestment
-#31A252|postures and gestures of arms and hands in relation to each other
-#31A2521|arms crossed
-#31A25211|arms crossed, behind the back
-#31A25212|arms crossed over the breast
-#31A2522|hands folded
-#31A25221|hands folded with fingers knit
-#31A25222|rubbing, wringing one's hands
-#31A2523|hands against each other
-#31A25231|hands with finger-tips against each other
-#31A2524|counting off arguments, calculating on fingers
-#31A2525|hands on top of each other
-#31A253|postures and gestures of arms and hands in relation to the head
-#31A2531|hand(s) bent towards the head
-#31A25311|'caput manui innixum', head held in the hand(s)
-#31A25312|head held in the hand(s), with elbows leaning on an elevation or on the knees
-#31A25313|covering the head, drawing drapery over the face
-#31A25314|hand(s) behind the head
-#31A2532|hand touching the beard
-#31A2533|hand towards the forehead
-#31A25331|pointing to the forehead with the index finger
-#31A25332|'cornuto', i.e. raised index finger and little finger bent above the forehead
-#31A2534|hand(s) towards the eye(s)
-#31A25341|looking with the hand above the eyes
-#31A25342|peeping between the fingers
-#31A25343|rubbing one's eyes
-#31A25344|wiping away tears
-#31A2535|hand(s) towards the nose
-#31A25351|holding one's nose
-#31A2536|hand(s) towards the mouth
-#31A25361|whistling with fingers
-#31A25362|pulling at the corners of the mouth
-#31A2537|hand(s) towards the ear(s)
-#31A25371|cupping one's ear
-#31A25372|scratching one's ear
-#31A25373|covering one's ear
-#31A254|postures and gestures of arm(s) and hand(s) in relation to another person
-#31A2541|gripping someone by the arm
-#31A25411|walking arm in arm
-#31A2542|imposition of hands
-#31A2543|gripping someone by the hand or the wrist; clasped hands
-#31A25431|three or more clasped hands, meaning 'Unity is Strength'
-#31A25432|leading someone by the hand or wrist
-#31A25433|'immixtio manuum', placing clasped hands between the hands of another person
-#31A25434|slapping each other's palms
-#31A2544|gripping someone by the head
-#31A25441|gripping someone by the hair
-#31A25442|gripping someone by the neck
-#31A25443|gripping someone by the throat
-#31A2545|gripping someone by the shoulder
-#31A2546|gripping someone by the legs
-#31A25461|gripping someone by the feet
-#31A2549|gripping someone by other parts of the body
-#31A255|postures and gestures of hand and fingers
-#31A2551|postures and gestures of the hand
-#31A25511|fingers closed
-#31A25512|fingers spread out
-#31A25513|hand made into a fist
-#31A2552|postures and gestures of the palm of the hand
-#31A25521|palm of the hand turned up
-#31A25522|palm of the hand turned down
-#31A2553|postures and gestures of the thumb
-#31A25531|thumb turned up
-#31A25532|thumb turned down
-#31A2554|postures and gestures of thumb and other fingers
-#31A25541|stroking with the thumb over the top of the index finger
-#31A25542|thumb between the index finger and the middle finger
-#31A25543|snapping one's fingers
-#31A2555|postures and gestures of the index finger
-#31A25551|index finger upwards
-#31A25552|index finger forwards, pointing, indicating
-#31A25553|crooking one's finger at a person, beckoning
-#31A2556|postures and gestures of index finger and middle finger
-#31A25561|index finger and middle finger raised, closed
-#31A25562|index finger and middle finger raised, spread out; V-sign
-#31A2559|postures and gestures of other fingers
-#31A256|gesture-language
-#31A259|still other postures and gestures of arm(s) and hand(s) not mentioned or meant under 31 A 25 1 up to 31 A 25 6
-#31A26|postures of the legs
-#31A261|legs in the same position
-#31A2611|both legs straight
-#31A26111|standing or leaning with both legs straight, side by side, feet flat on the ground
-#31A26112|standing or leaning with both legs straight, side by side, standing on tiptoe
-#31A26113|sitting or lying with both legs straight, side by side
-#31A26114|standing, leaning, sitting or lying with legs apart
-#31A26115|lying with legs raised, stretched out
-#31A2612|both legs bent
-#31A26121|standing with legs bent, side by side
-#31A26122|sitting with legs bent, side by side
-#31A26123|squatting with legs side by side
-#31A26124|both legs bent, side by side, knees on the ground; kneeling
-#31A26125|both legs bent, side by side, knees drawn up against the chest
-#31A26126|standing with legs bent, straddling
-#31A26127|sitting with legs bent, straddling
-#31A26128|sitting or lying with bent legs drawn up or raised
-#31A26129|sitting cross-legged, as tailor at work
-#31A261291|Buddha-posture, 'lotus'-posture
-#31A262|legs in different position
-#31A2621|one leg in front of the other
-#31A26211|one leg in front of the other, walking position
-#31A26212|one leg in front of the other, one knee bent, lunging
-#31A26213|legs bent with knees on the ground, one in front of the other
-#31A2622|bent legs extended forwards or backwards, with knee or foot placed on an elevation
-#31A2623|standing on one leg, the other leg forward
-#31A26231|standing on one leg, the other leg forward, straight
-#31A262311|standing on one leg, the other leg forward, (nearly) horizontally, goose-step, 'Hahnentritt'
-#31A26232|standing on one leg, the other leg forward, bent
-#31A262321|standing on one leg, the other leg forward, bent and drawn up
-#31A262322|standing on one leg, the other leg forward, held by hand(s)
-#31A2624|standing on one leg, the other leg held sideways
-#31A26241|standing on one leg, the other leg held sideways, straight
-#31A26242|standing on one leg, the other leg held sideways, bent
-#31A2625|standing on one leg, the other leg backwards
-#31A26251|standing on one leg, the other leg backwards, straight
-#31A26252|standing on one leg, the other leg backwards, bent
-#31A262521|standing on one leg, the other leg backwards, bent and drawn up
-#31A262522|standing on one leg, the other leg backwards held by hand(s)
-#31A2626|sitting or lying with one leg stretched forward and the other leg drawn up
-#31A2627|standing, leaning, sitting or lying with legs crossed
-#31A2628|sitting with side of the foot of one leg placed on the knee of the other
-#31A27|movements of the human body
-#31A271|forward movement of the human body
-#31A2711|walking
-#31A27111|pacing, striding
-#31A27112|running
-#31A27113|strolling
-#31A2712|crawling, going on all fours
-#31A27121|walking on the knees
-#31A2713|tottering, staggering, reeling
-#31A2714|hopping
-#31A2715|rolling
-#31A2716|somersaulting (hands touching the ground)
-#31A2717|walking on the hands
-#31A2719|backward movement
-#31A272|upward and downward movement
-#31A2721|jumping up
-#31A2722|pulling oneself up
-#31A2723|climbing
-#31A2724|jumping down
-#31A2725|descending
-#31A2726|trampling, treading, stamping on someone or something
-#31A273|passive motion
-#31A2731|falling
-#31A2732|slipping
-#31A27321|stumbling
-#31A2733|being carried
-#31A27331|being supported
-#31A2734|being dragged
-#31A2735|being thrown
-#31A274|movement ~ objects
-#31A2741|throwing something
-#31A27411|releasing something
-#31A27412|throwing down something
-#31A2742|reaching for something
-#31A2743|hitting at something
-#31A2744|kicking something
-#31A2745|grasping something
-#31A2746|breaking something
-#31A2747|drawing, pulling something
-#31A2748|pushing something
-#31A27481|turning something, (causing) circular movement
-#31A275|some 其它 movements
-#31A2751|curling up (movement of the human body)
-#31A2752|stretching (movement of the human body)
-#31A2753|rotating, twisting (movement of the human body)
-#31A2754|moving the arms
-#31A2755|moving the legs
-#31A2756|the back-bend
-#31A2757|the cartwheel (lateral somersault)
-#31A276|movement in the air
-#31A2761|ascending (movement in the air)
-#31A2762|flying
-#31A2763|floating in the air
-#31A27631|sitting or standing on clouds
-#31A2764|falling through the air
-#31A2765|somersaulting, 'salto mortale' (movement in the air)
-#31A277|movement in water
-#31A2771|wading, paddling
-#31A2772|bathing (movement in water)
-#31A2773|swimming (movement in water)
-#31A2774|floating (movement in water)
-#31A2775|diving (movement in water)
-#31A2776|sinking (movement in water)
-#31A2777|remaining suspended (movement in water)
-#31A2778|emerging from the water
-#31A2779|walking on the water
-#31A28|man and his shadow
-#31A281|shadow sold to the devil
-#31A2811|man without shadow
-#31A282|man following his shadow
-#31A283|man fighting his own shadow
-31A3|感觉
-#31A30|'Sensi', 'Sensi, come si possono rappresentare in una figura sola', 'Senso', 'Sentimenti del corpo' (Ripa)
-#31A31|sight, looking (one of the five senses)
-#31A310|'Viso' (Ripa)
-#31A311|eyeglasses, spectacles
-#31A3111|monocle, single lorgnette
-#31A3112|sun-glasses, dark-tinted glasses
-#31A312|magnifying glass
-#31A313|'figura cuncta videntis'
-#31A314|spying on someone
-#31A319|interference with sight
-#31A3191|blindfold
-#31A32|hearing, listening (one of the five senses)
-#31A320|'Udito' (Ripa)
-#31A321|hearing-aid
-#31A329|eavesdropper
-#31A33|smell, smelling (one of the five senses)
-#31A330|'Odorato' (Ripa)
-#31A331|agreeable smell
-#31A332|disagreeable, repellent smell
-#31A34|taste, tasting (one of the five senses)
-#31A340|'Gusto' (Ripa)
-#31A341|agreeable versus disagreeable taste
-#31A3411|agreeable taste
-#31A3412|disagreeable taste
-#31A342|sweet (taste)
-#31A3420|sweet taste, represented allegorically or symbolically
-#31A343|salt (taste)
-#31A344|sour (taste)
-#31A345|bitter (taste)
-#31A3450|bitter taste, represented allegorically or symbolically
-#31A35|feeling (one of the five senses)
-#31A350|'Tatto' (Ripa)
-#31A351|agreeable feeling
-#31A352|disagreeable feeling
-31A4|残疾，畸形，等
-#31A41|disabilities, deformations
-#31A411|disabilities affecting the eyes
-#31A4111|blind, blindness
-#31A41111|the blind leading the blind (Matthew 15:14)
-#31A41112|the halt leading the blind
-#31A41113|the blind hitting the hog
-#31A4112|cross-eyed; squint
-#31A4113|cataract
-#31A4114|near-sightedness, myopia
-#31A4115|far-sightedness
-#31A412|deaf, deafness
-#31A4121|deaf-mute, deaf and dumb
-#31A413|deformations of the head
-#31A4131|hare-lip
-#31A414|paralytic
-#31A415|crippled
-#31A4151|club-foot
-#31A4152|wooden leg
-#31A4153|crutches
-#31A4154|wheelchair, bathchair
-#31A4155|brace, calliper
-#31A416|crooked, bent person
-#31A417|hunchback
-#31A418|albino
-#31A419|mutilated person
-#31A4191|person with only one arm
-#31A42|human beings (legendary or not) of abnormal proportions, size, strength, etc.
-#31A421|giants, colossi
-#31A422|dwarfs
-#31A4221|pygmies, midgets
-#31A4222|goblins, hobgoblins
-#31A4223|'grylloi'
-#31A423|human beings with superhuman powers or achievements
-#31A423(...)|human beings with superhuman powers or achievements (名稱)
-#31A43|multiple birth (legendary)
-#31A431|very large number of births
-#31A431(...)|very large number of births (with NUMBER)
-31A44|怪物
-#31A441|anthropomorphic beings with parts missing
-#31A4411|'Acephalia', 'Blemyae', i.e. beings without head
-#31A4412|'Scopodes', 'Sciapodes', i.e. beings with one leg
-#31A4413|creatures with one eye
-#31A4414|'Acheiroi', i.e. creatures without hands
-#31A442|anthropomorphic beings with parts in greater number than normal
-#31A4421|three-faced being, 'vultus trifrons'
-#31A44211|'caput triciput', 'signum triceps'
-#31A4422|anthropomorphic being with two upper bodies
-#31A443|anthropomorphic beings with limbs, organs, etc. in unusual places
-#31A4431|'oculi in humeris habentes'
-#31A444|anthropomorphic beings with parts of abnormal shape
-#31A4441|excessive hairiness
-#31A44411|wild man, wodewose, woodehouse
-#31A44412|person with big beard
-31A45|半人半兽的怪物
-#31A451|monsters ~ animals in general (of undetermined kind)
-#31A4511|monsters with animal head
-#31A45111|monsters with three animal heads
-#31A4512|animals with human head
-#31A4512(...)|animals with human head (名稱)
-#31A452|monsters ~ 哺乳動物
-#31A4521|monsters ~ 家禽
-#31A45211|cynocephalus
-#31A4522|monsters ~ apes, 猴
-#31A4523|monsters ~ predatory animals (sphinx, 'manticora')
-#31A45231|sphinx (lion/woman); 'Sfinge' (Ripa)
-#31A45232|'manticora'
-#31A4524|monsters ~ 有蹄類動物
-#31A4525|monsters ~ trunked animals
-#31A4526|monsters ~ 囓齒目
-#31A4527|monsters ~ 水栖哺乳動物
-#31A4528|monsters ~ 會飛類哺乳動物
-#31A4529|monsters ~ 其它 哺乳動物
-#31A453|monsters ~鳥類
-#31A4531|siren (fabulous bird with woman's head)
-#31A454|monsters ~ reptiles
-#31A4541|monsters ~ lizards
-#31A4542|monsters ~ snakes
-#31A455|monsters ~ 水陸兩棲動物
-#31A456|monsters ~魚類
-#31A4561|merman
-#31A457|monsters ~ 低級動物
-#31A458|fabulous beings with wings
-#31A4581|fairy
-#31A4582|elf
-#31A46|diseases
-#31A461|pain
-#31A4611|fever
-#31A46110|'Febre' (Ripa)
-#31A462|diseases affecting the whole body
-#31A462(...)|diseases affecting the whole body (名稱)
-#31A4621|plague
-#31A46210|personification of plague
-#31A4622|leprosy
-#31A46221|leper's rattle
-#31A46222|leprosarium
-#31A46223|leper's procession
-#31A4623|(其它) contagious diseases
-#31A4623(...)|(其它) contagious diseases (名稱)
-#31A46230|contagious disease personified; 'Contagione' (Ripa)
-#31A4624|skin and venereal diseases
-#31A4624(...)|skin and venereal diseases (名稱)
-#31A4624(SYPHILIS)|skin and venereal diseases: syphilis
-#31A46241|itching
-#31A46242|ulcer
-#31A4625|dropsy
-#31A4626|aids
-#31A4629|poisoning
-#31A4629(...)|poisoning (名稱)
-#31A4629(ERGOTISM)|poisoning: ergotism
-#31A463|diseases affecting parts of the body
-#31A463(...)|diseases affecting parts of the body (名稱)
-#31A4631|fractures of bones
-#31A4632|infections and wounds
-#31A46321|scar, cicatrix
-#31A4633|diseases of the head or parts of the head
-#31A46331|headache
-#31A46332|cold (disease)
-#31A463321|sneezing
-#31A463322|coughing
-#31A46333|toothache
-#31A4634|tumours
-#31A46341|external tumours
-#31A46342|internal tumours
-#31A464|emotional illness, derangement, madness
-#31A4640|Madness
-#31A4641|possession (by demons)
-#31A4642|mania, obsession
-#31A46421|epidemic obsession
-#31A464211|dancing mania, St. Vitus's dance
-#31A469|health
-#31A4690|Health, 'Sanitas'; 'Sanità' (Ripa)
-#31A5|care of the body, hygiene
-#31A51|making toilet
-#31A511|mirror
-#31A5111|looking in the mirror; (possibly: contemplation of own beauty)
-#31A51111|reflection (in a mirror)
-#31A511111|distortion
-#31A5112|magic beautification
-#31A512|putting on jewels
-#31A513|making up
-#31A514|using scents, perfumes, ointments, etc.
-#31A5141|scents
-#31A5141(...)|scents (名稱)
-#31A5142|perfumes
-#31A5142(...)|perfumes (名稱)
-#31A5143|ointments
-#31A5144|powder ~ making toilet
-#31A5145|implements ~ making toilet
-#31A5145(...)|implements ~ making toilet (名稱)
-#31A51451|pomander, musk ball
-#31A51452|perfume bottle
-#31A51453|ointment-jar
-#31A51454|powder-box
-#31A51455|lipstick
-#31A515|painting of body or face
-#31A5151|tattooing
-#31A51511|tattoo
-#31A52|care of hands and feet
-#31A521|manicure
-#31A522|pedicure
-#31A523|'Spinario', child pulling a thorn out of its foot
-#31A53|hairdress
-#31A531|care of the hair
-#31A5311|comb, brush and 其它 tools (care of the hair)
-#31A532|hair-cutting
-#31A5321|hairdresser
-#31A533|styles of hairdress
-#31A533(...)|styles of hairdress (名稱)
-#31A5331|wig
-#31A5332|shaven head
-#31A5333|tonsure
-#31A5334|lock of hair
-#31A5339|baldness
-#31A534|beard
-#31A5341|moustache
-#31A5342|whiskers
-#31A53421|sideburns
-#31A5349|false beard or moustache
-#31A535|barber, barbershop
-#31A5351|razor
-#31A5352|barber's basin
-#31A5353|shaving, being shaved
-#31A53531|shaving oneself
-#31A539|tousled hair
-#31A54|washing and bathing
-#31A541|washing one's hands
-#31A542|washing one's face and head
-#31A5421|brushing one's teeth
-#31A54211|toothbrush
-#31A54212|toothpick
-#31A543|washing one's feet
-#31A544|washing another person's feet
-#31A545|taking a bath
-#31A5451|public baths
-#31A5452|hip-bath
-#31A5453|shower-bath
-#31A5454|tub-bath
-#31A5455|steambath
-#31A5459|'après le bain'
-#31A546|toilet articles ~ washing and bathing
-#31A5461|soap
-#31A54611|soap-bubble
-#31A5462|brush, sponge, etc. (toilet articles)
-#31A5463|towel
-#31A5464|bath-robe, dressing-gown
-#31A549|drying, being dried
-#31A55|dressing and undressing
-#31A551|dressing oneself, getting dressed
-#31A5511|lacing up a corset
-#31A552|undressing oneself, getting undressed
-#31A553|putting on (tying) or taking off (untying) sandals or shoes
-#31A5531|putting on or taking off stockings
-#31A554|dressing someone else
-#31A5541|stripping, undressing someone else
-#31A559|partially clothed
-#31A5591|négligé
-#31A56|servant
-#31A57|removing 昆蟲 from body
-#31A571|'motherly care', delousing
-#31A572|looking for fleas
-#31A58|body-building
-#31A59|absence of hygiene, uncleanliness
-#31A6|physical needs
-#31A61|urination
-#31A611|chamber-pot
-#31A62|defecation
-#31A621|flatulence
-#31A622|digestion
-#31A6220|'Digestione' (Ripa)
-#31A623|faeces, excrement
-#31A63|vomiting
-#31A631|hiccoughing
-#31A64|nose-blowing
-#31A65|spitting
-#31A651|spittle, spit
-#31A66|sweating, perspiration
-#31A7|the sexes (human being)
-#31A71|male sex; man
-#31A710|symbols of manhood
-#31A711|masculinity
-#31A712|beauty contest for men; body-building contest
-#31A7121|Mr Universe
-#31A719|womanish man, molly-coddle, milksop
-#31A7191|man doing woman's work
-#31A72|female sex; woman
-#31A720|symbols of femininity
-#31A721|femininity
-#31A7211|virginity
-#31A72110|'Verginità' (Ripa)
-#31A722|beauty contest for women
-#31A7221|Miss World
-#31A729|'virago', man-woman
-#31A73|hermaphrodite, androgyne
-#31A731|rebis, the divine hermaphrodite, reconciliation of spirit and matter ~ alchemy
-#31A74|transgender, transsexual
-#31A8|the body regarded as a machine
-#31A9|ways pretending to cure or improve parts of the body
-#31AA|the (nude) human figure; 'Corpo humano' (Ripa) - AA - female human figure
-#31AA1|canon, proportions - AA - female human figure
-#31AA11|standing figure (canon, proportions) - AA - female human figure
-#31AA12|figure in circle or square, legs apart and arms raised or stretched sidewards - AA - female human figure
-#31AA13|其它 systems or canons - AA - female human figure
-#31AA14|human figure of ideal proportions, e.g. academic nude - AA - female human figure
-#31AA140|allegorical representation of human figure of ideal proportions - AA - female human figure of ideal proportions; 'Bellezza feminile' (Ripa)
-#31AA141|nude with covered genitals - AA - female human figure
-#31AA19|'homo Platonis', 'animal bipes implume' - AA - female human figure
-#31AA2|anatomy (non-medical) - AA - female human figure
-#31AA21|(human) skeleton - AA - female human figure
-#31AA211|(human) skull - AA - female human figure
-#31AA2111|jaw (human) - AA - female human figure
-#31AA2112|teeth - AA - female human figure
-#31AA21121|front teeth - AA - female human figure
-#31AA21122|back teeth, molars - AA - female human figure
-#31AA212|thorax - AA - female human figure
-#31AA2121|ribs - AA - female human figure
-#31AA2122|spine - AA - female human figure
-#31AA2123|clavicle, collar-bone - AA - female human figure
-#31AA2124|scapula, shoulder-blade - AA - female human figure
-#31AA213|pelvis - AA - female human figure
-#31AA214|bones of the arms - AA - female human figure
-#31AA2141|humerus, bone of the upper arm - AA - female human figure
-#31AA2142|radius and ulna, bones of the lower arm - AA - female human figure
-#31AA2143|carpus and metacarpus, parts of the hand - AA - female human figure
-#31AA2144|phalanges of the fingers - AA - female human figure
-#31AA215|bones of the legs - AA - female human figure
-#31AA2151|femur, bone of the upper leg - AA - female human figure
-#31AA2152|tibia and fibula, bones of the lower leg - AA - female human figure
-#31AA2153|tarsus and metatarsus, parts of the foot - AA - female human figure
-#31AA2154|phalanges of the toes - AA - female human figure
-#31AA216|bones in general (human body) - AA - female human figure
-#31AA22|parts of the human body (skeleton excepted) - AA - female human figure
-#31AA221|head (human) - AA - female human figure
->>>>>>> origin/master
 #31AA2211|face - AA - mask (mould taken from face)
 #31AA22111|parts of the face - AA - mask (mould taken from face)
 #31AA22111(...)|parts of the face (名稱) - AA - mask (mould taken from face)
 #31AA22111(LIPS)|parts of the face: lips - AA - mask (mould taken from face)
 #31AA22111(NOSE)|parts of the face: nose - AA - mask (mould taken from face)
-<<<<<<< HEAD
 #31AA2212|eyes - AA - 女性人體
 #31AA22121|'imago omnia videntis' - AA - 女性人體
 #31AA2213|ears - AA - 女性人體
@@ -4541,141 +3244,6 @@
 #31AA246|head slanting to the right - AA - 女性人體
 #31AA247|looking over the shoulder - AA - 女性人體
 #31AA249|其它 postures of the head, not meant or mentioned above - AA - 女性人體
-=======
-#31AA2212|eyes - AA - female human figure
-#31AA22121|'imago omnia videntis' - AA - female human figure
-#31AA2213|ears - AA - female human figure
-#31AA2214|mouth - AA - female human figure
-#31AA22141|tongue - AA - female human figure
-#31AA2215|head (internal) - AA - female human figure
-#31AA22151|brains - AA - female human figure
-#31AA22152|nasal cavity - AA - female human figure
-#31AA22153|mouth and throat cavity - AA - female human figure
-#31AA222|chest, bust - AA - female human figure
-#31AA2221|heart - AA - female human figure
-#31AA22210|heart symbolism - AA - female human figure
-#31AA222101|profane heart symbolism ~ love - AA - female human figure
-#31AA22211|parts of the heart - AA - female human figure
-#31AA2222|lungs, bronchia - AA - female human figure
-#31AA22221|breathing, respiration - AA - female human figure
-#31AA22222|gasping for breath - AA - female human figure
-#31AA22229|suffocating - AA - female human figure
-#31AA2223|breasts - AA - female human figure
-#31AA22231|nipples - AA - female human figure
-#31AA22232|breasts giving milk - AA - female human figure
-#31AA2224|shoulder - AA - female human figure
-#31AA2225|back - AA - female human figure
-#31AA2226|torso - AA - female human figure
-#31AA223|abdomen, belly (human being) - AA - female human figure
-#31AA2231|external aspects ~ abdomen - AA - female human figure
-#31AA22311|navel - AA - female human figure
-#31AA22312|hip - AA - female human figure
-#31AA2232|glands - AA - female human figure
-#31AA22321|liver (human anatomy) - AA - female human figure
-#31AA22322|gall bladder - AA - female human figure
-#31AA22323|spleen - AA - female human figure
-#31AA2233|stomach - AA - female human figure
-#31AA22331|gullet - AA - female human figure
-#31AA2234|intestines - AA - female human figure
-#31AA2235|bladder - AA - female human figure
-#31AA2236|sexual organs (human) - AA - female human figure
-#31AA22361|male sexual organs - AA - female human figure
-#31AA223611|testicles - AA - female human figure
-#31AA223612|penis, phallus - AA - female human figure
-#31AA2236121|image of phallus, 'phallos' - AA - female human figure
-#31AA223613|sperm - AA - female human figure
-#31AA22362|female sexual organs - AA - female human figure
-#31AA223621|womb, uterus - AA - female human figure
-#31AA2236211|uterus with foetus - AA - female human figure
-#31AA223622|ovaries - AA - female human figure
-#31AA223623|menstruation - AA - female human figure
-#31AA2237|buttocks, 'partes posteriores' - AA - female human figure
-#31AA22371|anus - AA - female human figure
-#31AA224|arms - AA - female human figure
-#31AA2241|upper arm - AA - female human figure
-#31AA2242|elbow - AA - female human figure
-#31AA2243|lower arm - AA - female human figure
-#31AA2244|wrist - AA - female human figure
-#31AA2245|hand - AA - female human figure
-#31AA22451|hand-print - AA - female human figure
-#31AA2246|fingers - AA - female human figure
-#31AA22461|thumb - AA - female human figure
-#31AA22462|index finger, forefinger - AA - female human figure
-#31AA22463|middle finger, second finger - AA - female human figure
-#31AA22464|ring finger - AA - female human figure
-#31AA22465|little finger - AA - female human figure
-#31AA2247|nails (fingers) - AA - female human figure
-#31AA225|legs - AA - female human figure
-#31AA2251|upper leg - AA - female human figure
-#31AA2252|knee - AA - female human figure
-#31AA2253|lower leg - AA - female human figure
-#31AA2254|ankle - AA - female human figure
-#31AA2255|foot - AA - female human figure
-#31AA22551|heel - AA - female human figure
-#31AA22552|foot-print, track - AA - female human figure
-#31AA2256|toes - AA - female human figure
-#31AA2257|nails (toes) - AA - female human figure
-#31AA226|其它 anatomical details - AA - female human figure
-#31AA2261|blood circulation - AA - female human figure
-#31AA22611|blood - AA - female human figure
-#31AA22612|arteries - AA - female human figure
-#31AA22613|veins - AA - female human figure
-#31AA2262|skin (human) - AA - female human figure
-#31AA22621|hair - AA - female human figure
-#31AA22622|body hair - AA - female human figure
-#31AA22623|pubic hair - AA - female human figure
-#31AA2263|muscles - AA - female human figure
-#31AA2264|tendons, sinews - AA - female human figure
-#31AA2265|nerves - AA - female human figure
-#31AA23|postures of the human figure - AA - female human figure
-#31AA231|standing figure - AA - female human figure
-#31AA2311|'contrapposto', 'Standbein und Spielbein' - AA - female human figure
-#31AA2312|'figura serpentinata' - AA - female human figure
-#31AA2313|standing on one leg - AA - female human figure
-#31AA2319|standing on the head or on the hands - AA - female human figure
-#31AA232|leaning figure - AA - female human figure
-#31AA2321|leaning forward - AA - female human figure
-#31AA2322|leaning backward - AA - female human figure
-#31AA2323|leaning sideways - AA - female human figure
-#31AA233|kneeling figure - AA - female human figure
-#31AA2331|kneeling on both knees - AA - female human figure
-#31AA234|squatting, crouching figure - AA - female human figure
-#31AA2341|huddled figure - AA - female human figure
-#31AA235|sitting figure - AA - female human figure
-#31AA2351|sitting on the ground - AA - female human figure
-#31AA2352|sitting on an elevation - AA - female human figure
-#31AA2353|sitting with arms or elbows on the knees - AA - female human figure
-#31AA23531|sitting with hand(s) resting on the thigh or knee - AA - female human figure
-#31AA2354|sitting in someone's lap - AA - female human figure
-#31AA236|lying figure - AA - female human figure
-#31AA2361|lying on the back with uplifted upper part of the body - AA - female human figure
-#31AA2362|lying face downwards - AA - female human figure
-#31AA2363|lying on one side, stretched out - AA - female human figure
-#31AA2364|lying on one side, with uplifted upper part of the body and leaning on the arm - AA - female human figure
-#31AA2365|lying on the back with hands under the head - AA - female human figure
-#31AA2366|lying face downwards with hands under the head - AA - female human figure
-#31AA237|hanging figure (by the arms, legs, etc.) - AA - female human figure
-#31AA2371|hanging by the arms - AA - female human figure
-#31AA23711|hanging by one arm - AA - female human figure
-#31AA2372|hanging by the legs - AA - female human figure
-#31AA23721|hanging by one leg - AA - female human figure
-#31AA2373|hanging by 其它 parts of the body - AA - female human figure
-#31AA23731|hanging by the hair - AA - female human figure
-#31AA23732|hanging by the teeth - AA - female human figure
-#31AA239|其它 postures of the human figure, not meant or mentioned above - AA - female human figure
-#31AA2391|bending figure - AA - female human figure
-#31AA24|postures of the head - AA - female human figure
-#31AA241|head in normal upright position - AA - female human figure
-#31AA242|head turned sideways - AA - female human figure
-#31AA2421|head turned to the left - AA - female human figure
-#31AA2422|head turned to the right - AA - female human figure
-#31AA243|head bent backwards - AA - female human figure
-#31AA244|head bent forward; bowing - AA - female human figure
-#31AA245|head slanting to the left - AA - female human figure
-#31AA246|head slanting to the right - AA - female human figure
-#31AA247|looking over the shoulder - AA - female human figure
-#31AA249|其它 postures of the head, not meant or mentioned above - AA - female human figure
->>>>>>> origin/master
 #31AA25|postures and gestures of arms and hands - AA - both arms or hands
 #31AA251|postures and gestures of arms and hands in general - AA - both arms or hands
 #31AA2511|arm raised upward - AA - both arms or hands
@@ -4764,7 +3332,6 @@
 #31AA2559|postures and gestures of 其它 fingers - AA - both arms or hands
 #31AA256|gesture-language - AA - both arms or hands
 #31AA259|still 其它 postures and gestures of arm(s) and hand(s) not mentioned or meant under 31 A 25 1 up to 31 A 25 6 - AA - both arms or hands
-<<<<<<< HEAD
 #31AA26|postures of the legs - AA - 女性人體
 #31AA261|legs in the same position - AA - 女性人體
 #31AA2611|both legs straight - AA - 女性人體
@@ -4876,7 +3443,7 @@
 #31AA281|shadow sold to the devil - AA - 女性人體
 #31AA2811|man without shadow - AA - 女性人體
 #31AA282|man following his shadow - AA - 女性人體
-#31AA3|(五種)感覺 - AA - 女性人體
+31AA3|(五種)感覺 - AA - 女性人體
 #31AA30|'Sensi', 'Sensi, come si possono rappresentare in una figura sola', 'Senso', 'Sentimenti del corpo' (Ripa) - AA - 女性人體
 #31AA31|sight, looking (one of the five senses) - AA - 女性人體
 #31AA310|'Viso' (Ripa) - AA - 女性人體
@@ -4909,7 +3476,7 @@
 #31AA350|'Tatto' (Ripa) - AA - 女性人體
 #31AA351|agreeable feeling - AA - 女性人體
 #31AA352|disagreeable feeling - AA - 女性人體
-#31AA4|残疾，畸形，等等残疾，畸形和怪物;疾病 - AA - 女性人體
+31AA4|残疾，畸形，等等残疾，畸形和怪物;疾病 - AA - 女性人體
 #31AA41|disabilities, deformations - AA - 女性人體
 #31AA411|disabilities affecting the eyes - AA - 女性人體
 #31AA4111|blind, blindness - AA - metaphorically blind
@@ -4994,237 +3561,6 @@
 #31AA461|pain - AA - 女性人體
 #31AA4611|fever - AA - 女性人體
 #31AA46110|'Febre' (Ripa) - AA - 女性人體
-=======
-#31AA26|postures of the legs - AA - female human figure
-#31AA261|legs in the same position - AA - female human figure
-#31AA2611|both legs straight - AA - female human figure
-#31AA26111|standing or leaning with both legs straight, side by side, feet flat on the ground - AA - female human figure
-#31AA26112|standing or leaning with both legs straight, side by side, standing on tiptoe - AA - female human figure
-#31AA26113|sitting or lying with both legs straight, side by side - AA - female human figure
-#31AA26114|standing, leaning, sitting or lying with legs apart - AA - female human figure
-#31AA26115|lying with legs raised, stretched out - AA - female human figure
-#31AA2612|both legs bent - AA - female human figure
-#31AA26121|standing with legs bent, side by side - AA - female human figure
-#31AA26122|sitting with legs bent, side by side - AA - female human figure
-#31AA26123|squatting with legs side by side - AA - female human figure
-#31AA26124|both legs bent, side by side, knees on the ground; kneeling - AA - female human figure
-#31AA26125|both legs bent, side by side, knees drawn up against the chest - AA - female human figure
-#31AA26126|standing with legs bent, straddling - AA - female human figure
-#31AA26127|sitting with legs bent, straddling - AA - female human figure
-#31AA26128|sitting or lying with bent legs drawn up or raised - AA - female human figure
-#31AA26129|sitting cross-legged, as tailor at work - AA - female human figure
-#31AA261291|Buddha-posture, 'lotus'-posture - AA - female human figure
-#31AA262|legs in different position - AA - female human figure
-#31AA2621|one leg in front of the other - AA - female human figure
-#31AA26211|one leg in front of the other, walking position - AA - female human figure
-#31AA26212|one leg in front of the other, one knee bent, lunging - AA - female human figure
-#31AA26213|legs bent with knees on the ground, one in front of the other - AA - female human figure
-#31AA2622|bent legs extended forwards or backwards, with knee or foot placed on an elevation - AA - female human figure
-#31AA2623|standing on one leg, the other leg forward - AA - female human figure
-#31AA26231|standing on one leg, the other leg forward, straight - AA - female human figure
-#31AA262311|standing on one leg, the other leg forward, (nearly) horizontally, goose-step, 'Hahnentritt' - AA - female human figure
-#31AA26232|standing on one leg, the other leg forward, bent - AA - female human figure
-#31AA262321|standing on one leg, the other leg forward, bent and drawn up - AA - female human figure
-#31AA262322|standing on one leg, the other leg forward, held by hand(s) - AA - female human figure
-#31AA2624|standing on one leg, the other leg held sideways - AA - female human figure
-#31AA26241|standing on one leg, the other leg held sideways, straight - AA - female human figure
-#31AA26242|standing on one leg, the other leg held sideways, bent - AA - female human figure
-#31AA2625|standing on one leg, the other leg backwards - AA - female human figure
-#31AA26251|standing on one leg, the other leg backwards, straight - AA - female human figure
-#31AA26252|standing on one leg, the other leg backwards, bent - AA - female human figure
-#31AA262521|standing on one leg, the other leg backwards, bent and drawn up - AA - female human figure
-#31AA262522|standing on one leg, the other leg backwards held by hand(s) - AA - female human figure
-#31AA2626|sitting or lying with one leg stretched forward and the other leg drawn up - AA - female human figure
-#31AA2627|standing, leaning, sitting or lying with legs crossed - AA - female human figure
-#31AA2628|sitting with side of the foot of one leg placed on the knee of the other - AA - female human figure
-#31AA27|movements of the human body - AA - female human figure
-#31AA271|forward movement of the human body - AA - female human figure
-#31AA2711|walking - AA - female human figure
-#31AA27111|pacing, striding - AA - female human figure
-#31AA27112|running - AA - female human figure
-#31AA2712|crawling, going on all fours - AA - female human figure
-#31AA27121|walking on the knees - AA - female human figure
-#31AA2713|tottering, staggering, reeling - AA - female human figure
-#31AA2714|hopping - AA - female human figure
-#31AA2715|rolling - AA - female human figure
-#31AA2716|somersaulting (hands touching the ground) - AA - female human figure
-#31AA2717|walking on the hands - AA - female human figure
-#31AA2719|backward movement - AA - female human figure
-#31AA272|upward and downward movement - AA - female human figure
-#31AA2721|jumping up - AA - female human figure
-#31AA2722|pulling oneself up - AA - female human figure
-#31AA2723|climbing - AA - female human figure
-#31AA2724|jumping down - AA - female human figure
-#31AA2725|descending - AA - female human figure
-#31AA2726|trampling, treading, stamping on someone or something - AA - female human figure
-#31AA273|passive motion - AA - female human figure
-#31AA2731|falling - AA - female human figure
-#31AA2732|slipping - AA - female human figure
-#31AA27321|stumbling - AA - female human figure
-#31AA2733|being carried - AA - female human figure
-#31AA27331|being supported - AA - female human figure
-#31AA2734|being dragged - AA - female human figure
-#31AA2735|being thrown - AA - female human figure
-#31AA274|movement ~ objects - AA - female human figure
-#31AA2741|throwing something - AA - female human figure
-#31AA27411|releasing something - AA - female human figure
-#31AA27412|throwing down something - AA - female human figure
-#31AA2742|reaching for something - AA - female human figure
-#31AA2743|hitting at something - AA - female human figure
-#31AA2744|kicking something - AA - female human figure
-#31AA2745|grasping something - AA - female human figure
-#31AA2746|breaking something - AA - female human figure
-#31AA2747|drawing, pulling something - AA - female human figure
-#31AA2748|pushing something - AA - female human figure
-#31AA27481|turning something, (causing) circular movement - AA - female human figure
-#31AA275|some 其它 movements - AA - female human figure
-#31AA2751|curling up (movement of the human body) - AA - female human figure
-#31AA2752|stretching (movement of the human body) - AA - female human figure
-#31AA2753|rotating, twisting (movement of the human body) - AA - female human figure
-#31AA2754|moving the arms - AA - female human figure
-#31AA2755|moving the legs - AA - female human figure
-#31AA2756|the back-bend - AA - female human figure
-#31AA2757|the cartwheel (lateral somersault) - AA - female human figure
-#31AA276|movement in the air - AA - female human figure
-#31AA2761|ascending (movement in the air) - AA - female human figure
-#31AA2762|flying - AA - female human figure
-#31AA2763|floating in the air - AA - female human figure
-#31AA27631|sitting or standing on clouds - AA - female human figure
-#31AA2764|falling through the air - AA - female human figure
-#31AA2765|somersaulting, 'salto mortale' (movement in the air) - AA - female human figure
-#31AA277|movement in water - AA - female human figure
-#31AA2771|wading, paddling - AA - female human figure
-#31AA2772|bathing (movement in water) - AA - female human figure
-#31AA2773|swimming (movement in water) - AA - female human figure
-#31AA2774|floating (movement in water) - AA - female human figure
-#31AA2775|diving (movement in water) - AA - female human figure
-#31AA2776|sinking (movement in water) - AA - female human figure
-#31AA2777|remaining suspended (movement in water) - AA - female human figure
-#31AA2778|emerging from the water - AA - female human figure
-#31AA2779|walking on the water - AA - female human figure
-#31AA28|man and his shadow - AA - female human figure
-#31AA281|shadow sold to the devil - AA - female human figure
-#31AA2811|man without shadow - AA - female human figure
-#31AA282|man following his shadow - AA - female human figure
-#31AA3|the (five) senses - AA - female human figure
-#31AA30|'Sensi', 'Sensi, come si possono rappresentare in una figura sola', 'Senso', 'Sentimenti del corpo' (Ripa) - AA - female human figure
-#31AA31|sight, looking (one of the five senses) - AA - female human figure
-#31AA310|'Viso' (Ripa) - AA - female human figure
-#31AA311|eyeglasses, spectacles - AA - female human figure
-#31AA3111|monocle, single lorgnette - AA - female human figure
-#31AA3112|sun-glasses, dark-tinted glasses - AA - female human figure
-#31AA312|magnifying glass - AA - female human figure
-#31AA313|'figura cuncta videntis' - AA - female human figure
-#31AA314|spying on someone - AA - female human figure
-#31AA319|interference with sight - AA - female human figure
-#31AA3191|blindfold - AA - female human figure
-#31AA32|hearing, listening (one of the five senses) - AA - female human figure
-#31AA320|'Udito' (Ripa) - AA - female human figure
-#31AA321|hearing-aid - AA - female human figure
-#31AA329|eavesdropper - AA - female human figure
-#31AA33|smell, smelling (one of the five senses) - AA - female human figure
-#31AA330|'Odorato' (Ripa) - AA - female human figure
-#31AA331|agreeable smell - AA - female human figure
-#31AA332|disagreeable, repellent smell - AA - female human figure
-#31AA34|taste, tasting (one of the five senses) - AA - female human figure
-#31AA340|'Gusto' (Ripa) - AA - female human figure
-#31AA341|agreeable versus disagreeable taste - AA - female human figure
-#31AA3411|agreeable taste - AA - female human figure
-#31AA3412|disagreeable taste - AA - female human figure
-#31AA342|sweet (taste) - AA - female human figure
-#31AA343|salt (taste) - AA - female human figure
-#31AA344|sour (taste) - AA - female human figure
-#31AA345|bitter (taste) - AA - female human figure
-#31AA35|feeling (one of the five senses) - AA - female human figure
-#31AA350|'Tatto' (Ripa) - AA - female human figure
-#31AA351|agreeable feeling - AA - female human figure
-#31AA352|disagreeable feeling - AA - female human figure
-#31AA4|disabilities, deformations and monstrosities; diseases - AA - female human figure
-#31AA41|disabilities, deformations - AA - female human figure
-#31AA411|disabilities affecting the eyes - AA - female human figure
-#31AA4111|blind, blindness - AA - metaphorically blind
-#31AA4112|cross-eyed; squint - AA - female human figure
-#31AA4113|cataract - AA - female human figure
-#31AA4114|near-sightedness, myopia - AA - female human figure
-#31AA4115|far-sightedness - AA - female human figure
-#31AA412|deaf, deafness - AA - female human figure
-#31AA4121|deaf-mute, deaf and dumb - AA - female human figure
-#31AA413|deformations of the head - AA - female human figure
-#31AA4131|hare-lip - AA - female human figure
-#31AA414|paralytic - AA - female human figure
-#31AA415|crippled - AA - female human figure
-#31AA4151|club-foot - AA - female human figure
-#31AA4152|wooden leg - AA - female human figure
-#31AA4153|crutches - AA - female human figure
-#31AA4154|wheelchair, bathchair - AA - female human figure
-#31AA4155|brace, calliper - AA - female human figure
-#31AA416|crooked, bent person - AA - female human figure
-#31AA417|hunchback - AA - female human figure
-#31AA418|albino - AA - female human figure
-#31AA419|mutilated person - AA - female human figure
-#31AA42|human beings (legendary or not) of abnormal proportions, size, strength, etc. - AA - female human figure
-#31AA421|giants, colossi - AA - female human figure
-#31AA422|dwarfs - AA - female human figure
-#31AA4221|pygmies, midgets - AA - female human figure
-#31AA4222|goblins, hobgoblins - AA - female human figure
-#31AA4223|'grylloi' - AA - female human figure
-#31AA423|human beings with superhuman powers or achievements - AA - female human figure
-#31AA423(...)|human beings with superhuman powers or achievements (名稱) - AA - female human figure
-#31AA43|multiple birth (legendary) - AA - female human figure
-#31AA431|very large number of births - AA - female human figure
-#31AA431(...)|very large number of births (with NUMBER) - AA - female human figure
-#31AA44|anthropomorphic beings (legendary or not) with heads, limbs or organs of an abnormal number, in abnormal places or of an abnormal shape) - AA - female human figure
-#31AA441|anthropomorphic beings with parts missing - AA - female human figure
-#31AA4411|'Acephalia', 'Blemyae', i.e. beings without head - AA - female human figure
-#31AA4412|'Scopodes', 'Sciapodes', i.e. beings with one leg - AA - female human figure
-#31AA4413|creatures with one eye - AA - female human figure
-#31AA4414|'Acheiroi', i.e. creatures without hands - AA - female human figure
-#31AA442|anthropomorphic beings with parts in greater number than normal - AA - female human figure
-#31AA4421|three-faced being, 'vultus trifrons' - AA - female human figure
-#31AA44211|'caput triciput', 'signum triceps' - AA - female human figure
-#31AA4422|anthropomorphic being with two upper bodies - AA - female human figure
-#31AA443|anthropomorphic beings with limbs, organs, etc. in unusual places - AA - female human figure
-#31AA4431|'oculi in humeris habentes' - AA - female human figure
-#31AA444|anthropomorphic beings with parts of abnormal shape - AA - female human figure
-#31AA4441|excessive hairiness - AA - female
-#31AA44411|wild man, wodewose, woodehouse - AA - female
-#31AA44412|person with big beard - AA - female
-#31AA45|monsters of mixed human and animal shape; 'Mostri' (Ripa) - AA - female human figure
-#31AA451|monsters ~ animals in general (of undetermined kind) - AA - female human figure
-#31AA4511|monsters with animal head - AA - female human figure
-#31AA45111|monsters with three animal heads - AA - female human figure
-#31AA4512|animals with human head - AA - female human figure
-#31AA4512(...)|animals with human head (名稱) - AA - female human figure
-#31AA452|monsters ~ 哺乳動物 - AA - female human figure
-#31AA4521|monsters ~ 家禽 - AA - female human figure
-#31AA45211|cynocephalus - AA - female human figure
-#31AA4522|monsters ~ apes, 猴 - AA - female human figure
-#31AA4523|monsters ~ predatory animals (sphinx, 'manticora') - AA - female human figure
-#31AA45231|sphinx (lion/woman); 'Sfinge' (Ripa) - AA - female human figure
-#31AA45232|'manticora' - AA - female human figure
-#31AA4524|monsters ~ 有蹄類動物 - AA - female human figure
-#31AA4525|monsters ~ 象鼻類動物 - AA - female human figure
-#31AA4526|monsters ~ 囓齒目 - AA - female human figure
-#31AA4527|monsters ~ 水栖哺乳動物 - AA - female human figure
-#31AA4528|monsters ~ 會飛類哺乳動物 - AA - female human figure
-#31AA4529|monsters ~ 其它 哺乳動物 - AA - female human figure
-#31AA453|monsters ~鳥類 - AA - female
-#31AA4531|siren (fabulous bird with woman's head) - AA - female
-#31AA454|monsters ~ reptiles - AA - female human figure
-#31AA4541|monsters ~ lizards - AA - female human figure
-#31AA4542|monsters ~ snakes - AA - female human figure
-#31AA455|monsters ~ 水陸兩棲動物 - AA - female human figure
-#31AA456|monsters ~魚類 - AA - female human figure
-#31AA4561|merman - AA - mermaid, siren
-#31AA457|monsters ~ 低級動物 - AA - female human figure
-#31AA458|fabulous beings with wings - AA - female human figure
-#31AA4581|fairy - AA - female human figure
-#31AA4582|elf - AA - female human figure
-#31AA46|diseases - AA - female human figure
-#31AA461|pain - AA - female human figure
-#31AA4611|fever - AA - female human figure
-#31AA46110|'Febre' (Ripa) - AA - female human figure
->>>>>>> origin/master
 #31AA462|diseases affecting the whole body - AA - epidemic diseases
 #31AA462(...)|diseases affecting the whole body (名稱) - AA - epidemic diseases
 #31AA4621|plague - AA - plague epidemic
@@ -5246,7 +3582,6 @@
 #31AA4629|poisoning - AA - epidemic diseases
 #31AA4629(...)|poisoning (名稱) - AA - epidemic diseases
 #31AA4629(ERGOTISM)|poisoning: ergotism - AA - epidemic diseases
-<<<<<<< HEAD
 #31AA463|diseases affecting parts of the body - AA - 女性人體
 #31AA463(...)|diseases affecting parts of the body (名稱) - AA - 女性人體
 #31AA4631|fractures of bones - AA - 女性人體
@@ -5269,32 +3604,7 @@
 #31AA464211|dancing mania, St. Vitus's dance - AA - 女性人體
 #31AA469|health - AA - 女性人體
 #31AA4690|Health, 'Sanitas'; 'Sanità' (Ripa) - AA - 女性人體
-#31AA5|身體護理, 衛生 - AA - 女性人體
-=======
-#31AA463|diseases affecting parts of the body - AA - female human figure
-#31AA463(...)|diseases affecting parts of the body (名稱) - AA - female human figure
-#31AA4631|fractures of bones - AA - female human figure
-#31AA4632|infections and wounds - AA - female human figure
-#31AA46321|scar, cicatrix - AA - female human figure
-#31AA4633|diseases of the head or parts of the head - AA - female human figure
-#31AA46331|headache - AA - female human figure
-#31AA46332|cold (disease) - AA - female human figure
-#31AA463321|sneezing - AA - female human figure
-#31AA463322|coughing - AA - female human figure
-#31AA46333|toothache - AA - female human figure
-#31AA4634|tumours - AA - female human figure
-#31AA46341|external tumours - AA - female human figure
-#31AA46342|internal tumours - AA - female human figure
-#31AA464|emotional illness, derangement, madness - AA - female human figure
-#31AA4640|Madness - AA - female human figure
-#31AA4641|possession (by demons) - AA - female human figure
-#31AA4642|mania, obsession - AA - female human figure
-#31AA46421|epidemic obsession - AA - female human figure
-#31AA464211|dancing mania, St. Vitus's dance - AA - female human figure
-#31AA469|health - AA - female human figure
-#31AA4690|Health, 'Sanitas'; 'Sanità' (Ripa) - AA - female human figure
-#31AA5|care of the body, hygiene - AA - female human figure
->>>>>>> origin/master
+31AA5|身體護理, 衛生 - AA - 女性人體
 #31AA51|making toilet - AA - (for) women
 #31AA511|mirror - AA - (for) women
 #31AA5111|looking in the mirror; (possibly: contemplation of own beauty - AA - (for) women)
@@ -5377,12 +3687,11 @@
 #31AA559|partially clothed - AA - 女性人體
 #31AA5591|négligé - AA - 女性人體
 #31AA56|servant - AA - chambermaid
-<<<<<<< HEAD
 #31AA57|removing 昆蟲 from body - AA - 女性人體
 #31AA571|'motherly care', delousing - AA - 女性人體
 #31AA572|looking for fleas - AA - 女性人體
 #31AA58|body-building - AA - 女性人體
-#31AA6|生理需要 - AA - 女性人體
+31AA6|生理需要 - AA - 女性人體
 #31AA61|urination - AA - 女性人體
 #31AA611|chamber-pot - AA - 女性人體
 #31AA62|defecation - AA - 女性人體
@@ -5395,352 +3704,331 @@
 #31AA65|spitting - AA - 女性人體
 #31AA651|spittle, spit - AA - 女性人體
 #31AA66|sweating, perspiration - AA - 女性人體
-#31AA8|作為機器的身體 - AA - 女性人體
-#31AA9|裝著治癒或改進部份身體的各種辦法ways pretending to cure or improve parts of the body - AA - 女性人體
-=======
-#31AA57|removing 昆蟲 from body - AA - female human figure
-#31AA571|'motherly care', delousing - AA - female human figure
-#31AA572|looking for fleas - AA - female human figure
-#31AA58|body-building - AA - female human figure
-#31AA6|physical needs - AA - female human figure
-#31AA61|urination - AA - female human figure
-#31AA611|chamber-pot - AA - female human figure
-#31AA62|defecation - AA - female human figure
-#31AA621|flatulence - AA - female human figure
-#31AA622|digestion - AA - female human figure
-#31AA6220|'Digestione' (Ripa) - AA - female human figure
-#31AA63|vomiting - AA - female human figure
-#31AA631|hiccoughing - AA - female human figure
-#31AA64|nose-blowing - AA - female human figure
-#31AA65|spitting - AA - female human figure
-#31AA651|spittle, spit - AA - female human figure
-#31AA66|sweating, perspiration - AA - female human figure
-#31AA8|the body regarded as a machine - AA - female human figure
-#31AA9|ways pretending to cure or improve parts of the body - AA - female human figure
->>>>>>> origin/master
+31AA8|作為機器的身體 - AA - 女性人體
+31AA9|裝著治癒或改進部份身體的各種辦法ways pretending to cure or improve parts of the body - AA - 女性人體
 31B|心智，精神
-#31B0|象徵性的表現, 人格化寓言和象徵圖案 ~ 心智，精神
+31B0|象徵性的表現, 人格化寓言和象徵圖案 ~ 心智，精神
 31B1|睡眠
-#31B10|'Sonno' (Ripa)
-#31B11|在床上睡眠
-#31B12|在椅子上睡眠
-#31B13|在地上睡眠
-#31B14|打呵欠
-#31B15|伸懶腰 ~ 睡眠
-#31B16|去睡覺
-#31B161|上床
-#31B162|午睡
-#31B17|醒來
-#31B171|起床
-#31B18|無知覺
-#31B181|暈厥, 暈
-#31B19|休息
-#31B2|幻象
-#31B21|恍惚或狂喜中的幻象
-#31B3|夢
-#31B31|噩夢
-#31B32|夢遊
-#31B33|預言性的夢
-#31B34|解夢
-#31B4|催眠和暗示
-#31B5|受飲料、藥物或興奮劑影響的心智
-#31B51|陶醉
-#31B52|酒醉
-#31B520|'Ubriachezza' (Ripa)
-#31B521|醉漢
-#31B522|醉漢的打鬧 (通常農民在酒館裡打架)
-#31B53|癮癖
-#31B531|酗酒
-#31B59|清醒自制; 'Sobrietà', 'Astinenza' (Ripa)
-#31B591|戒酒, 絕對戒酒主義
-#31B6|人類表情的形態
-#31B61|一般性人類表情的形態
-#31B62|面部表情的形態
-#31B621|面部表情的形態 ~ 眼
-#31B6211|仰視
-#31B6212|俯視
-#31B6213|側視
-#31B6214|哭泣
-#31B62141|淚
-#31B6215|皺眉
-#31B6216|抬起眉毛
-#31B6217|閉目
-#31B62171|一隻眼睛閉起來, 眨眼
-#31B622|面部表情的形態 ~ 鼻
-#31B6221|鼻子朝上
-#31B6222|捏著鼻子
-#31B6223|鼻孔完全張開
-#31B623|面部表情的形態 ~ 口
-#31B6231|緊閉雙脣
-#31B62311|雙脣關閉像是要親吻lips pressed together as for a kiss
-#31B62312|吹口哨或發出噓聲
-#31B62313|微笑
-#31B6232|口微開
-#31B62321|笑
-#31B623210|'Riso' (Ripa)
-#31B62322|作怪相
-#31B62323|舌頭伸出來
-#31B6233|口大開
-#31B62331|口大開, 牙齒緊閉
-#31B6234|咀嚼
-#31B62341|咬
-#31B6235|說話
-#31B62350|嗓音
-#31B62351|哭, 喊叫
-#31B62352|耳語,私語
-#31B62359|不出聲
-#31B623591|一個手指放在嘴唇上, 'Silentium'; 'Silentio' (Ripa)
-#31B623592|一條帶子綁在嘴上
-#31B624|面部表情的形態 ~ 雙頰,腮
-#31B6241|雙頰圓潤
-#31B6242|面頰深陷
-#31B625|面部表情的形態 ~ 額頭
-#31B6251|充滿皺紋的額頭
-#31B626|面部表情的形態 ~ 頭頂
-#31B6261|頭髮豎起
-#31B6262|拉頭髮
-#31B6263|撓頭
-#31B7|智者
-#31B71|天才
-#31B710|'Genio' (Ripa)
-#31B8|蠢材,傻瓜, 笨蛋
-#31B81|裝著治癒傻瓜的各種辦法ways pretending to cure simpletons (民俗)
-#31B811|剃頭shaving (裝著治癒傻瓜的各種辦法pretending to cure simpletons)
+31B10|'Sonno' (Ripa)
+31B11|在床上睡眠
+31B12|在椅子上睡眠
+31B13|在地上睡眠
+31B14|打呵欠
+31B15|伸懶腰 ~ 睡眠
+31B16|去睡覺
+31B161|上床
+31B162|午睡
+31B17|醒來
+31B171|起床
+31B18|無知覺
+31B181|暈厥, 暈
+31B19|休息
+31B2|幻象
+31B21|恍惚或狂喜中的幻象
+31B3|夢
+31B31|噩夢
+31B32|夢遊
+31B33|預言性的夢
+31B34|解夢
+31B4|催眠和暗示
+31B5|受飲料、藥物或興奮劑影響的心智
+31B51|陶醉
+31B52|酒醉
+31B520|'Ubriachezza' (Ripa)
+31B521|醉漢
+31B522|醉漢的打鬧 (通常農民在酒館裡打架)
+31B53|癮癖
+31B531|酗酒
+31B59|清醒自制; 'Sobrietà', 'Astinenza' (Ripa)
+31B591|戒酒, 絕對戒酒主義
+31B6|人類表情的形態
+31B61|一般性人類表情的形態
+31B62|面部表情的形態
+31B621|面部表情的形態 ~ 眼
+31B6211|仰視
+31B6212|俯視
+31B6213|側視
+31B6214|哭泣
+31B62141|淚
+31B6215|皺眉
+31B6216|抬起眉毛
+31B6217|閉目
+31B62171|一隻眼睛閉起來, 眨眼
+31B622|面部表情的形態 ~ 鼻
+31B6221|鼻子朝上
+31B6222|捏著鼻子
+31B6223|鼻孔完全張開
+31B623|面部表情的形態 ~ 口
+31B6231|緊閉雙脣
+31B62311|雙脣關閉像是要親吻lips pressed together as for a kiss
+31B62312|吹口哨或發出噓聲
+31B62313|微笑
+31B6232|口微開
+31B62321|笑
+31B623210|'Riso' (Ripa)
+31B62322|作怪相
+31B62323|舌頭伸出來
+31B6233|口大開
+31B62331|口大開, 牙齒緊閉
+31B6234|咀嚼
+31B62341|咬
+31B6235|說話
+31B62350|嗓音
+31B62351|哭, 喊叫
+31B62352|耳語,私語
+31B62359|不出聲
+31B623591|一個手指放在嘴唇上, 'Silentium'; 'Silentio' (Ripa)
+31B623592|一條帶子綁在嘴上
+31B624|面部表情的形態 ~ 雙頰,腮
+31B6241|雙頰圓潤
+31B6242|面頰深陷
+31B625|面部表情的形態 ~ 額頭
+31B6251|充滿皺紋的額頭
+31B626|面部表情的形態 ~ 頭頂
+31B6261|頭髮豎起
+31B6262|拉頭髮
+31B6263|撓頭
+31B7|智者
+31B71|天才
+31B710|'Genio' (Ripa)
+31B8|蠢材,傻瓜, 笨蛋
+31B81|裝著治癒傻瓜的各種辦法ways pretending to cure simpletons (民俗)
+31B811|剃頭 (裝著治癒傻瓜的各種辦法pretending to cure simpletons)
 #31B812|烘焙腦袋, 如by the baker of Eeclo (heads temporarily replaced by cabbages)
 #31B813|purging (裝著治癒傻瓜的各種辦法pretending to cure simpletons)
 #31B814|pouring fluid into body, with the aid of a funnel
-#31B9|智者與蠢材
-#31BB1|sleeping; unconsciousness - BB - 戶外
-#31BB10|'Sonno' (Ripa) - BB - 戶外
-#31BB11|sleeping in bed - BB - 戶外
-#31BB12|sleeping in chair - BB - 戶外
-#31BB13|sleeping on the ground - BB - 戶外
-#31BB14|yawning - BB - 戶外
-#31BB15|stretching ~ sleep - BB - 戶外
-#31BB16|going to sleep - BB - 戶外
-#31BB161|going to bed - BB - 戶外
-#31BB162|siesta - BB - 戶外
-#31BB17|waking up - BB - 戶外
-#31BB171|getting up from bed - BB - 戶外
-#31BB18|unconsciousness - BB - 戶外
-#31BB181|fainting, swooning - BB - 戶外
-#31BB19|resting - BB - 戶外
+31B9|智者與蠢材
+31BB1|睡眠; 無知覺 - BB - 戶外
+31BB10|'Sonno' (Ripa) - BB - 戶外
+31BB11|在床上睡眠 - BB - 戶外
+31BB12|在椅子上睡眠 - BB - 戶外
+31BB13|在地上睡眠 - BB - 戶外
+31BB14|打呵欠 - BB - 戶外
+31BB15|伸懶腰 ~ sleep - BB - 戶外
+31BB16|去睡覺 - BB - 戶外
+31BB161|上床 - BB - 戶外
+31BB162|午睡 - BB - 戶外
+31BB17|醒來 - BB - 戶外
+31BB171|起床 - BB - 戶外
+31BB18|無知覺 - BB - 戶外
+31BB181|暈厥, 暈 - BB - 戶外
+31BB19|休息 - BB - 戶外
 31C|精神（或靈魂）或身體
 31D|人生与年齡
-#31D1|人的年齡
-#31D11|the first years ~ 人的年齡
-#31D110|Infancy (alleg.)
-#31D111|嬰兒, baby ~ 人的年齡
-#31D1111|男性嬰兒
-#31D1112|女性嬰兒
-#31D112|孩童
-#31D1120|Childhood (alleg.)
-#31D1121|tot, toddler ~ 人的年齡
-#31D11211|toddler (male)
-#31D11212|toddler (female)
-#31D1122|child between toddler and youth (of undetermined sex)
-#31D11221|boy (child between toddler and youth)
-#31D112210|Boyhood (alleg.)
-#31D11222|girl (child between toddler and youth)
-#31D112220|Girlhood (alleg.)
-#31D1129|philosophical child ~ alchemy
-#31D12|youth, young man, adolescent
-#31D120|Youth, Adolescence, 'Iuventus'; 'Adolescenza', 'Gioventù' (Ripa)
-#31D13|adolescent, young woman, maiden
-#31D130|Maidenhood
-#31D14|adult man
-#31D140|Adulthood, Majority; 'Virilità' (Ripa)
-#31D15|adult woman
-#31D150|Womanhood
-#31D16|old man
-#31D160|Old Age, 'Senectus'; 'Vecchiezza' (Ripa)
-#31D161|'beau vieillard'
-#31D162|ugly old man
-#31D17|old woman
-#31D171|beautiful old woman, 'belle vieille'
-#31D172|ugly old woman, hag
-#31D2|human life divided into stages
-#31D2(...)|human life divided into stages, e.g. three, four, seven, twelve stages (with NUMBER)
-#31D21|the ages of man represented by a staircase
-#31D21(...)|the ages of man represented by a staircase (with NUMBER of steps)
-#31D3|human life divided into decades
-#31D30|0-10 years
-#31D31|10-20 years
-#31D32|20-30 years
-#31D33|30-40 years
-#31D34|40-50 years
-#31D35|50-60 years
-#31D36|60-70 years
-#31D37|70-80 years
-#31D38|80-90 years
-#31D39|90-100 years
-#31D4|birthday
-#31D4(...)|birthday (with NUMBER of years)
-31D41|... years old
-31D41(...)|... years old (with NUMBER of years)
-#31D5|young versus old age; young and old
-#31D51|children behaving like adults
-#31D52|adults behaving like children
-#31D6|rejuvenation
-#31D61|fountain of youth, 'Fontaine de Jouvence'
-#31D62|rejuvenation by means of fire, or by boiling
-#31D7|unnatural aging
-#31D71|'paidogeron', i.e. child or youth with beard or 其它 sign of old age
-#31D8|personal name
-#31D81|nameday
-#31D82|the individual and his name
-#31D83|pseudonym
-#31D84|nickname
-#31D85|giving or receiving a name
-#31D9|the lifespan
-#31D90|'Età in generale' (Ripa)
-#31D91|long life
-#31D910|'Vita longa' (Ripa)
-#31D92|short life
-#31D920|'Velocità della vita humana', 'Vita breve' (Ripa)
-#31DD3|human life divided into decades - DD - decades above 100 years
-#31DD30|0-10 years - DD - decades above 100 years
-#31DD31|10-20 years - DD - decades above 100 years
-#31DD32|20-30 years - DD - decades above 100 years
-#31DD33|30-40 years - DD - decades above 100 years
-#31DD34|40-50 years - DD - decades above 100 years
-#31DD35|50-60 years - DD - decades above 100 years
-#31DD36|60-70 years - DD - decades above 100 years
-#31DD37|70-80 years - DD - decades above 100 years
-#31DD38|80-90 years - DD - decades above 100 years
-#31DD39|90-100 years - DD - decades above 100 years
+31D1|人的年齡
+31D11|幼年 ~ 人的年齡
+31D110|嬰兒期 (alleg.)
+31D111|嬰兒,  ~ 人的年齡
+31D1111|男性嬰兒
+31D1112|女性嬰兒
+31D112|孩童
+31D1120|兒童 (alleg.)
+31D1121|娃娃, 蹣跚學步的兒童 ~ 人的年齡
+31D11211|蹣跚學步的兒童 (男性)
+31D11212|蹣跚學步的兒童 (女性)
+31D1122|蹣跚學步與少年之間的孩童 (性別不確定)
+31D11221|男孩 (蹣跚學步與少年之間)
+31D112210|男孩 (alleg.)
+31D11222|女孩 (蹣跚學步與少年之間)
+31D112220|女孩 (alleg.)
+31D1129|哲學孩童 ~ 煉金術
+31D12|青年男子, 青年人, 少年人
+31D120|青年, 少年, 'Iuventus'; 'Adolescenza', 'Gioventù' (Ripa)
+31D13|少年, 少女, 閨女
+31D130|未婚的閨女
+31D14|成年
+31D140|成年, (法定)成年; 'Virilità' (Ripa)
+31D15|成年女性
+31D150|女性
+31D16|老年男人
+31D160|老年, 'Senectus'; 'Vecchiezza' (Ripa)
+31D161|'beau vieillard'
+31D162|醜陋的老年男子
+31D17|老婦
+31D171|美麗的老年女子, 'belle vieille'
+31D172|醜陋的老年女子, 老醜婦
+31D2|人生分成幾個階段
+31D2(...)|人生分成幾個階段, 如三、四、七、十二個階段 (數字)
+31D21|人的年齡用台階來表現
+31D21(...)|人的年齡用台階來表現 (台階的數目)
+31D3|人生分成十年為一個階段
+31D30|0-10 歲
+31D31|10-20 歲
+31D32|20-30 歲
+31D33|30-40 歲
+31D34|40-50 歲
+31D35|50-60 歲
+31D36|60-70 歲
+31D37|70-80 歲
+31D38|80-90 歲
+31D39|90-100 歲
+31D4|生日
+31D4(...)|生日(歲的數目)
+31D41|... 歲
+31D41(...)|... 歲 (歲的數目)
+31D5|青年與老年; 年輕與年老
+31D51|兒童表現的像成人
+31D52|成人表現的像兒童
+31D6|回春,返老還童
+31D61|青春之泉, 'Fontaine de Jouvence'
+31D62|用火或煮的辦法返老還童
+31D7|不自然地變老
+31D71|'paidogeron', 即長鬍鬚的兒童或少年人,或其它變老的跡象
+31D8|取名
+31D81|取名日
+31D82|個人及其名子
+31D83|假名
+31D84|綽號
+31D85| 給予或被給予名子
+31D9|壽命
+31D90|'Età in generale' (Ripa)
+31D91|長壽
+31D910|'Vita longa' (Ripa)
+31D92|短壽
+31D920|'Velocità della vita humana', 'Vita breve' (Ripa)
+31DD3|人生分成十年為一個階段 - DD - 超過一百歲
+31DD30|0-10 歲 - DD - 超過一百歲
+31DD31|10-20 歲 - DD - 超過一百歲
+31DD32|20-30 歲 - DD - 超過一百歲
+31DD33|30-40 歲 - DD - 超過一百歲
+31DD34|40-50 歲 - DD - 超過一百歲
+31DD35|50-60 歲 - DD - 超過一百歲
+31DD36|60-70 歲 - DD - 超過一百歲
+31DD37|70-80 歲 - DD - 超過一百歲
+31DD38|80-90 歲 - DD - 超過一百歲
+31DD39|90-100 歲 - DD - 超過一百歲
 31E|死亡
-#31E1|dying
-#31E11|settlement of affairs ~ dying
-#31E111|making a testament
-#31E112|assembly of relatives ~ dying person
-#31E113|last words and last favours, nuncupate
-#31E12|deathbed
-#31E121|death with faith (peaceful death) versus death without faith (fear of death)
-#31E122|peaceful dying, happy death
-#31E1221|euthanasia, bringing about of easy death
-#31E123|death struggle, inquiet death; fear of death
-#31E13|'Ars moriendi'
-#31E14|death at various ages
-#31E141|still-born child
-#31E142|death of a child
-#31E143|death of a young person
-#31E144|death of an adult person
-#31E15|going to heaven without dying, translation
-#31E2|causes of death
-#31E21|natural death
-#31E211|death in old age
-#31E212|death by disease
-#31E213|'sudden death'
-#31E22|death by accident (non-violent death)
-#31E221|accidental death ~ water
-#31E2211|death by drowning (non-violent)
-#31E2212|drowned person
-#31E222|accidental death ~ temperature
-#31E2221|accidental death by heat
-#31E22211|accidental death ~ fire
-#31E2222|accidental death ~ cold
-#31E223|accidental death ~ internal causes
-#31E2231|accidental death ~ hunger
-#31E2232|accidental death ~ thirst
-#31E2233|accidental death ~ deprivation of air, suffocating
-#31E2234|accidental death ~ poison
-#31E224|accidental death by falling objects
-#31E225|dying from the effects of a fall
-#31E228|death caused by effects of natural surroundings, especially natural catastrophes
-#31E229|death caused by undesired effects of human activities, in traffic, at work, etc.
-31E23|暴死, 橫死
-#31E231|violent death ~ elements
-#31E2311|violent death ~ water
-#31E23111|drowning (violent death ~ water)
-#31E231111|keelhauling
-#31E23112|continuous dripping (violent death ~ water)
-#31E2312|violent death ~ fire
-#31E23121|violent death by burning at the stake; pyre
-#31E231211|violent death by burning on the gridiron
-#31E23122|violent death by having part of the body tortured with fire
-#31E231221|violent death by boiling
-#31E23123|violent death by electrocution
-#31E231231|violent death in electric chair
-#31E2313|violent death ~ earth
-#31E23131|buried alive (violent death)
-#31E231311|entirely buried (violent death)
-#31E231312|partially buried
-#31E23132|walled-in alive (violent death)
-#31E2314|violent death ~ air
-#31E23141|deprivation of air, choking
-#31E23142|violent death by gassing; asphyxiation
-#31E23143|violent death ~ dangerous fumes
-#31E232|violent death ~ temperature
-#31E2321|violent death by heat (boiling lead, burning coal, etc.)
-#31E2322|violent death by cold
-#31E23221|violent death by freezing
-#31E233|violent death ~ internal causes
-#31E2331|violent death by starvation
-#31E23319|violent death by overfeeding, force feeding
-#31E2332|violent death by thirst
-#31E2333|violent death by poison
-#31E23331|violent death by poison in food
-#31E23332|violent death by poison in drink
-#31E233321|violent death by poisoned cup
-#31E23333|violent death by bite or sting of poisonous animal
-#31E233331|violent death by snake-bite
-#31E23334|violent death by poisoned object
-#31E23335|violent death by poisonous injection
-#31E234|violent death by blows, kicks, pricks, etc.
-#31E2341|violent death ~ throwing of heavy object
-#31E23411|violent death by stoning
-#31E2342|violent death by blow on the head
-#31E23421|violent death by blow on the head with object
-#31E23422|violent death by blow on the head with missile
-#31E23423|violent death by blow on the head with the hand
-#31E2343|violent death by blows elsewhere
-#31E23431|violent death by scourging
-#31E2344|violent death by rasping
-#31E2345|violent death by pricking
-#31E23451|violent death in a barrel with nails driven through the sides
-#31E2346|violent death by weapon
-#31E23461|violent death by arrow(s)
-#31E23462|violent death by lance, spear
-#31E23463|violent death by cleaving and striking weapons
-#31E234631|violent death by sword
-#31E234632|violent death by dagger, knife
-#31E2347|violent death by firearms
-#31E23471|violent death by bomb, hand-grenade
-#31E23472|violent death by fusillade
-#31E2348|violent death ~ being thrown (from a height), being thrown into a pit
-#31E23481|violent death ~ being thrown through a trap-door
-#31E235|violent death ~ maltreatment, torture
-#31E2351|violent death by stretching
-#31E2352|violent death by bending
-#31E2353|violent death by being bound in unusual position
-#31E23531|violent death by breaking on the wheel
-#31E23532|violent death by being bound, tied, behind vehicle or animal
-#31E2354|violent death by strangling
-#31E23541|violent death by pressing
-#31E2355|violent death by hanging
-#31E2356|violent death by crucifixion
-#31E23561|violent death by crucifixion upright
-#31E23562|violent death by crucifixion upside down
-#31E23563|violent death by crucifixion on X-shaped cross
-#31E236|violent death by mutilation or maiming
-#31E2361|violent death by breaking of bones
-#31E2362|violent death by removal of parts of the body by cutting, sawing, tearing
-#31E23621|violent death by beheading
-#31E236211|violent death ~ beheading by guillotine
+31E1|臨終
+31E11|了結事宜 ~ 臨終
+31E111|立遺囑
+31E112|告別親屬 ~ 臨終的人
+31E113|遺言和遺囑, 口頭宣布(遺囑)
+31E12|臨終所臥之床
+31E121|有信仰之死 (平安之死)與無信仰之死(恐懼之死)
+31E122|平安之臨終, 幸福之死
+31E1221|安然去世
+31E123|垂死掙扎;恐懼之死 
+31E13|'Ars moriendi'
+31E14|不同年齡的死亡
+31E141|生下來已死的嬰兒
+31E142|兒童之死
+31E143|年青人之死
+31E144|成年人之死
+31E15|沒有臨終的升天, 升天translation
+31E2|死亡的原因
+31E21|自然死亡
+31E211|老死
+31E212|病死
+31E213|'sudden death'
+31E22|非自然死亡 (非暴力死亡)
+31E221|非自然死亡 ~ 水
+31E2211|溺水而死 (非暴力)
+31E2212|溺水者
+31E222|非自然死亡 ~ 溫度
+31E2221|高溫死亡
+31E22211|非自然死亡 ~ 火
+31E2222|非自然死亡 ~ 冷
+31E223|非自然死亡 ~ 內在原因
+31E2231|非自然死亡 ~ 飢餓
+31E2232|非自然死亡 ~ 口渴
+31E2233|非自然死亡 ~ 缺乏空氣,窒息
+31E2234|非自然死亡 ~ 毒藥
+31E224|因下墜物體的非自然死亡
+31E225|因墜落而死
+31E228|因自然環境的死亡, 特別是自然災害
+31E229|因人的行動造成的死亡, 交通, 工作過程中, 等等
+31E23|暴力死亡, 被殺死; 因處理不當; 尋死
+31E231|暴力死亡 ~ 四元素
+31E2311|暴力死亡 ~ 水
+31E23111|溺水 (暴力死亡 ~ 水)
+31E231111|放在船底
+31E23112|持續灌水continuous dripping (暴力死亡 ~ 水)
+31E2312|暴力死亡 ~ 火
+31E23121|放在柴火堆上燒導致的暴力死亡
+31E231211|被放在鐵架上烤導致的暴力死亡
+31E23122|部分身體被火折磨導致的暴力死亡
+31E231221|被煮導致的暴力死亡
+31E23123|被電擊導致的暴力死亡
+31E231231|電椅上的暴力死亡
+31E2313|暴力死亡 ~ 土
+31E23131|活埋 (暴力死亡)
+31E231311|全身活埋 (暴力死亡)
+31E231312|半身活埋
+#31E23132|walled-in alive (暴力死亡)
+31E2314|暴力死亡 ~ 氣
+#31E23141|缺乏空氣,窒息
+#31E23142|毒氣導致的暴力死亡; 悶死
+#31E23143|暴力死亡 ~ 危險的煙氣
+#31E232|暴力死亡 ~ 溫度
+#31E2321|高溫導致的暴力死亡 (沸騰的鉛水, 灼熱的煤, 等等)
+#31E2322|低溫導致的暴力死亡
+#31E23221|冷凝導致的暴力死亡
+#31E233|暴力死亡 ~ 內在原因
+#31E2331|飢餓導致的暴力死亡
+#31E23319|暴食導致的暴力死亡
+#31E2332|口渴導致的暴力死亡
+#31E2333|毒藥導致的暴力死亡
+#31E23331|在食物中放毒藥導致的暴力死亡
+#31E23332|在飲料中放毒藥導致的暴力死亡
+#31E233321|因杯中毒藥導致的暴力死亡
+#31E23333|被有毒的動物咬或叮導致的暴力死亡
+#31E233331|被毒蛇咬導致的暴力死亡
+#31E23334|有毒的物體導致的暴力死亡
+#31E23335|注射毒藥導致的暴力死亡
+#31E234|被擊打、踢、刺等等導致的暴力死亡
+#31E2341|暴力死亡 ~ 拋擲重物
+#31E23411|被亂石砸擊導致的暴力死亡
+#31E2342|頭部被擊打導致的暴力死亡
+#31E23421|頭部被物體擊打導致的暴力死亡
+#31E23422|頭部被投射物打擊導致的暴力死亡
+#31E23423|頭部被拳擊導致的暴力死亡
+#31E2343|身體其它部分被打擊導致的暴力死亡
+#31E23431|被拷打導致的暴力死亡
+#31E2344|暴力死亡by rasping
+#31E2345|被刺導致的暴力死亡
+#31E23451|放在布滿鐵釘的滾筒裡導致的暴力死亡
+#31E2346|武器造成的暴力死亡
+#31E23461|因中箭導致的暴力死亡
+#31E23462|因長槍長矛導致的暴力死亡
+#31E23463|因劈擊型武器造成的暴力死亡
+#31E234631|因劍導致的暴力死亡
+#31E234632|因匕首短刀導致的暴力死亡
+#31E2347|火器造成的暴力死亡
+#31E23471|暴力死亡 by bomb, hand-grenade
+#31E23472|暴力死亡 by fusillade
+#31E2348|暴力死亡 ~ being thrown (from a height), being thrown into a pit
+#31E23481|暴力死亡 ~ being thrown through a trap-door
+#31E235|暴力死亡 ~ maltreatment, torture
+#31E2351|暴力死亡 by stretching
+#31E2352|暴力死亡 by bending
+#31E2353|暴力死亡 by being bound in unusual position
+#31E23531|暴力死亡 by breaking on the wheel
+#31E23532|暴力死亡 by being bound, tied, behind vehicle or animal
+#31E2354|暴力死亡 by strangling
+#31E23541|暴力死亡 by pressing
+#31E2355|暴力死亡 by hanging
+#31E2356|暴力死亡 by crucifixion
+#31E23561|暴力死亡 by crucifixion upright
+#31E23562|暴力死亡 by crucifixion upside down
+#31E23563|暴力死亡 by crucifixion on X-shaped cross
+#31E236|暴力死亡 by mutilation or maiming
+#31E2361|暴力死亡 by breaking of bones
+#31E2362|暴力死亡 by removal of parts of the body by cutting, sawing, tearing
+#31E23621|暴力死亡 by beheading
+#31E236211|暴力死亡 ~ beheading by guillotine
 #31E236212|headless body of a beheaded person
 #31E236219|head of a beheaded person
 #31E2362191|head of a beheaded person on a plate
 #31E2362192|head of a beheaded person on post or pole
 #31E2362193|maltreatment of the head of a beheaded person
-#31E23622|violent death by tearing out of tongue
-#31E23623|violent death by disembowelment, pulling out of intestines
-#31E23624|violent death by quartering
-#31E23625|violent death by blinding
-#31E2363|violent death by flaying
-#31E2364|violent death by opening of arteries
-#31E2365|violent death by throwing to the wild animals
-#31E237|violent death by psychological means
+#31E23622|暴力死亡 by tearing out of tongue
+#31E23623|暴力死亡 by disembowelment, pulling out of intestines
+#31E23624|暴力死亡 by quartering
+#31E23625|暴力死亡 by blinding
+#31E2363|暴力死亡 by flaying
+#31E2364|暴力死亡 by opening of arteries
+#31E2365|暴力死亡 by throwing to the wild animals
+#31E237|暴力死亡 by psychological means
 #31E238|seeking death, suicide
 #31E2381|self-sacrifice, death in the service of a higher purpose
 #31E2382|suicide out of despair
@@ -5758,7 +4046,7 @@
 #31E5|life versus death
 #31E51|meeting between the (three) living and the (three) dead
 #31E52|'Et in Arcadia ego'
-#31EE22|death by accident (non-violent death) - EE - getting wounded by accident (death not involved)
+#31EE22|death by accident (non-暴力死亡) - EE - getting wounded by accident (death not involved)
 #31EE221|accidental death ~ water - EE - getting wounded by accident (death not involved)
 #31EE2211|death by drowning (non-violent) - EE - getting wounded by accident (death not involved)
 #31EE2212|drowned person - EE - getting wounded by accident (death not involved)
@@ -5775,98 +4063,98 @@
 #31EE225|dying from the effects of a fall - EE - getting wounded by accident (death not involved)
 #31EE228|death caused by effects of natural surroundings, especially natural catastrophes - EE - getting wounded by accident (death not involved)
 #31EE229|death caused by undesired effects of human activities, in traffic, at work, etc. - EE - getting wounded by accident (death not involved)
-#31EE23|violent death, being killed; being mishandled and maltreated; seeking death - EE - death not certain; wounded person
-#31EE231|violent death ~ elements - EE - death not certain; wounded person
-#31EE2311|violent death ~ water - EE - death not certain; wounded person
-#31EE23111|drowning, 'walking the plank' (violent death ~ water) - EE - death not certain; wounded person
+#31EE23|暴力死亡, being killed; being mishandled and maltreated; seeking death - EE - death not certain; wounded person
+#31EE231|暴力死亡 ~ elements - EE - death not certain; wounded person
+#31EE2311|暴力死亡 ~ water - EE - death not certain; wounded person
+#31EE23111|drowning, 'walking the plank' (暴力死亡 ~ water) - EE - death not certain; wounded person
 #31EE231111|keelhauling - EE - death not certain; wounded person
-#31EE23112|continuous dripping (violent death ~ water) - EE - death not certain; wounded person
-#31EE2312|violent death ~ fire - EE - death not certain; wounded person
-#31EE23121|violent death by burning at the stake; pyre - EE - death not certain; wounded person
-#31EE231211|violent death by burning on the gridiron - EE - death not certain; wounded person
-#31EE23122|violent death by having part of the body tortured with fire - EE - death not certain; wounded person
-#31EE231221|violent death by boiling - EE - death not certain; wounded person
-#31EE23123|violent death by electrocution - EE - death not certain; wounded person
-#31EE231231|violent death in electric chair - EE - death not certain; wounded person
-#31EE2313|violent death ~ earth - EE - death not certain; wounded person
-#31EE23131|buried alive (violent death) - EE - death not certain; wounded person
-#31EE231311|entirely buried (violent death) - EE - death not certain; wounded person
+#31EE23112|continuous dripping (暴力死亡 ~ water) - EE - death not certain; wounded person
+#31EE2312|暴力死亡 ~ fire - EE - death not certain; wounded person
+#31EE23121|暴力死亡 by burning at the stake; pyre - EE - death not certain; wounded person
+#31EE231211|暴力死亡 by burning on the gridiron - EE - death not certain; wounded person
+#31EE23122|暴力死亡 by having part of the body tortured with fire - EE - death not certain; wounded person
+#31EE231221|暴力死亡 by boiling - EE - death not certain; wounded person
+#31EE23123|暴力死亡 by electrocution - EE - death not certain; wounded person
+#31EE231231|暴力死亡 in electric chair - EE - death not certain; wounded person
+#31EE2313|暴力死亡 ~ earth - EE - death not certain; wounded person
+#31EE23131|buried alive (暴力死亡) - EE - death not certain; wounded person
+#31EE231311|entirely buried (暴力死亡) - EE - death not certain; wounded person
 #31EE231312|partially buried - EE - death not certain; wounded person
-#31EE23132|walled-in alive (violent death) - EE - death not certain; wounded person
-#31EE2314|violent death ~ air - EE - death not certain; wounded person
+#31EE23132|walled-in alive (暴力死亡) - EE - death not certain; wounded person
+#31EE2314|暴力死亡 ~ air - EE - death not certain; wounded person
 #31EE23141|deprivation of air, choking - EE - death not certain; wounded person
-#31EE23142|violent death by gassing; asphyxiation - EE - death not certain; wounded person
-#31EE23143|violent death ~ dangerous fumes - EE - death not certain; wounded person
-#31EE232|violent death ~ temperature - EE - death not certain; wounded person
-#31EE2321|violent death by heat (boiling lead, burning coal, etc.) - EE - death not certain; wounded person
-#31EE2322|violent death by cold - EE - death not certain; wounded person
-#31EE23221|violent death by freezing - EE - death not certain; wounded person
-#31EE233|violent death ~ internal causes - EE - death not certain; wounded person
-#31EE2331|violent death by starvation - EE - death not certain; wounded person
-#31EE23319|violent death by overfeeding, force feeding - EE - death not certain; wounded person
-#31EE2332|violent death by thirst - EE - death not certain; wounded person
-#31EE2333|violent death by poison - EE - death not certain; wounded person
-#31EE23331|violent death by poison in food - EE - death not certain; wounded person
-#31EE23332|violent death by poison in drink - EE - death not certain; wounded person
-#31EE233321|violent death by poisoned cup - EE - death not certain; wounded person
-#31EE23333|violent death by bite or sting of poisonous animal - EE - death not certain; wounded person
-#31EE233331|violent death by snake-bite - EE - death not certain; wounded person
-#31EE23334|violent death by poisoned object - EE - death not certain; wounded person
-#31EE23335|violent death by poisonous injection - EE - death not certain; wounded person
-#31EE234|violent death by blows, kicks, pricks, etc. - EE - death not certain; wounded person
-#31EE2341|violent death ~ throwing of heavy object - EE - death not certain; wounded person
-#31EE23411|violent death by stoning - EE - death not certain; wounded person
-#31EE2342|violent death by blow on the head - EE - death not certain; wounded person
-#31EE23421|violent death by blow on the head with object - EE - death not certain; wounded person
-#31EE23422|violent death by blow on the head with missile - EE - death not certain; wounded person
-#31EE23423|violent death by blow on the head with the hand - EE - death not certain; wounded person
-#31EE2343|violent death by blows elsewhere - EE - death not certain; wounded person
-#31EE23431|violent death by scourging - EE - death not certain; wounded person
-#31EE2344|violent death by rasping - EE - death not certain; wounded person
-#31EE2345|violent death by pricking - EE - death not certain; wounded person
-#31EE23451|violent death in a barrel with nails driven through the sides - EE - death not certain; wounded person
-#31EE2346|violent death by weapon - EE - death not certain; wounded person
-#31EE23461|violent death by arrow(s) - EE - death not certain; wounded person
-#31EE23462|violent death by lance, spear - EE - death not certain; wounded person
-#31EE23463|violent death by cleaving and striking weapons - EE - death not certain; wounded person
-#31EE234631|violent death by sword - EE - death not certain; wounded person
-#31EE234632|violent death by dagger, knife - EE - death not certain; wounded person
-#31EE2347|violent death by firearms - EE - death not certain; wounded person
-#31EE23471|violent death by bomb, hand-grenade - EE - death not certain; wounded person
-#31EE23472|violent death by fusillade - EE - death not certain; wounded person
-#31EE2348|violent death ~ being thrown (from a height), being thrown into a pit - EE - death not certain; wounded person
-#31EE23481|violent death ~ being thrown through a trap-door - EE - death not certain; wounded person
-#31EE235|violent death ~ maltreatment, torture - EE - death not certain; wounded person
-#31EE2351|violent death by stretching - EE - death not certain; wounded person
-#31EE2352|violent death by bending - EE - death not certain; wounded person
-#31EE2353|violent death by being bound in unusual position - EE - death not certain; wounded person
-#31EE23531|violent death by breaking on the wheel - EE - death not certain; wounded person
-#31EE23532|violent death by being bound, tied, behind vehicle or animal - EE - death not certain; wounded person
-#31EE2354|violent death by strangling - EE - death not certain; wounded person
-#31EE23541|violent death by pressing - EE - death not certain; wounded person
-#31EE2355|violent death by hanging - EE - death not certain; wounded person
-#31EE2356|violent death by crucifixion - EE - death not certain; wounded person
-#31EE23561|violent death by crucifixion upright - EE - death not certain; wounded person
-#31EE23562|violent death by crucifixion upside down - EE - death not certain; wounded person
-#31EE23563|violent death by crucifixion on X-shaped cross - EE - death not certain; wounded person
-#31EE236|violent death by mutilation or maiming - EE - death not certain; wounded person
-#31EE2361|violent death by breaking of bones - EE - death not certain; wounded person
-#31EE2362|violent death by removal of parts of the body by cutting, sawing, tearing - EE - death not certain; wounded person
-#31EE23621|violent death by beheading - EE - death not certain; wounded person
-#31EE236211|violent death ~ beheading by guillotine - EE - death not certain; wounded person
+#31EE23142|暴力死亡 by gassing; asphyxiation - EE - death not certain; wounded person
+#31EE23143|暴力死亡 ~ dangerous fumes - EE - death not certain; wounded person
+#31EE232|暴力死亡 ~ temperature - EE - death not certain; wounded person
+#31EE2321|暴力死亡 by heat (boiling lead, burning coal, etc.) - EE - death not certain; wounded person
+#31EE2322|暴力死亡 by cold - EE - death not certain; wounded person
+#31EE23221|暴力死亡 by freezing - EE - death not certain; wounded person
+#31EE233|暴力死亡 ~ internal causes - EE - death not certain; wounded person
+#31EE2331|暴力死亡 by starvation - EE - death not certain; wounded person
+#31EE23319|暴力死亡 by overfeeding, force feeding - EE - death not certain; wounded person
+#31EE2332|暴力死亡 by thirst - EE - death not certain; wounded person
+#31EE2333|暴力死亡 by poison - EE - death not certain; wounded person
+#31EE23331|暴力死亡 by poison in food - EE - death not certain; wounded person
+#31EE23332|暴力死亡 by poison in drink - EE - death not certain; wounded person
+#31EE233321|暴力死亡 by poisoned cup - EE - death not certain; wounded person
+#31EE23333|暴力死亡 by bite or sting of poisonous animal - EE - death not certain; wounded person
+#31EE233331|暴力死亡 by snake-bite - EE - death not certain; wounded person
+#31EE23334|暴力死亡 by poisoned object - EE - death not certain; wounded person
+#31EE23335|暴力死亡 by poisonous injection - EE - death not certain; wounded person
+#31EE234|暴力死亡 by blows, kicks, pricks, etc. - EE - death not certain; wounded person
+#31EE2341|暴力死亡 ~ throwing of heavy object - EE - death not certain; wounded person
+#31EE23411|暴力死亡 by stoning - EE - death not certain; wounded person
+#31EE2342|暴力死亡 by blow on the head - EE - death not certain; wounded person
+#31EE23421|暴力死亡 by blow on the head with object - EE - death not certain; wounded person
+#31EE23422|暴力死亡 by blow on the head with missile - EE - death not certain; wounded person
+#31EE23423|暴力死亡 by blow on the head with the hand - EE - death not certain; wounded person
+#31EE2343|暴力死亡 by blows elsewhere - EE - death not certain; wounded person
+#31EE23431|暴力死亡 by scourging - EE - death not certain; wounded person
+#31EE2344|暴力死亡 by rasping - EE - death not certain; wounded person
+#31EE2345|暴力死亡 by pricking - EE - death not certain; wounded person
+#31EE23451|暴力死亡 in a barrel with nails driven through the sides - EE - death not certain; wounded person
+#31EE2346|暴力死亡 by weapon - EE - death not certain; wounded person
+#31EE23461|暴力死亡 by arrow(s) - EE - death not certain; wounded person
+#31EE23462|暴力死亡 by lance, spear - EE - death not certain; wounded person
+#31EE23463|暴力死亡 by cleaving and striking weapons - EE - death not certain; wounded person
+#31EE234631|暴力死亡 by sword - EE - death not certain; wounded person
+#31EE234632|暴力死亡 by dagger, knife - EE - death not certain; wounded person
+#31EE2347|暴力死亡 by firearms - EE - death not certain; wounded person
+#31EE23471|暴力死亡 by bomb, hand-grenade - EE - death not certain; wounded person
+#31EE23472|暴力死亡 by fusillade - EE - death not certain; wounded person
+#31EE2348|暴力死亡 ~ being thrown (from a height), being thrown into a pit - EE - death not certain; wounded person
+#31EE23481|暴力死亡 ~ being thrown through a trap-door - EE - death not certain; wounded person
+#31EE235|暴力死亡 ~ maltreatment, torture - EE - death not certain; wounded person
+#31EE2351|暴力死亡 by stretching - EE - death not certain; wounded person
+#31EE2352|暴力死亡 by bending - EE - death not certain; wounded person
+#31EE2353|暴力死亡 by being bound in unusual position - EE - death not certain; wounded person
+#31EE23531|暴力死亡 by breaking on the wheel - EE - death not certain; wounded person
+#31EE23532|暴力死亡 by being bound, tied, behind vehicle or animal - EE - death not certain; wounded person
+#31EE2354|暴力死亡 by strangling - EE - death not certain; wounded person
+#31EE23541|暴力死亡 by pressing - EE - death not certain; wounded person
+#31EE2355|暴力死亡 by hanging - EE - death not certain; wounded person
+#31EE2356|暴力死亡 by crucifixion - EE - death not certain; wounded person
+#31EE23561|暴力死亡 by crucifixion upright - EE - death not certain; wounded person
+#31EE23562|暴力死亡 by crucifixion upside down - EE - death not certain; wounded person
+#31EE23563|暴力死亡 by crucifixion on X-shaped cross - EE - death not certain; wounded person
+#31EE236|暴力死亡 by mutilation or maiming - EE - death not certain; wounded person
+#31EE2361|暴力死亡 by breaking of bones - EE - death not certain; wounded person
+#31EE2362|暴力死亡 by removal of parts of the body by cutting, sawing, tearing - EE - death not certain; wounded person
+#31EE23621|暴力死亡 by beheading - EE - death not certain; wounded person
+#31EE236211|暴力死亡 ~ beheading by guillotine - EE - death not certain; wounded person
 #31EE236212|headless body of a beheaded person - EE - death not certain; wounded person
 #31EE236219|head of a beheaded person - EE - death not certain; wounded person
 #31EE2362191|head of a beheaded person on a plate - EE - death not certain; wounded person
 #31EE2362192|head of a beheaded person on post or pole - EE - death not certain; wounded person
 #31EE2362193|maltreatment of the head of a beheaded person - EE - death not certain; wounded person
-#31EE23622|violent death by tearing out of tongue - EE - death not certain; wounded person
-#31EE23623|violent death by disembowelment, pulling out of intestines - EE - death not certain; wounded person
-#31EE23624|violent death by quartering - EE - death not certain; wounded person
-#31EE23625|violent death by blinding - EE - death not certain; wounded person
-#31EE2363|violent death by flaying - EE - death not certain; wounded person
-#31EE2364|violent death by opening of arteries - EE - death not certain; wounded person
-#31EE2365|violent death by throwing to the wild animals - EE - death not certain; wounded person
-#31EE237|violent death by psychological means - EE - death not certain; wounded person
+#31EE23622|暴力死亡 by tearing out of tongue - EE - death not certain; wounded person
+#31EE23623|暴力死亡 by disembowelment, pulling out of intestines - EE - death not certain; wounded person
+#31EE23624|暴力死亡 by quartering - EE - death not certain; wounded person
+#31EE23625|暴力死亡 by blinding - EE - death not certain; wounded person
+#31EE2363|暴力死亡 by flaying - EE - death not certain; wounded person
+#31EE2364|暴力死亡 by opening of arteries - EE - death not certain; wounded person
+#31EE2365|暴力死亡 by throwing to the wild animals - EE - death not certain; wounded person
+#31EE237|暴力死亡 by psychological means - EE - death not certain; wounded person
 #31EE238|seeking death, suicide - EE - death not certain; wounded person
 #31EE2381|self-sacrifice, death in the service of a higher purpose - EE - death not certain; wounded person
 #31EE2382|suicide out of despair - EE - death not certain; wounded person
