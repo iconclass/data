@@ -2379,7 +2379,7 @@
 26F3|天氣產生的後果, 如乾旱後, 暴風雨前, 旋風之後
 26G|海市蜃樓，“海市蜃樓”
 26H|其它氣象
-29|Surrealia, 超現實的再現
+29|Suurealia, 超現實的再現
 29A|動物像人類那樣活動
 29A1|'mundus inversus', 顛倒的世界, 顛三倒四的世界, 'le monde bestourné'
 29A2|植物或樹木像人類那樣活動,或與人類進行比較
@@ -2399,7 +2399,7 @@
 31A19|'homo Platonis', 'animal bipes implume'
 31A2|人體解剖(非醫學)
 31A21|骨骼
-31A211|(人類) 頭骨
+31A211|(人類) 顱骨
 31A2111|牙床 (人類)
 31A2112|牙齒
 31A21121|門牙
@@ -3920,24 +3920,24 @@
 31E211|老死
 31E212|病死
 31E213|'sudden death'
-31E22|非自然死亡 (非暴力死亡)
-31E221|非自然死亡 ~ 水
+31E22|意外死亡 (非暴力死亡)
+31E221|意外死亡 ~ 水
 31E2211|溺水而死 (非暴力)
 31E2212|溺水者
-31E222|非自然死亡 ~ 溫度
+31E222|意外死亡 ~ 溫度
 31E2221|高溫死亡
-31E22211|非自然死亡 ~ 火
-31E2222|非自然死亡 ~ 冷
-31E223|非自然死亡 ~ 內在原因
-31E2231|非自然死亡 ~ 飢餓
-31E2232|非自然死亡 ~ 口渴
-31E2233|非自然死亡 ~ 缺乏空氣,窒息
-31E2234|非自然死亡 ~ 毒藥
+31E22211|意外死亡 ~ 火
+31E2222|意外死亡 ~ 冷
+31E223|意外死亡 ~ 內在原因
+31E2231|意外死亡 ~ 飢餓
+31E2232|意外死亡 ~ 口渴
+31E2233|意外死亡 ~ 缺乏空氣,窒息
+31E2234|意外死亡 ~ 毒藥
 31E224|因下墜物體的非自然死亡
 31E225|因墜落而死
 31E228|因自然環境的死亡, 特別是自然災害
 31E229|因人的行動造成的死亡, 交通, 工作過程中, 等等
-31E23|暴力死亡, 被殺死; 因處理不當; 尋死
+31E23|暴力死亡, 被殺死; 因虐待; 尋死
 31E231|暴力死亡 ~ 四元素
 31E2311|暴力死亡 ~ 水
 31E23111|溺水 (暴力死亡 ~ 水)
@@ -3956,562 +3956,562 @@
 31E231312|半身活埋
 #31E23132|walled-in alive (暴力死亡)
 31E2314|暴力死亡 ~ 氣
-#31E23141|缺乏空氣,窒息
-#31E23142|毒氣導致的暴力死亡; 悶死
-#31E23143|暴力死亡 ~ 危險的煙氣
-#31E232|暴力死亡 ~ 溫度
-#31E2321|高溫導致的暴力死亡 (沸騰的鉛水, 灼熱的煤, 等等)
-#31E2322|低溫導致的暴力死亡
-#31E23221|冷凝導致的暴力死亡
-#31E233|暴力死亡 ~ 內在原因
-#31E2331|飢餓導致的暴力死亡
-#31E23319|暴食導致的暴力死亡
-#31E2332|口渴導致的暴力死亡
-#31E2333|毒藥導致的暴力死亡
-#31E23331|在食物中放毒藥導致的暴力死亡
-#31E23332|在飲料中放毒藥導致的暴力死亡
-#31E233321|因杯中毒藥導致的暴力死亡
-#31E23333|被有毒的動物咬或叮導致的暴力死亡
-#31E233331|被毒蛇咬導致的暴力死亡
-#31E23334|有毒的物體導致的暴力死亡
-#31E23335|注射毒藥導致的暴力死亡
-#31E234|被擊打、踢、刺等等導致的暴力死亡
-#31E2341|暴力死亡 ~ 拋擲重物
-#31E23411|被亂石砸擊導致的暴力死亡
-#31E2342|頭部被擊打導致的暴力死亡
-#31E23421|頭部被物體擊打導致的暴力死亡
-#31E23422|頭部被投射物打擊導致的暴力死亡
-#31E23423|頭部被拳擊導致的暴力死亡
-#31E2343|身體其它部分被打擊導致的暴力死亡
-#31E23431|被拷打導致的暴力死亡
-#31E2344|暴力死亡by rasping
-#31E2345|被刺導致的暴力死亡
-#31E23451|放在布滿鐵釘的滾筒裡導致的暴力死亡
-#31E2346|武器造成的暴力死亡
-#31E23461|因中箭導致的暴力死亡
-#31E23462|因長槍長矛導致的暴力死亡
-#31E23463|因劈擊型武器造成的暴力死亡
-#31E234631|因劍導致的暴力死亡
-#31E234632|因匕首短刀導致的暴力死亡
-#31E2347|火器造成的暴力死亡
-#31E23471|暴力死亡 by bomb, hand-grenade
-#31E23472|暴力死亡 by fusillade
-#31E2348|暴力死亡 ~ being thrown (from a height), being thrown into a pit
-#31E23481|暴力死亡 ~ being thrown through a trap-door
-#31E235|暴力死亡 ~ maltreatment, torture
-#31E2351|暴力死亡 by stretching
-#31E2352|暴力死亡 by bending
-#31E2353|暴力死亡 by being bound in unusual position
-#31E23531|暴力死亡 by breaking on the wheel
-#31E23532|暴力死亡 by being bound, tied, behind vehicle or animal
-#31E2354|暴力死亡 by strangling
-#31E23541|暴力死亡 by pressing
-#31E2355|暴力死亡 by hanging
-#31E2356|暴力死亡 by crucifixion
-#31E23561|暴力死亡 by crucifixion upright
-#31E23562|暴力死亡 by crucifixion upside down
-#31E23563|暴力死亡 by crucifixion on X-shaped cross
-#31E236|暴力死亡 by mutilation or maiming
-#31E2361|暴力死亡 by breaking of bones
-#31E2362|暴力死亡 by removal of parts of the body by cutting, sawing, tearing
-#31E23621|暴力死亡 by beheading
-#31E236211|暴力死亡 ~ beheading by guillotine
-#31E236212|headless body of a beheaded person
-#31E236219|head of a beheaded person
-#31E2362191|head of a beheaded person on a plate
-#31E2362192|head of a beheaded person on post or pole
-#31E2362193|maltreatment of the head of a beheaded person
-#31E23622|暴力死亡 by tearing out of tongue
-#31E23623|暴力死亡 by disembowelment, pulling out of intestines
-#31E23624|暴力死亡 by quartering
-#31E23625|暴力死亡 by blinding
-#31E2363|暴力死亡 by flaying
-#31E2364|暴力死亡 by opening of arteries
-#31E2365|暴力死亡 by throwing to the wild animals
-#31E237|暴力死亡 by psychological means
-#31E238|seeking death, suicide
-#31E2381|self-sacrifice, death in the service of a higher purpose
-#31E2382|suicide out of despair
-#31E3|the corpse
-#31E31|certification of death, autopsy, post-mortem examination
-#31E311|emission of last breath confirmed by placing a feather or a mirror under the nose
-#31E32|apparent death
-#31E321|(attempts at) reanimation, e.g. by artificial respiration
-#31E33|decomposition (of dead body)
-#31E331|corpse preserved by natural causes
-#31E3311|the miner of Falun
-#31E3312|natural mummification
-#31E34|finding a dead person
-#31E4|raising from the dead
-#31E5|life versus death
-#31E51|meeting between the (three) living and the (three) dead
-#31E52|'Et in Arcadia ego'
-#31EE22|death by accident (non-暴力死亡) - EE - getting wounded by accident (death not involved)
-#31EE221|accidental death ~ water - EE - getting wounded by accident (death not involved)
-#31EE2211|death by drowning (non-violent) - EE - getting wounded by accident (death not involved)
-#31EE2212|drowned person - EE - getting wounded by accident (death not involved)
-#31EE222|accidental death ~ temperature - EE - getting wounded by accident (death not involved)
-#31EE2221|accidental death by heat - EE - getting wounded by accident (death not involved)
-#31EE22211|accidental death ~ fire - EE - getting wounded by accident (death not involved)
-#31EE2222|accidental death ~ cold - EE - getting wounded by accident (death not involved)
-#31EE223|accidental death ~ internal causes - EE - getting wounded by accident (death not involved)
-#31EE2231|accidental death ~ hunger - EE - getting wounded by accident (death not involved)
-#31EE2232|accidental death ~ thirst - EE - getting wounded by accident (death not involved)
-#31EE2233|accidental death ~ deprivation of air, suffocating - EE - getting wounded by accident (death not involved)
-#31EE2234|accidental death ~ poison - EE - getting wounded by accident (death not involved)
-#31EE224|accidental death by falling objects - EE - getting wounded by accident (death not involved)
-#31EE225|dying from the effects of a fall - EE - getting wounded by accident (death not involved)
-#31EE228|death caused by effects of natural surroundings, especially natural catastrophes - EE - getting wounded by accident (death not involved)
-#31EE229|death caused by undesired effects of human activities, in traffic, at work, etc. - EE - getting wounded by accident (death not involved)
-#31EE23|暴力死亡, being killed; being mishandled and maltreated; seeking death - EE - death not certain; wounded person
-#31EE231|暴力死亡 ~ elements - EE - death not certain; wounded person
-#31EE2311|暴力死亡 ~ water - EE - death not certain; wounded person
-#31EE23111|drowning, 'walking the plank' (暴力死亡 ~ water) - EE - death not certain; wounded person
-#31EE231111|keelhauling - EE - death not certain; wounded person
-#31EE23112|continuous dripping (暴力死亡 ~ water) - EE - death not certain; wounded person
-#31EE2312|暴力死亡 ~ fire - EE - death not certain; wounded person
-#31EE23121|暴力死亡 by burning at the stake; pyre - EE - death not certain; wounded person
-#31EE231211|暴力死亡 by burning on the gridiron - EE - death not certain; wounded person
-#31EE23122|暴力死亡 by having part of the body tortured with fire - EE - death not certain; wounded person
-#31EE231221|暴力死亡 by boiling - EE - death not certain; wounded person
-#31EE23123|暴力死亡 by electrocution - EE - death not certain; wounded person
-#31EE231231|暴力死亡 in electric chair - EE - death not certain; wounded person
-#31EE2313|暴力死亡 ~ earth - EE - death not certain; wounded person
-#31EE23131|buried alive (暴力死亡) - EE - death not certain; wounded person
-#31EE231311|entirely buried (暴力死亡) - EE - death not certain; wounded person
-#31EE231312|partially buried - EE - death not certain; wounded person
-#31EE23132|walled-in alive (暴力死亡) - EE - death not certain; wounded person
-#31EE2314|暴力死亡 ~ air - EE - death not certain; wounded person
-#31EE23141|deprivation of air, choking - EE - death not certain; wounded person
-#31EE23142|暴力死亡 by gassing; asphyxiation - EE - death not certain; wounded person
-#31EE23143|暴力死亡 ~ dangerous fumes - EE - death not certain; wounded person
-#31EE232|暴力死亡 ~ temperature - EE - death not certain; wounded person
-#31EE2321|暴力死亡 by heat (boiling lead, burning coal, etc.) - EE - death not certain; wounded person
-#31EE2322|暴力死亡 by cold - EE - death not certain; wounded person
-#31EE23221|暴力死亡 by freezing - EE - death not certain; wounded person
-#31EE233|暴力死亡 ~ internal causes - EE - death not certain; wounded person
-#31EE2331|暴力死亡 by starvation - EE - death not certain; wounded person
-#31EE23319|暴力死亡 by overfeeding, force feeding - EE - death not certain; wounded person
-#31EE2332|暴力死亡 by thirst - EE - death not certain; wounded person
-#31EE2333|暴力死亡 by poison - EE - death not certain; wounded person
-#31EE23331|暴力死亡 by poison in food - EE - death not certain; wounded person
-#31EE23332|暴力死亡 by poison in drink - EE - death not certain; wounded person
-#31EE233321|暴力死亡 by poisoned cup - EE - death not certain; wounded person
-#31EE23333|暴力死亡 by bite or sting of poisonous animal - EE - death not certain; wounded person
-#31EE233331|暴力死亡 by snake-bite - EE - death not certain; wounded person
-#31EE23334|暴力死亡 by poisoned object - EE - death not certain; wounded person
-#31EE23335|暴力死亡 by poisonous injection - EE - death not certain; wounded person
-#31EE234|暴力死亡 by blows, kicks, pricks, etc. - EE - death not certain; wounded person
-#31EE2341|暴力死亡 ~ throwing of heavy object - EE - death not certain; wounded person
-#31EE23411|暴力死亡 by stoning - EE - death not certain; wounded person
-#31EE2342|暴力死亡 by blow on the head - EE - death not certain; wounded person
-#31EE23421|暴力死亡 by blow on the head with object - EE - death not certain; wounded person
-#31EE23422|暴力死亡 by blow on the head with missile - EE - death not certain; wounded person
-#31EE23423|暴力死亡 by blow on the head with the hand - EE - death not certain; wounded person
-#31EE2343|暴力死亡 by blows elsewhere - EE - death not certain; wounded person
-#31EE23431|暴力死亡 by scourging - EE - death not certain; wounded person
-#31EE2344|暴力死亡 by rasping - EE - death not certain; wounded person
-#31EE2345|暴力死亡 by pricking - EE - death not certain; wounded person
-#31EE23451|暴力死亡 in a barrel with nails driven through the sides - EE - death not certain; wounded person
-#31EE2346|暴力死亡 by weapon - EE - death not certain; wounded person
-#31EE23461|暴力死亡 by arrow(s) - EE - death not certain; wounded person
-#31EE23462|暴力死亡 by lance, spear - EE - death not certain; wounded person
-#31EE23463|暴力死亡 by cleaving and striking weapons - EE - death not certain; wounded person
-#31EE234631|暴力死亡 by sword - EE - death not certain; wounded person
-#31EE234632|暴力死亡 by dagger, knife - EE - death not certain; wounded person
-#31EE2347|暴力死亡 by firearms - EE - death not certain; wounded person
-#31EE23471|暴力死亡 by bomb, hand-grenade - EE - death not certain; wounded person
-#31EE23472|暴力死亡 by fusillade - EE - death not certain; wounded person
-#31EE2348|暴力死亡 ~ being thrown (from a height), being thrown into a pit - EE - death not certain; wounded person
-#31EE23481|暴力死亡 ~ being thrown through a trap-door - EE - death not certain; wounded person
-#31EE235|暴力死亡 ~ maltreatment, torture - EE - death not certain; wounded person
-#31EE2351|暴力死亡 by stretching - EE - death not certain; wounded person
-#31EE2352|暴力死亡 by bending - EE - death not certain; wounded person
-#31EE2353|暴力死亡 by being bound in unusual position - EE - death not certain; wounded person
-#31EE23531|暴力死亡 by breaking on the wheel - EE - death not certain; wounded person
-#31EE23532|暴力死亡 by being bound, tied, behind vehicle or animal - EE - death not certain; wounded person
-#31EE2354|暴力死亡 by strangling - EE - death not certain; wounded person
-#31EE23541|暴力死亡 by pressing - EE - death not certain; wounded person
-#31EE2355|暴力死亡 by hanging - EE - death not certain; wounded person
-#31EE2356|暴力死亡 by crucifixion - EE - death not certain; wounded person
-#31EE23561|暴力死亡 by crucifixion upright - EE - death not certain; wounded person
-#31EE23562|暴力死亡 by crucifixion upside down - EE - death not certain; wounded person
-#31EE23563|暴力死亡 by crucifixion on X-shaped cross - EE - death not certain; wounded person
-#31EE236|暴力死亡 by mutilation or maiming - EE - death not certain; wounded person
-#31EE2361|暴力死亡 by breaking of bones - EE - death not certain; wounded person
-#31EE2362|暴力死亡 by removal of parts of the body by cutting, sawing, tearing - EE - death not certain; wounded person
-#31EE23621|暴力死亡 by beheading - EE - death not certain; wounded person
-#31EE236211|暴力死亡 ~ beheading by guillotine - EE - death not certain; wounded person
-#31EE236212|headless body of a beheaded person - EE - death not certain; wounded person
-#31EE236219|head of a beheaded person - EE - death not certain; wounded person
-#31EE2362191|head of a beheaded person on a plate - EE - death not certain; wounded person
-#31EE2362192|head of a beheaded person on post or pole - EE - death not certain; wounded person
-#31EE2362193|maltreatment of the head of a beheaded person - EE - death not certain; wounded person
-#31EE23622|暴力死亡 by tearing out of tongue - EE - death not certain; wounded person
-#31EE23623|暴力死亡 by disembowelment, pulling out of intestines - EE - death not certain; wounded person
-#31EE23624|暴力死亡 by quartering - EE - death not certain; wounded person
-#31EE23625|暴力死亡 by blinding - EE - death not certain; wounded person
-#31EE2363|暴力死亡 by flaying - EE - death not certain; wounded person
-#31EE2364|暴力死亡 by opening of arteries - EE - death not certain; wounded person
-#31EE2365|暴力死亡 by throwing to the wild animals - EE - death not certain; wounded person
-#31EE237|暴力死亡 by psychological means - EE - death not certain; wounded person
-#31EE238|seeking death, suicide - EE - death not certain; wounded person
-#31EE2381|self-sacrifice, death in the service of a higher purpose - EE - death not certain; wounded person
-#31EE2382|suicide out of despair - EE - death not certain; wounded person
-31F|死神（符号的与拟人化符号的）
-#31F1|symbols of Death
-#31F11|death's head, skull (symbol of Death)
-#31F111|skull as danger signal
-#31F12|bones (symbol of Death)
-#31F2|personifications of Death; 'Morte' (Ripa)
-#31F21|Death as child
-#31F22|Death as youth
-#31F23|Death as man
-#31F24|Death as old man
-#31F25|Death as (rotting) corpse
-#31F26|Death as skeleton
-#31F27|Death as devilish being
-#31F3|dance of Death; Death together with one or more human beings
-#31F31|Death dancing with more than one human being
-#31F31(...)|Death dancing with more than one human being (with NUMBER) of persons
-#31F32|Death dancing with one person
-#31F33|Death battling with Life, or with the living
-#31F331|Death conquering Life or the living
-#31F34|Death conquered
-#31FF2|personifications of Death; 'Morte' (Ripa) - FF - Death as female
-#31FF21|Death as child - FF - Death as female
-#31FF22|Death as youth - FF - Death as female
-#31FF23|Death as man - FF - Death as female
-#31FF24|Death as old man - FF - Death as female
-#31FF25|Death as (rotting) corpse - FF - Death as female
-#31FF26|Death as skeleton - FF - Death as female
-#31FF27|Death as devilish being - FF - Death as female
-#31G|the soul
-#31G1|the soul during lifetime
-#31G2|the soul during death
-#31G3|the soul after death
-#31G31|the soul leaving the body in the shape of a little human being
-#31G311|the soul carried to heaven by angels
-#31G32|the soul travelling
-#31G321|ship of the dead
-#31G322|angel guiding a soul to heaven, 'psychopompos'
-#31G33|the soul examined; the soul before its judge
-#31G331|weighing of the soul
-#31G332|opening of the book of life
-#31G34|the soul sentenced; 'Anima dannata' (Ripa)
-#31G35|angels and devils fighting over the soul
-#31G36|the soul going to its last destination
-#31G361|devil carrying the soul off
-#31G4|the soul in eternity
-32|人种；不同民族与国家的人
-#32A|human types
-#32A1|the four temperaments; 'Complessione' (Ripa)
-#32A11|choleric temperament
-#32A110|'Colerico (per il fuoco)' (Ripa)
-#32A12|sanguine temperament
-#32A120|'Sanguigno (per l'aria)' (Ripa)
-#32A13|phlegmatic temperament
-#32A130|'Flemmatico (per l'acqua)' (Ripa)
-#32A14|melancholic temperament
-#32A140|'Malenconico (per la terra)', 'Malinconia' (Ripa)
-#32A141|'Weltschmerz'
-#32A2|fat and thin (human types)
-#32A21|fat (human type)
-#32A210|'Grassezza' (Ripa)
-#32A211|steatopyge (human type)
-#32A22|thin (human type)
-#32A3|optimist and pessimist (human types)
-#32A31|optimist
-#32A32|pessimist
-#32A4|various human types
-#32A41|ascetic
-#32A42|coward
-#32A43|glutton
-#32A44|miser
-#32A45|parasite, sponger
-#32A46|sluggard
-#32A49|其它 human types
-#32A49(...)|其它 human types (名稱 of type)
-#32A5|caricatures (human types)
-#32A6|physiognomy
-#32A61|phrenology
-#32A62|chirognomy
-#32A7|characters (human types)
-#32A8|passions, emotions, affections
-#32B|human races; peoples; nationalities
-#32B1|prehistoric man
-#32B11|reconstruction of prehistoric man
-#32B11(...)|reconstruction of prehistoric man (名稱)
-#32B12|reconstruction of life and culture of prehistoric man
-#32B2|extinct, 'historical' peoples
-#32B2(...)|extinct, 'historical' peoples (名稱)
-#32B2(GAULS)|extinct, 'historical' peoples: Gauls
-#32B2(TEUTONS)|extinct, 'historical' peoples: Teutons
-#32B3|human races, peoples and nationalities (other than prehistoric or extinct)
-#32B31|white races and peoples
-#32B311|Europeans
-#32B311(...)|Europeans (名稱)
-#32B311(ENGLISHMEN)|Europeans: Englishmen
-#32B311(GERMANS)|Europeans: Germans
-#32B311(SPANIARDS)|Europeans: Spaniards
-#32B312|non-European white peoples
-#32B312(...)|non-European white peoples (名稱)
-#32B312(AMERICANS)|non-European white peoples: Americans
-#32B32|Africans
-#32B32(...)|Africans (名稱)
-#32B321|African negroes
-#32B321(...)|African negroes (名稱)
-#32B3211|American negroes
-#32B33|Asiatic races and peoples
-#32B33(...)|Asiatic races and peoples (名稱)
-#32B33(INDIANS)|Asiatic races and peoples: Indians
-#32B33(PERSIANS)|Asiatic races and peoples: Persians
-#32B33(TURKS)|Asiatic races and peoples: Turks
-#32B331|Mongolians
-#32B3311|Chinese
-#32B3312|Japanese
-#32B34|coloured races of America
-#32B341|Eskimos
-#32B342|Red Indians, American Indians
-#32B342(...)|Red Indians, American Indians (名稱)
-#32B343|coloured races of Central America
-#32B344|coloured races of South America
-#32B345|coloured races of the Caribbean
-#32B35|Australian and Oceanian races
-#32B35(...)|Australian and Oceanian races (名稱)
-#32B36|primitive races and peoples; aborigines
-#32B37|dwarf-tribes, pygmies
-#32B371|African pygmies
-#32B371(...)|African pygmies (名稱)
-#32B3711|Bushmen
-#32B3712|Hottentots
-#32B372|New-Guinean pygmies
-#32B38|persons of typical racial mixture
-#32B381|mulatto (offspring of white and negro)
-#32B382|Eurasian, half-caste
-#32B383|mestee, mestizo, i.e. offspring of Spanish and South-American Indian people
-#32B39|(still 其它) human races and peoples
-#32B39(...)|(still 其它) human races and peoples (名稱)
-#32C|scientific classification of human races
-33|人与人接触
-33A|非攻击性接触
-#33A1|saluting
-#33A11|baring the head, lifting one's hat
-#33A12|shaking hands, 'dextrarum junctio'
-#33A13|meeting
-#33A131|introducing
-#33A1311|visiting-card, calling-card
-#33A132|recognizing
-#33A14|embracing each other, kissing
-#33A15|laying the hand on another person's shoulder
-#33A2|taking leave
-#33A21|asking someone not to leave
-#33A3|visiting; receiving guests; elegant company
-#33A31|knocking at the door
-#33A32|congratulation, felicitation
-#33A33|condolence
-#33A34|person addressing a group, orator
-#33A341|story teller; listening to story teller
-#33A35|conversation, dialogue; conversation piece
-#33A350|'Conversatione' (Ripa)
-#33A39|loose company
-#33A4|bringing gifts; exchanging gifts
-#33A41|gifts being accepted
-#33A49|gifts being refused
-#33A5|friends
-#33A51|unilateral friendship
-#33A52|hand on shoulder (friends)
-#33A53|arm in arm (friends)
-#33A54|'album amicorum', 'Stammbuch'
-#33A58|reconciliation
-#33A59|bad companions
-#33A6|saving an endangered fellow man
-#33A61|help (to an endangered fellow man)
-#33A610|'Ajuto', 'Soccorso' (Ripa)
-#33A62|freeing (an endangered fellow man)
-#33A7|neighbour
-#33A71|partner
-#33A711|unequal partners
-#33A8|double
-#33A81|stand-in
-33B|攻击性接触
-#33B1|quarrel, argument
-#33B10|'Lite' (Ripa)
-#33B11|mocking, insulting; teasing
-#33B111|cocking a snook (gesture with thumb to nose, fingers spread out)
-#33B12|accusing
-#33B13|slander
-#33B14|threatening behaviour, challenging
-#33B2|duelling
-#33B3|fighting
-#33B31|fist-fight
-#33B32|kicking
-#33B33|slap in the face
-#33B4|abducting
-#33B41|kidnapping
-#33B5|enemy
-#33B51|adversary
-#33B6|killing ~ aggressive relationships
-#33B60|'Homicidio' (Ripa)
-#33B9|flight, running away; pursuing
-#33B90|'Fuga', 'Fuga popolare', 'Persecutione' (Ripa)
-#33B91|hiding, hiding oneself
-33C|两性接触
-#33C1|pernicious influence of women, 'femmes fatales'
-#33C11|Aristotle and Phyllis
-#33C12|Virgil in the basket
-#33C121|Virgil's revenge: men lighting candles at Phyllis' behind
-#33C13|Alexander and Candace
-#33C2|lovers; courting, flirting
-#33C21|courting
-#33C211|love at first sight
-#33C2111|watching the beloved asleep
-#33C212|making an appointment
-#33C2121|lover with love-letter
-#33C213|serenade to the beloved
-#33C214|presents offered to the beloved
-#33C2141|St. Valentine's day
-#33C215|lover crowned with a wreath
-#33C216|one of the lovers alone (e.g. longing for the beloved)
-#33C2161|lover (man) alone (e.g. longing for the beloved)
-#33C2162|lover (woman) alone (e.g. longing for the beloved)
-#33C217|hidden love
-#33C2171|hidden love discovered
-#33C218|awakening love
-#33C219|unsuccessful love affair; seduction
-#33C22|lovers' meeting
-#33C221|one lover waiting for the other
-#33C222|man (lover) entering through window
-#33C2221|lover hoisted up in a basket
-#33C223|lovers locking up meeting place
-#33C224|carving heart and initials in an object, e.g. a tree trunk
-#33C2241|the carved signs (of lovers) only
-#33C225|parting, leave-taking (of lovers)
-#33C226|interrupted meeting, lovers caught by surprise
-#33C2261|'look-out' ~ lovers' meeting
-#33C2262|lovers spied upon
-#33C227|lovers brought together by a third person
-#33C229|lover chased away; to be given the mitten
-#33C2291|chamber-pot is emptied from above ~ chasing away (unwanted) lover
-#33C23|couple of lovers
-#33C231|arm in arm (lovers)
-#33C232|(lovers) kissing each other
-#33C2321|kissing the hand (lovers)
-#33C233|(lovers) embracing each other, 'symplegma'
-#33C234|(lovers) caressing each other
-#33C2340|'Carezze amatorie' (Ripa)
-#33C235|lovers' tussle
-#33C236|lovers' tiff, quarrel, sulk
-#33C239|end of a love affair
-#33C29|the envious friends; criticizing bystanders ~ love couple
-#33C3|one-sided courting; pursuit; difficult choice
-#33C31|one-sided courting
-#33C311|woman in flight (one-sided courting)
-#33C3111|woman in flight, leaving something behind (clothing, shoe, etc.)
-#33C312|lover deserting woman
-#33C3121|deserted woman
-#33C313|man accused by woman he has cast off
-#33C314|man in flight (one-sided courting)
-#33C32|pursuit of a woman, prowling
-#33C321|rivalry of men for the love of a woman; trying to get the skirt; 'Rivalità' (Ripa)
-#33C3211|rivalry of women for the love of a man; fight for the hose; 'andouille'
-#33C322|shaking lovers out of a tree, with cudgel
-#33C3221|shaking lovers out of a tree, by throwing things
-#33C323|Love's labours lost (a third person interfering successfully)
-#33C3231|the succeeding third
-#33C33|the (difficult) choice ~ courting
-#33C331|sifting out the candidates
-#33C332|blindfolded choice (of partner)
-#33C333|choice between wealth and youth
-#33C34|marriage lottery
-#33C341|computerized dating
-#33C4|coitus, cohabiting, sexual intercourse
-#33C41|man and woman cohabiting
-#33C411|scabrous scenes, pornography
-#33C412|fellatio
-#33C413|cunnilingus
-#33C42|defloration, loss of virginity (and symbols)
-#33C421|loss of virginity symbolized
-#33C4211|'la cruche cassée' (loss of virginity symbolized)
-#33C4212|bird-cage opened (loss of virginity symbolized)
-#33C43|after the intercourse
-#33C44|fallen woman
-#33C45|sexual contact ~ child
-#33C451|paedophilia, sexual contact between adult and child
-#33C452|sexual contact between children
-#33C46|masturbation, onanism
-#33C47|group-sex
-#33C48|sodomy, sexual contact between humans and animals
-#33C49|rape, violation
-#33C491|the victim ~ rape, violation
-#33C5|prostitution
-#33C51|brothel
-#33C511|the man is robbed (brothel scene)
-#33C512|driving off the robbed man (brothel scene)
-#33C52|whore, prostitute
-#33C521|courtesan, hetaera
-#33C5211|'Lais Corinthiaca'
-#33C53|match-making scene
-#33C531|procuress
-#33C54|madam (brothel scene)
-#33C55|pimp (brothel scene)
-#33C551|fancy-man
-#33C56|soliciting in the street ~ prostitution
-#33C561|soliciting in a window ~ prostitution
-#33C57|white-slave trade ~ prostitution
-#33C571|trade in children ~ prostitution
-#33C6|homosexual love
-#33C61|pederasty, sexual contact between man and boy
-#33C62|sodomy, sexual contact between men
-#33C7|potency and impotency
-#33C71|castration
-#33C711|castrated person
-#33C72|aphrodisiacs
-#33C721|means to preserve potency
-#33C729|anaphrodisiacs
-#33C8|amorousness, desire
-#33C81|chastity versus sensuality
-#33C811|sensuality
-#33C8110|'Libidine', 'Voluttà' (Ripa)
-#33C812|chastity
-#33C8120|'Castità', 'Pudicitia', 'Vergogna honesta' (Ripa)
-#33C8121|chastity belt
-#33C8122|proof of chastity
-#33C813|defence of chastity
-#33C82|heavenly love versus earthly love
-#33C83|courtly love versus love
-#33C84|courtly love
-#33C85|free love
-#33C851|promiscuity, fantasies of a world of free love
-#33C86|woman-chaser
-#33C861|'Don Juan' (woman-chaser)
-#33C862|Bluebeard
-#33C87|peeping, voyeur
-#33C89|sexual perversities and aberrations; scatological representations
-#33C891|sadism
-#33C8911|flagellantism ~ sexual perversities
-#33C892|masochism
-#33C893|fetishism
-#33C9|Love: 'Frau Minne' and 其它 allegories
-#33C91|Love personified
-#33C911|'Frau Minne'
-#33C9111|'Frau Minne' shooting arrows
-#33C9112|'Frau Minne' holding court
-#33C912|Morris dance, 'Mauriskentanz'
-#33C92|castle of Love
-#33C93|garden of Love, court of Love, 'fête galante'
-#33C931|'Ars amandi'
-#33C94|'Ile de Cythère'
-#33C941|embarkation for Cythera
-#33C942|embarkation from Cythera
-#33C95|origin of Love; 'Origine d'amore' (Ripa)
-#33C951|fountain of Love, 'Fons Amoris'
-#33C96|self-sacrificing love
-#33C97|Love torturing lover
-#33C971|lovesick lover
-#33C99|Love vanquished; 'Amor Domato' (Ripa)
-#33CC312|lover deserting woman - CC - lover deserting man
-#33CC3121|deserted woman - CC - deserted man
+31E23141|缺乏空氣,窒息
+31E23142|毒氣導致的暴力死亡; 悶死
+31E23143|暴力死亡 ~ 危險的煙氣
+31E232|暴力死亡 ~ 溫度
+31E2321|高溫導致的暴力死亡 (沸騰的鉛水, 灼熱的煤, 等等)
+31E2322|低溫導致的暴力死亡
+31E23221|冷凝導致的暴力死亡
+31E233|暴力死亡 ~ 內在原因
+31E2331|飢餓導致的暴力死亡
+31E23319|暴食導致的暴力死亡
+31E2332|口渴導致的暴力死亡
+31E2333|毒藥導致的暴力死亡
+31E23331|在食物中放毒藥導致的暴力死亡
+31E23332|在飲料中放毒藥導致的暴力死亡
+31E233321|因杯中毒藥導致的暴力死亡
+31E23333|被有毒的動物咬或叮導致的暴力死亡
+31E233331|被毒蛇咬導致的暴力死亡
+31E23334|有毒的物體導致的暴力死亡
+31E23335|注射毒藥導致的暴力死亡
+31E234|被擊打、踢、刺等等導致的暴力死亡
+31E2341|暴力死亡 ~ 拋擲重物
+31E23411|被亂石砸擊導致的暴力死亡
+31E2342|頭部被擊打導致的暴力死亡
+31E23421|頭部被物體擊打導致的暴力死亡
+31E23422|頭部被投射物打擊導致的暴力死亡
+31E23423|頭部被拳擊導致的暴力死亡
+31E2343|身體其它部分被打擊導致的暴力死亡
+31E23431|被拷打導致的暴力死亡
+31E2344|暴力死亡by rasping
+31E2345|被刺導致的暴力死亡
+31E23451|放在布滿鐵釘的滾筒裡導致的暴力死亡
+31E2346|武器造成的暴力死亡
+31E23461|因中箭導致的暴力死亡
+31E23462|因長槍長矛導致的暴力死亡
+31E23463|因劈擊型武器造成的暴力死亡
+31E234631|因劍導致的暴力死亡
+31E234632|因匕首短刀導致的暴力死亡
+31E2347|火器造成的暴力死亡
+31E23471|因炸彈、手雷導致的暴力死亡
+31E23472|因槍砲齊射導致的暴力死亡
+31E2348|暴力死亡 ~ 被(從高處)扔下,被扔進坑中
+31E23481|暴力死亡 ~ 扔到地板門下面
+31E235|暴力死亡 ~ 虐待, 折磨
+31E2351|被撕拉導致的暴力死亡 
+31E2352|被折壓導致的暴力死亡 
+31E2353|被以非正常姿勢綁縛導致的暴力死亡
+31E23531|因斷骨輪導致的暴力死亡 by breaking on the wheel
+31E23532|被綁縛在車輛或動物身後導致的暴力死亡
+31E2354|因掐脖子導致的暴力死亡
+31E23541|因壓重物導致的暴力死亡
+31E2355|被上絞刑導致的暴力死亡
+31E2356|被上十字架導致的暴力死亡
+31E23561|被垂直上十字架導致的暴力死亡
+31E23562|被倒掛上十字架導致的暴力死亡
+31E23563|被上X-形的十字架導致的暴力死亡
+31E236|因切割導致的暴力死亡
+31E2361|因斷骨導致的暴力死亡
+31E2362|通過砍、鋸、撕身體部分被去除而導致的暴力死亡
+31E23621|被斬首導致的暴力死亡
+31E236211|暴力死亡 ~ 被鍘刀斬首
+31E236212|被斬首的人
+31E236219|首級
+31E2362191|在盤中的首級
+31E2362192|掛在柱子上的首級
+31E2362193|虐待首級
+31E23622|被割舌導致的暴力死亡
+31E23623|被切腹,拉腸導致的暴力死亡
+31E23624|被分屍導致的暴力死亡
+31E23625|被剜目導致的暴力死亡
+31E2363|被剝皮導致的暴力死亡
+31E2364|動脈被割開導致的暴力死亡
+31E2365|拋扔給野獸導致的暴力死亡
+31E237|用心理手段導致的暴力死亡
+31E238|尋死, 自殺
+31E2381|自我犧牲, 因更高的目的而死亡
+31E2382|因絕望而自殺
+31E3|屍體
+31E31|驗屍, 屍體檢驗
+31E311|把羽毛或鏡子放在鼻子下方確認最後一口氣
+31E32|假死
+31E321|(試圖使人)甦醒,如用人工呼吸
+31E33|腐爛 (屍體)
+31E331|自然的原因而保存的屍體
+31E3311|法倫的礦工(屍體,1719年被發現)
+31E3312|自然木乃伊化
+31E34|發現死者
+31E4|死者復活
+31E5|生與死
+31E51|(三位)生者與(三位)死者相會
+31E52|'Et in Arcadia ego'
+31EE22|意外死亡 (非暴力) - EE - 因事故受傷 (未導致死亡)
+31EE221|意外死亡 ~ water - EE - 因事故受傷 (未導致死亡)
+#31EE2211|death by drowning (非暴力) - EE - 因事故受傷 (未導致死亡)
+#31EE2212|drowned person - EE - 因事故受傷 (未導致死亡)
+#31EE222|意外死亡 ~ temperature - EE - 因事故受傷 (未導致死亡)
+#31EE2221|意外死亡 by heat - EE - 因事故受傷 (未導致死亡)
+#31EE22211|意外死亡 ~ fire - EE - 因事故受傷 (未導致死亡)
+#31EE2222|意外死亡 ~ cold - EE - 因事故受傷 (未導致死亡)
+#31EE223|意外死亡 ~ internal causes - EE - 因事故受傷 (未導致死亡)
+#31EE2231|意外死亡 ~ hunger - EE - 因事故受傷 (未導致死亡)
+#31EE2232|意外死亡 ~ thirst - EE - 因事故受傷 (未導致死亡)
+#31EE2233|意外死亡 ~ deprivation of air, suffocating - EE - 因事故受傷 (未導致死亡)
+#31EE2234|意外死亡 ~ poison - EE - 因事故受傷 (未導致死亡)
+#31EE224|意外死亡 by falling objects - EE - 因事故受傷 (未導致死亡)
+#31EE225|dying from the effects of a fall - EE - 因事故受傷 (未導致死亡)
+#31EE228|death caused by effects of natural surroundings, especially natural catastrophes - EE - 因事故受傷 (未導致死亡)
+#31EE229|death caused by undesired effects of human activities, in traffic, at work, etc. - EE - 因事故受傷 (未導致死亡)
+31EE23|暴力死亡, 被殺死; 因虐待; 尋死 - EE - 未明確是否死亡; 受傷的人
+#31EE231|暴力死亡 ~ elements - EE - 未明確是否死亡; 受傷的人
+#31EE2311|暴力死亡 ~ water - EE - 未明確是否死亡; 受傷的人
+#31EE23111|drowning, 'walking the plank' (暴力死亡 ~ water) - EE - 未明確是否死亡; 受傷的人
+#31EE231111|keelhauling - EE - 未明確是否死亡; 受傷的人
+#31EE23112|continuous dripping (暴力死亡 ~ water) - EE - 未明確是否死亡; 受傷的人
+#31EE2312|暴力死亡 ~ fire - EE - 未明確是否死亡; 受傷的人
+#31EE23121|暴力死亡 by burning at the stake; pyre - EE - 未明確是否死亡; 受傷的人
+#31EE231211|暴力死亡 by burning on the gridiron - EE - 未明確是否死亡; 受傷的人
+#31EE23122|暴力死亡 by having part of the body tortured with fire - EE - 未明確是否死亡; 受傷的人
+#31EE231221|暴力死亡 by boiling - EE - 未明確是否死亡; 受傷的人
+#31EE23123|暴力死亡 by electrocution - EE - 未明確是否死亡; 受傷的人
+#31EE231231|暴力死亡 in electric chair - EE - 未明確是否死亡; 受傷的人
+#31EE2313|暴力死亡 ~ earth - EE - 未明確是否死亡; 受傷的人
+#31EE23131|buried alive (暴力死亡) - EE - 未明確是否死亡; 受傷的人
+#31EE231311|entirely buried (暴力死亡) - EE - 未明確是否死亡; 受傷的人
+#31EE231312|partially buried - EE - 未明確是否死亡; 受傷的人
+#31EE23132|walled-in alive (暴力死亡) - EE - 未明確是否死亡; 受傷的人
+31EE2314|暴力死亡 ~ air - EE - 未明確是否死亡; 受傷的人
+#31EE23141|deprivation of air, choking - EE - 未明確是否死亡; 受傷的人
+#31EE23142|暴力死亡 by gassing; asphyxiation - EE - 未明確是否死亡; 受傷的人
+#31EE23143|暴力死亡 ~ dangerous fumes - EE - 未明確是否死亡; 受傷的人
+#31EE232|暴力死亡 ~ temperature - EE - 未明確是否死亡; 受傷的人
+#31EE2321|暴力死亡 by heat (boiling lead, burning coal, etc.) - EE - 未明確是否死亡; 受傷的人
+#31EE2322|暴力死亡 by cold - EE - 未明確是否死亡; 受傷的人
+#31EE23221|暴力死亡 by freezing - EE - 未明確是否死亡; 受傷的人
+#31EE233|暴力死亡 ~ internal causes - EE - 未明確是否死亡; 受傷的人
+#31EE2331|暴力死亡 by starvation - EE - 未明確是否死亡; 受傷的人
+#31EE23319|暴力死亡 by overfeeding, force feeding - EE - 未明確是否死亡; 受傷的人
+#31EE2332|暴力死亡 by thirst - EE - 未明確是否死亡; 受傷的人
+#31EE2333|暴力死亡 by poison - EE - 未明確是否死亡; 受傷的人
+#31EE23331|暴力死亡 by poison in food - EE - 未明確是否死亡; 受傷的人
+#31EE23332|暴力死亡 by poison in drink - EE - 未明確是否死亡; 受傷的人
+#31EE233321|暴力死亡 by poisoned cup - EE - 未明確是否死亡; 受傷的人
+#31EE23333|暴力死亡 by bite or sting of poisonous animal - EE - 未明確是否死亡; 受傷的人
+#31EE233331|暴力死亡 by snake-bite - EE - 未明確是否死亡; 受傷的人
+#31EE23334|暴力死亡 by poisoned object - EE - 未明確是否死亡; 受傷的人
+#31EE23335|暴力死亡 by poisonous injection - EE - 未明確是否死亡; 受傷的人
+#31EE234|暴力死亡 by blows, kicks, pricks, etc. - EE - 未明確是否死亡; 受傷的人
+#31EE2341|暴力死亡 ~ throwing of heavy object - EE - 未明確是否死亡; 受傷的人
+#31EE23411|暴力死亡 by stoning - EE - 未明確是否死亡; 受傷的人
+#31EE2342|暴力死亡 by blow on the head - EE - 未明確是否死亡; 受傷的人
+#31EE23421|暴力死亡 by blow on the head with object - EE - 未明確是否死亡; 受傷的人
+#31EE23422|暴力死亡 by blow on the head with missile - EE - 未明確是否死亡; 受傷的人
+#31EE23423|暴力死亡 by blow on the head with the hand - EE - 未明確是否死亡; 受傷的人
+#31EE2343|暴力死亡 by blows elsewhere - EE - 未明確是否死亡; 受傷的人
+#31EE23431|暴力死亡 by scourging - EE - 未明確是否死亡; 受傷的人
+#31EE2344|暴力死亡 by rasping - EE - 未明確是否死亡; 受傷的人
+#31EE2345|暴力死亡 by pricking - EE - 未明確是否死亡; 受傷的人
+#31EE23451|暴力死亡 in a barrel with nails driven through the sides - EE - 未明確是否死亡; 受傷的人
+#31EE2346|暴力死亡 by weapon - EE - 未明確是否死亡; 受傷的人
+#31EE23461|暴力死亡 by arrow(s) - EE - 未明確是否死亡; 受傷的人
+#31EE23462|暴力死亡 by lance, spear - EE - 未明確是否死亡; 受傷的人
+#31EE23463|暴力死亡 by cleaving and striking weapons - EE - 未明確是否死亡; 受傷的人
+#31EE234631|暴力死亡 by sword - EE - 未明確是否死亡; 受傷的人
+#31EE234632|暴力死亡 by dagger, knife - EE - 未明確是否死亡; 受傷的人
+#31EE2347|暴力死亡 by firearms - EE - 未明確是否死亡; 受傷的人
+#31EE23471|暴力死亡 by bomb, hand-grenade - EE - 未明確是否死亡; 受傷的人
+#31EE23472|暴力死亡 by fusillade - EE - 未明確是否死亡; 受傷的人
+#31EE2348|暴力死亡 ~ being thrown (from a height), being thrown into a pit - EE - 未明確是否死亡; 受傷的人
+#31EE23481|暴力死亡 ~ being thrown through a trap-door - EE - 未明確是否死亡; 受傷的人
+#31EE235|暴力死亡 ~ maltreatment, torture - EE - 未明確是否死亡; 受傷的人
+#31EE2351|暴力死亡 by stretching - EE - 未明確是否死亡; 受傷的人
+#31EE2352|暴力死亡 by bending - EE - 未明確是否死亡; 受傷的人
+#31EE2353|暴力死亡 by being bound in unusual position - EE - 未明確是否死亡; 受傷的人
+#31EE23531|暴力死亡 by breaking on the wheel - EE - 未明確是否死亡; 受傷的人
+#31EE23532|暴力死亡 by being bound, tied, behind vehicle or animal - EE - 未明確是否死亡; 受傷的人
+#31EE2354|暴力死亡 by strangling - EE - 未明確是否死亡; 受傷的人
+#31EE23541|暴力死亡 by pressing - EE - 未明確是否死亡; 受傷的人
+#31EE2355|暴力死亡 by hanging - EE - 未明確是否死亡; 受傷的人
+#31EE2356|暴力死亡 by crucifixion - EE - 未明確是否死亡; 受傷的人
+#31EE23561|暴力死亡 by crucifixion upright - EE - 未明確是否死亡; 受傷的人
+#31EE23562|暴力死亡 by crucifixion upside down - EE - 未明確是否死亡; 受傷的人
+#31EE23563|暴力死亡 by crucifixion on X-shaped cross - EE - 未明確是否死亡; 受傷的人
+#31EE236|暴力死亡 by mutilation or maiming - EE - 未明確是否死亡; 受傷的人
+#31EE2361|暴力死亡 by breaking of bones - EE - 未明確是否死亡; 受傷的人
+#31EE2362|暴力死亡 by removal of parts of the body by cutting, sawing, tearing - EE - 未明確是否死亡; 受傷的人
+#31EE23621|暴力死亡 by beheading - EE - 未明確是否死亡; 受傷的人
+#31EE236211|暴力死亡 ~ beheading by guillotine - EE - 未明確是否死亡; 受傷的人
+#31EE236212|headless body of a beheaded person - EE - 未明確是否死亡; 受傷的人
+#31EE236219|head of a beheaded person - EE - 未明確是否死亡; 受傷的人
+#31EE2362191|head of a beheaded person on a plate - EE - 未明確是否死亡; 受傷的人
+#31EE2362192|head of a beheaded person on post or pole - EE - 未明確是否死亡; 受傷的人
+#31EE2362193|maltreatment of the head of a beheaded person - EE - 未明確是否死亡; 受傷的人
+#31EE23622|暴力死亡 by tearing out of tongue - EE - 未明確是否死亡; 受傷的人
+#31EE23623|暴力死亡 by disembowelment, pulling out of intestines - EE - 未明確是否死亡; 受傷的人
+#31EE23624|暴力死亡 by quartering - EE - 未明確是否死亡; 受傷的人
+#31EE23625|暴力死亡 by blinding - EE - 未明確是否死亡; 受傷的人
+#31EE2363|暴力死亡 by flaying - EE - 未明確是否死亡; 受傷的人
+#31EE2364|暴力死亡 by opening of arteries - EE - 未明確是否死亡; 受傷的人
+#31EE2365|暴力死亡 by throwing to the wild animals - EE - 未明確是否死亡; 受傷的人
+#31EE237|暴力死亡 by psychological means - EE - 未明確是否死亡; 受傷的人
+#31EE238|seeking death, suicide - EE - 未明確是否死亡; 受傷的人
+#31EE2381|self-sacrifice, death in the service of a higher purpose - EE - 未明確是否死亡; 受傷的人
+#31EE2382|suicide out of despair - EE - 未明確是否死亡; 受傷的人
+31F|死神（象徵性的与人格化的）
+31F1|死亡的象徵
+31F11|死亡之頭, 顱骨 (死亡的象徵)
+31F111|顱骨作為危險的符號
+31F12|人骨 (死亡的象徵)
+31F2|死亡的人格化; 'Morte' (Ripa)
+31F21|死亡人格化為兒童
+31F22|死亡人格化為青年人
+31F23|死亡人格化為男性
+31F24|死亡人格化為老年男子
+31F25|死亡人格化為 (腐爛的) 屍體
+31F26|死亡人格化為骷髏
+31F27|死亡人格化為魔鬼一樣的東西
+31F3|死亡之舞; 死亡和一個或多個人在一起
+31F31|死亡和一個或多個人在一起跳舞
+31F31(...)|死亡和一個或多個人在一起跳舞, 人的(數量)
+31F32|死亡和一個人跳舞
+31F33|死亡與生命或生者搏鬥 
+31F331|死亡征服生命或生者
+31F34|死亡被征服
+31FF2|死亡的人格化; 'Morte' (Ripa) - FF - 死亡人格化為女性
+#31FF21|Death as child - FF - 死亡人格化為女性
+#31FF22|Death as youth - FF - 死亡人格化為女性
+#31FF23|Death as man - FF - 死亡人格化為女性
+#31FF24|Death as old man - FF - 死亡人格化為女性
+#31FF25|Death as (rotting) corpse - FF - 死亡人格化為女性
+#31FF26|Death as skeleton - FF - 死亡人格化為女性
+#31FF27|Death as devilish being - FF - 死亡人格化為女性
+31G|靈魂
+31G1|在世時的靈魂
+31G2|死亡之時的靈魂
+31G3|死亡之後的靈魂
+31G31|靈魂做為一個微小的人形離開肉體
+31G311|靈魂被天使送至天國
+31G32|靈魂在旅行
+31G321|死者之船
+31G322|天使引導靈魂升天, 'psychopompos'
+31G33|靈魂被審問; 靈魂在審判官面前
+31G331|秤量靈魂
+31G332|打開生名冊opening of the book of life
+31G34|靈魂被判刑; 'Anima dannata' (Ripa)
+31G35|天使與魔鬼為靈魂而搏鬥
+31G36|靈魂在通往目的地的路上
+31G361|魔鬼挾持靈魂而去
+31G4|靈魂在永恆之地
+32|人的類型；人民和民族
+32A|人的類型
+32A1|四種氣質; 'Complessione' (Ripa)
+32A11|膽汁質
+32A110|'Colerico (per il fuoco)' (Ripa)
+32A12|多血質
+32A120|'Sanguigno (per l'aria)' (Ripa)
+32A13|黏液質
+32A130|'Flemmatico (per l'acqua)' (Ripa)
+32A14|憂鬱質
+32A140|'Malenconico (per la terra)', 'Malinconia' (Ripa)
+32A141|'Weltschmerz'
+32A2|胖和瘦 (人的類型)
+32A21|胖(人的類型)
+32A210|'Grassezza' (Ripa)
+32A211|steatopyge (人的類型)
+32A22|瘦(人的類型)
+32A3|樂觀者和悲觀者 (人的類型)
+32A31|樂觀者
+32A32|悲觀者
+32A4|人的各種類型
+32A41|清心寡慾者
+32A42|怯懦者
+32A43|貪食者
+32A44|吝嗇鬼
+32A45|寄生者, 寄生蟲
+32A46|遊手好閒的人
+32A49|人的其它類型
+32A49(...)|人的其它類型 (類型的名稱)
+32A5|漫畫(人的類型)
+32A6|觀相術
+32A61|顱相術
+32A62|手相術
+32A7|性格 (人的類型)
+32A8|激情, 情感, 情意
+32B|人種; 種族; 民族
+32B1|史前人
+32B11|史前人的重構
+32B11(...)|史前人的重構 (名稱)
+32B12|史前人的生活和文化的重構
+32B2|已經滅絕的, '歷史記載的' 人
+32B2(...)|已經滅絕的, '歷史記載的' 人 (名稱)
+32B2(GAULS)|已經滅絕的, '歷史記載的' 人: 高盧人
+32B2(TEUTONS)|已經滅絕的, '歷史記載的' 人: 條頓人
+32B3|人種, 種族和民族 (史前人或已經滅絕的人除外)
+32B31|白種人和種族
+32B311|歐洲人
+32B311(...)|歐洲人 (名稱)
+32B311(ENGLISHMEN)|歐洲人: 英國人
+32B311(GERMANS)|歐洲人: 德國人
+32B311(SPANIARDS)|歐洲人: 西班牙人
+32B312|非歐洲白種人
+32B312(...)|非歐洲白種人 (名稱)
+32B312(AMERICANS)|非歐洲白種人: 美國人
+32B32|非洲人
+32B32(...)|非洲人 (名稱)
+32B321|非洲黑人
+32B321(...)|非洲黑人 (名稱)
+32B3211|非洲黑人
+32B33|亞洲人種和種族
+32B33(...)|亞洲人種和種族 (名稱)
+32B33(INDIANS)|亞洲人種和種族: 印度人
+32B33(PERSIANS)|亞洲人種和種族: 波斯人
+32B33(TURKS)|亞洲人種和種族: 土耳其人
+32B331|蒙古人
+32B3311|中國人
+32B3312|日本人
+32B34|美洲有色人種
+32B341|愛斯基摩人
+32B342|紅印第安人, 美洲印第安人
+32B342(...)|紅印第安人, 美洲印第安人 (名稱)
+32B343|中美洲有色人種
+32B344|南美洲有色人種
+32B345|加勒比海有色人種
+32B35|澳大利亞和大洋洲人種
+32B35(...)|澳大利亞和大洋洲人種 (名稱)
+32B36|原始人種和民族; 原住民
+32B37|矮人部落, 俾格米人
+32B371|非洲俾格米人
+32B371(...)|非洲俾格米人 (名稱)
+32B3711|叢林人
+32B3712|霍屯督人
+32B372|新幾內亞俾格米人
+32B38|典型的混血人
+32B381|黑白混血兒 (黑人和白人的後裔)
+32B382|歐亞混血兒
+32B383|梅斯蒂混血兒,梅斯蒂左混血兒, 即西班牙人和南美印第安人的後裔
+32B39|(再其它)人種和民族
+32B39(...)|(再其它) 人種和民族 (名稱)
+32C|人種的科學分類
+33|人与人的關係
+33A|非攻击性關係
+33A1|行禮
+33A11|光著頭,脫帽
+33A12|握手, 'dextrarum junctio'
+33A13|見面
+33A131|介紹
+33A1311|名片 
+33A132|認出
+33A14|擁抱, 親吻
+33A15|把手放在另一個人的肩上
+33A2|告辭
+33A21|叫某人不要離開
+33A3|拜訪; 歡迎客人; elegant company
+33A31|敲門
+33A32|祝賀,慶祝
+33A33|弔唁
+33A34|對一群人講話,演講者
+33A341|講故事的人; 聆聽講故事的人
+33A35|交談, 交流; 新奇而易於引起話題的繪畫作品
+33A350|'Conversatione' (Ripa)
+33A39|loose company
+33A4|給禮物; 交換禮物
+33A41|接受禮物
+33A49|拒絕禮物
+33A5|朋友
+33A51|單方面的友誼 
+33A52|把手放在肩膀上 (朋友)
+33A53|挽住胳膊 (朋友)
+33A54|'album amicorum', 'Stammbuch'
+33A58|和解
+33A59|糟糕的伴侶
+33A6|解救危境中的同伴
+33A61|幫助 (解救危境中的同伴)
+33A610|'Ajuto', 'Soccorso' (Ripa)
+33A62|釋放freeing (危境中的同伴)
+33A7|鄰居
+33A71|搭檔
+33A711|不平等的搭檔
+33A8|交替
+33A81|替身
+33B|攻击性關係
+33B1|爭吵, 爭論
+33B10|'Lite' (Ripa)
+33B11|嘲弄, 侮辱; 取笑
+33B111|大拇指按鼻端,其餘四指張開以示輕蔑的手勢
+33B12|指責
+33B13|誹謗
+33B14|威脅性行為, 挑戰
+33B2|決鬥
+33B3|搏鬥
+33B31|拳打
+33B32|腳踢
+33B33|打耳光
+33B4|拐騙
+33B41|綁架
+33B5|敵人
+33B51|對手
+33B6|殺害 ~ 攻擊性的關係
+33B60|'Homicidio' (Ripa)
+33B9|逃亡, 逃走; 追逐
+33B90|'Fuga', 'Fuga popolare', 'Persecutione' (Ripa)
+33B91|躲藏, 隱藏自己
+33C|两性的關係
+33C1|女性有害的影響, 'femmes fatales'
+33C11|亞里斯多德和菲利斯Phyllis
+33C12|維吉爾在吊籃裡
+33C121|維吉爾的報復: 男人們點燃蠟燭,燒菲利斯的屁股
+33C13|亞里山大和坎迪斯Candace
+33C2|戀人; 求愛, 調情
+33C21|求愛
+33C211|一見鍾情
+33C2111|看著心愛的人睡著了
+33C212|約會
+33C2121|情人和情書
+33C213|給心愛的人的小夜曲
+33C214|給心愛的人的禮物
+33C2141|情人節
+33C215|情人頭戴花冠
+33C216|獨自一人的情人 (如思念心愛的人)
+33C2161|獨自一人的(男性)情人 (如思念心愛的人)
+33C2162|獨自一人的(女性)情人 (如思念心愛的人)
+33C217|暗戀
+33C2171|暗戀被發現
+33C218|甦醒的愛情
+33C219|不成功的男女情事; 勾引
+33C22|情人的約會
+33C221|一個情人等待另一個情人
+33C222|男人 (情人) 從窗戶進入
+33C2221|情人被吊籃吊上去
+33C223|情人把約會地鎖起來
+33C224|把心形圖案和人名字母的縮寫刻在物體上, 如樹幹上
+33C2241|只表現情人刻寫的符號
+33C225|離開, (情人的)告別
+33C226|約會被干擾, 情人被意外地發現
+33C2261|'放風' ~ 情人的約會
+33C2262|情人被人窺探
+33C227|情人被第三個人撮合到一起
+33C229|情人被趕走; 拒絕求愛者
+33C2291|從上面倒下夜壺 ~ 把 (討厭的)情人趕走
+33C23|一對情人
+33C231|挽住胳膊 (情人)
+33C232|(情人) 互相親吻
+33C2321|吻手 (情人)
+33C233|(情人) 互相擁抱, 'symplegma'
+33C234|(情人) 互相撫摸
+33C2340|'Carezze amatorie' (Ripa)
+33C235|情人之間的爭鬥
+33C236|情人之間的口角, 爭吵, 生氣
+33C239|一段情事的結束
+33C29|妒嫉的朋友們; 指責的旁觀者 ~ 一對情人
+33C3|單方面求愛; 追求; 困難的選擇
+33C31|單方面求愛
+33C311|女子在逃跑 (單方面求愛)
+33C3111|女子在逃跑, 丟下某物 (服裝, 鞋子, 等等)
+33C312|一個情人拋棄女子
+33C3121|被拋棄的女子
+33C313|一個男子被他拋棄的女子斥責
+33C314|男子在逃跑 (單方面求愛)
+33C32|一個女子在追求, 求愛
+33C321|男人們為追求一個女子而競爭; 為裙子爭鬥trying to get the skirt; 'Rivalità' (Ripa)
+33C3211|女人們為追求一個男子而競爭; 為長統襪爭鬥fight for the hose; 'andouille'
+33C322|用長棍把戀人從樹上搖下來 
+33C3221|扔東西把戀人從樹上搖下來
+33C323|愛的徒勞 (第三者成功地介入)
+33C3231|接替的第三者
+33C33|(困難的)選擇 ~ 求愛
+33C331|篩選候選人
+33C332|蒙住眼睛選擇 (配偶)
+33C333|富有與貧窮之間選擇
+33C34|婚姻的運氣
+33C341|computerized dating
+33C4|性交,同居
+33C41|男女同居
+33C411|猥褻的場景, 色情
+33C412|吮吸陰莖
+33C413|舔陰
+33C42|處女膜破裂, 破貞 (及其象徵)
+33C421|破貞的象徵化
+33C4211|'la cruche cassée' (破貞的象徵化)
+33C4212|鳥籠被打開 (破貞的象徵化)
+33C43|性交以後
+33C44|墮落的女子
+33C45|性接觸 ~ 兒童
+33C451|戀童癖, 成人與兒童之間的性接觸
+33C452|兒童之間的性接觸
+33C46|手淫
+33C47|集體性淫亂
+33C48|反常性交, 人與動物之間的性接觸
+33C49|強姦
+33C491|受害者 ~ 強姦
+33C5|妓女
+33C51|妓院
+33C511|男子被搶劫 (妓院的場景)
+33C512|趕走被搶男子 (妓院的場景)
+33C52|妓女
+33C521|高級妓女, 藝妓
+33C5211|'Lais Corinthiaca'
+33C53|做淫媒的場面
+33C531|老鴇
+33C54|鴇母 (妓院的場景)
+33C55|(男)妓院老闆,拉皮條者 (妓院的場景)
+33C551|fancy-man
+33C56|在街上招攬生意 ~ 賣淫
+33C561|在窗口招攬生意 ~ 賣淫
+33C57|販賣白奴 ~ 賣淫
+33C571|販賣兒童 ~ 賣淫
+33C6|同性戀
+33C61|雞姦, 成年男子與男孩子的性接觸
+33C62|sodomy, 男人之間的性接觸
+33C7|(性)功能和陽萎
+33C71|閹割
+33C711|閹人
+33C72|春藥,催情藥
+33C721|保持性功能的方法
+33C729|抑制性慾劑
+33C8|好色, 肉慾
+33C81|貞潔與喜愛感官享受
+33C811|耽於聲色
+33C8110|'Libidine', 'Voluttà' (Ripa)
+33C812|貞潔
+33C8120|'Castità', 'Pudicitia', 'Vergogna honesta' (Ripa)
+33C8121|貞潔帶
+33C8122|貞潔的證據
+33C813|守節
+33C82|天國之愛與塵世之愛
+33C83|高貴之愛與性愛courtly love versus love
+33C84|高貴之愛
+33C85|自由性愛
+33C851|放蕩,亂交, 自由性愛的幻想世界
+33C86|好色之徒
+33C861|'唐璜' (好色之徒)
+33C862|藍鬍子
+33C87|偷窺, 窺淫
+33C89|性變態和性偏差; 下流的再現
+33C891|虐待狂
+33C8911|鞭撻狂 ~ 性變態
+33C892|受虐狂
+33C893|戀物癖
+33C9|愛情: 'Frau Minne'和其它人格化寓言
+33C91|愛情的人格化
+33C911|'Frau Minne'
+33C9111|'Frau Minne' 拉弓射箭
+33C9112|'Frau Minne' 接受朝拜holding court
+33C912|莫里斯舞, 'Mauriskentanz'
+33C92|愛情城堡
+33C93|愛情花園, 愛情法庭, 'fête galante'
+33C931|'Ars amandi'
+33C94|'Ile de Cythère'
+33C941|登船前往塞西拉島
+33C942|從塞西拉島登船embarkation from Cythera
+33C95|愛情的起源; 'Origine d'amore' (Ripa)
+33C951|愛情之泉, 'Fons Amoris'
+33C96|自我犧牲的愛情
+33C97|被愛情折磨的愛人
+33C971|苦戀中的愛人
+33C99|愛情被征服; 'Amor Domato' (Ripa)
+33CC312|女子被情人拋棄 - CC - 男子被情人拋棄
+33CC3121|被拋棄的女子 - CC - 被拋棄的男子
 #33CC32|pursuit of a woman, prowling - CC - pursuit of a man
 #33CC321|rivalry of men for the love of a woman; trying to get the skirt; 'Rivalità' (Ripa) - CC - pursuit of a man
 #33CC3211|rivalry of women for the love of a man; fight for the hose; 'andouille' - CC - pursuit of a man
@@ -4543,119 +4543,119 @@
 #33CC61|pederasty, sexual contact between man and boy - CC - homosexual love between women: lesbianism
 #33CC62|sodomy, sexual contact between men - CC - homosexual love between women: lesbianism
 34|人与动物
-#34A|taming and training of animals
-#34A1|friendship between man and animal; caressing, petting
-#34A11|taming, domestication of animals; tamed or domesticated animal
-#34A111|clipping the wings of a bird
-#34A2|taming of wild horses
-#34A21|breaking to saddle, bridle, etc. ~ wild horses
-#34A22|training of horses
-#34A3|training of dogs
-#34A31|training of police dog
-#34A32|training of seeing-eye dog
-#34A33|training of hunting dog
-#34A34|training of performing dog
-#34A4|earning money with (performing) animals
-#34A41|earning money with bear
-#34A42|earning money with monkey
-#34A43|earning money with guinea-pig
-#34A44|earning money with 其它 animals
-#34A9|man tormenting animal(s)
-#34B|家禽, kept in and outside the house
-#34B1|家禽, kept in the house
-#34B11|dog
-#34B11(...)|dog (名稱 of kind)
-#34B111|collar (of a dog)
-#34B112|dog with bone
-#34B113|watch-dog, dog watching
-#34B114|walking the dog
-#34B12|cat
-#34B12(...)|cat (名稱 of kind)
-#34B121|cat and mouse
-#34B13|domestic birds (inside the house)
-#34B131|bird in a cage
-#34B1311|empty bird cage
-#34B132|birds in a large cage, aviary
-#34B133|bird on a cord or string
-#34B2|domestic animal kept outside the house
-#34B21|poultry house
+34A|馴養和訓練動物
+34A1|人和動物之間的友誼; 撫摸, 愛撫
+34A11|馴養, 馴養動物; 被馴養的動物
+34A111|修剪鳥的翅膀
+34A2|馴服野馬
+#34A21|breaking to saddle, bridle, 等等 ~ 野馬
+34A22|馴馬
+34A3|訓犬
+34A31|訓練警犬
+34A32|訓練導盲犬
+34A33|訓練獵犬
+34A34|訓練表演犬
+34A4|以(表演)動物來掙錢
+34A41|以熊來掙錢
+34A42|以猴來掙錢
+34A43|以豚鼠來掙錢
+34A44|以其它動物來掙錢
+34A9|人折磨動物
+34B|家禽家畜, 放在室內和室外
+34B1|家禽家畜, 放在室內
+34B11|犬
+34B11(...)|犬 (品種的名稱)
+34B111|(狗的)項圈
+34B112|狗與骨頭
+34B113|看門狗, 在監視的狗
+34B114|遛狗
+34B12|貓
+34B12(...)|貓 (品種的名稱)
+34B121|貓和老鼠
+34B13|家養鳥 (放在室內)
+34B131|籠中的鳥
+34B1311|空鳥籠
+34B132|在大籠子裡的鳥, 鳥舍
+34B133|系在繩子或線上的鳥
+34B2|放在室外的家禽家畜
+34B21|雞舍
 #34B211|pond
-#34B22|domestic 哺乳動物 kept outside the house
-#34B23|domestic birds kept outside the house
-#34B231|doves, pigeons
-#34B2311|dove-cote
-#34B232|fowl (cock, hen, chicken, etc.)
-#34B2321|chicken house
-#34B233|domestic waterbirds
-#34B2331|swans (domestic waterbirds)
-#34B2332|geese (domestic waterbirds)
-#34B2333|ducks (domestic waterbirds)
-#34B3|水陸兩棲動物 as 家禽
-#34B31|terrarium
-#34B4|fishes as 家禽
-#34B41|aquarium
-#34B411|fish bowl
-#34B42|fish pond (in garden)
-#34C|protection of animals
-#34C1|feeding wild animals
-#34C11|feeding wild animals in winter
-#34C12|providing water for wild animals during drought
-#34C2|giving shelter to wild animals
-#34C21|caring for birds
-#34C211|nesting-box
-#34C212|starling-house
-#34C3|wildlife reserve, national park
-#34C31|fencing (wildlife reserve)
-#34C32|grating (wildlife reserve)
-#34C4|defending animals against maltreatment
-#34C41|organizations for the defence of animals
-#34C5|veterinarian
-#34D|control and eradication of injurious animals
-#34D1|eradication of injurious 哺乳動物
-#34D11|eradication of mice
-#34D111|mouse trap
-#34D12|extermination of rats
-#34D121|seller of rat-poison
-#34D122|rat exterminator
-#34D123|modern methods of eradication
-#34D2|scaring away of birds
-#34D21|scarecrow
-#34D3|eradication of injurious 昆蟲
-#34D31|fly extermination
-#34D311|fly swatter
-#34D312|fly-paper
-#34D32|mosquito control
-#34D321|mosquito netting, screens
-#34D322|burning smoke-maker, smudge pot ~ extermination of 昆蟲
-#34D4|control and eradication of 其它 injurious animals
-#34D5|modern methods of eradication of injurious animals
-#34D51|spraying of chemical solutions (modern methods of eradication of injurious animals)
-#34E|restraint of animals
-#34E1|dangerous wild animals ~ restraint of animals
-#34E11|lion's den
-#34E12|bear-pit
-#34E2|collection of animals
-#34E21|circus animals
-#34E22|zoological garden, zoo, seen as place where non-家禽 are kept
-#34E221|caretakers ~ zoological garden
-#34E3|animals tied up
-#34F|man and (wild) animal
-#34F1|animals threatening man
-#34F11|man struggling with animals
-#34F111|man struggling with animals as ornamental variant with antithetically placed animals (mostly lions)
-#34F12|man killing animal
-#34F13|animal killing man
-#34F14|(corpse of) man eaten by animals
-#34F2|animal taking care of man
-#34F21|animal taking care of foundling
-#34G|man disguised as animal
+34B22|放在室外的家養哺乳動物
+34B23|放在室外的家養鳥
+34B231|鴿子
+34B2311|鴿舍
+34B232|雞 (公雞, 母雞, 雉雞, 等等)
+34B2321|雞舍
+34B233|家養水鳥
+34B2331|天鵝 (家養水鳥)
+34B2332|鵝 (家養水鳥)
+34B2333|鴨 (家養水鳥)
+34B3|作為水陸兩棲動物的家禽
+34B31|陸上飼養所
+34B4|作為家禽的魚
+34B41|水族館
+34B411|魚缸
+34B42|魚池 (花園裡的)
+34C|動物的保護
+34C1|餵野生動物
+34C11|在冬天餵野生動物
+34C12|在乾旱時期給野生動物餵水
+34C2|給野生動物提供遮蔽處
+34C21|照顧鳥類
+34C211|鳥窩
+34C212|八哥鳥窩
+34C3|野生動物保護區,國家公園
+34C31|圍欄 (野生動物保護區)
+34C32|柵欄 (野生動物保護區)
+34C4|阻止虐待動物
+34C41|保護動物組織
+34C5|素食者
+34D|控制和消滅有害動物
+34D1|消滅有害哺乳動物
+34D11|滅鼠
+34D111|捕鼠器
+34D12|根除大老鼠
+34D121|鼠藥店
+34D122|滅鼠員
+34D123|現代滅鼠方法
+34D2|把鳥嚇走
+34D21|稻草人
+34D3|消滅有害昆蟲
+34D31|消滅蒼蠅
+34D311|蒼蠅拍
+34D312|捕蠅紙
+34D32|控制蚊子
+34D321|蚊帳, 蚊屏screen
+34D322|燒蚊香, 驅蚊罐 ~ 根除昆蟲
+34D4|控制和消滅其它有害動物
+34D5|現代消滅有害動物方法
+34D51|噴射化學藥水 (現代消滅有害動物方法)
+34E|控制動物
+34E1|危險的野生動物 ~ 控制動物
+34E11|獅子的籠子
+34E12|熊坑
+34E2|收集在一起的各類動物
+34E21|馬戲團的動物
+34E22|動物園, 能看到非家禽類動物的地方
+34E221|飼養員 ~ 動物園
+34E3|動物被拴起來
+34F|人和(野)獸
+34F1|動物威脅人
+34F11|人和動物搏鬥
+34F111|作為對稱裝飾物的人和動物搏鬥 (絕大多數為獅子)
+34F12|人殺死動物
+34F13|動物殺死人
+34F14|人(的屍體)成為動物的食物
+34F2|動物照顧人
+34F21|動物照顧棄嬰
+34G|人扮成動物
 35|田園詩，田園場景
 36|人類和環境
-#36A|environmental conservation, protection
-#36A1|environmental clean-up
-#36B|environmental destruction
-#36B1|environmental pollution
-#36B11|pollution ~ nature
-#36B111|air pollution
-#36B112|water pollution
-#36B113|soil pollution
+36A|環境保護
+36A1|環境清潔
+36B|環境破壞
+36B1|環境污染
+36B11|污染 ~ 自然
+36B111|空氣污染
+36B112|水污染
+36B113|土壤污染
