@@ -1,845 +1,843 @@
-4|社会，文明，文化
-41|物质性的日常生活
-41A|住房
-#41A1|civic architecture; edifices; dwellings
-#41A10|'Edifitio overo un sito' (Ripa)
-#41A11|palace
-#41A111|hôtel, i.e. small palace in city
-#41A12|castle
-#41A121|fortified house in city
-#41A13|edifice, e.g.: public building, department store
-#41A14|urban housing
-#41A141|the usual house or row of houses
-#41A142|house combined with shop
-#41A143|detached house in city
-#41A144|flat-building, apartment house
-#41A15|skyscraper
-#41A16|rural housing, e.g. country-house, villa, cottage
-#41A161|country-house
-#41A162|villa
-#41A163|cottage
-#41A17|farm (building)
-#41A171|barn
-#41A18|hut, cabin, lodge
-#41A181|log-cabin
-#41A182|Indian lodge
-#41A1821|wigwam
-#41A19|other dwelling types
-#41A191|tent
-#41A1911|tent-camp
-#41A1912|tepee, tipi, teepee
-#41A192|caravan (trailer)
-#41A1921|caravan-camp
-#41A1922|trailer
-#41A193|houseboat
-#41A194|lake-dwelling, pile-dwelling
-#41A1941|other dwellings standing off the ground
-#41A195|snow-hut, igloo
-#41A196|cave-dwelling
-#41A2|interior of the house
-#41A21|vestibule, hall
-#41A211|corridor
-#41A2111|gallery (spacious corridor)
-#41A22|communal rooms
-#41A221|living-room, parlour, sitting-room
-#41A222|drawing-room, 'salon'
-#41A2221|boudoir
-#41A223|dining-room
-#41A23|bedroom
-#41A24|bathroom
-#41A241|bathroom equipment
-#41A2411|bath-tub
-#41A2412|shower
-#41A2413|bidet
-#41A2414|fitted basin
-#41A2415|jug and basin; wash-basin
-#41A25|other rooms
-#41A251|study; 'studiolo'; library
-#41A252|chapel (interior of the house)
-#41A253|sun-porch, sun-parlour, glazed verandah
-#41A2531|winter-garden, conservatory
-#41A254|wardrobe
-#41A2541|linen-closet
-#41A255|attic, loft
-#41A256|storage space
-#41A3|parts (of house or building)
-#41A31|façade (of house or building)
-#41A311|front façade
-#41A3111|stone tablet in façade
-#41A312|rear façade
-#41A313|façade of inner court
-#41A32|door
-#41A321|opening the door
-#41A3211|open door
-#41A3212|divided door, upper part opened
-#41A3213|revolving door
-#41A322|closing, shutting the door
-#41A3221|closed door
-#41A323|monumental door, porch, 'aediculum'
-#41A324|metalwork of a door
-#41A3241|door-knocker, doorbell
-#41A3242|door-handle, doorknob
-#41A325|threshold
-#41A3251|stile, post, doorjamb
-#41A3252|door furniture, e.g. boot scraper, brush, doormat
-#41A326|letter-box ~ door
-#41A327|doorkeeper, house-guard (inanimate)
-#41A328|lock ~ door
-#41A3281|key
-#41A32811|master-key, 'passe-partout', skeleton key
-#41A3282|latch
-#41A3283|bolt
-#41A3284|padlock
-#41A33|window
-#41A331|opening the window
-#41A3311|open window
-#41A332|closing the window
-#41A3321|closed window
-#41A333|window shutters
-#41A3331|window shutters on the outside
-#41A3332|window shutters on the inside
-#41A334|sunblind, sunshade, awning
-#41A335|window-seat
-#41A336|human figure at (open) window
-#41A3361|human figure at (open) window, seen from outside
-#41A3362|human figure at (open) window, seen from inside
-#41A337|view through a window
-#41A3371|view through a window from the outside
-#41A3372|view through a window from the inside
-#41A34|staircase
-#41A341|stairwell
-#41A3411|escalator
-#41A342|elevator, lift
-#41A343|ladder
-#41A344|fire-escape
-#41A345|back steps
-#41A35|front steps
-#41A351|terrace
-#41A352|canopy (over entrance)
-#41A36|roof (of house or building)
-#41A361|tower (of house or building)
-#41A3611|spire (of tower on house or building)
-#41A362|roof-covering
-#41A363|decorated gable
-#41A37|basement, cellar
-#41A38|balcony
-#41A381|loggia, verandah, porch
-#41A382|bay-window, oriel
-#41A39|piping and wiring
-#41A391|water-supply and draining, pipework (in house or building)
-#41A3911|well
-#41A3912|pump
-#41A3913|tap, faucet
-#41A3914|lavatory, water-closet
-#41A3915|fountain (indoors)
-#41A3916|sink, basin
-#41A392|gas conduits
-#41A393|electric installation, fittings, e.g. socket, plug, light switch, cable, wire
-#41A4|decorations (interior of the house)
-#41A41|wall-covering
-#41A411|wall-paper
-#41A412|panelling
-#41A413|tapestry
-#41A414|cordwain, cordovan leather, Dutch: goudleer
-#41A42|upholstery (of a room)
-#41A421|curtains
-#41A422|hangings and drapery
-#41A4221|velum (hangings and drapery)
-#41A423|ceremonial drapery
-#41A4231|canopy, baldachin
-#41A43|floor-covering
-#41A43(...)|floor-covering (with NAME)
-#41A431|carpet, rug
-#41A44|(decorated) ceiling
-#41A5|annexes and outbuildings; fencing; gate
-#41A51|courtyard
-#41A511|inner court of palace or 'hôtel'
-#41A512|backyard
-#41A52|coach-house
-#41A521|garage
-#41A53|shed
-#41A54|fence, wall, paling
-#41A541|balustrade
-#41A542|gate, entrance
-#41A5421|barrier
-#41A5422|kissing gate, clap gate
-#41A543|stile
-#41A544|watergate
-#41A6|garden
-#41A61|plan, map of garden
-#41A62|garden buildings
-#41A621|pergola
-#41A622|summer-house, arbour, garden-house (Dutch: 'theekoepel')
-#41A623|hermitage
-#41A624|belvedere
-#41A625|trellis
-#41A626|sham-buildings
-#41A63|lay-out of garden
-#41A631|lawn
-#41A632|flower-bed
-#41A633|rock-garden
-#41A634|labyrinth, maze ~ garden
-#41A635|fenced or walled garden; 'Hortus Conclusus'
-#41A6351|roof garden
-#41A636|French or architectonic garden; formal garden
-#41A637|English or landscape garden
-#41A638|garden approach, garden drive
-#41A64|garden ornaments
-#41A641|statues, sculptures in garden
-#41A6411|dwarfs, 'grylloi' (garden ornaments)
-#41A642|obelisks (garden ornaments)
-#41A643|pyramids (garden ornaments)
-#41A644|herms (garden ornaments)
-#41A645|ruins (garden ornaments)
-#41A646|garden vase
-#41A65|water-works in garden
-#41A651|garden fountain
-#41A652|garden pond
-#41A653|garden cascade
-#41A66|artificial grotto in garden
-#41A67|ornamental plants
-#41A671|still life of plants, flowers and fruit
-#41A6711|flowers in a vase
-#41A6712|arranging flowers
-#41A672|topiary work (shrubs and trees trimmed and trained into ornamental shape); bonsai, espalliered, etc.
-#41A673|potted plants
-#41A68|cultivation of (ornamental) garden
-#41A681|gardening
-#41A6811|watering plants
-#41A682|gardening-tools
-#41A682(...)|gardening-tools (with NAME)
-#41A7|furniture and household effects
-#41A71|furniture to put things on
-#41A711|table
-#41A7111|tripod
-#41A7112|trestle table
-#41A712|shelves, rack, sideboard
-#41A7121|what-not
-#41A7122|bookshelves
-#
-#41A71221|bookcase, with doors
-#41A713|cover for table, etc.
-#41A72|seating furniture
-#41A721|chair
-#41A7211|stool
-#41A72111|footstool
-#41A7212|armchair, seat
-#41A7213|rocking-chair
-#41A722|couch, sofa, settee
-#41A7221|cushion
-#41A723|bench
-#41A73|furniture for storage
-#41A731|cupboard
-#41A732|ornamental cupboard
-#41A733|chest, coffer
-#41A734|'cassone'
-#41A735|lock ~ furniture
-#41A7351|key ~ furniture
-#41A7352|bolt ~ furniture
-#41A7353|padlock ~ furniture
-#41A74|furniture for special use
-#41A741|screen, folding screen
-#41A75|decorative furniture
-#41A751|draught-screen
-#41A76|furniture to lie on or in
-#41A761|bed
-#41A7611|built-in bedstead (Dutch: 'bedstee')
-#41A7612|bed with tester
-#41A76121|two poster bed
-#41A76122|four poster bed
-#41A762|hammock
-#41A763|bedding
-#41A7631|mattress
-#41A7632|pillow
-#41A7633|sheet
-#41A7634|blanket
-#41A7635|bed-spread
-#41A77|containers
-#41A771|container of metal: bucket, can, canister, drum, tin, etc.
-#41A7711|container of precious metal
-#41A77111|
-#41A772|container of stone: stone vase
-#41A7721|container of (semi-)precious stone
-#41A773|container of ceramics: jar, jug, pot, vase
-#41A774|container of glass: bottle, jar, vase
-#41A775|wooden container: barrel, cask
-#41A7751|container made of plant material other than wood: basket
-#41A776|container of leather: leather bag
-#41A7761|container of other animal material
-#41A777|container of textile material: bag, sack, net
-#41A778|container of paper, cardboard: bag, carton
-#41A779|container of synthetic material
-#41A78|fancy goods, knick-knacks
-#41A8|use of the house
-#41A81|furnishing (the house)
-#41A82|moving (house)
-#41A9|ruin of a dwelling, house, castle, etc.
-#41AA1|civic architecture; edifices; dwellings - AA - civic architecture: inside
-#41AA10|'Edifitio overo un sito' (Ripa) - AA - civic architecture: inside
-#41AA11|palace - AA - civic architecture: inside
-#41AA111|hôtel, i.e. small palace in city - AA - civic architecture: inside
-#41AA12|castle - AA - civic architecture: inside
-#41AA121|fortified house in city - AA - civic architecture: inside
-#41AA13|edifice, e.g.: public building, department store - AA - civic architecture: inside
-#41AA14|urban housing - AA - civic architecture: inside
-#41AA141|the usual house or row of houses - AA - civic architecture: inside
-#41AA142|house combined with shop - AA - civic architecture: inside
-#41AA143|detached house in city - AA - civic architecture: inside
-#41AA144|flat-building, apartment house - AA - civic architecture: inside
-#41AA15|skyscraper - AA - civic architecture: inside
-#41AA16|rural housing, e.g. country-house, villa, cottage - AA - civic architecture: inside
-#41AA161|country-house - AA - civic architecture: inside
-#41AA162|villa - AA - civic architecture: inside
-#41AA163|cottage - AA - civic architecture: inside
-#41AA17|farm (building) - AA - civic architecture: inside
-#41AA171|barn - AA - civic architecture: inside
-#41AA18|hut, cabin, lodge - AA - civic architecture: inside
-#41AA181|log-cabin - AA - civic architecture: inside
-#41AA182|Indian lodge - AA - civic architecture: inside
-#41AA1821|wigwam - AA - civic architecture: inside
-#41AA19|other dwelling types - AA - civic architecture: inside
-#41AA191|tent - AA - civic architecture: inside
-#41AA1911|tent-camp - AA - civic architecture: inside
-#41AA1912|tepee, tipi, teepee - AA - civic architecture: inside
-#41AA192|caravan (trailer) - AA - civic architecture: inside
-#41AA1921|caravan-camp - AA - civic architecture: inside
-#41AA1922|trailer - AA - civic architecture: inside
-#41AA193|houseboat - AA - civic architecture: inside
-#41AA194|lake-dwelling, pile-dwelling - AA - civic architecture: inside
-#41AA1941|other dwellings standing off the ground - AA - civic architecture: inside
-#41AA195|snow-hut, igloo - AA - civic architecture: inside
-#41AA196|cave-dwelling - AA - civic architecture: inside
-#41AA32|door - AA - feigned door, sham-door
-#41AA321|opening the door - AA - feigned door, sham-door
-#41AA3211|open door - AA - feigned door, sham-door
-#41AA3212|divided door, upper part opened - AA - feigned door, sham-door
-#41AA3213|revolving door - AA - feigned door, sham-door
-#41AA322|closing, shutting the door - AA - feigned door, sham-door
-#41AA3221|closed door - AA - feigned door, sham-door
-#41AA323|monumental door, porch, 'aediculum' - AA - feigned door, sham-door
-#41AA324|metalwork of a door - AA - feigned door, sham-door
-#41AA3241|door-knocker, doorbell - AA - feigned door, sham-door
-#41AA3242|door-handle, doorknob - AA - feigned door, sham-door
-#41AA325|threshold - AA - feigned door, sham-door
-#41AA3251|stile, post, doorjamb - AA - feigned door, sham-door
-#41AA3252|door furniture, e.g. boot scraper, brush, doormat - AA - feigned door, sham-door
-#41AA326|letter-box ~ door - AA - feigned door, sham-door
-#41AA327|doorkeeper, house-guard (inanimate) - AA - feigned door, sham-door
-#41AA328|lock ~ door - AA - feigned door, sham-door
-#41AA3281|key - AA - feigned door, sham-door
-#41AA32811|master-key, 'passe-partout', skeleton key - AA - feigned door, sham-door
-#41AA3282|latch - AA - feigned door, sham-door
-#41AA3283|bolt - AA - feigned door, sham-door
-#41AA3284|padlock - AA - feigned door, sham-door
-#41AA33|window - AA - feigned window
-#41AA331|opening the window - AA - feigned window
-#41AA3311|open window - AA - feigned window
-#41AA332|closing the window - AA - feigned window
-#41AA3321|closed window - AA - feigned window
-#41AA333|window shutters - AA - feigned window
-#41AA3331|window shutters on the outside - AA - feigned window
-#41AA3332|window shutters on the inside - AA - feigned window
-#41AA335|window-seat - AA - feigned window
-#41AA336|human figure at (open) window - AA - feigned window
-#41AA3361|human figure at (open) window, seen from outside - AA - feigned window
-#41AA3362|human figure at (open) window, seen from inside - AA - feigned window
-#41AA337|view through a window - AA - feigned window
-#41AA3371|view through a window from the outside - AA - feigned window
-#41AA3372|view through a window from the inside - AA - feigned window
-41B|取暖与照明
-#41B1|open fire (in general)
-#41B11|kindling a fire
-#41B111|flint and steel
-#41B112|tinder-box
-#41B113|sulphur match
-#41B114|match
-#41B1141|match-box
-#41B115|fuse
-#41B12|burning as process
-#41B12(...)|burning as process (with NAME of fuel)
-#41B12(COAL)|burning as process: coal
-#41B12(FAGGOT)|burning as process: faggot
-#41B12(LOG)|burning as process: log
-#41B12(OIL)|burning as process: oil
-#41B12(STRAW)|burning as process: straw
-#41B121|flame
-#41B122|spark ~ fire
-#41B123|gases liberated by combustion
-#41B13|stirring up a fire
-#41B131|blowing (stirring up a fire)
-#41B1311|bellows
-#41B132|fanning (stirring up a fire)
-#41B1321|fan
-#41B133|poking (stirring up a fire)
-#41B1331|poker (~ open fire)
-#41B14|extinguishing a fire
-#41B15|deposits of combustion
-#41B151|soot
-#41B152|ash
-#41B153|cinders, slag
-#41B16|camp-fire; watch-fire
-#41B161|bonfire
-#41B162|smoke
-#41B2|hearth and stove
-#41B21|open hearth, fire-place
-#41B211|warming oneself at a fire (or hearth, stove, fire-pan, brazier)
-#41B212|implements ~ fire-place
-#41B2121|fire-tongs
-#41B2122|extinguisher for coal
-#41B213|accessories ~ fire-place
-#41B2131|fire-screen
-#41B2132|fender
-#41B2133|hearth-plate
-#41B2134|dummy board figures
-#41B2135|pot suspended by chain
-#41B2136|andiron, fire-dog
-#41B214|chimney
-#41B2141|chimney-piece, mantelpiece
-#41B2142|chimney ornaments
-#41B22|heating stove
-#41B221|grate (of heating stove)
-#41B222|stove-pipe
-#41B223|coal-bucket
-#41B224|coal-shovel
-#41B23|foot-stove
-#41B231|warming-pan (for bed)
-#41B232|hot-water bottle
-#41B24|central heating
-#41B241|radiator (central heating)
-#41B29|cooling, air conditioning
-#41B3|lighting; lamps
-#41B31|candle
-#41B311|chandelier, candelabrum
-#41B312|sconce, wall lamp
-#41B313|candlestick
-#41B314|snuffers
-#41B32|torch
-#41B33|lantern
-#41B34|oil-lamp
-#41B35|paraffin lamp
-#41B36|gas-lamp
-#41B37|electric lamp
-#41B371|light bulb (electric)
-#41B372|neon lamp, neon tube
-#41B4|on fire, ablaze
-#41B5|fire-fighting
-#41B51|fire-department, fire-brigade
-#41B511|firemen
-#41B52|fire-extinguishing equipment
-#41B521|pails (fire-extinguishing equipment)
-#41B522|pump (fire-extinguishing equipment)
-#41B523|fire-hose
-#41B524|chemical fire-extinguishing apparatus
-#41B525|fire-engine
-#41B53|rescue from fire
-#41B531|rescue from fire with jumping-sheet
-#41B6|ventilation systems
-#41B61|airshaft
-#41BB32|torch - BB - torch held upside down
+﻿4|社会，文明，文化
+41|日常生活的物質性方面
+41A|房屋
+41A1|公共建築; 大廈; 住宅
+41A10|'Edifitio overo un sito' (Ripa)
+41A11|宮殿
+41A111|法式豪宅, 即城市裡的小宮殿
+41A12|城堡
+41A121|城市裡的有防禦功能的房屋
+41A13|大廈, 如: 公共建築, 百貨公司
+41A14|都市房屋
+41A141|一般房屋或一排房屋
+41A142|住宅加商店
+41A143|城市裡獨立住宅
+41A144|公寓樓, 公寓式住宅
+41A15|摩天大廈
+41A16|農村房屋, 如鄉間別墅, 鄉間莊園, 農舍
+41A161|鄉間別墅
+41A162|鄉間莊園
+41A163|農舍
+41A17|農場 (建築)
+41A171|穀場
+41A18|茅屋, 小屋, 館舍
+41A181|小木屋
+41A182|印第安人館舍
+41A1821|棚屋
+41A19|其它住宅類型
+41A191|帳篷
+41A1911|帳棚營地
+41A1912|圓錐形帳篷
+41A192|旅宿篷車 (拖車)
+41A1921|旅宿篷車營地
+41A1922|拖車
+41A193|船屋
+41A194|湖上住宅, 樁屋
+41A1941|其它離開地面的住宅
+41A195|雪屋, 冰屋
+41A196|穴居屋,窯洞
+41A2|房屋內部
+41A21|前庭,門廳
+41A211|走廊
+41A2111|迴廊 (寬闊的走廊)
+41A22|聚合型房間
+41A221|起居室, 客廳, 接待室
+41A222|會客室, 'salon'
+41A2221|閨閣
+41A223|餐廳
+41A23|臥室
+41A24|浴室
+41A241|浴室設備
+41A2411|浴盆,浴缸
+41A2412|淋浴
+41A2413|坐浴盆
+41A2414|固定洗臉池
+41A2415|罐和盆; 洗臉盆
+41A25|其它房間
+41A251|書房; 'studiolo'; 圖書室
+41A252|禮拜堂 (房屋內部)
+41A253|日光房, 玻璃廊
+41A2531|暖房, 溫室
+41A254|衣庫,衣室
+41A2541|衣物櫃
+41A255|閣樓
+41A256|儲藏地
+41A3|(建築或房屋的)各部分
+41A31|外牆 (建築或住宅的)
+41A311|正立面
+41A3111|嵌在外牆裡的石碑
+41A312|背立面
+41A313|內庭的立面
+41A32|門
+41A321|開門
+41A3211|開著的門
+41A3212|分上下兩部的門, 上半部的門開著
+41A3213|轉門
+41A322|關門
+41A3221|關著的門
+41A323|巨型大門, 門鬥, 'aediculum'
+41A324|門的金屬部件
+41A3241|門環, 門鈴
+41A3242|門的把手, 球形把手
+41A325|門檻
+41A3251|門梃, 門柱, 門側柱
+41A3252|門口傢俱, 如靴子刮土器, 鞋刷, 門墊
+41A326|信箱 ~ 門
+41A327|守門人, 看門人 (非真人)
+41A328|鎖 ~ 門
+41A3281|鑰匙
+41A32811|萬能鑰匙, 'passe-partout', 萬用鑰匙
+41A3282|門閂
+41A3283|插銷
+41A3284|掛鎖
+41A33|窗戶
+41A331|開窗戶
+41A3311|開著的窗戶
+41A332|關窗戶
+41A3321|關著的窗戶
+41A333|護窗板
+41A3331|外面護窗板
+41A3332|裡面護窗板
+41A334|遮陽板, 遮篷
+41A335|窗坐
+41A336|人物在(開著的)窗口
+41A3361|人物在(開著的)窗口, 從外面看
+41A3362|人物在(開著的)窗口, 從裡面看
+41A337|透過窗戶看
+41A3371|從外面透過窗戶看
+41A3372|從裡面透過窗戶看
+41A34|樓梯
+41A341|樓梯井
+41A3411|自動扶手樓梯
+41A342|電梯, 升降機
+41A343|梯子
+41A344|太平梯,安全出口
+41A345|屋後台階
+41A35|屋前台階
+41A351|露臺
+41A352|華蓋 (入口處的)
+41A36|房頂 (建築或房屋的)
+41A361|塔 (建築或房屋的)
+41A3611|塔尖 (建築或房屋的塔)
+41A362|屋面
+41A363|裝飾性山牆
+41A37|地下室, 地窖
+41A38|陽台
+41A381|走廊
+41A382|凸窗
+41A39|布管道和布線
+41A391|供水和排水, 管道 (建築或房屋的)
+41A3911|井
+41A3912|抽水泵
+41A3913|水龍頭
+41A3914|廁所, 洗手間
+41A3915|噴泉 (室內)
+41A3916|水池, 水盆
+41A392|天然氣管道
+41A393|用電裝置, 如插座, 插頭, 電燈開關, 電線
+41A4|裝潢 (室內)
+41A41|壁面覆蓋物
+41A411|壁紙
+41A412|壁板
+41A413|壁毯
+41A414|金革cordwain, cordovan leather, 荷蘭語:goudleer
+41A42| (房間的)傢飾襯料覆布
+41A421|掛帘
+41A422|懸掛物和布幔
+41A4221|罩布 (懸掛物和布幔)
+41A423|儀式布幔
+41A4231|華蓋, 錦龕
+41A43|地面覆蓋物
+41A43(...)|地面覆蓋物 (名稱)
+41A431|地毯, 小地毯
+41A44|(裝飾性的) 天花板
+41A5|附加建築和配樓; 籬笆; 院門
+41A51|合院
+41A511|小宮殿的內庭
+41A512|後院
+41A52|馬車房
+41A521|停車間
+41A53|棚屋
+41A54|籬笆, 牆, 
+41A541|攔桿,扶欄,迴欄
+41A542|院門, 入口
+41A5421|隔欄
+41A5422|旋轉門, clap gate
+41A543|門梃stile
+41A544|水門
+41A6|庭園
+41A61|規劃, 庭園地圖
+41A62|花園建築
+41A621|藤蔓架
+41A622|涼亭, 涼棚, 庭園小屋 (荷蘭語: 'theekoepel')
+41A623|隱居處
+41A624|觀景台
+41A625|花棚
+41A626|假建築sham-buildings
+41A63|庭園布局
+41A631|草坪
+41A632|花圃
+41A633|石景庭園
+41A634|迷宮 ~ 庭園
+41A635|有籬笆或牆圍起來的庭園; 'Hortus Conclusus'
+41A6351|屋頂庭園
+41A636|法式或建築學式庭園; 規則式庭園
+41A637|英式或風景式庭園
+41A638|庭園通道,庭園車道
+41A64|庭園裝飾
+41A641|塑像, 庭園裡的雕塑
+41A6411|小矮人, 'grylloi' (庭園裝飾)
+41A642|方尖碑 (庭園裝飾)
+41A643|金字塔 (庭園裝飾)
+41A644|半身像柱 (庭園裝飾)
+41A645|廢墟 (庭園裝飾)
+41A646|庭園花瓶
+41A65|庭園裡的供水系統
+41A651|庭園噴泉
+41A652|庭園池塘
+41A653|庭園瀑布
+41A66|庭園裡的人工洞穴
+41A67|觀賞性植物
+41A671|植物,花卉和果實靜物
+41A6711|瓶中花卉
+41A6712|插花
+41A672|整形 (灌木和樹木被修剪整理成觀賞形態); 盆景, 牆樹, 等等
+41A673|花盆裡的植物
+41A68|(觀賞性)庭園的種植
+41A681|園藝
+41A6811|給植物澆水
+41A682|園藝工具
+41A682(...)|園藝工具 (名稱)
+41A7|傢俱和家庭用具
+41A71|放東西的傢俱
+41A711|桌子
+41A7111|三足桌
+41A7112|擱板桌
+41A712|架子, 邊桌
+41A7121|放各種東西的架子
+41A7122|書架
+41A71221|書櫥, 有門的
+41A713|桌罩, 等等
+41A72|坐俱
+41A721|椅子
+41A7211|凳子
+41A72111|擱腳凳
+41A7212|扶手椅, 座
+41A7213|搖椅
+41A722|躺椅, 沙發, 沙發椅
+41A7221|坐墊
+41A723|凳子
+41A73|儲藏俱
+41A731|櫃
+41A732|觀賞櫃
+41A733|箱
+41A734|'cassone'
+41A735|鎖 ~ 傢俱
+41A7351|鑰匙 ~ 傢俱
+41A7352|栓 ~ 傢俱
+41A7353|掛鎖 ~ 傢俱
+41A74|特殊用處的傢俱
+41A741|屏風, 折疊屏風
+41A75|裝飾性傢俱
+41A751|擋風屏
+41A76|臥俱
+41A761|床
+41A7611|固定床架 (荷蘭語: 'bedstee')
+41A7612|棚頂床
+41A76121|兩柱床
+41A76122|四柱床
+41A762|吊床
+41A763|床具
+41A7631|床墊
+41A7632|枕頭
+41A7633|床單
+41A7634|毛毯
+41A7635|床罩
+41A77|盛器
+41A771|金屬盛器: 圓桶, 罐, 小罐, 鼓, 等等
+41A7711|貴重金屬盛器
+41A772|石質盛器: 石瓶
+41A7721|(次)寶石盛器
+41A773|陶瓷盛器: 細瓶壺,罐, 壺, 花瓶
+41A774|玻璃盛器: 瓶, 罐, 花瓶
+41A775|木質盛器: 桶, 木桶
+41A7751|非木材類植物質盛器: 籃
+41A776|皮質盛器: 皮包
+41A7761|其它動物材料盛器
+41A777|織物盛器: 包, 袋, 網袋
+41A778|紙質盛器: 包, 紙盒
+41A779|人造材料盛器
+41A78|花哨的小玩意, 小骨董
+41A8|住宅的使用
+41A81|布置 (住宅)
+41A82|搬 (住宅)
+41A9|住宅,房屋,城堡等等建築的廢墟
+#41AA1|civic architecture; edifices; dwellings - AA - 公共建築: 內部
+#41AA10|'Edifitio overo un sito' (Ripa) - AA - 公共建築: 內部
+#41AA11|palace - AA - 公共建築: 內部
+#41AA111|hôtel, i.e. small palace in city - AA - 公共建築: 內部
+#41AA12|castle - AA - 公共建築: 內部
+#41AA121|fortified house in city - AA - 公共建築: 內部
+#41AA13|edifice, e.g.: public building, department store - AA - 公共建築: 內部
+#41AA14|urban housing - AA - 公共建築: 內部
+#41AA141|the usual house or row of houses - AA - 公共建築: 內部
+#41AA142|house combined with shop - AA - 公共建築: 內部
+#41AA143|detached house in city - AA - 公共建築: 內部
+#41AA144|flat-building, apartment house - AA - 公共建築: 內部
+#41AA15|skyscraper - AA - 公共建築: 內部
+#41AA16|rural housing, e.g. country-house, villa, cottage - AA - 公共建築: 內部
+#41AA161|country-house - AA - 公共建築: 內部
+#41AA162|villa - AA - 公共建築: 內部
+#41AA163|cottage - AA - 公共建築: 內部
+#41AA17|farm (building) - AA - 公共建築: 內部
+#41AA171|barn - AA - 公共建築: 內部
+#41AA18|hut, cabin, lodge - AA - 公共建築: 內部
+#41AA181|log-cabin - AA - 公共建築: 內部
+#41AA182|Indian lodge - AA - 公共建築: 內部
+#41AA1821|wigwam - AA - 公共建築: 內部
+#41AA19|other dwelling types - AA - 公共建築: 內部
+#41AA191|tent - AA - 公共建築: 內部
+#41AA1911|tent-camp - AA - 公共建築: 內部
+#41AA1912|tepee, tipi, teepee - AA - 公共建築: 內部
+#41AA192|caravan (trailer) - AA - 公共建築: 內部
+#41AA1921|caravan-camp - AA - 公共建築: 內部
+#41AA1922|trailer - AA - 公共建築: 內部
+#41AA193|houseboat - AA - 公共建築: 內部
+#41AA194|lake-dwelling, pile-dwelling - AA - 公共建築: 內部
+#41AA1941|other dwellings standing off the ground - AA - 公共建築: 內部
+#41AA195|snow-hut, igloo - AA - 公共建築: 內部
+#41AA196|cave-dwelling - AA - 公共建築: 內部
+#41AA32|door - AA - 假門
+#41AA321|opening the door - AA - 假門
+#41AA3211|open door - AA - 假門
+#41AA3212|divided door, upper part opened - AA - 假門
+#41AA3213|revolving door - AA - 假門
+#41AA322|closing, shutting the door - AA - 假門
+#41AA3221|closed door - AA - 假門
+#41AA323|monumental door, porch, 'aediculum' - AA - 假門
+#41AA324|metalwork of a door - AA - 假門
+#41AA3241|door-knocker, doorbell - AA - 假門
+#41AA3242|door-handle, doorknob - AA - 假門
+#41AA325|threshold - AA - 假門
+#41AA3251|stile, post, doorjamb - AA - 假門
+#41AA3252|door furniture, e.g. boot scraper, brush, doormat - AA - 假門
+#41AA326|letter-box ~ door - AA - 假門
+#41AA327|doorkeeper, house-guard (inanimate) - AA - 假門
+#41AA328|lock ~ door - AA - 假門
+#41AA3281|key - AA - 假門
+#41AA32811|master-key, 'passe-partout', skeleton key - AA - 假門
+#41AA3282|latch - AA - 假門
+#41AA3283|bolt - AA - 假門
+#41AA3284|padlock - AA - 假門
+#41AA33|window - AA - 假窗
+#41AA331|opening the window - AA - 假窗
+#41AA3311|open window - AA - 假窗
+#41AA332|closing the window - AA - 假窗
+#41AA3321|closed window - AA - 假窗
+#41AA333|window shutters - AA - 假窗
+#41AA3331|window shutters on the outside - AA - 假窗
+#41AA3332|window shutters on the inside - AA - 假窗
+#41AA335|window-seat - AA - 假窗
+#41AA336|human figure at (open) window - AA - 假窗
+#41AA3361|human figure at (open) window, seen from outside - AA - 假窗
+#41AA3362|human figure at (open) window, seen from inside - AA - 假窗
+#41AA337|view through a window - AA - 假窗
+#41AA3371|view through a window from the outside - AA - 假窗
+#41AA3372|view through a window from the inside - AA - 假窗
+41B|供暖,照明,通風
+41B1|生火 (一般性)
+41B11|點火
+41B111|燧石和鋼
+41B112|火種盒
+41B113|硫磺火柴
+41B114|火柴
+41B1141|火柴盒
+41B115|保險絲fuse
+41B12|燃燒過程
+41B12(...)|燃燒過程 (燃料名稱)
+41B12(COAL)|燃燒過程: 煤
+41B12(FAGGOT)|燃燒過程: 樹枝
+41B12(LOG)|燃燒過程: 原木
+41B12(OIL)|燃燒過程: 油
+41B12(STRAW)|燃燒過程: 禾稈
+41B121|火焰
+41B122|火星 ~ 火焰
+41B123|煤氣點火後燃燒
+41B13|把火燒旺
+41B131|吹 (把火燒旺)
+41B1311|鼓風
+41B132|煽 (把火燒旺)
+41B1321|扇子
+41B133|撥火 (把火燒旺)
+41B1331|撥火棍 (~ 生火)
+41B14|滅火
+41B15|燃燒沉澱物
+41B151|煙灰
+41B152|灰燼
+41B153|融渣
+41B16|營地火
+41B161|篝火
+41B162|狼煙smoke
+41B2|爐灶
+41B21|生爐子, 火爐
+41B211|火(或爐灶, 火盆)邊取暖
+41B212|用具 ~ 火爐
+41B2121|火鉗
+41B2122|煤火滅火器
+41B213|配件 ~ 火爐
+41B2131|隔火屏風
+41B2132|壁爐圍欄
+41B2133|火爐墊板
+41B2134|假人板
+41B2135|帶鏈條的吊壺
+41B2136|火爐柴架
+41B214|煙囪
+41B2141|壁爐架
+41B2142|煙囪裝飾
+41B22|取暖爐
+41B221|鐵柵 (取暖爐)
+41B222|暖爐管
+41B223|煤筒
+41B224|煤鏟
+41B23|腳爐
+41B231|暖盆 (為床上用)
+41B232|熱水瓶
+41B24|中央供暖系統
+41B241|暖器片 (中央供暖系統)
+41B29|致冷, 空調
+41B3|照明; 燈
+41B31|蠟燭
+41B311|枝形吊燈, 枝形燭台
+41B312|壁式燭台, 壁燈
+41B313|燭台
+41B314|燭花剪
+41B32|火炬
+41B33|燈籠
+41B34|油燈
+41B35|石蠟燈
+41B36|煤氣燈
+41B37|電燈
+41B371|燈泡 (電)
+41B372|霓虹燈, 霓虹燈管
+41B4|失火, 著火
+41B5|滅火
+41B51|消防部門, 消防隊
+41B511|消防隊員
+41B52|消防器材
+41B521|提桶 (消防器材)
+41B522|水泵 (消防器材)
+41B523|水龍帶
+41B524|化學滅火器材
+41B525|消防車
+41B53|從火中搶救
+41B531|用接跳布從火中搶救
+41B6|通風系統
+41B61|通風口
+41BB32|火炬 - BB - 倒舉火炬
 41C|食物，营养
-#41C1|eating and drinking
-#41C10|gastronomy, the art of eating and drinking
-#41C11|eating
-#41C111|giving food
-#41C119|hunger
-#41C1190|personification of hunger, 'Fames'; 'Fame' (Ripa)
-#41C1191|starvation, famine
-#41C1192|hunger-strike
-#41C12|drinking
-#41C121|giving drink
-#41C122|pouring
-#41C129|thirst
-#41C13|blowing, to cool food before eating
-#41C14|stirring, to cool food before eating
-#41C18|saturation, satiation ~ eating and drinking
-#41C19|insatiable hunger or thirst
-#41C2|kitchen and cellar
-#41C21|kitchen
-#41C211|kitchen-interior
-#41C2111|kitchen-interior with foodstuffs in foreground (Dutch: 'keukenstuk')
-#41C212|sink (kitchen)
-#41C22|kitchen-personnel
-#41C221|cook
-#41C222|kitchen-maid, kitchen servant
-#41C23|poor and rich kitchen
-#41C231|rich kitchen
-#41C232|poor kitchen
-#41C24|conserving food
-#41C241|cellar
-#41C2411|wine-cellar
-#41C24111|wine-steward
-#41C242|ice-cellar
-#41C2421|ice-box, refrigerator
-#41C25|cooking food
-#41C251|roasting, grilling
-#41C2511|spit ~ cooking
-#41C2512|grill, gridiron ~ cooking food
-#41C252|frying
-#41C253|boiling
-#41C254|kitchen-fire
-#41C2541|open fire, fire-place, stove (in kitchen)
-#41C2542|cooker
-#41C2543|oven ~ kitchen
-#41C26|preparation of food
-#41C261|cleaning (food)
-#41C2611|cleaning vegetables
-#41C2612|cleaning fruit, e.g. peeling
-#41C26121|(half-)peeled fruit, e.g. lemon
-#41C2613|cleaning fowl or small animals
-#41C26131|plucked fowl
-#41C262|dividing (food)
-#41C2621|cutting meat
-#41C2622|slicing bread
-#41C263|mixing, combining (preparing food)
-#41C2631|preparing dough or batter
-#41C264|smoothing, beating (preparing food)
-#41C265|ornamenting, decorating, dressing (preparing food)
-#41C269|washing up
-#41C27|kitchen-utensils
-#41C27(...)|kitchen-utensils (with NAME)
-#41C27(CAULDRON)|kitchen-utensils: cauldron
-#41C27(COLANDER)|kitchen-utensils: colander
-#41C27(FRYING PAN)|kitchen-utensils: frying pan
-#41C27(FUNNEL)|kitchen-utensils: funnel
-#41C27(GRATER)|kitchen utensils: grater
-#41C27(LADLE)|kitchen-utensils: ladle
-#41C27(PAN)|kitchen-utensils: pan
-#41C27(POT)|kitchen-utensils: pot
-#41C27(ROLLING-PIN)|kitchen-utensils: rolling-pin
-#41C27(SIEVE)|kitchen-utensils: sieve
-#41C27(SKIMMER)|kitchen-utensils: skimmer
-#41C3|laid table: table-ware, table-decoration, etc.
-#41C31|table-ware
-#41C311|table-knife
-#41C312|fork
-#41C313|spoon
-#41C314|salt-cellar, salt-shaker
-#41C315|spice-box
-#41C316|egg-cup
-#41C317|wine-cooler
-#41C32|drinking-vessels
-#41C321|cup
-#41C3211|drinking-horn
-#41C3212|nautilus cup
-#41C322|mug, beaker, goblet
-#41C3221|goblet foot
-#41C323|glass, rummer
-#41C323(...)|glass, rummer (with NAME)
+41C1|飲食
+41C10|美食學, 飲食的藝術
+41C11|吃
+41C111|給予食物
+41C119|飢餓
+41C1190|飢餓的人格化, 'Fames'; 'Fame' (Ripa)
+41C1191|飢餓, 飢荒
+41C1192|絕食抗議
+41C12|喝
+41C121|給予飲料
+41C122|倒,斟
+41C129|口渴
+41C13|吹, 在食用前把食物變涼
+41C14|攪動, 在食用前把食物變涼
+41C18|飽足, 飽食 ~ 飲食
+41C19|永不滿足的飲食欲
+41C2|廚房和地窖
+41C21|廚房
+41C211|廚房-室內
+41C2111|廚房-前景有食物的室內 (荷蘭語: 'keukenstuk')
+41C212|水池 (廚房)
+41C22|廚房-人員
+41C221|廚師
+41C222|廚房女傭, 廚房男傭
+41C23|貧窮和富庶的廚房
+41C231|富庶的廚房
+41C232|貧窮的廚房
+41C24|儲存食物
+41C241|地窖
+41C2411|酒窖
+41C24111|侍酒師
+41C242|冰窖
+41C2421|冰箱
+41C25|烹飪
+41C251|烤
+41C2511|烤叉 ~ 烹飪
+41C2512|燒烤格架 ~ 烹飪
+41C252|煎炸
+41C253|煮
+41C254|廚房-火
+41C2541|生火, 火爐 (廚房裡的)
+41C2542|鍋
+41C2543|烤箱 ~ 廚房
+41C26|準備食物
+41C261|清潔 (食物)
+41C2611|清潔蔬菜
+41C2612|清潔果實, 如去皮
+41C26121|水果(一半)被去了皮, 如檸檬
+41C2613|清潔飛禽或小動物
+41C26131|去了羽毛的飛禽
+41C262|切割 (食物)
+41C2621|切肉
+41C2622|切麵包
+41C263|混合, 相加 (準備食物)
+41C2631|準備麵槽或糊狀物batter
+41C264|弄均勻 (準備食物)
+41C265|裝飾, 加香料 (準備食物)
+41C269|清洗
+41C27|廚房用具
+41C27(...)|廚房用具 (名稱)
+41C27(CAULDRON)|廚房用具: 大鍋
+41C27(COLANDER)|廚房用具: 碗形濾器
+41C27(FRYING PAN)|廚房用具: 煎炸鍋
+41C27(FUNNEL)|廚房用具: 漏斗
+41C27(GRATER)|廚房用具: 磨碎器
+41C27(LADLE)|廚房用具: 長柄杓
+41C27(PAN)|廚房用具: 鍋
+41C27(POT)|廚房用具: 壺
+41C27(ROLLING-PIN)|廚房用具: 擀麵杖
+41C27(SIEVE)|廚房用具: 篩子
+41C27(SKIMMER)|廚房用具: 去渣器
+41C3|餐桌擺設: 餐具, 餐桌裝飾, 等等
+41C31|餐具
+41C311|餐刀
+41C312|餐叉
+41C313|餐勺
+#41C314|鹽瓶
+#41C315|調味盒
+#41C316|蛋杯
+#41C317|酒瓶冰鎮桶
+#41C32|飲器
+#41C321|杯
+#41C3211|角杯
+#41C3212|鸚鵡螺杯
+#41C322|大柄杯子, 大口杯, 高足杯
+#41C3221|高足杯的足goblet foot
+#41C323|玻璃杯, 大玻璃杯
+#41C323(...)|玻璃杯, 大玻璃杯 (名稱)
 #
-#41C323(BERKEMEYER)|glass, rummer: berkemeyer
-#41C323(PASGLAS)|glass, rummer: pasglas
-#41C324|tankard
+#41C323(BERKEMEYER)|玻璃杯, 大玻璃杯: berkemeyer
+#41C323(PASGLAS)|玻璃杯, 大玻璃杯: pasglas
+#41C324|單柄杯tankard
 #41C325|table fountain
-#41C326|jar, jug (used as drinking-vessel)
-#41C327|drinking-vessel in unusual shape
-#41C3271|animal-shaped drinking-vessel
-#41C3272|anthropomorphic drinking-vessel
-#41C32721|human skull as drinking-vessel
-#41C3273|drinking-vessel in the shape of an object
-#41C33|tea- and coffee-service
-#41C331|cup and saucer
-#41C332|coffee-pot
-#41C333|tea-pot; samovar
-#41C334|sugar-basin
-#41C34|dinner-service
-#41C341|dish, plate, saucer
-#41C342|serving-dish, platter
-#41C343|salver
-#41C344|gravy-boat
-#41C345|bowl
-#41C35|table-decoration
-#41C351|centre-piece, epergne, 'surtout', 'milieu-de-table'
+#41C326|罐, 壺 (作為飲器)
+#41C327|特別造型的飲器
+#41C3271|動物造型的飲器
+#41C3272|類似人物造型的飲器
+#41C32721|人的顱骨作為飲器
+#41C3273|物件造型的飲器in the shape of an object
+#41C33|茶和咖啡具
+#41C331|杯和碟
+#41C332|咖啡壺
+#41C333|茶壺
+#41C334|糖缸
+#41C34|晚餐餐具
+#41C341|盤dish, 盆plate, 碟saucer
+#41C342|供應盤, 大淺盤
+#41C343|托盤
+#41C344|船形汁碗
+#41C345|碗
+#41C35|餐桌裝飾
+#41C351|中央擺飾, 餐桌飾架, 'surtout', 'milieu-de-table'
 #41C352|'trionfi di tavola', 'pièces montées'
-#41C353|aquamanile, vessel holding water for washing the hands before a meal
-#41C36|(dinner-)service displayed on sideboard
-#41C37|table-cloth
-#41C371|napkin
-#41C3711|napkin-ring
-#41C38|laid table as still life
-#41C381|breakfast piece (Dutch: 'ontbijtje')
-#41C382|banquet piece
-#41C4|(family) meal
-#41C41|breakfast
-#41C411|morning coffee
-#41C42|midday meal, lunch
-#41C421|high tea
-#41C4211|tea-ceremony
-#41C422|afternoon tea
-#41C43|evening meal, dinner, supper
-#41C44|(late) supper
-#41C5|celebration meal, feast, banquet
+#41C353|餐前洗手水罐
+#41C36|放在邊桌的(晚餐)餐具
+#41C37|餐桌布
+#41C371|餐巾
+#41C3711|餐巾套環
+#41C38|作為靜物的餐桌擺飾
+#41C381|早餐靜物 (荷蘭語: 'ontbijtje')
+#41C382|宴席靜物
+#41C4|(家庭) 用餐
+#41C41|早餐
+#41C411|早茶
+#41C42|午餐
+#41C421|正式茶點
+#41C4211|茶道
+#41C422|下午茶
+#41C43|晚餐, 晚飯
+#41C44|夜宵(late) supper
+#41C5|慶祝宴會, 盛宴, 宴席
 #41C50|'Convito' (Ripa)
-#41C51|banquet of elegant company
-#41C52|carousal, drinking-bout, orgy
+#41C51|有高雅伴侶的宴席
+#41C52|喧鬧的宴席, 狂飲, 狂歡
 #41C520|'Crapula' (Ripa)
-#41C6|foodstuffs; still life of foodstuffs
-#41C61|flour
-#41C611|kinds of flour or grain
-#41C612|flour- and grain-products
-#41C6121|cereal
-#41C6122|noodles, spaghetti, etc.
-#41C62|bread, cake, pastry, etc.
-#41C621|bread, loaf
-#41C6211|shaped bread
-#41C62111|flat, round bread or pastry, e.g. pizza
-#41C6212|filled breads, rolls, e.g. sandwich, hamburger
-#41C622|cake, tart, pastry
-#41C6221|fancy-cakes, fancy-pastries
-#41C6222|biscuits
-#41C623|pancakes
-#41C624|waffles
-#41C6241|rolled wafer
-#41C625|pie
-#41C626|baker's moulds
-#41C6261|moulds for cakes, tarts, pastries
-#41C6262|moulds for biscuits
-#41C62621|so-called 'speculaasplanken' (biscuit moulds)
-#41C6263|waffle-iron
-#41C6264|bread-tin, baking-tin
-#41C63|sugar
-#41C631|loaf-sugar
-#41C632|sugar-lumps
-#41C633|syrup
-#41C634|sugar-candy
-#41C635|sweets, dainties
-#41C6351|ice-cream
-#41C6352|chocolate (solid)
-#41C636|honey
-#41C637|sugar-coated
-#41C6371|icing, frosting
-#41C64|dairy products and eggs
-#41C641|dairy products
-#41C6411|butter
-#41C6412|cheese
-#41C6413|milk
-#41C64131|buttermilk
-#41C64132|yoghurt
-#41C64133|cream
-#41C642|eggs, egg-dishes
-#41C65|vegetables and fruit; still life of vegetables and fruit
-#41C651|potatoes
-#41C6511|processed potatoes, e.g. crisps, chips (French fries)
-#41C652|vegetables
-#41C652(...)|vegetables (with NAME)
-#41C6521|processed vegetables
-#41C6521(...)|processed vegetables (with NAME)
-#41C653|fruit
-#41C653(...)|fruit (with NAME)
-#41C6531|processed fruit, e.g. jam, marmalade, etc.
-#41C66|seasonings, spices
-#41C66(...)|seasonings, spices (with NAME)
-#41C66(SAFFRON)|seasonings, spices: saffron
-#41C661|salt
-#41C662|pepper
-#41C663|mustard
-#41C67|oil, vinegar, sauces
-#41C671|oils and vegetable fats
-#41C6711|margarine
-#41C672|vinegar
-#41C673|sauces
-#41C68|fish; still life of fishes
-#41C68(...)|fish (with NAME)
-#41C68(SMOKED HERRING)|fish: smoked herring
-#41C681|seafood
-#41C681(...)|seafood (with NAME)
-#41C69|meat; still life of meat
-#41C691|slaughtered ox or pig
-#41C692|kinds of meat
-#41C692(...)|kinds of meat (with NAME)
-#41C693|sausage
-#41C694|ham
-#41C695|fat, lard
-#41C696|broth, soup
-#41C7|drinks, stimulants, drugs
-#41C71|alcoholic drinks
-#41C711|wine ~ alcoholic drinks
-#41C7111|glass of wine
-#41C7112|bottle of wine
-#41C7113|kinds of wine
-#41C7113(...)|kinds of wine (with NAME)
-#41C712|liqueur
-#41C713|distilled spirits
-#41C7131|genever, gin
-#41C7132|whisky
-#41C7133|vodka
-#41C7134|brandy, brandywine
-#41C714|beer, ale
-#41C7141|glass of beer
-#41C715|other alcoholic drinks
-#41C715(...)|other alcoholic drinks (with NAME)
-#41C7151|cocktail
-#41C72|stimulating drinks
-#41C721|coffee
-#41C7211|cup of coffee
-#41C722|tea (leaves)
-#41C7221|cup of tea
-#41C723|chocolate, cocoa
-#41C73|other non-alcoholic drinks
-#41C731|sweet fruit-syrups
-#41C732|fruit-juice
-#41C74|tobacco
-#41C741|pipe ~ tobacco
-#41C7411|water-pipe, hookah, narghile
-#41C7412|tobacco-roll, coiled twist of tobacco
-#41C7413|tobacco-jar
-#41C7414|pipe-holder, pipe-stand
-#41C7415|ashtray
-#41C742|cigar
-#41C7421|cigar-box
-#41C7422|cigar-case
-#41C7423|cigar-holder
-#41C743|cigarette
-#41C7431|cigarette-case
-#41C7432|cigarette-paper
-#41C7433|cigarette-tube, cigarette-holder
-#41C744|snuff
-#41C7441|snuff-box
-#41C745|chewing-tobacco
-#41C7451|other stimulant things to chew on
-#41C74511|betel, sirih
-#41C74512|chewing-gum
-#41C75|drugs
-#41C75(...)|drugs (with NAME)
-#41C75(HASHISH)|drugs: hashish
-#41C751|opium
-#41C7511|opium-pipe
-#41C7512|opium-house
-#41C76|scents, perfumes ~ stimulants, drugs
-#41C761|scent-box
-#41C762|incense-burner ~ scents, perfumes
-#41C9|cannibalism
-#41C91|necrophagism
-#41CC221|cook - CC - female cook
-#41CC25|cooking food - CC - in the open air
-#41CC251|roasting, grilling - CC - in the open air
-#41CC2511|spit ~ cooking - CC - in the open air
-#41CC2512|grill, gridiron ~ cooking food - CC - in the open air
-#41CC252|frying - CC - in the open air
-#41CC253|boiling - CC - in the open air
-#41CC254|kitchen-fire - CC - in the open air
-#41CC2541|open fire, fire-place, stove (in kitchen) - CC - in the open air
-#41CC2542|cooker - CC - in the open air
-#41CC2543|oven ~ kitchen - CC - in the open air
-#41CC26|preparation of food - CC - in the open air
-#41CC261|cleaning (food) - CC - in the open air
-#41CC2611|cleaning vegetables - CC - in the open air
-#41CC2612|cleaning fruit, e.g. peeling - CC - in the open air
-#41CC26121|(half-)peeled fruit, e.g. lemon - CC - in the open air
-#41CC2613|cleaning fowl or small animals - CC - in the open air
-#41CC26131|plucked fowl - CC - in the open air
-#41CC262|dividing (food) - CC - in the open air
-#41CC2621|cutting meat - CC - in the open air
-#41CC2622|slicing bread - CC - in the open air
-#41CC263|mixing, combining (preparing food) - CC - in the open air
-#41CC2631|preparing dough or batter - CC - in the open air
-#41CC264|smoothing, beating (preparing food) - CC - in the open air
-#41CC265|ornamenting, decorating, dressing (preparing food) - CC - in the open air
-#41CC269|washing up - CC - in the open air
-#41CC4|(family) meal - CC - out of doors
-#41CC41|breakfast - CC - out of doors
-#41CC411|morning coffee - CC - out of doors
-#41CC42|midday meal, lunch - CC - out of doors
-#41CC421|high tea - CC - out of doors
-#41CC4211|tea-ceremony - CC - out of doors
-#41CC422|afternoon tea - CC - out of doors
-#41CC43|evening meal, dinner, supper - CC - out of doors
-#41CC44|(late) supper - CC - out of doors
-#41CC5|celebration meal, feast, banquet - CC - out of doors
-#41CC50|'Convito' (Ripa) - CC - out of doors
-#41CC51|banquet of elegant company - CC - out of doors
-#41CC52|carousal, drinking-bout, orgy - CC - out of doors
-#41CC520|'Crapula' (Ripa) - CC - out of doors
-41D|时尚，服装
-#41D1|fashion
-#41D11|fashion plates
-#41D12|fashion show
-#41D121|model, mannequin
-#41D122|shop-window figures
-#41D13|fashion mongering
-#41D131|dandy, beau
+#41C6|食材; 食材靜物
+#41C61|麵粉
+#41C611|各種麵粉或穀物
+#41C612|麵粉或穀物做出來的食品
+#41C6121|麥片
+#41C6122|麵條, 義大利麵條, 等等
+#41C62|麵包, 蛋糕, 點心, 等等
+#41C621|麵包, 一條大麵包
+#41C6211|一定形狀的麵包
+#41C62111|扁麵包, 圓麵包或點心, 如比薩餅
+#41C6212|有餡的麵包, 麵包卷, 如三明治, 漢堡包
+#41C622|蛋糕, 水果蛋糕, 點心
+#41C6221|花式蛋糕, 花式點心
+#41C6222|餅乾
+#41C623|薄餅
+#41C624|蛋奶烘餅,威夫餅乾
+#41C6241|蛋奶卷餅
+#41C625|餡餅
+#41C626|麵包(糕點)師的模子
+#41C6261|蛋糕,水果蛋糕,點心的模子
+#41C6262|餅乾模子
+#41C62621|所謂 'speculaasplanken' (餅乾模子)
+#41C6263|威夫餅乾鐵夾
+#41C6264|麵包烤模
+#41C63|糖
+#41C631|塔糖
+#41C632|塊糖
+#41C633|糖漿
+#41C634|冰糖
+#41C635|糖果
+#41C6351|冰淇淋
+#41C6352|巧克力 (固態的)
+#41C636|蜂蜜
+#41C637|裹糖的
+#41C6371|糖霜
+#41C64| 乳製品和蛋
+#41C641|乳製品
+#41C6411|奶油
+#41C6412|奶酪
+#41C6413|奶
+#41C64131|酪奶
+#41C64132|酸奶
+#41C64133|乳脂
+#41C642|蛋,egg-dishes
+#41C65|蔬果; 蔬果靜物
+#41C651|土豆
+#41C6511|加工過的土豆, 如薯片, 薯條 (炸薯條)
+#41C652|蔬菜
+#41C652(...)|蔬菜 (名稱)
+#41C6521|加工過的蔬菜
+#41C6521(...)|加工過的蔬菜 (名稱)
+#41C653|水果
+#41C653(...)|水果 (名稱)
+#41C6531|加工過的水果, 如果醬, (帶果皮的)果醬, 等等
+#41C66|調料,香料
+#41C66(...)|調料,香料 (名稱)
+#41C66(SAFFRON)|調料,香料: 藏紅花
+#41C661|鹽
+#41C662|胡椒
+#41C663|芥末
+#41C67|油, 醋, 調味汁
+#41C671|油和植物脂肪
+#41C6711|植物奶油
+#41C672|醋
+#41C673|調味汁
+#41C68|魚; 魚的靜物
+#41C68(...)|魚 (名稱)
+#41C68(SMOKED HERRING)|魚: 熏鯡魚
+#41C681|海鮮
+#41C681(...)|海鮮 (名稱)
+#41C69|肉類; 肉類靜物
+#41C691|屠宰了的牛或豬
+#41C692|各種肉
+#41C692(...)|各種肉 (名稱)
+#41C693|香腸
+#41C694|火腿
+#41C695|肥肉, 豬油
+#41C696|肉湯, 湯
+#41C7|飲料, 提神品, 毒品
+#41C71|酒精飲料
+#41C711|葡萄酒 ~ 酒精飲料
+#41C7111|一杯葡萄酒
+#41C7112|一瓶葡萄酒
+#41C7113|各種葡萄酒
+#41C7113(...)|各種葡萄酒 (名稱)
+#41C712|白酒
+#41C713|蒸餾酒精
+#41C7131|杜松子酒
+#41C7132|威士忌酒
+#41C7133|伏特加酒
+#41C7134|白蘭地酒
+#41C714|啤酒, 麥芽酒
+#41C7141|一杯啤酒
+#41C715|其它酒精飲料
+#41C715(...)|其它酒精飲料 (名稱)
+#41C7151|雞尾酒
+#41C72|提神飲料
+#41C721|咖啡
+#41C7211|一杯咖啡
+#41C722|茶 (葉)
+#41C7221|一杯茶
+#41C723|巧克力, 可可飲料
+#41C73|其它非酒精飲料
+#41C731|糖水果汁
+#41C732|果汁
+#41C74|煙草
+#41C741|煙斗 ~ 煙草
+#41C7411|水煙斗, 水煙袋
+#41C7412|煙卷
+#41C7413|煙筒
+#41C7414|煙斗托, 煙斗架
+#41C7415|煙灰缸
+#41C742|雪茄
+#41C7421|雪茄盒cigar-box
+#41C7422|雪茄盒cigar-case
+#41C7423|雪茄煙嘴
+#41C743|香煙
+#41C7431|香煙盒
+#41C7432|香煙紙
+#41C7433|香煙嘴
+#41C744|鼻煙
+#41C7441|鼻煙盒
+#41C745|嚼煙
+#41C7451|其它可咀嚼提神品
+#41C74511|萎葉
+#41C74512|口香糖
+#41C75|毒品
+#41C75(...)|毒品 (名稱)
+#41C75(HASHISH)|毒品: 大麻
+#41C751|鴉片
+#41C7511|鴉片煙槍
+#41C7512|亞片煙館
+#41C76|香味, 香水 ~ 提神品, 毒品
+#41C761|香盒
+#41C762|香爐 ~ 香味, 香水
+#41C9|食人
+#41C91|戀屍癖necrophagism
+#41CC221|cook - CC - 女性廚師
+#41CC25|cooking food - CC - 在室外
+#41CC251|roasting, grilling - CC - 在室外
+#41CC2511|spit ~ cooking - CC - 在室外
+#41CC2512|grill, gridiron ~ cooking food - CC - 在室外
+#41CC252|frying - CC - 在室外
+#41CC253|boiling - CC - 在室外
+#41CC254|kitchen-fire - CC - 在室外
+#41CC2541|open fire, fire-place, stove (in kitchen) - CC - 在室外
+#41CC2542|cooker - CC - 在室外
+#41CC2543|oven ~ kitchen - CC - 在室外
+#41CC26|preparation of food - CC - 在室外
+#41CC261|cleaning (food) - CC - 在室外
+#41CC2611|cleaning vegetables - CC - 在室外
+#41CC2612|cleaning fruit, e.g. peeling - CC - 在室外
+#41CC26121|(half-)peeled fruit, e.g. lemon - CC - 在室外
+#41CC2613|cleaning fowl or small animals - CC - 在室外
+#41CC26131|plucked fowl - CC - 在室外
+#41CC262|dividing (food) - CC - 在室外
+#41CC2621|cutting meat - CC - 在室外
+#41CC2622|slicing bread - CC - 在室外
+#41CC263|mixing, combining (preparing food) - CC - 在室外
+#41CC2631|preparing dough or batter - CC - 在室外
+#41CC264|smoothing, beating (preparing food) - CC - 在室外
+#41CC265|ornamenting, decorating, dressing (preparing food) - CC - 在室外
+#41CC269|washing up - CC - 在室外
+#41CC4|(family) meal - CC - 戶外
+#41CC41|breakfast - CC - 戶外
+#41CC411|morning coffee - CC - 戶外
+#41CC42|midday meal, lunch - CC - 戶外
+#41CC421|high tea - CC - 戶外
+#41CC4211|tea-ceremony - CC - 戶外
+#41CC422|afternoon tea - CC - 戶外
+#41CC43|evening meal, dinner, supper - CC - 戶外
+#41CC44|(late) supper - CC - 戶外
+#41CC5|celebration meal, feast, banquet - CC - 戶外
+#41CC50|'Convito' (Ripa) - CC - 戶外
+#41CC51|banquet of elegant company - CC - 戶外
+#41CC52|carousal, drinking-bout, orgy - CC - 戶外
+#41CC520|'Crapula' (Ripa) - CC - 戶外
+41D|時裝,服裝
+#41D1|時裝
+#41D11|時裝圖樣
+#41D12|時裝表演
+#41D121|模特兒, 時裝人體模型
+#41D122|櫥窗人物模型
+#41D13|趕時髦的人
+#41D131|花花公子, 好打扮的人
 #41D1310|'Delitioso' (Ripa)
-#41D1311|'incroyable' ~ dandy
-#41D132|fashionable woman, 'belle'
+#41D1311|'incroyable' ~ 花花公子
+#41D132|時髦的女子, 'belle'
 #41D1321|'merveilleuse'
-#41D14|fashion designer
-#41D2|clothes, costume
-#41D21|clothes covering the entire body
-#41D21(...)|clothes covering the entire body (with NAME)
-#41D211|dress, gown
-#41D211(...)|dress, gown (with NAME)
-#41D211(BALL GOWN)|dress, gown: ball gown
-#41D211(CHEMISE À LA REINE)|dress, gown: chemise à la Reine
-#41D211(COURT GOWN)|dress, gown: court gown or court dress
-#41D211(DAY DRESS)|dress, gown: day dress
-#41D211(DINNER DRESS)|dress, gown: dinner dress 
-#41D211(EVENING DRESS)|dress, gown: evening dress
-#41D211(MANTEAU)|dress, gown: manteau
-#41D211(MORNING DRESS)|dress, gown: morning dress
-#41D211(REDINGOTE)|dress, gown: redingote
-#41D211(ROBE À L’ANGLAISE)|dress, gown: robe à l'anglaise
-#41D211(ROBE VOLANTE)|dress, gown: robe volante
-#41D211(ROBE À L'ANGLAISE)|dress, gown: robe à l'anglaise
-#41D211(ROBE À LA CIRCASSIENNE)|dress, gown: robe à la circassienne
-#41D211(ROBE À LA FRANÇAISE)|dress, gown: robe à la française
-#41D211(ROBE À LA LÉVITE)|dress, gown: robe à la lévite
-#41D211(ROBE À LA POLONAISE)|dress, gown: robe à la polonaise
+#41D14|時裝設計師
+#41D2|服裝, 服飾
+#41D21|覆蓋全身的服裝
+#41D21(...)|覆蓋全身的服裝 (名稱)
+#41D211|袍服, 長袍
+#41D211(...)|袍服, 長袍 (名稱)
+#41D211(BALL GOWN)|袍服, 長袍: 晚會禮服
+#41D211(CHEMISE À LA REINE)|袍服, 長袍: 無腰身寬鬆連衣裙chemise à la Reine
+#41D211(COURT GOWN)|袍服, 長袍: 朝服
+#41D211(DAY DRESS)|袍服, 長袍: day dress
+#41D211(DINNER DRESS)|袍服, 長袍: 晚餐服 
+#41D211(EVENING DRESS)|袍服, 長袍: 晚禮服
+#41D211(MANTEAU)|袍服, 長袍: 外套
+#41D211(MORNING DRESS)|袍服, 長袍: 晨禮服
+#41D211(REDINGOTE)|袍服, 長袍: 騎裝外套
+#41D211(ROBE À L’ANGLAISE)|袍服, 長袍: 寬身女袍robe à l'anglaise
+#41D211(ROBE VOLANTE)|袍服, 長袍: robe volante
+#41D211(ROBE À L'ANGLAISE)|袍服, 長袍: 寬身女袍robe à l'anglaise
+#41D211(ROBE À LA CIRCASSIENNE)|袍服, 長袍: robe à la circassienne
+#41D211(ROBE À LA FRANÇAISE)|袍服, 長袍: robe à la française
+#41D211(ROBE À LA LÉVITE)|袍服, 長袍: robe à la lévite
+#41D211(ROBE À LA POLONAISE)|袍服, 長袍: robe à la polonaise
 #
-#41D211(WALKING DRESS)|dress, gown: walking dress
-#41D212|coat, cape
-#41D2121|coat
-#41D2121(...)|coat (with NAME)
-#41D2121(BOLERO)|coat: bolero
-#41D2121(CARACO)|coat: caraco
-#41D2121(OVERCOAT)|coat: overcoat
-#41D21211|housecoat
-#41D21211(...)|housecoat (with NAME)
-#41D21211(BANYAN)|housecoat: banyan
-#41D2122|cape
-#41D2122(...)|cape (with NAME)
-#41D2122(MANTELET)|cape: mantelet
-#41D213|ensemble of pieces of clothing
-#41D213(...)|ensembles of pieces of clothing (with NAME)
-#41D213(SAILOR SUIT)|ensemble of pieces of clothing: sailor suit
-#41D22|head-gear and clothing for the upper part of the body
-#41D221|head-gear
-#41D221(...)|head-gear (with NAME)
-#41D221(BERET)|head-gear: beret
-#41D221(BICORNE)|head-gear: bicorne, bicorn
-#41D221(BOATER)|head-gear: boater
-#41D221(BOWLER)|head-gear: bowler hat
-#41D221(CAP)|head-gear: cap
-#41D221(CLOCHE HAT)|head-gear: cloche hat
-#41D221(FONTANGE)|head-gear: fontange
-#41D221(HAT)|head-gear: hat
-#41D221(HOOD)|head-gear: hood
-#41D221(MORNING CAP)|head-gear: morning cap
-#41D221(TOP HAT)|head-gear: top hat
-#41D221(TOQUE)|head-gear: toque
-#41D221(TRICORNE)|head-gear: tricorn
-#41D221(TURBAN)|head-gear: turban
-#41D2211|veil
-#41D2212|Phrygian bonnet
-#41D222|neck-gear ~ clothing
-#41D222(...)|neck-gear ~ clothing (with NAME)
-#41D222(COLLAR)|neck-gear: collar
-#41D222(JABOT)|neck-gear: jabot
-#41D223|clothing for the upper part of the body
-#41D223(...)|clothing for the upper part of the body (with NAME)
-#41D223(BLOUSE)|clothing for the upper part of the body: blouse
-#41D2231|piece of clothing covering the breast or décolleté
-#41D2231(...)|piece of clothing covering the breast or décolleté (with NAME)
-#41D224|sleeves
-#41D225|gloves, mittens, etc.
-#41D225(...)|gloves, mittens (with NAME)
-#41D2251|'manus velatae' (hands covered with a cloth)
-#41D2252|muff
-#41D23|clothing for the lower part of the body
-#41D231|trousers, breeches
-#41D231(...)|trousers, breeches, etc. (with NAME)
-#41D2311|codpiece (cover for the genitals)
-#41D232|skirt
-#41D232(...)|skirt (with NAME)
-#41D2321|apron
+#41D211(WALKING DRESS)|袍服, 長袍: 外出服
+#41D212|外套coat, 披風
+#41D2121|外套coat
+#41D2121(...)|外套 (名稱)
+#41D2121(BOLERO)|外袍: 小外套
+#41D2121(CARACO)|外袍: 卡洛可女上衣
+#41D2121(OVERCOAT)|外袍: 大衣
+#41D21211|女式家居長袍
+#41D21211(...)|女式家居長袍 (名稱)
+#41D21211(BANYAN)|女式家居長袍: 班揚外套
+#41D2122|披風
+#41D2122(...)|披風 (名稱)
+#41D2122(MANTELET)|披風: 小斗篷
+#41D213|全套服裝
+#41D213(...)|全套服裝 (名稱)
+#41D213(SAILOR SUIT)|全套服裝: 水手服
+#41D22|頭飾和上半身服裝
+#41D221|頭飾
+#41D221(...)|頭飾 (名稱)
+#41D221(BERET)|頭飾: 貝雷帽
+#41D221(BICORNE)|頭飾: 雙角帽
+#41D221(BOATER)|頭飾: 硬草帽
+#41D221(BOWLER)|頭飾: 圓頂高帽
+#41D221(CAP)|頭飾: 無邊帽
+#41D221(CLOCHE HAT)|頭飾: 鐘形帽
+#41D221(FONTANGE)|頭飾: 婦女高頭飾
+#41D221(HAT)|頭飾: 帽
+#41D221(HOOD)|頭飾: 風帽
+#41D221(MORNING CAP)|頭飾: 晨帽
+#41D221(TOP HAT)|頭飾: 大禮帽
+#41D221(TOQUE)|頭飾: 托克帽,荳蔻帽
+#41D221(TRICORNE)|頭飾: 三角帽
+#41D221(TURBAN)|頭飾: 頭巾
+#41D2211|面紗
+#41D2212|弗里吉亞無邊帽
+#41D222|項飾 ~ 服裝
+#41D222(...)|項飾 ~ 服裝 (名稱)
+#41D222(COLLAR)|項飾: 領口
+#41D222(JABOT)|項飾: 垂胸領飾
+#41D223|上半身服裝
+#41D223(...)|上半身服裝 (名稱)
+#41D223(BLOUSE)|上半身服裝: 女襯衫
+#41D2231|露胸的禮服piece of clothing covering the breast or décolleté
+#41D2231(...)|露胸的禮服piece of clothing covering the breast or décolleté (名稱)
+#41D224|衣袖
+#41D225|手套, 連指手套, 等等
+#41D225(...)|手套, 連指手套 (名稱)
+#41D2251|'manus velatae' (用一塊布蓋住雙手)
+#41D2252|暖手筒
+#41D23|下半身服裝
+#41D231|褲子
+#41D231(...)|褲子, 等等 (名稱)
+#41D2311|遮袋 (蓋住陰部)
+#41D232|半身裙
+#41D232(...)|半身裙 (名稱)
+#41D2321|圍裙
 #41D233|gear for legs and feet
 #41D2331|stockings, socks
 #41D2332|shoes, sandals
@@ -929,7 +927,7 @@
 #41D282|man dressed as woman, travesty
 #41D283|mask
 #41D29|clothed in rags
-#41D3|folk costume, regional costume
+#41D3|民間服飾, 地方服飾
 #41D4|care and laundering of clothes; home sewing
 #41D41|care of clothes, e.g.: brushing, beating, airing
 #41D411|hanging clothes
@@ -960,7 +958,7 @@
 #41D442|mending, repairing ~ clothes
 #41D4421|darning, patching
 #41D443|(other forms of) needlework, e.g.: crocheting, knitting, embroidering
-#41D9|(showing oneself) undressed, quasi-nude
+#41D9|(展示自己) 脫掉衣服, 半裸
 #41D91|man (showing himself) undressed, quasi-nude
 #41D92|woman (showing herself) undressed, quasi-nude
 #41D921|'décolleté'
@@ -1330,15 +1328,15 @@
 #42DD19|bachelor's party - DD - party for women
 #42DD231|man abducting woman - DD - woman abducting man
 #42DD2311|wife-capture - DD - woman abducting man
-#42DD25|wedding feast, wedding meal - DD - out of doors
-#42DD251|arrival of bride and bridegroom at the wedding feast - DD - out of doors
-#42DD252|wedding-cake - DD - out of doors
-#42DD253|dancing at wedding feast - DD - out of doors
-#42DD254|wedding anniversary celebration - DD - out of doors
-#42DD2541|copper anniversary - DD - out of doors
-#42DD2542|silver anniversary - DD - out of doors
-#42DD2543|golden anniversary - DD - out of doors
-#42DD2544|diamond anniversary - DD - out of doors
+#42DD25|wedding feast, wedding meal - DD - 戶外
+#42DD251|arrival of bride and bridegroom at the wedding feast - DD - 戶外
+#42DD252|wedding-cake - DD - 戶外
+#42DD253|dancing at wedding feast - DD - 戶外
+#42DD254|wedding anniversary celebration - DD - 戶外
+#42DD2541|copper anniversary - DD - 戶外
+#42DD2542|silver anniversary - DD - 戶外
+#42DD2543|golden anniversary - DD - 戶外
+#42DD2544|diamond anniversary - DD - 戶外
 #42DD311|married couple of unequal age - DD - woman older
 #42DD3111|third party (mocking, disapproving, disturbing, etc.) ~ married couple of unequal age - DD - woman older
 #42DD312|married couple of unequal wealth - DD - woman richer
@@ -1604,7 +1602,7 @@
 #43A3461|human monstrosities ~ freak show
 #43A3462|animal monstrosities ~ freak show
 #43A3463|unusual objects (plants, stones, etc.) ~ freak show
-#43A35|performance in the open air (pleasure fair)
+#43A35|performance 在室外 (pleasure fair)
 #43A351|performance in tents (pleasure fair)
 #43A352|drumming-up the public
 #43A36|circus
@@ -1675,10 +1673,10 @@
 #43A46|activities in the air ~ public festivities, e.g. fly-past
 #43A49|public funeral
 #43A491|catafalque, 'castrum doloris' (~ public funeral)
-#43AA2|private festivities, merry company - AA - in the open air, 'fête champêtre'
-#43AA21|reception, cocktail party - AA - in the open air, 'fête champêtre'
-#43AA22|commemoration, jubilee - AA - in the open air, 'fête champêtre'
-#43AA23|ball, formal dance - AA - in the open air, 'fête champêtre'
+#43AA2|private festivities, merry company - AA - 在室外, 'fête champêtre'
+#43AA21|reception, cocktail party - AA - 在室外, 'fête champêtre'
+#43AA22|commemoration, jubilee - AA - 在室外, 'fête champêtre'
+#43AA23|ball, formal dance - AA - 在室外, 'fête champêtre'
 #43AA376|fortune-teller ~ pleasure fair and circus - AA - fortune-teller (female)
 #43AA4|public festivities - AA - festivities on the water
 #43AA41|rejoicing on special occasions - AA - festivities on the water
@@ -3562,15 +3560,15 @@
 #46AA612|secretary (of a society) - AA - women (Dutch: 'regentessen')
 #46AA613|treasurer - AA - women (Dutch: 'regentessen')
 #46AA614|committee members, board members - AA - women (Dutch: 'regentessen')
-#46AA63|meeting, assembly - AA - in the open air
-#46AA631|opening the meeting - AA - in the open air
-#46AA632|address, talk, lecture (~ meeting) - AA - in the open air
-#46AA633|debate, discussion (~ meeting) - AA - in the open air
-#46AA634|interruption, questions (~ meeting) - AA - in the open air
-#46AA635|voting (~ meeting) - AA - in the open air
-#46AA636|chaos, disorderly procedure (~ meeting) - AA - in the open air
-#46AA637|closing the meeting - AA - in the open air
-#46AA638|assembly-room - AA - in the open air
+#46AA63|meeting, assembly - AA - 在室外
+#46AA631|opening the meeting - AA - 在室外
+#46AA632|address, talk, lecture (~ meeting) - AA - 在室外
+#46AA633|debate, discussion (~ meeting) - AA - 在室外
+#46AA634|interruption, questions (~ meeting) - AA - 在室外
+#46AA635|voting (~ meeting) - AA - 在室外
+#46AA636|chaos, disorderly procedure (~ meeting) - AA - 在室外
+#46AA637|closing the meeting - AA - 在室外
+#46AA638|assembly-room - AA - 在室外
 #46B|trade, commerce and finance
 #46B0|allegory of trade; 'Commertio della vita humana' (Ripa)
 #46B1|locations for trading
@@ -4115,7 +4113,7 @@
 #46C5132|studying a map
 #46C5133|hitch-hiking
 #46C5134|traveller(s) attacked by robber(s)
-#46C5135|(traveller) resting in the open air
+#46C5135|(traveller) resting 在室外
 #46C5136|porter, bearer
 #46C514|arrival and return ~ travelling
 #46C5141|being welcomed ~ travelling
@@ -4266,7 +4264,7 @@
 #47A12|factory-building
 #47A121|smoke-stack
 #47A122|blast-furnace
-#47A13|industrial undertakings in the open air
+#47A13|industrial undertakings 在室外
 #47A2|interior of industrial structures (regardless of the materials processed or the products made
 #47A21|workshop-interior
 #47A211|workbench
@@ -5137,26 +5135,26 @@
 #48B411|coat of arms of Guild of St. Luke
 #48B42|academy, association of artists
 #48B43|chamber of rhetoric (Dutch: 'rederijkerskamer')
-#48BB1|artist at work, in his workshop - BB - out of doors
-#48BB10|inspiration of the artist (in general) - BB - out of doors
-#48BB101|the artist and his muse (in general) - BB - out of doors
-#48BB11|workshop, studio of the artist (in general) - BB - out of doors
-#48BB111|studio requisites (artist in general) - BB - out of doors
-#48BB12|working situations of artist - BB - out of doors
-#48BB121|artist (in general) making preliminary designs, sketching - BB - out of doors
-#48BB122|artist (in general) studying classical remains - BB - out of doors
-#48BB123|artist (in general) making a model - BB - out of doors
-#48BB124|artist (in general) working from live model - BB - out of doors
-#48BB1241|artist (in general) working from clothed model - BB - out of doors
-#48BB1242|artist (in general) working from nude model - BB - out of doors
-#48BB13|artist's model, sitter - BB - out of doors
-#48BB14|education, tuition of the artist (in general) - BB - out of doors
-#48BB141|place or institution of education and training of the artist, e.g.: academy of art - BB - out of doors
-#48BB1410|personification of (art) academy; 'Academia' (Ripa) - BB - out of doors
-#48BB142|prodigious talent of the young artist - BB - out of doors
-#48BB143|artist training pupils - BB - out of doors
-#48BB15|artist at work with assistants or pupils - BB - out of doors
-#48BB19|artist destroying his own work - BB - out of doors
+#48BB1|artist at work, in his workshop - BB - 戶外
+#48BB10|inspiration of the artist (in general) - BB - 戶外
+#48BB101|the artist and his muse (in general) - BB - 戶外
+#48BB11|workshop, studio of the artist (in general) - BB - 戶外
+#48BB111|studio requisites (artist in general) - BB - 戶外
+#48BB12|working situations of artist - BB - 戶外
+#48BB121|artist (in general) making preliminary designs, sketching - BB - 戶外
+#48BB122|artist (in general) studying classical remains - BB - 戶外
+#48BB123|artist (in general) making a model - BB - 戶外
+#48BB124|artist (in general) working from live model - BB - 戶外
+#48BB1241|artist (in general) working from clothed model - BB - 戶外
+#48BB1242|artist (in general) working from nude model - BB - 戶外
+#48BB13|artist's model, sitter - BB - 戶外
+#48BB14|education, tuition of the artist (in general) - BB - 戶外
+#48BB141|place or institution of education and training of the artist, e.g.: academy of art - BB - 戶外
+#48BB1410|personification of (art) academy; 'Academia' (Ripa) - BB - 戶外
+#48BB142|prodigious talent of the young artist - BB - 戶外
+#48BB143|artist training pupils - BB - 戶外
+#48BB15|artist at work with assistants or pupils - BB - 戶外
+#48BB19|artist destroying his own work - BB - 戶外
 #48C|the arts; artists
 #48C1|architecture
 #48C10|'Architectura', symbolic representations, allegories and emblems ~ architecture; 'Architettura' (Ripa)
@@ -5453,7 +5451,7 @@
 #48C7356(...)|other wind instruments (with NAME)
 #48C7356(CONCH)|other wind instruments: conch
 #48C736|instruments ~ popular music
-#48C737|improvised musical instruments (kitchen-utensils, etc.)
+#48C737|improvised musical instruments (廚房用具, etc.)
 #48C737(...)|improvised musical instruments (with NAME)
 #48C737(RUMBLING-POT)|improvised musical instruments: rumbling pot
 #48C738|accessories ~ music: metronome, music-stand, tuning-fork, etc.
@@ -5622,157 +5620,157 @@
 #48C92|author in non-work situation
 #48C921|Fame ~ writer, 'poeta laureatus'
 #48C93|portrait of a writer
-#48CC21|sculptor at work - CC - out of doors
-#48CC211|sculptor making a model, bozzetto - CC - out of doors
-#48CC212|(hollow) casting - CC - out of doors
-#48CC213|sculptor studying classical remains - CC - out of doors
-#48CC511|painter at work, in his studio - CC - out of doors
-#48CC5110|inspiration of the painter - CC - out of doors
-#48CC51101|the painter and his muse - CC - out of doors
-#48CC51102|painter making music, painter with musical instrument - CC - out of doors
-#48CC5111|workshop, studio ~ painter - CC - out of doors
-#48CC51111|studio requisites ~ painter - CC - out of doors
-#48CC5112|working situations ~ painter - CC - out of doors
-#48CC51121|painter making preliminary designs, sketching - CC - out of doors
-#48CC51122|painter studying classical remains - CC - out of doors
-#48CC51123|painter working from live model - CC - out of doors
-#48CC511231|painter working from clothed model - CC - out of doors
-#48CC511232|painter working from nude model - CC - out of doors
-#48CC5113|model, sitter ~ painting - CC - out of doors
-#48CC5114|painter preparing colours - CC - out of doors
-#48CC5115|painter training pupils - CC - out of doors
-#48CC51151|painter at work with assistants or pupils - CC - out of doors
-#48CC5119|painter destroying his own work - CC - out of doors
-#48CC521|draughtsman at work - CC - out of doors
-#48CC5211|draughtsman studying classical remains - CC - out of doors
-#48CC5212|drawing-lesson - CC - out of doors
-#48CC611|photographer at work - CC - out of doors
-#48CC6111|studio ~ photographer - CC - out of doors
-#48CC61111|studio requisites ~ photographer - CC - out of doors
-#48CC6112|taking photographs - CC - out of doors
-#48CC61121|taking photographs of model, sitter - CC - out of doors
-#48CC6113|dark room - CC - out of doors
-#48CC6114|processing film - CC - out of doors
-#48CC61141|developing ~ film - CC - out of doors
-#48CC61142|printing ~ film - CC - out of doors
-#48CC621|cinematographer at work - CC - out of doors
-#48CC6211|studio ~ cinematographer - CC - out of doors
-#48CC6212|filming, cinematographer at work - CC - out of doors
-#48CC62121|making a feature movie - CC - out of doors
-#48CC62122|making an animated cartoon - CC - out of doors
-#48CC6213|montage, cutting ~ film - CC - out of doors
-#48CC7|music - CC - out of doors
-#48CC70|'Musica', symbolic representations, allegories and emblems ~ music; 'Musica'(Ripa) - CC - out of doors
-#48CC701|origin of music - CC - out of doors
-#48CC702|magic power of music - CC - out of doors
-#48CC71|composer - CC - out of doors
-#48CC711|composer at work - CC - out of doors
-#48CC7110|inspiration of the composer - CC - out of doors
-#48CC71101|the composer and his muse - CC - out of doors
-#48CC712|composer in non-work situation - CC - out of doors
-#48CC713|portrait of composer - CC - out of doors
-#48CC72|musician - CC - out of doors
-#48CC721|musician at work - CC - out of doors
-#48CC7210|inspiration of the musician - CC - out of doors
-#48CC72101|the musician and his muse - CC - out of doors
-#48CC7211|musician training pupils, music-lesson - CC - out of doors
-#48CC722|musician in non-work situation - CC - out of doors
-#48CC723|portrait of a musician - CC - out of doors
-#48CC723(...)|portrait of a musician (with NAME of profession) - CC - out of doors
-#48CC73|musical instruments; group of musical instruments - CC - out of doors
-#48CC731|string instruments (bowed) - CC - out of doors
-#48CC7311|violin, fiddle - CC - out of doors
-#48CC7312|viola, violoncello; double bass - CC - out of doors
-#48CC7313|viol, rebec (violin-like instruments) - CC - out of doors
-#48CC7314|hurdy-gurdy - CC - out of doors
-#48CC7315|other string instruments played with bow - CC - out of doors
-#48CC7315(...)|other string instruments played with bow (with NAME) - CC - out of doors
-#48CC732|string instruments (plucked) - CC - out of doors
-#48CC7321|lyre, cithara, psaltery - CC - out of doors
-#48CC7322|harp - CC - out of doors
-#48CC7323|lute, and special forms of lute, e.g.: theorbo - CC - out of doors
-#48CC7324|cithern, mandolin, guitar, balalaika - CC - out of doors
-#48CC7325|dulcimer, zither - CC - out of doors
-#48CC7326|other string instruments (plucked) - CC - out of doors
-#48CC7326(...)|other string instruments (plucked) (with NAME) - CC - out of doors
-#48CC733|keyboard instruments - CC - out of doors
-#48CC7331|spinet, virginal - CC - out of doors
-#48CC7332|clavichord, harpsichord - CC - out of doors
-#48CC7333|pianoforte - CC - out of doors
-#48CC73331|grand piano - CC - out of doors
-#48CC7334|organ - CC - out of doors
-#48CC73341|church organ - CC - out of doors
-#48CC7335|accordion - CC - out of doors
-#48CC7336|other keyboard instruments - CC - out of doors
-#48CC7336(...)|other keyboard instruments (with NAME) - CC - out of doors
-#48CC734|percussion instruments - CC - out of doors
-#48CC7341|drum (musical instrument) - CC - out of doors
-#48CC73411|tambourine - CC - out of doors
-#48CC7342|clappers, castanets - CC - out of doors
-#48CC7343|carillon, chimes - CC - out of doors
-#48CC73431|bell ~ musical instruments - CC - out of doors
-#48CC7344|other percussion instruments - CC - out of doors
-#48CC7344(...)|other percussion instruments (with NAME) - CC - out of doors
-#48CC735|wind instruments - CC - out of doors
-#48CC7351|flute, aulos, tibia - CC - out of doors
-#48CC73511|recorder (musical instrument) - CC - out of doors
-#48CC73512|clarinet, bassoon, oboe, shawm - CC - out of doors
-#48CC73513|transverse flute - CC - out of doors
-#48CC7352|horn, trumpet, cornet, trombone, tuba - CC - out of doors
-#48CC73521|saxophone - CC - out of doors
-#48CC7353|panpipes - CC - out of doors
-#48CC7354|bagpipe, musette - CC - out of doors
-#48CC7355|mouth organ - CC - out of doors
-#48CC7356|other wind instruments - CC - out of doors
-#48CC7356(...)|other wind instruments (with NAME) - CC - out of doors
-#48CC7356(CONCH)|other wind instruments: conch - CC - out of doors
-#48CC736|instruments ~ popular music - CC - out of doors
-#48CC737|improvised musical instruments (kitchen-utensils, etc.) - CC - out of doors
-#48CC738|accessories ~ music: metronome, music-stand, tuning-fork, etc. - CC - out of doors
-#48CC74|notation of music - CC - out of doors
-#48CC741|printed edition of musical score - CC - out of doors
-#48CC742|manuscript of musical score - CC - out of doors
-#48CC7421|autograph ~ notation of music - CC - out of doors
-#48CC743|musical theory - CC - out of doors
-#48CC75|making music; musician with instrument - CC - out of doors
-#48CC751|one person with musical instrument, not playing - CC - out of doors
-#48CC7511|tuning an instrument - CC - out of doors
-#48CC75111|tuning the lute - CC - out of doors
-#48CC7512|person with musical instrument, musing, contemplating - CC - out of doors
-#48CC752|one person playing an instrument - CC - out of doors
-#48CC7521|one person playing string instrument (bowed) - CC - out of doors
-#48CC7522|one person playing string instrument (plucked) - CC - out of doors
-#48CC7523|one person playing keyboard instrument - CC - out of doors
-#48CC7524|one person playing percussion instrument - CC - out of doors
-#48CC7525|one person playing wind instrument - CC - out of doors
+#48CC21|sculptor at work - CC - 戶外
+#48CC211|sculptor making a model, bozzetto - CC - 戶外
+#48CC212|(hollow) casting - CC - 戶外
+#48CC213|sculptor studying classical remains - CC - 戶外
+#48CC511|painter at work, in his studio - CC - 戶外
+#48CC5110|inspiration of the painter - CC - 戶外
+#48CC51101|the painter and his muse - CC - 戶外
+#48CC51102|painter making music, painter with musical instrument - CC - 戶外
+#48CC5111|workshop, studio ~ painter - CC - 戶外
+#48CC51111|studio requisites ~ painter - CC - 戶外
+#48CC5112|working situations ~ painter - CC - 戶外
+#48CC51121|painter making preliminary designs, sketching - CC - 戶外
+#48CC51122|painter studying classical remains - CC - 戶外
+#48CC51123|painter working from live model - CC - 戶外
+#48CC511231|painter working from clothed model - CC - 戶外
+#48CC511232|painter working from nude model - CC - 戶外
+#48CC5113|model, sitter ~ painting - CC - 戶外
+#48CC5114|painter preparing colours - CC - 戶外
+#48CC5115|painter training pupils - CC - 戶外
+#48CC51151|painter at work with assistants or pupils - CC - 戶外
+#48CC5119|painter destroying his own work - CC - 戶外
+#48CC521|draughtsman at work - CC - 戶外
+#48CC5211|draughtsman studying classical remains - CC - 戶外
+#48CC5212|drawing-lesson - CC - 戶外
+#48CC611|photographer at work - CC - 戶外
+#48CC6111|studio ~ photographer - CC - 戶外
+#48CC61111|studio requisites ~ photographer - CC - 戶外
+#48CC6112|taking photographs - CC - 戶外
+#48CC61121|taking photographs of model, sitter - CC - 戶外
+#48CC6113|dark room - CC - 戶外
+#48CC6114|processing film - CC - 戶外
+#48CC61141|developing ~ film - CC - 戶外
+#48CC61142|printing ~ film - CC - 戶外
+#48CC621|cinematographer at work - CC - 戶外
+#48CC6211|studio ~ cinematographer - CC - 戶外
+#48CC6212|filming, cinematographer at work - CC - 戶外
+#48CC62121|making a feature movie - CC - 戶外
+#48CC62122|making an animated cartoon - CC - 戶外
+#48CC6213|montage, cutting ~ film - CC - 戶外
+#48CC7|music - CC - 戶外
+#48CC70|'Musica', symbolic representations, allegories and emblems ~ music; 'Musica'(Ripa) - CC - 戶外
+#48CC701|origin of music - CC - 戶外
+#48CC702|magic power of music - CC - 戶外
+#48CC71|composer - CC - 戶外
+#48CC711|composer at work - CC - 戶外
+#48CC7110|inspiration of the composer - CC - 戶外
+#48CC71101|the composer and his muse - CC - 戶外
+#48CC712|composer in non-work situation - CC - 戶外
+#48CC713|portrait of composer - CC - 戶外
+#48CC72|musician - CC - 戶外
+#48CC721|musician at work - CC - 戶外
+#48CC7210|inspiration of the musician - CC - 戶外
+#48CC72101|the musician and his muse - CC - 戶外
+#48CC7211|musician training pupils, music-lesson - CC - 戶外
+#48CC722|musician in non-work situation - CC - 戶外
+#48CC723|portrait of a musician - CC - 戶外
+#48CC723(...)|portrait of a musician (with NAME of profession) - CC - 戶外
+#48CC73|musical instruments; group of musical instruments - CC - 戶外
+#48CC731|string instruments (bowed) - CC - 戶外
+#48CC7311|violin, fiddle - CC - 戶外
+#48CC7312|viola, violoncello; double bass - CC - 戶外
+#48CC7313|viol, rebec (violin-like instruments) - CC - 戶外
+#48CC7314|hurdy-gurdy - CC - 戶外
+#48CC7315|other string instruments played with bow - CC - 戶外
+#48CC7315(...)|other string instruments played with bow (with NAME) - CC - 戶外
+#48CC732|string instruments (plucked) - CC - 戶外
+#48CC7321|lyre, cithara, psaltery - CC - 戶外
+#48CC7322|harp - CC - 戶外
+#48CC7323|lute, and special forms of lute, e.g.: theorbo - CC - 戶外
+#48CC7324|cithern, mandolin, guitar, balalaika - CC - 戶外
+#48CC7325|dulcimer, zither - CC - 戶外
+#48CC7326|other string instruments (plucked) - CC - 戶外
+#48CC7326(...)|other string instruments (plucked) (with NAME) - CC - 戶外
+#48CC733|keyboard instruments - CC - 戶外
+#48CC7331|spinet, virginal - CC - 戶外
+#48CC7332|clavichord, harpsichord - CC - 戶外
+#48CC7333|pianoforte - CC - 戶外
+#48CC73331|grand piano - CC - 戶外
+#48CC7334|organ - CC - 戶外
+#48CC73341|church organ - CC - 戶外
+#48CC7335|accordion - CC - 戶外
+#48CC7336|other keyboard instruments - CC - 戶外
+#48CC7336(...)|other keyboard instruments (with NAME) - CC - 戶外
+#48CC734|percussion instruments - CC - 戶外
+#48CC7341|drum (musical instrument) - CC - 戶外
+#48CC73411|tambourine - CC - 戶外
+#48CC7342|clappers, castanets - CC - 戶外
+#48CC7343|carillon, chimes - CC - 戶外
+#48CC73431|bell ~ musical instruments - CC - 戶外
+#48CC7344|other percussion instruments - CC - 戶外
+#48CC7344(...)|other percussion instruments (with NAME) - CC - 戶外
+#48CC735|wind instruments - CC - 戶外
+#48CC7351|flute, aulos, tibia - CC - 戶外
+#48CC73511|recorder (musical instrument) - CC - 戶外
+#48CC73512|clarinet, bassoon, oboe, shawm - CC - 戶外
+#48CC73513|transverse flute - CC - 戶外
+#48CC7352|horn, trumpet, cornet, trombone, tuba - CC - 戶外
+#48CC73521|saxophone - CC - 戶外
+#48CC7353|panpipes - CC - 戶外
+#48CC7354|bagpipe, musette - CC - 戶外
+#48CC7355|mouth organ - CC - 戶外
+#48CC7356|other wind instruments - CC - 戶外
+#48CC7356(...)|other wind instruments (with NAME) - CC - 戶外
+#48CC7356(CONCH)|other wind instruments: conch - CC - 戶外
+#48CC736|instruments ~ popular music - CC - 戶外
+#48CC737|improvised musical instruments (廚房用具, etc.) - CC - 戶外
+#48CC738|accessories ~ music: metronome, music-stand, tuning-fork, etc. - CC - 戶外
+#48CC74|notation of music - CC - 戶外
+#48CC741|printed edition of musical score - CC - 戶外
+#48CC742|manuscript of musical score - CC - 戶外
+#48CC7421|autograph ~ notation of music - CC - 戶外
+#48CC743|musical theory - CC - 戶外
+#48CC75|making music; musician with instrument - CC - 戶外
+#48CC751|one person with musical instrument, not playing - CC - 戶外
+#48CC7511|tuning an instrument - CC - 戶外
+#48CC75111|tuning the lute - CC - 戶外
+#48CC7512|person with musical instrument, musing, contemplating - CC - 戶外
+#48CC752|one person playing an instrument - CC - 戶外
+#48CC7521|one person playing string instrument (bowed) - CC - 戶外
+#48CC7522|one person playing string instrument (plucked) - CC - 戶外
+#48CC7523|one person playing keyboard instrument - CC - 戶外
+#48CC7524|one person playing percussion instrument - CC - 戶外
+#48CC7525|one person playing wind instrument - CC - 戶外
 #48CC753|more than one musician with instrument - CC - 'concert champêtre'
 #48CC7531|large group of musicians, orchestra - CC - 'concert champêtre'
 #48CC7532|small group of musicians, chamber orchestra, jazz band - CC - 'concert champêtre'
-#48CC754|instrumental and vocal music together - CC - out of doors
-#48CC7541|singer accompanying himself - CC - out of doors
-#48CC75411|minstrel, 'jongleur' - CC - out of doors
-#48CC75412|bard, lyric poet - CC - out of doors
-#48CC7542|musician(s) accompanying singer(s) - CC - out of doors
-#48CC755|vocal music, singing - CC - out of doors
-#48CC7551|singer without accompaniment - CC - out of doors
-#48CC75511|male singer - CC - out of doors
-#48CC75512|female singer - CC - out of doors
-#48CC7552|choir - CC - out of doors
-#48CC756|popular music, street music - CC - out of doors
-#48CC7561|instrumental popular music - CC - out of doors
-#48CC75611|hurdy-gurdy player - CC - out of doors
-#48CC75612|barrel-organ player - CC - out of doors
-#48CC75613|one person playing several instruments, one-man band - CC - out of doors
-#48CC75614|brass band, street band - CC - out of doors
-#48CC7562|vocal popular music - CC - out of doors
-#48CC75621|ballad singer, ballad seller - CC - out of doors
-#48CC76|'automatic' music - CC - out of doors
-#48CC761|musical box - CC - out of doors
-#48CC762|street-organ, 'pierement' - CC - out of doors
-#48CC763|pianola; orchestrion - CC - out of doors
-#48CC77|conductor ~ music - CC - out of doors
-#48CC771|baton ~ conductor - CC - out of doors
-#48CC78|listening to music - CC - out of doors
+#48CC754|instrumental and vocal music together - CC - 戶外
+#48CC7541|singer accompanying himself - CC - 戶外
+#48CC75411|minstrel, 'jongleur' - CC - 戶外
+#48CC75412|bard, lyric poet - CC - 戶外
+#48CC7542|musician(s) accompanying singer(s) - CC - 戶外
+#48CC755|vocal music, singing - CC - 戶外
+#48CC7551|singer without accompaniment - CC - 戶外
+#48CC75511|male singer - CC - 戶外
+#48CC75512|female singer - CC - 戶外
+#48CC7552|choir - CC - 戶外
+#48CC756|popular music, street music - CC - 戶外
+#48CC7561|instrumental popular music - CC - 戶外
+#48CC75611|hurdy-gurdy player - CC - 戶外
+#48CC75612|barrel-organ player - CC - 戶外
+#48CC75613|one person playing several instruments, one-man band - CC - 戶外
+#48CC75614|brass band, street band - CC - 戶外
+#48CC7562|vocal popular music - CC - 戶外
+#48CC75621|ballad singer, ballad seller - CC - 戶外
+#48CC76|'automatic' music - CC - 戶外
+#48CC761|musical box - CC - 戶外
+#48CC762|street-organ, 'pierement' - CC - 戶外
+#48CC763|pianola; orchestrion - CC - 戶外
+#48CC77|conductor ~ music - CC - 戶外
+#48CC771|baton ~ conductor - CC - 戶外
+#48CC78|listening to music - CC - 戶外
 #48CC841|training ~ ballet - CC - female
 #48CC844|ballet dress - CC - female
 #48CC853|stage costume - CC - female
