@@ -1,276 +1,278 @@
-4|Sociedad, Civilización, Cultura
-41|aspectos materiales de la vida diaria
-41A|vivienda
-41A1|arquitectura civil; edificios; viviendas
-41A10|'Edifitio overo un sito' (Ripa)
-41A11|palacio
-41A111|hôtel, quiere decir: palacio pequeño en la ciudad
-41A12|castillo
-41A121|fortaleza
-41A13|edificio, p.ej.: edificio público, bazar
-41A14|vivienda urbana
-41A141|la casa usual o hilera de casas
-41A142|casa combinada con tienda
-41A143|casa distante en la ciudad
-41A144|edificio, casa de apartamentos
-41A15|rascacielos
-41A16|vivienda rural, p. ej. casa de campo, villa, cabaña
-#41A161|country-house
-#41A162|villa
-#41A163|cottage
-41A17|granja
-41A171|granero
-41A18|choza,cabaña
-41A181|cabaña de troncos
-#41A182|Indian lodge
-#41A1821|wigwam
-41A19|otro tipo de viviendas
-41A191|carpa
-41A1911|campamento para carpas
-#41A1912|tepee, tipi, teepee
-41A192|caravana (remolque
-41A1921|campamento para caravanas
-41A1922|remolque
-41A193|casa flotante
-41A194|vivienda lacustre, palafito
-41A1941|otras viviendas no fijas al suelo
-41A195|choza de nieve, iglo
-41A196|cueva
-41A2|interior de la casa
-41A21|vestíbulo, entrada
-41A211|corredor,pasillo
-41A2111|galería (corredor espacioso
-41A22|cuartos comunes
-41A221|sala de estar, salón, living
-41A222|sala, 'salón'
-41A2221|tocador
-41A223|comedor
-41A23|dormitorio
-41A24|cuarto de baño
+4|Társadalom, Civilization, kulturális
+41|anyaga területén a mindennapi élet
+41A|lakhatás
+41A1|városi építészet; építmény; lakások
+41A10|"Edifitio Overo un sito" (Ripa)
+41A11|palotában
+41A111|hotel, vagyis kis palota a város
+41A12|várat
+41A121|erődített ház a városban
+41A13|építmény, pl: középület, áruház
+41A14|városi lakások
+41A141|A szokásos ház vagy házsor
+41A142|házat együtt bolt
+41A143|családi ház a városban
+41A144|lakóházban, apartman
+41A15|felhőkarcoló
+41A16|falusi házon, például vidéki ház, villa, vendégház
+41A161|vidéki ház
+41A162|villa
+41A163|nyaraló
+41A17|farm (épület)
+41A171|pajta
+41A18|kunyhó, kabin, Lodge
+41A181|gerendaház
+41A182|Indiai benyújtani
+41A1821|Wigwam
+41A19|Más lakás típusok
+41A191|sátor
+41A1911|sátortábor
+41A1912|tipi, tipi, teepee
+41A192|lakókocsi (trailer)
+41A1921|lakókocsi-tábor
+41A1922|trailer
+41A193|lakóhajó
+41A194|tóra lakás, cölöpépítmény
+41A1941|egyéb lakások állt le a földre
+#41A195|snow-hut, igloo
+#41A196|cave-dwelling
+#41A2|interior of the house
+#41A21|vestibule, hall
+#41A211|corridor
+#41A2111|gallery (spacious corridor)
+#41A22|communal rooms
+#41A221|living-room, parlour, sitting-room
+#41A222|drawing-room, 'salon'
+#41A2221|boudoir
+#41A223|dining-room
+#41A23|bedroom
+#41A24|bathroom
 #41A241|bathroom equipment
 #41A2411|bath-tub
 #41A2412|shower
 #41A2413|bidet
 #41A2414|fitted basin
 #41A2415|jug and basin; wash-basin
-41A25|otros cuartos
-41A251|estudio; 'studiolo'; biblioteca
-41A252|capilla (interior de la casa)
-41A253|porche solar, salón solar, veranda de vidrio
-41A2531|jardin de invierno, invernadero
-41A254|armario
-41A2541|armario de la ropa blanca
-41A255|ático, desván
-41A256|lugar de almacenamiento
-41A3|partes (de la casa o edificio)
-41A31|fachada (de la casa o edificio
-41A311|fachada delantera
-41A3111|lápida en fachada
-41A312|fachada posterior
-41A313|fachada del patio
-41A32|puerta
-41A321|abriendo la puerta
-41A3211|puerta abierta
-41A3212|puerta dividida, parte de arriba abierta
+#41A25|other rooms
+#41A251|study; 'studiolo'; library
+#41A252|chapel (interior of the house)
+#41A253|sun-porch, sun-parlour, glazed verandah
+#41A2531|winter-garden, conservatory
+#41A254|wardrobe
+#41A2541|linen-closet
+#41A255|attic, loft
+#41A256|storage space
+#41A3|parts (of house or building)
+#41A31|façade (of house or building)
+#41A311|front façade
+#41A3111|stone tablet in façade
+#41A312|rear façade
+#41A313|façade of inner court
+#41A32|door
+#41A321|opening the door
+#41A3211|open door
+#41A3212|divided door, upper part opened
 #41A3213|revolving door
-41A322|cerrando, cerrando la puerta
-41A3221|puerta cerrada
-41A323|puerta monumental, porche, 'aediculum'
-41A324|metalistería de una puerta
-41A3241|aldaba, timbre
-41A3242|picaporte, perilla
-41A325|umbral
-41A3251|escalones, poste, jamba de la puerta
+#41A322|closing, shutting the door
+#41A3221|closed door
+#41A323|monumental door, porch, 'aediculum'
+#41A324|metalwork of a door
+#41A3241|door-knocker, doorbell
+#41A3242|door-handle, doorknob
+#41A325|threshold
+#41A3251|stile, post, doorjamb
 #41A3252|door furniture, e.g. boot scraper, brush, doormat
-41A326|buzón ~ puerta
-41A327|portero, guardián (inanimado)
-41A328|cerradura ~ puerta
-41A3281|llave
-41A32811|llave maestra, 'passe-partout'
-41A3282|pestillo
-41A3283|cerrojo
-41A3284|candado
-41A33|ventana
-41A331|abriendo la ventana
-41A3311|ventana abierta
-41A332|cerrando la ventana
-41A3321|ventana cerrada
-41A333|contraventanas
-41A3331|contraventanas en el exterior
-41A3332|contraventanas en el interior
-41A334|toldo, sombrilla
-41A335|asiento empotrado bajo una ventana
-41A336|figura humana en la ventana (abierta)
-41A3361|figura humana en la ventana (abierta), vista desde el exterior)
-41A3362|figura humana en la ventana (abierta), vista desde el interior)
+#41A326|letter-box ~ door
+#41A327|doorkeeper, house-guard (inanimate)
+#41A328|lock ~ door
+#41A3281|key
+#41A32811|master-key, 'passe-partout', skeleton key
+#41A3282|latch
+#41A3283|bolt
+#41A3284|padlock
+#41A33|window
+#41A331|opening the window
+#41A3311|open window
+#41A332|closing the window
+#41A3321|closed window
+#41A333|window shutters
+#41A3331|window shutters on the outside
+#41A3332|window shutters on the inside
+#41A334|sunblind, sunshade, awning
+#41A335|window-seat
+#41A336|human figure at (open) window
+#41A3361|human figure at (open) window, seen from outside
+#41A3362|human figure at (open) window, seen from inside
 #41A337|view through a window
 #41A3371|view through a window from the outside
 #41A3372|view through a window from the inside
-41A34|escalera
-41A341|caja de la escalera
-41A3411|escalera mecánica
-41A342|ascensor
-41A343|escalera (de mano)
-41A344|escalera de incendios
+#41A34|staircase
+#41A341|stairwell
+#41A3411|escalator
+#41A342|elevator, lift
+#41A343|ladder
+#41A344|fire-escape
 #41A345|back steps
-41A35|escalones de adelante
-41A351|terraza
-41A352|baldaquín (sobre la entrada)
-41A36|tejado, techo (de casa o edificio)
-41A361|torre (de casa o edificio)
-41A3611|chapitel (sobre la torre de una casa o edificio)
-41A362|revestimiento del tejado
-41A363|gablete decorado
-41A37|sótano
-41A38|balcón
-41A381|loggia, veranda
-41A382|mirador
-41A39|cañería e instalación eléctrica
-41A391|suministro de agua y desagüe (en casa o edificio)
-41A3911|pozo
-41A3912|bomba
-41A3913|grifo, caño
-41A3914|baño, inodoro, wáter
-41A3915|fuente (dentro de casa)
+#41A35|front steps
+#41A351|terrace
+#41A352|canopy (over entrance)
+#41A36|roof (of house or building)
+#41A361|tower (of house or building)
+#41A3611|spire (of tower on house or building)
+#41A362|roof-covering
+#41A363|decorated gable
+#41A37|basement, cellar
+#41A38|balcony
+#41A381|loggia, verandah, porch
+#41A382|bay-window, oriel
+#41A39|piping and wiring
+#41A391|water-supply and draining, pipework (in house or building)
+#41A3911|well
+#41A3912|pump
+#41A3913|tap, faucet
+#41A3914|lavatory, water-closet
+#41A3915|fountain (indoors)
 #41A3916|sink, basin
-41A392|conductos de gas
-41A393|instalación eléctrica
-41A4|decoraciones (interior de la casa)
-41A41|empapelar
-41A411|papel de empapelar
-41A412|paneles
-41A413|tapiz
+#41A392|gas conduits
+#41A393|electric installation, fittings, e.g. socket, plug, light switch, cable, wire
+#41A4|decorations (interior of the house)
+#41A41|wall-covering
+#41A411|wall-paper
+#41A412|panelling
+#41A413|tapestry
 #41A414|cordwain, cordovan leather, Dutch: goudleer
-41A42|tapizado (de un cuarto)
-41A421|cortinas
-41A422|colgaduras y tapiz
-41A4221|vitela (colgaduras y tapiz)
-41A423|tapiz ceremonial
-41A4231|baldaquín
-41A43|revestimiento del piso
-41A43(...)|revestimiento del piso (con NOMBRE)
-41A431|alfombra, tapete
-41A44|techo (decorado)
-41A5|anexos y dependencias; valla; puerta
-41A51|patio
-41A511|patio de un palacio u 'hôtel'
+#41A42|upholstery (of a room)
+#41A421|curtains
+#41A422|hangings and drapery
+#41A4221|velum (hangings and drapery)
+#41A423|ceremonial drapery
+#41A4231|canopy, baldachin
+#41A43|floor-covering
+#41A43(...)|floor-covering (with NAME)
+#41A431|carpet, rug
+#41A44|(decorated) ceiling
+#41A5|annexes and outbuildings; fencing; gate
+#41A51|courtyard
+#41A511|inner court of palace or 'hôtel'
 #41A512|backyard
-41A52|cochera
-41A521|garaje
-41A53|cobertizo
-41A54|cerco, muro, empalizada
-41A541|balaustrada
-41A542|puerta, entrada
-41A5421|barrera, muro
+#41A52|coach-house
+#41A521|garage
+#41A53|shed
+#41A54|fence, wall, paling
+#41A541|balustrade
+#41A542|gate, entrance
+#41A5421|barrier
 #41A5422|kissing gate, clap gate
 #41A543|stile
 #41A544|watergate
-41A6|jardín
-41A61|plano, plano del jardín
-41A62|edificios con jardín
-41A621|pérgola
-41A622|cenador, pérgola, (Holandés: 'theekoepel')
-41A623|ermita
-41A624|belvedere
-41A625|enrejado
+#41A6|garden
+#41A61|plan, map of garden
+#41A62|garden buildings
+#41A621|pergola
+#41A622|summer-house, arbour, garden-house (Dutch: 'theekoepel')
+#41A623|hermitage
+#41A624|belvedere
+#41A625|trellis
 #41A626|sham-buildings
 #41A63|lay-out of garden
-41A631|césped
-41A632|arriate
-41A633|jardín con rocas y plantas alpestres
-41A634|laberinto ~ jardín
-41A635|cercado o tapiado; 'Hortus Conclusus'
+#41A631|lawn
+#41A632|flower-bed
+#41A633|rock-garden
+#41A634|labyrinth, maze ~ garden
+#41A635|fenced or walled garden; 'Hortus Conclusus'
 #41A6351|roof garden
-41A636|jardín francés (estilo barroco) ; de diseño formal
-41A637|jardín inglés
-41A638|entrada al jardín
-41A64|ornamentos de jardín
-41A641|estatuas, esculturas en el jardín
-41A6411|enanos, 'grylloi' (ornamentos de jardín
-41A642|obelisco (ornamentos de jardín)
-41A643|pirámides (ornamentos de jardín)
-41A644|hermas (ornamentos de jardín
-41A645|ruinas (ornamentos de jardín
-41A646|jarrón de jardín
-41A65|surtidor de agua en el jardín
-41A651|fuente de jardín
-41A652|estanque de jardín
-41A653|cascada de jardín
-41A66|gruta artificial en el jardín
-41A67|plantas ornamentales
-41A671|naturaleza muerta de plantas, flores y frutas
-41A6711|flores en un jarrón
+#41A636|French or architectonic garden; formal garden
+#41A637|English or landscape garden
+#41A638|garden approach, garden drive
+#41A64|garden ornaments
+#41A641|statues, sculptures in garden
+#41A6411|dwarfs, 'grylloi' (garden ornaments)
+#41A642|obelisks (garden ornaments)
+#41A643|pyramids (garden ornaments)
+#41A644|herms (garden ornaments)
+#41A645|ruins (garden ornaments)
+#41A646|garden vase
+#41A65|water-works in garden
+#41A651|garden fountain
+#41A652|garden pond
+#41A653|garden cascade
+#41A66|artificial grotto in garden
+#41A67|ornamental plants
+#41A671|still life of plants, flowers and fruit
+#41A6711|flowers in a vase
 #41A6712|arranging flowers
-41A672|arte de podar(arbustos y arboles podados y guiados en formas ornamentales
+#41A672|topiary work (shrubs and trees trimmed and trained into ornamental shape); bonsai, espalliered, etc.
 #41A673|potted plants
-41A68|cultivo de jardín (ornamental)
-41A681|jardinería
-41A6811|plantas de riego
-41A682|herramientas de jardinería
-41A682(...)|herramientas de jardinería (con NOMBRE)
-41A7|mobiliario y efectos domésticos
-41A71|mobiliario para poner cosas encima
-41A711|mesa
-41A7111|trípode
-41A7112|mesa de caballete
-41A712|estante, anaquel, aparador
-41A7121|estantería
+#41A68|cultivation of (ornamental) garden
+#41A681|gardening
+#41A6811|watering plants
+#41A682|gardening-tools
+#41A682(...)|gardening-tools (with NAME)
+#41A7|furniture and household effects
+#41A71|furniture to put things on
+#41A711|table
+#41A7111|tripod
+#41A7112|trestle table
+#41A712|shelves, rack, sideboard
+#41A7121|what-not
 #41A7122|bookshelves
+
 #41A71221|bookcase, with doors
-41A713|mantel para mesa, etc.
-41A72|mobiliario para sentarse
-41A721|silla
-41A7211|taburete
+#41A713|cover for table, etc.
+#41A72|seating furniture
+#41A721|chair
+#41A7211|stool
 #41A72111|footstool
-41A7212|sillón, asiento
-41A7213|mecedora
-41A722|sofá
-41A7221|almohadón, cojín
-41A723|banco
-41A73|mobiliario para almacenamiento
-41A731|armario
-41A732|armario ornamental
-41A733|cofre
-41A734|'cassone', ajuar de novia
+#41A7212|armchair, seat
+#41A7213|rocking-chair
+#41A722|couch, sofa, settee
+#41A7221|cushion
+#41A723|bench
+#41A73|furniture for storage
+#41A731|cupboard
+#41A732|ornamental cupboard
+#41A733|chest, coffer
+#41A734|'cassone'
 #41A735|lock ~ furniture
 #41A7351|key ~ furniture
 #41A7352|bolt ~ furniture
 #41A7353|padlock ~ furniture
-41A74|mobiliario para uso especial
+#41A74|furniture for special use
 #41A741|screen, folding screen
-41A75|mobiliario decorativo
+#41A75|decorative furniture
 #41A751|draught-screen
 #41A76|furniture to lie on or in
-41A761|cama
-41A7611|cama empotrada (Holandés: 'bedstee')
-41A7612|cama con cuatro columnas gen. con dosel
+#41A761|bed
+#41A7611|built-in bedstead (Dutch: 'bedstee')
+#41A7612|bed with tester
 #41A76121|two poster bed
 #41A76122|four poster bed
-41A762|hamaca
-41A763|ropa de cama
-41A7631|colchón
-41A7632|almohada
-41A7633|sábana
-41A7634|frazada, cobija
-41A7635|cubrecama, colcha
-41A77|recipientes
-41A771|recipientes de metal: balde, lata, bote, bidón, tarro
-41A7711|recipiente de metal precioso
-41A772|recipiente de piedra: jarrón de piedra
-41A7721|recipiente de piedra (semi-)preciosa
-41A773|recipiente de cerámica: tarro, jarra, bote, jarrón
-41A774|recipiente de vidrio: botella, tarro, jarrón
-41A775|recipiente de madera: barril, tonel
-41A7751|recipiente echo de otro material vegetal que la madera: canasta
-41A776|recipiente de cuero: bolsa de cuero
-41A7761|recipiente de otro material animal
-41A777|recipiente de material textil: bolsa, costal
-41A778|recipiente de papel, cartón: bolsa, cartón
-41A779|recipiente de material sintético
-41A78|artículos para regalo, chucherías, adornitos
-41A8|uso de la casa
-41A81|amueblando (la casa)
-41A82|mudando (casa)
+#41A762|hammock
+#41A763|bedding
+#41A7631|mattress
+#41A7632|pillow
+#41A7633|sheet
+#41A7634|blanket
+#41A7635|bed-spread
+#41A77|containers
+#41A771|container of metal: bucket, can, canister, drum, tin, etc.
+#41A7711|container of precious metal
+#41A77111|
+#41A772|container of stone: stone vase
+#41A7721|container of (semi-)precious stone
+#41A773|container of ceramics: jar, jug, pot, vase
+#41A774|container of glass: bottle, jar, vase
+#41A775|wooden container: barrel, cask
+#41A7751|container made of plant material other than wood: basket
+#41A776|container of leather: leather bag
+#41A7761|container of other animal material
+#41A777|container of textile material: bag, sack, net
+#41A778|container of paper, cardboard: bag, carton
+#41A779|container of synthetic material
+#41A78|fancy goods, knick-knacks
+#41A8|use of the house
+#41A81|furnishing (the house)
+#41A82|moving (house)
 #41A9|ruin of a dwelling, house, castle, etc.
 #41AA1|civic architecture; edifices; dwellings - AA - civic architecture: inside
 #41AA10|'Edifitio overo un sito' (Ripa) - AA - civic architecture: inside
@@ -344,368 +346,369 @@
 #41AA337|view through a window - AA - feigned window
 #41AA3371|view through a window from the outside - AA - feigned window
 #41AA3372|view through a window from the inside - AA - feigned window
-41B|calefacción e iluminación
-41B1|chimenea (en general)
-41B11|encendiendo un fuego
-41B111|pedernal y eslabón
-41B112|caja de la yesca
-41B113|fósforo o cerilla de azufre
-41B114|fósforo o cerilla
-41B1141|caja de fósforos o de cerillas
-41B115|mecha
-41B12|quemar como proceso
-41B12(...)|quemar como proceso (con NOMBRE de combustible)
-41B12(COAL)|quemar como proceso (con NOMBRE de combustible)
-41B12(FAGGOT)|quemar como proceso (con NOMBRE de combustible)
-41B12(LOG)|quemar como proceso (con NOMBRE de combustible)
-41B12(OIL)|quemar como proceso (con NOMBRE de combustible)
-41B12(STRAW)|quemar como proceso (con NOMBRE de combustible)
-41B121|llama
-41B122|echar chispas ~ fuego
-41B123|gases liberados para combustión
-41B13|removiendo un fuego
-41B131|soplando (removiendo un fuego)
-41B1311|fuelle
-41B132|avivando (removiendo un fuego)
-41B1321|abanico
-41B133|atizando (removiendo un fuego)
-41B1331|atizador (~ chimenea)
-41B14|extinguiendo un fuego
-41B15|depositos de combustión
-41B151|hollín
-41B152|ceniza
-41B153|rescoldo, escoria
-41B16|fogata; fuego de campamento
-41B161|hoguera
-41B162|humo
-41B2|chimenea y estufa
-41B21|chimenea
-41B211|calentandose uno mismo con fuego (o chimenea, estufa,calentador, brasero)
-41B212|implementos ~ chimenea
-41B2121|tenazas de fuego
-41B2122|extinguidor para el carbón
-41B213|accesorios ~ chimenea
-41B2131|pantalla de la chimenea
-41B2132|guardafuegos
-41B2133|trashoguero
+#41B|heating, lighting, ventilating
+#41B1|open fire (in general)
+#41B11|kindling a fire
+#41B111|flint and steel
+#41B112|tinder-box
+#41B113|sulphur match
+#41B114|match
+#41B1141|match-box
+#41B115|fuse
+#41B12|burning as process
+#41B12(...)|burning as process (with NAME of fuel)
+#41B12(COAL)|burning as process: coal
+#41B12(FAGGOT)|burning as process: faggot
+#41B12(LOG)|burning as process: log
+#41B12(OIL)|burning as process: oil
+#41B12(STRAW)|burning as process: straw
+#41B121|flame
+#41B122|spark ~ fire
+#41B123|gases liberated by combustion
+#41B13|stirring up a fire
+#41B131|blowing (stirring up a fire)
+#41B1311|bellows
+#41B132|fanning (stirring up a fire)
+#41B1321|fan
+#41B133|poking (stirring up a fire)
+#41B1331|poker (~ open fire)
+#41B14|extinguishing a fire
+#41B15|deposits of combustion
+#41B151|soot
+#41B152|ash
+#41B153|cinders, slag
+#41B16|camp-fire; watch-fire
+#41B161|bonfire
+#41B162|smoke
+#41B2|hearth and stove
+#41B21|open hearth, fire-place
+#41B211|warming oneself at a fire (or hearth, stove, fire-pan, brazier)
+#41B212|implements ~ fire-place
+#41B2121|fire-tongs
+#41B2122|extinguisher for coal
+#41B213|accessories ~ fire-place
+#41B2131|fire-screen
+#41B2132|fender
+#41B2133|hearth-plate
 #41B2134|dummy board figures
 #41B2135|pot suspended by chain
-41B2136|morillo
-41B214|chimenea
-41B2141|repisa de chimenea
-41B2142|ornamentos de chimenea
-41B22|estufa
-41B221|rejilla (de la estufa)
-41B222|conducto de la estufa
-41B223|cubeta o balde para carbón
-41B224|pala para carbón
-41B23|calientapiés
-41B231|calentador de cama
-41B232|bolsa de agua caliente
-41B24|calefacción central
-41B241|radiador (calefacción central)
+#41B2136|andiron, fire-dog
+#41B214|chimney
+#41B2141|chimney-piece, mantelpiece
+#41B2142|chimney ornaments
+#41B22|heating stove
+#41B221|grate (of heating stove)
+#41B222|stove-pipe
+#41B223|coal-bucket
+#41B224|coal-shovel
+#41B23|foot-stove
+#41B231|warming-pan (for bed)
+#41B232|hot-water bottle
+#41B24|central heating
+#41B241|radiator (central heating)
 #41B29|cooling, air conditioning
-41B3|iluminación; lámparas
-41B31|vela
-41B311|araña (de luces), candelabro
-41B312|aplique
-41B313|candelero
-41B314|apagavelas
-41B32|antorcha
-41B33|farol, linterna
-41B34|lámpara de aceite
-41B35|lámpara a querosene
-41B36|lámpara a gas
-41B37|lámpara eléctrica
+#41B3|lighting; lamps
+#41B31|candle
+#41B311|chandelier, candelabrum
+#41B312|sconce, wall lamp
+#41B313|candlestick
+#41B314|snuffers
+#41B32|torch
+#41B33|lantern
+#41B34|oil-lamp
+#41B35|paraffin lamp
+#41B36|gas-lamp
+#41B37|electric lamp
 #41B371|light bulb (electric)
 #41B372|neon lamp, neon tube
-41B4|en llamas, arder
-41B5|tareas de extinción
-41B51|cuerpo de bomberos
-41B511|bomberos
-41B52|equipo contra incendios
-41B521|baldes (equipo contra incendios)
-41B522|bomba (equipo contra incendios
-41B523|manguera contra incendios
-41B524|equipo químico contra incendios
-41B525|coche de bomberos, autobomba
-41B53|rescatar del fuego
-41B531|rescatar del fuego con la lona salvavidas
+#41B4|on fire, ablaze
+#41B5|fire-fighting
+#41B51|fire-department, fire-brigade
+#41B511|firemen
+#41B52|fire-extinguishing equipment
+#41B521|pails (fire-extinguishing equipment)
+#41B522|pump (fire-extinguishing equipment)
+#41B523|fire-hose
+#41B524|chemical fire-extinguishing apparatus
+#41B525|fire-engine
+#41B53|rescue from fire
+#41B531|rescue from fire with jumping-sheet
 #41B6|ventilation systems
 #41B61|airshaft
 #41BB32|torch - BB - torch held upside down
-41C|nutrición, alimenticio
-41C1|comiendo y bebiendo
-41C10|gastronomía, el arte de comer y beber
-41C11|comiendo
-41C111|dando de comer
-41C119|hambre
-41C1190|personificación de hambre, 'Famélicos'; Famélico (Ripa)
-41C1191|enanición, hambruna
-41C1192|huelga de hambre
-41C12|bebiendo
-41C121|dando de beber
-41C122|sirviendo
-41C129|sed
-41C13|soplando, para enfriar la comida antes de comerla
-41C14|removiendo, para enfriar la comida antes de comerla
-41C18|saturación
-41C19|hambre o sed insaciable
-41C2|cocina y bodega
-41C21|cocina
-41C211|interior de la cocina
-41C2111|interior de la cocina con comestibles en primer plano (Holandés:'keukenstuk')
+#41C|nutrition, nourishment
+#41C1|eating and drinking
+#41C10|gastronomy, the art of eating and drinking
+#41C11|eating
+#41C111|giving food
+#41C119|hunger
+#41C1190|personification of hunger, 'Fames'; 'Fame' (Ripa)
+#41C1191|starvation, famine
+#41C1192|hunger-strike
+#41C12|drinking
+#41C121|giving drink
+#41C122|pouring
+#41C129|thirst
+#41C13|blowing, to cool food before eating
+#41C14|stirring, to cool food before eating
+#41C18|saturation, satiation ~ eating and drinking
+#41C19|insatiable hunger or thirst
+#41C2|kitchen and cellar
+#41C21|kitchen
+#41C211|kitchen-interior
+#41C2111|kitchen-interior with foodstuffs in foreground (Dutch: 'keukenstuk')
 #41C212|sink (kitchen)
-41C22|personal de cocina
-41C221|cocinero
-41C222|sirvienta de la cocina
-41C23|cocina pobre y rica
-41C231|cocina rica
-41C232|cocina pobre
-41C24|conservando alimentos
-41C241|bodega
-41C2411|bodega de vino
-41C24111|camarero
-41C242|bodega de hielo
-41C2421|nevera, refrigerador
-41C25|cocinando la comida
-41C251|asando
-41C2511|asador ~ cocinar
-41C2512|parrilla ~ cocinando la comida
-41C252|fríendo
-41C253|hirviendo
-41C254|estufa de cocina
-41C2541|chimenea, estufa (en la cocina)
-41C2542|cocina o estufa
-41C2543|horno (~ la cocina)
-41C26|preparación de la comida
-41C261|limpiando (la comida)
-41C2611|limpiando las verduras
-41C2612|limpiando la fruta, por ej.: pelando
-41C26121|fruta (media-) descáscarada, por ej.: limón
-41C2613|limpiando aves o animales pequeños
-41C26131|ave desplumada
-41C262|dividiendo (la comida)
-41C2621|cortando la carne
-41C2622|rebanando el pan
-41C263|mezclando, combinando (preparando la comida)
-41C2631|preparando la masa o la pasta
-41C264|suavizando, batiendo (preparando la comida)
-41C265|decorando (preparando la comida)
-41C269|lavando
-41C27|utensilios de cocina
-41C27(...)|utensilios de cocina (con NOMBRE)
+#41C22|kitchen-personnel
+#41C221|cook
+#41C222|kitchen-maid, kitchen servant
+#41C23|poor and rich kitchen
+#41C231|rich kitchen
+#41C232|poor kitchen
+#41C24|conserving food
+#41C241|cellar
+#41C2411|wine-cellar
+#41C24111|wine-steward
+#41C242|ice-cellar
+#41C2421|ice-box, refrigerator
+#41C25|cooking food
+#41C251|roasting, grilling
+#41C2511|spit ~ cooking
+#41C2512|grill, gridiron ~ cooking food
+#41C252|frying
+#41C253|boiling
+#41C254|kitchen-fire
+#41C2541|open fire, fire-place, stove (in kitchen)
+#41C2542|cooker
+#41C2543|oven ~ kitchen
+#41C26|preparation of food
+#41C261|cleaning (food)
+#41C2611|cleaning vegetables
+#41C2612|cleaning fruit, e.g. peeling
+#41C26121|(half-)peeled fruit, e.g. lemon
+#41C2613|cleaning fowl or small animals
+#41C26131|plucked fowl
+#41C262|dividing (food)
+#41C2621|cutting meat
+#41C2622|slicing bread
+#41C263|mixing, combining (preparing food)
+#41C2631|preparing dough or batter
+#41C264|smoothing, beating (preparing food)
+#41C265|ornamenting, decorating, dressing (preparing food)
+#41C269|washing up
+#41C27|kitchen-utensils
+#41C27(...)|kitchen-utensils (with NAME)
 #41C27(CAULDRON)|kitchen-utensils: cauldron
 #41C27(COLANDER)|kitchen-utensils: colander
 #41C27(FRYING PAN)|kitchen-utensils: frying pan
-41C27(FUNNEL)|utensilios de cocina (con NOMBRE)
+#41C27(FUNNEL)|kitchen-utensils: funnel
 #41C27(GRATER)|kitchen utensils: grater
 #41C27(LADLE)|kitchen-utensils: ladle
 #41C27(PAN)|kitchen-utensils: pan
 #41C27(POT)|kitchen-utensils: pot
 #41C27(ROLLING-PIN)|kitchen-utensils: rolling-pin
-41C27(SIEVE)|utensilios de cocina (con NOMBRE)
+#41C27(SIEVE)|kitchen-utensils: sieve
 #41C27(SKIMMER)|kitchen-utensils: skimmer
-41C3|mesa puesta: vajilla, decoración de mesa, etc.
-41C31|vajilla
-41C311|cuchillo de mesa
-41C312|tenedor
-41C313|cuchara
-41C314|salero
-41C315|caja de especias
-41C316|huevera
-41C317|cubo de hielo para mantener frío el vino
-41C32|vasijas
-41C321|taza
-41C3211|cuerno, guampa
+#41C3|laid table: table-ware, table-decoration, etc.
+#41C31|table-ware
+#41C311|table-knife
+#41C312|fork
+#41C313|spoon
+#41C314|salt-cellar, salt-shaker
+#41C315|spice-box
+#41C316|egg-cup
+#41C317|wine-cooler
+#41C32|drinking-vessels
+#41C321|cup
+#41C3211|drinking-horn
 #41C3212|nautilus cup
-41C322|taza (alta y sin platillo, taza (gen. alta y sin asa), copa
+#41C322|mug, beaker, goblet
 #41C3221|goblet foot
-41C323|vaso, copa
+#41C323|glass, rummer
 #41C323(...)|glass, rummer (with NAME)
+
 #41C323(BERKEMEYER)|glass, rummer: berkemeyer
 #41C323(PASGLAS)|glass, rummer: pasglas
-41C324|jarra
-41C325|sifón
-41C326|tarro, jarra (usados como vasijas)
-41C327|vasijas en forma inusual
-41C3271|vasija en forma de animal
-41C3272|vasija antropomórfica
-41C32721|cráneo humano como vasija
-41C3273|vasija en la forma de un objeto
-41C33|servicio de té y café
-41C331|taza y platillo
-41C332|cafetera
-41C333|tetera; samovar (especie de tetera rusa, gen. de cobre)
-41C334|azucarero
-41C34|vajilla
-41C341|plato, platillo
-41C342|fuente
-41C343|bandeja
-41C344|salsera
-41C345|tazón
-41C35|decoración de mesa
-41C351|pieza de centro, 'epergne', 'surtout', 'milieu-de-table'
-41C352|'trionfi di tavola', 'pièces montées'
+#41C324|tankard
+#41C325|table fountain
+#41C326|jar, jug (used as drinking-vessel)
+#41C327|drinking-vessel in unusual shape
+#41C3271|animal-shaped drinking-vessel
+#41C3272|anthropomorphic drinking-vessel
+#41C32721|human skull as drinking-vessel
+#41C3273|drinking-vessel in the shape of an object
+#41C33|tea- and coffee-service
+#41C331|cup and saucer
+#41C332|coffee-pot
+#41C333|tea-pot; samovar
+#41C334|sugar-basin
+#41C34|dinner-service
+#41C341|dish, plate, saucer
+#41C342|serving-dish, platter
+#41C343|salver
+#41C344|gravy-boat
+#41C345|bowl
+#41C35|table-decoration
+#41C351|centre-piece, epergne, 'surtout', 'milieu-de-table'
+#41C352|'trionfi di tavola', 'pièces montées'
 #41C353|aquamanile, vessel holding water for washing the hands before a meal
-41C36|vajilla colocada sobre el aparador
-41C37|mantel
-41C371|servilleta
-41C3711|servilletero
-41C38|mesa puesta como naturaleza muerta
+#41C36|(dinner-)service displayed on sideboard
+#41C37|table-cloth
+#41C371|napkin
+#41C3711|napkin-ring
+#41C38|laid table as still life
 #41C381|breakfast piece (Dutch: 'ontbijtje')
 #41C382|banquet piece
-41C4|comida (familiar)
-41C41|desayuno
-41C411|café (servido a media mañana
-41C42|comida del medio día, almuerzo
-41C421|comida entre merienda y cena que gen. se toma acompañada de té
-41C4211|ceremonia del té
+#41C4|(family) meal
+#41C41|breakfast
+#41C411|morning coffee
+#41C42|midday meal, lunch
+#41C421|high tea
+#41C4211|tea-ceremony
 #41C422|afternoon tea
-41C43|cena, comida
-41C44|cena (de media noche)
-41C5|cena festiva, festín, banquete
-41C50|'Convito' (Ripa), Convite
-41C51|banquete de personas elegantes
-41C52|gaudeamus, juerga, orgía
-41C520|'Crapula' (Ripa)
-41C6|comestibles; naturaleza muerta de comestibles
-41C61|harina
-41C611|tipos de harina o granos
-41C612|harina y productos de grano
-41C6121|cereales
-41C6122|fideos, spaghetti, etc.
-41C62|pan, torta, pastel, etc.
-41C621|pan, barra
-41C6211|pan de molde
+#41C43|evening meal, dinner, supper
+#41C44|(late) supper
+#41C5|celebration meal, feast, banquet
+#41C50|'Convito' (Ripa)
+#41C51|banquet of elegant company
+#41C52|carousal, drinking-bout, orgy
+#41C520|'Crapula' (Ripa)
+#41C6|foodstuffs; still life of foodstuffs
+#41C61|flour
+#41C611|kinds of flour or grain
+#41C612|flour- and grain-products
+#41C6121|cereal
+#41C6122|noodles, spaghetti, etc.
+#41C62|bread, cake, pastry, etc.
+#41C621|bread, loaf
+#41C6211|shaped bread
 #41C62111|flat, round bread or pastry, e.g. pizza
 #41C6212|filled breads, rolls, e.g. sandwich, hamburger
-41C622|torta, tarta, pastel
-41C6221|pastelitos
+#41C622|cake, tart, pastry
+#41C6221|fancy-cakes, fancy-pastries
 #41C6222|biscuits
-41C623|panqueques
-41C624|wafles
-41C6241|oblea enrollada
-41C625|pastel
-41C626|moldes de panadero
-41C6261|moldes para tortas, tartas, pasteles
-41C6262|moldes para galletas
-41C62621|llamado 'speculaasplanken' (moldes de galletas)
-41C6263|waflera
-41C6264|molde para el pan, molde de repostería
-41C63|azúcar
-41C631|barra de azúcar
-41C632|terrones de azúcar
-41C633|almíbar
-41C634|caramelos
-41C635|dulces, exquiciteces
-41C6351|helado
-41C6352|chocolate (solido)
-41C636|miel
+#41C623|pancakes
+#41C624|waffles
+#41C6241|rolled wafer
+#41C625|pie
+#41C626|baker's moulds
+#41C6261|moulds for cakes, tarts, pastries
+#41C6262|moulds for biscuits
+#41C62621|so-called 'speculaasplanken' (biscuit moulds)
+#41C6263|waffle-iron
+#41C6264|bread-tin, baking-tin
+#41C63|sugar
+#41C631|loaf-sugar
+#41C632|sugar-lumps
+#41C633|syrup
+#41C634|sugar-candy
+#41C635|sweets, dainties
+#41C6351|ice-cream
+#41C6352|chocolate (solid)
+#41C636|honey
 #41C637|sugar-coated
 #41C6371|icing, frosting
-41C64|productos lácteos y huevos
-41C641|productos lácteos
-41C6411|mantequilla
-41C6412|queso
-41C6413|leche
-41C64131|suero (de la leche)
-41C64132|yogurt
-41C64133|crema
-41C642|huevos, platos de huevo
-41C65|verduras y fruta; naturaleza muerta de verduras y fruta
-41C651|papa
+#41C64|dairy products and eggs
+#41C641|dairy products
+#41C6411|butter
+#41C6412|cheese
+#41C6413|milk
+#41C64131|buttermilk
+#41C64132|yoghurt
+#41C64133|cream
+#41C642|eggs, egg-dishes
+#41C65|vegetables and fruit; still life of vegetables and fruit
+#41C651|potatoes
 #41C6511|processed potatoes, e.g. crisps, chips (French fries)
-41C652|verduras
-41C652(...)|verduras (con NOMBRE)
+#41C652|vegetables
+#41C652(...)|vegetables (with NAME)
 #41C6521|processed vegetables
 #41C6521(...)|processed vegetables (with NAME)
-41C653|fruta
-41C653(...)|fruta (con NOMBRE)
-41C6531|fruta procesada, p.ej. dulce, mermelada, etc.
-41C66|condimentos, especias
-41C66(...)|condimentos, especias (con NOMBRE)
-41C66(SAFFRON)|condimentos, especias (con NOMBRE)
-41C661|sal
-41C662|pimienta
-41C663|mostaza
-41C67|aceite, vinagre, salsas
-41C671|aceites y grasas vegetales
-41C6711|margarina
-41C672|vinagre
-41C673|salsas
-41C68|pescado; naturaleza muerta de pescados
-41C68(...)|pescado (con NOMBRE)
+#41C653|fruit
+#41C653(...)|fruit (with NAME)
+#41C6531|processed fruit, e.g. jam, marmalade, etc.
+#41C66|seasonings, spices
+#41C66(...)|seasonings, spices (with NAME)
+#41C66(SAFFRON)|seasonings, spices: saffron
+#41C661|salt
+#41C662|pepper
+#41C663|mustard
+#41C67|oil, vinegar, sauces
+#41C671|oils and vegetable fats
+#41C6711|margarine
+#41C672|vinegar
+#41C673|sauces
+#41C68|fish; still life of fishes
+#41C68(...)|fish (with NAME)
 #41C68(SMOKED HERRING)|fish: smoked herring
-41C681|mariscos
-41C681(...)|mariscos (con NOMBRE)
-41C69|carne; naturaleza muerta de carne
-41C691|buey o cerdo muerto
-41C692|tipos de carne
-41C692(...)|tipos de carne (con NOMBRE)
-41C693|salchicha
-41C694|jamón
-41C695|grasa de cerdo, manteca
-41C696|caldo, sopa
-41C7|bebidas, estimulantes, drogas
-41C71|bebidas alcohólicas
-41C711|vino ~ bebidas alcohólicas
-41C7111|vaso de vino
-41C7112|botella de vino
-41C7113|tipos de vino
-41C7113(...)|tipos de vino (con NOMBRE)
-41C712|licor
-41C713|bebidas destiladas
-41C7131|ginebra, gin
-41C7132|whisky
-41C7133|vodka
+#41C681|seafood
+#41C681(...)|seafood (with NAME)
+#41C69|meat; still life of meat
+#41C691|slaughtered ox or pig
+#41C692|kinds of meat
+#41C692(...)|kinds of meat (with NAME)
+#41C693|sausage
+#41C694|ham
+#41C695|fat, lard
+#41C696|broth, soup
+#41C7|drinks, stimulants, drugs
+#41C71|alcoholic drinks
+#41C711|wine ~ alcoholic drinks
+#41C7111|glass of wine
+#41C7112|bottle of wine
+#41C7113|kinds of wine
+#41C7113(...)|kinds of wine (with NAME)
+#41C712|liqueur
+#41C713|distilled spirits
+#41C7131|genever, gin
+#41C7132|whisky
+#41C7133|vodka
 #41C7134|brandy, brandywine
-41C714|cerveza
-41C7141|vaso de cerveza
-41C715|otras bebidas alcohólicas
-41C715(...)|otras bebidas alcohólicas (con NOMBRE)
-41C7151|cóctel, combinado
-41C72|bebidas estimulantes
-41C721|café
-41C7211|taza de café
-41C722|té (hojas)
-41C7221|taza de té
-41C723|chocolate, cocoa
-41C73|otras bebidas
-41C731|concentrado de fruta dulce
-41C732|jugo de frutas
-41C74|tabaco
-41C741|tabaco de pipa
-41C7411|pipa de agua, narguile
+#41C714|beer, ale
+#41C7141|glass of beer
+#41C715|other alcoholic drinks
+#41C715(...)|other alcoholic drinks (with NAME)
+#41C7151|cocktail
+#41C72|stimulating drinks
+#41C721|coffee
+#41C7211|cup of coffee
+#41C722|tea (leaves)
+#41C7221|cup of tea
+#41C723|chocolate, cocoa
+#41C73|other non-alcoholic drinks
+#41C731|sweet fruit-syrups
+#41C732|fruit-juice
+#41C74|tobacco
+#41C741|pipe ~ tobacco
+#41C7411|water-pipe, hookah, narghile
 #41C7412|tobacco-roll, coiled twist of tobacco
-41C7413|tabaquera
+#41C7413|tobacco-jar
 #41C7414|pipe-holder, pipe-stand
-41C7415|cenicero
-41C742|puro
-41C7421|caja de puros
-41C7422|cigarrera
+#41C7415|ashtray
+#41C742|cigar
+#41C7421|cigar-box
+#41C7422|cigar-case
 #41C7423|cigar-holder
-41C743|cigarrillo
-41C7431|cigarrera, pitillera
-41C7432|papel de cigarro
+#41C743|cigarette
+#41C7431|cigarette-case
+#41C7432|cigarette-paper
 #41C7433|cigarette-tube, cigarette-holder
-41C744|rapé
-41C7441|caja de rapé
-41C745|andullo
-41C7451|otras cosas estimulantes para mascar
-41C74511|betel
-41C74512|goma de mascar
-41C75|drogas
-41C75(...)|drogas (con NOMBRE)
-41C75(HASHISH)|drogas (con NOMBRE)
-41C751|opio
-41C7511|pipa de opio
-41C7512|fumadero de opio
-41C76|fragancias, perfumes ~ estimulantes, drogas
-41C761|caja de fragancias
-41C762|incensario de fragancias ~ esencias, perfumes
-41C9|canibalismo
-41C91|necrofagismo
+#41C744|snuff
+#41C7441|snuff-box
+#41C745|chewing-tobacco
+#41C7451|other stimulant things to chew on
+#41C74511|betel, sirih
+#41C74512|chewing-gum
+#41C75|drugs
+#41C75(...)|drugs (with NAME)
+#41C75(HASHISH)|drugs: hashish
+#41C751|opium
+#41C7511|opium-pipe
+#41C7512|opium-house
+#41C76|scents, perfumes ~ stimulants, drugs
+#41C761|scent-box
+#41C762|incense-burner ~ scents, perfumes
+#41C9|cannibalism
+#41C91|necrophagism
 #41CC221|cook - CC - female cook
 #41CC25|cooking food - CC - in the open air
 #41CC251|roasting, grilling - CC - in the open air
@@ -746,29 +749,29 @@
 #41CC51|banquet of elegant company - CC - out of doors
 #41CC52|carousal, drinking-bout, orgy - CC - out of doors
 #41CC520|'Crapula' (Ripa) - CC - out of doors
-41D|moda
-41D1|moda
-41D11|figurines
-41D12|desfile de modas
-41D121|modelo, maniquí
-41D122|figuras de escaparate
+#41D|fashion, clothing
+#41D1|fashion
+#41D11|fashion plates
+#41D12|fashion show
+#41D121|model, mannequin
+#41D122|shop-window figures
 #41D13|fashion mongering
-41D131|dandy, galán
-41D1310|'Delitioso' (Ripa)
-41D1311|'increible' ~ dandy
-41D132|mujer a la moda, 'bella'
-41D1321|'maravillosa'
-41D14|diseñador, diseñadora
-41D2|ropa, traje
-41D21|ropa cubriendo el cuerpo entero
+#41D131|dandy, beau
+#41D1310|'Delitioso' (Ripa)
+#41D1311|'incroyable' ~ dandy
+#41D132|fashionable woman, 'belle'
+#41D1321|'merveilleuse'
+#41D14|fashion designer
+#41D2|clothes, costume
+#41D21|clothes covering the entire body
 #41D21(...)|clothes covering the entire body (with NAME)
-41D211|vestido
+#41D211|dress, gown
 #41D211(...)|dress, gown (with NAME)
 #41D211(BALL GOWN)|dress, gown: ball gown
 #41D211(CHEMISE À LA REINE)|dress, gown: chemise à la Reine
 #41D211(COURT GOWN)|dress, gown: court gown or court dress
 #41D211(DAY DRESS)|dress, gown: day dress
-#41D211(DINNER DRESS)|dress, gown: dinner dress
+#41D211(DINNER DRESS)|dress, gown: dinner dress 
 #41D211(EVENING DRESS)|dress, gown: evening dress
 #41D211(MANTEAU)|dress, gown: manteau
 #41D211(MORNING DRESS)|dress, gown: morning dress
@@ -780,8 +783,9 @@
 #41D211(ROBE À LA FRANÇAISE)|dress, gown: robe à la française
 #41D211(ROBE À LA LÉVITE)|dress, gown: robe à la lévite
 #41D211(ROBE À LA POLONAISE)|dress, gown: robe à la polonaise
+
 #41D211(WALKING DRESS)|dress, gown: walking dress
-41D212|abrigo, capa
+#41D212|coat, cape
 #41D2121|coat
 #41D2121(...)|coat (with NAME)
 #41D2121(BOLERO)|coat: bolero
@@ -796,9 +800,9 @@
 #41D213|ensemble of pieces of clothing
 #41D213(...)|ensembles of pieces of clothing (with NAME)
 #41D213(SAILOR SUIT)|ensemble of pieces of clothing: sailor suit
-41D22|sombrero y prendas de vestir para la parte superior del cuerpo
-41D221|sombrero
-41D221(...)|sombrero (con NOMBRE)
+#41D22|head-gear and clothing for the upper part of the body
+#41D221|head-gear
+#41D221(...)|head-gear (with NAME)
 #41D221(BERET)|head-gear: beret
 #41D221(BICORNE)|head-gear: bicorne, bicorn
 #41D221(BOATER)|head-gear: boater
@@ -813,276 +817,276 @@
 #41D221(TOQUE)|head-gear: toque
 #41D221(TRICORNE)|head-gear: tricorn
 #41D221(TURBAN)|head-gear: turban
-41D2211|velo
-41D2212|gorro frigio
-41D222|pañuelo ~ prendas de vestir
-41D222(...)|pañuelo ~ prendas de vestir (con NOMBRE)
+#41D2211|veil
+#41D2212|Phrygian bonnet
+#41D222|neck-gear ~ clothing
+#41D222(...)|neck-gear ~ clothing (with NAME)
 #41D222(COLLAR)|neck-gear: collar
 #41D222(JABOT)|neck-gear: jabot
-41D223|ropa para la parte superior del cuerpo
-41D223(...)|ropa para la parte superior del cuerpo (con NOMBRE)
+#41D223|clothing for the upper part of the body
+#41D223(...)|clothing for the upper part of the body (with NAME)
 #41D223(BLOUSE)|clothing for the upper part of the body: blouse
-41D2231|pieza de ropa cubriendo el pecho o escotado
+#41D2231|piece of clothing covering the breast or décolleté
 #41D2231(...)|piece of clothing covering the breast or décolleté (with NAME)
-41D224|mangas
-41D225|guantes, mitones
+#41D224|sleeves
+#41D225|gloves, mittens, etc.
 #41D225(...)|gloves, mittens (with NAME)
-41D2251|'manus velatae' (manos cubiertas con tela)
-41D2252|manguito
-41D23|ropa para la parte baja del cuerpo
-41D231|pantalones
+#41D2251|'manus velatae' (hands covered with a cloth)
+#41D2252|muff
+#41D23|clothing for the lower part of the body
+#41D231|trousers, breeches
 #41D231(...)|trousers, breeches, etc. (with NAME)
 #41D2311|codpiece (cover for the genitals)
-41D232|falda
+#41D232|skirt
 #41D232(...)|skirt (with NAME)
-41D2321|delantal, mandil
-41D233|ropa para las piernas y calzado
-41D2331|medias, calcetines
-41D2332|zapatos, sandalias
-41D23321|botas
+#41D2321|apron
+#41D233|gear for legs and feet
+#41D2331|stockings, socks
+#41D2332|shoes, sandals
+#41D23321|boots
 #41D23322|slippers
-41D2333|zapatos de madera, zuecos
-41D2334|los pies calzados desigualmente
-41D23341|zapato y zapatilla, pantufla (los pies calzado desigualmente)
-41D23342|un pie calzado, el otro desnudo
+#41D2333|wooden shoes, clogs
+#41D2334|the feet shod unequally
+#41D23341|shoe and slipper (the feet shod unequally)
+#41D23342|one foot shod, the other bare
 #41D2335|accessories ~ shoes, e.g. insole, shoehorn, shoe-polish
-41D2339|descalzo
-41D24|ropa para propósitos especiales
-41D241|ropa para ocasiones oficiales
-41D2411|atributos dignatarios
-41D242|ropa de fiesta, atuendos festivos
-41D2421|mascarada, baile de disfrazes o de máscaras
-41D2422|fiesta elegante
-41D2423|trajes históricos
-41D24231|trajes usados en festividades
-41D243|vestimenta profesional
+#41D2339|barefoot
+#41D24|clothes for special purposes
+#41D241|clothes for official occasions
+#41D2411|attributes of dignitary
+#41D242|party clothes, festive attire
+#41D2421|masquerade, masked ball
+#41D2422|dress-up party
+#41D2423|historical costume
+#41D24231|costumes used in pageants
+#41D243|professional clothes
 #41D244|fantasy costume
-41D249|vestimenta para figuras esculpidas
-41D25|ropa interior y ropa de dormir
-41D251|ropa interior
-41D2511|ropa interior para todo el cuerpo
-41D2511(...)|ropa interior para todo el cuerpo (con NOMBRE)
-41D2512|ropa interior para la parte superior del cuerpo
-41D2512(...)|ropa interior para la parte superior del cuerpo (con NOMBRE)
+#41D249|clothes for sculptured figures
+#41D25|underclothes and nightwear
+#41D251|underclothes
+#41D2511|underclothes for the whole body
+#41D2511(...)|underclothes for the whole body (with NAME)
+#41D2512|underclothes for the upper part of the body
+#41D2512(...)|underclothes for the upper part of the body (with NAME)
 #41D2512(CORSET)|underclothes for the upper part of the body: corset
-41D2513|ropa interior para la parte baja del cuerpo
-41D2513(...)|ropa interior para la parte baja del cuerpo (con NOMBRE)
+#41D2513|underclothes for the lower part of the body
+#41D2513(...)|underclothes for the lower part of the body (with NAME)
 #41D2513(BLOOMERS)|underclothes for the lower part of the body: bloomers
-41D2513(CORSET)|ropa interior para la parte baja del cuerpo (con NOMBRE)
-41D252|ropa de dormir
-41D252(...)|ropa de dormir (con NOMBRE)
-41D252(NIGHT-CAP)|ropa de dormir (con NOMBRE)
-41D252(NIGHT-GOWN)|ropa de dormir (con NOMBRE)
-41D253|guatas y rellenos
-41D253(...)|guatas y rellenos (con NOMBRE)
-41D26|accesorios (vestimenta)
+#41D2513(CORSET)|underclothes for the lower part of the body: corset
+#41D252|nightwear
+#41D252(...)|nightwear (with NAME)
+#41D252(NIGHT-CAP)|nightwear: night-cap
+#41D252(NIGHT-GOWN)|nightwear: night-gown
+#41D253|paddings and fillings
+#41D253(...)|paddings and fillings (with NAME)
+#41D26|accessories (~ clothing)
 #41D26(...)|other clothing accessories (with NAME)
-41D261|pañuelo
-41D262|abanico
+#41D261|handkerchief
+#41D262|fan
 #41D2621|fan language
-41D263|bastón
-41D2631|paraguas
-41D2632|parasol, sombrilla
-41D264|sujetadores de ropa
-41D2641|broche, prendedor
-41D26411|alfiler, hebilla
-41D2642|botón
+#41D263|walking-stick, staff, cane
+#41D2631|umbrella
+#41D2632|parasol, sunshade
+#41D264|fasteners for clothes
+#41D2641|pin
+#41D26411|fibula, safety pin
+#41D2642|button
 #41D26421|stud, cuff link
-41D2643|corchetes; broche de presión
-41D2644|hebilla
-41D26441|cremallera, cierre
+#41D2643|hook-and-eye; press-stud
+#41D2644|buckle
+#41D26441|zip-fastener
 #41D2645|braces, suspenders
 #41D2646|zipper
-41D265|partes adornadas de la ropa
-41D2651|bordado (ornamentación)
-41D26511|bordado con hilo dorado
-41D26512|bordado con cuentas
-41D2652|encaje, puntilla
-41D2653|cenefa, cinta, trenza
-41D2654|lazo (parte adornada de la ropa)
-41D2655|corpiño
-41D2656|cinturón, faja, pretina
-41D2657|correa del hombro, bandolera
-41D266|adornos, joyas
-41D2661|collar
-41D26611|perla; collar de perlas
-41D26612|colgante, baratija, 'breloque'
-41D2662|brazalete, pulsera, muñequera
-41D26621|ajorca
-41D2663|aretes
-41D2664|anillo
-41D2665|broche, prendedor, cierre
-41D2666|diadema
-41D2668|joyero, alhajero
-41D267|monedero
-41D268|cartera
+#41D265|ornamental parts of clothing
+#41D2651|embroidery (ornamentation)
+#41D26511|gold-thread embroidery
+#41D26512|embroidery with beads
+#41D2652|lace
+#41D2653|border, ribbon, braid
+#41D2654|bow (ornamental part of clothing)
+#41D2655|corsage
+#41D2656|belt, girdle, waistband
+#41D2657|shoulder-belt, bandoleer
+#41D266|ornaments, jewels
+#41D2661|necklace
+#41D26611|pearl; pearl necklace
+#41D26612|pendant, trinket, 'breloque'
+#41D2662|bracelet, wristlet
+#41D26621|anklet
+#41D2663|ear-rings
+#41D2664|ring
+#41D2665|brooch, agraffe, clasp
+#41D2666|diadem, tiara
+#41D2668|jewel-box
+#41D267|purse, money-bag
+#41D268|bag
 #41D268(...)|bag (with NAME)
-41D269|terciopelo negro o máscara de raso, 'loup', 'cachenez'
-41D27|mercería, ropaje, 'Gewandgebung'
+#41D269|black velvet or satin mask, 'loup', 'cachenez'
+#41D27|drapery, draped garment, 'Gewandgebung'
 #41D271|fluttering lappet of vestment, 'Pneumazipfel'
 #41D28|disguise
-41D281|mujer vestida como hombre, travestí
-41D282|hombre vestico como mujer, travestí
-41D283|máscara
-41D29|vestido en harapos o andrajos o trapos
-41D3|traje folklórico, traje regional
-41D4|cuidado y lavado de ropa; costura casera
-41D41|cuidado de ropa, por ej.: cepillando, sacudiendo, aireando
+#41D281|woman dressed as man, travesty
+#41D282|man dressed as woman, travesty
+#41D283|mask
+#41D29|clothed in rags
+#41D3|folk costume, regional costume
+#41D4|care and laundering of clothes; home sewing
+#41D41|care of clothes, e.g.: brushing, beating, airing
 #41D411|hanging clothes
 #41D4111|clothes hanging on clothes hanger
 #41D4112|cloth(e)s hung over a pole
-41D42|lavando
-41D421|colgando lo lavado para que se seque
-41D4211|descolgando lo lavado
+#41D42|laundering
+#41D421|hanging the wash to dry
+#41D4211|taking down the wash
 #41D4212|laying the wash out to dry
-41D422|blanqueando (lavando)
-41D423|escurriendo
-41D424|planchando
-41D4241|plancha de hierro
+#41D422|bleaching (laundering)
+#41D423|mangling
+#41D424|ironing
+#41D4241|flat-iron
 #41D4242|ironing board
-41D425|limpiando al vapor (lavando)
-41D426|prensando (lavando)
-41D4261|escurrir
+#41D425|steaming (laundering)
+#41D426|pressing (laundering)
+#41D4261|mangle
 #41D427|accessories and implements ~ laundering, e.g. clothes-peg, drying frame, (empty) washing line
 #41D428|building or outbuilding where laundry is done
 #41D4281|wash house, home laundry, laundry room
 #41D4282|public wash house
-41D43|tiñendo (ropa)
-41D44|costura casera; reparar la ropa
-41D441|cociendo
-41D4411|aguja ~ costura
-41D4412|costurero
-41D4413|máquina de coser
-41D442|remendando, reparando
-41D4421|zurciendo, parchando
-41D443|(otras formas de) labores de aguja, por ej.: tejido a crochet, tejido de punto, bordado
-41D9|(mostrándose uno mismo) desvestido, casi desnudo
-41D91|hombre (mostrándose el mismo) desvestido, casi desnudo
-41D92|mujer (mostrándose ella misma) desvestica, casi desnuda
-41D921|escotado
-41D93|ser mostrado desvestido
-41D94|arropandóse con ropa
-41D99|ser avergonzado (de su desnudez)
-41D991|intendo de cubrir su desnudez
+#41D43|dyeing (clothes)
+#41D44|home sewing; repair of clothes
+#41D441|sewing
+#41D4411|needle ~ sewing
+#41D4412|sewing box
+#41D4413|sewing machine
+#41D442|mending, repairing ~ clothes
+#41D4421|darning, patching
+#41D443|(other forms of) needlework, e.g.: crocheting, knitting, embroidering
+#41D9|(showing oneself) undressed, quasi-nude
+#41D91|man (showing himself) undressed, quasi-nude
+#41D92|woman (showing herself) undressed, quasi-nude
+#41D921|'décolleté'
+#41D93|being shown undressed
+#41D94|tucking up one's clothes
+#41D99|being ashamed (of one's nakedness)
+#41D991|attempt to cover one's nakedness
 #41DD121|model, mannequin - DD - male model
-41E|naturaleza muerta de objetos misceláneos
-41E1|naturaleza muerta de objetos relacionados
-41E2|'trompe l'oeil'
-42|familia, descendencia
-42A|procreación, nacimiendo y juventud
-42A1|procreación y embarazo
-42A11|concepción, fecundación
-42A12|mujer embarazada
-42A121|feto
-42A13|trato y comportamiento de una mujer embarazada
-42A131|relevo del trabajo (de la mujer embarazada)
-42A132|náusea, mareos (de la mujer embarazada)
-42A133|(mujer embarazada) tomando alimentos especiales
+#41E|still life of miscellaneous objects
+#41E1|still life of related objects
+#41E2|'trompe l'oeil'
+#42|family, descendance
+#42A|procreation, birth and (early) youth
+#42A1|procreation and pregnancy
+#42A11|conception, impregnation
+#42A12|pregnant woman
+#42A121|foetus
+#42A13|treatment and behaviour of the pregnant woman
+#42A131|relief from work (pregnant woman)
+#42A132|nausea, giddiness (of pregnant woman)
+#42A133|(pregnant woman) taking special food
 #42A134|pregnant woman taking a fright, so-called maternal impression (Dutch: 'verzien')
-42A1341|niño con las marcas de la impresión materna
-42A14|paternindad
-42A18|fertilidad
-42A19|esterilidad
-42A190|'Sterilità' (Ripa)
-42A191|desear niños
-42A192|métodos de inducir la concepción y de contrarrestar la infecundidad y esterilidad
-42A193|control de nacimiento
-42A2|parto, nacimiento
-42A21|cuarto de parto
-42A211|mujer dando a luz (parto)
-42A2111|mujer dando a luz (en cuclillas)
-42A2112|mujer dando a luz (en silla de parto)                   )
-42A2119|nacimiento díficil e inusual
-42A21191|uso de fórceps (nacimiento díficil e inusual)
-42A21192|cesárea (nacimiento díficil e inusual)
-42A21193|nacimiento prematuro
+#42A1341|child with the marks of maternal impression
+#42A14|paternity, fatherhood
+#42A18|fertility
+#42A19|sterility; barren woman
+#42A190|'Sterilità' (Ripa)
+#42A191|desire for children
+#42A192|methods of inducing conception and of counteracting barrenness and sterility
+#42A193|birth control
+#42A2|confinement, birth
+#42A21|lying-in room
+#42A211|woman giving birth (lying-in)
+#42A2111|woman giving birth (squatting)
+#42A2112|woman giving birth (in accouchement chair)
+#42A2119|difficult and unusual birth
+#42A21191|use of forceps (difficult and unusual birth)
+#42A21192|Caesarian section (difficult and unusual birth)
+#42A21193|premature birth
 #42A21194|caul birth
 #42A212|the new-born child
-42A2121|iniciación de la respiración, el primer llanto
-42A2122|cortando el cordón umbilical
-42A2123|placenta
-42A213|mostrar el niño recien nacido al padre
-42A214|los primeros cuidados del bebé recién nacido
-42A22|visitando a la nueva mamá, visita a una parturienta
+#42A2121|initiation of respiration, the first cry
+#42A2122|cutting the umbilical cord
+#42A2123|placenta
+#42A213|the new-born child shown to the father
+#42A214|first care of new-born baby
+#42A22|visiting the new mother, lying-in visit
 #42A221|announcement of birth
 #42A23|tokens to denote the house of a woman in child-bed
-42A24|partera, 'accoucheuse'
-42A241|obstetricia, 'accoucheur'
+#42A24|midwife, 'accoucheuse'
+#42A241|obstetrician, 'accoucheur'
 #42A25|dry-nurse
 #42A251|nursing-chair (Dutch: 'bakermat')
 #42A252|baby in swaddling clothes
-42A2521|envolviendo al bebé
-42A26|gemelos, mellizos
-42A261|(hermanos) siameses
-42A27|trillizos, cuatrillizos, quintillizos, etc.
-42A27(...)|trillizos, cuatrillizos, quintillizos,etc. (con NUMERO de hermanos)
-42A28|lugares falsos donde crecen los bebes
-42A281|aportadores falsos de bebes
-42A2811|seres sobrenaturales como aportadores de bebes
-42A2812|hombres como aportadores de bebes
-42A2813|animales como aportadores de bebes
-42A29|aborto
-42A291|abortista
-42A299|mujer dando a luz un animal o monstruo (leyenda)
-42A3|madre y bebé o niño pequeño
-42A30|maternidad
-42A31|atendiendo, lactando
-42A311|amamantar
-42A312|niño amamantado por un animal
-42A32|alimentando al bebé
-42A33|lavando y cambiando al bebé
-42A331|pañal (lavando y cambiando al bebé)
-42A34|bañando al bebé
-42A35|vistiendo al bebé
-42A351|peinando el cabello del bebé
-42A36|madre jugando con el bebé (acariciándolo, meciéndolo, cantándole)
-42A361|meciendo al bebé
-42A362|cantando canciones de cuna
-42A37|mirando a un niño dormido
-42A4|bebé
-42A41|mobiliario para bebes
-42A411|cuna
-42A412|silla del bebe
-42A413|corral
-42A42|coche del bebé, cochecito, carriola
-42A421|otros métodos de cargar niños
-42A4211|cargando un niño sobre la espalda
-42A4212|cargando un niño sobre las caderas, horcajadas
+#42A2521|swaddling the baby
+#42A26|twins
+#42A261|Siamese twins
+#42A27|triplets, quadruplets, quintuplets, etc.
+#42A27(...)|triplets, quadruplets, quintuplets, etc. (with NUMBER of siblings)
+#42A28|pretended places where the babies grow
+#42A281|pretended bringers of babies
+#42A2811|supernatural beings as bringers of babies
+#42A2812|men as bringers of babies
+#42A2813|animals as bringers of babies
+#42A29|miscarriage, abortion
+#42A291|abortionist
+#42A299|woman giving birth to animal or monster (legendary)
+#42A3|mother and baby or young child
+#42A30|motherhood
+#42A31|nursing, suckling
+#42A311|wet-nurse
+#42A312|child suckled by an animal
+#42A32|feeding a baby
+#42A33|washing and changing baby
+#42A331|napkin (~ washing and changing baby)
+#42A34|bathing baby
+#42A35|dressing baby
+#42A351|combing baby's hair
+#42A36|mother playing with baby (fondling, dandling, crooning)
+#42A361|rocking the baby
+#42A362|singing lullabies
+#42A37|watching a sleeping child
+#42A4|infant, baby
+#42A41|furniture for babies
+#42A411|cradle, crib
+#42A412|baby-chair
+#42A413|play-pen
+#42A42|baby-carriage, pram, perambulator
+#42A421|other methods of carrying children
+#42A4211|carrying a child on the back
+#42A4212|carrying a child on the hip, astride
 #42A4213|carrying a child on the head (in a cradle or basket)
-42A43|dentición
-42A431|el primer diente
-42A432|anillo de dentición
+#42A43|dentition, teething
+#42A431|the first tooth
+#42A432|teething ring
 #42A44|weaning a child
-42A441|consolar, reconfortar
-42A45|sonaja (juguete del niño)
-42A46|tomando cuidado de niños
-42A461|cuidado de los padres
-42A462|niñera
-42A5|niño (en el hogar)
-42A50|'Pueritia' (Ripa)
-42A51|niño pequeño
-42A511|aprendiendo a caminar, sus primeros pasos
-42A5111|gateando (niño pequeño aprendiendo a caminar)
-42A5112|implementos para apreder a caminar, andador
-42A5113|protector para la cabeza (~ aprendiendo a caminar)
-42A512|aprendiendo a hablar
-42A52|niño pequeño jugando; niño entreteniéndose el mismo
-42A53|cuidados higiénicos de los niños
-42A54|malos hábitos
-42A541|comiéndose las uñas
-42A542|chupándose el dedo
-42A55|pesares de la infancia
-42A551|pesares consolados de la infancia
-42A552|niño fugado
-42A5521|buscando y encontrando un niño fugado
-42A553|regreso de un niño fugado
-42A56|creciendo
-42A561|midiendo el niño
-42A562|niño mudando los dientes
-42A57|tareas desempeñadas por niños
-42A571|niño llevando recados
-42A58|Pedro el greñudo
-42A59|cuco
+#42A441|comforter (weaning)
+#42A45|rattle (child's toy)
+#42A46|taking care of children
+#42A461|parental care
+#42A462|baby-sitter
+#42A5|child (at home)
+#42A50|'Pueritia' (Ripa)
+#42A51|toddler
+#42A511|learning to walk, the first steps
+#42A5111|crawling (toddler learning to walk)
+#42A5112|implements for learning to walk, go-cart
+#42A5113|head-protector (~ learning to walk)
+#42A512|learning to talk
+#42A52|playing toddler; child amusing itself
+#42A53|hygienic care of children
+#42A54|bad habits
+#42A541|nail-biting
+#42A542|thumb-sucking
+#42A55|childhood sorrows
+#42A551|childhood sorrows comforted
+#42A552|runaway child
+#42A5521|searching and finding of runaway child
+#42A553|return of runaway child
+#42A56|growing up
+#42A561|measuring the child
+#42A562|child shedding its teeth
+#42A57|tasks performed by children
+#42A571|child running errands
+#42A58|shock-headed Peter, 'Struwwelpeter'
+#42A59|bogey-man, bugaboo
 #42AA19|sterility; barren woman - AA - sterile man
 #42AA190|'Sterilità' (Ripa) - AA - sterile man
 #42AA191|desire for children - AA - sterile man
@@ -1119,203 +1123,203 @@
 #42AA571|child running errands - AA - girl
 #42AA58|shock-headed Peter, 'Struwwelpeter' - AA - girl
 #42AA59|bogey-man, bugaboo - AA - girl
-42B|padres con sus niños
-42B1|amor de los padres
-42B11|amor de padre
-42B111|padre con hijo(s) (amor de padre)
-42B112|padre con hija() (amor de padre)
-42B113|padre con hijo(s) e hija(s) (amor de padre)
-42B12|amor de madre
-42B121|madre con hijo(s) (amor de madre)
-42B122|madre con hija(s) (amor de madre)
-42B123|madre con hijo(s) e hija(s) (amor de madre)
-42B2|ausencia de amor de padres
-42B20|'Oblivione d'amore verso i gigliuoli' (Ripa)
-42B21|renegando a un niño
-42B22|padres adoptivos
-42B221|padrastro
-42B222|madrastra
-42B29|matando a un niño (ausencia de amor de padres)
-42B3|incluimiento (y adopción)
-42B31|abandonando, exponiendo un niño
-42B311|separando un niño de su madre
+#42B|parents with their children
+#42B1|parental love
+#42B11|father-love
+#42B111|father with son(s) (father-love)
+#42B112|father with daughter(s) (father-love)
+#42B113|father with son(s) and daughter(s) (father-love)
+#42B12|mother-love
+#42B121|mother with son(s) (mother-love)
+#42B122|mother with daughter(s) (mother-love)
+#42B123|mother with son(s) and daughter(s) (mother-love)
+#42B2|absence of parental love
+#42B20|'Oblivione d'amore verso i figliuoli' (Ripa)
+#42B21|disowning a child
+#42B22|foster-parents
+#42B221|stepfather
+#42B222|stepmother
+#42B29|killing a child (absence of parental love)
+#42B3|foundling (and adoption)
+#42B31|abandoning, exposing a child
+#42B311|child torn away from its mother
 #42B312|changeling, substituting a (new-born) child for another child
-42B32|encontrando un niño expuesto
-42B321|adopción (de un niño)
-42B3210|'Adottione' (Ripa)
-42B322|legitimación
-42B33|el incluimiento o el niño adoptado y sus padres adoptivos
-42B34|el incluimeinto o el niño adoptado buscando a sus padres
-42B35|el reconocimiento (o incluimiento por los padres)
-42B351|medios de identificación (o inclusión)
-42B36|niño ilegitimo, bastardo
-42B361|indagaciones sobre la paternidad
-42B362|madre soltera
-42B4|amor filial, 'Pietas filiorum'
-42B40|'Pietà de figliuoli verso il padre' (Ripa)
+#42B32|finding an exposed child
+#42B321|adoption (of a child)
+#42B3210|'Adottione' (Ripa)
+#42B322|legitimation (at marriage children are taken under the cloak)
+#42B33|the foundling or the adopted child and its foster-parents
+#42B34|the foundling or the adopted child searching for its parents
+#42B35|the recognition (of foundling by the parents)
+#42B351|means of identification (of foundling)
+#42B36|illegitimate child, bastard
+#42B361|inquiry into the paternity
+#42B362|unmarried mother
+#42B4|filial love, 'Pietas filiorum'
+#42B40|'Pietà de figliuoli verso il padre' (Ripa)
 #42B41|Pero suckling Cimon ('Caritas romana')
-42B42|hija lactando de madre anciana (variación de 'Caritas romana')
-42B43|padres rescatando (en particular llevandolo en la espalda)
-42B5|ausencia de amor filial
-42B51|padres pobres, niños ricos (ausencia de amor filial)
-42B52|historia del gualdrapa (ausencia de amor filial)
-42B53|disparando al cadáver del padre: dos herederas rivales son forzadas por un juez a disparar una flecha a un cadáver; la falsa heredera no titubea en hacerlo, la verdadera, sabiendo que dispararía a su padre, se rehusa
+#42B42|daughter suckling old mother (variation of 'Caritas romana')
+#42B43|rescuing parents (in particular carrying on the back)
+#42B5|absence of filial love
+#42B51|poor parents, rich children (absence of filial love)
+#42B52|story of the horse-blanket (absence of filial love)
+#42B53|shooting at father's corpse: two rival heirs are forced by a judge to shoot an arrow at a corpse; the false heir does not hesitate to do so, the true one, knowing that he will be shooting at his father, refuses
 #42B54|parricide, killing a parent (or another close relative)
 #42B541|killing one's father
 #42B542|killing one's mother
-42B6|huérfanos
-42B61|guardián
-42B610|'Tutela' (Ripa)
-42B7|vida familiar
-42B71|vida familiar en el hogar
-42B72|la familia viajando en vacaciones
-42B73|vida familiar en otras circunstancias que en el hogar o en vacaciones
-42B74|grupo familiar, especialmente padres con sus niño(s)
-42B74(...)|grupo familiar, especialmente padres con sus niño(s) (con NUMERO de niño(s)
-42B741|padre y niño(s), hombre y niño(s) (grupo familiar)
-42B741(...)|padre y niño(s), hombre y niño(s) (grupo familiar) (con NUMERO de niños)
-42B7411|padre e hijo(s) (grupo familiar)
-42B7411(...)|padre e hijo(s) (grupo familiar) (con NUMERO de hijos)
-42B7412|padre e hija(s) (grupo familia)
-42B7412(...)|padre e hija(s) (grupo familiar) (con NUMERO de hijas)
-42B742|madre y niño(s), mujer y niño(s) (grupo familiar)
-42B742(...)|madre y niño(s), mujer y niño(s) (grupo familiar) (con número de niños)
-42B7421|madre e hijo(s) (grupo familiar)
-42B7421(...)|madre e hijo(s) (grupo familiar) (con número de hijos)
-42B7422|madre e hija(s) (grupo familiar)
-42B7422(...)|madre e hija(s) (grupo familiar) (con número de hijas)
-42B75|niño(s)con otros miembros de la familia
-42B751|abuelo(s) con nieto(s) (grupo familiar)
-42B76|niño(s) con uno o ambos padres y uno o más miembros de la generación anterior (grupo familiar)
-42B761|tres generaciones (grupo familiar)
-42B762|cuatro generaciones (grupo familiar)
-42B8|corrección de niños traviesos
-42B81|dar una paliza, una zurra (a niños traviesos)
-42B82|dar un sopapo (a niños traviesos)
-42B821|jalando las orejas (a niños traviesos)
-42B83|el niño bueno contra el niño travieso
-42B831|el niño bueno
-42B832|el niño travieso
-42B9|niño (hombre joven, mujer joven) dejando a sus padres
-42C|periodo de la adolescencia
-42C1|iniciación de costumbres para el hombre joven
-42C2|iniciación de costumbres para la mujer joven
-42C21|'débutante'
-42C3|soltera contra casada
-42D|esponsales y matrimonio
-42D1|esponsales
-42D11|proposición, declaración de amor
-42D111|hombre arrodillandose ante su amada (proponiédole)
-42D119|ser rehusado, propuesta rechazada
-42D12|el consentimiento (del matrimonio)
-42D129|rompimiento de el noviazgo
-42D13|pidiendo la mano a los padres de la novia
-42D131|evaluando al partido
-42D132|agente matrimonial
-42D14|hombre presentando su novia a sus padres
-42D141|presentando la novia al hombre
-42D1411|presentando al hombre un retrato de la novia
-42D142|presentando el novia a la mujer
-42D1421|presentando a la mujer un retrato del novio
-42D15|consentimiento de los padres ~ matrimonio
-42D16|contrato matriomonial
-42D17|regalo de matrimonio
-42D171|regalo de matrimonio del novio a la novia
+#42B6|orphans
+#42B61|guardian
+#42B610|'Tutela' (Ripa)
+#42B7|family life
+#42B71|family life at home
+#42B72|the family travelling, on holiday
+#42B73|family life in other circumstances than at home or on holiday
+#42B74|family group, especially parents with their child(ren)
+#42B74(...)|family group, especially parents with their child(ren) (with NUMBER of children)
+#42B741|father and child(ren), man and child(ren) (family group)
+#42B741(...)|father and child(ren), man and child(ren) (family group) (with NUMBER of children)
+#42B7411|father and son(s) (family group)
+#42B7411(...)|father and son(s) (family group) (with NUMBER of sons)
+#42B7412|father and daughter(s) (family group)
+#42B7412(...)|father and daughter(s) (family group) (with NUMBER of daughters)
+#42B742|mother and child(ren), woman and child(ren) (family group)
+#42B742(...)|mother and child(ren), woman and child(ren) (family group) (with NUMBER of children)
+#42B7421|mother and son(s) (family group)
+#42B7421(...)|mother and son(s) (family group) (with NUMBER of sons)
+#42B7422|mother and daughter(s) (family group)
+#42B7422(...)|mother and daughter(s) (family group) (with NUMBER of daughters)
+#42B75|child(ren) with other members of the family
+#42B751|grandparent(s) with grandchild(ren) (family group)
+#42B76|child(ren) with one or both parents and one or more members of the preceding generation (family group)
+#42B761|three generations (family group)
+#42B762|four generations (family group)
+#42B8|correction of naughty children
+#42B81|spanking, drubbing (of naughty children)
+#42B82|boxing the ears (of naughty children)
+#42B821|pulling the ears (of naughty children)
+#42B83|the good child versus the naughty child
+#42B831|the good child
+#42B832|the naughty child
+#42B9|child (young man, young woman) leaving his (her) parents
+#42C|period of adolescence
+#42C1|initiation usages for young men
+#42C2|initiation usages for young women
+#42C21|'débutante'
+#42C3|maiden versus married woman
+#42D|betrothal and marriage
+#42D1|betrothal
+#42D11|proposal, declaration of love
+#42D111|man kneeling before his beloved (proposing)
+#42D119|being refused, the proposal rejected
+#42D12|the consent (of marriage)
+#42D129|breaking off the engagement
+#42D13|requesting the bride's parents' permission
+#42D131|weighing the match
+#42D132|marriage broker
+#42D14|man presenting his fiancée to his parents
+#42D141|presenting the bride to the man
+#42D1411|presenting a portrait of the bride to the man
+#42D142|presenting the bridegroom to the woman
+#42D1421|presenting a portrait of the bridegroom to the woman
+#42D15|parental agreement ~ marriage
+#42D16|marriage contract
+#42D17|wedding-gift
+#42D171|wedding-gift from groom to bride
 #42D1711|lovers' casket, 'Minnekästchen'
-42D1712|anillo de matrimonio
-42D172|dote
-42D18|mujer dada por un hombre a otro hombre, cediendo a su amada
-42D19|despedida de soltero
-42D2|ceremonia matrimonial (civil
+#42D1712|wedding ring
+#42D172|dowry
+#42D18|woman given by one man to another man, yielding one's beloved
+#42D19|bachelor's party
+#42D2|(civil) marriage ceremonies
 #42D21|bride and groom in wedding-dress
 #42D211|groom (in wedding-dress)
-42D212|novia (en traje de novia)
-42D2121|corona nupcial, guirnalda de flores nupcial
-42D2122|vistiendo a la novia
-42D21221|cubriendo a la novia con el velo
-42D213|encuentro de la novia y el novio; novia llamando al novio
+#42D212|bride (in wedding-dress)
+#42D2121|bridal wreath, bridal chaplet
+#42D2122|dressing the bride
+#42D21221|veiling the bride
+#42D213|meeting of bride and groom; groom calling for bride
 #42D214|members of bridal party
 #42D2141|best man
 #42D2142|bridesmaid
 #42D2143|bride's pageboy
-42D22|bendiciones y advertencias de los padres
-42D221|elección díficil entre el hogar paternal y el futuro
-42D23|partida del hogar paternal
-42D231|hombre secuestrando a una mujer
-42D2311|captura de la esposa
-42D232|fuga, escaparse
-42D233|intercambio o canje de novias
-42D24|ceremonia del matrimonio civil
-42D241|firmando el registro ~ matriomonio
-42D242|ceremonia matrimonial irregular (p.ej.:Gretna Green)
-42D243|recepción matrimonial
-42D25|banquete o agasajo matrimonial
-42D251|llegada de la novia y el novio al agasajo matrimonial
-42D252|torta matrimonial
-42D253|bailando en el agasajo matrimonial
-42D254|celebración del aniversario de bodas
-42D2541|bodas de cobre
-42D2542|bodas de plata
-42D2543|bodas de oro
-42D2544|bodas de diamante
-42D26|viaje de bodas, luna de miel
-42D261|partida (para la luna de miel)
+#42D22|parental blessings and admonitions
+#42D221|difficult choice between the paternal home and the future
+#42D23|departure from the paternal home
+#42D231|man abducting woman
+#42D2311|wife-capture
+#42D232|elopement, running away
+#42D233|exchange of brides
+#42D24|civil marriage ceremony
+#42D241|signing the registry ~ marriage
+#42D242|irregular wedding ceremony (e.g.: Gretna Green)
+#42D243|wedding reception
+#42D25|wedding feast, wedding meal
+#42D251|arrival of bride and bridegroom at the wedding feast
+#42D252|wedding-cake
+#42D253|dancing at wedding feast
+#42D254|wedding anniversary celebration
+#42D2541|copper anniversary
+#42D2542|silver anniversary
+#42D2543|golden anniversary
+#42D2544|diamond anniversary
+#42D26|wedding trip, honeymoon
+#42D261|departure (for honeymoon)
 #42D2611|throwing something after the married couple, e.g. shoes, rice, confetti
-42D262|'al final solos'
-42D27|la noche de bodas
-42D271|guiando la novia hacia la cama
-42D2711|purificación de (baño) de la novia
-42D2712|desfloración (de la novia)
-42D2713|novia renuante
-42D272|inquietadores (~ a la noche de bodas)
-42D273|despertar de la novia
-42D274|evidencia de la virginidad
-42D279|'jus primae noctis'
-42D3|casamiento, pareja casada, 'matrimonio'
-42D30|'Castità matrimoniale', 'Fede maritale', 'Matrimonio' (Ripa)
-42D31|pareja desigual, pareja mal formada
-42D311|un matrimonio de edad diferente
-42D3111|tercera persona (burlándose, desaprobando, molestando, etc.) al matrimonio de edad diferente
-42D312|un matrimonio de desigual riqueza
-42D3121|tercera persona (burlándose, desaprobando, molestando, etc.) al matrimonio de desigual riqueza
-42D313|un matrimonio de difentente tamaño
-42D314|un matrimonio de desigual condición física
-42D32|sátira en el matrimonio
-42D321|matrimonio como trampa, engaño, etc.
-42D322|batalla para dominar en el matrimonio ('quién lleva los pantalones')
-42D323|vida de casado contra vida de soltero
-42D33|matrimonio feliz
-42D330|'Benevolenza et Unione matrimoniale, 'Concordia maritale' (Ripa)
-42D331|marido ideal
-42D332|esposa ideal
-42D34|la pareja dominante
-42D341|marido dominante
-42D342|esposa dominante
-42D3421|marido dominado por su mujer, un saco largo
-42D3422|'Bigorne et Chiceface'
-42D35|mal marido
-42D351|marido y mujer peleándose, 'Matrimonio a la moda'
-42D352|reconciliación de marido y mujer
-42D36|mala esposa
-42D37|pareja engañada
-42D371|con tercera persona no deseada
-42D38|'ménage à trois'
-42D39|adulterio
-42D390|'Adulterio' (Ripa)
-42D391|adultero
-42D392|adulterio vengado
-42D3921|prueba de la inocencia (~ adulterio)
-42D4|después de la muerte de uno de la pareja casada
-42D41|viudo
-42D42|viuda
-42D429|la viuda de Efeso
-42D43|segundo matrimonio (de la viuda o el viudo)
-42D431|segundo matrimonio del viudo
-42D432|segundo matrimonio de la viuda
-42D5|divorcio
-42D6|repudiando a su esposa
-42D7|amante
-42D71|concubina
+#42D262|'alone at last'
+#42D27|the wedding night
+#42D271|leading the bride to bed
+#42D2711|purification of the bride (bath)
+#42D2712|defloration (of the bride)
+#42D2713|reluctant bride
+#42D272|disturbers (~ wedding night)
+#42D273|awakening of the bride
+#42D274|evidence of virginity
+#42D279|'jus primae noctis'
+#42D3|marriage, married couple, 'matrimonium'
+#42D30|'Castità matrimoniale', 'Fede maritale', 'Matrimonio' (Ripa)
+#42D31|unequal couple, ill-matched couple
+#42D311|married couple of unequal age
+#42D3111|third party (mocking, disapproving, disturbing, etc.) ~ married couple of unequal age
+#42D312|married couple of unequal wealth
+#42D3121|third party (mocking, disapproving, disturbing, etc.) ~ married couple of unequal wealth
+#42D313|married couple of unequal size
+#42D314|married couple of unequal health
+#42D32|satire on marriage
+#42D321|marriage as trap, snare, etc.
+#42D322|battle for dominance in marriage ('who wears the breeches')
+#42D323|married life versus unmarried life
+#42D33|happy marriage
+#42D330|'Benevolenza et Unione matrimoniale', 'Concordia maritale' (Ripa)
+#42D331|ideal husband
+#42D332|ideal wife
+#42D34|the dominating partner
+#42D341|dominating husband
+#42D342|dominating wife
+#42D3421|hen-pecked husband
+#42D3422|'Bigorne et Chiceface'
+#42D35|bad husband
+#42D351|man and wife quarrelling, 'Marriage à la mode'
+#42D352|reconciliation of man and wife
+#42D36|bad wife
+#42D37|partner deceived
+#42D371|with the unwanted third party
+#42D38|'ménage à trois'
+#42D39|adultery
+#42D390|'Adulterio' (Ripa)
+#42D391|adulterer
+#42D392|adultery revenged
+#42D3921|test of innocence (~ adultery)
+#42D4|after the death of one of the married couple
+#42D41|widower
+#42D42|widow
+#42D429|the Widow of Ephesus
+#42D43|second marriage (of widow or widower)
+#42D431|second marriage of widower
+#42D432|second marriage of widow
+#42D5|divorce
+#42D6|repudiating one's wife
+#42D7|mistress
+#42D71|concubine
 #42D9|being unmarried
 #42D91|single man, bachelor
 #42D92|single woman, spinster
@@ -1345,332 +1349,332 @@
 #42DD5|divorce - DD - married woman given to another man, e.g. by her father
 #42DD7|mistress - DD - cicisbeo
 #42DD71|concubine - DD - cicisbeo
-42E|ritos funerarios
-42E1|preparación del cadáver, arreglo personal del cadáver ~ funerales
-42E11|lavando y vistiendo al cadáver
-42E111|mortaja
-42E112|cubriendo el cadáver
-42E12|el cadáver colocado en andas
-42E121|paño mortuorio, 'pannus funeralis'
-42E1211|placa funeral
-42E122|yaciendo en capilla ardiente
-42E13|velorio ~ ritos funerales
-42E131|llorando la muerte
-42E132|lamentación (~ ritos funerales)
-42E1321|mujeres llorando, gimiendo
-42E14|colocando el cadáver en el ataúd, en el féretro
-42E141|ataúd, féretro
+#42E|burial rites
+#42E1|preparation of the corpse, mortuary toilet ~ burial
+#42E11|washing and dressing of the corpse
+#42E111|shroud
+#42E112|covering the corpse
+#42E12|the corpse placed on a bier
+#42E121|hearse-cloth, hearse-pall, 'pannus funeralis'
+#42E1211|funeral shield
+#42E122|lying in state
+#42E13|vigils and wakes ~ burial rites
+#42E131|mourning the dead
+#42E132|lamentation (~ burial rites)
+#42E1321|wailing-women
+#42E14|placing the corpse in the coffin
+#42E141|coffin
 #42E142|placing something in or on the coffin, e.g. flowers, wedding-ring
-42E15|embalsando, momificación del cadáver
-42E151|momia
-42E152|preparación de las partes del cuerpo
-42E16|otras formas de preparar el cadáver
-42E17|mascarilla
-42E18|efigie funeral
-42E19|violación de el cadáver
-42E191|mutilación de el cadáver
-42E192|ejecución de castigo del cadáver
-42E193|despojando al cadáver de algo valioso o de vestiduras
-42E194|necrofilia
-42E2|ceremonia fúnebre
-42E21|anuncio de muerte
-42E211|anuncio verbal (de muerte), persona que trabaja en una funeraria
-42E212|tarjeta de defunción, noticia de muerte, acta de defunción
-42E213|medalla conmemorativa
-42E214|funeraria
-42E22|cortejo fúnebre
-42E221|coche fúnebre, carroza fúnebre
-42E222|carruaje funerario
+#42E15|embalming, mummification of the corpse
+#42E151|mummy
+#42E152|preparation of parts of the body
+#42E16|other forms of preparing the corpse
+#42E17|death-mask
+#42E18|funeral effigy
+#42E19|violation of the corpse
+#42E191|mutilation of the corpse
+#42E192|execution of punishment on corpse
+#42E193|despoiling corpse of its valuables or vestments
+#42E194|necrophily
+#42E2|funerary ceremonial
+#42E21|announcement of death
+#42E211|oral announcement (of death), undertaker's man
+#42E212|mourning card, death notice, obituary
+#42E213|memorial medal
+#42E214|funeral parlour
+#42E22|cortege, funeral procession
+#42E221|hearse, funeral car
+#42E222|funeral carriages
 #42E223|litter, coffin rest
-42E224|'pleurants'
-42E23|entierro
-42E231|abertura de la tumba, exhumación
-42E232|volver a enterrar
-42E24|discurso en la tumba abierta
-42E241|plegarias fúnebres
+#42E224|'pleurants'
+#42E23|burial
+#42E231|opening of grave, exhumation
+#42E232|re-burial
+#42E24|address at open grave
+#42E241|funeral prayers
 #42E242|throwing something into the open grave
-42E25|incinerar, cremación
-42E26|regreso del funeral
-42E261|comida en el funeral, cena para los dolientes
-42E27|especialista de la morgue
-42E271|director de una funeraria
-42E272|sepulturero, enterrador
-42E273|guardián del cementerio
+#42E25|body-burning, cremation
+#42E26|return from the funeral
+#42E261|funeral repast, mourners' meal
+#42E27|mortuary specialists
+#42E271|undertaker, mortician
+#42E272|grave digger
+#42E273|cemetery guard
 #42E274|burial association
-42E28|destrucción de los bienes del muerto (mujer, caballos, sirvientes, etc. son asesinados después de la muerte de patrón)
-42E281|persona en lecho de muerte con sus bienes destruidos
-42E3|sepultura, tumba y otros tipos de sepulturas e indicadores de sepulturas
-42E31|sepultura, tumba
-42E311|lápida
-42E3111|lápida vertical
-42E3112|lápida horizontal
-42E3113|otros tipos de indicadores de sepulturas, por ej. cruz
-42E312|epitafio
+#42E28|destruction of possessions of the deceased (women, horses, servants, etc. are killed after the death of the master)
+#42E281|person on deathbed having his possessions destroyed
+#42E3|grave, tomb and other grave-forms and grave-markers
+#42E31|grave, tomb
+#42E311|gravestone, tombstone
+#42E3111|upright gravestone
+#42E3112|flat, horizontal gravestone
+#42E3113|other kinds of grave-markers, e.g. cross
+#42E312|epitaph
 #42E32|niche-tomb, wall-tomb
 #42E321|grave hollowed out of rock
 #42E33|sarcophagus
 #42E331|lid of sarcophagus
-42E34|urna
-42E35|mausoleo
-42E351|efigie, 'gisant' (estatua o fotografía sobre un ataúd cerrado o en 'castrum doloris'), transi
-42E3511|efigie representando el estado de media descomposición
-42E36|otras estructuras conmemorativas
-42E361|aguja, obelisco (señalando la sepultura)
-42E362|columna (señalando la sepultura)
-42E363|piramide (señalando la tumba)
-42E37|formas antiguas de sepulturas
-42E371|formas de sepulturas prehistóricas
-42E3711|túmulo funerario
-42E3712|tumba megalítica, dolmen
-42E372|formas de sepulturas históricas
-42E3721|mastaba
-42E3722|pirámide (forma de sepultura histórica)
-42E3723|mausoleo
+#42E34|urn
+#42E35|grave-building, monumental tomb
+#42E351|effigy, 'gisant' (portrait-figure on closed coffin or in 'castrum doloris'), transi
+#42E3511|effigies portraying half-decayed state
+#42E36|other memorial structures
+#42E361|needle, obelisk (marking grave)
+#42E362|column (marking grave)
+#42E363|pyramid (marking grave)
+#42E37|ancient grave forms
+#42E371|prehistoric grave forms
+#42E3711|burial mound
+#42E3712|megalithic chambered tomb, dolmen
+#42E372|historical grave forms
+#42E3721|mastaba
+#42E3722|pyramid (historical grave form)
+#42E3723|mausoleum
 #42E373|exotic burial customs
 #42E3731|tree-burial
 #42E3732|abandonment (exotic burial customs)
-42E38|signos, simbolos y motivos en el arte funeraio
-42E39|sepultro vacío, cenotafio
-42E4|culto a la muerte
-42E41|costumbres de duelo o luto
-42E411|vestimenta de luto
-42E42|canto fúnebre
-42E43|cementerio, panteón
-42E431|necrópolis
-42E4311|catacumbas
-42E432|cementerio (alrededor de la iglesia)
-42E433|fosa común
+#42E38|signs, symbols and motifs in funerary art
+#42E39|sham-grave, cenotaph
+#42E4|cult of the dead
+#42E41|mourning customs
+#42E411|mourning dress
+#42E42|dirge
+#42E43|churchyard, cemetery
+#42E431|necropolis
+#42E4311|catacombs
+#42E432|churchyard (around church)
+#42E433|mass-grave
 #42E434|cemetery, park-like burying ground
-42E435|osario
-42E44|cuidado y visita al cementerio
-42E441|dejando flores o una corona sobre la tumba
-42E442|descubrimiento de una tumba
-42E45|tarjeta 'In memoriam'
-42E49|profanación de la tumba
-42E491|robando el cádaver de la sepultura
-42E4911|profanadores de tumba
-42E5|reajustes sociales al morir
-42E51|disposición de los bienes del difunto
-42E52|abriendo y leyendo el testamento
-42E53|redistribución de propiedades
-42E531|herencia
-42E5311|reliquia
-42E532|heredero-a
-42E5321|discución entre herederos
-42E54|provisiones para sostén de la esposa e hijos
-42E541|seguro (provision para sostén de la esposa e hijos)
+#42E435|charnelhouse, ossuary
+#42E44|care and visitation of burial place
+#42E441|laying flowers or wreath on grave
+#42E442|discovery of tomb
+#42E45|'In memoriam'-card
+#42E49|desecration of grave
+#42E491|stealing the corpse from the grave
+#42E4911|body-snatchers
+#42E5|social readjustments to death
+#42E51|disposition of the possessions of the deceased
+#42E52|opening and reading of testament
+#42E53|redistribution of properties
+#42E531|inheritance
+#42E5311|heirloom
+#42E532|heir
+#42E5321|quarrelling heirs
+#42E54|provisions for support of spouse and children
+#42E541|insurance (provision for support of spouse and children)
 #42EE224|'pleurants' - EE - female
-42F|administración doméstica, ama de casa trabajando
-42F0|Economía; 'Economia', 'Providenza dell'annona' (Ripa)
-42F1|ama de casa
-42F11|ama de casa dando ordenes a los sirvientes
-42F12|ama de casa inspeccionando la casa y los bienes
-42F13|ama de casa distribuyendo la comida
-42F19|'Betty', 'Molly' (hombre ocupado en trabajo de mujeres)
-42F2|haciendo compras (~ administración doméstica)
-42F3|tareas domésticas
-42F31|limpiando (la casa)
-42F311|sacudiendo
-42F312|puliendo (~ limpiando la casa)
-42F313|limpiando las ventanas
+#42F|household management; housewife at work
+#42F0|Economy; 'Economia', 'Providenza dell'annona' (Ripa)
+#42F1|housewife
+#42F11|housewife giving orders to servants
+#42F12|housewife inspecting house and goods
+#42F13|housewife apportioning food
+#42F19|'Betty', 'Molly' (man who engages in women's work)
+#42F2|marketing, shopping (~ household management)
+#42F3|household chores
+#42F31|cleaning (the house)
+#42F311|dusting
+#42F312|polishing (~ cleaning the house)
+#42F313|window-cleaning
 #42F314|sweeping (~ cleaning the house)
-42F32|(casa) utensilios e implementos
-42F32(...)|(casa) utensilios e implementos (con NOMBRE)
-42F33|tendiendo la cama
-42F34|poniendo la mesa
-42F341|sirviendo la mesa
-42F342|levantando la mesa
-42F35|cuidado de edificaciones anexas y terrenos
-42F4|mantenimiento y reparación de la vivienda
-42F49|vivienda abondonada
-42F5|personal de la casa, sirvientes
-42F51|sirvienta
-42F52|mujer de la limpieza
-42F53|críado, lacayo
-42F54|mayordomo
-42F55|guardián, conserje, portero
+#42F32|(household) utensils and implements
+#42F32(...)|(household) utensils and implements (with NAME)
+#42F33|covering up a bed
+#42F34|laying the table
+#42F341|waiting at table
+#42F342|clearing the table
+#42F35|care of outbuildings and grounds
+#42F4|maintenance and repairs of dwelling
+#42F49|neglected dwelling
+#42F5|house personnel, servants
+#42F51|maid ~ house personnel
+#42F52|charwoman, cleaning woman
+#42F53|manservant, footman
+#42F54|butler
+#42F55|house-guard, doorkeeper, janitor
 #42F56|housekeeper
-42F6|pequeños accidentes domésticos
-42F61|rompiendo algo (accidente doméstico)
-42F9|casa mal llevada
-42F91|un perfecto caos (Holandés: 'la casa de Jan Steen')
-42F92|ama de casa descuidada, 'Vrou(w) Lor(t)s'
-42G|familia, relación, descendencia
-42G1|linaje familiar, pedigrí, árbol o tabla genealógica
-42G11|serie de retratos ancestrales, 'Ahnengalerie'
-42G2|relación familiar (primer, segundo, tercer y cuarto grado), generaciones
-42G21|relación familiar en primer grado
-42G211|padres (relación familiar en primer grado)
-42G2111|padre (relación familiar en primer grado)
-42G2112|madre (relación familiar en primer grado)
-42G212|niños (relación familiar en primer grado)
-42G2121|hijo (relación familiar en primer grado)
-42G2122|hija (relación familiar en primer grado)
-42G22|relación familiar en segundo grado
-42G221|abuelos (relación familiar en segundo grado)
-42G222|hermanos o hermanas (relación familiar en segundo grado
+#42F6|little household accidents
+#42F61|breaking something (household accident)
+#42F9|badly run house
+#42F91|a perfect shambles (Dutch: 'huishouden van Jan Steen')
+#42F92|slovenly housewife, 'Vrou(w) Lor(t)s'
+#42G|family, relationship, descent
+#42G1|family lineage, pedigree, genealogical tree or table
+#42G11|series of ancestral portraits, 'Ahnengalerie'
+#42G2|family relationships (first, second, third and fourth degree), generations
+#42G21|first degree family relationships
+#42G211|parents (first degree family relationships)
+#42G2111|father (first degree family relationships)
+#42G2112|mother (first degree family relationships)
+#42G212|children (first degree family relationships)
+#42G2121|son (first degree family relationships)
+#42G2122|daughter (first degree family relationships)
+#42G22|second degree family relationships
+#42G221|grandparents (second degree family relationships)
+#42G222|brothers or sisters (second degree family relationships)
 #42G2221|brothers (second degree family relationships)
 #42G2222|sisters (second degree family relationships)
-42G223|nietos (relación familiar en segundo grado)
-42G23|relación familiar en tercer grado
-42G231|bisabuelos (relación familiar en tercer grado)
-42G232|tíos, tías (relación familiar en tercer grado)
-42G233|sobrinos, sobrinas (relación familiar en tercer grado)
+#42G223|grandchildren (second degree family relationships)
+#42G23|third degree family relationships
+#42G231|great-grandparents (third degree family relationships)
+#42G232|uncles, aunts (third degree family relationships)
+#42G233|nephews, nieces (third degree family relationships)
 #42G2331|nephews
 #42G2332|nieces
-42G234|primos (relación familiar en tercer grado)
-42G235|bisnietos (relación familiar en tercer grado)
-42G24|relación familiar en cuarto grado
-42G241|tatarabuelos (relación familiar en cuarto grado)
-42G242|tíos abuelos, tías abuelas (relación familiar en cuarto grado)
-42G243|sobrino nieto, sobrina nieta (relación familiar en cuarto grado)
-42G244|primos segundos (relación familiar en cuarto grado)
-42G245|tataranietos (relación familiar en cuarto grado)
-42G29|incesto
-42Z|tipos de familias exoticas y no monógamas
-42Z1|poligamía
-42Z11|haren
-42Z111|odalisco
-42Z112|'le Bain turc'
-42Z113|eunuco
-42Z2|poliandria
-42Z3|matrimonios comunitarios
-42Z31|'Weibergemeinschaft'
-42Z32|matrimonio familiar o en grupo ('Punalua')
-43|recreación, diversión
-43A|festividades
-43A1|celebraciones periódicas, fiestas populares
-43A11|calendario festivo, celebraciones no liturgicas o días pertenecientes al calendario eclesiástico
-43A12|celebraciones no liturgicas de Navidad, carnaval y Pascuas
-43A121|Navidad (celebración no liturgica)
-43A1211|árbol de Navidad
-43A1212|decoraciones Navideñas
-43A1213|Papa Noel, Santa Claus
-43A1214|tarjetas de Navidad
-43A122|Carnaval (celebración no liturgica)
+#42G234|cousins (third degree family relationships)
+#42G235|great-grandchildren (third degree family relationships)
+#42G24|fourth degree family relationships
+#42G241|great-great grandparents (fourth degree family relationships)
+#42G242|great uncles, great aunts (fourth degree family relationships)
+#42G243|grand nephews, grand nieces (fourth degree family relationships)
+#42G244|second cousins (fourth degree family relationships)
+#42G245|great-great grandchildren (fourth degree family relationships)
+#42G29|incest
+#42Z|exotic and non-monogamous family forms
+#42Z1|polygamy
+#42Z11|harem
+#42Z111|odalisque
+#42Z112|'le Bain turc'
+#42Z113|eunuch
+#42Z2|polyandry
+#42Z3|communal marriages
+#42Z31|'Weibergemeinschaft'
+#42Z32|family or group marriage ('Punalua')
+#43|recreation, amusement
+#43A|festivities
+#43A1|periodic celebrations, popular feasts
+#43A11|calendar festivals, non-liturgical celebrations of days belonging to the ecclesiastical calendar
+#43A12|non-liturgical celebrations of Christmas, carnival and Easter
+#43A121|Christmas (non-liturgical celebration)
+#43A1211|Christmas tree
+#43A1212|Christmas decorations
+#43A1213|Father Christmas, Santa Claus, Christmas elf
+#43A1214|Christmas card
+#43A122|Carnival, Shrovetide (non-liturgical celebration)
 #43A1221|ship of fools
-43A1222|Jueves de Carnaval, 'Jeudi gras'
-43A1223|Quintagésima
-43A1224|Martes de Carnaval, 'Mardi gras' ~ celebraciones de carnaval no liturgicas
-43A123|Pascua (celebración no liturgica)
-43A1231|huevo de Pascua
-43A12311|alhaja en forma de un huevo de Pascua
+#43A1222|Shrove Thursday, 'Jeudi gras'
+#43A1223|Quinquagesima
+#43A1224|Shrove Tuesday, 'Mardi gras' ~ non-liturgical celebrations of carnival
+#43A123|Easter (non-liturgical celebration)
+#43A1231|Easter egg
+#43A12311|jewelry in the shape of an Easter egg
 #43A1232|prize-ox
 #43A12321|showing around the prize-ox
-43A1233|conejo de Pascua
-43A13|fiestas conectadas con actividades de la temporada
-43A131|fiesta de la primavera
-43A1311|bailando en la cruz de mayo
+#43A1233|Easter rabbit
+#43A13|festivities connected with seasonal activities
+#43A131|vernal festivities, spring celebrations
+#43A1311|dancing around the maypole
 #43A13111|maypole
 #43A132|harvest festivities
-43A14|festividades en el calendario; días conmemorativos
-43A141|1 de Enero (~ festividades)
+#43A14|festivities falling on calendar dates; memorial days
+#43A141|January 1 (~ festivities)
 #43A1411|New Year's Eve (December 31)
-43A142|1 de Abril (~ festividades)
-43A143|1 de Mayo (~ festividades)
-43A144|Bajada de Reyes, celebrada normalmente el 6 de Enero
-43A145|Día o fiesta de los Santos (no liturgica)
-43A1451|fiesta de San Nicolás (5 DE diciembre)
+#43A142|April 1 (~ festivities)
+#43A143|May 1 (~ festivities)
+#43A144|Twelfth Night, usually falling on the eve of January 6
+#43A145|Saints-day festivities (non-liturgical)
+#43A1451|festivities on St. Nicholas (Eve) (December 5)
 #43A1452|Halloween, All Hallow's Eve (October 31)
 #43A1453|St. Martin's Day (November 11)
 #43A1454|St. Patrick's Day (March 17)
-43A146|otras fechas ~ festividades conectadas al calendario; días conmemorativos
-43A146(...)|otras fechas ~ festividades conectadas al calendario; días conmemorativos (con FECHA)
-43A2|fiestas privadas
-43A21|recepción, coctel
-43A22|conmemoración, aniversario
-43A23|baile formal
-43A3|ferias y circos
-43A31|caballitos, carrusel; silla o avión
-43A311|rueda Chicago
-43A32|entretenimiento con carros, etc (ferias)
-43A321|montaña rusa
-43A322|carros chocones
-43A323|montaña rusa, tren pintoresco
-43A33|prueba de ingenio y fuerza (~ ferias)
-43A331|galería de tiro al blanco
-43A332|máquina para probar la fuerza
-43A34|otro tipo de entretenimiento
-43A341|salón de los espejos
-43A342|diorama
-43A343|panorama
-43A344|espectáculo de strip tease
-43A345|puesto de lotería (en la feria)
-43A346|exhibición de fenómenos
-43A3461|monstruosidades humanas ~ exhibición de fenómenos
-43A3462|monstruosidades animales ~ exhibición de fenómenos
-43A3463|objetos no comunes (plantas, piedras, etc.) ~ exhibición de fenómenos
-43A35|espectáculos al aire libre (feria)
-43A351|espectáculos en carpas (feria)
-43A352|entusiasmando al público
-43A36|circo
-43A361|carpa de circo (exterior)
-43A362|entrada del circo
-43A363|carpa de circo (interior)
-43A3631|pista del circo
-43A37|el show; función y espectáculo del circo)
-43A371|director (del circo)
-43A3711|maestro de ceremonia
-43A372|acróbata ~ circo
-43A3721|caminante de la cuerda floja, funánbulo
-43A3722|trapecista
-43A3723|equilibrista
-43A3724|lanzador de cuchillos
-43A3725|hombre de goma
-43A3726|contorsionista
-43A3727|escapista
+#43A146|other festivities connected to calendar dates; memorial days
+#43A146(...)|other festivities connected to calendar dates; memorial days (with DATE)
+#43A2|private festivities, merry company
+#43A21|reception, cocktail party
+#43A22|commemoration, jubilee
+#43A23|ball, formal dance
+#43A3|pleasure fair and circus
+#43A31|merry-go-round, roundabout; chair o'plane
+#43A311|giant wheel, Ferris wheel
+#43A32|amusement with cars, etc. (pleasure fair)
+#43A321|roller-coaster
+#43A322|collision cars, bumper cars
+#43A323|switchback, scenic railway
+#43A33|exercise of skill and strength (~ pleasure fair)
+#43A331|shooting gallery, miniature rifle range (~ pleasure fair)
+#43A332|try-your-strength machine
+#43A34|other kinds of amusement
+#43A341|hall with distorting mirrors
+#43A342|diorama
+#43A343|panorama, cyclorama
+#43A344|peep-show
+#43A345|lottery booth (on pleasure fair)
+#43A346|freak show
+#43A3461|human monstrosities ~ freak show
+#43A3462|animal monstrosities ~ freak show
+#43A3463|unusual objects (plants, stones, etc.) ~ freak show
+#43A35|performance in the open air (pleasure fair)
+#43A351|performance in tents (pleasure fair)
+#43A352|drumming-up the public
+#43A36|circus
+#43A361|circus tent (outside)
+#43A362|entrance of circus tent
+#43A363|circus tent (inside)
+#43A3631|circus ring
+#43A37|the show; fair and circus performers
+#43A371|boss, director (of circus)
+#43A3711|ringmaster
+#43A372|acrobat ~ circus
+#43A3721|tight-ropewalker
+#43A3722|trapeze acrobat
+#43A3723|equilibrist
+#43A3724|knife-thrower
+#43A3725|gunman, crack shot
+#43A3726|contortionist
+#43A3727|escapologist
 #43A3728|fire-eater
-43A373|payaso
+#43A373|clown
 #43A3731|Simple Simon, 'Hanswurst'
-43A374|función de animales entrenados (monos, elefantes, osos, leones y tigres, caballos, perros, delfines, focas, pulgas)
-43A3741|monos (función de circo)
-43A3742|elefantes (función de circo)
-43A3743|osos (función de circo)
-43A3744|leones y tigres (función de circo)
-43A3745|caballos (función de circo)
-43A3746|perros (función de circo)
-43A3747|delfines (función de circo)
-43A3748|focas (función de circo)
-43A3749|pulgas de circo
-43A375|ilusionista, mago, malabarista, 'legerdemain'
-43A3751|ventrílocuo
-43A376|adivino ~ feria y circo
-43A38|circo o feria 'en gira'
-43A381|armando la carpa (circo o feria 'en gira')
-43A382|desmontando la carpa (circo o feria en gira)
-43A4|festividades públicas
-43A41|jubilo en ocasiones especiales
-43A411|festividades en acontecimientos de importancia nacional
-43A412|fiesta pública en ocasión de acontecimientos reales
-43A4121|fiesta pública por matrimonio de personas de la realeza
-43A4122|fiesta pública por el nacimiento de personas de la realeza
-43A4123|fiesta pública por otros eventos reales no mencionados arriba
-43A42|entrada triunfal y recepción pública
-43A421|carro, carro triunfal
-43A4211|carro romano, cuadriga ~ triunfo
-43A4212|plataforma ~ triunfo
-43A422|arco del triunfo
-43A423|otras construcciones decorativas (~ entrada triunfal, etc.)
-43A424|esparciendo dinero (~ entrada triunfal, etc.)
-43A4241|monedas acuñadas especialmente para la ocasión (entrada triunfal, ect.)
-43A425|decoración e iluminación de calles, esquinas, etc. (~ entrada triunfal, etc)
-43A426|papel picado, cinta de teleimpresora, etc. (~ entrada triunfal, etc.)
-43A43|triunfos (alegóricos y simbólicos
-43A431|'Trionfi' (de Petrarca)
-43A4311|'Trionfi d'Amore', 'Triumphus Cupidinis'; 'Carro d'amore' (Ripa)
-43A4312|'Trionfo della Castità', 'Triunphus Pudicitiae'; 'Carro della castità'
+#43A374|circus performance with trained animals (monkeys, elephants, bears, lions and tigers, horses, dogs, dolphins, seals, fleas)
+#43A3741|monkeys (circus performance)
+#43A3742|elephants (circus performance)
+#43A3743|bears (circus performance)
+#43A3744|lions and tigers (circus performance)
+#43A3745|horses (circus performance)
+#43A3746|dogs (circus performance)
+#43A3747|dolphins (circus performance)
+#43A3748|seals (circus performance)
+#43A3749|flea-circus
+#43A375|illusionist, conjurer, juggler, 'legerdemain'
+#43A3751|ventriloquist
+#43A376|fortune-teller ~ pleasure fair and circus
+#43A38|circus or fair 'en route'
+#43A381|setting up the tents (circus or fair 'en route')
+#43A382|taking down the tents (circus or fair 'en route')
+#43A4|public festivities
+#43A41|rejoicing on special occasions
+#43A411|festivities on events of national importance
+#43A412|public festivities on the occasion of royal events
+#43A4121|public festivities at marriage of royal persons
+#43A4122|public festivities at birth of royal persons
+#43A4123|public festivities at other royal events, not meant or mentioned above
+#43A42|triumphal entry and public reception, pageant, 'entrée solennelle', 'joyeuse entrée'
+#43A421|chariot, triumphal car
+#43A4211|Roman chariot, quadriga ~ triumph
+#43A4212|float ~ triumph
+#43A422|triumphal arch
+#43A423|other decorative structures (~ triumphal entry, etc.)
+#43A424|scattering of money (~ triumphal entry, etc.)
+#43A4241|coins specially minted for the occasion (triumphal entry, etc.) (Dutch: 'strooipenningen')
+#43A425|decoration and illumination of streets, squares, etc. (~ triumphal entry, etc.)
+#43A426|confetti, ticker-tape, etc. (~ triumphal entry, etc.)
+#43A43|triumphs (allegorical and symbolic)
+#43A431|'Trionfi' (of Petrarch)
+#43A4311|'Trionfi d'Amore', 'Triumphus Cupidinis'; 'Carro d'amore' (Ripa)
+#43A4312|'Trionfo della Castità', 'Triumphus Pudicitiae'; 'Carro della castità' (Ripa)
 #43A4313|'Trionfo della Morte', 'Triumphus Mortis'; 'Carro della morte' (Ripa)
 #43A4314|'Trionfo della Fama', 'Triumphus Famae'; 'Carro della Fama' (Ripa)
-43A4315|'Trionfo del Tempo', 'Triumphus Temporis'; 'Carro del Tempo' (Ripa)
-43A4316|'Trionfo della Divinità', 'Triumphus Aeternitatis'; 'Carro della Divinità'
-43A432|triunfos simbólicos de individuos
-43A4321|apoteosis (o ascención) de individuos
-43A433|corona de laureles
-43A44|juegos artificiales
-43A45|vergüenza pública
+#43A4315|'Trionfo del Tempo', 'Triumphus Temporis'; 'Carro del Tempo' (Ripa)
+#43A4316|'Trionfo della Divinità', 'Triumphus Aeternitatis'; 'Carro della Divinità'
+#43A432|symbolic triumphs of individual persons
+#43A4321|apotheosis (or ascension) of individuals
+#43A433|crowning with laurel
+#43A44|bonfire, fire-works
+#43A45|public disgrace
 #43A46|activities in the air ~ public festivities, e.g. fly-past
-43A49|funeral público
-43A491|catafalco, 'castrum doloris' (~ funeral público)
+#43A49|public funeral
+#43A491|catafalque, 'castrum doloris' (~ public funeral)
 #43AA2|private festivities, merry company - AA - in the open air, 'fête champêtre'
 #43AA21|reception, cocktail party - AA - in the open air, 'fête champêtre'
 #43AA22|commemoration, jubilee - AA - in the open air, 'fête champêtre'
@@ -1704,364 +1708,364 @@
 #43AA46|activities in the air ~ public festivities, e.g. fly-past - AA - festivities on the water
 #43AA49|public funeral - AA - festivities on the water
 #43AA491|catafalque, 'castrum doloris' (~ public funeral) - AA - festivities on the water
-43B|recreación
-43B1|disfrutando la naturaleza
-43B11|contemplando la naturaleza
-43B12|picnic, al aire libre, 'déjeuner sur l'herbe'
-43B121|reunión al aire libre, 'délices à la campagne'
-43B13|caminando, excursionando (recreación)
-43B131|equitación, ciclismo (recreación)
-43B14|disfrutando de la naturaleza ~ plantas, hierbas y flores
-43B141|botánica
-43B142|recolectando hongos
-43B143|cogiendo hierbas
-43B144|cogiendo flores
-43B15|disfrutando de la naturaleza ~ los animales
-43B151|recolectando mariposas
-43B16|escalando montañas, alpinismo
-43B17|explorando cuevas
-43B2|recreación al aire libre
-43B21|centros de recreación
-43B3|recreación bajo techo
-43B31|taberna, cafetería, casa pública
-43B311|restaurante
+#43B|recreation
+#43B1|enjoying nature
+#43B11|contemplating nature
+#43B12|picnic, alfresco, 'déjeuner sur l'herbe'
+#43B121|outdoor gathering, 'délices à la campagne'
+#43B13|walking, hiking (recreation)
+#43B131|riding, cycling (recreation)
+#43B14|enjoying nature ~ plants, herbs and flowers
+#43B141|botanizing
+#43B142|mushroom-hunting
+#43B143|gathering herbs
+#43B144|picking flowers
+#43B15|enjoying nature ~ animals
+#43B151|hunting butterflies
+#43B16|mountain climbing, mountaineering
+#43B17|exploring caves
+#43B2|open-air recreation
+#43B21|pleasure-resort
+#43B3|indoor recreation
+#43B31|inn, coffee-house, public house, etc.
+#43B311|restaurant
 #43B312|tea garden, garden restaurant
-43B313|pavimento, terraza al frente de una taberna o restaurante
-43B32|club, lugar de encuentro
-43B33|casino
-43B331|juegos clandestinos, garito
-43B34|club nocturno, sala de baile
-43B4|bosques y parques (como lugares de recreación)
-43B41|jugando en los bosques
-43B411|trepando a un árbol
-43B412|cayéndose de un árbol
-43B42|parque
-43B421|quiosco de música
-43B5|playa (como lugar de recreación)
-43B51|dentro o al lado del agua (en la playa)
-43B52|tomando el sol (en la playa)
-43B53|(construyendo) castillo de arena
+#43B313|pavement, terrace in front of inn or restaurant
+#43B32|club, meeting place
+#43B33|casino
+#43B331|gaming den, gambling den
+#43B34|night-club, dance-hall
+#43B4|wood and park (as places of recreation)
+#43B41|playing in the woods
+#43B411|climbing up a tree
+#43B412|falling from a tree
+#43B42|park
+#43B421|bandstand
+#43B5|beach (as place of recreation)
+#43B51|in or beside the water (on the beach)
+#43B52|sunbathing (on the beach)
+#43B53|(building) sand-castle
 #43B54|donkey-riding (on the beach)
-43B55|recreación en las dunas
-43B6|área de juegos
-43B61|equipos de juegos
-43B61(...)|equipos de juegos (con NOMBRE)
-43B611|columpios
-43B612|resbaladera, tobogán
-43B613|subibaja
-43B7|zoológico (como lugar de recreación)
-43B8|colección, exhibición, demostración
-43C|deportes, juegos, y perfomances físicas
-43C1|deportes, juegos ~ animales
-43C11|cacería
-43C111|caza, animales acorralados
-43C1111|grupo o varios animales acorralados
-43C1112|caza ~ mamíferos
-43C11121|grupo o varios mamíferos acorralados
-43C11122|cacería de monos
-43C11123|caza ~ animales depredadores (zorro, león
-43C111231|cacería de zorros
-43C1112311|zorro y sabuesos
-43C111232|caza del león
-43C1112321|cazador enfrentando a un león
-43C11124|caza ~ animales ungulados
-43C111241|cacería de venados
-43C111242|cacería de corzos
-43C111243|cacería de cerdos
-43C11125|caza ~ animales de trompa
-43C11126|caza ~ roedores
-43C111261|cacería de liebres, cacería de conejos
-43C11127|caza ~ mamíferos marinos
-43C11128|caza ~ otros mamíferos
-43C1113|cacería de aves
-43C1114|caza ~ otros animales
-43C112|accidentes en la cacería
-43C1121|animal acorralado atacanco al hombre
+#43B55|recreation in the dunes
+#43B6|playground
+#43B61|playground equipment
+#43B61(...)|playground equipment (with NAME)
+#43B611|swing
+#43B612|slide, chute
+#43B613|seesaw
+#43B7|zoo (as place of recreation)
+#43B8|collection, exhibition, show
+#43C|sports, games and physical performances
+#43C1|sports, games ~ animals
+#43C11|hunting, chase
+#43C111|game, hunted animals
+#43C1111|group of various hunted animals
+#43C1112|hunt ~ mammals
+#43C11121|group of various hunted mammals
+#43C11122|monkey hunting
+#43C11123|hunt ~ predatory animals (fox, lion)
+#43C111231|fox hunting
+#43C1112311|fox and hounds
+#43C111232|lion hunt
+#43C1112321|hunter fighting a lion
+#43C11124|hunt ~ hoofed animals
+#43C111241|stag-hunting
+#43C111242|roe-hunting
+#43C111243|boar-hunting
+#43C11125|hunt ~ trunked animals
+#43C11126|hunt ~ rodents
+#43C111261|hare-hunting, rabbit-hunting
+#43C11127|hunt ~ marine mammals
+#43C11128|hunt ~ other mammals
+#43C1113|bird hunting
+#43C1114|hunt ~ other animals
+#43C112|hunting accidents
+#43C1121|hunted animal attacking man
 #43C113|spoils of the hunt, game, venison
-43C1131|la muerte (~ cacería)
-43C11311|trofeos de cacería
+#43C1131|the kill (~ hunting)
+#43C11311|hunting trophies
 #43C1132|hunter displaying or presenting the spoils of the hunt
-43C114|cazador
-43C1141|reunión, 'départ pour la chasse'
-43C1142|cacería de cazadores
-43C11421|cazadores descanzando durante la caza
-43C1143|batidores (~ caza)
-43C1144|soplando el cuerno de caza
-43C1145|'halali' (~ caza)
-43C1146|retrato en grupo de cazadores
-43C1147|perros de caza
+#43C114|hunter
+#43C1141|assembling, 'départ pour la chasse'
+#43C1142|hunters hunting
+#43C11421|hunters resting during the hunt
+#43C1143|beaters (~ hunt)
+#43C1144|blowing the hunting horn
+#43C1145|'halali' (~ hunt)
+#43C1146|group-portrait of hunters
+#43C1147|hunting dogs
 #43C11471|hunting dogs beside the spoils
-43C1148|equipo de cacería
-43C11481|morral
-43C11482|cuerno de caza
-43C1149|retorno de la caza
-43C11491|asiento de caza, pabellón de caza, 'rendez-vous de chasse', 'Jagdschloss'
-43C115|búsqueda para la caza
-43C1151|cogiendo animales
-43C1152|observando animales ~ cacería
-43C11521|fotografiando, filmando animales
-43C116|tierras de caza, cazadero
-43C1161|aguardo del cazadero
+#43C1148|hunting accoutrement
+#43C11481|game bag
+#43C11482|hunting horn
+#43C1149|return from the hunt
+#43C11491|hunting-seat, hunting lodge, 'rendez-vous de chasse', 'Jagdschloss'
+#43C115|searching for game
+#43C1151|catching animals
+#43C1152|observing animals ~ hunting
+#43C11521|photographing, filming animals
+#43C116|hunting-ground
+#43C1161|boundary-post of hunting-ground
 #43C1162|hunting stand, shelter, hide-out; often camouflaged; for unobserved watching and shooting
 #43C11621|'high seat', hunting stand on elevated platform
 #43C116211|tree stand, hunting stand in a tree
 #43C11622|hunting stand at ground level, ground blind
-43C117|guardabosque
-43C118|cazador furtivo
-43C12|pesca (deportes)
-43C121|pesca con caña
-43C128|pescador
-43C1281|pescador enseñando la pesca
-43C13|volatería, cazador de aves
-43C131|trampa para pinzón
-43C132|reclamo
-43C14|torturando animales ~ deportes y recreación
-43C141|grupo de varios animales torturados
-43C142|torturando mamíferos ~ deportes y recreación
-43C1421|aporreando al gato, 'gato-en-un-barril'
-43C1422|corrida de toros
-43C14221|torero
-43C1423|deporte consistente en echarle los perros a un oso
-43C143|torturando aves ~ deporte y recreación (gallo, ganzo)
-43C1431|pelea de gallos
-43C1432|'jalar-el-ganzo'
-43C144|torturando reptiles
-43C145|torturando anfibios
-43C146|torturando peces
-43C1461|'jalar-la-anguila'
-43C2|deportes, juegos y perfomances físicas ~ velocidad
-43C21|deportes, etc. sobre tierra
-43C211|correr, carrera
-43C2111|(correr, carrera) en camino con obstáculos, carrera de obstáculos
-43C2112|carrera de obstáculos a campo traviesa
-43C2113|carrera de paso aligerado
-43C212|correr montado sobre un animal
-43C2121|carrera de caballos
-43C21211|jockey, jinete
-43C21212|cuadra de carreras
-43C21213|circuito
-43C2122|carrera de obstáculos, salto de obstáculos
-43C213|correr en un vehículo
-43C2131|carrera de carro (con caballos)
-43C21311|auriga
-43C21312|carrera de carro con vehículo de dos ruedas, por ej.: cuadriga, sulky
-43C21313|carrera de carro con vehículo de cuatro ruedas
-43C2132|carrera de bicicletas
-43C21321|gira en bicicleta, por ej.: 'Tour de France', 'Giro d'Italia'
-43C2133|carrera de motociclismo
-43C2134|carrera de automóvil
-43C214|caminar (como deporte)
-43C218|carrera de animales
-43C2181|perro (carrera)
-43C2182|palomas (carrera)
-43C22|deportes, etc. en y sobre el agua
-43C221|natación (deporte)
-43C2211|saltos de trampolin, clavados (deporte)
-43C22111|buceo
-43C222|esquí acuático, surf
-43C223|remo, canotaje, etc. (deporte)
-43C224|navegación a vela (deporte)
-43C225|carrera de lancha a motor
-43C23|deportes, etc. en el aire
-43C231|carreras de vuelo
-43C232|planear (deportes en el aire)
-43C233|vuelo en globo (deporte)
+#43C117|gamekeeper
+#43C118|poacher
+#43C12|fishing (sports)
+#43C121|angling
+#43C128|fisherman
+#43C1281|fisherman showing catch
+#43C13|fowling, fowler
+#43C131|finch trap, finchery
+#43C132|duck decoy
+#43C14|tormenting animals ~ sport and recreation
+#43C141|group of various animals tormented
+#43C142|tormenting mammals ~ sport and recreation
+#43C1421|cudgelling the cat, 'cat-in-a-barrel'
+#43C1422|bullfight
+#43C14221|bull-fighter, toreador
+#43C1423|bear-baiting
+#43C143|tormenting birds ~ sport and recreation (cock, goose)
+#43C1431|cock-fighting
+#43C1432|'pull-the-goose'
+#43C144|tormenting reptiles
+#43C145|tormenting amphibians
+#43C146|tormenting fish
+#43C1461|'pull-the-eel'
+#43C2|sports, games and physical performances ~ speed
+#43C21|sports, etc. on land
+#43C211|running, race
+#43C2111|(running, race) over course with obstacles, hurdle race
+#43C2112|cross-country race
+#43C2113|walking race
+#43C212|racing on animal mount
+#43C2121|horse-racing
+#43C21211|jockey
+#43C21212|racing stable
+#43C21213|race-track
+#43C2122|steeple chase, speed jumping
+#43C213|racing on a vehicle
+#43C2131|wagon racing (with horses)
+#43C21311|charioteer, 'auriga'
+#43C21312|wagon racing with two-wheeled vehicle, e.g.: chariot, sulky
+#43C21313|wagon racing with four-wheeled vehicle
+#43C2132|bicycle racing
+#43C21321|bicycle tour, e.g.: 'Tour de France', 'Giro d'Italia'
+#43C2133|motorcycle racing
+#43C2134|motorcar racing
+#43C214|walking (as sport)
+#43C218|animal racing
+#43C2181|dogs (racing)
+#43C2182|pigeons (racing)
+#43C22|sports, etc. in and on the water
+#43C221|swimming (sport)
+#43C2211|diving (sport)
+#43C22111|deep-sea diving
+#43C222|waterskiing, surf-riding
+#43C223|rowing, canoeing, etc. (sport)
+#43C224|sailing (sport)
+#43C225|motorboat racing
+#43C23|sports, etc. in the air
+#43C231|flying races
+#43C232|gliding (sports in the air)
+#43C233|balloon flight (sport)
 #43C234|sky diving, parachuting as a sport
-43C24|deportes de invierno
-43C241|trineo (deportes de invierno)
-43C242|trineo de bobsleigh
-43C243|trineo pequeño (deportes de invierno)
-43C244|patines (deportes de invierno)
-43C245|esquís (deportes de invierno)
-43C2451|slalom (deportes de invierno)
-43C2452|salto con esquís
-43C2453|telesquí
-43C246|navegación a vela sobre hielo (deportes de invierno)
-43C3|atletismo, gimnasia
-43C31|salto de altura (atletismo, gimnasia)
-43C311|salto de garrocha
-43C312|salto sobre trampolín
-43C32|salto largo, salto amplio
-43C321|triple salto
-43C33|lanzamiento de jabalina
-43C34|lanzamiento de bala
-43C35|lanzamiento de disco
-43C36|otros deportes atléticos
-43C361|levantamiento de pesas
-43C37|ejercicios gimnásticos sobre el piso
-43C371|ejercicios gimnásticos con bastones, mazas, etc.
-43C38|ejercicios gimnásticos con aparatos
-43C381|aros (gimnásticos)
-43C382|barra (gimnástica)
-43C383|potro (gimnástico)
-43C384|barras paralelas (gimnásticas)
-43C39|contienda de enfrentamientos (deporte)
-43C391|boxeo (deporte)
-43C392|lucha (deporte)
-43C393|jiu-jitsu, judo, etc.
-43C394|esgrima (deporte)
-43C3941|esgrima de florete
-43C3942|sable (~ esgrima)
-43C395|juego de tira y afloja con una cuerda
-43C396|contienda de enfrentamientos en la época medieval
-43C3961|lucha de gladiadores
-43C39611|lucha entre un hombre y un animal (contienda medieval)
+#43C24|winter sports
+#43C241|sledge, sleigh (winter sports)
+#43C242|bob-sled
+#43C243|small sleigh (winter sports)
+#43C244|skates (winter sports)
+#43C245|skis (winter sports)
+#43C2451|slalom (winter sports)
+#43C2452|ski-jumping
+#43C2453|ski-lift
+#43C246|ice-sailing (winter sports)
+#43C3|athletics, gymnastics
+#43C31|high-jumping (athletics, gymnastics)
+#43C311|pole-vaulting
+#43C312|jumping on trampoline
+#43C32|long-jumping, broad-jumping
+#43C321|hop-skip-jump
+#43C33|javelin-throwing
+#43C34|shot-putting
+#43C35|discus-throwing
+#43C36|other athletic sport
+#43C361|weight lifting
+#43C37|gymnastic exercises on the ground
+#43C371|gymnastic exercises with sticks, dumb-bells, etc.
+#43C38|gymnastic exercises with apparatuses
+#43C381|rings (gymnastics)
+#43C382|horizontal bar (gymnastics)
+#43C383|vaulting horse (gymnastics)
+#43C384|parallel bars (gymnastics)
+#43C39|fighting contest (sport)
+#43C391|boxing (sport)
+#43C392|wrestling (sport)
+#43C393|jiu-jitsu, judo, etc.
+#43C394|fencing (sport)
+#43C3941|fencing foil
+#43C3942|sabre (~ fencing)
+#43C395|tug-of-war
+#43C396|(medieval) fighting contest
+#43C3961|fight of gladiators
+#43C39611|fight between man and animal
 #43C39612|fight between animals, e.g. a lion and a bear
 #43C3962|'pas d'armes' (contest between two groups for pass or bridge, etc.)
-43C3963|torneo (contienda medieval)
-43C39631|justa, torneo (contienda medieval)
-43C396311|justa, torneo, sin barrera (contienda medieval)
-43C396312|justa, torneo, con barrera (contienda medieval)
-43C3964|otras formas de contiendas de caballeros
-43C39641|'Buhurt', 'Bouhourt' (contienda medieval)
-43C39642|'Quintaine' (contienda medieval)
-43C397|torneo deportivo
-43C3971|Juegos Olimpicos en tiempos modernos
-43C3972|otras contiendas atléticas
-43C4|juegos de habilidad o destreza
-43C41|juegos de pelota
-43C411|fútbol (nombres anteriores: soule, choule, cholle)
-43C4111|rugby, fútbol
+#43C3963|tournament
+#43C39631|joust, tilt
+#43C396311|joust, tilt, without barrier
+#43C396312|joust, tilt, with barrier
+#43C3964|other forms of knights' contests
+#43C39641|'Buhurt', 'Bouhourt' (medieval contest)
+#43C39642|'Quintaine' (medieval contest)
+#43C397|sport-tournament
+#43C3971|Olympic games in modern times
+#43C3972|other athletic contests
+#43C4|games of skill
+#43C41|ball games
+#43C411|soccer, football (early names: soule, choule, cholle)
+#43C4111|rugby, football
 #43C4112|American football
-43C412|juegos de pelota en el cual son usadas las manos (juego de equipo)
-43C4121|balónmano
-43C4122|baloncesto, básquetbol
-43C4123|vóleibol
-43C4124|waterpolo
-43C413|juego de pelota en el cual la pelota es lanzada con un objeto de madera (juego de equipo)
-43C4131|lacrosse
-43C4132|hockey
-43C41321|hockey sobre hielo
-43C4133|polo (a caballo)
-43C4134|criquet (juego de pelota)
-43C4135|béisbol
+#43C412|ball games in which hands are used (team play)
+#43C4121|handball
+#43C4122|basketball
+#43C4123|volley-ball
+#43C4124|water polo
+#43C413|ball games in which ball is hit with wooden object (team play)
+#43C4131|lacrosse
+#43C4132|hockey
+#43C41321|ice hockey
+#43C4133|polo (on horseback)
+#43C4134|cricket (ball game)
+#43C4135|baseball
 #43C4136|stick ball
-43C414|juego de pelota el el cual la pelota es lanzada o golpeada con un bastón (juego individual)
+#43C414|ball games in which ball is hit or knocked with stick (individual play)
 #43C4141|'maille' (ball game)
 #43C4142|golf
-43C4143|'kolf' (juego de pelota)
-43C41431|'kolf' sobre hielo
-43C4144|croquet
-43C4145|billar
-43C415|juego de pelota en el cual la pelota es lanzada con una raqueta (o mano)
-43C4151|tenis, tenis sobre gras
-43C4152|tenis de mesa
-43C4153|'jeu de Paume'
-43C4154|'jeu de volant' (juego de volante), bádminton
+#43C4143|'kolf' (ball game)
+#43C41431|'kolf' on the ice
+#43C4144|croquet
+#43C4145|billiards
+#43C415|ball games in which ball is hit with racket (or hand)
+#43C4151|tennis, lawn-tennis
+#43C4152|table-tennis
+#43C4153|'jeu de Paume'
+#43C4154|'jeu de volant', badminton
 #43C4155|palm-play, game of fives
-43C416|juego de pelota en el cual la pelota o bola es rodada
-43C4161|'jeu de boules' (pétanque, bochas)
-43C4162|bowling, bolos
-43C4163|tirando la bola a través de los agujeros sobre el piso
-43C4164|bolos
+#43C416|ball games in which ball or bowl is rolled
+#43C4161|'jeu de boules'
+#43C4162|bowling
+#43C4163|throwing ball through ring on the ground
+#43C4164|ninepins, skittles
 #43C417|ball-throwing
 #43C4171|cup-and-ball, bilboquet
 #43C418|pinball, pinball machine
-43C42|tiros al blanco (~ juegos de destreza)
-43C421|tiro con arco y flecha, tiro al arco (~ juegos de destreza)
-43C4211|tiro al pájaro ( sobre un poste alto
-43C4212|campión de tiro
-43C422|tiro al blanco con revolver (~ juegos de destreza)
-43C423|tiro al blanco con rifle (~ juegos de destreza)
-43C424|blanco, objetivo (~ tiro al blanco)
-43C43|'jeu de tonneau'
-43C431|tiro de disco en agujero de barril
+#43C42|sharpshooting (~ games of skill)
+#43C421|shooting with bow and arrow, archery (~ games of skill)
+#43C4211|shooting-the-bird (on a high pole)
+#43C4212|champion-shot
+#43C422|sharpshooting with revolver or other handgun (~ games of skill)
+#43C423|sharpshooting with rifle, shotgun or other long firearms (~ games of skill)
+#43C424|target (~ sharpshooting)
+#43C43|'jeu de tonneau'
+#43C431|throwing disc into hole in barrel
 #43C432|hand shovel-board
-43C44|yoyo
-43C441|diábolo
-43C45|juego de las sortijas (~ juegos de habilidad o destreza)
-43C5|juegos de cálculo y azar, por ej.: juego de cartas, juegos de azar, adivinanzas, etc.
-43C51|juego de cartas
-43C511|tahúr, tramposo
-43C512|naipe, baraja, cartas
-43C5121|comodín
-43C513|solitario (juego de cartas)
-43C52|juegos de tablero
-43C521|ajedrez
-43C5211|pieza de ajedrez
-43C5212|hombre y mujer jugando ajedrez, la mujer gana
-43C522|chaquete
-43C523|damas
-43C5231|ficha de damas
-43C53|juego de azar con tablero
-43C531|juego de la oca
-43C532|monopolio (juego de azar con tablero)
-43C54|dominó
-43C55|juego de dados
-43C551|trampa (~ juego de dados)
-43C552|dados
-43C56|apuestas
-43C561|apuestas en deportes
-43C562|ruleta
-43C57|tómbola
-43C58|rifa, lotería
-43C581|echando suertes ~ apuestas
-43C582|totalizador, puesta
-43C59|adivinanza, acertijo, enigma
-43C591|charada
-43C592|crucigrama
-43C593|rompecabezas
-43C6|juegos en grupo
-43C61|juego de las prendas
-43C62|juego de las sillas
-43C63|juegos en grupo con insinuaciones eróticas, por ej, concurso de besos
+#43C44|yoyo
+#43C441|air top, diabolo, devil-on-two-sticks
+#43C45|tilting at the ring (~ games of skill)
+#43C5|games of calculation and chance, e.g.: card games, gambling, puzzles, etc.
+#43C51|card games
+#43C511|card-sharp
+#43C512|playing-cards
+#43C5121|jolly joker
+#43C513|patience (card game)
+#43C52|board-games
+#43C521|chess
+#43C5211|chessmen
+#43C5212|man and woman playing chess, woman wins
+#43C522|backgammon, tric-trac
+#43C523|draughts
+#43C5231|draughtsmen
+#43C53|board-games of chance
+#43C531|goose-game
+#43C532|monopoly (board-game of chance)
+#43C54|dominoes
+#43C55|dice-games
+#43C551|cheat (~ dice game)
+#43C552|dice
+#43C56|betting
+#43C561|betting on sports
+#43C562|roulette
+#43C57|tombola
+#43C58|raffle, lottery
+#43C581|drawing lots ~ betting
+#43C582|totalizator, pool
+#43C59|puzzle, riddle, conundrum, enigma
+#43C591|charade
+#43C592|cross-word puzzle
+#43C593|jig-saw puzzle
+#43C6|group games, party games
+#43C61|game of forfeits
+#43C62|musical chairs
+#43C63|party games with erotic implications, e.g.: kissing contest
 #43C631|hot cockles, 'haute coquilles', 'la main chaude' (party game)
 #43C64|frog in the middle (party game)
-43C68|adultos jugando juegos de niños
-43C69|juegos bruscos
-43C7|juego de niños
-43C71|juegos sin material de juego
-43C711|juegos de carrera (niños)
-43C7111|juegos simples  de carrera
-43C71111|carrera (~ juego)
-43C71112|agarrar, chapar (~ juego de carrera
+#43C68|grown-ups playing children's games
+#43C69|rough-and-tumble
+#43C7|children's games and plays
+#43C71|games without play material
+#43C711|running games (children)
+#43C7111|simple running games
+#43C71111|running (~ game)
+#43C71112|catch (~ running game)
 #43C71113|'red rover, red light?' and related games
-43C7112|juegos de competencia
-43C71121|coger prisioneros ~ juego de niños
-43C71122|tomar posesión de terreno ~ juego de niños
-43C71123|chapar, agarrar, en grupos ~ juego de niños
-43C7113|juegos de carrera y escondites
-43C71131|jugar a las escondidas
-43C7114|juegos de carreras jugados en un circulo
-43C7115|juegos de carreras con elemento histórico
+#43C7112|contest games
+#43C71121|to take prisoners ~ children's games
+#43C71122|to take possession of ground ~ children's games
+#43C71123|to catch, to touch, in groups ~ children's games
+#43C7113|running-and-hiding games
+#43C71131|hide-and-seek
+#43C7114|running games played in a ring
+#43C7115|running games with a story element
 #43C7116|London Bridge and related arch and bridge games
-43C7117|juegos en cadena o en hilera
-43C71171|tren (juegos en cadena o hilera)
-43C7118|juego de dar vueltas, molinete
-43C712|juegos de saltar o brincar
-43C7121|juegos de saltos simples
-43C7122|saltar al potro o brincar al burro y variantes
+#43C7117|snake or chain games
+#43C71171|train (snake or chain games)
+#43C7118|whirling games, pinwheel
+#43C712|jumping games
+#43C7121|simple jumping games
+#43C7122|leap-frog and variants
 #43C7123|hey cockalorum and variants
-43C7124|saltar a la pata coja
-43C7125|varia (juegos de saltar o brincar)
-43C71251|hacer volteretas ~ juegos de saltar o brincar
-43C71252|pararse de cabeza ~ juegos de saltar o brincar
-43C71253|andar a cuatro patas ~ juegos de saltar o brincar
-43C71254|girando ~ juegos de saltar o brincar
-43C7126|sobre la zanja (juego de saltar o brincar
-43C71261|saltando sobre la zanja con una garrocha (juego de saltar o brincar)
-43C713|juegos de bailar (juego de niños)
-43C7131|bailes simples
-43C7132|juegos de saltar la cuerda
-43C7133|ronda y cuadrilla (juego de niños)
-43C7134|baile en hilera (juego de niños)
-43C714|juegos de lanzar, arrojar, tirar
-43C7141|juego de lanzamiento simple
-43C7142|tirando piedras (juego de lanzar, arrojar, tirar)
-43C7143|arrojando palos (juego de lanzar, arrojar, tirar)
-43C7144|tirando monedas (juego de lanzar, arrojar, tirar)
-43C7145|lanzando fruta (juego de lanzar, arrojar, tirar)
-43C7146|juegos de pelota (juegos de niños)
-43C71461|juego de pelota jugado por una sola persona
-43C71462|tirando y cogiendo la pelota (juego de niños
-43C71463|golpeando la pelota con un palo, etc. (juego de niños)
-43C71464|pateando la pelota (juego de niños)
-43C7147|juegos de bolos (juegos de niños)
-43C7148|varia (juegos de lanzar, arrojar, tirar)
-43C71481|lanzando aros, etc. (juegos de niños)
-43C715|juego con dedo y puño)
-43C7151|juegos simples con la mano
-43C71511|hacer figuras en la sombra (~ juegos con la mano)
+#43C7124|hop-scotch
+#43C7125|varia (jumping games)
+#43C71251|tumbling, somersaults ~ jumping games
+#43C71252|stand on the head ~ jumping games
+#43C71253|walking on all fours ~ jumping games
+#43C71254|spinning ~ jumping games
+#43C7126|ditch-over (jumping game)
+#43C71261|ditch-over with jumping pole (jumping game)
+#43C713|dancing games (children's games)
+#43C7131|simple dances
+#43C7132|jumping-rope games
+#43C7133|ring and square dancing (children's games)
+#43C7134|row dancing (children's games)
+#43C714|throwing games
+#43C7141|simple throwing games
+#43C7142|throwing stones (throwing game)
+#43C7143|throwing sticks (throwing game)
+#43C7144|throwing coins (throwing game)
+#43C7145|throwing fruit (throwing game)
+#43C7146|ball games (children's games)
+#43C71461|ball games played by one person
+#43C71462|ball throwing and catching (children's games)
+#43C71463|hitting ball with stick, etc. (children's game)
+#43C71464|kicking ball (children's games)
+#43C7147|bowling games (children's games)
+#43C7148|varia (throwing games)
+#43C71481|throwing rings, quoits, etc. (children's games)
+#43C715|finger and fist games
+#43C7151|simple hand games
+#43C71511|shadow pictures (~ hand games)
 #43C71512|finger and string games (cat's cradle, etc.)
 #43C7152|clap and slap games
 #43C71521|piling hands or fists one above the other (children's games)
@@ -2242,7 +2246,7 @@
 #43D|other leisure time activities
 #43D1|handicrafts, hobbies (leisure time activities)
 #43D2|collecting (leisure time activity)
-44|estado; la ley; la vida política
+#44|state; law; political life
 #44A|symbols of the state (in general)
 #44A1|coat of arms (as symbol of the state, etc.)
 #44A11|device (as symbol of the state, etc.)
@@ -2878,7 +2882,7 @@
 #44GG562|piracy - GG - female
 #44GG59|tools ~ criminals - GG - female
 #44GG591|dark lantern - GG - female
-45|la guerra; asuntos militares
+#45|warfare; military affairs
 #45A|war and peace
 #45A1|war
 #45A10|symbols, allegories of war; 'Guerra' (Ripa)
@@ -3064,6 +3068,7 @@
 #45C221|helmet
 #45C222|arm protector
 #45C2221|gauntlet, armoured glove to protect the hand
+#45C223|cuirass
 #45C23|quiver
 #45C231|scabbard, sheath
 #45C24|camouflage
@@ -3239,24 +3244,24 @@
 #45I31|criticism of communiqué (after the battle)
 #45I4|negotiations for truce
 #45I41|negotiations for truce on a demolished bridge
-45I5|la suspensión de las hostilidades (tregua)
-45I51|Tregua de Dios ", Treve-Dieu"
-45I52|la suspensión de las hostilidades para enterrar a los muertos
-45I53|armisticio, tregua
-45I530|Tregua '(Ripa)
-45I6|ganador (después de la batalla)
-45I61|conquistador triunfante, la entrada triunfal de un ganador
-45I611|coronando el ganador con el laurel
-45I612|prisioneros encadenados al carro del ganador
-45I62|conquistador (a caballo) pisoteando los vencidos
-45I63|(Conquistador) agarra a la víctima por los pelos
-45I7|los perdedores (después de una batalla)
-45I71|los perdedores en frente del ganador
-45K|estado de sitio, guerra de posiciones
-45K1|fortificaciones, obras de ingeniería militar ~ un asedio
-45K11|fortificaciones temporales (ingeniería militar)
-45K111|trincheras
-45K112|tierra de nadie
+#45I5|suspension of hostilities (truce)
+#45I51|truce of God, 'Trève-Dieu'
+#45I52|suspension of hostilities in order to bury the dead
+#45I53|armistice, truce
+#45I530|'Tregua' (Ripa)
+#45I6|victor (after the battle)
+#45I61|conqueror triumphing, triumphal entry of victor
+#45I611|crowning the victor with laurel
+#45I612|prisoners chained to the victor's chariot
+#45I62|conqueror (on horseback) tramples conquered
+#45I63|(conqueror) gripping the victim's hair
+#45I7|the defeated (after the battle)
+#45I71|the defeated before the victor
+#45K|siege, position war
+#45K1|fortifications, military engineering
+#45K11|temporary fortifications
+#45K111|trenches
+#45K112|no man's land
 #45K12|permanent fortifications
 #45K121|palisades
 #45K122|bastion, bulwark
@@ -3324,7 +3329,7 @@
 #45M52|fugitives resting, camping
 #45M6|internment camp
 #45M7|concentration camp
-46|vida social y económica, el transporte y la comunicación
+#46|social and economic life, transport and communication
 #46A|communal life
 #46A1|social stratification, social groups
 #46A11|division into classes (~ society)
@@ -3716,7 +3721,7 @@
 #46C1121|bridges by construction
 #46C11211|suspension bridge
 #46C11212|cantilever bridge
-#46C11213|bascule bridge
+#46C11213|bascule bridge 
 #46C1122|bridge forms
 #46C11221|bridge with structure, i.e. cover or buildings
 #46C113|viaduct
@@ -4253,7 +4258,7 @@
 #46E731|radar
 #46E8|other means of communication
 #46E81|communication by means of 'statue parlanti', such as Marforio and Pasquino in Rome
-47|artesanías e industrias
+#47|crafts and industries
 #470|'Artes Mechanicae' (Lanificium, Armatura, Navigatio, Agricultura, Venatio, Medicina, Theatrica)
 #47A|industrial structures
 #47A1|exterior of industrial structures, factories
@@ -4899,7 +4904,7 @@
 #47L3|launching a ship
 #47L31|christening a ship
 #47L32|maidentrip of a ship
-48|arte
+#48|art
 #480|symbolic representations, allegories and emblems ~ art; 'Arte' (Ripa)
 #48A|art and the public; styles and ornaments
 #48A1|person stimulating the arts; art lover, connoisseur, maecenas, patron
@@ -4974,7 +4979,7 @@
 #48A95|children's art
 #48A96|psychotic and psychiatric art
 #48A97|'kitsch', 'Trivialkunst'
-48A98|adornos ~ arte
+#48A98|ornaments ~ art
 #48A981|ornament ~ geometric motifs
 #48A9811|ornament ~ straight lines (right angles only)
 #48A98111|ornament ~ meander
@@ -5771,7 +5776,7 @@
 #48CC841|training ~ ballet - CC - female
 #48CC844|ballet dress - CC - female
 #48CC853|stage costume - CC - female
-49|educación, la ciencia y el aprendizaje
+#49|education, science and learning
 #49A|education
 #49A0|symbolic representations, allegories and emblems ~ education; 'Ammaestramento', Dottrina', 'Educatione', 'Istitutione' (Ripa)
 #49A1|study and diversion
@@ -5934,7 +5939,7 @@
 #49D2|algebra and statistics
 #49D21|algebraic formula, equation, etc.
 #49D22|statistic diagram, graph; pictorial chart, etc.
-49D3|planimetría, geometría
+#49D3|planimetry, geometry
 #49D30|'Planimetria', 'Ichonografia' (Ripa)
 #49D31|point (~ planimetry, geometry)
 #49D32|line (~ planimetry, geometry)
@@ -5975,7 +5980,7 @@
 #49D372|parabola
 #49D373|hyperbola
 #49D38|other planimetric figures not meant or mentioned above
-49D4|estereometría, geometría sólida
+#49D4|stereometry, solid geometry
 #49D40|'Sterometria'; 'Sterometria' (Ripa)
 #49D41|the five Platonic solids (one inside the other)
 #49D42|corner ~ stereometry
@@ -6027,7 +6032,7 @@
 #49D63|multi-dimensional geometry
 #49D64|trigonometry, polygonometry
 #49D65|descriptive geometry
-49D7|perspectiva matemática
+#49D7|mathematical perspective
 #49D70|'Perspective' (alleg.); 'Prospetiva' (Ripa)
 #49D71|anamorphosis
 #49E|science and technology
@@ -6095,19 +6100,38 @@
 #49E392|alchemistic symbols
 #49E393|alchemistic equipment
 #49E3931|alchemistic vessels
-#49E3931(...)|alchemist's vessels (with NAME)
 #49E39311|bottles (ampullae)
 #49E39311(...)|bottles (ampullae) (with NAME)
-#49E39311(OVUM PHILOSOPHICUM)|bottle: philosophical egg (ovum philosophicum)
+#49E39311(OVUM PHILOSOPHICUM)|bottles: philosophical egg (ovum philosophicum)
+#49E39311(PELICAN)|bottles: pelican
+#49E39311(PHIAL)|bottles: phial
+#49E39311(RECEPTACULUM)|bottles: receiver (receptaculum)
 #49E39312|flasks (cucurbitae)
 #49E39312(...)|flasks (cucurbitae) (with NAME)
+#49E39312(ALEMBIC)|flasks: alembic
+#49E39312(MOOR'S HEAD)|flasks: Moor's head
+#49E39312(OPERCULUM)|flasks: operculum
+#49E39312(RETORT)|flasks: retort
+#49E39312(ROSENHUT)|flasks: rosenhut
 #49E39313|pots, jars (ollae)
+#49E39313(...)|pots, jars (ollae) (with NAME)
+#49E39313(ALUDEL)|pots, jars: aludel
+#49E39313(CHALICE)|pots, jars: chalice
+#49E39313(CRUCIBLE)|pots, jars: crucible
+#49E39313(CUPEL)|pots, jars: cupel
 #49E39313(...)|pots (with NAME)
 #49E3932|alchemistic furnace
 #49E3932(...)|alchemistic furnace (with NAME)
-#49E3932(ASSAY FURNACE)|assay furnace
-#49E3932(ATHANOR)|athanor
+#49E3932(ASSAY FURNACE)|alchemistic furnace: assay furnace
+#49E3932(ATHANOR)|alchemistic furnace: athanor
+#49E3932(CARBURIZING FURNACE)|alchemistic furnace: carburizing furnace
+#49E3932(PIGER HENRICUS)|alchemistic furnace: piger henricus, 'slow Harry'
+#49E3932(REVERBATORY FURNACE)|alchemistic furnace: reverbatory furnace
+#49E3932(SMELTING FURNACE)|alchemistic furnace: smelting furnace
 #49E3933|alchemistic bath (balneum)
+#49E3933(...)|alchemistic bath (balneum) (with NAME)
+#49E3933(BALNEUM ARENAE)|alchemistic bath: balneum arenae
+#49E3933(BALNEUM MARIAE)|alchemistic bath: Mary's bath
 #49E3939|other alchemistic equipment
 #49E3939(...)|other alchemistic equipment (with NAME)
 #49E394|alchemistic substances
@@ -6125,6 +6149,9 @@
 #49E39461|Panacea ~ alchemistic substance
 #49E3949|other substances
 #49E3949(...)|other substances (with NAME)
+#49E3949(ANTIMONY)|other substances: antimony
+#49E3949(SAL AMMONIAC)|other substances: sal ammoniac
+#49E3949(VITRIOL)|other substances: vitriol
 #49E395|alchemistic processes
 #49E3951|Magnum opus: the four original stages of transmutation
 #49E39511|nigredo (blackening)

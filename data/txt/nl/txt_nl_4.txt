@@ -256,7 +256,7 @@
 #41A77|containers
 #41A771|container of metal: bucket, can, canister, drum, tin, etc.
 #41A7711|container of precious metal
-#41A772|container of stone: stone vase
+41A772|container of stone: stone vase
 #41A7721|container of (semi-)precious stone
 #41A773|container of ceramics: jar, jug, pot, vase
 #41A774|container of glass: bottle, jar, vase
