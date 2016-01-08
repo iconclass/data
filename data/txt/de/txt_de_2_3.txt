@@ -1490,7 +1490,6 @@
 25G3(PEAR-TREE)|Bäume (mit NAMEN)
 25G3(PINE)|Bäume: Kiefer
 25G3(PLANE-TREE)|Bäume: Platane
-25G3(PLUM TREE)|Bäume: Pflaumenbaum
 25G3(PLUM-TREE)|Bäume: Pflaumenbaum
 25G3(POMEGRANATE-TREE)|Bäume: Granatapfelbaum
 25G3(POPLAR)|Bäume: Pappel

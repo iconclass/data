@@ -1,5 +1,6 @@
 0|abstrakte, ungegenständliche Kunst
 1|Religion und Magie
+10|(symbolische) Darstellungen von Schöpfung, Kosmos, Kosmogonie, Universum und Leben (im weitesten Sinne)
 11|christliche Religion
 11A|Gottheit, Gott (im allgemeinen) in der christlichen Religion
 11A1|Schöpfergott

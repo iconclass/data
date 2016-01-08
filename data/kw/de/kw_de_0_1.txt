@@ -84,9 +84,9 @@
 11B331|Gottvater
 11B331|Lamm
 11B331|Taube
-11B332|Löwe
+11B332|Loewe
 11B332|Taube
-11B332|übernatürlich
+11B332|uebernatuerlich
 11B333|Symbol
 11B333|Taube
 11B4|Dekret
@@ -191,7 +191,7 @@
 11D123(SWASTIKA)|Hakenkreuz
 11D123(TAU-CROSS)|Tau-Kreuz
 11D124|Anbetung
-11D124|übernatürlich
+11D124|uebernatuerlich
 11D131|Adler
 11D131|Delphin
 11D131|Einhorn
@@ -273,13 +273,13 @@
 11D3111|Bote
 11D3112|Edessa
 11D312|Leiden
-11D312|Porträt
+11D312|Portraet
 11D312|Schleier
 11D312|Schweisstuch
 11D312|Sudarium
 11D312|Triumph
 11D312|Vera Icon
-11D312|übernatürlich
+11D312|uebernatuerlich
 11D3121|Portraet
 11D3121|Veronika (Heilige)
 11D3121|uebernatuerlich
@@ -5815,8 +5815,8 @@
 11H(ELOI)35|Travestie
 11H(ELOI)35|Verkleidung
 11H(ELOI)35|Versuchung
-11H(ELOI)35|übernatürlich
-11H(ELOI)35|verführen
+11H(ELOI)35|uebernatuerlich
+11H(ELOI)35|verfuehren
 11H(ELOI)36|Busse
 11H(ELOI)36|Froemmigkeit
 11H(ELOI)36|Selbstzuechtigung
@@ -23599,7 +23599,7 @@
 11I42|Evangelistensymbol
 11I42|Symbol
 11I42|Tier
-11I42|übernatürlich
+11I42|uebernatuerlich
 11I42|vier
 11I421|Adler
 11I421|Johannes der Evangelist (Heiliger)
@@ -23647,7 +23647,7 @@
 11I4262|Kopf (Tier)
 11I4262|Monster
 11I4262|Ungeheuer
-11I43|übernatürlich
+11I43|uebernatuerlich
 11I43|vier
 11I431|Kirchenvater
 11I431|uebernatuerlich
@@ -25115,7 +25115,7 @@
 11L13|legge nuova
 11L14|Gesetz (biblisches)
 11L14|Gnade
-11L14|übernatürlich
+11L14|uebernatuerlich
 11L141|ante legem
 11L141|uebernatuerlich
 11L142|sub lege
@@ -25129,7 +25129,7 @@
 11L2|Dekalog
 11L2|Exodus 20
 11L2|Gebot
-11L2|übernatürlich
+11L2|uebernatuerlich
 11L2|zehn
 11L21|uebernatuerlich
 11L211|Gesetzestafeln
@@ -25284,11 +25284,11 @@
 11M32|speranza divina e certa
 11M32|spes
 11M33|Kind
-11M33|Nächstenliebe
+11M33|Naechstenliebe
 11M33|Ripa, Cesare
 11M33|caritas
 11M33|carità
-11M33|übernatürlich
+11M33|uebernatuerlich
 11M4|Kardinaltugenden (Vier)
 11M4|Triumph
 11M4|vier
@@ -25602,27 +25602,27 @@
 11P315(...)|Kartaeuser
 11P315(...)|Praemonstratenser
 11P315(...)|Zisterzienser
-11P315(AUGUSTINIANS)|Amtsträger
-11P315(AUGUSTINIANS)|Bettelmönch
-11P315(AUGUSTINIANS)|Würdenträger
-11P315(AUGUSTINIANS)|römisch-katholische Kirche
-11P315(AUGUSTINIANS)|übernatürlich
+11P315(AUGUSTINIANS)|Amtstraeger
+11P315(AUGUSTINIANS)|Bettelmoench
+11P315(AUGUSTINIANS)|Wuerdentraeger
+11P315(AUGUSTINIANS)|roemisch-katholische Kirche
+11P315(AUGUSTINIANS)|uebernatuerlich
 11P315(BENEDICTINES)|Franziskaner
-11P315(CARMELITES)|Amtsträger
-11P315(CARMELITES)|Bettelmönch
-11P315(CARMELITES)|Würdenträger
-11P315(CARMELITES)|römisch-katholische Kirche
-11P315(CARMELITES)|übernatürlich
-11P315(DOMINICANS)|Amtsträger
-11P315(DOMINICANS)|Bettelmönch
-11P315(DOMINICANS)|Würdenträger
-11P315(DOMINICANS)|römisch-katholische Kirche
-11P315(FRANCISCANS)|Amtsträger
-11P315(FRANCISCANS)|Bettelmönch
+11P315(CARMELITES)|Amtstraeger
+11P315(CARMELITES)|Bettelmoench
+11P315(CARMELITES)|Wuerdentraeger
+11P315(CARMELITES)|roemisch-katholische Kirche
+11P315(CARMELITES)|uebernatuerlich
+11P315(DOMINICANS)|Amtstraeger
+11P315(DOMINICANS)|Bettelmoench
+11P315(DOMINICANS)|Wuerdentraeger
+11P315(DOMINICANS)|roemisch-katholische Kirche
+11P315(FRANCISCANS)|Amtstraeger
+11P315(FRANCISCANS)|Bettelmoench
 11P315(FRANCISCANS)|Franziskaner
-11P315(FRANCISCANS)|Würdenträger
-11P315(FRANCISCANS)|römisch-katholische Kirche
-11P315(FRANCISCANS)|übernatürlich
+11P315(FRANCISCANS)|Wuerdentraeger
+11P315(FRANCISCANS)|roemisch-katholische Kirche
+11P315(FRANCISCANS)|uebernatuerlich
 11P3151|Abtei
 11P3151|Konvent
 11P31511|Zelle
@@ -25788,10 +25788,10 @@
 11Q|Gott
 11Q|Kult
 11Q0|Andacht
-11Q0|Frömmigkeit
+11Q0|Froemmigkeit
 11Q0|Ripa, Cesare
 11Q0|divotione
-11Q0|übernatürlich
+11Q0|uebernatuerlich
 11Q01|Amore verso Iddio
 11Q01|Froemmigkeit
 11Q01|Liebe
@@ -25953,10 +25953,10 @@
 11Q65|Ehrfurcht
 11Q65|Verehrung
 11Q65|ehren
-11Q651|Frömmigkeit
+11Q651|Froemmigkeit
 11Q651|Kreuz
 11Q651|Kruzifix
-11Q651|übernatürlich
+11Q651|uebernatuerlich
 11Q652|Reliquiar
 11Q652|Reliquie
 11Q7|Liturgie
@@ -26215,7 +26215,7 @@
 11Q7321|im Hause
 11Q7321|innen
 11Q7321|taufen
-11Q7321|übernatürlich
+11Q7321|uebernatuerlich
 11Q73211|Bischof
 11Q73211|Priester
 11Q73211|uebernatuerlich
@@ -26238,9 +26238,9 @@
 11Q732321|poenitentia
 11Q732322|Bekenntnis
 11Q732323|Absolution
-11Q732323|Sünde
-11Q732323|Sündennachlass
-11Q732323|übernatürlich
+11Q732323|Suende
+11Q732323|Suendennachlass
+11Q732323|uebernatuerlich
 11Q732323|vergeben
 11Q73233|Ablass
 11Q732331|vollkommener Ablass
@@ -26259,7 +26259,7 @@
 11Q73244|Legende
 11Q73244|Wunder
 11Q73245|Erstkommunion
-11Q73245|übernatürlich
+11Q73245|uebernatuerlich
 11Q732451|uebernatuerlich
 11Q732452|Kleid
 11Q732452|Kommunionskleid
@@ -26516,7 +26516,7 @@
 11R72|Rauch
 11R72|Topf
 11R72|qualmender Topf
-11R72|übernatürlich
+11R72|uebernatuerlich
 11S|Himmel
 11S|Neue Erde
 11S|Paradies
@@ -29722,11 +29722,11 @@
 13A323|Regen
 13A33|Licht
 13A331|Irrlicht
-13A331|Phänomene
+13A331|Phaenomene
 13A331|Sumpf Feuer
 13A331|ignis fatuus
-13A331|mysteriös
-13A331|übernatürlich
+13A331|mysterioes
+13A331|uebernatuerlich
 13A34|Feuer
 13A34|Hitze
 13A341|Unverwundbarkeit
@@ -29932,7 +29932,7 @@
 13C241|dreifache Umwallung
 13C25|Knoten
 13C3|Apotropaeon
-13C3|übernatürlich
+13C3|uebernatuerlich
 13C31|Amulett
 13C31|Zauber
 13C31|uebernatuerlich
