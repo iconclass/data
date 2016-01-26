@@ -1,188 +1,188 @@
-4|Maatschappij, civilisatie en cultuur
+﻿4|Maatschappij, civilisatie en cultuur
 41|materiële aspecten van het dagelijks leven
 41A|huis en huishouding
-#41A1|civic architecture; edifices; dwellings
+41A1|stedelijke architectuur; bouwwerken; woningen
 #41A10|'Edifitio overo un sito' (Ripa)
-#41A11|palace
-#41A111|hôtel, i.e. small palace in city
-#41A12|castle
-#41A121|fortified house in city
-#41A13|edifice, e.g.: public building, department store
-#41A14|urban housing
-#41A141|the usual house or row of houses
-#41A142|house combined with shop
-#41A143|detached house in city
-#41A144|flat-building, apartment house
-#41A15|skyscraper
-#41A16|rural housing, e.g. country-house, villa, cottage
-#41A161|country-house
-#41A162|villa
-#41A163|cottage
-#41A17|farm (building)
-#41A171|barn
-#41A18|hut, cabin, lodge
-#41A181|log-cabin
-#41A182|Indian lodge
-#41A1821|wigwam
-#41A19|other dwelling types
-#41A191|tent
-#41A1911|tent-camp
-#41A1912|tepee, tipi, teepee
-#41A192|caravan (trailer)
-#41A1921|caravan-camp
-#41A1922|trailer
-#41A193|houseboat
-#41A194|lake-dwelling, pile-dwelling
-#41A1941|other dwellings standing off the ground
-#41A195|snow-hut, igloo
-#41A196|cave-dwelling
-#41A2|interior of the house
-#41A21|vestibule, hall
-#41A211|corridor
-#41A2111|gallery (spacious corridor)
-#41A22|communal rooms
-#41A221|living-room, parlour, sitting-room
-#41A222|drawing-room, 'salon'
-#41A2221|boudoir
-#41A223|dining-room
-#41A23|bedroom
-#41A24|bathroom
-#41A241|bathroom equipment
-#41A2411|bath-tub
-#41A2412|shower
-#41A2413|bidet
-#41A2414|fitted basin
-#41A2415|jug and basin; wash-basin
-#41A25|other rooms
-#41A251|study; 'studiolo'; library
-#41A252|chapel (interior of the house)
-#41A253|sun-porch, sun-parlour, glazed verandah
-#41A2531|winter-garden, conservatory
-#41A254|wardrobe
-#41A2541|linen-closet
-#41A255|attic, loft
-#41A256|storage space
-#41A3|parts (of house or building)
-#41A31|façade (of house or building)
+41A11|paleis
+41A111|hôtel, d.w.z. klein paleis in een stad
+41A12|kasteel
+41A121|gefortificeerd huis in de stad
+41A13|bouwwerk, bijv. openbaar gebouw, warenhuis
+41A14|stedelijke behuizing
+41A141|een gewoon huis of rij van huizen
+41A142|huis gecombineerd met winkel
+41A143|vrijstaand huis in de stad
+41A144|flatgebouw, apartementgebouw
+41A15|wolkenkrabber
+41A16|plattelandshuizen, bijv. buitenplaatsen, villa's, cottages, d.w.z. huisje op het platteland
+41A161|buitenplaats, landhuis
+41A162|villa
+41A163|cottage (plattelandshuis)
+41A17|boerderij (gebouw)
+41A171|schuur
+41A18|hut,houten huisje
+41A181|blokhut
+41A182|Indiaanse hut
+41A1821|wigwam
+41A19|andere typen woonhuizen
+41A191|tent
+41A1911|tentenkamp
+41A1912|tipi
+41A192|caravan (kampeerwagen)
+41A1921|caravankampeerplaats
+41A1922|kampeerwagen
+41A193|woonboot
+41A194|lake-dwelling, pile-dwelling
+41A1941|andere behuizingen die van de grond af staan
+41A195|sneeuwhut, iglo
+41A196|grotwoning
+41A2|interieur van een huis
+41A21|portalen, voorportalen
+41A211|gang
+41A2111|gallerij(ruime gang)
+41A22|gemeenschappelijke ruimte
+41A221|woonkamer, salon, zitkamer
+41A222|ontvangkamer, 'salon'
+41A2221|boudoir
+41A223|eetkamer
+41A23|slaapkamer
+41A24|badkamer
+41A241|badkameruitrusting
+41A2411|badkuip
+41A2412|douche
+41A2413|bidet
+41A2414|vaste wastafel
+41A2415|lampetstel, waskom
+41A25|overige kamers
+41A251|studeerkamer; 'studiolo'; bibliotheek
+41A252|kapel(interieur van het huis)
+41A253|serre, broeikas, glazen veranda
+41A2531|wintertuin, oranjerie
+41A254|kleerkasten
+41A2541|linen-closet
+41A255|zolder, vliering
+41A256|opslagruimte
+41A3|delen(van behuizing of gebouw)
+41A31|façade (van behuizing of gebouw)
 #41A311|front façade
-#41A3111|stone tablet in façade
+41A3111|stenen tablet in façade
 #41A312|rear façade
 #41A313|façade of inner court
-#41A32|door
-#41A321|opening the door
-#41A3211|open door
-#41A3212|divided door, upper part opened
-#41A3213|revolving door
-#41A322|closing, shutting the door
-#41A3221|closed door
-#41A323|monumental door, porch, 'aediculum'
-#41A324|metalwork of a door
-#41A3241|door-knocker, doorbell
-#41A3242|door-handle, doorknob
-#41A325|threshold
-#41A3251|stile, post, doorjamb
-#41A3252|door furniture, e.g. boot scraper, brush, doormat
-#41A326|letter-box ~ door
-#41A327|doorkeeper, house-guard (inanimate)
-#41A328|lock ~ door
-#41A3281|key
-#41A32811|master-key, 'passe-partout', skeleton key
-#41A3282|latch
-#41A3283|bolt
-#41A3284|padlock
-#41A33|window
-#41A331|opening the window
-#41A3311|open window
-#41A332|closing the window
-#41A3321|closed window
-#41A333|window shutters
-#41A3331|window shutters on the outside
-#41A3332|window shutters on the inside
-#41A334|sunblind, sunshade, awning
-#41A335|window-seat
-#41A336|human figure at (open) window
-#41A3361|human figure at (open) window, seen from outside
-#41A3362|human figure at (open) window, seen from inside
-#41A337|view through a window
-#41A3371|view through a window from the outside
-#41A3372|view through a window from the inside
-#41A34|staircase
-#41A341|stairwell
-#41A3411|escalator
-#41A342|elevator, lift
-#41A343|ladder
-#41A344|fire-escape
+41A32|deur
+41A321|deuropening
+41A3211|open deur
+41A3212|gedeelde boerendeur, het bovenste deel open
+41A3213|draaideur
+41A322|sluiten, de deur dicht doen
+41A3221|gesloten deur
+41A323|monumentale deur, veranda,'aediculum'
+41A324|hang- en sluitwerk van een deur
+41A3241|deurklopper, deurbel
+41A3242|deurhendel, deurknop
+41A325|drempels
+41A3251|stijl, deurpost
+41A3252|deur accessoires, bijv. schoenschraper, borstel, deurmat
+41A326|brievenbus ~ deur
+41A327|portier, bewaker (levenloos)
+41A328|slot~ deur
+41A3281|sleutel
+41A32811|loper, 'passe-partout'
+41A3282|klink
+41A3283|grendel
+41A3284|hangslot
+41A33|venster
+41A331|het venster openen
+41A3311|open venster
+41A332|het venster sluiten
+41A3321|gesloten venster
+41A333|vensterluiken
+41A3331|vensterluiken aan de buitenzijde
+41A3332|wvensterluiken aan de binnenzijde
+41A334|zonnescherm, 'brises-soleils', zonwering
+41A335|vensterbank
+41A336|menselijke figuur bij (open) venster
+41A3361|menselijke figuur bij (open) venster, gezien van buiten
+41A3362|menselijke figuur bij (open) venster, gezien van binnen
+41A337|uitzicht door een venster
+41A3371|uitzicht door een venster vanaf buiten
+41A3372|uitzicht door een venster vanaf binnen
+41A34|trap
+41A341|trappenhuis
+41A3411|roltrap
+41A342|lift
+41A343|ladder
+41A344|brandtrap
 #41A345|back steps
-#41A35|front steps
-#41A351|terrace
-#41A352|canopy (over entrance)
-#41A36|roof (of house or building)
-#41A361|tower (of house or building)
-#41A3611|spire (of tower on house or building)
-#41A362|roof-covering
-#41A363|decorated gable
-#41A37|basement, cellar
-#41A38|balcony
-#41A381|loggia, verandah, porch
-#41A382|bay-window, oriel
-#41A39|piping and wiring
-#41A391|water-supply and draining, pipework (in house or building)
-#41A3911|well
-#41A3912|pump
-#41A3913|tap, faucet
-#41A3914|lavatory, water-closet
-#41A3915|fountain (indoors)
-#41A3916|sink, basin
-#41A392|gas conduits
-#41A393|electric installation, fittings, e.g. socket, plug, light switch, cable, wire
-#41A4|decorations (interior of the house)
-#41A41|wall-covering
-#41A411|wall-paper
-#41A412|panelling
-#41A413|tapestry
-#41A414|cordwain, cordovan leather, Dutch: goudleer
-#41A42|upholstery (of a room)
-#41A421|curtains
-#41A422|hangings and drapery
-#41A4221|velum (hangings and drapery)
-#41A423|ceremonial drapery
-#41A4231|canopy, baldachin
-#41A43|floor-covering
-#41A43(...)|floor-covering (with NAME)
-#41A431|carpet, rug
-#41A44|(decorated) ceiling
-#41A5|annexes and outbuildings; fencing; gate
-#41A51|courtyard
-#41A511|inner court of palace or 'hôtel'
-#41A512|backyard
-#41A52|coach-house
-#41A521|garage
-#41A53|shed
-#41A54|fence, wall, paling
-#41A541|balustrade
-#41A542|gate, entrance
-#41A5421|barrier
-#41A5422|kissing gate, clap gate
-#41A543|stile
-#41A544|watergate
-#41A6|garden
-#41A61|plan, map of garden
-#41A62|garden buildings
-#41A621|pergola
-#41A622|summer-house, arbour, garden-house (Dutch: 'theekoepel')
-#41A623|hermitage
-#41A624|belvedere
-#41A625|trellis
-#41A626|sham-buildings
-#41A63|lay-out of garden
-#41A631|lawn
-#41A632|flower-bed
-#41A633|rock-garden
-#41A634|labyrinth, maze ~ garden
-#41A635|fenced or walled garden; 'Hortus Conclusus'
-#41A6351|roof garden
-#41A636|French or architectonic garden; formal garden
-#41A637|English or landscape garden
+41A35|bordes
+41A351|terras
+41A352|luifel(boven ingang)
+41A36|dak (van huis of gebouw)
+41A361|toren (van huis of gebouw)
+41A3611|spits (van toren op huis of ander bouwwerk)
+41A362|dakbedekking
+41A363|gedecoreerde geveltop
+41A37|kelder, souterrain
+41A38|balkon
+41A381|loggia, veranda, patio
+41A382|erkerraam, erkervenster
+41A39|leidingen en bedrading
+41A391|waterleidingnetwerk en -afvoer, leidingen (in huis of gebouw)
+41A3911|put
+41A3912|pomp
+41A3913|kraan, tapkraan
+41A3914|toiletpot, wc
+41A3915|drinkfontein(binnenshuis)
+41A3916|wasbak, waskom
+41A392|gasleidingen
+41A393|elektrische installatie, fittingen, bijv. stopcontact, stekker, lichtknop, kabel, draad
+41A4|stoffering (huisinterieur)
+41A41|wandbedekking
+41A411|behang, papierbehang
+41A412|lambrizering
+41A413|wandtapijt
+41A414|corduaan, Cordoba-leer, goudleer
+41A42|stoffering (van een kamer)
+41A421|gordijnen
+41A422|wandbekleding en drapering
+41A4221|velum (wandbekleding en draperie)
+41A423|ceremoniele drapering
+41A4231|hemel, baldakijn
+41A43|vloerbedekking
+41A43(...)|vloerbedekking (met NAAM)
+41A431|tapijt, vloerkleed
+41A44|(gedecoreerd) plafond
+41A5|aanbouw en bijgebouw; omheining; poort
+41A51|binnenplaats
+41A511|binnenplaats van paleis of'hôtel'
+41A512|achterplaats, achtertuin
+41A52|koetshuis
+41A521|garage, autostalling
+41A53|schuurtje
+41A54|hek, muur, schutting
+41A541|balustrade
+41A542|poort, ingang
+41A5421|barrière
+41A5422|kissing gate, klappoort
+41A543|overstap
+41A544|waterpoort
+41A6|tuin
+41A61|plattegrond, kaart van de tuin
+41A62|tuingebouwen
+41A621|pergola
+41A622|tuinhuis, prieel, theekoepel
+41A623|kluizenaarshut
+41A624|belvédère
+41A625|latwerk
+41A626|folies
+41A63|tuinontwerp
+41A631|gazon
+41A632|bloembed
+41A633|rotstuin
+41A634|labyrint, doolhof ~ tuin
+41A635|ommuurde tuin; 'Hortus Conclusus'
+41A6351|daktuin
+41A636|Franse of architectonische tuin; formele tuin
+41A637|Engelse of landschapstuin
 #41A638|garden approach, garden drive
 #41A64|garden ornaments
 #41A641|statues, sculptures in garden
@@ -6412,7 +6412,7 @@
 #49M322|pamphlet ~ printed matter
 #49M4|decoration of printed matter
 #49M41|illustration ~ printed matter, book
-#49M411|frontispiece
+49M411|frontispies
 #49M412|vignette
 #49M413|printed historiated initial
 #49M42|ornamental decoration ~ printed matter, book
