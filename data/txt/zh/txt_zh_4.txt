@@ -2636,428 +2636,428 @@
 #44E52|垃圾桶
 #44E53|掃街道, 街道清潔工
 #44E54|垃圾 ~ 街道清掃
-#44E6|food rationing
-#44E61|rationing card
-#44E62|soup-kitchen, cook-shop
-#44F|revolution, revolt
+#44E6|食品配給
+#44E61|配給卡
+#44E62|施膳處
+#44F|革命, 暴動
 #44F0|'Seditio'; 'Rebellione', 'Seditione civile' (Ripa)
-#44F1|street-fights, riots
-#44F11|barricades ~ riot
-#44F12|before the street-fight
-#44F13|after the street-fight
-#44F14|plundering ~ riot
-#44F19|anti-riot measures
-#44F2|civil war
-#44F3|state of emergency
-#44F31|curfew
-#44F4|summary justice
-#44F41|summary conviction
-#44F5|revolutionary activities
-#44F51|(revolutionary) plot, conspiracy
-#44F511|revolutionaries taking the oath
-#44F52|secret armament; preparations ~ revolutionary activities
-#44F53|revolutionary committee, rebel group
-#44F531|patriot (revolutionary)
-#44F532|ring-leader
-#44F54|revolutionary action (non-violent)
-#44F541|oral revolutionary action
-#44F542|(revolutionary action with the help of) libels, broadsides, cartoons, etc.
-#44F55|revolutionary action (violent)
-#44F551|sabotage (~ revolutionary action)
-#44F552|attempt, political murder
-#44F553|anarchism
+#44F1|巷戰, 暴亂
+#44F11|街壘 ~ 暴亂
+#44F12|巷戰之前
+#44F13|巷戰之後
+#44F14|掠奪 ~ 暴亂
+#44F19|防暴措施
+#44F2|內戰
+#44F3|緊急狀態
+#44F31|宵禁
+#44F4|即決裁定
+#44F41|即決判罪
+#44F5|革命活動
+#44F51|(革命) 密謀, 陰謀
+#44F511|革命者宣誓
+#44F52|秘密軍備; 準備 ~ 革命活動
+#44F53|革命委員會, 叛亂組織
+#44F531|愛國者 (革命的)
+#44F532|頭目
+#44F54|革命行動 (非暴力)
+#44F541|口頭革命行動
+#44F542|(革命行動的手段) 小冊子, 巨富傳單, 漫畫, 等等
+#44F55|革命行動 (暴力)
+#44F551|破壞 (~ 革命行動)
+#44F552|企圖, 政治謀殺
+#44F553|無政府主義
 #44F5531|bomb-outrage
-#44F554|destruction of buildings (~ revolutionary action)
-#44F555|destruction of monuments, portraits, etc. (~ revolution)
-#44F59|unsuccessful revolution or revolt, suppression of revolutionary activity
-#44F6|the old government and its supporters (after revolution)
-#44F61|capture (after revolution) of the old government
-#44F62|expulsion, banishment (of old government)
-#44F621|flight of the government or its adherents
-#44F63|exile (of old government or its adherents)
+#44F554|毀壞建築物 (~ 革命行動)
+#44F555|毀壞紀念碑, 肖像, 等等 (~ 革命)
+#44F59|不成功的革命或暴動, 鎮壓革命活動
+#44F6|旧政府及其支持者 (革命後)
+#44F61|(革命後) 占領旧政府
+#44F62|驅逐, 流放 (旧政府)
+#44F621|政府及其追隨者的逃亡
+#44F63|(政府及其追隨者的)放逐
 #44F630|'Esilio' (Ripa)
-#44F631|political refugee, 'émigré'
-#44F7|revolutionary government
-#44F71|proclamation of new government
-#44F711|celebration of proclamation of new government
-#44F7111|dancing around the tree of liberty
-#44F72|revolutionary court and justice
-#44F73|revolutionary council
-#44F74|measures taken by revolutionary council
-#44F741|reign of terror
+#44F631|革命流亡者, 'émigré'
+#44F7|革命政府
+#44F71|新政府宣告成立
+#44F711|慶祝新政府的宣告成立
+#44F7111|圍繞自由之樹舞蹈
+#44F72|革命法庭
+#44F73|革命委員會
+#44F74|革命委員會的手段
+#44F741|恐怖統治
 #44F7411|'agent provocateur'
-#44F7412|informing (~ reign of terror)
-#44G|law and jurisprudence
-#44G0|symbols and allegories of jurisprudence
-#44G01|symbols and allegories of law; 'Legge', 'Legge civile' (Ripa)
+#44F7412|告發 (~ 恐怖統治)
+#44G|法律和法學
+#44G0|法學的象徵符號和人格寓言化
+#44G01|法律的象徵符號和人格寓言化; 'Legge', 'Legge civile' (Ripa)
 #44G02|'Rechtsdenkmäler'
-#44G03|symbols of the lawsuit
-#44G1|administration of justice, trial
-#44G11|court session (court of justice)
-#44G111|accusation (in court)
-#44G1111|the accused
-#44G112|judicial verdict
-#44G1121|ordering the execution of a verdict
-#44G113|acquittal
-#44G12|(architectural) structures connected with law and justice
-#44G121|court building
-#44G1211|court-room
-#44G122|sign indicating a place of judicial proceedings
-#44G1221|statue (indicating a place of judicial proceedings), e.g.: 'Rolandsäule'
-#44G123|sign indicating a sanctuary
-#44G1231|market cross
-#44G13|magistracy, judges
-#44G13(...)|magistracy, judges (with NAME of function)
+#44G03|訴訟的象徵符號
+#44G1|裁判,審判的行政管理
+#44G11|開庭court session (法院)
+#44G111|指控 (法庭)
+#44G1111|被指控者
+#44G112|司法判決
+#44G1121|命令執行判決
+#44G113|開釋
+#44G12|與司法有關的(建築)結構
+#44G121|法院建築
+#44G1211|審判庭
+#44G122|審判程序發生地點的標識
+#44G1221|塑像 (表明審判程序發生地點), 如: 'Rolandsäule'
+#44G123|表明庇護所的標誌
+#44G1231|市場十字碑
+#44G13|地方行政長官, 法官
+#44G13(...)|地方行政長官, 法官 (職務名稱)
 #44G130|'Giudice' (Ripa)
-#44G131|other court officials
-#44G131(...)|other court officials (with NAME)
-#44G14|jury
-#44G141|exceptional court
-#44G1411|'Vehmgericht' (vehmic court)
-#44G1412|political tribunal
-#44G15|witnesses
-#44G151|swearing an oath (with two fingers raised)
-#44G1511|hand touching beard (swearing an oath)
-#44G152|documents (~ witnesses)
-#44G153|visiting the scene of the crime
-#44G159|perjury
-#44G16|lawyer, attorney at law
-#44G161|barrister
-#44G162|counsellor
-#44G163|plea, defence
-#44G17|ordeal
-#44G171|ordeal by fire or heat
-#44G172|ordeal by water
-#44G173|ordeal by objects
-#44G1731|'Bocca della Verità' (woman accused of adultery putting her hand into sculpted figure's mouth to prove her innocence)
-#44G174|judicial duel
-#44G2|public safety
-#44G21|night patrol
-#44G211|tower sentry
-#44G22|police
-#44G221|sheriff
-#44G222|bailiff
-#44G223|policeman, constable
-#44G23|criminal investigation
-#44G231|(private) detective
-#44G232|coroner
-#44G233|finger-prints
-#44G24|pursuit of the criminal
-#44G241|posse
-#44G242|police dog
-#44G25|arrest (of criminal)
-#44G251|handcuffs
-#44G252|transport (of arrested person)
-#44G253|interrogation of arrested person
-#44G29|outlaw
-#44G291|asylum, sanctuary
-#44G3|criminal law; punishment
-#44G31|imprisonment
-#44G311|prison, jail
-#44G3110|prison, jail, represented allegorically or symbolically
-#44G3111|prison personnel: jailers, warders, guards
-#44G312|prisoner; in fetters
-#44G3121|prisoner with hands bound
-#44G3129|(person) in fetters, not imprisoned
-#44G313|prisoner in cell or locked place
-#44G314|workhouse, penal camp, penitentiary, chain gang
-#44G315|visit to prison or penal camp
-#44G3151|freeing a prisoner; ransoming
-#44G3152|freeing a prisoner in a miraculous way
-#44G316|escape, escape attempts
-#44G317|rehabilitation of prisoners
-#44G318|(prisoners) in the prison yard
-#44G319|release from prison
-#44G3191|release from prison on bail
-#44G32|executioner, hangman
-#44G321|instruments of torture, execution or punishment
-#44G321(...)|instruments of torture, execution or punishment (with NAME)
-#44G321(BIRCH ROD)|instruments of torture, execution or punishment: birch rod
-#44G321(CROSS)|instruments of torture, execution or punishment: cross
-#44G321(GALLOWS)|instruments of torture, execution or punishment: gallows
-#44G321(GRIDIRON)|instruments of torture, execution or punishment: gridiron
-#44G321(RACK)|instruments of torture, execution or punishment: rack
-#44G321(SCOURGE)|instruments of torture, execution or punishment: scourge
-#44G321(STAKE)|instruments of torture, execution or punishment: stake
-#44G33|torture
-#44G34|death penalty, execution
-#44G341|last hours before execution
-#44G3411|person under sentence of death hears that he is to be executed
-#44G34111|last talk with relatives (during last hours before execution)
-#44G3412|spiritual support (during last hours before execution)
-#44G3413|regret (of person under sentence of death)
-#44G3414|despair (of person under sentence of death)
-#44G3415|(person under sentence of death) on the way to the scaffold or place of execution
-#44G342|on the scaffold or place of execution
-#44G349|execution in effigy
-#44G35|body of the executed displayed in public
-#44G351|part of the body of the executed displayed in public
-#44G3511|head of the executed displayed in public
-#44G36|body of the executed shown to a few people
-#44G361|part of the body of the executed shown to a few people
-#44G3611|head of the executed shown to a few people
-#44G37|public punishment (death not intended or involved)
-#44G371|public ridicule, scorn
-#44G3711|in the pillory, in the stocks
-#44G3712|ducking a scold, ducking stool
-#44G372|brand ~ punishment
-#44G3721|branded person
-#44G373|corporal punishment in public
-#44G3731|flogging, scourging (in public)
-#44G38|banishment, exile
-#44G381|deportation
-#44G382|exile asking for shelter
-#44G39|prevention of execution; modification of punishment
-#44G399|pardon, reprieve
-#44G4|civil law
-#44G41|litigation, legal proceedings, lawsuit
-#44G42|fine ~ civil law
-#44G43|seizure of goods
-#44G44|forced sale
-#44G45|notary
-#44G48|mediation, arbitration, conciliation ~ civil law
-#44G49|barratry (excessive litigation, vexatious litigation or incitement to it)
-#44G5|criminals
-#44G51|crime
+#44G131|法院的其他官員
+#44G131(...)|法院的其他官員 (名稱)
+#44G14|陪審團
+#44G141|例外法庭
+#44G1411|'Vehmgericht' (菲默法庭)
+#44G1412|政治法庭
+#44G15|證人
+#44G151|發誓 (二指上舉)
+#44G1511|手觸鬍鬚 (發誓)
+#44G152|文書 (~ 證人)
+#44G153|訪問犯罪現場
+#44G159|偽證
+#44G16|律師
+#44G161|訟務律師
+#44G162|辯護律師
+#44G163|抗辯, 辯護
+#44G17|拷打
+#44G171|用火或高溫拷打
+#44G172|用水拷打
+#44G173|用物件拷打
+#44G1731|'Bocca della Verità' (被指控通姦的婦女把手伸進雕像的口中證明自己清白)
+#44G174|司法決鬥
+#44G2|公共安全
+#44G21|夜巡
+#44G211|崗哨
+#44G22|警察
+#44G221|縣治安官
+#44G222|法庭警衛
+#44G223|警察, 治安官
+#44G23|刑事偵查
+#44G231|(私人) 偵探
+#44G232|驗屍官
+#44G233|指紋
+#44G24|追捕罪犯
+#44G241|警衛隊
+#44G242|警犬
+#44G25|逮捕 (罪犯的)
+#44G251|手銬
+#44G252|押運 (被逮捕的人)
+#44G253|審訊被逮捕的人
+#44G29|被剝奪公民權者
+#44G291|避難所, 庇護所
+#44G3|刑法; 處罰
+#44G31|囚禁
+#44G311|監獄
+#44G3110|監獄, 被人格寓言化或象徵性地表現
+#44G3111|監獄工作人員: 看守, 獄吏, 警衛
+#44G312|囚犯; 上腳鐐
+#44G3121|雙手被縛的囚犯
+#44G3129|(人) 被上腳鐐, 未被囚禁
+#44G313|在牢房或関押地的囚犯
+#44G314|勞教所, 苦役囚禁地, 教養所, 鐵鍊鎖住的苦工囚犯
+#44G315|探訪監獄或苦役囚禁地
+#44G3151|釋放囚犯; 贖出
+#44G3152|囚犯神奇般地被釋放
+#44G316|逃跑, 逃跑企圖
+#44G317|囚犯改過
+#44G318|(囚犯) 監獄院子裡
+#44G319|從監獄裡釋放
+#44G3191|從監獄裡保釋
+#44G32|死刑執行者, 劊子手
+#44G321|刑具
+#44G321(...)|拷打,執行死刑或刑罰的刑具 (名稱)
+#44G321(BIRCH ROD)|拷打,執行死刑或刑罰的刑具: 桦條
+#44G321(CROSS)|拷打,執行死刑或刑罰的刑具: 十字架
+#44G321(GALLOWS)|拷打,執行死刑或刑罰的刑具: 絞刑架
+#44G321(GRIDIRON)|拷打,執行死刑或刑罰的刑具: 烤架
+#44G321(RACK)|拷打,執行死刑或刑罰的刑具: 肢刑架
+#44G321(SCOURGE)|拷打,執行死刑或刑罰的刑具: 鞭子
+#44G321(STAKE)|拷打,執行死刑或刑罰的刑具: 火刑柱
+#44G33|拷打
+#44G34|死刑, 執行死刑
+#44G341|臨刑前數小時
+#44G3411|死刑犯被告知將被處決
+#44G34111|與親人話別 (臨刑前數小時)
+#44G3412|精神撫慰 (臨刑前數小時)
+#44G3413|悔恨 (死刑犯的)
+#44G3414|絕望 (死刑犯的)
+#44G3415|(死刑犯的) 赴斷頭台或死刑執行處
+#44G342|在斷頭台或死刑執行處
+#44G349|對某人模擬像進行處決
+#44G35|將被處決者的屍體進行示眾
+#44G351|將被處決者的屍體的一部分進行示眾
+#44G3511|將被處決者的頭顱進行示眾
+#44G36|將被處決者的屍體展示於數人
+#44G361|將被處決者的屍體的一部分展示於數人
+#44G3611|將被處決者的頭顱展示於數人
+#44G37|當眾處罰 (不是或沒有處死的意圖)
+#44G371|當眾嘲笑, 奚落
+#44G3711|戴上頸手枷, 戴上足枷
+#44G3712|將潑婦浸到水裡, 浸水刑凳
+#44G372|打烙印 ~ 處罰
+#44G3721|被打烙印的人
+#44G373|當眾體罰
+#44G3731|鞭打 (當眾)
+#44G38|放逐, 流放
+#44G381|遣送
+#44G382|流放者尋求住所
+#44G39|阻止處決; 減刑
+#44G399|赦免, 緩刑
+#44G4|民法
+#44G41|訴訟, 法律訴訟
+#44G42|罰款 ~ 民法
+#44G43|沒收貨物
+#44G44|強制拍賣
+#44G45|公證人
+#44G48|調解, 仲裁, 妥協 ~ 民法
+#44G49|無根據訴訟 (過度訴訟, 無理訴訟或煽動訴訟)
+#44G5|罪犯
+#44G51|犯罪
 #44G510|'Sceleratezza o vitio' (Ripa)
-#44G511|murderer
-#44G5111|murder
-#44G512|poisoner
-#44G52|robber
-#44G521|robber's cave
-#44G522|robbery
+#44G511|殺人犯
+#44G5111|謀殺
+#44G512|投毒者
+#44G52|強盜
+#44G521|強盜窟
+#44G522|搶劫
 #44G5220|'Rapina' (Ripa)
-#44G53|burglar, housebreaker
-#44G531|burglary
-#44G54|thief
+#44G53|破門盜竊者
+#44G531|破門盜竊
+#44G54|小偷,賊
 #44G540|'Furto' (Ripa)
-#44G541|pickpocket
-#44G542|shoplifter
-#44G543|receiver, fence
-#44G544|theft
-#44G55|counterfeiter
-#44G551|counterfeit, forgery
-#44G56|pirate, corsair, buccaneer
-#44G561|pirate(ship)
-#44G562|piracy
-#44G59|tools ~ criminals
-#44G591|dark lantern
-#44G6|juridical examples; exemplary judges; 'Gerechtigkeitsbilder'
+#44G541|扒手
+#44G542|商店扒手
+#44G543|窩藏贓物者, 銷售贓物者
+#44G544|偷竊
+#44G55|偽造者
+#44G551|偽造, 贗品
+#44G56|海盜
+#44G561|海盜(船)
+#44G562|海盜性未
+#44G59|工具 ~ 犯罪
+#44G591|隱顯燈
+#44G6|司法範例; 模範法官; 'Gerechtigkeitsbilder'
 #44G61|judge with hands chopped off
-#44G69|bad, corrupt judge
+#44G69|腐敗的法官
 #44G690|'Corruttella ne' giudici' (Ripa)
-#44G7|not used
-#44G8|informal justice, self-help
-#44G81|lynching
-#44G82|blood-revenge, vendetta
-#44G83|liberating the imprisoned
-#44G89|rescuing the victim of informal justice
-#44G9|tort; legal abuse; judicial murder
-#44G91|genocide
+#44G7|未被使用
+#44G8|非官方審判, 自助self-help
+#44G81|私處絞刑
+#44G82|以牙還牙, (血親之間的)仇殺
+#44G83|解放囚犯
+#44G89|解救非官方審判的受害者
+#44G9|侵權行為; 濫用法律; 不公正的死刑判決
+#44G91|種族滅絕
 #44GG1511|hand touching beard (swearing an oath) - GG - woman touching her braids
-#44GG5|criminals - GG - female
-#44GG51|crime - GG - female
-#44GG510|'Sceleratezza o vitio' (Ripa) - GG - female
-#44GG511|murderer - GG - female
-#44GG5111|murder - GG - female
-#44GG512|poisoner - GG - female
-#44GG52|robber - GG - female
-#44GG521|robber's cave - GG - female
-#44GG522|robbery - GG - female
-#44GG5220|'Rapina' (Ripa) - GG - female
-#44GG53|burglar, housebreaker - GG - female
-#44GG531|burglary - GG - female
-#44GG54|thief - GG - female
-#44GG540|'Furto' (Ripa) - GG - female
-#44GG541|pickpocket - GG - female
-#44GG542|shoplifter - GG - female
-#44GG543|receiver, fence - GG - female
-#44GG544|theft - GG - female
-#44GG55|counterfeiter - GG - female
-#44GG551|counterfeit, forgery - GG - female
-#44GG56|pirate, corsair, buccaneer - GG - female
-#44GG561|pirate(ship) - GG - female
-#44GG562|piracy - GG - female
-#44GG59|tools ~ criminals - GG - female
-#44GG591|dark lantern - GG - female
-45|战争；军事行动
-#45A|war and peace
-#45A1|war
-#45A10|symbols, allegories of war; 'Guerra' (Ripa)
-#45A11|militarism
-#45A12|declaration of war
-#45A13|instigation to war, propaganda
-#45A131|enemy ~ war
-#45A132|preparation for war
-#45A14|consequences of war
-#45A141|horrors of war
-#45A1411|massacre ~ war
-#45A142|war and crime
-#45A143|war and science
-#45A144|war and technique
-#45A145|war and economy
-#45A1459|war-profiteer
-#45A2|peace
-#45A20|symbols, allegories of peace, 'Pax'; 'Pace' (Ripa)
-#45A21|anti-militarism, pacifism
-#45A22|disarmament
-#45A23|consequences of peace
-#45A231|blessings of peace
-#45A232|peace and prosperity, 'Pax et Abundantia'
-#45A233|Peace and Justice kissing (cf. Ps. 85:10)
-#45A3|victory ~ armed conflict
+#44GG5|criminals - GG - 女性
+#44GG51|crime - GG - 女性
+#44GG510|'Sceleratezza o vitio' (Ripa) - GG - 女性
+#44GG511|murderer - GG - 女性
+#44GG5111|murder - GG - 女性
+#44GG512|poisoner - GG - 女性
+#44GG52|robber - GG - 女性
+#44GG521|robber's cave - GG - 女性
+#44GG522|robbery - GG - 女性
+#44GG5220|'Rapina' (Ripa) - GG - 女性
+#44GG53|burglar, housebreaker - GG - 女性
+#44GG531|burglary - GG - 女性
+#44GG54|thief - GG - 女性
+#44GG540|'Furto' (Ripa) - GG - 女性
+#44GG541|pickpocket - GG - 女性
+#44GG542|shoplifter - GG - 女性
+#44GG543|receiver, fence - GG - 女性
+#44GG544|theft - GG - 女性
+#44GG55|counterfeiter - GG - 女性
+#44GG551|counterfeit, forgery - GG - 女性
+#44GG56|pirate, corsair, buccaneer - GG - 女性
+#44GG561|pirate(ship) - GG - 女性
+#44GG562|piracy - GG - 女性
+#44GG59|tools ~ criminals - GG - 女性
+#44GG591|dark lantern - GG - 女性
+45|戰爭, 軍事
+#45A|戰爭和和平
+#45A1|戰爭
+#45A10|戰爭的象徵符號, 人格寓言化; 'Guerra' (Ripa)
+#45A11|軍國主義
+#45A12|宣戰
+#45A13|煽動戰爭, 宣傳
+#45A131|敵人 ~ 戰爭
+#45A132|備戰
+#45A14|戰爭的後果
+#45A141|戰爭的恐怖
+#45A1411|屠殺 ~ 戰爭
+#45A142|戰爭和罪行
+#45A143|戰爭和科學
+#45A144|戰爭和技術
+#45A145|戰爭和經濟
+#45A1459|戰爭得益者
+#45A2|和平
+#45A20|和平的象徵符號, 人格寓言化, 'Pax'; 'Pace' (Ripa)
+#45A21|反戰主義, 和平主義
+#45A22|解除武裝, 裁軍
+#45A23|和平的結果
+#45A231|和平的福祉
+#45A232|和平和繁榮, 'Pax et Abundantia'
+#45A233|和平與公正親吻 (cf. Ps. 85:10)
+#45A3|勝利 ~ 武裝衝突
 #45A30|'Victoria'; 'Vittoria', 'Vittoria navale', 'Vittoria degl'antichi' (Ripa)
-#45A31|military glory
-#45A4|defeat ~ armed conflict
-#45A41|disgrace ~ defeat
-#45A42|capitulation
-#45A5|cold war
-#45A51|psychological warfare
-#45A6|fifth column
-#45A61|sabotage by fifth column
-#45A9|non-belligerents, neutrals
-#45B|the soldier; the soldier's life
-#45B1|soldier(s) before enlisting
-#45B11|recruitment
-#45B111|recruiter, crimp
-#45B112|contract ~ enlisting
-#45B113|volunteers ~ enlisting
-#45B114|conscription ~ enlisting
-#45B1141|forced conscription, press ganging
-#45B115|drawing lots ~ enlisting
-#45B1151|released by lot ~ enlisting
-#45B116|medical examination ~ enlisting
-#45B1161|rejected for military service
-#45B117|replacement, substitute ~ military service
-#45B12|departure to join unit, company ~ military service
-#45B13|arrival at company station ~ military service
-#45B14|conscientious objector ~ military service
-#45B2|military training
-#45B21|military instruction
-#45B211|drill ~ military training
-#45B212|handling of weapons ~ military training
-#45B2121|artillery range, firing range, shooting range ~ military training
-#45B213|other physical exercise ~ military training
-#45B22|theoretical instruction ~ military training
-#45B23|manoeuvre ~ military training
-#45B24|competitions ~ military service
-#45B25|formal entry into the service
-#45B251|taking the oath ~ military service
-#45B2511|breaking of an oath ~ military service
-#45B28|military academy
-#45B281|(military) training ship
-#45B3|military service
-#45B31|guard duty, keeping sentry
-#45B311|changing the guard
-#45B312|in the guard-room, 'kortegaard'
-#45B313|challenged by the guard
-#45B314|attacking the sentry
-#45B315|sentry box
-#45B32|the company, the unit, the troop ~ military service
-#45B321|review, inspection (of company, unit, troop)
-#45B33|division of the day ~ military training
-#45B331|reveille
-#45B332|roll call
-#45B333|(military) tattoo
-#45B334|flag display
-#45B3341|flag raising
-#45B3342|flag lowering
-#45B4|discipline
-#45B41|military salutes
-#45B411|salute
-#45B412|presenting arms
-#45B413|saluting with flag
-#45B414|saluting the flag
-#45B415|cannon shots (military salute)
-#45B42|military discipline
-#45B421|military police, provost
-#45B422|military court, court-martial
-#45B4221|drum-head court-martial
-#45B423|disciplinary punishments ~ military life
-#45B4231|arrest ~ military service
-#45B4232|penal exercises ~ military service
-#45B4233|physical punishment ~ military service
+#45A31|軍事榮耀
+#45A4|失敗 ~ 武裝衝突
+#45A41|恥辱 ~ 失敗
+#45A42|投降
+#45A5|冷戰
+#45A51|心理戰
+#45A6|第五縱隊
+#45A61|第五縱隊的破壞
+#45A9|非交戰方, 中立
+#45B|士兵; 士兵的生活
+#45B1|入伍前的士兵(們)
+#45B11|徵兵
+#45B111|招募者, 誘人當兵
+#45B112|contract ~ 募兵
+#45B113|志願者 ~ 募兵
+#45B114|義務兵役 ~ 募兵
+#45B1141|強徵兵役, 拉壯丁
+#45B115|抽籤 ~ 募兵
+#45B1151|released by lot ~ 募兵
+#45B116|體檢 ~ 募兵
+#45B1161|被拒參軍
+#45B117|替補, 代替 ~ 服兵役
+#45B12|出發 ~ 服兵役
+#45B13|到達兵站 ~ 服兵役
+#45B14|良心拒服兵役 ~ 服兵役
+#45B2|軍事訓練
+#45B21|軍事教導
+#45B211|操練 ~ 軍事訓練
+#45B212|武器操作 ~ 軍事訓練
+#45B2121|火砲訓練場, 靶場, 射擊場 ~ 軍事訓練
+#45B213|其它體能訓練 ~ 軍事訓練
+#45B22|理論教導 ~ 軍事訓練
+#45B23|演習 ~ 軍事訓練
+#45B24|對抗 ~ 服兵役
+#45B25|正式入伍
+#45B251|宣誓 ~ 服兵役
+#45B2511|破壞承諾 ~ 服兵役
+#45B28|軍事學院
+#45B281|(軍事) 教練船
+#45B3|服兵役
+#45B31|警衛, 站崗
+#45B311|換崗哨
+#45B312|在崗亭裡, 'kortegaard'
+#45B313|被哨兵盤問
+#45B314|襲擊崗哨
+#45B315|崗亭
+#45B32|小隊, 分隊, 隊伍 ~ 服兵役
+#45B321|視察, 檢閱 (小隊, 分隊, 隊伍)
+#45B33|division of the day ~ 軍事訓練
+#45B331|起床號
+#45B332|點名
+#45B333|(軍事) 會操
+#45B334|展示旗幟
+#45B3341|升旗
+#45B3342|降旗
+#45B4|紀律
+#45B41|軍禮
+#45B411|敬禮
+#45B412|舉槍致敬
+#45B413|舉旗致敬
+#45B414|向旗幟致敬
+#45B415|開砲 (軍禮)
+#45B42|軍紀
+#45B421|憲兵, 憲兵司令
+#45B422|軍事法庭
+#45B4221|臨時軍事法庭
+#45B423|紀律處分 ~ 軍事生活
+#45B4231|逮捕 ~ 服兵役
+#45B4232|penal exercises ~ 服兵役
+#45B4233|體罰 ~ 服兵役
 #45B42331|running the gauntlet
-#45B4234|detention ~ military disciplinary punishment
-#45B424|reduction to the ranks ~ military disciplinary punishment
-#45B425|execution ~ military disciplinary punishment
-#45B43|military honours
-#45B431|promotion (military honour)
-#45B432|citation before the unit (military honour)
+#45B4234|拘留 ~ 軍事紀律處分
+#45B424|降級 ~ 軍事紀律處分
+#45B425|處決 ~ 軍事紀律處分
+#45B43|軍事榮譽
+#45B431|提級 (軍事榮譽)
+#45B432|citation before the unit (軍事榮譽)
 #45B433|medals and other marks of military honour
-#45B49|mutiny, rebellion ~ military discipline
-#45B5|military celebrations
-#45B51|military parade, pageant
-#45B52|military demonstrations
-#45B53|decorative use of flags, etc.; dressing of ship
+#45B49|兵變, 謀反 ~ 軍紀
+#45B5|軍事慶祝
+#45B51|閱兵
+#45B52|軍事表演
+#45B53|旗幟用來裝飾, 等等; 掛彩旗的船
 #45B54|meeting of soldiers and/or officers
-#45B55|guard of honour
-#45B6|the soldier off duty
-#45B61|recreation ~ the soldier off duty
-#45B611|canteen ~ the soldier off duty
-#45B612|mess ~ the soldier off duty
-#45B62|leave ~ the soldier off duty
+#45B55|儀仗隊
+#45B6|不當班的士兵
+#45B61|休閒 ~ 不當班的士兵
+#45B611|食堂 ~ 不當班的士兵
+#45B612|集體用餐mess ~ 不當班的士兵
+#45B62|休假 ~ 不當班的士兵
 #45B621|soldiers in gay company
-#45B7|completion of military service
-#45B71|demobilization
-#45B72|disbanding of the troops
-#45B73|return of the soldiers to civilian life, returning home
-#45B8|after the completion of service
-#45B81|veteran
-#45B82|disabled soldier
-#45B83|old-soldiers-home, 'Hôtel des Invalides'
-#45B84|reunion, memorial gathering (~ veteran soldiers)
-#45B9|desertion
-#45B91|desertion to the enemy
-#45C|(military) equipment and supply
-#45C1|weapons
+#45B7|完成服兵役
+#45B71|復員
+#45B72|遣散部隊
+#45B73|復員軍人回到平民生活, 回鄉
+#45B8|服兵役之後
+#45B81|老兵
+#45B82|殘廢軍人
+#45B83|老戰士之家, 'Hôtel des Invalides'
+#45B84|團聚, 紀念聚會 (~ 老戰士)
+#45B9|逃兵
+#45B91|頭敵
+#45C|(軍事) 裝備與設備
+#45C1|兵器
 #45C10|'Arme' (Ripa)
-#45C11|casting weapons
-#45C11(...)|casting weapons (with NAME)
-#45C11(BALLISTA)|casting weapons: ballista
-#45C11(SLING)|casting weapons: sling
-#45C11(SPEAR)|casting weapons: spear
-#45C12|weapons for striking a blow
-#45C12(...)|weapons for striking a blow (with NAME)
-#45C12(CLUB)|weapons for striking a blow: club
-#45C13|hacking and thrusting weapons
-#45C13(...)|hacking and thrusting weapons (with NAME)
-#45C13(DAGGER)|hacking and thrusting weapons: dagger
-#45C13(RAPIER)|hacking and thrusting weapons: rapier
-#45C13(SWORD)|hacking and thrusting weapons: sword
-#45C131|parts of hacking and thrusting weapons
-#45C131(...)|parts of hacking and thrusting weapons (with NAME)
-#45C131(BLADE)|parts of hacking and thrusting weapons: blade
-#45C131(GRIP)|parts of hacking and thrusting weapons: grip
-#45C131(GUARD)|parts of hacking and thrusting weapons: guard
-#45C131(POMMEL)|parts of hacking and thrusting weapons: pommel
+#45C11|投擲器
+#45C11(...)|投擲器 (名稱)
+#45C11(BALLISTA)|投擲器: 投石機
+#45C11(SLING)|投擲器: 彈弓
+#45C11(SPEAR)|投擲器: 矛
+#45C12|擊打器
+#45C12(...)|擊打器 (名稱)
+#45C12(CLUB)|擊打器: 棍
+#45C13|劈和刺器
+#45C13(...)|劈和刺器 (名稱)
+#45C13(DAGGER)|劈和刺器: 匕首
+#45C13(RAPIER)|劈和刺器: 細長的劍
+#45C13(SWORD)|劈和刺器: 劍
+#45C131|劈和刺器的部份
+#45C131(...)|劈和刺器的部份 (名稱)
+#45C131(BLADE)|劈和刺器的部份: 刀刃
+#45C131(GRIP)|劈和刺器的部份: 刀柄
+#45C131(GUARD)|劈和刺器的部份: 護把
+#45C131(POMMEL)|劈和刺器的部份: 柄端
 #45C14|helved weapons, polearms (for striking, hacking, thrusting)
 #45C14(...)|helved weapons, polearms (for striking, hacking, thrusting) (with NAME)
 #45C14(HALBERD)|helved weapons, polearms (for striking, hacking, thrusting): halberd
 #45C14(JAVELIN)|helved weapons, polearms (for striking, hacking, thrusting): javelin
 #45C14(LANCE)|helved weapons, polearms (for striking, hacking, thrusting): lance
 #45C14(PIKE)|helved weapons, polearms (for striking, hacking, thrusting): pike
-#45C15|archer's weapons
-#45C15(...)|archer's weapons (with NAME)
-#45C15(ARROW)|archer's weapons: arrow
-#45C15(BOW AND ARROW)|archer's weapons: bow and arrow
-#45C15(BOW)|archer's weapons: bow
-#45C15(CROSSBOW)|archer's weapons: crossbow
-#45C16|firearms
-#45C16(...)|firearms (with NAME)
-#45C16(CANNON)|firearms: cannon
-#45C16(RIFLE)|firearms: rifle
-#45C161|ammunition
-#45C1611|ammunition store, arsenal
-#45C1612|gunpowder disaster
-#45C17|projectiles, explosives, etc.
-#45C17(...)|projectiles, explosives, etc. (with NAME)
-#45C17(GUNPOWDER)|projectiles, explosives, etc.: gunpowder
-#45C17(MINE)|projectiles, explosives, etc.: mine
-#45C18|nuclear, biological and chemical weapons
-#45C19|protective weapons
-#45C19(...)|protective weapons (with NAME)
-#45C19(SHIELD)|protective weapons: shield
+#45C15|弓箭手的兵器
+#45C15(...)|弓箭手的兵器 (名稱)
+#45C15(ARROW)|弓箭手的兵器: 箭
+#45C15(BOW AND ARROW)|弓箭手的兵器: 弓和箭
+#45C15(BOW)|弓箭手的兵器: 弓
+#45C15(CROSSBOW)|弓箭手的兵器: 弩
+#45C16|火器
+#45C16(...)|火器 (名稱)
+#45C16(CANNON)|火器: 火砲
+#45C16(RIFLE)|火器: 步槍, 來福槍
+#45C161|軍火
+#45C1611|彈藥庫, 軍火庫
+#45C1612|彈藥事故
+#45C17|彈藥, 等等
+#45C17(...)|彈藥, 等等 (名稱)
+#45C17(GUNPOWDER)|彈藥, 等等: 火藥
+#45C17(MINE)|彈藥, 等等: 地雷, 水雷
+#45C18|原子, 生物和化學武器
+#45C19|防衛武器
+#45C19(...)|防衛武器 (名稱)
+#45C19(SHIELD)|防衛武器: 盾牌
 #45C2|military clothing and other equipment (uniforms, cap, armour, helmet, etc.)
 #45C21|(military) uniforms
 #45C211|uniform cap
