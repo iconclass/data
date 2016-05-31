@@ -183,55 +183,55 @@
 41A6351|daktuin
 41A636|Franse of architectonische tuin; formele tuin
 41A637|Engelse of landschapstuin
-#41A638|garden approach, garden drive
-#41A64|garden ornaments
-#41A641|statues, sculptures in garden
-#41A6411|dwarfs, 'grylloi' (garden ornaments)
-#41A642|obelisks (garden ornaments)
-#41A643|pyramids (garden ornaments)
-#41A644|herms (garden ornaments)
-#41A645|ruins (garden ornaments)
-#41A646|garden vase
-#41A65|water-works in garden
-#41A651|garden fountain
-#41A652|garden pond
-#41A653|garden cascade
-#41A66|artificial grotto in garden
-#41A67|ornamental plants
-#41A671|still life of plants, flowers and fruit
-#41A6711|flowers in a vase
-#41A6712|arranging flowers
-#41A672|topiary work (shrubs and trees trimmed and trained into ornamental shape); bonsai, espalliered, etc.
-#41A673|potted plants
-#41A68|cultivation of (ornamental) garden
-#41A681|gardening
-#41A6811|watering plants
-#41A682|gardening-tools
-#41A682(...)|gardening-tools (with NAME)
-#41A7|furniture and household effects
-#41A71|furniture to put things on
-#41A711|table
-#41A7111|tripod
-#41A7112|trestle table
-#41A712|shelves, rack, sideboard
-#41A7121|what-not
-#41A7122|bookshelves
-#41A71221|bookcase, with doors
-#41A713|cover for table, etc.
-#41A72|seating furniture
-#41A721|chair
-#41A7211|stool
-#41A72111|footstool
-#41A7212|armchair, seat
-#41A7213|rocking-chair
-#41A722|couch, sofa, settee
-#41A7221|cushion
-#41A723|bench
-#41A73|furniture for storage
-#41A731|cupboard
-#41A732|ornamental cupboard
-#41A733|chest, coffer
-#41A734|'cassone'
+41A638|tuin oprit, tuin oprijlaan
+41A64|tuinornamenten
+41A641|standbeelden, beeldhouwwerken in de tuin
+41A6411|dwergen,'grylloi' (tuinornamenten)
+41A642|obelisken (tuinornamenten)
+41A643|pyramides (tuinornamenten)
+41A644|hermen (tuinornamenten)
+41A645|ruïne (tuinornamenten)
+41A646|tuinvaas
+41A65|waterwerken in tuinen
+41A651|tuin fontein
+41A652|tuin vijver
+41A653|kleine waterval in een tuin
+41A66|kunstmatige grot in een tuin
+41A67|ornamentele planten
+41A671|stilleven met planten, bloemen en fruit
+41A6711|bloemen in een vaas
+41A6712|bloemen schikken
+41A672|figuursnoeiwerk(bomen of struiken die zijn gesnoeid in een ornamentele vorm); bonsai,latboom (espallier), enz.
+41A673|potplanten
+41A68|cultivering van (sier) tuin
+41A681|tuinieren
+41A6811|planten wateren
+41A682|tuiniergereedschap
+41A682(...)|tuiniergereedschap (met NAAM)
+41A7|meubilair en huishoudelijke artikelen
+41A71|meubilair om iets op te plaatsen
+41A711|tafel
+41A7111|driepoot
+41A7112|schraagtafel
+41A712|legplank, rek, zijplank
+41A7121|etagère
+41A7122|boekenplanken
+41A71221|boekenkast met deuren
+41A713|tafelblad, etc.
+41A72|zitmeubilair
+41A721|stoel
+41A7211|kruk
+41A72111|voetenbank
+41A7212|leunstoel, zetel
+41A7213|schommelstoel
+41A722|zitbank, sofa, canapé
+41A7221|kussen
+41A723|bank
+41A73|meubilair voor opslag
+41A731|voorraadkast	
+41A732|ornamentele kast
+41A733|kist, koffer
+41A734|'cassone'
 #41A735|lock ~ furniture
 #41A7351|key ~ furniture
 #41A7352|bolt ~ furniture
@@ -256,7 +256,8 @@
 #41A77|containers
 #41A771|container of metal: bucket, can, canister, drum, tin, etc.
 #41A7711|container of precious metal
-41A772|container of stone: stone vase
+#41A77111
+#41A772|container of stone: stone vase
 #41A7721|container of (semi-)precious stone
 #41A773|container of ceramics: jar, jug, pot, vase
 #41A774|container of glass: bottle, jar, vase
@@ -6440,3 +6441,4 @@
 #49N21|lectern ~ reading
 #49N22|pointer ~ reading
 #49N23|book-marker
+#
