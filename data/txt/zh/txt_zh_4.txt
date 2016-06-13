@@ -1348,332 +1348,332 @@
 #42DD7|mistress - DD - cicisbeo
 #42DD71|concubine - DD - cicisbeo
 42E|喪葬禮儀
-#42E1|為逝者梳妝 ~ 喪葬
-#42E11|為逝者沐浴、更衣
-#42E111|壽衣
-#42E112|給逝者穿上壽衣
-#42E12|降逝者放在屍架上
-#42E121|棺材蓋布, 'pannus funeralis'
+42E1|為逝者梳妝 ~ 喪葬
+42E11|為逝者沐浴、更衣
+42E111|壽衣
+42E112|給逝者穿上壽衣
+42E12|降逝者放在屍架上
+42E121|棺材蓋布, 'pannus funeralis'
 #42E1211|funeral shield
-#42E122|瞻仰遺容
-#42E13|守靈 ~ 喪葬禮儀
-#42E131|哀悼逝者
-#42E132|哀嘆 (~ 喪葬禮儀)
-#42E1321|悲嘆的婦人
-#42E14|入殮
-#42E141|棺材
-#42E142|placing something in or on the coffin, e.g. flowers, wedding-ring
-#42E15|embalming, mummification of the corpse
-#42E151|mummy
-#42E152|preparation of parts of the body
-#42E16|other forms of preparing the corpse
-#42E17|death-mask
-#42E18|funeral effigy
-#42E19|violation of the corpse
-#42E191|mutilation of the corpse
-#42E192|execution of punishment on corpse
-#42E193|despoiling corpse of its valuables or vestments
-#42E194|necrophily
-#42E2|喪葬儀式
-#42E21|宣佈死亡
-#42E211|oral announcement (of death), undertaker's man
-#42E212|mourning card, death notice, obituary
-#42E213|memorial medal
-#42E214|funeral parlour
-#42E22|送葬
-#42E221|hearse, funeral car
-#42E222|funeral carriages
-#42E223|litter, coffin rest
-#42E224|'pleurants'
-#42E23|下葬
-#42E231|opening of grave, exhumation
-#42E232|re-burial
-#42E24|墓地致詞
-#42E241|funeral prayers
-#42E242|throwing something into the open grave
-#42E25|火葬
-#42E26|葬禮歸來
-#42E261|funeral repast, mourners' meal
-#42E27|喪葬專家
-#42E271|undertaker, mortician
-#42E272|grave digger
-#42E273|cemetery guard
-#42E274|burial association
-#42E28|destruction of possessions of the deceased (women, horses, servants, etc. are killed after the death of the master)
-#42E281|person on deathbed having his possessions destroyed
-#42E3|墓葬及其它墓葬形式以及墓的記號
-#42E31|墓葬
-#42E311|墓石, 墓碑
-#42E3111|豎式墓碑
-#42E3112|橫式墓碑
-#42E3113|其它類型的墓穴記號, 如十字架
-#42E312|墓誌銘
-#42E32|龕墓, 壁墓
-#42E321|厓墓
-#42E33|石棺,棺
-#42E331|棺蓋
-#42E34|瓮
-#42E35|墓的建造, 紀念性墓葬
-#42E351|墓像, 'gisant' (封閉棺上的肖像或在'喪屋castrum doloris'裡的肖像), transi
-#42E3511|描繪死者半腐朽狀態的墓像
-#42E36|其它紀念性建築
-#42E361|方尖碑 (墓的記號)
-#42E362|圓柱 (墓的記號)
-#42E363|金字塔 (墓的記號)
-#42E37|古代的墓葬形式
-#42E371|史前墓葬形式
-#42E3711|burial mound
-#42E3712|megalithic chambered tomb, dolmen
-#42E372|historical grave forms
-#42E3721|mastaba
-#42E3722|pyramid (historical grave form)
-#42E3723|mausoleum
-#42E373|exotic burial customs
-#42E3731|tree-burial
-#42E3732|abandonment (exotic burial customs)
-#42E38|signs, symbols and motifs in funerary art
-#42E39|sham-grave, cenotaph
-#42E4|cult of the dead
-#42E41|mourning customs
-#42E411|mourning dress
-#42E42|dirge
-#42E43|churchyard, cemetery
-#42E431|necropolis
-#42E4311|catacombs
-#42E432|churchyard (around church)
-#42E433|mass-grave
-#42E434|cemetery, park-like burying ground
-#42E435|charnelhouse, ossuary
-#42E44|care and visitation of burial place
-#42E441|laying flowers or wreath on grave
-#42E442|discovery of tomb
-#42E45|'In memoriam'-card
-#42E49|desecration of grave
-#42E491|stealing the corpse from the grave
-#42E4911|body-snatchers
-#42E5|social readjustments to death
-#42E51|disposition of the possessions of the deceased
-#42E52|opening and reading of testament
-#42E53|redistribution of properties
-#42E531|inheritance
-#42E5311|heirloom
-#42E532|heir
-#42E5321|quarrelling heirs
-#42E54|provisions for support of spouse and children
-#42E541|insurance (provision for support of spouse and children)
-#42EE224|'pleurants' - EE - female
-42F|戶籍管理;家庭主婦在工作
-#42F0|Economy; 'Economia', 'Providenza dell'annona' (Ripa)
-#42F1|housewife
-#42F11|housewife giving orders to servants
-#42F12|housewife inspecting house and goods
-#42F13|housewife apportioning food
-#42F19|'Betty', 'Molly' (man who engages in women's work)
-#42F2|marketing, shopping (~ household management)
-#42F3|household chores
-#42F31|cleaning (the house)
-#42F311|dusting
-#42F312|polishing (~ cleaning the house)
-#42F313|window-cleaning
-#42F314|sweeping (~ cleaning the house)
-#42F32|(household) utensils and implements
-#42F32(...)|(household) utensils and implements (with NAME)
-#42F33|covering up a bed
-#42F34|laying the table
-#42F341|waiting at table
-#42F342|clearing the table
-#42F35|care of outbuildings and grounds
-#42F4|maintenance and repairs of dwelling
-#42F49|neglected dwelling
-#42F5|house personnel, servants
-#42F51|maid ~ house personnel
-#42F52|charwoman, cleaning woman
-#42F53|manservant, footman
-#42F54|butler
-#42F55|house-guard, doorkeeper, janitor
-#42F56|housekeeper
-#42F6|little household accidents
-#42F61|breaking something (household accident)
-#42F9|badly run house
-#42F91|a perfect shambles (Dutch: 'huishouden van Jan Steen')
-#42F92|slovenly housewife, 'Vrou(w) Lor(t)s'
-42G|家庭，關係，血統
-#42G1|family lineage, pedigree, genealogical tree or table
-#42G11|series of ancestral portraits, 'Ahnengalerie'
-#42G2|family relationships (first, second, third and fourth degree), generations
-#42G21|first degree family relationships
-#42G211|parents (first degree family relationships)
-#42G2111|father (first degree family relationships)
-#42G2112|mother (first degree family relationships)
-#42G212|children (first degree family relationships)
-#42G2121|son (first degree family relationships)
-#42G2122|daughter (first degree family relationships)
-#42G22|second degree family relationships
-#42G221|grandparents (second degree family relationships)
-#42G222|brothers or sisters (second degree family relationships)
-#42G2221|brothers (second degree family relationships)
-#42G2222|sisters (second degree family relationships)
-#42G223|grandchildren (second degree family relationships)
-#42G23|third degree family relationships
-#42G231|great-grandparents (third degree family relationships)
-#42G232|uncles, aunts (third degree family relationships)
-#42G233|nephews, nieces (third degree family relationships)
-#42G2331|nephews
-#42G2332|nieces
-#42G234|cousins (third degree family relationships)
-#42G235|great-grandchildren (third degree family relationships)
-#42G24|fourth degree family relationships
-#42G241|great-great grandparents (fourth degree family relationships)
-#42G242|great uncles, great aunts (fourth degree family relationships)
-#42G243|grand nephews, grand nieces (fourth degree family relationships)
-#42G244|second cousins (fourth degree family relationships)
-#42G245|great-great grandchildren (fourth degree family relationships)
-#42G29|incest
-#42Z|exotic and non-monogamous family forms
-#42Z1|polygamy
-#42Z11|harem
-#42Z111|odalisque
-#42Z112|'le Bain turc'
-#42Z113|eunuch
-#42Z2|polyandry
-#42Z3|communal marriages
-#42Z31|'Weibergemeinschaft'
-#42Z32|family or group marriage ('Punalua')
-43|消遣，娱乐
-#43A|festivities
-#43A1|periodic celebrations, popular feasts
-#43A11|calendar festivals, non-liturgical celebrations of days belonging to the ecclesiastical calendar
-#43A12|non-liturgical celebrations of Christmas, carnival and Easter
-#43A121|Christmas (non-liturgical celebration)
-#43A1211|Christmas tree
-#43A1212|Christmas decorations
-#43A1213|Father Christmas, Santa Claus, Christmas elf
-#43A1214|Christmas card
-#43A122|Carnival, Shrovetide (non-liturgical celebration)
-#43A1221|ship of fools
-#43A1222|Shrove Thursday, 'Jeudi gras'
-#43A1223|Quinquagesima
-#43A1224|Shrove Tuesday, 'Mardi gras' ~ non-liturgical celebrations of carnival
-#43A123|Easter (non-liturgical celebration)
-#43A1231|Easter egg
-#43A12311|jewelry in the shape of an Easter egg
-#43A1232|prize-ox
-#43A12321|showing around the prize-ox
-#43A1233|Easter rabbit
-#43A13|festivities connected with seasonal activities
-#43A131|vernal festivities, spring celebrations
-#43A1311|dancing around the maypole
-#43A13111|maypole
-#43A132|harvest festivities
-#43A14|festivities falling on calendar dates; memorial days
-#43A141|January 1 (~ festivities)
-#43A1411|New Year's Eve (December 31)
-#43A142|April 1 (~ festivities)
-#43A143|May 1 (~ festivities)
-#43A144|Twelfth Night, usually falling on the eve of January 6
-#43A145|Saints-day festivities (non-liturgical)
-#43A1451|festivities on St. Nicholas (Eve) (December 5)
-#43A1452|Halloween, All Hallow's Eve (October 31)
-#43A1453|St. Martin's Day (November 11)
-#43A1454|St. Patrick's Day (March 17)
-#43A146|other festivities connected to calendar dates; memorial days
-#43A146(...)|other festivities connected to calendar dates; memorial days (with DATE)
-#43A2|private festivities, merry company
-#43A21|reception, cocktail party
-#43A22|commemoration, jubilee
-#43A23|ball, formal dance
-#43A3|pleasure fair and circus
-#43A31|merry-go-round, roundabout; chair o'plane
-#43A311|giant wheel, Ferris wheel
-#43A32|amusement with cars, etc. (pleasure fair)
-#43A321|roller-coaster
-#43A322|collision cars, bumper cars
-#43A323|switchback, scenic railway
-#43A33|exercise of skill and strength (~ pleasure fair)
-#43A331|shooting gallery, miniature rifle range (~ pleasure fair)
-#43A332|try-your-strength machine
-#43A34|other kinds of amusement
-#43A341|hall with distorting mirrors
-#43A342|diorama
-#43A343|panorama, cyclorama
-#43A344|peep-show
-#43A345|lottery booth (on pleasure fair)
-#43A346|freak show
-#43A3461|human monstrosities ~ freak show
-#43A3462|animal monstrosities ~ freak show
-#43A3463|unusual objects (plants, stones, etc.) ~ freak show
-#43A35|performance 在室外 (pleasure fair)
-#43A351|performance in tents (pleasure fair)
-#43A352|drumming-up the public
-#43A36|circus
-#43A361|circus tent (outside)
-#43A362|entrance of circus tent
-#43A363|circus tent (inside)
-#43A3631|circus ring
-#43A37|the show; fair and circus performers
-#43A371|boss, director (of circus)
-#43A3711|ringmaster
-#43A372|acrobat ~ circus
-#43A3721|tight-ropewalker
-#43A3722|trapeze acrobat
-#43A3723|equilibrist
-#43A3724|knife-thrower
-#43A3725|gunman, crack shot
-#43A3726|contortionist
-#43A3727|escapologist
-#43A3728|fire-eater
-#43A373|clown
-#43A3731|Simple Simon, 'Hanswurst'
-#43A374|circus performance with trained animals (monkeys, elephants, bears, lions and tigers, horses, dogs, dolphins, seals, fleas)
-#43A3741|monkeys (circus performance)
-#43A3742|elephants (circus performance)
-#43A3743|bears (circus performance)
-#43A3744|lions and tigers (circus performance)
-#43A3745|horses (circus performance)
-#43A3746|dogs (circus performance)
-#43A3747|dolphins (circus performance)
-#43A3748|seals (circus performance)
-#43A3749|flea-circus
-#43A375|illusionist, conjurer, juggler, 'legerdemain'
-#43A3751|ventriloquist
-#43A376|fortune-teller ~ pleasure fair and circus
-#43A38|circus or fair 'en route'
-#43A381|setting up the tents (circus or fair 'en route')
-#43A382|taking down the tents (circus or fair 'en route')
-#43A4|public festivities
-#43A41|rejoicing on special occasions
-#43A411|festivities on events of national importance
-#43A412|public festivities on the occasion of royal events
-#43A4121|public festivities at marriage of royal persons
-#43A4122|public festivities at birth of royal persons
-#43A4123|public festivities at other royal events, not meant or mentioned above
-#43A42|triumphal entry and public reception, pageant, 'entrée solennelle', 'joyeuse entrée'
-#43A421|chariot, triumphal car
-#43A4211|Roman chariot, quadriga ~ triumph
-#43A4212|float ~ triumph
-#43A422|triumphal arch
-#43A423|other decorative structures (~ triumphal entry, etc.)
-#43A424|scattering of money (~ triumphal entry, etc.)
-#43A4241|coins specially minted for the occasion (triumphal entry, etc.) (Dutch: 'strooipenningen')
-#43A425|decoration and illumination of streets, squares, etc. (~ triumphal entry, etc.)
-#43A426|confetti, ticker-tape, etc. (~ triumphal entry, etc.)
-#43A43|triumphs (allegorical and symbolic)
-#43A431|'Trionfi' (of Petrarch)
-#43A4311|'Trionfi d'Amore', 'Triumphus Cupidinis'; 'Carro d'amore' (Ripa)
-#43A4312|'Trionfo della Castità', 'Triumphus Pudicitiae'; 'Carro della castità' (Ripa)
-#43A4313|'Trionfo della Morte', 'Triumphus Mortis'; 'Carro della morte' (Ripa)
-#43A4314|'Trionfo della Fama', 'Triumphus Famae'; 'Carro della Fama' (Ripa)
-#43A4315|'Trionfo del Tempo', 'Triumphus Temporis'; 'Carro del Tempo' (Ripa)
-#43A4316|'Trionfo della Divinità', 'Triumphus Aeternitatis'; 'Carro della Divinità'
-#43A432|symbolic triumphs of individual persons
-#43A4321|apotheosis (or ascension) of individuals
-#43A433|crowning with laurel
-#43A44|bonfire, fire-works
-#43A45|public disgrace
-#43A46|activities in the air ~ public festivities, e.g. fly-past
-#43A49|public funeral
-#43A491|catafalque, 'castrum doloris' (~ public funeral)
-#43AA2|private festivities, merry company - AA - 在室外, 'fête champêtre'
+42E122|瞻仰遺容
+42E13|守靈 ~ 喪葬禮儀
+42E131|哀悼逝者
+42E132|哀嘆 (~ 喪葬禮儀)
+42E1321|悲嘆的婦人
+42E14|入殮
+42E141|棺材
+42E142|把某物放在棺材上面或裡面, 如花卉, 結婚戒指
+42E15|屍體防腐, 將屍體製成木乃伊
+42E151|木乃伊
+42E152|屍體某部分的保存
+42E16|為逝者梳妝的其它形式
+42E17|屍遮面具
+42E18|逝者肖像
+42E19|侵犯逝者屍體
+42E191|毀傷逝者屍體
+42E192|懲罰逝者屍體
+42E193|掠奪逝者身上的衣物
+42E194|戀屍癖necrophily
+42E2|喪葬儀式
+42E21|宣佈死亡
+42E211|口頭宣布 (死亡), 殯葬所人員
+42E212|愛到卡片, 訃告,悼文
+42E213|紀念章
+42E214|殯葬所
+42E22|出殯
+42E221|靈車
+42E222|送葬車funeral carriages
+42E223|靈柩?litter, coffin rest
+42E224|'pleurants'
+42E23|下葬
+42E231|打開墓穴
+42E232|再次入葬
+42E24|墓地致詞
+42E241|葬禮禱詞
+42E242|將某物拋進墓穴
+42E25|火葬
+42E26|葬禮歸來
+42E261|送葬人聚餐
+42E27|喪葬專員
+42E271|承辦殯葬者
+42E272|掘墓者
+42E273|墓地看守
+42E274|殯葬協會
+42E28|對逝者所有物的破壞 (主人死後其女眷, 馬匹, 佣人等被殺害)
+42E281|臨終前毀壞其所有物
+42E3|墓葬及其它墓葬形式以及墓的記號
+42E31|墓葬
+42E311|墓石, 墓碑
+42E3111|豎式墓碑
+42E3112|橫式墓碑
+42E3113|其它類型的墓穴記號, 如十字架
+42E312|墓誌銘
+42E32|龕墓, 壁墓
+42E321|厓墓
+42E33|石棺,棺
+42E331|棺蓋
+42E34|瓮
+42E35|墓的建造, 紀念性墓葬
+42E351|墓像, 'gisant' (棺材上面的肖像或在'喪屋castrum doloris'裡的肖像), transi
+42E3511|描繪死者半腐朽狀態的墓像
+42E36|其它紀念性建築
+42E361|方尖碑 (墓的記號)
+42E362|圓柱 (墓的記號)
+42E363|金字塔 (墓的記號)
+42E37|古代的墓葬形式
+42E371|史前墓葬形式
+42E3711|墳墩
+42E3712|巨石架成的墓室, 都爾門
+42E372|歷史上出現的墓葬形式
+42E3721|古埃及磚砌墳墓
+42E3722|金字塔 (歷史上出現的墓葬形式)
+42E3723|陵墓
+42E373|異國風情的墓葬風俗
+42E3731|樹葬
+42E3732|棄屍?abandonment (異國風情的墓葬風俗)
+42E38|墓葬藝術中的記號,象徵符號及母題
+42E39|假墓, 為葬在他處者建造的墓碑
+42E4|死者崇拜
+42E41|哀悼的風俗
+42E411|哀悼的衣著
+42E42|送葬曲,哀樂
+42E43|教堂墓地
+42E431|大墓地,古代公共墓地
+42E4311|地下墓穴
+42E432|(圍繞著教堂的)教堂墓地
+42E433|集體墳墓
+42E434|墓地, 類似公園的墳地
+42E435|骨庫, 藏骨堂
+42E44|埋葬地的照顧及探視
+42E441|在墳墓上放置花卉或花圈
+42E442|發現墳墓
+42E45|'In memoriam'-卡片
+42E49|對墳墓的不敬
+42E491|從墓中盜竊逝者屍體
+42E4911|盜屍人
+42E5|死者身後的社會安排
+42E51|死者財產安排
+42E52|打開並閱讀遺囑
+42E53|死者財產的重新分配
+42E531|遺產
+42E5311|傳家寶
+42E532|繼承人
+42E5321|繼承人的爭吵
+42E54|為配偶及子女提供支助
+42E541|保險金 (為配偶及子女提供支助)
+2EE224|'pleurants' - EE - 女性
+42F|家政;家庭主婦的工作
+42F0|家庭經濟; 'Economia', 'Providenza dell'annona' (Ripa)
+42F1|家庭主婦
+42F11|家庭主婦指揮佣人
+42F12|家庭主婦檢查房間和財物
+42F13|家庭主婦分配食物
+42F19|'Betty', 'Molly' (幹家庭主婦活的男人)
+42F2|在市場購買, 購物 (~ 家政)
+42F3|家務活
+42F31|清潔 (住宅)
+42F311|清除灰塵
+42F312|擦光 (~ 清潔住宅)
+42F313|擦窗戶
+42F314|掃地 (~ 清潔住宅)
+42F32|(家庭) 器具和工具
+42F32(...)|(家庭) 器具和工具 (名稱)
+42F33|把床蓋起來
+42F34|擺飯桌
+42F341|等在飯桌旁
+42F342|收拾飯桌
+42F35|護理附屬建築和地面
+42F4|維護及修理住宅
+42F49|沒有被妥善維修的住宅
+42F5|家庭工作人員, 佣人
+42F51|侍女 ~ 家庭工作人員
+42F52|打雜女佣, 清潔女工
+42F53|男侍者, 男僕
+42F54|男管家
+42F55|門衛, 看門人
+42F56|女管家
+42F6|家裡的意外小事故
+42F61|某物被打破 (家裡的事故)
+42F9|管理糟糕的家政
+42F91|極致的混亂 (荷蘭語: 'huishouden van Jan Steen')
+42F92|媽胡懶散的家庭主婦, 'Vrou(w) Lor(t)s'
+42G|家庭，親屬關係，後代
+42G1|家系, 世系, 家系樹形圖表
+42G11|祖先肖像系列, 'Ahnengalerie'
+42G2|親屬關係 (一級, 二級, 三級和四級), 世代
+42G21|第一級親屬關係
+42G211|父母 (第一級親屬關係)
+42G2111|父親 (第一級親屬關係)
+42G2112|母親 (第一級親屬關係)
+42G212|子女 (第一級親屬關係)
+42G2121|兒子 (第一級親屬關係)
+42G2122|女兒 (第一級親屬關係)
+42G22|第二級親屬關係
+42G221|祖父母,外祖父母 (第二級親屬關係)
+42G222|兄弟姊妹 (第二級親屬關係)
+42G2221|兄弟 (第二級親屬關係)
+42G2222|姊妹 (第二級親屬關係)
+42G223|孫子女,外孫子女 (第二級親屬關係)
+42G23|第三級親屬關係
+42G231|曾祖父母,外曾祖父母 (第三級親屬關係)
+42G232|伯叔舅,姑姨 (第三級親屬關係)
+42G233|姪兒和外甥, 姪女和外甥女 (第三級親屬關係)
+42G2331|姪兒和外甥
+42G2332|姪女和外甥女
+42G234|姑表兄弟姊妹 (第三級親屬關係)
+42G235|曾孫子女,外曾孫子女 (第三級親屬關係)
+42G24|第四級親屬關係
+42G241|高曾祖父母,高外曾祖父母 (第四級親屬關係)
+42G242|伯祖父,叔祖父,舅老爺,姑姥姥,伯祖母,姨婆 (第四級親屬關係)
+42G243|姪孫, 甥孫, 姪孫女, 甥孫女 (第四級親屬關係)
+42G244|第二級堂表兄弟姊妹 (第四級親屬關係)
+42G245|高曾孫子女,高外曾孫子女 (第四級親屬關係)
+42G29|近親通婚
+42Z|奇特的和非一夫一妻制的家庭形式
+42Z1|一夫多妻
+42Z11|(伊斯蘭教徒的)妻妾,女眷
+42Z111|女奴,宮女,侍婢
+42Z112|'le Bain turc'
+42Z113|太監
+42Z2|一妻多夫
+42Z3|群婚,共婚
+42Z31|'Weibergemeinschaft'
+42Z32|群婚family or group marriage ('Punalua')
+43|娛樂,休閒
+43A|節慶
+43A1|週期性的節慶, 大眾的節慶
+43A11|歲時節慶, 教會年曆中節日的非禮拜性節慶
+43A12|聖誕節,狂歡節和復活節的非禮拜性節慶
+43A121|聖誕節 (非禮拜性的慶祝)
+43A1211|聖誕樹
+43A1212|聖誕裝飾物
+43A1213|聖誕老人
+43A1214|聖誕卡
+43A122|狂歡節, 懺悔節 (非禮拜性的慶祝)
+43A1221|愚人船
+43A1222|懺悔周四Shrove Thursday, 'Jeudi gras'
+43A1223|四旬齋前的周日
+43A1224|懺悔周二Shrove Tuesday, 'Mardi gras' ~ 狂歡節的非禮拜性的慶祝
+43A123|復活節 (非禮拜性的慶祝)
+43A1231|復活節彩蛋
+43A12311|像復活節彩蛋形狀的首飾
+43A1232|得獎公牛
+43A12321|得獎公牛遊行
+43A1233|復活節兔子
+43A13|與季節相關的節日
+43A131|春分節vernal festivities, 春天的節日
+43A1311|圍繞五朔節花柱歌舞
+43A13111|五朔節花柱
+43A132|收獲節慶
+43A14|日曆裡的節日; 紀念日
+43A141|一月一日 (~ 節慶)
+43A1411|元旦之夜 (十二月三十一日)
+43A142|四月一日 (~ 節慶)
+43A143|五月一日 (~ 節慶)
+43A144|第十二夜, 通常是一月六日
+43A145|聖徒日節慶 (非禮拜性的)
+43A1451|聖尼古拉節 (十二月五日)
+43A1452|萬聖節之夜 (十月三十一日)
+43A1453|聖馬丁節 (十一月十一日)
+43A1454|聖帕特里克節 (三月十七日)
+43A146|日曆里的其它節日; 紀念日
+43A146(...)|日曆里的其它節日; 紀念日 (日期)
+43A2|私人的節慶, 聯歡
+43A21|聚會, 雞尾酒會
+43A22|紀念節, 大慶紀念節
+43A23|舞會, 正式舞蹈
+43A3|遊樂場和馬戲團
+43A31|旋轉木馬; 旋轉鞦韆
+43A311|摩天輪
+43A32|車類娛樂, 等等 (遊樂場)
+43A321|過山車
+43A322|碰碰車
+43A323|陡直上下的小火車軌道, 盤旋火車
+43A33|技巧和力量的遊戲 (~ 遊樂場)
+43A331|射擊場, 小型來福槍射擊場 (~ 遊樂場)
+43A332|試試你的力量機
+43A34|其它類型的娛樂
+43A341|哈哈鏡廳
+43A342|立體布景
+43A343|全景畫
+43A344|洋拉片peep-show
+43A345|彩票站 (遊樂場上的)
+43A346|畸形展覽
+43A3461|畸形人 ~ 畸形展覽
+43A3462|畸形動物 ~ 畸形展覽
+43A3463|奇特的物件 (植物, 石塊, 等等) ~ 畸形展覽
+43A35|室外演出 (遊樂場)
+43A351|帳篷內的演出 (遊樂場)
+43A352|鳴鼓招徠觀眾
+43A36|馬戲團
+43A361|馬戲帳篷 (室外)
+43A362|馬戲帳篷入口
+43A363|馬戲帳篷 (室內)
+43A3631|馬戲場
+43A37|表演; 遊樂場和馬戲團的演員
+43A371|老闆, 指揮 (馬戲團的)
+43A3711|馬戲場指揮
+43A372|雜技演員 ~ 馬戲團
+43A3721|走索演員
+43A3722|高空鞦韆雜技演員
+43A3723|表演平衡特技的演員
+43A3724|飛刀演員
+43A3725|神槍手
+43A3726|柔術演員
+43A3727|脫身術演員
+43A3728|吞火演員
+43A373|小丑
+43A3731|傻瓜西蒙, 'Hanswurst'
+43A374|包括動物的馬戲團演出 (猴子, 大象, 狗熊, 獅子和老虎, 馬, 狗, 海豚, 海豹, 跳蚤)
+43A3741|猴子 (馬戲團演出)
+43A3742|大象 (馬戲團演出)
+43A3743|狗熊 (馬戲團演出)
+43A3744|獅子和老虎 (馬戲團演出)
+43A3745|馬 (馬戲團演出)
+43A3746|狗 (馬戲團演出)
+43A3747|海豚 (馬戲團演出)
+43A3748|海豹 (馬戲團演出)
+43A3749|跳蚤馬戲團
+43A375|幻術師, 魔術師, 變戲法者, 'legerdemain'
+43A3751|口技表演者
+43A376|算命先生 ~ 遊樂場和馬戲團
+43A38|遊樂場和馬戲團 '在途中'
+43A381|搭建帳篷 (遊樂場和馬戲團 '在途中')
+43A382|拆除帳篷 (遊樂場和馬戲團 '在途中')
+43A4|公眾慶典
+43A41|歡慶特殊節日
+43A411|國家重要慶典
+43A412|皇家節日的公眾慶典
+43A4121|皇室成員婚姻的公眾慶典
+43A4122|皇室成員出生的公眾慶典
+43A4123|皇家其它節日的公眾慶典, 以上未提及的
+43A42|凱旋入城及公眾歡迎, 盛裝遊行, 'entrée solennelle', 'joyeuse entrée'
+43A421|四輪馬車, 凱旋車
+43A4211|羅馬雙輪戰車, 四馬雙輪戰車 ~ 凱旋
+43A4212|彩車 ~ 凱旋
+43A422|凱旋門
+43A423|其它裝飾建築物 (~ 凱旋入城, 等等)
+43A424|揮撒錢幣 (~ 凱旋入城, 等等)
+43A4241|節日特製錢幣 (凱旋入城, 等等) (荷蘭語: 'strooipenningen')
+43A425|街道,廣場等處張燈結綵 (~ 凱旋入城, 等等)
+43A426|五彩碎紙, 彩帶, 等等 (~ 凱旋入城, 等等)
+43A43|凱旋 (人格寓言式的和象徵符號式的)
+43A431|'Trionfi' (彼特拉克的)
+43A4311|'Trionfi d'Amore', 'Triumphus Cupidinis'; 'Carro d'amore' (Ripa)
+43A4312|'Trionfo della Castità', 'Triumphus Pudicitiae'; 'Carro della castità' (Ripa)
+43A4313|'Trionfo della Morte', 'Triumphus Mortis'; 'Carro della morte' (Ripa)
+43A4314|'Trionfo della Fama', 'Triumphus Famae'; 'Carro della Fama' (Ripa)
+43A4315|'Trionfo del Tempo', 'Triumphus Temporis'; 'Carro del Tempo' (Ripa)
+43A4316|'Trionfo della Divinità', 'Triumphus Aeternitatis'; 'Carro della Divinità'
+43A432|某人物象徵性的凱旋
+43A4321|尊奉某人物 (or ascension)
+43A433|以花環加冕
+43A44|大篝火, 焰火
+43A45|在公眾面前羞辱
+43A46|空中的活動 ~ 公眾慶典, 如飛機列隊飛過
+43A49|公眾葬禮
+43A491|靈柩車, 'castrum doloris' (~ 公眾葬禮)
+43AA2|私人的節慶, 聯歡 - AA - 在室外, 'fête champêtre'
 #43AA21|reception, cocktail party - AA - 在室外, 'fête champêtre'
 #43AA22|commemoration, jubilee - AA - 在室外, 'fête champêtre'
 #43AA23|ball, formal dance - AA - 在室外, 'fête champêtre'
@@ -1706,524 +1706,524 @@
 #43AA46|activities in the air ~ public festivities, e.g. fly-past - AA - festivities on the water
 #43AA49|public funeral - AA - festivities on the water
 #43AA491|catafalque, 'castrum doloris' (~ public funeral) - AA - festivities on the water
-#43B|recreation
-#43B1|enjoying nature
-#43B11|contemplating nature
-#43B12|picnic, alfresco, 'déjeuner sur l'herbe'
-#43B121|outdoor gathering, 'délices à la campagne'
-#43B13|walking, hiking (recreation)
-#43B131|riding, cycling (recreation)
-#43B14|enjoying nature ~ plants, herbs and flowers
-#43B141|botanizing
-#43B142|mushroom-hunting
-#43B143|gathering herbs
-#43B144|picking flowers
-#43B15|enjoying nature ~ animals
-#43B151|hunting butterflies
-#43B16|mountain climbing, mountaineering
-#43B17|exploring caves
-#43B2|open-air recreation
-#43B21|pleasure-resort
-#43B3|indoor recreation
-#43B31|inn, coffee-house, public house, etc.
-#43B311|restaurant
-#43B312|tea garden, garden restaurant
-#43B313|pavement, terrace in front of inn or restaurant
-#43B32|club, meeting place
-#43B33|casino
-#43B331|gaming den, gambling den
-#43B34|night-club, dance-hall
-#43B4|wood and park (as places of recreation)
-#43B41|playing in the woods
-#43B411|climbing up a tree
-#43B412|falling from a tree
-#43B42|park
-#43B421|bandstand
-#43B5|beach (as place of recreation)
-#43B51|in or beside the water (on the beach)
-#43B52|sunbathing (on the beach)
-#43B53|(building) sand-castle
-#43B54|donkey-riding (on the beach)
-#43B55|recreation in the dunes
-#43B6|playground
-#43B61|playground equipment
-#43B61(...)|playground equipment (with NAME)
-#43B611|swing
-#43B612|slide, chute
-#43B613|seesaw
-#43B7|zoo (as place of recreation)
-#43B8|collection, exhibition, show
-#43C|sports, games and physical performances
-#43C1|sports, games ~ animals
-#43C11|hunting, chase
-#43C111|game, hunted animals
-#43C1111|group of various hunted animals
-#43C1112|hunt ~ mammals
-#43C11121|group of various hunted mammals
-#43C11122|monkey hunting
-#43C11123|hunt ~ predatory animals (fox, lion)
-#43C111231|fox hunting
-#43C1112311|fox and hounds
-#43C111232|lion hunt
-#43C1112321|hunter fighting a lion
-#43C11124|hunt ~ hoofed animals
-#43C111241|stag-hunting
-#43C111242|roe-hunting
-#43C111243|boar-hunting
-#43C11125|hunt ~ trunked animals
-#43C11126|hunt ~ rodents
-#43C111261|hare-hunting, rabbit-hunting
-#43C11127|hunt ~ marine mammals
-#43C11128|hunt ~ other mammals
-#43C1113|bird hunting
-#43C1114|hunt ~ other animals
-#43C112|hunting accidents
-#43C1121|hunted animal attacking man
-#43C113|spoils of the hunt, game, venison
-#43C1131|the kill (~ hunting)
-#43C11311|hunting trophies
-#43C1132|hunter displaying or presenting the spoils of the hunt
-#43C114|hunter
-#43C1141|assembling, 'départ pour la chasse'
-#43C1142|hunters hunting
-#43C11421|hunters resting during the hunt
-#43C1143|beaters (~ hunt)
-#43C1144|blowing the hunting horn
-#43C1145|'halali' (~ hunt)
-#43C1146|group-portrait of hunters
-#43C1147|hunting dogs
-#43C11471|hunting dogs beside the spoils
-#43C1148|hunting accoutrement
-#43C11481|game bag
-#43C11482|hunting horn
-#43C1149|return from the hunt
-#43C11491|hunting-seat, hunting lodge, 'rendez-vous de chasse', 'Jagdschloss'
-#43C115|searching for game
-#43C1151|catching animals
-#43C1152|observing animals ~ hunting
-#43C11521|photographing, filming animals
-#43C116|hunting-ground
-#43C1161|boundary-post of hunting-ground
-#43C1162|hunting stand, shelter, hide-out; often camouflaged; for unobserved watching and shooting
-#43C11621|'high seat', hunting stand on elevated platform
-#43C116211|tree stand, hunting stand in a tree
-#43C11622|hunting stand at ground level, ground blind
-#43C117|gamekeeper
-#43C118|poacher
-#43C12|fishing (sports)
-#43C121|angling
-#43C128|fisherman
-#43C1281|fisherman showing catch
-#43C13|fowling, fowler
-#43C131|finch trap, finchery
-#43C132|duck decoy
-#43C14|tormenting animals ~ sport and recreation
-#43C141|group of various animals tormented
-#43C142|tormenting mammals ~ sport and recreation
-#43C1421|cudgelling the cat, 'cat-in-a-barrel'
-#43C1422|bullfight
-#43C14221|bull-fighter, toreador
-#43C1423|bear-baiting
-#43C143|tormenting birds ~ sport and recreation (cock, goose)
-#43C1431|cock-fighting
-#43C1432|'pull-the-goose'
-#43C144|tormenting reptiles
-#43C145|tormenting amphibians
-#43C146|tormenting fish
-#43C1461|'pull-the-eel'
-#43C2|sports, games and physical performances ~ speed
-#43C21|sports, etc. on land
-#43C211|running, race
-#43C2111|(running, race) over course with obstacles, hurdle race
-#43C2112|cross-country race
-#43C2113|walking race
-#43C212|racing on animal mount
-#43C2121|horse-racing
-#43C21211|jockey
-#43C21212|racing stable
-#43C21213|race-track
-#43C2122|steeple chase, speed jumping
-#43C213|racing on a vehicle
-#43C2131|wagon racing (with horses)
-#43C21311|charioteer, 'auriga'
-#43C21312|wagon racing with two-wheeled vehicle, e.g.: chariot, sulky
-#43C21313|wagon racing with four-wheeled vehicle
-#43C2132|bicycle racing
-#43C21321|bicycle tour, e.g.: 'Tour de France', 'Giro d'Italia'
-#43C2133|motorcycle racing
-#43C2134|motorcar racing
-#43C214|walking (as sport)
-#43C218|animal racing
-#43C2181|dogs (racing)
-#43C2182|pigeons (racing)
-#43C22|sports, etc. in and on the water
-#43C221|swimming (sport)
-#43C2211|diving (sport)
-#43C22111|deep-sea diving
-#43C222|waterskiing, surf-riding
-#43C223|rowing, canoeing, etc. (sport)
-#43C224|sailing (sport)
-#43C225|motorboat racing
-#43C23|sports, etc. in the air
-#43C231|flying races
-#43C232|gliding (sports in the air)
-#43C233|balloon flight (sport)
-#43C234|sky diving, parachuting as a sport
-#43C24|winter sports
-#43C241|sledge, sleigh (winter sports)
-#43C242|bob-sled
-#43C243|small sleigh (winter sports)
-#43C244|skates (winter sports)
-#43C245|skis (winter sports)
-#43C2451|slalom (winter sports)
-#43C2452|ski-jumping
-#43C2453|ski-lift
-#43C246|ice-sailing (winter sports)
-#43C3|athletics, gymnastics
-#43C31|high-jumping (athletics, gymnastics)
-#43C311|pole-vaulting
-#43C312|jumping on trampoline
-#43C32|long-jumping, broad-jumping
-#43C321|hop-skip-jump
-#43C33|javelin-throwing
-#43C34|shot-putting
-#43C35|discus-throwing
-#43C36|other athletic sport
-#43C361|weight lifting
-#43C37|gymnastic exercises on the ground
-#43C371|gymnastic exercises with sticks, dumb-bells, etc.
-#43C38|gymnastic exercises with apparatuses
-#43C381|rings (gymnastics)
-#43C382|horizontal bar (gymnastics)
-#43C383|vaulting horse (gymnastics)
-#43C384|parallel bars (gymnastics)
-#43C39|fighting contest (sport)
-#43C391|boxing (sport)
-#43C392|wrestling (sport)
-#43C393|jiu-jitsu, judo, etc.
-#43C394|fencing (sport)
-#43C3941|fencing foil
-#43C3942|sabre (~ fencing)
-#43C395|tug-of-war
-#43C396|(medieval) fighting contest
-#43C3961|fight of gladiators
-#43C39611|fight between man and animal
-#43C39612|fight between animals, e.g. a lion and a bear
-#43C3962|'pas d'armes' (contest between two groups for pass or bridge, etc.)
-#43C3963|tournament
-#43C39631|joust, tilt
-#43C396311|joust, tilt, without barrier
-#43C396312|joust, tilt, with barrier
-#43C3964|other forms of knights' contests
-#43C39641|'Buhurt', 'Bouhourt' (medieval contest)
-#43C39642|'Quintaine' (medieval contest)
-#43C397|sport-tournament
-#43C3971|Olympic games in modern times
-#43C3972|other athletic contests
-#43C4|games of skill
-#43C41|ball games
-#43C411|soccer, football (early names: soule, choule, cholle)
-#43C4111|rugby, football
-#43C4112|American football
-#43C412|ball games in which hands are used (team play)
-#43C4121|handball
-#43C4122|basketball
-#43C4123|volley-ball
-#43C4124|water polo
-#43C413|ball games in which ball is hit with wooden object (team play)
-#43C4131|lacrosse
-#43C4132|hockey
-#43C41321|ice hockey
-#43C4133|polo (on horseback)
-#43C4134|cricket (ball game)
-#43C4135|baseball
-#43C4136|stick ball
-#43C414|ball games in which ball is hit or knocked with stick (individual play)
-#43C4141|'maille' (ball game)
-#43C4142|golf
-#43C4143|'kolf' (ball game)
-#43C41431|'kolf' on the ice
-#43C4144|croquet
-#43C4145|billiards
-#43C415|ball games in which ball is hit with racket (or hand)
-#43C4151|tennis, lawn-tennis
-#43C4152|table-tennis
-#43C4153|'jeu de Paume'
-#43C4154|'jeu de volant', badminton
-#43C4155|palm-play, game of fives
-#43C416|ball games in which ball or bowl is rolled
-#43C4161|'jeu de boules'
-#43C4162|bowling
-#43C4163|throwing ball through ring on the ground
-#43C4164|ninepins, skittles
-#43C417|ball-throwing
-#43C4171|cup-and-ball, bilboquet
-#43C418|pinball, pinball machine
-#43C42|sharpshooting (~ games of skill)
-#43C421|shooting with bow and arrow, archery (~ games of skill)
-#43C4211|shooting-the-bird (on a high pole)
+43B|休閒
+43B1|享受自然
+43B11|面對自然沉思
+43B12|郊遊野餐, 戶外午餐, 'déjeuner sur l'herbe'
+43B121|戶外聚會, 'délices à la campagne'
+43B13|散步, 徒步旅行 (休閒)
+43B131|騎乘, 騎車 (休閒)
+43B14|享受自然 ~ 植物, 草木和花卉
+43B141|研究植物
+43B142|採集蘑菇
+43B143|採集草木
+43B144|採花
+43B15|享受自然 ~ 動物
+43B151|採集蝴蝶
+43B16|登山
+43B17|山洞探險
+43B2|戶外休閒
+43B21|休閒勝地
+43B3|室內休閒
+43B31|小酒館, 咖啡屋,酒店, 等等
+43B311|飯店
+43B312|茶室花園, 花園飯店
+43B313|酒館或飯店門前的鋪道,露臺
+43B32|俱樂部, 聚會處
+43B33|賭場
+43B331|賭屋
+43B34|夜總會, 舞廳
+43B4|樹林和公園 (作為休閒場所)
+43B41|在樹林裡嬉戲
+43B411|爬樹
+43B412|從樹上掉下來
+43B42|公園
+43B421|露天音樂台
+43B5|海灘 (作為休閒場所)
+43B51|在水裡或水邊 (在海灘上)
+43B52|陽光浴 (在海灘上)
+43B53|(堆) 沙堡
+43B54|騎驢 (在海灘上)
+43B55|在沙丘上休閒
+43B6|遊戲場地
+43B61|遊戲場地器械
+43B61(...)|遊戲場地器械 (名稱)
+43B611|鞦韆
+43B612|滑梯
+43B613|蹺蹺板
+43B7|動物園 (作為休閒場所)
+43B8|收藏, 展覽, 展示
+43C|體育, 遊戲和體能展示
+43C1|體育, 遊戲 ~ 動物
+43C11|打獵,追獵
+43C111|遊戲, 被追獵的動物
+43C1111|一群被追獵的各種動物
+43C1112|追獵 ~ 哺乳動物
+43C11121|一群被追獵的哺乳動物
+43C11122|獵猴
+43C11123|追獵 ~ 食肉動物 (狐狸, 獅子)
+43C111231|獵狐
+43C1112311|狐狸和獵犬
+43C111232|獵獅
+43C1112321|獵人與獅子搏鬥
+43C11124|追獵 ~ 有蹄類動物
+43C111241|獵公鹿
+43C111242|獵母鹿
+43C111243|獵野豬
+43C11125|追獵 ~ 象鼻類動物
+43C11126|追獵 ~ 囓齒目動物
+43C111261|野兔追獵, 兔子追獵
+43C11127|追獵 ~ 水中哺乳動物
+43C11128|追獵 ~ 其它哺乳動物
+43C1113|鳥類追獵
+43C1114|追獵 ~ 其它動物
+43C112|狩獵事故
+43C1121|被追獵的動物攻擊人類
+43C113|狩獵收獲
+43C1131|被殺的動物 (~ 打獵)
+43C11311|狩獵戰利品
+43C1132|獵人展示狩獵收獲
+43C114|獵人
+43C1141|集合, 'départ pour la chasse'
+43C1142|獵人在狩獵
+43C11421|獵人在休息
+43C1143|助獵人 (~ 追獵)
+43C1144|吹響狩獵的號角
+43C1145|'halali' (~ 追獵)
+43C1146|獵人群像
+43C1147|獵犬
+43C11471|在戰利品身旁的獵犬
+43C1148|狩獵裝備
+43C11481|狩獵袋
+43C11482|狩獵號角
+43C1149|狩獵歸來
+43C11491|狩獵居所, 'rendez-vous de chasse', 'Jagdschloss'
+43C115|尋找獵物
+43C1151|抓獲動物
+43C1152|觀察動物 ~ 狩獵
+43C11521|拍攝動物照片,影片
+43C116|獵場
+43C1161|獵場界樁
+43C1162|狩獵塔, 隱蔽處; 通常偽裝起來的; 為了隱蔽觀察和射擊
+43C11621|'高座', 高台上的的狩獵塔
+43C116211|樹哨, 樹上狩獵塔
+43C11622|地面上的狩獵處,狩獵帳篷
+43C117|獵場看守
+43C118|偷獵者
+43C12|捕魚 (體育)
+43C121|垂釣
+43C128|捕魚者
+43C1281|捕魚者展示成果
+43C13|捕鳥
+43C131|捕雀籠
+43C132|野鴨誘餌
+43C14|折磨動物 ~ 體育運動和休閒
+43C141|一群各種動物被折磨
+43C142|折磨哺乳動物 ~ 體育和休閒
+43C1421|用棒打貓, '貓放進木桶裡'
+43C1422|鬥牛
+43C14221|鬥牛士
+43C1423|逗熊遊戲
+43C143|折磨鳥類 ~ 體育和休閒 (公雞, 鵝)
+43C1431|鬥雞
+43C1432|'拔鵝'
+43C144|折磨爬行動物
+43C145|折磨水陸兩棲動物
+43C146|折磨魚
+43C1461|'拔鱔魚'
+43C2|體育, 遊戲和體能展示 ~ 速度
+43C21|陸上體育, 等等
+43C211|跑步,賽跑
+43C2111|障礙(跑步,賽跑) , 跨欄賽跑
+43C2112|越野賽跑
+43C2113|競走
+43C212|騎在動物身上的賽跑
+43C2121|賽馬
+43C21211|賽馬騎手
+43C21212|賽馬飼養場
+43C21213|賽馬跑道
+43C2122|障礙賽馬
+43C213|賽車
+43C2131|(馬拉的)賽車
+43C21311|禦車手, 'auriga'
+43C21312|兩輪車賽跑, 如: 兩輪戰車, 單座兩輪馬車
+43C21313|四輪車賽跑
+43C2132|自行車賽
+43C21321|自行車環賽,如: '環法自行車大賽', '環意自行車賽'
+43C2133|摩托車賽
+43C2134|汽車賽
+43C214|步行 (作為體育)
+43C218|動物賽跑
+43C2181|(賽)狗
+43C2182|(賽)鴿
+43C22|水上體育,等等
+43C221|游泳 (體育)
+43C2211|跳水 (體育)
+43C22111|深海潛水
+43C222|滑水, 水撬運動
+43C223|賽艇, 等等(體育)
+43C224|帆船賽 (體育)
+43C225|摩托艇賽
+43C23|空中體育,等等
+43C231|飛行比賽
+43C232|滑翔 (空中體育)
+43C233|氣球飛行 (體育)
+43C234|跳傘, 跳傘運動
+43C24|冬季運動
+43C241|雪橇 (冬季運動)
+43C242|有舵雪橇
+43C243|小雪橇 (冬季運動)
+43C244|溜冰鞋 (冬季運動)
+43C245|滑雪板 (冬季運動)
+43C2451|障礙滑雪 (冬季運動)
+43C2452|跳台滑雪
+43C2453|滑雪纜車
+43C246|冰上帆船 (冬季運動)
+43C3|競技, 體操
+43C31|跳高 (競技, 體操)
+43C311|撐竿跳高
+43C312|蹦床跳高
+43C32|跳遠
+43C321|三級跳遠
+43C33|投擲標槍
+43C34|投擲鉛球
+43C35|投擲鐵餅
+43C36|其它競技項目
+43C361|舉重
+43C37|地面上的體操運動
+43C371|使用棒,啞鈴等體操運動
+43C38|使用器械的體操運動
+43C381|吊環 (體操)
+43C382|單槓 (體操)
+43C383|跳馬 (體操)
+43C384|雙槓 (體操)
+43C39|技擊 (體育)
+43C391|拳擊 (體育)
+43C392|摔跤 (體育)
+43C393|柔術, 柔道, 等等
+43C394|擊劍 (體育)
+43C3941|花劍
+43C3942|佩劍 (~ 擊劍)
+43C395|拔河
+43C396|(中世紀) 格鬥
+43C3961|角鬥士格鬥
+43C39611|人與動物之間格鬥
+43C39612|動物之間格鬥, 如獅子與熊
+43C3962|'pas d'armes' (橋上或關隘的騎士比武, 等等)
+43C3963|比武大會
+43C39631|馬上長槍比武
+43C396311|無界攔的馬上長槍比武
+43C396312|有界攔的馬上長槍比武
+43C3964|其它形式的騎士比賽
+43C39641|'Buhurt', 'Bouhourt' (中世紀比賽)
+43C39642|'Quintaine' (中世紀比賽)
+43C397|體育錦標賽
+43C3971|現代奧運會
+43C3972|其它競技比賽
+43C4|技巧比賽
+43C41|球賽
+43C411|足球 (早期名稱: soule, choule, cholle)
+43C4111|英式橄欖球, 足球
+43C4112|美式足球
+43C412|用手的球賽 (團隊賽)
+43C4121|手球
+43C4122|籃球
+43C4123|排球
+43C4124|水球
+43C413|用木棍打擊的球賽 (團隊賽)
+43C4131|曲棍網球
+43C4132|曲棍球
+43C41321|冰上曲棍球
+43C4133|馬球
+43C4134|板球 (球賽)
+43C4135|棒球
+43C4136|棍子球
+43C414|用棍子打擊的球賽 (個人賽)
+43C4141|'maille' (球賽)
+43C4142|高爾夫球
+43C4143|'kolf' (球賽)
+43C41431|冰上'kolf' 
+43C4144|槌球
+43C4145|桌球
+43C415|用球拍(或手)的球賽 
+43C4151|網球, 草地網球
+43C4152|乒乓球
+43C4153|'jeu de Paume'
+43C4154|'jeu de volant', 羽毛球
+43C4155|壁手球
+43C416|球在滾動的球賽
+43C4161|'jeu de boules'
+43C4162|保齡球
+43C4163|把球拋進地上的環裡throwing ball through ring on the ground
+43C4164|九柱戲木樁
+43C417|拋球
+43C4171|劍球
+43C418|彈子,彈子機
+43C42|精準射擊 (~ 技巧比賽)
+43C421|弓箭射擊 (~ 技巧比賽)
+43C4211|射鳥 (高樁上的)
 #43C4212|champion-shot
-#43C422|sharpshooting with revolver or other handgun (~ games of skill)
-#43C423|sharpshooting with rifle, shotgun or other long firearms (~ games of skill)
-#43C424|target (~ sharpshooting)
-#43C43|'jeu de tonneau'
+43C422|手槍或左輪手槍的精準射擊 (~ 技巧比賽)
+43C423|來福槍或其它長短火器的精準射擊 (~ 技巧比賽)
+43C424|射擊目標 (~ 精準射擊)
+43C43|'jeu de tonneau'
 #43C431|throwing disc into hole in barrel
 #43C432|hand shovel-board
-#43C44|yoyo
-#43C441|air top, diabolo, devil-on-two-sticks
-#43C45|tilting at the ring (~ games of skill)
-#43C5|games of calculation and chance, e.g.: card games, gambling, puzzles, etc.
-#43C51|card games
-#43C511|card-sharp
-#43C512|playing-cards
+43C44|溜琉球
+43C441|空中陀螺
+#43C45|持矛tilting at the ring (~ 技巧比賽)
+43C5|計算和機會的遊戲, 如: 紙牌遊戲, 賭博, 益智遊戲, 等等
+43C51|紙牌遊戲
+43C511|玩牌作弊者
+43C512|玩牌
 #43C5121|jolly joker
-#43C513|patience (card game)
-#43C52|board-games
-#43C521|chess
-#43C5211|chessmen
-#43C5212|man and woman playing chess, woman wins
-#43C522|backgammon, tric-trac
-#43C523|draughts
-#43C5231|draughtsmen
-#43C53|board-games of chance
-#43C531|goose-game
-#43C532|monopoly (board-game of chance)
-#43C54|dominoes
-#43C55|dice-games
-#43C551|cheat (~ dice game)
-#43C552|dice
-#43C56|betting
-#43C561|betting on sports
-#43C562|roulette
-#43C57|tombola
-#43C58|raffle, lottery
-#43C581|drawing lots ~ betting
-#43C582|totalizator, pool
-#43C59|puzzle, riddle, conundrum, enigma
-#43C591|charade
-#43C592|cross-word puzzle
-#43C593|jig-saw puzzle
-#43C6|group games, party games
-#43C61|game of forfeits
-#43C62|musical chairs
-#43C63|party games with erotic implications, e.g.: kissing contest
-#43C631|hot cockles, 'haute coquilles', 'la main chaude' (party game)
-#43C64|frog in the middle (party game)
-#43C68|grown-ups playing children's games
-#43C69|rough-and-tumble
-#43C7|children's games and plays
-#43C71|games without play material
-#43C711|running games (children)
-#43C7111|simple running games
-#43C71111|running (~ game)
-#43C71112|catch (~ running game)
-#43C71113|'red rover, red light?' and related games
-#43C7112|contest games
-#43C71121|to take prisoners ~ children's games
-#43C71122|to take possession of ground ~ children's games
-#43C71123|to catch, to touch, in groups ~ children's games
-#43C7113|running-and-hiding games
-#43C71131|hide-and-seek
-#43C7114|running games played in a ring
-#43C7115|running games with a story element
-#43C7116|London Bridge and related arch and bridge games
+43C513|接龍 (紙牌遊戲)
+43C52|棋類遊戲
+43C521|國際象棋
+43C5211|國際象棋棋子
+43C5212|男女在下棋, 女性贏棋
+43C522|西洋雙陸棋
+43C523|西洋跳棋
+43C5231|西洋跳棋棋子
+43C53|機會棋類
+43C531|跳鵝棋
+#43C532|強手棋monopoly (board-game of chance)
+43C54|多米諾骨牌
+43C55|骰子遊戲
+#43C551|cheat (~ 骰子遊戲)
+43C552|骰子
+43C56|下賭注
+43C561|體育彩票
+43C562|輪盤賭
+43C57|旋轉圓筒抽獎
+43C58|彩券,抽獎
+43C581|抽簽 ~ 下賭注
+43C582|賭金計算器
+43C59|益智遊戲, 謎語, 難題, 謎
+43C591|啞劇字謎
+43C592|縱橫填字字謎
+43C593|拼圖遊戲
+43C6|團體遊戲, 派對遊戲
+43C61|罰物遊戲
+43C62|音樂伴奏下的搶位子遊戲
+43C63|具有色情意味的派對遊戲, 如: 接吻比賽
+43C631|蒙眼猜人遊戲, 'haute coquilles', 'la main chaude' (派對遊戲)
+#43C64|青蛙在中間遊戲frog in the middle (派對遊戲)
+43C68|成人玩兒童遊戲
+43C69|狂野戲鬧
+43C7|兒童遊戲
+43C71|無需玩具的遊戲
+43C711|跑動 (兒童)
+43C7111|簡單的跑動遊戲
+43C71111|跑動 (~ 遊戲)
+43C71112|抓住 (~ 追逐)
+43C71113|'red rover, red light?' 和相關遊戲
+43C7112|跑動競賽
+43C71121|抓俘虜遊戲 ~ 兒童遊戲
+43C71122|占地遊戲 ~ 兒童遊戲
+43C71123|抓住, 碰到, 在一個團體中 ~ 兒童遊戲
+43C7113|跑動躲藏遊戲
+43C71131|捉迷藏
+43C7114|在圈子裡的追逐遊戲running games played in a ring
+43C7115|有故事成份的追逐遊戲
+43C7116|倫敦橋和相關橋和拱門遊戲
 #43C7117|snake or chain games
 #43C71171|train (snake or chain games)
-#43C7118|whirling games, pinwheel
-#43C712|jumping games
-#43C7121|simple jumping games
-#43C7122|leap-frog and variants
+43C7118|轉動遊戲, 紙風車
+43C712|跳躍遊戲
+43C7121|簡單跳躍遊戲
+43C7122|蛙跳及類似跳躍
 #43C7123|hey cockalorum and variants
-#43C7124|hop-scotch
-#43C7125|varia (jumping games)
-#43C71251|tumbling, somersaults ~ jumping games
-#43C71252|stand on the head ~ jumping games
-#43C71253|walking on all fours ~ jumping games
-#43C71254|spinning ~ jumping games
-#43C7126|ditch-over (jumping game)
-#43C71261|ditch-over with jumping pole (jumping game)
-#43C713|dancing games (children's games)
-#43C7131|simple dances
-#43C7132|jumping-rope games
-#43C7133|ring and square dancing (children's games)
-#43C7134|row dancing (children's games)
-#43C714|throwing games
-#43C7141|simple throwing games
-#43C7142|throwing stones (throwing game)
-#43C7143|throwing sticks (throwing game)
-#43C7144|throwing coins (throwing game)
-#43C7145|throwing fruit (throwing game)
-#43C7146|ball games (children's games)
-#43C71461|ball games played by one person
-#43C71462|ball throwing and catching (children's games)
-#43C71463|hitting ball with stick, etc. (children's game)
-#43C71464|kicking ball (children's games)
-#43C7147|bowling games (children's games)
-#43C7148|varia (throwing games)
-#43C71481|throwing rings, quoits, etc. (children's games)
-#43C715|finger and fist games
-#43C7151|simple hand games
-#43C71511|shadow pictures (~ hand games)
-#43C71512|finger and string games (cat's cradle, etc.)
-#43C7152|clap and slap games
-#43C71521|piling hands or fists one above the other (children's games)
-#43C71522|bursting bags (children's game)
-#43C7153|pointing and counting games
-#43C7154|finger games
-#43C7155|finger-rhymes
-#43C716|trade games, imitative games, imitating adults
-#43C717|guessing games (children)
-#43C7171|simple guessing games
-#43C7172|hunting games (hunting for hidden object)
-#43C71721|following a trail (~ hunting games)
-#43C7173|divination games, fortune-telling games
-#43C7174|drawing lots ~ children's games
-#43C7175|blindfold games
-#43C71751|blind-man's buff
-#43C718|swinging games
-#43C7181|swinging (children's game)
-#43C7182|rocking the cradle (children's game)
+43C7124|跳房子
+43C7125|其它 (跳躍遊戲)
+43C71251|翻筋斗 ~ 跳躍遊戲
+43C71252|倒立 ~ 跳躍遊戲
+43C71253|四肢並用行走 ~ 跳躍遊戲
+43C71254|快速旋轉 ~ 跳躍遊戲
+#43C7126|ditch-over (跳躍遊戲)
+#43C71261|ditch-over with jumping pole (跳躍遊戲)
+43C713|舞蹈遊戲 (兒童遊戲)
+43C7131|簡單的舞蹈
+43C7132|跳繩
+#43C7133|ring and square dancing (兒童遊戲)
+#43C7134|row dancing (兒童遊戲)
+43C714|投擲遊戲
+43C7141|簡單的投擲遊戲
+43C7142|扔石子 (投擲遊戲)
+43C7143|扔棒 (投擲遊戲)
+43C7144|扔硬幣 (投擲遊戲)
+43C7145|扔果實 (投擲遊戲)
+43C7146|玩球 (兒童遊戲)
+43C71461|單人玩球遊戲
+43C71462|扔球接球遊戲 (兒童遊戲)
+43C71463|用棍擊球, 等等 (兒童遊戲)
+43C71464|踢球 (兒童遊戲)
+43C7147|滾球遊戲 (兒童遊戲)
+43C7148|其它 (投擲遊戲)
+43C71481|拋扔環圈, 等等 (兒童遊戲)
+43C715|手指和拳頭遊戲
+43C7151|手的簡單遊戲
+43C71511|投影圖畫 (~ 手的遊戲)
+43C71512|手和繩遊戲 (翻繩遊戲, 等等)
+43C7152|拍打遊戲
+43C71521|疊手或疊拳遊戲 (兒童遊戲)
+#43C71522|bursting bags (兒童遊戲)
+43C7153|指認和計數遊戲
+43C7154|手指遊戲
+43C7155|手指歌謠
+43C716|交換遊戲, 模仿遊戲, 模仿成人的遊戲
+43C717|猜測遊戲 (兒童)
+43C7171|簡單的猜測遊戲
+43C7172|尋找遊戲 (尋找物件)
+43C71721|追蹤線索 (~ 尋找遊戲)
+43C7173|占卜遊戲, 算命遊戲
+43C7174|抽籤 ~ 兒童遊戲
+43C7175|蒙眼遊戲
+43C71751|蒙眼捉迷藏
+43C718|搖盪遊戲
+43C7181|蕩鞦韆 (兒童遊戲)
+43C7182|搖搖籃 (兒童遊戲)
 #43C7183|knee-riding
-#43C7184|carrying games
-#43C71841|pick-a-back, piggyback
-#43C719|rough-and-tumble; fighting
-#43C72|games using special objects (marbles, top, hoop, etc.)
-#43C721|(playing at) marbles
-#43C7211|(playing at) marbles (with cup-hole)
-#43C722|(playing with) top
-#43C7221|spinning a top
-#43C7222|whipping a top
-#43C723|(bowling a) hoop
-#43C7231|spinning horizontal hoop
-#43C724|(flying a) kite
-#43C7241|(flying a) gas balloon
-#43C725|(walking on) stilts
-#43C726|(playing at) knuckle-bones, 'astragali'
-#43C727|roller-skating, roller-skates
-#43C73|child and nature (games and plays)
-#43C731|child imitating animals
-#43C732|child robbing bird's nests
-#43C7321|hunting bird's eggs (children)
-#43C733|child teasing animals
-#43C734|child playing with animals
-#43C735|child with plant (games and plays)
-#43C736|child ~ natural phenomenon
-#43C7361|child and rain
-#43C737|playing with snow and ice
-#43C7371|sliding (playing with snow and ice)
-#43C7372|(making a) snowman
-#43C73721|rolling up a snowball
-#43C7373|throwing snowballs
-#43C7374|with chair on ice
-#43C7379|going through the ice ~ playing children
-#43C74|child in environment and time
-#43C741|calendar-dates ~ children's games and plays
-#43C741(...)|calendar-dates ~ children's games and plays (with DATE)
-#43C742|child and school (~ games and plays)
-#43C7421|school festivity
-#43C7422|school outing
-#43C7423|games at school
-#43C7424|mischievous child (at school)
-#43C7425|truancy
-#43C743|child and art
-#43C7431|'music' of children
-#43C74311|pot-and-pan orchestra, rough music
-#43C74312|blowing a home-made whistle
-#43C74313|bladder with peas ~ children's games
-#43C7432|children playing musical instruments
-#43C74321|children playing (ancient) musical instruments
-#43C74322|(children playing) pleasure-fair instruments
-#43C7433|children singing
-#43C75|mischief-making play
-#43C751|calling names, hooting ~ children's mischief
-#43C752|teasing (children's games and plays)
-#43C7521|taking things away from small children
-#43C753|ringing doorbells (mischief-making)
+43C7184|揹人遊戲
+43C71841|揹人在背上
+43C719|狂野戲鬧遊戲; 打鬧
+43C72|使用特殊物件的遊戲 (彈珠, 陀螺, 圈環, 等等)
+43C721|(玩) 彈珠
+43C7211|(玩) 彈珠 (有球洞的)
+43C722|(玩) 陀螺
+43C7221|旋轉陀螺
+43C7222|抽打陀螺
+43C723|(滾) 圈環
+43C7231|水平旋轉圈環
+43C724|(放) 風箏
+43C7241|(放) 氣球
+43C725|(走) 高蹺
+43C726|(玩) 趾骨遊戲, 'astragali'
+43C727|滑旱冰, 旱冰鞋
+43C73|兒童和自然 (遊戲和玩耍)
+43C731|兒童模仿動物
+43C732|兒童掏鳥窩
+43C7321|尋找鳥蛋 (兒童)
+43C733|兒童挑逗動物
+43C734|兒童與動物玩耍
+43C735|兒童與植物 (遊戲和玩耍)
+43C736|兒童 ~ 自然現象
+43C7361|兒童與雨
+43C737|兒童嬉戲冰雪
+43C7371|滑冰 (兒童嬉戲冰雪)
+43C7372|(搭) 雪人
+43C73721|滾雪球
+43C7373|扔雪球
+43C7374|和椅子在冰上
+43C7379|穿過冰面 ~ 嬉戲的兒童
+43C74|兒童在時空中
+43C741|年曆中的一天 ~ 兒童的遊戲和玩耍
+43C741(...)|年曆中的一天 ~ 兒童的遊戲和玩耍 (日期名稱)
+43C742|兒童和學校 (~ 遊戲和玩耍)
+43C7421|學校活動
+43C7422|學校外出遊玩
+43C7423|在學校遊玩
+43C7424|淘氣的兒童 (在學校)
+43C7425|逃學
+43C743|兒童與藝術
+43C7431|兒童的'音樂'
+43C74311|鍋盆樂團, 粗糙的音樂
+43C74312|吹自製的哨子
+#43C74313|bladder with peas ~ 兒童遊戲
+43C7432|兒童演奏樂器
+43C74321|兒童演奏(古代)樂器
+#43C74322|(兒童演奏) pleasure-fair instruments
+43C7433|兒童唱歌
+43C75|做惡作劇
+43C751|喊人名字, 喝倒采 ~ 兒童惡作劇
+43C752|挑逗 (兒童遊戲和玩耍)
+43C7521|把另一個小孩的東西拿走
+43C753|按門鈴 (做惡作劇)
 #43C754|'Teddy-boy' goings-on
-#43C755|vandalism (mischief-making play)
-#43C76|before and after playing
-#43C761|counting out (before playing)
-#43C762|other ways of deciding who is to be 'it'
-#43C767|going home after playing
-#43C768|chasing up ~ playing
+43C755|毀壞公物 (做惡作劇)
+43C76|遊戲前後
+43C761|記數選鬼 (遊戲前)
+43C762|其它選鬼的方法
+43C767|遊戲後回家
+43C768|追逐 ~ 遊戲
 #43C769|chased off during game, play broken up
-#43C77|other children's games
-#43C771|reading a picture book
-#43C772|children's books
-#43C7721|children's images
-#43C78|(playing with) toys
-#43C781|(playing with) building play-material
-#43C7811|(playing with) things to stack
-#43C7812|(playing with) blocks
-#43C7813|(playing with) meccano
-#43C7814|(playing with) cut-out constructions
-#43C7815|building model houses
-#43C7816|model building (of machines or vehicles)
-#43C782|(playing with) movable toys
-#43C7821|(playing with) dancing dolls
-#43C7822|(playing with) revolving toys
-#43C7823|(playing with) toy mills
-#43C7824|other movable toys
-#43C783|(playing with) mechanical toys
-#43C7831|(playing with) steam engine
-#43C7832|(playing with) motor
-#43C7833|toys powered by motor or steam engine (not vehicles)
-#43C784|(playing with) toys ~ transport
-#43C7841|(playing with) wheeled vehicles
-#43C78411|(playing with) barrow, wagon
-#43C78412|(playing with) automobile ~ toys
-#43C78413|(playing with) cars on rails (roller-coaster) ~ toys
-#43C78414|(playing with) train
-#43C7842|(playing with) toys ~ water
-#43C78421|(playing with) boats
-#43C78422|(playing with) yacht
-#43C78423|(playing with) motorboat
-#43C7843|(playing with) toys ~ air
-#43C78431|(playing with) aeroplanes
-#43C78432|(playing with) aeroplanes with motor
-#43C78433|(playing with) rockets
-#43C785|(playing with) toys ~ blowing
-#43C7851|bubble-blowing (children's games and plays)
-#43C7852|toys activated by blowing
-#43C786|(playing with) toys for housekeeping
-#43C7861|toy dishes
-#43C78611|toy tea-set
-#43C7862|toy kitchen
-#43C78621|toy oven or stove
-#43C7863|toy house, doll's house
-#43C787|(playing with) dolls, toy animals
-#43C7871|(playing with) dolls
-#43C78711|doll's clothes
-#43C78719|dolls for adults
-#43C7872|(playing with) toy animals
-#43C78721|hobby-horse
-#43C78722|rocking-horse
-#43C78729|toy animals for adults; mascottes, etc.
-#43C788|pasting, weaving, etc. (children's games and plays)
-#43C7881|pasting books (children's games and plays)
-#43C7882|weaving (children's games and plays)
-#43C7883|needle work (children's games and plays)
-#43C789|varia (playing with toys)
-#43C7891|miniature imitations (children's games and plays)
-#43C8|grounds, fields and accomodations for sports, games and physical performances
-#43C81|changing room, locker room ~ sports
-#43C9|dancing
-#43C91|one person dancing alone
-#43C911|man dancing alone
-#43C912|woman dancing alone
-#43C92|one pair dancing; man and woman dancing as a couple
-#43C921|two women dancing as a couple
-#43C922|two men dancing as a couple
-#43C923|invitation to the dance
-#43C93|more than one couple dancing
-#43C93(...)|more than one couple dancing (with NUMBER of couples)
-#43C94|group dancing
-#43C941|group dancing among upper classes
-#43C942|folk dancing (men and women together)
-#43C9421|group of men (folk dancing)
-#43C9422|group of women (folk dancing)
-#43C943|group dancing around someone or something (folk dancing)
-#43C95|jigging and jogging, chain dancing in the street
+43C77|兒童的其它遊戲
+43C771|讀圖畫書
+43C772|兒童讀物
+#43C7721|兒童畫?children's images
+43C78|(玩) 玩具
+43C781|(玩) 搭玩具材料
+43C7811|(玩) 可搭建的東西
+43C7812|(玩) 積木
+43C7813|(玩) meccano模型玩具
+#43C7814|(玩) 裁剪模型玩具cut-out constructions
+43C7815|造模型房子
+43C7816|造 (機器或車輛)模型
+43C782|(玩) 可動玩具
+43C7821|(玩) 舞蹈娃娃
+43C7822|(玩) 旋轉玩具
+43C7823|(玩) 玩具磨坊
+43C7824|其它可動玩具
+43C783|(玩) 機械玩具
+43C7831|(玩) 蒸汽機
+43C7832|(玩) 馬達
+43C7833|蒸汽機或馬達發動的玩具 (非車輛)
+43C784|(玩) 玩具 ~ 運輸
+43C7841|(玩) 有輪車輛
+43C78411|(玩) 兩輪推車, 四輪拉車
+43C78412|(玩) 汽車 ~ 玩具
+43C78413|(玩) 有軌車輛 (過山車) ~ 玩具
+43C78414|(玩) 火車
+43C7842|(玩) 玩具 ~ 水上
+43C78421|(玩) 船
+43C78422|(玩) 遊艇
+43C78423|(玩) 汽艇
+43C7843|(玩) 玩具 ~ 天上
+43C78431|(玩) 飛機
+43C78432|(玩) 帶發動機的飛機
+43C78433|(玩) 火箭
+43C785|(玩) 玩具 ~ 口吹
+43C7851|吹泡泡 (兒童的遊戲和玩耍)
+43C7852|吹玩具
+43C786|(玩) 家務方面的玩具
+43C7861|玩具餐盤
+43C78611|茶具玩具
+43C7862|玩具廚房
+43C78621|玩具爐灶
+43C7863|玩具屋, 玩具娃娃的房子
+43C787|(玩) 玩具娃娃, 玩具動物
+43C7871|(玩) 玩具娃娃
+43C78711|玩具娃娃的衣服
+43C78719|成人玩具
+43C7872|(玩) 玩具動物
+43C78721|玩具馬
+43C78722|搖木馬
+43C78729|城人玩具動物; 吉祥物, 等等
+43C788|剪貼, 編織, 等等 (兒童的遊戲和玩耍)
+43C7881|剪貼書籍 (兒童的遊戲和玩耍)
+43C7882|編織 (兒童的遊戲和玩耍)
+43C7883|縫紉 (兒童的遊戲和玩耍)
+43C789|其它 (玩玩具)
+43C7891|袖珍模仿 (兒童的遊戲和玩耍)
+43C8|體育,比賽,表演的場館所
+43C81|更衣室 ~ 體育
+43C9|舞蹈
+43C91|單人獨舞
+43C911|男性獨舞
+43C912|女性獨舞
+43C92|伴舞; 一對男女伴舞
+43C921|一對女性伴舞
+43C922|一對男性伴舞
+43C923|邀舞
+43C93|超過一對舞伴的舞蹈
+43C93(...)|超過一對舞伴的舞蹈 (舞伴的數目)
+43C94|團體舞
+43C941|上層人士團體舞
+43C942|民間舞蹈 (男女在一起)
+43C9421|一組男子 (民間舞蹈)
+43C9422|一組女子 (民間舞蹈)
+43C943|圍繞某人或某物的團體舞 (民間舞蹈)
+43C95|手拉手街舞
 #43CC114|hunter - CC - female hunter, huntress
 #43CC1141|assembling, 'départ pour la chasse' - CC - female hunter, huntress
 #43CC1142|hunters hunting (N.B.: In 1988-1990 this notation denoted the concept of 43C11421 'hunters resting during the hunt') - CC - female hunter, huntress
@@ -2241,205 +2241,205 @@
 #43CC7373|throwing snowballs - CC - adult(s) ~ snow and ice
 #43CC7374|with chair on ice - CC - adult(s) ~ snow and ice
 #43CC7379|going through the ice ~ playing children - CC - adult(s) ~ snow and ice
-#43D|other leisure time activities
-#43D1|handicrafts, hobbies (leisure time activities)
-#43D2|collecting (leisure time activity)
+43D|休閒時間的其它活動
+43D1|手工, 愛好 (休閒時間的活動)
+43D2|收集 (休閒時間的活動)
 44|国家
-#44A|symbols of the state (in general)
-#44A1|coat of arms (as symbol of the state, etc.)
-#44A11|device (as symbol of the state, etc.)
-#44A2|seal (as symbol of the state, etc.)
-#44A21|other non-personal regalia, e.g. mayor chain
-#44A3|flag, colours (as symbol of the state, etc.)
-#44A31|banner, standard (as symbol of the state, etc.)
-#44A311|standard-bearer, flag-bearer
-#44A32|flagpole
-#44A4|decorations, honours (as symbols of the state, etc.)
-#44A5|symbols of particular nations, states, districts, etc.
-#44A51|personifications of countries, nations, states, districts, etc.
-#44A51(...)|personifications of countries, nations, states, districts, etc. (with NAME)
-#44B|government, the State; 'Politica', 'Auttorità o Potestà' (Ripa)
-#44B0|governmental systems
-#44B01|monarchy; 'Monarchia mondana' (Ripa)
-#44B011|aristocracy; 'Aristocratia' (Ripa)
-#44B02|democracy; 'Democratia' (Ripa)
-#44B03|republic; 'Governo della republica' (Ripa)
-#44B04|colonial system
-#44B041|imperialism
-#44B09|dictatorial government, tyranny; 'Tirannide' (Ripa)
-#44B091|reason of state; 'Ragione di Stato' (Ripa)
-#44B1|ruler, sovereign
-#44B10|virtues of the ruler
-#44B11|ranks ~ rulers, sovereigns
-#44B111|series of rulers
-#44B1111|dynasty
-#44B112|emperor
-#44B1121|myth of the returning emperor
-#44B113|king
-#44B114|other sovereign
-#44B114(...)|other sovereign (with TITLE)
-#44B114(DOGE)|other sovereign: doge
-#44B115|president ~ head of republic
-#44B1151|vice-president
-#44B116|regent, substitute ruler; viceroy
-#44B1161|stadtholder
-#44B117|feudal lord
-#44B1171|vassal
-#44B119|tyrant, dictator
-#44B12|official acts of rulers, e.g. royal acts (ruler giving audience, granting mercy, etc.; ruler and his subjects)
-#44B121|audition; ruler giving audience
-#44B1211|throne-room
-#44B1212|throne
-#44B122|investiture by ruler
-#44B1221|ruler bestowing nobility
-#44B1222|transfer of power
-#44B1223|ruler conferring privileges
-#44B123|granting mercy; free pardon
-#44B124|ruler with counsellor(s)
-#44B125|ruler commanding
-#44B126|enfeoffment
-#44B127|ruler and his subjects
-#44B1271|ruler giving mark of honour
-#44B1272|subject temporarily taking over the ruler's duties
-#44B12721|sword of Damocles
-#44B128|ruler in informal contact with his subjects
-#44B129|ruler touching a person to heal him from 'the king's evil'
-#44B13|homage to a ruler
-#44B131|acclamation of a ruler
-#44B1311|swearing allegiance to a ruler
-#44B132|making a bow to a ruler
-#44B1321|genuflexion before a ruler
-#44B1322|kneeling before a ruler
-#44B1323|prostration, 'proskynesis'
-#44B133|ruler honoured with flags
-#44B134|ruler saluted with gun-fire
-#44B1341|cannon salvos at royal birth, marriage, etc.
-#44B135|paying tribute to a ruler
-#44B14|apotheosis of a ruler
-#44B15|family of a ruler, and court
-#44B150|'Corte' (Ripa)
-#44B151|family of the sovereign
-#44B1511|queen, empress, etc. (wife of a ruler)
-#44B15111|Prince Consort
-#44B1512|royal children
-#44B15121|prince
-#44B151211|crown prince
-#44B15122|princess
-#44B151221|crown princess
-#44B15123|royal bastards
-#44B151231|male royal bastard
-#44B151232|female royal bastard
-#44B1513|parents of the ruler
-#44B15131|father of the ruler
-#44B15132|mother of the ruler
-#44B1514|other persons of royal blood
-#44B1515|favourite of the ruler
-#44B152|royal household; courtiers, retinue, train
-#44B1521|master of the ceremonies
-#44B1522|dignitary at court
-#44B1523|page ~ court
-#44B1524|court jester, court fool
-#44B15241|attributes of court jester
-#44B152411|fool's cap
-#44B152412|bauble
-#44B1525|(food) taster
-#44B1526|lackey and other lower personnel at court
-#44B1527|body-guard of ruler
-#44B153|court ceremonial, court etiquette
-#44B1531|courtesy, manners; etiquette
-#44B154|court festival
-#44B155|daily life at court
-#44B16|installation of a ruler
-#44B161|election, choice of a ruler
-#44B1611|proclamation of a ruler
-#44B16111|new ruler raised on the shield
-#44B1612|anointment of newly elected ruler
-#44B1613|offering ruler's position: presentation of crown or other symbols of authority (before coronation)
-#44B1619|usurpation
-#44B162|coronation of a ruler
-#44B1621|before the coronation
-#44B1622|during the coronation
-#44B1623|after the coronation
-#44B1624|anointing the ruler (during coronation)
-#44B1625|presenting symbols of authority (during coronation)
-#44B163|presentation of sword ~ installation of a ruler
-#44B164|other forms of installation
-#44B1641|new ruler taking the oath
-#44B165|ceremonial celebration of installation of a ruler
-#44B1651|ceremonial procession, parade, pageant ~ installation of a ruler
-#44B16511|coronation procession
-#44B168|refusing to be ruler
-#44B1681|trampling the crown
-#44B169|abdication (of a ruler)
-#44B1691|voluntary abdication (of a ruler)
-#44B1692|involuntary abdication (of a ruler)
-#44B16921|flight of ruler from adversary
-#44B16922|arrest of fleeing ruler
-#44B16923|regicide
-#44B17|bad ruler
-#44B19|insignia and symbols of sovereignty (crown, diadem, sceptre, orb, seal, standard, cloak, pectoral)
-#44B191|crown (symbol of sovereignty)
-#44B1911|diadem (symbol of sovereignty)
-#44B192|sceptre, staff (symbol of sovereignty)
-#44B1921|hand, arm of justice (symbol of sovereignty)
-#44B1922|lance, spear (symbol of sovereignty)
-#44B193|orb (symbol of sovereignty; sphere with cross on top)
-#44B194|coat of arms (symbol of sovereignty)
-#44B195|seal (symbol of sovereignty)
-#44B196|standard (symbol of sovereignty)
-#44B197|mantle, gown, dress (symbol of sovereignty)
-#44B1971|imperial mantle (symbol of sovereignty)
-#44B1972|royal mantle (symbol of sovereignty)
-#44B198|pectoral (symbol of sovereignty)
-#44B2|governmental and representative bodies
-#44B21|national government
-#44B211|minister ~ government
-#44B2111|prime minister
-#44B2112|ministerial council
-#44B2113|secretary of state, state secretary ~ government
-#44B22|provincial government
-#44B221|governor, etc. of province
-#44B23|municipal government
-#44B231|mayor, burgomaster
-#44B232|city council
-#44B233|townhall
-#44B24|colonial government
-#44B241|colonial governor
-#44B3|water-control administration
-#44B31|dike-reeve
-#44B32|inspection ~ water-control
-#44B4|diplomacy, diplomat
-#44B41|ambassador
-#44B411|departure ~ ambassador
-#44B412|voyage ~ ambassador
-#44B413|reception ~ ambassador
-#44B414|reconciliation ~ diplomacy
-#44B42|negotiations, conference ~ diplomacy
-#44B421|peace negotiations
-#44B4211|signing of peace treaty, concluding the peace
-#44B4212|proclamation of peace
-#44B43|consular service
-#44B44|(diplomat) presenting credentials
-#44B45|alliance, league, union, foedus
+44A|國家的符號 (一般)
+44A1|盾形紋章 (作為國家的符號, 等等)
+44A11|紋章 (作為國家的符號, 等等)
+44A2|印章 (作為國家的符號, 等等)
+44A21|其它非個人徽記, 如市長徽鏈
+44A3|旗幟, 色彩 (作為國家的符號, 等等)
+44A31|旗幟 (作為國家的符號, 等等)
+44A311|旗手
+44A32|旗桿
+44A4|綬帶 (作為國家的符號, 等等)
+44A5|具體民族,國家,地區等等的符號
+44A51|具體民族,國家,地區等等的人格化
+44A51(...)|具體民族,國家,地區等等的人格化 (名稱)
+44B|政府, 國家; 'Politica', 'Auttorità o Potestà' (Ripa)
+44B0|政府體制
+44B01|君主政體; 'Monarchia mondana' (Ripa)
+44B011|貴族政體; 'Aristocratia' (Ripa)
+44B02|民主政體; 'Democratia' (Ripa)
+44B03|共和政體; 'Governo della republica' (Ripa)
+44B04|殖民體制
+44B041|帝國主義
+44B09|專制政府, 暴政; 'Tirannide' (Ripa)
+44B091|國家理性; 'Ragione di Stato' (Ripa)
+44B1|統治者, 君主
+44B10|統治者的美德
+44B11|等級 ~ 統治者, 君主
+44B111|統治者序列
+44B1111|朝代
+44B112|帝王
+44B1121|帝王歸來的神話
+44B113|國王
+44B114|其它形式的君主
+44B114(...)|其它形式的君主 (名稱)
+44B114(DOGE)|其它形式的君主: 總督
+44B115|總統 ~ 共和國的元首
+44B1151|副總統
+44B116|攝政王, 代理統治者; 總督
+44B1161|最高行政長官
+44B117|封建領主
+44B1171|封臣, 諸侯
+44B119|暴君, 獨裁者
+44B12|統治者的公務, 如皇室公務 (接見, 賜予寬恕, 等等; 君主與臣民)
+44B121|賜見; 君主接見
+44B1211|覲見室
+44B1212|御座
+44B122|君主授予
+44B1221|君主賜予爵位
+44B1222|轉讓權利
+44B1223|君主授予特權
+44B123|詞與寬恕; 赦免
+44B124|君主和廷臣
+44B125|君主發佈命令
+44B126|授予領地
+44B127|君主及其臣民
+44B1271|君主授予榮譽標誌
+44B1272|臣民臨時行使君主的職責
+44B12721|達摩克利斯之劍
+44B128|君主和他的臣民非正式的接觸
+44B129|君主觸摸治癒瘰癘病人
+44B13|尊敬君主
+44B131|歡呼君主
+44B1311|宣誓效忠君主
+44B132|向君主鞠躬
+44B1321|在君主面前屈膝
+44B1322|在君主面前跪下
+44B1323|匍匐在地, 'proskynesis'
+44B133|向君主舞動旗幟
+44B134|向君主致以禮炮
+44B1341|為了皇室誕生,結婚等大炮齊射
+44B135|向君主納貢
+44B14|神化君主
+44B15|皇室, 和宮廷
+44B150|'Corte' (Ripa)
+44B151|皇室成員
+44B1511|王后, 皇后, 等等 (君主之妻)
+44B15111|女王的丈夫
+44B1512|皇室子女
+44B15121|親王
+44B151211|皇太子
+44B15122|公主
+44B151221|女王儲
+44B15123|皇室私生子女
+44B151231|皇室私生子
+44B151232|皇室私生女
+44B1513|君主的雙親
+44B15131|君主之父
+44B15132|君主之母
+44B1514|皇室其他成員
+44B1515|君主的親信
+44B152|宮廷; 廷臣, 扈從, 隨行
+44B1521|典禮官
+44B1522|宮廷的高官
+44B1523|小聽差page ~ 宮廷
+44B1524|宮廷小丑, 宮廷滑稽演員
+44B15241|宮廷滑稽演員的標誌
+44B152411|小丑的帽子
+44B152412|手杖
+44B1525|(食物) 品嘗師
+44B1526|宮廷聽差和其它低級人員
+44B1527|君主的侍衛
+44B153|宮廷典禮, 宮廷禮儀
+#44B1531|禮貌, 舉止; 禮儀
+#44B154|宮廷節慶
+#44B155|宮廷日常生活
+#44B16|君主登基
+#44B161|選舉, 選擇君主
+#44B1611|宣布君主登基
+#44B16111|新君主被擁立於盾牌之上
+#44B1612|為新君主抹油
+#44B1613|獻上君主職位: 獻王冠或其它權威的符號 (加冕前)
+#44B1619|篡位
+#44B162|君主加冕
+#44B1621|加冕前
+#44B1622|加冕時
+#44B1623|加冕後
+#44B1624|為君主抹油 (加冕時)
+#44B1625|獻權威的符號 (加冕時)
+#44B163|獻劍 ~ 君主登基
+#44B164|君主登基的其它形式
+#44B1641|新君主宣誓
+#44B165|君主登基的慶典
+#44B1651|慶典遊行 ~ 君主登基
+#44B16511|加冕典禮行列
+#44B168|謝絕登基
+#44B1681|腳踏王冠
+#44B169|退位 (君主的)
+#44B1691|志願退位 (君主的)
+#44B1692|被迫退位 (君主的)
+#44B16921|君主逃離對手
+#44B16922|抓獲逃亡的君主
+#44B16923|弒君
+#44B17|不好的君主
+#44B19|統治者的標誌和符號 (王冠, 頭環, 權杖, 王權寶球, 璽印, 旗纛, 斗篷, 胸飾)
+#44B191|王冠 (統治者的符號)
+#44B1911|頭環 (統治者的符號)
+#44B192|權杖 (統治者的符號)
+#44B1921|正義之手,臂 (統治者的符號)
+#44B1922|槍, 矛 (統治者的符號)
+#44B193|王權寶球 (統治者的符號; 有十字架在頂端得圓球)
+#44B194|紋章 (統治者的符號)
+#44B195|璽印 (統治者的符號)
+#44B196|旗纛 (統治者的符號)
+#44B197|斗篷, 長袍, 服飾 (統治者的符號)
+#44B1971|帝王斗篷 (統治者的符號)
+#44B1972|皇家斗篷 (統治者的符號)
+#44B198|胸飾 (統治者的符號)
+#44B2|政府和代表部門
+#44B21|中央政府
+#44B211|部長 ~ 政府
+#44B2111|首相
+#44B2112|內閣
+#44B2113|大臣 ~ 政府
+#44B22|省政府
+#44B221|省長, 等
+#44B23|市政府
+#44B231|市長
+#44B232|市議會
+#44B233|市政府大廳
+#44B24|殖民政府
+#44B241|殖民地總督
+#44B3|水利管理
+#44B31|護堤官員
+#44B32|視察 ~ 水管理
+#44B4|外交, 外交官
+#44B41|大使
+#44B411|離任 ~ 大使
+#44B412|途中旅行 ~ 大使
+#44B413|歡迎 ~ 大使
+#44B414|和解 ~ 外交
+#44B42|談判, 會議 ~ 外交
+#44B421|和平談判
+#44B4211|簽訂和約
+#44B4212|宣布和平
+#44B43|領事服務
+#44B44|(外交官) 遞交國書
+#44B45|同盟, 聯盟, 協約
 #44B450|'Lega' (Ripa)
-#44B5|law-giving power
-#44B51|popular representation ~ government
-#44B511|Upper House, Senate
-#44B512|Lower House, Parliament, Chamber
-#44B5121|member of parliament
-#44B5122|debate, discussion (~ parliament)
-#44B52|announcement, proclamation of laws
-#44B521|crier (~ proclamation of laws)
-#44B522|poster (~ proclamation of laws)
-#44B53|legislation
-#44B531|lawgiver
-#44B532|legendary origin of law; legendary lawgiver
-#44B6|good and bad government
-#44B61|good government
-#44B610|allegory, personification of good government
-#44B611|Utopia
-#44B62|bad government
-#44B621|dissatisfaction ~ bad government
+#44B5|法律給予的權利
+#44B51|民眾代表 ~ 政府
+#44B511|上議院
+#44B512|下議院, 國會
+#44B5121|國會議員
+#44B5122|辯論, 討論 (~ 國會)
+#44B52|宣布, 公佈法案
+#44B521|佈告員 (~ 宣布法案)
+#44B522|布告poster (~ 宣布法案)
+#44B53|立法
+#44B531|立法者
+#44B532|著名法案的緣起; 傳奇性立法者
+#44B6|好政府和壞政府
+#44B61|好政府
+#44B610|好政府的人格寓言化, 人格化
+#44B611|烏托邦
+#44B62|壞政府
+#44B621|不滿 ~ 壞政府
 #44BB1|ruler, sovereign - BB - female ruler
 #44BB10|virtues of the ruler - BB - female ruler
 #44BB11|ranks ~ rulers, sovereigns - BB - female ruler
@@ -2560,967 +2560,967 @@
 #44BB1971|imperial mantle (symbol of sovereignty) - BB - female ruler
 #44BB1972|royal mantle (symbol of sovereignty) - BB - female ruler
 #44BB198|pectoral (symbol of sovereignty) - BB - female ruler
-#44C|the citizen and his rights
-#44C1|nationality, citizenship
-#44C11|patriotism
+#44C|公民及其權利
+#44C1|國籍
+#44C11|愛國主義
 #44C110|'Amor della patria' (Ripa)
-#44C12|emigration
-#44C13|immigration
-#44C14|internal migration, population redistribution
-#44C141|rural-urban migration
-#44C142|urban-rural migration
-#44C19|traitor to one's country
-#44C2|the right to vote, the compulsory vote
-#44C21|political campaign
-#44C22|voting place, polling station
-#44C221|voting booth, voting cubicle
-#44C222|voting ballot
-#44C223|voting receptacle
-#44C224|voting machine
-#44C23|voting, election
-#44C231|voting propaganda
-#44C24|political enfranchisement of women, women's liberation
+#44C12|移居出境
+#44C13|移居入境
+#44C14|內部人口遷移, 人口重新分布
+#44C141|農村向城市遷移
+#44C142|城市向農村遷移
+#44C19|國家的叛徒
+#44C2|選舉權, 強制投票
+#44C21|政治競選
+#44C22|投票場所, 投票站
+#44C221|投票亭
+#44C222|選票
+#44C223|投票箱
+#44C224|選票計數器
+#44C23|選舉
+#44C231|選舉宣傳活動
+#44C24|婦女參政權, 婦女解放
 #44C241|'suffragette'
-#44C29|election fights
-#44C3|politics
+#44C29|選舉競爭election fights
+#44C3|政治
 #44C30|'Politica' (Ripa)
-#44C31|political propaganda
-#44C311|political meeting, propaganda meeting
-#44C312|political caricatures and satires
-#44C32|war of classes
-#44C33|political parties
-#44C34|politician, e.g. party leader
-#44C35|political theory, political ideology
-#44C35(...)|political theory, political ideology (with NAME)
-#44C4|political demonstration
-#44C41|strike (political demonstration)
-#44C42|(political) agitator
-#44C5|freedom of the press, freedom of speech
-#44C59|censorship
-#44C591|burning of books
-#44C6|racial emancipation
-#44D|administrative bodies
-#44D1|registration bureau, civil registry
-#44D2|taxes and financial administration
+#44C31|政治宣傳
+#44C311|政治會議, 宣傳會議
+#44C312|政治漫畫與諷刺
+#44C32|階級鬥爭
+#44C33|政黨
+#44C34|政治家, 如政黨領袖
+#44C35|政治理論, 政治意識形態
+#44C35(...)|政治理論, 政治意識形態 (名稱)
+#44C4|政治示威活動
+#44C41|罷工 (政治示威活動)
+#44C42|(政治) 鼓動者
+#44C5|新聞自由, 言論自由
+#44C59|審查制度
+#44C591|焚書
+#44C6|激進的解放運動racial emancipation
+#44D|行政機構
+#44D1|登記部門, 人口登記部門
+#44D2|稅務和金融行政機構
 #44D20|'Datio overo Gabella' (Ripa)
-#44D21|tax collection
-#44D211|tax payment
-#44D22|customs
-#44D221|toll gate
-#44D222|smuggler
-#44D2221|trade and smuggling of drugs
-#44D223|passport, visa
-#44D224|control, investigation ~ customs
-#44D23|financial administration ~ taxes
-#44D3|frontiers, boundaries
-#44D31|marking boundaries
-#44D311|boundary-post, boundary-stone
-#44D32|land registry
-#44D321|land parcelling
-#44D4|official; civil servant; functionary (in general)
-#44D4(...)|official; civil servant; functionary (in general) (with NAME of function)
-#44E|government services, public services
-#44E1|water-supply (~ public services)
-#44E11|water tower
-#44E12|purification system (~ water supply)
-#44E13|aqueduct (~ water supply)
-#44E131|pipe system (~ water supply)
-#44E14|utilitarian, public pump or water fountain
-#44E2|street lighting
-#44E3|gas supply
-#44E4|electricity supply
-#44E41|power station
-#44E42|pylons, power lines
-#44E5|garbage collection
-#44E51|garbage collecting lorry, garbage truck
-#44E52|dustbin, garbage pail
-#44E53|street sweeping, street sweeper
-#44E54|litter, rubbish, garbage ~ street sweeping
-#44E6|food rationing
-#44E61|rationing card
-#44E62|soup-kitchen, cook-shop
-#44F|revolution, revolt
+#44D21|徵稅
+#44D211|交稅
+#44D22|海關
+#44D221|收費站
+#44D222|走私者
+#44D2221|毒品貿易和走私
+#44D223|護照, 簽證
+#44D224|控制, 調查 ~ 海關
+#44D23|金融行政部門 ~ 稅務
+#44D3|邊境, 邊界
+#44D31|劃分邊界
+#44D311|邊界樁, 界石
+#44D32|土地登記
+#44D321|地塊劃分
+#44D4|官員; 公務員; 職員 (一般性)
+#44D4(...)|官員; 公務員; 職員 (一般性) (職務名稱)
+#44E|政府服務, 公共服務
+#44E1|供水 (~ 公共服務)
+#44E11|水塔
+#44E12|淨化系統 (~ 供水)
+#44E13|輸水道 (~ 供水)
+#44E131|管道系統 (~ 供水)
+#44E14|實用的, 公共的水泵或飲水機
+#44E2|街道照明
+#44E3|供氣
+#44E4|供電
+#44E41|發電廠
+#44E42|高壓線電塔, 高壓線
+#44E5|收集垃圾
+#44E51|垃圾收集車
+#44E52|垃圾桶
+#44E53|掃街道, 街道清潔工
+#44E54|垃圾 ~ 街道清掃
+#44E6|食品配給
+#44E61|配給卡
+#44E62|施膳處
+#44F|革命, 暴動
 #44F0|'Seditio'; 'Rebellione', 'Seditione civile' (Ripa)
-#44F1|street-fights, riots
-#44F11|barricades ~ riot
-#44F12|before the street-fight
-#44F13|after the street-fight
-#44F14|plundering ~ riot
-#44F19|anti-riot measures
-#44F2|civil war
-#44F3|state of emergency
-#44F31|curfew
-#44F4|summary justice
-#44F41|summary conviction
-#44F5|revolutionary activities
-#44F51|(revolutionary) plot, conspiracy
-#44F511|revolutionaries taking the oath
-#44F52|secret armament; preparations ~ revolutionary activities
-#44F53|revolutionary committee, rebel group
-#44F531|patriot (revolutionary)
-#44F532|ring-leader
-#44F54|revolutionary action (non-violent)
-#44F541|oral revolutionary action
-#44F542|(revolutionary action with the help of) libels, broadsides, cartoons, etc.
-#44F55|revolutionary action (violent)
-#44F551|sabotage (~ revolutionary action)
-#44F552|attempt, political murder
-#44F553|anarchism
+#44F1|巷戰, 暴亂
+#44F11|街壘 ~ 暴亂
+#44F12|巷戰之前
+#44F13|巷戰之後
+#44F14|掠奪 ~ 暴亂
+#44F19|防暴措施
+#44F2|內戰
+#44F3|緊急狀態
+#44F31|宵禁
+#44F4|即決裁定
+#44F41|即決判罪
+#44F5|革命活動
+#44F51|(革命) 密謀, 陰謀
+#44F511|革命者宣誓
+#44F52|秘密軍備; 準備 ~ 革命活動
+#44F53|革命委員會, 叛亂組織
+#44F531|愛國者 (革命的)
+#44F532|頭目
+#44F54|革命行動 (非暴力)
+#44F541|口頭革命行動
+#44F542|(革命行動的手段) 小冊子, 巨富傳單, 漫畫, 等等
+#44F55|革命行動 (暴力)
+#44F551|破壞 (~ 革命行動)
+#44F552|企圖, 政治謀殺
+#44F553|無政府主義
 #44F5531|bomb-outrage
-#44F554|destruction of buildings (~ revolutionary action)
-#44F555|destruction of monuments, portraits, etc. (~ revolution)
-#44F59|unsuccessful revolution or revolt, suppression of revolutionary activity
-#44F6|the old government and its supporters (after revolution)
-#44F61|capture (after revolution) of the old government
-#44F62|expulsion, banishment (of old government)
-#44F621|flight of the government or its adherents
-#44F63|exile (of old government or its adherents)
+#44F554|毀壞建築物 (~ 革命行動)
+#44F555|毀壞紀念碑, 肖像, 等等 (~ 革命)
+#44F59|不成功的革命或暴動, 鎮壓革命活動
+#44F6|旧政府及其支持者 (革命後)
+#44F61|(革命後) 占領旧政府
+#44F62|驅逐, 流放 (旧政府)
+#44F621|政府及其追隨者的逃亡
+#44F63|(政府及其追隨者的)放逐
 #44F630|'Esilio' (Ripa)
-#44F631|political refugee, 'émigré'
-#44F7|revolutionary government
-#44F71|proclamation of new government
-#44F711|celebration of proclamation of new government
-#44F7111|dancing around the tree of liberty
-#44F72|revolutionary court and justice
-#44F73|revolutionary council
-#44F74|measures taken by revolutionary council
-#44F741|reign of terror
+#44F631|革命流亡者, 'émigré'
+#44F7|革命政府
+#44F71|新政府宣告成立
+#44F711|慶祝新政府的宣告成立
+#44F7111|圍繞自由之樹舞蹈
+#44F72|革命法庭
+#44F73|革命委員會
+#44F74|革命委員會的手段
+#44F741|恐怖統治
 #44F7411|'agent provocateur'
-#44F7412|informing (~ reign of terror)
-#44G|law and jurisprudence
-#44G0|symbols and allegories of jurisprudence
-#44G01|symbols and allegories of law; 'Legge', 'Legge civile' (Ripa)
+#44F7412|告發 (~ 恐怖統治)
+#44G|法律和法學
+#44G0|法學的象徵符號和人格寓言化
+#44G01|法律的象徵符號和人格寓言化; 'Legge', 'Legge civile' (Ripa)
 #44G02|'Rechtsdenkmäler'
-#44G03|symbols of the lawsuit
-#44G1|administration of justice, trial
-#44G11|court session (court of justice)
-#44G111|accusation (in court)
-#44G1111|the accused
-#44G112|judicial verdict
-#44G1121|ordering the execution of a verdict
-#44G113|acquittal
-#44G12|(architectural) structures connected with law and justice
-#44G121|court building
-#44G1211|court-room
-#44G122|sign indicating a place of judicial proceedings
-#44G1221|statue (indicating a place of judicial proceedings), e.g.: 'Rolandsäule'
-#44G123|sign indicating a sanctuary
-#44G1231|market cross
-#44G13|magistracy, judges
-#44G13(...)|magistracy, judges (with NAME of function)
+#44G03|訴訟的象徵符號
+#44G1|裁判,審判的行政管理
+#44G11|開庭court session (法院)
+#44G111|指控 (法庭)
+#44G1111|被指控者
+#44G112|司法判決
+#44G1121|命令執行判決
+#44G113|開釋
+#44G12|與司法有關的(建築)結構
+#44G121|法院建築
+#44G1211|審判庭
+#44G122|審判程序發生地點的標識
+#44G1221|塑像 (表明審判程序發生地點), 如: 'Rolandsäule'
+#44G123|表明庇護所的標誌
+#44G1231|市場十字碑
+#44G13|地方行政長官, 法官
+#44G13(...)|地方行政長官, 法官 (職務名稱)
 #44G130|'Giudice' (Ripa)
-#44G131|other court officials
-#44G131(...)|other court officials (with NAME)
-#44G14|jury
-#44G141|exceptional court
-#44G1411|'Vehmgericht' (vehmic court)
-#44G1412|political tribunal
-#44G15|witnesses
-#44G151|swearing an oath (with two fingers raised)
-#44G1511|hand touching beard (swearing an oath)
-#44G152|documents (~ witnesses)
-#44G153|visiting the scene of the crime
-#44G159|perjury
-#44G16|lawyer, attorney at law
-#44G161|barrister
-#44G162|counsellor
-#44G163|plea, defence
-#44G17|ordeal
-#44G171|ordeal by fire or heat
-#44G172|ordeal by water
-#44G173|ordeal by objects
-#44G1731|'Bocca della Verità' (woman accused of adultery putting her hand into sculpted figure's mouth to prove her innocence)
-#44G174|judicial duel
-#44G2|public safety
-#44G21|night patrol
-#44G211|tower sentry
-#44G22|police
-#44G221|sheriff
-#44G222|bailiff
-#44G223|policeman, constable
-#44G23|criminal investigation
-#44G231|(private) detective
-#44G232|coroner
-#44G233|finger-prints
-#44G24|pursuit of the criminal
-#44G241|posse
-#44G242|police dog
-#44G25|arrest (of criminal)
-#44G251|handcuffs
-#44G252|transport (of arrested person)
-#44G253|interrogation of arrested person
-#44G29|outlaw
-#44G291|asylum, sanctuary
-#44G3|criminal law; punishment
-#44G31|imprisonment
-#44G311|prison, jail
-#44G3110|prison, jail, represented allegorically or symbolically
-#44G3111|prison personnel: jailers, warders, guards
-#44G312|prisoner; in fetters
-#44G3121|prisoner with hands bound
-#44G3129|(person) in fetters, not imprisoned
-#44G313|prisoner in cell or locked place
-#44G314|workhouse, penal camp, penitentiary, chain gang
-#44G315|visit to prison or penal camp
-#44G3151|freeing a prisoner; ransoming
-#44G3152|freeing a prisoner in a miraculous way
-#44G316|escape, escape attempts
-#44G317|rehabilitation of prisoners
-#44G318|(prisoners) in the prison yard
-#44G319|release from prison
-#44G3191|release from prison on bail
-#44G32|executioner, hangman
-#44G321|instruments of torture, execution or punishment
-#44G321(...)|instruments of torture, execution or punishment (with NAME)
-#44G321(BIRCH ROD)|instruments of torture, execution or punishment: birch rod
-#44G321(CROSS)|instruments of torture, execution or punishment: cross
-#44G321(GALLOWS)|instruments of torture, execution or punishment: gallows
-#44G321(GRIDIRON)|instruments of torture, execution or punishment: gridiron
-#44G321(RACK)|instruments of torture, execution or punishment: rack
-#44G321(SCOURGE)|instruments of torture, execution or punishment: scourge
-#44G321(STAKE)|instruments of torture, execution or punishment: stake
-#44G33|torture
-#44G34|death penalty, execution
-#44G341|last hours before execution
-#44G3411|person under sentence of death hears that he is to be executed
-#44G34111|last talk with relatives (during last hours before execution)
-#44G3412|spiritual support (during last hours before execution)
-#44G3413|regret (of person under sentence of death)
-#44G3414|despair (of person under sentence of death)
-#44G3415|(person under sentence of death) on the way to the scaffold or place of execution
-#44G342|on the scaffold or place of execution
-#44G349|execution in effigy
-#44G35|body of the executed displayed in public
-#44G351|part of the body of the executed displayed in public
-#44G3511|head of the executed displayed in public
-#44G36|body of the executed shown to a few people
-#44G361|part of the body of the executed shown to a few people
-#44G3611|head of the executed shown to a few people
-#44G37|public punishment (death not intended or involved)
-#44G371|public ridicule, scorn
-#44G3711|in the pillory, in the stocks
-#44G3712|ducking a scold, ducking stool
-#44G372|brand ~ punishment
-#44G3721|branded person
-#44G373|corporal punishment in public
-#44G3731|flogging, scourging (in public)
-#44G38|banishment, exile
-#44G381|deportation
-#44G382|exile asking for shelter
-#44G39|prevention of execution; modification of punishment
-#44G399|pardon, reprieve
-#44G4|civil law
-#44G41|litigation, legal proceedings, lawsuit
-#44G42|fine ~ civil law
-#44G43|seizure of goods
-#44G44|forced sale
-#44G45|notary
-#44G48|mediation, arbitration, conciliation ~ civil law
-#44G49|barratry (excessive litigation, vexatious litigation or incitement to it)
-#44G5|criminals
-#44G51|crime
+#44G131|法院的其他官員
+#44G131(...)|法院的其他官員 (名稱)
+#44G14|陪審團
+#44G141|例外法庭
+#44G1411|'Vehmgericht' (菲默法庭)
+#44G1412|政治法庭
+#44G15|證人
+#44G151|發誓 (二指上舉)
+#44G1511|手觸鬍鬚 (發誓)
+#44G152|文書 (~ 證人)
+#44G153|訪問犯罪現場
+#44G159|偽證
+#44G16|律師
+#44G161|訟務律師
+#44G162|辯護律師
+#44G163|抗辯, 辯護
+#44G17|拷打
+#44G171|用火或高溫拷打
+#44G172|用水拷打
+#44G173|用物件拷打
+#44G1731|'Bocca della Verità' (被指控通姦的婦女把手伸進雕像的口中證明自己清白)
+#44G174|司法決鬥
+#44G2|公共安全
+#44G21|夜巡
+#44G211|崗哨
+#44G22|警察
+#44G221|縣治安官
+#44G222|法庭警衛
+#44G223|警察, 治安官
+#44G23|刑事偵查
+#44G231|(私人) 偵探
+#44G232|驗屍官
+#44G233|指紋
+#44G24|追捕罪犯
+#44G241|警衛隊
+#44G242|警犬
+#44G25|逮捕 (罪犯的)
+#44G251|手銬
+#44G252|押運 (被逮捕的人)
+#44G253|審訊被逮捕的人
+#44G29|被剝奪公民權者
+#44G291|避難所, 庇護所
+#44G3|刑法; 處罰
+#44G31|囚禁
+#44G311|監獄
+#44G3110|監獄, 被人格寓言化或象徵性地表現
+#44G3111|監獄工作人員: 看守, 獄吏, 警衛
+#44G312|囚犯; 上腳鐐
+#44G3121|雙手被縛的囚犯
+#44G3129|(人) 被上腳鐐, 未被囚禁
+#44G313|在牢房或関押地的囚犯
+#44G314|勞教所, 苦役囚禁地, 教養所, 鐵鍊鎖住的苦工囚犯
+#44G315|探訪監獄或苦役囚禁地
+#44G3151|釋放囚犯; 贖出
+#44G3152|囚犯神奇般地被釋放
+#44G316|逃跑, 逃跑企圖
+#44G317|囚犯改過
+#44G318|(囚犯) 監獄院子裡
+#44G319|從監獄裡釋放
+#44G3191|從監獄裡保釋
+#44G32|死刑執行者, 劊子手
+#44G321|刑具
+#44G321(...)|拷打,執行死刑或刑罰的刑具 (名稱)
+#44G321(BIRCH ROD)|拷打,執行死刑或刑罰的刑具: 桦條
+#44G321(CROSS)|拷打,執行死刑或刑罰的刑具: 十字架
+#44G321(GALLOWS)|拷打,執行死刑或刑罰的刑具: 絞刑架
+#44G321(GRIDIRON)|拷打,執行死刑或刑罰的刑具: 烤架
+#44G321(RACK)|拷打,執行死刑或刑罰的刑具: 肢刑架
+#44G321(SCOURGE)|拷打,執行死刑或刑罰的刑具: 鞭子
+#44G321(STAKE)|拷打,執行死刑或刑罰的刑具: 火刑柱
+#44G33|拷打
+#44G34|死刑, 執行死刑
+#44G341|臨刑前數小時
+#44G3411|死刑犯被告知將被處決
+#44G34111|與親人話別 (臨刑前數小時)
+#44G3412|精神撫慰 (臨刑前數小時)
+#44G3413|悔恨 (死刑犯的)
+#44G3414|絕望 (死刑犯的)
+#44G3415|(死刑犯的) 赴斷頭台或死刑執行處
+#44G342|在斷頭台或死刑執行處
+#44G349|對某人模擬像進行處決
+#44G35|將被處決者的屍體進行示眾
+#44G351|將被處決者的屍體的一部分進行示眾
+#44G3511|將被處決者的頭顱進行示眾
+#44G36|將被處決者的屍體展示於數人
+#44G361|將被處決者的屍體的一部分展示於數人
+#44G3611|將被處決者的頭顱展示於數人
+#44G37|當眾處罰 (不是或沒有處死的意圖)
+#44G371|當眾嘲笑, 奚落
+#44G3711|戴上頸手枷, 戴上足枷
+#44G3712|將潑婦浸到水裡, 浸水刑凳
+#44G372|打烙印 ~ 處罰
+#44G3721|被打烙印的人
+#44G373|當眾體罰
+#44G3731|鞭打 (當眾)
+#44G38|放逐, 流放
+#44G381|遣送
+#44G382|流放者尋求住所
+#44G39|阻止處決; 減刑
+#44G399|赦免, 緩刑
+#44G4|民法
+#44G41|訴訟, 法律訴訟
+#44G42|罰款 ~ 民法
+#44G43|沒收貨物
+#44G44|強制拍賣
+#44G45|公證人
+#44G48|調解, 仲裁, 妥協 ~ 民法
+#44G49|無根據訴訟 (過度訴訟, 無理訴訟或煽動訴訟)
+#44G5|罪犯
+#44G51|犯罪
 #44G510|'Sceleratezza o vitio' (Ripa)
-#44G511|murderer
-#44G5111|murder
-#44G512|poisoner
-#44G52|robber
-#44G521|robber's cave
-#44G522|robbery
+#44G511|殺人犯
+#44G5111|謀殺
+#44G512|投毒者
+#44G52|強盜
+#44G521|強盜窟
+#44G522|搶劫
 #44G5220|'Rapina' (Ripa)
-#44G53|burglar, housebreaker
-#44G531|burglary
-#44G54|thief
+#44G53|破門盜竊者
+#44G531|破門盜竊
+#44G54|小偷,賊
 #44G540|'Furto' (Ripa)
-#44G541|pickpocket
-#44G542|shoplifter
-#44G543|receiver, fence
-#44G544|theft
-#44G55|counterfeiter
-#44G551|counterfeit, forgery
-#44G56|pirate, corsair, buccaneer
-#44G561|pirate(ship)
-#44G562|piracy
-#44G59|tools ~ criminals
-#44G591|dark lantern
-#44G6|juridical examples; exemplary judges; 'Gerechtigkeitsbilder'
+#44G541|扒手
+#44G542|商店扒手
+#44G543|窩藏贓物者, 銷售贓物者
+#44G544|偷竊
+#44G55|偽造者
+#44G551|偽造, 贗品
+#44G56|海盜
+#44G561|海盜(船)
+#44G562|海盜性未
+#44G59|工具 ~ 犯罪
+#44G591|隱顯燈
+#44G6|司法範例; 模範法官; 'Gerechtigkeitsbilder'
 #44G61|judge with hands chopped off
-#44G69|bad, corrupt judge
+#44G69|腐敗的法官
 #44G690|'Corruttella ne' giudici' (Ripa)
-#44G7|not used
-#44G8|informal justice, self-help
-#44G81|lynching
-#44G82|blood-revenge, vendetta
-#44G83|liberating the imprisoned
-#44G89|rescuing the victim of informal justice
-#44G9|tort; legal abuse; judicial murder
-#44G91|genocide
+#44G7|未被使用
+#44G8|非官方審判, 自助self-help
+#44G81|私處絞刑
+#44G82|以牙還牙, (血親之間的)仇殺
+#44G83|解放囚犯
+#44G89|解救非官方審判的受害者
+#44G9|侵權行為; 濫用法律; 不公正的死刑判決
+#44G91|種族滅絕
 #44GG1511|hand touching beard (swearing an oath) - GG - woman touching her braids
-#44GG5|criminals - GG - female
-#44GG51|crime - GG - female
-#44GG510|'Sceleratezza o vitio' (Ripa) - GG - female
-#44GG511|murderer - GG - female
-#44GG5111|murder - GG - female
-#44GG512|poisoner - GG - female
-#44GG52|robber - GG - female
-#44GG521|robber's cave - GG - female
-#44GG522|robbery - GG - female
-#44GG5220|'Rapina' (Ripa) - GG - female
-#44GG53|burglar, housebreaker - GG - female
-#44GG531|burglary - GG - female
-#44GG54|thief - GG - female
-#44GG540|'Furto' (Ripa) - GG - female
-#44GG541|pickpocket - GG - female
-#44GG542|shoplifter - GG - female
-#44GG543|receiver, fence - GG - female
-#44GG544|theft - GG - female
-#44GG55|counterfeiter - GG - female
-#44GG551|counterfeit, forgery - GG - female
-#44GG56|pirate, corsair, buccaneer - GG - female
-#44GG561|pirate(ship) - GG - female
-#44GG562|piracy - GG - female
-#44GG59|tools ~ criminals - GG - female
-#44GG591|dark lantern - GG - female
-45|战争；军事行动
-#45A|war and peace
-#45A1|war
-#45A10|symbols, allegories of war; 'Guerra' (Ripa)
-#45A11|militarism
-#45A12|declaration of war
-#45A13|instigation to war, propaganda
-#45A131|enemy ~ war
-#45A132|preparation for war
-#45A14|consequences of war
-#45A141|horrors of war
-#45A1411|massacre ~ war
-#45A142|war and crime
-#45A143|war and science
-#45A144|war and technique
-#45A145|war and economy
-#45A1459|war-profiteer
-#45A2|peace
-#45A20|symbols, allegories of peace, 'Pax'; 'Pace' (Ripa)
-#45A21|anti-militarism, pacifism
-#45A22|disarmament
-#45A23|consequences of peace
-#45A231|blessings of peace
-#45A232|peace and prosperity, 'Pax et Abundantia'
-#45A233|Peace and Justice kissing (cf. Ps. 85:10)
-#45A3|victory ~ armed conflict
+#44GG5|criminals - GG - 女性
+#44GG51|crime - GG - 女性
+#44GG510|'Sceleratezza o vitio' (Ripa) - GG - 女性
+#44GG511|murderer - GG - 女性
+#44GG5111|murder - GG - 女性
+#44GG512|poisoner - GG - 女性
+#44GG52|robber - GG - 女性
+#44GG521|robber's cave - GG - 女性
+#44GG522|robbery - GG - 女性
+#44GG5220|'Rapina' (Ripa) - GG - 女性
+#44GG53|burglar, housebreaker - GG - 女性
+#44GG531|burglary - GG - 女性
+#44GG54|thief - GG - 女性
+#44GG540|'Furto' (Ripa) - GG - 女性
+#44GG541|pickpocket - GG - 女性
+#44GG542|shoplifter - GG - 女性
+#44GG543|receiver, fence - GG - 女性
+#44GG544|theft - GG - 女性
+#44GG55|counterfeiter - GG - 女性
+#44GG551|counterfeit, forgery - GG - 女性
+#44GG56|pirate, corsair, buccaneer - GG - 女性
+#44GG561|pirate(ship) - GG - 女性
+#44GG562|piracy - GG - 女性
+#44GG59|tools ~ criminals - GG - 女性
+#44GG591|dark lantern - GG - 女性
+45|戰爭, 軍事
+#45A|戰爭和和平
+#45A1|戰爭
+#45A10|戰爭的象徵符號, 人格寓言化; 'Guerra' (Ripa)
+#45A11|軍國主義
+#45A12|宣戰
+#45A13|煽動戰爭, 宣傳
+#45A131|敵人 ~ 戰爭
+#45A132|備戰
+#45A14|戰爭的後果
+#45A141|戰爭的恐怖
+#45A1411|屠殺 ~ 戰爭
+#45A142|戰爭和罪行
+#45A143|戰爭和科學
+#45A144|戰爭和技術
+#45A145|戰爭和經濟
+#45A1459|戰爭得益者
+#45A2|和平
+#45A20|和平的象徵符號, 人格寓言化, 'Pax'; 'Pace' (Ripa)
+#45A21|反戰主義, 和平主義
+#45A22|解除武裝, 裁軍
+#45A23|和平的結果
+#45A231|和平的福祉
+#45A232|和平和繁榮, 'Pax et Abundantia'
+#45A233|和平與公正親吻 (cf. Ps. 85:10)
+#45A3|勝利 ~ 武裝衝突
 #45A30|'Victoria'; 'Vittoria', 'Vittoria navale', 'Vittoria degl'antichi' (Ripa)
-#45A31|military glory
-#45A4|defeat ~ armed conflict
-#45A41|disgrace ~ defeat
-#45A42|capitulation
-#45A5|cold war
-#45A51|psychological warfare
-#45A6|fifth column
-#45A61|sabotage by fifth column
-#45A9|non-belligerents, neutrals
-#45B|the soldier; the soldier's life
-#45B1|soldier(s) before enlisting
-#45B11|recruitment
-#45B111|recruiter, crimp
-#45B112|contract ~ enlisting
-#45B113|volunteers ~ enlisting
-#45B114|conscription ~ enlisting
-#45B1141|forced conscription, press ganging
-#45B115|drawing lots ~ enlisting
-#45B1151|released by lot ~ enlisting
-#45B116|medical examination ~ enlisting
-#45B1161|rejected for military service
-#45B117|replacement, substitute ~ military service
-#45B12|departure to join unit, company ~ military service
-#45B13|arrival at company station ~ military service
-#45B14|conscientious objector ~ military service
-#45B2|military training
-#45B21|military instruction
-#45B211|drill ~ military training
-#45B212|handling of weapons ~ military training
-#45B2121|artillery range, firing range, shooting range ~ military training
-#45B213|other physical exercise ~ military training
-#45B22|theoretical instruction ~ military training
-#45B23|manoeuvre ~ military training
-#45B24|competitions ~ military service
-#45B25|formal entry into the service
-#45B251|taking the oath ~ military service
-#45B2511|breaking of an oath ~ military service
-#45B28|military academy
-#45B281|(military) training ship
-#45B3|military service
-#45B31|guard duty, keeping sentry
-#45B311|changing the guard
-#45B312|in the guard-room, 'kortegaard'
-#45B313|challenged by the guard
-#45B314|attacking the sentry
-#45B315|sentry box
-#45B32|the company, the unit, the troop ~ military service
-#45B321|review, inspection (of company, unit, troop)
-#45B33|division of the day ~ military training
-#45B331|reveille
-#45B332|roll call
-#45B333|(military) tattoo
-#45B334|flag display
-#45B3341|flag raising
-#45B3342|flag lowering
-#45B4|discipline
-#45B41|military salutes
-#45B411|salute
-#45B412|presenting arms
-#45B413|saluting with flag
-#45B414|saluting the flag
-#45B415|cannon shots (military salute)
-#45B42|military discipline
-#45B421|military police, provost
-#45B422|military court, court-martial
-#45B4221|drum-head court-martial
-#45B423|disciplinary punishments ~ military life
-#45B4231|arrest ~ military service
-#45B4232|penal exercises ~ military service
-#45B4233|physical punishment ~ military service
+#45A31|軍事榮耀
+#45A4|失敗 ~ 武裝衝突
+#45A41|恥辱 ~ 失敗
+#45A42|投降
+#45A5|冷戰
+#45A51|心理戰
+#45A6|第五縱隊
+#45A61|第五縱隊的破壞
+#45A9|非交戰方, 中立
+#45B|士兵; 士兵的生活
+#45B1|入伍前的士兵(們)
+#45B11|徵兵
+#45B111|招募者, 誘人當兵
+#45B112|contract ~ 募兵
+#45B113|志願者 ~ 募兵
+#45B114|義務兵役 ~ 募兵
+#45B1141|強徵兵役, 拉壯丁
+#45B115|抽籤 ~ 募兵
+#45B1151|released by lot ~ 募兵
+#45B116|體檢 ~ 募兵
+#45B1161|被拒參軍
+#45B117|替補, 代替 ~ 服兵役
+#45B12|出發 ~ 服兵役
+#45B13|到達兵站 ~ 服兵役
+#45B14|良心拒服兵役 ~ 服兵役
+#45B2|軍事訓練
+#45B21|軍事教導
+#45B211|操練 ~ 軍事訓練
+#45B212|武器操作 ~ 軍事訓練
+#45B2121|火砲訓練場, 靶場, 射擊場 ~ 軍事訓練
+#45B213|其它體能訓練 ~ 軍事訓練
+#45B22|理論教導 ~ 軍事訓練
+#45B23|演習 ~ 軍事訓練
+#45B24|對抗 ~ 服兵役
+#45B25|正式入伍
+#45B251|宣誓 ~ 服兵役
+#45B2511|破壞承諾 ~ 服兵役
+#45B28|軍事學院
+#45B281|(軍事) 教練船
+#45B3|服兵役
+#45B31|警衛, 站崗
+#45B311|換崗哨
+#45B312|在崗亭裡, 'kortegaard'
+#45B313|被哨兵盤問
+#45B314|襲擊崗哨
+#45B315|崗亭
+#45B32|小隊, 分隊, 隊伍 ~ 服兵役
+#45B321|視察, 檢閱 (小隊, 分隊, 隊伍)
+#45B33|division of the day ~ 軍事訓練
+#45B331|起床號
+#45B332|點名
+#45B333|(軍事) 會操
+#45B334|展示旗幟
+#45B3341|升旗
+#45B3342|降旗
+#45B4|紀律
+#45B41|軍禮
+#45B411|敬禮
+#45B412|舉槍致敬
+#45B413|舉旗致敬
+#45B414|向旗幟致敬
+#45B415|開砲 (軍禮)
+#45B42|軍紀
+#45B421|憲兵, 憲兵司令
+#45B422|軍事法庭
+#45B4221|臨時軍事法庭
+#45B423|紀律處分 ~ 軍事生活
+#45B4231|逮捕 ~ 服兵役
+#45B4232|penal exercises ~ 服兵役
+#45B4233|體罰 ~ 服兵役
 #45B42331|running the gauntlet
-#45B4234|detention ~ military disciplinary punishment
-#45B424|reduction to the ranks ~ military disciplinary punishment
-#45B425|execution ~ military disciplinary punishment
-#45B43|military honours
-#45B431|promotion (military honour)
-#45B432|citation before the unit (military honour)
+#45B4234|拘留 ~ 軍事紀律處分
+#45B424|降級 ~ 軍事紀律處分
+#45B425|處決 ~ 軍事紀律處分
+#45B43|軍事榮譽
+#45B431|提級 (軍事榮譽)
+#45B432|citation before the unit (軍事榮譽)
 #45B433|medals and other marks of military honour
-#45B49|mutiny, rebellion ~ military discipline
-#45B5|military celebrations
-#45B51|military parade, pageant
-#45B52|military demonstrations
-#45B53|decorative use of flags, etc.; dressing of ship
+#45B49|兵變, 謀反 ~ 軍紀
+#45B5|軍事慶祝
+#45B51|閱兵
+#45B52|軍事表演
+#45B53|旗幟用來裝飾, 等等; 掛彩旗的船
 #45B54|meeting of soldiers and/or officers
-#45B55|guard of honour
-#45B6|the soldier off duty
-#45B61|recreation ~ the soldier off duty
-#45B611|canteen ~ the soldier off duty
-#45B612|mess ~ the soldier off duty
-#45B62|leave ~ the soldier off duty
+#45B55|儀仗隊
+#45B6|不當班的士兵
+#45B61|休閒 ~ 不當班的士兵
+#45B611|食堂 ~ 不當班的士兵
+#45B612|集體用餐mess ~ 不當班的士兵
+#45B62|休假 ~ 不當班的士兵
 #45B621|soldiers in gay company
-#45B7|completion of military service
-#45B71|demobilization
-#45B72|disbanding of the troops
-#45B73|return of the soldiers to civilian life, returning home
-#45B8|after the completion of service
-#45B81|veteran
-#45B82|disabled soldier
-#45B83|old-soldiers-home, 'Hôtel des Invalides'
-#45B84|reunion, memorial gathering (~ veteran soldiers)
-#45B9|desertion
-#45B91|desertion to the enemy
-#45C|(military) equipment and supply
-#45C1|weapons
+#45B7|完成服兵役
+#45B71|復員
+#45B72|遣散部隊
+#45B73|復員軍人回到平民生活, 回鄉
+#45B8|服兵役之後
+#45B81|老兵
+#45B82|殘廢軍人
+#45B83|老戰士之家, 'Hôtel des Invalides'
+#45B84|團聚, 紀念聚會 (~ 老戰士)
+#45B9|逃兵
+#45B91|頭敵
+#45C|(軍事) 裝備與設備
+#45C1|兵器
 #45C10|'Arme' (Ripa)
-#45C11|casting weapons
-#45C11(...)|casting weapons (with NAME)
-#45C11(BALLISTA)|casting weapons: ballista
-#45C11(SLING)|casting weapons: sling
-#45C11(SPEAR)|casting weapons: spear
-#45C12|weapons for striking a blow
-#45C12(...)|weapons for striking a blow (with NAME)
-#45C12(CLUB)|weapons for striking a blow: club
-#45C13|hacking and thrusting weapons
-#45C13(...)|hacking and thrusting weapons (with NAME)
-#45C13(DAGGER)|hacking and thrusting weapons: dagger
-#45C13(RAPIER)|hacking and thrusting weapons: rapier
-#45C13(SWORD)|hacking and thrusting weapons: sword
-#45C131|parts of hacking and thrusting weapons
-#45C131(...)|parts of hacking and thrusting weapons (with NAME)
-#45C131(BLADE)|parts of hacking and thrusting weapons: blade
-#45C131(GRIP)|parts of hacking and thrusting weapons: grip
-#45C131(GUARD)|parts of hacking and thrusting weapons: guard
-#45C131(POMMEL)|parts of hacking and thrusting weapons: pommel
-#45C14|helved weapons, polearms (for striking, hacking, thrusting)
-#45C14(...)|helved weapons, polearms (for striking, hacking, thrusting) (with NAME)
-#45C14(HALBERD)|helved weapons, polearms (for striking, hacking, thrusting): halberd
-#45C14(JAVELIN)|helved weapons, polearms (for striking, hacking, thrusting): javelin
-#45C14(LANCE)|helved weapons, polearms (for striking, hacking, thrusting): lance
-#45C14(PIKE)|helved weapons, polearms (for striking, hacking, thrusting): pike
-#45C15|archer's weapons
-#45C15(...)|archer's weapons (with NAME)
-#45C15(ARROW)|archer's weapons: arrow
-#45C15(BOW AND ARROW)|archer's weapons: bow and arrow
-#45C15(BOW)|archer's weapons: bow
-#45C15(CROSSBOW)|archer's weapons: crossbow
-#45C16|firearms
-#45C16(...)|firearms (with NAME)
-#45C16(CANNON)|firearms: cannon
-#45C16(RIFLE)|firearms: rifle
-#45C161|ammunition
-#45C1611|ammunition store, arsenal
-#45C1612|gunpowder disaster
-#45C17|projectiles, explosives, etc.
-#45C17(...)|projectiles, explosives, etc. (with NAME)
-#45C17(GUNPOWDER)|projectiles, explosives, etc.: gunpowder
-#45C17(MINE)|projectiles, explosives, etc.: mine
-#45C18|nuclear, biological and chemical weapons
-#45C19|protective weapons
-#45C19(...)|protective weapons (with NAME)
-#45C19(SHIELD)|protective weapons: shield
-#45C2|military clothing and other equipment (uniforms, cap, armour, helmet, etc.)
-#45C21|(military) uniforms
-#45C211|uniform cap
-#45C212|baton of general
-#45C22|armour
-#45C221|helmet
-#45C222|arm protector
-#45C2221|gauntlet, armoured glove to protect the hand
-#45C223|cuirass
-#45C23|quiver
-#45C231|scabbard, sheath
-#45C24|camouflage
-#45C3|food (in the army)
-#45C31|food supply
-#45C32|food reserves
-#45C33|preparation of food ~ military service
-#45C34|transporting of food ~ military service
-#45C35|inspection of food ~ military service
-#45C36|serving of food ~ military service
-#45C37|meals ~ military service
-#45C4|shelter ~ military service
-#45C41|(military) camp with tents
-#45C42|barracks
-#45C421|garrison
-#45C43|quartered in private houses
-#45C431|providing quarters, requisition of space
-#45C432|soldier with warrant
-#45C433|good reception
-#45C4331|helpfulness of soldiers
-#45C434|bad reception
-#45C4341|soldiers taking revenge
-#45C439|safeguard against quartering
-#45C5|pay ~ military service
-#45C51|payment ~ military service
-#45C511|pay-master ~ military service
-#45C52|soldier demanding pay
-#45C6|camp followers
-#45C61|male sutler
-#45C62|women camp-followers
-#45C621|female sutler, canteen-woman
+#45C11|投擲器
+#45C11(...)|投擲器 (名稱)
+#45C11(BALLISTA)|投擲器: 投石機
+#45C11(SLING)|投擲器: 彈弓
+#45C11(SPEAR)|投擲器: 矛
+#45C12|擊打器
+#45C12(...)|擊打器 (名稱)
+#45C12(CLUB)|擊打器: 棍
+#45C13|劈和刺器
+#45C13(...)|劈和刺器 (名稱)
+#45C13(DAGGER)|劈和刺器: 匕首
+#45C13(RAPIER)|劈和刺器: 細長的劍
+#45C13(SWORD)|劈和刺器: 劍
+#45C131|劈和刺器的部份
+#45C131(...)|劈和刺器的部份 (名稱)
+#45C131(BLADE)|劈和刺器的部份: 刀刃
+#45C131(GRIP)|劈和刺器的部份: 刀柄
+#45C131(GUARD)|劈和刺器的部份: 護把
+#45C131(POMMEL)|劈和刺器的部份: 柄端
+#45C14|長兵器, 長柄武器 (為了打擊, 劈, 刺)
+#45C14(...)|長兵器, 長柄武器 (為了打擊, 劈, 刺) (名稱)
+#45C14(HALBERD)|長兵器, 長柄武器 (為了打擊, 劈, 刺): 戟
+#45C14(JAVELIN)|長兵器, 長柄武器 (為了打擊, 劈, 刺): 標槍
+#45C14(LANCE)|長兵器, 長柄武器 (為了打擊, 劈, 刺): 長矛
+#45C14(PIKE)|長兵器, 長柄武器 (為了打擊, 劈, 刺): 長槍
+#45C15|弓箭手的兵器
+#45C15(...)|弓箭手的兵器 (名稱)
+#45C15(ARROW)|弓箭手的兵器: 箭
+#45C15(BOW AND ARROW)|弓箭手的兵器: 弓和箭
+#45C15(BOW)|弓箭手的兵器: 弓
+#45C15(CROSSBOW)|弓箭手的兵器: 弩
+#45C16|火器
+#45C16(...)|火器 (名稱)
+#45C16(CANNON)|火器: 火砲
+#45C16(RIFLE)|火器: 步槍, 來福槍
+#45C161|軍火
+#45C1611|彈藥庫, 軍火庫
+#45C1612|彈藥事故
+#45C17|彈藥, 等等
+#45C17(...)|彈藥, 等等 (名稱)
+#45C17(GUNPOWDER)|彈藥, 等等: 火藥
+#45C17(MINE)|彈藥, 等等: 地雷, 水雷
+#45C18|原子, 生物和化學武器
+#45C19|防衛武器
+#45C19(...)|防衛武器 (名稱)
+#45C19(SHIELD)|防衛武器: 盾牌
+#45C2|軍事服飾和其他裝備 (制服, 帽子, 鎧甲, 頭盔, 等等)
+#45C21|(軍事的) 制服
+#45C211|制服帽
+#45C212|指揮棒
+#45C22|鎧甲
+#45C221|頭盔
+#45C222|護腕
+#45C2221|護手, 保護手的鎧甲
+#45C223|胸甲
+#45C23|箭筒
+#45C231|刀鞘, 鞘
+#45C24|偽裝
+#45C3|食品 (軍隊裡的)
+#45C31|食品供應
+#45C32|食品儲備
+#45C33|準備食品 ~ 服兵役
+#45C34|食品運輸 ~ 服兵役
+#45C35|檢查食品 ~ 服兵役
+#45C36|供應食品 ~ 服兵役
+#45C37|餐點 ~ 服兵役
+#45C4|遮蔽處 ~ 服兵役
+#45C41|(軍事) 帳篷營地
+#45C42|營房
+#45C421|駐防
+#45C43|駐紮在私人住宅
+#45C431|提供住宅, 徵用空間
+#45C432|被授權的士兵
+#45C433|好的接待
+#45C4331|士兵樂於助人
+#45C434|不好的接待
+#45C4341|士兵報復
+#45C439|防範軍隊駐紮
+#45C5|報酬 ~ 服兵役
+#45C51|薪金 ~ 服兵役
+#45C511|出納員 ~ 服兵役
+#45C52|士兵要求報酬
+#45C6|隨軍雜役
+#45C61|隨軍男性小販
+#45C62|隨軍女性雜役
+#45C621|女性小販
 #45C63|'Hurenwebel'
-#45C7|hygienic and medical provisions (military)
-#45C71|transport of the sick, wounded and dead (military)
-#45C711|carrying the sick, wounded and dead off the battle-field
-#45C712|transport of the sick, wounded and dead by vehicle
-#45C72|medical aid and nursing of the sick and wounded
-#45C721|medical aid and nursing of the sick and wounded on the battlefield
-#45C722|medical aid and nursing of the sick and wounded during the battle
-#45C723|medical aid and nursing of the sick and wounded in a field-hospital
-#45C724|medical aid and nursing of the sick and wounded in a lazaretto
-#45C8|religious and welfare care ~ military service
-#45C81|welfare ~ military service
-#45C82|religious care ~ military service
-#45C9|military music
-#45C91|military band
-#45C92|(military) signals
-#45D|insignia; division of armed forces; ranks
-#45D1|(military) flags and standards
-#45D11|insignia of companies, etc.
-#45D12|(military) standard-bearer
-#45D2|division of armed forces
-#45D21|land forces
-#45D22|navy
-#45D23|air force
-#45D3|ranks (in the army, navy, air force)
-#45D31|ranks in the army
-#45D311|commander-in-chief, general, marshal
-#45D312|officer
-#45D312(...)|officer (with NAME of rank)
-#45D313|private soldier
-#45D32|ranks in the navy
-#45D321|commander-in-chief, admiral
-#45D322|officer
-#45D323|sailor
-#45D33|ranks in the air force
-#45E|communication and transport
-#45E1|communication (military)
-#45E2|transport, train (military)
-#45E3|military vehicles
-#45E31|ancient forms of military vehicles: chariot, battle wagon, etc.
-#45E32|modern forms of military vehicles
-#45E32(...)|modern forms of military vehicles (with NAME)
-#45E4|animals used in the army
-#45E5|military engineering ~ communication and transport
-#45E51|improvised bridge, temporary bridge ~ military engineering
-#45E511|pontoon bridge
-#45E512|Bailey bridge
-#45E52|removing obstructions, barricades, etc. ~ army
-#45F|preparation for battle
-#45F1|council of war
-#45F11|plan of battle
+#45C7|衛生和醫療供應 (軍事)
+#45C71|病員,傷員和死者的運送 (軍事)
+#45C711|將病員,傷員和死者撤離戰場
+#45C712|用車輛運送病員,傷員和死者
+#45C72|傷病員的醫療救護
+#45C721|傷病員在戰場上的醫療救護
+#45C722|傷病員在戰鬥中的醫療救護
+#45C723|傷病員在戰地醫院的醫療救護
+#45C724|傷病員在檢疫所的醫療救護
+#45C8|福利和宗教服務 ~ 服兵役
+#45C81|福利 ~ 服兵役
+#45C82|宗教服務 ~ 服兵役
+#45C9|軍樂
+#45C91|軍樂隊
+#45C92|(軍)號
+#45D|標誌; 不同軍種; 等級
+#45D1|(軍)旗
+#45D11|隊伍的標誌, 等等
+#45D12|(軍) 旗手
+#45D2|不同軍種
+#45D21|陸軍
+#45D22|海軍
+#45D23|空軍
+#45D3|等級 (陸海空軍的)
+#45D31|陸軍的等級
+#45D311|總指揮, 將軍, 元帥
+#45D312|軍官
+#45D312(...)|軍官 (等級的名稱)
+#45D313|士兵
+#45D32|海軍的等級
+#45D321|總指揮, 海軍上將
+#45D322|軍官
+#45D323|水手
+#45D33|空軍的等級
+#45E|通訊和運輸
+#45E1|通訊 (軍事)
+#45E2|運輸, train (軍事)
+#45E3|軍事車輛
+#45E31|古代軍車形制: 雙輪戰車, 戰車, 等等
+#45E32|古代軍車形制
+#45E32(...)|古代軍車形制 (名稱)
+#45E4|軍隊使用的動物
+#45E5|軍事工程 ~ 通訊和運輸
+#45E51|即時橋樑, 臨時橋梁 ~ 軍事工程
+#45E511|浮橋
+#45E512|活動便橋
+#45E52|拆除障礙物, 防禦工事, 等等 ~ 軍隊
+#45F|準備戰鬥
+#45F1|軍事會議
+#45F11|作戰方案
 #45F12|negotiations between combatants
-#45F2|intelligence services (military)
-#45F21|scouting, reconnaissance (military)
-#45F211|prisoner used as guide
-#45F212|scouting with mechanical equipment
-#45F22|(military) espionage
+#45F2|情報服務 (軍事)
+#45F21|初步勘查, 偵查 (軍事)
+#45F211|戰俘作為嚮導
+#45F212|用儀器勘查
+#45F22|(軍事) 諜報活動
 #45F220|'Spia' (Ripa)
-#45F221|listening-in on radio, telephone, etc.
-#45F222|arrest of (presumed) spy
-#45F23|(military) counter-espionage
-#45F3|assembling of military forces; mobilization, troop concentration, etc.
-#45F31|mobilization of troops; call to arms
-#45F32|requisition (call into service)
-#45F33|troop concentration
-#45F34|battle arrays
-#45F4|troop movements, transportation
-#45F41|leave-taking (of soldiers)
-#45F42|marching away (troops)
-#45F43|nocturnal troop movements
-#45F5|army 'en route'
-#45F6|address by general before the battle
-#45F7|prayer or religious service before battle
+#45F221|監聽電台, 電話, 等等
+#45F222|逮捕(涉嫌) 間諜
+#45F23|(軍事) 反諜報活動
+#45F3|軍隊集結; 調動, 等等
+#45F31|調動軍隊; 武裝動員
+#45F32|徵兵 (動員)
+#45F33|隊伍集結
+#45F34|站都部署
+#45F4|部隊行進, 運輸
+#45F41|離職 (士兵的)
+#45F42|marching away (隊伍的)
+#45F43|部隊夜間行進
+#45F5|部隊'在途中'
+#45F6|將軍站前訓話
+#45F7|戰前祈禱或宗教服務
 #45F8|challenging the enemy
-#45F9|treason
+#45F9|叛變
 #45F90|'Tradimento' (Ripa)
-#45G|defensive measures (military)
-#45G1|cutting communication lines and making obstructions
-#45G11|removing beacons, roadsigns, etc. (defensive measures)
-#45G12|obstructions, barricades (defensive measures)
-#45G121|obstructions ~ army
-#45G1211|obstructions on roads
-#45G12111|obstructions in streets; barricades
-#45G1212|man-trap, caltrop, spikes ~ obstruction on roads
-#45G12121|pitfalls
-#45G12122|land-mines, mine-field
-#45G12123|barbed wire
-#45G122|obstructions ~ navy
-#45G1221|chains across waterway
-#45G1222|mine-field ~ navy
-#45G123|obstructions ~ air force
-#45G1231|rendering airfields unusable
-#45G1232|search-lights (defensive measures ~ air force)
-#45G1233|defensive balloons
-#45G2|(military) self-protection
-#45G21|underground shelters
-#45H|battle, fighting in general
-#45H1|(military) attack
-#45H11|signal to attack
-#45H111|war-cry
-#45H12|surprise attack (from ambush)
-#45H13|surprise attack (stratagem)
+#45G|防禦措施 (軍事)
+#45G1|切斷通訊線和設置障礙物
+#45G11|拆除指示裝置, 路標, 等等 (防禦措施)
+#45G12|障礙物, 防禦工事 (防禦措施)
+#45G121|障礙物 ~ 軍隊
+#45G1211|道路中間的障礙物
+#45G12111|街道中間的障礙物; 防禦工事
+#45G1212|捕人陷阱, 鐵蒺藜, 尖釘 ~ 道路中間的障礙物
+#45G12121|陷阱
+#45G12122|地雷, 雷區
+#45G12123|有刺鐵絲網
+#45G122|障礙物 ~ 海軍
+#45G1221|橫跨水道的鐵鏈
+#45G1222|雷區 ~ 海軍
+#45G123|障礙物 ~ 空軍
+#45G1231|把機場做的無法使用
+#45G1232|探照燈 (防禦措施 ~ 空軍)
+#45G1233|防空氣球
+#45G2|(軍事) 自我防護
+#45G21|地下掩蔽所
+#45H|戰鬥, 一般性的搏鬥
+#45H1|(軍事) 攻擊
+#45H11|進攻的信號
+#45H111|(作戰時的)吶喊
+#45H12|突然襲擊 (埋伏)
+#45H13|突然襲擊 (計謀)
 #45H130|'Stratagemma militare' (Ripa)
-#45H2|being attacked; defence
-#45H21|signal to defend
-#45H22|counter-attack
-#45H3|battle
-#45H31|bombardment
-#45H32|charge ~ battle
-#45H33|hand-to-hand fighting (~ battle)
-#45H331|fighting against superior forces
-#45H34|single combat in place of battle
-#45H341|duel in place of battle
-#45H342|small groups in single combat in place of battle
-#45H4|putting the enemy to flight
-#45H5|putting the enemy out of action
-#45H51|putting out of action by superior forces
-#45H52|putting out of action by wounding
-#45H53|putting out of action by killing
-#45H54|putting out of action by breaking the supply lines
-#45H6|guerilla warfare
+#45H2|被攻擊; 防禦
+#45H21|防禦的信號
+#45H22|反攻
+#45H3|戰鬥
+#45H31|轟炸
+#45H32|衝鋒 ~ 戰鬥
+#45H33|肉搏 (~ 戰鬥)
+#45H331|與強大的軍隊戰鬥
+#45H34|戰鬥中一對一的格鬥
+#45H341|戰鬥中的決鬥duel in place of battle
+#45H342|戰鬥中一小群人一對一的格鬥
+#45H4|迫使敵人逃竄
+#45H5|讓敵人失去戰鬥力
+#45H51|強大的實力讓人失去戰鬥力
+#45H52|造成創傷讓人失去戰鬥力
+#45H53|殺戮讓人失去戰鬥力
+#45H54|切斷供給線讓人失去戰鬥力
+#45H6|游擊戰
 #45HH4|putting the enemy to flight - HH - being put to flight, fleeing
 #45HH5|putting the enemy out of action - HH - being put out of action
 #45HH51|putting out of action by superior forces - HH - being put out of action
 #45HH52|putting out of action by wounding - HH - being put out of action
 #45HH53|putting out of action by killing - HH - being put out of action
 #45HH54|putting out of action by breaking the supply lines - HH - being put out of action
-#45I|after the battle
-#45I1|prisoner of war (after the battle)
-#45I11|surrender ~ prisoner of war
-#45I12|disarmament ~ prisoner of war
-#45I13|transfer, deportation ~ prisoner of war
-#45I14|interrogation ~ prisoner of war
-#45I141|brain washing ~ prisoner of war
-#45I15|care ~ prisoner of war
-#45I151|prisoner of war camp
-#45I16|exchange ~ prisoner of war
-#45I161|ransom ~ prisoner of war
-#45I17|liberating prisoners of war
-#45I2|hostage (after the battle)
-#45I3|communiqué (after the battle)
-#45I31|criticism of communiqué (after the battle)
-#45I4|negotiations for truce
-#45I41|negotiations for truce on a demolished bridge
-#45I5|suspension of hostilities (truce)
-#45I51|truce of God, 'Trève-Dieu'
-#45I52|suspension of hostilities in order to bury the dead
-#45I53|armistice, truce
+#45I|戰鬥結束之後
+#45I1|戰俘 (戰鬥結束之後)
+#45I11|投降 ~ 戰俘
+#45I12|繳械 ~ 戰俘
+#45I13|押送, 押運 ~ 戰俘
+#45I14|審問 ~ 戰俘
+#45I141|洗腦 ~ 戰俘
+#45I15|關照 ~ 戰俘
+#45I151|戰俘營
+#45I16|交換 ~ 戰俘
+#45I161|贖金 ~ 戰俘
+#45I17|解救戰俘
+#45I2|人質 (戰鬥結束之後)
+#45I3|公報 (戰鬥結束之後)
+#45I31|批評公報 (戰鬥結束之後)
+#45I4|停戰談判
+#45I41|在被毀壞的橋上的停戰談判
+#45I5|中止敵對 (停戰)
+#45I51|上帝休戰令, 'Trève-Dieu'
+#45I52|停戰為了掩埋死者
+#45I53|停戰, 休戰
 #45I530|'Tregua' (Ripa)
-#45I6|victor (after the battle)
-#45I61|conqueror triumphing, triumphal entry of victor
-#45I611|crowning the victor with laurel
-#45I612|prisoners chained to the victor's chariot
-#45I62|conqueror (on horseback) tramples conquered
-#45I63|(conqueror) gripping the victim's hair
-#45I7|the defeated (after the battle)
-#45I71|the defeated before the victor
-#45K|siege, position war
-#45K1|fortifications, military engineering
-#45K11|temporary fortifications
-#45K111|trenches
-#45K112|no man's land
-#45K12|permanent fortifications
-#45K121|palisades
-#45K122|bastion, bulwark
-#45K13|fortress
-#45K14|fortified city
-#45K141|walls ~ fortified city
-#45K1411|machicolation ~ fortified city
-#45K1412|battlement, crenellation ~ fortified city
-#45K1413|loop-hole ~ fortified city
-#45K142|towers ~ fortified city
-#45K143|moat ~ fortified city
-#45K1431|drawbridge ~ fortified city
-#45K144|gate ~ fortified city
-#45K1441|portcullis
-#45K2|attack ~ siege
-#45K21|siege
-#45K22|blockade ~ siege
-#45K23|bombardment ~ siege
-#45K231|siege arms, e.g.: battering ram
+#45I6|戰勝者 (戰鬥結束之後)
+#45I61|征服者的勝利, 戰勝者勝利入場
+#45I611|給戰勝者帶上桂冠
+#45I612|戰俘被綁在戰勝者的戰車上
+#45I62| (馬背上的) 征服者踩踏被征服者
+#45I63|(征服者) 抓住羈難者的頭髮
+#45I7|失敗者 (戰鬥結束之後)
+#45I71|在勝利者面前的失敗者
+#45K|圍攻戰, 陣地戰
+#45K1|防禦工事, 軍事工程
+#45K11|臨時防禦工事
+#45K111|壕溝
+#45K112|無人區
+#45K12|永久性防禦工事
+#45K121|柵欄
+#45K122|棱堡, 壁壘
+#45K13|堡壘
+#45K14|具有防禦系統的城池
+#45K141|城牆 ~ 具有防禦系統的城池
+#45K1411|堞眼 ~ 具有防禦系統的城池
+#45K1412|城垛 ~ 具有防禦系統的城池
+#45K1413|箭眼loop-hole ~ 具有防禦系統的城池
+#45K142|塔樓 ~ 具有防禦系統的城池
+#45K143|護城河 ~ 具有防禦系統的城池
+#45K1431|吊橋 ~ 具有防禦系統的城池
+#45K144|城門 ~ 具有防禦系統的城池
+#45K1441|升降閘門
+#45K2|攻擊 ~ 圍城
+#45K21|圍城
+#45K22|封鎖 ~ 圍城
+#45K23|轟炸 ~ 圍城
+#45K231|圍城武器, 如: 破城槌
 #45K24|'attaques brusquées'
 #45K25|'travaux d'approche'
-#45K26|assault ~ siege
-#45K27|breaking into city or fortress ~ siege
-#45K3|defence ~ siege
-#45K31|defence of fortification or city
-#45K32|counter-attack from a fortification ~ siege
-#45K33|inside the besieged city
-#45K331|strengthening the fortifications inside the besieged city
-#45K4|capture of city (after the siege)
-#45K5|raising the siege
-#45K51|raising the siege with outside assistance, relief
-#45K52|liberation of besieged city
-#45L|occupation ~ war
-#45L1|surrender ~ war
-#45L11|surrender of keys
-#45L12|march into the conquered place
-#45L13|retreat of the defeated
-#45L2|levy
-#45L21|delivering levied goods
-#45L22|division of the spoils of war
-#45L23|carrying off the spoils of war
-#45L29|safe conduct
-#45L3|plundering ~ soldiers
-#45L31|booty, spoil
-#45L311|trophy ~ battle, war
-#45L3111|'tropaion', i.e. decorative ornament ~ weapons
-#45L4|destruction of conquered city
-#45L40|allegory, personification of destruction of conquered city
-#45L41|demolishing (of conquered city)
-#45L42|setting on fire (of conquered city)
-#45L43|devastated, ruined place or city (~ warfare)
-#45M|non-combatants ~ war
-#45M1|non-combatants in military situations
-#45M11|non-combatants on the battle-scene
-#45M12|non-combatants during passage of soldiers
-#45M13|fighting civilians, e.g.: 'franc tireur'
-#45M2|soldiers and civilians
-#45M3|occupier and civilians
-#45M31|house-to-house search
-#45M39|underground movement, partisans
-#45M391|sabotage by partisans
-#45M4|civilians during bombardment
-#45M5|fugitives
-#45M51|fugitives 'en route'
-#45M52|fugitives resting, camping
-#45M6|internment camp
-#45M7|concentration camp
-46|社会生活与经济生活，运输与通讯
-#46A|communal life
-#46A1|social stratification, social groups
-#46A11|division into classes (~ society)
-#46A111|the three Estates: nobility, clergy, commoners
-#46A112|other divisions into classes (~ society)
-#46A12|nobility and patriciate; chivalry, knighthood
-#46A121|coronet
-#46A122|armorial bearing, heraldry
-#46A122(...)|armorial bearing, heraldry (with NAME of family)
-#46A122(...)1|armorial bearing, heraldry (with NAME of family) - coat of arms
-#46A122(...)2|armorial bearing, heraldry (with NAME of family) - crest
-#46A122(...)3|armorial bearing, heraldry (with NAME of family) - device, motto
-#46A122(...)4|armorial bearing, heraldry (with NAME of family) - impresa
-#46A122(...)5|armorial bearing, heraldry (with NAME of family) - banner
-#46A122(...)6|armorial bearing, heraldry (with NAME of family) - seal
-#46A123|herald
-#46A124|knight
-#46A1241|knighthood order
-#46A1241(...)|knighthood order (with NAME)
-#46A1241(...)1|knighthood order (with NAME) - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)
-#46A1241(GOLDEN FLEECE)|knighthood order of the Golden Fleece
-#46A1241(GOLDEN FLEECE)1|knighthood order of the Golden Fleece - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)
-#46A1241(HOLY SPIRIT)|knighthood order of the Holy Spirit
-#46A1241(HOLY SPIRIT)1|knighthood order of the Holy Spirit - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)
-#46A1241(ST. JOHN)|knighthood order of St. John
-#46A1241(ST. JOHN)1|knighthood order of St. John - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)
-#46A1241(TEUTONIC ORDER)|knighthood order: Teutonic Order
-#46A1241(TEUTONIC ORDER)1|knighthood order: Teutonic Order - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)
-#46A125|becoming a knight, knighting
-#46A1251|page, footboy
-#46A1252|shield-bearer, squire
-#46A1253|knighting ceremonies
-#46A12531|dubbing a knight with little ceremony
-#46A125311|girding of the sword (~ knighting)
-#46A125312|blow or slap with sword, accolade (~ knighting)
-#46A12532|dubbing a knight with full ceremony
-#46A125321|clothing (~ knighting ceremony)
-#46A125322|fast and all-night vigil (~ knighting ceremony)
-#46A125323|blessing of the sword (~ knighting ceremony)
-#46A125324|investiture with armour, spurs and sword (~ knighting)
-#46A125325|blow or slap with sword, accolade (full knighting ceremony)
-#46A125326|other parts of knighting ceremony
-#46A126|the nine worthies, 'les neuf preux'
-#46A1261|Joshua (one of the nine worthies)
-#46A1262|David (one of the nine worthies)
-#46A1263|Judas Maccabaeus (one of the nine worthies)
-#46A1264|Hector (one of the nine worthies)
-#46A1265|Alexander (one of the nine worthies)
-#46A1266|Julius Caesar (one of the nine worthies)
-#46A1267|Arthur (one of the nine worthies)
-#46A1268|Charlemagne (one of the nine worthies)
-#46A1269|Godefroy of Bouillon (one of the nine worthies)
-#46A127|men of name or fame, heroes, 'homines illustres', 'uomini famosi'
-#46A13|commoners
-#46A131|bourgeoisie, middle class, citizens, burghers
-#46A132|villagers; villeins (Dutch: 'dorpers')
-#46A139|buffoon (in general) (German: 'Schalksnarr')
-#46A14|farmers
-#46A141|fight between farmers and soldiers
-#46A15|the poor
-#46A151|beggar
-#46A1511|begging bowl
-#46A1512|beggars' procession
-#46A152|'fahrende Leute', vagrants
-#46A153|'bambochades', revellers
-#46A154|generally despised professions, 'unehrliche Leute'
-#46A155|outcasts, pariahs
-#46A16|the rich
-#46A161|acquiring riches
-#46A1611|treasure hunting, goldrush
-#46A1612|digging for or finding of treasure
-#46A162|exhibition of wealth
-#46A1621|display of jewels, etc.
-#46A1622|strewing valuables
-#46A1623|contemplating one's own riches
-#46A163|protection of wealth
-#46A1631|depository (of valuables)
-#46A16311|hiding, concealing, burying a treasure
-#46A1632|money-chest, treasure-chest, money-box
-#46A16321|safe, strongbox
-#46A1633|guarding of treasure
-#46A16331|guarding of treasure by men
-#46A16332|guarding of treasure by animals
-#46A16333|guarding of treasure by mechanical means
-#46A164|upper ten
-#46A165|jet set
-#46A166|parvenu, 'nouveau riche', upstart
-#46A17|working class, labourers
-#46A170|Labour
-#46A171|employer ~ employee
-#46A1711|employee asking for work
-#46A172|paying of wages
-#46A1721|labourer refusing payment
-#46A1722|employer refusing to pay wages
-#46A173|labourers going to work
-#46A174|labourers returning home
-#46A175|child labour
-#46A179|unemployment
-#46A1791|unemployed labourers
-#46A18|slavery; serfs and slaves
+#45K26|襲擊 ~ 圍城
+#45K27|攻入城池或堡壘 ~ 圍城
+#45K3|保衛 ~ 圍城
+#45K31|保衛防禦工事或城池
+#45K32|從防禦工事反攻 ~ 圍城
+#45K33|在被圍困的城池裡
+#45K331|在被圍困的城池裡加固防禦工事
+#45K4|占領城市 (圍城之後)
+#45K5|停止圍城
+#45K51|因外部援助使圍城停止, 解圍
+#45K52|解放被圍困的城池liberation of besieged city
+#45L|占領 ~ 戰爭
+#45L1|投降 ~ 戰爭
+#45L11|交出鑰匙
+#45L12|在被占領的地方行進
+#45L13|敗方的撤退
+#45L2|徵收
+#45L21|運送徵收的物品
+#45L22|戰利品的分配
+#45L23|搬運戰利品
+#45L29|(戰時)通行證
+#45L3|掠奪 ~ 士兵
+#45L31|繳獲物,掠奪物
+#45L311|戰利品 ~ 戰鬥, 戰爭
+#45L3111|'tropaion', 即裝飾物 ~ 兵器
+#45L4|被占領的城市的毀滅
+#45L40|被占領的城市的毀滅的人格寓言化, 人格化
+#45L41|拆除 (被占領的城市)
+#45L42|焚毀 (被占領的城市)
+#45L43|被毀滅的,變成廢墟的地方或城市 (~ 戰爭)
+#45M|非戰鬥人員 ~ 戰爭
+#45M1|在軍事情況下的非戰鬥人員
+#45M11|在戰場上的非戰鬥人員
+#45M12|在戰士通過時的非戰鬥人員during passage of soldiers
+#45M13|參加作戰的平民, 如: 'franc tireur'
+#45M2|士兵與平民
+#45M3|占領者與平民
+#45M31|挨家挨戶的搜查
+#45M39|地下活動, 游擊隊員
+#45M391|游擊隊員的破壞活動
+#45M4|轟炸下的平民
+#45M5|逃亡者
+#45M51|逃亡者 '在途中'
+#45M52|逃亡者在休息, 紮營
+#45M6|收容所
+#45M7|集中營
+46|社会与经济生活，运输与通讯
+#46A|社會生活
+#46A1|社會分層, 社群
+#46A11|階級區分 (~ 社會)
+#46A111|三個等級: 貴族, 僧侶, 平民
+#46A112|其他階級區分 (~ 社會)
+#46A12|貴族; 騎士
+#46A121|(貴族等戴的)小冠冕
+#46A122|紋章
+#46A122(...)|紋章 (名稱)
+#46A122(...)1|紋章 (名稱) - 盾型紋章
+#46A122(...)2|紋章 (名稱) - 頭盔頂飾
+#46A122(...)3|紋章 (名稱) - 銘文
+#46A122(...)4|紋章 (名稱) - 銘文徽章
+#46A122(...)5|紋章 (名稱) - 旗幟
+#46A122(...)6|紋章 (名稱) - 印章
+#46A123|紋章官
+#46A124|騎士
+#46A1241|騎士團
+#46A1241(...)|騎士團 (名稱)
+#46A1241(...)1|騎士團 (名稱) - 騎士團的標誌, 如: 徽章, 鏈 (帶有騎士團名稱)
+#46A1241(GOLDEN FLEECE)|金羊毛騎士團
+#46A1241(GOLDEN FLEECE)1|金羊毛騎士團 - 騎士團的標誌, 如: 徽章, 鏈 (帶有騎士團名稱)
+#46A1241(HOLY SPIRIT)|聖靈騎士團
+#46A1241(HOLY SPIRIT)1|聖靈騎士團 - 騎士團的標誌, 如: 徽章, 鏈 (帶有騎士團名稱)
+#46A1241(ST. JOHN)|聖約翰騎士團
+#46A1241(ST. JOHN)1|聖約翰騎士團 - 騎士團的標誌, 如: 徽章, 鏈 (帶有騎士團名稱)
+#46A1241(TEUTONIC ORDER)|騎士團: 條頓騎士團
+#46A1241(TEUTONIC ORDER)1|騎士團: 條頓騎士團 - 騎士團的標誌, 如: 徽章, 鏈 (帶有騎士團名稱)
+#46A125|成為騎士, 封爵
+#46A1251|(貴族的)侍從
+#46A1252|持盾牌者, 護衛
+#46A1253|封爵典禮
+#46A12531|簡單的封爵典禮
+#46A125311|佩劍 girding of the sword (~ 封爵)
+#46A125312|用劍拍打 (~ 封爵)
+#46A12532|完整的封爵典禮
+#46A125321|著裝 (~ 封爵典禮)
+#46A125322|齋戒與守夜 (~ 封爵典禮)
+#46A125323|為劍祈福 (~ 封爵典禮)
+#46A125324|授盔甲, 馬刺與劍 (~ 封爵)
+#46A125325|用劍拍打 (完整的封爵典禮)
+#46A125326|封爵典禮的其他部分
+#46A126|九偉人, 'les neuf preux'
+#46A1261|約書亞 (九偉人之一)
+#46A1262|大衛 (九偉人之一)
+#46A1263|猶大·馬加比 (九偉人之一)
+#46A1264|赫克托爾Hector (九偉人之一)
+#46A1265|亞歷山大大帝Alexander (九偉人之一)
+#46A1266|凱撒大帝 (九偉人之一)
+#46A1267|亞瑟王 (九偉人之一)
+#46A1268|查理大帝 (九偉人之一)
+#46A1269|布永的戈佛雷Godefroy of Bouillon (九偉人之一)
+#46A127|名人, 英雄, 'homines illustres', 'uomini famosi'
+#46A13|平民
+#46A131|資產階級, 中產階級, 公民, 市民
+#46A132|村民; 隸農 (荷蘭語: 'dorpers')
+#46A139|小丑 (一般性) (德語: 'Schalksnarr')
+#46A14|農民
+#46A141|農民與士兵搏鬥
+#46A15|貧民
+#46A151|乞丐
+#46A1511|討飯碗
+#46A1512|乞丐行列
+#46A152|'fahrende Leute', 流浪者
+#46A153|'bambochades', 尋歡作樂者
+#46A154|一般被鄙視的職業, 'unehrliche Leute'
+#46A155|被社會拋棄者, 賤民
+#46A16|富豪
+#46A161|獲得富裕
+#46A1611|探寶, 淘金
+#46A1612|挖寶或尋寶
+#46A162|炫耀財富
+#46A1621|展示珠寶, 等等
+#46A1622|散財
+#46A1623|計算自己的財富
+#46A163|保護財產
+#46A1631|儲藏 (有價值之物)
+#46A16311|隱藏, 隱匿, 埋藏財寶
+#46A1632|錢櫃, 財寶箱, 錢盒
+#46A16321|保險櫃, 保險箱
+#46A1633|守護財寶
+#46A16331|用人守護財寶
+#46A16332|用動物守護財寶
+#46A16333|用機械方法守護財寶
+#46A164|上流社會
+#46A165|噴氣飛機階層
+#46A166|暴發戶, '新富', 新貴
+#46A17|工人階級, 勞工
+#46A170|勞動力
+#46A171|雇主 ~ 雇員
+#46A1711|雇員要求工作
+#46A172|付工資
+#46A1721|勞工拒絕工資
+#46A1722|雇主拒絕付工資
+#46A173|勞工上工
+#46A174|勞工會加
+#46A175|童工
+#46A179|失業
+#46A1791|失業勞工
+#46A18|奴隸制; 奴隸主和奴隸
 #46A180|'Servitù', 'Servitù per forza' (Ripa)
-#46A181|slave-trade
-#46A182|master ~ slave
-#46A183|freedom ~ slavery
-#46A1831|liberation (of a slave)
-#46A1832|purchase of freedom
-#46A1833|escape, escape attempts (of a slave)
-#46A1834|abolition of slavery, fighting slavery
-#46A2|social contrast
-#46A21|contrast between rich and poor
-#46A211|bad rich man, good poor man
-#46A212|giving alms or other charity, e.g.: handing out food
+#46A181|販賣奴隸
+#46A182|主人 ~ 奴隸
+#46A183|自由 ~ 奴隸制
+#46A1831|解放 (奴隸)
+#46A1832|贖取自由
+#46A1833| (奴隸)逃跑, 試圖逃跑
+#46A1834|廢除奴隸制, 反對奴隸制
+#46A2|社會契約
+#46A21|富人與窮人的契約
+#46A211|邪惡的富人, 善良的窮人
+#46A212|施捨或其它善舉, 如: 施捨食物
 #46A2120|'Elemosina' (Ripa)
-#46A213|philanthropist
-#46A22|contrast between urban and rural life; city dweller versus country dweller
-#46A221|urban life
-#46A2211|city dwellers
-#46A2219|depopulation of cities, urban depopulation
-#46A222|rural life
-#46A2221|country dwellers
-#46A22219|depopulation of the countryside, rural depopulation
-#46A23|contrast between important and unimportant people; the inferior before the superior, the weak before the mighty
-#46A231|the protégé before the patron
-#46A24|relation between master and servant
-#46A241|serving two masters
-#46A3|public welfare
-#46A31|orphanage
-#46A311|foundling-hospital
-#46A32|care of the aged
-#46A321|old-people's home
-#46A3211|alms-house (Dutch: 'hofje')
-#46A33|charitable works
-#46A4|relations between races
-#46A41|racial discrimination, segregation
-#46A42|inter-racial antipathy, racialism
-#46A421|race-riots
-#46A422|Ku Klux Klan and similar organizations
-#46A49|anti-racialism; racial integration
-#46A5|linguistic communication
-#46A51|attempt to make oneself understood ~ linguistic communication
-#46A511|misunderstanding
-#46A52|interpreter ~ language
-#46A53|translator
-#46A54|communication with the deaf or dumb
-#46A541|lip-reading
-#46A542|sign-language
-#46A55|artificial language
-#46A551|Esperanto
-#46A6|societies and directory boards
-#46A61|board, esp. governors, trustees, etc. (Dutch: 'regenten')
-#46A611|chairman
-#46A612|secretary (of a society)
-#46A613|treasurer
-#46A614|committee members, board members
-#46A62|member, membership
-#46A621|becoming a member
-#46A6211|balloting
-#46A6212|initiation (~ membership of a society)
-#46A629|suspension, expulsion (from a society)
-#46A63|meeting, assembly
-#46A631|opening the meeting
-#46A632|address, talk, lecture (~ meeting)
-#46A633|debate, discussion (~ meeting)
-#46A634|interruption, questions (~ meeting)
-#46A635|voting (~ meeting)
-#46A636|chaos, disorderly procedure (~ meeting)
-#46A637|closing the meeting
-#46A638|assembly-room
-#46A7|crowd, mob
-#46A71|individual versus mass
-#46A8|unusual manners of living
-#46A81|wandering communities
-#46A81(...)|wandering communities (with NAME)
-#46A81(GIPSIES)|wandering communities: gipsies
-#46A81(NOMADS)|wandering communities: nomads
-#46A811|wandering communities living in tents
-#46A812|wandering communities living in house-wagons
-#46A813|wandering communities living in boats
-#46A82|idealistic communities, 'back to nature'
-#46A821|communities, groups
-#46A821(...)|communities, groups (with NAME)
-#46A8211|communal sharing of everything
-#46A822|naturists
-#46A823|nudists
-#46A83|solitary living
-#46A831|living alone on an uninhabited island, Robinsonade
-#46A84|pioneering, frontier life
-#46A841|Wild West
-#46A85|adventurer
-#46A9|primitive social structure
-#46A91|matriarchy
-#46A92|patriarchy
-#46A93|clans, tribal relationships
+#46A213|慈善家
+#46A22|城鄉差別; 城市居民與鄉村居民
+#46A221|城市生活
+#46A2211|城市居民
+#46A2219|城市人口減少
+#46A222|鄉村居民
+#46A2221|鄉村居民
+#46A22219|鄉村人口減少
+#46A23|重要人物和不重要人物的差別; 劣者在優者者面前, 弱者在強者面前
+#46A231|被庇護人在庇護人面前
+#46A24|主人與侍從的關係
+#46A241|侍奉二主
+#46A3|公共福利
+#46A31|孤兒院
+#46A311|棄嬰養育院
+#46A32|關懷老人
+#46A321|養老院
+#46A3211|救濟院 (荷蘭語: 'hofje')
+#46A33|慈善工作
+#46A4|種族關係
+#46A41|種族歧視, 種族隔離
+#46A42|對不同種族的厭惡, 種族主義
+#46A421|種族暴動
+#46A422|三Ｋ黨和類似的組織
+#46A49|反種族主義; 種族融合
+#46A5|語言交流
+#46A51|試圖讓自己被理解 ~ 語言交流
+#46A511|誤解
+#46A52|翻譯 ~ 語言
+#46A53|翻譯者
+#46A54|與聾啞人交流
+#46A541|讀唇法
+#46A542|手語
+#46A55|人工語言
+#46A551|世界語
+#46A6|社團和委員會
+#46A61|委員會, 特別是governors, 董事會, 等等 (荷蘭語: 'regenten')
+#46A611|主席
+#46A612|秘書 (社團)
+#46A613|財務主管
+#46A614|委員會成員
+#46A62|成員, 成員資格
+#46A621|變成一個成員
+#46A6211|投票
+#46A6212|入會 (~ 社團的成員)
+#46A629|取消(社團的)資格, 開除
+#46A63|會議, 大會
+#46A631|會議開始
+#46A632|致詞, 講話, 演講 (~ 會議)
+#46A633|辯論, 討論 (~ 會議)
+#46A634|打斷, 提問 (~ 會議)
+#46A635|選舉 (~ 會議)
+#46A636|混亂, 程序混亂 (~ 會議)
+#46A637|會議結束
+#46A638|會議聽
+#46A7|人群, 暴民
+#46A71|個人與大眾
+#46A8|特殊的生活方式
+#46A81|游動群落
+#46A81(...)|游動群落 (名稱)
+#46A81(GIPSIES)|游動群落: 吉普賽人
+#46A81(NOMADS)|游動群落: 游牧民
+#46A811|生活在帳篷中的游動群落
+#46A812|生活在大篷車裡的游動群落
+#46A813|生活在船上的游動群落
+#46A82|理想主義的社群, '回歸自然'
+#46A821|群落,社群 
+#46A821(...)|群落,社群 (名稱)
+#46A8211|社群成員分享一切
+#46A822|自然主義者
+#46A823|裸體主義者
+#46A83|獨居生活方式
+#46A831|獨自生活在荒島, 魯賓遜式的生活
+#46A84|拓荒者, 邊遠地區生活
+#46A841|蠻荒的西部
+#46A85|冒險家
+#46A9|原始社會的結構
+#46A91|母系社會結構
+#46A92|父系社會結構
+#46A93|部落, 部落關係
 #46AA122|armorial bearing, heraldry - AA - female
 #46AA122(...)|armorial bearing, heraldry (with NAME of family) - AA - female
 #46AA122(...)1|armorial bearing, heraldry (with NAME of family) - AA - female - coat of arms
@@ -3529,16 +3529,16 @@
 #46AA122(...)4|armorial bearing, heraldry (with NAME of family) - AA - female - impresa
 #46AA122(...)5|armorial bearing, heraldry (with NAME of family) - AA - female - banner
 #46AA122(...)6|armorial bearing, heraldry (with NAME of family) - AA - female - seal
-#46AA126|the nine worthiest women
-#46AA1261|Esther (one of the nine worthiest women)
-#46AA1262|Judith (one of the nine worthiest women)
-#46AA1263|Jael (one of the nine worthiest women)
-#46AA1264|Lucretia (one of the nine worthiest women)
-#46AA1265|Veturia, mother of Coriolanus (one of the nine worthiest women)
-#46AA1266|Virginia (one of the nine worthiest women)
-#46AA1267|St. Helena (one of the nine worthiest women)
-#46AA1268|St. Brigit (one of the nine worthiest women)
-#46AA1269|St. Elizabeth (one of the nine worthiest women)
+#46AA126|九位偉大的女性
+#46AA1261|以斯帖Esther (九位偉大的女性之一)
+#46AA1262|朱蒂絲Judith (九位偉大的女性之一)
+#46AA1263|雅億Jael (九位偉大的女性之一)
+#46AA1264|盧克蕾提亞Lucretia (九位偉大的女性之一)
+#46AA1265|Veturia, mother of Coriolanus (九位偉大的女性之一)
+#46AA1266|佛吉尼亞Virginia (九位偉大的女性之一)
+#46AA1267|聖海倫那St. Helena (九位偉大的女性之一)
+#46AA1268|聖布里吉特St. Brigit (九位偉大的女性之一)
+#46AA1269|聖伊莉莎白 (九位偉大的女性之一)
 #46AA127|men of name or fame, heroes, 'homines illustres', 'uomini famosi' - AA - women of name or fame, heroines, 'femmes célèbres', 'les neuf preuses'
 #46AA14|farmers - AA - female farmer, farmer's wife
 #46AA17|working class, labourers - AA - women
@@ -3569,129 +3569,129 @@
 #46AA636|chaos, disorderly procedure (~ meeting) - AA - 在室外
 #46AA637|closing the meeting - AA - 在室外
 #46AA638|assembly-room - AA - 在室外
-#46B|trade, commerce and finance
-#46B0|allegory of trade; 'Commertio della vita humana' (Ripa)
-#46B1|locations for trading
-#46B11|market
-#46B111|stall, booth (~ market)
-#46B112|market-hall
-#46B12|(annual) fair, trade fair
-#46B13|shop, store
-#46B131|department store, supermarket
-#46B132|shop-window, show-window
-#46B133|counter ~ shop
-#46B14|weigh-house
-#46B15|wholesale house
-#46B16|auction sale, public sale
-#46B17|Exchange, Bourse
-#46B18|trade exhibition, industries fair
-#46B181|world fair, world exhibition
-#46B19|fancy fair
-#46B2|persons engaged in trade and commerce
-#46B21|merchant, salesman
-#46B21(...)|merchant, salesman (with NAME of trade or profession)
-#46B22|wandering or travelling merchant
-#46B221|street-trader
-#46B221(...)|street-trader (with NAME of trade or profession)
-#46B2211|'cris de Paris', cries of London, etc.
-#46B222|pedlar
-#46B23|commercial traveller
-#46B24|shopkeeper
-#46B241|sales clerk
-#46B25|going to the market
-#46B26|returning from the market
-#46B27|customer
-#46B271|satisfied customer
-#46B272|complaining customer
-#46B3|auxiliary means and methods in trade and finance
-#46B31|money
+#46B|貿易, 商業和金融
+#46B0|貿易的人格寓言化; 'Commertio della vita humana' (Ripa)
+#46B1|貿易地點
+#46B11|市場
+#46B111|攤位，貨攤 (~ 市場)
+#46B112|（有頂篷的）市場
+#46B12|(年度) 集市, 貿易展銷會
+#46B13|商店
+#46B131|百貨公司, 超市
+#46B132|商店櫥窗, 展示櫥窗
+#46B133|櫃檯 ~ 商店
+#46B14|過磅處
+#46B15|批發處
+#46B16|拍賣
+#46B17|交易, 交易所
+#46B18|貿易展覽會, 工業展覽會
+#46B181|世博會
+#46B19|小商品市場
+#46B2|商業和貿易的經營者
+#46B21|商人, 推銷員
+#46B21(...)|商人, 推銷員 (行業名稱)
+#46B22|流動商販
+#46B221|街道小販
+#46B221(...)|街道小販 (行業名稱)
+#46B2211|'cris de Paris', 倫敦街上的叫賣聲, 等等
+#46B222|貨郎
+#46B23|行商
+#46B24|店主
+#46B241|店員
+#46B25|去市場
+#46B26|從市場回來
+#46B27|顧客
+#46B271|滿意的顧客
+#46B272|不滿意的顧客
+#46B3|貿易和金融業的輔助手段和方法
+#46B31|錢幣
 #46B310|'Pecunia' (Ripa)
-#46B311|coin
+#46B311|硬幣
 #46B3111|trade token, private coin
-#46B312|bank-note
-#46B313|money in other forms, e.g.: metal bars, shells, etc.
-#46B314|cheque, draft, bill of exchange
-#46B3140|draft (alleg.); 'Cambio', 'Wissel' (Ripa)
-#46B32|administration ~ trade and finance
-#46B321|book-keeping, accountant
-#46B3211|tally
-#46B322|office (~ administration)
-#46B33|weighing
-#46B331|weighing-instruments
-#46B3311|scales
-#46B3312|weight used on scales
-#46B332|weighing gold or money
-#46B34|cubic measuring
-#46B341|cubic measure, measure of capacity
-#46B35|advertising
-#46B351|oral advertising
-#46B352|handbill
-#46B3521|brochure
-#46B353|poster
-#46B3531|bill-board
-#46B3532|poster-pillar
-#46B3533|sandwich-man
-#46B354|signboard
-#46B355|trade mark, trade token, trade sign, trade card
-#46B356|advertisement, notice
-#46B4|commercial transactions
-#46B41|buying and selling
-#46B411|buying
-#46B412|selling
-#46B413|barter
-#46B414|hiring, leasing
-#46B42|examining merchandise
-#46B43|bargaining
-#46B44|paying (~ commerce) (here also repayment of debt, etc.)
-#46B45|debit and credit
-#46B451|debit, debt
+#46B312|紙幣
+#46B313|其它形式的錢幣, 如: 金屬條, 貝殼, 等等
+#46B314|支票, 匯票
+#46B3140|匯票 (人格寓言化); 'Cambio', 'Wissel' (Ripa)
+#46B32|管理 ~ 貿易和金融
+#46B321|簿記, 會計
+#46B3211|記賬單位
+#46B322|辦公室 (~ 管理)
+#46B33|称重量
+#46B331|称重器
+#46B3311|秤
+#46B3312|秤的砝碼
+#46B332|称黃金或錢幣
+#46B34|體積測量
+#46B341|體積測量, 測量容積
+#46B35|廣告
+#46B351|口頭廣告oral advertising
+#46B352|傳單
+#46B3521|小冊子
+#46B353|海報,招貼
+#46B3531|廣告牌
+#46B3532|海報柱
+#46B3533|身體前後掛廣告牌的人
+#46B354|招牌
+#46B355|商標, 買賣籌碼?trade token, 商業名片
+#46B356|公告, 告示
+#46B4|商業交易
+#46B41|買賣
+#46B411|買
+#46B412|賣
+#46B413|實物交易
+#46B414|租用, 雇用, 租貸
+#46B42|驗貨
+#46B43|議價,討價還價
+#46B44|付款 (~ 商業) (此處也包括償付債務, 等等)
+#46B45|借和貸
+#46B451|借, 債務
 #46B4510|'Debito' (Ripa)
-#46B4511|IOU (= I owe you), bond
-#46B452|credit
+#46B4511|IOU (= 我欠你,茲借到,借據), 字據, 債券
+#46B452|貸
 #46B4520|'Credito' (Ripa)
-#46B46|contract of sale
-#46B47|profit and loss
-#46B471|profit (~ commerce)
-#46B4711|interest (~ commerce)
-#46B472|loss (~ commerce)
-#46B48|speculation in trade and finance, stock-jobbery
-#46B481|speculative boom
-#46B49|import and export
-#46B491|import
-#46B492|export
-#46B493|trading expedition
-#46B494|trade-company
-#46B4941|merchant shipping, shipping trade
-#46B5|organization of trade and finance
-#46B51|dealing in money
-#46B511|money-changer
-#46B512|money-lender, usurer
+#46B46|買賣契約
+#46B47|利潤和虧損
+#46B471|利潤 (~ 商業)
+#46B4711|利息 (~ 商業)
+#46B472|虧損 (~ 商業)
+#46B48|貿易和金融業的投機交易, 股票買賣
+#46B481|投機熱潮
+#46B49|進口和出口
+#46B491|進口
+#46B492|出口
+#46B493|貿易遠征trading expedition
+#46B494|貿易公司
+#46B4941|商船隊, 商業航運, 航運業
+#46B5|貿易和金融業的組織
+#46B51|貨幣交易
+#46B511|貨幣兌換商
+#46B512|放款人, 貸款人
 #46B5120|'Usura' (Ripa)
-#46B513|pawnbroker, lombard
-#46B52|stock exchange, stock-market
-#46B521|stock-market reports
-#46B53|bank
-#46B531|banker
-#46B54|giro
-#46B55|insurance
-#46B551|insurance agent
+#46B513|典當商人, 金融業者
+#46B52|證券交易所, 證券交易市場
+#46B521|證券市場報告
+#46B53|銀行
+#46B531|銀行家
+#46B54|轉帳
+#46B55|保險
+#46B551|保險公司
 #46B56|business men's organization
-#46B561|merchant guild
-#46B562|chamber of commerce
-#46B57|trust, cartel, monopoly
-#46B6|dumping
-#46B61|sales, bargain-sale
-#46B7|economic espionage
-#46B8|boycott
-#46B9|negative results and undesired aspects of trading
-#46B91|fraudulence, swindling
+#46B561|商業行會
+#46B562|商會
+#46B57|信託, 產銷同盟, 壟斷
+#46B6|傾銷
+#46B61|銷售, 廉價銷售
+#46B7|商業間諜
+#46B8|抵制, 拒絕購買
+#46B9|貿易的消極面
+#46B91|欺詐, 詐騙
 #46B910|'Acquisto cattivo' (Ripa)
-#46B911|bribery
-#46B92|bankruptcy
-#46B921|process-server
-#46B93|depression, slump
-#46B931|financial panic
-#46B932|inflation
+#46B911|賄賂
+#46B92|破產
+#46B921|送達員
+#46B93|經濟蕭條
+#46B931|金融恐慌
+#46B932|通貨膨脹
 #46BB2|persons engaged in trade and commerce - BB - women engaged in trade and commerce
 #46BB21|merchant, salesman - BB - women engaged in trade and commerce
 #46BB21(...)|merchant, salesman (with NAME of trade or profession) - BB - women engaged in trade and commerce
@@ -3708,97 +3708,97 @@
 #46BB27|customer - BB - women engaged in trade and commerce
 #46BB271|satisfied customer - BB - women engaged in trade and commerce
 #46BB272|complaining customer - BB - women engaged in trade and commerce
-#46C|traffic and transport
-#46C1|traffic on land
-#46C11|road, path
-#46C111|ford
-#46C1111|crossing a river
-#46C1112|ferry
-#46C1113|stepping stones
-#46C112|bridge
-#46C1121|bridges by construction
-#46C11211|suspension bridge
-#46C11212|cantilever bridge
-#46C11213|bascule bridge 
-#46C1122|bridge forms
-#46C11221|bridge with structure, i.e. cover or buildings
-#46C113|viaduct
-#46C114|underground road, tunnel
-#46C115|traffic regulation (signs, lights, etc.)
-#46C1151|traffic sign
+#46C|交通和運輸
+#46C1|陸地交通
+#46C11|道路, 路
+#46C111|可涉水而過之處
+#46C1111|過河
+#46C1112|擺渡
+#46C1113|水中踏腳石
+#46C112|橋梁
+#46C1121|以結構分類的橋梁
+#46C11211|吊橋
+#46C11212|懸臂橋
+#46C11213|開啟橋 
+#46C1122|橋梁的型態
+#46C11221|帶有建築物的橋梁, 即帶有遮蓋物或房屋的
+#46C113|高架道路
+#46C114|地下道路, 隧道
+#46C115|交通規則 (信號, 燈, 等等)
+#46C1151|交通信號
 #46C1152|constable on point-duty
-#46C1153|traffic lights
-#46C1159|traffic-block, traffic-jam
-#46C116|cross-roads, bifurcation
-#46C1160|cross-roads, bifurcation (represented allegorically or symbolically)
-#46C1161|signpost
-#46C1162|milestone
+#46C1153|交通信號燈
+#46C1159|交通堵塞
+#46C116|交叉路, 分叉
+#46C1160|交叉路, 分叉 (人格寓言化的或象徵符號化的表現)
+#46C1161|路標
+#46C1162|里程碑
 #46C117|road-cross, 'mont-joie'
-#46C118|other structures ~ road, path
-#46C1181|flight of steps
-#46C12|human strength ~ traffic and transport on land
-#46C121|carrying something
-#46C1211|carrying something in basket, bag, rucksack, etc.
-#46C1212|carrying something with yoke
-#46C1213|carrying something with carrying-pole
-#46C1214|carrying something with barrow
-#46C1215|carrying something on the head or on the shoulders
-#46C122|wheelbarrow
-#46C123|hand-cart
-#46C124|rickshaw
-#46C125|bicycle
-#46C1251|antique types of bicycles
-#46C1251(...)|antique types of bicycles (with NAME)
-#46C1252|tricycle
-#46C12521|carrier-tricycle
-#46C1253|monocycle
-#46C1254|tandem
-#46C1257|other types of bicycle
-#46C1257(...)|other types of bicycle (with NAME)
-#46C1258|parts, attachments of a bicycle
-#46C1258(...)|parts, attachments of a bicycle (with NAME)
-#46C126|unusual means of transport
-#46C1261|stilts
-#46C127|carrying a person
-#46C1271|carrying a person on one's back
-#46C1272|(carrying a person on a) litter, stretcher
-#46C1273|(carrying a person in a) sedan-chair
-#46C128|human being(s) drawing or pushing a vehicle not usually propelled by manpower
-#46C13|animal mounts; pack-animals
-#46C131|riding a horse, ass, or mule; rider, horseman
-#46C1311|riding-school, manège
-#46C13111|high-school riding
-#46C13112|carrousel
-#46C1312|equestrian state-portrait
-#46C1313|equestrian statue
-#46C1314|horses and kindred animals
-#46C13141|horse
-#46C13141(...)|horse (with NAME of race or kind)
+#46C118|其它交通結構 ~ 道路, 路
+#46C1181|台階
+#46C12|人力 ~ 陸上交通和運輸
+#46C121|運載某物
+#46C1211|用籃子,袋子,背包等運載某物
+#46C1212|用軛運載某物
+#46C1213|用扁擔運載某物
+#46C1214|用手推車?運載某物carrying something with barrow
+#46C1215|用頭或肩運載某物
+#46C122|獨輪車
+#46C123|手推車
+#46C124|人力車
+#46C125|腳踏車
+#46C1251|古董腳踏車類型
+#46C1251(...)|古董腳踏車類型 (名稱)
+#46C1252|三輪腳踏車
+#46C12521|載用三輪腳踏車
+#46C1253|獨輪腳踏車
+#46C1254|雙人腳踏車
+#46C1257|其它類型的腳踏車
+#46C1257(...)|其它類型的腳踏車 (名稱)
+#46C1258|腳踏車的部件
+#46C1258(...)|腳踏車的部件 (名稱)
+#46C126|不常見的運輸方式
+#46C1261|高蹺?stilts
+#46C127|運載一個人
+#46C1271|將人駝在背上
+#46C1272|(將人放上) 擔架
+#46C1273|(將人放進) 轎子
+#46C128|人推或拉非人力運輸工具
+#46C13|坐騎; 馱畜
+#46C131|騎馬, 驢, 騾; 騎手, 騎士
+#46C1311|騎術學校, manège
+#46C13111|中學騎術課?high-school riding
+#46C13112|旋轉木馬
+#46C1312|騎馬像
+#46C1313|騎馬塑像
+#46C1314|馬匹和有血緣關係的動物
+#46C13141|馬
+#46C13141(...)|馬 (馬種名稱)
 #46C131411|fighting horses
-#46C13142|ass, donkey
-#46C13143|mule
-#46C13144|hinny
-#46C1315|stud farm
-#46C1316|saddling and bridling
-#46C13161|saddle and bridle (saddlery)
-#46C131611|head-stall
-#46C131612|bit
-#46C131613|reins
-#46C131614|saddle
-#46C1316141|howdah
-#46C131615|stirrup
-#46C131616|blinkers
-#46C131617|horse-blanket
-#46C1317|grooming
-#46C13171|groom
-#46C13172|curry-comb
-#46C1318|horse in motion
-#46C13181|walking (horse in motion)
-#46C13182|trotting (horse in motion)
-#46C13183|galloping horse
-#46C13184|jumping (horse in motion)
-#46C13185|rearing (horse in motion)
-#46C13186|kicking (horse in motion)
+#46C13142|驢
+#46C13143|騾
+#46C13144|驢騾
+#46C1315|育馬場
+#46C1316|上馬鞍和系韁繩
+#46C13161|鞍具和韁繩 (鞍具業,鞍具庫)
+#46C131611|籠套
+#46C131612|嚼口
+#46C131613|韁繩
+#46C131614|鞍
+#46C1316141|(印度)象轎
+#46C131615|馬刺
+#46C131616|眼罩
+#46C131617|馬鞍被
+#46C1317|打扮, 洗刷
+#46C13171|馬夫
+#46C13172|馬刷
+#46C1318|運動中的馬
+#46C13181|行走 (運動中的馬)
+#46C13182|慢跑 (運動中的馬)
+#46C13183|奔跑的馬
+#46C13184|跳躍 (運動中的馬)
+#46C13185|rearing (運動中的馬)
+#46C13186|踢 (運動中的馬)
 #46C13187|leading a horse by the reins; rider beside his horse
 #46C1319|accident with horse (or kindred animal)
 #46C13191|bolting, running away (~ horse)
@@ -3864,7 +3864,7 @@
 #46C14963|whip ~ accident
 #46C1497|accident with diligence, omnibus, horse-tram
 #46C1498|accident with animal-drawn sledge (Dutch: 'toeslede')
-#46C15|railway-traffic
+#46C15|鐵路交通
 #46C151|railway, tramway; rack railway
 #46C1511|railway, train
 #46C15111|freight train
@@ -3910,7 +3910,7 @@
 #46C1597|accident with monorail
 #46C1598|accident with suspension railway
 #46C15981|accident with funicular railway
-#46C16|traffic by road or path with motor-vehicle
+#46C16|公路上機動車交通
 #46C161|automobile
 #46C1611|three-wheeled automobile, car
 #46C162|bus, coach

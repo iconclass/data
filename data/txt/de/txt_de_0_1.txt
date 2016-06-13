@@ -1,4 +1,4 @@
-0|abstrakte, ungegenständliche Kunst
+﻿0|abstrakte, ungegenständliche Kunst
 1|Religion und Magie
 10|(symbolische) Darstellungen von Schöpfung, Kosmos, Kosmogonie, Universum und Leben (im weitesten Sinne)
 11|christliche Religion
@@ -6779,36 +6779,36 @@
 11HH(AGNES)83|Agnes von Rom, jungfräuliche Märtyrerin; mögliche Attribute: Lamm, Ring - postume Taten und Erscheinungen weiblicher Heiliger
 11HH(AGNES)84|Agnes von Rom, jungfräuliche Märtyrerin; mögliche Attribute: Lamm, Ring - Seligsprechung, Heiligsprechung einer weiblichen Heiligen
 11HH(AGNES)9|Agnes von Rom, jungfräuliche Märtyrerin; mögliche Attribute: Lamm, Ring - Bildnis einer weiblichen Heiligen
-11HH(ANNA)|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria
-11HH(ANNA)0|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige, die in einer Gruppe dargestellt ist
-11HH(ANNA)1|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - besondere Darstellungsformen einer weiblichen Heiligen
-11HH(ANNA)11|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige als Patronin, Beschützerin, Fürsprecherin
-11HH(ANNA)119|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige beschützt Gläubige mit ihrem Mantel (Schutzmantel)
-11HH(ANNA)12|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige schreibt, studiert, unterrichtet, diktiert
-11HH(ANNA)13|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige als Ordensgründerin
-11HH(ANNA)131|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Bestätigung der Regel eines Ordens in der Vita einer weiblichen Heiligen
-11HH(ANNA)2|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Kindheit und Jugend einer weiblichen Heiligen
-11HH(ANNA)3|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Frömmigkeit einer weiblichen Heiligen
-11HH(ANNA)31|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Berufung, Bekehrung einer weiblichen Heiligen
-11HH(ANNA)32|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Taufe, Weihe, Gelübde einer weiblichen Heiligen
-11HH(ANNA)33|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Verzicht auf weltliche Güter, Askese einer weiblichen Heiligen
-11HH(ANNA)34|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Vision(en), mystische Vermählung einer weiblichen Heiligen
-11HH(ANNA)35|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Versuchung einer weiblichen Heiligen
-11HH(ANNA)36|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Buße einer weiblichen Heiligen
-11HH(ANNA)37|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Meditation, Ekstase einer weiblichen Heiligen
-11HH(ANNA)4|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - nicht-wundertätige Handlungen und Ereignisse in der Vita einer weiblichen Heiligen
-11HH(ANNA)5|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Wunder in der Vita einer weiblichen Heiligen
-11HH(ANNA)59|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Stigmatisation einer weiblichen Heiligen
-11HH(ANNA)6|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Martyrium, Leiden, Scheitern, Tod einer weiblichen Heiligen
-11HH(ANNA)68|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Tod, Totenbett einer weiblichen Heiligen
-11HH(ANNA)69|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Leichenschändung des Körpers einer weiblichen Heiligen
-11HH(ANNA)7|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Apotheose, Verklärung, Triumph einer weiblichen Heiligen
-11HH(ANNA)8|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - postume Ereignisse in der Vita einer weiblichen Heiligen
-11HH(ANNA)81|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Auffindung, Translation von Reliquien einer weiblichen Heiligen
-11HH(ANNA)82|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Wunder durch die Berührung von Reliquien einer weiblichen Heiligen
-11HH(ANNA)83|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - postume Taten und Erscheinungen weiblicher Heiliger
-11HH(ANNA)84|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Seligsprechung, Heiligsprechung einer weiblichen Heiligen
-11HH(ANNA)9|Anna, mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Bildnis einer weiblichen Heiligen
+11HH(ANNA)|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria
+11HH(ANNA)0|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige, die in einer Gruppe dargestellt ist
+11HH(ANNA)1|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - besondere Darstellungsformen einer weiblichen Heiligen
+11HH(ANNA)11|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige als Patronin, Beschützerin, Fürsprecherin
+11HH(ANNA)119|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige beschützt Gläubige mit ihrem Mantel (Schutzmantel)
+11HH(ANNA)12|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige schreibt, studiert, unterrichtet, diktiert
+11HH(ANNA)13|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - eine weibliche Heilige als Ordensgründerin
+11HH(ANNA)131|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Bestätigung der Regel eines Ordens in der Vita einer weiblichen Heiligen
+11HH(ANNA)2|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Kindheit und Jugend einer weiblichen Heiligen
+11HH(ANNA)3|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Frömmigkeit einer weiblichen Heiligen
+11HH(ANNA)31|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Berufung, Bekehrung einer weiblichen Heiligen
+11HH(ANNA)32|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Taufe, Weihe, Gelübde einer weiblichen Heiligen
+11HH(ANNA)33|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Verzicht auf weltliche Güter, Askese einer weiblichen Heiligen
+11HH(ANNA)34|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Vision(en), mystische Vermählung einer weiblichen Heiligen
+11HH(ANNA)35|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Versuchung einer weiblichen Heiligen
+11HH(ANNA)36|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Buße einer weiblichen Heiligen
+11HH(ANNA)37|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Meditation, Ekstase einer weiblichen Heiligen
+11HH(ANNA)4|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - nicht-wundertätige Handlungen und Ereignisse in der Vita einer weiblichen Heiligen
+11HH(ANNA)5|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Wunder in der Vita einer weiblichen Heiligen
+11HH(ANNA)59|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Stigmatisation einer weiblichen Heiligen
+11HH(ANNA)6|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Martyrium, Leiden, Scheitern, Tod einer weiblichen Heiligen
+11HH(ANNA)68|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Tod, Totenbett einer weiblichen Heiligen
+11HH(ANNA)69|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Leichenschändung des Körpers einer weiblichen Heiligen
+11HH(ANNA)7|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Apotheose, Verklärung, Triumph einer weiblichen Heiligen
+11HH(ANNA)8|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - postume Ereignisse in der Vita einer weiblichen Heiligen
+11HH(ANNA)81|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Auffindung, Translation von Reliquien einer weiblichen Heiligen
+11HH(ANNA)82|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Wunder durch die Berührung von Reliquien einer weiblichen Heiligen
+11HH(ANNA)83|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - postume Taten und Erscheinungen weiblicher Heiliger
+11HH(ANNA)84|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Seligsprechung, Heiligsprechung einer weiblichen Heiligen
+11HH(ANNA)9|Anna, Mutter der Maria; mögliche Attribute: Buch, Christuskind, Lilie, Maria - Bildnis einer weiblichen Heiligen
 11HH(APOLLONIA)|Apollonia von Alexandrien, jungfräuliche Märtyrerin; mögliche Attribute: Buch, Krone, Palmwedel, Zahn in einer Zange
 11HH(APOLLONIA)0|Apollonia von Alexandrien, jungfräuliche Märtyrerin; mögliche Attribute: Buch, Krone, Palmwedel, Zahn in einer Zange - eine weibliche Heilige, die in einer Gruppe dargestellt ist
 11HH(APOLLONIA)1|Apollonia von Alexandrien, jungfräuliche Märtyrerin; mögliche Attribute: Buch, Krone, Palmwedel, Zahn in einer Zange - besondere Darstellungsformen einer weiblichen Heiligen
