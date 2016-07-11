@@ -1,5 +1,6 @@
 0|Art abstrait, non-figuratif
 1|Religion et Magie
+10|représentations (symboliques) ~ création, cosmos, cosmogonie, univers, la vie (dans le sens le plus large)
 11|Religion chrétienne
 11A|Dieu (en général) ~ religion chrétienne
 11A1|Dieu le Créateur

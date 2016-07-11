@@ -1,50 +1,50 @@
-2|Natuur
-20|‘Natura’(allegorische figuur of scène; of als Diana van Efeze)
-21|de vier elementen
-#210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
-21A|lucht
+2|Natura
+20|'Natura' (figura lub scena alegoryczna; lub jak Diana z Efezu, z wieloma piersiami); 'Natura' (Ripa)
+21|cztery żywioły oraz eter, żywioł piąty
+210|'Elementi', 'Elementi secondo Empedocle' (Ripa)
+21A|powietrze (jeden z czterech żywiołów)
 #21A0|'Aria', 'Carro dell'aria' (Ripa)
-21A1|geest van de lucht , sylphide
-21B|aarde
+#21A1|spirit of the air, sylph
+21B|ziemia (jeden z czterech żywiołów)
 #21B0|'Terra', 'Carro della terra' (Ripa)
-21B1|geest van de aarde: gnoom, trol
-21C|vuur
+#21B1|spirit of the earth, gnome, troll
+21C|ogień (jeden z czterech żywiołów)
 #21C0|'Fuoco', 'Carro del fuoco' (Ripa)
-21D|water
+21D|woda (jeden z czterech żywiołów)
 #21D0|'Acqua', 'Carro dell'acqua' (Ripa)
-21D1|geest van het water, nix, undine
-21D2|ijs
-21D3|stoom
-21E|ether als ‘vijfde element’
-22|natuurverschijnselen
-22A|materie
+#21D1|spirit of water, nix, undine
+#21D2|ice ~ state of water
+21D3|parowy
+21E|eter jako 'quinta essentia'
+22|zjawiska naturalne
+22A|materia
 #22A0|Matter (allegorical representation)
-22A1|chemische substanties
-22A1(...)|chemische substanties (met NAAM)
-22A2|chemische verschijnselen
+#22A1|chemical substances
+#22A1(...)|chemical substances (with NAME)
+#22A2|chemical phenomena
 #22A21|chemical reaction
-22A3|fysieke verschijnselen
-22A31|vormen van materie
-22A311|vast
+#22A3|physical phenomena
+#22A31|states of matter
+#22A311|solid (state of matter)
 #22A312|liquid (state of matter)
 #22A3121|condensation
 #22A31211|vapour trail
 #22A313|gas (state of matter)
-22B|electriciteit en magnetisme
-22B1|electrische verschijnselen
-22B11|spark
-22B2|magnetische verschijnselen
-22B21|magneet
+22B|elektryczność i magnetyzm
+#22B1|electrical phenomena
+#22B11|spark ~ electricity
+#22B2|magnetic phenomena
+#22B21|magnet
 #22B22|magnetic force
 #22B221|attractive force, attraction ~ magnetic force
 #22B222|repulsive force, repulsion ~ magnetic force
-22C|licht
-22C1|natuurlijk licht
-22C11|lichtstralen (natuurlijk licht)
-22C2|kunstlicht
-22C21|lichtstralen (kunstlicht)
-22C3|Bovennatuurlijk licht
-22C31|Straling
+22C|światło
+#22C1|natural light
+#22C11|rays of natural light
+#22C2|artificial light
+#22C21|rays of artificial light
+#22C3|supernatural light
+#22C31|radiance emanating from persons or things
 #22C311|nimbus, halo ~ radiance emanating from persons or things
 #22C3111|cross-nimbus
 #22C3112|square or rhombic nimbus
@@ -55,8 +55,8 @@
 #22C312|mandorla
 #22C3121|oval or almond-shaped mandorla
 #22C3122|circular mandorla
-22C32|Licht schijnend uit de hemel
-22C4|Kleuren, pigmenten en……
+#22C32|light shining out of the heavens
+#22C4|colours, pigments, and paints
 #22C4(...)|colours, pigments, and paints (with NAME)
 #22C4(BLACK)|colours, pigments, and paints: black
 #22C4(BLUE)|colours, pigments, and paints: blue
@@ -68,106 +68,106 @@
 #22C4(WHITE)|colours, pigments, and paints: white
 #22C4(YELLOW)|colours, pigments, and paints: yellow
 #22C5|reflection (light in general)
-22C8|Schaduw
-22C81|Schaduw van een voorwerp
-22C9|Donkerte
+#22C8|shadow
+#22C81|shadow of an object
+#22C9|darkness
 #22C90|'Buio' (Ripa)
-22C91|Half-licht
-22D|Geluid
-22D1|Hard geluid, , lawaai
-22D11|Harmonieus geluid, harmonie, consonance
+#22C91|half-light
+22D|dźwięk
+#22D1|loud sound, noise
+#22D11|harmonious sound, harmony, consonance
 #22D110|'Armonia' (Ripa)
-22D12|Onharmonisch geluid, dissonance
-22D2|Zacht geluid
-22D3|Geluidsbarrière
-22D4|Echo
-22D9|Stilte
-22E|Temperatuur
-22E1|Hitte
-22E11|Gloeien
-22E12|Branden
-22E13|Stralen
-22E2|Koude
-22E21|Vrieskou
-22E22|Het absolute nulpunt
-22E3|Temperatuurschalen
-22E31|Fahrenheit
-22E32|Reamur
-22E33|Celsius
-22E34|Andere schalen (met NAAM)
+#22D12|disharmonious sound, dissonance
+#22D2|soft sound
+#22D3|sound-barrier
+#22D4|echo
+#22D9|silence
+22E|temperatura
+#22E1|heat
+#22E11|glowing (heat)
+#22E12|burning
+#22E13|radiating (heat)
+#22E2|coldness
+#22E21|freezing
+#22E22|absolute zero point
+#22E3|temperature scales
+#22E31|Fahrenheit (temperature scale)
+#22E32|Réaumur (temperature scale)
+#22E33|Celsius (temperature scale)
+#22E34|other temperature scales
 #22E34(...)|other temperature scales (with NAME)
-22E4|thermometer
-23|Tijd
-23A|Allegorie van de tijd en de eeuwigheid
-23A1|Vader Tijd, man met vleugels en zeis
-23A11|Andere allegorieën van de tijd: bv. Tempo (Ripa)
-23A2|Eeuwigheid, ‘Aeternitas’
-23A21|Slang Ouroboros
-23A3|Verleden, heden en toekomst
-23A31|Verleden
-23A32|Heden
-23A33|Toekomst
-23A4|Allegorische voorstellingen van de effecten van de tijd
-23A41|Tijd onthult de Waarheid; de Tijd draagt Waarheid de lucht in
-23A411|De Tijd ontkent Waarheid
-23A42|De Tijd verbergt het verleden
-23A43|De Tijd beloont Industrie en straft Luiheid
-23A44|Vergankelijkheid (vluchtigheid) van de tijd
-23A441|De tijd veroorzaakt het verval van gebouwen enz.
-23A45|De Tijd ontvoert de Schoonheid
-23B|Periode die meer dan een jaar beslaat
-23B1|Periode die meer dan 1000 jaar beslaat
-23B2|Millenium
-23B3|100 jaar, eeuw
+#22E4|thermometer
+23|czas
+23A|alegoria Czasu i Wieczności
+#23A1|Father Time, man with wings and scythe
+#23A11|other allegories of Time, e.g. 'Tempo' (Ripa)
+#23A2|Eternity, 'Aeternitas'; 'Eternità','Eternità o Perpetuità' (Ripa)
+#23A21|serpent Ouroboros
+#23A3|past, present and future
+#23A31|past
+#23A32|present
+#23A33|future
+#23A4|allegorical representations of the effects of time
+#23A41|Time revealing Truth; Time carrying Truth aloft
+#23A411|Time denuding Truth
+#23A42|Time concealing the Past
+#23A43|Time rewarding Industry and punishing Sloth
+#23A44|fugacity of Time
+#23A441|Time causing the ruin of buildings, etc.
+#23A45|Time abducting Beauty
+23B|okres dłuższy niż jeden rok
+#23B1|period of more than 1000 years
+#23B2|millennium
+#23B3|100 years, century
 #23B30|'Secolo' (Ripa)
-23B4|50 jaar
-23B5|25 jaar
-23B6|12,5 jaar
-23B7|10 jaar, decennium
-23B8|5 jaar, lustrum
-23B9|Andere perioden, hierboven niet genoemd, met aantal jaren tussen haakjes
+#23B4|50 years
+#23B5|25 years
+#23B6|12 1/2 years
+#23B7|10 years, decade
+#23B8|5 years, lustrum
+#23B9|other periods
 #23B9(...)|other periods (with NUMBER of years)
-23C|Jaar, zonnejaar
-23C1|‘Annus’, personificatie van het Jaar
-23C2|Maanjaar
-23C3|Sterrejaar
-23D|De seizoenen (jaargetijden) (vooral personificaties)
-23D1|Wordt niet gebruikt
-23D2|Het jaar verdeeld in twee seizoenen
-23D21|Winter half jaar
-23D22|Zomer half jaar
-23D23|De strijd tussen zomer en winter
-23D3|Het jaar verdeeld in drie seizoenen
-23D31|Het jaar verdeeld in drie seizoenen (eerste serie)
-23D311|Januari - April
-23D312|Mei - Augustus
-23D313|September - December
-23D32|Het jaar verdeeld in drie seizoenen (tweede serie)
-23D321|December - maart
-23D322|April - juni
-23D323|Augustus - november
-23D4|Het jaar verdeeld in 4 seizoenen
-23D41|Winter: ‘Hyems’, ‘Inverno’(Ripa)
-23D42|Lente: ‘Ver, ‘Primavera’(Ripa)
-23D43|Zomer: ‘Aestas’, ‘Estate’ (ripa)
-23D44|Herfst: ‘Autumnus’, ‘Autunno’(Ripa)
-23D5|Het jaar verdeeld in vijf seizoenen
-23D6|Het jaar verdeeld in zes seizoenen
-23D61|Het jaar verdeeld in zes seizoenen (eerste serie)
-23D611|Januari en Februari
-23D612|Maart en April
-23D613|Mei en Juni
-23D614|Juli en Augustus
-23D615|September en Oktober
-23D616|November en December
-23D62|Het jaar verdeeld in zes seizoenen (tweede serie)
-23D621|December en Januari
-23D622|Februari en Maart
-23D623|April en Mei
-23D624|Juni en Juli
-23D625|Augustus en September
-23D626|Oktober en November
-23E|De seizoenen, voorgesteld door menselijke activiteiten, gewoonlijk in een landschap
+23C|rok, rok słoneczny
+#23C1|'Annus', personification of the year; 'Anno', 'Carro dell'anno' (Ripa)
+#23C2|lunar year
+#23C3|sidereal year
+23D|pory roku (zwł. personifikacje); 'Stagione', 'Le quattro stagione dell'anno' (Ripa)
+#23D1|not used
+#23D2|year divided into two seasons
+#23D21|winter half-year
+#23D22|summer half-year
+#23D23|strife of summer and winter
+#23D3|year divided into three seasons
+#23D31|year divided into three seasons (first series)
+#23D311|January - April (year divided into three seasons)
+#23D312|May - August (year divided into three seasons)
+#23D313|September - December (year divided into three seasons)
+#23D32|year divided into three seasons (second series)
+#23D321|December - March (year divided into three seasons)
+#23D322|April - July (year divided into three seasons)
+#23D323|August - November (year divided into three seasons)
+#23D4|year divided into four seasons
+#23D41|winter, 'Hyems'; 'Inverno' (Ripa)
+#23D42|spring, 'Ver'; 'Primavera' (Ripa)
+#23D43|summer, 'Aestas'; 'Estate' (Ripa)
+#23D44|autumn, fall, 'Autumnus'; 'Autunno' (Ripa)
+#23D5|year divided into five seasons
+#23D6|year divided into six seasons
+#23D61|year divided into six seasons (first series)
+#23D611|January and February (year divided into six seasons)
+#23D612|March and April (year divided into six seasons)
+#23D613|May and June (year divided into six seasons)
+#23D614|July and August (year divided into six seasons)
+#23D615|September and October (year divided into six seasons)
+#23D616|November and December (year divided into six seasons)
+#23D62|year divided into six seasons (second series)
+#23D621|December and January (year divided into six seasons)
+#23D622|February and March (year divided into six seasons)
+#23D623|April and May (year divided into six seasons)
+#23D624|June and July (year divided into six seasons)
+#23D625|August and September (year divided into six seasons)
+#23D626|October and November (year divided into six seasons)
+23E|pory roku przedstawione poprzez sceny ukazujące ludzkie zajęcia, zwykle w pejzażu
 #23E2|year divided into two seasons ~ human activities
 #23E21|winter half-year ~ human activities (year divided into two seasons)
 #23E22|summer half-year ~ human activities (year divided into two seasons)
@@ -181,11 +181,11 @@
 #23E321|December - March ~ human activities (year divided into three seasons)
 #23E322|April - July ~ human activities (year divided into three seasons)
 #23E323|August - November ~ human activities (year divided into three seasons)
-23E4|De vier seizoenen – menselijke activiteiten
-23E41|Winter
-23E42|Lente
-23E43|Zomer
-23E44|Herfst
+#23E4|the four seasons of the year ~ human activities
+#23E41|winter ~ human activities (the four seasons of the year)
+#23E42|spring ~ human activities (the four seasons of the year)
+#23E43|summer ~ human activities (the four seasons of the year)
+#23E44|autumn ~ human activities (the four seasons of the year)
 #23E5|year divided into five seasons ~ human activities
 #23E6|year divided into six seasons ~ human activities
 #23E61|year divided into six seasons ~ human activities (first series)
@@ -202,7 +202,7 @@
 #23E624|June and July ~ human activities (year divided into six seasons)
 #23E625|August and September ~ human activities (year divided into six seasons)
 #23E626|October and November ~ human activities (year divided into six seasons)
-23F|Seizoenen voorgesteld door landschappen
+23F|pory roku przedstawione poprzez krajobrazy
 #23F2|year divided into two seasons ~ landscapes
 #23F21|winter half-year ~ landscapes (year divided into two seasons)
 #23F22|summer half-year ~ landscapes (year divided into two seasons)
@@ -216,11 +216,11 @@
 #23F321|December - March ~ landscapes (year divided into three seasons)
 #23F322|April - July ~ landscapes (year divided into three seasons)
 #23F323|August - November ~ landscapes (year divided into three seasons)
-23F4|De vier seizoenen voorgesteld door landschappen
-23F41|Landschap, voorstellend Winter
-23F42|Landschap voorstellend Lente
-23F43|Zomer
-23F44|Herfst
+#23F4|the four seasons of the year ~ landscapes
+#23F41|winter landscape; landscape symbolizing winter (the four seasons of the year)
+#23F42|spring landscape; landscape symbolizing spring (the four seasons of the year)
+#23F43|summer landscape; landscape symbolizing summer (the four seasons of the year)
+#23F44|autumn landscape; landscape symbolizing autumn (the four seasons of the year)
 #23F5|year divided into five seasons ~ landscapes
 #23F6|year divided into six seasons ~ landscapes
 #23F61|year divided into six seasons ~ landscapes (first series)
@@ -237,7 +237,7 @@
 #23F624|June and July ~ landscapes (year divided into six seasons)
 #23F625|August and September ~ landscapes (year divided into six seasons)
 #23F626|October and November ~ landscapes (year divided into six seasons)
-23G|De seizoenen voorgesteld door stillevens van bloemen en/of vruchten
+23G|pory roku przedstawione poprzez martwe natury z kwiatów i/lub owoców
 #23G2|year divided into two seasons ~ still lifes of flowers and/or fruits
 #23G21|winter half-year ~ still lifes of flowers and/or fruits (year divided into two seasons)
 #23G22|summer half-year ~ still lifes of flowers and/or fruits (year divided into two seasons)
@@ -251,11 +251,11 @@
 #23G321|December - March ~ still lifes of flowers and/or fruits (year divided into three seasons)
 #23G322|April - July ~ still lifes of flowers and/or fruits (year divided into three seasons)
 #23G323|August - November ~ still lifes of flowers and/or fruits (year divided into three seasons)
-23G4|De vier seizoenen gesymboliseerd door stillevens van bloemen en/of vruchten
-23G41|Stilleven ~ de winter symboliserend
-23G42|Stilleven ~ het voorjaar
-23G43|Stilleven ~ de zomer
-23G44|Stilleven ~ de herfst
+#23G4|the four seasons of the year ~ still lifes of flowers and/or fruits
+#23G41|still life symbolizing winter (the four seasons of the year)
+#23G42|still life symbolizing spring (the four seasons of the year)
+#23G43|still life symbolizing summer (the four seasons of the year)
+#23G44|still life symbolizing autumn (the four seasons of the year)
 #23G5|year divided into five seasons ~ still lifes of flowers and/or fruits
 #23G6|year divided into six seasons ~ still lifes of flowers and/or fruits
 #23G61|year divided into six seasons ~ still lifes of flowers and/or fruits (first series)
@@ -272,7 +272,7 @@
 #23G624|June and July ~ still lifes of flowers and/or fruits (year divided into six seasons)
 #23G625|August and September ~ still lifes of flowers and/or fruits (year divided into six seasons)
 #23G626|October and November ~ still lifes of flowers and/or fruits (year divided into six seasons)
-23H|De seizoenen ~ andere concepten, niet bedoeld of genoemd onder 23D-23G (bv. bijbelse scènes)
+23H|pory roku przedstawione poprzez pojęcia inne niż personifikacje, zajęcia ludzkie, krajobrazy albo martwe natury z kwiatów i/lub owoców (np. sceny biblijne)
 #23H2|year divided into two seasons ~ other concepts (e.g. biblical scenes)
 #23H21|winter half-year ~ other concepts (e.g. biblical scenes) (year divided into two seasons)
 #23H22|summer half-year ~ other concepts (e.g. biblical scenes) (year divided into two seasons)
@@ -307,75 +307,75 @@
 #23H624|June and July ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
 #23H625|August and September ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
 #23H626|October and November ~ other concepts (e.g. biblical scenes) (year divided into six seasons)
-23I|De twaalf maanden (in het bijzonder personificaties)
+23I|dwanaście miesięcy (zwłaszcza ich personifikacje); 'Mese in generale' (Ripa)
 #23I1|months of the first quarter of the year
-23I11|De maanden van het eerste kwartaal van het jaar
-23I12|Januari; 'Gennaro' (Ripa)
-23I13|Februari; 'Febraro' (Ripa)
-23I2|De maanden van het tweede kwartaal van het jaar
-23I21|April; 'Aprile' (Ripa)
-23I22|Mei; 'Maggio' (Ripa)
-23I23|Juni; 'Giugno' (Ripa)
-23I3|De maanden van het derde kwartaal van het jaar
-23I31|Juli; 'Luglio' (Ripa)
-23I32|Augustus; 'Agosto' (Ripa)
-23I33|September; 'Settembre' (Ripa)
-23I4|De maanden van het vierde kwartaal van het jaar
-23I41|Oktober; 'Ottobre' (Ripa)
-23I42|November; 'Novembre' (Ripa)
-23I43|December; 'Decembre' (Ripa)
-23K|De twaalf maanden voorgesteld door scènes met menselijke activiteiten, meestal in een landschap. De zgn. ‘werken van de maand’
-23K1|De maanden van het eerste kwartaal van het jaar
-23K11|Januari en zijn 'werken'
-23K12|Februari en zijn 'werken'
-23K13|Maart en zijn 'werken'
-23K2|De maanden van het tweede kwartaal van het jaar
-23K21|April
-23K22|Mei
-23K23|Juni
-23K3|De maanden van het derde kwartaal van het jaar
-23K31|Juli
-23K32|Augustus
-23K33|September
-23K4|De maanden van het vierde kwartaal van het jaar
-23K41|Oktober
-23K42|November
-23K43|December
-23L|De twaalf maanden weergegeven door landschappen
-23L1|De maanden van het eerste kwartaal
-23L11|Januari gesymboliseerd door landschap
-23L12|Februari gesymboliseerd door landschap
-23L13|Maart gesymboliseerd door landschap
-23L2|De maanden van het tweede kwartaal
-23L21|April gesymboliseerd door landschap
-23L22|Mei gesymboliseerd door landschap
-23L23|Juni gesymboliseerd door landschap
-23L3|De maanden van het derde kwartaal
-23L31|Juli gesymboliseerd door landschap
-23L32|Augustus gesymboliseerd door landschap
-23L33|September gesymboliseerd door landschap
-23L4|De maanden van het vierde kwartaal
-23L41|Oktober gesymboliseerd door landschap
-23L42|November gesymboliseerd door landschap
-23L43|December gesymboliseerd door landschap
-23M|De twaalf maanden voorgesteld door stilllevens van bloemen en/of vruchten
-23M1|De maanden van het eerste kwartaal
-23M11|Januari
-23M12|Februari
-23M13|Maart
-23M2|De twaalf maanden van het tweede kwartaal
-23M21|April
-23M22|Mei
-23M23|Juni
-23M3|De maanden van het derde kwartaal
-23M31|Juli
-23M32|Augustus
-23M33|September
-23M4|De maanden van het vierde kwartaal
-23M41|Oktober
-23M42|November
-23M43|December
-23N|De twaalf maanden ~ andere concepten, niet bedoeld en genoemd onder 23I-23M
+#23I11|January; 'Gennaro' (Ripa)
+#23I12|February; 'Febraro' (Ripa)
+#23I13|March; 'Marzo' (Ripa)
+#23I2|months of the second quarter of the year
+#23I21|April; 'Aprile' (Ripa)
+#23I22|May; 'Maggio' (Ripa)
+#23I23|June; 'Giugno' (Ripa)
+#23I3|months of the third quarter of the year
+#23I31|July; 'Luglio' (Ripa)
+#23I32|August; 'Agosto' (Ripa)
+#23I33|September; 'Settembre' (Ripa)
+#23I4|months of the fourth quarter of the year
+#23I41|October; 'Ottobre' (Ripa)
+#23I42|November; 'Novembre' (Ripa)
+#23I43|December; 'Decembre' (Ripa)
+23K|dwanaście miesięcy przedstawione poprzez sceny ukazujące ludzkie zajęcia, zwykle w pejzażu; tak zwane &quot;prace miesiąca&quot;
+#23K1|the months of the first quarter of the year ~ human activities (the 'labours' of January, February and March)
+#23K11|January and its 'labours'
+#23K12|February and its 'labours'
+#23K13|March and its 'labours'
+#23K2|the months of the second quarter of the year ~ human activities (the 'labours' of April, May and June)
+#23K21|April and its 'labours'
+#23K22|May and its 'labours'
+#23K23|June and its 'labours'
+#23K3|the months of the third quarter of the year ~ human activities (the 'labours' of July, August and September)
+#23K31|July and its 'labours'
+#23K32|August and its 'labours'
+#23K33|September and its 'labours'
+#23K4|the months of the fourth quarter of the year ~ human activities (the 'labours' of October, November and December)
+#23K41|October and its 'labours'
+#23K42|November and its 'labours'
+#23K43|December and its 'labours'
+23L|dwanaście miesięcy przedstawione poprzez krajobrazy
+#23L1|months of the first quarter of the year represented by landscapes
+#23L11|landscape symbolizing January
+#23L12|landscape symbolizing February
+#23L13|landscape symbolizing March
+#23L2|months of the second quarter of the year represented by landscapes
+#23L21|landscape symbolizing April
+#23L22|landscape symbolizing May
+#23L23|landscape symbolizing June
+#23L3|months of the third quarter of the year represented by landscapes
+#23L31|landscape symbolizing July
+#23L32|landscape symbolizing August
+#23L33|landscape symbolizing September
+#23L4|months of the fourth quarter of the year represented by landscapes
+#23L41|landscape symbolizing October
+#23L42|landscape symbolizing November
+#23L43|landscape symbolizing December
+23M|dwanaście miesięcy przedstawionych poprzez martwe natury z kwiatów i/lub owoców
+#23M1|months of the first quarter of the year represented by still life of flowers and/or fruits
+#23M11|January represented by still life of flowers and/or fruits
+#23M12|February represented by still life of flowers and/or fruits
+#23M13|March represented by still life of flowers and/or fruits
+#23M2|months of the second quarter of the year represented by still life of flowers and/or fruits
+#23M21|April represented by still life of flowers and/or fruits
+#23M22|May represented by still life of flowers and/or fruits
+#23M23|June represented by still life of flowers and/or fruits
+#23M3|months of the third quarter of the year represented by still life of flowers and/or fruits
+#23M31|July represented by still life of flowers and/or fruits
+#23M32|August represented by still life of flowers and/or fruits
+#23M33|September represented by still life of flowers and/or fruits
+#23M4|months of the fourth quarter of the year represented by still life of flowers and/or fruits
+#23M41|October represented by still life of flowers and/or fruits
+#23M42|November represented by still life of flowers and/or fruits
+#23M43|December represented by still life of flowers and/or fruits
+23N|dwanaście miesięcy roku przedstawionych poprzez pojęcia inne niż personifikacje, zajęcia ludzkie, krajobrazy albo martwe natury z kwiatów i/lub owoców
 #23N1|months of the first quarter of the year ~ other concepts
 #23N11|January ~ other concepts
 #23N12|February ~ other concepts
@@ -392,172 +392,172 @@
 #23N41|October ~ other concepts
 #23N42|November ~ other concepts
 #23N43|December ~ other concepts
-23O|De zodiac (dierenriem), de twaalf tekens van de dierenriem bij elkaar
-23O1|De tekens van de dierenriem van het winterseizoen
-23O11|Steenbok (teken van December)
-23O12|Waterman (teken van Januari)
-23O13|Vissen (teken van Februari)
-23O2|De tekens van de dierenriem van het seizoen de lente
-23O21|Ram (teken van maart)
-23O22|Stier (teken van april)
-23O23|Tweelingen (teken van mei)
-23O3|De tekens van de dierenriem van de zomer
-23O31|Kreeft (teken van juni)
-23O32|Leeuw (teken van Juli)
-23O33|Maagd (teken van augustus)
-23O4|De tekens van de dierenriem van de herfst
-23O41|Weegschaal (teken van september)
-23O42|Schorpioen (teken van Oktober)
-23O43|Boogschutter (teken van November)
+23O|zodiak; wszystkie dwanaście znaków zodiaku
+#23O1|zodiacal signs of the winter season
+#23O11|Capricorn (zodiacal sign of December)
+#23O12|Aquarius (zodiacal sign of January)
+#23O13|Pisces (zodiacal sign of February)
+#23O2|zodiacal signs of the spring season
+#23O21|Aries (zodical sign of March)
+#23O22|Taurus (zodiacal sign of April)
+#23O23|Gemini (zodiacal sign of May)
+#23O3|zodiacal signs of the summer season
+#23O31|Cancer (zodiacal sign of June)
+#23O32|Leo (zodiacal sign of July)
+#23O33|Virgo (zodiacal sign of August)
+#23O4|zodiacal signs of the autumn season
+#23O41|Libra (zodiacal sign of September)
+#23O42|Scorpio (zodiacal sign of October)
+#23O43|Sagittarius (zodiacal sign of November)
 #23O5|zodiacal man; zodiac combined with parts of the human body
-23P|De weken
-23Q|De dagen van de week
-23Q1|Zondag
-23Q2|Maandag
-23Q3|Dinsdag
-23Q4|Woensdag
-23Q5|Donderdag
-23Q6|Vrijdag
-23Q7|Zaterdag
+23P|tygodnie
+23Q|dni tygodnia
+#23Q1|Sunday
+#23Q2|Monday
+#23Q3|Tuesday
+#23Q4|Wednesday
+#23Q5|Thursday
+#23Q6|Friday
+#23Q7|Saturday
 #23Q8|tomorrow
 #23Q81|the day after tomorrow
-23R|Dag en nacht
-23R1|Etmaal: dag van 24 uur, natuurlijke dag
+23R|dzień i noc
+#23R1|day of 24 hours, natural day
 #23R10|'Giorno naturale', 'Carro del giorno naturale' (Ripa)
-23R11|De ochtend
-23R110|Personificatie van de ochtend, ‘Aurora’
-23R111|De ochtend ~ landschap
-23R112|De ochtend ~ andere concepten
+#23R11|morning
+#23R110|personification of the morning, 'Aurora'; 'Aurora' (Ripa)
+#23R111|morning ~ landscape (sometimes titled 'Aurora')
+#23R112|morning ~ other concepts
 #23R113|noon
-23R12|De Middag
-23R120|Personificatie van de middag, ‘Meridies’
-23R121|Middag ~ landschap
-23R122|Middag ~ andere concepten
-23R13|Avond
-23R130|Personificatie van de avond, ‘Vesper’
-23R131|Avond ~ landschap
-23R132|Avond ~ andere concepten
-23R14|Nacht
-23R140|Personificatie van de nacht, ‘Nox’
-23R141|Nacht ~ landschap
-23R142|Nacht ~ andere concepten
-23R2|De dag van zonsopgang tot zonsondergang
+#23R12|afternoon
+#23R120|personification of the afternoon, 'Meridies'
+#23R121|afternoon ~ landscape (sometimes titled 'Meridies')
+#23R122|afternoon ~ other concepts
+#23R13|evening
+#23R130|personification of the evening, 'Vesper'
+#23R131|evening ~ landscape (sometimes titled 'Vesper')
+#23R132|evening ~ other concepts
+#23R14|night
+#23R140|personification of the night, 'Nox'; 'Notte', 'Carro della notte', 'Serenità della notte' (Ripa)
+#23R141|night ~ landscape (sometimes titled 'Nox')
+#23R142|night ~ other concepts
+#23R2|day from sunrise to sunset
 #23R20|'Giorno artificiale', 'Carro del giorno artificiale', 'Serenità del giorno, ninfa dell'aria' (Ripa)
-23R3|De 24 uren van de dag
-23R31|De eerste 12 uren van de dag
+#23R3|the 24 hours of day and night
+#23R31|the first 12 hours of the day
 #23R310|'Hore del giorno' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
-23R32|De laatste 12 uren van de dag
+#23R32|the last 12 hours of the day
 #23R320|'Hore della notte' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
-23S|De wereldrijken
-23S1|De vier wereldrijken
-23S11|Babylon
-23S12|Perzië
-23S13|Griekenland
-23S14|Rome
-23S2|De wereldrijken volgens bijbelse indeling
-23S21|Volgens Daniël 2: de wereldrijken gesymboliseerd door een groot standbeeld van verschillende materialen
-23S22|Volgens Daniël 7: de wereldrijken gesymboliseerd door vier beesten
-23S3|De wereldrijken op andere wijze verdeeld
-23T|Historische tijdperken
-23T1|De geschiedenis van de wereld verdeeld in zeven tijdperken
-23T11|Van Adam tot Noach
-23T12|Van Noach Abraham of Mozes
-23T13|Van Abraham of Mozes tot David
-23T14|Van David tot de Babylonische gevangenschap
-23T15|Van de ballingschap tot de geboorte van Christus
-23T16|Van Christus tot het einde van de wereld ~ werkend, wakend
-23T17|Van Christus tot het einde van de wereld ~ slapend, rustend
-23T2|Moderne verdeling (indeling)
-23T21|Prehistorie
-23T22|Oude geschiedenis
-23T23|Klassieke oudheid
-23T24|De donkere eeuwen
-23T25|Middeleeuwen
-23T26|Renaissance (tot en met de 16de eeuw)
-23T27|Andere eeuwen (met jaartallen tussen haakjes)
+23S|mocarstwa świata
+23S1|cztery mocarstwa świata (Babilon, Persja, Grecja, Rzym)
+#23S11|Babylon (one of the four world empires)
+#23S12|Persia (one of the four world empires)
+#23S13|Greece (one of the four world empires
+#23S14|Rome (one of the four world empires)
+#23S2|the empires of the world according to biblical divisions
+#23S21|the world empires symbolized by a large statue of various materials (Daniel ch. 2)
+#23S22|the world empires symbolized by four beasts (Daniel ch. 7)
+#23S3|the empires of the world divided otherwise
+23T|epoki historyczne
+#23T1|history of the world divided into seven epochs from Adam to the end of the world
+#23T11|epoch from Adam to Noah ~ history of the world
+#23T12|epoch from Noah to Abraham or Moses ~ history of the world
+#23T13|epoch from Abraham or Moses to David ~ history of the world
+#23T14|epoch from David to the Babylonian Captivity ~ history of the world
+#23T15|epoch from the Captivity to the coming of Christ ~ history of the world
+#23T16|epoch from Christ to the end of the world ~ working, waking
+#23T17|epoch from Christ to the end of the world ~ sleeping, resting (eternal Sabbath)
+#23T2|modern division of historical epochs
+#23T21|pre-history (historical epoch)
+#23T22|ancient history (historical epoch)
+#23T23|classical antiquity (historical epoch)
+#23T24|dark ages (historical epoch)
+#23T25|medieval history, middle ages (historical epoch)
+#23T26|Renaissance (historical epoch, through 16th century)
+#23T27|modern division of historical epochs ~ centuries
 #23T27(...)|modern division of historical epochs ~ centuries (with Roman NUMBER of century)
-23U|Chronologie
-23U1|Kalender, almanak
+23U|chronologia
+#23U1|calendar, almanac
 #23U11|perpetual calendar
-23U2|(instrumenten voor) het meten van de tijd (tijdmeting)
+#23U2|(instruments for) measurement of time
 #23U20|'Horografia' (Ripa)
-23U21|Zonnewijzer
-23U22|Zandloper
-23U23|Waterklok
-23U24|Klok
-23U241|Horlogemaker, klokkenmaker
-23U25|Horloge
-24|De hemel (het hemelrijk)
-#240|allegorical representation of the heavens (celestial bodies)
-24A|De zon als hemellichaam
-24A1|Zonsopgang
-24A11|Ochtend
+#23U21|sundial
+#23U22|hourglass
+#23U23|water clock
+#23U24|clock
+#23U241|watchmaker, clockmaker
+#23U25|watch
+24|niebo (ciała niebieskie)
+240|alegoryczne przedstawienie nieba (ciała niebieskie)
+24A|słońce jako ciało niebieskie
+#24A1|sunrise
+#24A11|dawn
 #24A110|'Crepuscolo della matina' (Ripa)
-24A2|Zonsondergang
-24A21|Schemer
+#24A2|sunset
+#24A21|dusk, evening twilight
 #24A210|'Crepuscolo della sera' (Ripa)
-24A3|zonsverduistering
-24A31|Totale zonsverduistering met corona
-24A4|Middernachtszon
-24A5|Fysieke aspecten van de zon
+#24A3|solar eclipse
+#24A31|total solar eclipse with corona
+#24A4|midnight sun
+#24A5|physical aspects of the sun
 #24A51|sun-spots
 #24A52|unusual solar phenomena: parhelion or mock sun, spots on solar halo, etc.
-24A6|De zon voorgesteld als gezicht, rad, enz.
-24A7|De standen van de zon
-#24A71|ENG summer solstice, midsummer's day
+#24A6|sun represented as face, wheel, etc.
+#24A7|positions of the sun
+#24A71|summer solstice, midsummer's day
 #24A710|'Solstitio estivo' (Ripa)
-#24A72|ENG autumnal equinox
+#24A72|autumnal equinox
 #24A720|'Equinottio dell'autunno' (Ripa)
-#24A73|ENG winter solstice
+#24A73|winter solstice
 #24A730|'Solstitio hiemale' (Ripa)
-#24A74|ENG vernal equinox
+#24A74|vernal equinox
 #24A740|'Equinottio della primavera' (Ripa)
-24A8|Zonlicht
-24A81|Zonnestralen
-24B|De maan als hemellichaam
-24B1|Wassende maan
-24B11|Wassende maan afgebeeld als gezicht
-24B2|Volle maan
-24B21|Volle maan afgebeeld als gezicht
-24B3|afnemende maan, aldus georiënteerd: (
-24B31|Afgebeeld als gezicht
-24B4|Halve maan
-24B5|Oppervlak van de maan
-24B6|Maanlicht
-24B61|Manestralen
-24B62|schwärmen
-24B7|Opkomende maan
-24B8|De stand van de maan
-24C|De planeten (behalve de aarde)
-24C1|Planeten, het planetaire stelsel, zonnestelsel
-24C11|Ceres
-24C12|Jupiter
-24C13|Mars
-24C14|Mercurius
-24C15|Neptunus
-24C16|Pluto
-24C17|Saturnus
-24C18|Uranus
-24C19|Venus
-24C191|De morgenster (Venus)
-24C192|De avondster (Venus of andere planeet)
-24C2|De mensheid beïnvloed door de planeten, inclusief zon en maan; ‘Planetenkinder’
-24C21|(personificaties van de) planeten en hun ‘kinderen’, de zgn. ‘Planetenkinder’
-24C211|Saturnus en zijn kinderen
-24C212|Jupiter en zijn kinderen
-24C213|Mars en zijn kinderen
-24C214|Sol en zijn kinderen
-24C215|Venus en haar kinderen
-24C216|Mercurius en zijn kinderen
-24C217|Luna en haar kinderen
-24C22|(personificaties van de) planeten en hun ‘kinderen’, vergezeld van de corresponderende tekens van de dierenriem
-24C221|Saturnus en zijn kinderen ~ Waterman en Steenbok
-24C222|Jupiter en zijn kinderen ~ Vissen en Boogschutter
-24C223|Mars en zijn kinderen ~ Ram en Schorpioen
-24C224|Sol en zijn kinderen ~ Leeuw
-24C225|Venus en haar kinderen ~ Stier en Weegschaal
-24C226|Mercurius en zijn kinderen ~ Tweeling en Maagd
-24C227|Luna en haar kinderen ~ Kreeft
+#24A8|sunlight
+#24A81|sunbeams
+24B|księżyc jako ciało niebieskie
+#24B1|waxing moon, i.e. facing this way: )
+#24B11|waxing moon represented as face
+#24B2|full moon
+#24B21|full moon represented as face
+#24B3|waning moon, i.e. facing this way (
+#24B31|waning moon represented as face
+#24B4|eclipse of the moon
+#24B5|surface of the moon
+#24B6|moonlight
+#24B61|moonbeams
+#24B62|contemplation of the moon, 'schwärmen'
+#24B7|moonrise
+#24B8|setting of the moon
+24C|planety (z wyjątkiem Ziemi)
+#24C1|planets; planetary system, solar system
+#24C11|Ceres (planet)
+#24C12|Jupiter (planet)
+#24C13|Mars (planet)
+#24C14|Mercury (planet)
+#24C15|Neptune (planet)
+#24C16|Pluto (planet)
+#24C17|Saturn (planet)
+#24C18|Uranus (planet)
+#24C19|Venus (planet)
+#24C191|morning star (Venus)
+#24C192|evening star (Venus or other planet)
+#24C2|mankind influenced by the planets, including sun and moon; 'Planetenkinder'
+#24C21|(personifications of the) planets with their 'children', so-called 'Planetenkinder'
+#24C211|Saturn and his children ('Planetenkinder')
+#24C212|Jupiter and his children ('Planetenkinder')
+#24C213|Mars and his children ('Planetenkinder')
+#24C214|Sol and his children ('Planetenkinder')
+#24C215|Venus and her children ('Planetenkinder')
+#24C216|Mercury and his children ('Planetenkinder')
+#24C217|Luna and her children ('Planetenkinder')
+#24C22|(personifications of the) planets with their 'children', so-called 'Planetenkinder', accompanied by the corresponding zodiacal signs
+#24C221|Saturn and his children ('Planetenkinder') ~ Aquarius and Capricorn
+#24C222|Jupiter and his children ('Planetenkinder') ~ Pisces and Sagittarius
+#24C223|Mars and his children ('Planetenkinder') ~ Aries and Scorpio
+#24C224|Sol and his children ('Planetenkinder') ~ Leo
+#24C225|Venus and her children ('Planetenkinder') ~ Taurus and Libra
+#24C226|Mercury and his children ('Planetenkinder') ~ Gemini and Virgo
+#24C227|Luna and her children ('Planetenkinder') ~ Cancer
 #24C3|canonical group of seven planets symbolically representing metals
 #24C31|the sun representing gold
 #24C32|the moon representing silver
@@ -569,49 +569,49 @@
 #24C39|other celestial bodies representing metals
 #24C39(...)|other celestial bodies representing metals (with NAME)
 #24C39(URANUS)|Uranus representing platinum
-24D|De sterren
+24D|gwiazdy
 #24D0|stars, represented symbolically or allegorically
-24D1|De sterren en hun constellaties gevolgd door de naam tussen haakjes, bv. ORION, SIRIUS
+#24D1|stars and constellations
 #24D1(...)|stars and constellations (with NAME)
 #24D1(ORION)|stars and constellations: Orion
 #24D1(POLARIS)|stars and constellations: Polaris, Pole star
 #24D1(SIRIUS)|stars and constellations: Sirius
-24D11|iemand eren door hem bij de sterren in te lijven (in te delen ?)
+#24D11|catasterism, honouring a person by including him among the stars
 #24D2|galaxies
 #24D21|Milky Way
 #24D211|genesis of the Milky Way (Juno suckling Hercules)
 #24D4|other galaxies or stellar systems
 #24D4(...)|other galaxies or stellar systems (with NAME)
-24E|Astronomische verschijnselen
-24E1|Komeet
+24E|zjawiska astronomiczne
+#24E1|comet
 #24E10|'Cometa, ninfa dell'aria' (Ripa)
-24E2|Meteoor
-24E3|Meteorieten
-24F|Het firmament, de hemel
-24F1|het firmament overpeinzend
-24F2|De sterren van het firmament
-24G|Sferen
+#24E2|meteor
+#24E3|meteorites
+24F|firmament, niebo
+#24F1|contemplating the firmament
+#24F2|stars in the firmament
+24G|sfery ~ niebo
 #24G1|empyrean
-25|Aarde, de wereld als hemellichaam
-#250|'Mondo', 'Machina del mondo' (Ripa)
-25A|Kaarten, atlassen
-25A1|Wereldkaart
-25A11|Kaart in vierkante of ronde vorm volgens de oude ideeën over de vorm van de wereld
-25A111|Middelpunt van de aarde, ‘omphalos’ (op kaart of atlas)
-25A1111|Kaart met Jeruzalem als middelpunt
-25A1112|Kaart met Delphi als ‘omphalos’
-25A12|Moderne projecties ~ wereldkaart
-25A13|Globe
-25A131|Globe in de vorm van een icosahedron
-25A14|De vier windrichtingen
-25A141|Noord (windrichting)
+25|ziemia, świat jako ciało niebieskie
+250|'Mondo', 'Machina del mondo' (Ripa)
+25A|mapy, atlasy
+#25A1|map of the world
+#25A11|map in square or circular form according to old ideas about the shape of the world
+#25A111|centre of the world, 'omphalos' (on map or atlas)
+#25A1111|map with Jerusalem as centre
+#25A1112|map with Delphi as 'omphalos'
+#25A12|modern projections ~ map of the world
+#25A13|globe
+#25A131|globe in the shape of an icosahedron
+#25A14|the four main directions
+#25A141|north (one of the four main directions)
 #25A1410|'Settentrione' (Ripa)
-25A142|Oost (windrichting)
+#25A142|east (one of the four main directions)
 #25A1420|'Oriente' (Ripa)
 #25A1421|orientation, facing the east
-25A143|Zuid (windrichting)
+#25A143|south (one of the four main directions)
 #25A1430|'Mezzodì' (Ripa)
-25A144|West (windrichting)
+#25A144|west (one of the four main directions)
 #25A1440|'Occidente' (Ripa)
 #25A15|latitude and longitude
 #25A151|latitude
@@ -619,61 +619,61 @@
 #25A1512|tropics
 #25A152|longitude
 #25A1521|meridian
-25A2|Kaarten van het continent en de poolzones
-25A21|Europa
-25A22|Azië
-25A23|Eurazië
-25A24|Afrika
-25A25|Amerika
-25A251|Noord-Amerika
-25A252|Zuid-0Amerika
-25A26|Australië
-25A27|Poolzones
-25A271|Noordpool
-25A272|Zuidpool
-25A3|Kaarten van afzonderlijke landen of streken gevolgd door de naam tussen haakjes
+#25A2|maps of the continents and the polar regions
+#25A21|(map of) Europe
+#25A22|(map of) Asia
+#25A23|(map of) Eurasia
+#25A24|(map of) Africa
+#25A25|(map of) America
+#25A251|(map of) North America
+#25A252|(map of) South America
+#25A26|(map of) Australia
+#25A27|(map of) the polar regions, frigid zones
+#25A271|(map of) the North Pole
+#25A272|(map of) the South Pole
+#25A3|maps of separate countries or regions
 #25A3(...)|maps of separate countries or regions (with NAME)
-25A4|Kaarten van steden gevolgd door de naam tussen haakjes
+#25A4|maps of cities
 #25A4(...)|maps of cities (with NAME)
-25A5|Scheepskaarten
-25A9|Kaarten maken
+#25A5|marine charts
+#25A9|map making
 #25A90|'Corografia', 'Geografia', 'Hidrografia' (Ripa)
-25A91|Geodesie, landmeting
+#25A91|geodesy, surveying
 #25A910|'Altimetria' (Ripa)
-25A911|Instrumenten voor landmetingen ((met NAAM))
+#25A911|instruments used in geodesy, surveying instruments
 #25A911(...)|instruments used in geodesy, surveying instruments (with NAME)
-25A9111|Jacobsstaf
-25B|De werelddelen allegorisch voorgesteld
-25B1|Europa
-25B2|Azië
-25B3|Afrika
-25B4|Amerika
-25B5|Australië
-25B6|Poolzones
-25B61|Noordpool
-25B62|Zuidpool
-25C|Geologische verschijnselen
-25C1|Vulkanisme
-25C11|Uitbarsting
-25C111|Lavastroom
+#25A9111|Jacob's staff (surveying instrument)
+25B|alegoryczne przedstawienia kontynentów
+#25B1|Europe represented allegorically; 'Europa' (Ripa)
+#25B2|Asia represented allegorically; 'Asia' (Ripa)
+#25B3|Africa represented allegorically; 'Africa' (Ripa)
+#25B4|America represented allegorically; 'America' (Ripa)
+#25B5|Australia represented allegorically
+#25B6|the polar regions, frigid zones represented allegorically
+#25B61|allegorical representation of the North Pole
+#25B62|allegorical representation of the South Pole
+25C|zjawiska geologiczne
+#25C1|volcanism
+#25C11|eruption (of volcano)
+#25C111|stream of lava
 #25C112|ash cloud
-25C12|Vulkaan
-25C13|Hete bron, geyser
-25C14|Dampen, zwavel, enz.
-25C15|Ontstaan van bergketen
+#25C12|volcano
+#25C13|hot spring, geyser
+#25C14|fumes, brimstone, etc.
+#25C15|earthquake
 #25C150|'Terremoto' (Ripa)
 #25C151|consequences of an earthquake
-25C16|Landtong
-25C17|Ontstaan van eiland
+#25C16|genesis of mountain chain, etc.
+#25C17|genesis of island
 #25C19|extinct volcano
-25C191|Vulkanische formaties
-25C192|Koude lava
-25C2|Aardmagnetisme
-25C21|Kompas
-25C211|Kompas kaart (?)
-25D|Rotstypen
-25D1|Rotstypen
-25D11|Edel- en half-edelstenen (met NAAM)
+#25C191|volcanic formations
+#25C192|cold lava
+#25C2|terrestrial magnetism
+#25C21|compass
+#25C211|compass card
+25D|rodzaje skał; minerały i metale; rodzaje ziemi
+#25D1|rock types
+#25D11|precious and semiprecious stones
 #25D11(...)|precious and semiprecious stones (with NAME)
 #25D11(ALMANDINE)|precious and semiprecious stones: almandine
 #25D11(AMETHYST)|precious and semiprecious stones: amethyst
@@ -689,13 +689,13 @@
 #25D11(SAPPHIRE)|precious and semiprecious stones: sapphire
 #25D11(TOPAZ)|precious and semiprecious stones: topaz
 #25D11(TURQUOISE)|precious and semiprecious stones: turquoise
-25D12|Andere soorten steen (met NAAM)
+#25D12|kinds of non-precious stone
 #25D12(...)|kinds of non-precious stone (with NAME)
 #25D12(CHALK)|kinds of non-precious stone: chalk
 #25D12(FLINT)|kinds of non-precious stone: flint
 #25D12(MARBLE)|kinds of non-precious stone: marble
 #25D12(PUMICE)|kinds of non-precious stone: pumice
-25D13|Mineralen en metalen (met NAAM)
+#25D13|minerals and metals
 #25D13(...)|minerals and metals (with NAME)
 #25D13(BITUMEN)|minerals and metals: bitumen
 #25D13(COPPER)|minerals and metals: copper
@@ -708,67 +708,67 @@
 #25D13(SILVER)|minerals and metals: silver
 #25D13(SULPHUR)|minerals and metals: sulphur
 #25D13(TIN)|minerals and metals: tin
-25D14|Rotstypen van dierlijke of plantaardige oorsprong
-25D141|Anthraciet, steenkool
-25D142|Lignite, bruinkool
-25D143|Amber
-25D15|Kristal
-25D2|Grondsoorten
-25D21|Aarde
-25D211|Humus
-25D22|Grint
-25D23|Zand
-25D24|Klei
-25D241|Leem
-25D242|Löss
-25D25|Turf (veen)
-25D26|Modder
-25D29|Stof
-25D3|Mijnwezen
-25D31|Mijn
-#25D311|NL2
-25D312|Schachten en gangen
-25D32|Mijnwerker
+#25D14|rock types of animal or plant origin
+#25D141|anthracite, hard coal
+#25D142|lignite, brown coal
+#25D143|amber (fossil resin)
+#25D15|crystals
+#25D2|soil types
+#25D21|earth (soil type)
+#25D211|humus (soil type)
+#25D22|gravel (soil type)
+#25D23|sand (soil type)
+#25D24|clay (soil type)
+#25D241|loam (soil type)
+#25D242|loess (soil type)
+#25D25|peat (soil type)
+#25D26|mud (soil type)
+#25D29|dust (soil type)
+#25D3|mining
+#25D31|mine
+#25D311|opencast mine; strip mining
+#25D312|shafts and galleries (of a mine)
+#25D32|miner
 #25D321|prospector
-25D33|omgeving van een mijn
-25D34|Steengroeve
-25D35|Smelten, ertswinning, hoogoven
-25D4|Vloeibare vormen en gassen aan de aarde onttrokken
-25D41|Mineraalwater
-25D411|Medicinale bron
-25D42|Andere vloeibare vormen (met NAAM)
+#25D33|surface structures and surroundings of a mine
+#25D34|quarry
+#25D35|smelting, extracting from ore; blast-furnace
+#25D4|fluids and gases extracted from the earth
+#25D41|mineral water
+#25D411|medicinal spring
+#25D42|other fluids (with the exception of oil)
 #25D42(...)|other fluids (with the exception of oil) (with NAME)
-25D421|Bron
-25D43|Olie
-25D431|Boren
-25D4311|Boortoren
+#25D421|spring (fluids extracted from the earth)
+#25D43|oil; oil refinery
+#25D431|drilling for oil
+#25D4311|derrick ~ oil
 #25D4312|(marine) drilling platform
-25D432|Pompen
-25D4321|Spuitende oliebron
-25D433|Olie transport
-25D4331|Pijpleiding
-25D434|Raffinaderij
-25D435|olievaten
-25D44|Asvalt
-25D45|Gaswinning uit de grond
-25D451|Gaswinning uit kool enz.
-25D4511|Gaswinning
-25D4512|Gashouder, gastank
-25D5|Beweging in de aardlagen
-25E|Geologische-chronologische verdeling; historische geologie,geordend in chronologische volgorde met de naam van de betreffende periode
+#25D432|pumping of oil
+#25D4321|gusher ~ oil
+#25D433|transportation of oil
+#25D4331|pipeline ~ transportation of oil
+#25D434|refinery ~ oil
+#25D435|oil tanks
+#25D44|asphalt
+#25D45|gas extracted from the ground
+#25D451|gas extracted from coal
+#25D4511|gasworks
+#25D4512|gasholder, gas tank
+#25D5|movement in geological layers
+25E|chronologia geologiczna; geologia historyczna; okres geologiczny
 #25E(...)|geological-chronological division; historical geology; geological era (with NAME of period)
 #25E(BIG BANG)|geological-chronological division; geological era: Big Bang
 #25E(CENOZOIC)|geological-chronological division; geological era: Cenozoic
 #25E(PALEOZOIC)|geological-chronological division; geological era: Paleozoic
 #25E(TERTIARY)|geological-chronological division; geological era: Tertiary
-25F|Dieren
-25F1|Groepen dieren
-25F2|Zoogdieren
-25F21|Groepen zoogdieren
-25F22|Apen (met NAAM)
-#25F22(...)|monkeys, apes (with NAME)
+25F|zwierzęta
+25F1|grupy zwierząt
+25F2|ssaki
+#25F21|groups of mammals
+#25F22|monkeys, apes
+25F22(...)|małpy (z NAZWĄ)
 #25F22(BABOON)|monkeys, apes: baboon
-25F23|Roofdieren (met NAAM)
+#25F23|beasts of prey, predatory animals
 #25F23(...)|beasts of prey, predatory animals (with NAME)
 #25F23(BADGER)|beasts of prey, predatory animals: badger
 #25F23(BEAR)|beasts of prey, predatory animals: bear
@@ -790,7 +790,7 @@
 #25F23(TIGER)|beasts of prey, predatory animals: tiger
 #25F23(WEASEL)|beasts of prey, predatory animals: weasel
 #25F23(WOLF)|beasts of prey, predatory animals: wolf
-25F24|Hoefdieren (met NAAM)
+#25F24|hoofed animals
 #25F24(...)|hoofed animals (with NAME)
 #25F24(ANTELOPE)|hoofed animals: antelope
 #25F24(BISON)|hoofed animals: bison
@@ -811,10 +811,10 @@
 #25F24(RHINOCEROS)|hoofed animals: rhinoceros
 #25F24(STAG)|hoofed animals: stag
 #25F24(ZEBRA)|hoofed animals: zebra
-25F25|Dieren met slurf (met NAAM)
+#25F25|trunked animals
 #25F25(...)|trunked animals (with NAME)
 #25F25(ELEPHANT)|trunked animals: elephant
-25F26|Knaagdieren (met NAAM)
+#25F26|rodents
 #25F26(...)|rodents (with NAME)
 #25F26(BEAVER)|rodents: beaver
 #25F26(HARE)|rodents: hare
@@ -824,15 +824,15 @@
 #25F26(RAT)|rodents: rat
 #25F26(SQUIRREL)|rodents: squirrel
 #25F26(WOMBAT)|rodents: wombat
-25F27|Zwemmende zoogdieren (met NAAM)
+#25F27|swimming mammals
 #25F27(...)|swimming mammals (with NAME)
 #25F27(DOLPHIN)|swimming mammals: dolphin
 #25F27(SEAL)|swimming mammals: seal
 #25F27(WHALE)|swimming mammals: whale
-25F28|Vliegende zoogdieren (met NAAM)
+#25F28|flying mammals
 #25F28(...)|flying mammals (with NAME)
 #25F28(BAT)|flying mammals: bat
-25F29|Ander zoogdieren, niet eerder genoemd….(met NAAM)
+#25F29|other mammals
 #25F29(...)|other mammals (with NAME)
 #25F29(ARMADILLO)|other mammals: armadillo
 #25F29(HEDGEHOG)|other mammals: hedgehog
@@ -840,9 +840,9 @@
 #25F29(MOLE)|other mammals: mole
 #25F29(PORCUPINE)|other mammals: porcupine
 #25F29(SLOTH)|other mammals: sloth
-25F3|Vogels
-25F31|Groep vogels
-25F32|Zangvogels (met NAAM)
+25F3|ptaki
+#25F31|groups of birds
+#25F32|song-birds
 #25F32(...)|song-birds (with NAME)
 #25F32(CROW)|song-birds: crow
 #25F32(FINCH)|song-birds: finch
@@ -862,7 +862,7 @@
 #25F32(WARBLER)|song-birds: warbler
 #25F32(WHITE THROAT)|song-birds: white throat
 #25F32(WREN)|song-birds: wren
-25F33|Roofvogels (met NAAM)
+#25F33|predatory birds
 #25F33(...)|predatory birds (with NAME)
 #25F33(EAGLE)|predatory birds: eagle
 #25F33(FALCON)|predatory birds: falcon
@@ -871,15 +871,15 @@
 #25F33(KITE)|predatory birds: kite
 #25F33(SPARROW-HAWK)|predatory birds: sparrow-hawk
 #25F33(VULTURE)|predatory birds: vulture
-25F34|Uilen
-25F35|Siervogels (met NAAM)
+#25F34|owls
+#25F35|ornamental birds
 #25F35(...)|ornamental birds (with NAME)
 #25F35(BIRD OF PARADISE)|ornamental birds: bird of paradise
 #25F35(COCKATOO)|ornamental birds: cockatoo
 #25F35(HORNBILL)|ornamental birds: hornbill
 #25F35(PARROT)|ornamental birds: parrot
 #25F35(PEACOCK)|ornamental birds: peacock
-25F36|Watervogels (met NAAM)
+#25F36|water-birds
 #25F36(...)|water-birds (with NAME)
 #25F36(COOT)|water-birds: coot
 #25F36(DIPPER)|water-birds: dipper
@@ -888,7 +888,7 @@
 #25F36(PELICAN)|water-birds: pelican
 #25F36(SWAMP-HEN)|water-birds: swamp-hen
 #25F36(SWAN)|water-birds: swan
-25F37|Steltlopers en wadvogels (met NAAM)
+#25F37|shore-birds and wading-birds
 #25F37(...)|shore-birds and wading-birds (with NAME)
 #25F37(BITTERN)|shore-birds and wading-birds: bittern
 #25F37(CRANE)|shore-birds and wading-birds: crane
@@ -903,7 +903,7 @@
 #25F37(STORK)|shore-birds and wading-birds: stork
 #25F37(TROCHILUS)|shore-birds and wading-birds: trochilus
 #25F37(WOODCOCK)|shore-birds and wading-birds: woodcock
-25F38|Loopvogels (met NAAM)
+#25F38|walker and runner birds
 #25F38(...)|walker and runner birds (with NAME)
 #25F38(BUSTARD)|walker and runner birds: bustard
 #25F38(OSTRICH)|walker and runner birds: ostrich
@@ -911,7 +911,7 @@
 #25F38(PHEASANT)|walker and runner birds: pheasant
 #25F38(QUAIL)|walker and runner birds: quail
 #25F38(TURKEY)|walker and runner birds: turkey
-25F39|Andere vogels, nog niet eerder genoemd (met NAAM)
+#25F39|other birds
 #25F39(...)|other birds (with NAME)
 #25F39(CUCKOO)|other birds: cuckoo
 #25F39(DODO)|other birds: dodo
@@ -922,35 +922,35 @@
 #25F39(TURTLE DOVE)|other birds: turtle dove
 #25F39(WOODPECKER)|other birds: woodpecker
 #25F39(WRYNECK)|other birds: wryneck
-25F4|Reptielen
-25F41|Hagedissen… (met NAAM)
+25F4|gady
+#25F41|lizards
 #25F41(...)|lizards (with NAME)
 #25F41(CHAMELEON)|lizards: chameleon
 #25F41(LIZARD)|lizards: lizard
-25F42|Slangen (met NAAM)
+#25F42|snakes
 #25F42(...)|snakes (with NAME)
 #25F42(VIPER)|snakes: viper
-25F43|Krokodillen (met NAAM)
+#25F43|crocodiles
 #25F43(...)|crocodiles (with NAME)
 #25F43(ALLIGATOR)|crocodiles: alligator
 #25F43(CROCODILE)|crocodiles: crocodile
-25F44|Schildpadden
-25F5|Amfibieën
+#25F44|tortoises, turtles
+25F5|płazy
 #25F51|tailless amphibians
 #25F51(...)|tailless amphibians (with NAME)
 #25F51(FROG)|tailless amphibians: frog
 #25F51(TOAD)|tailless amphibians: toad
 #25F52|amphibians with tail
 #25F52(...)|amphibians with tail (with NAME)
-25F6|Vissen
+25F6|ryby
 #25F6(...)|fishes (with NAME)
-25F61|Kraakbeenachtige vissen
+#25F61|cartilaginous fishes
 #25F61(...)|cartilaginous fishes (with NAME)
 #25F61(DOGFISH)|cartilaginous fishes: dogfish
 #25F61(RAY)|cartilaginous fishes: ray
 #25F61(SAWFISH)|cartilaginous fishes: sawfish
 #25F61(SHARK)|cartilaginous fishes: shark
-25F62|Beenachtige vissen (met NAAM)
+#25F62|bony fishes
 #25F62(...)|bony fishes (with NAME)
 #25F62(BARBEL)|bony fishes: barbel
 #25F62(BUTTERFISH)|bony fishes: butterfish
@@ -977,18 +977,18 @@
 #25F62(SWORD-FISH)|bony fishes: sword-fish
 #25F62(TUNNY)|bony fishes: tunny
 #25F62(WEEVER)|bony fishes: weever
-25F63|Alen (met NAAM)
+#25F63|eels
 #25F63(...)|eels (with NAME)
 #25F63(EEL)|eels: eel
 #25F63(LAMPREY)|eels: lamprey
 #25F63(SEA-EEL)|eels: sea-eel
-25F64|Diepzeevissen….(met NAAM)
+#25F64|deep-sea fishes
 #25F64(...)|deep-sea fishes (with NAME)
-25F65|Andere vissen (met NAAM)
+#25F65|other fishes
 #25F65(...)|other fishes (with NAME)
-25F7|Lagere dieren
-25F71|Geleedpotigen
-25F711|Insekten (met NAAM)
+25F7|zwierzęta niższe
+#25F71|arthropods
+#25F711|insects
 #25F711(...)|insects (with NAME)
 #25F711(ANT)|insects: ant
 #25F711(BEE)|insects: bee
@@ -1015,16 +1015,16 @@
 #25F711(PRAYING-MANTIS)|insects: praying-mantis
 #25F711(SCARABAEUS)|insects: scarabaeus
 #25F711(WASP)|insects: wasp
-25F712|Duizendpoten, Millipedes
-25F713|Spinnen
+#25F712|centipedes, millipedes
+#25F713|spiders
 #25F713(...)|spiders (with NAME)
-25F714|Mijten
-25F715|Schorpioenen
-25F716|Schaaldieren (met NAAM)
+#25F714|mites
+#25F715|scorpions
+#25F716|crustaceans
 #25F716(...)|crustaceans (with NAME)
 #25F716(CRAB)|crustaceans: crab
 #25F716(LOBSTER)|crustaceans: lobster
-25F72|Weekdieren (met NAAM)
+#25F72|molluscs
 #25F72(...)|molluscs (with NAME)
 #25F72(CUTTLE-FISH)|molluscs: cuttle-fish
 #25F72(MUREX)|molluscs: murex
@@ -1035,42 +1035,42 @@
 #25F72(POLYP)|molluscs: polyp
 #25F72(SNAIL)|molluscs: snail
 #25F72(SQUID)|molluscs: squid
-25F73|Wormen (met NAAM),
+#25F73|worms
 #25F73(...)|worms (with NAME)
-25F74|Stekelhuidigen…(met NAAM)
+#25F74|echinoderms
 #25F74(...)|echinoderms (with NAME)
 #25F74(SEA-URCHIN)|echinoderms: sea-urchin
 #25F74(STARFISH)|echinoderms: starfish
-25F75|coelenterata (met NAAM)
+#25F75|coelenterata
 #25F75(...)|coelenterata (with NAME)
 #25F75(CORAL)|coelenterata: coral
 #25F75(JELLY-FISH)|coelenterata: jelly-fish
 #25F75(SPONGE)|coelenterata: sponge
-25F76|Eencelligen, bacteriën, bacillen
-25F8|Uitgestorven dieren (met NAAM)
+#25F76|unicellular animals, bacteria, bacilli
+25F8|zwierzęta wymarłe
 #25F8(...)|extinct animals (with NAME)
-25F81|Prehistorische dieren
-25F82|fossielen
-25F9|Misvormde dieren, monsters
-25F91|Groter dan normaal
-25F92|Kleiner dan normaal
-25F93|meervoudige geboorten ~ misvormde dieren, monsters
-25F94|monsters met onbrekende lichaamsdelen
-25F95|Met delen in groter aantal dan normaal
-25F951|Driekoppig dier
-25F952|Dieren met twee lichamen en een kop
-25F96|Met ledematen, delen, organen op ongebruikelijke plaatsen
-25F97|Met ledematen, delen en organen in abnormale vorm
-25F971|Groter dan normaal
-25F972|Kleiner dan normaal
-25FF|Fabeldieren
-25FF1|Groepen fabeldieren
-25FF2|Fabeldieren ~ zoogdieren
-25FF21|~ huisdieren
-25FF22|~ apen
-#25FF22(...)|monkeys, apes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+#25F81|prehistoric animals
+#25F82|fossil animals
+25F9|zwierzęta przekształcone; potwory
+#25F91|monsters larger than normal
+#25F92|monsters smaller than normal
+#25F93|multiple birth ~ mis-shapen animals, monsters
+#25F94|monsters with parts missing
+#25F95|monsters with parts in greater number than normal
+#25F951|three-headed beast
+#25F952|bicorporates, animals with two bodies and a single head
+#25F96|monsters with limbs, organs, etc. in unusual places
+#25F97|monsters with parts, limbs, organs, etc. of abnormal shape
+#25F971|monsters with parts, limbs, organs, etc. larger than normal
+#25F972|monsters with parts, limbs, organs, etc. smaller than normal
+25FF|zwierzęta fantastyczne (czasem nieprawidłowo zwane &quot;groteski&quot;); 'Mostri' (Ripa)
+#25FF1|groups of fabulous animals
+#25FF2|fabulous animals ~ mammals
+#25FF21|fabulous animals ~ domestic animals
+#25FF22|fabulous animals ~ monkeys
+25FF22(...)|małpy (z NAZWĄ) – FF - zwierzęta fantastyczne (czasem nieprawidłowo zwane &quot;groteski&quot;); 'Mostri' (Ripa)
 #25FF22(BABOON)|monkeys, apes: baboon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23|~ roofdieren
+#25FF23|fabulous animals ~ predatory animals
 #25FF23(...)|fabulous animals ~ predatory animals (with NAME)
 #25FF23(BADGER)|beasts of prey, predatory animals: badger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF23(BEAR)|beasts of prey, predatory animals: bear - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1092,10 +1092,10 @@
 #25FF23(TIGER)|beasts of prey, predatory animals: tiger - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF23(WEASEL)|beasts of prey, predatory animals: weasel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF23(WOLF)|beasts of prey, predatory animals: wolf - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF231|Griffioen
-25FF232|Chimera (leeuw-geit-slang)
-25FF233|Hyena die van geslacht kan veranderen
-25FF24|Fabeldieren ~ hoefdieren
+#25FF231|griffin (lion/eagle); 'Griffo' (Ripa)
+#25FF232|chimera (lion/goat/snake); 'Chimera' (Ripa)
+#25FF233|hyena, capable of changing sex
+#25FF24|fabulous animals ~ hoofed animals
 #25FF24(...)|fabulous animals ~ hoofed animals (with NAME)
 #25FF24(ANTELOPE)|hoofed animals: antelope - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF24(BISON)|hoofed animals: bison - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1121,20 +1121,20 @@
 #25FF24(RHINOCEROS)|hoofed animals: rhinoceros - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF24(STAG)|hoofed animals: stag - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF24(WINGED HORSE)|fabulous animals ~ hoofed animals: winged horse
-25FF241|Eenhoorn
-25FF2411|Eenhoorn gevangen door een maagd, Chasse a la licorne
-25FF2412|‘Pirassoipi’ (eenhoorn met twee hoorns)
-25FF2413|‘oryx unicornis’(~ antiloop)
-25FF242|‘hippogrief’(paard-arend)
-25FF243|‘antalops’(fabelrendier)
-25FF244|‘leucrota’
-25FF245|‘parandrus’(hert-beer)
-25FF246|Yale, éale (zo groot als een paard, staart van een olifant, zwart van kleur, met de poten van een beer. Het draagt vreemdsoortige lange hoorns die kunnen bewegen)
-25FF2461|Centicore
-25FF25|Fabeldieren ~ slurfdieren
+#25FF241|unicorn
+#25FF2411|unicorn caught by a virgin, 'Chasse à la licorne'
+#25FF2412|'pirassoipi' (unicorn with two horns)
+#25FF2413|'oryx unicornis' (cloven footed antelope)
+#25FF242|'hippogriffe' (horse/eagle)
+#25FF243|'antalops' (fabulous reindeer)
+#25FF244|'leucrota'
+#25FF245|'parandrus' (stag/bear)
+#25FF246|yale, 'éale'
+#25FF2461|'centicore'
+#25FF25|fabulous animals ~ trunked animals
 #25FF25(...)|trunked animals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF25(ELEPHANT)|trunked animals: elephant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26|Fabeldieren ~ knaagdieren
+#25FF26|fabulous animals ~ rodents
 #25FF26(...)|rodents (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF26(BEAVER)|rodents: beaver - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF26(HARE)|rodents: hare - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1144,22 +1144,22 @@
 #25FF26(RAT)|rodents: rat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF26(SQUIRREL)|rodents: squirrel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF26(WOMBAT)|rodents: wombat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF27|Fabeldieren ~ zwemmende zoogdieren
+#25FF27|fabulous animals ~ swimming mammals
 #25FF27(...)|swimming mammals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF27(DOLPHIN)|swimming mammals: dolphin - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF27(SEAL)|swimming mammals: seal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF27(WHALE)|swimming mammals: whale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF28|~ vliegende zoogdieren
+#25FF28|fabulous animals ~ flying mammals
 #25FF28(...)|flying mammals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF28(BAT)|flying mammals: bat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF29|~ andere zoogdieren, niet eerder genoemd, (met NAAM)
+#25FF29|fabulous animals ~ other mammals not meant or mentioned above
 #25FF29(...)|fabulous animals ~ other mammals not meant or mentioned above (with NAME)
 #25FF29(ARMADILLO)|other mammals: armadillo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF29(HEDGEHOG)|other mammals: hedgehog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF29(LERTIX)|fabulous animals ~ other mammals not meant or mentioned above: lertix
 #25FF29(MOLE)|other mammals: mole - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF29(PORCUPINE)|other mammals: porcupine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF3|Fabeldieren ~ vogels
+#25FF3|fabulous animals ~ birds
 #25FF3(...)|fabulous animals ~ birds (with NAME)
 #25FF3(AVALERION)|fabulous animals ~ birds: avalerion
 #25FF3(CARABAS)|fabulous animals ~ birds: carabas
@@ -1173,10 +1173,10 @@
 #25FF3(SELEUCIDIAN BIRD)|fabulous animals ~ birds: seleucidian bird
 #25FF3(STELLINUS)|fabulous animals ~ birds: stellinus
 #25FF3(TRAGOPA)|fabulous animals ~ birds: tragopa
-25FF31|Fabeldieren ~ vogels als huisdieren
-25FF311|Basilisk (duif met achterlijf van slang)
+#25FF31|fabulous animals ~ domestic birds
+#25FF311|basilisk (cock with posterior of snake)
 #25FF312|cockatrice, a two-legged dragon with a rooster's head
-25FF32|~ zangvogels
+#25FF32|fabulous animals ~ song-birds
 #25FF32(...)|song-birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF32(CROW)|song-birds: crow - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF32(FINCH)|song-birds: finch - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1195,7 +1195,7 @@
 #25FF32(WARBLER)|song-birds: warbler - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF32(WHITE THROAT)|song-birds: white throat - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF32(WREN)|song-birds: wren - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33|~ roofvogels
+#25FF33|fabulous animals ~ predatory birds
 #25FF33(...)|predatory birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF33(EAGLE)|predatory birds: eagle - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF33(FALCON)|predatory birds: falcon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1204,16 +1204,16 @@
 #25FF33(KITE)|predatory birds: kite - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF33(SPARROW-HAWK)|predatory birds: sparrow-hawk - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF33(VULTURE)|predatory birds: vulture - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF331|Vulpanser
-25FF332|Dubbelkoppige adelaar
-25FF34|~ uilen
-25FF35|~ ornamental birds
+#25FF331|vulpanser
+#25FF332|double-headed eagle
+#25FF34|fabulous animals ~ owls
+#25FF35|fabulous animals ~ ornamental birds
 #25FF35(...)|ornamental birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF35(BIRD OF PARADISE)|ornamental birds: bird of paradise - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF35(HORNBILL)|ornamental birds: hornbill - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF35(PARROT)|ornamental birds: parrot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF35(PEACOCK)|ornamental birds: peacock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36|~ watervogels
+#25FF36|fabulous animals ~ water-birds
 #25FF36(...)|water-birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF36(COOT)|water-birds: coot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF36(DIPPER)|water-birds: dipper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1222,7 +1222,7 @@
 #25FF36(PELICAN)|water-birds: pelican - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF36(SWAMP-HEN)|water-birds: swamp-hen - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF36(SWAN)|water-birds: swan - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37|~ stelt- en wadlopers
+#25FF37|fabulous animals ~ shore-birds and wading-birds
 #25FF37(...)|shore-birds and wading-birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF37(BITTERN)|shore-birds and wading-birds: bittern - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF37(CRANE)|shore-birds and wading-birds: crane - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1237,8 +1237,8 @@
 #25FF37(STORK)|shore-birds and wading-birds: stork - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF37(TROCHILUS)|shore-birds and wading-birds: trochilus - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF37(WOODCOCK)|shore-birds and wading-birds: woodcock - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF371|‘caladrius’, ‘charadius’
-25FF38|~ loopvogels en steltvogels
+#25FF371|'caladrius', 'charadrius' (fabulous bird)
+#25FF38|fabulous animals ~ walker and runner birds
 #25FF38(...)|walker and runner birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF38(BUSTARD)|walker and runner birds: bustard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF38(OSTRICH)|walker and runner birds: ostrich - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1246,7 +1246,7 @@
 #25FF38(PHEASANT)|walker and runner birds: pheasant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF38(QUAIL)|walker and runner birds: quail - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF38(TURKEY)|walker and runner birds: turkey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39|~ andere vogels nog niet eerder genoemd
+#25FF39|fabulous animals ~ other birds not meant of mentioned above
 #25FF39(...)|other birds (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF39(CUCKOO)|other birds: cuckoo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF39(DODO)|other birds: dodo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1257,43 +1257,43 @@
 #25FF39(TURTLE DOVE)|other birds: turtle dove - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF39(WOODPECKER)|other birds: woodpecker - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF39(WRYNECK)|other birds: wryneck - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF4|Fabeldieren ~ reptielen
-25FF41|~ slangen
+#25FF4|fabulous animals ~ reptiles
+#25FF41|fabulous animals ~ lizards
 #25FF41(...)|lizards (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF41(CHAMELEON)|lizards: chameleon - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF41(LIZARD)|lizards: lizard - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF411|Draak
-25FF412|Salamander
-25FF42|~ slangen (adders ??)
+25FF411|smok
+#25FF412|salamander (fabulous animal); salamander as spirit of fire
+#25FF42|fabulous animals ~ snakes (aspic, dragon, hydrus, hydra, amphisbaena, horned snake, cerastes)
 #25FF42(...)|snakes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF42(VIPER)|snakes: viper - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF421|Aspic
-25FF422|Draak (grote slang, soms met vleugels en poten)
-25FF423|‘hydrus’
-25FF4231|‘hydra’
-25FF424|‘amphisbaena’ (slang met aan beide kanten een kop)
-25FF425|Gehoornde slang
-25FF4251|‘cerastes
-25FF43|Fabeldieren ~ krokodillen
+#25FF421|aspic
+#25FF422|dragon (large fabulous serpent, sometimes with wings and legs)
+#25FF423|'hydrus' (watersnake)
+#25FF4231|'hydra'; 'Hidra' (Ripa)
+#25FF424|'amphisbaena' (snake with head at both ends)
+#25FF425|horned snake
+#25FF4251|'cerastes'
+#25FF43|fabulous animals ~ crocodiles
 #25FF43(...)|crocodiles (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF43(ALLIGATOR)|crocodiles: alligator - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF43(CROCODILE)|crocodiles: crocodile - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF44|~ schildpadden
-25FF5|Fabeldieren ~ amfibieën
-25FF51|~ staartloze amfibieën
+#25FF44|fabulous animals ~ tortoises
+#25FF5|fabulous animals ~ amphibians
+#25FF51|fabulous animals ~ tailless amphibians
 #25FF51(...)|tailless amphibians (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF51(FROG)|tailless amphibians: frog - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF51(TOAD)|tailless amphibians: toad - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF52|~ amfibieën met staart
+#25FF52|fabulous animals ~ amphibians with tail
 #25FF52(...)|amphibians with tail (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF6|Fabeldieren ~ vissen
-25FF61|Leviathan
+#25FF6|fabulous animals ~ fishes
+#25FF61|leviathan (fabulous fish)
 #25FF61(...)|cartilaginous fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF61(DOGFISH)|cartilaginous fishes: dogfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF61(RAY)|cartilaginous fishes: ray - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF61(SAWFISH)|cartilaginous fishes: sawfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF61(SHARK)|cartilaginous fishes: shark - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62|Zeepaard, ‘hippocampus’
+#25FF62|sea-horse, hippocamp, 'hippocampus', (horse/fish) (mythological hybrid monster)
 #25FF62(...)|bony fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF62(BARBEL)|bony fishes: barbel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF62(BUTTERFISH)|bony fishes: butterfish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1320,18 +1320,18 @@
 #25FF62(SWORD-FISH)|bony fishes: sword-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF62(TUNNY)|bony fishes: tunny - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF62(WEEVER)|bony fishes: weever - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF63|‘pistrix’, zeedraak
+#25FF63|'pistrix', sea-dragon
 #25FF63(...)|eels (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF63(EEL)|eels: eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF63(LAMPREY)|eels: lamprey - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF63(SEA-EEL)|eels: sea-eel - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF64|‘remore’, ‘echeneis remora’
+#25FF64|'remore', 'echeneis remora' (fabulous fish)
 #25FF64(...)|deep-sea fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF65|‘serra’(vis met enorme vinnen)
+#25FF65|'serra' (fish with enormous fins)
 #25FF65(...)|other fishes (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF7|Fabeldieren ~ lagere dieren
-25FF71|~ arthropods
-25FF711|‘pyrausta
+#25FF7|fabulous animals ~ lower animals
+#25FF71|fabulous animals ~ arthropods ('pyrausta')
+#25FF711|'pyrausta'
 #25FF711(...)|insects (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF711(ANT)|insects: ant - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF711(BEE)|insects: bee - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1361,7 +1361,7 @@
 #25FF716(...)|crustaceans (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF716(CRAB)|crustaceans: crab - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF716(LOBSTER)|crustaceans: lobster - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72|fantasie weekdieren (met NAAM)
+#25FF72|fabulous animals ~ molluscs
 #25FF72(...)|fabulous animals ~ molluscs (with NAME)
 #25FF72(CUTTLE-FISH)|molluscs: cuttle-fish - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF72(KRAKEN)|fabulous animals ~ molluscs: kraken
@@ -1389,7 +1389,7 @@
 #25FF8(...)|extinct animals (with NAME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF81|prehistoric animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF82|fossil animals - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF9|Andere fabeldieren, niet te classificeren onder 25FF2-25FF7
+#25FF9|still other fabulous animals which cannot be classified under 25 FF 2 - 25 FF 7
 #25FF91|monsters larger than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF92|monsters smaller than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF93|multiple birth ~ mis-shapen animals, monsters - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
@@ -1401,14 +1401,14 @@
 #25FF97|monsters with parts, limbs, organs, etc. of abnormal shape - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF971|monsters with parts, limbs, organs, etc. larger than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
 #25FF972|monsters with parts, limbs, organs, etc. smaller than normal - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25G|Planten
-25G1|Planten in het algemeen
-25G11|Groepen bomen
-25G12|Groepen struiken
-25G13|Groepen planten
-25G14|Groepen lagere planten
-25G2|Plantenproducten in het algemeen
-25G21|Vruchten`…met namen tussen haakjes
+25G|rośliny; wegetacja
+#25G1|plants (in general)
+#25G11|groups of trees
+#25G12|groups of shrubs
+#25G13|groups of plants (herbs)
+#25G14|groups of lower plants
+#25G2|products of plants in general
+#25G21|fruits
 #25G21(...)|fruits (with NAME)
 #25G21(ACORN)|fruits: acorn
 #25G21(ALMOND)|fruits: almond
@@ -1441,21 +1441,21 @@
 #25G21(SPRUCE-CONE)|fruits: spruce-cone
 #25G21(STRAWBERRY)|fruits: strawberry
 #25G21(WALNUT)|fruits: walnut
-25G211|Delen van vruchten…(met NAAM)
+#25G211|parts of a fruit
 #25G211(...)|parts of a fruit (with NAME)
 #25G211(NUTSHELL)|parts of a fruit: nutshell
-25G2111|Zaden (met NAAM)
+#25G2111|seed
 #25G2111(...)|seed (with NAME)
 #25G2111(PEA)|seed: pea
 #25G2111(THISTLE-SEED)|seed: thistle-seed
-25G22|Andere producten van planten….(met NAAM)
+#25G22|(non-fruit) products of plants or trees
 #25G22(...)|(non-fruit) products of plants or trees (with NAME)
 #25G22(ASPARAGUS)|(non-fruit) products of plants or trees: asparagus
 #25G22(CINNAMON)|(non-fruit) products of plants or trees: cinnamon
 #25G22(ONION)|(non-fruit) products of plants or trees: onion
 #25G22(RADISH)|(non-fruit) products of plants or trees: radish
 #25G22(TURNIP)|(non-fruit) products of plants or trees: turnip
-25G3|Bomen….(met NAAM)
+#25G3|trees
 #25G3(...)|trees (with NAME)
 #25G3(ACACIA)|trees: acacia
 #25G3(ACER)|trees: acer
@@ -1490,7 +1490,7 @@
 #25G3(PEAR-TREE)|trees (with NAME)
 #25G3(PINE)|trees: pine
 #25G3(PLANE-TREE)|trees: plane-tree
-#25G3(PLUM-TREE)|trees: plum-tree
+#25G3(PLUM-TREE)|tree: plum-tree
 #25G3(POMEGRANATE-TREE)|trees: pomegranate-tree
 #25G3(POPLAR)|trees: poplar
 #25G3(QUINCE-TREE)|trees: quince-tree
@@ -1500,7 +1500,7 @@
 #25G3(WHITE POPLAR)|trees: white poplar
 #25G3(WILLOW)|trees: willow
 #25G3(YEW)|trees: yew
-25G31|Struiken….(met NAAM)
+#25G31|shrubs
 #25G31(...)|shrubs (with NAME)
 #25G31(BLACKBERRY-BUSH)|shrubs: blackberry-bush
 #25G31(BOX)|shrubs: box
@@ -1512,9 +1512,9 @@
 #25G31(OLEANDER)|shrubs: oleander
 #25G31(PRIVET)|shrubs: privet
 #25G31(ROSE-BUSH)|shrubs: rose-bush
-25G39|Boom als schema voor relaties, diagram in de vorm van een boom
+#25G39|tree as a scheme of relations, diagram in form of a tree
 #25G391|philosophical tree (Arbor philosophicus) ~ alchemy
-25G4|Planten en kruiden….(met NAAM)
+#25G4|plants and herbs
 #25G4(...)|plants and herbs (with NAME)
 #25G4(ACANTHUS)|plants and herbs: acanthus
 #25G4(ALOE)|plants and herbs: aloe
@@ -1565,7 +1565,7 @@
 #25G4(WATER-HEMLOCK)|plants and herbs: water-hemlock
 #25G4(WHEAT)|plants and herbs: wheat
 #25G4(WORMWOOD)|plants and herbs: wormwood
-25G41|Bloemen….(met NAAM)
+#25G41|flowers
 #25G41(...)|flowers (with NAME)
 #25G41(ALMOND-BLOSSOM)|flowers: almond-blossom
 #25G41(ANEMONE)|flowers: anemone
@@ -1587,27 +1587,27 @@
 #25G41(TULIP)|flowers: tulip
 #25G41(VIOLET)|flowers: violet
 #25G41(WATER-LILY)|flowers: water-lily
-25G411|Geplukte bloemen, bos bloemen (boeket)
+#25G411|cut flowers; nosegay, bunch of flowers
 #25G411(...)|cut flowers; nosegay, bunch of flowers (with NAME)
 #25G4111|garland, wreath
-25G412|Gedroogde bloemen
+#25G412|dried flowers
 #25G412(...)|dried flowers (with NAME)
-25G49|Kunstbloemen en –planten
-25G5|Lagere plantsoorten
-25G51|Varens
-25G52|Mossen
-25G53|Algen
-25G54|Zwammen
-25G541|Paddestoelen
-25G55|Korstmossen
-25G56|Andere lagere plantsoorten
+#25G49|artificial plants and flowers
+#25G5|lower plants
+#25G51|ferns
+#25G52|mosses
+#25G53|algae, seaweed
+#25G54|fungi
+#25G541|mushrooms
+#25G55|lichens
+#25G56|other lower plants
 #25G56(...)|other lower plants (with NAME)
-25G6|Uitgestorven planten
+#25G6|extinct plants
 #25G6(...)|extinct plants (with NAME)
-25G61|Prehistorische planten
-25G62|Fossiele planten
-25G7|De taal der bloemen
-25GG|Fantasieplanten, fabelachtige vegetatie
+#25G61|prehistoric plants
+#25G62|fossil plants
+#25G7|language of flowers
+#25GG|fantastic plants, fabulous vegetation
 #25GG1|fabulous plants (in general)
 #25GG11|groups of fabulous trees
 #25GG12|groups of fabulous shrubs
@@ -1796,79 +1796,79 @@
 #25GG61|prehistoric plants - GG - fantastic plants, fabulous vegetation
 #25GG62|fossil plants - GG - fantastic plants, fabulous vegetation
 #25GG7|language of flowers - GG - fantastic plants, fabulous vegetation
-25H|Landschap -HH- idelaal landschap
-25H1|Landschap in gematigde streken
-25H11|Bergen
-25H111|Bergketen, sneeuwtoppen
-25H1111|Gletscher
-25H112|Rotsen
-25H1121|Bergtop, piek
-25H1122|Ravijn, kloof, afgrond
-25H1123|Rotsformaties
-25H1124|Kei, steen
-25H113|(Hoge) heuvel
-25H1131|Wal, berm
-25H114|Laag heuvellandschap
-25H115|Kuil (groeve), hol
-25H116|aardverschuiving
-25H119|grot
-25H1191|druipsteengrot
-25H12|dal, vallei
+25H|krajobrazy
+#25H1|landscapes in the temperate zone
+#25H11|mountains
+#25H111|mountain-range, snow peaks
+#25H1111|glacier
+#25H112|rocks
+#25H1121|mountain-top, peak
+#25H1122|ravine, chasm, abyss, canyon
+#25H1123|rock-formations
+#25H1124|boulder, stone
+#25H113|(high) hill
+#25H1131|mound, verge
+#25H114|low hill country
+#25H115|pit, hole
+#25H116|landslide
+#25H119|cave, grotto
+#25H1191|stalactitic cave
+#25H12|dale, valley
 #25H121|inland cliff face
-25H13|kust
-25H131|rotskust
-25H1311|fjord
-25H1312|Rif
-25H1313|Kaap
+#25H13|coast
+#25H131|rocky coast
+#25H1311|fjord, sea loch
+#25H1312|reef ~ coast
+#25H1313|cape (coast)
 #25H1314|coastal cliff or crag
-25H132|Duinkust
-25H1321|Duinen (de zee niet zichtbaar); in de duinen
-25H133|Strand
-25H1331|Zandbank
-25H1332|Modderbank
-#25H1333|ENG coastal inlet
-#25H134|ENG coastal marsh
-#25H135|ENG haff, lagoon created by sand, shingle bank ~ coast
+#25H132|dune coast
+#25H1321|dunes (sea not visible); in the dunes
+#25H133|beach
+#25H1331|sand-bank
+#25H1332|mud flat
+#25H1333|coastal inlet
+#25H134|coastal marsh
+#25H135|haff, lagoon created by sand, shingle bank ~ coast
 #25H138|coastal structures
 #25H1381|coastal protection work, breakwater
 #25H13811|sea-wall
 #25H13812|groyne ~ breakwater
 #25H13813|mole ~ breakwater
-25H14|Eiland
-25H141|Schiereiland
-25H142|Landengte
-25H15|Bos
-25H151|Loofbos
-25H152|Naaldbos
-25H153|Struiken, heesters
+#25H14|island
+#25H141|peninsula
+#25H142|isthmus
+#25H15|forest, wood
+#25H151|deciduous forest
+#25H152|forest of coniferous trees
+#25H153|bush, shrubs ~ forest
 #25H154|glade, 'Lichtung im Wald'
 #25H155|fringe, edge of the wood
 #25H156|forest path or lane
-25H159|Bosbrand
-25H16|Vlak land
-25H161|Grasland, savanne, prairie
-25H17|Grasland, wide
-25H171|Bergwei, alp
-25H172|‘locus amoenus’motief: aangename plek met bomen (~ de smaak), grasland (~ het gezicht), bron of beek (~ het gevoel), zingende vogels (~ het gehoor) en bloemen (~ de reuk).
-25H18|Gecultiveerd land
+#25H159|forest fire
+#25H16|plain
+#25H161|grasslands, savanna, prairie
+#25H17|meadow, pasture
+#25H171|mountain meadow, alp
+#25H172|'locus amoenus' motif; pleasant place with trees (~ taste), meadows (~ sight), spring or brook (~ feeling), singing birds (~ hearing) and flowers (~ smell)
+#25H18|cultivated land
 #25H181|waste land, no man's land
 #25H182|ploughed field
 #25H183|field filled with a crop
-25H19|Moerassen en polders
-25H191|Moeras
-25H192|Polder
-25H1921|Pompinstallatie, pompmachine
-25H1922|`technische aspecten en details van pompinstallatie
-25H193|Drooglegging ten behoeve van landwinning
-25H199|Vloed
-25H1991|Dijkdoorbraak
-25H1992|Reddingswerk
-25H2|Landschap met water, watergezichten, zeegezichten (in de gematigde streken)
-25H21|Waterloop, stroom
-25H211|Bron van rivier of stroom
-25H212|Beek
-25H213|Rivier
-25H2130|Personificatie van rivier… indien gewenst (met NAAM),
+#25H19|swamps and polders
+#25H191|swamp, inland marsh, fens
+#25H192|polder, reclaimed land
+#25H1921|pumping installation, pumping-engine (~ polder)
+#25H1922|technical aspects and details of pumping-engine
+#25H193|draining for land reclamation
+#25H199|flood
+#25H1991|dike-break
+#25H1992|rescue work during a flood
+#25H2|landscapes with waters, waterscapes, seascapes (in the temperate zone)
+#25H21|water course
+#25H211|spring, source of river or stream
+#25H212|brook
+#25H213|river
+#25H2130|river personified, 'Fiumi' (Ripa)
 #25H2130(...)|river personified (with NAME)
 #25H2130(ADIGE)|personification of river Adige; 'Adige' (Ripa)
 #25H2130(ARNO)|personification of river Arno; 'Arno' (Ripa)
@@ -1884,56 +1884,56 @@
 #25H2130(RHINE)|river personified: Rhine
 #25H2130(TIBER)|personification of river Tiber; 'Tevere' (Ripa)
 #25H2130(TIGRIS)|personification of river Tigris; 'Tigre' (Ripa)
-25H2131|Draaikolk
-25H214|Meer
-25H2141|Stuwmeer
-25H21411|Stuwdam
-25H2142|Ven
+#25H2131|whirlpool
+#25H214|lake
+#25H2141|dammed-up lake
+#25H21411|barrage
+#25H2142|fen, Du. 'ven'
 #25H2143|pond, pool
 #25H21431|pool, puddle
-25H215|Riviermond
-25H216|Waterval
-25H2161|Stroomversnelling
-25H217|Rivieroever
-25H2171|Dijk
-25H2172|Uiterwaarden
-25H21721|Ondergelopen uiterwaarden
-25H2173|Jaagpad
+#25H215|river mouth, estuary
+#25H216|waterfall
+#25H2161|rapids
+#25H217|river bank
+#25H2171|dikes, levee
+#25H2172|water meadows
+#25H21721|water meadows under water
+#25H2173|towing path
 #25H219|dry river, river bed
-25H22|Kanaal
-25H221|Kanaalsluis
-25H222|Dam
-25H223|Sluis
-25H224|Sloot
-25H225|Aanleg van kanaal
-25H2251|Baggeren, baggermachine
-25H23|Zee
+#25H22|canal
+#25H221|lift-lock, canal lock
+#25H222|dam (in canal)
+#25H223|sluice, weir
+#25H224|small canal, ditch
+#25H225|construction of canal
+#25H2251|dredge, dredging machine
+#25H23|sea (seascape)
 #25H230|sea personified; 'Mare' (Ripa)
-25H231|Verschijnselen in verband met de zee
-25H2311|Golf
-25H23111|Branding
+#25H231|phenomena connected with the sea
+#25H2311|wave
+#25H23111|surf, breakers
 #25H23112|wave caused by ship; backwash
-25H2312|Getij
-25H23121|Eb
-25H23122|Vloed
-25H23123|Springvloed
-25H23124|Vloedtij
-25H2313|Fosforescentie
-25H2314|Stromingen
-25H23141|Draaikolk
-25H2315|Diepzee
-25H2316|Oceaanbodem
-25H232|Specifieke zeeën
-25H2321|Oceaan indien gewenst (met NAAM)
+#25H2312|tide
+#25H23121|ebb, low tide
+#25H23122|flood, high tide
+#25H23123|spring-tide
+#25H23124|tidal wave
+#25H2313|phosphorescence
+#25H2314|currents
+#25H23141|maelstrom
+#25H2315|deep sea
+#25H2316|ocean floor
+#25H232|particular seas, etc.
+#25H2321|ocean
 #25H2321(...)|ocean (with NAME)
 #25H23210|ocean personified
-25H2322|Zee indien gewenst (met NAAM)
+#25H2322|sea
 #25H2322(...)|sea (with NAME)
-25H2323|Golf, baai indien gewenst (met NAAM)
+#25H2323|gulf, bay
 #25H2323(...)|gulf, bay (with NAME)
-25H2324|Straat, nauw (engte)
+#25H2324|straits, narrows
 #25H2324(...)|straits, narrows (with NAME)
-25H23241|Zuilen van Hercules
+#25H23241|pillars of Hercules
 #25HH|landscapes - HH - ideal landscapes
 #25HH1|landscapes in the temperate zone - HH - ideal landscapes
 #25HH11|mountains - HH - ideal landscapes
@@ -2070,38 +2070,38 @@
 #25HH2324|straits, narrows - HH - ideal landscapes
 #25HH2324(...)|straits, narrows (with NAME) - HH - ideal landscapes
 #25HH23241|pillars of Hercules - HH - ideal landscapes
-25I|Stadsgezicht en landschap met door de mens gemaakte constructies
-25I1|Stadsgezicht in het algemeen; ‘veduta’
-25I10|Idelae stad
-25I11|Het stichten van een stad
-25I111|De stichters van een stad
-25I12|Stadspanorama, silhouet van de stad
-25I13|Publieke tuinen, park
-25I14|De openbare weg
-25I141|Straat
-25I1411|Laan
-25I1412|Passage
+25I|widoki miast i krajobrazy z konstrukcjami wykonanymi ludzką ręką
+#25I1|city-view in general; 'veduta'
+#25I10|ideal city : Use 25 II 1
+#25I11|city founding
+#25I111|city founders
+#25I12|prospect of city, town panorama, silhouette of city
+#25I13|public gardens, park
+#25I14|public road
+#25I141|street
+#25I1411|lane, alley
+#25I1412|passage
 #25I1413|sloping street; street with steps or stairs
-25I142|Avenue, boulevard
-25I143|Kade
-25I144|Plein
-25I145|Grachten, kanalen
+#25I142|avenue, boulevard, promenade, esplanade
+#25I143|quay
+#25I144|square, place, circus, etc.
+#25I145|canals, waters (in city)
 #25I1451|bridge in city across river, canal, etc.
 #25I14511|bridge in city with structures, i.e. shops, houses, e.g. Ponte Vecchio in Florence
-25I146|Stadswallen
-25I1461|Stadspoort
-25I15|Monumentale decoratie
+#25I146|city-walls
+#25I1461|city-gate
+#25I15|monumental adornments (in city)
 #25I151|ornamental fountain
-25I152|Monument, standbeeld
-25I153|Obelisk, gedenknaald
-25I154|Triomfzuil met spiraalvormige friezen
+#25I152|monument, statue
+#25I153|obelisk, needle
+#25I154|triumphal column with helical friezes
 #25I155|tower, clock tower ~ monumental adornment
-25I16|Openbare toiletten
-25I17|Ondergrondse constructies
-25I171|Riolering
-25I18|Buitenwijken
-25I19|Metropool
-25I2|dorp
+#25I16|public convenience
+#25I17|underground structures in city
+#25I171|sewers
+#25I18|outskirts of city
+#25I19|metropolis
+#25I2|village
 #25I21|founding a village
 #25I22|prospect of village, silhouette of village
 #25I24|public road in village
@@ -2116,17 +2116,17 @@
 #25I25|monumental adornments (in village)
 #25I251|ornamental fountain (in village)
 #25I28|outskirts of village
-25I3|Boerderij of eenzaam huis in landschap
-25I4|Fabriek en molen in landschap
-25I41|Molen
-25I42|Watermolen
-25I43|Fabriek
-25I5|Landschap met toren
-25I6|Landschap met brug, viaduct of aquaduct
-25I7|Landschap met monument
-25I71|Menhir
-25I8|Landschap met andere door de mens gemaakte constructies dan hierboven genoemd
-25I9|Landschap met ruines
+#25I3|farm or solitary house in landscape
+#25I4|factories and mills in landscape
+#25I41|windmill in landscape
+#25I42|watermill in landscape
+#25I43|factory in landscape
+#25I5|landscape with tower or castle
+#25I6|landscape with bridge, viaduct or aqueduct
+#25I7|landscape with monument
+#25I71|landscape with menhir
+#25I8|landscape with other man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc.
+#25I9|landscape with ruins
 #25II|city-view, and landscape with man-made constructions - II - ideal landscapes
 #25II1|city-view in general; 'veduta' - II - ideal city
 #25II10|ideal city : Use 25 II 1 - II - ideal city
@@ -2184,35 +2184,35 @@
 #25II71|landscape with menhir - II - ideal landscapes
 #25II8|landscape with other man-made constructions not mentioned above, e.g.: graveyards, playgrounds, etc. - II - ideal landscapes
 #25II9|landscape with ruins - II - ideal landscapes
-25K|Landschap in niet-gematigde zone -KK- ideaal landschap
-25K1|Landschap in tropische en subtropische streken
-25K11|Bergen
-25K12|Ravijn
-25K121|Vallei
-25K13|Kust
+25K|krajobrazy w strefach klimatu innego niż umiarkowany; krajobrazy egzotyczne
+#25K1|landscapes in tropical and sub-tropical regions
+#25K11|mountains (in tropical and sub-tropical regions)
+#25K12|ravine (in tropical and sub-tropical regions)
+#25K121|valley (in tropical and sub-tropical regions)
+#25K13|coast (in tropical and sub-tropical regions)
 #25K14|island (in tropical and sub-tropical regions)
-25K141|Koraaleiland
-25K142|Koraalrif
-25K15|Jungle
-25K16|Woestijn
+#25K141|coral island
+#25K142|coral reef
+#25K15|jungle
+#25K16|desert
 #25K161|oasis
 #25K162|wadi, dry river bed in desert
-25K17|Steppen,vlakten
-25K18|Gecultiveerd land
-25K181|Sawa’s, rijstvelden
-25K182|Plantage
-25K19|Moeras
-25K2|Landschap in poolstreek
-25K21|Bergen gletscher
-25K211|Ravijn
-25K22|Vallei
+#25K17|steppes, open fields
+#25K18|cultivated land (in tropical and sub-tropical regions)
+#25K181|sawahs, rice paddies
+#25K182|plantation
+#25K19|swamp (in tropical and sub-tropical regions)
+#25K2|landscapes in polar regions
+#25K21|mountains (in polar regions)
+#25K211|glacier (in polar regions)
+#25K22|ravine (in polar regions)
 #25K221|valley (in polar regions)
-25K23|Kust
-25K24|Eiland
-25K241|ijsberg
-25K25|Toendra, vlakten met vegetatie
-25K26|IJsveld
-25K3|Exoticisme -KK- geïdealiseerd
+#25K23|coast (in polar regions)
+#25K24|island (in polar regions)
+#25K241|iceberg
+#25K25|tundra, country with vegetation
+#25K26|icefield
+#25K3|exoticism
 #25KK|landscapes in the non-temperate zone, exotic landscapes - KK - ideal landscapes
 #25KK1|landscapes in tropical and sub-tropical regions - KK - ideal landscapes
 #25KK11|mountains (in tropical and sub-tropical regions) - KK - ideal landscapes
@@ -2242,7 +2242,7 @@
 #25KK25|tundra, country with vegetation - KK - ideal landscapes
 #25KK26|icefield - KK - ideal landscapes
 #25KK3|exoticism - KK - idealized exoticism
-25L|Steden, allegorisch of symbolisch voorgesteld
+25L|alegoryczne lub symboliczne przedstawienia miast
 #25L(...)|cities represented allegorically or symbolically (with NAME)
 #25L(...)0|cities represented allegorically or symbolically (with NAME) - personification of a city, town-patron(ess)
 #25L(...)1|cities represented allegorically or symbolically (with NAME) - city represented symbolically
@@ -2251,145 +2251,144 @@
 #25L(ROME)0|cities represented allegorically or symbolically: Rome - personification of a city, town-patron(ess)
 #25L(ROME)1|cities represented allegorically or symbolically: Rome - city represented symbolically
 #25L(ROME)11|cities represented allegorically or symbolically: Rome - city-crown
-25L0|Personificatie van een stad, stedemaagd
-25L1|Stad symbolisch weergegeven
-25L11|Stedekroon
-25M|De zeven wereldwonderen
-25M1|De Egyptische pyramides
-25M2|De hangende tuinen van Semiramis in Babylon
-25M3|De tempel van Artemis in Ephese
-25M4|Standbeeld van Zeus bij Phidias
-25M5|Mausoleum van Halicarnassus
-25M6|Colossus van Rhodos
-25M7|Pharos van Alexandrië
-25M8|Andere monumenten die soms bij de zeven wereldwonderen worden opgenomen
+#25L0|personification of a city, town-patron(ess)
+#25L1|city represented symbolically
+#25L11|city-crown, mural crown
+25M|Siedem Cudów świata
+#25M1|Egyptian pyramids (Wonder of the World)
+#25M2|hanging gardens of Semiramis at Babylon (Wonder of the World)
+#25M3|temple of Artemis at Ephesus (Wonder of the World)
+#25M4|statue of Zeus by Phidias (Wonder of the World)
+#25M5|Mausoleum at Halicarnassus (Wonder of the World)
+#25M6|Colossus of Rhodes (Wonder of the World)
+#25M7|Pharos of Alexandria (Wonder of the World)
+#25M8|other monuments which are sometimes included in the Wonders of the World
 #25M8(...)|other monuments which are sometimes included in the Wonders of the World (with NAME)
-25N|Fictieve landen….(met NAAM)
+25N|kraje fantastyczne
 #25N(...)|fictitious countries (with NAME)
 #25N(ATLANTIS)|fictitious countries: Atlantis
-25N1|Land van Kokanje, Luilekkerland
-26|Meteorologische verschijnselen
-26A|Wolken
-26A1|Stapelwolken
-26A11|Cirrus
-26A12|Cirrostratus
-26A2|halfhoge wolken
-26A21|Cirrocumulus, bv. schapenwolkjes
-26A22|Altocumulus
-26A23|altostratus
-26A3|Laaghangende wolken
-26A31|Stratocumulus
-26A32|Nimbus, bv. regenwolken
-26A4|Lage wolken en wolken gevormd door opstijgende luchtstromen
-26A41|Cumulus, i.e. wolken die met mooi weer samenhangen
-26A42|Cumulonimbus, bv. donderwolken
-26A5|Hoge nevels
-26A51|Stratus
-26B|Regen
+#25N1|Land of Cockaigne
+26|zjawiska meteorologiczne
+26A|chmury
+#26A1|high clouds
+#26A11|cirrus (high clouds)
+#26A12|cirrostratus
+#26A2|medium altitude clouds
+#26A21|cirrocumulus, i.e. mackerel clouds
+#26A22|altocumulus
+#26A23|altostratus
+#26A3|lower clouds
+#26A31|stratocumulus
+#26A32|nimbus, i.e. rain clouds
+#26A4|low clouds and those originating from rising air currents
+#26A41|cumulus, i.e. good weather clouds
+#26A42|cumulonimbus, i.e. thunder clouds
+#26A5|uniformly spread high-hanging haze
+#26A51|stratus
+26B|deszcz
 #26B0|'Pioggia, ninfa dell'aria' (Ripa)
-26B1|Mist
-26B2|Regenboog
+#26B1|mist, fog
+#26B2|rainbow
 #26B20|'Iride, ninfa dell'aria' (Ripa)
-26B3|dauw
+#26B3|dew
 #26B30|'Rugiada, ninfa dell'aria' (Ripa)
 #26B4|downpour, rain shower
 #26B9|drought
-26C|winden
-26C0|'Venti' (Ripa)
-26C1|winden volgens verschillende indelingen
-26C11|de vier hoofdrichtingen
-26C111|Noorderwind
-26C112|Oostenwind
-26C113|Zuidenwind
-26C114|Westenwind
-26C12|indeling in acht richtingen
-26C121|Noordenwind, ‘Aquilo’, ‘Boreas’, Septentrionarius’
-26C122|Noordoosten wind, ‘Kaikias’
-26C123|Oosten wind, ‘Subsolanus’
-26C124|Zuidoosten wind, ‘Éurus’, ‘Volturnus’
-26C125|Zuidenwind, ‘Auster’, ‘Notus’
-26C126|Zuidwesten wind, ‘Africus’
-26C127|Westenwind, ‘Favonius’, ‘Zephirus’
-26C128|Noordwesten wind, ‘lapyx’, ‘Caurus’
-26C13|Indeling in 16 windrichtingen
-26C131|Van noord naar zuid, met de klok mee
-26C1311|Noordenwind
-26C1312|Noord-noordoosten wind
-26C1313|Noordoosten wind
-26C1314|Oost-noordoosten wind
-26C1315|Oosten wind
-26C1316|Oost-zuidoosten wind
-26C1317|Zuidoosten wind
-26C1318|Zuid-zuidoosten wind
-26C132|Van zuid naar noord, met de klok mee
-26C1321|Zuiden wind
-26C1322|Zuid-zuidwesten wind
-26C1323|Zuidwesten wind
-26C1324|West-zuidwesten wind
-26C1325|Westen wind
-26C1326|West-noordwesten wind
-26C1327|Noordwesten wind
-26C1328|Noord-noordoosten wind
-26C14|Andere indelingen
-26C2|Verdeling van winden volgens kracht
-26C21|Scheepstermen
+#26C0|'Venti' (Ripa)
+#26C1|winds according to several divisions
+#26C11|the four main directions of the wind
+#26C111|north wind (one of the four main directions)
+#26C112|east wind (one of the four main directions)
+#26C113|south wind (one of the four main directions)
+#26C114|west wind (one of the four main directions)
+#26C12|division into eight wind directions
+#26C121|north wind, 'Aquilo', 'Boreas', 'Septentrionarius' (one of eight directions)
+#26C122|northeast wind, 'Kaikias' (Caecias) (one of eight directions)
+#26C123|east wind, 'Subsolanus' (one of eight directions)
+#26C124|southeast wind, 'Eurus', 'Volturnus'; 'Euro' (Ripa) (one of eight directions)
+#26C125|south wind, 'Auster', 'Notus' (one of eight directions)
+#26C126|southwest wind, 'Africus' (one of eight directions)
+#26C127|west wind, 'Favonius', 'Zephirus' (one of eight directions)
+#26C128|northwest wind, 'Iapyx', 'Caurus' (one of eight directions)
+#26C13|division into sixteen wind directions
+#26C131|division into sixteen wind directions, from north to south, clockwise
+#26C1311|north wind (N) (one of sixteen directions)
+#26C1312|north-northeast wind (NNE) (one of sixteen directions)
+#26C1313|northeast wind (NE) (one of sixteen directions)
+#26C1314|east-northeast wind (ENE) (one of sixteen directions)
+#26C1315|east wind (E) (one of sixteen directions)
+#26C1316|east-southeast wind (ESE) (one of sixteen directions)
+#26C1317|southeast wind (SE) (one of sixteen directions)
+#26C1318|south-southeast wind (SSE) (one of sixteen directions)
+#26C132|from south to north, clockwise
+#26C1321|south wind (S) (one of sixteen directions)
+#26C1322|south-southwest wind (SSW) (one of sixteen directions)
+#26C1323|southwest wind (SW) (one of sixteen directions)
+#26C1324|west-southwest wind (WSW) (one of sixteen directions)
+#26C1325|west wind (W) (one of sixteen directions)
+#26C1326|west-northwest wind (WNW) (one of sixteen directions)
+#26C1327|northwest wind (NW) (one of sixteen directions)
+#26C1328|north-northwest wind (NNW) (one of sixteen directions)
+#26C14|other divisions of winds
+#26C2|division of winds according to strength
+#26C21|marine terms for wind strength
 #26C21(...)|marine terms for wind strength (with NAME)
-26C22|Moderne indeling (schaal van beaufort)
-26C3|Storm
-26C31|Storm op het land
-26C32|Storm op zee
-26C33|Zandstorm
-26C34|Sneeuwstorm
-26C35|Cycloon, wervelstorm (orkaan), tyfoon, tornado
-26C351|Cycloon enz. op het land
-26C352|Cycloon, enz. op zee
-26C4|Windvaan
-26C41|Weerhaan (windwijzer)
-26C42|Windzak
-26C5|Barometer
+#26C22|scale of Beaufort
+#26C3|storm
+#26C31|storm on land
+#26C32|storm at sea
+#26C33|sandstorm
+#26C34|snowstorm
+#26C35|whirlwind, cyclone, hurricane, typhoon, tornado
+#26C351|whirlwind, cyclone, hurricane, typhoon, tornado on land
+#26C352|whirlwind, cyclone, hurricane, typhoon, tornado at sea
+#26C4|weather-vane
+#26C41|weathercock
+#26C42|windsock
+#26C5|barometer
 #26C6|wind as a human face, blowing with rounded cheeks
 #26C9|absence of wind, calm
-26D|Vorst, vriesweer
-26D1|Sneeuw
-26D11|Lawine
-26D111|Bescherming tegen lawines
-26D2|Hagel
-26D3|IJzel, rijp
-26D4|IJs
-26D41|IJsgang (ijsschotsen)
-26D42|IJskegel
-26D5|Strenge winters indien gewenst in chronologische volgorde
+26D|mróz, mroźna pogoda
+#26D1|snow
+#26D11|avalanche
+#26D111|protection against avalanches
+#26D2|hail
+#26D3|glazed frost, hoar frost
+#26D4|ice ~ freezing weather
+#26D41|drift ice
+#26D42|icicle
+#26D5|severe winters
 #26D9|thaw
-26E|Onweersbui
-26E1|Onweer
-26E2|Weerlicht, bliksem, bliksemschicht
-26E21|Bliksemafleider
-26E22|Ongelukken met weerlicht
-26E3|Andere elektrische waterverschijnselen
-26E31|St. Elmsvuur
-26E32|Noorderlicht, ‘aurora borealis’
-26F|Mooi en slecht weer
-26F1|Mooi weer
+26E|burza
+#26E1|thunder
+#26E2|lightning, flash of lightning, thunderbolt
+#26E21|lightning conductor
+#26E22|accidents with lightning
+#26E3|other electrical weather phenomena
+#26E31|St. Elmo's fire
+#26E32|northern lights, 'aurora borealis'
+26F|dobra i zła pogoda
+#26F1|good weather
 #26F10|'Salubrità o purità dell'aria' (Ripa)
-26F11|Zonnesteek
+#26F11|heat-wave
 #26F111|sunstroke
-26F2|Slecht weer
-26F21|Koudegolf
-26F22|‘Pruina’, winterweer
+#26F2|bad weather
+#26F21|cold-wave
+#26F22|'Pruina', winter weather
 #26F3|consequences of weather, e.g. After the drought, Before the storm, After the cyclone
-26G|Luchtspiegeling, ‘fata morgana’
-26H|andere metereologische verschijnselen
-29|Surrealia, surrealistische voorstellingen
-29A|Dieren die als mensen handelen
-29A1|‘Mundus inversus’, de omgekeerde wereld ,de topsy-turvy World, le monde bestourné
+26G|miraż, fatamorgana
+26H|inne zjawiska meteorologiczne
+29|surrealia; przedstawienia surrealistyczne
+29A|zwierzęta działające jak ludzie
+#29A1|'mundus inversus', the reversed world, the topsy-turvy world, 'le monde bestourné'
 #29A2|plants or trees acting as, or being compared with human beings
-29B|Planten die zich gedragen als mensen of dieren
-29C|Voorwerpen die tot leven komen, bv. poppen, bomen
-29D|Natuurlijke vormen in stenen, hout, wolken enz., geïnterpreteerd als voorstellingen
-3|De mens, de mensheid in het algemeen
-31|de mens in algemene biologische zin
-31A|de (naakte) menselijke figuur: 'Corpo humano' (Ripa)
-31A1|canon, anatomie
+29B|rośliny zachowujące się jak istoty ludzkie lub zwierzęta
+29C|ożywione przedmioty, np. marionetki
+29D|naturalne kształty kamieni, drewna, chmur itp. interpretowane jako przedstawienia
+3|Istota ludzka, Człowiek w ogólności
+31|człowiek w ogólnym sensie biologicznym
+31A|(naga) postać ludzka; 'Corpo humano' (Ripa)
+#31A1|canon, proportions
 #31A11|standing figure (canon, proportions)
 #31A12|figure in circle or square, legs apart and arms raised or stretched sidewards
 #31A13|other systems or canons
@@ -3705,9 +3704,9 @@
 #31AA66|sweating, perspiration - AA - female human figure
 #31AA8|the body regarded as a machine - AA - female human figure
 #31AA9|ways pretending to cure or improve parts of the body - AA - female human figure
-31B|de menselijke geest
+31B|umysł, duch
 #31B0|symbolic representations, allegories and emblems ~ mind, spirit
-31B1|slaap; bewusteloosheid
+#31B1|sleeping; unconsciousness
 #31B10|'Sonno' (Ripa)
 #31B11|sleeping in bed
 #31B12|sleeping in chair
@@ -3722,9 +3721,9 @@
 #31B18|unconsciousness
 #31B181|fainting, swooning
 #31B19|resting
-31B2|visioen
+#31B2|vision
 #31B21|vision in trance or ecstasy
-31B3|droom
+#31B3|dream
 #31B31|nightmare
 #31B32|sleepwalking
 #31B33|prophetic dream
@@ -3812,8 +3811,8 @@
 #31BB18|unconsciousness - BB - out of doors
 #31BB181|fainting, swooning - BB - out of doors
 #31BB19|resting - BB - out of doors
-31C|geest tegenover lichaam
-31D|de leeftijden van de mens
+31C|duch (lub dusza) kontra ciało
+31D|życie ludzkie i jego okresy (młodość, dorosłość, starość itp.)
 #31D1|the ages of man
 #31D11|the first years ~ the ages of man
 #31D110|Infancy (alleg.)
@@ -3896,7 +3895,7 @@
 #31DD37|70-80 years - DD - decades above 100 years
 #31DD38|80-90 years - DD - decades above 100 years
 #31DD39|90-100 years - DD - decades above 100 years
-31E|de dood
+31E|śmierć istoty ludzkiej
 #31E1|dying
 #31E11|settlement of affairs ~ dying
 #31E111|making a testament
@@ -4157,7 +4156,7 @@
 #31EE238|seeking death, suicide - EE - death not certain; wounded person
 #31EE2381|self-sacrifice, death in the service of a higher purpose - EE - death not certain; wounded person
 #31EE2382|suicide out of despair - EE - death not certain; wounded person
-31F|de dood: symboliek en personificaties
+31F|symbole i personifikacje Śmierci
 #31F1|symbols of Death
 #31F11|death's head, skull (symbol of Death)
 #31F111|skull as danger signal
@@ -4185,7 +4184,7 @@
 #31FF25|Death as (rotting) corpse - FF - Death as female
 #31FF26|Death as skeleton - FF - Death as female
 #31FF27|Death as devilish being - FF - Death as female
-31G|de ziel
+31G|dusza
 #31G1|the soul during lifetime
 #31G2|the soul during death
 #31G3|the soul after death
@@ -4202,8 +4201,8 @@
 #31G36|the soul going to its last destination
 #31G361|devil carrying the soul off
 #31G4|the soul in eternity
-32|menselijke typen
-32A|de vier temperamenten
+32|typy ludzkie; narody i narodowości
+32A|typy ludzkie
 #32A1|the four temperaments; 'Complessione' (Ripa)
 #32A11|choleric temperament
 #32A110|'Colerico (per il fuoco)' (Ripa)
@@ -4237,7 +4236,7 @@
 #32A62|chirognomy
 #32A7|characters (human types)
 #32A8|passions, emotions, affections
-32B|menselijke rassen en nationaliteiten
+32B|rasy ludzkie; narody; narodowości
 #32B1|prehistoric man
 #32B11|reconstruction of prehistoric man
 #32B11(...)|reconstruction of prehistoric man (with NAME)
@@ -4291,9 +4290,9 @@
 #32B383|mestee, mestizo, i.e. offspring of Spanish and South-American Indian people
 #32B39|(still other) human races and peoples
 #32B39(...)|(still other) human races and peoples (with NAME)
-#32C|scientific classification of human races
-33|relaties tussen individuen
-33A|niet agressieve relaties (handen schudden, afscheid nemen)
+32C|naukowa klasyfikacja ras ludzkich
+33|relacje pomiędzy osobami
+33A|relacje nieagresywne
 #33A1|saluting
 #33A11|baring the head, lifting one's hat
 #33A12|shaking hands, 'dextrarum junctio'
@@ -4333,7 +4332,7 @@
 #33A711|unequal partners
 #33A8|double
 #33A81|stand-in
-33B|agressieve relaties (vechten, duelleren, doden)
+33B|relacje agresywne, wrogość, animozja
 #33B1|quarrel, argument
 #33B10|'Lite' (Ripa)
 #33B11|mocking, insulting; teasing
@@ -4355,7 +4354,7 @@
 #33B9|flight, running away; pursuing
 #33B90|'Fuga', 'Fuga popolare', 'Persecutione' (Ripa)
 #33B91|hiding, hiding oneself
-33C|relaties tussen de seksen (geliefden, prostitués, homoseksuelen)
+33C|relacje pomiędzy płciami
 #33C1|pernicious influence of women, 'femmes fatales'
 #33C11|Aristotle and Phyllis
 #33C12|Virgil in the basket
@@ -4541,8 +4540,8 @@
 #33CC6|homosexual love - CC - homosexual love between women: lesbianism
 #33CC61|pederasty, sexual contact between man and boy - CC - homosexual love between women: lesbianism
 #33CC62|sodomy, sexual contact between men - CC - homosexual love between women: lesbianism
-34|de relatie tussen mens en dier
-34A|het temmen en trainen van dieren
+34|człowiek i zwierzę
+34A|oswajanie i tresowanie zwierząt
 #34A1|friendship between man and animal; caressing, petting
 #34A11|taming, domestication of animals; tamed or domesticated animal
 #34A111|clipping the wings of a bird
@@ -4560,7 +4559,7 @@
 #34A43|earning money with guinea-pig
 #34A44|earning money with other animals
 #34A9|man tormenting animal(s)
-34B|huisdieren
+34B|zwierzęta domowe, trzymane wewnątrz domu i poza nim
 #34B1|domestic animals, kept in the house
 #34B11|dog
 #34B11(...)|dog (with NAME of kind)
@@ -4595,7 +4594,7 @@
 #34B41|aquarium
 #34B411|fish bowl
 #34B42|fish pond (in garden)
-34C|dierenbescherming
+34C|ochrona zwierząt
 #34C1|feeding wild animals
 #34C11|feeding wild animals in winter
 #34C12|providing water for wild animals during drought
@@ -4609,7 +4608,7 @@
 #34C4|defending animals against maltreatment
 #34C41|organizations for the defence of animals
 #34C5|veterinarian
-34D|controle en uitroeiing van schadelijke dieren (rattenvanger etc.)
+34D|kontrola i tępienie szkodników
 #34D1|eradication of injurious mammals
 #34D11|eradication of mice
 #34D111|mouse trap
@@ -4629,7 +4628,7 @@
 #34D4|control and eradication of other injurious animals
 #34D5|modern methods of eradication of injurious animals
 #34D51|spraying of chemical solutions (modern methods of eradication of injurious animals)
-34E|getemde, gevangen dieren
+34E|powściąganie zwierząt
 #34E1|dangerous wild animals ~ restraint of animals
 #34E11|lion's den
 #34E12|bear-pit
@@ -4638,7 +4637,7 @@
 #34E22|zoological garden, zoo, seen as place where non-domestic animals are kept
 #34E221|caretakers ~ zoological garden
 #34E3|animals tied up
-34F|de mens en wilde dieren
+34F|człowiek i (dzikie) zwierzę
 #34F1|animals threatening man
 #34F11|man struggling with animals
 #34F111|man struggling with animals as ornamental variant with antithetically placed animals (mostly lions)
@@ -4647,12 +4646,12 @@
 #34F14|(corpse of) man eaten by animals
 #34F2|animal taking care of man
 #34F21|animal taking care of foundling
-34G|de mens verkleed als dier
-35|pastorales, arcadische scènes
-#36|man and environment
-#36A|environmental conservation, protection
+34G|człowiek przebrany za zwierzę
+35|sceny pasterskie, arkadyjskie
+36|człowiek i środowisko
+36A|ochrona, zachowanie środowiska
 #36A1|environmental clean-up
-#36B|environmental destruction
+36B|niszczenie środowiska
 #36B1|environmental pollution
 #36B11|pollution ~ nature
 #36B111|air pollution

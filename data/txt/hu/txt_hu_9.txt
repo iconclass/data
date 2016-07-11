@@ -1,36 +1,36 @@
-9|古典神话与古代历史
-91|宇宙的起源，神譜，和人類的起源：有關創世神話
-#91A|宇宙成因〜古典神話
-#91A1|primeval deities, elementary gods ~ classical mythology
-#91A11|Uranus (Caelus), Heaven
-#91A12|Gaea (Ge), Earth
-#91A13|Pontus, Sea
-#91A14|other primeval deities
-#91A14(...)|other primeval deities (with NAME)
-#91A14(AION)|other primeval deities: Aion
-#91A14(CHAOS)|other primeval deities: Chaos
-#91A14(DEMOGORGON)|other primeval deities: Demogorgon
-#91A14(EREBUS)|other primeval deities: Erebus
-#91A14(NOX)|other primeval deities: Nox
-#91A2|separation of the elements by some creative force ~ classical mythology
-#91A21|creation of the earth ~ classical mythology
-#91A22|creation of the waters ~ classical mythology
-#91A23|creation of the air, winds and stars ~ classical mythology
-#91B|天王星和蓋亞（泰坦，獨眼巨人，Centimani）的後代
-#91B1|Titans
-#91B11|male Titans
-#91B111|(story of) Saturn (Cronus)
-#91B1111|(story of) Saturn (Cronus) - early life, prime youth
-#91B11111|(story of) Saturn (Cronus) - birth
-#91B11112|(story of) Saturn (Cronus) - infancy, upbringing
-#91B1112|love-affairs of Saturn
-#91B11121|Philyra beloved by Saturn, occasionally in the shape of a horse
-#91B11122|Rhea and Saturn
-#91B1113|(story of) Saturn (Cronus) - most important deeds
-#91B1114|aggressive, unfriendly activities and relationships of Saturn
-#91B11141|Saturn devouring his children
-#91B111411|Saturn devouring the stone, given to him by Rhea, instead of the new-born Jupiter
-#91B111412|Saturn disgorging his children
+9|klasszikus mitológia és Ókortörténeti
+91|mítoszt létrehozása: kozmogóniával, teogóniában és az ember eredetére
+91A|genezisét a világegyetem ~ klasszikus mitológia
+91A1|ősi istenségek, elemi istenek ~ klasszikus mitológia
+91A11|Uránusz (Caelus), Heaven
+91A12|Gája (Ge), a Föld
+91A13|Pontus, tenger
+91A14|Más ősi istenségek
+91A14(...)|Más ősi istenségek (névvel)
+91A14(AION)|Más ősi istenségek: Aion
+91A14(KÁOSZ)|Más ősi istenségek: Chaos
+91A14(Demogorgon)|Más ősi istenségek: Demogorgon
+91A14(Erebus)|Más ősi istenségek: Erebus
+91A14(NOX)|Más ősi istenségek: Nox
+91A2|szétválasztása az elemek valamilyen alkotó erő ~ klasszikus mitológia
+91A21|a föld teremtése ~ klasszikus mitológia
+91A22|létrehozását a vizek ~ klasszikus mitológia
+91A23|létrehozását a levegő, a szél és a csillagok ~ klasszikus mitológia
+91B|utódai Uránusz és Gaia (Titans, Cyclopes, Centimani)
+91B1|Titans
+91B11|férfi Titans
+91B111|(történet) Saturn (Cronus)
+91B1111|(történet) Saturn (Cronus) - az élet korai szakaszában, elsődleges ifjúsági
+91B11111|(történet) Saturn (Cronus) - születési
+91B11112|(történet) Saturn (Cronus) - gyerekcipőben jár, nevelés
+91B1112|szerelmi ügyeit Saturn
+91B11121|Philyra szeretett Saturn, esetenként az alakja egy ló
+91B11122|Rhea és a Szaturnusz
+91B1113|(történet) Saturn (Cronus) - legfontosabb tetteket
+91B1114|agresszív, barátságtalan tevékenységek és kapcsolatok a Szaturnusz
+91B11141|Saturn felfalja gyermekeit
+91B111411|Saturn felfalja a kő, adott neki Rhea, ahelyett, hogy az újszülöttek Jupiter
+91B111412|Saturn disgorging ő gyermekei
 #91B11142|Saturn castrating Uranus with a sickle; possibly combined with the birth of the Furies, the Giants, and the Meliae (from the blood that falls upon the earth)
 #91B1115|(story of) Saturn (Cronus) - non-aggressive, friendly or neutral activities and relationships
 #91B1116|suffering, misfortune of Saturn
@@ -173,7 +173,7 @@
 #91D11|Jupiter (and Juno) take possession of Heaven
 #91D12|Neptune takes possession of the sea
 #91D13|Pluto takes possession of the underworld
-#91E|人類起源
+#91E|origin of man
 #91E1|creation of man by some creative force
 #91E11|Vulcan creating man
 #91E12|Cura making man with a clod of earth
@@ -254,11 +254,11 @@
 #91E71|Deucalion and Pyrrha build an ark
 #91E72|when the waters subside, the ark of Deucalion and Pyrrha comes to rest on the top of a mountain
 #91E73|Deucalion and Pyrrha pray, usually at the shrine of Gaea-Themis
-92|神与女神
+#92|gods ~ classical mythology
 #92A|the Olympian gods together: Jupiter, Juno, Neptune, Ceres, Apollo, Diana, Mars, Venus, Mercury, Minerva, Vulcan, Vesta (or Bacchus)
 #92A1|groups of twelve gods of slightly different composition
-92B|大天神
-#92B1|朱庇特
+#92B|the great gods of Heaven, and their train
+#92B1|(story of) Jupiter (Zeus)
 #92B11|early life, prime youth of Jupiter
 #92B111|birth of Jupiter: he is hidden away by Rhea
 #92B112|infancy, upbringing of Jupiter
@@ -314,7 +314,7 @@
 #92B18(THUNDERBOLT)|attributes of Jupiter: thunderbolt
 #92B181|the eagle of Jupiter is given a drink by Ganymede, Hebe or others
 #92B19|(story of) Jupiter (Zeus) - offspring, companion(s), train etc.
-#92B2|火神（赫菲斯托斯）
+#92B2|(story of) Vulcan (Hephaestus)
 #92B21|early life, prime youth of Vulcan
 #92B211|early life, prime youth of Vulcan - birth
 #92B212|infancy, upbringing of Vulcan
@@ -354,7 +354,7 @@
 #92B29122|the Cyclopes handing over the arrows to Cupid
 #92B29123|the Cyclopes handing over Neptune's trident
 #92B292|Cedalion
-#92B3|阿波罗
+#92B3|(story of) Apollo (Phoebus)
 #92B31|early life, prime youth of Apollo
 #92B311|birth of Apollo: Latona gives birth to Apollo and Diana on the island of Delos
 #92B312|early life, prime youth of Apollo - infancy, upbringing
@@ -429,7 +429,7 @@
 #92B39117|fall of Phaethon; he is struck by a thunderbolt of Jupiter
 #92B39118|Phaethon is buried by nymphs
 #92B39119|other scenes from the story of Phaethon and the chariot of the sun
-#92B4|玛尔斯
+#92B4|(story of) Mars (Ares)
 #92B41|(story of) Mars (Ares) - early life, prime youth
 #92B411|(story of) Mars (Ares) - birth
 #92B412|(story of) Mars (Ares) - infancy, upbringing
@@ -459,7 +459,7 @@
 #92B491|Bellona (Enyo)
 #92B492|Pallor and Pavor (Deimus and Phobus)
 #92B493|Kydoimos
-#92B5|墨丘利
+#92B5|(story of) Mercury (Hermes)
 #92B51|early life, prime youth of Mercury
 #92B511|early life, prime youth of Mercury - birth
 #92B512|infancy, upbringing of Mercury
@@ -516,7 +516,7 @@
 #92BB321|Apollo and Cyparissus, usually with his stag
 #92BB322|Apollo and Hyacinthus
 #92BB3221|death of Hyacinthus: he is struck by a discus thrown by Apollo; possibly through jealousy of Zephyrus, who blows just as Apollo hurls the discus
-92C|大女天神
+#92C|the great goddesses of Heaven, and their train
 #92C1|(story of) Juno (Hera)
 #92C11|early life, prime youth of Juno
 #92C111|early life, prime youth of Juno - birth
@@ -543,7 +543,7 @@
 #92C18|attributes of Juno
 #92C18(...)|attributes of Juno (with NAME)
 #92C19|(story of) Juno (Hera) - offspring, companion(s), train etc.
-92C2|米诺娃
+#92C2|(story of) Minerva (Pallas, Athena)
 #92C21|early life, prime youth of Minerva
 #92C211|birth of Minerva; she emerges fully armed from Jupiter's head
 #92C212|early life, prime youth of Minerva - infancy, upbringing
@@ -575,7 +575,7 @@
 #92C281|Aegis: shield with Gorgon's head (attribute of Minerva)
 #92C2811|Aegis: breast-plate or skin with Gorgon's head (attribute of Minerva)
 #92C29|(story of) Minerva (Pallas, Athena) - offspring, companion(s), train etc.
-92C3|狄安娜
+#92C3|(story of) Diana (Artemis)
 #92C31|(story of) Diana (Artemis) - early life, prime youth
 #92C311|(story of) Diana (Artemis) - birth
 #92C312|(story of) Diana (Artemis) - infancy, upbringing
@@ -615,7 +615,7 @@
 #92C39211|Callisto with her child (Arcas), beheld by the jealous Juno
 #92C3922|other companions, nymphs of Diana
 #92C3922(...)|other companions, nymphs of Diana (with NAME)
-92C4|维纳斯
+#92C4|(story of) Venus (Aphrodite)
 #92C41|early life, prime youth of Venus
 #92C411|birth of Venus; Venus Anadyomene: after Uranus' castration Venus rises from the sea wringing the water from her hair; usually she is awaited by the Hours
 #92C4111|Venus, standing on a shell, sails with her veil over the water (alternatively she is riding on a dolphin): Venus Marina
@@ -690,8 +690,8 @@
 #92C59|offspring, companion(s), train etc. of Vesta
 #92C591|Vestal virgin(s)
 #92C5911|Vestal virgin buried alive when found guilty of fornication
-92D|小天神
-#92D1|丘比特
+#92D|lesser divinities of Heaven ~ serving and attendant environment
+#92D1|(story of) Cupid, Amor (Eros)
 #92D11|early life, prime youth of Cupid
 #92D111|early life, prime youth of Cupid - birth
 #92D112|infancy, upbringing of Cupid
@@ -792,7 +792,7 @@
 #92D19218|Psyche is carried up to Olympus by Mercury
 #92D192181|marriage of Cupid and Psyche
 #92D19219|other scenes from the story of Cupid and Psyche
-92D2|缪斯
+#92D2|Hours (Horae), Seasons
 #92D21|Hours ~ fertility, seasons
 #92D21(...)|Hours ~ fertility, seasons (with NAME)
 #92D22|Hours ~ ethical concepts
@@ -1886,7 +1886,7 @@
 #92N63|Phantasus, dream assuming the form of inanimate objects
 #92N7|other gods of the underworld
 #92N7(...)|other gods of the underworld (with NAME)
-93|诸神聚会与居所
+#93|meetings and dwellings of the gods
 #93A|meetings of the gods
 #93A1|banquets, feasts of the gods (in general)
 #93A11|banquets, feasts of the gods (outdoors)
@@ -1955,7 +1955,7 @@
 #93I|other dwellings of the gods
 #93I(...)|other dwellings of the gods (with NAME)
 #93I(PINDUS)|other dwellings of the gods: Pindus
-94|希腊英雄传说 (I)
+#94|the Greek heroic legends (I)
 #94A|the story of the Argonauts: the quest for the Golden Fleece
 #94A1|Jason, son of Aeson, in Iolcus
 #94A11|Jason on his way to Iolcus carries Juno, disguised as an old woman, across the river and loses a sandal
@@ -2887,7 +2887,7 @@
 #94T79|(story of) Oedipus - veneration, honoured by
 #94T8|(story of) Oedipus - attributes
 #94T9|(story of) Oedipus - offspring, companion(s), train etc.
-95|希腊英雄传说 (II)
+#95|the Greek heroic legends (II)
 #95A|the Greek heroic legends (II): heroes
 #95A(...)|the Greek heroic legends (II): heroes (with NAME)
 #95A(...)1|the Greek heroic legends (II): heroes (with NAME) - early life, prime youth
@@ -5240,7 +5240,7 @@
 #95B(TYRO)78|(story of) Tyro - triumph
 #95B(TYRO)79|(story of) Tyro - veneration, honoured by
 #95B(TYRO)8|(story of) Tyro - attributes
-96|罗马神诋与传说
+#96|Roman gods and legends
 #96A|Roman deities, and foreign deities included in the classical Pantheon
 #96A1|male Roman deities
 #96A11|Faunus
@@ -5937,7 +5937,7 @@
 #96D(TARPEIA)78|(story of) Tarpeia - triumph
 #96D(TARPEIA)79|(story of) Tarpeia - veneration, honoured by
 #96D(TARPEIA)8|(story of) Tarpeia - attributes
-97|变身
+#97|metamorphoses ~ classical mythology
 #97A|metamorphoses of male persons into trees
 #97A1|the Apulian shepherd changed into an oleaster: the Apulian shepherd is changed into an oleaster as punishment for mocking dancing nymphs (Ovid, Metamorphoses XIV 521)
 #97A2|Attis changed into a pine-tree: after castrating himself, Attis, the favourite of Cybele, is changed into a pine-tree (Ovid, Metamorphoses X 104)
@@ -6179,7 +6179,7 @@
 #97O71|Midas washes away the fatal gift in the river Pactolus
 #97O8|other metamorphoses of objects, plants or flowers
 #97O8(...)|other metamorphoses of objects, plants or flowers (with NAME)
-98|古代历史
+#98|classical history
 #98A|events and situations from classical history
 #98A(...)|events and situations from classical history (with DATE)
 #98B|male persons from classical history
@@ -9261,4 +9261,3 @@
 #98C(ZENOBIA)7|(story of) Zenobia, queen of Iberia - post-mortem occurrences ~ person from classical history
 #98C(ZENOBIA)8|(story of) Zenobia, queen of Iberia - fabulous, clearly legendary extensions ~ person from classical history
 #98C(ZENOBIA)9|(story of) Zenobia, queen of Iberia - portrait of person from classical history
-#

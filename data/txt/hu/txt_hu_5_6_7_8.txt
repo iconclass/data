@@ -1,48 +1,48 @@
-﻿5|抽象的思想與觀念
-#51|一般性
-#51A|存在與存在方式
-#51A1|存在
-#51A11|宇宙
-#51A2|物質性
-#51A3|具體
-#51A4|有, 在
-#51A5|固有的性質Intrinsic Nature, 本質Essence, 理念Idea (根據柏拉圖)
-#51A51|內在Interior, 內在性Interiority
-#51A6|原子性Elementariness, 不可還原性Irreducibility
-#51A7|完美Perfection, 完善Completeness; 'Perfettione', 'Operatione perfetta' (Ripa)
-#51A8|已知之事Things Known, 已知the Known
-#51AA|存在與存在方式 (相對的觀念)
-#51AA1|不存在
-#51AA2|非物質性
-#51AA3|抽象, 非實體性
-#51AA4|無, 不在
-#51AA5|情境Circumstance, 偶然性Accident
-#51AA51|外在Exterior, 外在性Exteriority
-#51AA6|構成Composition
-#51AA61|合成Synthesis
-#51AA7|不完美Imperfection, 不完善Incompleteness; 'Imperfettione' (Ripa)
-#51AA8|未知之事Things Unknown, 未知the Unknown
-#51B|關係的類型Kinds of Relation
-#51B1|關係Relation
-#51B2|相似性Similarity, Likeness
-#51B3|相等性Parity, Equality
-#51B4|均一性Uniformity
-#51B5|相同性Identity
-#51B6|模仿Imitation; 'Imitatione' (Ripa)
-#51B61|重複Repetition
-#51B7|正常性Normality
-#51BB|關係的類型 (相對的觀念)
-#51BB1|絕對, 無關係 Absoluteness, Non-relatedness
-#51BB2|非相似性Dissimilarity, Unlikeness
-#51BB3|非相等性, 區別Imparity, Inequality, Difference
-#51BB4|多樣性Multiformity, Variety
-#51BB5|相反性Contrariety; 'Contrarietà' (Ripa)
+5|Absztrakt ötletek és koncepciók
+51|Általánosságok
+51A|megléte és módok megléte
+51A1|megléte
+51A11|the Universe
+51A2|lényegesség
+51A3|konkrétumok
+51A4|Jelenlét
+51A5|belső természete, lényege, Idea (Platón szerint)
+51A51|Interior, Interiority
+51A6|Elementariness, irreducibilitás
+51A7|tökéletesség, a teljesség; "Perfettione", "Operatione perfetta" (Ripa)
+51A8|nevezett dolgokat, az ismert
+51AA|megléte és módok megléte (ellentétes fogalmak)
+51AA1|nemlét
+51AA2|anyagtalanság
+51AA3|elvontság, anyagtalanság
+51AA4|Semmi, távollét
+51AA5|körülmény, Accident
+51AA51|Külső, külsődlegesség
+51AA6|összetétele
+51AA61|szintézis
+51AA7|tökéletlenség, hiányos; "Imperfettione" (Ripa)
+51AA8|ismeretlen dolgok, az Ismeretlen
+51B|fajtái kapcsolat
+51B1|Kapcsolat
+51B2|Hasonlóság, HASONLÓ
+51B3|paritás, Egyenlőség
+51B4|egyenletessége
+51B5|Identity
+51B6|utánzat; "Imitatione" (Ripa)
+51B61|Ismétlés
+51B7|normalitás
+#51BB|Kinds of Relation (opposing concepts)
+#51BB1|Absoluteness, Non-relatedness
+#51BB2|Dissimilarity, Unlikeness
+#51BB3|Imparity, Inequality, Difference
+#51BB4|Multiformity, Variety
+#51BB5|Contrariety; 'Contrarietà' (Ripa)
 #51BB51|Ambivalence
-#51BB6|獨創性Originality
-#51BB61|獨特性Singularity, Uniqueness
-#51BB7|非正常性Abnormality
-#51C|因果
-#51C1|原因
+#51BB6|Originality
+#51BB61|Singularity, Uniqueness
+#51BB7|Abnormality
+#51C|Causation
+#51C1|Cause
 #51C2|Necessity, Inevitability; 'Necessità' (Ripa)
 #51CC|Causation (opposing concepts)
 #51CC1|Effect, Result
@@ -51,7 +51,7 @@
 #51CC13|Side-effect, Secondary Effect
 #51CC19|No Result, Lack of Result, Inefficacy, Futility
 #51CC2|Chance, Haphazard
-#51D|秩序與無序
+#51D|Order and Disorder
 #51D1|Order, Arrangement, Organization
 #51D2|Harmony, Regularity
 #51D21|Eurhythmy
@@ -68,7 +68,7 @@
 #51DD3|Asymmetry
 #51DD4|Ugliness
 #51DD5|Imbalance, Disequilibrium
-#51E|等級秩序
+#51E|Hierarchical Order
 #51E1|Independence, Autonomy
 #51E11|Freedom, Liberty; 'Libertà' (Ripa)
 #51E12|Liberation
@@ -82,7 +82,7 @@
 #51EE2|Inferiority
 #51EE3|Nonconformity
 #51EE4|Incoherence
-#51F|時間關係
+#51F|Temporal Relationship
 #51F1|Precedence
 #51F2|Continuity
 #51F3|Priority, Pre-eminence
@@ -110,7 +110,7 @@
 #51FF521|Delay
 #51FF6|Infrequency
 #51FF7|Irregularity of Recurrence
-#51G|物質的某些特性
+#51G|Some Characteristics of Matter
 #51G1|Largeness, Magnitude
 #51G2|Heaviness
 #51G3|Toughness
@@ -124,7 +124,7 @@
 #51GG4|Softness (matter)
 #51GG5|Invisibility
 #51GG6|Roughness
-#51H|量和度
+#51H|Quantity and Degree
 #51H1|Totality, the Whole
 #51H11|Indivisibility
 #51H2|Universality
@@ -143,7 +143,7 @@
 #51HH4|Lack, Deficiency
 #51HH41|Insufficiency
 #51HH5|Decrease
-#51I|空間
+#51I|Space
 #51I1|Limited, Defined Space
 #51I2|Fullness
 #51I3|Location, Position
@@ -158,7 +158,7 @@
 #51II4|Farness
 #51II5|Isolation
 #51II6|Low, Bottom
-#51K|各種變化
+#51K|Aspects of Change
 #51K1|Change
 #51K11|Reform; 'Riforma' (Ripa)
 #51K2|Mutability; 'Immutatione' (Ripa)
@@ -172,7 +172,7 @@
 #51KK11|Conservation; 'Conservatione' (Ripa)
 #51KK2|Immutability
 #51KK3|Interchange, Exchange
-#51L|各種運動
+#51L|Types of Motion
 #51L1|Motion
 #51L2|Regular Motion
 #51L3|Direction, Orientation
@@ -189,7 +189,7 @@
 #51LL41|Recession
 #51LL42|Motion From, Repulsive Force, Repulsion, Push
 #51LL5|Descent
-#51M|運動的質
+#51M|Quality of Motion
 #51M1|Fast Motion
 #51M11|Swiftness, Speed; 'Agilità', 'Celerità', 'Velocità' (Ripa)
 #51M12|Haste
@@ -197,8 +197,8 @@
 #51MM1|Slow Motion
 #51MM11|Slowness, Tardiness; 'Tardità' (Ripa)
 #51MM12|Lingering
-#52|推理和思想的形成
-#52A|心智和智能
+#52|Reasoning and Formation of Ideas
+#52A|Intelligence and Intellectual Faculties
 #52A1|Intellect, Intelligence; 'Intelletto', 'Intelligenza' (Ripa)
 #52A11|Attention, Concentration
 #52A12|Curiosity, Inquisitiveness, Desire of Knowledge; 'Curiosità' (Ripa)
@@ -247,7 +247,7 @@
 #52AA552|Intellectual Blindness; 'Cecità della Mente' (Ripa)
 #52AA553|Prejudice, Bias
 #52AA6|Falsehood
-#52B|推理
+#52B|Reasoning
 #52B1|Thinking, Thought, Reflection; 'Pensiero' (Ripa)
 #52B11|Contemplation
 #52B12|Brooding
@@ -284,7 +284,7 @@
 #52BB54|Baseless Speculation
 #52BB6|Frenzy
 #52BB61|Infatuation
-#52C|理解與誤解
+#52C|Understanding and Misunderstanding
 #52C1|Consideration; 'Consideratione' (Ripa)
 #52C11|Opinion
 #52C111|Public Opinion; 'Opinione' (Ripa)
@@ -304,7 +304,7 @@
 #52CC31|Refutation, Confutation, Disproving
 #52CC4|Misunderstanding, Incomprehension
 #52CC41|Error; 'Errore' (Ripa)
-#52D|想法的傳達 (質的方面)
+#52D|Communication of Thought (qualitative aspects)
 #52D1|Communication of Thought
 #52D2|Clarity, Precision
 #52D21|Conciseness
@@ -320,7 +320,7 @@
 #52DD21|Confusion, Obscurity; 'Confusione' (Ripa)
 #52DD22|Mystification
 #52DD3|Taciturnity; 'Secretezza', 'Secretezza overo Taciturnità' (Ripa)
-#52E|想法的傳達 (問題與答案)
+#52E|Communication of Thought (answer and question)
 #52E1|Response, Answer, Solution
 #52E2|Prediction, Prophecy; 'Augurio', 'Divinatione', 'Profetia' (Ripa)
 #52E21|Good Omen; 'Augurio buono' (Ripa)
@@ -329,8 +329,8 @@
 #52EE|Communication of Thought (answer and question) (opposing concepts)
 #52EE1|Asking, Question, Interrogation
 #52EE11|Inquiry, Investigation; 'Investigatione' (Ripa)
-#53|意願，意志
-#53A|意志的特徵
+#53|Will, Volition
+#53A|Characteristics of Will
 #53A1|Will; 'Volontà' (Ripa)
 #53A11|Choice; 'Elettione' (Ripa)
 #53A2|Perseverance, Resolution, Determination; 'Perseveranza' (Ripa)
@@ -344,7 +344,7 @@
 #53AA2|Irresolution; 'Irresolutione' (Ripa)
 #53AA21|Inconstancy; 'Incostanza', 'Instabilità', 'Instabilità overo Incostanza' (Ripa)
 #53AA22|Tergiversation
-#53B|意志的實現
+#53B|Acts of the Will
 #53B1|Acceptance
 #53B2|Decisiveness, Decision
 #53B3|Self-control; 'Dominio di se stesso' (Ripa)
@@ -363,7 +363,7 @@
 #53BB6|Indiscipline
 #53BB61|Laxity
 #53BB7|Non-observance
-#53C|權威與隸屬
+#53C|Authority and Subordination
 #53C1|Predominance
 #53C11|Authority, Power; 'Dominio', 'Giurisdittione' (Ripa)
 #53C12|Severity; 'Severità' (Ripa)
@@ -380,7 +380,7 @@
 #53CC3|Supplication; 'Supplicatione' (Ripa)
 #53CC31|Invocation; 'Invocatione' (Ripa)
 #53CC32|Pleading
-#53D|人與人之間的意志互動
+#53D|Intersocial Volition
 #53D1|Offer, Proposition
 #53D11|Permission
 #53D12|Favour; 'Favore' (Ripa)
@@ -390,18 +390,18 @@
 #53DD1|Refusal
 #53DD11|Prohibition
 #53DD2|Breach of Promise
-#54|行動過程
+#54|Process of Action
 #54A|State of Being while Doing
-#54A1|活動
+#54A1|Activity
 #54A11|Industriousness, Assiduity; 'Assiduità', 'Industria', 'Zelo' (Ripa)
-#54A2|細心, 勤奮; 'Diligenza' (Ripa)
+#54A2|Carefulness, Diligence; 'Diligenza' (Ripa)
 #54A21|Anxiety, Solicitude; 'Sollecitudine' (Ripa)
 #54A211|Scrupulosity; 'Scropolo' (Ripa)
-#54A3|有能力
+#54A3|Competence
 #54A31|Experience, Mastery; 'Esperienza' (Ripa)
 #54A32|Preparedness
 #54A33|Skill, Ability; 'Artificio', 'Prontezza' (Ripa)
-#54A4|冷靜, 平靜, 沉著
+#54A4|Calmness, Equanimity, Imperturbability
 #54A41|Continence; 'Continenza', 'Continenza militare' (Ripa)
 #54A42|Restraint
 #54A43|Temperance, Moderation; 'Misura' (Ripa)
@@ -410,27 +410,27 @@
 #54A45|Peaceableness
 #54A46|Rest; 'Quiete' (Ripa)
 #54A47|Peace of Mind, 'Aequitas'
-#54A5|好; 'Bontà' (Ripa)
-#54A51|給人好的影響; 'Genio Buono' (Ripa)
+#54A5|Goodness; 'Bontà' (Ripa)
+#54A51|Good Genius; 'Genio Buono' (Ripa)
 #54A52|Guiltlessness
-#54A6|有幫助
+#54A6|Helpfulness
 #54A7|Strength, Power; 'Fortezza', 'Fortezza d'Animo e di corpo', 'Fortezza del corpo congiunta con la generosità dell'animo', 'Fortezza & valore del corpo congiunto con la prudenza & virtù del animo', 'Forza' (Ripa)
 #54A71|Invincibility
 #54A72|Invulnerability
-#54A8|勇氣, 勇敢, 無畏, 男子氣概; 'Ardire magnanimo et generoso', 'Gagliardezza', 'Valore', 'Virtù heroica', 'Virtù dell'animo e del corpo' (Ripa)
+#54A8|Courage, Bravery, Valiance, Manliness; 'Ardire magnanimo et generoso', 'Gagliardezza', 'Valore', 'Virtù heroica', 'Virtù dell'animo e del corpo' (Ripa)
 #54A81|Fearlessness, Intrepidity; 'Intrepidità & Costanza' (Ripa)
 #54A82|Audacity, Temerity; 'Audacia' (Ripa)
 #54AA|State of Being while Doing (opposing concepts)
-#54AA1|不活動
+#54AA1|Inactivity
 #54AA11|Sluggishness, Inertia; 'Dapocaggine', 'Pigritia' (Ripa)
-#54AA2|粗心; 'Negligenza' (Ripa)
+#54AA2|Negligence; 'Negligenza' (Ripa)
 #54AA21|Indifference
-#54AA3|無能力
+#54AA3|Incompetence
 #54AA31|Inexperience
 #54AA32|Unpreparedness
 #54AA33|Inability, Maladroitness, Awkwardness
 #54AA34|Mediocrity
-#54AA4|激烈, 暴烈, 兇猛; 'Sforza con Inganno', 'Violenza' (Ripa)
+#54AA4|Vehemence, Violence, Fierceness; 'Sforza con Inganno', 'Violenza' (Ripa)
 #54AA41|Impulsion; 'Impeto' (Ripa)
 #54AA42|Wildness, Untamedness
 #54AA43|Intemperance, Immoderation
@@ -454,11 +454,11 @@
 #54B1211|Waiting for an Opportunity
 #54B1212|Missing an Opportunity
 #54B1213|Seizing an Opportunity
-#54B2|不可缺失
-#54B3|用途, 有用性; 'Utilità' (Ripa)
-#54B4|效率
-#54B5|重要, Preponderance
-#54B6|值得, 價值
+#54B2|Indispensability
+#54B3|Utility, Usefulness; 'Utilità' (Ripa)
+#54B4|Efficiency
+#54B5|Importance, Preponderance
+#54B6|Worth, Value
 #54BB|Means and Characteristics of Means (opposing concepts)
 #54BB1|Disuse
 #54BB11|Misuse, Misemployment
@@ -470,33 +470,33 @@
 #54BB4|Inefficiency
 #54BB5|Unimportance
 #54BB6|Worthlessness
-#54C|意圖, 目的, 目標
+#54C|Intention, Purpose, Aim
 #54C1|Purposefulness
 #54C11|Intention
 #54C12|Purpose, Aim
-#54C2|推薦, 勸誘, 煽動
+#54C2|Recommendation, Inducement, Incitement
 #54C21|Persuasion; 'Persuasione' (Ripa)
 #54C22|Appeal
-#54C3|影響
+#54C3|Influence
 #54C31|Example
-#54C4|誘惑; 'Tentatione' (Ripa)
+#54C4|Temptation; 'Tentatione' (Ripa)
 #54CC|Intention, Purpose, Aim (opposing concepts)
 #54CC1|Aimlessness
 #54CC11|Without Intention, Non-design, Unintendedness, Undeliberateness
 #54CC2|Discouragement
 #54CC21|Dissuasion
 #54CC22|Deterrence
-#54D|程序
-#54D1|準備
+#54D|Procedure
+#54D1|Preparation
 #54D11|Attempt, Trial
 #54D12|Exercise; 'Essercitio' (Ripa)
-#54D2|行動; 'Operatione manifesta' (Ripa)
+#54D2|Action; 'Operatione manifesta' (Ripa)
 #54D21|Practice; 'Prattica' (Ripa)
-#54D3|完成
+#54D3|Completion
 #54D31|Continuance
-#54D4|設備Facility
-#54D5|安全
-#54D6|風俗, 習慣; 'Consuetudine' (Ripa)
+#54D4|Facility
+#54D5|Safety
+#54D6|Custom, Habit; 'Consuetudine' (Ripa)
 #54DD|Procedure (opposing concepts)
 #54DD1|Improvisation
 #54DD2|Idleness; 'Otio' (Ripa)
@@ -510,16 +510,16 @@
 #54DD51|Danger; 'Pericolo' (Ripa)
 #54DD52|Risk; 'Ardire ultimo & necessario' (Ripa)
 #54DD6|Desuetude
-#54E|相互的行動
-#54E1|合作, 協作
+#54E|Reciprocal Action
+#54E1|Co-operation, Association
 #54E11|Necessity of Mutual Co-operation
-#54E2|引導
+#54E2|Guidance
 #54E3|Accord, Accordance
 #54E31|Agreement, Unity; 'Concordia', 'Concordia insuperabile', 'Concordia militare', 'Concordia di Pace', 'Unione civile' (Ripa)
 #54E32|Compliance
-#54E4|抵抗
-#54E41|自我保護
-#54E42|保護; 'Custodia', 'Difesa contra nimici, malefici & venefici', 'Difesa contra pericoli', 'Riparo da i tradimenti' (Ripa)
+#54E4|Defence
+#54E41|Self-defence
+#54E42|Protection; 'Custodia', 'Difesa contra nimici, malefici & venefici', 'Difesa contra pericoli', 'Riparo da i tradimenti' (Ripa)
 #54E43|Preservation, Sustenance; 'Salvezza', 'Sostanza' (Ripa)
 #54EE|Reciprocal Action (opposing concepts)
 #54EE1|Non co-operation
@@ -530,8 +530,8 @@
 #54EE32|Defiance
 #54EE33|Competition, Rivalry, Emulation; 'Emulatione' (Ripa)
 #54EE4|Attack
-#54F|幸運與不幸
-#54F1|成功; 'Evento buono' (Ripa)
+#54F|Fortune and Misfortune
+#54F1|Success; 'Evento buono' (Ripa)
 #54F11|Welfare, Prosperity; 'Felicità publica', 'Prosperità della vita', 'Salute' (Ripa)
 #54F12|Luck, Fortune, Lot; 'Fato', 'Fortuna', 'Fortuna aurea', 'Fortuna buona', 'Fortuna pacifica overo clemente', 'Sorte' (Ripa)
 #54F121|Turn of Fate, Wheel of Fortune
@@ -539,7 +539,7 @@
 #54F13|Progress, Improvement, Recovery
 #54F131|Renovation
 #54F14|Advantage
-#54F2|勝利
+#54F2|Victory
 #54FF|Fortune and Misfortune (opposing concepts)
 #54FF1|Failure
 #54FF11|Adversity, Misfortune, Bad Luck; 'Fortuna infelice', 'Infortunio' (Ripa)
@@ -548,22 +548,22 @@
 #54FF14|Disadvantage
 #54FF15|Submission; 'Forza minore da maggior forza superata' (Ripa)
 #54FF2|Defeat
-#55|財產
-#55A|獲取與失去
+#55|Property
+#55A|Acquisition and Loss
 #55A1|Acquisition, Gain, Profit
 #55A11|Retention
 #55A12|Reward, 'Praemium'; 'Premio', 'Remuneratione' (Ripa)
 #55AA|Acquisition and Loss (opposing concepts)
 #55AA1|Loss
 #55AA11|Relinquishment, Abandonment of Property
-#55B|擁有
+#55B|Possession
 #55B1|Wealth, Opulence; 'Opulenza', 'Richezza' (Ripa)
 #55B2|Luxury, Luxuriousness
 #55B3|'Not too poor, not too rich'
 #55BB|Possession (opposing concepts)
 #55BB1|Poverty; 'Povertà', 'Povertà del doni', 'Povertà in uno ch'habbia bell'ingegno' (Ripa)
 #55BB2|Scarcity; 'Carestia' (Ripa)
-#55C|使用財產
+#55C|Use of Property
 #55C1|Spending
 #55C11|Squandering, Extravagance, Prodigality, Waste; 'Prodigalità' (Ripa)
 #55C2|Giving
@@ -580,15 +580,15 @@
 #55CC3|Borrowing, Hiring
 #55CC4|Restitution; 'Restitutione' (Ripa)
 #55CC5|Withholding, Keeping to oneself
-#56|情感
-#56A|情緒
+#56|Emotion
+#56A|Feeling
 #56A1|Sensation, Sensibility, Sensitivity
 #56A2|Excitation
 #56A21|Ecstasy, Exaltation
 #56AA|Feeling (opposing concepts)
 #56AA1|Insensibility, Insensitivity
 #56AA11|Impassibility; 'Impassibilità' (Ripa)
-#56B|喜悅與悲傷
+#56B|Joy and Sorrow
 #56B1|Pleasure, Enjoyment, Joy; 'Allegrezza', 'Allegrezza da le medaglie', 'Allegrezza, letitia e giubilo', 'Diletto', 'Piacere', 'Piacere honesto' (Ripa)
 #56B11|Mirth, Hilarity
 #56B12|Jovialness
@@ -620,19 +620,19 @@
 #56BB35|Frustration
 #56BB4|Disgust, Dislike, Repulsion, Nausea
 #56BB41|Satiety
-#56C|審美感
-#56C1|美感
-#56C2|贊美
-#56C3|靈感; 'Ispiratione' (Ripa)
+#56C|Aesthetic Sense
+#56C1|Sense of Beauty
+#56C2|Admiration
+#56C3|Inspiration; 'Ispiratione' (Ripa)
 #56CC|Aesthetic Sense (opposing concepts)
 #56CC1|Insensibility to Beauty
 #56CC2|Depreciation
-#56D|希望與恐懼
-#56D1|希望; 'Speranza', 'Speranza delle fatiche' (Ripa)
-#56D2|信賴
+#56D|Hope and Fear
+#56D1|Hope; 'Speranza', 'Speranza delle fatiche' (Ripa)
+#56D2|Trust
 #56D21|Refuge; 'Refugio' (Ripa)
 #56D29|Misplaced Trust, False Confidence, 'Pax Falsa'; 'Speranza fallace' (Ripa)
-#56D3|信心, 安心, 安寧; 'Confidenza', 'Sicurezza e Tranquillità', 'Sicurtà', 'Sicurtà o Sicurezza', 'Tranquillità' (Ripa)
+#56D3|Confidence, Security, Tranquillity; 'Confidenza', 'Sicurezza e Tranquillità', 'Sicurtà', 'Sicurtà o Sicurezza', 'Tranquillità' (Ripa)
 #56D31|Self-confidence
 #56D32|Commitment
 #56DD|Hope and Fear (opposing concepts)
@@ -644,22 +644,22 @@
 #56DD32|Alarm, Fright; 'Spavento', 'Terrore' (Ripa)
 #56DD33|Confusion, Bewilderment, Panic; 'Perturbatione' (Ripa)
 #56DD34|Horror, Abhorrence
-#56E|憤怒與溫和
-#56E1|惱怒
+#56E|Anger and Meekness
+#56E1|Irritation
 #56E11|Indignation; 'Sdegno' (Ripa)
-#56E2|盛怒, 憤怒
+#56E2|Rage, Anger
 #56E21|Irascibility
-#56E3|暴怒; 'Furore', 'Furore implacabile', 'Furore & Rabbia', 'Furore superbo & Indomito' (Ripa)
+#56E3|Fury; 'Furore', 'Furore implacabile', 'Furore & Rabbia', 'Furore superbo & Indomito' (Ripa)
 #56EE|Anger and Meekness (opposing concepts)
 #56EE1|Forbearance
 #56EE2|Meekness; 'Mansuetudine' (Ripa)
-#56F|慾望與厭惡
-#56F1|慾望; 'Desiderio' (Ripa)
+#56F|Desire and Aversion
+#56F1|Desire; 'Desiderio' (Ripa)
 #56F11|Ambition; 'Ambitione', 'Amor di Fama' (Ripa)
 #56F12|Contento ~ Malcontento: the pursuit of Happiness
 #56F13|(Feeling of) Attraction
 #56F131|Power of Attraction
-#56F2|(人格化的和象徵符號化的表現) 愛情; 'Amore (secondo Seneca)' (Ripa)
+#56F2|(personifications and symbolic representations of) Love; 'Amore (secondo Seneca)' (Ripa)
 #56F21|Neighbourly Love; 'Amor del Prossimo' (Ripa)
 #56F211|Brotherly Love
 #56F22|Reciprocal Love
@@ -690,8 +690,8 @@
 #56FF21|Indifference towards Love; 'Oblivione d'amore' (Ripa)
 #56FF22|Unrequited Love
 #56FF23|Enmity; 'Inimicitia', 'Inimicitia mortale' (Ripa)
-#57|道德
-#57A|好的與壞的行為, 道德品質
+#57|Morality
+#57A|Good and Bad Behaviour, Moral Qualities
 #57A1|Good Behaviour
 #57A2|Sense of Duty, Devotion to Duty
 #57A21|Duty
@@ -800,7 +800,7 @@
 #57AA9|Brutality
 #57AA91|Cruelty, Ferocity; 'Crudeltà', 'Ferocità' (Ripa)
 #57AA92|Infamy; 'Sciagurataggine' (Ripa)
-#57B|行為判斷
+#57B|Judgment of Conduct
 #57B1|Praise, Approbation, Approval; 'Lode' (Ripa)
 #57B11|Rewarding Goodness
 #57B2|Respect, Reverence, Esteem
@@ -825,8 +825,8 @@
 #57BB25|Calumny, Detraction; 'Biasimo vitioso', 'Calunnia', 'Detrattione', 'Maledicenza' (Ripa)
 #57BB251|Calumny of Apelles: bad judge with ass's ears on throne, with Deceit, Envy, Ignorance, Suspicion and Treachery, confronted with innocent accused; Remorse and Truth present
 #57BB3|Accusation, Incrimination
-#58|創造
-#58A|創造與毀壞
+#58|Creation
+#58A|Creation and Destruction
 #58A1|Originating
 #58A2|Procreation
 #58A3|Fruitfulness, Productiveness, Fertility, Fecundity; 'Fecondità' (Ripa)
@@ -836,7 +836,7 @@
 #58AA12|Self-destruction
 #58AA2|Non-procreation
 #58AA3|Unproductiveness, Fruitlessness, Lost Labour, Wasted Labour
-#58B|生命力與死亡的必然
+#58B|Vitality and Mortality
 #58B1|Vitality, Viability, Vital Force
 #58B11|Germination
 #58B2|Life
@@ -851,8 +851,8 @@
 #58B6|Instinct, Natural Disposition; 'Instinto naturale' (Ripa)
 #58BB|Vitality and Mortality (opposing concepts)
 #58BB1|Mortality, Extinction of Life
-#59|社會行為諸方面
-#59A|人 ~ 社會團體
+#59|Aspects of Social Conduct
+#59A|Man ~ Community
 #59A1|Sociality
 #59A2|Refinement, Taste
 #59A3|Propriety, Decorum; 'Decoro' (Ripa)
@@ -864,7 +864,7 @@
 #59AA3|Vulgarity
 #59AA4|Affectation, Mannerism
 #59AA5|Inhospitality
-#59B|社會地位
+#59B|Social Position
 #59B1|Everyman, 'Elckerlyc'
 #59B2|Advancement, Promotion
 #59B3|Repute, Renown; 'Splendore del nome' (Ripa)
@@ -885,7 +885,7 @@
 #59BB34|Ingloriousness
 #59BB4|Despicableness
 #59BB5|Demerit
-#59C|公正與不公正
+#59C|Justice and Injustice
 #59C1|Maintenance of the Law
 #59C2|Justice; 'Forza alla giustitia sottoposta', 'Giustitia', 'Giustitia retta', 'Giustitia rigorosa', 'Impietà e violenza soggetta alla giustitia' (Ripa)
 #59C21|Equality, Equity, Fairness, Righteousness; 'Equalità', 'Equità', 'Giuditio giusto', 'Ordine dritto e giusto', 'Ugualità' (Ripa)
@@ -900,100 +900,100 @@
 #59CC22|Partiality; 'Partialità' (Ripa)
 #59CC221|Corruptibility, Venality, Corruption
 #59CC3|Illegality
-6|歷史
-#61|歷史事件與歷史情境; 歷史人物
-#61A|歷史事件與歷史情境
-#61A(...)|歷史事件與歷史情境 (日期)
-#61B|歷史人物 (portraits and scenes from the life)
-#61B1|佚名歷史人物
-#61B11|佚名歷史人物肖像
-#61B111|佚名歷史人物單人肖像
-#61B112|佚名歷史人物雙人肖像
-#61B113|佚名歷史人物群像
-#61B12|場景 ~ 佚名歷史人物
-#61B121|與佚名歷史人物生平或生平故事直接相關的場景
-#61B122|虛構的場景 ~ 佚名歷史人物
-#61B2|歷史人物
-#61B2(...)|歷史人物 (姓名)
-#61B2(...)1|歷史人物 (姓名) - 歷史人物肖像
-#61B2(...)11|歷史人物 (姓名) - 歷史人物(姓名)單人肖像
-#61B2(...)12|歷史人物 (姓名) - 歷史人物(姓名)雙人肖像
-#61B2(...)13|歷史人物 (姓名) - 歷史人物(姓名)群像
-#61B2(...)2|歷史人物 (姓名) - 場景 ~ 歷史人物 (姓名)
-#61B2(...)21|歷史人物 (姓名) - 與歷史人物生平或生平故事直接相關的場景 (姓名)
-#61B2(...)22|歷史人物 (姓名) - 虛構的場景 ~ 歷史人物 (姓名)
-#61B2(...)3|歷史人物 (姓名) - 其它類型的描繪附有一個歷史人物的姓名 (姓名)
-#61BB|歷史人物 (姓名) (肖像和生活場景) - BB - 女性
-#61BB1|佚名歷史人物 - BB - 女性
-#61BB11|佚名歷史人物肖像 - BB - 女性
-#61BB111|佚名歷史人物單人肖像 - BB - 女性
-#61BB112|佚名歷史人物雙人肖像 - BB - 女性
-#61BB113|佚名歷史人物群像 - BB - 女性
-#61BB12|場景 ~ 佚名歷史人物 - BB - 女性
-#61BB121|與佚名歷史人物生平或生平故事直接相關的場景 - BB - 女性
-#61BB122|虛構的場景 ~ 佚名歷史人物 - BB - 女性
-#61BB2|歷史人物 - BB - 女性
-#61BB2(...)|歷史人物 (姓名) - BB - 女性
-#61BB2(...)1|歷史人物 (姓名) - BB - 女性 - 歷史人物肖像
-#61BB2(...)11|歷史人物 (姓名) - BB - 女性 - 歷史人物(姓名)單人肖像
-#61BB2(...)12|歷史人物 (姓名) - BB - 女性 - 歷史人物(姓名)雙人肖像
-#61BB2(...)13|歷史人物 (姓名) - BB - 女性 - 歷史人物(姓名)群像
-#61BB2(...)2|歷史人物 (姓名) - BB - 女性 - 場景 ~ 歷史人物 (姓名)
-#61BB2(...)21|歷史人物 (姓名) - BB - 女性 - 與歷史人物生平或生平故事直接相關的場景 (姓名)
-#61BB2(...)22|歷史人物 (姓名) - BB - 女性 - 虛構的場景 ~ 歷史人物 (姓名) 
-#61BB2(...)3|歷史人物 (姓名) - BB - 女性 - 其它類型的描繪附有一個歷史人物的姓名 (姓名)
-#61C|植物和動物的正式名字?proper names of plants and animals
-#61C1|植物的正式名字
-#61C1(...)|植物的正式名字 (名字)
-#61C2|動物的正式名字
-#61C2(...)|動物的正式名字 (名字)
-#61D|國家, 地區, 山川等等地名
-#61D(...)|國家, 地區, 山川等等地名 (不包括城市和鄉村的地名) (地名)
-#61E|城市和鄉村的地名
-#61E(...)|城市和鄉村的地名 (地名)
-#61F|歷史上的建築物, 地點, 街道等地名
-#61F(...)|歷史上的建築物, 地點, 街道等地名 (地名)
-#61G|器物的名稱
-#61G(...)|器物的名字 (不包括建築物) (名字)
-#61H|社會組織, 公司, 貿易會所等名字
-#61H(...)|社會組織, 公司, 貿易會所等名字 (名字)
-#61I|歷史事件與歷史情境的名字
-#61I(...)|歷史事件與歷史情境的名字 (名字)
-#61K|(其它) 歷史名字
-#61K(...)|(其它) 歷史名字 (名字)
-#62|未來的願景
-7|圣经
-#71|舊約
-#71A|創世紀從創造天地到被逐出樂園, 以及亞當和夏娃的後來
-#71A1|'In the beginning ...' the ordering of chaos (Genesis 1:1-2)
-#71A11|the earth formless and desolate
-#71A12|the spirit of God moves upon the waters
-#71A2|the six days of creation (Genesis 1:3-25)
-#71A21|division of light and darkness
-#71A22|creation of the firmament and division of the waters above and below it
-#71A23|gathering of the waters below the firmament; dry land appears and produces all kinds of plants
-#71A231|creation of vegetation (alone)
-#71A24|creation of sun, moon and stars
-#71A25|creation of the animals ~ Genesis
-#71A251|creation of birds and fishes
-#71A252|creation of land-animals
-#71A3|creation of man; the Garden of Eden (Genesis 1:26 - 2)
-#71A31|God fashions man from clay
-#71A311|the man (Adam) comes to life: usually God reaches out his hand or breathes life into his nostrils
-#71A32|God planting the Garden of Eden
-#71A321|Garden of Eden, paradise
-#71A3211|the four rivers of paradise (springing from a fountain)
-#71A32111|Pison (river of Paradise)
-#71A32112|Gihon (river of Paradise)
-#71A32113|Tigris (Hiddekel) (river of Paradise)
-#71A32114|Euphrates (river of Paradise)
-#71A3212|the tree of life and the tree of knowledge of good and evil
-#71A32121|the tree of life in the Garden of Eden
-#71A32122|the tree of knowledge of good and evil (whose fruit, usually apples or figs, brings death); the tree may be guarded by the serpent
-#71A33|Adam in the Garden of Eden
-#71A331|God brings Adam to paradise
-#71A332|God speaks to Adam
-#71A333|Adam naming the animals
+6|Történelem
+61|történelmi események és helyzetek; történelmi személyek
+61A|történelmi események és helyzetek
+61A (...)|történelmi események és helyzetek (a Dátum)
+61B|történelmi személyek (portrék és életéből vett jeleneteket)
+61B1|Történelmi személyek nem nevezett
+61B11|névtelen történelmi személy ábrázolt
+61B111|névtelen történelmi személy ábrázolt egyedül
+61B112|névtelen történelmi személyek ábrázolta kettős portré
+61B113|névtelen történelmi személyek ábrázolta egy csoport, a csoport-portré
+61B12|jelenetek ~ névtelen történelmi személy (ek)
+61B121|jelenet közvetlenül kapcsolódik az élet vagy az élet-történet névtelen személy
+61B122|fiktív jelenet ~ névtelen történelmi személy (ek)
+61B2|Történelmi személyek
+61B2(...)|történelmi személy (névvel)
+61B2(...)1|történelmi személy (névvel) - történelmi személy (ek) ábrázolják
+61B2(...)11|történelmi személy (névvel) - történelmi személy (névvel) ábrázolják egyedül
+61B2(...)12|történelmi személy (névvel) - történelmi személy (névvel) egy kettős-portré
+61B2(...)13|történelmi személy (névvel) - történelmi személy (névvel) ábrázolta egy csoport, a csoport-portré
+61B2(...)2|történelmi személy (névvel) - jelenet ~ történelmi személy (ek) (a személy neve)
+61B2(...)21|történelmi személy (névvel) - a jelenet közvetlenül kapcsolódik az élet, vagy az élet-történet (a személy neve)
+61B2(...)22|történelmi személy (névvel) - fiktív jelenet ~ történelmi személy (a személy neve)
+61B2(...)3|történelmi személy (névvel) - az egyéb nyilatkozatokat, amelyeknek a nevét egy történelmi személy lehet kötni (a személy neve)
+61BB|történelmi személyek (portrék és életéből vett jelenetek) - BB - nő
+61BB1|Történelmi személyek nem nevezett - BB - nő
+61BB11|névtelen történelmi személy ábrázolt - BB - nő
+61BB111|névtelen történelmi személy ábrázolt egyedül - BB - nő
+61BB112|névtelen történelmi személyek ábrázolta kettős portré - BB - nő
+61BB113|névtelen történelmi személyek ábrázolta egy csoport, a csoport-portré - BB - nő
+61BB12|jelenetek ~ névtelen történelmi személy (ek) - BB - nő
+61BB121|jelenet közvetlenül kapcsolódik az élet vagy az élet-történet névtelen személy - BB - nő
+61BB122|fiktív jelenet ~ névtelen történelmi személy (ek) - BB - nő
+61BB2|történelmi személyek - BB - nő
+61BB2(...)|történelmi személy (névvel) - BB - nő
+61BB2(...)1|történelmi személy (névvel) - BB - nő - történelmi személy (ek) ábrázolják
+61BB2(...)11|történelmi személy (névvel) - BB - nő - történelmi személy (névvel) ábrázolják egyedül
+61BB2(...)12|történelmi személy (névvel) - BB - nő - történelmi személy (névvel) egy kettős-portré
+61BB2(...)13|történelmi személy (névvel) - BB - nő - történelmi személy (névvel) ábrázolta egy csoport, a csoport-portré
+61BB2(...)2|történelmi személy (névvel) - BB - nő - jelenet ~ történelmi személy (ek) (a személy neve)
+61BB2(...)21|történelmi személy (névvel) - BB - nő - jelenet közvetlenül kapcsolódik az élet, vagy az élet-történet (a személy neve)
+61BB2(...)22|történelmi személy (névvel) - BB - nő - fiktív jelenet ~ történelmi személy (a személy neve)
+61BB2(...)3|történelmi személy (névvel) - BB - nő - az egyéb nyilatkozatokat, amelyeknek a nevét egy történelmi személy lehet kötni (a személy neve)
+61C|tulajdonnevek növények és állatok
+61C1|tulajdonnevek növények
+61C1(...)|tulajdonnevek növények (névvel)
+61C2|tulajdonnevek állatok
+61C2(...)|tulajdonnevek állatok (névvel)
+61D|földrajzi nevek országok, régiók, hegyek, folyók, stb
+61D(...)|A földrajzi nevek országok, régiók, hegyek, folyók, stb (nevét a városok és falvak kivételével) (névvel)
+61E|neveit városok, falvak
+61E(...)|neveit városok, falvak (névvel)
+61F|neveit történelmi épületek, helyszínek, utcák, stb
+61F(...)|neveit történelmi épületek, helyszínek, utcák, stb (névvel)
+61G|neveit műtárgyak és ember alkotta tárgyak
+61G(...)|neveit műtárgyak és ember alkotta tárgyak (épületek kivételével) (névvel)
+61H|neveit szervezetek, vállalatok, szakszervezetek, stb
+61H(...)|neveit szervezetek, vállalatok, szakszervezetek, stb (névvel)
+61I|neveket a történelmi események és helyzetek
+61I(...)|neveket a történelmi események és helyzetek (névvel)
+61K|(egyéb) történelmi nevek
+61K(...)|(egyéb) történelmi nevek (névvel)
+62|jövőképek
+7|Bible
+71|Ószövetség
+71A|Genesis a létrehozása a kiutasítás paradicsoma, és a későbbi években Ádám és Éva
+71A1|"Kezdetben ..." A rendelési káosz (1Mózes 1-2)
+71A11|a föld alaktalan és kietlen
+71A12|az Isten lelke mozgatja a vizeken
+71A2|A teremtés hat napja (1Mózes 3-25)
+71A21|részlege fény és a sötétség
+71A22|létrehozását az ég és a szétválás a vizek felette és alatta
+71A23|összegyűjtésével alatti vizeket az égbolt; szárazföldet jelenik meg, és gyárt mindenféle növények
+71A231|létrehozását növényzet (egyedül)
+71A24|létrehozását Nap, a Hold és a csillagok
+71A25|létrehozását az állatok ~ Genesis
+71A251|létrehozását madarak és halak
+71A252|létrehozását szárazföldi állatok
+71A3|létrehozását az ember; A Garden of Eden (Mózes 1:26 - 2)
+71A31|Isten divat férfi agyagból
+71A311|A férfi (Ádám) megelevenedik: általában Isten kinyújtja a kezét, vagy életet lehel az orrát
+71A32|Isten ültetés a Garden of Eden
+71A321|Garden of Eden, paradicsom
+71A3211|A paradicsom négy folyója (sarjadó egy szökőkút)
+71A32111|Pison (folyó Paradise)
+71A32112|Gihon (folyó Paradise)
+71A32113|Tigris (Hiddekel) (folyó Paradise)
+71A32114|Eufrátesz (folyó Paradise)
+71A3212|A fa az élet és a tudás fájáról a jó és a gonosz
+71A32121|Az élet fája az Édenkert
+71A32122|tudás fájának a jó és a gonosz (amelynek gyümölcse, általában almát vagy fügét, halált hoz); A fa lehet őrzik a kígyó
+71A33|Ádám az Édenkertben
+71A331|Isten hozza Ádám a paradicsomba
+71A332|Isten szól Ádámnak
+71A333|Adam elnevezési az állatok
 #71A34|creation of Eve
 #71A341|God removes a rib from the side of the sleeping Adam
 #71A342|Eve is fashioned from Adam's rib
@@ -1084,7 +1084,7 @@
 #71A9122|Adam's tomb
 #71A913|death of Eve
 #71A92|story of Seth
-#71B|創世紀從該隱和塞特的後代到亞拉伯罕
+#71B|Genesis from the descendants of Cain and Seth to Abraham
 #71B1|the descendants of Cain, the Cainites (Genesis 4:18-24)
 #71B11|story of Enoch, son of Cain
 #71B12|story of Irad
@@ -1168,7 +1168,7 @@
 #71B422|destruction of the Tower of Babel
 #71B4221|the confusion of languages and the scattering of people over the earth ~ story of the Tower of Babel
 #71B42211|the ruins of the Tower of Babel
-#71C|創世紀:先祖們
+#71C|Genesis: the patriarchs
 #71C1|story of Abraham
 #71C11|story of Abraham (part I)
 #71C111|Abraham's youth (Genesis 11:29-32)
@@ -1520,7 +1520,7 @@
 #71C342|Jacob and Esau parting; Esau moves with all his possessions to Edom
 #71C343|the descendants of Seir the Horite, the original inhabitants of Edom
 #71C344|the kings who reigned in Edom
-#71D|創世紀: 約瑟的故事
+#71D|Genesis: the story of Joseph
 #71D1|story of Joseph (part I)
 #71D11|Joseph incurs the hatred of his brothers (Genesis 37:1-11)
 #71D111|Joseph tending the sheep and goats with his brothers
@@ -1678,7 +1678,7 @@
 #71D26|later years of Joseph (Genesis 50:15-26)
 #71D261|Joseph's brothers fear the possible vengeance of Joseph and beg his forgiveness
 #71D262|Joseph's death
-#71E|出埃及記, 利未記, 民數記, 申命記, 約書亞記: 從在埃及的以色列人的勞苦到定居迦南地
+#71E|Exodus, Leviticus, Numbers, Deuteronomy, Joshua: from the bondage of the Israelites in Egypt to their settlement in Canaan
 #71E1|the book Exodus: story of Moses and Aaron
 #71E11|Exodus (part I): events preceding and preparing the exit of Israel from Egypt
 #71E111|oppression of the Israelites in Egypt (Exodus 1)
@@ -2195,7 +2195,7 @@
 #71EE114232|miracle of the leprous hand ~ Moses and the burning bush - EE - Mary in the burning bush
 #71EE114233|miracle of the water changed to blood ~ burning bush - EE - Mary in the burning bush
 #71EE114234|Moses is given a rod - EE - Mary in the burning bush
-#71F|士師記
+#71F|the time of the Judges
 #71F1|Judges 1-5
 #71F11|from Joshua's death to Othniel (Judges 1-2)
 #71F111|Judah appointed to fight against the Canaanites at the beginning of the time of the Judges
@@ -2578,7 +2578,7 @@
 #71F84321|anger of Samuel
 #71F84322|Samuel communicating with God
 #71F84323|Samuel speaking to the elders about the rights of kingship
-#71G|掃羅記story of Saul
+#71G|story of Saul
 #71G1|Saul chosen as king (1 Samuel 9-12)
 #71G11|Samuel and Saul
 #71G111|Saul instructed by his father to seek the lost asses
@@ -2671,7 +2671,7 @@
 #71G433|Saul's war against Edom
 #71G434|Saul's war against Zobah
 #71G44|Saul victoriously returns to Gibeah after the wars
-#71H|大衛記story of David
+#71H|story of David
 #71H1|David as a young man at Saul's court
 #71H11|David chosen as king by God (1 Samuel 16:1-13)
 #71H111|Samuel communicating with God when he is about to anoint David
@@ -3253,7 +3253,7 @@
 #71H961|plundering of David's grave
 #71H9611|plundering of David's grave by Johannes Hyrcanus
 #71H9612|plundering of David's grave by Herod the Great
-#71I|所羅門記story of Solomon
+#71I|story of Solomon
 #71I1|Solomon and Bathsheba
 #71I11|Solomon enthroned
 #71I111|Solomon and his court
@@ -3390,7 +3390,7 @@
 #71I81|burial of Solomon
 #71I811|Solomon's grave
 #71I9|Rehoboam appointed successor of Solomon
-#71K|王國的分裂, 和以色列王國, 即北方王國記
+#71K|division of the Kingdom, and story of Israel, the Northern Kingdom
 #71K1|division of the Kingdom (Israel and Judah) (1 Kings 12:1-19; 2 Chronicles 10)
 #71K11|Rehoboam, Solomon's son, comes to Shechem where the people of Northern Israel have gathered to make him king
 #71K12|Jeroboam returns from exile in Egypt
@@ -3585,7 +3585,7 @@
 #71K432|lions sent by God kill some of the new inhabitants of Samaria
 #71K433|an Israelite priest, deported to Assyria, is sent back to Bethel where he teaches the people how to worship God
 #71K434|the Samaritans worship God but continue to worship their own gods as well
-#71L|王國的分裂: 南方王國記 (猶太)
+#71L|the divided kingdom: story of the Southern Kingdom (Judah)
 #71L1|story of the kings and kingdom of Judah (part I)
 #71L11|story of Rehoboam, king of Judah (1 Kings 12:21-24, 14:21-31)
 #71L111|Shemaiah's prophecy
@@ -3856,7 +3856,7 @@
 #71L334|eighty men who came to offer sacrifice in the temple are killed and their bodies thrown into a well (Jeremiah 41:4-7)
 #71L335|Johanan and the rest of the Judaeans flee to Egypt (Jeremiah 41:16-18)
 #71L4|the Babylonian Captivity of the Jews
-#71M|以利亞記story of Elijah (Elias)
+#71M|story of Elijah (Elias)
 #71M1|Elijah at the brook Cherith (1 Kings 17:1-6)
 #71M11|Elijah announces to King Ahab that God will bring a long drought in the land to avenge the apostasy of Israel
 #71M12|Elijah fed by the raven(s): while the prophet is living by the brook, ravens bring him food
@@ -3932,7 +3932,7 @@
 #71M91|birth of Elijah
 #71M911|two angels swaddle the infant Elijah in flames
 #71M92|Enoch receives Elijah into heaven
-#71N|以利沙記story of Elisha (Eliseus)
+#71N|story of Elisha (Eliseus)
 #71N1|seven miracles of assistance ~ story of Elisha (Eliseus)
 #71N11|the water of Jericho is purified: when the citizens of Jericho complain about their water, Elisha puts some salt into a jar; he then throws the salt into the water (2 Kings 2:19-22)
 #71N12|the widow's oil: the little oil a woman has in store increases so that she and her son are able to fill many borrowed jars with it (2 Kings 4:1-7)
@@ -3999,8 +3999,8 @@
 #71N621|burial of Elisha
 #71N7|Elisha's bones (2 Kings 13:21)
 #71N71|during a funeral a band of ransacking Moabites is seen approaching and the corpse is thrown hastily into Elisha's tomb; when it touches Elisha's bones the man comes back to life
-#71O|先知 (巴比倫囚虜之前和之中)
-#71O1|阿摩司書the book of Amos
+#71O|prophets (before and during the Babylonian Captivity)
+#71O1|the book of Amos
 #71O11|Amos, the herdsman of Tekoa, prophesies at Bethel (Amos 1-2)
 #71O111|the Lord will roar from Zion ~ prophecy of Amos
 #71O112|the Lord will send a fire into the house of Hazael
@@ -4017,14 +4017,14 @@
 #71O14|Amos is killed by Amaziah, a priest at Bethel
 #71O19|other scenes from Amos
 #71O19(...)|other scenes from Amos (with BOOK CHAPTER:VERSE)
-#71O2|何西阿書the book of Hosea
+#71O2|the book of Hosea
 #71O21|the Lord speaks to Hosea 'Go, take yourself a wife of harlotry ...' (Hosea 1:2)
 #71O22|Hosea, Gomer and the three children (Hosea 1:3-11)
 #71O221|the marriage of Hosea and the whore Gomer
 #71O222|the first son of Hosea and Gomer is born; the Lord tells Hosea to name him Jezreel
 #71O23|Hosea and the adulteress (Hosea 3)
 #71O24|Hosea's prophecies; Israel reproved and threatened for its impiety and idolatry (Hosea 4-14)
-#71O3|以賽亞書the book of Isaiah
+#71O3|the book of Isaiah
 #71O31|Isaiah communicating with God
 #71O311|prayer of Isaiah and apparition of God (Isaiah 26:9, 45:6)
 #71O32|Isaiah's visions
@@ -4063,7 +4063,7 @@
 #71O37(Is. 21:11)|'Watchman, what of the night?'
 #71O37(Is. 53:7)|'like a lamb to the slaughter'
 #71O37(Is. 62:6)|the watchmen on the walls of Jerusalem
-#71O4|米迦書the book of Micah
+#71O4|the book of Micah
 #71O41|Micah is called by the Lord to prophesy (Micah 1:1)
 #71O42|Micah's prophecies
 #71O421|many nations shall ascend the mountain of the Lord ~ Micah's prophecies (Micah 4:2)
@@ -4072,7 +4072,7 @@
 #71O424|Micah's prophecy concerning Bethlehem (Micah 5:2)
 #71O425|other prophecies of Micah
 #71O425(...)|other prophecies of Micah (with BOOK CHAPTER:VERSE)
-#71O5|西番雅書the book of Zephaniah
+#71O5|the book of Zephaniah
 #71O51|Zephaniah is called by the Lord to prophesy (Zephaniah 1:1)
 #71O52|Zephaniah's prophecies
 #71O521|the Lord will destroy man and beast, birds and fishes ~ Zephaniah's prophecies (Zephaniah 1:3)
@@ -4081,13 +4081,13 @@
 #71O524|Zephaniah's prophecy of the destruction of Nineveh (Zephaniah 2:13-15)
 #71O525|other prophecies of Zephaniah
 #71O525(...)|other prophecies of Zephaniah (with BOOK CHAPTER:VERSE)
-#71O6|哈巴谷書the book of Habakkuk
+#71O6|the book of Habakkuk
 #71O61|Habakkuk communicating with God (Habakkuk 1)
 #71O62|Habakkuk is told to write his vision (Habakkuk 2:2)
 #71O63|Habakkuk's prophecies
 #71O63(...)|Habbakuk's prophecies (with BOOK CHAPTER:VERSE)
 #71O64|Habakkuk's prayer (Habakkuk 3)
-#71O7|耶利米書the book of Jeremiah
+#71O7|the book of Jeremiah
 #71O71|the calling of Jeremiah (Jeremiah 1:4-19)
 #71O711|the Lord touches Jeremiah's lips
 #71O712|Jeremiah's vision of the rod of almond
@@ -4188,14 +4188,14 @@
 #71O784|Jeremiah stoned to death
 #71O79|other scenes ~ the book of Jeremiah
 #71O79(...)|other scenes ~ the book of Jeremiah (with BOOK CHAPTER:VERSE)
-#71O8|那鴻書the book of Nahum
+#71O8|the book of Nahum
 #71O81|Nahum's prophecies
 #71O811|announcement of the fall of Nineveh ~ prophecy of Nahum
 #71O8111|Nineveh full of carcasses and corpses (Nahum 3:3)
 #71O812|prophecy of a messenger who brings good tidings, and announces peace (Nahum 1:15)
 #71O813|other prophecies of Nahum
 #71O813(...)|other prophecies of Nahum (with BOOK CHAPTER:VERSE)
-#71O9|以西結書the book of Ezekiel
+#71O9|the book of Ezekiel
 #71O91|the calling of Ezekiel (Ezekiel 1-3)
 #71O911|Ezekiel's vision of God sitting on his throne carried by four tetramorphs, each of them having four wings; wheels within wheels beside them
 #71O9111|Habakkuk ~ Ezekiel's vision of God
@@ -4267,7 +4267,7 @@
 #71O97|other scenes from the book of Ezekiel not meant or mentioned above
 #71O97(...)|other scenes from the book of Ezekiel not meant or mentioned above (with BOOK CHAPTER:VERSE)
 #71O97(Ez. 13:18)|Ezekiel condemning the women that sew pillows to all armholes
-#71P|但以利先知記; 他的願景和預言
+#71P|the story of the prophet Daniel; his visions and prophecies
 #71P1|Daniel and King Nebuchadnezzar
 #71P11|Israelites (usually four) are brought before the prince of eunuchs because King Nebuchadnezzar wants to have them educated in the palace (Daniel 1)
 #71P111|Daniel and his three friends are educated in the palace by Melzar
@@ -4386,7 +4386,7 @@
 #71P6|prophetic passages in the book of Daniel
 #71P6(...)|prophetic passages in the book of Daniel (with BOOK CHAPTER:VERSE)
 #71P6(Dan. 12:1)|the archangel Michael, who shall deliver the Israelites ~ prophetic passages in the book of Daniel
-#71Q|以斯帖記
+#71Q|the story of Esther
 #71Q1|the dream of Mordecai: two fighting dragons appear, a righteous nation is about to be attacked by evil nations, and a little spring turns into a great river (Esther 11:2-12)
 #71Q2|Esther becomes queen (Esther 1 - 2:20)
 #71Q21|the feast of Ahasuerus (Xerxes, alternatively Artaxerxes); the downfall of Queen Vashti (Astin)
@@ -4477,7 +4477,7 @@
 #71QQ7411|King Ahasuerus gets up in a fury and goes into the palace garden - QQ - Mordecai present
 #71QQ742|Haman begs Esther for his life - QQ - Mordecai present
 #71QQ7421|as Haman is kneeling at Esther's feet or is prostrated on her couch King Ahasuerus returns; Haman is condemned to be hanged - QQ - Mordecai present
-#71R|以斯拉, 尼希米, the books of Ezra, Nehemiah, and Esdras
+#71R|the books of Ezra, Nehemiah, and Esdras
 #71R1|return from the Babylonian Captivity
 #71R11|Cyrus, king of Persia, puts and end to the Babylonian Captivity (Ezra 1)
 #71R111|God speaks to Cyrus
@@ -4584,7 +4584,7 @@
 #71R44|Ezra commanded to write prophecies (2 Esdras 15:1-2)
 #71R5|other scenes from Ezra and Esdras
 #71R5(...)|other scenes from Ezra and Esdras (with BOOK CHAPTER:VERSE)
-#71S|先知 (巴比倫囚虜之後)
+#71S|prophets (after the Babylonian Captivity)
 #71S1|the book of Haggai
 #71S11|Haggai, urged by God, exhorts Zerubbabel and Joshua to resume the building of the temple (Haggai 1:1-11)
 #71S111|the old temple of Jerusalem lying waste ~ book of Haggai
@@ -4652,7 +4652,7 @@
 #71S63|Baruch brings the collection of money to Jerusalem (Baruch 1:7-14)
 #71S64|the epistle of Jeremiah (Baruch 6)
 #71S641|Jeremiah exposing idols
-#71T|托比特書
+#71T|the book of Tobit
 #71T1|the marriage of Tobit and Anna (Tobit 1:1-9)
 #71T11|Tobit and Anna with their son Tobias
 #71T12|Tobit reads to Anna from the bible
@@ -4733,7 +4733,7 @@
 #71T8|death of Tobit: on his deathbed he speaks to Tobias and his seven sons (Tobit 14)
 #71T9|other scenes ~ the book of Tobit
 #71T9(...)|other scenes ~ the book of Tobit (with BOOK CHAPTER:VERSE)
-#71U|犹滴書
+#71U|the book of Judith
 #71U1|Nebuchadnezzar fights Arphaxad (Judith 1)
 #71U11|the Median king Arphaxad has the city of Ecbatana fortified
 #71U12|Nebuchadnezzar, king of Assyria, sends ambassadors to the neighbouring states to ask for military aid against Arphaxad
@@ -4792,7 +4792,7 @@
 #71U5|other scenes ~ the book of Judith
 #71U5(...)|other scenes ~ the book of Judith (with BOOK CHAPTER:VERSE)
 #71U5(Judith 16:23)|Judith's death
-#71V|約拿書
+#71V|the book of Jonah
 #71V1|Jonah's call and disobedience (Jonah 1)
 #71V11|Jonah is sent by God to Nineveh to preach to its sinful citizens
 #71V12|to escape the assigned task by God Jonah boards a ship about to go to Tarshish
@@ -4816,7 +4816,7 @@
 #71V42|the prophet Jonah withdraws from Nineveh; he builds a booth and while enjoying the shade of a plant (gourd or vine) which God made grow for him, he awaits the destiny of the city
 #71V43|the gourd (or vine) is eaten by a worm and Jonah is exposed to the burning rays of the sun
 #71V44|when Jonah again murmurs and wishes to die, God rebukes him
-#71W|約伯書
+#71W|the book of Job
 #71W1|Job's wealth and piety (Job 1:1-5)
 #71W11|Job's wealth
 #71W111|Job's children, seven sons and three daughters
@@ -4890,8 +4890,8 @@
 #71W75|Job thanking the Lord
 #71W76|Job's death
 #71W761|Job's ascension
-#71X|詩歌書: 詩篇和所羅門的歌
-#71X1|詩篇書
+#71X|the lyric books: Psalms and Song of Solomon
+#71X1|the book of Psalms
 #71X1(...)|the book of Psalms (with BOOK CHAPTER:VERSE)
 #71X1(...)1|the book of Psalms (with BOOK CHAPTER:VERSE) - the book of Psalms ~ scenes from the Old Testament
 #71X1(...)2|the book of Psalms (with BOOK CHAPTER:VERSE) - the book of Psalms ~ scenes from the New Testament
@@ -4943,8 +4943,8 @@
 #71X23|Solomon's bed guarded by sixty soldiers (Song of Solomon 3:7-10)
 #71X24|Tower of David (Song of Solomon 4:4)
 #71X25|the sealed fountain in the enclosed garden (Song of Solomon 4:12)
-#71Y|智慧書
-#71Y1|箴言書
+#71Y|the books of Wisdom
+#71Y1|the book of Proverbs
 #71Y1(...)|the book of Proverbs (with BOOK CHAPTER:VERSE)
 #71Y1(Prov. 20:1)|'wine is a mocker ...' ~ drunken brawl
 #71Y1(Prov. 31:18-19)|'her lamp does not go out at night and her hands hold the spindle' ~ woman spinning at night
@@ -4962,7 +4962,7 @@
 #71Y4(...)|the book of Ecclesiasticus, the wisdom of Jesus Sirach (with BOOK CHAPTER:VERSE)
 #71Y4(Eccles. 30:1)|'he who loves his son will whip him often' ~ father spanking his son
 #71Y4(Eccles. 44:16)|'Enoch ... was taken up' ~ Enoch's translation
-#71Z|瑪加伯(書)(books of the) Maccabees
+#71Z|(books of the) Maccabees
 #71Z1|first book of the Maccabees (part I)
 #71Z11|Antiochus IV Epiphanes robbing the temple of its treasures (1 Maccabees 1:21-23)
 #71Z12|Mattathias kills a Jew, who wanted to offer sacrifices to pagan gods, and pulls down the altar in Modin (1 Maccabees 2:23-26)
@@ -5026,10 +5026,10 @@
 #71Z52|King Ptolemy IV Philopator tries to have the Jews killed by drunken elephants; the Jews pray and are saved by two angels (3 Maccabees 5)
 #71Z6|fourth book of the Maccabees (4 Maccabees)
 #71Z6(...)|fourth book of the Maccabees (with BOOK CHAPTER:VERSE)
-#72|預表並置與構成
-#72A|預表並置
-#72B|全面性預表並置
-#73|新約
+#72|typological juxtapositions and compositions
+#72A|typological juxtapositions
+#72B|comprehensive typological compositions
+#73|New Testament
 #73A|(scenes from the life of) John the Baptist and Mary
 #73A(...)|series of scenes from the life of John the Baptist and Mary (with NAME)
 #73A(JOHN THE BAPTIST)|series of scenes from the life of John the Baptist
@@ -6923,55 +6923,54 @@
 #73G573|the tree of life with its twelve kinds of fruit ~ Revelation
 #73G6|John adoring the angel after the Revelation
 #73GG411|a pregnant woman, clothed with the sun and standing on the moon, appears; she is threatened by a red dragon with a long tail and seven heads - GG - Mary as the apocalyptic woman
-8|文學
-81|系列文學作品
-81(...)|系列文學作品 (名稱)
-#81(ARTHURIAN LEGEND)|《亞瑟王傳奇》
-#81(KALEVALA)|《卡勒瓦拉》
-#81(NIBELUNGENLIED)|《尼貝龍根之歌》
-#81A|《亞瑟王傳奇》 : 使用 81(ARTHURIAN LEGEND)
-#81A(...)|《亞瑟王傳奇》中的男性人物 : 使用 82A(...)
-#81B|'Nibelungenlied' : 使用　81(NIBELUNGENLIED)
-#81B(...)|《尼貝龍根之歌》中的男性人物 : 使用　82A(...)
-#81C|但丁, 《神曲》 : 使用　83(DANTE, Divina Commedia)
-#81C(...)|《神曲》中的男性人物 : 使用　82A(...)
-#81D|薄伽丘, 《十日談》 : 使用　83(BOCCACCIO, Decamerone)
-#81D(...)|《十日談》中的男性人物 : 使用　82A(...)
-#81E|阿里奧斯托, 《瘋狂的奧蘭多》 : 使用　83(ARIOSTO, Orlando Furioso)
-#81E(...)|《瘋狂的奧蘭多》中的男性人物 : 使用　82A(...)
-#81F|塔索, 《耶路撒冷的解放》 : 使用　83(TASSO, Gerusalemme Liberata)
-#81F(...)|《耶路撒冷的解放》中的男性人物 : 使用　82A(...)
-#81G|《莪相詩集》 : 使用　83(MACPHERSON, Poems of Ossian)
-#81G(...)|《莪相詩集》中的男性人物 : 使用　82A(...)
-#81H|其它系列文學作品 : 使用　81(...)
-#81H(...)|其它系列文學作品 (作品, 人物名) : 使用　81(...)
-#81H(KALEVALA)|《卡勒瓦拉》 : Use 81(KALEVALA)
-#81H(KALEVALA, Lemminkäinen)|藍敏凱寧Lemminkäinen : 使用　82A(...)
-82|文学作品中的人物
-#82A|文学作品中人物的姓名
-#82A(...)|文学作品中男性人物的姓名 (姓名)
-#82A(AHASVERUS)|亞哈維魯斯，漂泊的猶太人
-#82A(ALBOIN)|阿爾博因國王
-#82A(AMADIS DE GAULA)|高盧的阿瑪迪斯
-#82A(AMINTA)|阿民塔
-#82A(ARTHUR)|亞瑟王
+8|Irodalom
+81|irodalmi ciklusok
+81(...)|irodalmi ciklus (névvel ciklus)81(ARTHURIAN LEGEND)|'Arthurian legend'
+#81(KALEVALA)|'Kalevala'
+#81(NIBELUNGENLIED)|'Nibelungenlied'
+#81A|Arthurian legend : Use 81(ARTHURIAN LEGEND)
+#81A(...)|male characters from Arthurian legend : Use 82A(...)
+#81B|'Nibelungenlied' : Use 81(NIBELUNGENLIED)
+#81B(...)|male characters from the 'Nibelungenlied' : Use 82A(...)
+#81C|Dante, 'Divina Commedia' : Use 83(DANTE, Divina Commedia)
+#81C(...)|male characters from the 'Divina Commedia' : Use 82A(...)
+#81D|Boccaccio, 'Decameron' : Use 83(BOCCACCIO, Decamerone)
+#81D(...)|male characters from the 'Decameron' : Use 82A(...)
+#81E|Ariosto, 'Orlando Furioso' : Use 83(ARIOSTO, Orlando Furioso)
+#81E(...)|male characters from 'Orlando Furioso' : Use 82A(...)
+#81F|Tasso, 'Gerusalemme Liberata' : Use 83(TASSO, Gerusalemme Liberata)
+#81F(...)|male characters from 'Gerusalemme Liberata' : Use 82A(...)
+#81G|'The Poems of Ossian' : Use 83(MACPHERSON, Poems of Ossian)
+#81G(...)|male characters from 'The Poems of Ossian' : Use 82A(...)
+#81H|other cycles : Use 81(...)
+#81H(...)|other cycles (with NAME of CYCLE, Character) : Use 81(...)
+#81H(KALEVALA)|'Kalevala' : Use 81(KALEVALA)
+#81H(KALEVALA, Lemminkäinen)|Lemminkäinen : Use 82A(...)
+#82|literary characters and objects
+#82A|names of literary characters
+#82A(...)|male literary characters (with NAME)
+#82A(AHASVERUS)|Ahasverus, the wandering Jew
+#82A(ALBOIN)|King Alboin
+#82A(AMADIS DE GAULA)|Amadís de Gaula
+#82A(AMINTA)|Aminta
+#82A(ARTHUR)|King Arthur
 #82A(ATLANTE)|Atlante
-#82A(BAJAZET)|巴雅澤
-#82A(BANQUO)|班柯
-#82A(BARON MÜNCHAUSEN)|孟喬森男爵
-#82A(BELISARIUS)|貝利薩里烏斯
-#82A(CARLO)|卡羅
+#82A(BAJAZET)|Bajazet
+#82A(BANQUO)|Banquo
+#82A(BARON MÜNCHAUSEN)|Baron Münchausen
+#82A(BELISARIUS)|Belisarius
+#82A(CARLO)|Carlo
 #82A(CIMON)|Cimon
-#82A(DANTE)|但丁
-#82A(DAPHNIS)|達佛尼斯　(希臘神話中的一個發明田園詩的牡羊人)
-#82A(DIETRICH VON BERN)|狄特里希·封·貝爾恩 (人物取材於狄奧多里克大帝 (c.454-c.526), 東哥特王)
-#82A(DON JUAN)|唐璜
-#82A(DON QUIXOTE)|唐吉诃德
+#82A(DANTE)|Dante
+#82A(DAPHNIS)|Daphnis (in Greek mythology a shepherd who invented pastoral poetry
+#82A(DIETRICH VON BERN)|Dietrich von Bern (character based upon Theodoric the Great (c.454-c.526), king of the Ostrogoths)
+#82A(DON JUAN)|Don Juan
+#82A(DON QUIXOTE)|Don Quixote
 #82A(ENYAS)|Enyas
-#82A(EULENSPIEGEL)|奧倫斯匹格
-#82A(EUSTAZIO)|尤斯塔基奥
-#82A(FALSTAFF)|法斯塔夫
-#82A(FAUST)|浮士德
+#82A(EULENSPIEGEL)|Eulenspiegel
+#82A(EUSTAZIO)|Eustazio
+#82A(FALSTAFF)|Falstaff
+#82A(FAUST)|Faust
 #82A(FERRAU)|Ferraù (also known as Ferragù, Ferragut, Ferracute and Ferragus)
 #82A(FILIPPO'S SON)|Filippo's son
 #82A(FINGAL)|Fingal, king of Morven, father of Ossian
@@ -7040,8 +7039,8 @@
 #82A(WIGALOIS)|Wigalois
 #82A(WILLEHALM)|Willehalm
 #82A(WILLIAM TELL)|William Tell
-#82AA|文学作品中女性人物的姓名
-#82AA(...)|文学作品中女性人物的姓名 (姓名)
+#82AA|female literary characters
+#82AA(...)|female literary characters (with NAME)
 #82AA(ALATIEL)|Alatiel
 #82AA(ALCINA)|Alcina, evil sorceress
 #82AA(ANGELICA)|Angelica
@@ -7080,8 +7079,8 @@
 #82AA(PRECIOSA)|Preciosa
 #82AA(ROSAMUND)|Rosamund
 #82AA(SOFRONIA)|Sofronia
-#82B|虛構動物，植物，器物等名字
-#82B(...)|虛構動物，植物，器物等名字 (名字)
+#82B|names of fictional animals, plants, objects, etc.
+#82B(...)|fictional animals, plants, objects, etc. (with NAME)
 #82B(BAIARDO)|Baiardo, the horse of Rinaldo
 #82B(BALISARDA)|Balisarda, the sword of Ruggiero
 #82B(BRIGLIADORO)|Brigliadoro, the horse of Orlando; also known as Veillantif and Vegliantino
@@ -7091,67 +7090,67 @@
 #82B(FUSBERTA)|Fusberta, the sword of Rinaldo; also known as Froberge and Floberge
 #82B(RABICANO)|Rabicano, the horse of Astolfo
 #82B(SACHS)|Sachs, the sword of Dietrich von Bern
-#83|具體文學作品specific works of literature
-#83(...)|(場景)　具體文學作品 (作者姓名, 作品名)
-#83(ANON., Busant)|(場景) 具體文學作品: 佚名, Busant
-#83(ANON., Romaunt of the Rose)|(場景)　具體文學作品: 佚名, Romaunt of the Rose : Use 83 (LORRIS ET MEUN, Roman de la Rose)
-#83(ARIOSTO, Orlando Furioso)|(場景)　具體文學作品: 阿里奧斯托, 《瘋狂的奧蘭多》
-#83(BERNARDIN DE SAINT-PIERRE, Paul et Virginie)|(場景)　具體文學作品: Bernardin de Saint-Pierre, Paul et Virginie
-#83(BOCCACCIO, Decamerone)|(場景)　具體文學作品: Boccaccio, Decamerone
-#83(BRANT, Ship of Fools)|(場景)　具體文學作品: Brant, Ship of Fools
-#83(BREDERO, Lucelle)|(場景)　具體文學作品: Bredero, Lucelle
-#83(BREDERO, Moortje)|(場景)　具體文學作品: Bredero, Moortje
-#83(BYRON, Bride of Abydos)|(場景)　具體文學作品: Byron, Bride of Abydos
-#83(BYRON, Corsaire)|(場景)　具體文學作品: Byron, Corsaire
-#83(CHATEAUBRIAND, Atala)|(場景)　具體文學作品: Chateaubriand, Atala
-#83(COLONNA, Hypnerotomachia Poliphili)|(場景)　具體文學作品: Colonna, Hypnerotomachia Poliphili
-#83(D'URFE, Astrée)|(場景)　具體文學作品: D'Urfé, Astrée
-#83(DANTE, Divina Commedia)|(場景)　具體文學作品: Dante, Divina Commedia
-#83(DEFOE, Robinson Crusoe)|(場景)　具體文學作品: Defoe, Robinson Crusoe
-#83(DESMARETS DE SAINT-SORLIN, Ariane)|(場景)　具體文學作品: Desmarets de Saint-Sorlin, Ariane
-#83(DIEGO DI SAN PEDRO, Carcel de Amor)|(場景)　具體文學作品: Diego di San Pedro, Carcel de Amor
-#83(FLAUBERT, Tentation de Saint Antoine)|(場景)　具體文學作品: Flaubert, Tentation de Saint Antoine
-#83(FOUQUE, Zauberring)|(場景)　具體文學作品: Fouqué, Zauberring
-#83(GOETHE, Faust)|(場景)　具體文學作品: Goethe, Faust
-#83(GOETHE, Werther)|(場景)　具體文學作品: Goethe, Werther
-#83(GUARINI, Pastor Fido)|(場景)　具體文學作品: Guarini, Pastor Fido
-#83(HELIODORUS, Aethiopica)|(場景)　具體文學作品: Heliodorus, Aethiopica
-#83(HOOFT, Granida)|(場景)　具體文學作品: Hooft, Granida
-#83(IBSEN, Peer Gynt)|(場景)　具體文學作品: Ibsen, Peer Gynt
-#83(LORRIS ET MEUN, Roman de la Rose)|(場景)　具體文學作品: Lorris et Meun, Roman de la Rose
-#83(MACPHERSON, Poems of Ossian)|(場景)　具體文學作品: Macpherson, Poems of Ossian
-#83(MANZONI, Promessi Sposi)|(場景)　具體文學作品: Manzoni, Promessi Sposi
-#83(MELVILLE, Moby Dick)|(場景)　具體文學作品: Melville, Moby Dick
-#83(PETRARCA, Trionfi)|(場景)　具體文學作品: Petrarca, Trionfi
-#83(POPE, Rape of the lock)|(場景)　具體文學作品: Pope, Rape of the lock
-#83(SCARRON, Roman Comique)|(場景)　具體文學作品: Scarron, Roman Comique
-#83(SCHILLER, Mädchen aus der Fremde)|(場景)　具體文學作品: Schiller, Mädchen aus der Fremde
-#83(SHAKESPEARE, Cymbeline)|(場景)　具體文學作品: Shakespeare, Cymbeline
-#83(SHAKESPEARE, Midsummernight's Dream)|(場景)　具體文學作品: Shakespeare, Midsummernight's Dream
-#83(SHAKESPEARE, Tempest)|(場景)　具體文學作品: Shakespeare, Tempest
-#83(SWIFT, Gulliver's Travels)|(場景)　具體文學作品: Swift, Gulliver's Travels
-#83(TASSO, Aminta)|(場景)　具體文學作品: Tasso, Aminta
-#83(TASSO, Gerusalemme Liberata)|(場景)　具體文學作品: Tasso, Gerusalemme Liberata
-#83(TEBALDEO, Second Eclogue, Damon and Thyrsis)|(場景)　具體文學作品: Tebaldeo, Second Eclogue, Damon and Thyrsis
-#83(TENNYSON, Lady of Shalott)|(場景)　具體文學作品: Tennyson, Lady of Shalott
-#84|民間故事和童話故事
-#84(...)|民間故事和童話故事 (作品名)
-#84(BLUEBEARD)|民間故事和童話故事: 藍鬍子
-#84(CINDERELLA)|民間故事和童話故事: 灰姑娘
-#84(LITTLE RED RIDING-HOOD)|民間故事和童話故事: Little Red Riding-hood
-#84(LITTLE THUMBLING)|民間故事和童話故事: Little Thumbling
-#84(MELUSINE)|民間故事和童話故事: Melusine
-#84(ONE THOUSAND AND ONE NIGHTS)|民間故事和童話故事: One Thousand and One Nights
-#84(PUSS IN BOOTS)|民間故事和童話故事: Puss in boots
-#84(RAY-SLAYERS OF WEERT)|民間故事和童話故事: Ray-slayers of Weert
-#84(SAVAGERY OF THE BULL)|民間故事和童話故事: Savagery of the Bull
-#84(SLEEPING BEAUTY)|民間故事和童話故事: Sleeping Beauty
-#84(THE BEAUTY AND THE BEAST)|民間故事和童話故事: The Beauty and the Beast
-#84(UNDINE)|民間故事和童話故事: Undine
-#84(WOMEN OF WEINSBERG)|民間故事和童話故事: Women of Weinsberg
-#85|寓言故事
-#85(...)|寓言故事 (作品名)
-#85(COCK AND PEARL)|公雞和珍珠寓言故事
+#83|specific works of literature
+#83(...)|(scenes from) specific works of literature (with AUTHOR, Title)
+#83(ANON., Busant)|(scenes from) specific works of literature: Anon., Busant
+#83(ANON., Romaunt of the Rose)|(scenes from) specific works of literature: Anon., Romaunt of the Rose : Use 83 (LORRIS ET MEUN, Roman de la Rose)
+#83(ARIOSTO, Orlando Furioso)|(scenes from) specific works of literature: Ariosto, Orlando Furioso
+#83(BERNARDIN DE SAINT-PIERRE, Paul et Virginie)|(scenes from) specific works of literature: Bernardin de Saint-Pierre, Paul et Virginie
+#83(BOCCACCIO, Decamerone)|(scenes from) specific works of literature: Boccaccio, Decamerone
+#83(BRANT, Ship of Fools)|(scenes from) specific works of literature: Brant, Ship of Fools
+#83(BREDERO, Lucelle)|(scenes from) specific works of literature: Bredero, Lucelle
+#83(BREDERO, Moortje)|(scenes from) specific works of literature: Bredero, Moortje
+#83(BYRON, Bride of Abydos)|(scenes from) specific works of literature: Byron, Bride of Abydos
+#83(BYRON, Corsaire)|(scenes from) specific works of literature: Byron, Corsaire
+#83(CHATEAUBRIAND, Atala)|(scenes from) specific works of literature: Chateaubriand, Atala
+#83(COLONNA, Hypnerotomachia Poliphili)|(scenes from) specific works of literature: Colonna, Hypnerotomachia Poliphili
+#83(D'URFE, Astrée)|(scenes from) specific works of literature: D'Urfé, Astrée
+#83(DANTE, Divina Commedia)|(scenes from) specific works of literature: Dante, Divina Commedia
+#83(DEFOE, Robinson Crusoe)|(scenes from) specific works of literature: Defoe, Robinson Crusoe
+#83(DESMARETS DE SAINT-SORLIN, Ariane)|(scenes from) specific works of literature: Desmarets de Saint-Sorlin, Ariane
+#83(DIEGO DI SAN PEDRO, Carcel de Amor)|(scenes from) specific works of literature: Diego di San Pedro, Carcel de Amor
+#83(FLAUBERT, Tentation de Saint Antoine)|(scenes from) specific works of literature: Flaubert, Tentation de Saint Antoine
+#83(FOUQUE, Zauberring)|(scenes from) specific works of literature: Fouqué, Zauberring
+#83(GOETHE, Faust)|(scenes from) specific works of literature: Goethe, Faust
+#83(GOETHE, Werther)|(scenes from) specific works of literature: Goethe, Werther
+#83(GUARINI, Pastor Fido)|(scenes from) specific works of literature: Guarini, Pastor Fido
+#83(HELIODORUS, Aethiopica)|(scenes from) specific works of literature: Heliodorus, Aethiopica
+#83(HOOFT, Granida)|(scenes from) specific works of literature: Hooft, Granida
+#83(IBSEN, Peer Gynt)|(scenes from) specific works of literature: Ibsen, Peer Gynt
+#83(LORRIS ET MEUN, Roman de la Rose)|(scenes from) specific works of literature: Lorris et Meun, Roman de la Rose
+#83(MACPHERSON, Poems of Ossian)|(scenes from) specific works of literature: Macpherson, Poems of Ossian
+#83(MANZONI, Promessi Sposi)|(scenes from) specific works of literature: Manzoni, Promessi Sposi
+#83(MELVILLE, Moby Dick)|(scenes from) specific works of literature: Melville, Moby Dick
+#83(PETRARCA, Trionfi)|(scenes from) specific works of literature: Petrarca, Trionfi
+#83(POPE, Rape of the lock)|(scenes from) specific works of literature: Pope, Rape of the lock
+#83(SCARRON, Roman Comique)|(scenes from) specific works of literature: Scarron, Roman Comique
+#83(SCHILLER, Mädchen aus der Fremde)|(scenes from) specific works of literature: Schiller, Mädchen aus der Fremde
+#83(SHAKESPEARE, Cymbeline)|(scenes from) specific works of literature: Shakespeare, Cymbeline
+#83(SHAKESPEARE, Midsummernight's Dream)|(scenes from) specific works of literature: Shakespeare, Midsummernight's Dream
+#83(SHAKESPEARE, Tempest)|(scenes from) specific works of literature: Shakespeare, Tempest
+#83(SWIFT, Gulliver's Travels)|(scenes from) specific works of literature: Swift, Gulliver's Travels
+#83(TASSO, Aminta)|(scenes from) specific works of literature: Tasso, Aminta
+#83(TASSO, Gerusalemme Liberata)|(scenes from) specific works of literature: Tasso, Gerusalemme Liberata
+#83(TEBALDEO, Second Eclogue, Damon and Thyrsis)|(scenes from) specific works of literature: Tebaldeo, Second Eclogue, Damon and Thyrsis
+#83(TENNYSON, Lady of Shalott)|(scenes from) specific works of literature: Tennyson, Lady of Shalott
+#84|tales and fairy tales
+#84(...)|tales and fairy tales (with TITLE)
+#84(BLUEBEARD)|tales and fairy tales: Bluebeard
+#84(CINDERELLA)|tales and fairy tales: Cinderella
+#84(LITTLE RED RIDING-HOOD)|tales and fairy tales: Little Red Riding-hood
+#84(LITTLE THUMBLING)|tales and fairy tales: Little Thumbling
+#84(MELUSINE)|tales and fairy tales: Melusine
+#84(ONE THOUSAND AND ONE NIGHTS)|tales and fairy tales: One Thousand and One Nights
+#84(PUSS IN BOOTS)|tales and fairy tales: Puss in boots
+#84(RAY-SLAYERS OF WEERT)|tales and fairy tales: Ray-slayers of Weert
+#84(SAVAGERY OF THE BULL)|tales and fairy tales: Savagery of the Bull
+#84(SLEEPING BEAUTY)|tales and fairy tales: Sleeping Beauty
+#84(THE BEAUTY AND THE BEAST)|tales and fairy tales: The Beauty and the Beast
+#84(UNDINE)|tales and fairy tales: Undine
+#84(WOMEN OF WEINSBERG)|tales and fairy tales: Women of Weinsberg
+#85|fables
+#85(...)|fables (with TITLE)
+#85(COCK AND PEARL)|fable of the Cock and the Pearl
 #85(DOG ON BRIDGE)|fable of the Dog on the Bridge
 #85(FATHER, SON AND ASS)|fable of the Father, Son and Ass
 #85(FOX AND RAVEN)|fable of the Fox and the Raven
@@ -7163,10 +7162,10 @@
 #85A(...)|fables of Aesop (with TITLE) : Use 85(...)
 #85B|fables of Lafontaine : Use 85(...)
 #85B(...)|fables of Lafontaine (with TITLE) : Use 85(...)
-#85C|其它寓言故事 : 使用 85(...)
-#85C(...)|其它寓言故事 (作品名) : 使用 85(...)
-86|谚语与格言
-#86(...)|谚语与格言, 等等 (with TEXT)
-#86(BEWARE THE GEESE WHEN THE FOX PREACHES)|谚语与格言, 等等: Beware the geese when the fox preaches
-#86(LIGHTLY COME, LIGHTLY GO)|谚语与格言, 等等: Lightly come, lightly go
-#86(OMNIA MECUM PORTO)|谚语与格言, 等等: Omnia mecum porto
+#85C|other fables : Use 85(...)
+#85C(...)|other fables (with TITLE) : Use 85(...)
+#86|proverbs, sayings, etc.
+#86(...)|proverbs, sayings, etc. (with TEXT)
+#86(BEWARE THE GEESE WHEN THE FOX PREACHES)|proverbs, sayings, etc.: Beware the geese when the fox preaches
+#86(LIGHTLY COME, LIGHTLY GO)|proverbs, sayings, etc.: Lightly come, lightly go
+#86(OMNIA MECUM PORTO)|proverbs, sayings, etc.: Omnia mecum porto

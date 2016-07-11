@@ -1,509 +1,508 @@
-﻿0|抽象，非具象藝術
-1|宗教和巫術
-10|（符號）表示〜創造，宇宙，宇宙起源，宇宙和生命（在最廣泛的意義上）
-11|基督教
-11A|神，上帝（一般性） 〜基督教
-11A1|上帝造物主
-11A11|上帝測量宇宙（用圓規）
-11A2|神性
-11A21|神性，'Divinità' （Ripa）
-11A22|神性〜象徵
-11A221|圓形象徵著上帝的全能
-11A23|上帝的完美無缺
-11A3|上帝的憤怒
-#11A31|'Flagello di Dio' （Ripa）
-11B|三位一體， 'Trinitas coelestis': 聖父，聖子和聖靈〜基督教
-11B1|以三種象徵符號代表的三位一體
-11B11|三位一體象徵符號〜圓形和/或三角形構成的
-11B111|三個同心圓〜三位一體
-11B112|三個連環〜三位一體
-11B113|三角形（在圓形之內的） ，並帶有眼睛或四個字母組成的文字 〜三位一體
-11B114|三個動物，按幾何排列在圓形或三角形內〜三位一體
-11B115|三位奔跑的男人，組成一個圓形〜三位一體
-11B12|以三個頭部一個身體的人為代表的三位一體
-11B121|'Tricephalus' ，交融在一起的三個頭部或面部（ 〜三位一體​​）
-11B13|以三個頭部一個身體的動物為代表的三位一體
-11B14|以其它三種象徵符號代表的三位一體
-11B2|三位一體,其中每位（上帝，基督，聖靈）由一個物體或動物來再現
-11B21|三位一體的再現：手（聖父） ，羊肉（聖子） ，和鴿子（聖靈）
-11B22|三位一體的再現：手，十字架和鴿子
-11B23|三位一體的再現：手，聖杯和鴿子
-11B3|三位一體，其中一位，兩位或三位以人物來代表
-11B31|以三個人物代表的三位一體
-11B311|以三個面貌一致的人物代表的三位一體
-11B312|聖父和聖靈抱著被釘在十字架上的基督（ 〜三位一體​​）
-11B32|三位一體, 其中聖父和聖子以人物來再現，聖靈以鴿子來再現
-11B321|坐著的聖父抱著在他的腿上的年輕的基督（以馬內利）
-11B322|在寶座上的聖父和基督
-11B3221|面貌一致的聖父和基督
-11B3222|基督展示其傷口
-11B323|聖父抱著十字架上的或死去的基督
-11B3231|聖父抱著十字架， 'Gnadenstuhl' ，憐憫之座，施恩之寶座
-11B3232|站立著或坐著的聖父，抱著基督的身體， 'Pitié-de-Notre-Seigneur'，' Not Gottes'
-11B33|三位一體的各種再現方式
-11B331|三位一體的再現：人物 (聖父） ，羔羊（聖子） ，鴿子（聖靈）
-11B332|三位一體的再現：人物（聖父） ，獅子（聖子） ，鴿子（聖靈）
-11B333|三位一體的再現：符號（聖父） ，人物（聖子） ，鴿子（聖靈）
-11B4|'Ratschluss der Erlösung'，' Prolog im Himmel';救贖的聖旨
-11B41|救贖之神的命令，寓言化人物在現場，如：正義，慈悲，和平和真理（各種美德和諧一致）
-11B42|加百列阿的派遣〜 'Ratschluss der Erlösung'
-11B43|加百列阿的歸來〜 'Ratschluss der Erlösung'
-11B44|聖子的派遣〜 'Ratschluss der Erlösung'
-11B45|聖子的歸來〜 'Ratschluss der Erlösung'
-11B5|三位一體的延伸
-11B51|四位一體（即三位一體加瑪利亞）
-11B52|Quinity
-11C|聖父
-11C1|聖父的象徵
-11C11|無所不見之眼，含有眼睛的三角形〜聖父的象徵
-11C12|手， 'Dextera Del'〜聖父的象徵
-11C13|四個字母組成的文字 （在羅馬或希伯來文字裡的） 〜聖父的象徵
-11C14|火(柱)〜聖父的象徵
-11C15|光（芒）〜聖父的象徵
-11C16|阿拉法和俄梅戛〜聖父的象徵
-11C2|再現為人類的聖父，通常還有皇冠或冕，或權杖和/或圓球
-11C21|作為年輕或成年男子的聖父（也許類似基督模樣）
-11C211|寶座上的聖父，一般還有權杖和/或圓球
-11C22|作為年輕或成年男子的聖父, 類似丘比特
-11C221|寶座上的聖父(類似丘比特)，一般還有權杖和/或圓球
-11C23|作為留鬚老年男子的聖父，通常還有皇冠或冕，或權杖和/或圓球
-11C231|寶座上(作為留鬚老年男子)的聖父，通常還有皇冠或冕，或權杖和/或圓球
-11C3|基督坐在上帝的右邊
-11C31|上帝給基督加冕
-11C32|上帝同時給基督和瑪利亞加冕
-11C4|'scala salutis' ，基督和瑪利亞代求聖父
-11C41|基督代求聖父
-11C5|其他再現形式〜聖父
-11C51|聖父在太陽和月亮之間
-11D|基督
-11D1|基督的象徵符號和預兆
-11D11|字母和交織字母〜基督的象徵符號
-11D111|阿拉法和俄梅戛,有時飾以花環,三角形,基督受難刑具,等等〜基督的象徵符號
-11D112|基督交織字母及派生形式〜基督的象徵符號
-11D113|IHS （'Iesus Hominum Salvator'） 〜基督的象徵符號
-11D1131|labarum ，即標有HIS符號的旗蠧
-11D1132|對耶穌名稱的崇拜
-11D114|'Ichthys'〜基督的象徵符號
-11D12|十字架〜基督的象徵符號
-11D121|作為基督象徵符號的十字架
-11D122|帶有基督象徵符號(如羔羊)的十字架
-11D1221|帶有基督頭像或胸像的十字架
-11D123|十字架的具體形式
-11D123(...)|十字架的具體形式（名稱）
-11D123(ANDREW'S CROSS)|十字架的具體形式：安德魯十字架
-11D123(ANSATE CROSS)|十字架的具體形式： 上端環狀十字架
-11D123(BENEDICTINE CROSS)|十字架的具體形式：本尼迪克特十字架
-11D123(CARAVACA CROSS)|十字架的具體形式：雙橫十字架
-11D123(FORKED CROSS)|十字架的具體形式：叉形十字架
-11D123(GREEK CROSS)|十字架的具體形式：希臘式十字架
-11D123(LORRAINE CROSS)|十字架的具體形式：洛林十字架
-11D123(SWASTIKA)|十字架的具體形式：卍十字架
-11D123(TAU-CROSS)|十字架的具體形式：T字形十字架
-11D124|對十字架的崇拜
-11D13|基督的（其他）象徵符號
-11D131|基督象徵符號〜動物
-11D1311|羔羊軸扛著十字架或旗幟, 'AGNUS Dei'〜基督的象徵符號
-11D132|基督的象徵符號〜植物
-11D133|基督的象徵符號〜器物
-11D1331|'Etimasia' ，為基督準備的寶座及生命冊
-11D134|麵包和魚〜基督的象徵符號
-11D14|基督的預兆，基督和他的預兆
-11D15|道成肉身〜基督
-11D2|作為兒童或青少年（一般）的基督 〜基督教
-11D21|基督-孩童（及其標誌）
-11D22|基督-孩童〜成人基督的種類
-11D23|基督-孩童〜受難， 'Schmerzenkind'。
-11D231|基督-孩童在受難刑具面前沉思
-11D232|基督-孩童被受難刑具環繞
-11D233|基督-孩童拿著受難刑具
-11D234|基督-孩童展示傷口
-11D235|基督-孩童纏繞荊冠，或手持帶刺的樹枝
-11D236|基督-孩童背著十字架
-11D237|基督-孩童跪在十字架前
-11D238|基督-孩童睡在十字架上
-11D24|作為聖餐象徵的基督-孩童
-11D241|基督-孩童在聖餐杯裡或聖餐杯上
-11D2411|'Melismos' 〜作為聖餐象徵的基督-孩童
-11D242|基督-孩童在神秘磨坊
-11D25|基督-孩童與其他人在一起
-11D26|作為青年人的基督
-11D261|基督'以馬內利'
-11D3|作為成人的基督
-11D31|基督的'肖像'
-11D311|'Mandylion'，即肖像，也許是基督自己為埃德薩的國王阿布加爾而製作，臉對著布印按而成
-11D3111|基督把Mandylion肖像贈送給國王阿布加爾的使者
-11D3112|Mandylion肖像被帶到埃德薩地方
-11D312|'Vera Icon'，' Sudarium' ，維羅尼卡面紗肖像
-11D3121|'Vera Icon' ，由維羅尼卡舉起
-11D3122|'Vera Icon' ，由天使舉起
-11D3123|'Vera Icon' ，由彼得和保羅舉起
-11D3124|'Vera Icon' ，由福音書四作者的四個象徵物舉起
-11D313|根據倫圖羅斯書敘述的基督'肖像'
-11D314|'Volto santo' ，如盧卡地方的（也許由尼哥底母雕刻）
-11D315|由路加製作的基督肖像
-11D316|醫治好血漏的女人的還願物
-11D317|基督的裹屍布上的（全身）像， 'Sindone'
-11D318|基督的（其它）'肖像' ，如側面像
-11D32|特定類型的成人基督（不含其他人）
-11D321|'Majestas Domini'：帶有橢圓形背光的基督坐於彩虹或球體之上, 並伴有四連圖像
-11D322|寶座上的基督
-11D3221|'Pantocrator' ， 基督(胸像)，作演說或賜福的姿勢，並拿著一本書
-11D3222|'Christus Rex'
-11D3223|基督作為（天國的）法官
-11D323|基督-'Logos'， 道成肉身
-11D324|'Salvator Mundi', 作賜福的手勢; 圓球在手裡或在腳下
-11D325|基督〜聖餐裡的聖體
-11D3251|基督與聖杯，麵包或聖餅
-11D3252|基督在酒榨中, 'Christus in der Kelter' （以賽亞書63:3 ）
-11D3253|基督在象徵磨坊裡
-11D326|'Fons Vitae','Fons Pieratis'
-11D3261|基督站立在噴泉上或噴泉邊，流著血
-11D3262|基督在(噴泉裡)十字架上，流著血
-11D327|基督〜人類職業
-11D3271|基督作為好牧人
-11D3272|基督作為醫生
-11D32721|基督作為藥劑師
-11D3273|基督在捕魚
-11D3274|基督作為貨郎
-11D3275|基督作為農民或園丁
-11D3276|基督作為聖餅
-11D3277|基督作為（高級）祭司或先知
-11D3278|基督作為朝聖者
-11D3279|'Feiertagschristus' ，基督與匠人工具
-11D328|成人基督的類型（單人）
-11D3281|基督作為女人
-11D3282|基督作Orans祈禱姿勢
-11D3283|基督作為天使
-11D3284|基督〜俄耳甫斯
-11D3285|基督〜阿波羅（赫利俄斯）
-11D33|成人基督與他人在一起（非敘事性再現）
-11D331|成人基督與馬利亞
-11D3311|基督和馬利亞作為新郎和新娘
-11D332|成人基督與天使在一起
-11D333|成人基督〜魔鬼（們）和妖怪
-11D3331|基督戰勝魔鬼（ 們）
-11D334|成人基督與使徒、福音書作者、聖徒等在一起
-11D3341|福音作者約翰靠在基督胸前， 'Johannesminne'，'Christ-Johannes-Gruppe'
-11D3342|'Traditio legis'，'Dominus legem dat' , 即基督把(法)卷遞予保羅; 彼得在場
-11D33421|基督把(法)卷遞予保羅; 使徒（們 ）在場
-11D3343|基督與懺悔的罪人（亞當，大衛，浪子，抹大拉的馬利亞，為義作惡者，彼得等）
-11D335|成人基督與凡人在一起
-11D3351|（成人）基督打扮成凡人
-11D336|勝利者基督，如在凱旋戰車上
-11D337|基督在馬背上
-11D3371|基督在馬背上帶領騎士隊伍，'Militia Christ'
-11D34|成人基督〜抽象的概念
-11D35|在十字架上基督的特定類型（非敘事性情境）
-11D351|基督受苦（帶荊冠，通常頭轉向側面）
-11D352|基督遍體瘡痍，'Pestkruzifixus'
-11D353|基督勝利（頭帶王冠，頭通常直立）
-11D354|基督從十字架上彎身擁抱某人
-11D355|基督被釘在樹上或在藤蔓上
-11D356|基督被釘在'活的'十字架上
-11D357|美德〜十字架上的基督
-11D36|非敘事情境中十字架上的基督的其他類型
-11D4|傳說和敬禮〜基督
-11D41|傳說〜基督
-11D411|十字聖架的傳說
-11D4111|賽特把知識之樹上的一個分枝放在亞當的墓上〜十字聖架的傳說
-11D41111|賽特尋找天堂;天使給他一個枝條或一隻油壺〜十字聖架的傳說
-11D4112|用於建造所羅門神廟的木料〜十字聖架的傳說
-11D4113|示巴王後禮拜用來建造一架橋樑的木料〜十字聖架的傳說
-11D4114|取自畢士大池畔的木料作為基督十字架的材料〜十字聖架的傳說
-11D4115|海倫娜看到天使抬著聖十字架〜十字聖架的傳說
-11D4116|十字聖架的發現
-11D41161|猶大，一個猶太人，被君士坦丁之母的海倫娜投入水井〜十字聖架的傳說
-11D41162|維納斯神廟附近三個十字架被挖出〜十字聖架的傳說
-11D41163|海倫娜認出十字聖架：一具屍體接觸它後隨即復活
-11D41164|海倫娜和君士坦丁跪在十字聖架前(或站在聖十字架旁)
-11D4117|豎立十字聖架，光榮十字聖架
-11D41171|赫拉克略皇帝擊敗波斯國王Chosroes二世，重新找到十字聖架的一部分
-11D41172|赫拉克略進入耶路撒冷：皇帝遵照天使指示，脫去皇袍，扛著十字聖架入城
-11D411721|赫拉克略皇帝進入耶路撒冷: 騎在驢背或馬背上〜十字聖架的傳說
-11D41173|十字聖架豎立在各各他（或一祭壇上）〜十字聖架的傳說
-11D41174|Chosroes二世，因不肯洗禮, 被處決〜十字聖架的傳說
-11D412|聖槍流血的傳說
-11D413|聖杯的傳說
-11D414|巴西里德的預言：在去耶路撒冷的途中，提多皇帝諮詢巴西里德, 一位卡梅爾教團的托缽僧, 後者向前者顯示聖父與死去的基督的景象
-11D42|敬禮〜基督
-11D421|基督的七次流血
-11D4211|單一場景再現基督的七次流血
-11D422|聖心
-11D423|聖血
-11D424|聖淚
-11D425|基督的長度
-11D43|遺物〜基督
-11D431|十字架碎片〜基督的遺物
-11D432|十字架的釘子〜基督的遺物
-11D433|聖槍〜基督的遺物
-11D434|基督的長袍〜基督的遺物
-11D435|'Scala Santa' ，彼拉多的宮殿裡的樓梯〜基督的遺物
-11D5|神秘觀念〜基督
-11D51|基督與靈魂
-11D511|靈魂是基督新娘
-11D52|基督與人心
-11D53|基督的血拯救人類
-11D6|基督雕像的奇蹟或基督-孩童
-11D6(...)|基督雕像的奇蹟或基督-孩童(名稱)
-11D9|敵基督者
-11D91|敵基督者的生活
-11DD3|作為成人的基督 - DD - 沒有鬍鬚的基督
-11DD31|基督的'肖像' - DD - 沒有鬍鬚的基督
-11DD311|'Mandylion'，即肖像，也許是基督自己為埃德薩的國王阿布加爾而製作，臉對著布印按而成 - DD - 沒有鬍鬚的基督
-11DD3111|基督把Mandylion肖像贈送給國王阿布加爾的使者 - DD - 沒有鬍鬚的基督
-11DD3112|該Mandylion被帶到埃德薩 - DD - 沒有鬍鬚的基督
-11DD312|Vera Icon'，' Sudarium' ，維羅尼卡面紗肖像- DD - 基督得勝
-11DD3121|'Vera Icon' ，由維羅尼卡舉起- DD - 基督得勝
-11DD3122|'Vera Icon'，由天使舉起 - DD - 基督得勝
-11DD3123|'Vera Icon', 由'彼得和保羅舉起 - DD - 基督得勝
-11DD313|根據倫圖羅斯書敘述的基督'肖像' - DD - 基督得勝
-11DD314|'Volto santo' ，如盧卡地方的（也許由尼哥底母雕刻) - DD - 沒有鬍鬚的基督
-11DD315|由路加製作的基督肖像 - DD - 沒有鬍鬚的基督
-11DD316|醫治好血漏的女人的還願物- DD - 沒有鬍鬚的基督
-11DD317|基督的裹屍布上的（全身）像， 'Sindone'- DD - 沒有鬍鬚的基督
-11DD318|基督的（其它）'肖像' ，如側面像- DD - 沒有鬍鬚的基督
-11DD32|特定類型的成人基督（不含其他人）- DD - 沒有鬍鬚的基督
-11DD321|'Majestas Domini'：帶有橢圓形背光的基督坐於彩虹或球體之上, 並伴有四連圖像- DD - 沒有鬍鬚的基督
-11DD322|寶座上的基督- DD - 沒有鬍鬚的基督
-11DD3221|'Pantocrator' ， 基督(胸像)，作演說或賜福的姿勢，並拿著一本書- DD - 沒有鬍鬚的基督
-11DD3222|Christus Rex' - DD - 沒有鬍鬚的基督
-11DD3223|基督為（天堂）法官 - DD - 沒有鬍鬚的基督
-11DD323|基督-'Logos'， 道成肉身 - DD - 沒有鬍鬚的基督
-11DD324|'Salvator Mundi', 作賜福的手勢; 圓球在手裡或在腳下 - DD - 沒有鬍鬚的基督
-11DD325|基督〜聖餐裡的聖體 - DD - 沒有鬍鬚的基督
-11DD3251|基督與聖杯，麵包或聖餅- DD - 沒有鬍鬚的基督
-11DD3252|基督在酒榨中, 'Christus in der Kelter' （以賽亞書63:3 ）- DD - 沒有鬍鬚的基督
-11DD3253|基督在象徵磨坊裡- DD - 沒有鬍鬚的基督
-11DD326|Fons Vitae','Fons Pietatis'- DD - 沒有鬍鬚的基督
-11DD3261|基督站立在噴泉上或噴泉邊，流著血- DD - 沒有鬍鬚的基督
-11DD3262|基督在(噴泉裡)十字架上，流著血- DD - 沒有鬍鬚的基督
-11DD327|基督〜人類職業 - DD - 沒有鬍鬚的基督
-11DD3271|基督作為好牧人  - DD - 沒有鬍鬚的基督
-11DD3272|基督作為醫師 - DD - 沒有鬍鬚的基督
-11DD32721|基督為藥劑師 - DD - 沒有鬍鬚的基督
-11DD3273|基督在捕魚 - DD - 沒有鬍鬚的基督
-11DD3274|基督作為貨郎 - DD - 沒有鬍鬚的基督
-11DD3275|基督作為農民或園丁 - DD - 沒有鬍鬚的基督
-11DD3276|基督作為聖餅 - DD - 沒有鬍鬚的基督
-11DD3277|基督作為（高級）祭司或先知 - DD - 沒有鬍鬚的基督
-11DD3278|基督作為朝聖者 - DD - 沒有鬍鬚的基督
-11DD3279|'Feiertagschristus' ，基督與匠人工具 - DD - 沒有鬍鬚的基督
-11DD328|成人基督的類型（單人） - DD - 沒有鬍鬚的基督
-11DD3281|基督作為女人 - DD - 沒有鬍鬚的基督
-11DD3282|基督作舉雙手手掌向上祈禱姿勢 - DD - 沒有鬍鬚的基督
-11DD3283|基督作為天使 - DD - 沒有鬍鬚的基督
-11DD3284|基督〜俄耳甫斯 - DD - 沒有鬍鬚的基督
-11DD3285|基督〜阿波羅（赫利俄斯） - DD - 沒有鬍鬚的基督
-11DD33|成人基督與他人在一起（非敘事性再現） - DD - 沒有鬍鬚的基督
-11DD331|成人基督與馬利亞 - DD - 沒有鬍鬚的基督
-11DD3311|基督和馬利亞作為新郎和新娘 - DD - 沒有鬍鬚的基督
-11DD332|成人基督與天使 - DD - 沒有鬍鬚的基督
-11DD333|成人基督〜魔鬼（們）和妖怪 - DD - 沒有鬍鬚的基督
-11DD3331|基督戰勝魔鬼（ 們） - DD - 沒有鬍鬚的基督
-11DD334|成人基督與使徒、福音書作者、聖徒等在一起 - DD - 沒有鬍鬚的基督
-11DD3341|福音作者約翰靠在基督胸前， 'Johannesminne'，'Christ-Johannes-Gruppe' - DD -  沒有鬍鬚的基督
-11DD3342|'Traditio legis'，'Dominus legem dat' , 即基督把(法)卷遞予保羅; 彼得在場 - DD - 沒有鬍鬚的基督
-11DD33421|基督把(法)卷遞予保羅; 使徒（們 ）在場 - DD - 沒有鬍鬚的基督
-11DD3343|基督與懺悔的罪人（亞當，大衛，浪子，抹大拉的馬利亞，為義作惡者，彼得等） - DD - 沒有鬍鬚的基督
-11DD335|成人基督與凡人在一起 - DD - 基督受輕蔑，恐嚇，等等
-11DD3351|（成人）基督打扮成凡人 - DD - 基督受輕蔑，恐嚇，等等
-11DD336|勝利的基督，如在凱旋戰車上 - DD - 沒有鬍鬚的基督
-11DD337|基督在馬背上 - DD - 沒有鬍鬚的基督
-11DD3371|基督在馬背上帶領騎士隊伍,'Militia Christ' - DD - 沒有鬍鬚的基督
-11DD34|成人基督〜抽象的概念 - DD - 沒有鬍鬚的基督
-11DD35|在十字架上基督的特定類型（非敘事性情境） - DD - 沒有鬍鬚的基督
-11DD351|基督受苦（帶荊冠，通常頭轉向側面） - DD - 沒有鬍鬚的基督
-11DD352|基督遍體瘡痍，' Pestkruzifixus' - DD - 沒有鬍鬚的基督
-11DD353|基督勝利（頭帶王冠，頭通常直立） - DD - 沒有鬍鬚的基督
-11DD354|基督從十字架上彎身擁抱某人 - DD - 沒有鬍鬚的基督
-11DD355|基督被釘在樹上或在藤蔓上- DD - 沒有鬍鬚的基督
-11DD356|基督被釘在'活的'十字架上 - DD - 沒有鬍鬚的基督
-11DD357|美德〜十字架上的基督 - DD - 沒有鬍鬚的基督
-11DD36|非敘事情境中十字架上基督的其他類型 - DD - 沒有鬍鬚的基督
-11DD422|聖心 - DD - 基督 - 孩子和聖心
-11E|聖靈
-11E1|聖靈再現為（火焰中的）一隻鴿子
-11E2|聖靈再現為火焰
-11E3|聖靈再現為人
-11E4|聖靈再現為其它，如光芒
-11E5|聖靈七恩
-11E51|聖靈七恩再現為七隻鴿子
-11E52|聖靈七恩再現為七個火焰
-11E53|聖靈七恩再現為七盞油燈或七枝燭台
-11E54|聖靈七恩的單一再現
-11E541|'Sapientia', 智慧;'Sapienza divina' (Ripa) 〜 聖靈七恩之一
-11E542|'Intellectus','Intelligentia', 明達 〜 聖靈七恩之一
-11E543|'Consilium', 超見〜聖靈七恩之一
-11E544|'Fortitudo', 剛毅〜聖靈七恩之一
-11E545|'Pietas', 孝愛〜 聖靈七恩之一
-11E546|'Scientia', 知識〜聖靈七恩之一
-11E547|'Timor Domini', 敬畏〜聖靈七恩之一
-11F|貞女馬利亞
-11F1|馬利亞的象徵符號和預兆
-11F11|馬利亞的象徵符號
-11F111|禱文中馬利亞的象徵符號
-11F111(...)|禱文中馬利亞的象徵符號（帶文字）
-11F112|馬利亞與Lauretanian禱文象徵符號
-11F12|馬利亞的交織字母
-11F13|馬利亞的紋章
-11F14|'Defensorium inviolatae virginitatis';貞女的象徵
-11F15|馬利亞的預兆; 馬利亞與她的預兆
-11F2|馬利亞（沒有基督-孩童）
-11F21|馬利亞作為孩童
-11F22|馬利亞的'肖像'
-11F23|沒有基督-孩童的站立著的馬利亞
-11F231|馬利亞作為orante禱告者 （有時被稱為 'Blacherniotissa'）
-11F232|'Immaculata','Purisima': 馬利亞通常站在新月之上，從天而降，無原罪（有時腳踏蟒蛇）
-11F2321|'Immaculata','Purisima': 馬利亞與聖徒們
-11F233|馬利亞站或坐在地上
-11F234|受胎之馬利亞，期待之聖母,'Madonna Parto'
-11F2341|受胎之馬利亞，及可視基督-孩童形象
-11F235|展開胸膛之聖母
-11F2351|聖母展開胸膛之內的三位一體
-11F2352|聖母展開胸膛之內的耶穌受難
-11F236|'Ährenkleidmaria' （有時包括基督-孩童）
-11F24|坐著的馬利亞（單人）
-11F241|痛苦聖母
-11F2411|聖母七苦
-11F2412|馬利亞被七把劍所刺
-11F242|喜樂聖母
-11F2421|馬利亞(七)樂
-11F243|馬利亞和獨角獸
-11F244|寶座上的馬利亞
-11F26|other types of Mary (alone)
-11F25|'Mater Dolorosa'
-11F251|馬利亞哭泣
-11F252|馬利亞被一把劍所刺
-11F253|馬利亞與受難刑具
-11F261|馬利亞作為聖靈的新娘（她的胸前有一隻鴿子）
-11F262|馬利亞作為牧羊女
-11F263|馬利亞作為朝聖者
-11F264|馬利亞作為隱士（基督死亡以後),'Nostra señora de la Soledad'
-11F265|馬利亞作為醫生
-11F266|馬利亞征服魔鬼
-11F267|馬利亞拯救(眾)靈魂
-11F268|馬利亞作為女祭司，管理聖餐
-11F3|馬利亞（無基督-孩童） ，與他人在一起
-11F31|馬利亞代求（有基督),'Maria Mediatrix' （有時馬利亞顯示出乳房）
-11F32|馬利亞與凡人在一起，他們崇拜她，或者懇求她幫助
-11F33|馬利亞哺乳, 'Lactatio'
-11F34|馬利亞保護人類對抗瘟疫，如把人們罩在她的斗篷下面; 'Pestbild'
-11F35|馬利亞作為使徒們的女王
-11F36|勝利馬利亞，在凱旋戰車上
-11F4|聖母：即馬利亞與基督-孩童
-11F41|聖母：馬利亞站立（或半身), 基督-孩童靠在胸前
-11F411|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前
-11F4111|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前, 站姿
-11F4112|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前, 坐姿
-11F41121|'Nikopoia'〜聖母馬利亞
-11F4113|馬利亞站立（或半身） ，基督-孩童在她面前, 靠在胸前, 躺姿
-11F412|馬利亞站立（或半身） ，基督-孩童在她手臂上(基督-孩童在馬利亞左側)
-11F4121|馬利亞站立（或半身） ，基督-孩童站在她手臂上(基督-孩童在馬利亞左側)
-11F4122|馬利亞站立（或半身） ，基督-孩童坐在她手臂上(基督-孩童在馬利亞左側)
-11F41221|'Hodegetria'〜聖母馬利亞
-11F41222|聖母
-11F41223|'Eleousa'，'Glykophilousa'〜聖母
-11F4123|馬利亞站立（或半身） ，基督-孩童躺在她手臂上(基督-孩童在馬利亞左側)
-11F41231|'Galaktotrophousa'〜聖母
-11F413|特定類型的站立（或半身）聖母，無其他人
-11F4131|'Platytera' ，即馬利亞作Orans祈禱姿勢, 基督-孩童在她面前圓形盾牌裡
-11F41311|馬利亞，通常包括基督-孩童，在一個(生命)噴泉裡作Orans祈禱姿勢
-11F4132|(帶橢圓形背光的)聖母在新月之上（有時也被稱為天國女王）
-11F4133|在馬利亞手臂上的基督-孩童與龍搏鬥
-11F4134|'Madonna della Vittoria', 戰勝，如戰勝新教
-11F4135|'Marianum', 帶圓形或橢圓形背光的聖母（為念珠環繞） ，光榮馬利亞
-11F4136|圓柱上的聖母， 'Mariensäule'
-11F4137|聖母在站立(或坐)在(猶大)獅子上
-11F42|聖母: 坐著或寶座上的馬利亞, 基督-孩童在她腿上(或在她胸前)(有時馬利亞是半身像)
-11F421|馬利亞坐著或在寶座上, 基督-孩童在她面前, 在她的腿上(或在她的胸前)
-11F4211|馬利亞坐著或在寶座上, 基督-孩童在她面前, 站在她的腿上(或在她的胸前)
-11F4212|馬利亞坐著或在寶座上, 基督-孩童在她面前, 坐在她的腿上(或在她的胸前)
-11F42121|'Sedes Sapientiae'
-11F42122|聖母（或馬利亞獨自一人）在所羅門寶座上，有時由美德環繞
-11F4213|馬利亞坐著或在寶座上, 基督-孩童在她面前, 躺在她的腿上(或在她的胸前), 有時作聖殤姿勢
-11F422|馬利亞坐著或在寶座上, 基督-孩童在她膝上 (基督-孩童在馬利亞左側)
-11F4221|馬利亞坐著或在寶座上, 基督-孩童站在她膝上 (基督-孩童在馬利亞左側)
-11F4222|馬利亞坐著或在寶座上, 基督-孩童坐在她膝上 (基督-孩童在馬利亞左側)
-11F4223|馬利亞坐著或在寶座上, 基督-孩童躺在她膝上 (基督-孩童在馬利亞左側)
-11F423|特定類型的聖母的坐姿或在寶座上（無其他人）
-11F4231|聖母在玫瑰園， 'Paradiesgärtlein'
-11F4232|聖母被花環（或水果）環繞
-11F4233|聖母在樹裡
-11F43|聖母：馬利亞坐在地上，基督-孩童在她的腿上
-11F431|馬利亞坐在地上，基督-孩童在她面前, 在她的腿上
-11F4311|馬利亞坐在地上，基督-孩童在她的面前，站在她的腿上
-11F4312|馬利亞坐在地上，基督-孩童在她的面前，坐在她的腿上
-11F4313|馬利亞坐在地上，基督-孩童在她的面前，躺在她的腿上
-11F43131|Madonna dell'Umiltà' （通常是馬利亞坐在地上給基督-孩童哺乳）
-11F4314|馬利亞坐在地上，基督-孩童在她的面前，跪在她的腿上
-11F432|馬利亞坐在地上，基督-孩童在她的腿上或她的膝上（基督-孩童在馬利亞的左側）
-11F4321|馬利亞坐在地上，基督-孩子站在或踩在她的腿上或她的膝上（基督-孩子在馬利亞的左側）
-11F4322|馬利亞坐在地上，基督-孩子坐在她的腿上或她的膝上（基督-孩子在馬利亞的左側）
-11F4323|馬利亞坐在地上，基督-孩子躺在她的腿上或她的膝上（基督-孩子在馬利亞的左側）
-11F4324|馬利亞坐在地上，基督-孩子跪在她的腿上或她的膝上（基督-孩子馬利亞的左側）
-11F44|聖母：馬利亞（站立著）, 基督-孩子單獨站著（或靠著她）
-11F441|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）
-11F4411|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她), 基督-孩童站立著
-11F4412|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童坐著
-11F4413|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童躺著
-11F4414|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童跪著
-11F442|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）
-11F4421|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童站立著
-11F4422|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）,基督-孩童坐著
-11F4423|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童躺著
-11F4424|馬利亞（站立著）, 基督-孩子在她面前 (單獨站著或靠著她）, 基督-孩童跪著
-11F45|馬利亞跪（在地面上） ，基督-孩童在她面前
-11F451|馬利亞跪（在地面上） ，基督-孩童站在她面前
-11F452|馬利亞跪（在地面上） ，基督-孩童坐在她面前
-11F453|馬利亞跪（在地面上） ，基督-孩童躺在她面前
-11F454|馬利亞跪（在地面上） ，基督-孩童跪在她面前
-11F46|基督的孩子坐在瑪麗的肩膀上
-11F461|瑪麗站立著，基督-孩童坐在她的肩膀上
-11F462|馬利亞坐在寶座上, 基督-孩童坐在她的肩膀上
-11F463|馬利亞坐在地上, 基督-孩童坐在她的肩膀上
-11F464|，馬利亞跪, 基督-孩童坐在她的肩膀上
-11F5|聖母（即馬利亞與基督-孩童）在空中, 或在雲端
-11F6|聖母（即馬利亞與基督-孩童）由他人陪伴或由他人環繞
-11F61|聖母由聖徒(們)陪伴
-11F611|'Sacra Conversazione'
-11F612|'Über dich freut sich'
-11F62|特定類型的聖母與其他人
-11F621|'Regina Coeli','Regina Angelorum','Maestà' ~ 聖母
-11F6211|'Regina Coeli','Regina Angelorum','Maestà', 施洗者約翰在場
-11F622|'Virgo inter Virgines'
-11F623|玫瑰經聖母
-11F624|慈悲之母,'Mater Misericordiae','Schutzmantelmadonna','Schutzmantelmaria'
-11F63|聖母（或無基督-孩童的馬利亞）作為贊助人或保護人，如：一個修會或者平信徒會
-11F7|特定方面〜聖母的再現（注：只用於二級標注）
-11F71|基督-孩童的特定方面〜聖母的再現（注：只用於二級標注）
-11F711|基督-孩童作演說或賜福的姿勢〜聖母的再現
-11F712|基督-孩童向畫外看〜聖母的再現
-11F713|基督-孩童看著聖徒（們）或施主（們） 〜聖母的再現
-11F714|基督-孩童在睡覺〜聖母的再現
-11F715|基督-孩子手裡拿著東西，如蘋果，鳥，櫻桃，受難像十字架，葡萄，紙風車〜聖母的再現
-11F7151|基督-孩童將東西交給別人〜聖母的再現
-11F7152|基督-孩童接受，伸手取東西〜聖母的再現
-11F716|基督-孩童在吃〜聖母的再現
-11F717|基督-孩童在玩〜聖母的再現
-11F7171|基督-孩童和天使在玩耍〜聖母的再現
-11F7172|基督-孩童和羔羊在玩耍〜聖母的再現
-11F72|基督-孩童和馬利亞的特定方面〜聖母的再現（注：只用於二級標注）
-11F721|基督-孩童看著或轉向馬利亞〜聖母的再現
-11F722|基督-孩童朝著馬利亞伸手; 讓她看東西〜聖母的再現
-11F723|基督-孩童掀起馬利亞的面紗，拉著她的衣服，手放在她的乳房上〜聖母的再現
-11F724|基督-孩童展開雙臂抱住她的脖子〜聖母的再現
-11F725|基督-孩童臉靠著馬利亞的臉，或親吻她〜聖母的再現
-11F726|基督-孩童吃奶，或開始吃奶，如馬利亞顯示她的乳房〜聖母的再現
-11F7261|'ablactatio';基督不在吃奶，馬利亞的乳房袒露〜聖母的再現
-11F7269|基督-孩童拒絕從瑪麗的乳房吃奶〜聖母的再現
-11F727|馬利亞拿著墨水瓶，基督-孩童在書寫〜聖母的再現
-11F728|基督-孩童為瑪麗加冕〜聖母的再現
-11F73|馬利亞的特定方面〜聖母的再現（注：只用於二級標注）
-11F731|瑪麗拿著東西，例如蘋果，一串葡萄，十字架，金翅雀〜聖母的再現
-11F732|瑪麗坐在台階或樓梯〜聖母的再現
-11F74|聖母的再現的其他具體方面
+#0|Abstract, Non-representational Art
+1|Religia i Magia
+11|religia chrześcijańska
+#11A|Deity, God (in general) ~ Christian religion
+#11A1|God the Creator
+#11A11|God measuring the Universe (with compasses)
+11A2|Boska Natura
+#11A21|Divinity, 'Divinità' (Ripa)
+#11A22|symbols ~ Divine Nature
+#11A221|circle symbolizing God's perfectness
+#11A23|God's perfections
+11A3|gniew Boży
+#11A31|'Flagello di Dio' (Ripa)
+11B|Trójca Święta; 'Trinitas coelestis'; Ojciec, Syn i Duch Święty ~ religia chrześcijańska
+11B1|Trójca Święta przedstawiona przy pomocy potrójnych symboli
+11B11|symbole Trójcy Świętej ~ okrągłe i/lub trójkątne formy lub układy
+11B111|trzy koncentryczne kręgi ~ Trójca Święta
+11B112|trzy przecinające się kręgi ~ Trójca Święta
+11B113|trójkąt (wpisany w okrąg) z okiem lub tetragramem ~ Trójca Święta
+11B114|trzy zwierzęta rozmieszczone foremnie w obrębie okręgu lub trójkąta ~ Trójca Święta
+11B115|trzej mężczyźni biegnący w koło ~ Trójca Święta
+11B12|Trójca Święta przedstawiona jako postać z trzema głowami
+11B121|'Tricephalus', trzy złączone głowy lub tylko twarze (~ Trójca)
+11B13|Trójca Święta przedstawiona jako trzy zwierzęta z jedną, wspólną głową
+11B14|inne potrójne symbole Trójcy Świętej
+11B2|Trójca Święta, w której każda z Osób (Bóg, Chrystus, Duch Święty) jest reprezentowana albo przez przedmiot albo przez zwierzę
+#11B21|representation of the Trinity: hand (Father), lamb (Son), and dove (Holy Ghost)
+#11B22|representation of the Trinity: hand, cross and dove
+#11B23|representation of the Trinity: hand, chalice and dove
+11B3|Trójca Święta, w której jedna, dwie lub trzy Osoby są przedstawione pod ludzką postacią
+#11B31|Trinity as three persons
+#11B311|Trinity as three identical persons
+#11B312|Father and Holy Ghost holding the crucified Christ (~ Trinity)
+#11B32|Trinity in which God the Father and Christ are represented as persons, the Holy Ghost as dove
+#11B321|God the Father seated, holding the youthful Christ (Emmanuel) in his lap
+#11B322|God the Father and Christ enthroned
+#11B3221|God the Father and Christ as identical persons
+#11B3222|Christ showing his wounds
+#11B323|God the Father holding the crucified or dead Christ
+#11B3231|God the Father holding the crucifix, 'Gnadenstuhl', Mercy-Seat, Throne of Grace
+#11B3232|God the Father standing or seated, holding the body of Christ, 'Pitié-de-Notre-Seigneur', 'Not Gottes'
+#11B33|representations of the Trinity
+#11B331|representation of the Trinity: person (Father), lamb (Son), and dove (Holy Ghost)
+#11B332|representation of the Trinity: person (Father), lion (Son), and dove (Holy Ghost)
+#11B333|representation of the Trinity: symbol (Father), person (Son), dove (Holy Ghost)
+11B4|'Ratschluss der Erlösung', 'Prolog im Himmel'; Boża decyzja o zbawieniu
+#11B41|Divine decree of Redemption, allegorical figures present, e.g. Justice, Mercy, Peace and Truth (the Virtues reconciled)
+#11B42|sending of Gabriel ~ 'Ratschluss der Erlösung'
+#11B43|return of Gabriel ~ 'Ratschluss der Erlösung'
+#11B44|sending of the Son ~ 'Ratschluss der Erlösung'
+#11B45|return of the Son ~ 'Ratschluss der Erlösung'
+11B5|poszerzone przedstawienia Trójcy Świętej
+#11B51|Quaternity (i.e. Trinity with Mary)
+#11B52|Quinity
+11C|Bóg Ojciec
+11C1|symbole Boga Ojca
+#11C11|the all-seeing eye, triangle with eye ~ symbol of God the Father
+#11C12|hand, 'Dextera Dei' ~ symbol of God the Father
+#11C13|tetragram (in Roman or Hebrew script) ~ symbol of God the Father
+#11C14|(pillar of) fire ~ symbol of God the Father
+#11C15|(rays of) light ~ symbol of God the Father
+#11C16|alpha and omega ~ symbol of God the Father
+11C2|Bóg Ojciec przedstawiony jako istota ludzka, zwykle w koronie lub tiarze i z berłem lub kulą ziemską
+#11C21|God the Father as young or adult man (perhaps resembling Christ)
+#11C211|God the Father enthroned, usually with sceptre and/or globe
+#11C22|God the Father as young or adult man resembling Jupiter
+#11C221|God the Father (resembling Jupiter) enthroned, usually with sceptre and/or globe
+#11C23|God the Father as bearded old man, usually with crown or tiara or sceptre and/or globe
+#11C231|God the Father (as bearded old man) enthroned, usually with crown or tiara, and with sceptre and/or globe
+11C3|Chrystus siedzący po prawicy Boga
+#11C31|God crowning Christ
+#11C32|God simultaneously crowning Christ and Mary
+11C4|'Scala Salutis', Chrystus i Maria wstawiający się u Boga Ojca
+#11C41|Christ interceding with God the Father
+11C5|inne przedstawienia ~ Bóg Ojciec
+#11C51|God the Father between the sun and the moon
+11D|Chrystus
+11D1|symbole i prefiguracje Chrystusa
+11D11|litery i monogramy ~ symbole Chrystusa
+#11D111|alpha and omega, sometimes with wreath, triangle, instruments of the Passion, etc. ~ symbol of Christ
+#11D112|Chrismon and derived forms ~ symbol of Christ
+#11D113|IHS ('Iesus Hominum Salvator') ~ symbol of Christ
+#11D1131|labarum, i.e. imperial standard bearing the christogram IHS
+#11D1132|adoration of the name of Jesus
+#11D114|'Ichthys' ~ symbol of Christ
+11D12|krzyż ~ symbole Chrystusa
+11D121|Krzyż jako symbol Chrystusa
+#11D122|cross with symbol of Christ on it, e.g. lamb
+#11D1221|cross with head or bust of Christ
+#11D123|specific forms of the cross
+#11D123(...)|specific forms of the cross (with NAME)
+#11D123(ANDREW'S CROSS)|specific forms of the cross: Andrew's cross
+#11D123(ANSATE CROSS)|specific forms of the cross: ansate cross
+#11D123(BENEDICTINE CROSS)|specific forms of the cross: Benedictine cross
+#11D123(CARAVACA CROSS)|specific forms of the cross: Caravaca cross
+#11D123(FORKED CROSS)|specific forms of the cross: forked cross
+#11D123(GREEK CROSS)|specific forms of the cross: Greek cross
+#11D123(LORRAINE CROSS)|specific forms of the cross: Lorraine cross
+#11D123(SWASTIKA)|specific forms of the cross: swastika
+#11D123(TAU-CROSS)|specific forms of the cross: Tau-cross
+#11D124|venerating the cross
+11D13|(inne) symbole Chrystusa
+11D131|symbole Chrystusa ~ zwierzęta
+11D1311|baranek niosący krzyż lub sztandar, 'Agnus Dei' ~ symbol Chrystusa
+11D132|symbole Chrystusa ~ rośliny
+11D133|symbole Chrystusa ~ przedmioty
+#11D1331|'Etimasia', empty throne with the book of life, prepared for Christ
+11D134|chleb i ryba ~ symbole Chrystusa
+11D14|prefiguracje Chrystusa, Chrystus i jego prefiguracje
+11D15|Wcielenie ~ Chrystus
+11D2|Chrystus jako dziecko lub młodzieniec (w ogólności) ~ religia chrześcijańska
+11D21|Dzieciątko Jezus (z atrybutami)
+11D22|Dzieciątko Jezus ~ typy Chrystusa dorosłego
+11D23|Dzieciątko Jezus ~ Męka, 'Schmerzenskind'
+11D231|Dzieciątko Jezus kontemplujące narzędzia Męki
+11D232|Dzieciątko Jezus w otoczeniu narzędzi Męki
+11D233|Dzieciątko Jezus niosące narzędzia Męki
+11D234|Dzieciątko Jezus ukazujące pięć ran
+11D235|Dzieciątko Jezus plotące koronę z ciernia lub z kolczastych gałązek
+11D236|Dzieciątko Jezus niosące krzyż
+11D237|Dzieciątko Jezus klęczące przez krzyżem
+11D238|Dzieciątko Jezus śpiące na krzyżu
+11D24|Dzieciątko Jezus jako symbol eucharystyczny
+11D241|Dzieciątko Jezus w lub na kielichu
+11D2411|'Melismos' ~ Dzieciątko Jezus jako symbol eucharystyczny
+11D242|Dzieciątko Jezus w młynie mistycznym
+11D25|Dzieciątko Jezus w towarzystwie innych postaci
+11D26|Chrystus jako młodzieniec
+11D261|Chrystus Emanuel
+11D3|Chrystus jako dorosły
+11D31|portrety Chrystusa
+11D311|'Mandylion' tj. portret zapewne wykonany dla Abgara, króla Edessy, przez samego Chrystusa poprzez odciśnięcie Jego twarzy na chuście
+11D3111|Chrystus daje Mandylion wysłańcowi króla Abgara
+11D3112|sprowadzenie Mandylionu do Edessy
+11D312|'Veraicon', 'Sudarium', Chusta św. Weroniki
+#11D3121|'Vera Icon', held up by Veronica
+#11D3122|'Vera Icon', held up by angels
+#11D3123|'Vera Icon', held up by Peter and Paul
+#11D3124|'Vera Icon', held up by the four symbols of the evangelists
+11D313|'portret' Chrystusa zgodnie z listem Lentulusa
+11D314|'Volto Santo', np. z Lukki (przypisywany Nikodemowi)
+11D315|portret Chrystusa wykonany przez św. Łukasza
+11D316|wotum kobiety uzdrowionej z krwotoku
+11D317|(całopostaciowe) przedstawienie Chrystusa na całunie, 'Sindone'
+11D318|(inne) 'portrety' Chrystusa, np. portret z profilu
+11D32|szczególne typy dorosłego Chrystusa (bez innych osób)
+11D321|'Maiestas Domini' Chrystus w mandorli siedzący na tęczy lub globie z towarzyszeniem tetramorfy
+11D322|Chrystus tronujący
+11D3221|'Pantocrator', Chrystus (w popiersiu) wypowiadający błogosławieństwo lub czyniący gest błogosławieństwa i trzymający księgę
+11D3222|Chrystus Król
+11D3223|Chrystus jako (niebiański) sędzia
+11D323|Chrystus-'Logos', Słowo Wcielone
+11D324|'Salvator Mundi', czyniący gest błogosławieństwa; glob w Jego ręce lub u Jego stóp
+11D325|Chrystus ~ Eucharystia
+11D3251|Chrystus z kielichem i z chlebem lub hostią
+11D3252|Chrystus w tłoczni mistycznej, 'Christus in der Kelter' (Iz. 633)
+11D3253|Chrystus w młynie mistycznym
+11D326|'Fons Vitae', 'Fons Pietatis'
+11D3261|Chrystus stojący na lub przy fontannie, tryskający swą krwią
+11D3262|Chrystus na krzyżu (w fontannie), tryskający swą krwią
+11D327|Chrystus ~ zajęcia ludzkie
+#11D3271|Christ as Good Shepherd
+#11D3272|Christ as physician
+#11D32721|Christ as apothecary
+#11D3273|Christ fishing
+#11D3274|Christ as pedlar
+#11D3275|Christ as farmer or gardener
+#11D3276|Christ as host
+#11D3277|Christ as (high) priest or prophet
+#11D3278|Christ as pilgrim
+#11D3279|'Feiertagschristus', Christ with craftsman's tools
+11D328|typy dorosłego Chrystusa (występującego samodzielnie)
+#11D3281|Christ as woman
+#11D3282|Christ in orans attitude
+#11D3283|Christ as angel
+#11D3284|Christ ~ Orpheus
+#11D3285|Christ ~ Apollo (Helios)
+11D33|dorosły Chrystus razem z innymi osobami (przedstawienia nie narracyjne)
+11D331|dorosły Chrystus z Marią
+#11D3311|Christ and Mary as bridegroom and bride
+11D332|dorosły Chrystus razem z aniołami
+11D333|dorosły Chrystus ~ diabeł (diabły) i stworzenia demoniczne
+#11D3331|Christ triumphing over devil(s)
+11D334|dorosły Chrystus razem z apostołami, ewangelistami, świętymi itd.
+#11D3341|Christ with John the Evangelist leaning on his breast, 'Johannesminne', 'Christus-Johannes-Gruppe'
+#11D3342|'Traditio legis', 'Dominus legem dat', i.e. Christ giving a scroll (the Law) to Paul; Peter present
+#11D33421|Christ giving a scroll (the Law) to Paul; apostle(s) present
+#11D3343|Christ with penitent sinners (Adam, David, prodigal son, Mary Magdalene, good malefactor, Peter, etc.)
+11D335|dorosły Chrystus razem ze śmiertelnikami
+#11D3351|(adult) Christ appearing to mortals
+11D336|Chrystus triumfujący, np. na triumfalnym wozie
+11D337|Chrystus dosiadający konia
+#11D3371|Christ on horseback leading an army of knights, 'Militia Christi'
+11D34|dorosły Chrystus ~ pojęcia abstrakcyjne
+11D35|szczególne typy Chrystusa ukrzyżowanego (w kontekście nienarracyjnym)
+11D351|Chrystus cierpiący (w koronie cierniowiej, głowa zwykle skręcona na bok)
+11D352|Chrystus pokryty wrzodami, 'Pestkruzifixus'
+11D353|Chrystus triumfujący (z koroną, głowa zwykle wyprostowana)
+11D354|Chrystus pochylający się z krzyża by kogoś objąć
+11D355|Chrystus ukrzyżowany na drzewie lub winorośli
+11D356|Chrystus przybity do &quot;żywego&quot; krzyża
+11D357|Cnoty ~ Chrystus Ukrzyżowany
+11D36|inne typy Chrystusa ukrzyżowanego w kontekście nie narracyjnym
+11D4|legendy i przejawy czci ~ Chrystus
+11D41|legendy ~ Chrystus
+#11D411|legend of the True Cross
+#11D4111|Seth puts a branch from the Tree of Knowledge on Adam's grave ~ legend of the True Cross
+#11D41111|Seth searching for paradise; the angel gives him a twig or a flask of oil ~ legend of the True Cross
+#11D4112|the wood is used for the building of the temple of Solomon ~ the legend of the True Cross
+#11D4113|the wood, serving as a bridge, is worshipped by the queen of Sheba ~ the legend of the True Cross
+#11D4114|the wood is taken from the pool of Bethesda to serve as Christ's cross ~ legend of the True Cross
+#11D4115|Helena's vision of the Holy Cross borne by angels ~ legend of the True Cross
+#11D4116|the finding of the True Cross
+#11D41161|Judas, a Jew, put into a well by Helena, mother of Constantine ~ legend of the True Cross
+#11D41162|the three crosses are dug up near the temple of Venus ~ legend of the True Cross
+#11D41163|Helena identifies the True Cross: a human corpse is restored to life when it touches the cross
+#11D41164|Helena and Constantine kneeling before (or standing beside) the True Cross
+#11D4117|the raising of the True Cross, Exaltation of the Holy Cross
+#11D41171|Emperor Heraclius defeats Chosroes II of Persia, and recovers a part of the True Cross
+#11D41172|Heraclius' entry into Jerusalem: as asked by an angel, the emperor, stripped of his royal robes, carries the True Cross into the city
+#11D411721|emperor Heraclius' entry into Jerusalem, riding on an ass or on horseback ~ legend of the True Cross
+#11D41173|the True Cross is erected on Golgotha (or on an altar) ~ legend of the True Cross
+#11D41174|Chosroes II, having refused baptism, is executed ~ legend of the True Cross
+#11D412|legend of the bleeding Holy Lance
+#11D413|legend of the Holy Grail
+#11D414|the prophecy of Basilides: on his way to Jerusalem, emperor Titus consults Basilides the Carmelite, who shows him a vision of God the Father with the dead Christ
+11D42|kult ~ Chrystus
+#11D421|the Seven Bleedings of Christ
+#11D4211|single scenes of the Seven Bleedings of Christ
+#11D422|the Sacred Heart
+#11D423|the Sacred Blood
+#11D424|the Sacred Tear
+#11D425|Christ's length
+11D43|relikwie ~ Chrystus
+#11D431|splinters of the cross ~ relics of Christ
+#11D432|nails of the cross ~ relics of Christ
+#11D433|the Holy Lance ~ relics of Christ
+#11D434|Christ's robe ~ relics of Christ
+#11D435|'Scala Santa', the stairs of Pilate's palace ~ relics of Christ
+11D5|idee mistyczne ~ Chrystus
+#11D51|Christ and the Soul
+#11D511|the Soul as bride of Christ
+#11D52|Christ and the human heart
+#11D53|Christ's blood saving mankind
+11D6|cudowne rzeźby Chrystusa lub Dzieciątka Jezus
+#11D6(...)|miraculous statues of Christ or the Christ-child (with NAME)
+11D9|Antychryst
+#11D91|scenes from the life of the Antichrist
+11DD3|Chrystus jako dorosły - DD - Chrystus bez brody
+#11DD31|'portraits' of Christ - DD - Christ beardless
+#11DD311|'Mandylion', i.e. portrait, perhaps made for King Abgar of Edessa by Christ himself, by pressing his face against a cloth - DD - Christ beardless
+#11DD3111|Christ gives the Mandylion to the messenger of King Abgar - DD - Christ beardless
+#11DD3112|the Mandylion is brought to Edessa - DD - Christ beardless
+#11DD312|'Vera Icon', 'Sudarium', Veronica-portrait - DD - Christ triumphant
+#11DD3121|'Vera Icon', held up by Veronica - DD - Christ triumphant
+#11DD3122|'Vera Icon', held up by angels - DD - Christ triumphant
+#11DD3123|'Vera Icon' held up by Peter and Paul - DD - Christ triumphant
+#11DD313|'portrait' of Christ according to the letter of Lentulus - DD - Christ beardless
+#11DD314|'Volto Santo', e.g. of Lucca (perhaps carved by Nicodemus) - DD - Christ beardless
+#11DD315|portrait of Christ made by Luke - DD - Christ beardless
+#11DD316|ex-voto of the woman healed from the issue of blood - DD - Christ beardless
+#11DD317|(full-length) image of Christ on shroud, 'Sindone' - DD - Christ beardless
+#11DD318|(other) 'portraits' of Christ, e.g. profile portrait - DD - Christ beardless
+#11DD32|particular types of adult Christ (without others) - DD - Christ beardless
+#11DD321|'Majestas Domini': Christ in mandorla seated on a rainbow or sphere and accompanied by the Tetramorph - DD - Christ beardless
+#11DD322|Christ enthroned - DD - Christ beardless
+#11DD3221|'Pantocrator', (bust of) Christ, making a speaking or blessing gesture and holding a book - DD - Christ beardless
+#11DD3222|'Christus Rex' - DD - Christ beardless
+#11DD3223|Christ as (heavenly) judge - DD - Christ beardless
+#11DD323|Christ-'Logos', the Word Incarnate - DD - Christ beardless
+#11DD324|'Salvator Mundi', making a blessing gesture; an orb in his hand or at his feet - DD - Christ beardless
+#11DD325|Christ ~ the Eucharist - DD - Christ beardless
+#11DD3251|Christ with chalice, and bread or Host - DD - Christ beardless
+#11DD3252|Christ in the wine-press, 'Christus in der Kelter' (Is. 63:3) - DD - Christ beardless
+#11DD3253|Christ in the symbolic mill - DD - Christ beardless
+#11DD326|'Fons Vitae', 'Fons Pietatis' - DD - Christ beardless
+#11DD3261|Christ standing on or near a fountain, shedding his blood - DD - Christ beardless
+#11DD3262|Christ on the cross (in a fountain), shedding his blood - DD - Christ beardless
+#11DD327|Christ ~ human occupations - DD - Christ beardless
+#11DD3271|Christ as Good Shepherd - DD - Christ beardless
+#11DD3272|Christ as physician - DD - Christ beardless
+#11DD32721|Christ as apothecary - DD - Christ beardless
+#11DD3273|Christ fishing - DD - Christ beardless
+#11DD3274|Christ as pedlar - DD - Christ beardless
+#11DD3275|Christ as farmer or gardener - DD - Christ beardless
+#11DD3276|Christ as host - DD - Christ beardless
+#11DD3277|Christ as (high) priest or prophet - DD - Christ beardless
+#11DD3278|Christ as pilgrim - DD - Christ beardless
+#11DD3279|'Feiertagschristus', Christ with craftsman's tools - DD - Christ beardless
+#11DD328|types of adult Christ (alone) - DD - Christ beardless
+#11DD3281|Christ as woman - DD - Christ beardless
+#11DD3282|Christ in orans attitude - DD - Christ beardless
+#11DD3283|Christ as angel - DD - Christ beardless
+#11DD3284|Christ ~ Orpheus - DD - Christ beardless
+#11DD3285|Christ ~ Apollo (Helios) - DD - Christ beardless
+#11DD33|adult Christ together with others (non-narrative representations) - DD - Christ beardless
+#11DD331|adult Christ with Mary - DD - Christ beardless
+#11DD3311|Christ and Mary as bridegroom and bride - DD - Christ beardless
+#11DD332|adult Christ together with angels - DD - Christ beardless
+#11DD333|adult Christ ~ devil(s) and demonic creatures - DD - Christ beardless
+#11DD3331|Christ triumphing over devil(s) - DD - Christ beardless
+#11DD334|adult Christ together with apostles, evangelists, saints, etc. - DD - Christ beardless
+#11DD3341|Christ with John the Evangelist leaning on his breast, 'Johannesminne', 'Christus-Johannes-Gruppe' - DD - Christ beardless
+#11DD3342|'Traditio legis', 'Dominus legem dat', i.e. Christ giving a scroll (the Law) to Paul; Peter present - DD - Christ beardless
+#11DD33421|Christ giving a scroll (the Law) to Paul; apostle(s) present - DD - Christ beardless
+#11DD3343|Christ with penitent sinners (Adam, David, prodigal son, Mary Magdalene, good malefactor, Peter, etc.) - DD - Christ beardless
+#11DD335|adult Christ together with mortals - DD - Christ scornful, threatening, etc.
+#11DD3351|(adult) Christ appearing to mortals - DD - Christ scornful, threatening, etc.
+#11DD336|triumphant Christ, e.g. on triumphal chariot - DD - Christ beardless
+#11DD337|Christ on horseback - DD - Christ beardless
+#11DD3371|Christ on horseback leading an army of knights, 'Militia Christi' - DD - Christ beardless
+#11DD34|adult Christ ~ abstract conceptions - DD - Christ beardless
+#11DD35|specific types of crucified Christ (in non-narrative context) - DD - Christ beardless
+#11DD351|Christ suffering (with crown of thorns, head usually turned sidewards) - DD - Christ beardless
+#11DD352|Christ covered with pest-sores, 'Pestkruzifixus' - DD - Christ beardless
+#11DD353|Christ triumphing (with crown, head usually upright) - DD - Christ beardless
+#11DD354|Christ bowing down from the cross to embrace someone - DD - Christ beardless
+#11DD355|Christ crucified on a tree or on a vine - DD - Christ beardless
+#11DD356|Christ crucified on a 'living' cross - DD - Christ beardless
+#11DD357|the Virtues ~ crucified Christ - DD - Christ beardless
+#11DD36|other types of crucified Christ in non-narrative context - DD - Christ beardless
+#11DD422|the Sacred Heart - DD - the Christ-child and the Sacred Heart
+11E|Duch Święty
+11E1|Duch Święty przedstawiony jako gołębica (w płomieniach)
+11E2|Duch Święty przedstawiony jako płomienie
+11E3|Duch Święty przedstawiony w ludzkiej postaci
+11E4|Duch Święty przedstawiony w inny sposób, np. promień (promienie) światła
+11E5|siedem darów Ducha Świętego
+#11E51|the seven gifts of the Holy Ghost represented as seven doves
+#11E52|the seven gifts of the Holy Ghost represented as seven flames
+#11E53|the seven gifts of the Holy Ghost represented as seven lamps or as a seven-branched candelabrum
+#11E54|separate representations of the seven gifts of the Holy Ghost
+#11E541|'Sapientia', Wisdom; 'Sapienza divina' (Ripa) ~ one of the seven gifts of the Holy Ghost
+#11E542|'Intellectus', 'Intelligentia', Understanding ~ one of the seven gifts of the Holy Ghost
+#11E543|'Consilium', Counsel ~ one of the seven gifts of the Holy Ghost
+#11E544|'Fortitudo', Fortitude ~ one of the seven gifts of the Holy Ghost
+#11E545|'Pietas', Piety ~ one of the seven gifts of the Holy Ghost
+#11E546|'Scientia', Knowledge ~ one of the seven gifts of the Holy Ghost
+#11E547|'Timor Domini', Holy Fear ~ one of the seven gifts of the Holy Ghost
+11F|Najświętsza Maria Panna
+11F1|symbole i prefiguracje Marii
+#11F11|symbols of Mary
+#11F111|symbols of Mary from litanies
+#11F111(...)|symbols (of Mary) from litanies (with TEXT)
+#11F112|Mary or Madonna with symbols of the Lauretanian Litany
+#11F12|monograms of Mary
+#11F13|coat of arms of Mary
+#11F14|'Defensorium inviolatae virginitatis'; symbols of virginal motherhood
+#11F15|prefigurations of Mary; Mary and her prefigurations
+11F2|Maria (bez Dzieciątka Jezus)
+#11F21|Mary as child
+#11F22|'portraits' of Mary
+#11F23|upright figures of Mary without the Christ-child
+#11F231|Mary as orante (sometimes called 'Blacherniotissa')
+#11F232|'Immaculata', 'Purisima': Mary, usually standing on a crescent moon, descending from heaven, exempt from original sin (sometimes trampling serpent)
+#11F2321|'Immaculata', 'Purisima': Mary with saints
+#11F233|Mary standing or resting on the earth
+#11F234|pregnant Mary, Our Lady of Expectation, 'Madonna del Parto'
+#11F2341|pregnant Mary, Christ-child visible
+#11F235|opening Virgin
+#11F2351|Trinity inside the opening Virgin
+#11F2352|Passion of Christ inside the opening Virgin
+#11F236|'Aehrenkleidmaria' (sometimes with Christ-child)
+#11F24|sitting figures of Mary (alone)
+#11F241|Our Lady of the Sorrows
+#11F2411|the (Seven) Sorrows of Mary
+#11F2412|Mary pierced by seven swords
+#11F242|Our Lady of the Joys
+#11F2421|the (Seven) Joys of Mary
+#11F243|Mary and the unicorn
+#11F244|Mary enthroned
+#11F26|other types of Mary (alone)
+#11F25|'Mater Dolorosa'
+#11F251|Mary weeping
+#11F252|Mary pierced by a sword
+#11F253|Mary with the instruments of the Passion
+#11F261|Mary as bride of the Holy Ghost (with a dove on her bosom)
+#11F262|Mary as shepherdess
+#11F263|Mary as pilgrim
+#11F264|Mary as hermit (after Christ's death), 'Nostra señora de la Soledad'
+#11F265|Mary as doctor
+#11F266|Mary conquering the devil
+#11F267|Mary saving soul(s)
+#11F268|Mary as priestess, administering the Eucharist
+11F3|Maria (bez Dzieciątka Jezus) z towarzyszeniem innych osób
+#11F31|Mary interceding (with Christ), 'Maria Mediatrix' (sometimes Mary showing her breasts)
+#11F32|Mary together with mortals, who adore her, or implore her to help
+#11F33|Mary giving milk from her breasts, 'Lactatio'
+#11F34|Mary protecting mankind against the plague, e.g. by hiding people under her cloak; 'Pestbild'
+#11F35|Mary as Queen of the apostles
+#11F36|triumph of Mary, on triumphal chariot
+11F4|Madonna tj. Matka Boska z Dzieciątkiem
+11F41|Madonna Maria stojąca (lub w półpostaci), Dzieciątko blisko Jej piersi
+11F411|Maria stojąca (lub w półpostaci, Dzieciątko przed Nią, blisko jej piersi
+#11F4111|Mary standing (or half-length), the Christ-child in front of her, close to her bosom; standing
+#11F4112|Mary standing (or half-length), the Christ-child in front of her, close to her bosom; sitting
+#11F41121|'Nikopoia' ~ Madonna
+#11F4113|Mary standing (or half-length), the Christ-child in front of her, close to her bosom; lying
+11F412|Maria stojąca (lub w półpostaci), Dzieciątko na Jej ramieniu (po lewej stronie Marii)
+11F4121|Maria stojąca (lub w półpostaci), Dzieciątko stojące na Jej ramieniu (po lewej stronie Marii)
+11F4122|Maria stojąca (lub w półpostaci), Dzieciątko siedzące na Jej ramieniu (po lewej stronie Marii)
+#11F41221|'Hodegetria' ~ Madonna
+#11F41222|'Dexiocratousa' ~ Madonna
+#11F41223|'Eleousa', 'Glykophilousa' ~ Madonna
+11F4123|Maria stojąca (lub w półpostaci), Dzieciątko leżące na Jej ramieniu (po lewej stronie Marii)
+#11F41231|'Galaktotrophousa' ~ Madonna
+11F413|szczególne typy stojącej (lub półpostaciowej) Madonny, bez innych osób
+#11F4131|'Platytera', i.e. Mary in orans-position with the Christ-child in a clipeus in front of her
+#11F41311|Mary, usually with the Christ-child, in orans-position in a fountain (of life)
+#11F4132|Madonna on the crescent of the moon (sometimes called Queen of Heaven) (in mandorla)
+#11F4133|Christ-child on Mary's arm fighting the dragon
+#11F4134|'Madonna della Vittoria', triumphing, e.g. over Protestantism
+#11F4135|'Marianum', Madonna in aureole or mandorla (surrounded by the rosary), Mary in the Glory
+#11F4136|Madonna on a column, 'Mariensäule'
+#11F4137|Madonna standing (or sitting) on a lion (of Judah)
+11F42|Madonna Maria siedząca lub tronująca, Dzieciątko na Jej kolanach (lub przed jej torsem) (Maria czasami przedstawiona w półpostaci)
+#11F421|Mary sitting or enthroned, the Christ-child in front of her in her lap (or in front of her bosom)
+#11F4211|Mary sitting or enthroned, the Christ-child in front of her, standing in her lap (or in front of her bosom)
+#11F4212|Mary sitting or enthroned, the Christ-child in front of her, sitting in her lap (or in front of her bosom)
+#11F42121|'Sedes Sapientiae'
+#11F42122|Madonna (or Mary alone) on the throne of Solomon, sometimes surrounded by virtues
+#11F4213|Mary sitting or enthroned, the Christ-child in front of her, lying in her lap (or in front of her bosom), sometimes in Pietà-posture
+#11F422|Mary sitting or enthroned, the Christ-child on her knee (Christ-child to Mary's left)
+#11F4221|Mary sitting or enthroned, the Christ-child standing on her knee (Christ-child to Mary's left)
+#11F4222|Mary sitting or enthroned, the Christ-child sitting on her knee (Christ-child to Mary's left)
+#11F4223|Mary sitting or enthroned, the Christ-child lying on her knee (Christ-child to Mary's left)
+#11F423|specific types of Madonna's sitting or enthroned (without others)
+#11F4231|Madonna in the rose-garden, 'Paradiesgärtlein'
+#11F4232|Madonna surrounded by a garland of flowers (or fruits)
+#11F4233|Madonna in a tree
+11F43|Madonna Maria siedząca na ziemi, Dzieciątko na Jej kolanach
+#11F431|Mary sitting on the ground, the Christ-child in front of her in her lap
+#11F4311|Mary sitting on the ground, the Christ-child in front of her, standing in her lap
+#11F4312|Mary sitting on the ground, the Christ-child in front of her, sitting in her lap
+#11F4313|Mary sitting on the ground, the Christ-child in front of her, lying in her lap
+#11F43131|'Madonna dell'Umiltà' (usually Mary suckling the Christ-child while sitting on the ground)
+#11F4314|Mary sitting on the ground, the Christ-child in front of her, kneeling in her lap
+#11F432|Mary sitting on the ground, the Christ-child in her lap or on her knee (Christ-child to Mary's left)
+#11F4321|Mary sitting on the ground, the Christ-child standing or stepping in Mary's lap or on her knee (Christ-child to Mary's left)
+#11F4322|Mary sitting on the ground, the Christ-child sitting in Mary's lap or on her knee (Christ-child to Mary's left)
+#11F4323|Mary sitting on the ground, the Christ-child lying in Mary's lap or on her knee (Christ-child to Mary's left)
+#11F4324|Mary sitting on the ground, the Christ-child kneeling in Mary's lap or on her knee (Christ-child to Mary's left)
+11F44|Madonna Maria (stojąca) z Dzieciątkiem stojącym obok (lub opartym o Nią)
+#11F441|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her)
+#11F4411|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her); Christ-child standing
+#11F4412|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her); Christ-child sitting
+#11F4413|Mary (standing) with the Christ-child in front of her (free-standing); Christ-child lying
+#11F4414|Mary (standing) with the Christ-child in front of her (free-standing or leaning against her); Christ-child kneeling
+#11F442|Mary (standing) with the Christ-child beside her (free-standing or leaning against her)
+#11F4421|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child standing
+#11F4422|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child sitting
+#11F4423|Mary (standing) with the Christ-child beside her (free-standing); Christ-child lying
+#11F4424|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child kneeling
+11F45|Maria klęcząca (na ziemi), Dzieciątko przed Nią
+#11F451|Mary kneeling (on the ground), the Christ-child standing in front of her
+#11F452|Mary kneeling (on the ground), the Christ-child sitting in front of her
+#11F453|Mary kneeling (on the ground), the Christ-child lying in front of her
+#11F454|Mary kneeling (on the ground), the Christ-child kneeling in front of her
+11F46|Dzieciątko siedzące na ramieniu Marii
+11F461|Maria stojąca, Dzieciątko siedzi na Jej ramieniu
+#11F462|Mary sitting, enthroned, the Christ-child sitting on her shoulder
+#11F463|Mary sitting on the ground, the Christ-child sitting on her shoulder
+#11F464|Mary kneeling, the Christ-child sitting on her shoulder
+11F5|Madonna (tj. Matka Boska z Dzieciątkiem) w powietrzu lub w chmurach
+11F6|Madonna (tj. Matka Boska z Dzieciątkiem) z towarzyszeniem lub w otoczeniu innych osób
+11F61|Madonna z towarzyszeniem świętego (świętych)
+#11F611|'Sacra Conversazione'
+#11F612|'Ueber dich freut sich'
+11F62|szczególne przedstawienia Madonny razem z innymi osobami
+#11F621|'Regina Coeli', 'Regina Angelorum', 'Maestà' ~ Madonna
+#11F6211|'Regina Coeli', 'Regina Angelorum', 'Maestà', John the Baptist present
+#11F622|'Virgo inter Virgines'
+#11F623|Madonna of the Rosary
+#11F624|Mother of Mercy, 'Mater Misericordiae', 'Schutzmantelmadonna', 'Schutzmantelmaria'
+11F63|Madonna (lub Maria bez Dzieciątka) jako patronka lub obrończyni np. bractwa lub tercjarzy
+11F7|szczególna ikonografia ~ przedstawienia Madonny (uwaga jedynie drugorzędne aspekty)
+#11F71|specific aspects of Christ-child ~ Madonna-representations (N.B. secondary notation only)
+#11F711|Christ-child making speaking or blessing gestures ~ Madonna-representations
+#11F712|Christ-child looking out of the picture ~ Madonna-representations
+#11F713|Christ-child looking towards saint(s) or donor(s) ~ Madonna-representations
+#11F714|Christ-child sleeping ~ Madonna-representations
+#11F715|Christ-child holding something in his hand, e.g. apple, bird, cherries, crucifix, grapes, paper wind-mill ~ Madonna-representations
+#11F7151|Christ-child handing over something to someone ~ Madonna-representations
+#11F7152|Christ-child accepting, reaching out for something ~ Madonna-representations
+#11F716|Christ-child eating ~ Madonna-representations
+#11F717|Christ-child playing ~ Madonna-representations
+#11F7171|Christ-child playing with angels ~ Madonna-representations
+#11F7172|Christ-child playing with lamb ~ Madonna-representations
+#11F72|specific aspects of Christ-child and Mary ~ Madonna-representations (N.B. secondary notation only)
+#11F721|Christ-child looking or turning to Mary ~ Madonna-representations
+#11F722|Christ-child reaching out towards Mary; showing her something ~ Madonna-representations
+#11F723|Christ-child lifting Mary's veil, grappling at her dress, laying his hands on her breast ~ Madonna-representations
+#11F724|Christ-child throwing his arm(s) around her neck ~ Madonna-representations
+#11F725|Christ-child cheek to cheek with Mary, or kissing her ~ Madonna-representations
+#11F726|Christ-child suckling, or beginning to suckle, e.g. Mary uncovering her breast ~ Madonna-representations
+#11F7261|'ablactatio'; Christ not drinking, Mary's breast bare ~ Madonna-representations
+#11F7269|Christ-child refusing to drink from Mary's breast ~ Madonna-representation
+#11F727|Mary holding the inkpot, the Christ-child writing ~ Madonna-representations
+#11F728|the Christ-child crowning Mary ~ Madonna-representations
+#11F73|specific aspects of Mary ~ Madonna-representations (N.B. secondary notation only)
+#11F731|Mary holding something, e.g. apple, bunch of grapes, crucifix, goldfinch ~ Madonna-representations
+#11F732|Mary sitting on steps or a staircase ~ Madonna-representations
+#11F74|other specific aspects of Madonna-representations
 #11F741|John the Baptist as child ~ Madonna-representations (N.B. secondary notation only)
-11F8|奇蹟，顯現和傳說〜馬利亞
+11F8|cuda, objawienia i legendy ~ Matka Boska
 #11F81|miraculous statues of Mary or the Madonna
 #11F81(...)|miraculous statues of Mary or the Madonna (with NAME)
 #11F82|appearances of Mary
@@ -513,18 +512,18 @@
 #11F832|legend of the Jewish boy, who was burned after having taken the host; he was saved by Mary
 #11F833|Mary saving a child that was dedicated to the devil
 #11F834|the house of Nazareth which came to Loreto (Mary-miracle)
-11F9|敬禮瑪麗
-#11F91|sacred heart of Mary
-11F92|瑪麗的遺物
-11FF25|'Mater Dolorosa' - FF - 'Mater Dolorosa', 頭像或胸像
+11F9|cześć oddawana Matce Boskiej
+11F91|Najświętsze Serce Maryi
+11F92|relikwie Marii
+#11FF25|'Mater Dolorosa' - FF - 'Mater Dolorosa', head or bust
 #11FF251|Mary weeping - FF - 'Mater Dolorosa', head or bust
 #11FF252|Mary pierced by a sword - FF - 'Mater Dolorosa', head or bust
 #11FF253|Mary with the instruments of the Passion - FF - 'Mater Dolorosa', head or bust
-#11FF412|Mary standing (or half-length), the Christ-child on her arm (Christ-child to Mary's left) - FF - the Christ-child to Mary's right
-#11FF4121|Mary standing (or half-length), the Christ-child standing on her arm (Christ-child to Mary's left) - FF - the Christ-child to Mary's right
-#11FF4122|Mary standing (or half-length), the Christ-child sitting on her arm (Christ-child to Mary's left) - FF - the Christ-child to Mary's right
+11FF412|Maria stojąca (lub w półpostaci), Dzieciątko na Jej ramieniu (po lewej stronie Marii) - FF - Dzieciątko po prawej stronie Marii
+11FF4121|Maria stojąca (lub w półpostaci), Dzieciątko stojące na Jej ramieniu (po lewej stronie Marii) - FF - Dzieciątko po prawej stronie Marii
+11FF4122|Maria stojąca (lub w półpostaci), Dzieciątko siedzące na Jej ramieniu (po lewej stronie Marii) - FF - Dzieciątko po prawej stronie Marii
 #11FF41223|'Eleousa', 'Glykophilousa' ~ Madonna - FF - the Christ-child to Mary's right
-#11FF4123|Mary standing (or half-length), the Christ-child lying on her arm (Christ-child to Mary's left) - FF - the Christ-child to Mary's right
+11FF4123|Maria stojąca (lub w półpostaci), Dzieciątko leżące na Jej ramieniu (po lewej stronie Marii) - FF - Dzieciątko po prawej stronie Marii
 #11FF41231|'Galaktotrophousa' ~ Madonna - FF - the Christ-child to Mary's right
 #11FF422|Mary sitting or enthroned, the Christ-child on her knee (Christ-child to Mary's left) - FF - the Christ-child to Mary's right
 #11FF4221|Mary sitting or enthroned, the Christ-child standing on her knee (Christ-child to Mary's left) - FF - the Christ-child to Mary's right
@@ -546,16 +545,16 @@
 #11FF4422|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child sitting - FF - Mary sitting or enthroned
 #11FF4423|Mary (standing) with the Christ-child beside her (free-standing); Christ-child lying - FF - Mary sitting or enthroned
 #11FF4424|Mary (standing) with the Christ-child beside her (free-standing or leaning against her); Christ-child kneeling - FF - Mary sitting or enthroned
-11G|天使
-11G1|九個天使合唱團，天使的等級
-#11G11|Seraphim
-#11G12|Cherubim
-#11G13|Thrones (holding thrones) ~ hierarchy of angels
-#11G14|Dominations (with sceptre and sword) ~ hierarchy of angels
-#11G15|Virtues (holding instruments of the Passion) ~ hierarchy of angels
-#11G16|Powers (with flaming sword) ~ hierarchy of angels
-#11G17|Princedoms (with sword, sceptre and cross) ~ hierarchy of angels
-#11G18|the seven Archangels
+11G|anioły
+11G1|dziewięć chórów anielskich; hierarchia aniołów
+11G11|serafini
+11G12|cherubini
+11G13|trony (podtrzymujące trony) ~ hierarchia aniołów
+11G14|panowania (z berłem i mieczem) ~ hierarchia aniołów
+11G15|moce (trzymające narzędzia Męki) ~ hierarchia aniołów
+11G16|zwierzchności (z płonącym mieczem) ~ hierarchia aniołów
+11G17|księstwa (z mieczem, berłem i krzyżem) ~ hierarchia aniołów
+11G18|siedmiu archaniołów
 #11G181|group of four Archangels
 #11G182|group of three canonical Archangels: Michael, Gabriel, and Raphael
 #11G183|the Archangel Michael (often in armour with sword or lance)
@@ -571,28 +570,28 @@
 #11G186|other archangels than Michael, Gabriel and Raphael
 #11G186(...)|other archangels than Michael, Gabriel and Raphael (with NAME)
 #11G186(URIEL)|other archangels than Michael, Gabriel and Raphael: Uriel
-#11G19|lower angel(s)
-#11G191|angel(s) represented as child(ren)
-#11G1911|cherubs, i.e. children's heads with wings
-#11G192|angel(s) represented as youth(s) or adult(s)
+11G19|anioł(y) niższy(e)
+11G191|anioł(y) przedstawiony(e) jako dziecko(dzieci), putto (putta)
+11G1911|cherubki, tj. dziecięce główki ze skrzydłami
+11G192|anioł(y) przedstawiony(eni) jako młodzieniec(ńcy) lub dorosły(śli)
 #11G1921|angel(s) with book(-scroll) or banderole
 #11G1922|angel(s) with sceptre and/or globe
 #11G1923|angel(s) with torch
 #11G1924|angel(s) with censer
 #11G1925|angel(s) with chalice
 #11G1926|angel(s) with other object(s), e.g. weapons
-#11G193|female angels
-#11G194|angels in other than human form
+11G193|anioły kobiece
+11G194|anioły w postaci innej niż ludzka
 #11G1941|angels as rays of light
 #11G1942|angels as wheel with wings
-11G2|天使的活動（在天國）
-#11G21|angels singing, making music
-#11G22|angels celebrating the Eucharist
-#11G23|angels crowning and/or bringing palm-branches
-#11G24|angels holding a curtain
-#11G25|angels in adoration
-#11G26|angels riding on horseback
-11G3|搏鬥的天使
+11G2|działania aniołów (w niebie)
+11G21|anioły śpiewające, muzykujące
+11G22|anioły oddające cześć eucharystii
+11G23|anioły koronujące i/lub przynoszące gałązki palmowe
+11G24|anioły podtrzymujące zasłonę
+11G25|anioły adorujące
+11G26|anioły jadące konno
+11G3|walczące anioły
 #11G31|the Archangel Michael fighting the dragon (devil, Satan)
 #11G311|Michael resting beside the dragon's corpse
 #11G32|the Archangel Michael (and other angels) casting the rebel angels out of heaven
@@ -600,13 +599,13 @@
 #11G33|fall of the rebel angels, who become devils
 #11G331|the fall of Satan, fall of Lucifer
 #11G34|angels fighting against other evil powers
-11G4|天使的特定方面，如干預人事
+11G4|szczególne przedstawienia aniołów np. interweniujących w sprawach ludzkich
 #11G41|guardian angel
 #11G42|angels rescuing a soul pursued by devils
 #11G43|destroying angel
 #11G44|angel as patron
 #11G44(...)|angel as patron (with NAME)
-#11GG19|lower angel(s) - GG - lower angel(s) without wings
+11GG19|anioł(y) niższy(e) - GG - anioł(y) niższy(e) bez skrzydeł
 #11GG191|angel(s) represented as child(ren) - GG - lower angel(s) without wings
 #11GG192|angel(s) represented as youth(s) or adult(s) - GG - lower angel(s) without wings
 #11GG1921|angel(s) with book(-scroll) or banderole - GG - lower angel(s) without wings
@@ -618,17 +617,17 @@
 #11GG193|female angels - GG - lower angel(s) without wings
 #11GG194|angels in other than human form - GG - lower angel(s) without wings
 #11GG1941|angels as rays of light - GG - lower angel(s) without wings
-11H|聖徒
-#11H(...)|男性聖徒（人名 ）
-11H(...)0|男性聖徒（人名） - 一組男性聖徒的再現
-11H(...)1|男性聖徒（人名） - 特定方面〜男性聖徒
+11H|święci
+11H(...)|święci (z IMIENIEM)
+11H(...)0|święci (z IMIENIEM) - święty przedstawiony w grupie
+11H(...)1|święci (z IMIENIEM) - szczególne aspekty ~ święty
 #11H(...)11|male saints (with NAME) - male saint as patron, protector, intercessor
 #11H(...)119|male saints (with NAME) - male saint protecting devotees with cloak, 'Schutzmantel'
 #11H(...)12|male saints (with NAME) - male saint writing, studying, teaching, dictating (e.g. as Doctor of the Church)
 #11H(...)13|male saints (with NAME) - male saint as founder of Order
 #11H(...)131|male saints (with NAME) - male saint ~ confirmation of Order, approval of Rule(s)
-11H(...)2|男性聖徒（人名） - 男性聖徒的早年生活
-11H(...)3|男性聖徒（人名 ） - 男性聖徒的個人敬禮
+11H(...)2|święci (z IMIENIEM) - wczesne życie świętego
+11H(...)3|święci (z IMIENIEM) - osobiste nabożeństwo świętego
 #11H(...)31|male saints (with NAME) - vocation, conversion of male saint
 #11H(...)32|male saints (with NAME) - baptism, consecration, taking vows of male saint
 #11H(...)33|male saints (with NAME) - renouncing worldly goods, ascetic life of male saint
@@ -636,19 +635,19 @@
 #11H(...)35|male saints (with NAME) - temptation of male saint
 #11H(...)36|male saints (with NAME) - penitence of male saint
 #11H(...)37|male saints (with NAME) - male saint meditating, in ecstasy
-#11H(...)4|男性聖徒（人名） - 非奇蹟般的活動和事件〜男性聖徒
-#11H(...)5|男性聖徒（人名） - 神奇的活動和事件〜男性聖徒
+11H(...)4|święci (z IMIENIEM) - nie cudowne działania i zdarzenia ~ święty
+11H(...)5|święci (z IMIENIEM) - cudowne działania i zdarzenia ~ święty
 #11H(...)59|male saints (with NAME) - stigmatization of male saint
-#11H(...)6|男性聖徒（人名） - 殉難，苦難，不幸，男性聖徒的死亡
+11H(...)6|święci (z IMIENIEM) - męczeństwo, cierpienia, przeciwności, śmierć świętego
 #11H(...)68|male saints (with NAME) - death, deathbed of male saint
 #11H(...)69|male saints (with NAME) - maltreatment of corpse of male saint
-#11H(...)7|男性聖徒（人名） - 男性聖徒被封為聖徒, 光榮, 勝利
-#11H(...)8|男性聖徒（人名 ）- 死後經歷〜男性聖徒
+11H(...)7|święci (z IMIENIEM) - apoteoza, chwała, triumf świętego
+11H(...)8|święci (z IMIENIEM) - zdarzenia pośmiertne ~ święty
 #11H(...)81|male saints (with NAME) - finding, transportation of relics of male saint
 #11H(...)82|male saints (with NAME) - miracles occurring during handling of relics of male saint
 #11H(...)83|male saints (with NAME) - posthumous deeds, appearances of male saints
 #11H(...)84|male saints (with NAME) - beatification, canonization of male saint
-#11H(...)9|男性聖徒（人名） - 男性聖徒的肖像
+11H(...)9|święci (z IMIENIEM) - portret świętego
 #11H(ACHATIUS)|the warrior martyr Achatius (Acacius); possible attributes: bunch of thorns, crucifix, sword
 #11H(ACHATIUS)0|the warrior martyr Achatius (Acacius); possible attributes: bunch of thorns, crucifix, sword - male saint represented in a group
 #11H(ACHATIUS)1|the warrior martyr Achatius (Acacius); possible attributes: bunch of thorns, crucifix, sword - specific aspects ~ male saint
@@ -713,7 +712,7 @@
 #11H(ADRIAN)83|the warrior martyr Adrian(us) of Nicomedia; possible attributes: anvil, axe, hammer, lion, sword - posthumous deeds, appearances of male saints
 #11H(ADRIAN)84|the warrior martyr Adrian(us) of Nicomedia; possible attributes: anvil, axe, hammer, lion, sword - beatification, canonization of male saint
 #11H(ADRIAN)9|the warrior martyr Adrian(us) of Nicomedia; possible attributes: anvil, axe, hammer, lion, sword - portrait of male saint
-#11H(ALBERT THE GREAT)|the Dominican friar and bishop of Ratisbon Albert the Great (Albertus Magnus); possible attributes: book, doctor's cap, pen
+11H(ALBERT THE GREAT)|zakonnik dominikański i biskup Ratyzbony Albert Wielki (Albertus Magnus); możliwe atrybuty książka, biret doktorski, pióro
 #11H(ALBERT THE GREAT)0|the Dominican friar and bishop of Ratisbon Albert the Great (Albertus Magnus); possible attributes: book, doctor's cap, pen - male saint represented in a group
 #11H(ALBERT THE GREAT)1|specific aspects ~ St. Albert the Great
 #11H(ALBERT THE GREAT)11|specific aspects ~ St. Albert the Great - male saint as patron, protector, intercessor
@@ -869,7 +868,7 @@
 #11H(AMAND)83|Amand(us) of Maastricht; possible attributes: snake - posthumous deeds, appearances of male saints
 #11H(AMAND)84|Amand(us) of Maastricht; possible attributes: snake - beatification, canonization of male saint
 #11H(AMAND)9|Amand(us) of Maastricht; possible attributes: snake - portrait of male saint
-#11H(AMBROSE)|Ambrose, bishop of Milan; possible attributes: beehive, cradle with baby, three-knotted scourge
+11H(AMBROSE)|Ambroży, biskup Mediolanu; możliwe atrybuty ul, kołyska z dzieckiem, bicz z trzema węzłami
 #11H(AMBROSE)0|Ambrose, bishop of Milan; possible attributes: beehive, cradle with baby, three-knotted scourge - male saint represented in a group
 #11H(AMBROSE)1|specific aspects ~ St. Ambrose
 #11H(AMBROSE)11|specific aspects ~ St. Ambrose - male saint as patron, protector, intercessor
@@ -2889,7 +2888,7 @@
 #11H(GREGORY OF NAZIANZUS)83|the monk and bishop Gregory of Nazianzus, also called the Theologian; possible attributes: book, scroll - posthumous deeds, appearances of male saints
 #11H(GREGORY OF NAZIANZUS)84|the monk and bishop Gregory of Nazianzus, also called the Theologian; possible attributes: book, scroll - beatification, canonization of male saint
 #11H(GREGORY OF NAZIANZUS)9|the monk and bishop Gregory of Nazianzus, also called the Theologian; possible attributes: book, scroll - portrait of male saint
-#11H(GREGORY)|pope Gregory the Great; possible attributes: dove, emperor Trajan
+11H(GREGORY)|papież Grzegorz Wielki; możliwe atrybuty gołąb, cesarz Trajan
 #11H(GREGORY)0|pope Gregory the Great; possible attributes: dove, emperor Trajan - male saint represented in a group
 #11H(GREGORY)1|specific aspects ~ St. Gregory the Great
 #11H(GREGORY)11|specific aspects ~ St. Gregory the Great - male saint as patron, protector, intercessor
@@ -3217,7 +3216,7 @@
 #11H(HUGH)83|Hugh (Hugo), bishop of Grenoble (often dressed as Carthusian); possible attributes: seven stars - posthumous deeds, appearances of male saints
 #11H(HUGH)84|Hugh (Hugo), bishop of Grenoble (often dressed as Carthusian); possible attributes: seven stars - beatification, canonization of male saint
 #11H(HUGH)9|Hugh (Hugo), bishop of Grenoble (often dressed as Carthusian); possible attributes: seven stars - portrait of male saint
-#11H(HYACINTH)|the Dominican friar Hyacinth(us) of Poland; possible attributes: book, lily, monstrance (or ciborium), statue of the Virgin
+11H(HYACINTH)|dominikański zakonnik Jacek Odrowąż z Polski, możliwe atrybuty książka, lilia, monstrancja (lub ostensorium), rzeźba Najświętszej Marii Panny z Dzieciątkiem
 #11H(HYACINTH)0|the Dominican friar Hyacinth(us) of Poland; possible attributes: book, lily, monstrance (or ciborium), statue of the Virgin - male saint represented in a group
 #11H(HYACINTH)1|the Dominican friar Hyacinth(us) of Poland; possible attributes: book, lily, monstrance (or ciborium), statue of the Virgin - specific aspects ~ male saint
 #11H(HYACINTH)11|the Dominican friar Hyacinth(us) of Poland; possible attributes: book, lily, monstrance (or ciborium), statue of the Virgin - male saint as patron, protector, intercessor
@@ -3867,7 +3866,7 @@
 #11H(JOHN OF THE CROSS)83|the Carmelite friar and mystic John of the Cross; possible attributes: book, chains, cross, crucifix, eagle, lily, pen - posthumous deeds, appearances of male saints
 #11H(JOHN OF THE CROSS)84|the Carmelite friar and mystic John of the Cross; possible attributes: book, chains, cross, crucifix, eagle, lily, pen - beatification, canonization of male saint
 #11H(JOHN OF THE CROSS)9|the Carmelite friar and mystic John of the Cross; possible attributes: book, chains, cross, crucifix, eagle, lily, pen - portrait of male saint
-#11H(JOHN THE BAPTIST)|John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff
+11H(JOHN THE BAPTIST)|Jan Chrzciciel; możliwe atrybuty książka, trzcinowy krzyż, czarka chrzcielna; plaster miodu; baranek; kij
 #11H(JOHN THE BAPTIST)0|John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - male saint represented in a group
 #11H(JOHN THE BAPTIST)1|John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - specific aspects ~ male saint
 #11H(JOHN THE BAPTIST)11|John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - male saint as patron, protector, intercessor
@@ -3897,7 +3896,7 @@
 #11H(JOHN THE BAPTIST)83|John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - posthumous deeds, appearances of male saints
 #11H(JOHN THE BAPTIST)84|John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - beatification, canonization of male saint
 #11H(JOHN THE BAPTIST)9|John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - portrait of male saint
-#11H(JOHN)|the apostle John the Evangelist; possible attributes: book, cauldron, chalice with snake, eagle, palm, scroll
+11H(JOHN)|apostoł Jan Ewangelista; możliwe atrybuty książka; kocioł; kielich z wężem, orzeł, palma, zwój
 #11H(JOHN)0|the apostle John the Evangelist; possible attributes: book, cauldron, chalice with snake, eagle, palm, scroll - male saint represented in a group
 #11H(JOHN)1|specific aspects ~ St. John the Evangelist
 #11H(JOHN)11|specific aspects ~ St. John the Evangelist - male saint as patron, protector, intercessor
@@ -5271,7 +5270,7 @@
 #11H(PETER OF ALCANTARA)83|the Franciscan monk Peter of Alcantara; possible attributes: book, crucifix, discipline, dove, pen and ink, skull - posthumous deeds, appearances of male saints
 #11H(PETER OF ALCANTARA)84|the Franciscan monk Peter of Alcantara; possible attributes: book, crucifix, discipline, dove, pen and ink, skull - beatification, canonization of male saint
 #11H(PETER OF ALCANTARA)9|the Franciscan monk Peter of Alcantara; possible attributes: book, crucifix, discipline, dove, pen and ink, skull - portrait of male saint
-#11H(PETER)|the apostle Peter, first bishop of Rome; possible attributes: book, cock, (upturned) cross, (triple) crozier, fish, key, scroll, ship, tiara
+11H(PETER)|apostoł Piotr, pierwszy biskup Rzymu; możliwe atrybuty książka, kogut, (odwrócony) krzyż, (potrójny) krzyż biskupi, ryba, klucz, rolka, statek, tiara
 #11H(PETER)0|the apostle Peter, first bishop of Rome; possible attributes: book, cock, (upturned) cross, (triple) crozier, fish, key, scroll, ship, tiara - male saint represented in a group
 #11H(PETER)1|specific aspects ~ St. Peter
 #11H(PETER)11|St. Peter as first bishop of Rome
@@ -5493,7 +5492,7 @@
 #11H(REMIGIUS)83|bishop Remigius (Rémi) of Rheims; possible attributes: dove with a phial of oil in its beak, (kneeling) maiden, phial of oil - posthumous deeds, appearances of male saints
 #11H(REMIGIUS)84|bishop Remigius (Rémi) of Rheims; possible attributes: dove with a phial of oil in its beak, (kneeling) maiden, phial of oil - beatification, canonization of male saint
 #11H(REMIGIUS)9|bishop Remigius (Rémi) of Rheims; possible attributes: dove with a phial of oil in its beak, (kneeling) maiden, phial of oil - portrait of male saint
-#11H(ROCH)|the confessor and pilgrim Roch(us) (Rocco, Rock) of Montpellier; possible attributes: angel (with ointment box or spoon), dog (sometimes with loaf), (pointing at) plague-spot on thigh, pilgrim's shell, staff, hat and wallet
+11H(ROCH)|wyznawca i pielgrzym Roch (Rocco, Rock) z Montpelier; możliwe atrybuty anioł (with pudełkiem lub z łyżką maści), pies (czasami z bochenkiem), (wskazujący na) ropień na udzie, pielgrzymia muszla, laska, kapelusz i torba
 #11H(ROCH)0|the confessor and pilgrim Roch(us) (Rocco, Rock) of Montpellier; possible attributes: angel (with ointment box or spoon), dog (sometimes with loaf), (pointing at) plague-spot on thigh, pilgrim's shell, staff, hat and wallet - male saint represented in a group
 #11H(ROCH)1|specific aspects ~ St. Roch
 #11H(ROCH)11|St. Roch as plague-patron
@@ -6314,7 +6313,7 @@
 #11H(VICTOR)83|the martyr Victor of Marseilles; possible attributes: millstone - posthumous deeds, appearances of male saints
 #11H(VICTOR)84|the martyr Victor of Marseilles; possible attributes: millstone - beatification, canonization of male saint
 #11H(VICTOR)9|the martyr Victor of Marseilles; possible attributes: millstone - portrait of male saint
-#11H(VINCENT DE PAUL)|the founder of the Vincentian (Lazarist) Congregation (of Mission Priests) and of the Sisters of Charity, Vincent de Paul; possible attributes: infant
+11H(VINCENT DE PAUL)|założyciel Zgromadzenia Misji (Lazarystów, Księży Misjonarzy) i Zgromadzenia Sióstr Miłosierdzia; Wincenty a Paulo; możliwe atrybuty niemowlę
 #11H(VINCENT DE PAUL)0|the founder of the Vincentian (Lazarist) Congregation (of Mission Priests) and of the Sisters of Charity, Vincent de Paul; possible attributes: infant - male saint represented in a group
 #11H(VINCENT DE PAUL)1|specific aspects ~ St. Vincent de Paul
 #11H(VINCENT DE PAUL)11|St. Vincent de Paul as patron of galley slaves
@@ -6649,17 +6648,17 @@
 #11H(ZENOBIUS)83|post-mortem occurrences ~ St. Zenobius - posthumous deeds, appearances of male saints
 #11H(ZENOBIUS)84|post-mortem occurrences ~ St. Zenobius - beatification, canonization of male saint
 #11H(ZENOBIUS)9|the bishop of Florence, Zenobius; possible attributes: fleur-de-lis (emblem of Florence) in his halo, on his cope or on a book - portrait of male saint
-#11HH|女圣徒
-#11HH(...)|female saints (with NAME)
-#11HH(...)0|female saints (with NAME) - female saint represented in a group
-#11HH(...)1|female saints (with NAME) - specific aspects ~ female saint
+11HH|święte
+11HH(...)|święte (z IMIENIEM)
+11HH(...)0|święte (z IMIENIEM) - święta przedstawiona w grupie
+11HH(...)1|święte (z IMIENIEM) - szczególne aspekty - święta
 #11HH(...)11|female saints (with NAME) - female saint as patroness, protectress, intercessor
 #11HH(...)119|female saints (with NAME) - female saint protecting devotees with cloak, 'Schutzmantel'
 #11HH(...)12|female saints (with NAME) - female saint writing, studying, teaching, dictating
 #11HH(...)13|female saints (with NAME) - female saint as foundress of Order
 #11HH(...)131|female saints (with NAME) - female saint ~ confirmation of Order, approval of Rule(s)
-#11HH(...)2|female saints (with NAME) - early life of female saint
-#11HH(...)3|female saints (with NAME) - personal devotion of female saint
+11HH(...)2|święte (z IMIENIEM) - wczesne życie świętej
+11HH(...)3|święte (z IMIENIEM) - osobiste nabożeństwo świętej
 #11HH(...)31|female saints (with NAME) - vocation, conversion of female saint
 #11HH(...)32|female saints (with NAME) - baptism, consecration, taking vows of female saint
 #11HH(...)33|female saints (with NAME) - renouncing worldly goods, ascetic life of female saint
@@ -6667,19 +6666,19 @@
 #11HH(...)35|female saints (with NAME) - temptation of female saint
 #11HH(...)36|female saints (with NAME) - penitence of female saint
 #11HH(...)37|female saints (with NAME) - female saint meditating, in ecstasy
-#11HH(...)4|female saints (with NAME) - non-miraculous activities and events ~ female saint
-#11HH(...)5|female saints (with NAME) - miraculous activities and events ~ female saint
+11HH(...)4|święte (z IMIENIEM) - nie cudowne działania i zdarzenia ~ święta
+11HH(...)5|święte (z IMIENIEM) - cudowne działania i zdarzenia ~ święta
 #11HH(...)59|female saints (with NAME) - stigmatization of female saint
-#11HH(...)6|female saints (with NAME) - martyrdom, suffering, misfortune, death of female saint
+11HH(...)6|święte (z IMIENIEM) - męczeństwo, cierpienia, przeciwności, śmierć świętej
 #11HH(...)68|female saints (with NAME) - death, deathbed of female saint
 #11HH(...)69|female saints (with NAME) - maltreatment of the corpse of female saint
-#11HH(...)7|female saints (with NAME) - apotheosis, glory, triumph of female saint
-#11HH(...)8|female saints (with NAME) - post-mortem occurrences of female saint
+11HH(...)7|święte (z IMIENIEM) - apoteoza, chwała, triumf świętej
+11HH(...)8|święte (z IMIENIEM) - zdarzenia pośmiertne ~ święta
 #11HH(...)81|female saints (with NAME) - finding, transportation of relics of female saint
 #11HH(...)82|female saints (with NAME) - miracles occurring during handling of relics of female saint
 #11HH(...)83|female saints (with NAME) - posthumous deeds, appearances of female saints
 #11HH(...)84|female saints (with NAME) - beatification, canonization of female saint
-#11HH(...)9|female saints (with NAME) - portrait of female saint
+11HH(...)9|święte (z IMIENIEM) - portret świętej
 #11HH(AFRA)|the harlot and martyr Afra of Augsburg; possible attributes: dead tree, jar of ointment, stake, woodstack
 #11HH(AFRA)0|the harlot and martyr Afra of Augsburg; possible attributes: dead tree, jar of ointment, stake, woodstack - female saint represented in a group
 #11HH(AFRA)1|the harlot and martyr Afra of Augsburg; possible attributes: dead tree, jar of ointment, stake, woodstack - specific aspects ~ female saint
@@ -6779,7 +6778,7 @@
 #11HH(AGNES)83|the virgin martyr Agnes of Rome; possible attributes: lamb, ring - posthumous deeds, appearances of female saints
 #11HH(AGNES)84|the virgin martyr Agnes of Rome; possible attributes: lamb, ring - beatification, canonization of female saint
 #11HH(AGNES)9|the virgin martyr Agnes of Rome; possible attributes: lamb, ring - portrait of female saint
-#11HH(ANNA)|Anna, mother of Mary; possible attributes: book, Christ-child, lily, Virgin Mary
+11HH(ANNA)|Anna, matka Marii; możliwe atrybuty książka, Dzieciątko Jezus, lilia, Maria Panna
 #11HH(ANNA)0|Anna, mother of Mary; possible attributes: book, Christ-child, lily, Virgin Mary - female saint represented in a group
 #11HH(ANNA)1|Anna, mother of Mary; possible attributes: book, Christ-child, lily, Virgin Mary - specific aspects ~ female saint
 #11HH(ANNA)11|Anna, mother of Mary; possible attributes: book, Christ-child, lily, Virgin Mary - female saint as patroness, protectress, intercessor
@@ -6841,7 +6840,7 @@
 #11HH(APOLLONIA)83|the virgin martyr Apollonia of Alexandria; possible attributes: book, crown, palm-branch, tooth in pincers - posthumous deeds, appearances of female saints
 #11HH(APOLLONIA)84|the virgin martyr Apollonia of Alexandria; possible attributes: book, crown, palm-branch, tooth in pincers - beatification, canonization of female saint
 #11HH(APOLLONIA)9|the virgin martyr Apollonia of Alexandria; possible attributes: book, crown, palm-branch, tooth in pincers - portrait of female saint
-#11HH(BARBARA)|the virgin martyr Barbara; possible attributes: book, cannon(ball), crown, cross, chalice with wafer, Dioscuros (her father), peacock feather, sword, torches, mason's tools, tower
+11HH(BARBARA)|dziewica i męczennica Barbara; możliwe atrybuty książka, armata, kula armatnia, korona, krzyż, kielich z Hostią, Dioskur (jej ojciec), pawie pióro, miecz, pochodnie, narzędzia murarskie, wieża
 #11HH(BARBARA)0|the virgin martyr Barbara; possible attributes: book, cannon(ball), crown, cross, chalice with wafer, Dioscuros (her father), peacock feather, sword, torches, mason's tools, tower - female saint represented in a group
 #11HH(BARBARA)1|specific aspects ~ St. Barbara
 #11HH(BARBARA)11|St. Barbara as patroness
@@ -7016,7 +7015,7 @@
 #11HH(CATHERINE OF SIENA)83|the virgin and Dominican Tertiary, Catherine of Siena; possible attributes: book, cross, crown of thorns, crucifix, demon under foot, heart (with cross), lily, plague-stricken, ring, rosary, stigmata - posthumous deeds, appearances of female saints
 #11HH(CATHERINE OF SIENA)84|the virgin and Dominican Tertiary, Catherine of Siena; possible attributes: book, cross, crown of thorns, crucifix, demon under foot, heart (with cross), lily, plague-stricken, ring, rosary, stigmata - beatification, canonization of female saint
 #11HH(CATHERINE OF SIENA)9|the virgin and Dominican Tertiary, Catherine of Siena; possible attributes: book, cross, crown of thorns, crucifix, demon under foot, heart (with cross), lily, plague-stricken, ring, rosary, stigmata - portrait of female saint
-#11HH(CATHERINE)|the virgin martyr Catherine of Alexandria; possible attributes: book, crown, emperor Maxentius, palm-branch, ring, sword, wheel
+11HH(CATHERINE)|dziewica i męczennica Katarzyna Aleksandryjska; możliwe atrybuty książka, korona, cesarz Maksencjusz, gałązka palmowa, pierścień, miecz, koło
 #11HH(CATHERINE)0|the virgin martyr Catherine of Alexandria; possible attributes: book, crown, emperor Maxentius, palm-branch, ring, sword, wheel - female saint represented in a group
 #11HH(CATHERINE)1|the virgin martyr Catherine of Alexandria; possible attributes: book, crown, emperor Maxentius, palm-branch, ring, sword, wheel - specific aspects ~ female saint
 #11HH(CATHERINE)11|the virgin martyr Catherine of Alexandria; possible attributes: book, crown, emperor Maxentius, palm-branch, ring, sword, wheel - female saint as patroness, protectress, intercessor
@@ -8042,7 +8041,7 @@
 #11HH(MARY KLEOPHAS)83|Mary Kleophas, sister of the Virgin Mary, mother of James the Less ('Maria Jacobi'); possible attributes: jar of ointment - posthumous deeds, appearances of female saints
 #11HH(MARY KLEOPHAS)84|Mary Kleophas, sister of the Virgin Mary, mother of James the Less ('Maria Jacobi'); possible attributes: jar of ointment - beatification, canonization of female saint
 #11HH(MARY KLEOPHAS)9|Mary Kleophas, sister of the Virgin Mary, mother of James the Less ('Maria Jacobi'); possible attributes: jar of ointment - portrait of female saint
-#11HH(MARY MAGDALENE)|the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge
+11HH(MARY MAGDALENE)|pokutująca jawnogrzesznica Maria Magdalena; możliwe atrybuty książka (lub zwój), korona cierniowa, krucyfiks, pojemnik z olejkiem, lustro, instrument muzyczny, gałązka palmowa, różaniec, bicz
 #11HH(MARY MAGDALENE)0|the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge - female saint represented in a group
 #11HH(MARY MAGDALENE)1|the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge - specific aspects ~ female saint
 #11HH(MARY MAGDALENE)11|the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge - female saint as patroness, protectress, intercessor
@@ -8549,7 +8548,7 @@
 #11HH(THERESA)83|the foundress of the reformed (Discalced) Carmelites, T(h)eres(i)a of Avila; possible attributes: angel, arrow, dove, heart (flaming or pierced by an arrow) - posthumous deeds, appearances of female saints
 #11HH(THERESA)84|the foundress of the reformed (Discalced) Carmelites, T(h)eres(i)a of Avila; possible attributes: angel, arrow, dove, heart (flaming or pierced by an arrow) - beatification, canonization of female saint
 #11HH(THERESA)9|the foundress of the reformed (Discalced) Carmelites, T(h)eres(i)a of Avila; possible attributes: angel, arrow, dove, heart (flaming or pierced by an arrow) - portrait of female saint
-#11HH(URSULA)|the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship
+11HH(URSULA)|dziewica i męczennica Urszula z Kolonii; możliwe atrybuty strzała, sztandar z czerwonym krzyżem, płaszcz gronostajowy, korona, statek
 #11HH(URSULA)0|the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship - female saint represented in a group
 #11HH(URSULA)1|specific aspects ~ St. Ursula
 #11HH(URSULA)11|St. Ursula as patron, protector, intercessor
@@ -8683,9 +8682,9 @@
 #11HH(WILGEFORTIS)83|the martyr Wilgefortis (Uncumber, Liberata); possible attributes: beard, crown, fiddler (with shoe), shoe - posthumous deeds, appearances of female saints
 #11HH(WILGEFORTIS)84|the martyr Wilgefortis (Uncumber, Liberata); possible attributes: beard, crown, fiddler (with shoe), shoe - beatification, canonization of female saint
 #11HH(WILGEFORTIS)9|the martyr Wilgefortis (Uncumber, Liberata); possible attributes: beard, crown, fiddler (with shoe), shoe - portrait of female saint
-#11HH0|group of female saints
-11I|先知, 女巫, 福音書作者, 教會博士; 人物 ~ 聖經 (不在聖經文本裡)
-#11I1|成組的先知, 通常拿著書本或書卷 (以賽亞, 耶利米, 以西結, 但以利, 何西阿, 約珥, 阿摩斯, 俄巴底, 約拿, 米迦, 那鴻, 哈巴谷, 西番雅, 哈該, 撒迦利雅, 瑪拉基) 
+11HH0|grupa świętych niewiast
+11I|prorocy, sybille, ewangeliści; Doktorzy Kościoła; osoby ~ Biblia (nie w kontekście biblijnym)
+11I1|grupy proroków, zwykle trzymających księgi lub zwoje (Izajasz, Jeremiasz, Ezechiel, Daniel, Azariasz, Joel, Amos, Abdiasz, Jonasz, Micheasz, Nahum, Habakuk, Sofoniasz, Aggeusz, Zachariasz, Malachiasz)
 #11I11|the four major prophets (not in biblical context): Isaiah, Jeremiah, Ezekiel, Daniel
 #11I12|the twelve minor prophets (not in biblical context): Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
 #11I13|the sixteen prophets, i.e. the four major and the twelve minor prophets together (not in biblical context)
@@ -8694,15 +8693,15 @@
 #11I16|(single) prophet, unspecified
 #11I19|non-biblical prophets
 #11I19(...)|non-biblical prophets (with NAME)
-11I2|女巫
-11I2(...)|女巫 (人名)
+11I2|sybille
+#11I2(...)|sibyls (with NAME)
 #11I2(AGRIPPINE)|Agrippine sibyl
 #11I2(CUMAEAN)|Cumaean sibyl
 #11I2(ERYTHRAEAN)|Erythraean sibyl
 #11I2(PERSIAN)|Persian sibyl
 #11I2(SAMIAN)|Samian sibyl
 #11I21|the Tiburtine sibyl and Augustus: the sibyl reveals to the emperor a vision of the Madonna in heaven
-11I3|十二使徒 (一組), 通常拿著書本或書卷 (不在聖經上下文裡)
+11I3|dwunastu apostołów (jako grupa) zwykle z księgami lub zwojami (nie w kontekście biblijnym)
 #11I31|symbolic representations of the twelve apostles, e.g.: twelve doves, twelve lambs
 #11I32|the twelve apostles ~ the twelve prophets
 #11I321|twelve prophets carrying the twelve apostles on their shoulders
@@ -8711,7 +8710,7 @@
 #11I35|other groups of apostles
 #11I351|the twelve apostles, Judas Iscariot included
 #11I36|(single) apostle, unspecified
-11I4|福音書作者們, 通常拿著書本或書卷 (不在聖經上下文裡)
+11I4|ewangeliści, zwykle z księgami lub zwojami (nie w kontekście biblijnym)
 #11I41|the four evangelists together (author portraits)
 #11I411|the evangelists writing
 #11I4111|the evangelists inspired, e.g. by the Holy Ghost (dove), hand of God, Mary, angel
@@ -8733,12 +8732,12 @@
 #11I43|the four evangelists ~ other themes
 #11I431|the four evangelists ~ Doctors of the Church
 #11I432|the four evangelists ~ the four main prophets
-11I5|教會博士 (神父)
+11I5|Doktorzy (Ojcowie) Kościoła
 #11I51|the four Latin (Western) Fathers of the Church together: Ambrose (usually as bishop), Jerome (usually as cardinal), Augustine (usually as bishop), Gregory the Great (usually as pope)
 #11I52|the four Greek (Eastern) Fathers of the Church together: Basil the Great, Gregory of Nazianzus, John Chrysostom and Athanasius the Great
 #11I521|the four Greek Fathers of the Church, with Cyril of Alexandria as fifth Father
 #11I53|other groups of Fathers of the Church
-11I6|舊約中人物 (不在聖經上下文裡, 也不在71部份的傳說/文學分部裡)
+11I6|osoby ze Starego Testamentu (nie w biblijnym kontekście, ani nie pojawiające się w legendarnych/historycznych rozwinięciach węzła 71)
 #11I61|groups of persons from the Old Testament
 #11I611|patriarchs from the Old Testament (not in biblical context)
 #11I6111|the three patriarchs together: Abraham, Isaac, Jacob (not in biblical context)
@@ -9122,8 +9121,8 @@
 #11I62(TUBALCAIN)6|Tubalcain (not in biblical context) - post-mortem occurrences of male persons from the Old Testament, e.g. finding and transportation of relics
 #11I62(TUBALCAIN)7|other activities, relationships, etc. of Tubalcain
 #11I62(TUBALCAIN)71|Tubalcain and Jubal forging nails
-11I63|舊約中的女性人物 (不在聖經上下文裡)
-11I63(...)|舊約中的女性人物 (人名) (不在聖經上下文裡)
+#11I63|female persons from the Old Testament (not in biblical context)
+#11I63(...)|female persons from the Old Testament (with NAME) (not in biblical context)
 #11I63(...)1|female persons from the Old Testament (with NAME) (not in biblical context) - foundress, initiatrix ~ Old Testament
 #11I63(...)2|female persons from the Old Testament (with NAME) (not in biblical context) - patroness, female intercessor ~ Old Testament
 #11I63(...)3|female persons from the Old Testament (with NAME) (not in biblical context) - (other) specific aspects, e.g. allegorical and symbolical aspects ~ female persons from the Old Testament
@@ -9258,8 +9257,8 @@
 #11I63(SHEBA)5|Sheba (not in biblical context); possible attributes of Sheba (as negress): goosefeet, scroll - legendary/historical addition to life-story of female persons from the Old Testament
 #11I63(SHEBA)6|Sheba (not in biblical context); possible attributes of Sheba (as negress): goosefeet, scroll - post-mortem occurrences of female persons from the Old Testament, e.g. finding and transportation of relics
 #11I63(SHEBA)7|Sheba (not in biblical context); possible attributes of Sheba (as negress): goosefeet, scroll - relationships, etc. of female persons from the Old Testament
-11I7|新約中的人物 (不在聖經上下文裡)
-11I71|新約中的人物 (一般性的, 特別是成組的)
+11I7|osoby z Nowego Testamentu (nie w biblijnym kontekście)
+#11I71|persons from the New Testament (in general, especially groups)
 #11I711|the twenty-four Elders
 #11I72|male persons from the New Testament (not in biblical context)
 #11I72(...)|male persons from the New Testament (with NAME) (not in biblical context)
@@ -9350,35 +9349,34 @@
 #11II43|the four evangelists ~ other themes - II - the evangelists without their symbols
 #11II431|the four evangelists ~ Doctors of the Church - II - the evangelists without their symbols
 #11II432|the four evangelists ~ the four main prophets - II - the evangelists without their symbols
-11II614|舊約中成組的女英雄 (不在聖經上下文裡)
-11K|魔鬼和妖怪
-11K(...)|魔鬼和妖怪 (名稱)
+#11II614|groups of heroines from the Old Testament (not in biblical context)
+11K|diabły i demony
+11K(...)|diabeł (diabły) i demony (z IMIENIEM)
 #11K(BEHEMOTH)|devil(s) and demons: Behemoth
 #11K(LEVIATHAN)|devil(s) and demons: Leviathan
 #11K(LUCIFER)|devil(s) and demons: Lucifer
 #11K(SATAN)|devil(s) and demons: Satan
-11K1|具有人形的魔鬼
+11K1|diabeł w postaci ludzkiej
 #11K11|human-shaped devil ~ winged youth
 #11K12|human-shaped devils ~ musculous Hades type
 #11K121|human-shaped devils ~ musculous Hades type with wings
 #11K13|human-shaped devils ~ emaciate 'eidolon' type
 #11K14|human-shaped devils ~ handsome seducer
 #11K15|devil as a woman
-11K2|具有(神話般的)動物形狀的魔鬼
-11K2|具有(神話般的)動物形狀的魔鬼
-11K2(...)|具有(神話般的)動物形狀的魔鬼 (名稱)
-11K3|具有其它形狀的魔鬼
-11K3(...)|具有其它形狀的魔鬼 (名稱)
-11K31|魔鬼的活動
-#11K4|activities of devil(s)
+11K2|diabły w postaci (fantastycznych) zwierząt
+#11K2(...)|devils in the form of (fabulous) animals (with NAME)
+11K3|diabły w postaci innej niż ludzka lub zwierzęca
+#11K3(...)|devils in other form (with NAME)
+#11K31|devils in purely fantasy shape
+11K4|działalność diabła (diabłów)
 #11K41|devil(s) appearing to mortals, trying to seduce them; temptation
 #11K42|pact with the devil, selling one's soul to the devil
 #11K43|devil or demons attacking mortals
 #11K431|incubus or succubus descending on sleeping person, having sexual intercourse
-11K5|魔鬼崇拜
+11K5|kult diabła
 #11K51|Black Mass
-11L|基督教學說
-11L1|舊約和新約  ~  基督教學說
+11L|doktryna chrześcijańska
+11L1|Stary Testament i Nowy Testament ~ doktryna chrześcijańska
 #11L11|Old Testament and New Testament compared
 #11L111|Moses gives the Old Testament to 'Ecclesia'
 #11L112|the mystic mill; 'Hostienmühle'
@@ -9389,7 +9387,7 @@
 #11L142|'sub lege'
 #11L143|'sub gratia'
 #11L15|personification of Holy Writ, 'Sacra Scriptura'
-11L2|十誡 (出埃及記 20:3-17)
+11L2|dziesięć przykazań (Księga Wyjścia 203-17)
 #11L21|the ten commandments represented together
 #11L211|the ten commandments represented together on stone tablets
 #11L22|separate representations ~ the ten commandments
@@ -9403,7 +9401,7 @@
 #11L227|'you shall not steal' ~ separate representation of the eigth of the ten commandments
 #11L228|'you shall not bear false witness' ~ separate representation of the ninth of the ten commandments
 #11L229|'you shall not covet' ~ separate representation of the tenth of the ten commandments
-11L3|信條; 懺悔
+11L3|prawdy wiary; wyznania wiary
 #11L31|creed, credo
 #11L311|the apostolic creed, 'symbolum apostolicum'
 #11L3111|first part of the articles of faith
@@ -9426,8 +9424,8 @@
 #11L32(...)|protestant confessions (with NAME)
 #11L321|'Confessio Augustana', 'Augsburger Konfession'
 #11L33|'Konfessionsbild'
-11L4|教義問答
-11L5|教會法, 倫理, 和神學
+11L4|katechizm
+11L5|prawo kanoniczne, etyka i nauki teologiczne
 #11L51|Canon Law; 'Legge canonica' (Ripa)
 #11L52|Ethics; 'Etica' (Ripa)
 #11L521|casuistry
@@ -9462,51 +9460,51 @@
 #11L5423|liturgical theology
 #11L59|atheism; rejecting religion
 #11L591|atheist
-11L6|著作, 論文, 等等 ~ 基督教學說和宗教
+11L6|księgi, traktaty itp. ~ chrześcijańska doktryna i religia
 #11L61|'De Civitate Dei', by St. Augustine
 #11L611|'Civitas Dei'
 #11L6111|Bethlehem (the 'heathen' church), and Jerusalem (the 'Jewish' church)
-11L9|異端學說
-11M|'Sapientia' 和七德, 即神學三德和四樞德
-11M1|'Sapientia', 七德之母 
+11L9|doktryna heretycka
+11M|'Sapientia' i siedem cnót, tj. trzy cnoty teologiczne i cztery cnoty kardynalne
+11M1|'Sapientia', matka siedmiu cnót
 #11M11|temple of 'Sapientia', with seven columns
-11M2|七德之象徵符號
+11M2|symboliczne przedstawienia siedmiu cnót
 #11M21|tree of Virtues
 #11M22|ladder of Virtues
 #11M23|garden of Virtues
-11M3|神學三德
+11M3|trzy cnoty teologalne
 #11M30|the Three Theological Virtues ~ Barbara, Catharine and Mary Magdalene
 #11M31|Faith, 'Fides'; 'Fede', 'Fede catholica', 'Fede christiana', 'Fede christiana catholica' (Ripa) ~ one of the Three Theological Virtues
 #11M311|godliness ~ the Three Theological Virtues
 #11M312|Piety, 'Pietas', 'Timor Dei' ~ the Three Theological Virtues
 #11M32|Hope, 'Spes'; 'Speranza divina e certa' (Ripa) ~ one of the Three Theological Virtues
 #11M33|Charity, 'Caritas'; 'Carità' (Ripa) ~ one of the Three Theological Virtues
-11M4|四樞德
+11M4|cztery cnoty kardynalne
 #11M41|Prudence, 'Prudentia'; 'Prudenza' (Ripa) ~ one of the Four Cardinal Virtues
 #11M42|Temperance, 'Temperantia'; 'Temperanza' (Ripa) ~ one of the Four Cardinal Virtues
 #11M43|Fortitude, 'Fortitudo' ~ one of the Four Cardinal Virtues
 #11M44|Justice, 'Justitia'; 'Giustitia divina' (Ripa) ~ one of the Four Cardinal Virtues
-11MM3|神學三德 - MM - 美德勝利
+#11MM3|the Three Theological Virtues - MM - Virtues triumphant
 #11MM30|the Three Theological Virtues ~ Barbara, Catharine and Mary Magdalene - MM - Virtues triumphant
 #11MM31|Faith, 'Fides'; 'Fede', 'Fede catholica', 'Fede christiana', 'Fede christiana catholica' (Ripa) ~ one of the Three Theological Virtues - MM - Virtues triumphant
 #11MM311|godliness ~ the Three Theological Virtues - MM - Virtues triumphant
 #11MM312|Piety, 'Pietas', 'Timor Dei' ~ the Three Theological Virtues - MM - Virtues triumphant
 #11MM32|Hope, 'Spes'; 'Speranza divina e certa' (Ripa) ~ one of the Three Theological Virtues - MM - Virtues triumphant
 #11MM33|Charity, 'Caritas'; 'Carità' (Ripa) ~ one of the Three Theological Virtues - MM - Virtues triumphant
-11MM4|四樞德 - MM - 勝利
+#11MM4|the Four Cardinal Virtues - MM - triumph
 #11MM41|Prudence, 'Prudentia'; 'Prudenza' (Ripa) ~ one of the Four Cardinal Virtues - MM - triumph
 #11MM42|Temperance, 'Temperantia'; 'Temperanza' (Ripa) ~ one of the Four Cardinal Virtues - MM - triumph
 #11MM43|Fortitude, 'Fortitudo' ~ one of the Four Cardinal Virtues - MM - triumph
 #11MM44|Justice, 'Justitia'; 'Giustitia divina' (Ripa) ~ one of the Four Cardinal Virtues - MM - triumph
-11N|恶
-11N1|罪惡, 邪惡, 原罪; 'Peccato' (Ripa)
+11N|występek i siedem grzechów głównych (śmiertelnych)
+11N1|Występek, Zło, Grzech, 'Peccato' (Ripa)
 #11N11|'Fürst der Welt'
 #11N12|'Frau Welt'
-11N2|(成組的)七宗原罪 (象徵符號)
+11N2|symboliczne przedstawienia grupy siedmiu grzechów głównych
 #11N21|dragon with seven heads ~ the Seven deadly Sins symbolized
 #11N22|Tree of Vices, Tree of Corruption
 #11N23|man above a pit, with seven swords in his body ~ the Seven deadly Sins symbolized
-11N3|七宗原罪 (人格化)
+11N3|personifikacje siedmiu grzechów głównych
 #11N31|Pride; 'Superbia' (Ripa) ~ personification of one of the Seven Deadly Sins
 #11N32|Envy; 'Invidia' (Ripa) ~ personification of one of the Seven Deadly Sins
 #11N33|Anger; 'Ira' (Ripa) ~ personification of one of the Seven Deadly Sins
@@ -9515,14 +9513,14 @@
 #11N36|Lust, Luxury, 'Luxuria'; 'Lussuria' (Ripa) ~ personification of one of the Deadly Sins
 #11N361|Garden of Delights (sometimes called 'Hortus Deliciarum')
 #11N37|Sloth, Indolence, 'Acedia', 'Desidia'; 'Accidia' (Ripa) ~ personification of one of the Seven Deadly Sins
-11N4|無信仰, 'Infidelitas'
+11N4|Niewiara, 'Infidelitas'
 #11N41|Idolatry; 'Idololatria', 'Religione finta' (Ripa)
 #11N42|Heresy; 'Heresia' (Ripa)
 #11N43|Impiety; 'Impietà' (Ripa)
 #11N44|Sacrilege; 'Sacrilegio' (Ripa)
 #11N45|Blasphemy
-11N5|輕罪
-11NN3|七宗原罪 (人格化) - NN - 勝利
+11N5|grzech powszedni
+#11NN3|the Seven Deadly Sins (personified) - NN - triumph
 #11NN31|Pride; 'Superbia' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
 #11NN32|Envy; 'Invidia' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
 #11NN33|Anger; 'Ira' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
@@ -9531,12 +9529,12 @@
 #11NN36|Lust, Luxury, 'Luxuria'; 'Lussuria' (Ripa) ~ personification of one of the Deadly Sins - NN - triumph
 #11NN361|Garden of Delights (sometimes called 'Hortus Deliciarum') - NN - triumph
 #11NN37|Sloth, Indolence, 'Acedia', 'Desidia'; 'Accidia' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph
-11O|美德和惡習，Psychomachy之間的紛爭
-11O1|美德之一與罪惡之一在搏鬥, 或把罪惡之一踩在腳下
+11O|walka cnót i występków; psychomachia
+11O1|cnota walcząca przeciwko innej cnocie lub depcząca po innej cnocie
 #11O11|one Virtue vs. figure representing a Vice
 #11O12|figure representing a Virtue vs. a Vice
-11P|教會(作為機構的)
-11P1|寓言化的和象徵的表現 ~ 教會與宗教
+11P|Kościół (jako instytucja)
+11P1|przedstawienia alegoryczne i symboliczne ~ Kościół i religia
 #11P11|the Church personified, 'Ecclesia', usually with chalice and banner
 #11P110|triumph of the Church (or Religion)
 #11P111|'Ecclesia' born from Christ's side
@@ -9576,7 +9574,7 @@
 #11P1642|Counter Reformation (Roman Catholic Church vs. Protestantism)
 #11P165|the Church vs. the World
 #11P166|Church (and Religion) vs. Philosophy and Science
-11P2|基督教教會
+11P2|Kościoły chrześcijańskie
 #11P21|the early Christian Churches, e.g. Armenians, Copts, Syrians
 #11P22|Orthodox Churches
 #11P221|Greek Orthodox Church
@@ -9588,40 +9586,40 @@
 #11P250|allegories and personifications ~ Protestantism
 #11P251|movements derived from Protestant Churches
 #11P251(...)|movements derived from Protestant Churches (with NAME)
-11P3|教會以及相關機構的組織, 功能和要人
-#11P31|organization, functionaries and dignitaries in Roman Catholic church; clergy in general
-#11P311|hierarchy of jurisdiction ~ Roman Catholic church
-#11P3111|教皇
-#11P31110|(allegory on) papacy and apostolic succession
-#11P31111|insignia of the pope, e.g. tiara
-#11P31112|throne of St. Peter
-#11P31113|pope giving an audience
-#11P31114|kissing the pope's feet
-#11P31115|installation of a pope
-#11P311151|papal coronation
-#11P311152|ceremonial celebrations ~ pope
-#11P3111521|ceremonial procession, parade, pageant ~ pope
-#11P31115211|papal coronation procession
-#11P31115212|papal funeral procession
-#11P3112|枢机主教
-#11P31121|insignia of cardinal, e.g. hat, mantle
-#11P3113|主教
-#11P31131|insignia of bishop, e.g. mitre, crozier
-#11P3114|prelates, e.g. archdeacon, canon (Roman Catholic)
+11P3|organizacja, urzędy i dygnitarze Kościoła i pokrewnych instytucji
+11P31|organizacja, urzędy i dygnitarze w Kościele rzymskokatolickim; kler w ogólności
+11P311|hierarchia zwierzchności ~ Kościół rzymskokatolicki
+11P3111|papież
+11P31110|(alegorycznie) papiestwo i sukcesja apostolska
+11P31111|insygnia papieskie, np. tiara
+11P31112|tron św. Piotra
+11P31113|papież udzielający audiencji
+11P31114|ucałowanie stopy papieża
+11P31115|intronizacja papieża
+11P311151|koronacja papieża
+11P311152|ceremoniał ~ papież
+11P3111521|ceremonialna procesja, parada, pochód ~ papież
+11P31115211|papieska procesja koronacyjna
+11P31115212|papieska procesja pogrzebowa
+11P3112|kardynał
+11P31121|insygnia kardynalskie, np. kapelusz, fariola
+11P3113|arcybiskup, biskup itp. (rzymskokatolicki)
+11P31131|insygnia biskupie, np. infuła, pastorał
+11P3114|prałaci, np. archidiakon, kanonik (rzymskokatoliccy)
 #11P31140|'Prelatura'
-#11P312|major or sacred orders ~ Roman Catholic Church
+11P312|wyższy kler ~ kościół Rzymskokatolicki
 #11P3121|priest (Roman Catholic)
 #11P3122|deacon (Roman Catholic)
 #11P3123|subdeacon (Roman Catholic)
-#11P313|acolyte, chorister, lector, ostiarius, etc. ~ functionaries in Roman Catholic church
-#11P314|assemblies and administrative bodies ~ Roman Catholic church
+11P313|akolita, lektor, ostiariusz, chórzysta itp. ~ urzędy w Kościele rzymskokatolickim
+11P314|zgromadzenia i ciała administracyjne ~ Kościół rzymskokatolicki
 #11P3141|conclave ~ Roman Catholic church
 #11P3142|council, synod ~ Roman Catholic church
 #11P3143|consistory ~ Roman Catholic church
 #11P3144|Holy See ~ Roman Catholic church
 #11P31441|congregations ~ Roman Catholic church
 #11P31441(...)|congregations ~ Roman Catholic church (with NAME)
-#11P315|修道会，僧侣生活
+11P315|zakony, życie zakonne ~ Kościół rzymskokatolicki
 #11P315(...)|monastic orders, monastic life ~ Roman Catholic church (with NAME of order)
 #11P315(AUGUSTINIANS)|monastic orders, monastic life: Augustinians
 #11P315(BENEDICTINES)|monastic orders, monastic life: Benedictines
@@ -9656,16 +9654,16 @@
 #11P3154|habit, frock
 #11P3159|abuses of monks
 #11P31591|sexual abuses of monks
-#11P316|other 'organizations' in the Roman Catholic church
+11P316|inne 'organizacje' w łonie kościoła Rzymskokatolickiego
 #11P3161|regular clerics, e.g. Jesuits, Redemptorists
 #11P3162|military orders, e.g.: Knights Templars, Knights of Malta, Teutonic Knights ~ Roman Catholic church
 #11P3163|orderlike associations and congregations of laics
 #11P31631|Beguines
-#11P317|vows of clerics
-#11P3171|celibacy
-#11P319|abuses of the clergy, e.g. simony
+11P317|śluby duchowne
+11P3171|celibat
+11P319|występki kleru, np. symonia
 #11P3190|'Simonia' (Ripa)
-#11P32|organizational aspects ~ Eastern, Greek and Russian orthodox churches
+11P32|aspekty organizacyjne ~ Kościoły prawosławne Wschodu, Grecji i Rosji
 #11P321|hierarchy of jurisdiction ~ Eastern, Greek and Russian orthodox churches
 #11P3213|bishop of Russian orthodox church
 #11P322|major or sacred orders ~ Eastern, Greek and Russian orthodox churches
@@ -9674,28 +9672,28 @@
 #11P325(...)|monastic orders, monastic life ~ Eastern, Greek and Russian orthodox churches (with NAME of order)
 #11P3252|monks and nuns ~ Eastern, Greek and Russian orthodox churches
 #11P32521|monks ~ Eastern, Greek and Russian orthodox churches
-#11P33|organizational aspects ~ episcopal Protestant churches, e.g. Anglicans
+11P33|aspekty organizacyjne ~ episkopalne kościoły protestanckie n.p. anglikanie
 #11P331|functionaries and dignitaries ~ episcopal Protestant churches
 #11P331(...)|functionaries and dignitaries (with NAME) ~ episcopal Protestant churches
 #11P332|organizations, assemblies, etc. ~ episcopal Protestant churches
-#11P34|organizational aspects ~ Protestant churches
+11P34|aspekty organizacyjne ~ kościoły protestanckie
 #11P341|functionaries and dignitaries ~ Protestant churches
 #11P341(...)|functionaries and dignitaries (with NAME) ~ Protestant churches
 #11P342|organizations, assemblies, etc. in Protestant churches
-#11P35|organizational aspects ~ movements related with or derived from Protestant churches, e.g.: Christian Science, Mormons
+11P35|aspekty organizacyjne ~ ruchy pokrewne lub wywodzące się z kościołów protestanckich, np. Kościół Scjentologiczny; mormoni
 #11P351|functionaries and dignitaries ~ movements related with or derived from Protestant churches
 #11P352|organizations, assemblies, etc. in movements related with or derived from Protestant churches
-#11P36|organizational aspects ~ para-ecclesiastical movements and organizations
+11P36|aspekty organizacyjne ~ ruchy i organizacje paraeklezjalne
 #11P361|Christian sects
 #11P361(...)|Christian sects (with NAME)
 #11P3611|functionaries and dignitaries in religious sects
 #11P3612|organizations, assemblies, etc. in religious sects
 #11P362|Salvation Army
 #11P3621|functionaries and dignitaries in the Salvation Army
-#11P37|institution for ecclesiastical education and training, e.g. seminary
+11P37|instytucja kształcenia i formacji kościelnej, np. seminarium
 #11P371|religious instruction of clergy
 #11P372|religious instruction of laity, e.g. Sunday School
-11P4|教會的再現 (一般性的基督徒, 平信徒, 僧侶, 等等) 相互爭鬥
+11P4|przedstawiciele Kościoła (chrześcijanie w ogólności, świeccy, zakonnicy itp.) zmagający się ze sobą wzajem lub ze swoimi przeciwnikami
 #11P41|strife of laity and clergy
 #11P42|dispute of Christians and Jews
 #11P43|aggression against the Church
@@ -9713,13 +9711,13 @@
 #11P44331|execution of heretic, e.g. by burning at the stake, 'auto-da-fé'
 #11P444|burning of books ~ persecution of believers, dissidents, etc.
 #11P45|excommunication
-11P5|傳布福音; 傳教士工作
+11P5|ewangelizacja; praca misyjna
 #11P51|converts abjuring their former faith
-11P6|摧毀異教偶像
-11P9|基督教或教會被嘲笑, 批評或諷刺(的方方面面)
+11P6|obalenie pogańskich idoli
+11P9|religia chrześcijańska i Kościół (lub ich aspekty) wyśmiewane, krytykowane lub przedstawiane w karykaturze
 #11P91|the richness of the Church opposed to Christ's humility
 #11P911|the pope on horseback, and Christ on an ass
-#11PP3111|pope - PP - antipope
+11PP3111|papież - PP - antypapież
 #11PP31110|(allegory on) papacy and apostolic succession - PP - antipope
 #11PP31111|insignia of the pope, e.g. tiara - PP - antipope
 #11PP31112|throne of St. Peter - PP - antipope
@@ -9734,12 +9732,12 @@
 #11PP315311|abbot - PP - abbess
 #11PP3159|abuses of monks - PP - nuns
 #11PP31591|sexual abuses of monks - PP - nuns
-11Q|崇拜上帝
-11Q0|敬禮, 孝愛; 'Divotione' (Ripa)
-11Q01|對上帝之愛; 'Amore verso Iddio' (Ripa)
-11Q02|'Desiderio verso Iddio' (Ripa)
-11Q03|'Obedienza verso Dio' (Ripa)
-11Q1|皈依和信仰
+11Q|kult Boga
+11Q0|nabożeństwo, pobożność; 'Divotione' (Ripa)
+#11Q01|love towards God; 'Amore verso Iddio' (Ripa)
+#11Q02|'Desiderio verso Iddio' (Ripa)
+#11Q03|'Obedienza verso Dio' (Ripa)
+11Q1|nawrócenie i wiara
 #11Q10|'Conversione' (Ripa)
 #11Q11|the believer
 #11Q111|man between Good and Evil
@@ -9755,7 +9753,7 @@
 #11Q142|female martyr dragged into a brothel
 #11Q15|the Christian knight, 'Miles Christianus'
 #11Q16|the commandments of the Church, e.g. Sunday observance
-11Q2|(私人性的) 禱告; 'Oratione', 'Preghiere', 'Preghiere a Dio' (Ripa)
+11Q2|modlitwa (prywatna); 'Oratione', 'Preghiere', 'Preghiere a Dio' (Ripa)
 #11Q21|one person praying
 #11Q211|daily (vocal) prayer by one person
 #11Q2111|prayer at table, saying grace
@@ -9766,7 +9764,7 @@
 #11Q23|making the sign of the cross
 #11Q29|good vs. bad prayer
 #11Q291|bad prayer
-11Q3|苦行的生活與實踐
+11Q3|życie ascetyczne i praktyki ascetyczne
 #11Q31|mortification of the senses ~ ascetic life
 #11Q311|fasting, abstinence from food ~ ascetic life
 #11Q3110|'Digiuno' (Ripa)
@@ -9781,22 +9779,22 @@
 #11Q331|anchorite, hermit
 #11Q3311|Thebaid
 #11Q332|stylite; dendrite
-11Q4|神秘主義
+11Q4|mistycyzm
 #11Q41|contemplation
 #11Q42|ecstasy, spiritual exaltation, rapture
 #11Q421|levitation ~ mysticism
 #11Q43|stigmatization, stigmata
 #11Q44|mystic marriage
-11Q5|私人性的禮拜與宗教研究
+11Q5|kult prywatny i studium religijne
 #11Q51|reading the Bible or other religious books
 #11Q511|the Bible as a book
 #11Q52|singing of psalms, hymns, etc.
 #11Q53|private religious instruction
-11Q6|表達虔敬的風俗
+11Q6|pobożne praktyki
 #11Q61|giving an 'ex voto'
 #11Q611|'ex voto', votive image or object
 #11Q6111|'Pestsäule'
-#11Q62|朝圣
+#11Q62|pilgrimage, pilgrim(s) under way
 #11Q620|'Pellegrinaggio' (Ripa)
 #11Q621|pilgrim(s)
 #11Q622|pilgrim(s) at destination-point
@@ -9812,13 +9810,13 @@
 #11Q65|(veneration of) devotional objects
 #11Q651|crucifix ~ personal devotion
 #11Q652|relics (and reliquaries)
-11Q7|公眾性的禮拜與基督教的教會禮儀
-11Q71|禮拜的地方與器用 ~ 基督教的教堂
-11Q711|教堂的建築
+11Q7|kult publiczny i liturgia Kościołów chrześcijańskich
+#11Q71|the place of worship and its equipment ~ Christian churches
+#11Q711|building of church
 #11Q7111|building-site of church indicated by a miracle
 #11Q71111|miraculous indication of the building-site of Santa Maria Maggiore in the snow (by the Virgin Mary)
 #11Q7112|patron handing over model of church (or chapel)
-11Q712|教堂建築 (外部)
+#11Q712|church (exterior)
 #11Q7121|parts of church exterior and annexes
 #11Q7121(...)|parts of church exterior and annexes (with NAME)
 #11Q7121(APSE)|parts of church exterior and annexes: apse
@@ -9836,7 +9834,7 @@
 #11Q7121(TYMPANUM)|parts of church exterior and annexes: tympanum
 #11Q7121(WEST FACADE)|parts of church exterior and annexes: west façade
 #11Q7129|ruin of church, monastery, etc.
-11Q713|教堂內部
+#11Q713|interior of church
 #11Q7131|parts of church interior
 #11Q7131(...)|parts of church interior (with NAME)
 #11Q7131(AISLE)|parts of church interior: aisle
@@ -9853,14 +9851,14 @@
 #11Q7131(TRANSEPT)|parts of church interior: transept
 #11Q7131(VAULT)|parts of church interior: vault
 #11Q71311|church-window, e.g. rose-window
-11Q714|教堂(禮儀用的)用具
-11Q7141|祭壇
+#11Q714|(liturgical) equipment of church
+#11Q7141|altar
 #11Q71411|fixed altar
 #11Q714111|altar under altar-canopy or ciborium
 #11Q714112|altar with dossel (dorsal), 'reredos', altar-screen, retable
 #11Q714113|altar with altar-piece
 #11Q71412|portable altar
-11Q7142|祭壇配備物
+#11Q7142|altar accoutrement
 #11Q71421|altar-cloths, e.g. veil covering the altar at Lent
 #11Q71422|antependium, frontal
 #11Q71423|altarcross, crucifix
@@ -9870,9 +9868,9 @@
 #11Q71427|altarlamp, altar fire
 #11Q71428|censer
 #11Q71429|aspergillum
-11Q7143|聖体櫃 ~ 祭壇
+#11Q7143|tabernacle ~ altar
 #11Q71431|Sacrament-House
-11Q7144|教堂用器皿和相關用具
+#11Q7144|vessels and utensils used in the church
 #11Q71441|chalice
 #11Q71442|paten
 #11Q71443|ciborium
@@ -9887,7 +9885,7 @@
 #11Q71449(AQUAMANILE)|other utensils used in the church: aquamanile
 #11Q71449(BURSE)|other utensils used in the church: burse
 #11Q71449(SPOON)|other utensils used in the church: spoon
-11Q7145|禮儀傢俱
+#11Q7145|liturgical furniture, etc.
 #11Q71451|bishop's throne
 #11Q71452|seats of the celebrant and acolytes
 #11Q71453|seats of the clergy, choir-stalls
@@ -9898,7 +9896,7 @@
 #11Q71457|rood-screen, choir-screen; iconostasis
 #11Q71458|kneeling-chair
 #11Q71459|communion-bench
-11Q7146|禮儀祭服
+#11Q7146|liturgical vestments, canonicals
 #11Q71461|alb
 #11Q71462|amice ~ liturgical vestments
 #11Q71463|chasuble
@@ -9907,7 +9905,7 @@
 #11Q71466|stole
 #11Q71467|other liturgical vestments
 #11Q71467(...)|other liturgical vestments (with NAME)
-11Q7147|教會書本, 書卷, 等等
+#11Q7147|ecclesiastical books, scrolls, etc.
 #11Q71471|missal
 #11Q71472|pontifical
 #11Q71473|breviary, Book of Hours
@@ -9917,23 +9915,23 @@
 #11Q71477|lectionary
 #11Q71478|'collectarium'
 #11Q71479|other ecclesiastical books
-11Q7148|其他物件 ~ 教堂 (不一定與禮儀相關)
+#11Q7148|other objects ~ the church (not necessarily liturgical
 #11Q7148(...)|other objects ~ the church (not necessarily liturgical) (with NAME)
 #11Q71481|Nativity scene ~ equipment of church
 #11Q71482|'Palmesel'
 #11Q71483|church bell
-11Q715|教堂用基本物質資料
+#11Q715|substances used in the church
 #11Q7151|bread, Host
 #11Q7152|wine, the Precious Blood
 #11Q7153|Holy Water
 #11Q7154|oil used in the church
 #11Q7155|incense used in the church
-11Q72|上教堂禮拜
+#11Q72|going to church
 #11Q721|entering the church
 #11Q7211|leaving the church after service
 #11Q722|the congregation
 #11Q7221|people in church, walking, talking, etc.
-11Q73|禮拜儀式 ~ 基督教的教堂
+#11Q73|divine service ~ Christian churches
 #11Q731|types of service ~ Christian churches
 #11Q7311|Holy Mass (divine service, especially of Roman Catholic Church)
 #11Q73111|first part of the Holy Mass
@@ -9956,7 +9954,7 @@
 #11Q73123|Baptism ~ Protestant service
 #11Q73124|marriage ~ Protestant service
 #11Q7313|Benediction ~ divine service
-#11Q732|七大圣事
+#11Q732|the seven Sacraments of the Roman Catholic Church
 #11Q7320|the seven sacraments symbolized
 #11Q7321|baptism, christening ceremony ~ the first of the seven sacraments
 #11Q73211|solemn baptism (by bishop or priest)
@@ -9997,7 +9995,7 @@
 #11Q732731|Rudolf of Habsburg offers his horse to a priest ~ extreme unction
 #11Q73274|last communion, administering of the Holy Viaticum
 #11Q733|preaching (in general)
-11Q74|日課
+#11Q74|the Offices
 #11Q741|votive office
 #11Q742|office of the Dead
 #11Q743|little office of Our Lady
@@ -10011,7 +10009,7 @@
 #11Q74425|None ~ offices of the Day
 #11Q74426|Vespers ~ offices of the Day
 #11Q74427|compline ~ offices of the Day
-11Q75|準聖事
+#11Q75|sacramentalia
 #11Q751|(public) prayer
 #11Q7511|pater noster ~ (public) prayer
 #11Q7512|saying the rosary
@@ -10040,7 +10038,7 @@
 #11Q7591|exorcizing the devil
 #11Q75911|the devil or demon leaving the body, e.g. through the mouth
 #11Q7592|averting a catastrophe
-11Q76|教會慶節日曆
+#11Q76|calendar of ecclesiastical feasts
 #11Q761|cycle ~ birth of Christ
 #11Q7611|Advent
 #11Q7612|Christmas (ecclesiastical feast)
@@ -10106,48 +10104,48 @@
 #11QQ73212|lay-baptism - QQ - baptism in the open air
 #11QQ73213|godfather and godmother - QQ - baptism in the open air
 #11QQ73214|baptismal font - QQ - baptism in the open air
-11R|人的生命
-11R1|人格化表現~ 人的生命
-11R2|象徵性表現人的生命
-11R21|生命之泉
-11R3|生命軌跡的象徵性表現
-11R4|行動型與沉思型生命
+11R|życie ludzkie
+11R1|personifikacje ~ życie człowieka
+11R2|symbole ludzkiego życia
+#11R21|fountain of life
+11R3|symbole biegu życia
+11R4|życie aktywne a życie kontemplacyjne
 #11R41|active life; 'Vita attiva' (Ripa)
 #11R42|contemplative life; 'Vita contemplativa' (Ripa)
-#11R5|(personifications of) 'Vanitas', the vanity of human life; Fragilità humana, Fugacità delle grandezze & della gloria mondana, Meditatione della morte, Opera vana, Piacere vano, Vana gloria, Vanità (Ripa)
-#11R51|‘虚幻’
+11R5|Vanitas (personifikacje), marność życia ludzkiego; Fragilità humana, Fugacità delle grandezze &amp; della gloria mondana, Meditatione della morte, Opera vana, Piacere vano, Vana gloria, Vanità (Ripa)
+#11R51|scenes symbolizing 'Vanitas'
 #11R511|(children or putti) blowing bubbles, 'Homo Bulla' ~ scene symbolizing 'Vanitas'
 #11R512|(woman) looking in a mirror ~ scene symbolizing 'Vanitas'
 #11R513|Father Time blowing out the lamp of life ~ scene symbolizing 'Vanitas'
 #11R514|man hanging from a branch above a pit ~ scene symbolizing 'Vanitas'
-#11R6|'Vanitas' still life
+11R6|'Vanitas' - martwa natura
 #11R61|person(s) sitting among objects forming a 'Vanitas' still life
-#11R7|'Vanitas' symbols
+11R7|'Vanitas' - symbole
 #11R71|skull as symbol of 'Vanitas'
 #11R72|smoking pot as symbol of 'Vanitas'
-11S|天國, 天堂, 新天地
-11S0|人格化的天國: Caelus; 'Cielo' (Ripa)
-11S1|天堂的再現 (以及它的居民)
+11S|niebo, raj niebieski, Nowa Ziemia
+11S0|personifikacja nieba Caelus; 'Cielo' (Ripa)
+11S1|przedstawienia raju niebieskiego (i jego mieszkańców)
 #11S11|heaven represented in the air, with clouds (in concentric circles) and light
 #11S12|heaven represented as paradisaical landscape
 #11S13|heaven represented as a meadow
 #11S14|heaven represented as Sea of Glass
 #11S15|heaven represented as a city
 #11S16|heaven represented as Abraham's bosom (the blessed in his lap or in his arms)
-11S2|天國的象徵符號
-11S3|進天國之路, 進天國的通道
+11S2|symbole nieba
+11S3|podróż do nieba, droga do nieba
 #11S31|ladder, stairway to heaven
 #11S311|the blessed mounting the ladder, the sinners falling down into hell
-11S4|天國之門, 天國之入口,  'porta coeli'
+11S4|brama niebios, wejście do nieba, 'porta coeli'
 #11S41|St. Peter guarding the gate of heaven
-11S5|在天國接納有福之人
+11S5|przyjęcie błogosławionych w niebie
 #11S51|Enoch and Elijah receiving the souls in heaven
-11S6|在天國的有福之人, 以及他們的活動
+11S6|błogosławieni (i ich działania) w niebie
 #11S61|the blessed singing in heaven
 #11S62|the blessed making music in heaven
 #11S63|the blessed worshipping in heaven
 #11S64|the blessed banqueting in heaven
-11S7|真福十四端
+11S7|czternaście błogosławieństw
 #11S71|the seven gifts of the body ('les dons du corps')
 #11S711|beauty, 'Pulchritudo' ~ one of the seven gifts of the body
 #11S712|agility, 'Velocitas' ~ one of the seven gifts of the body
@@ -10156,7 +10154,7 @@
 #11S715|impassibility, 'Impassibilitas' ~ one of the seven gifts of the body
 #11S716|voluptuousness, pleasure, 'Voluptas' ~ one of the seven gifts of the body
 #11S717|eternal life, 'Vitae aeternitas' ~ one of the seven gifts of the body
-11S72|靈魂七恩 ('les dons de l'esprit')
+#11S72|the seven gifts of the soul ('les dons de l'esprit')
 #11S721|wisdom, 'Sapientia' ~ one of the seven gifts of the soul
 #11S722|friendship, 'Amicitia' ~ one of the sven gifts of the soul
 #11S723|concord, 'Concordia' ~ one of the seven gifts of the soul
@@ -10164,58 +10162,58 @@
 #11S725|power, 'Potestas' ~ one of the seven gifts of the soul
 #11S726|security, 'Securitas' ~ one of the seven gifts of the soul
 #11S727|joy, 'Gaudium' ~ one of the seven gifts of the soul
-11T|地獄和煉獄
-11T1|地獄的再現 (與被天譴的和魔鬼), 通常有燃燒的火
+11T|piekło i czyściec
+#11T1|representations of hell (with the damned and devils), usually with burning fires
 #11T11|hell represented as landscape
 #11T12|hell divided into compartments
 #11T13|hell represented as cave or grotto
 #11T14|hell represented as (ruined) city, (ruined) castle
-11T2|地獄的象徵符號
-11T3|到達地獄之路
-11T4|地獄之入口
+#11T2|symbols of hell
+#11T3|journey to hell
+#11T4|entrance of hell
 #11T41|entrance of hell as monstrous mouth (of Leviathan)
 #11T411|entrance of hell as monstrous mouth (of Leviathan) in a landscape
 #11T42|entrance of hell as gate
-11T5|被天譴的靈魂, 和對他們的懲罰
+#11T5|the damned souls, and their punishment
 #11T51|the damned souls beaten, pricked, scourged, etc. by devils
 #11T52|the damned souls boiling in great cauldrons
 #11T53|devils dragging the damned into the fire of hell
-11T6|煉獄, 通常靈魂在祈禱或代禱
+#11T6|purgatory, usually the souls praying or asking for intercession
 #11T61|liberation of the souls from purgatory
-11T7|靈薄獄
+#11T7|Limbo
 #11TT1|representations of hell (with the damned and devils), usually with burning fires - TT - with the devil (Lucifer) as ruler
 #11TT11|hell represented as landscape - TT - with the devil (Lucifer) as ruler
 #11TT12|hell divided into compartments - TT - with the devil (Lucifer) as ruler
 #11TT13|hell represented as cave or grotto - TT - with the devil (Lucifer) as ruler
 #11TT14|hell represented as (ruined) city, (ruined) castle - TT - with the devil (Lucifer) as ruler
-11U|最後的審判
-11U1|對最後審判的綜合再現: 基督 (持著寶劍和百合花), 通常由長者陪伴, 有時還由馬利亞和施洗者約翰陪伴, 出現在天空上, 並有吹號的天使們 (有時天使們手執基督受難刑具); 死者復活之後, 有福之人由天使帶領升往天國, 受天譴之人被魔鬼拉進地獄
+11U|Sąd Ostateczny
+#11U1|comprehensive representation of Last Judgement: Christ (with sword and lily), often surrounded by elders and sometimes accompanied by Mary and John the Baptist, appears in the sky with trumpeting angels (and sometimes angels holding the instruments of the Passion); after the resurrection of the dead the blessed are led to heaven by angels, and the damned are dragged into hell by devils
 #11U11|representation of Last Judgement, with the archangel Michael weighing the souls (or dividing the blessed and the damned)
-11U2|分場景 ~ 最後的審判
+#11U2|separate scenes ~ Last Judgement
 #11U21|resurrection of the dead ~ Last Judgement
 #11U22|division of the blessed and the damned ~ Last Judgement
 #11U23|the blessed are brought to heaven ~ Last Judgement
 #11U24|the fall of the damned ~ Last Judgement
-11U3|最後審判的象徵
-11U4|馬利亞和施洗者約翰與作審判的基督在一起 (如跪在基督面前), 'Deesis' ~ 最後的審判
-11U5|末日之十五個預兆
-11U6|基督再臨
-11V|慈善之事
-11V1|施食於飢者, 'esuriens cibatur' ~  (七大) 善事之一
-11V2|施飲於渴者, 'sitiens potatur' ~  (七大) 善事之一
-11V3|給陌生人住宿, 'hospes colligitur' ~ (七大) 善事之一
-11V4|施衣於裸者, 'nudus vestitur' ~ (七大) 善事之一
-11V5|看望病人, 'aeger curatur' ~ (七大) 善事之一
-11V6|看望或解救囚犯, 'incarceratus solatur' ~ (七大) 善事之一
-11V7|埋葬死者, 'mortuus sepellitur' ~ (七大) 善事之一
+#11U3|symbols of Last Judgement
+#11U4|Mary and John the Baptist together with (e.g. kneeling before) the judging Christ, 'Deesis' ~ Last Judgement
+#11U5|the fifteen signs before Doomsday
+#11U6|the second coming of Christ
+11V|siedem uczynków miłosiernych
+#11V1|feeding the hungry, 'esuriens cibatur' ~ one of the (seven) Acts of Mercy
+#11V2|giving the thirsty to drink, 'sitiens potatur' ~ one of the (seven) Acts of Mercy
+#11V3|sheltering strangers, 'hospes colligitur' ~ one of the (seven) Acts of Mercy
+#11V4|clothing the naked, 'nudus vestitur' ~ one of the (seven) Acts of Mercy
+#11V5|visiting the sick, 'aeger curatur' ~ one of the (seven) Acts of Mercy
+#11V6|visiting or liberating the imprisoned, 'incarceratus solatur' ~ one of the (seven) Acts of Mercy
+#11V7|burying the dead, 'mortuus sepellitur' ~ one of the (seven) Acts of Mercy
 #11V8|the (seven) spiritual Acts of Mercy
-11V81|警示罪人 ~ (七大) 精神善事
-11V82|告知無知者 ~ (七大) 精神善事
-11V83|建議疑惑者 ~ (七大) 精神善事
-11V84|安慰痛苦者 ~ (七大) 精神善事
-11V85|對不公耐心忍耐 ~ (七大) 精神善事
-11V86|原諒傷己者 ~ (七大) 精神善事
-11V87|為生者死者祈禱 ~ (七大) 精神善事
+#11V81|warning sinners ~ one of the (seven) spiritual Acts of Mercy
+#11V82|informing the ignorant ~ one of the (seven) spiritual Acts of Mercy
+#11V83|advising the vacillating ~ one of the (seven) spiritual Acts of Mercy
+#11V84|consoling the sorrowful ~ one of the (seven) spiritual Acts of Mercy
+#11V85|bearing injustice patiently ~ one of the (seven) spiritual Acts of Mercy
+#11V86|forgiving injuries ~ one of the (seven) spiritual Acts of Mercy
+#11V87|praying for the living and the dead ~ one of the (seven) spiritual Acts of Mercy
 #11V9|works of mercilessness
 #11VV|the (seven) Acts of Mercy - VV - Christ present
 #11VV1|feeding the hungry, 'esuriens cibatur' ~ one of the (seven) Acts of Mercy - VV - Christ present
@@ -10234,8 +10232,8 @@
 #11VV86|forgiving injuries ~ one of the (seven) spiritual Acts of Mercy - VV - Christ present
 #11VV87|praying for the living and the dead ~ one of the (seven) spiritual Acts of Mercy - VV - Christ present
 #11VV9|works of mercilessness - VV - Christ present
-#12|非基督教宗教
-#12A|犹太教与文化
+12|religie niechrześcijańskie (w tym instytucje, zwyczaje, starożytności)
+12A|judaizm i kultura żydowska
 #12A0|'Synagoga', Synagogue, i.e. Jewish religion personified (or symbolized)
 #12A1|God ~ Jewish religion
 #12A11|the name of God ~ Jewish religion
@@ -10618,7 +10616,7 @@
 #12A949|Jewish defence against acts of violence
 #12A95|anti-semitic organizations
 #12A96|anti-semitic symbols
-#12B|非基督教宗教与信仰
+12B|religie i kulty niechrześcijańskie (w ogólności)
 #12B1|conceptions and ideas visualized ~ non-Christian religions
 #12B10|non-Christian religion personified or symbolized
 #12B11|general ideas ~ non-Christian religions
@@ -10745,7 +10743,7 @@
 #12BB63|statues, paintings, etc. ~ objects of worship (non-Christian religions) - BB - in the open air
 #12BB84|mystery cults ~ non-Christian religions - BB - women only
 #12BB91|feasts and festivals in honour of the gods ~ non-Christian religions - BB - women only
-#12C|Egyptian religion
+12C|religia egipska
 #12C1|conceptions and ideas visualized ~ Egyptian religion
 #12C13|representations ~ Egyptian gods, demi-gods, heroes, etc.
 #12C13(...)|representations ~ Egyptian gods, demi-gods, heroes, etc. (with NAME)
@@ -10899,7 +10897,7 @@
 #12CC62|altar ~ Egyptian religion - CC - in the open air
 #12CC621|house-altar ~ Egyptian religion - CC - in the open air
 #12CC63|statues, paintings, etc. ~ objects of worship (Egyptian religion) - CC - in the open air
-#12D|Babylonian-Assyrian religions and other antique religions of the Near East and Northern Africa
+12D|religie babilońsko-asyryjskie i inne starożytne religie Bliskiego Wschodu i Afryki Północnej
 #12D1|conceptions and ideas visualized ~ Babylonian-Assyrian religions and other antique religions of the Near East and Northern Africa
 #12D13|representations ~ gods, demi-gods, heroes etc. (Babylonian-Assyrian religions and antique religions of the Near East and Northern Africa)
 #12D13(...)|representations ~ gods, demi-gods, heroes etc. (with NAME) (Babylonian-Assyrian religions and antique religions of the Near East and Northern Africa)
@@ -10967,7 +10965,7 @@
 #12DD13(ISHTAR)9|Ishtar, Babylonian-Assyrian goddess of fertility and procreation - offspring, companion(s), train, etc. of non-Christian god or goddess
 #12DD51|priest ~ Babylonian-Assyrian religions and other antique religions of the Near East and Northern Africa - DD - priestess
 #12DD62|altar ~ Babylonian-Assyrian religions and other antique religions of the Near East and Northern Africa - DD - in the open air
-#12E|Greek religion (including Minoan and Mycenaean culture)
+12E|religia grecka (łącznie z kulturą minojska i kulturą mykeńską)
 #12E1|conceptions and ideas visualized ~ Greek religion
 #12E13|representations ~ gods, demi-gods, heroes, etc. (Greek religion)
 #12E13(...)|representations ~ gods, demi-gods, heroes, etc. (with NAME) (Greek religion)
@@ -11078,7 +11076,7 @@
 #12EE91(...)|feasts and festivals in honour of the Greek gods (with NAME) - EE - women only
 #12EE91(ANTHESTERIA)|'Anthesteria', festival of Dionysus - EE - women only
 #12EE91(PANATHENAEA)|'Panathenaea', feast in honour of Athena - EE - women only
-#12F|Roman religion (including Etruscan religion)
+12F|religia rzymska (łącznie z religią etruską)
 #12F1|conceptions and ideas visualized ~ Roman religion
 #12F13|representations ~ gods, demi-gods, heroes etc. (Roman religion)
 #12F13(...)|representations ~ gods, demi-gods, heroes, etc. (with NAME) (Roman religion)
@@ -11190,7 +11188,7 @@
 #12FF621|house-altar ~ Roman religion - FF - in the open air
 #12FF63|statues, paintings, etc. ~ objects of worship in Roman religion - FF - in the open air
 #12FF91|feasts and festivals in honour of the Roman gods - FF - women only
-#12G|Mithraism and other Hellenistic or Late Roman (provincial) religions (including ancient Iranian religions)
+12G|mitraizm i inne hellenistyczne lub późnorzymskie (prowincjonalne) religie (łącznie z religiami starożytnej Persji)
 #12G1|conceptions and ideas visualized ~ Mithraism and other Hellenistic or Late Roman (provincial) religions (including ancient Iranian religions)
 #12G12|supreme being, creator, etc. ~ Mithraism and other Hellenistic or Late Roman (provincial) religions (including ancient Iranian religions)
 #12G13|representations ~ gods, demi-gods, heroes, etc. in Mithraism and other Hellenistic or Late Roman (provincial) religions (including ancient Iranian religions)
@@ -11240,7 +11238,7 @@
 #12GG51|priest ~ Mithraism and other Hellenistic or Late Roman (provincial) religions (including ancient Iranian religions) - GG - priestess
 #12GG62|altar ~ Mithraism and other Hellenistic or Late Roman (provincial) religions (including ancient Iranian religions) - GG - in the open air
 #12GG63|statues, paintings, etc. ~ objects of worship in Mithraism and other Hellenistic or Late Roman (provincial) religions (including ancient Iranian religions) - GG - in the open air
-#12H|Hinduism, Buddhism, Jainism
+12H|hinduizm, buddyzm, dżinizm
 #12H1|conceptions and ideas visualized ~ Hinduism, Buddhism, Jainism
 #12H12|Brahma (supreme being, creator, etc. ~ Hinduism, Buddhism, Jainism)
 #12H13|representations ~ gods, demi-gods, heroes, etc. (Hinduism, Buddhism, Jainism)
@@ -11432,7 +11430,7 @@
 #12HH52(...)|seer, prophet (with NAME) ~ Hinduism, Buddhism, Jainism - HH - seeress, prophetess
 #12HH62|altar ~ Hinduism, Buddhism, Jainism - HH - in the open air
 #12HH63|statues, paintings, etc. ~ objects of worship (Hinduism, Buddhism, Jainism) - HH - in the open air
-#12I|Islam, Mohammedanism
+12I|islam, mahometanizm
 #12I1|conceptions and ideas visualized ~ Islam, Mohammedanism
 #12I10|personification of Mohammedanism
 #12I12|Allah (supreme being, creator, etc. ~ Islam, Mohammedanism)
@@ -11462,7 +11460,7 @@
 #12I8|religious communities ~ Islam, Mohammedanism
 #12I82|fraternities ~ Islam, Mohammedanism
 #12II63|statues, paintings, etc. as objects of worship (Islam, Mohammedanism) - II - in the open air
-#12K|Celtic religion
+12K|religia celtycka
 #12K2|ritual practices ~ Celtic religion
 #12K21|worship and devotion ~ Celtic religion
 #12K211|prayer ~ Celtic religion
@@ -11471,7 +11469,7 @@
 #12K51|druid (Celtic religious functionary)
 #12K6|places and objects of worship ~ Celtic religion
 #12K61|temple, shrine ~ Celtic religion
-#12L|Germanic and Scandinavian religions
+12L|religie germańskie i skandynawskie
 #12L1|conceptions and ideas visualized ~ Germanic and Scandinavian religions
 #12L13|representations ~ gods, demi-gods, heroes etc. (Germanic and Scandinavian religions)
 #12L13(...)|representations ~ gods, demi-gods, heroes etc. (with NAME) (Germanic and Scandinavian religions)
@@ -11618,17 +11616,17 @@
 #12LL51|priestess ~ Germanic and Scandiavian religions
 #12LL62|altar ~ Germanic and Scandiavian religions - LL - in the open air
 #12LL63|statues, paintings, etc. ~ objects of worship (Germanic and Scandinavian religions) - LL - in the open air
-#12M|Slavonic and other European and Central-Asian religions (including Basque, Finnish, and Magyar religions)
+12M|religie słowiańskie i inne religie europejskie i środkowoazjatyckie (łącznie z religiami baskijską, fińską i madziarską)
 #12M5|religious functionaries ~ Slavonic and other European and Central-Asian religions
 #12M51|priest ~ Slavonic and other European and Central-Asian religions
 #12MM51|priest ~ Slavonic and other European and Central-Asian religions - MM - priestess
-12N|中國傳統宗教
-12N1|概念和觀念的視覺表現 ~ 中國傳統宗教
-12N11|再現 ~ 一般觀念 (中國傳統宗教)
-12N13|再現 ~ 神, 半神, 英雄, 等等 (中國傳統宗教)
-12N13(...)|再現 ~ 神, 半神, 英雄, 等等 (名稱) (中國傳統宗教)
-12N13(...)1|再現 ~ 神, 半神, 英雄, 等等 (名稱) (中國傳統宗教) - 非基督教神或女神的早年生活, 青春時代
-12N13(...)11|再現 ~ 神, 半神, 英雄, 等等 (名稱) (中國傳統宗教) - 非基督教神或女神的誕生
+12N|tradycyjne religie chińskie
+#12N1|conceptions and ideas visualized ~ traditional Chinese religions
+#12N11|representations ~ general ideas (traditional Chinese religions)
+#12N13|representations ~ gods, demi-gods, heroes, etc. (traditional Chinese religions)
+#12N13(...)|representations ~ gods, demi-gods, heroes, etc. (with NAME) (traditional Chinese religions)
+#12N13(...)1|representations ~ gods, demi-gods, heroes, etc. (with NAME) (traditional Chinese religions) - early life, prime youth of non-Christian god or goddess
+#12N13(...)11|representations ~ gods, demi-gods, heroes, etc. (with NAME) (traditional Chinese religions) - birth of non-Christian god or goddess
 #12N13(...)12|representations ~ gods, demi-gods, heroes, etc. (with NAME) (traditional Chinese religions) - infancy, upbringing of non-Christian god or goddess
 #12N13(...)2|representations ~ gods, demi-gods, heroes, etc. (with NAME) (traditional Chinese religions) - love-affairs of non-Christian god or goddess
 #12N13(...)3|representations ~ gods, demi-gods, heroes, etc. (with NAME) (traditional Chinese religions) - most important deeds of non-Christian god or goddess
@@ -11684,7 +11682,7 @@
 #12NN52(...)|seer, prophet (with NAME) ~ traditional Chinese religions - NN - seeress, prophetess
 #12NN62|altar ~ traditional Chinese religions - NN - in the open air
 #12NN63|statues, paintings, etc. ~ objects of worship (traditional Chinese religions) - NN - in the open air
-#12O|Shinto
+12O|szintoizm
 #12O2|ritual practices ~ Shinto
 #12O21|worship and devotion ~ Shinto
 #12O211|prayer ~ Shinto
@@ -11693,15 +11691,15 @@
 #12O6|places and objects of worship ~ Shinto
 #12O61|temple, shrine ~ Shinto
 #12OO51|priest ~ Shinto - OO - priestess
-#12P|tribal religions of South-East Asia
-#12Q|African tribal religions
+12P|religie plemienne Azji południowo-wschodniej
+12Q|afrykańskie religie plemienne
 #12Q2|ritual practices ~ African tribal religions
 #12Q21|worship and devotion ~ African tribal religions
 #12Q211|prayer ~ African tribal religions
 #12Q212|sacrifice ~ African tribal religions
 #12Q213|making music and dancing ~ African tribal religions
 #12Q214|orgy ~ African tribal religions
-#12R|American Indian religions
+12R|religie Indian amerykańskich
 #12R1|conceptions and ideas visualized ~ American Indian religions
 #12R13|representations ~ gods, demi-gods, heroes, etc. (American Indian religions)
 #12R13(...)|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions)
@@ -11791,7 +11789,7 @@
 #12RR62|altar ~ American Indian religions - RR - in the open air
 #12RR621|house-altar ~ American Indian religions - RR - in the open air
 #12RR63|statues, paintings, etc. ~ objects of worship (American Indian religions) - RR - in the open air
-#12S|Australian and Polynesian/Melanesian religions
+12S|religie Australii oraz Polinezji i Malezji
 #12S2|ritual practices ~ Australian and Polynesian/Melanesian religions
 #12S21|worship and devotion ~ Australian and Polynesian/Melanesian religions
 #12S211|prayer ~ Australian and Polynesian/Melanesian religions
@@ -11812,8 +11810,8 @@
 #12SS62|altar ~ Australian and Polynesian/Melanesian religions - SS - in the open air
 #12SS621|house-altar ~ Australian and Polynesian/Melanesian religions - SS - in the open air
 #12SS63|statues, paintings, etc. ~ objects of worship (Australian and Polynesian/Melanesian religions) - SS - in the open air
-#12T|Arctic religions (Siberian-, Lapp-, Eskimo-religions)
-#12U|miscellaneous religions, cults and doctrines
+12T|religie Arktyki (religie syberyjskie, lapońskie, eskimoskie)
+12U|różnorodne religie, kulty i wierzenia
 #12U(...)|miscellaneous religions, cults and doctrines (with NAME)
 #12U(...)1|miscellaneous religions, cults and doctrines (with NAME) - conceptions and ideas visualized
 #12U(...)10|miscellaneous religions, cults and doctrines (with NAME) - miscellaneous religions, cults and doctrines personified or symbolized
@@ -12055,18 +12053,18 @@
 #12U(THEOSOPHY)91|miscellaneous religions, cults and doctrines: theosophy - feasts and festivals
 #12U(THEOSOPHY)92|miscellaneous religions, cults and doctrines: theosophy - plays and games
 #12UU(FREEMASONRY)62|altar ~ Freemasonry - UU - in the open air
-13|巫術, 超自然主義, 神秘主義
-#13A|general phenomena ~ magic and supernaturalism (spirits, ghosts, etc.)
-13A1|精靈, 鬼
+13|magia, okultyzm, supranaturalizm
+13A|zjawiska ogólne ~ magiczne i nadprzyrodzone (duchy, zjawy itp.)
+#13A1|spirit, ghost
 #13A11|evoking ghosts, conjuring up spirits, calling up genii
 #13A12|materialization, appearance of spirit or ghost
 #13A13|meeting one's other self, 'alter ego'
 #13A2|spiritualism (spirit usually not visible)
-13A2|招魂學說
+#13A21|séance
 #13A22|table turning, levitation ~ spiritualism
 #13A23|human levitation ~ spiritualism
 #13A24|medium ~ spiritualism
-13A3|神秘現象
+#13A3|mysterious phenomena and occurrences
 #13A31|mysterious phenomena and occurrences ~ heavenly bodies
 #13A311|astral vision
 #13A32|mysterious phenomena and occurrences ~ things falling from the air
@@ -12090,18 +12088,18 @@
 #13A3711|'Poltergeist'
 #13A372|phantom music and voices, e.g.: drummer of Tedworth
 #13A373|mysterious phenomena and occurrences ~ food and drink
-13B|巫術
-13B1|男巫, 女巫
-13B1(...)|男巫, 女巫 (名稱)
+13B|czary, magia
+#13B1|witch, sorceress
+#13B1(...)|witch, sorceress (with NAME)
 #13B11|groups of witches
 #13B11(...)|groups of witches (with NAME)
-13B2|巫師, 魔術師, 術士
-13B2(...)|巫師, 魔術師, 術士 (名稱)
+#13B2|sorcerer, magician, wizard, warlock
+#13B2(...)|sorcerer, magician, wizard, warlock (with NAME)
 #13B2(PARACELSUS)|sorcerer, magician, wizard, warlock: Paracelsus
 #13B2(VIRGIL)|sorcerer, magician, wizard, warlock: Virgil
 #13B21|groups of sorcerers
 #13B22|sorcerer's apprentice
-13B3|巫師安息日, 即巫師們聚會日
+#13B3|witches' sabbath, i.e. ceremonial gathering of witches and/or sorcerers
 #13B31|preparations for the witches' sabbath
 #13B311|anointment ~ preparations for the witches' sabbath
 #13B312|departure for the witches' sabbath, e.g.: mounting the broomstick, ascending through the chimney
@@ -12127,7 +12125,7 @@
 #13B36|sites for witches' sabbaths
 #13B36(...)|sites for witches' sabbaths (with NAME)
 #13B37|other gatherings of witches and/or sorcerers, e.g. witches' procession
-13B4|勞作中的巫師
+#13B4|witch(es), sorcerer(s) at work
 #13B41|brewing, boiling (in a cauldron); witches' kitchen
 #13B411|collecting herbs and other materials by witches or sorcerers
 #13B4111|ingredients ~ witches' kitchen
@@ -12148,13 +12146,13 @@
 #13B47(HORSE)|imps, familiars of witches and sorcerers: horse
 #13B47(OWL)|imps, familiars of witches and sorcerers: owl
 #13B48|conjuring book, blackbook, 'grimoire'
-13B5|巫師及魔鬼和/或妖怪
+#13B5|witch, sorcerer with the devil and/or demons
 #13B51|evoking the devil or demons
 #13B511|place to evoke devil and demons, ruined house, abandoned castle
 #13B52|devil forcing a pact upon those who made him appear while standing in a magic circle
 #13B53|devil demanding payment of the 'debt', e.g. devil carrying off a child promised to him by a pact
 #13B54|witch chastised by Black John, the devil
-13B6|獵巫, 鎮壓男女巫師
+#13B6|witch-hunt, persecution of witches and sorcerers
 #13B61|discovery, finding of witch ~ witch-hunt
 #13B611|witch-hunter, witch-finder
 #13B612|witch-hunter collecting his fee
@@ -12168,9 +12166,9 @@
 #13B6323|strappado, squassation ~ witch-trial
 #13B64|execution of witch, sorcerer
 #13B641|leading witch or sorcerer to the place of execution
-13C|魔符或物 (數字, 字詞, 等等)
-13C1|魔力手勢和舞蹈 
-13C2|魔數; 魔數字, 字詞, 交織字母
+13C|magiczne znaki i obiekty (liczby, słowa itp.)
+#13C1|magic gestures and dances
+#13C2|magic mathematical figures; magic numbers, words, monograms
 #13C21|triangle within circle ~ magic mathematical figure
 #13C22|star forms ~ magic mathematical figures
 #13C221|pentagram ~ magic mathematical figures
@@ -12179,7 +12177,7 @@
 #13C24|labyrinth, maze ~ magic mathematical figures
 #13C241|'triple enceinte'
 #13C25|knots ~ magic
-13C3|魔物和 'apotropaia'
+#13C3|magic objects and 'apotropaia'
 #13C31|amulet, talisman
 #13C32|mascot
 #13C33|magic wand
@@ -12187,10 +12185,10 @@
 #13C4|'homo artificialis', 'homunculus', golem
 #13C4(...)|'homo artificialis', 'homunculus', golem (with NAME)
 #13C41|'birth' of 'homo artificialis'
-13C5|風茄, 'mandragora'
-13D|著魔 (邪惡之睛, 變形, 治療, 等等)
-13D1|邪惡之睛
-13D2|變形, 人的蛻變
+#13C5|mandrake, 'mandragora'
+13D|zaklęcie (złe spojrzenie, przemiana, uzdrowienie itp.)
+#13D1|evil eye
+#13D2|transformation, metamorphosis of person
 #13D21|metamorphosed human beings
 #13D211|werewolf, lycanthrope
 #13D212|'Katzenmensch'
@@ -12198,14 +12196,14 @@
 #13D2131|activities of vampire, e.g. drinking blood
 #13D2132|'apotropaion' against vampires, e.g.: cross, garlic
 #13D2133|piercing the heart of a vampire
-13D3|魔法治病
+#13D3|magic healings
 #13D31|countercharms, e.g. against the evil eye
-13D4|著魔 ~ 魔水或魔草
+#13D4|enchantment ~ potion or herbs
 #13D41|love potion, philtre
-13E|占卜, 預測 ~  巫術
-13E1|迷狂中占卜
+13E|wróżenie, przepowiadanie ~ magia
+#13E1|divination in trance
 #13E11|trance caused by ascending vapours
-13E2|占卜 ~ 器物或材料
+#13E2|divination ~ objects or substances
 #13E21|divination with crystal sphere
 #13E22|divination with the aid of cards
 #13E221|tarot
@@ -12216,10 +12214,10 @@
 #13E27|divination ~ smoke
 #13E29|other types of divination ~ objects or substances
 #13E29(...)|other types of divination ~ objects or substances (with NAME)
-13E3|占卜 ~ 動物(部份)
+#13E3|divination ~ (parts of) animals
 #13E31|divination ~ entrails of animals
 #13E32|divination ~ liver of animals
-13E4|占卜 ~ 人體 (部份)
+#13E4|divination ~ (parts of) the human body
 #13E41|divination ~ human corpse, necromancy
 #13E411|necromancer
 #13E42|chiromancy, handreading, palmistry
@@ -12228,21 +12226,21 @@
 #13E431|divination ~ moles
 #13E432|divination ~ significant lines in the face (forehead)
 #13E44|divination ~ involuntary movements
-13E5|其它占卜方法
-13E6|預測
+#13E5|other methods of divining
+#13E6|prognostica
 #13E61|'vaticinia ex evento'
-13E7|占卜者, 預言家
-13F|小宇宙 ~ 大宇宙
+#13E7|diviner, soothsayer
+13F|mikrokosmos ~ makrokosmos
 #13F1|'magia naturalis', i.e. ideas about the sympathy and antipathy of things in nature
-13G|迷信, 流行信仰
+13G|przesąd, wierzenie ludowe
 #13G0|'Superstitione' (Ripa)
-13H|通靈學
-13H1|超感官知覺
-13H2|特異功能的人
-14|占星術
-#140|'Astrologia' (Ripa)
-14A|占星學家在工作
-14A1|占星學家在觀測天體
-14B|天宮圖
-14B1|占星象
-14C|星象符號和象徵
+13H|parapsychologia
+#13H1|extra-sensory perception (E.S.P.)
+#13H2|psychic
+14|astrologia
+140|'Astrologia' (Ripa)
+14A|astrolog przy pracy
+14A1|astrolog obserwujący niebo
+14B|horoskop
+#14B1|casting a horoscope
+14C|astrologiczne znaki i symbole

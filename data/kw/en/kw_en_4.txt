@@ -5523,6 +5523,7 @@
 46C11211|suspension bridge
 46C11212|cantilever bridge
 46C11213|bascule bridge
+46C11213|drawbridge
 46C1122|shape
 46C11221|covered bridge
 46C11221|edifice

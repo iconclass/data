@@ -1,8 +1,8 @@
-9|古典神话与古代历史
-91|宇宙的起源，神譜，和人類的起源：有關創世神話
-#91A|宇宙成因〜古典神話
+9|Mitologia klasyczna i Historia starożytna
+91|mity o stworzeniu kosmogonia, teogonia i początki człowieka
+91A|powstanie wszechświata ~ mitologia klasyczna
 #91A1|primeval deities, elementary gods ~ classical mythology
-#91A11|Uranus (Caelus), Heaven
+91A11|Uran (Coelus), Niebo
 #91A12|Gaea (Ge), Earth
 #91A13|Pontus, Sea
 #91A14|other primeval deities
@@ -16,7 +16,7 @@
 #91A21|creation of the earth ~ classical mythology
 #91A22|creation of the waters ~ classical mythology
 #91A23|creation of the air, winds and stars ~ classical mythology
-#91B|天王星和蓋亞（泰坦，獨眼巨人，Centimani）的後代
+91B|potomstwo Uranosa i Gai (tytani, cyklopi i hekatonchejrowie)
 #91B1|Titans
 #91B11|male Titans
 #91B111|(story of) Saturn (Cronus)
@@ -143,7 +143,7 @@
 #91B31|Briareus (Aegaeon)
 #91B32|Gy(g)es (one of the Centimani)
 #91B33|Cottus
-#91C|the battles (of Titans, Giants, Typhon, Aloeids) with the gods
+91C|bitwy (tytanów, gigantów, Tyfona, Aloadów) z bogami
 #91C1|war of the Titans against Jupiter and allies: titanomachy
 #91C11|the Titans imprisoned in Tartarus
 #91C2|the Giants, Gigantes (with serpents for feet), and their battle against the gods
@@ -168,12 +168,12 @@
 #91C413|the Aloeids killed by Apollo
 #91C4131|the Aloeids accidentally kill each other when Diana darts between them in the form of a white doe
 #91C414|the Aloeids in Tartarus
-#91D|division of the universe (among Jupiter, Neptune and Pluto)
+91D|podział wszechświata (pomiędzy Jowisza, Neptuna i Plutona)
 #91D1|Jupiter, Neptune and Pluto throwing dice for the lordship of the sky, the sea, and the underworld
 #91D11|Jupiter (and Juno) take possession of Heaven
 #91D12|Neptune takes possession of the sea
 #91D13|Pluto takes possession of the underworld
-#91E|人類起源
+91E|pochodzenie człowieka
 #91E1|creation of man by some creative force
 #91E11|Vulcan creating man
 #91E12|Cura making man with a clod of earth
@@ -254,11 +254,11 @@
 #91E71|Deucalion and Pyrrha build an ark
 #91E72|when the waters subside, the ark of Deucalion and Pyrrha comes to rest on the top of a mountain
 #91E73|Deucalion and Pyrrha pray, usually at the shrine of Gaea-Themis
-92|神与女神
-#92A|the Olympian gods together: Jupiter, Juno, Neptune, Ceres, Apollo, Diana, Mars, Venus, Mercury, Minerva, Vulcan, Vesta (or Bacchus)
+92|bogowie ~ mitologia klasyczna
+92A|zgromadzeni razem bogowie olimpijscy Jowisz, Junona, Neptun, Ceres, Apollo, Diana, Mars, Wenus, Merkury, Minerwa, Wulkan, Westa (lub Bachus)
 #92A1|groups of twelve gods of slightly different composition
-92B|大天神
-#92B1|朱庇特
+92B|wielcy bogowie nieba i ich orszak
+#92B1|(story of) Jupiter (Zeus)
 #92B11|early life, prime youth of Jupiter
 #92B111|birth of Jupiter: he is hidden away by Rhea
 #92B112|infancy, upbringing of Jupiter
@@ -314,7 +314,7 @@
 #92B18(THUNDERBOLT)|attributes of Jupiter: thunderbolt
 #92B181|the eagle of Jupiter is given a drink by Ganymede, Hebe or others
 #92B19|(story of) Jupiter (Zeus) - offspring, companion(s), train etc.
-#92B2|火神（赫菲斯托斯）
+#92B2|(story of) Vulcan (Hephaestus)
 #92B21|early life, prime youth of Vulcan
 #92B211|early life, prime youth of Vulcan - birth
 #92B212|infancy, upbringing of Vulcan
@@ -354,7 +354,7 @@
 #92B29122|the Cyclopes handing over the arrows to Cupid
 #92B29123|the Cyclopes handing over Neptune's trident
 #92B292|Cedalion
-#92B3|阿波罗
+#92B3|(story of) Apollo (Phoebus)
 #92B31|early life, prime youth of Apollo
 #92B311|birth of Apollo: Latona gives birth to Apollo and Diana on the island of Delos
 #92B312|early life, prime youth of Apollo - infancy, upbringing
@@ -429,7 +429,7 @@
 #92B39117|fall of Phaethon; he is struck by a thunderbolt of Jupiter
 #92B39118|Phaethon is buried by nymphs
 #92B39119|other scenes from the story of Phaethon and the chariot of the sun
-#92B4|玛尔斯
+#92B4|(story of) Mars (Ares)
 #92B41|(story of) Mars (Ares) - early life, prime youth
 #92B411|(story of) Mars (Ares) - birth
 #92B412|(story of) Mars (Ares) - infancy, upbringing
@@ -459,7 +459,7 @@
 #92B491|Bellona (Enyo)
 #92B492|Pallor and Pavor (Deimus and Phobus)
 #92B493|Kydoimos
-#92B5|墨丘利
+#92B5|(story of) Mercury (Hermes)
 #92B51|early life, prime youth of Mercury
 #92B511|early life, prime youth of Mercury - birth
 #92B512|infancy, upbringing of Mercury
@@ -516,7 +516,7 @@
 #92BB321|Apollo and Cyparissus, usually with his stag
 #92BB322|Apollo and Hyacinthus
 #92BB3221|death of Hyacinthus: he is struck by a discus thrown by Apollo; possibly through jealousy of Zephyrus, who blows just as Apollo hurls the discus
-92C|大女天神
+92C|wielkie boginie nieba i ich orszak
 #92C1|(story of) Juno (Hera)
 #92C11|early life, prime youth of Juno
 #92C111|early life, prime youth of Juno - birth
@@ -543,7 +543,7 @@
 #92C18|attributes of Juno
 #92C18(...)|attributes of Juno (with NAME)
 #92C19|(story of) Juno (Hera) - offspring, companion(s), train etc.
-92C2|米诺娃
+#92C2|(story of) Minerva (Pallas, Athena)
 #92C21|early life, prime youth of Minerva
 #92C211|birth of Minerva; she emerges fully armed from Jupiter's head
 #92C212|early life, prime youth of Minerva - infancy, upbringing
@@ -575,7 +575,7 @@
 #92C281|Aegis: shield with Gorgon's head (attribute of Minerva)
 #92C2811|Aegis: breast-plate or skin with Gorgon's head (attribute of Minerva)
 #92C29|(story of) Minerva (Pallas, Athena) - offspring, companion(s), train etc.
-92C3|狄安娜
+#92C3|(story of) Diana (Artemis)
 #92C31|(story of) Diana (Artemis) - early life, prime youth
 #92C311|(story of) Diana (Artemis) - birth
 #92C312|(story of) Diana (Artemis) - infancy, upbringing
@@ -615,7 +615,7 @@
 #92C39211|Callisto with her child (Arcas), beheld by the jealous Juno
 #92C3922|other companions, nymphs of Diana
 #92C3922(...)|other companions, nymphs of Diana (with NAME)
-92C4|维纳斯
+#92C4|(story of) Venus (Aphrodite)
 #92C41|early life, prime youth of Venus
 #92C411|birth of Venus; Venus Anadyomene: after Uranus' castration Venus rises from the sea wringing the water from her hair; usually she is awaited by the Hours
 #92C4111|Venus, standing on a shell, sails with her veil over the water (alternatively she is riding on a dolphin): Venus Marina
@@ -690,8 +690,8 @@
 #92C59|offspring, companion(s), train etc. of Vesta
 #92C591|Vestal virgin(s)
 #92C5911|Vestal virgin buried alive when found guilty of fornication
-92D|小天神
-#92D1|丘比特
+92D|mniejsze bóstwa nieba ~ otoczenie lub służba wielkich bogów
+#92D1|(story of) Cupid, Amor (Eros)
 #92D11|early life, prime youth of Cupid
 #92D111|early life, prime youth of Cupid - birth
 #92D112|infancy, upbringing of Cupid
@@ -792,7 +792,7 @@
 #92D19218|Psyche is carried up to Olympus by Mercury
 #92D192181|marriage of Cupid and Psyche
 #92D19219|other scenes from the story of Cupid and Psyche
-92D2|缪斯
+#92D2|Hours (Horae), Seasons
 #92D21|Hours ~ fertility, seasons
 #92D21(...)|Hours ~ fertility, seasons (with NAME)
 #92D22|Hours ~ ethical concepts
@@ -904,7 +904,7 @@
 #92D879|(story of) Ganymede - veneration, honoured by
 #92D88|(story of) Ganymede - attributes
 #92D89|(story of) Ganymede - offspring, companion(s), train etc.
-#92E|lesser divinities of Heaven ~ phenomena of air and sky
+92E|mniejsze bóstwa nieba ~ zjawiska powietrzne i niebieskie
 #92E1|(story of) Aurora (Eos); 'Aurora' (Ripa)
 #92E11|(story of) Aurora (Eos); 'Aurora' (Ripa) - early life, prime youth
 #92E111|(story of) Aurora (Eos); 'Aurora' (Ripa) - birth
@@ -1035,7 +1035,7 @@
 #92E56(AURA)|other gods of the winds: Aura
 #92E6|other lesser deities of Heaven ~ phenomena of air and sky
 #92E6(...)|other lesser deities of Heaven ~ phenomena of air and sky (with NAME)
-#92F|lesser divinities of Heaven ~ birth and healing
+92F|mniejsze bóstwa nieba ~ narodziny i uzdrowienie
 #92F1|Ilithyia (Eileithyia), goddess of childbirth
 #92F2|(story of) Aesculapius (Asclepius)
 #92F21|early life, prime youth of Aesculapius
@@ -1078,7 +1078,7 @@
 #92F3|other lesser deities of heaven ~ birth and healing
 #92F3(...)|other lesser deities of heaven ~ birth and healing (with NAME)
 #92F3(PAIAN)|Paian, deity of birth and healing
-#92G|lesser divinities of Heaven ~ destiny, fate, adversity
+92G|mniejsze bóstwa nieba ~ przeznaczenie, los, niepowodzenie
 #92G1|Fates, Parcae (Moirae)
 #92G11|Clotho, usually with distaff
 #92G12|Lachesis, usually with spindle
@@ -1107,7 +1107,7 @@
 #92G7|other lesser deities of Heaven ~ destiny, fate, adversity
 #92G7(...)|other lesser deities of Heaven ~ destiny, fate, adversity (with NAME)
 #92G7(LITAE)|other lesser deities of Heaven ~ destiny, fate, adversity: Litae
-#92H|gods of the waters: Neptune and his environment
+92H|bogowie wody Neptun i jego otoczenie
 #92H1|(story of) Neptune (Poseidon)
 #92H11|early life, prime youth of Neptune
 #92H111|early life, prime youth of Neptune - birth
@@ -1222,7 +1222,7 @@
 #92H7791|veneration of Palaemon: carried on a dolphin's back, he arrives at Corinth, where Sisyphus receives him with divine honours (Philostratus, Imagines II 16)
 #92H78|(story of) Palaemon - attributes
 #92H79|(story of) Palaemon - offspring, companion(s), train etc.
-#92I|gods of the waters: the older dynasty (first series): offspring of Pontus and the monsters of the sea
+92I|bogowie wód starsza dynastia (pierwsza seria) potomstwo Pontosa i stwory morskie
 #92I1|Nereus
 #92I2|Nereids, daughters of Nereus; sea-nymphs
 #92I21|(story of) Thetis; 'Thethi, ninfa del mare' (Ripa)
@@ -1336,7 +1336,7 @@
 #92I763|Podarge (one of the Harpies)
 #92I764|other Harpies
 #92I764(...)|other Harpies (with NAME)
-#92K|gods of the waters: the older dynasty (second series): children of Oceanus, river and small water deities
+92K|bogowie wód starsza dynastia (druga seria) dzieci Okeanosa, bóstwa rzek i mniejsze bóstwa wodne
 #92K1|river-gods
 #92K11|(story of) Achelous; 'Acheloo' (Ripa)
 #92K111|(story of) Achelous; 'Acheloo' (Ripa) - early life, prime youth
@@ -1409,7 +1409,7 @@
 #92K3|other gods of the waters
 #92K3(...)|other gods of the waters (with NAME)
 #92K3(NESTIS)|other gods of the waters: Nestis
-#92L|gods of the earth and fertility ~ life in mountains and woods
+92L|bogowie ziemi i płodności ~ życie w górach i lasach
 #92L1|(story of) Bacchus (Dionysus), Liber
 #92L11|early life, prime youth of Bacchus
 #92L111|birth of Bacchus: he is born from Jupiter's thigh, where he had been sewn in (possibly by Mercury)
@@ -1740,7 +1740,7 @@
 #92LL7179|centaurs (in general) - LL - female centaurs (in general) - veneration, honoured by
 #92LL718|centaurs (in general) - LL - female centaurs (in general) - attributes
 #92LL719|centaurs (in general) - LL - female centaurs (in general) - offspring, companion(s), train etc.
-#92M|gods of the earth and fertility ~ agriculture
+92M|bogowie ziemi i płodności ~ rolnictwo
 #92M1|(story of) Ceres (Demeter)
 #92M11|(story of) Ceres (Demeter) - early life, prime youth
 #92M111|(story of) Ceres (Demeter) - birth
@@ -1808,7 +1808,7 @@
 #92M3|other gods of fertility
 #92M3(...)|other gods of fertility (with NAME)
 #92M3(PALICI)|other gods of fertility: Palici
-#92N|gods of the underworld
+92N|bogowie podziemia
 #92N1|(story of) Pluto (Hades), Dis Pater, Orcus
 #92N11|(story of) Pluto (Hades), Dis Pater, Orcus - early life, prime youth
 #92N111|(story of) Pluto (Hades), Dis Pater, Orcus - birth
@@ -1886,8 +1886,8 @@
 #92N63|Phantasus, dream assuming the form of inanimate objects
 #92N7|other gods of the underworld
 #92N7(...)|other gods of the underworld (with NAME)
-93|诸神聚会与居所
-#93A|meetings of the gods
+93|spotkania i miejsca pobytu bogów
+93A|spotkanie bogów
 #93A1|banquets, feasts of the gods (in general)
 #93A11|banquets, feasts of the gods (outdoors)
 #93A111|banquets, feasts of the gods (in the air, possibly on the clouds)
@@ -1903,16 +1903,16 @@
 #93A212|assemblies of the gods on the sea
 #93A22|assemblies of the gods in a grotto, cavern
 #93A23|assemblies of the gods (indoors)
-#93B|Olympus
-#93C|Parnassus, sacred to Apollo Musagetes
+93B|Olimp
+93C|Parnas, poświęcony Apollowi, przewodnikowi muz
 #93C1|Castalia, the fountain of Mount Parnassus
-#93D|Helicon, sacred to the Muses
+93D|Helikon, poświęcony muzom
 #93D1|Pegasus, the winged horse
 #93D2|fountains of Mount Helicon
 #93D21|Hippocrene (fountain of Mount Helicon), produced when Pegasus' hoof struck the ground
 #93D22|Pirene (fountain of Mount Helicon)
 #93D23|Aganippe (fountain of Mount Helicon)
-#93E|Hades, the Underworld
+93E|Hades, podziemie
 #93E1|entrances to Hades
 #93E1(...)|entrances to Hades (with NAME)
 #93E2|rivers of Hades
@@ -1942,7 +1942,7 @@
 #93E87(...)|other sufferers in Tartarus (with NAME)
 #93E87(PHLEGYAS)|Phlegyas in Tartarus with a huge stone hanging over his head
 #93E9|wandering shades, ghosts ~ Hades, the Underworld
-#93F|the Garden of the Hesperides
+93F|ogród Hesperyd
 #93F1|the Hesperides, guardians of the tree with golden apples
 #93F11|Aegle (Hesperide)
 #93F12|Erythea (Hesperide)
@@ -1950,13 +1950,13 @@
 #93F13(...)|other Hesperides (with NAME)
 #93F2|Ladon, the hundred-headed dragon
 #93F3|the golden apples of the Hesperides
-#93G|House of Sleep: a gloomy cave through which runs the river Lethe; possibly with two gates, one of ivory through which deceptive dreams issue, and one of horn through which true dreams issue
-#93H|cave of winds
-#93I|other dwellings of the gods
+93G|Dom Snu posępna jaskinia przez którą płynie rzeka Lete; może mieć dwie bramy, jedną z kości słoniowej, przez którą wydobywają się sny łudzące, a drugą z rogu, przez którą wydobywają się sny prawdziwe
+93H|jaskinia wiatrów
+93I|inne miejsca pobytu bogów
 #93I(...)|other dwellings of the gods (with NAME)
 #93I(PINDUS)|other dwellings of the gods: Pindus
-94|希腊英雄传说 (I)
-#94A|the story of the Argonauts: the quest for the Golden Fleece
+94|greckie legendy o herosach (I)
+94A|historia Argonautów wyprawa po złote runo
 #94A1|Jason, son of Aeson, in Iolcus
 #94A11|Jason on his way to Iolcus carries Juno, disguised as an old woman, across the river and loses a sandal
 #94A12|Jason before his uncle Pelias, wearing only one sandal
@@ -2031,7 +2031,7 @@
 #94A73|Creusa is consumed by flames when putting on the poisoned robe (or crown)
 #94A74|Medea kills her two children; she flees from Corinth in a chariot drawn by winged dragons
 #94A8|scenes from the story of the Argonauts that cannot be located in the chronological sequence
-#94B|the Theban wars: the Seven against Thebes and the Epigoni
+94B|wojny tebańskie siedmiu przeciw Tebom i Epigoni
 #94B1|the Seven against Thebes: the first Theban war
 #94B11|prelude to the war against Thebes
 #94B111|Polynices, banished from Thebes by his brother Eteocles, comes to Argos
@@ -2093,7 +2093,7 @@
 #94B24|scenes from the story of the Epigoni that cannot be located in the chronological sequence
 #94B241|scenes from the story of the Epigoni that cannot be located in the chronological sequence of the story, featuring the Epigoni
 #94B242|scenes from the story of the Epigoni that cannot be located in the chronological sequence of the story, featuring the Thebans
-#94C|the Trojan war (94C - 94H)
+94C|wojna trojańska (94C - 94H)
 #94C1|prelude to the Trojan war: the love-story of Paris (also called Alexander) and Helen
 #94C11|Paris and the golden apple
 #94C111|the three goddesses Venus, Juno and Minerva quarrel about the golden apple; Jupiter sends them to Paris
@@ -2116,7 +2116,7 @@
 #94C2|the Trojan war: the gathering of the Greek heroes
 #94C21|Ulysses feigns madness: he ploughs with an ox and an ass yoked together, and at the same time sows salt; Palamedes places the young Telemachus in front of the plough, which makes Ulysses give in
 #94C22|Achilles discovered among the daughters of Lycomedes, i.e. Achilles on Scyros: when presents are brought Achilles snatches up the weapons and thus betrays his identity
-#94D|the Trojan war: the journey to Troy
+94D|wojna trojańska podróż do Troi
 #94D1|the assembled Greeks in Aulis
 #94D11|the Greek fleet is supplied by Anius, king of Delos, and his daughters
 #94D111|Anius' daughters are forced to embark with the Greeks
@@ -2135,7 +2135,7 @@
 #94D231|Telephus is wounded by Achilles, with the help of Bacchus, who causes Telephus to stumble over a vine
 #94D24|a Greek embassy is sent to Priam
 #94D241|Antenor, one of the elders of Troy, and his wife Theano receive the envoys
-#94E|the Trojan war: the arrival and the first nine years
+94E|wojna trojańska przyjazd i pierwszych dziewięć lat
 #94E1|the arrival of the Greeks before Troy
 #94E11|Protesilaus, who leaps ashore first, is killed by Hector
 #94E12|Achilles kills Cycnus by strangling him with his helmet-thongs
@@ -2148,7 +2148,7 @@
 #94E23|Palamedes is falsely accused of treachery by Ulysses
 #94E231|gold is found in Palamedes' tent
 #94E232|Palamedes is stoned to death by the Greeks
-#94F|the tenth year of the Trojan war (part I); the wrath of Achilles: from the quarrel about Briseis to the death of Patroclus
+94F|dziesiąty rok wojny trojańskiej (część I); gniew Achillesa od sporu o Bryzejdę do śmierci Patroklesa
 #94F1|the quarrel about Briseis (Iliad I)
 #94F11|the ransom of Chryseis: Agamemnon refuses to return Chryseis to her father Chryses
 #94F111|Chryses' prayer to Apollo
@@ -2217,7 +2217,7 @@
 #94F8321|Thetis in Vulcan's forge asking a new armour for Achilles
 #94F8322|Thetis brings Achilles the new armour (Iliad XIX)
 #94F8323|the shield of Achilles
-#94G|the tenth year of the Trojan war (part II): Achilles back to war; his last deeds and his death
+94G|dziesiąty rok wojny trojańskiej (część II) Achilles wraca do walki, jego ostatnie czyny i śmierć
 #94G1|reconciliation of Achilles and Agamemnon (Iliad XIX)
 #94G11|Briseis is brought back to Achilles
 #94G12|departure of Achilles for the battle-field
@@ -2262,7 +2262,7 @@
 #94G62|madness of Ajax: he slaughters the Greek cattle
 #94G63|suicide of Ajax
 #94G631|Teucer finds the dead Ajax
-#94H|last months of the siege and the fall of Troy
+94H|ostatnie miesiące oblężenia i upadek Troi
 #94H1|last months of the siege of Troy
 #94H11|Helenus, the Trojan soothsayer, is captured by Ulysses; he discloses the secrets of Troy's impregnability
 #94H12|Philoctetes is fetched from Lemnos by Ulysses and Diomedes
@@ -2312,7 +2312,7 @@
 #94H3|scenes from the Trojan war that cannot be located in the chronological sequence of the story
 #94H31|scenes from the Trojan war that cannot be located in the chronological sequence of the story, featuring the Greeks
 #94H32|scenes from the Trojan war that cannot be located in the chronological sequence of the story, featuring the Trojans
-#94I|adventures of the Greeks after the fall of Troy: the wanderings of Ulysses (Homer, Odyssey)
+94I|przygody Greków po upadku Troi wędrówki Ulissesa (Homer, Odyseja)
 #94I1|wanderings of Ulysses: from the Cicones to Scylla
 #94I11|Ulysses' piratical raid on the Cicones at Ismarus (Homer, Odyssey IX)
 #94I12|Ulysses and his men in the land of the lotus-eaters (Homer, Odyssey IX)
@@ -2414,7 +2414,7 @@
 #94I83|the avenging relatives of the suitors attack Laertes' house
 #94I84|Minerva intervenes; reconciliation of Ulysses and the Ithacan rebels
 #94I9|scenes from the Odyssey that cannot be located in the chronological sequence of the story
-#94K|adventures of the Greeks after the fall of Troy: the return of other Greek heroes
+94K|przygody Greków po upadku Troi powrót innych greckich bohaterów
 #94K1|the return of Agamemnon after the fall of Troy
 #94K11|arrival of Agamemnon and Cassandra in Mycenae
 #94K12|murder of Agamemnon by Clytaemnestra (and/or Aegisthus): he is killed after bathing, when he struggles with a robe without openings
@@ -2433,7 +2433,7 @@
 #94K411|Idomeneus sacrifices his own child
 #94K5|many Greek ships, returning after the fall of Troy, wreck on the Euboean coast because Nauplius has lit false beacons
 #94K6|the return of other Greek heroes after the fall of Troy
-#94L|(story of) Hercules (Heracles)
+94L|historia Herkulesa (Heraklesa)
 #94L1|early life, prime youth of Hercules
 #94L11|birth of Hercules and his twin brother Iphicles; Juno delays the birth by sitting outside Alcmene's door with crossed knees and fingers
 #94L12|infancy, upbringing of Hercules
@@ -2565,7 +2565,7 @@
 #94L8(CLUB)|attributes of Hercules: club
 #94L8(LION'S SKIN)|attributes of Hercules: lion's skin
 #94L9|(story of) Hercules (Heracles) - offspring, companion(s), train etc.
-#94M|(story of) Theseus
+94M|historia Tezeusza
 #94M1|early life, prime youth of Theseus
 #94M11|early life, prime youth of Theseus - birth
 #94M12|infancy, upbringing of Theseus
@@ -2623,7 +2623,7 @@
 #94M8|attributes of Theseus
 #94M8(...)|attributes of Theseus (with NAME)
 #94M9|(story of) Theseus - offspring, companion(s), train etc.
-#94N|(story of) Meleager
+94N|historia Meleagra
 #94N1|early life, prime youth of Meleager
 #94N11|birth of Meleager: Althaea, his mother, warned by a prediction of the Fates, snatches a brand from the fire
 #94N12|early life, prime youth of Meleager - infancy, upbringing
@@ -2652,7 +2652,7 @@
 #94N79|(story of) Meleager - veneration, honoured by
 #94N8|(story of) Meleager - attributes
 #94N9|(story of) Meleager - offspring, companion(s), train etc.
-#94O|(story of) Orpheus
+94O|historia Orfeusza
 #94O1|early life, prime youth of Orpheus
 #94O11|early life, prime youth of Orpheus - birth
 #94O12|infancy, upbringing of Orpheus
@@ -2684,7 +2684,7 @@
 #94O8|attributes of Orpheus
 #94O8(...)|attributes of Orpheus (with NAME)
 #94O9|(story of) Orpheus - offspring, companion(s), train etc.
-#94P|(story of) Perseus
+94P|historia Perseusza
 #94P1|early life, prime youth of Perseus
 #94P11|early life, prime youth of Perseus - birth
 #94P12|infancy, upbringing of Perseus
@@ -2729,7 +2729,7 @@
 #94P79|(story of) Perseus - veneration, honoured by
 #94P8|(story of) Perseus - attributes
 #94P9|(story of) Perseus - offspring, companion(s), train etc.
-#94Q|(story of) Orion
+94Q|historia Oriona
 #94Q1|early life, prime youth of Orion
 #94Q11|birth of the giant Orion: his father Hyrieus digs up the oxhide he had buried in his wife's grave and finds the child
 #94Q111|Hyrieus entertaining Jupiter, Mercury and Neptune
@@ -2757,7 +2757,7 @@
 #94Q79|(story of) Orion - veneration, honoured by
 #94Q8|(story of) Orion - attributes
 #94Q9|(story of) Orion - offspring, companion(s), train etc.
-#94R|(story of) the Dioscuri: Castor (the horse-tamer) and Pollux (the boxer)
+94R|historia Dioskurów Kastor (ujeżdżacz koni) i Polluks (pięściarz)
 #94R(...)|one of the Dioscuri: Castor or Pollux (with NAME)
 #94R(...)1|one of the Dioscuri: Castor or Pollux (with NAME) - early life, prime youth
 #94R(...)11|one of the Dioscuri: Castor or Pollux (with NAME) - birth
@@ -2820,7 +2820,7 @@
 #94R79|specific aspects, allegorical aspects of the Dioscuri; Dioscuri as patrons - veneration, honoured by
 #94R8|(story of) the Dioscuri: Castor (the horse-tamer) and Pollux (the boxer) - attributes
 #94R9|(story of) the Dioscuri: Castor (the horse-tamer) and Pollux (the boxer) - offspring, companion(s), train etc.
-#94S|(story of) Bellerophon
+94S|historia Bellerofona
 #94S1|(story of) Bellerophon - early life, prime youth
 #94S11|(story of) Bellerophon - birth
 #94S12|(story of) Bellerophon - infancy, upbringing
@@ -2852,7 +2852,7 @@
 #94S79|(story of) Bellerophon - veneration, honoured by
 #94S8|(story of) Bellerophon - attributes
 #94S9|(story of) Bellerophon - offspring, companion(s), train etc.
-#94T|(story of) Oedipus
+94T|historia Edypa
 #94T1|early life, prime youth of Oedipus
 #94T11|birth of Oedipus, son of Laius, king of Thebes
 #94T12|infancy, upbringing of Oedipus
@@ -2887,8 +2887,8 @@
 #94T79|(story of) Oedipus - veneration, honoured by
 #94T8|(story of) Oedipus - attributes
 #94T9|(story of) Oedipus - offspring, companion(s), train etc.
-95|希腊英雄传说 (II)
-#95A|the Greek heroic legends (II): heroes
+95|greckie legendy o herosach (II)
+95A|greckie legendy o herosach (II) herosowie
 #95A(...)|the Greek heroic legends (II): heroes (with NAME)
 #95A(...)1|the Greek heroic legends (II): heroes (with NAME) - early life, prime youth
 #95A(...)11|the Greek heroic legends (II): heroes (with NAME) - birth
@@ -4358,7 +4358,7 @@
 #95A(ULYSSES)78|(story of) Ulysses - triumph
 #95A(ULYSSES)79|(story of) Ulysses - veneration, honoured by
 #95A(ULYSSES)8|(story of) Ulysses - attributes
-#95B|the Greek heroic legends (II): heroines
+95B|greckie legendy o herosach (II) heroiny
 #95B(...)|the Greek heroic legends (II): heroines (with NAME)
 #95B(...)1|the Greek heroic legends (II): heroines (with NAME) - early life, prime youth
 #95B(...)11|the Greek heroic legends (II): heroines (with NAME) - birth
@@ -5240,8 +5240,8 @@
 #95B(TYRO)78|(story of) Tyro - triumph
 #95B(TYRO)79|(story of) Tyro - veneration, honoured by
 #95B(TYRO)8|(story of) Tyro - attributes
-96|罗马神诋与传说
-#96A|Roman deities, and foreign deities included in the classical Pantheon
+96|rzymscy bogowie i legendy
+96A|bóstwa rzymskie oraz obce włączone do klasycznego panteonu
 #96A1|male Roman deities
 #96A11|Faunus
 #96A12|(story of) Janus
@@ -5461,7 +5461,7 @@
 #96A5(VICTORIA)|Victoria as Roman personification
 #96A5(VIRTUS)|Virtus as Roman personification
 #96A5(VOLUPTAS)|Voluptas as Roman personification
-#96B|the story of Aeneas' wanderings to Italy (Virgil, Aeneid)
+96B|historia wędrówki Eneasza do Italii (Wergiliusz, Eneida)
 #96B1|Aeneas' wanderings to Italy: from Troy to Carthage (Virgil, Aeneid II-III)
 #96B11|Aeneas leaves the country of Troy
 #96B111|Venus appears to Aeneas, who is just about to kill Helen, and advises him to flee
@@ -5632,7 +5632,7 @@
 #96B9|scenes from the Aeneid that cannot be located in the chronological sequence of the story
 #96B91|scenes from the Aeneid that cannot be located in the chronological sequence of the story, featuring the Trojans
 #96B92|scenes from the Aeneid that cannot be located in the chronological sequence of the story, featuring the Latins
-#96C|heroes, male characters from the legendary origins of Rome
+96C|herosowie, męscy bohaterowie z legendarnych początków Rzymu
 #96C(...)|heroes, male characters from the legendary origins of Rome (with NAME)
 #96C(...)1|heroes, male characters from the legendary origins of Rome (with NAME) - early life, prime youth
 #96C(...)11|heroes, male characters from the legendary origins of Rome (with NAME) - birth
@@ -5801,7 +5801,7 @@
 #96C(TURNUS)78|(story of) Turnus - triumph
 #96C(TURNUS)79|(story of) Turnus - veneration, honoured by
 #96C(TURNUS)8|(story of) Turnus - attributes
-#96D|heroines, female characters from the legendary origins of Rome
+96D|heroiny, kobiece bohaterki z legendarnych początków Rzymu
 #96D(...)|heroines, female characters from the legendary origins of Rome (with NAME)
 #96D(...)1|heroines, female characters from the legendary origins of Rome (with NAME) - early life, prime youth
 #96D(...)11|heroines, female characters from the legendary origins of Rome (with NAME) - birth
@@ -5937,15 +5937,15 @@
 #96D(TARPEIA)78|(story of) Tarpeia - triumph
 #96D(TARPEIA)79|(story of) Tarpeia - veneration, honoured by
 #96D(TARPEIA)8|(story of) Tarpeia - attributes
-97|变身
-#97A|metamorphoses of male persons into trees
+97|metamorfozy ~ mitologia klasyczna
+97A|metamorfozy postaci męskich w drzewa
 #97A1|the Apulian shepherd changed into an oleaster: the Apulian shepherd is changed into an oleaster as punishment for mocking dancing nymphs (Ovid, Metamorphoses XIV 521)
 #97A2|Attis changed into a pine-tree: after castrating himself, Attis, the favourite of Cybele, is changed into a pine-tree (Ovid, Metamorphoses X 104)
 #97A3|Cyparissus changed into a cypress: when pining away for the loss of his favourite stag, Cyparissus the hunter, minion of Apollo, is changed into a cypress by the god (Ovid, Metamorphoses X 106)
 #97A4|Philemon and Baucis changed into oak and lime-tree: after having reached extreme old age, Philemon and Baucis are changed into an oak and a lime-tree whose boughs intertwine (Ovid, Metamorphoses VIII 712)
 #97A5|other metamorphoses of male persons into trees
 #97A5(...)|other metamorphoses of male persons (with NAME) into trees
-#97AA|metamorphoses of female persons into trees
+97AA|metamorfozy postaci kobiecych w drzewa
 #97AA1|Daphne changed into a laurel-tree: while fleeing from Apollo, Daphne is changed into a laurel-tree by her father Peneus (Ovid, Metamorphoses I 548)
 #97AA2|Heliades changed into poplar-trees: while weeping over Phaeton's grave the Heliades are changed into poplar-trees, and their tears turn into beads of amber; their mother Clymene may be present (Ovid, Metamorphoses II 346)
 #97AA3|Leucothea changed into an incense bush: Apollo, Leucothea's lover, having tried in vain to recall her to life, changes Leucothea into an incense bush (Ovid, Metamorphoses IV 252)
@@ -5958,7 +5958,7 @@
 #97AA9(...)|other metamorphoses of female persons (with NAME) into trees
 #97AA9(AGDISTIS)|Agdistis changed into an almond-tree
 #97AA9(LEUCE)|Leuce changed into a white poplar (when Pluto attempts to violate her)
-#97B|metamorphoses of male persons into plants and flowers
+97B|metamorfozy postaci męskich w rośliny i kwiaty
 #97B1|Adonis' blood changed into an anemone or a rose: when Adonis is slain by a boar, Venus changes his blood into an anemone or a rose (Ovid, Metamorphoses X 735)
 #97B2|Ajax' blood changed into a hyacinth: after Ajax has taken his own life, his blood is changed into a hyacinth (Ovid, Metamorphoses X 207; XIII 390)
 #97B3|Ampelus changed into a vine: after having fallen to his death from a bull, Ampelus, the favourite of Bacchus, is changed into a vine
@@ -5967,7 +5967,7 @@
 #97B6|Narcissus changed into a narcissus: when Narcissus is pining away for the love of his image reflected from the water, he is changed into a narcissus (Ovid, Metamorphoses III 510)
 #97B7|other metamorphoses of male persons into plants and flowers
 #97B7(...)|other metamorphoses of male persons (with NAME) into plants and flowers
-#97BB|metamorphoses of female persons into plants and flowers
+97BB|metamorfozy postaci kobiecych w rośliny i kwiaty
 #97BB1|Clytie changed into a sunflower: on account of Apollo's contempt the Oceanid Clytie changes into a sunflower (heliotrope) (Ovid, Metamorphoses IV 268)
 #97BB2|Dryope changed into a lotus-plant: Dryope is changed into a lotus-plant, when to please her little boy she picks a flower from a lotus-plant (i.e. Lotis metamorphosed) which then starts to bleed (Ovid, Metamorphoses IX 331)
 #97BB3|Lotis changed into a lotus-plant: while fleeing from Priapus, Lotis is changed into a lotus-plant (Ovid, Metamorphoses IX 347)
@@ -5975,7 +5975,7 @@
 #97BB5|Syrinx changed into a reed: while fleeing from Pan, the nymph Syrinx is changed into reed by her sisters, the Naiads (Ovid, Metamorphoses I 705)
 #97BB6|other metamorphoses of female persons into plants and flowers
 #97BB6(...)|other metamorphoses of female persons (with NAME) into plants and flowers
-#97C|metamorphoses of male persons into mammals
+97C|metamorfozy postaci męskich w ssaki
 #97C1|Actaeon changed into a stag: as punishment for seeing her bathe, Diana changes Actaeon, the hunter, into a stag (Ovid, Metamorphoses III 193)
 #97C11|Actaeon as a stag is devoured by his own dogs
 #97C2|Cerastae changed into bullocks: because they sacrifice human beings to Jupiter, the Cerastae (horned people of Cyprus) are changed into bullocks by Venus (Ovid, Metamorphoses X 222)
@@ -5991,7 +5991,7 @@
 #97C81|Ulysses' companions are changed into all kinds of animals
 #97C9|other metamorphoses of male persons into mammals
 #97C9(...)|other metamorphoses of male persons (with NAME) into mammals
-#97CC|metamorphoses of female persons into mammals
+97CC|metamorfozy postaci kobiecych w ssaki
 #97CC1|Atalante and Hippomenes changed into lions: when they profane the temple of Cybele, Atalante and Hippomenes are changed into lions by the goddess (Ovid, Metamorphoses X 689)
 #97CC2|Callisto changed into a bear: Juno changes Callisto, who is attending the young Arcas (her son by Jupiter), into a bear
 #97CC21|Callisto as a bear wanders about miserably
@@ -6012,7 +6012,7 @@
 #97CC8|Ocyroe changed into a mare: when she is foretelling the fates of her father Chiron and the young Aesculapius, Ocyroe is changed into a mare (Ovid, Metamorphoses II 657)
 #97CC9|other metamorphoses of female persons into mammals
 #97CC9(...)|other metamorphoses of female persons (with NAME) into mammals
-#97D|metamorphoses of male persons into birds
+97D|metamorfozy postaci męskich w ptaki
 #97D1|metamorphoses of male persons into birds (first series)
 #97D11|Aesacus changed into a diving bird: in despair for having caused the death of Hesperia (or Asterope), Aesacus throws himself into the sea and is changed into a diving bird by Tethys (Ovid, Metamorphoses XI 783)
 #97D111|Aesacus changed into a diving bird while pursuing the nymph Hesperia (or Asterope), who is bitten by a snake
@@ -6037,7 +6037,7 @@
 #97D281|Circe changes Picus' companions, in search of their king, into various animals, because they threaten her (Ovid, Metamorphoses XIV 412)
 #97D3|other metamorphoses of male persons into birds
 #97D3(...)|other metamorphoses of male persons (with NAME) into birds
-#97DD|metamorphoses of female persons into birds
+97DD|metamorfozy postaci kobiecych w ptaki
 #97DD1|metamorphoses of female persons into birds (first series)
 #97DD11|Aedon, wife of Polytechnus, changed into a nightingale: when pursued by her husband for having slain her son Itys, Aedon, through the pity of Jupiter, is changed into a nightingale; Chelidon(is), Aedon's sister, and Polytechnus are also transformed into birds
 #97DD12|Aedon, wife of Zethus, changed into a nightingale: in despair, because she has slain her son Itylus, Aedon is changed into a nightingale
@@ -6063,7 +6063,7 @@
 #97DD29|Peristera changed into a dove: Peristera, who challenged Venus to a contest in picking flowers, is changed into a dove by Cupid, who was assisting his mother
 #97DD3|other metamorphoses of female persons into birds
 #97DD3(...)|other metamorphoses of female persons (with NAME) into birds
-#97E|metamorphoses of male persons into (fabulous) animals
+97E|metamorfozy postaci męskich w (fantastyczne) zwierzęta
 #97E1|Ascalabus (Stellio, Abas) changed into a lizard: Ceres changes the boy into a lizard as punishment for mocking her, when quenching her thirst too avidly (Ovid, Metamorphoses V 456)
 #97E2|Cadmus and Harmonia changed into snakes: when loaded with grief and the infirmity of old age, Cadmus and Harmonia are changed into snakes (Ovid, Metamorphoses IV 576)
 #97E3|Cerambus changed into a beetle: the nymphs change Cerambus into a beetle, so that the old man can escape Deucalion's flood (Ovid, Metamorphoses VII 353)
@@ -6071,13 +6071,13 @@
 #97E5|Tithonus changed into a cicada: when grown old and infirm, Tithonus is changed into a cicada by Aurora
 #97E6|other metamorphoses of male persons into (fabulous) animals
 #97E6(...)|other metamorphoses of male persons (with NAME) into (fabulous) animals
-#97EE|metamorphoses of female persons into (fabulous) animals
+97EE|metamorfozy postaci kobiecych w (fantastyczne) zwierzęta
 #97EE1|Arachne changed into a spider: when hanging herself after having been defeated in a weaving contest with Minerva, Arachne is changed into a spider by the goddess (Ovid, Metamorphoses VI 135)
 #97EE2|Proserpina's companions changed into sirens: Ceres changes Proserpina's companions into sirens, so that they may search for Proserpina over the sea (Ovid, Metamorphoses V 552)
 #97EE3|Scylla changed into a sea-monster: Circe, to whom Glaucus has applied for aid in his love suit, changes Scylla the sea-nymph into a sea-monster (Ovid, Metamorphoses XIV 59)
 #97EE4|other metamorphoses of female persons into (fabulous) animals
 #97EE4(...)|other metamorphoses of female persons (with NAME) into (fabulous) animals
-#97F|metamorphoses of male persons into stone
+97F|metamorfozy postaci męskich w kamień
 #97F1|Battus changed into a touchstone: for violating the promise to keep Mercury's theft of Apollo's cattle a secret, Mercury turns Battus, the shepherd, into a touchstone (Ovid, Metamorphoses II 705)
 #97F2|Daphnis changed into a rock: a nymph changes Daphnis the shepherd into a rock, because he was unfaithful to her (Ovid, Metamorphoses IV 276)
 #97F21|Daphnis, blinded by the nymph, is turned into a stone by Mercury
@@ -6085,7 +6085,7 @@
 #97F4|Sciron's bones changed into cliffs: when Sciron is slain by Theseus, his bones change into cliffs, because they were denied a resting-place both by land and sea (Ovid, Metamorphoses VII 444)
 #97F5|other metamorphoses of male persons into stone
 #97F5(...)|other metamorphoses of male persons (with NAME) into stone
-#97FF|metamorphoses of female persons into stone
+97FF|metamorfozy postaci kobiecych w kamień
 #97FF1|Aglauros changed into a stone: Mercury changes Aglauros into a stone because she prevents him from entering Herse's room (Ovid, Metamorphoses II 820)
 #97FF2|Anaxarete changed into a stone: while looking from her window at Iphis' funeral, Anaxarete is changed into a stone (Ovid, Metamorphoses XIV 753)
 #97FF3|Cinyras' daughters changed into temple steps: for comparing themselves to Juno, Cinyras' daughters are changed into temple steps (Ovid, Metamorphoses VI 98)
@@ -6096,7 +6096,7 @@
 #97FF8|Theban woman changed into stones: Juno changes the Theban women who are grieving for the loss of Ino into stones (Ovid, Metamorphoses IV 561)
 #97FF9|other metamorphoses of female persons into stone
 #97FF9(...)|other metamorphoses of female persons (with NAME) into stone
-#97G|metamorphoses of male persons into stars and constellations
+97G|metamorfozy postaci męskich w gwiazdy i konstelacje
 #97G1|Arcas changed into a constellation: when Arcas is about to shoot the bear into which his mother, Callisto, has been changed, Jupiter turns him into a constellation (Ovid, Metamorphoses II 506)
 #97G2|Dioscuri changed into a constellation: in reward of their brotherly love, the Dioscuri are changed into a constellation
 #97G3|Icarius changed into a constellation: after having been slain by angry farmers, Icarius is changed into a constellation (Ovid, Metamorphoses X 450)
@@ -6104,19 +6104,19 @@
 #97G5|Orion changed into a constellation: while pursuing the Pleiades, or after his death, Orion is changed into a constellation (Ovid, Metamorphoses VIII 207; XIII 294)
 #97G6|other metamorphoses of male persons into stars and constellations
 #97G6(...)|other metamorphoses of male persons (with NAME) into stars and constellations
-#97GG|metamorphoses of female persons into stars and constellations
+97GG|metamorfozy postaci kobiecych w gwiazdy i konstelacje
 #97GG1|Callisto changed into a constellation: Jupiter changes Callisto into a constellation, when, transformed into a bear she is about to be shot by Arcas (Ovid, Metamorphoses II 506)
 #97GG2|Erigone changed into a constellation: when hanging herself through grief at the death of her father Icarius, Erigone is changed into a constellation (Ovid, Metamorphoses X 451)
 #97GG3|other metamorphoses of female persons into stars and constellations
 #97GG3(...)|other metamorphoses of female persons (with NAME) into stars and constellations
-#97H|metamorphoses of male persons into water, air, or other elements
+97H|metamorfozy postaci męskich w wodę, powietrze lub inne żywioły
 #97H1|Acis changed into a river-god: when slain by Polyphemus, Acis is changed into a river-god by Galatea (Ovid, Metamorphoses XIII 885)
 #97H2|Alpheus changed into a river-god: when pining away for the love of Arethusa, Alpheus the hunter is changed into a river-god (Pausanias V 7, 2)
 #97H3|tears of Marsyas' friends changed into River Marsyas: when Marsyas' friends weep over Marsyas, flayed alive by Apollo, their tears change into the river Marsyas (Ovid, Metamorphoses VI 396)
 #97H4|Selemnus changed into a river-god: when pining away for the love of the nymph Argyra, Selemnus the shepherd is changed into a river-god
 #97H5|other metamorphoses of male persons into water, air or other elements
 #97H5(...)|other metamorphoses of male persons (with NAME) into water, air or other elements
-#97HH|metamorphoses of female persons into water, air, or other elements
+97HH|metamorfozy postaci kobiecych w wodę, powietrze lub inne żywioły
 #97HH1|Arethusa changed into a fountain: Diana changes her attendant Arethusa into a fountain, after first having hidden her in a cloud to escape Alpheus, the river-god (Ovid, Metamorphoses V 621)
 #97HH11|Arethusa is turned into a fountain when pursued by the handsome hunter Alpheus (Pausanias V 7, 2)
 #97HH2|Byblis changed into a fountain: after looking for Caunus everywhere, Byblis at last lies down, bathed in tears, and is changed into a fountain (Ovid, Metamorphoses IX 663)
@@ -6128,13 +6128,13 @@
 #97HH8|Pirene changed into a fountain: when pining away for the loss of her son Cenchreus, who inadvertently had been killed by Diana, Pirene is changed into a fountain on Mount Helicon
 #97HH9|other metamorphoses of female persons into water, air, or other elements
 #97HH9(...)|other metamorphoses of female persons (with NAME) into water, air, or other elements
-#97I|metamorphoses into islands
+97I|metamorfozy w wyspy
 #97I1|Asteria changed into an island: when she falls into the sea, Asteria, previously transformed into a quail, is changed into the island of Ortygia
 #97I2|Naiads changed into islands: as punishment for failing to invite him to their feast, Achelous changes the Naiads into the Echinades islands (Ovid, Metamorphoses VIII 583)
 #97I3|Perimele changed into an island: Perimele, when thrown into the sea by her father Hippodamas, is changed into an island by Neptune, at Achelous' request (Ovid, Metamorphoses VIII 609)
 #97I4|other metamorphoses of persons into islands
 #97I4(...)|other metamorphoses of persons (with NAME) into islands
-#97K|metamorphoses ~ sex
+97K|metamorfozy ~ płeć
 #97K1|Caenis changed to Caeneus: when Neptune has ravished Caenis, he changes her at her request into the invulnerable hero Caeneus (Ovid, Metamorphoses XII 201)
 #97K2|Hermaphroditus and Salmacis changed into a hermaphrodite: at the prayer of the fountain-nymph Salmacis, who holds the bathing Hermaphroditus closely embraced, their bodies fuse (Ovid, Metamorphoses IV 373)
 #97K21|any man bathing in the pool Salmacis becomes a hermaphrodite
@@ -6143,7 +6143,7 @@
 #97K5|the ashes of Orion's daughters changed into two youths: after Orion's daughters have voluntarily sacrificed themselves, their ashes are changed into two youths: the Coroni (Ovid, Metamorphoses XIII 698)
 #97K6|other metamorphoses ~ sex
 #97K6(...)|other metamorphoses ~ sex (with NAME of person)
-#97L|metamorphoses ~ age
+97L|metamorfozy ~ wiek
 #97L1|Bacchus' nurses are rejuvenated: at the request of Bacchus, who has witnessed Aeson's rejuvenation, his nurses are rejuvenated by Medea (Ovid, Metamorphoses VII 294)
 #97L2|Callirrhoe's sons age unnaturally: Callirrhoe's sons leap from infancy to manhood, a favour of Jupiter to enable them to revenge themselves on their father Alcmaeon's murderers, Phegeus and his sons (Ovid, Metamorphoses IX 432)
 #97L3|the Cumaean Sibyl is granted long life: Apollo grants the Cumaean Sibyl as many years as she has grains of sand in her hand, in return for her love (Ovid, Metamorphoses XIV 136)
@@ -6152,9 +6152,9 @@
 #97L5|Phaon is rejuvenated: Phaon the boatman is rejuvenated as a reward for carrying Venus, in the guise of an old woman, over to Asia
 #97L6|other metamorphoses ~ age
 #97L6(...)|other metamorphoses ~ age (with NAME of person)
-#97M|metamorphoses into various forms at will
+97M|metamorfozy w rozmaite formy na własne życzenie
 #97M1|Me(s)tra changed into various forms: to support her famished father Erysichthon, Me(s)tra changes herself into various forms (Ovid, Metamorphoses VIII 872)
-#97N|metamorphoses of (fabulous) animals
+97N|metamorfozy (fantastycznych) zwierząt
 #97N1|ants changed to men: in answer to the prayer of Aeacus, Jupiter changes ants into men, the Myrmidons (Ovid, Metamorphoses VII 635)
 #97N2|bull changed to stag: to avoid detection of the theft of the bull by Bacchus' son, the bull is changed into a stag
 #97N3|Cerberus' foam changed into aconite: when Hercules drags Cerberus forth from Hades as his twelfth labour, Cerberus' foam turns into aconite (Ovid, Metamorphoses VII 418)
@@ -6168,7 +6168,7 @@
 #97N8|wolf turned to marble: at the prayer of Peleus and Thetis, a wolf is turned into marble by Psamathe because it had attacked the cattle that Peleus was herding on the sea-shore (Ovid, Metamorphoses X 401)
 #97N9|other metamorphoses of (fabulous) animals
 #97N9(...)|other metamorphoses of (fabulous) animals (with NAME of animal)
-#97O|metamorphoses of objects, plants and flowers
+97O|metamorfozy przedmiotów, roślin i kwiatów
 #97O1|a heron springs from the ashes of the city of Ardea (Ovid, Metamorphoses XIV 580)
 #97O2|a lance fixed by Romulus on the Palatine hill changes into a willow-tree (Ovid, Metamorphoses XV 561)
 #97O3|mulberries changing from white to red: when coloured by the blood of Pyramus and Thisbe, white mulberries become red (Ovid, Metamorphoses IV 158)
@@ -6179,10 +6179,10 @@
 #97O71|Midas washes away the fatal gift in the river Pactolus
 #97O8|other metamorphoses of objects, plants or flowers
 #97O8(...)|other metamorphoses of objects, plants or flowers (with NAME)
-98|古代历史
-#98A|events and situations from classical history
+98|historia klasyczna
+98A|wydarzenia i sytuacje z historii klasycznej
 #98A(...)|events and situations from classical history (with DATE)
-#98B|male persons from classical history
+98B|postacie męskie z historii klasycznej
 #98B(...)|male persons from classical history (with NAME)
 #98B(...)1|male persons from classical history (with NAME) - early life, infancy, upbringing of person from classical history
 #98B(...)2|male persons from classical history (with NAME) - love-affairs of person from classical history
@@ -8595,7 +8595,7 @@
 #98B(ZEUXIS)7|(story of) the painter Zeuxis - post-mortem occurrences ~ person from classical history
 #98B(ZEUXIS)8|(story of) the painter Zeuxis - fabulous, clearly legendary extensions ~ person from classical history
 #98B(ZEUXIS)9|(story of) the painter Zeuxis - portrait of person from classical history
-#98C|female persons from classical history
+98C|postacie kobiece z historii klasycznej
 #98C(...)|female persons from classical history (with NAME)
 #98C(...)1|female persons from classical history (with NAME) - early life, infancy, upbringing of person from classical history
 #98C(...)2|female persons from classical history (with NAME) - love-affairs of person from classical history
