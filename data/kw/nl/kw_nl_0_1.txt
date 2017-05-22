@@ -10328,11 +10328,12 @@
 11H(LAURENCE)|dalmatiek
 11H(LAURENCE)|diaken
 11H(LAURENCE)|goud
-11H(LAURENCE)|gridiron
+11H(LAURENCE)|grilrooster
+11H(LAURENCE)|rooster
 11H(LAURENCE)|Laurence (St.)
 11H(LAURENCE)|martelaar
-11H(LAURENCE)|money-bag
-11H(LAURENCE)|palm-branch
+11H(LAURENCE)|geldbuidel
+11H(LAURENCE)|palmtak
 11H(LAURENCE)0|groep
 11H(LAURENCE)11|interceding
 11H(LAURENCE)11|beschermheer
