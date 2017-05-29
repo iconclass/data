@@ -209,7 +209,8 @@ def get_list(notations):
                 # The bracketed_text will be used to substitute txt in the obj
                 # which already are uniciode as it comes back from the redis_get
                 # so also convert this to unicode to prevent autoconversion barfs
-                bracketed_text = bracketed_text.decode('utf8')
+                if type(bracketed_text) != unicode:
+                    bracketed_text = bracketed_text.decode('utf8')
                 # Also replace any (...) in the txts with the part in the notation
                 tmp = {}
                 for lang, txt in obj.get('txt', {}).items():
