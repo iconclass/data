@@ -188,6 +188,42 @@ def get_parts(a):
                 if p: lastp = p[-1]
     return p
 
+def fill_obj(obj):
+    '''For the specified notation return an object with the children and path filled as objects
+    >>> Z = get_filled_obj
+
+    >>> o = Z('1')
+    >>> sorted([x['n'] for x in o['c']])
+    [u'10', u'11', u'12', u'13', u'14']
+    
+    And it must also work for arb keys.
+    >>> t = Z('11(+1)')
+    >>> sorted([x['n'] for x in t['c']])
+    [u'11(+11)', u'11(+12)', u'11(+13)']
+    >>> Z('XYZ')
+    Traceback (most recent call last):
+            ...
+    NotationNotFoundException: 'XYZ'
+    
+    If there are no kids found, the returned obj must have an empty 'c' key    
+    >>> l = Z('0')
+    >>> l['c']
+    []
+    
+    >>> a = Z('96C')
+    >>> [x['n'] for x in a['p']]
+    [u'9', u'96']
+    
+    '''
+    kids = filter(None, [get(c) for c in obj.get('c', [])])
+    path = filter(None, [get(p) for p in obj.get('p', [])])
+    sysrefs = filter(None, [get(r) for r in obj.get('r', [])])
+    obj['c'] = kids
+    obj['p'] = path
+    obj['r'] = sysrefs
+
+    return obj
+
 def get(notation):
     return get_list([notation])[0]
 
