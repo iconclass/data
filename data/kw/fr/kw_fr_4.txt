@@ -9176,6 +9176,7 @@
 49G3531|membre artificiel
 49G3531|prothèse
 49G354|transplantation
+49G359|instrument
 49G36|bain
 49G36|cure d'eau
 49G36|eaux

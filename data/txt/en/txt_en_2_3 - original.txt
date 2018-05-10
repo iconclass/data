@@ -4248,15 +4248,15 @@
 32B2(GAULS)|extinct, 'historical' peoples: Gauls
 32B2(TEUTONS)|extinct, 'historical' peoples: Teutons
 32B3|human races, peoples and nationalities (other than prehistoric or extinct)
-32B31|European peoples
-32B311|indigenous Europeans peoples
-32B311(...)|Europeans (with NAME of COUNTRY or REGION)
+32B31|white races and peoples
+32B311|Europeans
+32B311(...)|Europeans (with NAME)
 32B311(ENGLISHMEN)|Europeans: Englishmen
 32B311(GERMANS)|Europeans: Germans
 32B311(SPANIARDS)|Europeans: Spaniards
-32B312|European emigrants, people with European roots
-32B312(...)|European emigrants (with NAME of DESTINATION)
-32B312(AMERICANS)|European emigrants: Americans
+32B312|non-European white peoples
+32B312(...)|non-European white peoples (with NAME)
+32B312(AMERICANS)|non-European white peoples: Americans
 32B32|Africans
 32B32(...)|Africans (with NAME)
 32B321|African negroes

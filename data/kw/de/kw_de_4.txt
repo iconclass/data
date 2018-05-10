@@ -10293,6 +10293,7 @@
 49G3531|Prothese
 49G354|Transplantation
 49G354|Verpflanzung
+49G359|Instrument
 49G36|Bad
 49G36|Badekur
 49G36|Gewaesser

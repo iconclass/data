@@ -6229,6 +6229,8 @@
 49G352|narcose
 49G353|amputation
 49G3531|prothèse
+49G359|instruments médicaux
+49G359(...)|instruments médicaux (avec NOM)
 49G354|transplantation ~ chirurgie
 49G36|cure d'eau
 49G361|station thermale, ville d'eau
