@@ -1,4 +1,4 @@
-4|beschaving
+﻿4|beschaving
 4|cultuur
 4|maatschappij
 41|materiality
@@ -3668,6 +3668,7 @@
 44B1922|speer
 44B193|kruis
 44B193|bol
+44B193|rijksappel
 44B194|wapen
 44B195|zegel
 44B196|standaard
@@ -9112,6 +9113,7 @@
 49G3531|kunstmatige ledematen
 49G3531|prothese
 49G354|transplantation
+49G359|instrument
 49G36|bad
 49G36|loop van de wateren
 49G36|waters

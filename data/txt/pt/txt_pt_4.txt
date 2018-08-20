@@ -6048,6 +6048,8 @@
 49G353|amputação
 49G3531|prótese
 49G354|transplantação ~ cirurgia
+49G359|instrumentos médicos
+49G359(...)|instrumentos médicos (com NOME)
 49G36|tratamento termal
 49G361|termas, estação termal, spa
 49G37|injecção ~ medicina

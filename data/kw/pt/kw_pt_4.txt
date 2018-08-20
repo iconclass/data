@@ -9112,6 +9112,7 @@
 49G3531|perna artificial
 49G3531|prótese
 49G354|transplantação
+49G359|instrumento
 49G36|banho
 49G36|curso das águas
 49G36|águas

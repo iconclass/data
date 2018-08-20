@@ -2382,7 +2382,7 @@
 #44B192|sceptre, staff (symbol of sovereignty)
 #44B1921|hand, arm of justice (symbol of sovereignty)
 #44B1922|lance, spear (symbol of sovereignty)
-#44B193|orb (symbol of sovereignty; sphere with cross on top)
+44B193|rijksappel(symbool van souvereiniteit; globe, of bol, met een kruis er op)
 #44B194|coat of arms (symbol of sovereignty)
 #44B195|seal (symbol of sovereignty)
 #44B196|standard (symbol of sovereignty)
@@ -6224,6 +6224,8 @@
 #49G353|amputation
 #49G3531|prosthesis
 #49G354|transplantation ~ surgery
+49G359|medische instrumenten
+49G359(...)|medische instrumenten (met NAAM)
 #49G36|course of waters
 #49G361|watering-place, spa
 #49G37|injection ~ medicine

@@ -2383,18 +2383,15 @@
 43A14|conmemoración
 43A141|Enero 1
 43A141|Año Nuevo
-43A1411
 43A1411|Noche vieja
 43A1411|Nochevieja
 43A142|Día de los Inocentes
-43A142
 43A143|día del Trabajo
 43A143|Mayo 1
 43A144|Epifanía
 43A144|6 de enero de
 43A144|Noche de Reyes
 43A145|santo
-43A1451
 43A1451|Nicolás de Myra (St.)
 43A1451|San Nicolás Eve
 43A1451|Sinterklaas
@@ -2402,12 +2399,10 @@
 43A1452|Víspera de Todos los Santos
 43A1452|31 de octubre
 43A1453|Martín (St.)
-43A1453
 43A1454|17 de de marzo de
 43A1454|Patricio (St.)
 43A146(...)|Día del Armisticio
 43A146(...)|14 de julio
-43A146(...)
 43A146(...)|Día de la amapola
 43A146(...)|juillet quatorze
 43A2|compañía
@@ -2426,7 +2421,7 @@
 43A3|justa
 43A3|kermis
 43A3|ocupaciones
-43A3|#NAME?
+43A3|ferias y circos
 43A31|silla o'plane
 43A31|tiovivo
 43A31|rotonda
