@@ -10328,11 +10328,12 @@
 11H(LAURENCE)|dalmatiek
 11H(LAURENCE)|diaken
 11H(LAURENCE)|goud
-11H(LAURENCE)|gridiron
+11H(LAURENCE)|grillrooster
+11H(LAURENCE)|rooster
 11H(LAURENCE)|Laurence (St.)
 11H(LAURENCE)|martelaar
-11H(LAURENCE)|money-bag
-11H(LAURENCE)|palm-branch
+11H(LAURENCE)|geldbuidel
+11H(LAURENCE)|palmtak
 11H(LAURENCE)0|groep
 11H(LAURENCE)11|interceding
 11H(LAURENCE)11|beschermheer
@@ -16004,7 +16005,7 @@
 11H(VINCENT)|dalmatiek
 11H(VINCENT)|diaken
 11H(VINCENT)|druif
-11H(VINCENT)|gridiron
+11H(VINCENT)|grillrooster
 11H(VINCENT)|martelaar
 11H(VINCENT)|millstone
 11H(VINCENT)|nail (spike)
@@ -18539,7 +18540,7 @@
 11HH(FAITH)|kroon
 11HH(FAITH)|duif
 11HH(FAITH)|Faith (St.)
-11HH(FAITH)|gridiron
+11HH(FAITH)|grillrooster
 11HH(FAITH)|martelaar
 11HH(FAITH)|palm-branch
 11HH(FAITH)|staaf

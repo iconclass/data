@@ -6226,6 +6226,8 @@
 49G352|narcosi
 49G353|amputazione
 49G3531|protesi
+49G359|strumenti medici
+49G359(...)|strumenti medici (col NOME)
 49G354|trapianto ~ chirurgia
 49G359|strumenti medici
 49G359(...)|strumenti medici (col NOME)

@@ -6246,6 +6246,8 @@
 #49G352|narcosis
 #49G353|amputation
 #49G3531|prosthesis
+49G359|醫療器械
+49G359(...)|醫療器械 (名稱)
 #49G354|transplantation ~ surgery
 #49G359|醫療器械
 #49G359(...)|醫療器械 (with NAME)
