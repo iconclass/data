@@ -9363,6 +9363,7 @@
 49G3531|arto artificiale
 49G3531|protesi
 49G354|trapianto
+49G359|strumento
 49G36|acque
 49G36|bagno
 49G36|cura termale

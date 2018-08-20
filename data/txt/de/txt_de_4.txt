@@ -6228,6 +6228,8 @@
 49G353|Amputation
 49G3531|Prothese
 49G354|Transplantation (Chirurgie)
+49G359|medizinische Instrumente
+49G359(...)|medizinische Instrumente (mit NAMEN)
 49G36|Kur, Badekur
 49G361|Badekurort, Mineralquelle
 49G37|Injektion, Spritze (Medizin)
