@@ -2,7 +2,7 @@ import os, re, sys, json
 import redis
 redis_c = redis.StrictRedis()
 
-__version__ = 1
+__version__ = 0.5
 
 DATA_ROOT_DIR = '../data/'
 
@@ -215,6 +215,8 @@ def fill_obj(obj):
     [u'9', u'96']
     
     '''
+    if not obj: return
+
     kids = filter(None, [get(c) for c in obj.get('c', [])])
     path = filter(None, [get(p) for p in obj.get('p', [])])
     sysrefs = filter(None, [get(r) for r in obj.get('r', [])])
