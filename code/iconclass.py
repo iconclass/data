@@ -1,151 +1,11 @@
-import os, re, sys, json
-import redis
-redis_c = redis.StrictRedis()
+import os, re, sys, json, sqlite3
 
 __version__ = 0.5
-
-DATA_ROOT_DIR = '../data/'
 
 WITH_NAME_MATCH = re.compile(r'\((?!\.\.\.)[^+]+\)')
 BRACKETS = re.compile(r'\([\w ]+?\)') 
 SPLITTER = re.compile(r'(\(.+?\))')
 
-def read_dbtxt(input_data):
-    data = {}
-    for chunk in input_data.split('\n$'):
-        obj = parse_dbtxt(chunk)
-        notation = obj.get('n')
-        if notation:
-            data[notation] = obj
-    return data
-
-
-def action(filename):
-    # Split out into a seprate function so that we can call it from external packages
-    # to determine what action to perform based on filename
-    if filename == 'notations.txt':
-        return read_structure, None
-    elif filename == 'keys.txt':
-        return read_keys, None
-    elif filename.startswith('kw_'):
-        language = filename[3:5]
-        return read_keywords, language
-    elif filename.startswith('txt_'):
-        language = filename[4:6]
-        return read_textual_correlates, language
-    return None, None
-
-def prime_redis():
-    for dirpath, dirs, files in os.walk(DATA_ROOT_DIR):
-        for filename in files:
-            fn, language = action(filename)
-            if fn:
-                fn(open(os.path.join(dirpath, filename)).read(), language)
-
-def read_keys(input_data, language):
-    buf = {}
-    keys = {}
-    for line in input_data.split('\n'):
-        if line.startswith('#'): continue
-        if line == '$':
-            txt = {}
-            for k, v in buf.items():
-                if k.startswith('txt_'):
-                    tmp = k[4:].lower()
-                    txt[tmp] = v.decode('utf8')
-            suffix = buf.get('suffix')
-            if txt and suffix:
-                keys.setdefault(buf['code'], {})[suffix] = txt
-            buf = {}
-        else:
-            tmp = line.split(' ')
-            if len(tmp) < 2: continue
-            field = tmp[0].lower()
-            data = ' '.join(tmp[1:])
-            buf[field] = data
-    for k,v in keys.items():
-        redis_c.set(k, json.dumps(v))
-
-def read_structure(input_data, language):
-    data = read_dbtxt(input_data)
-    idx = 0
-    for notation, obj in data.items():
-        for k, v in obj.items():
-            if not v: continue
-            if type(v) is list:
-                redis_c.hset(notation, k, '\n'.join(v))
-            else:
-                redis_c.hset(notation, k, v)
-        idx += 1
-        if idx % 1000 == 0:
-            sys.stderr.write('%s           \r' % idx)
-            
-def read_keywords(input_data, language):
-    idx = 0
-    data = {}
-
-    for line in input_data.split('\n'):
-        if line.startswith('#'): continue
-        line = line.strip()
-        tmp = line.split('|')
-        if len(tmp) != 2:
-            continue
-        notation, keyword = tmp
-        data.setdefault(notation, []).append(keyword)
-
-    for notation, v in data.items():
-        redis_c.hset(notation, "kw_" + language, '\n'.join(v))
-        idx += 1
-        if idx % 1000 == 0:
-            sys.stderr.write('%s           \r' % idx)
-
-
-def read_textual_correlates(input_data, language):
-    idx = 0
-    for line in input_data.split('\n'):
-        if line.startswith('#'): continue
-        line = line.strip()
-        tmp = line.split('|')
-        if len(tmp) != 2:
-            continue
-        notation, text = tmp
-        redis_c.hset(notation, "txt_"+language, text)
-        idx += 1
-        if idx % 1000 == 0:
-            sys.stderr.write('%s           \r' % idx)
-
-
-def parse_dbtxt(data):
-    obj = {}
-    buf = []
-    last_field = None
-    for line in data.split('\n'):
-        if line.startswith('#'): continue
-        data = line.split(' ')
-        if len(data) < 2:
-            continue
-        field = data[0].lower()
-        data = ' '.join(data[1:])
-        if field == ';':
-            buf.append(data)
-        elif field != last_field:
-            if buf:
-                obj[last_field] = buf
-            buf = [data]
-            last_field = field
-        if field in ('n', 'k'):
-            buf = buf[0]
-    if buf:
-        obj[last_field] = buf
-
-    for k,v in obj.items():
-        if k.startswith('t_'):
-            obj.setdefault('txt', {})[k[2:]] = v[0].decode('utf8')
-            del obj[k]
-        if k.startswith('k_'):
-            obj.setdefault('kw', {})[k[2:]] = [x.decode('utf8') for x in v]
-            del obj[k]
-    return obj
 
 def dump_dbtxt(obj):
     buf = []
@@ -267,10 +127,9 @@ def get_list(notations):
 
     return [buf.get(x) for x in notations]
 
-def redis_get(notation):
+
+def fetch_from_db(notation):
     # Handle the Keys (+ etc. )
-    if type(notation) == unicode:
-        notation = notation.encode('utf8')
     tmp = notation.split('(+')
     if len(tmp) == 2:
         base, key = tmp
@@ -281,18 +140,23 @@ def redis_get(notation):
         key = '' # It has to be '' and not None so that we can do a len('') 
                  # and get 0 for key-children selection later on
 
-    obj = {}
-    for k,v in redis_c.hgetall(base).items():
-        if k.startswith('txt_'):
-            obj.setdefault('txt', {})[k[4:6]] = v.decode('utf8')
-        elif k.startswith('kw_'):
-            obj.setdefault('kw', {})[k[3:5]] = v.decode('utf8').split('\n')
-        elif k in ('n', 'k'):
-            obj[k] = v
-        else:
-            values = v.split('\n')
-            if values:
-                obj[k] = values
+    obj = {'n':base}
+    SQL = 'SELECT N.children, N.refs, N.key, type, language, text FROM notations as N LEFT JOIN texts ON N.id = texts.ref WHERE notation = ?'
+    db = sqlite3.connect('iconclass.sqlite')
+    cursor = db.cursor()
+    cursor.execute(SQL, (base,))
+    for children, refs, key, txt_type, language, text in cursor.fetchall():
+        if children:
+            obj['c'] = children and children.split('|') or []
+        if key:
+            obj['k'] = key
+        if refs:
+            obj['r'] = refs and refs.split('|') or []
+        if txt_type == 0:
+            obj.setdefault('txt', {})[language] = text
+        if txt_type == 1:
+            obj.setdefault('kw', {}).setdefault(language, []).append(text)
+
     if not obj:
         return None
 
