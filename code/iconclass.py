@@ -215,6 +215,7 @@ def fill_obj(obj):
     [u'9', u'96']
     
     '''
+    if not obj: return
     kids = filter(None, [get(c) for c in obj.get('c', [])])
     path = filter(None, [get(p) for p in obj.get('p', [])])
     sysrefs = filter(None, [get(r) for r in obj.get('r', [])])
