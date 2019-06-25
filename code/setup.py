@@ -6,5 +6,5 @@ setup(name="ICONCLASS",
       author="Etienne Posthumus",
       author_email="ep@epoz.org",
       url="https://github.com/epoz/iconclass",
-      py_modules = ["iconclass",]
+      py_modules=["iconclass", ]
       )
