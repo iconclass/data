@@ -10,20 +10,20 @@ SPLITTER = re.compile(r'(\(.+?\))')
 def dump_dbtxt(obj):
     buf = []
     ba = buf.append
-    ba(u'N %s' % obj['n'])
-    ba(u'P %s' % '\n; '.join(obj['p']))
+    ba('N %s' % obj['n'])
+    ba('P %s' % '\n; '.join(obj['p']))
     if 'k' in obj:
-        ba(u'K %s' % obj['k'])
+        ba('K %s' % obj['k'])
     if 'c' in obj:
-        ba(u'C %s' % '\n; '.join(obj['c']))
+        ba('C %s' % '\n; '.join(obj['c']))
     if obj.get('r'):
-        ba(u'R %s' % '\n; '.join(obj['r']))
+        ba('R %s' % '\n; '.join(obj['r']))
     for lang, txt in obj.get('txt').items():
         ba('T_%s %s' % (lang, txt))
     for lang, kws in obj.get('kw').items():
         ba('K_%s %s' % (lang, '\n; '.join(kws)))
-    tmp = u'\n'.join(buf)
-    return tmp.encode('utf8')
+    return '\n'.join(buf)
+
 
 def get_parts(a):
     'Split an ICONCLASS notation up into a list of its parts'
@@ -97,15 +97,15 @@ def get_list(notations):
     # This is in case of user-supplied WITH-NAMES (eg. 11H(FOO)(+1) ) which also includes keys
     # We can't just do them if the notation returns a None, as keys need to be expanded too...    
     for notation in notations:
-        obj = redis_get(notation)
+        obj = fetch_from_db(notation)
         if not obj and WITH_NAME_MATCH.search(notation):
             notation_with_name = WITH_NAME_MATCH.sub('(...)', notation)
-            obj = redis_get(notation_with_name)
+            obj = fetch_from_db(notation_with_name)
             if obj:
                 obj['n'] = notation
                 bracketed_text = WITH_NAME_MATCH.search(notation).group()
                 # The bracketed_text will be used to substitute txt in the obj
-                # which already are uniciode as it comes back from the redis_get
+                # which already are uniciode as it comes back from the fetch_from_db
                 # so also convert this to unicode to prevent autoconversion barfs
                 if type(bracketed_text) != unicode:
                     bracketed_text = bracketed_text.decode('utf8')
@@ -129,6 +129,10 @@ def get_list(notations):
 
 
 def fetch_from_db(notation):
+    db = sqlite3.connect('iconclass.sqlite')
+    cursor = db.cursor()
+
+
     # Handle the Keys (+ etc. )
     tmp = notation.split('(+')
     if len(tmp) == 2:
@@ -142,14 +146,12 @@ def fetch_from_db(notation):
 
     obj = {'n':base}
     SQL = 'SELECT N.children, N.refs, N.key, type, language, text FROM notations as N LEFT JOIN texts ON N.id = texts.ref WHERE notation = ?'
-    db = sqlite3.connect('iconclass.sqlite')
-    cursor = db.cursor()
     cursor.execute(SQL, (base,))
-    for children, refs, key, txt_type, language, text in cursor.fetchall():
+    for children, refs, nkeycode, txt_type, language, text in cursor.fetchall():
         if children:
             obj['c'] = children and children.split('|') or []
         if key:
-            obj['k'] = key
+            obj['k'] = nkeycode
         if refs:
             obj['r'] = refs and refs.split('|') or []
         if txt_type == 0:
@@ -160,28 +162,22 @@ def fetch_from_db(notation):
     if not obj:
         return None
 
+    # import pdb; pdb.set_trace()
     keycode = obj.get('k')
     if keycode:
-        r_key_obj = redis_c.get(keycode)
-        if not r_key_obj:
-            raise Exception('Key %s not found' % keycode)
-        key_obj = json.loads(r_key_obj)
-
-    if key and keycode and key in key_obj:
-        key_txt = key_obj.get(key)
-        # Fix the text correlates
-        for lang, k_txt in key_txt.items():
-            obj_txt = obj.get('txt', {}).get(lang)
-            new_txt = u'%s (+ %s)' % (obj_txt, k_txt)
-            obj.setdefault('txt', {})[lang] = new_txt
+    	cursor.execute('SELECT language, text FROM keys AS K LEFT JOIN texts ON K.id = texts.ref WHERE k.code = ? AND k.suffix = ?', (keycode, key) )
+    	for lang, k_txt in cursor.fetchall():
+    		obj_txt = obj.get('txt', {}).get(lang)
+    		new_txt = u'%s (+ %s)' % (obj_txt, k_txt)
+    		obj.setdefault('txt', {})[lang] = new_txt
         # Fix the notation
         obj['n'] = '%s(+%s)' % (obj['n'], key)
 
     if keycode:
         # # Fix the children
+        cursor.execute('SELECT suffix FROM keys WHERE code = ?', (keycode,) )
         new_kids = set()
-        for kk in key_obj.keys():
-            kk = kk.encode('utf8') # Make sure kk is a string to prevent unicodedecodeerrors
+        for (kk,) in cursor.fetchall():
             if kk.startswith(key) and len(kk) == (len(key)+1):
                 new_kids.add('%s(+%s)' % (base, kk))
         if key:
@@ -263,8 +259,7 @@ def hier(notation):
         return
     if not obj:
         raise Exception('Object %s does not exist' % notation)
-    sys.stderr.write(' ' * 110 + '\r')
-    sys.stderr.write( '%20s\t%s\r' % (notation.encode('utf8'), obj.get('txt', {}).get('en').encode('utf8')[:90]) )
+    print('\r%20s\t%s\r' % (notation, obj.get('txt', {}).get('en')[:90]))
     for c in obj.get('c', []):
         hier(c)
 
