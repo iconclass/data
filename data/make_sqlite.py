@@ -21,6 +21,7 @@ SCHEMA = ['''CREATE TABLE IF NOT EXISTS "notations" (
 	)''',
 	'''CREATE INDEX IF NOT EXISTS "texts_ref" ON "texts" ("ref")''',
 	'''CREATE INDEX IF NOT EXISTS "notations_notation" ON "notations" ("notation")'''
+	'''CREATE INDEX IF NOT EXISTS "keys_code" ON "keys" ("code")''',
 ]
 
 
