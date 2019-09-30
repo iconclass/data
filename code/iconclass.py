@@ -20,7 +20,7 @@ redis_c = redis.StrictRedis(
 
 __version__ = 1
 
-DATA_ROOT_DIR = '../data/'
+DATA_ROOT_DIR = os.environ.get('DATA_ROOT_DIR', '../data/')
 
 WITH_NAME_MATCH = re.compile(r'\((?!\.\.\.)[^+]+\)')
 BRACKETS = re.compile(r'\([\w ]+?\)')
