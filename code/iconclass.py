@@ -1,6 +1,7 @@
 import os, re, sys, json, sqlite3
 
-__version__ = 0.5
+__version__ = 0.9
+__description__ = "sqlite driven, source files from texts in ../data/ "
 
 WITH_NAME_MATCH = re.compile(r"\((?!\.\.\.)[^+]+\)")
 BRACKETS = re.compile(r"\([\w ]+?\)")
@@ -135,7 +136,23 @@ def get_list(notations):
 
 
 def fetch_from_db(notation):
-    db = sqlite3.connect("iconclass.sqlite")
+    ICONCLASS_DB_LOCATION = os.environ.get("ICONCLASS_DB_LOCATION", "iconclass.sqlite")
+    if not os.path.exists(ICONCLASS_DB_LOCATION):
+        # If the DB does not exist, try to get the latest file from https://iconclass.org/DB
+        ICONCLASS_DB_URL = os.environ.get(
+            "ICONCLASS_DB_URL", "https://iconclass.org/DB"
+        )
+        print(
+            f"Iconclass DB not found at {ICONCLASS_DB_LOCATION} downloading from {ICONCLASS_DB_URL} "
+        )
+        import requests
+
+        r = requests.get(ICONCLASS_DB_URL, stream=True)
+        with open(ICONCLASS_DB_LOCATION, "wb") as F:
+            for x in r.iter_content(chunk_size=None):
+                F.write(x)
+
+    db = sqlite3.connect(ICONCLASS_DB_LOCATION)
     cursor = db.cursor()
 
     # Handle the Keys (+ etc. )
@@ -175,7 +192,7 @@ def fetch_from_db(notation):
         )
         for lang, k_txt in cursor.fetchall():
             obj_txt = obj.get("txt", {}).get(lang)
-            new_txt = u"%s (+ %s)" % (obj_txt, k_txt)
+            new_txt = "%s (+ %s)" % (obj_txt, k_txt)
             obj.setdefault("txt", {})[lang] = new_txt
         # Fix the notation
         obj["n"] = "%s(+%s)" % (obj["n"], key)
