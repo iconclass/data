@@ -111,11 +111,6 @@ def get_list(notations):
             if obj:
                 obj["n"] = notation
                 bracketed_text = WITH_NAME_MATCH.search(notation).group()
-                # The bracketed_text will be used to substitute txt in the obj
-                # which already are uniciode as it comes back from the fetch_from_db
-                # so also convert this to unicode to prevent autoconversion barfs
-                if type(bracketed_text) != unicode:
-                    bracketed_text = bracketed_text.decode("utf8")
                 # Also replace any (...) in the txts with the part in the notation
                 tmp = {}
                 for lang, txt in obj.get("txt", {}).items():
@@ -166,13 +161,13 @@ def fetch_from_db(notation):
         key = ""  # It has to be '' and not None so that we can do a len('')
         # and get 0 for key-children selection later on
 
-    obj = {"n": base}
+    obj = {}
     SQL = "SELECT N.children, N.refs, N.key, type, language, text FROM notations as N LEFT JOIN texts ON N.id = texts.ref WHERE notation = ?"
     cursor.execute(SQL, (base,))
     for children, refs, nkeycode, txt_type, language, text in cursor.fetchall():
         if children:
             obj["c"] = children and children.split("|") or []
-        if key:
+        if nkeycode:
             obj["k"] = nkeycode
         if refs:
             obj["r"] = refs and refs.split("|") or []
@@ -184,18 +179,32 @@ def fetch_from_db(notation):
     if not obj:
         return None
 
+    obj["n"] = base
     keycode = obj.get("k")
     if keycode:
-        cursor.execute(
-            "SELECT language, text FROM keys AS K LEFT JOIN texts ON K.id = texts.ref WHERE k.code = ? AND k.suffix = ?",
-            (keycode, key),
-        )
-        for lang, k_txt in cursor.fetchall():
-            obj_txt = obj.get("txt", {}).get(lang)
-            new_txt = "%s (+ %s)" % (obj_txt, k_txt)
-            obj.setdefault("txt", {})[lang] = new_txt
-        # Fix the notation
-        obj["n"] = "%s(+%s)" % (obj["n"], key)
+        SQL = "SELECT type, language, text FROM keys AS K LEFT JOIN texts ON K.id = texts.ref WHERE k.code = ? AND k.suffix = ?"
+        cursor.execute(SQL, (keycode, key))
+        fetched_keys = False
+        for txt_type, lang, k_txt in cursor.fetchall():
+            fetched_keys = True
+            if txt_type == 0:
+                obj_txt = obj.get("txt", {}).get(lang)
+                new_txt = "%s (+ %s)" % (obj_txt, k_txt)
+                obj.setdefault("txt", {})[lang] = new_txt
+            if txt_type == 1:
+                obj.setdefault("kw", {}).setdefault(language, []).append(k_txt)
+
+        # If there was a key in the requested notation, but no keys retrieved, bail
+        if key and not fetched_keys:
+            return None
+
+        if key:
+            # Fix the notation
+            obj["n"] = "%s(+%s)" % (obj["n"], key)
+
+        # Make sure that all the keywords are unique, might be duplicated by keys
+        for lang, keywords in obj.get("kw", {}).items():
+            obj["kw"][lang] = list(sorted(keywords))
 
     if keycode:
         # # Fix the children
@@ -282,6 +291,19 @@ def filter_inputs(input_filename, output_filename):
             if not t:
                 continue
             F.write("%s\t%s\n" % (n, t["txt"]["en"].encode("utf8")))
+
+
+def descend(notation):
+    try:
+        obj = get(notation)
+    except:
+        return
+    if not obj:
+        return
+    yield obj
+    for c in obj.get("c", []):
+        for cc in descend(c):
+            yield cc
 
 
 def hier(notation):
