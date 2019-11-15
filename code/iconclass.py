@@ -135,17 +135,16 @@ def fetch_from_db(notation):
     if not os.path.exists(ICONCLASS_DB_LOCATION):
         # If the DB does not exist, try to get the latest file from https://iconclass.org/DB
         ICONCLASS_DB_URL = os.environ.get(
-            "ICONCLASS_DB_URL", "https://iconclass.org/DB"
+            "ICONCLASS_DB_URL", "http://iconclass.org/c877d0f9abd2575464dba10fef4fc356"
         )
         print(
             f"Iconclass DB not found at {ICONCLASS_DB_LOCATION} downloading from {ICONCLASS_DB_URL} "
         )
-        import requests
+        from urllib.request import urlopen
+        import hashlib
 
-        r = requests.get(ICONCLASS_DB_URL, stream=True)
-        with open(ICONCLASS_DB_LOCATION, "wb") as F:
-            for x in r.iter_content(chunk_size=None):
-                F.write(x)
+        datafile = urlopen(ICONCLASS_DB_URL).read()
+        open(ICONCLASS_DB_LOCATION, "wb").write(datafile)
 
     db = sqlite3.connect(ICONCLASS_DB_LOCATION)
     cursor = db.cursor()
