@@ -1,12 +1,46 @@
 import os, re, sys, json, sqlite3
 
-__version__ = 0.9
+__version__ = 0.11
 __description__ = "sqlite driven, source files from texts in ../data/ "
 
 WITH_NAME_MATCH = re.compile(r"\((?!\.\.\.)[^+]+\)")
 BRACKETS = re.compile(r"\([\w ]+?\)")
 SPLITTER = re.compile(r"(\(.+?\))")
 
+
+def to_jsonld(obj):
+    kwds = [{"@language": lang, "@value": kw} for lang, kwds in obj.get('kw', {}).items() for kw in kwds]
+    txts = [{"@language": lang, "@value": txt} for lang, txt in obj.get('txt', {}).items()]
+    narrower = [{"@id": f"http://iconclass.org/{r}"} for r in obj.get("c", [])]
+    if len(obj['p']) == 1:
+        broader = {"@id": "http://iconclass.org/ICONCLASS"}
+    else:
+        broader = {"@id": f"http://iconclass.org/{obj['p'][-1]}"}
+
+    refs = [{"@id": f"http://iconclass.org/{r}"} for r in obj.get("r", [])]
+    data = {
+        "@context": {
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+        },
+        "@id": f"http://iconclass.org/{obj['n']}",
+        "@type": "skos:Concept",
+        "skos:broader": broader,
+        "skos:inScheme": {"@id": "http://iconclass.org/rdf/2011/09/"},
+        "skos:notation": obj['n'],
+    }
+    if txts:
+        data["skos:prefLabel"] = txts
+    if narrower:
+        data["skos:narrower"] = narrower
+    if kwds:
+        data["dc:subject"] = kwds
+    if refs:
+        data["skos:related"] = refs
+    return data
 
 def dump_dbtxt(obj):
     buf = []
