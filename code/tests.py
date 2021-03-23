@@ -99,7 +99,6 @@ def test_spaces():
 
 if __name__ == "__main__":
     test_bogosity()
-    test_commented_lines()
     test_keywords()
     test_keys()
     test_withnames()
