@@ -1,0 +1,6479 @@
+2|Natur
+20|Brust
+20|Busen
+20|Diana von Ephesus
+20|Ripa, Cesare
+20|natura
+21|Elemente
+21|fuenf
+21|vier
+210|Empedocles
+210|Ripa, Cesare
+210|elementi
+21A|Luft
+21A0|Aria
+21A0|Ripa, Cesare
+21A0|carro dell'aria
+21A1|Geist
+21A1|Luftgeist
+21A1|Sylphe
+21B|Erde
+21B0|Ripa, Cesare
+21B0|carro della terra
+21B0|terra
+21B1|Geist
+21B1|Gnom
+21B1|Troll
+21C|Feuer
+21C|fünf
+21C0|Ripa, Cesare
+21C0|carro del fuoco
+21C0|fuenf
+21C0|fuoco
+21D|Wasser
+21D0|Ripa, Cesare
+21D0|acqua
+21D0|carro dell'acqua
+21D1|Geist
+21D1|Nixe
+21D1|Undine
+21D1|Wassernixe
+21D2|Eis(-decke, -schicht)
+21D3|Dampf
+21E|Aether
+21E|essentia
+21E|quinta essentia
+22|Naturphaenomene
+22|Phaenomene
+22A|Materie
+22A0|Allegorie
+22A0|Naturphänomene
+22A0|Phänomene
+22A1|Naturphänomene
+22A1|Phänomene
+22A1|chemische Substanzen
+22A1(...)|Naturphaenomene
+22A1(...)|Phaenomene
+22A2|Naturphänomene
+22A2|Phänomene
+22A2|chemische Phänomene
+22A21|Reaktion
+22A3|physische Phaenomene
+22A31|Naturphänomene
+22A31|Phänomene
+22A31|Zustand
+22A31|physische Phänomene
+22A311|Naturphaenomene
+22A311|Phaenomene
+22A311|fest
+22A311|physische Phaenomene
+22A312|Naturphaenomene
+22A312|Phaenomene
+22A312|fluessig
+22A312|physische Phaenomene
+22A3121|Kondensation
+22A31211|Kondensstreifen
+22A31211|Spur
+22A313|Gas
+22A313|Naturphaenomene
+22A313|Phaenomene
+22A313|physische Phaenomene
+22B|Elektrizitaet
+22B|Magnetismus
+22B1|elektrische Phaenomene
+22B11|Funke
+22B2|magnetische Phaenomene
+22B21|Magnet
+22B22|Kraft
+22B22|Magnetkraft
+22B221|Anziehung
+22B222|Abstossung
+22C|Licht
+22C1|Licht (natuerliches)
+22C11|Lichtstrahl
+22C2|Kunstlicht
+22C21|Lichtstrahl
+22C3|uebernatuerliches Licht
+22C31|Lichtstrahl
+22C311|Halo
+22C311|Heiligenschein
+22C311|Nimbus
+22C3111|Kreuz
+22C3111|Kreuznimbus
+22C3112|Quadrat
+22C3112|Rhombus
+22C3113|Stern
+22C3115|Garn
+22C3115|Gold
+22C312|Mandorla
+22C3121|Mandel
+22C3121|Oval
+22C3122|Kreis
+22C32|Himmel
+22C32|Lichtstrahl
+22C4|Farbe
+22C4|Pigment
+22C4(BLACK)|schwarz
+22C4(BLUE)|blau
+22C4(BROWN)|braun
+22C4(GOLD)|Gold
+22C4(GREEN)|gruen
+22C4(PURPLE)|Purpur
+22C4(RED)|rot
+22C4(WHITE)|weiss
+22C4(YELLOW)|gelb
+22C5|Reflexion
+22C8|Schatten
+22C9|Dunkelheit
+22C90|Ripa, Cesare
+22C90|buio
+22C91|Halblicht
+22D|Klang
+22D|Schall
+22D1|Laerm
+22D1|lautes Geraeusch
+22D11|Harmonie
+22D11|Konsonanz
+22D11|Kunstwerk
+22D11|Musik
+22D110|Ripa, Cesare
+22D110|armonia
+22D12|Disharmonie
+22D2|leise
+22D3|Grenze
+22D3|Schallgrenze
+22D3|Schallmauer
+22D4|Echo
+22D4|Naturphänomene
+22D4|Phänomene
+22D9|Ruhe
+22D9|Schweigen
+22D9|Stille
+22E|Temperatur
+22E1|Hitze
+22E11|gluehen
+22E12|Naturphänomene
+22E12|Phänomene
+22E12|brennen
+22E12|verbrennen
+22E13|strahlen
+22E2|kalt
+22E21|Frost
+22E21|Naturphänomene
+22E21|Phänomene
+22E21|frieren
+22E22|absoluter Nullpunkt
+22E3|Skala
+22E31|Fahrenheit
+22E32|Réaumur
+22E33|Celsius
+22E34(...)|Kelvin
+22E4|Naturphänomene
+22E4|Phänomene
+22E4|Thermometer
+23|Zeit
+23A|Allegorie
+23A1|Fluegel
+23A1|Sense
+23A11|Ripa, Cesare
+23A11|tempo
+23A2|Ewigkeit
+23A2|Ripa, Cesare
+23A2|aeternitas
+23A2|eternità
+23A21|Ouroboros
+23A21|Schlange
+23A31|Vergangenheit
+23A32|Gegenwart
+23A33|Zukunft
+23A4|Wirkung
+23A41|Luft (in der)
+23A41|Wahrheit
+23A41|freilegen
+23A41|offenbaren
+23A41|schweben
+23A41|tragen
+23A411|entkleiden
+23A411|nackt
+23A42|Vergangenheit
+23A42|verbergen
+23A43|Faulheit
+23A43|Fleiss
+23A43|Strafe
+23A43|belohnen
+23A44|Vergaenglichkeit
+23A441|Gebaeude
+23A441|Ruine
+23A45|Schoenheit
+23A45|entfuehren
+23B|Epoche
+23B|Zeitabschnitt
+23B1|tausend
+23B2|Millennium
+23B2|tausend
+23B3|Jahrhundert
+23B3|einhundert
+23B30|Ripa, Cesare
+23B30|secolo
+23B4|fuenfzig
+23B5|fuenfundzwanzig
+23B6|zwoelfeinhalb
+23B7|Dekade
+23B7|zehn
+23B8|Lustrum
+23B8|fuenf
+23B9(...)|dreihundertundfuenfundsechzig
+23B9(...)|platonisches Jahr
+23C|Jahr
+23C|Sonne
+23C|Sonnenjahr
+23C1|Personifikation
+23C1|Ripa, Cesare
+23C1|anno
+23C1|annus
+23C1|carro dell'anno
+23C2|Mond
+23C3|Stern
+23C3|Sterne betreffend
+23D|Jahreszeit
+23D|Personifikation
+23D|Ripa, Cesare
+23D|quattro stagione dell'anno (le)
+23D|stagione
+23D2|zwei
+23D21|Winter
+23D22|Sommer
+23D23|Sommer
+23D23|Streit
+23D23|Winter
+23D3|drei
+23D311|April
+23D311|Februar
+23D311|Januar
+23D311|Maerz
+23D312|August
+23D312|Juli
+23D312|Juni
+23D312|Mai
+23D313|Dezember
+23D313|November
+23D313|Oktober
+23D313|September
+23D321|Dezember
+23D321|Februar
+23D321|Januar
+23D321|Maerz
+23D322|April
+23D322|Juli
+23D322|Juni
+23D322|Mai
+23D323|August
+23D323|November
+23D323|Oktober
+23D323|September
+23D4|vier
+23D41|Hyems
+23D41|Inverno
+23D41|Winter
+23D41|erwaermen (sich)
+23D42|Fruehling
+23D42|Primavera
+23D42|Ver
+23D43|Sommer
+23D43|aestas
+23D43|estate
+23D44|Autumnus
+23D44|Herbst
+23D44|autumno
+23D5|fuenf
+23D6|sechs
+23D611|Februar
+23D611|Januar
+23D612|April
+23D612|Maerz
+23D613|Juni
+23D613|Mai
+23D614|August
+23D614|Juli
+23D615|Oktober
+23D615|September
+23D616|Dezember
+23D616|November
+23D621|Dezember
+23D621|Januar
+23D622|Februar
+23D622|Maerz
+23D623|April
+23D623|Mai
+23D624|Juli
+23D624|Juni
+23D625|August
+23D625|September
+23D626|November
+23D626|Oktober
+23E|Arbeit
+23E|Berufe
+23E|Jahreszeit
+23E|Landschaft
+23E|Taetigkeiten
+23E2|zwei
+23E21|Winter
+23E22|Sommer
+23E23|Sommer
+23E23|Streit
+23E23|Winter
+23E3|drei
+23E311|April
+23E311|Februar
+23E311|Januar
+23E311|Maerz
+23E312|August
+23E312|Juli
+23E312|Juni
+23E312|Mai
+23E313|Dezember
+23E313|November
+23E313|Oktober
+23E313|September
+23E321|Dezember
+23E321|Februar
+23E321|Januar
+23E321|Maerz
+23E322|April
+23E322|Juli
+23E322|Juni
+23E322|Mai
+23E323|August
+23E323|November
+23E323|Oktober
+23E323|September
+23E4|vier
+23E41|Winter
+23E42|Fruehling
+23E43|Sommer
+23E44|Herbst
+23E5|fuenf
+23E6|sechs
+23E611|Februar
+23E611|Januar
+23E612|April
+23E612|Maerz
+23E613|Juni
+23E613|Mai
+23E614|August
+23E614|Juli
+23E615|Oktober
+23E615|September
+23E616|Dezember
+23E616|November
+23E621|Dezember
+23E621|Januar
+23E622|Februar
+23E622|Maerz
+23E623|April
+23E623|Mai
+23E624|Juli
+23E624|Juni
+23E625|August
+23E625|September
+23E626|November
+23E626|Oktober
+23F|Jahreszeit
+23F|Landschaft
+23F2|zwei
+23F21|Winter
+23F22|Sommer
+23F23|Sommer
+23F23|Streit
+23F23|Winter
+23F3|drei
+23F311|April
+23F311|Februar
+23F311|Januar
+23F311|Maerz
+23F312|August
+23F312|Juli
+23F312|Juni
+23F312|Mai
+23F313|Dezember
+23F313|November
+23F313|Oktober
+23F313|September
+23F321|Dezember
+23F321|Februar
+23F321|Januar
+23F321|Maerz
+23F322|April
+23F322|Juli
+23F322|Juni
+23F322|Mai
+23F323|August
+23F323|November
+23F323|Oktober
+23F323|September
+23F4|vier
+23F41|Winter
+23F42|Fruehling
+23F43|Sommer
+23F44|Herbst
+23F5|fuenf
+23F6|sechs
+23F611|Februar
+23F611|Januar
+23F612|April
+23F612|Maerz
+23F613|Juni
+23F613|Mai
+23F614|August
+23F614|Juli
+23F615|Oktober
+23F615|September
+23F616|Dezember
+23F616|November
+23F621|Dezember
+23F621|Januar
+23F622|Februar
+23F622|Maerz
+23F623|April
+23F623|Mai
+23F624|Juli
+23F624|Juni
+23F625|August
+23F625|September
+23F626|November
+23F626|Oktober
+23G|Blume
+23G|Frucht
+23G|Jahreszeit
+23G|Stilleben
+23G2|zwei
+23G21|Winter
+23G22|Sommer
+23G23|Sommer
+23G23|Streit
+23G23|Winter
+23G3|drei
+23G311|April
+23G311|Februar
+23G311|Januar
+23G311|Maerz
+23G312|August
+23G312|Juli
+23G312|Juni
+23G312|Mai
+23G313|Dezember
+23G313|November
+23G313|Oktober
+23G313|September
+23G321|Dezember
+23G321|Februar
+23G321|Januar
+23G321|Maerz
+23G322|April
+23G322|Juli
+23G322|Juni
+23G322|Mai
+23G323|August
+23G323|November
+23G323|Oktober
+23G323|September
+23G4|vier
+23G41|Winter
+23G42|Fruehling
+23G43|Sommer
+23G44|Herbst
+23G5|fuenf
+23G6|sechs
+23G611|Februar
+23G611|Januar
+23G612|April
+23G612|Maerz
+23G613|Juni
+23G613|Mai
+23G614|August
+23G614|Juli
+23G615|Oktober
+23G615|September
+23G616|Dezember
+23G616|November
+23G621|Dezember
+23G621|Januar
+23G622|Februar
+23G622|Maerz
+23G623|April
+23G623|Mai
+23G624|Juli
+23G624|Juni
+23G625|August
+23G625|September
+23G626|November
+23G626|Oktober
+23H|Bibel
+23H|Jahreszeit
+23H2|zwei
+23H21|Winter
+23H22|Sommer
+23H23|Sommer
+23H23|Streit
+23H23|Winter
+23H3|drei
+23H311|April
+23H311|Februar
+23H311|Januar
+23H311|Maerz
+23H312|August
+23H312|Juli
+23H312|Juni
+23H312|Mai
+23H313|Dezember
+23H313|November
+23H313|Oktober
+23H313|September
+23H321|Dezember
+23H321|Februar
+23H321|Januar
+23H321|Maerz
+23H322|April
+23H322|Juli
+23H322|Juni
+23H322|Mai
+23H323|August
+23H323|November
+23H323|Oktober
+23H323|September
+23H4|vier
+23H41|Winter
+23H42|Fruehling
+23H43|Sommer
+23H44|Herbst
+23H5|fuenf
+23H6|sechs
+23H611|Februar
+23H611|Januar
+23H612|April
+23H612|Maerz
+23H613|Juni
+23H613|Mai
+23H614|August
+23H614|Juli
+23H615|Oktober
+23H615|September
+23H616|Dezember
+23H616|November
+23H621|Dezember
+23H621|Januar
+23H622|Februar
+23H622|Maerz
+23H623|April
+23H623|Mai
+23H624|Juli
+23H624|Juni
+23H625|August
+23H625|September
+23H626|November
+23H626|Oktober
+23I|Monat
+23I|Personifikation
+23I|Ripa, Cesare
+23I|mese in generale
+23I|zwoelf
+23I11|Gennaro
+23I11|Januar
+23I12|Febraro
+23I12|Februar
+23I13|Maerz
+23I13|Marzo
+23I21|April
+23I21|Aprile
+23I22|Maggio
+23I22|Mai
+23I23|Giugno
+23I23|Juni
+23I31|Juli
+23I31|Luglio
+23I32|Agosto
+23I32|August
+23I33|September
+23I33|Settembre
+23I41|Oktober
+23I41|Ottobre
+23I42|November
+23I42|Novembre
+23I43|Dezember
+23K|Arbeit
+23K|Baeume beschneiden
+23K|Berufe
+23K|Ernte
+23K|Falknerei
+23K|Heumachen
+23K|Holzfaellerei
+23K|Landschaft
+23K|Monat
+23K|Schwein
+23K|Taetigkeiten
+23K|Weinberg
+23K|Weinfass
+23K|Weinkelter
+23K|Weinpresse
+23K|backen
+23K|beschneiden (Gewaechse)
+23K|dreschen
+23K|pfropfen
+23K|saeen
+23K|sammeln
+23K|schlachten
+23K|zwoelf
+23K11|Januar
+23K12|Februar
+23K13|Maerz
+23K21|April
+23K22|Mai
+23K23|Juni
+23K31|Juli
+23K32|August
+23K33|September
+23K41|Oktober
+23K42|November
+23K43|Dezember
+23L|Landschaft
+23L|Monat
+23L|zwoelf
+23L11|Januar
+23L12|Februar
+23L13|Maerz
+23L21|April
+23L22|Mai
+23L23|Juni
+23L31|Juli
+23L32|August
+23L33|September
+23L41|Oktober
+23L42|November
+23L43|Dezember
+23M|Blume
+23M|Frucht
+23M|Monat
+23M|Stilleben
+23M|zwoelf
+23M11|Januar
+23M12|Februar
+23M13|Maerz
+23M21|April
+23M22|Mai
+23M23|Juni
+23M31|Juli
+23M32|August
+23M33|September
+23M41|Oktober
+23M42|November
+23M43|Dezember
+23N|Monat
+23N|zwoelf
+23N11|Januar
+23N12|Februar
+23N13|Maerz
+23N21|April
+23N22|Mai
+23N23|Juni
+23N31|Juli
+23N32|August
+23N33|September
+23N41|Oktober
+23N42|November
+23N43|Dezember
+23O|Tierkreis
+23O|Zeichen
+23O|zwoelf
+23O1|Winter
+23O11|Capricorn
+23O11|Dezember
+23O11|Steinbock (Tierkreiszeichen)
+23O12|Aquarius
+23O12|Januar
+23O12|Wassermann (Tierkreiszeichen)
+23O13|Februar
+23O13|Fische (Tierkreiszeichen)
+23O13|Pisces
+23O2|Fruehling
+23O21|Aries
+23O21|Maerz
+23O21|Widder (Tierkreiszeichen)
+23O22|April
+23O22|Stier (Tierkreiszeichen)
+23O22|Taurus
+23O23|Gemini
+23O23|Mai
+23O23|Zwillinge (Tierkreiszeichen)
+23O3|Sommer
+23O31|Juni
+23O31|Krebs (Tierkreiszeichen)
+23O32|Juli
+23O32|Leo
+23O32|Loewe (Tierkreiszeichen)
+23O33|August
+23O33|Jungfrau (Tierkreiszeichen)
+23O33|Virgo
+23O4|Herbst
+23O41|Libra
+23O41|September
+23O41|Waage (Tierkreiszeichen)
+23O42|Oktober
+23O42|Scorpio
+23O42|Skorpion (Tierkreiszeichen)
+23O43|November
+23O43|Sagittarius
+23O43|Schuetze (Tierkreiszeichen)
+23O5|Astrologie
+23P|Woche
+23Q|Tag
+23Q|sieben
+23Q1|Sonntag
+23Q2|Montag
+23Q3|Dienstag
+23Q4|Mittwoch
+23Q5|Donnerstag
+23Q6|Freitag
+23Q7|Samstag
+23Q8|morgen
+23Q81|übermorgen
+23R1|Tag
+23R1|natuerlicher Tag
+23R1|vierundzwanzig
+23R10|Ripa, Cesare
+23R10|carro del giorno naturale
+23R10|giorno naturale
+23R11|Morgen
+23R110|Aurora
+23R110|Personifikation
+23R110|Ripa, Cesare
+23R111|Aurora
+23R111|Landschaft
+23R113|Mittag
+23R12|Nachmittag
+23R120|Personifikation
+23R120|meridies
+23R121|Landschaft
+23R121|meridies
+23R13|Abend
+23R130|Personifikation
+23R130|Vesper
+23R131|Landschaft
+23R131|Vesper
+23R14|Nacht
+23R140|Nox
+23R140|Personifikation
+23R140|Ripa, Cesare
+23R140|carro della notte
+23R140|notte
+23R140|serenità della notte
+23R141|Landschaft
+23R141|Nox
+23R2|Tag
+23R20|Ripa, Cesare
+23R20|carro del giorno artificiale
+23R20|giorno artificiale
+23R20|serenità del giorno
+23R3|Stunden
+23R3|vierundzwanzig
+23R31|zwoelf
+23R310|Ripa, Cesare
+23R310|Stunde
+23R310|hore del giorno
+23R32|zwoelf
+23R320|Ripa, Cesare
+23R320|Stunde
+23R320|hore della notte
+23S|Reich
+23S|Welt
+23S1|vier
+23S11|Babylon
+23S12|Persien
+23S13|Griechenland
+23S14|Rom
+23S2|Bibel
+23S21|Daniel
+23S21|Nebukadnezzar
+23S21|Statue
+23S21|Traum
+23S21|gross
+23S22|Daniel
+23S22|Tier
+23S22|Vision
+23S22|vier
+23T|Epoche
+23T|Geschichte
+23T|Weltzeitalter
+23T|Zeitabschnitt
+23T1|Bibel
+23T1|sieben
+23T11|Adam
+23T11|Noah
+23T12|Abraham
+23T12|Moses
+23T12|Noah
+23T13|Abraham
+23T13|David
+23T13|Moses
+23T14|Babylonische Gefangenschaft
+23T14|David
+23T15|Babylonische Gefangenschaft
+23T15|Christus
+23T16|Arbeit
+23T16|Christus
+23T16|Ende
+23T16|Wache
+23T17|Christus
+23T17|Ende
+23T17|Himmlisches Jerusalem
+23T17|Sabbat
+23T17|ruhen
+23T17|schlafen
+23T21|Vorgeschichte
+23T22|antike Geschichte
+23T23|klassische Antike
+23T24|dark ages
+23T25|Mittelalter
+23T25|mittelalterliche Geschichte
+23T26|Renaissance
+23T27|Jahrhundert
+23U|Chronologie
+23U|Zeitrechnung
+23U1|Almanach
+23U1|Kalender
+23U11|Ewigkeit
+23U11|Unaufhoerlichkeit
+23U2|Instrument
+23U2|Zeitmessung
+23U2|messen
+23U20|Ripa, Cesare
+23U20|horografia
+23U21|Sonnenuhr
+23U22|Sanduhr
+23U22|Stundenglas
+23U23|Wasseruhr
+23U24|Uhr
+23U241|Uhrmacher
+23U25|Uhr
+24|Himmel
+24|Himmelskoerper
+240|Allegorie
+24A|Himmelskörper
+24A|Sonne
+24A1|Himmelskoerper
+24A1|Sonnenaufgang
+24A11|Morgendaemmerung
+24A110|Crepuscolo della matina
+24A110|Ripa, Cesare
+24A2|Himmelskoerper
+24A2|Sonnenuntergang
+24A21|Abend
+24A21|Abenddaemmerung
+24A210|Crepuscolo della sera
+24A210|Ripa, Cesare
+24A3|Finsternis
+24A3|Himmelskoerper
+24A3|Sonnenfinsternis
+24A31|Korona
+24A31|Kranz
+24A4|Himmelskoerper
+24A4|Mitternachtssonne
+24A5|Himmelskoerper
+24A5|physische Phaenomene
+24A51|Fleck
+24A51|Sonnenflecken
+24A52|Fleck
+24A52|Halo
+24A52|Nebensonne
+24A52|Phaenomene
+24A6|Gesicht
+24A6|Himmelskoerper
+24A6|Rad
+24A7|Himmelskoerper
+24A7|Position
+24A71|Mitsommernachtstag
+24A71|Sommersonnenwende
+24A71|Sonnenwende
+24A710|Ripa, Cesare
+24A710|solstitio estivo
+24A72|Aequinoktium
+24A72|Herbstaequinoktium
+24A72|Tagundnachtgleiche
+24A720|Equinottio dell'autunno
+24A720|Ripa, Cesare
+24A73|Sonnenwende
+24A73|Wintersonnenwende
+24A730|Ripa, Cesare
+24A730|solstitio hiemale
+24A74|Aequinoktium
+24A74|Fruehling
+24A74|Fruehlingsaequinoktium
+24A74|Tagundnachtgleiche
+24A740|Equinottio della primavera
+24A740|Ripa, Cesare
+24A8|Himmelskoerper
+24A8|Licht
+24A8|Sonnenlicht
+24A81|Lichtstrahl
+24B|Himmelskörper
+24B|Mond
+24B1|Himmelskoerper
+24B1|Mondsichel
+24B1|zunehmender Mond
+24B11|Gesicht
+24B2|Himmelskoerper
+24B2|Vollmond
+24B21|Gesicht
+24B3|Himmelskoerper
+24B3|Mondsichel
+24B3|abnehmender Mond
+24B31|Gesicht
+24B4|Finsternis
+24B4|Himmelskoerper
+24B4|Mondfinsternis
+24B5|Himmelskoerper
+24B5|Landschaft
+24B5|Mondlandschaft
+24B6|Himmelskoerper
+24B6|Licht
+24B6|Mondlicht
+24B61|Lichtstrahl
+24B61|Mondstrahl
+24B62|Betrachtung
+24B62|Kontemplation
+24B62|schwaermen
+24B7|Himmelskoerper
+24B7|Mondaufgang
+24B8|Himmelskoerper
+24B8|Monduntergang
+24C|Himmelskörper
+24C|Planet
+24C1|Himmelskoerper
+24C1|Sonnensystem
+24C1|System
+24C11|Ceres
+24C12|Himmelskörper
+24C12|Jupiter
+24C13|Himmelskörper
+24C13|Mars
+24C14|Merkur
+24C15|Neptun
+24C16|Pluto
+24C17|Himmelskörper
+24C17|Saturn
+24C18|Himmelskörper
+24C18|Uranus
+24C19|Himmelskörper
+24C19|Venus
+24C191|Himmelskoerper
+24C191|Morgenstern
+24C191|Stern
+24C192|Abendstern
+24C192|Himmelskoerper
+24C192|Stern
+24C2|Einfluss
+24C2|Himmelskoerper
+24C2|Mond
+24C2|Planetenkinder
+24C2|Sonne
+24C21|Kind
+24C21|Personifikation
+24C211|Saturn
+24C212|Jupiter
+24C213|Mars
+24C214|Sol
+24C215|Venus
+24C216|Merkur
+24C217|Luna
+24C22|Personifikation
+24C22|Tierkreis
+24C221|Aquarius
+24C221|Capricorn
+24C221|Saturn
+24C221|Steinbock (Tierkreiszeichen)
+24C221|Wassermann (Tierkreiszeichen)
+24C222|Fische (Tierkreiszeichen)
+24C222|Jupiter
+24C222|Pisces
+24C222|Sagittarius
+24C222|Schuetze (Tierkreiszeichen)
+24C223|Aries
+24C223|Mars
+24C223|Scorpio
+24C223|Skorpion (Tierkreiszeichen)
+24C223|Widder (Tierkreiszeichen)
+24C224|Leo
+24C224|Loewe (Tierkreiszeichen)
+24C224|Sol
+24C225|Libra
+24C225|Stier (Tierkreiszeichen)
+24C225|Taurus
+24C225|Venus
+24C225|Waage (Tierkreiszeichen)
+24C226|Gemini
+24C226|Jungfrau (Tierkreiszeichen)
+24C226|Merkur
+24C226|Virgo
+24C226|Zwillinge (Tierkreiszeichen)
+24C227|Krebs (Tierkreiszeichen)
+24C227|Luna
+24C3|Metall
+24C3|Planetenmetalle
+24C3|Symbol
+24C31|Gold
+24C31|Sonne
+24C32|Mond
+24C32|Silber
+24C33|Merkur
+24C33|Quecksilber
+24C34|Kupfer
+24C34|Venus
+24C35|Eisen
+24C35|Mars
+24C36|Jupiter
+24C36|Zinn
+24C37|Blei
+24C37|Saturn
+24C39(URANUS)|Platin
+24C39(URANUS)|Uranus
+24D|Himmelskörper
+24D|Stern
+24D0|Allegorie
+24D0|Symbol
+24D1|Himmelskoerper
+24D1|Sternbild
+24D1(...)|Himmelskörper
+24D1(ORION)|Himmelskoerper
+24D1(ORION)|Orion
+24D1(POLARIS)|Norden
+24D1(POLARIS)|Polaris
+24D1(POLARIS)|Polarstern
+24D1(SIRIUS)|Himmelskoerper
+24D1(SIRIUS)|Sirius
+24D2|Galaxie
+24D2|Himmelskoerper
+24D21|Milchstrasse
+24D211|Genese
+24D211|Herkules
+24D211|Juno
+24D211|Milch
+24D211|Saeugling
+24D211|stillen
+24D4|Galaxie
+24D4|Himmelskoerper
+24E|Astronomie
+24E|Phaenomene
+24E1|Komet
+24E10|Cometa
+24E10|Ripa, Cesare
+24E2|Meteor
+24E3|Meteoriten
+24F|Firmament
+24F1|Betrachtung
+24F1|Kontemplation
+24F2|Stern
+24G|Sphaere
+24G1|Empyreum
+25|Erde
+25|Welt
+250|Ripa, Cesare
+250|machina del mondo
+250|mondo
+25A|Karte
+25A|Landkarte
+25A1|Weltkarte
+25A11|Form
+25A11|Kreis
+25A11|Quadrat
+25A111|Erdmittelpunkt
+25A111|Nabel
+25A111|Nabel der Welt
+25A111|Omphalos
+25A1111|Jerusalem
+25A1112|Delphi
+25A13|Globus
+25A13|Weltkugel
+25A131|Ikosaeder
+25A14|Richtung
+25A14|vier
+25A141|Norden
+25A1410|Ripa, Cesare
+25A1410|settentrione
+25A142|Osten
+25A1420|Oriente
+25A1420|Ripa, Cesare
+25A1421|Orientierung
+25A143|Sueden
+25A1430|Ripa, Cesare
+25A1430|mezzodì
+25A144|West(en)
+25A1440|Ripa, Cesare
+25A1440|occidente
+25A15|Breite
+25A15|Laenge
+25A1511|Aequator
+25A1512|Capricorn
+25A1512|Krebs (Tierkreiszeichen)
+25A1512|Steinbock (Tierkreiszeichen)
+25A1512|Wendekreis
+25A1521|Meridian
+25A2|Kontinent
+25A21|Europa
+25A22|Asien
+25A23|Eurasien
+25A24|Afrika
+25A25|Amerika
+25A251|Nordamerika
+25A252|Suedamerika
+25A26|Australien
+25A27|Polargebiete
+25A271|Nordpol
+25A272|Suedpol
+25A3|Gebiet
+25A3|Land
+25A4|Stadt
+25A5|Seekarte
+25A9|Kartographie
+25A90|Geographie
+25A90|Ripa, Cesare
+25A90|corografia
+25A90|geografia
+25A90|hidrografia
+25A91|Geodaesie
+25A91|Landvermessung
+25A910|Altimetria
+25A910|Ripa, Cesare
+25A911|Feldvermessungsgeraete
+25A911|Instrument
+25A911|messen
+25A9111|Jakobsstab
+25A9111|Stab
+25A9111|Stecken
+25B|Kontinent
+25B1|Europa
+25B1|Ripa, Cesare
+25B2|Asien
+25B2|Ripa, Cesare
+25B3|Afrika
+25B3|Ripa, Cesare
+25B4|Amerika
+25B4|Ripa, Cesare
+25B5|Australien
+25B6|Polargebiete
+25B61|Nordpol
+25B62|Suedpol
+25C|Geologie
+25C|Phaenomene
+25C1|Vulkanismus
+25C11|Ausbruch
+25C11|Vulkan
+25C111|Lava
+25C112|Aschewolke
+25C12|Vulkan
+25C13|Dampf
+25C13|Geysir
+25C13|Hitze
+25C13|Quelle
+25C14|Rauch
+25C14|Schwefel
+25C15|Erdbeben
+25C15|Phänomene
+25C15|Schaden
+25C15|Wirkung
+25C150|Phaenomene
+25C150|Ripa, Cesare
+25C150|terremoto
+25C16|Berg
+25C16|Genese
+25C17|Genese
+25C17|Insel
+25C19|Vulkan
+25C19|erloschen
+25C192|Lava
+25C2|Erdmagnetismus
+25C2|Magnetismus
+25C21|Kompass
+25C211|Kompassrose
+25D1|Felsen
+25D11|Edelstein
+25D11(ALMANDINE)|Almandin
+25D11(ALMANDINE)|Karfunkel
+25D11(AMETHYST)|Amethyst
+25D11(CHALCEDONY)|Chalcedon
+25D11(CHRYSOBERYL)|Chrysoberyll
+25D11(CHRYSOLITE)|Chrysolith
+25D11(CHRYSOLITE)|Olivin
+25D11(CHRYSOPRASE)|Chrysopras
+25D11(DIAMOND)|Diamant
+25D11(EMERALD)|Smaragd
+25D11(JASPER)|Jaspis
+25D11(ROCK-CRYSTAL)|Bergkristall
+25D11(RUBY)|Rubin
+25D11(SAPPHIRE)|Saphir
+25D11(TOPAZ)|Topas
+25D11(TURQUOISE)|Türkis
+25D12|Stein
+25D12(CHALK)|Kreide
+25D12(FLINT)|Feuerstein
+25D12(MARBLE)|Marmor
+25D12(PUMICE)|Bimsstein
+25D13|Metall
+25D13|Mineral
+25D13(BITUMEN)|Bitumen
+25D13(COPPER)|Kupfer
+25D13(GOLD)|Gold
+25D13(IRON)|Eisen
+25D13(LEAD)|Blei
+25D13(MAGNETITE)|Magnetit
+25D13(MERCURY)|Quecksilber
+25D13(PLATINUM)|Platin
+25D13(SILVER)|Silber
+25D13(SULPHUR)|Schwefel
+25D13(TIN)|Zinn
+25D14|Pflanze
+25D14|Tier
+25D141|Anthrazit
+25D141|Kohle
+25D142|Braunkohle
+25D142|Kohle
+25D143|Bernstein
+25D143|Fossil
+25D143|Harz
+25D15|Kristall
+25D2|Bodenform
+25D2|Form
+25D211|Humus
+25D22|Kies
+25D23|Sand
+25D24|Lehm
+25D24|Ton
+25D242|Loess
+25D25|Torf
+25D26|Schlamm
+25D26|Schmutz
+25D29|Staub
+25D3|Bergbau
+25D31|Bergwerk
+25D31|Mine
+25D311|Tagebau
+25D312|Schacht (Bergbau)
+25D312|Stollen (Bergbau)
+25D32|Bergarbeiter
+25D32|Berufe
+25D321|Prospektor
+25D33|Gebaeude
+25D34|Steinbruch
+25D35|Erz
+25D35|Hochofen
+25D35|Ofen
+25D35|verhuetten
+25D4|Fluessigkeit
+25D41|Mineralwasser
+25D41|Wasser
+25D411|Medikament
+25D411|Quelle
+25D411|heilen
+25D421|Quelle
+25D43|Oel
+25D431|bohren
+25D4311|Derrickkran
+25D4312|Bohrplattform
+25D4312|Plattform
+25D432|Pumpe
+25D4321|Ausbruch
+25D4321|Oelquelle
+25D4321|Quelle
+25D433|transportieren
+25D4331|Pipeline
+25D4331|Rohrleitungen
+25D434|Raffinerie
+25D435|Tank
+25D44|Asphalt
+25D44|Schotterstrasse
+25D45|Boden
+25D45|Erdboden
+25D45|Erdgas
+25D45|Gas
+25D451|Kohle
+25D4511|Fabrik
+25D4511|Gaswerk
+25D4512|Gasflasche
+25D4512|Tank
+25D5|Bewegung
+25D5|Erdbeben
+25D5|Erdrutsch
+25D5|Geologie
+25E|Chronologie
+25E|Erdzeitalter
+25E|Geologie
+25E|Geschichte
+25E|Periode
+25E(BIG BANG)|Urknall
+25E(CENOZOIC)|Kaenozoikum
+25E(PALEOZOIC)|Palaeozoikum
+25E(TERTIARY)|Tertiaer
+25F|Tier
+25F1|Gruppe
+25F2|Saeugetier
+25F21|Gruppe
+25F22|Affe
+25F22(BABOON)|Pavian
+25F23|Raubtier
+25F23(...)|Säugetier
+25F23(BADGER)|Dachs
+25F23(BADGER)|Saeugetier
+25F23(BEAR)|Baer
+25F23(BEAR)|Saeugetier
+25F23(CHEETAH)|Gepard
+25F23(CHEETAH)|Saeugetier
+25F23(ERMINE)|Hermelin
+25F23(ERMINE)|Saeugetier
+25F23(FERRET)|Frettchen
+25F23(FERRET)|Saeugetier
+25F23(FOX)|Fuchs
+25F23(FOX)|Saeugetier
+25F23(HYENA)|Hyaene
+25F23(HYENA)|Saeugetier
+25F23(ICHNEUMON)|Ichneumon
+25F23(ICHNEUMON)|Mungo
+25F23(ICHNEUMON)|Saeugetier
+25F23(LEOPARD)|Leopard
+25F23(LEOPARD)|Saeugetier
+25F23(LION)|Loewe
+25F23(LION)|Saeugetier
+25F23(LYNX)|Luchs
+25F23(LYNX)|Saeugetier
+25F23(MANGOUSTE)|Mangostane
+25F23(MANGOUSTE)|Saeugetier
+25F23(MARTEN)|Marder
+25F23(MARTEN)|Saeugetier
+25F23(OTTER)|Otter
+25F23(OTTER)|Saeugetier
+25F23(PANTHER)|Panther
+25F23(PANTHER)|Saeugetier
+25F23(POLAR BEAR)|Polarbär
+25F23(SABLE)|Saeugetier
+25F23(SABLE)|Zobel
+25F23(TIGER)|Saeugetier
+25F23(TIGER)|Tiger
+25F23(WEASEL)|Saeugetier
+25F23(WEASEL)|Wiesel
+25F23(WOLF)|Saeugetier
+25F23(WOLF)|Wolf
+25F24|Huftier
+25F24(...)|Ren
+25F24(...)|Säugetier
+25F24(ANTELOPE)|Antilope
+25F24(ANTELOPE)|Saeugetier
+25F24(BISON)|Bison
+25F24(BISON)|Saeugetier
+25F24(BISON)|Ur
+25F24(BISON)|Wisent
+25F24(BOAR)|Eber
+25F24(BOAR)|Saeugetier
+25F24(BOAR)|Wildschwein
+25F24(CAMEL)|Kamel
+25F24(CAMEL)|Saeugetier
+25F24(DEER)|Reh
+25F24(DEER)|Saeugetier
+25F24(DROMEDARY)|Dromedar
+25F24(DROMEDARY)|Saeugetier
+25F24(ELK)|Elch
+25F24(ELK)|Saeugetier
+25F24(GAZELLE)|Gazelle
+25F24(GAZELLE)|Saeugetier
+25F24(GIRAFFE)|Giraffe
+25F24(GIRAFFE)|Saeugetier
+25F24(GNU)|Gnu
+25F24(GNU)|Saeugetier
+25F24(HIPPOPOTAMUS)|Nilpferd
+25F24(HIPPOPOTAMUS)|Saeugetier
+25F24(IBEX)|Saeugetier
+25F24(IBEX)|Steinbock
+25F24(MUSK-DEER)|Moschustier
+25F24(MUSK-DEER)|Saeugetier
+25F24(ONAGER)|Onager
+25F24(ONAGER)|Saeugetier
+25F24(ORYX)|Saeugetier
+25F24(ORYX)|Spiessbock
+25F24(QUAGGA)|Saeugetier
+25F24(QUAGGA)|Zebra
+25F24(RHINOCEROS)|Rhinozeros
+25F24(RHINOCEROS)|Saeugetier
+25F24(STAG)|Hirsch
+25F24(STAG)|Saeugetier
+25F24(ZEBRA)|Zebra
+25F25|Ruesseltiere
+25F25(ELEPHANT)|Elefant
+25F26|Nagetier
+25F26(BEAVER)|Biber
+25F26(HARE)|Hase
+25F26(MOUSE)|Maus
+25F26(MUSK-RAT)|Bisamratte
+25F26(MUSK-RAT)|Moschusratte
+25F26(RABBIT)|Kaninchen
+25F26(RAT)|Ratte
+25F26(SQUIRREL)|Eichhoernchen
+25F26(WOMBAT)|Wombat
+25F27|Meeressaeuger
+25F27(DOLPHIN)|Delphin
+25F27(SEAL)|Robbe
+25F27(WHALE)|Wal
+25F28|Flugsaeugetier
+25F28(BAT)|Fledermaus
+25F29(...)|Säugetier
+25F29(ARMADILLO)|Guerteltier
+25F29(ARMADILLO)|Saeugetier
+25F29(HEDGEHOG)|Igel
+25F29(HEDGEHOG)|Saeugetier
+25F29(KANGAROO)|Känguru
+25F29(MOLE)|Maulwurf
+25F29(MOLE)|Saeugetier
+25F29(PORCUPINE)|Saeugetier
+25F29(PORCUPINE)|Stachelschwein
+25F29(SLOTH)|Faultier
+25F3|Vogel
+25F31|Gruppe
+25F32|Singvogel
+25F32(CROW)|Kraehe
+25F32(FINCH)|Fink
+25F32(GOLDFINCH)|Stieglitz
+25F32(JACKDAW)|Dohle
+25F32(LARK)|Lerche
+25F32(MAGPIE)|Elster
+25F32(NIGHTINGALE)|Nachtigall
+25F32(RAVEN)|Rabe
+25F32(ROBIN)|Rotkehlchen
+25F32(SPARROW)|Spatz
+25F32(SPARROW)|Sperling
+25F32(STARLING)|Star
+25F32(SWALLOW)|Schwalbe
+25F32(THRUSH)|Drossel
+25F32(TIT)|Meise
+25F32(WAGTAIL)|Bachstelze
+25F32(WARBLER)|Saenger (Vogel)
+25F32(WHITE THROAT)|Ammerfink
+25F32(WREN)|Zaunkoenig
+25F33|Greifvogel
+25F33|Raubvogel
+25F33(EAGLE)|Adler
+25F33(FALCON)|Falke
+25F33(FISH-HAWK)|Fischadler
+25F33(HAWK)|Habicht
+25F33(KITE)|Roter Milan
+25F33(SPARROW-HAWK)|Sperber
+25F33(VULTURE)|Geier
+25F34|Eule
+25F35|Ziervoegel
+25F35(...)|Ziervögel
+25F35(BIRD OF PARADISE)|Paradies
+25F35(BIRD OF PARADISE)|Paradiesvogel
+25F35(BIRD OF PARADISE)|Ziervoegel
+25F35(COCKATOO)|Kakadu
+25F35(HORNBILL)|Hornvogel
+25F35(HORNBILL)|Ziervoegel
+25F35(PARROT)|Papagei
+25F35(PARROT)|Ziervoegel
+25F35(PEACOCK)|Pfau
+25F35(PEACOCK)|Ziervoegel
+25F36|Taucher (Vogel)
+25F36|Wasservogel
+25F36(COOT)|Wasserhuhn
+25F36(DIPPER)|Taucher
+25F36(DUCK)|Ente
+25F36(GOOSE)|Gans
+25F36(PELICAN)|Pelikan
+25F36(SWAMP-HEN)|Sumpfhuhn
+25F36(SWAN)|Schwan
+25F37|Schnepfenvogel
+25F37|Sumpfvogel
+25F37(BITTERN)|Rohrdommel
+25F37(CRANE)|Kranich
+25F37(GULL)|Moewe
+25F37(HERON)|Reiher
+25F37(IBIS)|Ibis
+25F37(LAPWING)|Kiebitz
+25F37(MARABOU)|Marabu
+25F37(PLOVER)|Regenpfeifer
+25F37(PURPLE WATER-HEN)|Purpurhuhn
+25F37(SNIPE)|Sumpfschnepfe
+25F37(STORK)|Storch
+25F37(TROCHILUS)|Grasmuecke
+25F37(WOODCOCK)|Waldschnepfe
+25F38|Laufvogel
+25F38(...)|Perlhuhn
+25F38(BUSTARD)|Feldhuhn
+25F38(BUSTARD)|Trappe
+25F38(OSTRICH)|Strauss
+25F38(PARTRIDGE)|Rebhuhn
+25F38(PHEASANT)|Fasan
+25F38(QUAIL)|Wachtel
+25F38(TURKEY)|Truthahn
+25F39(...)|Bienenfresser
+25F39(CUCKOO)|Kuckuck
+25F39(DODO)|Dodo
+25F39(DOVE)|Taube
+25F39(HOOPOE)|Wiedehopf
+25F39(HUMMING-BIRD)|Kolibri
+25F39(KINGFISHER)|Eisvogel
+25F39(TURTLE DOVE)|Turteltaube
+25F39(WOODPECKER)|Specht
+25F39(WRYNECK)|Wendehals
+25F4|Reptil
+25F41|Eidechse
+25F41(CHAMELEON)|Chamaeleon
+25F41(LIZARD)|Bergeidechse
+25F41(LIZARD)|Waldeidechse
+25F42|Schlange
+25F42(...)|Ringelnatter
+25F42(VIPER)|Giftschlange
+25F42(VIPER)|Viper
+25F43|Krokodil
+25F43(ALLIGATOR)|Alligator
+25F44|Schildkröte
+25F5|Amphibie
+25F51|Mangel
+25F51|Schwanz
+25F51(FROG)|Frosch
+25F51(TOAD)|Kroete
+25F52|Schwanz
+25F6|Fisch
+25F61|Knorpelfisch
+25F61(DOGFISH)|kleiner Hai
+25F61(RAY)|Rochen
+25F61(SAWFISH)|Saegefisch
+25F61(SHARK)|Hai(fisch)
+25F62|Knochenfische
+25F62(BARBEL)|Barbe
+25F62(BUTTERFISH)|Butterfisch
+25F62(CARP)|Karpfen
+25F62(HERRING)|Hering
+25F62(HIPPOCAMPUS)|Hippokampus
+25F62(LUNGFISH)|Lungenfisch
+25F62(MACKEREL)|Makrele
+25F62(MULLET)|Meeraesche
+25F62(PIKE)|Hecht
+25F62(PILOT-FISH)|Lotsenfisch
+25F62(RED HERRING)|Bueckling
+25F62(RED HERRING)|Raeucherhering
+25F62(ROACH)|Ploetze
+25F62(ROACH)|Rotauge
+25F62(SALMON)|Lachs
+25F62(SARDINE)|Sardine
+25F62(SCARUS)|Papageifisch
+25F62(SCARUS)|Seepapagei(fisch)
+25F62(SEA-BREAM)|Meerbrasse
+25F62(SEA-DEVIL)|Seeteufel
+25F62(SEA-PERCH)|Seebarsch
+25F62(SEA-WOLF)|Seewolf
+25F62(SHEAT-FISH)|Wels
+25F62(STURGEON)|Stoer
+25F62(SUN-FISH)|Sonnenfisch
+25F62(SWORD-FISH)|Schwertfisch
+25F62(TUNNY)|Thunfisch
+25F62(WEEVER)|Drachenfisch
+25F63|Aal
+25F63(EEL)|Flussaal
+25F63(LAMPREY)|Neunauge
+25F63(SEA-EEL)|Meeraal
+25F64|Tiefsee
+25F7|niederes Tier
+25F71|Gliederfuesser
+25F711|Insekt
+25F711(...)|Gliederfüßer
+25F711(ANT)|Ameise
+25F711(ANT)|Floh
+25F711(ANT)|Gliederfuesser
+25F711(ANT)|Laus
+25F711(ANT)|Libelle
+25F711(BEE)|Biene
+25F711(BEE)|Floh
+25F711(BEE)|Gliederfuesser
+25F711(BEE)|Laus
+25F711(BEE)|Libelle
+25F711(BEETLE)|Floh
+25F711(BEETLE)|Gliederfuesser
+25F711(BEETLE)|Kaefer
+25F711(BEETLE)|Laus
+25F711(BEETLE)|Libelle
+25F711(BUTTERFLY)|Floh
+25F711(BUTTERFLY)|Gliederfuesser
+25F711(BUTTERFLY)|Laus
+25F711(BUTTERFLY)|Libelle
+25F711(BUTTERFLY)|Schmetterling
+25F711(CATERPILLAR)|Floh
+25F711(CATERPILLAR)|Gliederfuesser
+25F711(CATERPILLAR)|Laus
+25F711(CATERPILLAR)|Libelle
+25F711(CATERPILLAR)|Raupe
+25F711(CICADA)|Floh
+25F711(CICADA)|Gliederfuesser
+25F711(CICADA)|Laus
+25F711(CICADA)|Libelle
+25F711(CICADA)|Zikade
+25F711(CRICKET)|Floh
+25F711(CRICKET)|Gliederfuesser
+25F711(CRICKET)|Grille
+25F711(CRICKET)|Laus
+25F711(CRICKET)|Libelle
+25F711(DAY-FLY)|Eintagsfliege
+25F711(DAY-FLY)|Floh
+25F711(DAY-FLY)|Gliederfuesser
+25F711(DAY-FLY)|Laus
+25F711(DAY-FLY)|Libelle
+25F711(DRAGON-FLY)|Libelle
+25F711(DUNG-BEETLE)|Floh
+25F711(DUNG-BEETLE)|Gliederfuesser
+25F711(DUNG-BEETLE)|Laus
+25F711(DUNG-BEETLE)|Libelle
+25F711(DUNG-BEETLE)|Mistkaefer
+25F711(FLEA)|Floh
+25F711(FLY)|Fliege
+25F711(FLY)|Floh
+25F711(FLY)|Gliederfuesser
+25F711(FLY)|Laus
+25F711(FLY)|Libelle
+25F711(GLOW-WORM)|Floh
+25F711(GLOW-WORM)|Gliederfuesser
+25F711(GLOW-WORM)|Gluehwuermchen
+25F711(GLOW-WORM)|Laus
+25F711(GLOW-WORM)|Libelle
+25F711(GNAT)|Floh
+25F711(GNAT)|Gliederfuesser
+25F711(GNAT)|Laus
+25F711(GNAT)|Libelle
+25F711(GNAT)|Muecke
+25F711(GRASS-HOPPER)|Floh
+25F711(GRASS-HOPPER)|Gliederfuesser
+25F711(GRASS-HOPPER)|Heuschrecke
+25F711(GRASS-HOPPER)|Laus
+25F711(GRASS-HOPPER)|Libelle
+25F711(HORNET)|Dasselfliege
+25F711(ICHNEUMON-FLY)|Floh
+25F711(ICHNEUMON-FLY)|Gliederfuesser
+25F711(ICHNEUMON-FLY)|Laus
+25F711(ICHNEUMON-FLY)|Libelle
+25F711(ICHNEUMON-FLY)|Schlupfwespe
+25F711(LADYBIRD)|Floh
+25F711(LADYBIRD)|Gliederfuesser
+25F711(LADYBIRD)|Laus
+25F711(LADYBIRD)|Libelle
+25F711(LADYBIRD)|Marienkaefer
+25F711(LOUSE)|Laus
+25F711(LOUSE)|Libelle
+25F711(MANTIS)|Fangheuschrecke
+25F711(MANTIS)|Floh
+25F711(MANTIS)|Gliederfuesser
+25F711(MANTIS)|Laus
+25F711(MANTIS)|Libelle
+25F711(MOSQUITO)|Mücke
+25F711(MOSQUITO)|Stechmücke
+25F711(MOTH)|Floh
+25F711(MOTH)|Gliederfuesser
+25F711(MOTH)|Laus
+25F711(MOTH)|Libelle
+25F711(MOTH)|Motte
+25F711(PRAYING-MANTIS)|Floh
+25F711(PRAYING-MANTIS)|Gliederfuesser
+25F711(PRAYING-MANTIS)|Gottesanbeterin (Insekt)
+25F711(PRAYING-MANTIS)|Laus
+25F711(PRAYING-MANTIS)|Libelle
+25F711(SCARABAEUS)|Floh
+25F711(SCARABAEUS)|Gliederfuesser
+25F711(SCARABAEUS)|Laus
+25F711(SCARABAEUS)|Libelle
+25F711(SCARABAEUS)|Skarabaeus
+25F711(WASP)|Floh
+25F711(WASP)|Gliederfuesser
+25F711(WASP)|Laus
+25F711(WASP)|Libelle
+25F711(WASP)|Wespe
+25F712|Hundertfuessler
+25F712|Tausendfuessler
+25F713|Gliederfüßer
+25F713|Spinne
+25F714|Milbe
+25F715|Skorpion
+25F716|Krustentier
+25F716(CRAB)|Krabbe
+25F716(LOBSTER)|Hummer
+25F72|Molluske
+25F72(CUTTLE-FISH)|Tintenfisch
+25F72(MUREX)|Stachelschnecke
+25F72(MUSSEL)|Muschel
+25F72(NAUTILUS)|Nautiluskelch
+25F72(OCTOPUS)|Krake
+25F72(OYSTER)|Auster
+25F72(POLYP)|Polyp
+25F72(SNAIL)|Schnecke
+25F72(SQUID)|Apotheose
+25F72(SQUID)|Erschaffung
+25F72(SQUID)|Gaia
+25F72(SQUID)|Geschichte
+25F72(SQUID)|Goetter
+25F72(SQUID)|Goettin
+25F72(SQUID)|Kosmogonie
+25F72(SQUID)|Leiden
+25F72(SQUID)|Mythologie
+25F72(SQUID)|Nachkommenschaft
+25F72(SQUID)|Perses
+25F72(SQUID)|Schoepfung
+25F72(SQUID)|Theogonie
+25F72(SQUID)|Titanen
+25F72(SQUID)|Unglueck
+25F72(SQUID)|Uranus
+25F72(SQUID)|antike Geschichte
+25F72(SQUID)|klassische Antike
+25F73|Wurm
+25F73(...)|Bandwurm
+25F73(...)|Blutegel
+25F73(...)|Blutsauger
+25F73(...)|Borstenwurm
+25F73(...)|Fadenwurm
+25F73(...)|Regenwurm
+25F74|Stachelhaeuter
+25F74(SEA-URCHIN)|Seeigel
+25F74(STARFISH)|Seestern
+25F75|Hohltier
+25F75(...)|Polyp
+25F75(CORAL)|Koralle
+25F75(JELLY-FISH)|Qualle
+25F75(SPONGE)|Schwamm
+25F76|Bakterie
+25F76|Bazillus
+25F76|Einzeller
+25F8|ausgestorben
+25F8(...)|Ichthyosaurier
+25F81|Vorgeschichte
+25F82|Fossil
+25F9|Gestalt
+25F9|Monster
+25F9|Ungeheuer
+25F91|gross
+25F92|klein
+25F93|Mehrlingsgeburt
+25F94|Abwesenheit
+25F94|Glied (Koerper)
+25F94|Organ
+25F95|Glied (Koerper)
+25F95|Menge
+25F95|Organ
+25F951|Kopf (Tier)
+25F951|drei
+25F952|zwei
+25F952|zweileibig
+25F96|Glied (Koerper)
+25F96|Organ
+25F97|Entstellung
+25F97|Glied (Koerper)
+25F97|Organ
+25F971|gross
+25F972|klein
+25FF|Fabeltier
+25FF|Fiktion
+25FF|Groteske
+25FF|Ripa, Cesare
+25FF|Tier
+25FF|mostri
+25FF1|Gruppe
+25FF2|Saeugetier
+25FF21|Haustier
+25FF23(...)|Saeugetier
+25FF23(BADGER)|Dachs
+25FF23(BEAR)|Baer
+25FF23(CHEETAH)|Gepard
+25FF23(CROCOTAS)|Crocotas
+25FF23(ERMINE)|Hermelin
+25FF23(FERRET)|Frettchen
+25FF23(FOX)|Fuchs
+25FF23(HYENA)|Hyaene
+25FF23(ICHNEUMON)|Ichneumon
+25FF23(ICHNEUMON)|Mungo
+25FF23(LION)|Loewe
+25FF23(LYNX)|Luchs
+25FF23(MANGOUSTE)|Mangostane
+25FF23(MARTEN)|Marder
+25FF23(PANTHER)|Panther
+25FF23(SABLE)|Zobel
+25FF23(WEASEL)|Wiesel
+25FF23(WOLF)|Wolf
+25FF231|Adler
+25FF231|Greif
+25FF231|Loewe
+25FF231|Ripa, Cesare
+25FF231|griffo
+25FF232|Chimaera
+25FF232|Loewe
+25FF232|Ripa, Cesare
+25FF232|Schlange
+25FF232|Ziege
+25FF232|chimera
+25FF233|Geschlecht
+25FF233|Hyaene
+25FF233|Metamorphose
+25FF233|verwandeln
+25FF233|wechseln
+25FF24(...)|Saeugetier
+25FF24(BISON)|Bison
+25FF24(BISON)|Ren
+25FF24(BISON)|Ur
+25FF24(BISON)|Wisent
+25FF24(BONNACON)|Bonasa
+25FF24(BONNACON)|Bonnacon
+25FF24(CATOBLEPAS)|Catoblepas
+25FF24(ELK)|Elch
+25FF24(ELK)|Ren
+25FF24(GNU)|Gnu
+25FF24(GNU)|Ren
+25FF24(OX WITH ONE HORN)|Einhorn
+25FF24(OX WITH ONE HORN)|Horn
+25FF24(OX WITH ONE HORN)|Ochse
+25FF24(OX WITH ONE HORN)|Ochse mit einem Horn
+25FF24(OX WITH ONE HORN)|eins
+25FF24(OX WITH THREE HORNS)|Horn
+25FF24(OX WITH THREE HORNS)|Ochse
+25FF24(OX WITH THREE HORNS)|Ochse mit drei Hoernern
+25FF24(OX WITH THREE HORNS)|drei
+25FF24(WINGED HORSE)|Fluegel
+25FF24(WINGED HORSE)|Pegasus
+25FF24(WINGED HORSE)|Pferd
+25FF241|Einhorn
+25FF241|Horn
+25FF241|Säugetier
+25FF241|eins
+25FF2411|Chasse à la licorne
+25FF2411|Jaegerin
+25FF2411|Jungfrau
+25FF2411|Saeugetier
+25FF2411|jagen
+25FF2412|Pirassoipi
+25FF2412|Saeugetier
+25FF2412|zwei
+25FF2413|Antilope
+25FF2413|Saeugetier
+25FF2413|oryx unicornis
+25FF242|Adler
+25FF242|Hippogryph
+25FF242|Pferd
+25FF243|Antalops
+25FF243|Ren
+25FF244|Leucrota
+25FF245|Baer
+25FF245|Hirsch
+25FF245|Parandrus
+25FF246|Eale
+25FF246|Horn
+25FF246|éale
+25FF2461|Centicora
+25FF26(HARE)|Hase
+25FF26(MOUSE)|Maus
+25FF26(MUSK-RAT)|Bisamratte
+25FF26(MUSK-RAT)|Moschusratte
+25FF26(RABBIT)|Kaninchen
+25FF26(RAT)|Ratte
+25FF26(WOMBAT)|Wombat
+25FF28(BAT)|Fledermaus
+25FF29(ARMADILLO)|Guerteltier
+25FF29(LERTIX)|Lertix
+25FF29(MOLE)|Maulwurf
+25FF29(PORCUPINE)|Stachelschwein
+25FF3|Vogel
+25FF3(AVALERION)|Avalerion
+25FF3(CARABAS)|Carabas
+25FF3(CARISTA)|Carista
+25FF3(FIRE-BIRD)|Feuervogel
+25FF3(HARPY)|Harpyie
+25FF3(HARPY)|Harpyien
+25FF3(HARPY)|Ripa, Cesare
+25FF3(HARPY)|arpie
+25FF3(HERCYNIAN BIRD)|Herzynischer Vogel
+25FF3(PHOENIX)|Phoenix
+25FF3(PORPHYRION)|Porphyrion
+25FF3(ROC)|Roch
+25FF3(ROC)|Rock
+25FF3(ROC)|Rok
+25FF3(SELEUCIDIAN BIRD)|Seleukidischer Vogel
+25FF3(STELLINUS)|Stellinus
+25FF3(TRAGOPA)|Tragopa
+25FF31|Haustier
+25FF311|Basilisk
+25FF311|Hahn
+25FF311|Schlange
+25FF312|Alchemie
+25FF312|Cockatrice
+25FF312|Drache
+25FF312|Hahn
+25FF32(CROW)|Kraehe
+25FF32(FINCH)|Fink
+25FF32(GOLDFINCH)|Stieglitz
+25FF32(LARK)|Lerche
+25FF32(STARLING)|Star
+25FF32(WARBLER)|Saenger (Vogel)
+25FF32(WHITE THROAT)|Ammerfink
+25FF32(WREN)|Zaunkoenig
+25FF33(FISH-HAWK)|Fischadler
+25FF33(KITE)|Roter Milan
+25FF33(SPARROW-HAWK)|Sperber
+25FF33(VULTURE)|Geier
+25FF331|Vulpanser
+25FF332|Adler
+25FF332|Doppeladler
+25FF332|zwei
+25FF35(...)|Ziervoegel
+25FF35(BIRD OF PARADISE)|Paradies
+25FF35(BIRD OF PARADISE)|Paradiesvogel
+25FF35(HORNBILL)|Hornvogel
+25FF35(PARROT)|Papagei
+25FF35(PEACOCK)|Pfau
+25FF36(COOT)|Wasserhuhn
+25FF36(DIPPER)|Taucher
+25FF36(DUCK)|Ente
+25FF36(GOOSE)|Gans
+25FF36(PELICAN)|Pelikan
+25FF36(SWAMP-HEN)|Sumpfhuhn
+25FF371|Caladrius
+25FF371|Charadrius
+25FF38(...)|Perlhuhn
+25FF38(BUSTARD)|Feldhuhn
+25FF38(BUSTARD)|Trappe
+25FF38(OSTRICH)|Strauss
+25FF38(PARTRIDGE)|Rebhuhn
+25FF38(PHEASANT)|Fasan
+25FF38(TURKEY)|Truthahn
+25FF39(HOOPOE)|Wiedehopf
+25FF4|Reptil
+25FF41(LIZARD)|Bergeidechse
+25FF41(LIZARD)|Waldeidechse
+25FF411|Drache
+25FF412|Feuer
+25FF412|Geist
+25FF412|Salamander
+25FF421|Giftschlange
+25FF421|Viper
+25FF422|Drache
+25FF423|Hydrus
+25FF4231|Hydra
+25FF4231|Ripa, Cesare
+25FF4231|hidra
+25FF424|Amphisbaena
+25FF425|Horn
+25FF4251|Hornviper
+25FF43(ALLIGATOR)|Alligator
+25FF44|Schildkroete
+25FF5|Amphibie
+25FF51(TOAD)|Kroete
+25FF6|Fisch
+25FF61|Leviathan
+25FF61|Seeungeheuer
+25FF61(SHARK)|Hai(fisch)
+25FF62|Hippokampus
+25FF62|Monster
+25FF62|Pferd
+25FF62|Seeungeheuer
+25FF62|Ungeheuer
+25FF62(CARP)|Karpfen
+25FF62(HERRING)|Hering
+25FF62(SALMON)|Lachs
+25FF63|Drache
+25FF63|Meeresdrache
+25FF63|Pistrix
+25FF63(EEL)|Flussaal
+25FF63(LAMPREY)|Neunauge
+25FF63(SEA-EEL)|Meeraal
+25FF64|Echeneis Remora
+25FF64|Remora
+25FF65|Serra
+25FF65|gross
+25FF7|niederes Tier
+25FF711|Pyrausta
+25FF711(...)|Floh
+25FF711(...)|Laus
+25FF711(...)|Libelle
+25FF711(CICADA)|Zikade
+25FF711(CRICKET)|Grille
+25FF711(DUNG-BEETLE)|Mistkaefer
+25FF713|Gliederfuesser
+25FF716(CRAB)|Krabbe
+25FF716(LOBSTER)|Hummer
+25FF72(KRAKEN)|Krake
+25FF72(NAUTILUS)|Nautiluskelch
+25FF72(OCTOPUS)|Krake
+25FF72(POLYP)|Polyp
+25FF72(SNAIL)|Schnecke
+25FF72(SQUID)|Kalmar
+25FF73(...)|Bandwurm
+25FF73(...)|Blutegel
+25FF73(...)|Blutsauger
+25FF73(...)|Borstenwurm
+25FF73(...)|Fadenwurm
+25FF73(...)|Regenwurm
+25FF74(SEA-URCHIN)|Seeigel
+25FF74(STARFISH)|Seestern
+25FF75(...)|Polyp
+25FF75(CORAL)|Koralle
+25FF75(JELLY-FISH)|Qualle
+25FF75(SPONGE)|Schwamm
+25FF8|ausgestorben
+25FF8(...)|Ichthyosaurier
+25FF9|Gestalt
+25FF9|Monster
+25FF9|Ungeheuer
+25FF971|gross
+25FF972|klein
+25G|Pflanze
+25G11|Baum
+25G11|Gruppe
+25G12|Busch
+25G12|Gruppe
+25G13|Gruppe
+25G14|Gruppe
+25G14|niedere Pflanze
+25G2|Produkt
+25G21|Frucht
+25G21(...)|Maulbeere
+25G21(ACORN)|Eichel
+25G21(ALMOND)|Mandel
+25G21(APPLE)|Apfel
+25G21(BEANS)|Bohne
+25G21(BILBERRY)|Blaubeere
+25G21(BILBERRY)|Heidelbeere
+25G21(BLACKBERRY)|Brombeer
+25G21(CHERRY)|Kirsche
+25G21(CHESTNUT)|Kastanie
+25G21(FIG)|Feige
+25G21(GOURD)|Kuerbis
+25G21(HAZELNUT)|Haselnuß
+25G21(KAKI PERSIMMON)|Kaki
+25G21(LEMON)|Zitrone
+25G21(MEDLAR)|Mispel
+25G21(MELON)|Melone
+25G21(NUTS)|Nuss
+25G21(OLIVE)|Olive
+25G21(ORANGE)|Apfelsine
+25G21(ORANGE)|Orange
+25G21(PEACH)|Pfirsich
+25G21(PEAR)|Birne
+25G21(PINE-CONE)|Kiefernzapfen
+25G21(PINEAPPLE)|Ananas
+25G21(PLUM)|Pflaume
+25G21(POMEGRANATE)|Granatapfel
+25G21(PUMPKIN)|Kuerbis
+25G21(QUINCE)|Quitte
+25G21(RASPBERRY)|Himbeere
+25G21(SPRUCE-CONE)|Fichtenzapfen
+25G21(STRAWBERRY)|Erdbeere
+25G21(WALNUT)|Nuss
+25G21(WALNUT)|Walnuss
+25G211(...)|Haut
+25G211(...)|Rinde
+25G211(...)|Schale
+25G211(...)|Schale (einer Frucht)
+25G211(NUTSHELL)|Nussschale
+25G2111|Same(n)
+25G2111(...)|Linse
+25G2111(PEA)|Erbse
+25G2111(THISTLE-SEED)|Distelsamen
+25G22(...)|Borke
+25G22(...)|Karotte
+25G22(...)|Knolle
+25G22(...)|Kork
+25G22(...)|Moehre
+25G22(...)|Wurzel
+25G22(...)|Zwiebel
+25G22(ASPARAGUS)|Spargel
+25G22(CINNAMON)|Zimt
+25G22(RADISH)|Rettich
+25G22(TURNIP)|Ruebe
+25G3|Baum
+25G3(ACACIA)|Akazie
+25G3(ACER)|Ahorne
+25G3(ALDER)|Erle
+25G3(ALMOND-TREE)|Mandelbaum
+25G3(APPLE-TREE)|Apfelbaum
+25G3(ASH-TREE)|Esche
+25G3(AVOCADO)|Avocado
+25G3(BEECH)|Buche
+25G3(BIRCH)|Birke
+25G3(CEDAR)|Zeder
+25G3(CHERRY-TREE)|Kirschbaum
+25G3(COCONUT-TREE)|Kokospalme
+25G3(CYPRESS)|Zypresse
+25G3(DATE-PALM)|Dattelpalme
+25G3(DRACENA)|Drachenbaum
+25G3(ELM)|Ulme
+25G3(FIG-TREE)|Feigenbaum
+25G3(FIR)|Tanne
+25G3(HOLM-OAK)|Steineiche
+25G3(INDIAN BANYAN)|Banyan
+25G3(LAUREL)|Lorbeerbaum
+25G3(LEMON-TREE)|Zitronenbaum
+25G3(LINDEN)|Linde
+25G3(MULBERRY-TREE)|Maulbeerbaum
+25G3(MYRRH-TREE)|Balsambaum
+25G3(OAK)|Eiche
+25G3(OLEASTER)|Oleaster
+25G3(OLIVE-TREE)|Oelbaum
+25G3(PALM-TREE)|Palme
+25G3(PEACH-TREE)|Pfirsichbaum
+25G3(PINE)|Kiefer (Baum)
+25G3(PLANE-TREE)|Platane
+25G3(PLUM TREE)|Pflaumenbaum
+25G3(PLUM-TREE)|Pflaumenbaum
+25G3(POMEGRANATE-TREE)|Granatapfelbaum
+25G3(POPLAR)|Pappel
+25G3(QUINCE-TREE)|Quitte
+25G3(SPRUCE)|Fichte
+25G3(STINKING BEAN TREFOIL)|Stinkbaum
+25G3(WALNUT-TREE)|Nussbaum
+25G3(WALNUT-TREE)|Walnussbaum
+25G3(WHITE POPLAR)|Silberpappel
+25G3(WILLOW)|Weide
+25G3(YEW)|Eibe
+25G31|Busch
+25G31(...)|Weihrauchbaum
+25G31(BLACKBERRY-BUSH)|Brombeerstrauch
+25G31(BOX)|Buchsbaum
+25G31(BROOM)|Ginster
+25G31(BUCKTHORN)|Wegdorn
+25G31(HAZEL)|Haselnuss
+25G31(JUNIPER)|Wacholder(-busch)
+25G31(MYRTLE)|Myrte
+25G31(OLEANDER)|Oleander
+25G31(PRIVET)|Liguster
+25G31(ROSE-BUSH)|Rosenbusch
+25G39|Diagramm
+25G39|Schema (Diagramm)
+25G391|Alchemie
+25G391|Philosophie
+25G4|Kraut
+25G4(ACANTHUS)|Akanthus
+25G4(ACANTHUS)|Gerste
+25G4(ACANTHUS)|Lotos
+25G4(ACANTHUS)|Minze
+25G4(ALOE)|Aloe
+25G4(ALOE)|Gerste
+25G4(ALOE)|Lotos
+25G4(ALOE)|Minze
+25G4(AMARANTH)|Amarant
+25G4(ARTICHOKE)|Artischoke
+25G4(ARTICHOKE)|Gerste
+25G4(ARTICHOKE)|Lotos
+25G4(ARTICHOKE)|Minze
+25G4(BASIL)|Gerste
+25G4(BASIL)|Lotos
+25G4(BASIL)|Minze
+25G4(BASIL)|Ocimum
+25G4(BEAN)|Bohne
+25G4(BEAN)|Gerste
+25G4(BEAN)|Lotos
+25G4(BEAN)|Minze
+25G4(CABBAGE)|Gerste
+25G4(CABBAGE)|Kohl
+25G4(CABBAGE)|Lotos
+25G4(CABBAGE)|Minze
+25G4(CACTUS)|Kaktus
+25G4(CAMOMILE)|Gerste
+25G4(CAMOMILE)|Kamille
+25G4(CAMOMILE)|Lotos
+25G4(CAMOMILE)|Minze
+25G4(CHONDRILLA)|Chondrilla
+25G4(CHONDRILLA)|Gerste
+25G4(CHONDRILLA)|Lotos
+25G4(CHONDRILLA)|Minze
+25G4(CLOVER)|Gerste
+25G4(CLOVER)|Klee
+25G4(CLOVER)|Lotos
+25G4(CLOVER)|Minze
+25G4(DICTAMNUS)|Dictamnus
+25G4(DICTAMNUS)|Gerste
+25G4(DICTAMNUS)|Lotos
+25G4(DICTAMNUS)|Minze
+25G4(FIELD ERYNGO)|Gerste
+25G4(FIELD ERYNGO)|Lotos
+25G4(FIELD ERYNGO)|Mannstreu
+25G4(FIELD ERYNGO)|Minze
+25G4(FLEA-BANE)|Flohkraut
+25G4(FLEA-BANE)|Gerste
+25G4(FLEA-BANE)|Lotos
+25G4(FLEA-BANE)|Minze
+25G4(GARLIC)|Gerste
+25G4(GARLIC)|Knoblauch
+25G4(GARLIC)|Lotos
+25G4(GARLIC)|Minze
+25G4(GERMANDER)|Gamander
+25G4(GERMANDER)|Gerste
+25G4(GERMANDER)|Lotos
+25G4(GERMANDER)|Minze
+25G4(GIANT FENNEL)|Fenchel
+25G4(GIANT FENNEL)|Gemeines Steckenkraut
+25G4(GIANT FENNEL)|Gerste
+25G4(GIANT FENNEL)|Lotos
+25G4(GIANT FENNEL)|Minze
+25G4(GROUNDSEL)|Gerste
+25G4(GROUNDSEL)|Kreuzkraut
+25G4(GROUNDSEL)|Lotos
+25G4(GROUNDSEL)|Minze
+25G4(HELLEBORE)|Gerste
+25G4(HELLEBORE)|Lotos
+25G4(HELLEBORE)|Minze
+25G4(HELLEBORE)|Nieswurz
+25G4(HEMLOCK)|Gerste
+25G4(HEMLOCK)|Lotos
+25G4(HEMLOCK)|Minze
+25G4(HEMLOCK)|Schierling
+25G4(HENBANE)|Bilsenkraut
+25G4(HENBANE)|Gerste
+25G4(HENBANE)|Lotos
+25G4(HENBANE)|Minze
+25G4(HOP)|Gerste
+25G4(HOP)|Hopfen
+25G4(HOP)|Lotos
+25G4(HOP)|Minze
+25G4(HOUSELEEK)|Dachwurz
+25G4(HOUSELEEK)|Gerste
+25G4(HOUSELEEK)|Hauslauch
+25G4(HOUSELEEK)|Lotos
+25G4(HOUSELEEK)|Minze
+25G4(HYSSOP)|Gerste
+25G4(HYSSOP)|Lotos
+25G4(HYSSOP)|Minze
+25G4(HYSSOP)|Ysop
+25G4(IVY)|Efeu
+25G4(IVY)|Gerste
+25G4(IVY)|Lotos
+25G4(IVY)|Minze
+25G4(LETTUCE)|Gerste
+25G4(LETTUCE)|Kopfsalat
+25G4(LETTUCE)|Lattich
+25G4(LETTUCE)|Lotos
+25G4(LETTUCE)|Minze
+25G4(LUPIN)|Gerste
+25G4(LUPIN)|Lotos
+25G4(LUPIN)|Lupine
+25G4(LUPIN)|Minze
+25G4(MANDRAKE)|Alraune
+25G4(MANDRAKE)|Gerste
+25G4(MANDRAKE)|Lotos
+25G4(MANDRAKE)|Mandragora
+25G4(MANDRAKE)|Minze
+25G4(MARJORAM)|Gerste
+25G4(MARJORAM)|Lotos
+25G4(MARJORAM)|Majoran
+25G4(MARJORAM)|Minze
+25G4(MISTLETOE)|Gerste
+25G4(MISTLETOE)|Lotos
+25G4(MISTLETOE)|Minze
+25G4(MISTLETOE)|Mistel
+25G4(NETTLE)|Gerste
+25G4(NETTLE)|Lotos
+25G4(NETTLE)|Minze
+25G4(NETTLE)|Nessel
+25G4(ORIGANUM)|Gerste
+25G4(ORIGANUM)|Lotos
+25G4(ORIGANUM)|Minze
+25G4(ORIGANUM)|Oregano
+25G4(PEA)|Erbse
+25G4(PEA)|Gerste
+25G4(PEA)|Lotos
+25G4(PEA)|Minze
+25G4(PENNYROYAL)|Flohkraut
+25G4(PENNYROYAL)|Gerste
+25G4(PENNYROYAL)|Lotos
+25G4(PENNYROYAL)|Minze
+25G4(PEONY)|Gerste
+25G4(PEONY)|Lotos
+25G4(PEONY)|Minze
+25G4(PEONY)|Pfingstrose
+25G4(PUMPKIN)|Gerste
+25G4(PUMPKIN)|Kuerbis
+25G4(PUMPKIN)|Lotos
+25G4(PUMPKIN)|Minze
+25G4(REED)|Gerste
+25G4(REED)|Lotos
+25G4(REED)|Minze
+25G4(REED)|Schilf
+25G4(ROCKET)|Gerste
+25G4(ROCKET)|Lotos
+25G4(ROCKET)|Minze
+25G4(ROCKET)|Nachtviole
+25G4(RUE)|Gartenraute
+25G4(RUE)|Gerste
+25G4(RUE)|Lotos
+25G4(RUE)|Minze
+25G4(SAFFRON)|Gerste
+25G4(SAFFRON)|Lotos
+25G4(SAFFRON)|Minze
+25G4(SAFFRON)|Safran
+25G4(SAGE)|Gerste
+25G4(SAGE)|Lotos
+25G4(SAGE)|Minze
+25G4(SAGE)|Salbei
+25G4(STINGING-NETTLE)|Gerste
+25G4(STINGING-NETTLE)|Lotos
+25G4(STINGING-NETTLE)|Minze
+25G4(STINGING-NETTLE)|Nesselgewaechs
+25G4(STRAWBERRY)|Erdbeere
+25G4(STRAWBERRY)|Gerste
+25G4(STRAWBERRY)|Lotos
+25G4(STRAWBERRY)|Minze
+25G4(SUNDEW)|Gerste
+25G4(SUNDEW)|Lotos
+25G4(SUNDEW)|Minze
+25G4(SUNDEW)|Sonnentau
+25G4(THISTLE)|Distel
+25G4(THISTLE)|Gerste
+25G4(THISTLE)|Lotos
+25G4(THISTLE)|Minze
+25G4(THYME)|Gerste
+25G4(THYME)|Lotos
+25G4(THYME)|Minze
+25G4(THYME)|Thymian
+25G4(WATER-HEMLOCK)|Gerste
+25G4(WATER-HEMLOCK)|Lotos
+25G4(WATER-HEMLOCK)|Minze
+25G4(WATER-HEMLOCK)|Wasserschierling
+25G4(WHEAT)|Gerste
+25G4(WHEAT)|Lotos
+25G4(WHEAT)|Minze
+25G4(WHEAT)|Weizen
+25G4(WORMWOOD)|Gerste
+25G4(WORMWOOD)|Lotos
+25G4(WORMWOOD)|Minze
+25G4(WORMWOOD)|Wermut
+25G41|Blume
+25G41(...)|Eisenhut
+25G41(ALMOND-BLOSSOM)|Mandelbluete
+25G41(ANEMONE)|Anemone
+25G41(BUTTERCUP)|Butterblume
+25G41(CARNATION)|Nelke
+25G41(COLUMBINE)|Akelei
+25G41(CROCUS)|Krokus
+25G41(HELIOTROPE)|Heliotrop
+25G41(HYACINTH)|Hyazinthe
+25G41(IMMORTELLE)|Immortelle
+25G41(IMMORTELLE)|Strohblume
+25G41(LILY)|Lilie
+25G41(LOTUS)|Lotos
+25G41(NARCISSUS)|Narzisse
+25G41(ORCHID)|Orchidee
+25G41(PETUNIA)|Petunie
+25G41(POPPY)|Mohnblume
+25G41(ROSE)|Rose
+25G41(SUNFLOWER)|Sonnenblume
+25G41(TULIP)|Tulpe
+25G41(VIOLET)|Veilchen
+25G41(WATER-LILY)|Wasserlilie
+25G411|Blumenstrauss
+25G411|Strauss (Blumen)
+25G4111|Girlande
+25G4111|Kranz
+25G412|trocknen
+25G49|Blume (kuenstliche)
+25G49|Pflanzen (kuenstliche)
+25G5|niedere Pflanze
+25G51|Farn
+25G52|Moos
+25G53|Alge
+25G53|Algen
+25G53|Seetang
+25G54|Pilz
+25G54|Schwamm (Pflanze)
+25G55|Flechte
+25G6|ausgestorben
+25G61|Vorgeschichte
+25G62|Fossil
+25G7|Blume
+25G7|Sprache
+25GG|Pflanze
+25GG|Phantasie
+25GG|erfundene Vegetation
+25GG11|Baum
+25GG11|Gruppe
+25GG12|Busch
+25GG12|Gruppe
+25GG13|Gruppe
+25GG14|Gruppe
+25GG14|niedere Pflanze
+25GG21|Frucht
+25GG21(ACORN)|Eichel
+25GG21(ACORN)|Maulbeere
+25GG21(ALMOND)|Mandel
+25GG21(ALMOND)|Maulbeere
+25GG21(APPLE)|Apfel
+25GG21(APPLE)|Maulbeere
+25GG21(BEANS)|Bohne
+25GG21(BEANS)|Maulbeere
+25GG21(BILBERRY)|Blaubeere
+25GG21(BILBERRY)|Heidelbeere
+25GG21(BILBERRY)|Maulbeere
+25GG21(CHERRY)|Kirsche
+25GG21(CHERRY)|Maulbeere
+25GG21(CHESTNUT)|Kastanie
+25GG21(CHESTNUT)|Maulbeere
+25GG21(FIG)|Feige
+25GG21(FIG)|Maulbeere
+25GG21(LEMON)|Maulbeere
+25GG21(LEMON)|Zitrone
+25GG21(MEDLAR)|Maulbeere
+25GG21(MEDLAR)|Mispel
+25GG21(MELON)|Maulbeere
+25GG21(MELON)|Melone
+25GG21(NUTS)|Maulbeere
+25GG21(NUTS)|Nuss
+25GG21(PEACH)|Maulbeere
+25GG21(PEACH)|Pfirsich
+25GG21(PEAR)|Birne
+25GG21(PEAR)|Maulbeere
+25GG21(PINE-CONE)|Kiefernzapfen
+25GG21(PINE-CONE)|Maulbeere
+25GG21(PINEAPPLE)|Ananas
+25GG21(PINEAPPLE)|Maulbeere
+25GG21(PLUM)|Maulbeere
+25GG21(PLUM)|Pflaume
+25GG21(POMEGRANATE)|Granatapfel
+25GG21(POMEGRANATE)|Maulbeere
+25GG21(PUMPKIN)|Kuerbis
+25GG21(PUMPKIN)|Maulbeere
+25GG21(SPRUCE-CONE)|Fichtenzapfen
+25GG21(SPRUCE-CONE)|Maulbeere
+25GG21(STRAWBERRY)|Erdbeere
+25GG21(STRAWBERRY)|Maulbeere
+25GG21(WALNUT)|Maulbeere
+25GG21(WALNUT)|Nuss
+25GG21(WALNUT)|Walnuss
+25GG211(...)|Haut
+25GG211(...)|Rinde
+25GG211(...)|Schale
+25GG211(...)|Schale (einer Frucht)
+25GG2111|Same(n)
+25GG2111(PEA)|Erbse
+25GG2111(PEA)|Linse
+25GG22(...)|Borke
+25GG22(...)|Knolle
+25GG22(...)|Kork
+25GG22(...)|Wurzel
+25GG22(...)|Zwiebel
+25GG22(ASPARAGUS)|Karotte
+25GG22(ASPARAGUS)|Moehre
+25GG22(ASPARAGUS)|Spargel
+25GG22(CINNAMON)|Karotte
+25GG22(CINNAMON)|Moehre
+25GG22(CINNAMON)|Zimt
+25GG22(ONION)|Karotte
+25GG22(ONION)|Moehre
+25GG22(RADISH)|Karotte
+25GG22(RADISH)|Moehre
+25GG22(RADISH)|Rettich
+25GG22(TURNIP)|Karotte
+25GG22(TURNIP)|Moehre
+25GG22(TURNIP)|Ruebe
+25GG3(ACACIA)|Akazie
+25GG3(AVOCADO)|Avocado
+25GG3(BIRCH)|Birke
+25GG3(HOLM-OAK)|Steineiche
+25GG3(LAUREL)|Lorbeerbaum
+25GG3(LEMON-TREE)|Zitronenbaum
+25GG3(MYRRH-TREE)|Balsambaum
+25GG3(PINE)|Kiefer (Baum)
+25GG3(POPLAR)|Pappel
+25GG3(QUINCE-TREE)|Quitte
+25GG3(WHITE POPLAR)|Silberpappel
+25GG3(YEW)|Eibe
+25GG31|Busch
+25GG31(BUCKTHORN)|Wegdorn
+25GG31(BUCKTHORN)|Weihrauchbaum
+25GG31(OLEANDER)|Oleander
+25GG31(OLEANDER)|Weihrauchbaum
+25GG39|Diagramm
+25GG39|Schema (Diagramm)
+25GG4(AMARANTH)|Gerste
+25GG4(AMARANTH)|Lotos
+25GG4(AMARANTH)|Minze
+25GG4(MARJORAM)|Gerste
+25GG4(MARJORAM)|Lotos
+25GG4(MARJORAM)|Majoran
+25GG4(MARJORAM)|Minze
+25GG4(PEONY)|Gerste
+25GG4(PEONY)|Lotos
+25GG4(PEONY)|Minze
+25GG4(PEONY)|Pfingstrose
+25GG4(PUMPKIN)|Gerste
+25GG4(PUMPKIN)|Kuerbis
+25GG4(PUMPKIN)|Lotos
+25GG4(PUMPKIN)|Minze
+25GG41|Blume
+25GG41(CARNATION)|Eisenhut
+25GG41(CARNATION)|Nelke
+25GG41(COLUMBINE)|Akelei
+25GG41(COLUMBINE)|Eisenhut
+25GG41(HELIOTROPE)|Eisenhut
+25GG41(HELIOTROPE)|Heliotrop
+25GG41(HYACINTH)|Eisenhut
+25GG41(HYACINTH)|Hyazinthe
+25GG41(IMMORTELLE)|Eisenhut
+25GG41(IMMORTELLE)|Immortelle
+25GG41(IMMORTELLE)|Strohblume
+25GG41(LOTUS)|Eisenhut
+25GG41(LOTUS)|Lotos
+25GG41(PETUNIA)|Eisenhut
+25GG41(PETUNIA)|Petunie
+25GG41(POPPY)|Eisenhut
+25GG41(POPPY)|Mohnblume
+25GG41(ROSE)|Eisenhut
+25GG41(ROSE)|Rose
+25GG41(SUNFLOWER)|Eisenhut
+25GG41(SUNFLOWER)|Sonnenblume
+25GG41(TULIP)|Eisenhut
+25GG41(TULIP)|Tulpe
+25GG411|Blumenstrauss
+25GG411|Strauss (Blumen)
+25GG412|trocknen
+25GG49|Blume (kuenstliche)
+25GG49|Pflanzen (kuenstliche)
+25GG61|Vorgeschichte
+25GG62|Fossil
+25H|Landschaft
+25H|ideale Landschaft
+25H1|gemaessigte Zone
+25H11|Berg
+25H111|Gipfel
+25H111|Schnee
+25H1111|Gletscher
+25H112|Felsen
+25H1121|Gipfel
+25H1122|Abgrund
+25H1122|Canyon
+25H1122|Felsspalte
+25H1122|Schlucht
+25H1122|gemäßigte Zone
+25H1123|Felsformation
+25H1124|Stein
+25H113|Huegel
+25H1131|Erdwall
+25H1131|Huegelsaum
+25H114|Huegel
+25H114|sanfte Huegel
+25H115|Grube
+25H115|Loch
+25H116|Erdbeben
+25H116|Erdrutsch
+25H119|Grotte
+25H119|Hoehle
+25H1191|Stalaktit
+25H12|Feld
+25H12|Tal
+25H121|Felsen
+25H121|Klippe
+25H13|Kueste
+25H13|Meer
+25H131|Felsen
+25H1311|Bucht
+25H1311|Fjord
+25H1311|Meeresarm
+25H1311|Meeresbucht
+25H1312|Riff
+25H1313|Kap (Vorgebirge)
+25H1314|Klippe
+25H132|Duenenkueste
+25H1321|Duene
+25H1321|Huegel
+25H1321|Sand
+25H133|Strand
+25H1331|Sandbank
+25H1332|Schlammzone (einer Kueste)
+25H1332|Watt
+25H1333|Eingang
+25H1333|Zugang
+25H134|Sumpf
+25H135|Haff
+25H135|Kiessandbank
+25H135|Lagune
+25H138|Kuestenanlagen
+25H1381|Schutz
+25H1381|Wellenbrecher
+25H13811|Damm
+25H13811|Mauer
+25H13811|Seedamm
+25H13812|Buhne
+25H13813|Mole
+25H14|Insel
+25H141|Halbinsel
+25H142|Isthmus
+25H15|Baum
+25H15|Wald
+25H15|gemäßigte Zone
+25H151|Blatt
+25H151|Laubwald
+25H152|Kiefer (Baum)
+25H152|Nadelwald
+25H152|Nadel
+25H153|Busch
+25H153|gemaessigte Zone
+25H154|Lichtung
+25H154|Lichtung im Wald
+25H154|gemaessigte Zone
+25H155|Kante
+25H155|Rand
+25H155|gemaessigte Zone
+25H156|Pfad
+25H156|Waldweg
+25H156|Weg
+25H156|gemaessigte Zone
+25H159|Feuer
+25H159|Waldbrand
+25H159|gemaessigte Zone
+25H16|Ebene
+25H16|Feld
+25H161|Gras
+25H161|Praerie
+25H161|Savanne
+25H17|Gras
+25H17|Wiese
+25H171|Alm
+25H171|Berg
+25H172|Bach
+25H172|Baum
+25H172|Blume
+25H172|Gefuehl
+25H172|Gehoer
+25H172|Geruch
+25H172|Geruchssinn
+25H172|Geschmack
+25H172|Gesichtssinn
+25H172|Quelle
+25H172|Sinne
+25H172|Vogel
+25H172|fuehlen
+25H172|hoeren
+25H172|locus amoenus
+25H18|Ackerbau
+25H18|Bestellung (Land)
+25H181|Niemandsland
+25H181|Oedland
+25H182|Acker
+25H182|Pflügen
+25H183|Acker
+25H183|Ernte
+25H183|gemäßigte Zone
+25H19|Polder
+25H19|Sumpf
+25H191|Marschland
+25H192|Urbarmachung (von Land)
+25H1921|Maschine
+25H1921|Pumpe
+25H1922|Naturwissenschaften
+25H1922|Technik
+25H1922|Technologie
+25H193|Drainage
+25H193|Land
+25H193|Urbarmachung (von Land)
+25H199|Ueberschwemmung
+25H1991|Deich
+25H1991|bersten
+25H1991|brechen
+25H1992|retten
+25H2|Gewaesser
+25H2|Seestueck
+25H21|Wasserlauf
+25H211|Quelle
+25H212|Bach
+25H213|Fluss
+25H2130|Fiumi
+25H2130|Flussgott
+25H2130|Personifikation
+25H2130|Ripa, Cesare
+25H2130(ADIGE)|Adige (Fluss)
+25H2130(ARNO)|Arno (Fluss)
+25H2130(CLAMOR)|Clamor (Fluss)
+25H2130(DANUBE)|Danubio
+25H2130(DANUBE)|Donau (Fluss)
+25H2130(GANGES)|Gange
+25H2130(GANGES)|Gange Fiume
+25H2130(GANGES)|Ganges (Fluss)
+25H2130(INDUS)|Indo
+25H2130(INDUS)|Indus (Fluss)
+25H2130(JORDAN)|Jordan (Fluss)
+25H2130(MEANDER)|Meander (Fluss)
+25H2130(MEANDER)|historia
+25H2130(NIGER)|Niger (Fluss)
+25H2130(NILE)|Nil (Fluss)
+25H2130(NILE)|Nilo
+25H2130(PO)|Po (Fluss)
+25H2130(RHINE)|Rhein (Fluss)
+25H2130(TIBER)|Tevere
+25H2130(TIBER)|Tiber (Fluss)
+25H2130(TIGRIS)|Tigre
+25H2130(TIGRIS)|Tigris (Fluss)
+25H2131|Strudel
+25H2131|Wasserstrudel
+25H214|See
+25H2141|Damm
+25H2142|Fenn
+25H2142|Sumpfland
+25H2143|Teich
+25H21431|Pfuetze
+25H215|Flussmuendung
+25H215|Muendung
+25H215|Seemuendung
+25H216|Kaskade
+25H216|Wasserfall
+25H2161|Stromschnellen
+25H217|Flussufer
+25H2171|Deich
+25H2172|Rieselfeld
+25H2172|Wiese
+25H21721|Ueberschwemmung
+25H2173|Pfad
+25H2173|Schlepweg
+25H2173|Weg
+25H219|Duerre
+25H219|Flussbett (ausgetrocknet)
+25H219|Trockenheit
+25H22|Kanal
+25H221|Schleuse
+25H221|Schleusenfall
+25H222|Damm
+25H223|Schleuse
+25H223|Wehr
+25H224|Graben
+25H225|Ingenieurskunst
+25H2251|Bagger
+25H2251|Maschine
+25H23|Marinemalerei
+25H23|Meer
+25H230|Mare
+25H230|Personifikation
+25H230|Ripa, Cesare
+25H231|Phaenomene
+25H2311|Welle
+25H23111|Brandung
+25H23111|Brecher
+25H23112|Bugwelle
+25H23112|Heckwelle
+25H23112|Wellengang
+25H2312|Gezeit(en)
+25H23121|Ebbe
+25H23121|Niedrigwasser
+25H23122|Flut (Gezeiten)
+25H23122|Hochwasser
+25H23123|Springflut
+25H23124|Welle
+25H2313|Phosphoreszenz
+25H2314|Stroemung
+25H23141|Strudel
+25H2315|Tiefsee
+25H2316|Boden
+25H2316|Meeresgrund
+25H2316|Ozean
+25H2321|Ozean
+25H23210|Personifikation
+25H2323|Bucht
+25H2323|Golf
+25H2324|Enge
+25H2324|Meerenge
+25H23241|Herkules
+25H23241|Pfeiler
+25H23241|Saeulen des Herkules
+25HH111|Gipfel
+25HH111|Schnee
+25HH112|Felsen
+25HH1121|Gipfel
+25HH1122|Abgrund
+25HH1122|Canyon
+25HH1122|Felsspalte
+25HH1122|Schlucht
+25HH1123|Felsformation
+25HH1124|Stein
+25HH113|Huegel
+25HH1131|Erdwall
+25HH1131|Huegelsaum
+25HH114|Huegel
+25HH114|sanfte Huegel
+25HH115|Grube
+25HH115|Loch
+25HH116|Erdbeben
+25HH116|Erdrutsch
+25HH119|Grotte
+25HH119|Hoehle
+25HH1191|Stalaktit
+25HH131|Felsen
+25HH1311|Bucht
+25HH1311|Fjord
+25HH1311|Meeresarm
+25HH1311|Meeresbucht
+25HH1312|Riff
+25HH1313|Kap (Vorgebirge)
+25HH1314|Klippe
+25HH132|Duenenkueste
+25HH1321|Duene
+25HH1321|Huegel
+25HH1321|Sand
+25HH133|Strand
+25HH1331|Sandbank
+25HH1332|Schlammzone (einer Kueste)
+25HH1332|Watt
+25HH1333|Eingang
+25HH1333|Zugang
+25HH134|Sumpf
+25HH135|Haff
+25HH135|Kiessandbank
+25HH135|Lagune
+25HH138|Kuestenanlagen
+25HH1381|Schutz
+25HH1381|Wellenbrecher
+25HH13811|Damm
+25HH13811|Mauer
+25HH13811|Seedamm
+25HH13812|Buhne
+25HH13813|Mole
+25HH141|Halbinsel
+25HH142|Isthmus
+25HH15|gemaessigte Zone
+25HH151|gemaessigte Zone
+25HH152|gemaessigte Zone
+25HH161|Gras
+25HH161|Praerie
+25HH161|Savanne
+25HH171|Alm
+25HH171|Berg
+25HH172|Bach
+25HH172|Baum
+25HH172|Blume
+25HH172|Gefuehl
+25HH172|Gehoer
+25HH172|Geruch
+25HH172|Geruchssinn
+25HH172|Geschmack
+25HH172|Gesichtssinn
+25HH172|Quelle
+25HH172|Sinne
+25HH172|Vogel
+25HH172|fuehlen
+25HH172|hoeren
+25HH172|locus amoenus
+25HH181|Niemandsland
+25HH181|Oedland
+25HH1921|Maschine
+25HH1921|Pumpe
+25HH1922|Naturwissenschaften
+25HH1922|Technik
+25HH1922|Technologie
+25HH1991|Deich
+25HH1991|bersten
+25HH1991|brechen
+25HH1992|retten
+25HH2130(ADIGE)|Adige (Fluss)
+25HH2130(ARNO)|Arno (Fluss)
+25HH2130(CLAMOR)|Clamor (Fluss)
+25HH2130(DANUBE)|Danubio
+25HH2130(DANUBE)|Donau (Fluss)
+25HH2130(GANGES)|Gange
+25HH2130(GANGES)|Gange Fiume
+25HH2130(GANGES)|Ganges (Fluss)
+25HH2130(INDUS)|Indo
+25HH2130(INDUS)|Indus (Fluss)
+25HH2130(JORDAN)|Jordan (Fluss)
+25HH2130(MEANDER)|Meander (Fluss)
+25HH2130(MEANDER)|historia
+25HH2130(NIGER)|Niger (Fluss)
+25HH2130(NILE)|Nil (Fluss)
+25HH2130(NILE)|Nilo
+25HH2130(PO)|Po (Fluss)
+25HH2130(RHINE)|Rhein (Fluss)
+25HH2130(TIBER)|Tevere
+25HH2130(TIBER)|Tiber (Fluss)
+25HH2130(TIGRIS)|Tigre
+25HH2130(TIGRIS)|Tigris (Fluss)
+25HH21431|Pfuetze
+25HH21721|Ueberschwemmung
+25HH2251|Bagger
+25HH2251|Maschine
+25HH23111|Brandung
+25HH23111|Brecher
+25HH23112|Bugwelle
+25HH23112|Heckwelle
+25HH23112|Wellengang
+25HH23121|Ebbe
+25HH23121|Niedrigwasser
+25HH23122|Flut (Gezeiten)
+25HH23122|Hochwasser
+25HH23123|Springflut
+25HH23124|Welle
+25HH2321|Ozean
+25HH2323|Bucht
+25HH2323|Golf
+25HH2324|Enge
+25HH2324|Meerenge
+25I|Landschaft
+25I1|Idealstadt
+25I1|Stadt
+25I1|Vedute
+25I11|Stadt gruenden
+25I111|Stadtgruender
+25I12|Panorama
+25I12|Silhouette
+25I13|Garten
+25I13|Park
+25I13|oeffentlicher Park
+25I14|Strasse
+25I14|oeffentliche Strasse
+25I1411|Gasse
+25I1411|Weg
+25I1412|Durchgang
+25I1412|Passage
+25I1413|Treppe
+25I142|Boulevard
+25I142|Esplanade
+25I142|Prachtstrasse
+25I142|Promenade
+25I143|Kai
+25I144|Platz
+25I144|Zirkus
+25I144|zentraler Platz
+25I145|Kanal
+25I1451|Bruecke
+25I1451|Fluss
+25I14511|Gebaeude
+25I14511|Geschaeft
+25I14511|Laden
+25I146|Stadtmauer
+25I1461|Stadttor
+25I15|schmuecken
+25I151|Brunnen
+25I151|Quelle
+25I152|Denkmal
+25I152|Monument
+25I152|Statue
+25I153|Nadel (Architektur)
+25I153|Obelisk
+25I154|Fries
+25I154|Pfeiler
+25I154|Triumphsaeule
+25I154|spiralfoermig umlaufender Fries
+25I155|Turm
+25I155|Uhrturm
+25I16|Toilette
+25I16|öffentliche Bedürfnisanstalt
+25I16|WC
+25I17|unterirdisch
+25I171|Abwasserkanal
+25I18|Peripherie
+25I18|Stadtrand
+25I18|Umgebung
+25I19|Metropole
+25I2|Dorf
+25I21|Stadt gruenden
+25I22|Panorama
+25I22|Silhouette
+25I24|Strasse
+25I24|oeffentliche Strasse
+25I2411|Gasse
+25I2411|Weg
+25I242|Boulevard
+25I242|Prachtstrasse
+25I244|Platz
+25I244|zentraler Platz
+25I245|Kanal
+25I2451|Bruecke
+25I2451|Fluss
+25I246|Stadtmauer
+25I2461|Stadttor
+25I25|schmuecken
+25I251|Brunnen
+25I251|Quelle
+25I28|Peripherie
+25I28|Umgebung
+25I3|Bauernhof
+25I3|Haus
+25I41|Muehle
+25I41|Windmuehle
+25I42|Muehle
+25I42|Wassermuehle
+25I43|Fabrik
+25I5|Burg
+25I5|Schloss
+25I5|Turm
+25I6|Aquaedukt
+25I6|Bruecke
+25I6|Viadukt
+25I7|Denkmal
+25I7|Monument
+25I71|Menhir
+25I8|Friedhof
+25I8|Spielplatz
+25I9|Ruine
+25II1|Idealstadt
+25II1|Stadt
+25II1|Vedute
+25II1411|Gasse
+25II1411|Weg
+25II1412|Durchgang
+25II1412|Passage
+25II1413|Treppe
+25II1451|Bruecke
+25II1451|Fluss
+25II14511|Gebaeude
+25II14511|Geschaeft
+25II14511|Laden
+25II16|oeffentliche Beduerfnisanstalt
+25II2|Dorf
+25II242|Boulevard
+25II242|Prachtstrasse
+25II244|Platz
+25II244|zentraler Platz
+25II245|Kanal
+25II246|Stadtmauer
+25II2461|Stadttor
+25II3|Bauernhof
+25II3|Haus
+25II5|Burg
+25II5|Schloss
+25II5|Turm
+25II6|Aquaedukt
+25II6|Bruecke
+25II6|Viadukt
+25II7|Denkmal
+25II7|Monument
+25II8|Friedhof
+25II8|Spielplatz
+25II9|Ruine
+25K|Landschaft
+25K|ideale Landschaft
+25K1|subtropische Landschaft
+25K1|tropische Landschaft
+25K11|Berg
+25K12|Schlucht
+25K121|Feld
+25K121|Tal
+25K13|Kueste
+25K13|Meer
+25K14|Insel
+25K141|Koralle
+25K142|Koralle
+25K142|Riff
+25K15|Dschungel
+25K16|Wueste
+25K161|Oase
+25K162|Duerre
+25K162|Flussbett (ausgetrocknet)
+25K162|Trockenheit
+25K162|Trockental
+25K162|Wadi
+25K17|Feld
+25K17|Steppe
+25K18|Ackerbau
+25K18|Bestellung (Land)
+25K181|Reis
+25K181|Reis-Paddy
+25K181|Sawah
+25K182|Plantage
+25K19|Sumpf
+25K2|Eis(-decke, -schicht)
+25K2|Polargebiete
+25K2|Schnee
+25K21|Berg
+25K211|Gletscher
+25K22|Schlucht
+25K221|Feld
+25K221|Tal
+25K23|Kueste
+25K24|Insel
+25K241|Eisberg
+25K25|Tundra
+25K3|exotisch
+25K3|idealer Exotismus
+25KK1|subtropische Landschaft
+25KK1|tropische Landschaft
+25KK2|Eis(-decke, -schicht)
+25KK2|Polargebiete
+25KK2|Schnee
+25KK21|Berg
+25KK211|Gletscher
+25KK22|Schlucht
+25KK221|Feld
+25KK221|Tal
+25KK23|Kueste
+25KK24|Insel
+25KK241|Eisberg
+25KK25|Tundra
+25KK3|exotisch
+25KK3|idealer Exotismus
+25L|Allegorie
+25L|Stadt
+25L|Symbol
+25L(...)0|Patron
+25L(...)0|Patronin
+25L(...)0|Personifikation
+25L(...)0|Stadtpatron
+25L(...)0|Stadtpatronin
+25L(...)1|Stadtsymbol
+25L(...)11|Krone
+25L(...)11|Stadtkrone
+25L(ROME)|Rom
+25L(ROME)0|Patron
+25L(ROME)0|Patronin
+25L(ROME)0|Personifikation
+25L(ROME)0|Stadtpatron
+25L(ROME)0|Stadtpatronin
+25L(ROME)1|Stadtsymbol
+25L(ROME)11|Krone
+25L(ROME)11|Stadtkrone
+25L0|Patron
+25L0|Patronin
+25L0|Personifikation
+25L0|Stadtpatron
+25L0|Stadtpatronin
+25L1|Stadtsymbol
+25L11|Krone
+25L11|Stadtkrone
+25M|Weltwunder
+25M|Wunder
+25M|sieben
+25M1|Aegypten
+25M1|Pyramide
+25M2|Babylon
+25M2|Garten
+25M2|Semiramis (Koenigin)
+25M2|haengende Gaerten
+25M3|Diana von Ephesus
+25M3|Ephesus
+25M3|Tempel
+25M4|Jupiter
+25M4|Phidias
+25M4|Statue
+25M5|Halikarnassus
+25M5|Mausoleum
+25M6|Koloss
+25M6|Rhodos
+25M7|Alexandria
+25M7|Leuchtturm
+25M7|Pharos
+25N|Fiktion
+25N|Land
+25N(ATLANTIS)|Atlantis
+25N1|Schlaraffenland
+26|Phaenomene
+26|Wetter
+26|meteoritische Phaenomene
+26A|Wolke
+26A11|Cirrus
+26A11|Federwolke
+26A12|Cirrostratus
+26A12|Schleierwolke
+26A21|Cirrocumulus
+26A21|Schaefchenwolken
+26A22|Altocumulus
+26A23|Altostratus
+26A23|Schichtwolke
+26A31|Haufenschichtwolke
+26A31|Stratocumulus
+26A32|Nimbus (Regenwolke)
+26A32|Regenwolke
+26A4|Luft
+26A4|Stroemung
+26A4|erheben (sich)
+26A41|Cumulus
+26A41|Haufenwolke
+26A41|Schoenwetterwolke
+26A41|gutes Wetter
+26A42|Cumulonimbus
+26A42|Gewitterwolke
+26A5|Dunst
+26A5|Nebel
+26A51|Schichtwolke
+26A51|Stratus
+26B|Regen
+26B0|Pioggia
+26B0|Ripa, Cesare
+26B1|Nebel
+26B1|dichter Nebel
+26B1|feiner Nebel
+26B2|Regenbogen
+26B20|Iride
+26B20|Ripa, Cesare
+26B3|Tau
+26B30|Ripa, Cesare
+26B30|Rugiada
+26B4|Regenguß
+26B9|Duerre
+26B9|Trockenheit
+26C0|Natur
+26C0|Phaenomene
+26C0|Ripa, Cesare
+26C0|Wetter
+26C0|Wind
+26C0|meteoritische Phaenomene
+26C0|venti
+26C1|Natur
+26C1|Phaenomene
+26C1|Wetter
+26C1|Wind
+26C1|meteoritische Phaenomene
+26C11|Richtung
+26C11|vier
+26C111|Nordwind
+26C112|Ostwind
+26C113|Suedwind
+26C114|Westwind
+26C12|Richtung
+26C12|acht
+26C121|Boreas
+26C121|Nordwind
+26C121|Septentrionarius
+26C122|Caecias
+26C122|Nordostwind
+26C123|Ostwind
+26C123|Subsolanus
+26C124|Euro
+26C124|Eurus
+26C124|Ripa, Cesare
+26C124|Suedostwind
+26C124|Volturnus
+26C125|Notus
+26C125|Suedwind
+26C126|Africus
+26C126|Suedwestwind
+26C127|Westwind
+26C127|Zephyrus
+26C128|Caurus
+26C128|Iapyx
+26C128|Nordwestwind
+26C13|Richtung
+26C13|sechzehn
+26C1311|Nordwind
+26C1312|Nordnordostwind
+26C1313|Nordostwind
+26C1314|Ostnordostwind
+26C1315|Ostwind
+26C1316|Ostsuedostwind
+26C1317|Suedostwind
+26C1318|Suedsuedostwind
+26C1321|Suedwind
+26C1322|Suedsuedwestwind
+26C1323|Suedwestwind
+26C1324|Westsuedwestwind
+26C1325|Westwind
+26C1326|Westnordwestwind
+26C1327|Nordwestwind
+26C1328|Nordnordwestwind
+26C2|Natur
+26C2|Phaenomene
+26C2|Staerke
+26C2|Wetter
+26C2|Wind
+26C2|Windstaerke
+26C2|meteoritische Phaenomene
+26C21|Marineausdruck
+26C22|Beaufort
+26C22|Skala
+26C3|Natur
+26C3|Phaenomene
+26C3|Sturm
+26C3|Wetter
+26C3|Wind
+26C3|meteoritische Phaenomene
+26C32|Seesturm
+26C33|Sand
+26C33|Sandsturm
+26C34|Schnee
+26C34|Schneesturm
+26C35|Wirbelwind
+26C35|Zyklon
+26C352|Seesturm
+26C4|Fahne
+26C4|Natur
+26C4|Phaenomene
+26C4|Wetter
+26C4|Wetterfahne
+26C4|Wind
+26C4|meteoritische Phaenomene
+26C41|Hahn
+26C41|Wetterhahn
+26C42|Luftsack
+26C5|Barometer
+26C5|Natur
+26C5|Phänomene
+26C5|Wetter
+26C5|Wind
+26C5|meteoritische Phänomene
+26C6|blasen
+26C6|Backe
+26C6|Gesicht
+26C6|Natur
+26C6|Phänomene
+26C6|Wetter
+26C6|Wind
+26C6|meteoritische Phänomene
+26C9|Mangel
+26C9|Natur
+26C9|Phaenomene
+26C9|Wetter
+26C9|Wind
+26C9|meteoritische Phaenomene
+26C9|ruhig
+26D|Frost
+26D|frieren
+26D1|Schnee
+26D11|Lawine
+26D111|Schutz
+26D2|Hagel
+26D3|Glatteis
+26D3|Rauhreif
+26D4|Eis(-decke, -schicht)
+26D4|Phänomene
+26D4|meteoritische Phänomene
+26D41|Phaenomene
+26D41|Treibeis
+26D41|meteoritische Phaenomene
+26D42|Eiszapfen
+26D42|Phaenomene
+26D42|meteoritische Phaenomene
+26D5|Winter
+26D9|Tauen
+26E|Gewitter
+26E|Sturm
+26E|Unwetter
+26E1|Donner
+26E2|Blitz(strahl)
+26E2|Donner(-schlag, -keil)
+26E2|Elektrizitaet
+26E21|Blitzableiter
+26E22|Unfall
+26E3|Elektrizitaet
+26E31|Elmsfeuer
+26E31|Erasmus von Formio (Heiliger)
+26E31|Feuer
+26E32|Licht
+26E32|Nordlichter
+26E32|aurora borealis
+26F|gut und schlecht
+26F1|gutes Wetter
+26F10|Ripa, Cesare
+26F10|salubrità o purità dell'aria
+26F11|Hitzewelle
+26F111|Sonnenstich
+26F2|schlechtes Wetter
+26F21|kalt
+26F22|Winter
+26F22|pruina
+26F3|Phänomene
+26F3|Schaden
+26F3|Wirbelwind
+26F3|Wirkung
+26F3|Zyklon
+26F3|meteoritische Phänomene
+26G|Fata Morgana
+26G|Luftspiegelung
+26G|optische Taeuschung
+29|Phantasie
+29|Surrealia
+29|surrealistische Objekte
+29A|Imitation
+29A|Tier
+29A1|Verkehrte Welt
+29A1|Welt
+29A1|die auf den Kopf gestellte Welt
+29A1|monde bestourné
+29A1|mundus inversus
+29A1|umgekehrt
+29A2|Baum
+29A2|Pflanzen
+29B|Imitation
+29B|Pflanze
+29C|Puppe
+29C|beseelen
+29D|Form
+29D|Holz
+29D|Stein
+29D|Wolke
+29D|hoelzern
+29D|interpretieren
+29D|natuerliche Form
+3|Mensch
+31|Biologie
+31A|Akt
+31A|Frau
+31A|Koerper
+31A|Leib
+31A|Mann
+31A|Ripa, Cesare
+31A|corpo humano
+31A|menschliche Figur
+31A|nackt
+31A1|Kanon
+31A1|Proportionen
+31A11|stehen
+31A12|Arm (mit ausgestrecktem)
+31A12|Arm (mit erhobenem)
+31A12|Bein
+31A12|Kreis
+31A12|Quadrat
+31A12|gespreizt
+31A12|seitlich
+31A14|akademischer Akt
+31A14|ideale Proportionen
+31A140|Allegorie
+31A140|bellezza feminile
+31A141|Genitalien
+31A141|bedecken
+31A19|Plato
+31A19|animal bipes implume
+31A19|gerupftes Huhn
+31A19|homo Platonis
+31A2|Anatomie
+31A21|Knochen
+31A21|Skelett
+31A211|Schaedel
+31A2111|Kiefer (Knochen)
+31A2112|Zahn
+31A21121|Vorderzahn
+31A21122|Backenzahn
+31A212|Brust(korb)
+31A2121|Rippe
+31A2122|Rueckgrat
+31A2122|Wirbelsaeule
+31A2123|Schluesselbein
+31A2124|Schulterblatt
+31A2124|Skapula
+31A213|Becken (anatomisch)
+31A213|Pelvis
+31A214|Arm
+31A2141|humerus
+31A2142|Elle
+31A2142|Radius
+31A2143|Hand
+31A2143|Handgelenk
+31A2143|Mittelhand
+31A2144|Finger
+31A2144|Fingerknochen
+31A2144|Knoechelbeine
+31A215|Bein
+31A2151|Oberschenkelknochen
+31A2152|Schienbein
+31A2152|Wadenbein
+31A2153|Fuss
+31A2153|Fusswurzel
+31A2153|Mittelfuss
+31A2154|Knoechelbeine
+31A2154|Zeh
+31A2154|Zehenknochen
+31A22|Glied (Koerper)
+31A221|Kopf
+31A2211|Form
+31A2211|Gesicht
+31A2211|Maske
+31A22111(...)|Backe
+31A22111(...)|Wange
+31A22111(LIPS)|Lippe
+31A22111(NOSE)|Nase
+31A2212|Auge
+31A22121|imago omnia videntis
+31A2213|Ohr
+31A2214|Mund
+31A22141|Zunge
+31A22151|Gehirn
+31A22152|Hoehle
+31A22152|Nase
+31A22152|Nasenhoehle
+31A22153|Hoehle
+31A22153|Kehle
+31A22153|Mund
+31A222|Brust(kasten)
+31A222|Bueste
+31A222|Busen
+31A2221|Herz
+31A22210|Herzsymbolik
+31A22210|Symbol
+31A222101|Liebe
+31A2222|Bronchien
+31A2222|Lunge
+31A22221|atmen
+31A22222|nach Luft schnappen
+31A22229|ersticken
+31A2223|Brust
+31A22231|Brustwarze
+31A22231|Zitze
+31A22232|Milch
+31A2224|Schulter
+31A2225|Ruecken
+31A2226|Torso
+31A223|Organ
+31A223|Unterleib
+31A22311|Nabel
+31A22312|Huefte
+31A2232|Drüse
+31A2232|Glied (Körper)
+31A2232|Körper
+31A22321|Druese
+31A22321|Glied (Koerper)
+31A22321|Koerper
+31A22321|Leber
+31A22322|Blase
+31A22322|Druese
+31A22322|Gallenblase
+31A22322|Glied (Koerper)
+31A22322|Koerper
+31A22323|Druese
+31A22323|Glied (Koerper)
+31A22323|Koerper
+31A22323|Milz
+31A22324|Niere
+31A2233|Magen
+31A22331|Speiseroehre
+31A2234|Eingeweide
+31A2235|Blase
+31A2236|Genitalien
+31A22361|maennlich
+31A223611|Hoden
+31A223611|Testikel
+31A223612|Phallus
+31A2236121|phallos
+31A223613|Same(n)
+31A223613|Sperma
+31A22362|Glied (Körper)
+31A22362|Körper
+31A22362|weiblich
+31A223621|Gebaermutter
+31A223621|Glied (Koerper)
+31A223621|Koerper
+31A223621|Uterus
+31A2236211|Foetus
+31A223622|Eierstock
+31A223622|Glied (Koerper)
+31A223622|Koerper
+31A223623|Glied (Koerper)
+31A223623|Koerper
+31A223623|Menstruation
+31A223624|Scheide
+31A223624|Vagina
+31A2237|Gesaess
+31A22371|Anus
+31A224|Arm
+31A2242|Ellenbogen
+31A2244|Handgelenk
+31A2245|Hand
+31A22451|Handabdruck
+31A22451|Spur
+31A22451|Zeichen
+31A2246|Finger
+31A22461|Daumen
+31A22462|Zeigefinger
+31A22463|Mittelfinger
+31A22464|Ringfinger
+31A22465|kleiner Finger
+31A2247|Fingernagel
+31A2247|Nagel (Finger-, Zehen-)
+31A225|Bein
+31A2251|Schenkel
+31A2252|Knie
+31A2254|Knoechel
+31A2255|Fuss
+31A22551|Ferse
+31A22552|Fussabdruck
+31A22552|Spur
+31A22552|Zeichen
+31A2256|Zeh
+31A2257|Nagel (Finger-, Zehen-)
+31A2257|Zehennagel
+31A2261|Blutgefaess-System
+31A2261|Blutkreislauf
+31A22611|Blut
+31A22612|Arterie
+31A22613|Vene
+31A2262|Haut
+31A22621|Haar
+31A22622|Koerperhaar
+31A22623|Schamhaar
+31A2263|Muskel
+31A2264|Sehne
+31A2265|Nerv
+31A23|Haltung
+31A231|Bein
+31A231|stehen
+31A2311|Kontrapost
+31A2311|Standbein und Spielbein
+31A2312|figura serpentinata
+31A2313|eins
+31A2319|Kopfstand
+31A232|lehnen
+31A2321|vorwaerts
+31A2322|rueckwaerts
+31A2323|seitlich
+31A233|knien
+31A2331|zwei
+31A234|hocken
+31A234|kauern
+31A2341|kauernde Figur
+31A235|sitzen
+31A2351|Boden
+31A2351|Erdboden
+31A2352|Sitz
+31A2353|Arm
+31A2353|Ellenbogen
+31A2353|Knie
+31A23531|Hand
+31A23531|Schenkel
+31A23531|ruhen
+31A2354|Schoss
+31A236|liegen
+31A2361|Ruecken
+31A2362|Gesicht
+31A2363|Seite
+31A2363|strecken
+31A2364|Arm
+31A2364|Ellenbogen
+31A2364|Seite
+31A2364|lehnen
+31A2365|Hand
+31A2365|Kopf
+31A2365|Ruecken
+31A2366|Gesicht
+31A2366|Hand
+31A2366|Kopf
+31A237|haengen
+31A2371|Arm
+31A23711|eins
+31A2372|Bein
+31A23721|eins
+31A23731|Haar
+31A23732|Zahn
+31A2391|beugen
+31A2391|buecken
+31A2391|neigen
+31A24|Haltung
+31A24|Kopf
+31A242|seitlich
+31A2421|links
+31A2422|rechts
+31A243|beugen
+31A243|rueckwaerts
+31A244|beugen
+31A244|beugen (sich herabbeugen)
+31A244|verbeugen (sich)
+31A244|vorwaerts
+31A245|links
+31A245|seitlich
+31A246|rechts
+31A246|seitlich
+31A247|Schulter
+31A247|schauen
+31A25|Arm
+31A25|Geste
+31A25|Haltung
+31A25|Hand
+31A2511|Arm (mit erhobenem)
+31A2511|aufwaerts
+31A25111|Finger (geschlossen)
+31A25112|gespreizt
+31A25113|Faust
+31A2512|Arm (mit ausgestrecktem)
+31A2512|vorwaerts
+31A2513|Arm (mit ausgestrecktem)
+31A2513|seitlich
+31A2514|rueckwaerts
+31A2515|abwaerts
+31A25161|Brust(kasten)
+31A251611|Brust
+31A251611|Busen
+31A251611|halten
+31A25162|Herz
+31A25163|Brust(kasten)
+31A25163|schlagen
+31A25164|Brust(kasten)
+31A25164|entbloessen
+31A25165|Unterleib
+31A25165|falten
+31A2517|beugen
+31A25171|Ruecken
+31A25172|Kopf
+31A2518|Huefte
+31A25191|Tasche
+31A25192|Aermel
+31A25193|Brust(kasten)
+31A25193|Gewand
+31A25193|Magen
+31A25193|Robe
+31A2521|gekreuzte Arme
+31A25211|Ruecken
+31A25212|Brust(kasten)
+31A2522|gefaltete Haende
+31A25221|Finger
+31A25221|beten
+31A25222|pressen
+31A25222|reiben
+31A25231|Finger
+31A2524|Finger
+31A2524|abzaehlen
+31A2524|zaehlen
+31A253|Gesicht
+31A253|Kopf
+31A2531|beugen
+31A25311|caput manui innixum
+31A25312|Ellenbogen
+31A25312|Knie
+31A25312|lehnen
+31A25313|Draperie
+31A25313|Schleier
+31A25313|bedecken
+31A2532|Bart
+31A2533|Stirn
+31A25331|Finger
+31A25331|Zeigefinger
+31A25331|zeigen
+31A25332|Finger
+31A25332|Hahnrei
+31A25332|Zeigefinger
+31A25332|kleiner Finger
+31A2534|Auge
+31A25341|schauen
+31A25342|Finger
+31A25342|gucken
+31A25343|reiben
+31A25344|Traene
+31A25344|wischen
+31A2535|Nase
+31A25351|halten
+31A2536|Körper
+31A2536|Mund
+31A25361|Finger
+31A25361|Koerper
+31A25361|pfeifen
+31A25362|ziehen
+31A2537|Körper
+31A2537|Ohr
+31A25371|Koerper
+31A25371|schroepfen
+31A25372|Koerper
+31A25372|kratzen
+31A254|beruehren
+31A254|greifen
+31A254|packen (greifen)
+31A25411|Arm in Arm
+31A25411|gehen
+31A25411|laufen
+31A2542|Auflegung der Haende
+31A2543|Hände umklammern
+31A2543|Handgelenk
+31A2543|Körper
+31A2543|berühren
+31A25431|Einigkeit
+31A25431|Gewerkschaft
+31A25431|Haende umklammern
+31A25431|Koerper
+31A25431|Kraft
+31A25431|Staerke
+31A25431|beruehren
+31A25431|drei
+31A25432|Haende umklammern
+31A25432|Koerper
+31A25432|beruehren
+31A25432|fuehren
+31A25433|Haende umklammern
+31A25433|Koerper
+31A25433|beruehren
+31A25433|immixtio manuum
+31A25434|Palme
+31A25434|schlagen
+31A2544|Kopf
+31A25441|Haar
+31A25442|Nacken
+31A25443|Kehle
+31A2545|Schulter
+31A2546|Bein
+31A25461|Fuss
+31A255|Finger
+31A25511|Finger (geschlossen)
+31A25512|gespreizt
+31A25513|Faust
+31A2552|Handflaeche
+31A25521|aufwaerts
+31A25522|abwaerts
+31A2553|Daumen
+31A25531|aufwaerts
+31A25532|abwaerts
+31A2554|Daumen
+31A25541|Zeigefinger
+31A25541|streiche(l)n
+31A25542|Mittelfinger
+31A25542|Zeigefinger
+31A25543|schnippen
+31A2555|Zeigefinger
+31A25551|aufwaerts
+31A25552|vorwaerts
+31A25552|zeigen
+31A25553|herbeiwinken
+31A2556|Mittelfinger
+31A2556|Zeigefinger
+31A25561|Finger (geschlossen)
+31A25561|aufwaerts
+31A25562|V-Zeichen
+31A25562|Zeichen
+31A25562|aufwaerts
+31A25562|gespreizt
+31A256|Gestensprache
+31A256|Sprache
+31A26|Bein
+31A2611|gerades Bein
+31A26111|lehnen
+31A26111|stehen
+31A26112|Zeh
+31A26112|Zehenspitze
+31A26112|lehnen
+31A26112|stehen
+31A26113|liegen
+31A26113|sitzen
+31A26114|gespreizt
+31A26114|lehnen
+31A26114|liegen
+31A26114|sitzen
+31A26114|stehen
+31A26115|erhobene Beine
+31A26115|liegen
+31A26115|strecken
+31A2612|beugen
+31A26121|stehen
+31A26122|sitzen
+31A26123|hocken
+31A26124|knien
+31A26126|gespreizt
+31A26126|rittlings
+31A26126|stehen
+31A26127|gespreizt
+31A26127|rittlings
+31A26127|sitzen
+31A26128|erhobene Beine
+31A26128|liegen
+31A26128|sitzen
+31A26129|Schneider
+31A26129|sitzen
+31A26129|ueberkreuzte Beine
+31A261291|Buddha-Haltung
+31A261291|Lotos
+31A26211|gehen
+31A26211|laufen
+31A26212|Knie
+31A26212|Sprung vorwaerts machen
+31A26212|beugen
+31A26213|beugen
+31A26213|knien
+31A2622|beugen
+31A2622|rueckwaerts
+31A2622|vorwaerts
+31A2623|eins
+31A2623|stehen
+31A2623|vorwaerts
+31A26231|gerades Bein
+31A262311|Hahnentritt
+31A262311|Schritt
+31A26232|beugen
+31A262322|Hand
+31A262322|halten
+31A2624|eins
+31A2624|seitlich
+31A2624|stehen
+31A26241|gerades Bein
+31A26242|beugen
+31A2625|eins
+31A2625|rueckwaerts
+31A2625|stehen
+31A26251|gerades Bein
+31A26252|beugen
+31A262522|Hand
+31A262522|halten
+31A2626|gerades Bein
+31A2626|liegen
+31A2626|sitzen
+31A2626|strecken
+31A2627|lehnen
+31A2627|liegen
+31A2627|sitzen
+31A2627|stehen
+31A2627|ueberkreuzte Beine
+31A2628|Fuss
+31A2628|Knie
+31A2628|sitzen
+31A27|Bewegung
+31A271|vorwaerts
+31A2711|Körper
+31A2711|gehen
+31A2711|laufen
+31A2711|vorwärts
+31A27111|Koerper
+31A27111|rennen
+31A27111|schreiten
+31A27111|vorwaerts
+31A27112|Koerper
+31A27112|rennen
+31A27112|vorwaerts
+31A27113|spazieren
+31A2712|kriechen
+31A27121|Knie
+31A27121|gehen
+31A27121|laufen
+31A2713|schwanken
+31A2713|taumeln
+31A2713|torkeln
+31A2714|huepfen
+31A2715|rollen
+31A2715|walzen
+31A2716|Purzelbaum
+31A2716|Salto
+31A2717|Hand
+31A2717|Kopfstand
+31A2717|gehen
+31A2717|laufen
+31A2719|rueckwaerts
+31A272|abwaerts
+31A272|aufwaerts
+31A2721|springen
+31A2722|ziehen
+31A2723|Treppe
+31A2723|klettern
+31A2724|springen
+31A2725|Treppe
+31A2725|herabsteigen
+31A2725|hinabsteigen
+31A2726|mit Fuessen treten
+31A2726|stampfen
+31A2726|trampeln
+31A2731|fallen
+31A2732|gleiten
+31A2732|rutschen
+31A27321|fallen
+31A27321|stolpern
+31A2733|tragen
+31A27331|stuetzen
+31A27331|unterstuetzen
+31A2734|zerren
+31A2735|Körper
+31A2735|werfen (geworfen werden)
+31A2741|werfen
+31A27411|Körper
+31A27411|freilassen
+31A2742|erreichen
+31A2742|reichen
+31A2743|schlagen
+31A2744|treten
+31A2745|greifen
+31A2745|packen (greifen)
+31A2746|brechen
+31A2746|zerbrechen
+31A2747|hochziehen
+31A2747|ziehen
+31A2748|schieben
+31A27481|Kreis
+31A27481|Rad
+31A27481|drehen
+31A27481|rotieren
+31A2751|sich zusammenrollen
+31A2752|strecken
+31A2753|drehen
+31A2753|rotieren
+31A2753|winden (sich)
+31A2754|Arm
+31A2755|Bein
+31A2756|Bruecke (Koerperhaltung)
+31A2756|beugen
+31A2757|Purzelbaum
+31A2757|Salto
+31A2757|radschlagen
+31A276|Luft (in der)
+31A276|schweben
+31A2761|aufsteigen
+31A2762|fliegen
+31A27631|Wolke
+31A27631|sitzen
+31A27631|stehen
+31A2764|fallen
+31A2765|Purzelbaum
+31A2765|Salto
+31A2765|Salto mortale
+31A277|Gewaesser
+31A2771|waten
+31A2772|baden
+31A2773|schwimmen
+31A2774|treiben
+31A2775|tauchen
+31A2776|ertrinken
+31A2776|sinken
+31A2777|Aufhaengen
+31A2777|untertauchen
+31A2778|auftauchen
+31A2779|wandeln auf dem Wasser
+31A28|Schatten
+31A281|Teufel
+31A281|verkaufen
+31A2811|Abwesenheit
+31A282|folgen
+31A283|kämpfen
+31A3|Sinne
+31A3|fuenf
+31A30|sensi
+31A30|sensi, come si possono ...
+31A30|sentimenti del corpo
+31A31|Gesichtssinn
+31A31|Sehvermoegen
+31A31|schauen
+31A310|viso
+31A311|Brille
+31A311|Glas
+31A3111|Lorgnette
+31A3111|Monokel
+31A3112|Sonnenbrille
+31A312|Glas
+31A312|Vergroesserungsglas
+31A313|figura cuncta videntis
+31A314|ausspionieren
+31A3191|Augenbinde
+31A32|Gehoer
+31A32|hoeren
+31A320|udito
+31A321|Hoergeraet
+31A321|Hoerhilfe
+31A329|Horchen
+31A329|Lauschen
+31A329|belauschen
+31A33|Geruch
+31A33|Geruchssinn
+31A330|odorato
+31A331|Körper
+31A331|fünf
+31A34|Geschmack
+31A340|gusto
+31A341|Gegensatz
+31A341|gut und schlecht
+31A3411|guter Geschmack
+31A3412|Abneigung
+31A3412|Ekel
+31A3412|schlechter Geschmack
+31A342|Körper
+31A342|fünf
+31A342|süß
+31A3420|Allegorie
+31A3420|Symbol
+31A343|Salz
+31A344|sauer
+31A345|Körper
+31A345|bitter
+31A345|fünf
+31A3450|Allegorie
+31A3450|Symbol
+31A35|Gefuehl
+31A35|fuehlen
+31A350|tatto
+31A351|gutes Gefuehl
+31A352|schlechtes Gefuehl
+31A41|Entstellung
+31A41|Körper
+31A41|Krankheit
+31A41|behindert
+31A411|Auge
+31A411|Koerper
+31A4111|Blindheit
+31A41111|Matthaeus 15
+31A41111|fuehren
+31A41112|Krueppel
+31A41112|Lahmheit
+31A41112|fuehren
+31A41113|Schwein
+31A41113|schlagen
+31A4112|schielen
+31A4112|schielend
+31A4113|Grauer Star (Augenkrankheit)
+31A4114|Kurzsichtigkeit
+31A4114|Myopie
+31A4115|Weitsichtigkeit
+31A412|Koerper
+31A412|Taubheit
+31A4121|taubstumm
+31A413|Gesicht
+31A413|Koerper
+31A413|Kopf
+31A4131|Hasenscharte
+31A4131|Lippe
+31A414|Koerper
+31A414|Laehmung
+31A414|Paralyse
+31A415|Koerper
+31A415|Krueppel
+31A4151|Klumpfuss
+31A4152|Bein
+31A4152|Gliedmassen (kuenstliche)
+31A4152|Holzbein
+31A4153|Kruecke
+31A4154|Rollstuhl
+31A4155|Winkelband
+31A416|Koerper
+31A416|beugen
+31A416|gekruemmt
+31A417|Buckel
+31A417|Koerper
+31A418|Albino
+31A418|Koerper
+31A419|Verstümmelung
+31A4191|Abwesenheit
+31A4191|Arm
+31A42|Groesse
+31A42|Legende
+31A42|Mass
+31A42|Proportionen
+31A421|Koloss
+31A421|Riese
+31A421|gross
+31A422|Zwerg
+31A422|klein
+31A4221|Pygmaeen
+31A4222|Kobold
+31A4223|Grylloi
+31A423|Fiktion
+31A423|Kraft
+31A423|Staerke
+31A423(...)|Batman
+31A423(...)|Superman
+31A43|Mehrlingsgeburt
+31A44|Abnormitaet
+31A44|Gestalt
+31A44|Glied (Koerper)
+31A44|Monster
+31A44|Organ
+31A44|Ungeheuer
+31A441|Abwesenheit
+31A4411|Acephalia
+31A4411|Blemyae
+31A4411|Kopf
+31A4412|Bein
+31A4412|Sciapodes
+31A4412|Scopodes
+31A4413|Auge
+31A4414|Acheiroi
+31A4414|Hand
+31A442|Menge
+31A4421|Gesicht
+31A4421|drei
+31A4421|vultus trifrons
+31A44211|Kopf
+31A44211|caput triciput
+31A44211|signum triceps
+31A4422|Brust(kasten)
+31A4422|zwei
+31A4431|Auge
+31A4431|Schulter
+31A4431|oculi in humeris habentes
+31A444|Entstellung
+31A4441|Haar
+31A44411|Wilde Frau
+31A44411|Wilder Mann
+31A44412|Bart
+31A45|Gestalt
+31A45|Monster
+31A45|Tier
+31A45|Ungeheuer
+31A45|mostri
+31A4511|Kopf (Tier)
+31A45111|drei
+31A4512|Kopf
+31A4512(...)|Lamia
+31A452|Saeugetier
+31A4521|Haustier
+31A45211|Cynocephalus
+31A4522|Affe
+31A4523|Raubtier
+31A45231|Loewe
+31A45231|Sfinge
+31A45231|Sphinx
+31A45232|Leucrota
+31A45232|Manticora
+31A4524|Huftier
+31A4525|Ruesseltiere
+31A4526|Nagetier
+31A4527|Seeungeheuer
+31A4528|Flugsaeugetier
+31A453|Reine Pédauque
+31A453|Saba (Koenigin von)
+31A4531|Sirene
+31A454|Reptil
+31A4541|Eidechse
+31A4542|Schlange
+31A455|Amphibie
+31A456|Fisch
+31A4561|Meermann
+31A4561|Seejungfrau
+31A457|niederes Tier
+31A458|Fluegel
+31A4581|Fee
+31A4581|Nymphe
+31A4582|Elfe
+31A46|Krankheit
+31A461|Schmerz
+31A4611|Fieber
+31A46110|febre
+31A462|Körper
+31A462|Krankheit (ansteckende)
+31A462(...)|Koerper
+31A4621|Koerper
+31A4621|Pestseuche
+31A46210|Personifikation
+31A46210|peste overo pestilentia
+31A4622|Aussatz
+31A4622|Koerper
+31A4622|Lepra
+31A46221|Leprarassel
+31A46221|Rassel
+31A46222|Leprosorium
+31A46223|Leprakranke (Prozession von)
+31A46223|Prozession
+31A4623|Koerper
+31A4623(...)|Tollwut
+31A4623(...)|Typhus
+31A46230|Personifikation
+31A46230|contagione
+31A4624|Geschlechtskrankheit
+31A4624|Hautkrankheit
+31A4624|Koerper
+31A4624(SYPHILIS)|Syphilis
+31A46241|jucken
+31A46242|Beule
+31A4625|Koerper
+31A4625|Wassersucht
+31A4626|aids
+31A4629|Gift
+31A4629|Koerper
+31A4629(ERGOTISM)|Mutterkornvergiftung
+31A463|Glied (Koerper)
+31A4631|Knochen
+31A4631|Knochenbruch
+31A4631|brechen
+31A4632|Infektion
+31A4632|Wunde
+31A46321|Narbe
+31A4633|Kopf
+31A46331|Kopfschmerz
+31A46332|Erkaeltung
+31A463321|niesen
+31A463322|husten
+31A46333|Schmerz
+31A46333|Zahnarzt
+31A46333|Zahnschmerz(en)
+31A4634|Krebs
+31A4634|Tumor
+31A464|Gemuetskrankheit
+31A464|Verruecktheit
+31A4641|Besessenheit
+31A4642|Manie
+31A4642|Obsession
+31A46421|epidemisch
+31A464211|Veitstanz
+31A464211|Vitus (Heiliger)
+31A464211|tanzen
+31A469|Gesundheit
+31A4690|sanitas
+31A4690|sanità
+31A5|Hygiene
+31A5|Körper
+31A5|pflegen
+31A5|sorgen
+31A51|Koerper
+31A51|Toilette (machen)
+31A511|Körper
+31A511|Spiegel
+31A5111|Betrachtung
+31A5111|Bewunderung
+31A5111|Kontemplation
+31A5111|Schönheit
+31A51111|Reflexion
+31A511111|Verzerrung
+31A5112|Koerper
+31A5112|Magie
+31A5112|Schoenheit
+31A512|Juwelen
+31A512|Schmuck
+31A512|schmuecken
+31A513|Make-up
+31A5141|Wohlgeruch
+31A5141(...)|Ambra
+31A5141(...)|Lavendel
+31A5141(...)|Moschus
+31A5142|Parfuem
+31A5142(...)|Eau de Cologne
+31A5143|Salbe
+31A5144|Puder
+31A5145|Werkzeug
+31A51451|Moschuskugel
+31A51451|Parfuemkugel
+31A51452|Flasche
+31A51452|Parfuemflasche
+31A51453|Gefaess
+31A51453|Salbe
+31A51454|Dose
+31A51454|Puderdose
+31A51455|Lippenstift
+31A515|Gesicht
+31A515|Koerpermalerei
+31A5151|Körper
+31A5151|Körpermalerei
+31A5151|Tätowierung
+31A52|Fuss
+31A52|Hand
+31A52|Koerper
+31A521|Manikuere
+31A522|Pedikuere
+31A523|Dorn
+31A523|Dornauszieher
+31A523|Spinario
+31A523|herausziehen
+31A53|Haar
+31A53|Koerper
+31A53|frisieren
+31A5311|Buerste
+31A5311|Haarbuerste
+31A5311|Kamm
+31A5311|Werkzeug
+31A532|Haare schneiden
+31A5321|Friseur
+31A533|Frisur
+31A533|Mode
+31A533(...)|Körper
+31A5331|Peruecke
+31A5332|kahl
+31A5332|rasieren
+31A5332|scheren
+31A5333|Tonsur
+31A5333|rasieren
+31A5333|scheren
+31A5339|kahl
+31A534|Bart
+31A5341|Schnurrbart
+31A5342|Backenbart
+31A5342|Körper
+31A5349|Schnurrbart
+31A5349|Verkleidung
+31A5349|falscher Bart
+31A5349|falscher Schnurrbart
+31A535|Barbier
+31A535|Friseur
+31A535|Geschaeft
+31A535|Laden
+31A5351|Rasiermesser
+31A5352|Becken
+31A5352|Schale
+31A5353|rasieren
+31A5353|scheren
+31A539|Haarschopf (zerzauster)
+31A54|Koerper
+31A54|baden
+31A54|waschen
+31A541|waschen (Haende)
+31A542|Gesicht
+31A542|Kopf
+31A5421|Zahn
+31A5421|buersten
+31A54211|Zahnbuerste
+31A54212|Zahnstocher
+31A543|waschen (Fuesse)
+31A544|waschen (Fuesse)
+31A545|Bad
+31A545|Körper
+31A5451|Badehaus
+31A5451|Koerper
+31A5451|Schwimmbad
+31A5451|oeffentliche Baeder
+31A5452|Koerper
+31A5452|Sitzbad
+31A5453|Dusche
+31A5453|Koerper
+31A5454|Koerper
+31A5454|Wanne
+31A5455|Dampf
+31A5455|Hammam
+31A5459|Koerper
+31A5459|après le bain
+31A5459|trocknen
+31A546|Toilettenartikel
+31A5461|Seife
+31A54611|Blase
+31A5462|Buerste
+31A5462|Schwamm
+31A5463|Tuch
+31A5464|Bademantel
+31A5464|Gewand
+31A5464|Kleid
+31A5464|Morgenrock
+31A5464|Robe
+31A549|trocknen
+31A55|Koerper
+31A551|ankleiden
+31A5511|Korsett
+31A5511|binden
+31A5511|schnueren
+31A552|entkleiden
+31A553|Sandale
+31A553|Schuh
+31A5531|Strumpf
+31A5531|ankleiden
+31A5531|entkleiden
+31A554|ankleiden
+31A5541|entkleiden
+31A559|ankleiden
+31A559|entkleiden
+31A5591|Negligé
+31A56|Diener
+31A56|Dienstmaedchen
+31A56|Koerper
+31A56|Toilette (machen)
+31A56|Untergebener
+31A57|Insekt
+31A57|Koerper
+31A57|wegnehmen
+31A571|Fuersorge
+31A571|Kind
+31A571|Laus
+31A571|Mutter
+31A571|Mutter und Kind
+31A571|entlausen
+31A571|muetterliche Fuersorge
+31A572|Floh
+31A572|Untersuchung
+31A572|inspizieren
+31A58|Bodybuilding
+31A58|Koerper
+31A59|Unsauberkeit
+31A6|Beduerfnis
+31A61|Harn
+31A61|Urin
+31A611|Nachttopf
+31A611|Topf
+31A62|Beürfnis
+31A62|Körper
+31A62|Stuhlgang
+31A621|Beduerfnis
+31A621|Blaehung
+31A621|Koerper
+31A622|Beduerfnis
+31A622|Koerper
+31A622|Verdauung
+31A6220|digestione
+31A623|Exkrement
+31A63|Erbrechen
+31A631|Schluckauf
+31A64|Nase putzen
+31A64|blasen
+31A65|spucken
+31A651|Speichel
+31A66|Schweiss
+31A66|schwitzen
+31A7|Geschlecht
+31A7|Körper
+31A71|Koerper
+31A71|maennlich
+31A710|Maennlichkeit
+31A710|Symbol
+31A711|Maennlichkeit
+31A712|Bodybuilding
+31A712|Kampf
+31A712|Schoenheit
+31A712|Wettkampf
+31A7121|Mister Universum
+31A7121|Universum
+31A719|Muttersoehnchen
+31A719|Weichling
+31A7191|Aufgabe
+31A7191|Emanzipation
+31A72|Koerper
+31A72|weiblich
+31A720|Symbol
+31A720|Weiblichkeit
+31A721|Weiblichkeit
+31A7211|Jungfraeulichkeit
+31A7211|Keuschheit
+31A72110|verginità
+31A722|Kampf
+31A722|Schoenheit
+31A722|Wettkampf
+31A7221|Frau Welt
+31A7221|Welt
+31A729|Mannfrau
+31A729|Virago
+31A73|Hermaphrodit
+31A731|Alchemie
+31A731|Rebis
+31A74|Transgender
+31A74|Transsexuell
+31A8|Maschine
+31A9|Brauchtum
+31A9|heilen
+31AA1|Kanon
+31AA1|Proportionen
+31AA11|stehen
+31AA12|Arm (mit ausgestrecktem)
+31AA12|Arm (mit erhobenem)
+31AA12|Bein
+31AA12|Kreis
+31AA12|Quadrat
+31AA12|gespreizt
+31AA12|seitlich
+31AA14|akademischer Akt
+31AA14|ideale Proportionen
+31AA140|Allegorie
+31AA140|bellezza feminile
+31AA141|Genitalien
+31AA141|bedecken
+31AA19|Plato
+31AA19|animal bipes implume
+31AA19|gerupftes Huhn
+31AA19|homo Platonis
+31AA2|Anatomie
+31AA21|Knochen
+31AA21|Skelett
+31AA22|Glied (Koerper)
+31AA22111(NOSE)|Nase
+31AA22141|Zunge
+31AA22210|Herzsymbolik
+31AA22210|Symbol
+31AA222101|Liebe
+31AA22231|Brustwarze
+31AA22231|Zitze
+31AA22232|Milch
+31AA22311|Nabel
+31AA22312|Huefte
+31AA2232|Druese
+31AA2232|Glied (Koerper)
+31AA2232|Koerper
+31AA22321|Leber
+31AA22322|Blase
+31AA22322|Gallenblase
+31AA22323|Milz
+31AA22331|Speiseroehre
+31AA22361|maennlich
+31AA223611|Hoden
+31AA223611|Testikel
+31AA223612|Phallus
+31AA2236121|phallos
+31AA223613|Same(n)
+31AA223613|Sperma
+31AA22362|weiblich
+31AA223621|Gebaermutter
+31AA223621|Uterus
+31AA223622|Eierstock
+31AA223623|Menstruation
+31AA22371|Anus
+31AA22461|Daumen
+31AA22462|Zeigefinger
+31AA22463|Mittelfinger
+31AA22464|Ringfinger
+31AA22465|kleiner Finger
+31AA22551|Ferse
+31AA22552|Fussabdruck
+31AA22552|Spur
+31AA22552|Zeichen
+31AA22611|Blut
+31AA22612|Arterie
+31AA22613|Vene
+31AA22621|Haar
+31AA22622|Koerperhaar
+31AA22623|Schamhaar
+31AA23|Haltung
+31AA231|Bein
+31AA231|stehen
+31AA2311|Kontrapost
+31AA2311|Standbein und Spielbein
+31AA2312|figura serpentinata
+31AA2313|eins
+31AA2319|Kopfstand
+31AA232|lehnen
+31AA2321|vorwaerts
+31AA2322|rueckwaerts
+31AA2323|seitlich
+31AA233|knien
+31AA234|hocken
+31AA234|kauern
+31AA235|sitzen
+31AA2351|Boden
+31AA2351|Erdboden
+31AA2352|Sitz
+31AA2353|Arm
+31AA2353|Ellenbogen
+31AA2353|Knie
+31AA2354|Schoss
+31AA236|liegen
+31AA2361|Ruecken
+31AA2362|Gesicht
+31AA2363|Seite
+31AA2363|strecken
+31AA2364|Arm
+31AA2364|Ellenbogen
+31AA2364|Seite
+31AA2364|lehnen
+31AA2365|Hand
+31AA2365|Kopf
+31AA2365|Ruecken
+31AA2366|Gesicht
+31AA2366|Hand
+31AA2366|Kopf
+31AA237|haengen
+31AA23711|eins
+31AA23721|eins
+31AA23731|Haar
+31AA23732|Zahn
+31AA24|Haltung
+31AA24|Kopf
+31AA25|Arm
+31AA25|Geste
+31AA25|Haltung
+31AA25|Hand
+31AA2511|Arm (mit erhobenem)
+31AA2511|aufwaerts
+31AA2512|Arm (mit ausgestrecktem)
+31AA2512|vorwaerts
+31AA2513|Arm (mit ausgestrecktem)
+31AA2513|seitlich
+31AA2514|rueckwaerts
+31AA2515|abwaerts
+31AA25161|Brust(kasten)
+31AA25162|Herz
+31AA25163|Brust(kasten)
+31AA25163|schlagen
+31AA25164|Brust(kasten)
+31AA25164|entbloessen
+31AA2517|beugen
+31AA25171|Ruecken
+31AA25172|Kopf
+31AA2518|Huefte
+31AA25191|Tasche
+31AA25192|Aermel
+31AA25193|Brust(kasten)
+31AA25193|Gewand
+31AA25193|Magen
+31AA25193|Robe
+31AA25311|caput manui innixum
+31AA25312|Ellenbogen
+31AA25312|Knie
+31AA25312|lehnen
+31AA25313|Draperie
+31AA25313|Schleier
+31AA25313|bedecken
+31AA25331|Finger
+31AA25331|Zeigefinger
+31AA25331|zeigen
+31AA25332|Finger
+31AA25332|Hahnrei
+31AA25332|Zeigefinger
+31AA25332|kleiner Finger
+31AA2534|Körper
+31AA25341|Koerper
+31AA25341|schauen
+31AA25342|Finger
+31AA25342|Koerper
+31AA25342|gucken
+31AA25343|Koerper
+31AA25343|reiben
+31AA25344|Koerper
+31AA25344|Traene
+31AA25344|wischen
+31AA25351|halten
+31AA25361|Finger
+31AA25361|Koerper
+31AA25361|pfeifen
+31AA25371|Koerper
+31AA25371|schroepfen
+31AA25372|Koerper
+31AA25372|kratzen
+31AA25411|Arm in Arm
+31AA25411|gehen
+31AA25411|laufen
+31AA2543|Haende umklammern
+31AA2543|Koerper
+31AA2543|beruehren
+31AA25441|Haar
+31AA25442|Nacken
+31AA25443|Kehle
+31AA25461|Fuss
+31AA25521|aufwaerts
+31AA25522|abwaerts
+31AA25531|aufwaerts
+31AA25532|abwaerts
+31AA25541|Zeigefinger
+31AA25541|streiche(l)n
+31AA25542|Mittelfinger
+31AA25542|Zeigefinger
+31AA25543|schnippen
+31AA25551|aufwaerts
+31AA25552|vorwaerts
+31AA25552|zeigen
+31AA25553|herbeiwinken
+31AA25561|Finger (geschlossen)
+31AA25561|aufwaerts
+31AA25562|V-Zeichen
+31AA25562|Zeichen
+31AA25562|aufwaerts
+31AA25562|gespreizt
+31AA26|Bein
+31AA26111|lehnen
+31AA26111|stehen
+31AA26112|Zeh
+31AA26112|Zehenspitze
+31AA26112|lehnen
+31AA26112|stehen
+31AA26113|liegen
+31AA26113|sitzen
+31AA26114|gespreizt
+31AA26114|lehnen
+31AA26114|liegen
+31AA26114|sitzen
+31AA26114|stehen
+31AA26115|erhobene Beine
+31AA26115|liegen
+31AA26115|strecken
+31AA26121|stehen
+31AA26122|sitzen
+31AA26123|hocken
+31AA26124|knien
+31AA26126|gespreizt
+31AA26126|rittlings
+31AA26126|stehen
+31AA26127|gespreizt
+31AA26127|rittlings
+31AA26127|sitzen
+31AA26128|erhobene Beine
+31AA26128|liegen
+31AA26128|sitzen
+31AA26129|Schneider
+31AA26129|sitzen
+31AA26129|ueberkreuzte Beine
+31AA261291|Buddha-Haltung
+31AA261291|Lotos
+31AA26231|gerades Bein
+31AA26232|beugen
+31AA26241|gerades Bein
+31AA26242|beugen
+31AA27|Bewegung
+31AA271|vorwaerts
+31AA2711|gehen
+31AA2711|laufen
+31AA2712|kriechen
+31AA27121|Knie
+31AA27121|gehen
+31AA27121|laufen
+31AA2713|schwanken
+31AA2713|taumeln
+31AA2713|torkeln
+31AA2714|huepfen
+31AA2715|rollen
+31AA2715|walzen
+31AA2716|Purzelbaum
+31AA2716|Salto
+31AA2717|Hand
+31AA2717|Kopfstand
+31AA2717|gehen
+31AA2717|laufen
+31AA2719|rueckwaerts
+31AA272|abwaerts
+31AA272|aufwaerts
+31AA2721|springen
+31AA2722|ziehen
+31AA2723|Treppe
+31AA2723|klettern
+31AA2724|springen
+31AA2725|Treppe
+31AA2725|herabsteigen
+31AA2725|hinabsteigen
+31AA2726|mit Fuessen treten
+31AA2726|stampfen
+31AA2726|trampeln
+31AA2731|fallen
+31AA2732|gleiten
+31AA2732|rutschen
+31AA27321|fallen
+31AA27321|stolpern
+31AA2733|tragen
+31AA27331|stuetzen
+31AA27331|unterstuetzen
+31AA2734|zerren
+31AA2735|werfen (geworfen werden)
+31AA2741|werfen
+31AA27411|Koerper
+31AA2742|erreichen
+31AA2742|reichen
+31AA2743|schlagen
+31AA2744|treten
+31AA2745|greifen
+31AA2745|packen (greifen)
+31AA2746|brechen
+31AA2746|zerbrechen
+31AA2747|hochziehen
+31AA2747|ziehen
+31AA2748|schieben
+31AA2751|sich zusammenrollen
+31AA2752|strecken
+31AA2753|drehen
+31AA2753|rotieren
+31AA2753|winden (sich)
+31AA2754|Arm
+31AA2755|Bein
+31AA2756|Bruecke (Koerperhaltung)
+31AA2756|beugen
+31AA2757|Purzelbaum
+31AA2757|Salto
+31AA2757|radschlagen
+31AA276|Luft (in der)
+31AA276|schweben
+31AA2761|aufsteigen
+31AA2762|fliegen
+31AA27631|Wolke
+31AA27631|sitzen
+31AA27631|stehen
+31AA2764|fallen
+31AA2765|Purzelbaum
+31AA2765|Salto
+31AA2765|Salto mortale
+31AA277|Gewaesser
+31AA2771|waten
+31AA2772|baden
+31AA2773|schwimmen
+31AA2774|treiben
+31AA2775|tauchen
+31AA2776|ertrinken
+31AA2776|sinken
+31AA2777|Aufhaengen
+31AA2777|untertauchen
+31AA2778|auftauchen
+31AA2779|wandeln auf dem Wasser
+31AA28|Schatten
+31AA281|Teufel
+31AA281|verkaufen
+31AA2811|Abwesenheit
+31AA282|folgen
+31AA3|Sinne
+31AA3|fuenf
+31AA30|sensi
+31AA30|sensi, come si possono ...
+31AA30|sentimenti del corpo
+31AA31|Gesichtssinn
+31AA31|Sehvermoegen
+31AA31|schauen
+31AA3111|Lorgnette
+31AA3111|Monokel
+31AA3112|Sonnenbrille
+31AA3191|Augenbinde
+31AA32|Gehoer
+31AA32|hoeren
+31AA320|udito
+31AA321|Hoergeraet
+31AA321|Hoerhilfe
+31AA329|Horchen
+31AA329|Lauschen
+31AA329|belauschen
+31AA33|Geruch
+31AA33|Geruchssinn
+31AA330|odorato
+31AA34|Geschmack
+31AA340|gusto
+31AA341|Gegensatz
+31AA341|gut und schlecht
+31AA342|suess
+31AA343|Salz
+31AA344|sauer
+31AA345|bitter
+31AA35|Gefuehl
+31AA35|fuehlen
+31AA41|Entstellung
+31AA41|Krankheit
+31AA41|behindert
+31AA4111|Blindheit
+31AA4112|schielen
+31AA4112|schielend
+31AA4113|Grauer Star (Augenkrankheit)
+31AA4114|Kurzsichtigkeit
+31AA4114|Myopie
+31AA4115|Weitsichtigkeit
+31AA4121|taubstumm
+31AA4151|Klumpfuss
+31AA4152|Bein
+31AA4152|Gliedmassen (kuenstliche)
+31AA4152|Holzbein
+31AA4153|Kruecke
+31AA4154|Rollstuhl
+31AA4155|Winkelband
+31AA419|Koerper
+31AA419|Verstuemmelung
+31AA42|Groesse
+31AA42|Legende
+31AA42|Mass
+31AA42|Proportionen
+31AA43|Mehrlingsgeburt
+31AA44|Abnormitaet
+31AA44|Gestalt
+31AA44|Glied (Koerper)
+31AA44|Monster
+31AA44|Organ
+31AA44|Ungeheuer
+31AA4411|Acephalia
+31AA4411|Blemyae
+31AA4411|Kopf
+31AA4412|Bein
+31AA4412|Sciapodes
+31AA4412|Scopodes
+31AA4413|Auge
+31AA4414|Acheiroi
+31AA4414|Hand
+31AA4421|Gesicht
+31AA4421|drei
+31AA4421|vultus trifrons
+31AA44211|Kopf
+31AA44211|caput triciput
+31AA44211|signum triceps
+31AA4422|Brust(kasten)
+31AA4422|zwei
+31AA4431|Auge
+31AA4431|Schulter
+31AA4431|oculi in humeris habentes
+31AA4441|Haar
+31AA45|Gestalt
+31AA45|Monster
+31AA45|Tier
+31AA45|Ungeheuer
+31AA45|mostri
+31AA45111|drei
+31AA45231|Loewe
+31AA45231|Sfinge
+31AA45231|Sphinx
+31AA45232|Leucrota
+31AA45232|Manticora
+31AA46|Krankheit
+31AA462(...)|Koerper
+31AA4621|Koerper
+31AA4621|Pestseuche
+31AA4622|Aussatz
+31AA4622|Koerper
+31AA4622|Lepra
+31AA4623|Koerper
+31AA4624|Geschlechtskrankheit
+31AA4624|Hautkrankheit
+31AA4624|Koerper
+31AA46241|jucken
+31AA46242|Beule
+31AA4625|Koerper
+31AA4625|Wassersucht
+31AA4626|Epidemie
+31AA4629|Gift
+31AA4629|Koerper
+31AA4629(ERGOTISM)|Mutterkornvergiftung
+31AA46321|Narbe
+31AA4690|sanitas
+31AA4690|sanità
+31AA5|Hygiene
+31AA5|pflegen
+31AA5|sorgen
+31AA51|Toilette (machen)
+31AA511|Koerper
+31AA511111|Verzerrung
+31AA5141|Wohlgeruch
+31AA5141(...)|Ambra
+31AA5141(...)|Lavendel
+31AA5141(...)|Moschus
+31AA5142|Parfuem
+31AA5142(...)|Eau de Cologne
+31AA5143|Salbe
+31AA5144|Puder
+31AA5145|Werkzeug
+31AA51451|Moschuskugel
+31AA51451|Parfuemkugel
+31AA51452|Flasche
+31AA51452|Parfuemflasche
+31AA51453|Gefaess
+31AA51453|Salbe
+31AA51454|Dose
+31AA51454|Puderdose
+31AA51455|Lippenstift
+31AA5151|Taetowierung
+31AA52|Fuss
+31AA52|Hand
+31AA53|Haar
+31AA53|frisieren
+31AA5311|Buerste
+31AA5311|Haarbuerste
+31AA5311|Kamm
+31AA5311|Werkzeug
+31AA5321|Friseur
+31AA5331|Peruecke
+31AA5332|kahl
+31AA5332|rasieren
+31AA5332|scheren
+31AA5333|Tonsur
+31AA5333|rasieren
+31AA5333|scheren
+31AA5339|kahl
+31AA5341|Schnurrbart
+31AA5342|Backenbart
+31AA5349|Schnurrbart
+31AA5349|Verkleidung
+31AA5349|falscher Bart
+31AA5349|falscher Schnurrbart
+31AA5351|Rasiermesser
+31AA5352|Becken
+31AA5352|Schale
+31AA5353|rasieren
+31AA5353|scheren
+31AA54|baden
+31AA54|waschen
+31AA545|Koerper
+31AA5451|Badehaus
+31AA5451|Schwimmbad
+31AA5451|oeffentliche Baeder
+31AA5452|Sitzbad
+31AA5453|Dusche
+31AA5454|Wanne
+31AA5459|après le bain
+31AA5459|trocknen
+31AA54611|Blase
+31AA5511|Korsett
+31AA5511|binden
+31AA5511|schnueren
+31AA56|Diener
+31AA56|Dienstmaedchen
+31AA56|Toilette (machen)
+31AA56|Untergebener
+31AA57|Insekt
+31AA57|wegnehmen
+31AA58|Bodybuilding
+31AA6|Beduerfnis
+31AA611|Nachttopf
+31AA611|Topf
+31AA62|Beduerfnis
+31AA62|Koerper
+31AA621|Blaehung
+31AA622|Verdauung
+31AA651|Speichel
+31AA8|Maschine
+31AA9|Brauchtum
+31AA9|heilen
+31B|Geist
+31B|Verstand
+31B0|Allegorie
+31B0|Emblem
+31B0|Symbol
+31B1|schlafen
+31B10|Ripa, Cesare
+31B10|sonno
+31B11|Bett
+31B12|Sessel
+31B12|Stuhl
+31B13|Boden
+31B13|Erdboden
+31B13|Fussboden
+31B14|gaehnen
+31B15|strecken
+31B161|Bett
+31B161|zurueckziehen (sich)
+31B162|Mittagsruhe
+31B162|Siesta
+31B17|erwachen
+31B171|Bett
+31B171|aufstehen
+31B18|Bewusstlosigkeit
+31B181|Ohnmacht
+31B19|ruhen
+31B2|Vision
+31B21|Ekstase
+31B3|Traum
+31B31|Alptraum
+31B32|Schlafwandeln
+31B33|prophezeien
+31B34|Traumdeutung
+31B34|erklaeren
+31B4|Hypnose
+31B4|Suggestion
+31B51|Trunkenheit
+31B52|Alkohol
+31B52|Trunkenheit
+31B520|Ripa, Cesare
+31B520|ubriachezza
+31B521|Trinker
+31B522|Bauer
+31B522|Faustkampf
+31B522|Gasthaus
+31B522|streiten
+31B53|Sucht
+31B531|Alkoholismus
+31B59|Abstinenz
+31B59|Enthaltsamkeit
+31B59|Nuechternheit
+31B59|Ripa, Cesare
+31B59|astinenza
+31B59|sobrietà
+31B6|Ausdruck
+31B62|Gesicht
+31B621|Auge
+31B621|schauen
+31B6211|aufwaerts
+31B6212|abwaerts
+31B6213|seitlich
+31B6214|weinen
+31B62141|Traene
+31B6215|Augenbraue
+31B6215|Falte
+31B6215|Runzel
+31B6215|Stirn
+31B6215|die Stirn runzeln
+31B6216|Augenbraue
+31B6216|Falte
+31B6216|Runzel
+31B6216|Stirn
+31B6216|erhobene Augenbraue
+31B6217|Auge (geschlossen)
+31B62171|zwinkern
+31B622|Nase
+31B622|Nasenloch
+31B6221|aufwaerts
+31B6222|Nase zuhalten
+31B6222|halten
+31B6223|offenes Nasenloch
+31B623|Mund
+31B6231|Lippe
+31B6231|pressen
+31B62311|kuessen
+31B62312|pfeifen
+31B62312|zischen
+31B62313|laecheln
+31B6232|offener Mund
+31B62321|lachen
+31B623210|Ripa, Cesare
+31B623210|riso
+31B62322|Grimassen schneiden
+31B62323|Zunge
+31B6233|offener Mund
+31B62331|Zahn
+31B6234|kauen
+31B62341|beissen
+31B6235|sprechen
+31B62350|Stimme
+31B62351|rufen
+31B62351|schreien
+31B62352|fluestern
+31B62359|Schweigen
+31B623591|Finger an den Lippen
+31B623591|Lippe
+31B623591|Ripa, Cesare
+31B623591|silentio
+31B623591|silentium
+31B623592|Maulkorb
+31B623592|binden
+31B623592|knebeln
+31B624|Backe
+31B624|Wange
+31B6241|blasen
+31B6242|Hohlwangen
+31B625|Stirn
+31B6251|Falte
+31B6251|Runzel
+31B626|Kopfhaut
+31B6261|Haar
+31B6261|Haare (zu Berge stehend)
+31B6262|Haar
+31B6262|herausziehen
+31B6263|Kopf
+31B6263|kratzen
+31B7|Weisheit
+31B71|Genie
+31B710|Ripa, Cesare
+31B710|genio
+31B8|Dummkopf
+31B8|Narr
+31B8|Toelpel
+31B81|Brauchtum
+31B81|Tölpel
+31B81|heilen
+31B811|Toelpel
+31B811|rasieren
+31B811|scheren
+31B812|Baecker
+31B812|Eeclo (Baecker von)
+31B812|Kohl
+31B812|Kopf
+31B812|Toelpel
+31B812|backen
+31B813|Toelpel
+31B813|reinigen
+31B814|Fluessigkeit
+31B814|Toelpel
+31B814|Trichter
+31B814|giessen
+31B9|Gegensatz
+31B9|Narr
+31B9|Weisheit
+31BB10|Ripa, Cesare
+31BB10|sonno
+31BB11|Bett
+31BB12|Sessel
+31BB12|Stuhl
+31BB13|Boden
+31BB13|Erdboden
+31BB13|Fussboden
+31BB14|gaehnen
+31BB15|strecken
+31BB161|Bett
+31BB161|zurueckziehen (sich)
+31BB162|Mittagsruhe
+31BB162|Siesta
+31BB17|erwachen
+31BB171|Bett
+31BB171|aufstehen
+31BB18|Bewusstlosigkeit
+31BB181|Ohnmacht
+31BB19|ruhen
+31C|Gegensatz
+31C|Geist
+31C|Koerper
+31C|Leib
+31C|Seele
+31D|Alter
+31D|Leben
+31D11|Kindheit (fruehe)
+31D111|Saeugling
+31D1111|Junge
+31D1111|Knabe
+31D1112|Maedchen
+31D112|Kind
+31D112|Kindheit (frühe)
+31D1120|Kindheit
+31D1120|Kindheit (fruehe)
+31D1121|Kindheit (fruehe)
+31D1121|Kleinkind
+31D11211|Junge
+31D11211|Knabe
+31D11212|Maedchen
+31D1122|Kindheit (fruehe)
+31D11221|Junge
+31D11221|Knabe
+31D112210|Kindheit
+31D112210|Knabenalter
+31D11222|Maedchen
+31D112220|Maedchenzeit
+31D1129|Alchemie
+31D1129|philosophisches Kind
+31D12|Jugendlicher
+31D120|Iuventus
+31D120|Jugend
+31D120|Ripa, Cesare
+31D120|adolescenza
+31D120|gioventù
+31D13|Maedchen
+31D13|jung
+31D130|Jungfraeulichkeit
+31D14|Erwachsener
+31D14|Mann
+31D140|Erwachsenenalter
+31D140|Maennlichkeit
+31D140|Mannesalter
+31D140|Muendigkeit
+31D140|Ripa, Cesare
+31D140|virilità
+31D15|Erwachsener
+31D15|Frau
+31D150|Erwachsenenalter
+31D150|Weiblichkeit
+31D16|Greis
+31D16|alter Mann
+31D160|Greisenalter
+31D160|Ripa, Cesare
+31D160|senectus
+31D160|vecchiezza
+31D161|beau vieillard
+31D161|vieillard
+31D162|haesslich
+31D17|Greisin
+31D17|alte Frau
+31D171|Schoenheit
+31D171|belle vieille
+31D171|vieille
+31D172|haesslich
+31D2(...)|Abschnitt
+31D2(...)|Epoche
+31D2(...)|Zeitabschnitt
+31D2(...)|drei
+31D2(...)|sieben
+31D2(...)|vier
+31D2(...)|zwoelf
+31D21|Treppe
+31D3|Dekade
+31D4|Geburtstag
+31D5|Gegensatz
+31D5|Jugend
+31D5|hohes Alter
+31D5|jung
+31D51|Kind
+31D52|Kind
+31D6|Verjüngung
+31D61|Brunnen
+31D61|Fontaine de Jouvence
+31D61|Jugend
+31D61|Jungbrunnen
+31D61|Quelle
+31D61|Verjuengung
+31D62|Feuer
+31D62|Verjuengung
+31D62|kochen
+31D7|hohes Alter
+31D71|Bart
+31D71|Kind
+31D71|Kindgreis
+31D8|Name
+31D81|Namenstag
+31D83|Pseudonym
+31D84|Spitzname
+31D90|Ripa, Cesare
+31D90|età in generale
+31D91|Langlebigkeit
+31D91|langes Leben
+31D910|Ripa, Cesare
+31D910|vita longa
+31D92|kurzes Leben
+31D920|Geschwindigkeit
+31D920|Ripa, Cesare
+31D920|velocità della vita humana
+31D920|vita breve
+31E|Tod
+31E1|sterbende Person
+31E11|klaeren
+31E111|Testament
+31E112|Versammlung
+31E112|Verwandte
+31E113|letzte Stunden
+31E113|muendliches Testament
+31E113|sprechen
+31E12|Totenbett
+31E121|Gegensatz
+31E121|Glaube
+31E122|Frieden
+31E122|Glueck
+31E1221|Euthanasie
+31E123|Furcht
+31E123|Todesangst
+31E123|kaempfen
+31E13|ars moriendi
+31E14|Alter
+31E141|Saeugling
+31E141|Totgeburt
+31E142|Kind
+31E143|Jugendlicher
+31E144|Erwachsener
+31E15|Himmel
+31E15|Himmelfahrt
+31E2|Ursache
+31E21|natuerlicher Tod
+31E211|hohes Alter
+31E212|Krankheit
+31E213|ploetzlicher Tod
+31E213|sudden death
+31E22|Unfall
+31E221|Gewässer
+31E2211|Gewaesser
+31E2211|ertrinken
+31E2212|Gewaesser
+31E2212|Leichnam
+31E222|Temperatur
+31E2221|Hitze
+31E22211|Feuer
+31E2222|kalt
+31E2231|Hunger
+31E2232|Durst
+31E2233|ersticken
+31E2234|Gift
+31E224|fallen
+31E225|fallen
+31E228|Natur
+31E23|Hinrichtung
+31E23|Misshandlung
+31E23|toeten
+31E231|Elemente
+31E2311|Gewaesser
+31E2311|Wasser
+31E23111|Augenbinde
+31E23111|Planke
+31E23111|Schiffsplanke (ins Meer treiben)
+31E23111|ertraenken
+31E23111|ertrinken
+31E231111|kielholen
+31E23112|Tropfen
+31E2312|Feuer
+31E23121|Pfahl
+31E23121|Scheiterhaufen
+31E231211|Bratrost
+31E23122|foltern
+31E231221|kochen
+31E23123|Elektrizitaet
+31E23123|Hinrichtung durch elektrischen Strom
+31E231231|Stuhl
+31E231231|elektrischer Stuhl
+31E2313|Erde
+31E23131|lebendig begraben
+31E23132|Mauer
+31E23132|Maurer
+31E23132|Steinmetz
+31E23132|Ziegel
+31E2314|Luft
+31E23141|ersticken
+31E23142|Erstickung
+31E23142|Gas
+31E23142|ersticken
+31E23143|Rauch
+31E232|Temperatur
+31E2321|Blei
+31E2321|Hitze
+31E2321|Kohle
+31E2321|kochen
+31E2321|schmelzen
+31E2322|kalt
+31E23221|Frost
+31E23221|erfrieren
+31E23221|frieren
+31E2331|Hunger
+31E23319|Ueberernaehrung
+31E23319|Zwang
+31E23319|ernaehren
+31E2332|Durst
+31E2333|Gift
+31E23331|Speise
+31E23332|Getraenk
+31E233321|Giftbecher
+31E23333|Biss
+31E23333|Stich
+31E23333|beissen
+31E233331|Schlange
+31E23335|Injektion
+31E234|Stich
+31E234|schlagen
+31E234|treten
+31E2341|werfen
+31E23411|Steinigung
+31E2342|Kopf
+31E23422|werfen
+31E23431|Geisselung
+31E2344|reiben
+31E2344|zerkratzen
+31E23451|Fass
+31E23451|Nagel
+31E2346|Waffe
+31E23461|Pfeil
+31E23461|schiessen
+31E23462|Lanze
+31E23462|Speer
+31E234631|Schwert
+31E234632|Dolch
+31E234632|Messer
+31E2347|Schusswaffen
+31E23471|Bombe
+31E23471|Handgranate
+31E23472|Fuesilierung
+31E23472|schiessen
+31E2348|Felsen
+31E2348|Grube
+31E2348|Klippe
+31E2348|fallen
+31E2348|werfen (geworfen werden)
+31E23481|Falle
+31E23481|Tuer
+31E235|foltern
+31E2351|strecken
+31E2352|beugen
+31E2353|binden
+31E2353|fesseln
+31E23531|Rad
+31E23531|raedern
+31E23531|zerbrechen
+31E23532|Fahrzeug
+31E23532|Pferd
+31E23532|Tier
+31E2354|erwuergen
+31E2354|strangulieren
+31E23541|plaetten
+31E23541|pressen
+31E23541|zerbrechen
+31E23541|zerquetschen
+31E2355|erhängen
+31E2355|töten
+31E2356|Kreuzigung
+31E2356|töten
+31E23561|toeten
+31E23562|toeten
+31E23562|umgekehrt
+31E23563|Andreaskreuz
+31E23563|toeten
+31E236|Verstuemmelung
+31E2361|Knochen
+31E2361|brechen
+31E2361|zerbrechen
+31E2362|Glied (Koerper)
+31E2362|in Stuecke reissen
+31E2362|in Stuecke schneiden
+31E2362|saegen
+31E23621|enthaupten
+31E236211|Guillotine
+31E236212|Leichnam
+31E236219|Kopf
+31E2362191|Schuessel
+31E2362191|Teller
+31E2362192|Pfahl
+31E2362192|Stange
+31E23622|Zunge
+31E23623|Eingeweide
+31E23625|Blindheit
+31E2363|schinden
+31E2364|Arterie
+31E2364|oeffnen
+31E2364|schneiden
+31E2365|Grube
+31E2365|werfen (geworfen werden)
+31E2365|wildes Tier
+31E237|Psychologie
+31E238|Selbstmord
+31E2381|Selbstaufopferung
+31E2382|Verzweiflung
+31E3|Leichnam
+31E31|Autopsie
+31E31|post mortem
+31E31|postum
+31E311|Feder
+31E311|Nase
+31E311|Spiegel
+31E311|atmen
+31E311|letzte Stunden
+31E32|Scheintod
+31E321|atmen
+31E321|kuenstliche Beatmung
+31E321|wiederbeleben
+31E33|verrotten
+31E331|Konservierung
+31E331|Natur
+31E331|bewahren
+31E3311|Bergarbeiter
+31E3311|Falun
+31E3312|Mumifizierung
+31E34|finden
+31E4|erwecken (von den Toten)
+31E5|Gegensatz
+31E5|Leben
+31E51|Leichnam
+31E51|Skelett
+31E51|Toten (die)
+31E51|Treffen
+31E51|drei
+31E51|reiten (zu Pferd)
+31E52|Arkadien
+31E52|Grab
+31E52|Hirte
+31E52|Schafhirte
+31E52|Tod (Personifikation)
+31E52|et in Arcadia ego
+31EE221|Gewaesser
+31EE222|Temperatur
+31EE224|fallen
+31EE225|fallen
+31EE228|Natur
+31EE231|Elemente
+31EE23111|Augenbinde
+31EE23111|Planke
+31EE23111|Schiffsplanke (ins Meer treiben)
+31EE23111|ertraenken
+31EE23111|ertrinken
+31EE23112|Tropfen
+31EE23121|Pfahl
+31EE23121|Scheiterhaufen
+31EE231211|Bratrost
+31EE23122|foltern
+31EE231221|kochen
+31EE23123|Elektrizitaet
+31EE23123|Hinrichtung durch elektrischen Strom
+31EE232|Temperatur
+31EE23319|Ueberernaehrung
+31EE23319|Zwang
+31EE23319|ernaehren
+31EE23331|Speise
+31EE23332|Getraenk
+31EE233321|Giftbecher
+31EE23333|Biss
+31EE23333|Stich
+31EE23333|beissen
+31EE233331|Schlange
+31EE23335|Injektion
+31EE234|Stich
+31EE234|schlagen
+31EE234|treten
+31EE23411|Steinigung
+31EE23422|werfen
+31EE23431|Geisselung
+31EE23451|Fass
+31EE23451|Nagel
+31EE23471|Bombe
+31EE23471|Handgranate
+31EE23472|Fuesilierung
+31EE23472|schiessen
+31EE23481|Falle
+31EE23481|Tuer
+31EE235|foltern
+31EE23531|Rad
+31EE23531|raedern
+31EE23531|zerbrechen
+31EE23532|Fahrzeug
+31EE23532|Pferd
+31EE23532|Tier
+31EE23541|plaetten
+31EE23541|pressen
+31EE23541|zerbrechen
+31EE23541|zerquetschen
+31EE2355|erhaengen
+31EE2355|toeten
+31EE2356|toeten
+31EE23562|umgekehrt
+31EE23563|Andreaskreuz
+31EE236|Verstuemmelung
+31EE237|Psychologie
+31EE238|Selbstmord
+31F|Tod (Personifikation)
+31F1|Symbol
+31F11|Totenschaedel
+31F111|Gefahr
+31F111|Zeichen
+31F12|Knochen
+31F2|Ripa, Cesare
+31F2|morte
+31F21|Kind
+31F22|Jugendlicher
+31F23|Mann
+31F24|Greis
+31F24|alter Mann
+31F25|Leichnam
+31F25|verrotten
+31F26|Skelett
+31F27|Teufel
+31F3|Totentanz
+31F3|tanzen
+31F3|ueberraschen
+31F31|Gruppe
+31F32|Paar
+31F33|Leben
+31F33|kaempfen
+31F331|Sieger
+31F34|Niederlage
+31G|Seele
+31G1|Leben
+31G2|sterbende Person
+31G3|Tod
+31G31|Totenbett
+31G31|menschliche Figur
+31G31|verlassen
+31G311|Engel
+31G311|Himmel
+31G311|tragen
+31G32|reisen
+31G321|Schiff
+31G321|Toten (die)
+31G322|Engel
+31G322|Himmel
+31G322|Psychopompos
+31G322|fuehren
+31G33|Richter
+31G331|wiegen (waegen)
+31G332|Buch
+31G332|oeffnen
+31G332|offenes Buch
+31G34|Ripa, Cesare
+31G34|Verdammter
+31G34|Verdammung
+31G34|anima damnata
+31G35|Engel
+31G35|Teufel
+31G35|kaempfen
+31G36|Schicksal
+31G361|Teufel
+31G361|tragen
+31G4|Ewigkeit
+31G4|Himmel
+31G4|Hoelle
+32A|Menschentypen
+32A|Typ(us)
+32A1|Ripa, Cesare
+32A1|Vier Temperamente
+32A1|complessione
+32A1|vier
+32A11|cholerisches Temperament
+32A110|Colerico (per il fuoco)
+32A110|Feuer
+32A12|sanguinisches Temperament
+32A120|Luft
+32A120|sanguigno (per l'aria)
+32A13|Faulheit
+32A13|phlegmatisches Temperament
+32A130|Wasser
+32A130|flemmatico (per l'acqua)
+32A14|Melancholie
+32A140|Erde
+32A140|malenconico (per la terra)
+32A140|malinconia
+32A141|Weltschmerz
+32A2|dick und duenn
+32A21|dick
+32A210|Ripa, Cesare
+32A210|grassezza
+32A211|Steatopygie
+32A22|duenn
+32A3|Optimist und Pessimist
+32A31|Optimist
+32A32|Pessimist
+32A41|Asket
+32A41|asketisch
+32A42|Feigheit
+32A42|Feigling
+32A43|Gefraessigkeit
+32A43|Schlemmer
+32A43|Schlemmerei
+32A43|Vielfrass
+32A43|Voellerei
+32A44|Geiz
+32A44|Geizhals
+32A44|Habgier
+32A45|Schmarotzer
+32A45|Schnorrer
+32A46|Faulenzer
+32A46|Faulheit
+32A5|Karikatur
+32A6|Kopf (Tier)
+32A6|Physiognomie
+32A61|Phrenologie
+32A62|Chirognomie
+32A7|Charakter
+32A8|Emotion
+32A8|Gefuehl
+32A8|Leidenschaft
+32B|Nationalitaet
+32B|Rasse
+32B1|Vorgeschichte
+32B11(...)|Neandertaler
+32B11(...)|Peking-Mensch
+32B12|Kultur
+32B12|Leben
+32B2|Geschichte
+32B2|untergegangen
+32B2(GAULS)|Gallier
+32B2(TEUTONS)|Germanen
+32B31|weiss
+32B311|Europaeer
+32B311(...)|Albaner
+32B311(...)|Belgier
+32B311(...)|Bulgaren
+32B311(...)|Daenen
+32B311(...)|Flamen
+32B311(...)|Franzose
+32B311(...)|Griechen
+32B311(...)|Iren
+32B311(...)|Italiener
+32B311(...)|Kroaten
+32B311(...)|Polen
+32B311(...)|Portugiesen
+32B311(...)|Rumaenen
+32B311(...)|Russen
+32B311(...)|Schotten
+32B311(...)|Schweden
+32B311(...)|Serben
+32B311(...)|Slawe
+32B311(...)|Slowaken
+32B311(...)|Tschechen
+32B311(...)|Ungarn
+32B311(...)|hollaendisch
+32B311(ENGLISHMEN)|Englaender
+32B311(GERMANS)|Deutsche
+32B311(SPANIARDS)|Spanier
+32B312|nicht-europaeische Voelker
+32B312(AMERICANS)|Amerikaner
+32B32|Afrikaner
+32B32(...)|Araber
+32B32(...)|Beduinen
+32B321|Neger
+32B321|Schwarzer
+32B321(...)|Bantus
+32B3211|Amerikaner
+32B33|Asiaten
+32B33(INDIANS)|Inder
+32B33(PERSIANS)|Perser
+32B33(TURKS)|Tuerken
+32B331|Mongolen
+32B3311|chinesisch
+32B3312|Japaner
+32B34|Amerikaner
+32B341|Eskimos
+32B342|Indianer
+32B342|Ureinwohner Amerikas
+32B343|Zentralamerika
+32B344|Suedamerikaner
+32B345|Karribik
+32B35|Australier
+32B35|ozeanisch
+32B36|Ureinwohner
+32B37|Pygmaeen
+32B37|Stamm
+32B37|Zwerg
+32B371|Afrikaner
+32B3711|Buschmaenner
+32B3712|Hottentotten
+32B372|Neuguinea (Einwohner von)
+32B381|Mulatte
+32B382|Mischling
+32B382|eurasisch
+32B383|Mestize
+32B383|Mischling
+32B39(...)|Lappen
+32C|Klassifikation
+32C|Rasse
+32C|Wissenschaft
+33|Beziehung
+33A|Freundlichkeit
+33A|nicht-aggressiv
+33A1|gruessen
+33A11|Hut
+33A11|Kopf
+33A11|entbloessen
+33A12|Haende schuetteln
+33A12|Hand
+33A12|dextrarum junctio
+33A13|Treffen
+33A131|vorstellen (jemanden)
+33A1311|Karte
+33A1311|Visitenkarte
+33A132|erkennen
+33A14|kuessen
+33A14|umarmen
+33A15|Hand
+33A15|Schulter
+33A2|Abschied nehmen
+33A2|abreisen
+33A2|weggehen
+33A21|Aufschub
+33A21|Verspaetung
+33A21|fragen
+33A21|verzoegern
+33A3|Gast
+33A3|Gesellschaft
+33A3|Vornehme Gesellschaft
+33A3|besuchen
+33A3|empfangen (jemanden)
+33A31|Tuer
+33A31|klopfen
+33A32|Glueckwunsch
+33A33|Beileid aussprechen
+33A34|Gruppe
+33A34|Redner
+33A34|ansprechen
+33A341|Geschichtenerzaehler
+33A341|erzaehlen
+33A341|hoeren
+33A35|Dialog
+33A35|Konversation
+33A35|Konversationsbild
+33A35|Unterhaltung
+33A350|Conversatione
+33A350|Ripa, Cesare
+33A39|Fest
+33A39|lockere Gesellschaft
+33A4|Geschenk
+33A4|tauschen
+33A41|bekommen
+33A49|ablehnen (Geschenk, Angebot)
+33A5|Freund
+33A5|Freundschaftsbild
+33A51|Freundschaft
+33A51|einseitig
+33A52|Hand
+33A52|Schulter
+33A53|Arm in Arm
+33A54|Stammbuch
+33A54|album amicorum
+33A58|Versoehnung
+33A59|Kumpan
+33A59|schlecht
+33A6|Gefaehrte
+33A6|retten
+33A61|Hilfe
+33A610|Ripa, Cesare
+33A610|ajuto
+33A610|soccorso
+33A62|befreien
+33A7|Nachbar
+33A71|Partner
+33A711|ungleich
+33A8|Doppelgaenger
+33A81|Double
+33A81|Ersatz
+33A81|Ersatzspieler
+33B|Aggression
+33B|Zorn
+33B1|streiten
+33B10|Ripa, Cesare
+33B10|lite
+33B11|Verspottung
+33B11|beleidigen
+33B11|hänseln
+33B11|necken
+33B11|spotten
+33B111|Daumen
+33B111|Finger
+33B111|Nase
+33B111|gespreizt
+33B111|haenseln
+33B111|lange Nase
+33B111|lange Nase machen
+33B12|anklagen
+33B13|Verleumdung
+33B14|drohen
+33B14|herausfordern
+33B2|Duell
+33B3|kämpfen
+33B31|Faustkampf
+33B31|kaempfen
+33B32|kaempfen
+33B32|treten
+33B33|Gesicht
+33B33|Ohrfeige
+33B33|schlagen
+33B4|entfuehren
+33B41|kidnappen
+33B5|Feind
+33B51|Gegner
+33B6|ermorden
+33B6|toeten
+33B60|Ripa, Cesare
+33B60|homicidio
+33B9|fliehen
+33B9|verfolgen
+33B90|Ripa, Cesare
+33B90|fuga
+33B90|fuga populare
+33B90|persecutione
+33B91|sich verstecken
+33B91|verstecken
+33C1|Einfluss
+33C1|Frau
+33C1|Weiberlisten
+33C1|femmes fatales
+33C1|schlechter Einfluss
+33C11|Aristoteles
+33C11|Campaspe
+33C11|Kurtisane
+33C11|Phyllis
+33C11|kriechen
+33C11|reiten
+33C11|tragen (auf dem Ruecken)
+33C12|Fenster
+33C12|Korb
+33C12|Verspottung
+33C12|Virgil
+33C12|hochziehen
+33C12|spotten
+33C121|Flamme
+33C121|Gesaess
+33C121|Kerze
+33C121|Rache
+33C121|anzuenden
+33C13|Alexander der Grosse
+33C13|Candace
+33C2|Liebende(r)
+33C21|Bewerber
+33C21|Freier
+33C21|werben um
+33C211|Liebe auf den ersten Blick
+33C2111|schauen
+33C2111|schlafen
+33C212|Verabredung
+33C2121|Brief
+33C213|Serenade
+33C214|Geschenk
+33C214|anbieten
+33C214|darbieten
+33C2141|Valentin (Heiliger)
+33C2141|Valentinstag
+33C215|Kranz
+33C215|kroenen
+33C216|Einsamkeit
+33C216|Sehnsucht
+33C217|Verborgenheit
+33C217|heimlich
+33C217|verbergen
+33C217|verstecken
+33C2171|finden
+33C218|erwachende Liebe
+33C219|unerwiderte Liebe
+33C219|verfuehren
+33C22|Treffen
+33C221|warten
+33C222|Eintritt
+33C222|Fenster
+33C222|aufsteigen
+33C222|klettern
+33C2221|Korb
+33C2221|hochziehen
+33C223|Treffpunkt
+33C223|verschliessen
+33C224|Baumstamm
+33C224|Herz
+33C224|Initiale
+33C224|Name
+33C224|schnitzen
+33C2241|Zeichen
+33C225|Abschied nehmen
+33C226|Unterbrechung
+33C226|stoeren
+33C226|ueberraschen
+33C2261|wachen
+33C2262|ausspionieren
+33C227|Heiratsvermittlung
+33C227|Kupplerin
+33C227|Verkupplung
+33C229|Korb geben
+33C229|unerwiderte Liebe
+33C229|vertreiben
+33C2291|Fenster
+33C2291|Nachttopf
+33C2291|Topf
+33C23|Paar
+33C231|Arm in Arm
+33C232|kuessen
+33C2321|Hand
+33C233|Symplegma
+33C233|umarmen
+33C234|liebkosen
+33C2340|Ripa, Cesare
+33C2340|carezze amatorie
+33C235|Ringkampf
+33C235|kaempfen
+33C235|ringen
+33C236|Reiberei
+33C236|Verstimmung
+33C236|schmollen
+33C236|streiten
+33C239|Ende
+33C29|Eifersucht
+33C29|Freund
+33C29|kritisieren
+33C31|einseitig
+33C31|unerwiderte Liebe
+33C31|werben um
+33C311|fliehen
+33C3111|Kleidung
+33C3111|Schuh
+33C3111|zuruecklassen
+33C312|abweisen
+33C312|verlassen
+33C3121|Einsamkeit
+33C313|anklagen
+33C314|fliehen
+33C32|auflauern
+33C32|nachschleichen
+33C32|unerwiderte Liebe
+33C32|verfolgen
+33C321|Bewerber
+33C321|Freier
+33C321|Ripa, Cesare
+33C321|Rock
+33C321|Wettbewerb
+33C321|rivalità
+33C3211|Hosen
+33C3211|Kampf um die Hose
+33C322|Baum
+33C322|Keule
+33C322|schuetteln
+33C3221|werfen
+33C323|Verlorene Liebesmueh
+33C323|intervenieren
+33C3231|Erfolg
+33C3231|Gewinner
+33C33|Wahl
+33C331|Bewerber
+33C331|Freier
+33C331|selektieren
+33C331|sieben (durch-)
+33C332|Augenbinde
+33C333|Jugend
+33C333|Reichtum
+33C34|Heiratslotterie
+33C34|Lotterie
+33C341|Computer
+33C341|Treffen
+33C4|Geschlechtsverkehr
+33C41|Paar
+33C411|Pornographie
+33C411|anstoessig
+33C411|obszoen
+33C412|Fellatio
+33C413|Cunnilingus
+33C42|Entjungferung
+33C42|Jungfraeulichkeit
+33C42|Keuschheit
+33C421|Symbol
+33C4211|Krug
+33C4211|Topf
+33C4211|cruche cassée
+33C4211|zerbrechen
+33C4212|Jungfräulichkeit
+33C4212|Vogelbauer
+33C4212|öffnen
+33C44|Frau
+33C44|gefallene Frau
+33C45|Kind
+33C451|Erwachsener
+33C451|Paedophilie
+33C46|Masturbation
+33C46|Onanie
+33C47|Gruppensex
+33C48|Bestialitaet
+33C48|Perversitaet
+33C48|Sodomie
+33C48|Tier
+33C48|sexuelle Perversitaet
+33C49|vergewaltigen
+33C5|Berufe
+33C5|Prostitution
+33C51|Bordell
+33C511|rauben
+33C512|vertreiben
+33C52|Hure
+33C521|Kurtisane
+33C5211|Korinth
+33C5211|Lais
+33C53|Heiratsvermittlung
+33C53|Verkupplung
+33C531|Kupplerin
+33C54|Madame
+33C55|Kuppler
+33C551|Zuhaelter
+33C56|Strasse
+33C56|Strich (auf den Strich gehen)
+33C56|anbieten (sich) (Prostitution)
+33C561|Fenster
+33C57|Handel
+33C57|Sklave
+33C57|Sklavenhandel mit Weissen
+33C571|Kind
+33C6|homosexuell
+33C6|lesbische Liebe
+33C61|Paederastie
+33C62|Sodomie
+33C71|Kastration
+33C71|Unvermoegen
+33C711|Eunuch
+33C72|Aphrodisiakum
+33C72|Droge
+33C72|Potenz
+33C721|Mittel
+33C721|bewahren
+33C729|Anaphrodisiakum
+33C8|Leidenschaft
+33C8|begehren
+33C81|Gegensatz
+33C811|Sinnlichkeit
+33C8110|Ripa, Cesare
+33C8110|libidine
+33C8110|voluttà
+33C812|Keuschheit
+33C8120|Ripa, Cesare
+33C8120|castitas
+33C8120|castità
+33C8120|pudicitia
+33C8120|vergogna honesta
+33C8121|Guertel
+33C8121|Keuschheitsguertel
+33C8122|Gottesurteil
+33C8122|Unschuldsprobe
+33C813|Keuschheit
+33C813|verteidigen
+33C82|Gegensatz
+33C82|himmlische Liebe
+33C82|irdische Liebe
+33C83|Gegensatz
+33C83|hoefische Liebe
+33C84|hoefische Liebe
+33C85|freie Liebe
+33C851|Phantasie
+33C851|Promiskuitaet
+33C86|Schuerzenjaeger
+33C86|Verfuehrer
+33C861|Don Juan
+33C861|Juan (Don)
+33C862|Blaubart
+33C87|ausspionieren
+33C87|gucken
+33C89|Perversitaet
+33C89|Skatologie
+33C89|sexuelle Perversitaet
+33C891|Sadismus
+33C8911|Flagellantismus
+33C8911|Geisselung
+33C8911|peitschen
+33C892|Masochismus
+33C893|Fetischismus
+33C9|Liebe (Personifikation)
+33C911|Frau Minne
+33C911|Minne
+33C9111|Pfeil
+33C9111|schiessen
+33C9112|Hof
+33C912|Moriskentanz
+33C912|tanzen
+33C92|Burg
+33C92|Schloss
+33C93|Fest
+33C93|Garten
+33C93|Hof
+33C93|fête galante
+33C931|ars amandi
+33C94|Cythera
+33C94|Ile de Cythèra
+33C941|Einschiffung
+33C942|Einschiffung
+33C95|Ripa, Cesare
+33C95|Ursprung
+33C95|origine d'amore
+33C951|Brunnen
+33C951|Quelle
+33C951|fons amoris
+33C96|Selbstaufopferung
+33C97|foltern
+33C97|quaelen
+33C971|unerwiderte Liebe
+33C99|Amor Domato
+33C99|Niederlage
+33C99|Ripa, Cesare
+33C99|zaehmen
+33CC3121|Einsamkeit
+33CC331|Bewerber
+33CC331|Freier
+33CC331|selektieren
+33CC331|sieben (durch-)
+33CC332|Augenbinde
+33CC333|Jugend
+33CC333|Reichtum
+33CC51|Bordell
+33CC511|rauben
+33CC512|vertreiben
+33CC52|Hure
+33CC5211|Korinth
+33CC5211|Lais
+33CC53|Heiratsvermittlung
+33CC53|Verkupplung
+33CC54|Madame
+33CC55|Kuppler
+33CC551|Zuhaelter
+33CC56|Strasse
+33CC56|Strich (auf den Strich gehen)
+33CC56|anbieten (sich) (Prostitution)
+33CC561|Fenster
+33CC57|Handel
+33CC57|Sklave
+33CC57|Sklavenhandel mit Weissen
+33CC571|Kind
+34|Berufe
+34|Tier
+34A1|Freundschaft
+34A1|liebkosen
+34A1|streicheln
+34A11|Haustier
+34A11|zaehmen
+34A111|Flügel
+34A111|Vogel
+34A111|beschneiden
+34A111|zähmen
+34A2|Pferd
+34A2|zaehmen
+34A21|Pferde abrichten
+34A21|Sattel
+34A21|Zaumzeug
+34A22|Schulung
+34A3|Hund
+34A3|Schulung
+34A31|Polizeihund
+34A32|Blindenhund
+34A33|Jagdhund
+34A34|Auffuehrung
+34A4|Auffuehrung
+34A4|Geld
+34A41|Baer
+34A42|Affe
+34A43|Meerschweinchen
+34A9|Misshandlung
+34A9|quaelen
+34B|Haustier
+34B1|im Hause
+34B1|innen
+34B11|Hund
+34B111|Halsband
+34B112|Knochen
+34B113|Wachhund
+34B114|ausfuehren (den Hund)
+34B12|Katze
+34B121|Maus
+34B13|Vogel
+34B131|Vogelbauer
+34B1311|leer
+34B132|Vogelbauer
+34B132|Voliere
+34B133|Schnur
+34B133|Seil
+34B133|Strick
+34B2|im Freien
+34B21|Gefluegel
+34B211|Teich
+34B22|Saeugetier
+34B23|Vogel
+34B231|Taube
+34B2311|Taubenschlag
+34B232|Gefluegel
+34B232|Hahn
+34B232|Henne
+34B232|Huhn
+34B232|Kueken
+34B2321|Huehnerstall
+34B233|Wasservogel
+34B2331|Schwan
+34B2332|Gans
+34B2333|Ente
+34B3|Amphibie
+34B31|Reptil
+34B31|Terrarium
+34B4|Fisch
+34B41|Aquarium
+34B411|Fischschale
+34B42|Fischteich
+34B42|Teich
+34C|Schutz
+34C1|fuettern
+34C11|Winter
+34C12|Duerre
+34C12|Trockenheit
+34C12|Wasser
+34C12|traenken
+34C2|beschirmen
+34C2|schuetzen
+34C21|Vogelschutz
+34C21|pflegen
+34C21|sorgen
+34C211|Nistkasten
+34C212|Starenkasten
+34C3|Nationalpark
+34C3|Park
+34C3|Reservat
+34C3|Wildreservat
+34C3|wildes Tier
+34C31|Zaun
+34C32|Gitter
+34C4|Misshandlung
+34C4|verteidigen
+34C41|Organisation
+34C5|Tierarzt
+34C5|Veterinaer
+34D|Kontrolle
+34D|Schaedlinge
+34D|Strahlen
+34D|Ungeziefer
+34D|schaedliches Tier
+34D1|Saeugetier
+34D11|Maus
+34D111|Falle
+34D111|Mausefalle
+34D12|Ratte
+34D121|Gift
+34D121|Rattengift
+34D121|verkaufen
+34D122|Rattenfaenger
+34D2|Vogel
+34D21|Vogelscheuche
+34D3|Insekt
+34D31|Fliege
+34D311|Fliegenklatsche
+34D312|Fliegenfaenger
+34D32|Moskito
+34D321|Netz
+34D321|Schirm (Schutz-)
+34D322|Rauch
+34D322|Schädlinge
+34D322|Topf
+34D322|brennen
+34D322|qualmender Topf
+34D322|schädliches Tier
+34D322|verbrennen
+34D51|chemisch
+34D51|spruehen
+34E|gefangenhalten
+34E1|wildes Tier
+34E11|Hoehle des Loewen
+34E11|Loewengrube
+34E12|Baer
+34E12|Grube
+34E2|Sammlung
+34E21|Zirkus
+34E22|Zoo
+34E221|Waerter
+34E3|Kette
+34E3|Seil
+34E3|binden
+34E3|fesseln
+34F|wildes Tier
+34F1|drohen
+34F11|kaempfendes Tier
+34F11|mit einem Tier kaempfen
+34F111|Loewe
+34F111|Ornament
+34F12|toeten (ein Tier)
+34F13|toetendes Tier
+34F14|Leichnam
+34F14|verschlingen
+34F2|Dreiviertel
+34F2|Erziehung
+34F2|Frau
+34F2|Geburt
+34F2|Geschichte
+34F2|Griechen
+34F2|Haltung
+34F2|Identitaet
+34F2|Jugend
+34F2|Kind
+34F2|Kindheit (fruehe)
+34F2|Kopf
+34F2|Mythologie
+34F2|Name
+34F2|Roemer
+34F2|Schulter
+34F2|Timoclea
+34F2|antike Geschichte
+34F2|historische Person
+34F2|klassische Antike
+34F21|Berufe
+34F21|Findelkind
+34F21|Mensch
+34F21|Tier
+34F21|pflegen
+34F21|sorgen
+34F21|wildes Tier
+34G|Verkleidung
+35|Arkadien
+35|Hirte
+35|Schafhirte
+35|laendlich
+36|Umwelt
+36A|Erhaltung
+36A|Konservierung
+36A|Schutz
+36A|Umweltschutz
+36A|bewahren
+36A1|environmental clean-up
+36A1|putzen
+36A1|reinigen
+36B|Umweltzerstoerung
+36B|Verderben
+36B|Vernichtung
+36B|Zerstoerung
+36B1|Umweltverschmutzung
+36B1|Vergiftung
+36B1|Verschmutzung
+36B11|Natur
+36B111|Luft
+36B111|Luftverschmutzung
+36B112|Wasser
+36B112|Wasserverschmutzung
+36B113|Boden
+36B113|Bodenverschmutzung

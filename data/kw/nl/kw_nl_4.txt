@@ -1,0 +1,9461 @@
+﻿4|beschaving
+4|cultuur
+4|maatschappij
+41|materiality
+41A|behuizing
+41A1|architectuur
+41A1|burgerlijke bouwkunde
+41A1|bouwwerk
+41A1|binnenland
+41A10|Edifitio overo un sito
+41A10|Ripa
+41A11|paleis
+41A111|hôtel (palace)
+41A111|palazzo
+41A12|kasteel
+41A121|vestingwerk
+41A121|huis
+41A13|warenhuis
+41A13|public building
+41A13|winkel
+41A14|stad
+41A14|huis
+41A141|row
+41A141|straat
+41A142|winkel
+41A143|Vrijstaand huis
+41A144|appartement huis
+41A144|flat-building
+41A15|wolkenkrabber
+41A16|huis
+41A16|rural housing
+41A161|landhuis
+41A162|villa
+41A163|huisje
+41A17|boerderij
+41A171|schuur
+41A18|cabine
+41A18|hut
+41A18|loge
+41A181|log-cabin
+41A182|Indian lodge
+41A182|Native Americans
+41A1821|wigwam
+41A191|tent
+41A1911|kamp
+41A1912|Native Americans
+41A1912|teepee
+41A1912|tepee
+41A1912|tipi
+41A192|caravan
+41A1921|kamp
+41A1922|aanhangwagen
+41A193|woonboot
+41A194|lake-dwelling
+41A194|pile-dwelling
+41A195|hut
+41A195|igloo
+41A195|snow-hut
+41A196|grot
+41A2|huis
+41A2|binnenland
+41A21|hal
+41A21|vestibule
+41A211|gang
+41A2111|galerij
+41A22|kamer
+41A221|living-room
+41A221|salon
+41A221|sitting-room
+41A222|tekenkamer
+41A222|salon
+41A2221|boudoir
+41A223|eetkamer
+41A23|slaapkamer
+41A23|kamer
+41A24|badkamer
+41A24|kamer
+41A241|uitrusting
+41A2411|bad
+41A2411|kuip
+41A2412|douche
+41A2413|bidet
+41A2414|bekken
+41A2415|bekken
+41A2415|kruik
+41A25|kamer
+41A251|studiolo
+41A251|studie
+41A252|kapel
+41A253|salon
+41A253|veranda
+41A253|sun-porch
+41A253|veranda
+41A2531|serre
+41A2531|tuin
+41A2531|winter garden
+41A254|garderobe
+41A2541|kast
+41A2541|linen-closet
+41A255|vliering
+41A255|zolder
+41A256|opslagruimte
+41A3|bijgebouw
+41A3|buitenkant
+41A3|huis
+41A3|deel
+41A31|bouwwerk
+41A31|gevel
+41A31|muur
+41A311|front façade
+41A3111|gable stone
+41A3111|stone tablet
+41A3111|tablet
+41A312|rear façade
+41A313|inner court
+41A32|deur
+41A32|feigned door
+41A32|optical illusion
+41A32|sham-door
+41A321|opening
+41A3211|open door
+41A3212|verdeelde deur
+41A3212|open door
+41A3213|draaideur
+41A322|sluitend
+41A3221|gesloten deur
+41A323|aediculum
+41A323|monumental art
+41A323|veranda
+41A324|metaal
+41A3241|bel
+41A3241|deur Klopper
+41A3241|door Bell
+41A3241|kloppen
+41A3242|deur knop
+41A3242|deurknop
+41A325|drempel
+41A3251|deurpost
+41A3251|pool
+41A3251|stile
+41A3252|laars schraper
+41A3252|deurbeslag
+41A3252|vloermat
+41A3252|mat
+41A3252|krabber
+41A326|letter-box
+41A327|portier
+41A327|bewaker
+41A327|house-guard
+41A328|slot
+41A3281|sleutel
+41A32811|master-key
+41A32811|passe-partout
+41A32811|skeleton key
+41A3282|klink
+41A3283|bout
+41A3284|padlock
+41A33|feigned window
+41A33|optical illusion
+41A33|sham-window
+41A33|raam
+41A331|opening
+41A3311|open window
+41A332|sluitend
+41A3321|gesloten venster
+41A333|lattice
+41A333|luiken
+41A3332|binnenland
+41A334|zonnetent
+41A334|sunblind
+41A334|zonnescherm
+41A335|zitplaats
+41A335|window-seat
+41A336|human figure
+41A336|open window
+41A3362|binnenland
+41A337|zoek
+41A337|uitzicht
+41A3372|binnenland
+41A34|trappenhuis
+41A341|stairwell
+41A3411|roltrap
+41A342|lift
+41A342|lift
+41A343|ladder
+41A344|fire-escape
+41A345|stap terug
+41A345|step (stair)
+41A35|front step
+41A35|step (stair)
+41A351|terras
+41A352|baldakijn
+41A36|dak
+41A361|toren
+41A3611|torenspits
+41A3611|steeple
+41A362|bedekking
+41A362|roof-covering
+41A363|decoratie
+41A363|puntgevel
+41A37|kelder
+41A37|kelder
+41A38|balkon
+41A381|loggia
+41A381|veranda
+41A381|veranda
+41A382|erker
+41A382|oriel
+41A391|aftappen
+41A391|pipe system
+41A391|levering
+41A391|water
+41A3911|goed
+41A3912|pomp
+41A3913|kraan
+41A3913|tap
+41A3914|toilet
+41A3914|toilet
+41A3915|fontein
+41A3916|bekken
+41A3916|wastafel
+41A392|gas
+41A392|pipe system
+41A393|kabel
+41A393|elektriciteit
+41A393|beslag
+41A393|light switch
+41A393|plug
+41A393|stopcontact
+41A393|schakelaar
+41A393|bedrading
+41A4|decoratie
+41A4|interior decoration
+41A41|wall-covering
+41A411|wall-paper
+41A412|panelling
+41A413|wandtapijt
+41A414|cordovan
+41A414|cordwain
+41A414|gold leather
+41A414|leer
+41A42|stoffering
+41A421|gordijn
+41A422|draperie
+41A422|hangings
+41A4221|sluier
+41A4231|baldakijn
+41A4231|baldakijn
+41A43|floor-covering
+41A431|tapijt
+41A44|plafond
+41A5|bijgebouw
+41A5|bouwwerk
+41A5|outbuilding
+41A51|binnenplaats
+41A511|hôtel (palace)
+41A511|inner court
+41A511|paleis
+41A511|palazzo
+41A512|achtererf
+41A52|koetshuis
+41A521|garage
+41A53|werpen
+41A54|omheining
+41A54|hek
+41A54|palisades
+41A54|muur
+41A541|balustrade
+41A542|poort
+41A5421|barrière
+41A5422|clap gate
+41A5422|kissing gate
+41A543|stile
+41A544|watergate
+41A6|tuin
+41A61|kaart
+41A62|bouwwerk
+41A62|garden buildings
+41A621|pergola
+41A622|prieel
+41A622|summer-house
+41A622|theekoepel
+41A623|kluis
+41A624|belvedere
+41A625|latwerk
+41A626|feigned building
+41A626|sham-building
+41A63|ontwerp
+41A631|gras
+41A631|lawn
+41A632|bed (plot)
+41A632|flower-bed
+41A633|rock-garden
+41A634|labyrinth
+41A635|omheining
+41A635|hek
+41A635|Hortus Conclusus
+41A635|muur
+41A6351|dak
+41A636|architectonische tuin
+41A636|formal garden
+41A636|French garden
+41A637|English garden
+41A637|landschap
+41A638|rijden
+41A638|garden drive
+41A638|weg
+41A64|garden ornament
+41A64|ornament
+41A641|beeldhouwkunst
+41A641|standbeeld
+41A6411|dwerg
+41A6411|grylloi
+41A642|obelisk
+41A643|piramide
+41A644|Herm
+41A645|ruin
+41A646|vaas
+41A65|waters
+41A651|fontein
+41A652|vijver
+41A653|cascade
+41A653|waterval
+41A66|grotto
+41A67|plant
+41A671|bloem
+41A671|fruit
+41A671|insect
+41A671|stilleven
+41A6711|Bos bloemen
+41A6711|vaas
+41A6712|arrangement
+41A672|bonsai
+41A672|struik
+41A672|espalliered
+41A672|vorm
+41A672|topiary work
+41A672|opleiding
+41A672|boom
+41A672|trimming
+41A673|pot
+41A68|teelt
+41A681|tuinman
+41A6811|watering
+41A682|gardening-tools
+41A682|gereedschap
+41A7|meubilair
+41A7|household
+41A711|tafel
+41A7111|statief
+41A7112|trestle table
+41A712|rack (shelf)
+41A712|plank
+41A712|sideboard
+41A7121|what-not
+41A7122|boekenkast
+41A71221|boek
+41A713|doek
+41A713|table-ware
+41A72|zittend
+41A721|stoel
+41A7211|kruk
+41A72111|voetenbankje
+41A7212|fauteuil
+41A7212|zitplaats
+41A7213|rocking-chair
+41A722|divan
+41A7221|kussen
+41A723|bank
+41A73|opslagruimte
+41A731|kast
+41A732|kast
+41A732|ornament
+41A733|borst (container)
+41A734|cassone
+41A735|slot
+41A7351|sleutel
+41A7352|bout
+41A7353|padlock
+41A741|folding screen
+41A741|scherm
+41A75|decoratie
+41A751|draft-scherm
+41A751|scherm
+41A761|bed
+41A7611|ledikant
+41A7611|bedstee
+41A7612|baldakijn
+41A7612|tester
+41A76121|pool
+41A76121|two-poster bed
+41A76122|four-poster bed
+41A76122|pool
+41A762|hangmat
+41A763|beddegoed
+41A7631|matras
+41A7632|kussen
+41A7633|vel
+41A7634|deken
+41A7635|beddesprei
+41A77|houder
+41A771|emmer
+41A771|kan
+41A771|busje
+41A771|trommel
+41A771|metaal
+41A771|tin
+41A771|vaas
+41A7711|goud
+41A7711|Edel metaal
+41A7711|zilver
+41A772|steen
+41A772|vaas
+41A7721|precious stone
+41A773|keramiek
+41A773|pot
+41A773|kruik
+41A773|pot
+41A773|aardewerk
+41A773|vaas
+41A774|fles
+41A774|glas
+41A774|pot
+41A774|vaas
+41A775|vat
+41A775|wood(en)
+41A7751|mand
+41A776|zak
+41A776|leer
+41A777|zak
+41A777|netto
+41A777|zak
+41A778|zak
+41A778|kartonnen container
+41A778|karton
+41A778|papier
+41A779|plastic
+41A779|kunststof
+41A78|fancy goods
+41A78|knick-knacks
+41A81|inrichting
+41A82|bewegend
+41A9|kasteel
+41A9|huis
+41A9|ruin
+41AA10|Edifitio overo un sito
+41AA10|Ripa
+41AA11|paleis
+41AA111|hôtel (palace)
+41AA111|palazzo
+41AA12|kasteel
+41AA121|vestingwerk
+41AA121|huis
+41AA13|warenhuis
+41AA13|public building
+41AA13|winkel
+41AA14|stad
+41AA14|huis
+41AA141|row
+41AA141|straat
+41AA142|winkel
+41AA143|Vrijstaand huis
+41AA144|appartement huis
+41AA144|flat-building
+41AA15|wolkenkrabber
+41AA16|huis
+41AA16|rural housing
+41AA161|landhuis
+41AA162|villa
+41AA163|huisje
+41AA17|boerderij
+41AA171|schuur
+41AA18|cabine
+41AA18|hut
+41AA18|loge
+41AA181|log-cabin
+41AA182|Indian lodge
+41AA182|Native Americans
+41AA191|tent
+41AA1911|kamp
+41AA1912|Native Americans
+41AA1912|teepee
+41AA1912|tepee
+41AA1912|tipi
+41AA192|caravan
+41AA1921|kamp
+41AA1922|aanhangwagen
+41AA193|woonboot
+41AA194|lake-dwelling
+41AA194|pile-dwelling
+41AA195|hut
+41AA195|igloo
+41AA195|snow-hut
+41AA196|grot
+41B1|brand
+41B1|fire-place
+41B1|hitte
+41B1|open fire
+41B11|aanmaakhout
+41B111|Firestone
+41B111|vuursteen
+41B111|staal
+41B112|tinder-box
+41B113|sulphur match
+41B114|matchstick
+41B1141|match-box
+41B115|fuse
+41B115|lont
+41B12|brandend
+41B12|brandstof
+41B12(COAL)|kolen
+41B12(FAGGOT)|flikker
+41B12(LOG)|aanmelden
+41B12(OIL)|olie
+41B12(STRAW)|stro
+41B121|vlam
+41B122|vonk
+41B123|verbranding
+41B123|gas
+41B13|roeren
+41B131|blazen
+41B1311|blaasbalg
+41B132|fanning
+41B1321|fan
+41B133|poking
+41B1331|poker
+41B14|blussen
+41B151|roet
+41B152|as
+41B153|sintel
+41B153|slak
+41B16|kampvuur
+41B16|watch-fire
+41B161|vreugdevuur
+41B162|rook
+41B2|hitte
+41B21|fire-place
+41B21|open fire
+41B211|brand
+41B211|Hyems
+41B211|verwarming
+41B211|warming-pan
+41B212|gereedschap
+41B2121|fire-tongs
+41B2121|tang
+41B2122|kolen
+41B2122|blusapparaat
+41B213|accessoires
+41B2131|fire-screen
+41B2131|scherm
+41B2132|wrijfhout
+41B2133|hearth-plate
+41B2133|bord
+41B2134|pop
+41B2134|human figure
+41B2135|keten
+41B2135|pot
+41B2136|andiron
+41B2136|fire-dog
+41B214|schoorsteen
+41B2141|schoorsteenmantel
+41B2141|schoorsteenmantel
+41B2142|ornament
+41B22|fornuis
+41B221|rooster
+41B222|pipe
+41B222|stove-pipe
+41B223|emmer
+41B223|kolen
+41B224|kolen
+41B224|spade
+41B23|foot-stove
+41B23|fornuis
+41B231|warming-pan
+41B232|heet water fles
+41B24|centrale verwarming
+41B241|radiator
+41B29|airconditioning
+41B29|koeling
+41B3|lamp
+41B3|licht
+41B31|kaars
+41B311|luchter
+41B312|sconce
+41B312|wall-lamp
+41B313|kandelaar
+41B314|snuffers
+41B32|fakkel
+41B32|upside down
+41B33|lantaarn
+41B34|oil-lamp
+41B35|paraffin lamp
+41B36|gas-lamp
+41B37|elektrische lamp
+41B371|gloeilamp
+41B371|gloeilamp
+41B372|neon
+41B372|buis
+41B4|brandend
+41B4|brand
+41B5|blussen
+41B5|brand
+41B5|fire-fighting
+41B51|fire-brigade
+41B51|beroepen
+41B511|fireman
+41B52|uitrusting
+41B521|emmer
+41B522|pomp
+41B523|fire-hose
+41B523|slang
+41B524|chemische apparatuur
+41B525|fire-engine
+41B53|het redden
+41B531|jumping-sheet
+41B6|ventilatie
+41B61|luchtkoker
+41C|voeding
+41C|voeding
+41C10|kunst
+41C10|drinken
+41C10|het eten
+41C10|gastronomie
+41C11|het eten
+41C111|voeden
+41C111|eten
+41C111|geven
+41C119|honger
+41C1190|roem
+41C1190|Fames
+41C1190|personification
+41C1190|Ripa
+41C1191|hongersnood
+41C1191|uithongering
+41C1192|hunger-strike
+41C1192|staking
+41C12|drinken
+41C121|drank
+41C121|geven
+41C122|gieten
+41C129|dorst
+41C13|blazen
+41C13|koeling
+41C14|koeling
+41C14|roeren
+41C18|verzadigdheid
+41C18|verzadiging
+41C19|honger
+41C19|insatiableness
+41C19|dorst
+41C21|keuken
+41C211|binnenland
+41C2111|eten
+41C2111|keukenstuk
+41C2111|stilleven
+41C212|wastafel
+41C22|kitchen-personnel
+41C22|beroepen
+41C22|personeel
+41C22|dienaar
+41C221|kok
+41C222|cook-meid
+41C222|maidservant
+41C23|keuken
+41C23|rich and poor
+41C231|rich kitchen
+41C232|poor kitchen
+41C24|behoud
+41C241|kelder
+41C2411|wine-vault
+41C24111|rentmeester
+41C24111|wine-steward
+41C242|ice-cellar
+41C2421|ice-box
+41C2421|koelkast
+41C25|koken
+41C251|roasting
+41C2511|spit
+41C2512|gridiron
+41C252|frituren
+41C253|kookpunt
+41C254|brand
+41C2541|fire-place
+41C2541|open fire
+41C2541|fornuis
+41C2542|kookplaat
+41C2543|oven
+41C26|maaltijd
+41C26|voorbereiding
+41C261|schoonmaak
+41C2611|groente
+41C2612|fruit
+41C2612|peeling
+41C26121|citroen
+41C26121|schil
+41C2613|gevogelte
+41C2613|game (hunted animal)
+41C26131|plucked fowl
+41C262|scheidslijn
+41C2621|snijdend
+41C2621|vlees
+41C2622|brood
+41C2622|snijdend
+41C263|te combineren
+41C263|vermenging
+41C2631|beslag
+41C2631|deeg
+41C2631|kneding
+41C264|afstraffing
+41C264|smoothing
+41C265|decoratie
+41C269|gerecht
+41C269|het wassen
+41C27|kitchen-utensils
+41C27|gereedschap
+41C27(CAULDRON)|ketel
+41C27(CAULDRON)|beschaving
+41C27(CAULDRON)|cultuur
+41C27(CAULDRON)|kitchen-utensils
+41C27(CAULDRON)|materiality
+41C27(CAULDRON)|voeding
+41C27(CAULDRON)|voeding
+41C27(CAULDRON)|maatschappij
+41C27(CAULDRON)|gereedschap
+41C27(COLANDER)|beschaving
+41C27(COLANDER)|vergiet
+41C27(COLANDER)|cultuur
+41C27(COLANDER)|kitchen-utensils
+41C27(COLANDER)|materiality
+41C27(COLANDER)|voeding
+41C27(COLANDER)|voeding
+41C27(COLANDER)|maatschappij
+41C27(COLANDER)|gereedschap
+41C27(FRYING PAN)|beschaving
+41C27(FRYING PAN)|cultuur
+41C27(FRYING PAN)|frituurpan
+41C27(FRYING PAN)|kitchen-utensils
+41C27(FRYING PAN)|materiality
+41C27(FRYING PAN)|voeding
+41C27(FRYING PAN)|voeding
+41C27(FRYING PAN)|maatschappij
+41C27(FRYING PAN)|gereedschap
+41C27(FUNNEL)|beschaving
+41C27(FUNNEL)|cultuur
+41C27(FUNNEL)|trechter
+41C27(FUNNEL)|kitchen-utensils
+41C27(FUNNEL)|pollepel
+41C27(FUNNEL)|materiality
+41C27(FUNNEL)|voeding
+41C27(FUNNEL)|voeding
+41C27(FUNNEL)|maatschappij
+41C27(FUNNEL)|gereedschap
+41C27(GRATER)|beschaving
+41C27(GRATER)|cultuur
+41C27(GRATER)|grater
+41C27(GRATER)|kitchen-utensils
+41C27(GRATER)|materiality
+41C27(GRATER)|voeding
+41C27(GRATER)|voeding
+41C27(GRATER)|maatschappij
+41C27(GRATER)|gereedschap
+41C27(LADLE)|beschaving
+41C27(LADLE)|cultuur
+41C27(LADLE)|kitchen-utensils
+41C27(LADLE)|pollepel
+41C27(LADLE)|materiality
+41C27(LADLE)|voeding
+41C27(LADLE)|voeding
+41C27(LADLE)|maatschappij
+41C27(LADLE)|gereedschap
+41C27(PAN)|beschaving
+41C27(PAN)|cultuur
+41C27(PAN)|kitchen-utensils
+41C27(PAN)|materiality
+41C27(PAN)|voeding
+41C27(PAN)|voeding
+41C27(PAN)|schaal
+41C27(PAN)|maatschappij
+41C27(PAN)|gereedschap
+41C27(POT)|beschaving
+41C27(POT)|cultuur
+41C27(POT)|kitchen-utensils
+41C27(POT)|materiality
+41C27(POT)|voeding
+41C27(POT)|voeding
+41C27(POT)|pot
+41C27(POT)|maatschappij
+41C27(POT)|gereedschap
+41C27(ROLLING-PIN)|beschaving
+41C27(ROLLING-PIN)|cultuur
+41C27(ROLLING-PIN)|kitchen-utensils
+41C27(ROLLING-PIN)|materiality
+41C27(ROLLING-PIN)|voeding
+41C27(ROLLING-PIN)|voeding
+41C27(ROLLING-PIN)|rolling-pin
+41C27(ROLLING-PIN)|maatschappij
+41C27(ROLLING-PIN)|gereedschap
+41C27(SIEVE)|beschaving
+41C27(SIEVE)|cultuur
+41C27(SIEVE)|kitchen-utensils
+41C27(SIEVE)|pollepel
+41C27(SIEVE)|materiality
+41C27(SIEVE)|voeding
+41C27(SIEVE)|voeding
+41C27(SIEVE)|zeef
+41C27(SIEVE)|maatschappij
+41C27(SIEVE)|gereedschap
+41C27(SKIMMER)|beschaving
+41C27(SKIMMER)|cultuur
+41C27(SKIMMER)|kitchen-utensils
+41C27(SKIMMER)|materiality
+41C27(SKIMMER)|voeding
+41C27(SKIMMER)|voeding
+41C27(SKIMMER)|skimmer
+41C27(SKIMMER)|maatschappij
+41C27(SKIMMER)|gereedschap
+41C3|table-ware
+41C311|mes
+41C312|vork
+41C313|lepel
+41C314|salt
+41C315|doos (container)
+41C315|spice-box
+41C316|eierdopje
+41C317|koeling
+41C317|wine-cooler
+41C32|drinking-schip
+41C32|vaartuig
+41C321|kop
+41C3211|drinkhoorn
+41C3211|Hoorn
+41C3212|Nautilus
+41C322|kop
+41C323|glas
+41C323|rummer
+41C323(BERKEMEYER)|Berkemeyer
+41C323(PASGLAS)|pasglas
+41C324|tankard
+41C325|fontein
+41C326|pot
+41C326|kruik
+41C327|vorm
+41C3271|dierlijk
+41C3272|human figure
+41C32721|schedel
+41C33|coffee-dienst
+41C33|service (crockery)
+41C33|tea-service
+41C331|kop
+41C331|schotel
+41C332|pot
+41C333|pot
+41C333|samovar
+41C334|sugar-basin
+41C34|servies
+41C34|service (crockery)
+41C341|gerecht
+41C342|gerecht
+41C343|dienblad
+41C344|gravy-boat
+41C345|kom
+41C35|decoratie
+41C351|center-stuk
+41C351|epergne
+41C351|milieu-de-table
+41C351|surtout
+41C352|pièces montées
+41C352|trionfi di tavola
+41C353|aquamanile
+41C353|washing (hands)
+41C36|servies
+41C36|service (crockery)
+41C36|sideboard
+41C37|doek
+41C371|servet
+41C3711|napkin-ring
+41C3711|ring
+41C38|stilleven
+41C38|tafel
+41C381|ontbijt
+41C381|ontbijtje
+41C382|banket
+41C4|family meal
+41C4|maaltijd
+41C41|ontbijt
+41C411|koffie
+41C411|ochtend
+41C42|lunch
+41C42|midday meal
+41C421|high tea
+41C421|thee
+41C4211|ceremonie
+41C422|middag thee
+41C43|avondmaal
+41C44|avondmaal
+41C5|banket
+41C5|viering
+41C5|feest
+41C5|maaltijd
+41C50|Convito
+41C50|Ripa
+41C51|bedrijf
+41C51|elegante bedrijf
+41C52|drinking-bout
+41C52|orgie
+41C520|Crapula
+41C520|Ripa
+41C6|eten
+41C6|stilleven
+41C61|meel
+41C611|maïs
+41C612|maïs
+41C6121|cornflakes
+41C6121|pap
+41C6122|noedel
+41C6122|spaghetti
+41C621|brood
+41C621|brood
+41C6211|vorm
+41C62111|pizza
+41C62111|round form
+41C6212|vulling
+41C6212|hamburger
+41C6212|roll (bread)
+41C6212|sandwich
+41C622|taart
+41C622|gebak
+41C622|taart
+41C6221|fancy cakes
+41C6222|biscuit
+41C623|pannenkoek
+41C624|waffle
+41C6241|wafeltje
+41C625|taart
+41C626|schimmel
+41C6261|taart
+41C6261|gebak
+41C6261|taart
+41C6262|biscuit
+41C62621|speculaasplank
+41C6263|ijzeren
+41C6263|waffle-iron
+41C6264|bakblik
+41C6264|brood
+41C6264|brood-tin
+41C6264|tin
+41C63|suiker
+41C631|loaf-sugar
+41C632|sugar-lump
+41C633|siroop
+41C634|snoep
+41C635|lekkernijen
+41C635|snoepgoed
+41C6351|ice-cream
+41C6352|chocolade
+41C636|honing
+41C637|sugar-coated
+41C6371|glazuur
+41C6371|suikerglazuur
+41C641|zuivelproducten
+41C6411|boter
+41C6412|kaas
+41C6413|melk
+41C64131|karnemelk
+41C64132|yoghurt
+41C64133|crème
+41C642|ei
+41C65|fruit
+41C65|groente
+41C651|aardappel
+41C6511|chips
+41C6511|chips
+41C6511|Franse frietjes
+41C6511|verwerking
+41C652(...)|wortel
+41C652(...)|raap
+41C6521|verwerking
+41C6531|jam
+41C6531|marmelade
+41C6531|behoud
+41C6531|verwerking
+41C66|kruiderij
+41C66|kruiden
+41C66(SAFFRON)|saffraan
+41C661|salt
+41C662|paprika
+41C663|mosterd
+41C671|vet
+41C671|olie
+41C671|plantaardige vetten
+41C6711|margarine
+41C672|azijn
+41C673|saus
+41C68|vis
+41C68(SMOKED HERRING)|herring
+41C68(SMOKED HERRING)|red herring
+41C68(SMOKED HERRING)|smoked herring
+41C681|zeevruchten
+41C69|vlees
+41C691|os
+41C691|varken
+41C691|slaughtering
+41C692(...)|rundvlees
+41C692(...)|lam
+41C692(...)|schaap
+41C692(...)|varkensvlees
+41C693|worst
+41C694|ham
+41C695|vet
+41C696|soep
+41C71|alcohol
+41C71|drank
+41C711|wine
+41C7111|glas
+41C7112|wine-bottle
+41C712|liqueur
+41C713|gedistilleerd
+41C713|liquor
+41C713|spiritualiën
+41C7131|gin
+41C7132|whisky
+41C7133|vodka
+41C7134|brandewijn
+41C7134|brandewijn
+41C714|ale
+41C714|bier
+41C7141|glas
+41C7151|cocktail
+41C72|drank
+41C72|stimulans
+41C721|koffie
+41C7211|kop
+41C722|thee
+41C7221|kop
+41C723|chocolade
+41C723|cacao
+41C73|softdrink
+41C731|fruit
+41C731|siroop
+41C732|fruit
+41C732|sap
+41C74|tabak
+41C741|pipe
+41C7411|hookah
+41C7411|narghile
+41C7411|water-pipe
+41C7412|broodje
+41C7412|twining
+41C7412|verdraaien
+41C7413|pot
+41C7413|tobacco-jar
+41C7414|pipe-holder
+41C7415|asbak
+41C742|sigaar
+41C7421|doos (container)
+41C7421|cigar-box
+41C7422|geval
+41C7422|sigaar-case
+41C7423|sigaar-houder
+41C743|sigaret
+41C7431|geval
+41C7431|sigaret-zaak
+41C7432|sigarettenpapier
+41C7432|papier
+41C7433|sigaret houder
+41C7433|sigaret-buis
+41C7433|pipe
+41C744|snuiftabak
+41C7441|doos (container)
+41C7441|snuff-box
+41C745|kauwen tabak
+41C74511|betel
+41C74511|sirih
+41C74512|Kauwgum
+41C75|drug
+41C75(HASHISH)|hasj
+41C751|opium
+41C7511|opium-pipe
+41C7511|pipe
+41C7512|hol
+41C7512|huis
+41C7512|opium-house
+41C76|parfum
+41C76|geur
+41C761|doos (container)
+41C761|scent-box
+41C762|wierookvat
+41C762|wierook
+41C9|kannibalisme
+41C91|necrophagism
+41CC2511|spit
+41CC2512|gridiron
+41CC2611|groente
+41CC2612|fruit
+41CC2612|peeling
+41CC26121|citroen
+41CC26121|schil
+41CC2613|gevogelte
+41CC2613|game (hunted animal)
+41CC2621|snijdend
+41CC2621|vlees
+41CC2622|brood
+41CC2622|snijdend
+41CC2631|beslag
+41CC2631|deeg
+41CC2631|kneding
+41CC411|koffie
+41CC411|ochtend
+41CC421|high tea
+41CC421|thee
+41CC4211|ceremonie
+41CC422|middag thee
+41D|kleding
+41D1|mode
+41D1|beroepen
+41D11|fashion plate
+41D11|bord
+41D12|fashion show
+41D12|tonen
+41D121|etalagepop
+41D121|model (sitter)
+41D122|human figure
+41D122|shop-window figure
+41D13|fashion mongering
+41D131|galant
+41D131|dandy
+41D1310|Delitioso
+41D1310|Ripa
+41D1311|incroyable
+41D132|schone
+41D132|vrouw
+41D1321|merveilleuse
+41D14|ontwerp
+41D14|fashion designer
+41D2|kleren
+41D2|kostuum
+41D211|toga
+41D211(BALL GOWN)|baljurk
+41D211(CHEMISE À LA REINE)|chemise à la reine
+41D211(CHEMISE À LA REINE)|chemise jurk
+41D211(COURT GOWN)|staatsiekleed
+41D211(COURT GOWN)|court toga
+41D211(DAY DRESS)|middag jurk
+41D211(DAY DRESS)|dag jurk
+41D211(DINNER DRESS)|diner jurk
+41D211(EVENING DRESS)|evening dress
+41D211(MANTEAU)|manteau
+41D211(MORNING DRESS)|morning dress
+41D211(REDINGOTE)|redingote
+41D211(ROBE À L'ANGLAISE)|robe à l'anglaise
+41D211(ROBE À LA CIRCASSIENNE)|robe à la circassienne
+41D211(ROBE À LA FRANÇAISE)|robe à la française
+41D211(ROBE À LA LÉVITE)|robe à la lévite
+41D211(ROBE À LA POLONAISE)|robe à la polonaise
+41D211(ROBE À L’ANGLAISE)|robe à l'anglaise
+41D211(ROBE VOLANTE)|robe volante
+41D211(WALKING DRESS)|walking dress
+41D212|mantel
+41D212|jas
+41D2121(BOLERO)|bolero
+41D2121(CARACO)|Caraco
+41D2121(OVERCOAT)|overcoat
+41D21211|waringin
+41D21211|badjas
+41D21211|ochtendjas
+41D21211|peignoir
+41D21211(BANYAN)|waringin
+41D2122(MANTELET)|mantelet
+41D2122(MANTELET)|mantille
+41D2122(MANTELET)|pelerine
+41D213|ensemble
+41D213(SAILOR SUIT)|zeeman
+41D213(SAILOR SUIT)|sailor suit
+41D221|head-gear
+41D221(...)|pet
+41D221(...)|hoed
+41D221(...)|tulband
+41D221(BERET)|beret
+41D221(BICORNE)|bicorn
+41D221(BICORNE)|bicorne
+41D221(BOATER)|schipper
+41D221(BOWLER)|bolhoed
+41D221(CLOCHE HAT)|cloche hoed
+41D221(FONTANGE)|fontange
+41D221(HOOD)|kap
+41D221(MORNING CAP)|morning cap
+41D221(TOP HAT)|top hat
+41D221(TOQUE)|toque
+41D221(TRICORNE)|tricorn
+41D2211|sluier
+41D2212|Phrygian bonnet
+41D222|neck-gear
+41D222(COLLAR)|kraag
+41D222(JABOT)|jabot
+41D223(BLOUSE)|blouse
+41D223(BLOUSE)|canezou
+41D2231|borst
+41D2231|decolleté
+41D224|mouw
+41D225|handschoen
+41D225|vuisthandschoen
+41D2251|doek
+41D2251|hand
+41D2251|manus velatae
+41D2252|mof
+41D231|broek
+41D2311|codpiece
+41D2311|geslachtsdelen
+41D232|rok
+41D2321|schort
+41D233|foot-gear
+41D233|been
+41D2331|sok
+41D2331|kous
+41D2332|sandal
+41D2332|schoen
+41D23321|laars
+41D23322|pantoffel
+41D2333|verstoppen
+41D2334|ongelijk
+41D23341|schoen
+41D23341|pantoffel
+41D23342|blootsvoets
+41D2335|accessoires
+41D2335|binnenzool
+41D2335|polijsten
+41D2335|shoe-polish
+41D2335|shoehorn
+41D2339|blootsvoets
+41D241|official dress
+41D241|uniform
+41D2411|attribuut
+41D2411|dignitaris
+41D242|feestkleding
+41D2421|ball (dans)
+41D2421|maskerade
+41D2422|aankleden
+41D2422|feest
+41D2423|historical costume
+41D24231|spectakel
+41D244|fantasie
+41D249|beeldhouwkunst
+41D249|standbeeld
+41D251|underclothes
+41D2512(CORSET)|korset
+41D2513(BLOOMERS)|wijde broek
+41D2513(CORSET)|korset
+41D252|nachtkleding
+41D252(...)|pyjama
+41D252(NIGHT-CAP)|pet
+41D252(NIGHT-CAP)|nightcap
+41D252(NIGHT-GOWN)|toga
+41D252(NIGHT-GOWN)|night-gown
+41D253|vulling
+41D253|vulling
+41D26|accessoires
+41D26|ornament
+41D261|zakdoek
+41D262|fan
+41D2621|fan language
+41D2621|fanning
+41D2621|taal
+41D263|riet
+41D263|personeel
+41D263|walking-stick
+41D2631|paraplu
+41D2632|parasol
+41D2632|zonnescherm
+41D264|bevestigingsmiddelen
+41D2641|pin
+41D26411|fibula
+41D26411|safety pin
+41D2642|knoop
+41D26421|manchetknoop
+41D26421|stoeterij
+41D2643|hook-and-eye
+41D2643|press-stud
+41D2643|stoeterij
+41D2644|gesp
+41D26441|zip-fastener
+41D2645|accolades (bretels)
+41D2645|bretels
+41D2646|vliegen
+41D2646|rits
+41D2651|borduurwerk
+41D2651|garen
+41D26511|goud
+41D26512|kraal
+41D2652|kant
+41D2653|grens
+41D2653|vlecht
+41D2653|lint
+41D2654|boog (ribbon)
+41D2655|corsage
+41D2656|gordel
+41D2657|patroontas
+41D2657|shoulder-belt
+41D266|juwelen
+41D2661|halsketting
+41D26611|parel
+41D26612|breloque
+41D26612|medallion
+41D26612|hanger
+41D26612|sieraad
+41D2662|armband
+41D26621|enkelband
+41D2663|oorring
+41D2664|ring
+41D2665|agraffe
+41D2665|broche
+41D2665|gesp
+41D2666|diadeem
+41D2666|tiara
+41D2668|doos (container)
+41D2668|jewel-box
+41D267|money-bag
+41D268|zak
+41D269|cachenez
+41D269|loup
+41D269|maskeren
+41D27|draperie
+41D27|Gewandgebung
+41D271|Pneumazipfel
+41D271|wind
+41D28|vermommen
+41D281|men's clothes
+41D281|travestie
+41D282|travestie
+41D282|women's clothes
+41D283|maskeren
+41D29|vod
+41D3|kostuum
+41D3|folklore
+41D41|luchten
+41D41|afstraffing
+41D41|borstelen
+41D41|zorg
+41D411|opknoping
+41D4111|kleerhanger
+41D4112|pool
+41D42|washing (clothes)
+41D421|wasknijper
+41D421|drogen
+41D421|opknoping
+41D421|pin
+41D422|bleken
+41D423|mangling
+41D424|strijken
+41D4241|flat-iron
+41D4241|ijzeren
+41D4242|boord
+41D4242|ironing board
+41D425|stomen
+41D425|stomen
+41D426|persing
+41D4261|mangel
+41D427|accessoires
+41D427|wasknijper
+41D427|droogrek
+41D427|pin
+41D427|gereedschap
+41D427|waslijn
+41D428|bijgebouw
+41D428|bouwwerk
+41D428|outbuilding
+41D4281|laundry room
+41D4281|utility room
+41D4281|wash house
+41D4282|wash house
+41D43|verven
+41D441|het naaien
+41D4411|naald
+41D4412|doos (container)
+41D4412|sewing box
+41D4413|machine
+41D4413|sewing machine
+41D442|repareren
+41D4421|stoppen
+41D4421|patching
+41D443|haken
+41D443|borduurwerk
+41D443|breiwerk
+41D443|handwerk
+41D9|naakt
+41D9|quasi-nude
+41D9|tonen
+41D9|uitkleden
+41D91|man
+41D92|vrouw
+41D921|decolleté
+41D94|tucking up
+41D99|schande
+41D991|poging (poging)
+41D991|bedekking
+41E|stilleven
+41E2|optical illusion
+41E2|afbeelding
+41E2|trompe l'oeil
+42|gezin
+42|nakomelingen
+42A1|zwangerschap
+42A1|voortplanting
+42A11|opvatting
+42A121|foetus
+42A13|gedrag
+42A13|behandeling
+42A131|reliëf
+42A131|sick-leave
+42A132|duizeligheid
+42A132|misselijkheid
+42A133|het eten
+42A133|eten
+42A134|angst
+42A134|impressie
+42A134|maternal impression
+42A134|verzien
+42A1341|baby
+42A1341|mark
+42A14|vaderschap
+42A18|vruchtbaarheid
+42A19|onvruchtbaarheid
+42A19|steriliteit
+42A19|vrouw
+42A190|Ripa
+42A190|Sterilità
+42A191|verlangen
+42A192|opvatting
+42A192|tegenwerking
+42A192|vruchtbaarheid
+42A193|anticonceptie
+42A193|family planning
+42A2|geboorte
+42A2|vrouw
+42A21|lying-in room
+42A21|kamer
+42A211|lying-in
+42A2111|hurken
+42A2112|accouchement stoel
+42A2112|stoel
+42A2119|moeilijkheid
+42A21191|tang
+42A21192|Keizersnede
+42A21192|sectie
+42A21193|premature birth
+42A21194|helm geboorte
+42A212|baby
+42A2121|ademhaling
+42A2121|schreeuw
+42A2121|first cry (the)
+42A2122|snijdend
+42A2122|navelstreng
+42A2123|placenta
+42A213|kind
+42A213|vader
+42A213|father and child
+42A213|tonen
+42A214|zorg
+42A22|lying-in
+42A22|bezoekende
+42A221|aankondigen
+42A23|huis
+42A23|lying-in
+42A23|teken
+42A24|verloskundige
+42A24|vroedvrouw
+42A241|verloskundige
+42A241|obstetrician
+42A25|baker
+42A25|verpleegster
+42A251|Bakermat
+42A251|stoel
+42A251|nursing-chair
+42A252|baby
+42A252|kleren
+42A252|swaddling clothes
+42A2521|swaddling
+42A26|tweeling
+42A261|Siamese twins
+42A27(...)|meerling
+42A27(...)|quadruplets
+42A27(...)|quintuplets
+42A27(...)|drieling
+42A28|baby
+42A28|kool
+42A28|folklore
+42A28|gooseberry bush
+42A28|groeiend
+42A28|zwangerschap
+42A28|boom
+42A281|dragende
+42A2811|supernatural being
+42A2812|man
+42A2813|dierlijk
+42A2813|ooievaar
+42A29|abortus
+42A29|miskraam
+42A291|aborteur
+42A299|dierlijk
+42A299|monster
+42A3|kind
+42A3|moeder
+42A3|mother and child
+42A30|moederschap
+42A31|verpleging
+42A31|zuigeling
+42A311|verpleegster
+42A312|dierlijk
+42A32|voeden
+42A33|veranderen
+42A33|het wassen
+42A331|servet
+42A34|bad
+42A35|dressing
+42A351|kam
+42A351|haar
+42A36|strelen
+42A36|croonen
+42A36|dandling
+42A36|spelen
+42A361|rockende
+42A362|slaapliedje
+42A362|singing
+42A37|zoek
+42A37|slapen
+42A4|baby
+42A41|meubilair
+42A411|wieg
+42A412|kinderstoel
+42A412|stoel
+42A413|play-pen
+42A42|kinderwagen
+42A42|vervoer
+42A42|kinderwagen
+42A42|kinderwagen
+42A4211|dragen op de rug
+42A4212|schrijlings
+42A4212|dragende
+42A4212|heup
+42A4213|mand
+42A4213|dragende
+42A4213|wieg
+42A4213|hoofd
+42A43|tandstelsel
+42A43|teething
+42A431|tand
+42A432|ring
+42A432|teething ring
+42A44|spening
+42A441|trooster
+42A45|rammelaar
+42A46|zorg
+42A461|ouders
+42A462|oppas
+42A5|jongen
+42A5|kind
+42A5|meisje
+42A50|infancy
+42A50|Pueritia
+42A50|Ripa
+42A51|kleuter
+42A511|stap
+42A511|wandelen
+42A5111|kruipen
+42A5112|go-cart
+42A5113|head-protector
+42A5113|beschermer
+42A512|sprekend
+42A52|spelen
+42A53|zorg
+42A53|hygiëne
+42A54|slecht
+42A54|gewoonte
+42A541|bijtend
+42A541|nagel
+42A542|zuig-
+42A542|duim
+42A55|infancy
+42A55|leed
+42A551|troostend
+42A552|vluchtende
+42A5521|bevinding
+42A5521|zoeken
+42A553|thuis
+42A553|terugkerende
+42A56|opvoeding
+42A561|meten
+42A562|vergieten
+42A562|tand
+42A57|taak
+42A571|boodschap
+42A571|helpen
+42A571|boodschapper
+42A571|het winkelen
+42A58|haar
+42A58|shock-headed Peter
+42A58|Struwwelpeter
+42A59|bogey-man
+42A59|boeman
+42AA461|ouders
+42AA462|oppas
+42AA511|stap
+42AA511|wandelen
+42AA5111|kruipen
+42AA5112|go-cart
+42AA5113|head-protector
+42AA5113|beschermer
+42AA512|sprekend
+42AA541|bijtend
+42AA541|nagel
+42AA542|zuig-
+42AA542|duim
+42AA5521|bevinding
+42AA5521|zoeken
+42B|kind
+42B|ouders
+42B1|liefde
+42B1|parental love
+42B11|vader
+42B11|father-love
+42B111|father and son
+42B111|zoon
+42B112|dochter
+42B112|father and daughter
+42B113|dochter
+42B113|father and daughter
+42B113|father and son
+42B113|zoon
+42B12|moeder
+42B12|mother-love
+42B121|moeder en zoon
+42B121|zoon
+42B122|dochter
+42B122|moeder en dochter
+42B123|dochter
+42B123|moeder en dochter
+42B123|moeder en zoon
+42B123|zoon
+42B2|afwezigheid
+42B2|liefde
+42B2|maltreating
+42B2|verwaarlozing
+42B2|parental love
+42B20|Oblivione d'amore verso i figliuoli
+42B20|Ripa
+42B21|ontkenning
+42B22|foster-parent
+42B221|stiefvader
+42B222|stiefmoeder
+42B29|doden
+42B3|vondeling
+42B31|verlaten
+42B31|exposing
+42B311|moeder
+42B311|mother and child
+42B311|separating
+42B312|wisselkind
+42B312|vervanging
+42B321|adoptie
+42B3210|Adottione
+42B3210|Ripa
+42B322|illegitimate child
+42B322|legitimation
+42B33|foster-parent
+42B34|zoeken
+42B35|herkennen
+42B351|identiteit
+42B351|legitimation
+42B36|illegitimate child
+42B361|onderzoek
+42B361|vaderschap
+42B362|moeder
+42B362|unmarried mother
+42B4|filial love
+42B4|liefde
+42B40|Pietà de figliuoli verso il padre
+42B40|Ripa
+42B41|Caritas romana
+42B41|Cimon de Romeinse
+42B41|dochter
+42B41|vader
+42B41|father and daughter
+42B41|oude man
+42B41|Pero
+42B41|Romeins
+42B41|zuigeling
+42B42|Caritas romana
+42B42|dochter
+42B42|moeder
+42B42|moeder en dochter
+42B42|old woman
+42B42|zuigeling
+42B43|dragen op de rug
+42B5|afwezigheid
+42B5|filial love
+42B5|liefde
+42B51|rich and poor
+42B52|deken
+42B52|horse-blanket
+42B53|pijl
+42B53|lijk
+42B53|exemplary judge
+42B53|false heir
+42B53|father and son
+42B53|erfgenaam
+42B53|rechter
+42B53|refusing (order, request)
+42B53|het schieten
+42B54|parricide
+42B542|matricide
+42B6|weeskind
+42B61|voogd
+42B610|Ripa
+42B610|Tutela
+42B7|familie
+42B71|thuis
+42B72|vakantie
+42B72|reizend
+42B74|groep
+42B741|vader
+42B741|father and child
+42B7411|father and son
+42B7411|zoon
+42B7412|dochter
+42B7412|father and daughter
+42B742|moeder
+42B742|mother and child
+42B7421|moeder en zoon
+42B7421|zoon
+42B7422|dochter
+42B7422|moeder en dochter
+42B75|groep
+42B751|kleinkind
+42B751|kleindochter
+42B751|grootvader
+42B751|grootmoeder
+42B751|grandparent and grandchild
+42B751|kleinzoon
+42B76|dochter
+42B76|vader
+42B76|father and daughter
+42B76|father and son
+42B76|generatie
+42B76|kleinkind
+42B76|kleindochter
+42B76|grootvader
+42B76|grootmoeder
+42B76|grandparent and grandchild
+42B76|kleinzoon
+42B76|groep
+42B76|moeder
+42B76|moeder en dochter
+42B76|moeder en zoon
+42B76|zoon
+42B761|drie
+42B762|vier
+42B762|great-grandparent
+42B8|correctie
+42B8|ondeugendheid
+42B8|straf
+42B81|spanking
+42B82|boksen de oren
+42B82|oor
+42B82|opvallend
+42B821|trekken
+42B83|good and bad
+42B831|goed
+42B9|thuis
+42B9|leave-taking
+42B9|youth (adolescent)
+42C|jeugd
+42C1|initiation
+42C1|puberty
+42C1|youth (adolescent)
+42C2|meisje
+42C2|initiation
+42C2|puberty
+42C2|youth (adolescent)
+42C21|débutante
+42C3|contrast
+42C3|huwelijk
+42C3|maagd
+42D1|verloving
+42D1|liefde
+42D1|minnaar
+42D11|voorstel
+42D111|kneeling
+42D111|minnaar
+42D119|love unrequited
+42D12|toestemming
+42D129|separating
+42D13|vragen
+42D13|ouders
+42D13|toestemming
+42D131|weging
+42D132|marriage broker
+42D14|verloofd
+42D14|schoondochter
+42D14|vader
+42D14|father-in-law
+42D14|moeder
+42D14|mother-in-law
+42D14|ouders
+42D14|presenting a person
+42D14|zoon
+42D141|bruid
+42D1411|geven
+42D1411|portret
+42D142|bruidegom
+42D1421|geven
+42D1421|portret
+42D15|father-in-law
+42D15|marriage contract
+42D15|mother-in-law
+42D15|ouders
+42D16|document
+42D16|marriage contract
+42D17|wedding-gift
+42D1711|doos (container)
+42D1711|lovers' casket
+42D1711|Minnekästchen
+42D1712|ring
+42D1712|wedding-ring
+42D172|bruidschat
+42D18|geven
+42D19|vrijgezel
+42D19|feest
+42D2|ceremonie
+42D2|huwelijk
+42D21|bruid
+42D21|bruidegom
+42D21|husband and wife
+42D21|wedding-dress
+42D2121|rozenhoedje
+42D2121|krans
+42D2122|dressing
+42D2122|toilet (making)
+42D21221|sluier
+42D213|vergadering
+42D214|begeleider
+42D214|bruids partij
+42D214|wedding-guest
+42D2141|bruidsjonker
+42D2142|bruidsmeisje
+42D2142|meisje
+42D2143|jongen
+42D2143|page (servant)
+42D22|vermanende
+42D22|zegen
+42D22|dochter
+42D22|schoondochter
+42D22|father-in-law
+42D22|mother-in-law
+42D22|ouders
+42D22|zoon
+42D22|son-in-law
+42D221|keuze
+42D221|thuis
+42D23|vertrekkende
+42D23|thuis
+42D231|ontvoeren
+42D2311|bruid
+42D2311|wife-capture
+42D232|schaking
+42D232|vluchtende
+42D233|bruid
+42D233|uitwisselen
+42D24|burgerlijk huwelijk
+42D241|register
+42D241|ondertekening
+42D242|Gretna Green
+42D242|onregelmatigheid
+42D243|receiving a person
+42D25|feest
+42D25|maaltijd
+42D251|aankomst
+42D252|taart
+42D253|dansen
+42D254|verjaardag
+42D254|viering
+42D254|wedding anniversary
+42D2541|koperen
+42D2541|twelve-and-a-half
+42D2542|zilver
+42D2542|twenty-five
+42D2543|vijftig
+42D2543|golden anniversary
+42D2544|diamant
+42D2544|zestig
+42D26|huwelijksreis
+42D26|husband and wife
+42D26|reizend
+42D26|wedding trip
+42D261|vertrekkende
+42D2611|confetti
+42D2611|rijst
+42D2611|schoen
+42D2611|het werpen
+42D262|eindelijk alleen
+42D27|wedding-night
+42D271|bed
+42D271|bruid
+42D271|toonaangevend
+42D2711|bad
+42D2711|zuivering
+42D2712|ontnemeheid kuisheid
+42D2713|worstelen
+42D2713|onwil
+42D272|verontrustende
+42D273|ontwaken
+42D274|maagdelijkheid
+42D279|jus primae noctis
+42D3|husband and wife
+42D3|huwelijk
+42D3|matrimonium
+42D3|huwelijk
+42D30|Castità matrimoniale
+42D30|Fede maritale
+42D30|trouw
+42D30|Matrimonio
+42D30|Ripa
+42D31|slecht
+42D31|ongelijk
+42D311|leeftijd
+42D3111|verontrustende
+42D3111|spotachtig
+42D3111|berispen
+42D3111|derde
+42D312|rijkdom
+42D3121|verontrustende
+42D3121|spotachtig
+42D3121|berispen
+42D3121|derde
+42D313|grootte
+42D314|gezondheid
+42D32|satire
+42D321|val
+42D322|gevecht
+42D322|overheersing
+42D322|broek
+42D323|contrast
+42D33|geluk
+42D330|welwillendheid
+42D330|Benevolenza et Unione matrimoniale
+42D330|Concordia maritale
+42D330|Ripa
+42D331|echtgenoot
+42D331|ideal husband
+42D332|ideal wife
+42D332|echtgenote
+42D34|overheersing
+42D341|echtgenoot
+42D342|echtgenote
+42D3421|hen-pecked husband
+42D3421|echtgenoot
+42D3422|Bigorne
+42D3422|Chiceface
+42D35|slecht
+42D351|marriage 'à la mode'
+42D351|quarrelling
+42D352|verzoening
+42D36|slecht
+42D37|hoorndrager
+42D37|bedrog
+42D38|ménage à trois
+42D39|overspel
+42D390|Adulterio
+42D390|Ripa
+42D392|wraak
+42D3921|onschuld
+42D3921|beproeving
+42D4|dood
+42D41|weduwnaar
+42D42|weduwe
+42D429|Ephesus
+42D429|Widow of Ephesus
+42D43|huwelijk
+42D43|second marriage
+42D431|weduwnaar
+42D432|weduwe
+42D5|dochter
+42D5|echtscheiding
+42D5|vader
+42D5|father and daughter
+42D6|love unrequited
+42D7|overspel
+42D7|cicisbeo
+42D7|minnares
+42D71|bijvrouw
+42D9|single
+42D9|unmarried
+42D91|vrijgezel
+42D91|man
+42D92|spinster
+42D92|vrouw
+42DD111|kneeling
+42DD111|minnaar
+42DD119|love unrequited
+42DD251|aankomst
+42DD252|taart
+42DD253|dansen
+42DD254|verjaardag
+42DD254|viering
+42DD254|wedding anniversary
+42DD2541|koperen
+42DD2541|twelve-and-a-half
+42DD2542|zilver
+42DD2542|twenty-five
+42DD2543|vijftig
+42DD2543|golden anniversary
+42DD2544|diamant
+42DD2544|zestig
+42DD3121|verontrustende
+42DD3121|spotachtig
+42DD3121|berispen
+42DD3121|derde
+42DD71|bijvrouw
+42E|begrafenis riten
+42E|dood
+42E|rite
+42E1|lijk
+42E1|mortuary toilet
+42E1|toilet (making)
+42E11|dressing
+42E11|het wassen
+42E111|shroud
+42E112|bedekking
+42E12|lijkbaar
+42E121|doek
+42E121|hearse-cloth
+42E121|lijkkleed
+42E121|pannus funeralis
+42E1211|funeral shield
+42E1211|schild
+42E122|sterfbed
+42E122|staat
+42E13|wekken
+42E131|rouw
+42E132|lamenting
+42E1321|wailing-woman
+42E1321|vrouw
+42E14|kist
+42E142|bloem
+42E142|offer
+42E142|ring
+42E142|wedding-ring
+42E15|balseming
+42E15|mummificatie
+42E15|voorbereiding
+42E151|mummie
+42E152|hoofd
+42E152|lidmaat
+42E17|dodenmasker
+42E17|maskeren
+42E18|beeltenis
+42E18|human figure
+42E19|schenden
+42E191|mutilation
+42E192|executie
+42E193|kleren
+42E193|roven
+42E193|uitkleden
+42E194|necrophily
+42E2|ceremonie
+42E2|begrafenis
+42E21|aankondigen
+42E211|beroepen
+42E211|begrafenisondernemer
+42E212|kaart
+42E212|death-bericht
+42E212|rouwkaart
+42E212|obituary
+42E213|herdenking
+42E213|medaille
+42E214|funeral parlour
+42E214|salon
+42E22|stoet
+42E22|rouwstoet
+42E22|processie
+42E221|auto
+42E221|hearse
+42E222|vervoer
+42E223|lijkbaar
+42E224|pleurant
+42E23|begrafenis
+42E231|het graven
+42E231|graf
+42E231|opening
+42E232|re-burial
+42E24|aanpakken
+42E24|graf
+42E24|open grave
+42E24|spraak
+42E241|bidden
+42E242|het werpen
+42E25|pyre
+42E26|terugkerende
+42E261|maaltijd
+42E261|rouw
+42E27|mortuary specialist
+42E27|beroepen
+42E27|specialist
+42E271|begrafenisondernemer
+42E272|het graven
+42E272|grave-digger
+42E273|begraafplaats guard
+42E273|bewaker
+42E274|vereniging
+42E274|begrafenis vereniging
+42E28|vernietiging
+42E28|doden
+42E28|bezittingen
+42E281|sterfbed
+42E31|graf
+42E31|graf
+42E311|gravestone
+42E311|steen
+42E3113|kruis
+42E312|epitaph
+42E32|niche-tomb
+42E32|graf
+42E32|wall-tomb
+42E321|grot
+42E321|graf
+42E321|rots
+42E33|sarcophagus
+42E331|deksel
+42E331|lid (sarcophagus)
+42E34|urn
+42E35|bouwwerk
+42E35|monument
+42E35|graf
+42E351|Castrum Doloris
+42E351|kist
+42E351|beeltenis
+42E351|gisant
+42E351|human figure
+42E351|portret
+42E351|transi
+42E3511|lijk
+42E3511|rottende
+42E3511|skelet
+42E3511|worm
+42E361|naald
+42E361|obelisk
+42E362|pijler
+42E363|piramide
+42E37|oude graf vormen
+42E371|prehistorie
+42E3711|grafheuvel
+42E3711|terp
+42E3712|dolmen
+42E3712|megalithische
+42E3712|graf
+42E372|geschiedenis
+42E3721|mastaba
+42E3722|piramide
+42E3723|mausoleum
+42E373|begrafenis
+42E373|exotisch
+42E3731|boom
+42E3732|verlaten
+42E38|kunst
+42E38|funerary art
+42E38|teken
+42E39|grafmonument
+42E39|feigned grave
+42E39|sham-grave
+42E4|cultus
+42E4|dood (de)
+42E41|rouw
+42E411|kostuum
+42E411|mourning garment
+42E42|lijkzang
+42E43|begraafplaats
+42E43|graf
+42E43|kerkhof
+42E43|graf
+42E431|necropolis
+42E4311|catacombe
+42E4311|gewelf
+42E432|kerk
+42E432|kerkhof
+42E433|mass-grave
+42E434|park
+42E435|charnelhouse
+42E435|ossuary
+42E44|zorg
+42E44|begraafplaats
+42E44|graf
+42E44|graf
+42E44|bezoekende
+42E441|bloem
+42E441|krans
+42E442|bevinding
+42E45|kaart
+42E45|in memoriam
+42E49|ontheiliging
+42E49|graf
+42E491|lijk
+42E491|diefstal
+42E4911|body-snatcher
+42E51|bezittingen
+42E52|opening
+42E52|lectuur
+42E52|testament
+42E53|distribueren
+42E53|bezittingen
+42E531|erfenis
+42E5311|erfstuk
+42E532|erfgenaam
+42E5321|quarrelling
+42E54|zorg
+42E541|verzekering
+42F|household
+42F0|Economia
+42F0|economie
+42F0|providence
+42F0|Providenza dell'annona
+42F0|Ripa
+42F1|huisvrouw
+42F11|meester
+42F11|bestellen
+42F11|dienaar
+42F12|inspecting
+42F13|scheidslijn
+42F13|eten
+42F19|Betty
+42F19|Molly
+42F2|kopen
+42F2|markt
+42F2|het winkelen
+42F3|taak
+42F31|schoonmaak
+42F311|afstoffen
+42F312|polijsten
+42F313|raam
+42F313|window-cleaning
+42F314|vegen
+42F32|gereedschap
+42F32(...)|bezem
+42F33|bed
+42F33|bedekking
+42F34|tafel
+42F341|portie
+42F342|opheldering
+42F35|zorg
+42F35|outbuilding
+42F4|huis
+42F4|onderhoud
+42F4|repareren
+42F49|verwaarlozing
+42F49|ruin
+42F5|personeel
+42F5|dienaar
+42F51|maidservant
+42F52|werkster
+42F52|werkster
+42F53|footman
+42F53|manservant
+42F54|butler
+42F55|portier
+42F55|bewaker
+42F55|house-guard
+42F55|conciërge
+42F56|housekeeper
+42F6|ongeval
+42F61|breuk
+42F9|slecht
+42F9|wanbeheer
+42F91|stoornis
+42F91|huishouden van Jan Steen
+42F91|Jan Steen
+42F91|shambles
+42F92|huisvrouw
+42F92|Lorts (Vrouw)
+42F92|slordig
+42F92|Vrouw Lorts
+42G1|tabel
+42G1|diagram
+42G1|genealogical tree
+42G1|schema
+42G1|boom
+42G11|Ahnengalerie
+42G11|voorvader
+42G11|galerij
+42G11|portret
+42G11|serie
+42G2|graad
+42G2|family relationship
+42G2|generatie
+42G2|verhouding
+42G211|ouders
+42G2111|vader
+42G2112|moeder
+42G212|kind
+42G2121|zoon
+42G2122|dochter
+42G221|grandparent
+42G222|broer
+42G222|zuster
+42G223|kleinkind
+42G223|kleindochter
+42G223|kleinzoon
+42G231|great-grandparent
+42G232|tante
+42G232|oom
+42G233|nephew
+42G233|nicht
+42G234|neef
+42G235|great-grandchild
+42G241|great-great grandparent
+42G242|great aunt
+42G242|oudoom
+42G243|grand nephew
+42G243|grand niece
+42G244|second cousin
+42G245|great-great grandchild
+42G29|incest
+42Z|exotisch
+42Z1|polygamy
+42Z11|harem
+42Z111|odalisque
+42Z112|Bain turc
+42Z112|bad
+42Z112|Turkish bath
+42Z113|eunuch
+42Z2|polyandry
+42Z3|gemeenschap
+42Z3|huwelijk
+42Z31|Weibergemeinschaft
+42Z32|family marriage
+42Z32|group marriage
+42Z32|Punalua
+43|amusement
+43|recreatie
+43A|feest
+43A|blijdschap
+43A1|viering
+43A1|folklore
+43A1|popular feast
+43A11|kalender
+43A11|festival
+43A121|Kerstmis
+43A1211|kerstboom
+43A1211|boom
+43A1212|decoratie
+43A1213|elf
+43A1213|Kerstman
+43A1213|Santa Claus
+43A1214|kaart
+43A122|Carnaval
+43A122|Shrovetide
+43A1221|dwaas
+43A1221|Narrenschiff
+43A1221|schip
+43A1221|ship of fools
+43A1222|Jeudi gras
+43A1222|Shrove Thursday
+43A1222|Donderdag
+43A1223|Quinquagesima
+43A1224|Mardi gras
+43A1224|Shrove Tuesday
+43A1224|Dinsdag
+43A123|Pasen
+43A1231|paasei
+43A1231|ei
+43A12311|juwelen
+43A12311|vorm
+43A1232|vee-voorstelling
+43A1232|fattening
+43A1232|os
+43A1232|prize ox
+43A12321|tonen
+43A1233|Pasen konijn
+43A1233|haas
+43A1233|konijn
+43A13|seizoen
+43A131|lente
+43A1311|dansen
+43A1311|maypole
+43A132|oogst
+43A132|wijnoogst
+43A14|herdenking
+43A141|January 1
+43A141|Nieuwjaar
+43A1411
+43A1411|Hogmanay
+43A1411|New Year's Eve
+43A142|Day Alle Fool's
+43A142
+43A143|Labour Day
+43A143|May 1
+43A144|Epiphany
+43A144|January 6
+43A144|Twelfth Night
+43A145|heilige
+43A1451
+43A1451|Nicholas of Myra (St.)
+43A1451|Saint Nicholas Eve
+43A1451|Sinterklaas
+43A1452|Allerheiligenavond
+43A1452|Halloween
+43A1452|October 31
+43A1453|Martin (St.)
+43A1453
+43A1454|March 17
+43A1454|Patrick (St.)
+43A146(...)|Wapenstilstandsdag
+43A146(...)|July 14
+43A146(...)
+43A146(...)|Poppy Day
+43A146(...)|quatorze juillet
+43A2|bedrijf
+43A2|fête champêtre
+43A2|gezin
+43A2|merry company
+43A2|buitenshuis
+43A2|picknick
+43A2|private festivity
+43A21|cocktailfeestje
+43A21|receiving a person
+43A22|herdenking
+43A22|jubileum
+43A23|ball (dans)
+43A23|dansen
+43A3|eerlijk
+43A3|openlucht festival
+43A3|beroepen
+43A3|pleasure-fair
+43A31|stoel o'plane
+43A31|merry-go-round
+43A31|rotonde
+43A311|reuzenrad
+43A311|giant wheel
+43A311|wiel
+43A32|auto
+43A321|roller-coaster
+43A322|botsauto's
+43A322|botsing
+43A323|spoorweg
+43A323|rutschbaan
+43A33|oefening
+43A33|bekwaamheid
+43A33|sterkte
+43A331|rifle range
+43A331|het schieten
+43A332|machine
+43A341|spiegel
+43A342|diorama
+43A343|cyclorama
+43A343|panorama
+43A344|peep-show
+43A345|loterij
+43A346|gek
+43A3461|mens
+43A3461|monster
+43A3462|dierlijk
+43A3462|monster
+43A3463|plant
+43A3463|steen
+43A35|buitenshuis
+43A35|prestatie
+43A351|tent
+43A352|menigte
+43A352|drum (muziekinstrument)
+43A352|openbaar
+43A36|circus
+43A361|tent
+43A362|entree
+43A363|tent
+43A3631|arena
+43A3631|cirkel
+43A37|circus
+43A37|tonen
+43A371|baas
+43A371|directeur
+43A3711|ring-master
+43A372|acrobaat
+43A3721|touw
+43A3721|tight-rope
+43A3722|trapeze
+43A3723|evenwicht
+43A3724|mes
+43A3724|knife-thrower
+43A3725|gangster
+43A3725|het schieten
+43A3726|slangemens
+43A3727|escapologist
+43A3728|fire-eater
+43A373|clown
+43A3731|dwaas
+43A3731|Hanswurst
+43A3731|Simple Simon
+43A374|dierlijk
+43A374|prestatie
+43A374|opleiding
+43A3741|aap
+43A3742|olifant
+43A3743|dragen
+43A3744|leeuw
+43A3744|tijger
+43A3745|paard
+43A3746|hond
+43A3747|dolfijn
+43A3748|seal (mammal)
+43A3749|vlo
+43A375|goochelaar
+43A375|illusionist
+43A375|jongleur
+43A375|legerdemain
+43A3751|buikspreker
+43A376|waarzeggerij
+43A38|circus
+43A38|reizend
+43A381|tent
+43A382|tent
+43A4|boot
+43A4|public festivity
+43A4|zee
+43A4|schip
+43A4|waters
+43A411|viering
+43A411|national event
+43A412|royal event
+43A4121|huwelijk
+43A4122|geboorte
+43A42|entrée solennelle
+43A42|binnenkomst
+43A42|joyeuse entrée
+43A42|spectakel
+43A42|ontvangst door het publiek
+43A42|receiving a person
+43A42|triomf
+43A421|strijdwagen
+43A421|triumphal chariot
+43A4211|quadriga
+43A4211|Roman chariot
+43A4212|vlotter
+43A4212|platform
+43A422|boog
+43A422|triumphal arch
+43A424|geld
+43A424|verstrooiing
+43A4241|muntstuk
+43A4241|strooipenningen
+43A425|decoratie
+43A425|verlichting
+43A425|lamp
+43A425|square (place)
+43A425|straat
+43A426|confetti
+43A426|ticker-tape
+43A43|allegorie
+43A43|symbool
+43A43|triomphe marin
+43A43|triomf
+43A431|Petrarca
+43A431|Petrarch
+43A431|Trionfi (Petrarca)
+43A4311|Amore (Trionfi d ')
+43A4311|Carro d'amore
+43A4311|Cupido
+43A4311|Ripa
+43A4311|Trionfi d'Amore
+43A4311|Triumphus Cupidinis
+43A4312|Carro della castità
+43A4312|Castità
+43A4312|Ripa
+43A4312|Trionfo della Castità
+43A4312|Triumphus Pudicitiae
+43A4313|Carro della morte
+43A4313|dood
+43A4313|Morte
+43A4313|Ripa
+43A4313|Trionfo della Morte
+43A4313|Triumphus Mortis
+43A4314|Carro della Fama
+43A4314|Fama
+43A4314|Ripa
+43A4314|Trionfo della Fama
+43A4314|Triumphus Famae
+43A4315|Carro del Tempo
+43A4315|Ripa
+43A4315|Tempo
+43A4315|tijd
+43A4315|Trionfo del Tempo
+43A4315|Triumphus Temporis
+43A4316|Carro della Divinità
+43A4316|Divinità
+43A4316|eternity
+43A4316|Trionfo della Divinità
+43A4316|Triumphus Aeternitatis
+43A4321|apotheose
+43A4321|hemelvaart
+43A433|bekroning
+43A433|laurel
+43A44|vreugdevuur
+43A44|fire-works
+43A45|schande
+43A45|spotachtig
+43A45|public disgrace
+43A46|vliegtuig
+43A46|lucht (in)
+43A46|vliegend
+43A46|saluting
+43A46|tonen
+43A49|begrafenis
+43A49|public funeral
+43A491|Castrum Doloris
+43A491|katafalk
+43AA21|cocktailfeestje
+43AA21|receiving a person
+43AA22|herdenking
+43AA22|jubileum
+43AA23|ball (dans)
+43AA23|dansen
+43AA42|entrée solennelle
+43AA42|binnenkomst
+43AA42|joyeuse entrée
+43AA42|spectakel
+43AA42|ontvangst door het publiek
+43AA42|receiving a person
+43AA42|triomf
+43AA43|allegorie
+43AA43|symbool
+43AA43|triomphe marin
+43AA43|triomf
+43AA44|vreugdevuur
+43AA44|fire-works
+43AA46|vliegtuig
+43AA46|lucht (in)
+43AA46|vliegend
+43AA46|saluting
+43AA46|tonen
+43AA49|begrafenis
+43AA49|public funeral
+43AA491|Castrum Doloris
+43AA491|katafalk
+43B|vrije tijd
+43B1|vreugde
+43B1|natuur
+43B11|overpeinzing
+43B11|zonsondergang
+43B12|in de open lucht
+43B12|déjeuner sur l'herbe
+43B12|maaltijd
+43B12|picknick
+43B121|montage
+43B121|délices à la campagne
+43B121|groep
+43B121|buitenshuis
+43B13|wandelen
+43B13|wandelen
+43B131|fiets
+43B141|botanizing
+43B141|bloem
+43B141|herb
+43B141|plant
+43B142|jacht
+43B142|paddestoel
+43B143|herb
+43B143|picking
+43B144|bloem
+43B144|picking
+43B15|dierlijk
+43B151|vlinder
+43B151|jacht
+43B16|beklimming
+43B16|berg
+43B16|alpinisme
+43B17|grot
+43B17|verkennen
+43B2|buitenshuis
+43B21|pleasure-resort
+43B3|binnenshuis
+43B31|café
+43B31|cafe
+43B31|salon
+43B31|wine-bar
+43B311|restaurant
+43B312|tuin
+43B312|tea garden
+43B313|bestrating
+43B313|terras
+43B32|club
+43B32|meeting place
+43B33|casino
+43B331|hol
+43B331|het gokken
+43B331|spellen
+43B34|danszaal
+43B34|night-club
+43B41|bos
+43B41|spelen
+43B411|beklimming
+43B411|boom
+43B412|vallend
+43B412|boom
+43B42|park
+43B421|muziektent
+43B5|strand
+43B51|het baden
+43B51|zee
+43B52|zonnen
+43B53|gebouw
+43B53|kasteel
+43B53|zand
+43B54|ezel
+43B55|duin
+43B55|zand
+43B6|speelplaats
+43B6|spelen
+43B61(...)|uitrusting
+43B611|swing
+43B612|chute
+43B612|glijbaan
+43B613|wip
+43B7|dierentuin
+43B8|verzameling
+43B8|tentoonstelling
+43B8|tonen
+43C1|dierlijk
+43C1|oefening
+43C1|spellen
+43C1|sport
+43C11|jacht
+43C11|beroepen
+43C111|game (hunted animal)
+43C1111|groep
+43C1112|zoogdier
+43C11121|groep
+43C11122|aap
+43C11123|predatory animal
+43C111231|fox hunt
+43C1112311|hond
+43C1112311|vos
+43C1112311|hunting dog
+43C111232|lion-hunt
+43C1112321|fighting (animal)
+43C1112321|leeuw
+43C11124|hoofed animal
+43C111241|stag
+43C111242|ree
+43C111243|mannetjesvarken
+43C11125|trunked animal
+43C11126|knaagdier
+43C111261|haas
+43C111261|konijn
+43C11127|sea-mammal
+43C1113|vogel
+43C112|hunting accident
+43C1121|aanvallende
+43C1121|wounded person
+43C113|karkas
+43C113|game (hunted animal)
+43C113|spoils of the hunt
+43C113|stilleven
+43C1131|doden
+43C11311|hunting-trophy
+43C11311|trofee
+43C1132|tonen
+43C114|jager
+43C114|jagerin
+43C1141|assembleren
+43C1141|départ pour la chasse
+43C1141|groep
+43C11421|rusten
+43C1143|drijver
+43C1144|blazen
+43C1144|hunting-horn
+43C1145|Halali
+43C1146|groep
+43C1146|portret
+43C1147|hond
+43C1147|hunting dog
+43C11471|game (hunted animal)
+43C11471|spoils of the hunt
+43C1148|uitrustingsstuk
+43C1148|uitrusting
+43C11481|zak
+43C11481|game bag
+43C11482|hunting-horn
+43C1149|terugkerende
+43C11491|hunting-seat
+43C11491|Jagdschloss
+43C11491|loge
+43C11491|rendez-vous de chasse
+43C115|zoeken
+43C1151|vangen
+43C1152|kijken
+43C11521|filmen
+43C11521|fotograaf
+43C116|grond
+43C116|hunting-ground
+43C1161|grens
+43C1161|pool
+43C1162|camouflage
+43C1162|verbergen
+43C1162|hiding oneself
+43C1162|hunting stand
+43C1162|schuilplaats
+43C1162|staan
+43C1162|kijken
+43C11621|high seat (hunting stand)
+43C11621|platform
+43C116211|boom
+43C116211|tree stand (hunting stand)
+43C11622|ground blind (hunting stand)
+43C117|jachtopziener
+43C118|poacher
+43C12|visvangst
+43C128|visser
+43C1281|vis
+43C1281|tonen
+43C13|vogel
+43C13|gevogelte
+43C13|vogelaar
+43C131|finch trap
+43C131|val
+43C132|lokvogel
+43C132|eendenkooi
+43C132|val
+43C14|kwellende
+43C141|groep
+43C142|zoogdier
+43C1421|vat
+43C1421|afstraffing
+43C1421|kat
+43C1421|knuppel
+43C1422|bul
+43C1422|stierengevecht
+43C1422|fighting (animal)
+43C14221|toreador
+43C1423|dragen
+43C143|vogel
+43C1431|pik
+43C1431|fighting (animal)
+43C1432|goose
+43C1432|pull-the-goose
+43C144|reptiel
+43C145|amfibie
+43C146|vis
+43C1461|paling
+43C1461|pull-the-eel
+43C2|oefening
+43C2|spellen
+43C2|snelheid
+43C2|sport
+43C211|race (contest)
+43C211|lopend
+43C2111|cursus
+43C2111|hurdle race
+43C2111|hindernis
+43C2112|cross-country
+43C2113|wandelen
+43C212|dierlijk
+43C212|race (contest)
+43C212|paardrijden
+43C2121|paard
+43C2121|riding (on horseback)
+43C21211|jockey
+43C21212|stabiel
+43C21213|race-track
+43C2122|jumping
+43C2122|steeple chase
+43C213|race (contest)
+43C213|voertuig
+43C2131|paard
+43C2131|wagon
+43C21311|wagenmenner
+43C21312|strijdwagen
+43C21312|sulky
+43C2132|fiets
+43C21321|Giro d'Italia
+43C21321|tour
+43C21321|Tour de France
+43C2133|motorfiets
+43C2134|automobiel
+43C214|wandelen
+43C214|wandelen
+43C218|dierlijk
+43C218|race (contest)
+43C2181|hond
+43C2182|duif
+43C22|waters
+43C221|zwemmen
+43C2211|duiken
+43C22111|diepe zee
+43C22111|zee
+43C222|skiën
+43C222|surf-riding
+43C222|waterskiing
+43C223|kanoën
+43C223|rowing
+43C224|afvaart
+43C224|jacht
+43C225|boot
+43C225|motorboat
+43C23|lucht (in)
+43C23|luchtvaart
+43C231|vliegend
+43C232|het glijden
+43C233|ballon
+43C233|vliegend
+43C234|parachuting
+43C234|skydiven
+43C24|ijs
+43C24|sneeuw
+43C24|winter
+43C24|wintersport
+43C241|slee
+43C241|slee
+43C242|bob-slee
+43C243|slee
+43C244|het schaatsen
+43C245|skiën
+43C2451|slalom
+43C2452|jumping
+43C2453|lift
+43C2453|lift
+43C2453|ski-lift
+43C246|ice-sailing
+43C246|afvaart
+43C3|atletiek
+43C3|oefening
+43C3|spellen
+43C3|gymnastiek
+43C3|sport
+43C31|high-jumping
+43C31|jumping
+43C311|pole-vaulting
+43C312|trampoline
+43C32|brede-springen
+43C32|jumping
+43C32|long-jumping
+43C321|hop-skip-jump
+43C33|speer
+43C34|bal
+43C34|shot-putting
+43C35|discus-werpen
+43C35|het werpen
+43C361|dragende
+43C361|gewicht
+43C37|vloer
+43C37|grond
+43C371|halters
+43C371|stok
+43C38|apparaat
+43C381|ring
+43C382|bar
+43C382|evenwicht
+43C382|horizontal bar
+43C383|vaulting horse
+43C384|bar
+43C384|parallel bars
+43C39|wedstrijd
+43C39|vechten
+43C391|boksen
+43C392|het worstelen
+43C393|jiu-jitsu
+43C393|judo
+43C394|schermen
+43C3941|folie
+43C3942|sabre
+43C3942|zwaard
+43C395|touw
+43C395|tug-of-war
+43C396|ridder
+43C396|medieval history
+43C396|middle ages
+43C3961|gladiator
+43C39611|dierlijk
+43C39611|fighting (animal)
+43C39612|dragen
+43C39612|leeuw
+43C3962|brug
+43C3962|passeren
+43C3962|pas d'armes
+43C3963|toernooi
+43C39631|joust
+43C39631|kantelen
+43C396312|barrière
+43C39641|Bouhourt
+43C39641|Buhurt
+43C39642|Quintaine
+43C397|toernooi
+43C3971|Olympic games
+43C4|spellen
+43C4|bekwaamheid
+43C4|sport
+43C41|balspellen
+43C411|Cholle
+43C411|Choule
+43C411|voetbal
+43C411|voetbal
+43C411|soule
+43C4111|rugby
+43C4112|American Football
+43C412|hand
+43C4121|handbal
+43C4122|basketbal
+43C4123|volley-ball
+43C4124|polo
+43C4124|water polo
+43C413|stok
+43C4131|lacrosse
+43C4132|hockey
+43C41321|ijs
+43C41321|ice hockey
+43C4133|polo
+43C4133|riding (on horseback)
+43C4134|cricket (sport)
+43C4135|baseball
+43C4136|stick ball
+43C414|stok
+43C4141|maille
+43C4142|golf
+43C4143|kolf
+43C41431|ijs
+43C4144|croquet
+43C4145|biljart
+43C415|hand
+43C415|racket
+43C4151|lawn-tennis
+43C4151|tennis
+43C4152|table-tennis
+43C4152|tennis
+43C4153|jeu de Paume
+43C4154|badminton
+43C4154|jeu de volant
+43C4155|vijf
+43C4155|palm of the hand
+43C416|rollend
+43C4161|jeu de boules
+43C4162|bowling
+43C4163|ring
+43C4163|het werpen
+43C4164|ninepins
+43C4164|kegelspel
+43C417|het werpen
+43C4171|bilboquet
+43C4171|bilboquet
+43C418|machine
+43C418|pinball
+43C42|sharpshooting
+43C42|het schieten
+43C421|boogschutter
+43C421|pijl en boog
+43C421|wedstrijd
+43C4211|vogel
+43C4211|pool
+43C4211|shooting-the-bird
+43C4212|kampioen-shot
+43C422|vuurwapens
+43C422|pistool
+43C422|revolver
+43C423|vuurwapens
+43C423|geweer
+43C424|doelwit
+43C43|vat
+43C43|jeu de tonneau
+43C431|schijf
+43C431|gat
+43C432|shovel-board
+43C44|yoyo
+43C441|lucht boven
+43C441|duivel-op-twee-sticks
+43C441|diabolo
+43C441|stok
+43C45|ring
+43C45|kantelen
+43C5|berekening
+43C5|kans
+43C5|het gokken
+43C5|spellen
+43C51|kaartspel
+43C511|card-sharp
+43C511|bedrog
+43C511|bedrog
+43C512|kaart
+43C512|playing-cards
+43C5121|grappenmaker
+43C513|patience
+43C52|bordspel
+43C521|schaakspel
+43C5211|schaakstukken
+43C5212|player (games)
+43C5212|winnaar
+43C5212|vrouw
+43C522|backgammon
+43C522|tric-trac
+43C523|tocht
+43C5231|tekenaars
+43C53|bordspel
+43C531|goose-game
+43C532|monopoly
+43C54|domino
+43C55|dobbelstenen-spel
+43C551|bedrog
+43C551|bedrog
+43C552|dobbelen
+43C56|wedden
+43C561|sport
+43C562|roulette
+43C57|tombola
+43C58|loterij
+43C581|lot
+43C582|pool (totalizator)
+43C582|totalizator
+43C59|woordraadsel
+43C59|enigma
+43C59|puzzel
+43C59|raadsel
+43C591|charade
+43C592|cross-woord
+43C593|jig-saw
+43C6|feest
+43C6|spellen
+43C6|groep
+43C61|verbeuren
+43C62|stoel
+43C62|musical chairs
+43C63|wedstrijd
+43C63|zoenen
+43C63|sensualiteit
+43C631|kokkels
+43C631|hand
+43C631|haute coquilles
+43C631|hot cockles
+43C631|main chaude
+43C631|opvallend
+43C64|frog
+43C64|midden
+43C68|volwassen
+43C68|kinderspelen
+43C69|rough-and-tumble
+43C7|kind
+43C7|kinderspelen
+43C7|spellen
+43C7|spelen
+43C711|running game
+43C71111|lopend
+43C71112|vangen
+43C71113|red rover, red light?
+43C7112|wedstrijd
+43C71121|gevangene
+43C71122|scheidslijn
+43C71122|grond
+43C71123|vangen
+43C71123|groep
+43C71123|aandoenlijk
+43C7113|verbergen
+43C7113|hiding oneself
+43C71131|hide-and-seek
+43C7114|cirkel
+43C7115|verhaal
+43C7116|boog
+43C7116|brug
+43C7116|London Bridge
+43C7117|keten spel
+43C7117|snake-game
+43C71171|train (retinue)
+43C7118|Pinwheel
+43C7118|wervelende
+43C712|jumping
+43C7122|leap-frog
+43C7123|cockalorum
+43C7123|hey cockalorum
+43C7124|hop-scotch
+43C71251|duikelen
+43C71251|tumbling
+43C71252|standing on the head
+43C71253|kruipen
+43C71254|wervelende
+43C7126|sloot-over
+43C71261|pole-vaulting
+43C713|dansen
+43C7132|jumping-rope
+43C7132|touw
+43C7132|skipping-rope
+43C7133|cirkel
+43C7133|square (shape)
+43C7134|row dancing
+43C714|het werpen
+43C7142|steen
+43C7143|stok
+43C7144|muntstuk
+43C7145|fruit
+43C7146|bal
+43C71462|vangen
+43C71463|raken
+43C71463|stok
+43C71464|schoppen
+43C7147|bowling
+43C71481|quoit
+43C71481|ring
+43C715|vinger
+43C715|vuist
+43C715|hand
+43C71511|schaduw
+43C71511|silhouet
+43C71512|wieg kat
+43C71512|snaar
+43C7152|clap spel
+43C7152|opvallend
+43C71521|opstapelen
+43C71522|zak
+43C71522|barsten
+43C7153|tellen
+43C7153|wijzend
+43C7155|rijm
+43C716|volwassen
+43C716|aankleden
+43C716|imitatie
+43C716|handel
+43C717|gissen
+43C7172|jacht
+43C71721|spoor
+43C7173|waarzeggerij
+43C7174|lot
+43C7175|geblinddoekt
+43C71751|blind-man buff
+43C718|swinging game
+43C7181|swingende
+43C7182|wieg
+43C7182|rockende
+43C7183|knee
+43C7183|paardrijden
+43C7184|dragende
+43C71841|dragen op de rug
+43C71841|pick-a-back
+43C719|vechten
+43C719|rough-and-tumble
+43C72|speelbal
+43C721|knikkers
+43C7211|cup-gat
+43C722|top (toy)
+43C7221|wervelende
+43C7222|zweepslagen
+43C723|hoepel
+43C7231|wervelende
+43C724|vliegend
+43C724|kite (toy)
+43C7241|ballon
+43C725|stilt
+43C726|astragali
+43C726|knuckle-bones
+43C727|roller-skating
+43C727|het schaatsen
+43C73|natuur
+43C731|imitatie
+43C732|vogel
+43C732|nest
+43C732|roven
+43C7321|ei
+43C7321|jacht
+43C733|dierlijk
+43C733|plagen
+43C734|dierlijk
+43C735|plant
+43C736|natuurlijk fenomeen
+43C736|fenomenen
+43C736|weer
+43C7361|regen
+43C737|ijs
+43C737|sneeuw
+43C7371|glijbaan
+43C7372|sneeuwpop
+43C73721|sneeuwbal
+43C7373|sneeuwbal
+43C7373|het werpen
+43C7374|stoel
+43C7379|ongeval
+43C7379|breuk
+43C741(...)|kalender
+43C742|school
+43C7421|feest
+43C7421|school festivity
+43C7422|uitstapje
+43C7422|schoolreisje
+43C7422|trip
+43C7423|speelplaats
+43C7424|ondeugendheid
+43C7425|spijbelen
+43C743|kunst
+43C7431|muziek
+43C74311|kitchen-utensils
+43C74311|rough music
+43C74312|fluitend
+43C74313|blaas
+43C74313|erwt
+43C7432|music making
+43C7432|musical instrument
+43C74322|pleasure-fair instruments
+43C7433|singing
+43C75|ondeugendheid
+43C751|schelden
+43C751|getoeter
+43C751|beledigend
+43C752|plagen
+43C7521|diefstal
+43C753|bel
+43C753|door Bell
+43C754|Teddy-boy
+43C755|vandalism
+43C761|tellen
+43C767|thuis
+43C767|terugkerende
+43C768|nastreven
+43C769|wegjagen
+43C769|onderbreking
+43C771|prentenboek
+43C771|lectuur
+43C772|boek
+43C7721|afbeelding
+43C7721|afbeelding
+43C78|speelbal
+43C781|bouw materiaal
+43C7811|opstapelen
+43C7812|bouwsteen
+43C7813|kinderenspel
+43C7814|snijdend
+43C7815|gebouw
+43C7815|huis
+43C7815|model
+43C7816|gebouw
+43C7816|machine
+43C7816|model
+43C7816|voertuig
+43C782|beweging
+43C7821|dansen
+43C7821|pop
+43C7822|revolving toy
+43C7823|molen
+43C783|mechanical toys
+43C7831|motor
+43C7831|stoom
+43C7832|motor
+43C7833|motor
+43C7833|motor
+43C7833|stoom
+43C784|vervoeren
+43C7841|voertuig
+43C78411|grafheuvel
+43C78411|wagon
+43C78412|automobiel
+43C78413|auto
+43C78413|rails
+43C78413|roller-coaster
+43C78414|trein
+43C7842|waters
+43C78421|boot
+43C78422|jacht
+43C78423|motorboat
+43C7843|lucht
+43C7843|luchtvaart
+43C78431|vliegtuig
+43C78432|vliegtuig
+43C78432|model
+43C78432|motor
+43C78433|raket
+43C785|blazen
+43C7851|zeepbel
+43C7851|bubble-blowing
+43C786|huisvrouw
+43C7861|gerecht
+43C78611|tea-service
+43C7862|keuken
+43C78621|oven
+43C78621|fornuis
+43C7863|pop huis
+43C7863|huis
+43C7871|pop
+43C78711|kleren
+43C78719|volwassen
+43C7872|dierlijk
+43C7872|teddybeer
+43C78721|hobby-horse
+43C78721|paard
+43C78722|paard
+43C78722|rocking-horse
+43C78729|volwassen
+43C78729|mascot
+43C7881|boek
+43C7881|plakken
+43C7882|het weven
+43C7883|handwerk
+43C7891|imitatie
+43C7891|miniatuur
+43C7891|model
+43C8|veld
+43C8|grond
+43C8|sport
+43C81|kleedkamer
+43C81|kleedkamer
+43C81|kamer
+43C9|danser
+43C9|dansen
+43C91|een
+43C911|man
+43C912|vrouw
+43C92|paar
+43C92|paar
+43C921|vrouw
+43C922|man
+43C923|aanlokkelijk
+43C94|gemeenschap dansen
+43C94|groep
+43C941|upper class
+43C942|folk dancing
+43C9421|man
+43C9422|vrouw
+43C943|cirkel
+43C95|keten dansen
+43C95|jigging
+43C95|jogging
+43C95|straat
+43CC1141|assembleren
+43CC1141|départ pour la chasse
+43CC1141|groep
+43CC11421|rusten
+43CC1143|drijver
+43CC1144|blazen
+43CC1144|hunting-horn
+43CC1145|Halali
+43CC1146|groep
+43CC1146|portret
+43CC1149|terugkerende
+43CC11491|hunting-seat
+43CC11491|Jagdschloss
+43CC11491|loge
+43CC11491|rendez-vous de chasse
+43D1|ambacht
+43D1|handwerk
+43D1|hobby
+43D2|verzamelen
+44A|staat
+44A|symbool
+44A1|wapen
+44A11|inrichting
+44A2|zegel
+44A21|keten
+44A21|burgemeester
+44A3|kleur
+44A3|vlag
+44A31|banier
+44A31|standaard
+44A311|flag-bearer
+44A311|standard-bearer
+44A32|vlaggestok
+44A32|pool
+44A4|decoratie
+44A4|eer
+44A4|medaille
+44A5|Amerika
+44A5|Egypte
+44A5|Frankrijk
+44A5|Duitsland
+44A5|Italië
+44A5|national symbol
+44A5|Nederland
+44A5|Polen
+44A5|Zweden
+44A5|Venice
+44A51|land
+44A51|nation
+44A51|personification
+44A51|regio
+44A51(...)|Spanje
+44B|Auttorità o Potestà
+44B|overheid
+44B|beroepen
+44B|Politica
+44B|Ripa
+44B|staat
+44B0|governmental system
+44B01|koning
+44B01|Monarchia mondana
+44B01|monarchie
+44B011|aristocratie
+44B011|Aristocratia
+44B02|democratie
+44B02|Democratia
+44B03|Governo della republica
+44B03|republiek
+44B04|koloniale systeem
+44B041|imperialism
+44B09|Tirannide
+44B09|tirannie
+44B091|Ragione di Stato
+44B091|reason of state
+44B1|heerser
+44B10|deugd
+44B11|rang
+44B111|galerij
+44B111|serie
+44B1111|dynastie
+44B112|tsaar
+44B112|keizer
+44B112|tsaar
+44B1121|mythe
+44B1121|terugkerende
+44B113|koning
+44B114(DOGE)|doge
+44B115|president
+44B1151|vice-president
+44B116|regent
+44B116|vervanging
+44B116|viceroy
+44B1161|stadtholder
+44B117|feudal lord
+44B117|heer
+44B1171|vassal
+44B119|tiran
+44B12|voor
+44B12|koning
+44B12|royal event
+44B121|publiek
+44B1211|hal
+44B1211|kamer
+44B1211|throne-room
+44B1212|troon
+44B122|installatie
+44B122|investiture
+44B1221|knighting
+44B1221|adel
+44B1222|vermogen
+44B1222|transfer of power
+44B1223|geven
+44B1223|voorrecht
+44B123|free pardon
+44B123|barmhartigheid
+44B123|pardoning
+44B124|raadgever
+44B125|bestellen
+44B126|enfeoffment
+44B127|onderwerp
+44B1271|geven
+44B1271|eer
+44B1271|mark
+44B1272|vervanging
+44B12721|Damocles
+44B12721|zwaard
+44B128|informele
+44B128|onderwerp
+44B129|kwaad
+44B129|genezing
+44B129|king's evil
+44B129|aandoenlijk
+44B13|voor
+44B13|eren
+44B131|acclamatie
+44B1311|loyaliteit
+44B1311|eed
+44B1311|bezwering
+44B132|buigen
+44B1321|genuflexion
+44B1322|kneeling
+44B1323|uitputting
+44B133|vlag
+44B134|kanon
+44B134|salvo
+44B1341|geboorte
+44B1341|huwelijk
+44B1341|royal event
+44B135|betalen
+44B135|schatting
+44B14|apotheose
+44B15|rechtbank
+44B15|gezin
+44B15|royal family
+44B150|Corte
+44B151|dynastie
+44B1511|gemalin
+44B1511|empress
+44B1511|koningin
+44B15111|prince consort
+44B1512|kind
+44B15121|prins
+44B151211|Kroon prins
+44B15122|prinses
+44B151221|kroonprinses
+44B15123|illegitimate child
+44B1513|ouders
+44B15131|vader
+44B15132|moeder
+44B15132|queen mother
+44B1515|favoriet
+44B152|hoveling
+44B152|household
+44B152|train (retinue)
+44B1521|meester
+44B1522|dignitaris
+44B1523|page (servant)
+44B1524|hofnar
+44B1524|dwaas
+44B1524|jester
+44B15241|attribuut
+44B152411|pet
+44B152411|fool's cap
+44B152412|snuisterij
+44B1525|eten
+44B1525|proever
+44B1525|testen
+44B1526|lackey
+44B1526|personeel
+44B1527|lijfwacht
+44B153|ceremonie
+44B153|etiquette
+44B1531|hoffelijkheid
+44B154|festival
+44B155|dagelijks leven
+44B16|installatie
+44B16|successie
+44B161|kiezen
+44B161|verkiezing
+44B1611|proclamatie
+44B16111|verheffing
+44B16111|schild
+44B1612|zalving
+44B1613|kroon
+44B1613|offer
+44B1613|bol
+44B1613|regalia
+44B1613|sceptre
+44B1619|usurpation
+44B162|kroning
+44B162|bekroning
+44B1624|zalving
+44B1625|kroon
+44B1625|offer
+44B1625|bol
+44B1625|regalia
+44B1625|sceptre
+44B163|zwaard
+44B1641|eed
+44B165|viering
+44B165|ceremonie
+44B1651|spectakel
+44B1651|parade
+44B1651|processie
+44B16511|kroning optocht
+44B168|refusing (order, request)
+44B1681|kroon
+44B1681|trampling
+44B169|troonsafstand
+44B169|sending away
+44B1692|onwil
+44B16921|tegenstander
+44B16921|vluchtende
+44B16922|arresteren
+44B16923|doden
+44B16923|koning
+44B16923|moord
+44B16923|regicide
+44B17|slecht
+44B19|kroonjuwelen
+44B19|insigne
+44B19|regalia
+44B191|kroon
+44B1911|diadeem
+44B192|sceptre
+44B192|personeel
+44B1921|arm
+44B1921|hand
+44B1921|justitie
+44B1922|lans
+44B1922|speer
+44B193|kruis
+44B193|bol
+44B193|rijksappel
+44B194|wapen
+44B195|zegel
+44B196|standaard
+44B197|mantel
+44B197|toga
+44B1971|keizer
+44B1972|koning
+44B198|borstplaat
+44B2|raad
+44B2|representative bodies
+44B21|Rijksoverheid
+44B211|minister
+44B2111|premier
+44B2113|secretary of state
+44B2113|state secretary
+44B22|provincie
+44B221|gouverneur
+44B23|stad
+44B23|municipal government
+44B231|burgemeester
+44B231|burgemeester
+44B232|gemeenteraad
+44B233|hal
+44B233|townhall
+44B24|koloniale overheid
+44B241|koloniale gouverneur
+44B241|gouverneur
+44B3|administratie
+44B3|controle
+44B3|water-control
+44B31|dijkgraaf
+44B31|reeve
+44B32|inspecting
+44B4|diplomatie
+44B4|diplomaat
+44B41|ambassadeur
+44B411|vertrekkende
+44B412|reis
+44B413|receiving a person
+44B414|verzoening
+44B42|montage
+44B42|conferentie
+44B42|onderhandelen
+44B421|vrede
+44B4211|document
+44B4211|ondertekening
+44B4211|treaty
+44B4212|proclamatie
+44B43|consulaire dienst
+44B44|geloofsbrieven
+44B44|document
+44B44|offer
+44B45|bondgenootschap
+44B45|eenheid
+44B450|Lega
+44B5|wet
+44B511|senaat
+44B511|Upper House
+44B512|kamer
+44B512|Lower House
+44B512|parlement
+44B5121|member of parliament
+44B52|proclamatie
+44B521|omroeper
+44B521|geschreeuw
+44B522|poster
+44B532|legende
+44B532|oorsprong
+44B6|good and bad
+44B61|goed
+44B610|allegorie
+44B610|personification
+44B611|Utopia
+44B62|slecht
+44B621|ontevredenheid
+44BB1111|dynastie
+44BB1121|mythe
+44BB1121|terugkerende
+44BB1151|vice-president
+44BB1161|stadtholder
+44BB1211|hal
+44BB1211|kamer
+44BB1211|throne-room
+44BB1212|troon
+44BB1311|loyaliteit
+44BB1311|eed
+44BB1311|bezwering
+44BB1321|genuflexion
+44BB1322|kneeling
+44BB1323|uitputting
+44BB1341|geboorte
+44BB1341|huwelijk
+44BB1341|royal event
+44BB15121|prins
+44BB151211|Kroon prins
+44BB15122|prinses
+44BB151221|kroonprinses
+44BB15123|illegitimate child
+44BB15131|vader
+44BB15132|moeder
+44BB15132|queen mother
+44BB1521|meester
+44BB1522|dignitaris
+44BB1523|page (servant)
+44BB1524|hofnar
+44BB1524|dwaas
+44BB1524|jester
+44BB1525|eten
+44BB1525|proever
+44BB1525|testen
+44BB1526|lackey
+44BB1526|personeel
+44BB1527|lijfwacht
+44BB1531|hoffelijkheid
+44BB161|kiezen
+44BB161|verkiezing
+44BB162|kroning
+44BB162|bekroning
+44BB163|zwaard
+44BB1641|eed
+44BB165|viering
+44BB165|ceremonie
+44BB1651|spectakel
+44BB1651|parade
+44BB1651|processie
+44BB168|refusing (order, request)
+44BB1681|kroon
+44BB1681|trampling
+44BB169|troonsafstand
+44BB169|sending away
+44BB16921|tegenstander
+44BB16921|vluchtende
+44BB16922|arresteren
+44BB16923|doden
+44BB16923|koning
+44BB16923|moord
+44BB16923|regicide
+44BB1911|diadeem
+44BB1971|keizer
+44BB1972|koning
+44C|burger
+44C|burgerrechten
+44C|rechts
+44C1|burgerschap
+44C1|nationaliteit
+44C11|land
+44C11|patriotism
+44C110|Amor della patria
+44C110|Ripa
+44C12|emigration
+44C13|immigratie
+44C14|internal migration
+44C14|migratie
+44C14|population redistribution
+44C14|hervestiging
+44C14|transmigration
+44C141|stad
+44C141|rural life
+44C141|rural-urban migration
+44C141|urban life
+44C141|dorp
+44C142|stad
+44C142|rural life
+44C142|urban life
+44C142|urban-rural migration
+44C142|dorp
+44C19|verraden
+44C19|land
+44C19|verraad
+44C2|stemming
+44C21|campagne
+44C21|politiek
+44C22|polling station
+44C22|voting place
+44C221|kraam
+44C221|cubicle
+44C221|polling booth
+44C221|voting booth
+44C221|voting cubicle
+44C222|stemming
+44C222|voting ballot
+44C223|doos (container)
+44C223|urn
+44C223|voting receptacle
+44C224|machine
+44C224|voting machine
+44C23|verkiezing
+44C231|propaganda
+44C231|voting propaganda
+44C24|emancipatie
+44C24|enfranchisement of women
+44C24|bevrijdende
+44C24|vrouw
+44C24|women's liberation
+44C241|suffragette
+44C29|vechten
+44C3|politiek
+44C30|Politica
+44C30|Ripa
+44C31|propaganda
+44C311|montage
+44C312|karikatuur
+44C312|satire
+44C32|klasse
+44C32|oorlog
+44C33|politieke partij
+44C34|party leader
+44C34|politicus
+44C35|ideologie
+44C35|political ideology
+44C35|theory
+44C4|demonstratie
+44C41|staking
+44C42|agitator
+44C5|vrijheid
+44C5|journalistiek
+44C5|spraak
+44C59|censuur
+44C591|brandende (boeken)
+44C6|emancipatie
+44C6|racialism
+44D|administratie
+44D|beroepen
+44D1|bureau
+44D1|register
+44D2|belasting
+44D20|Datio overo Gabella
+44D20|Ripa
+44D21|verzamelen
+44D21|tax-collector
+44D211|betalen
+44D22|douane
+44D221|poort
+44D221|toll gate
+44D222|smuggling
+44D2221|drug
+44D2221|handel
+44D223|paspoort
+44D223|visum
+44D224|controle
+44D224|onderzoek
+44D23|financiën
+44D3|grens
+44D31|het merken
+44D311|pool
+44D311|steen
+44D32|land
+44D32|register
+44D321|scheidslijn
+44D4|ambtenaar
+44D4|functionaris
+44D4|officieel
+44D4|statesman
+44E|overheidsdienst
+44E|beroepen
+44E|service
+44E1|levering
+44E1|water
+44E11|toren
+44E11|water-tower
+44E12|zuivering
+44E13|waterleiding
+44E131|pipe system
+44E14|fontein
+44E14|public pump
+44E14|pomp
+44E14|utilitarian
+44E2|lamp
+44E2|straat
+44E3|gas
+44E3|levering
+44E4|elektriciteit
+44E4|levering
+44E41|elektriciteitscentrale
+44E41|station
+44E42|kabel
+44E42|hoogspanningslijn
+44E42|pylon
+44E5|verzamelen
+44E5|vuilnis
+44E51|automobiel
+44E51|truck
+44E52|emmer
+44E52|vuilnisbak
+44E53|schoonmaak
+44E53|street sweeping
+44E53|vegen
+44E6|eten
+44E6|distributie
+44E61|kaart
+44E61|rationing card
+44E62|cook-winkel
+44E62|keuken
+44E62|soup-kitchen
+44F|revolutie
+44F0|Rebellione
+44F0|Ripa
+44F0|Seditio
+44F0|Seditione civile
+44F1|rel
+44F1|straat
+44F11|barricade
+44F14|plundering
+44F2|burgeroorlog
+44F2|oorlog
+44F3|noodgeval
+44F31|avondklok
+44F4|krijgsraad
+44F4|justitie
+44F4|summary justice
+44F41|vonnis
+44F51|samenzwering
+44F51|plotten
+44F511|eed
+44F52|preparation (battle, war)
+44F52|geheimhouding
+44F52|wapen
+44F53|board (commissie)
+44F53|groep
+44F531|patriot
+44F532|ring-leader
+44F541|agitator
+44F541|spraak
+44F542|volle laag
+44F542|spotprent
+44F542|smaad
+44F542|propaganda
+44F55|geweld
+44F551|sabotage
+44F552|poging (aanval)
+44F552|moord
+44F552|politiek
+44F553|anarchisme
+44F5531|bom
+44F554|vernietiging
+44F554|bouwwerk
+44F555|vernietiging
+44F555|monument
+44F555|portret
+44F59|nederlaag
+44F59|mislukking
+44F59|onderdrukking
+44F6|overheid
+44F61|capturing
+44F62|uitstoten
+44F62|verdrijven
+44F621|vluchtende
+44F63|ballingschap
+44F630|Esilio
+44F630|Ripa
+44F631|emigrant
+44F631|vluchteling
+44F7|overheid
+44F71|proclamatie
+44F711|viering
+44F7111|dansen
+44F7111|vrijheid
+44F7111|boom
+44F72|rechtbank
+44F72|justitie
+44F73|raad
+44F741|angst
+44F741|reign of terror
+44F741|terreur
+44F7411|Agent Provocateur
+44F7411|provocative agent
+44F7412|rapportage
+44G|justitie
+44G|wet
+44G|beroepen
+44G0|allegorie
+44G0|symbool
+44G01|Legge
+44G01|Legge civile
+44G01|Ripa
+44G02|Rechtsdenkmäler
+44G03|rechtsgeding
+44G1|proces
+44G11|rechtbank
+44G111|beschuldigen
+44G112|vonnis
+44G1121|executie
+44G1121|bestellen
+44G113|vrijspraak
+44G12|bouwwerk
+44G121|rechtbank
+44G1211|court-kamer
+44G1211|kamer
+44G122|teken
+44G1221|Rolandsäule
+44G1221|standbeeld
+44G123|heiligdom
+44G123|teken
+44G1231|kruis
+44G1231|market cross
+44G13|rechter
+44G130|Giudice
+44G130|Ripa
+44G131(...)|officieel
+44G14|jury
+44G1411|Vehmgericht
+44G1411|vehmic court
+44G1412|tribunaal
+44G15|witness
+44G151|vinger
+44G151|eed
+44G151|twee
+44G1511|baard
+44G1511|vlecht
+44G1511|hand
+44G1511|vrouw
+44G152|document
+44G153|bezoekende
+44G159|false witness
+44G159|perjury
+44G16|advocaat
+44G16|advocaat
+44G161|advocaat
+44G162|raadgever
+44G163|pleading
+44G17|beproeving
+44G171|brand
+44G171|hitte
+44G172|water
+44G1731|overspel
+44G1731|Bocca della Verità
+44G1731|hand
+44G1731|mond
+44G1731|waarheid
+44G174|duel
+44G2|public safety
+44G2|veiligheid
+44G21|night-patrol
+44G21|patrouille
+44G211|bewaker
+44G211|tower sentry
+44G22|politie
+44G221|sheriff
+44G222|deurwaarder
+44G223|politieagent
+44G23|Crimineel onderzoek
+44G23|onderzoek
+44G231|detective
+44G231|private detective
+44G232|lijkschouwer
+44G232|post-mortem
+44G233|finger-prints
+44G24|crimineel
+44G24|nastreven
+44G241|groep
+44G241|posse
+44G242|hond
+44G242|police dog
+44G25|arresteren
+44G251|handboeien
+44G252|vervoeren
+44G253|ondervraging
+44G29|balling
+44G291|heiligdom
+44G3|strafrechtelijke wet
+44G3|penal law
+44G3|straf
+44G311|gevangenis
+44G3110|allegorie
+44G3110|symbool
+44G3111|gaoler
+44G3111|personeel
+44G312|ketens
+44G312|belemmering
+44G312|gevangene
+44G3121|bindend
+44G3121|hand
+44G313|cel
+44G313|gevangene
+44G314|kamp
+44G314|Chain Gang
+44G314|hard labour
+44G314|workhouse
+44G315|bezoekende
+44G3151|bevrijdende
+44G3151|gevangene
+44G3151|losgeld
+44G3152|bevrijdende
+44G3152|wonder
+44G3152|gevangene
+44G316|poging (poging)
+44G316|ontsnappen
+44G317|rehabilitatie
+44G318|binnenplaats
+44G318|gevangene
+44G319|vrijgeven
+44G3191|borgtocht
+44G3191|betalen
+44G32|beul
+44G32|hangman
+44G321|executie
+44G321|instrument
+44G321|martelen
+44G321(BIRCH ROD)|berk
+44G321(BIRCH ROD)|staaf
+44G321(CROSS)|kruis
+44G321(GALLOWS)|galg
+44G321(GALLOWS)|gibbet
+44G321(GALLOWS)|opknoping
+44G321(GRIDIRON)|gridiron
+44G321(RACK)|rek
+44G321(SCOURGE)|gesel
+44G321(SCOURGE)|whip
+44G321(STAKE)|staak
+44G33|martelen
+44G34|dood
+44G34|executie
+44G341|last hours
+44G34111|leave-taking
+44G34111|familie
+44G34111|sprekend
+44G3412|troostend
+44G3412|bidden
+44G3412|geest
+44G3413|repenting
+44G3414|wanhoop
+44G3415|steiger
+44G342|steiger
+44G349|beeltenis
+44G349|human figure
+44G35|lijk
+44G35|executie
+44G35|openbaar
+44G35|tonen
+44G3511|hoofd
+44G36|lijk
+44G36|executie
+44G36|tonen
+44G3611|hoofd
+44G37|public punishment
+44G371|minachting
+44G371|spotachtig
+44G371|public ridicule
+44G3711|effecten
+44G3712|ducking
+44G372|branding
+44G373|afstraffing
+44G3731|scourging
+44G38|uitstoten
+44G38|ballingschap
+44G381|deportatie
+44G382|vragen
+44G382|sheltering
+44G39|modification
+44G39|voorkomen
+44G399|pardoning
+44G4|burgerlijk recht
+44G41|rechtsgeding
+44G42|fijn
+44G43|capturing
+44G43|confisqueren
+44G43|koopwaar
+44G43|eigenschap
+44G44|dwingen
+44G44|selling
+44G45|notary
+44G48|arbitrage
+44G49|schelmerij
+44G49|vermanende
+44G49|rechtsgeding
+44G5|crimineel
+44G51|misdrijf
+44G510|Ripa
+44G510|Sceleratezza o vitio
+44G511|moordenaar
+44G5111|moord
+44G512|poisoner
+44G52|roven
+44G52|diefstal
+44G521|grot
+44G521|robber's cave
+44G5220|Rapina
+44G5220|Ripa
+44G53|dief
+44G531|diefstal
+44G54|dief
+44G540|Furto
+44G540|Ripa
+44G541|zakkenroller
+44G542|winkeldief
+44G543|fence (receiver)
+44G543|ontvanger
+44G544|diefstal
+44G55|vervalser
+44G551|falsification
+44G56|piraat
+44G561|schip
+44G562|zeeroof
+44G59|gereedschap
+44G591|dievenlantaarn
+44G591|lantaarn
+44G6|exemplary judge
+44G6|Gerechtigkeitsbilder
+44G6|rechter
+44G61|afsnijden
+44G61|hand
+44G69|slechte rechter
+44G69|corruptie
+44G690|Corruttella ne 'Giudici
+44G690|Ripa
+44G8|informele
+44G8|self-help
+44G81|lynching
+44G82|bloed-wraak
+44G82|wraak
+44G82|vendetta
+44G83|bevrijdende
+44G83|gevangene
+44G89|het redden
+44G9|misbruik
+44G9|corruptie
+44G9|moord
+44G91|genocide
+44GG51|misdrijf
+44GG510|Ripa
+44GG510|Sceleratezza o vitio
+44GG511|moordenaar
+44GG5111|moord
+44GG512|poisoner
+44GG52|roven
+44GG52|diefstal
+44GG53|dief
+44GG54|dief
+44GG55|vervalser
+44GG56|piraat
+44GG561|schip
+44GG562|zeeroof
+44GG59|gereedschap
+45|military affairs
+45|beroepen
+45A|war and peace
+45A1|oorlog
+45A10|allegorie
+45A10|Guerra
+45A10|Ripa
+45A10|symbool
+45A11|militarisme
+45A12|oorlogsverklaring
+45A13|vermanende
+45A13|propaganda
+45A131|vijand
+45A132|preparation (battle, war)
+45A14|effect
+45A141|verschrikking
+45A1411|bloedbad
+45A142|misdrijf
+45A143|wetenschap
+45A144|technologie
+45A145|economie
+45A1459|woekerwinst maken
+45A1459|war-profiteer
+45A2|vrede
+45A20|allegorie
+45A20|Pace
+45A20|Pax
+45A20|Ripa
+45A20|symbool
+45A21|anti-militarisme
+45A21|pacifisme
+45A22|ontwapenende
+45A23|effect
+45A231|zegen
+45A232|overvloed
+45A232|Abundantia
+45A232|Pax et Abundantia
+45A232|welvaart
+45A233|justitie
+45A233|zoenen
+45A233|vrede
+45A233|Psalm 85
+45A3|overwinning
+45A30|Ripa
+45A30|Victoria
+45A30|Vittoria
+45A30|Vittoria degl'antichi
+45A30|Vittoria navale
+45A31|glorie
+45A31|triomf
+45A4|nederlaag
+45A41|schande
+45A42|capitulatie
+45A5|koude Oorlog
+45A5|oorlog
+45A51|psychologie
+45A6|fifth column
+45A61|sabotage
+45A9|neutrale
+45A9|non-belligerent
+45B|soldaat
+45B1|enlisting
+45B11|werving
+45B111|krimp
+45B112|contract
+45B113|vrijwilligheid
+45B114|dienstplicht
+45B1141|krimp
+45B1141|dwingen
+45B1141|press gang
+45B1141|shanghai
+45B115|lot
+45B1151|vrijgeven
+45B116|onderzoek
+45B116|geneeskunde
+45B1161|verwerpen
+45B117|vervanging
+45B12|vertrekkende
+45B13|aankomst
+45B13|bedrijf station
+45B14|geweten
+45B14|gewetensbezwaarde
+45B14|objecting
+45B2|opleiding
+45B21|instrueren
+45B211|boor (militaire)
+45B212|behandeling
+45B212|wapen
+45B2121|rifle range
+45B2121|het schieten
+45B213|oefening
+45B22|theory
+45B23|manoeuvre
+45B24|wedstrijd
+45B25|binnenkomst
+45B251|eed
+45B2511|woordbreuk
+45B28|academie
+45B281|schip
+45B3|military service
+45B3|service
+45B31|bewaker
+45B311|veranderen
+45B312|guard-room
+45B312|kortegaard
+45B312|kamer
+45B313|uitdagend
+45B314|aanvallende
+45B315|sentry box
+45B32|troep
+45B321|inspecting
+45B33|dag
+45B33|scheidslijn
+45B331|reveille
+45B331|trompet
+45B332|roll call
+45B333|tatoeëren
+45B334|vlag
+45B334|tonen
+45B3341|hijsen
+45B3341|verheffing
+45B3342|hijsen
+45B3342|verlagen
+45B41|saluting
+45B411|saluut
+45B412|presenting arms
+45B412|geweer
+45B412|tonen
+45B412|wapen
+45B413|vlag
+45B414|vlag
+45B415|kanon
+45B415|salvo
+45B42|discipline
+45B421|politie
+45B421|provoost
+45B422|rechtbank
+45B422|krijgsraad
+45B4221|drum-head krijgsraad
+45B423|straf
+45B4231|arresteren
+45B4232|oefening
+45B4232|hard labour
+45B4233|kastijdende
+45B42331|gauntlet (punishment)
+45B42331|lopend
+45B4234|gevangenis
+45B424|vernedering
+45B424|rang
+45B425|executie
+45B43|eer
+45B431|promotie
+45B432|citaat
+45B432|prijzend
+45B433|decoratie
+45B433|mark
+45B433|medaille
+45B49|muiterij
+45B49|opstand
+45B5|viering
+45B51|spectakel
+45B51|parade
+45B52|demonstratie
+45B53|decoratie
+45B53|vlag
+45B54|montage
+45B54|vergadering
+45B54|officier
+45B55|bewaker
+45B55|eer
+45B6|buiten dienst
+45B61|recreatie
+45B611|kantine
+45B612|knoeien
+45B62|vertrekken
+45B621|bedrijf
+45B621|merry company
+45B621|hoer
+45B7|voltooiing
+45B71|demobilisatie
+45B72|ontbinding
+45B73|thuis
+45B73|terugkerende
+45B81|veteraan
+45B82|verlamde
+45B82|invalide
+45B83|verlamde
+45B83|invalide
+45B83|Hôtel des Invalides
+45B83|old-soldiers-home
+45B84|montage
+45B84|herdenking
+45B84|bijeenkomst
+45B9|desertie
+45B91|vijand
+45C|uitrusting
+45C|levering
+45C1|wapen
+45C10|Arme
+45C10|Ripa
+45C11|gieten wapens
+45C11|het werpen
+45C11(BALLISTA)|ballista
+45C11(SLING)|slinger
+45C11(SPEAR)|speer
+45C12|opvallend
+45C12(CLUB)|club (wapen)
+45C13|doordringend
+45C13|steekpartij
+45C13(DAGGER)|dolk
+45C13(RAPIER)|rapier
+45C13(SWORD)|zwaard
+45C131(BLADE)|mes
+45C131(GRIP)|greep
+45C131(GRIP)|handvat
+45C131(GRIP)|gevest
+45C131(GUARD)|bewaker
+45C131(POMMEL)|stompen
+45C14|helved weapons
+45C14|doordringend
+45C14|pole-arms
+45C14|steekpartij
+45C14|opvallend
+45C14(HALBERD)|halberd
+45C14(JAVELIN)|speer
+45C14(LANCE)|lans
+45C14(PIKE)|pike (weapon)
+45C15|boogschutter
+45C15(ARROW)|pijl
+45C15(BOW AND ARROW)|pijl en boog
+45C15(BOW)|boog (wapen)
+45C15(CROSSBOW)|kruisboog
+45C16|vuurwapens
+45C16|het schieten
+45C16(CANNON)|kanon
+45C16(RIFLE)|geweer
+45C161|munitie
+45C1611|arsenaal
+45C1611|opslagruimte
+45C1612|ramp
+45C1612|explosie
+45C1612|buskruit
+45C17|ontplofbaar
+45C17|projectile
+45C17(GUNPOWDER)|buskruit
+45C17(MINE)|mine (weapon)
+45C18|biologisch wapen
+45C18|chemisch wapen
+45C18|nuclear weapon
+45C19|bescherming
+45C19(...)|gas-mask
+45C19(SHIELD)|schild
+45C2|kostuum
+45C21|uniform
+45C211|pet
+45C212|wapenstok
+45C212|personeel
+45C22|pantser
+45C221|helm
+45C222|arm beschermer
+45C222|bescherming
+45C2221|gauntlet (glove)
+45C2221|handschoen
+45C2221|hand protector
+45C223|kuras
+45C23|quiver
+45C231|schede
+45C231|schede
+45C24|camouflage
+45C3|eten
+45C32|reserve
+45C33|maaltijd
+45C33|voorbereiding
+45C34|vervoeren
+45C35|inspecting
+45C36|portie
+45C37|maaltijd
+45C4|schuilplaats
+45C41|kamp
+45C41|tent
+45C42|kazerne
+45C421|garrison
+45C43|civiel
+45C43|gast
+45C43|quartering (lodging)
+45C431|requisitie
+45C432|bevelschrift
+45C433|goed
+45C433|receiving a person
+45C4331|helpen
+45C434|slecht
+45C434|receiving a person
+45C4341|wraak
+45C439|safeguard
+45C5|geld
+45C51|betalen
+45C511|pay-master
+45C52|vragen
+45C6|camp-aanhangers
+45C61|man
+45C61|sutler
+45C62|vrouw
+45C621|kantine-vrouw
+45C621|sutler
+45C63|Hurenwebel
+45C63|hoer
+45C7|zorg
+45C7|hygiëne
+45C7|geneeskunde
+45C7|oorlog
+45C71|lijk
+45C71|sick (the)
+45C71|vervoeren
+45C71|wounded person
+45C711|slagveld
+45C711|dragende
+45C712|voertuig
+45C72|verpleging
+45C72|sick (the)
+45C72|wounded person
+45C721|slagveld
+45C722|gevecht
+45C723|field-hospital
+45C723|ziekenhuis
+45C724|lazaretto
+45C8|zorg
+45C81|welzijn
+45C82|kapelaan
+45C82|religie
+45C9|muziek
+45C91|band (muziek)
+45C92|signaal
+45D1|vlag
+45D1|standaard
+45D11|insigne
+45D12|standard-bearer
+45D2|divisie
+45D2|krachten
+45D21|leger
+45D22|marine
+45D23|luchtmacht
+45D3|rang
+45D31|soldaat
+45D311|bevelhebber
+45D311|algemeen
+45D311|maarschalk
+45D312(...)|officier
+45D313|horse-soldier
+45D313|hussar
+45D313|private soldier
+45D32|marine
+45D321|admiraal
+45D321|bevelhebber
+45D322|officier
+45D323|zeeman
+45D33|luchtmacht
+45E1|communicatie
+45E2|trein
+45E2|vervoeren
+45E3|voertuig
+45E31|strijdwagen
+45E32(...)|tank (vehicle)
+45E4|dierlijk
+45E5|bouwkunde
+45E51|brug
+45E51|improvisatie
+45E51|tijdelijk
+45E511|pontoon bridge
+45E512|Bailey brug
+45E52|barricade
+45E52|obstructie
+45F|preparation (battle, war)
+45F|oorlog
+45F1|raad
+45F11|ontwerp
+45F12|onderhandelen
+45F2|intelligence services
+45F21|observatie
+45F21|scouting
+45F211|guiding
+45F211|gevangene
+45F212|mechanical equipment
+45F22|spion
+45F220|Ripa
+45F220|Spia
+45F221|overhearing
+45F221|radio
+45F221|telefoon
+45F222|arresteren
+45F23|contraspionage
+45F3|assembleren
+45F3|krachten
+45F3|troep
+45F31|mobilization
+45F32|requisitie
+45F33|concentratie
+45F34|reeks
+45F4|vervoeren
+45F4|troep
+45F41|leave-taking
+45F42|marcherend
+45F43|nacht
+45F5|leger
+45F5|reizend
+45F6|aanpakken
+45F6|hoofdman
+45F6|algemeen
+45F7|kapelaan
+45F7|bidden
+45F7|religious service
+45F8|uitdagend
+45F8|vijand
+45F9|verraden
+45F9|verraad
+45F90|Ripa
+45F90|Tradimento
+45G|beschaving
+45G|cultuur
+45G|verdedigen
+45G|military affairs
+45G|beroepen
+45G|maatschappij
+45G|oorlog
+45G1|communicatie
+45G1|snijdend
+45G11|baken
+45G11|verwijderen
+45G11|roadsign
+45G12|obstructie
+45G121|leger
+45G1211|weg
+45G12111|barricade
+45G12111|straat
+45G1212|caltrop
+45G1212|man-trap
+45G1212|nail (spike)
+45G12121|pit
+45G12121|val
+45G12122|land-mine
+45G12122|mine (weapon)
+45G12122|mine-field
+45G12123|prikkeldraad
+45G122|marine
+45G1221|keten
+45G1222|mine (weapon)
+45G1222|mine-field
+45G123|luchtmacht
+45G1231|vliegveld
+45G1231|vernietiging
+45G1232|search-light
+45G1233|ballon
+45G2|bescherming
+45G2|self-protection
+45G21|schuilplaats
+45G21|ondergronds
+45H|vechten
+45H|oorlog
+45H1|aanvallende
+45H11|signaal
+45H111|schreeuw
+45H111|war-cry
+45H12|hinderlaag
+45H13|stratagem
+45H130|Ripa
+45H130|Stratagemma militare
+45H2|verdedigen
+45H21|signaal
+45H22|tegenaanval
+45H3|gevecht
+45H31|bombardement
+45H32|aanvallende
+45H33|boarding
+45H33|single combat
+45H331|superior forces
+45H34|single combat
+45H34|vervanging
+45H341|duel
+45H342|groep
+45H4|nederlaag
+45H4|vluchtende
+45H4|nastreven
+45H4|overwinning
+45H5|nederlaag
+45H5|overwinning
+45H51|superior forces
+45H52|wounded person
+45H53|doden
+45H54|uithongering
+45H54|levering
+45H6|guerilla warfare
+45I1|prisoner of war
+45I11|overgave
+45I12|ontwapenende
+45I13|deportatie
+45I14|ondervraging
+45I141|brain-wassen
+45I141|martelen
+45I15|zorg
+45I151|kamp
+45I16|uitwisselen
+45I161|losgeld
+45I17|bevrijdende
+45I2|gijzelaar
+45I3|communiqué
+45I31|bekritiseren
+45I4|onderhandelen
+45I4|wapenstilstand
+45I41|brug
+45I41|ruin
+45I5|stoppen
+45I5|schorsing
+45I51|Trève-Dieu
+45I51|wapenstilstand
+45I52|begrafenis
+45I53|wapenstilstand
+45I530|Ripa
+45I530|Tregua
+45I6|overwinnaar
+45I61|triomf
+45I611|bekroning
+45I611|laurel
+45I612|chaining
+45I612|strijdwagen
+45I612|gevangene
+45I62|riding (on horseback)
+45I62|trampling
+45I63|aangrijpend
+45I63|haar
+45I7|nederlaag
+45I71|voor
+45I71|overwinnaar
+45K|position-war
+45K|oorlog
+45K1|bouwkunde
+45K1|vestingwerk
+45K11|tijdelijk
+45K111|loopgraaf
+45K112|land
+45K112|no man's land
+45K12|duurzaamheid
+45K121|palisades
+45K122|bastion
+45K122|bolwerk
+45K13|vesting
+45K14|stad
+45K141|stadsmuur
+45K1411|machicolation
+45K1412|kanteel
+45K1412|crenellation
+45K1413|uitvlucht
+45K142|toren
+45K143|slotgracht
+45K1431|brug
+45K1431|ophaalbrug
+45K144|city-poort
+45K1441|portcullis
+45K2|aanvallende
+45K21|belegering
+45K22|blokkade
+45K23|bombardement
+45K231|stormram
+45K231|RAM
+45K231|wapen
+45K24|Attaques brusquées
+45K25|travaux d'approche
+45K27|stadsmuur
+45K27|vesting
+45K3|verdedigen
+45K31|stad
+45K31|vestingwerk
+45K32|aanvallende
+45K33|stad
+45K33|belegering
+45K331|vestingwerk
+45K4|vastleggen (stad)
+45K5|raising the siege
+45K5|belegering
+45K51|reliëf
+45K52|bevrijdende
+45L|occupation (invasion)
+45L1|overgave
+45L11|sleutel
+45L12|binnenkomst
+45L12|marcherend
+45L13|nederlaag
+45L2|heffing
+45L2|schatting
+45L21|leveren
+45L22|scheidslijn
+45L22|bederven
+45L23|dragende
+45L23|bederven
+45L29|safe conduct
+45L3|plundering
+45L31|bederven
+45L311|trofee
+45L3111|ornament
+45L3111|praal
+45L3111|tropaion
+45L3111|wapen
+45L4|stad
+45L4|vernietiging (van de stad)
+45L40|allegorie
+45L40|personification
+45L41|sloop
+45L42|setting on fire
+45L43|ruin
+45M|civiel
+45M|non-combatants
+45M11|gevecht
+45M12|soldaat
+45M13|vechten
+45M13|franc tireur
+45M2|soldaat
+45M3|occupation (invasion)
+45M31|house-to-house search
+45M31|zoeken
+45M39|partijdig
+45M39|underground movement
+45M391|sabotage
+45M4|bombardement
+45M5|ontsnappen
+45M5|vluchteling
+45M51|reizend
+45M52|kamp
+45M52|rusten
+45M6|kamp
+45M6|internment camp
+45M7|kamp
+45M7|concentratiekamp
+46A|gemeenschap
+46A1|social stratification
+46A1|laagvorming
+46A11|klasse
+46A11|scheidslijn
+46A111|geestelijken
+46A111|gewone
+46A111|Estates (three)
+46A111|adel
+46A111|drie
+46A12|ridderlijkheid
+46A12|klasse
+46A12|ridderschap
+46A12|adel
+46A12|patriciate
+46A121|kroon
+46A122(...)|wapen
+46A122(...)|heraldiek
+46A122(...)2|kuif
+46A122(...)3|inrichting
+46A122(...)3|motto
+46A122(...)4|impresa
+46A122(...)5|banier
+46A122(...)6|zegel
+46A123|heraut
+46A124|ridder
+46A1241|knighthood order
+46A1241|bestellen
+46A1241(...)1|insigne
+46A1241(...)1|keten
+46A1241(...)1|insigne
+46A1241(GOLDEN FLEECE)|Golden Fleece
+46A1241(GOLDEN FLEECE)1|insigne
+46A1241(GOLDEN FLEECE)1|keten
+46A1241(GOLDEN FLEECE)1|insigne
+46A1241(HOLY SPIRIT)|Holy Spirit
+46A1241(HOLY SPIRIT)1|insigne
+46A1241(HOLY SPIRIT)1|keten
+46A1241(HOLY SPIRIT)1|insigne
+46A1241(ST. JOHN)|John (St.)
+46A1241(ST. JOHN)1|insigne
+46A1241(ST. JOHN)1|keten
+46A1241(ST. JOHN)1|insigne
+46A1241(TEUTONIC ORDER)|Teutonic Order
+46A1241(TEUTONIC ORDER)1|insigne
+46A1241(TEUTONIC ORDER)1|keten
+46A1241(TEUTONIC ORDER)1|insigne
+46A125|ridder
+46A1251|page (servant)
+46A1252|shield-bearer
+46A1252|schildknaap
+46A1253|ceremonie
+46A1253|knighting
+46A12531|nasynchronisatie
+46A125311|girding
+46A125311|zwaard
+46A125312|accolade
+46A125312|zwaard
+46A12532|nasynchronisatie
+46A125321|kleding
+46A125322|vastend
+46A125322|wekken
+46A125323|zegen
+46A125323|zwaard
+46A125324|pantser
+46A125324|installatie
+46A125324|investiture
+46A125324|uitloper
+46A125324|zwaard
+46A125325|accolade
+46A125325|zwaard
+46A126|held
+46A126|neuf preux (les)
+46A126|negen
+46A126|worthies
+46A1261|Joshua
+46A1262|David
+46A1263|Judas Maccabeus
+46A1263|Maccabees
+46A1264|Hector
+46A1265|Alexander de Grote
+46A1266|Caesar (Julius)
+46A1267|Arthur (King)
+46A1268|Charlemagne
+46A1269|Godfrey of Bouillon
+46A127|roem
+46A127|femmes célèbres
+46A127|held
+46A127|homines illustres
+46A127|neuf preuses (les)
+46A127|negen
+46A127|uomini famosi
+46A127|vrouw
+46A13|gewone
+46A131|burgerij
+46A131|poorter
+46A131|burger
+46A131|klasse
+46A131|middenklasse
+46A132|Dorper
+46A132|horige
+46A139|hansworst
+46A139|Schalksnarr
+46A14|boer
+46A14|boerin
+46A141|vechten
+46A141|soldaat
+46A15|poor (the)
+46A151|bedelaar
+46A151|vod
+46A1511|bedelnap
+46A1511|kom
+46A1512|processie
+46A152|fahrende Leute
+46A152|zwerver
+46A152|omzwerving
+46A153|bambochades
+46A153|feest
+46A154|acteur
+46A154|actrice
+46A154|minachting
+46A154|grave-digger
+46A154|beroepen
+46A154|unehrliche Leute
+46A154|hoer
+46A155|verschoppeling
+46A155|pariah
+46A16|klasse
+46A16|rijkdom
+46A161|acquisitie
+46A1611|goldrush
+46A1611|schat
+46A1612|het graven
+46A1612|bevinding
+46A1612|schat
+46A162|tonen
+46A1621|juwelen
+46A1622|verstrooiing
+46A1623|overpeinzing
+46A163|bescherming
+46A1631|deponeren
+46A16311|begraven
+46A16311|verbergen
+46A16311|het graven
+46A16311|verbergen
+46A16311|schat
+46A1632|doos (container)
+46A1632|borst (container)
+46A1632|gelddoos
+46A16321|veilig
+46A16321|strongbox
+46A1633|bewaken
+46A1633|schat
+46A16331|bewaker
+46A16332|dierlijk
+46A16332|watch-dog
+46A16333|alarm
+46A16333|inbraakalarm
+46A164|tien
+46A164|upper class
+46A165|jet set
+46A166|nouveau riche
+46A166|parvenu
+46A166|upstart
+46A17|klasse
+46A17|arbeider
+46A17|arbeiders
+46A170|labour
+46A171|meester
+46A171|dienaar
+46A1711|aanvrager
+46A1711|vragen
+46A172|betalen
+46A1721|refusing (gift, offer)
+46A1722|refusing (order, request)
+46A173|groep
+46A173|processie
+46A174|thuis
+46A174|terugkerende
+46A175|kinderarbeid
+46A175|labour
+46A179|werkloosheid
+46A1791|unemployed (the)
+46A18|slaaf
+46A18|slavernij
+46A180|Ripa
+46A180|Servitù
+46A181|slave-trade
+46A181|handel
+46A182|meester
+46A183|vrijheid
+46A1831|bevrijdende
+46A1832|kopen
+46A1833|poging (poging)
+46A1833|ontsnappen
+46A1834|afschaffing
+46A2|contrast
+46A2|social contrast
+46A21|klasse
+46A21|rich and poor
+46A211|good and bad
+46A212|aalmoes
+46A212|liefdadigheid
+46A212|eten
+46A212|geven
+46A2120|Elemosina
+46A2120|Ripa
+46A213|filantroop
+46A22|stad
+46A22|land
+46A22|rural life
+46A22|urban life
+46A2211|stadsbewoner
+46A2219|ontvolking
+46A2219|urban depopulation
+46A2221|land bewoner
+46A22219|ontvolking
+46A22219|rural depopulation
+46A23|voor
+46A23|belang
+46A23|minderwaardigheid
+46A23|vermogen
+46A23|machteloosheid
+46A23|superioriteit
+46A23|onbelangrijk
+46A231|beschermheer
+46A231|protégé
+46A24|meester
+46A24|dienaar
+46A241|portie
+46A241|twee
+46A3|public welfare
+46A3|welzijn
+46A31|weeskind
+46A31|weeshuis
+46A311|vondeling
+46A311|foundling-hospital
+46A311|ziekenhuis
+46A32|zorg
+46A32|oude leeftijd
+46A321|thuis
+46A321|old-people's home
+46A3211|aalmoezen-house
+46A3211|hofje
+46A33|liefdadigheid
+46A4|race (human)
+46A4|relatie
+46A41|discriminatie
+46A41|segregatie
+46A42|racialism
+46A421|rel
+46A422|Ku Klux Klan
+46A422|organisatie
+46A49|integratie
+46A49|racialism
+46A5|communicatie
+46A5|taal
+46A51|poging (poging)
+46A51|begrip
+46A511|misunderstanding
+46A52|tolk
+46A53|vertaler
+46A54|Doof en dom
+46A541|lip-reading
+46A541|lectuur
+46A542|sign-language
+46A55|kunstmatige taal
+46A551|Esperanto
+46A6|directory board
+46A6|organisatie
+46A61|board (commissie)
+46A61|gouverneur
+46A61|beheerder
+46A611|voorzitter
+46A612|secretaresse
+46A613|penningmeester
+46A614|lidmaatschap
+46A62|lidmaatschap
+46A6211|ballotage
+46A6212|initiation
+46A629|verdrijven
+46A629|stoppen
+46A629|schorsing
+46A63|montage
+46A632|aanpakken
+46A633|bespreken
+46A633|betwisten
+46A634|vragen
+46A634|onderbreking
+46A635|stemming
+46A636|chaos
+46A636|stoornis
+46A638|assemblage-kamer
+46A638|kamer
+46A7|menigte
+46A71|contrast
+46A71|individualiteit
+46A8|behuizing
+46A8|leven
+46A81|migratie
+46A81|omzwerving
+46A81(GIPSIES)|gipsy
+46A81(GIPSIES)|Zigeuner
+46A81(NOMADS)|nomade
+46A811|tent
+46A812|house-wagon
+46A813|boot
+46A82|ideal community
+46A82|natuur
+46A82|terugkerende
+46A821(...)|groep
+46A8211|delen
+46A822|naturisten
+46A823|nudist
+46A83|eenzaamheid
+46A831|eiland
+46A831|Robinsonade
+46A831|onbewoond eiland
+46A84|frontier life
+46A84|baanbrekende
+46A841|westen
+46A841|Wild West
+46A85|avonturier
+46A9|primitive man
+46A91|matriarchy
+46A92|patriarchy
+46A93|clan
+46A93|stam
+46AA126|heldin
+46AA1261|Esther
+46AA1261|Joshua
+46AA1262|David
+46AA1262|Judith
+46AA1263|Jael
+46AA1263|Judas Maccabeus
+46AA1263|Maccabees
+46AA1264|Hector
+46AA1264|Lucretia
+46AA1265|Alexander de Grote
+46AA1265|Veturia
+46AA1266|Caesar (Julius)
+46AA1266|Virginia
+46AA1267|Arthur (King)
+46AA1267|Helena (St.)
+46AA1268|Bridget (St.)
+46AA1268|Charlemagne
+46AA1269|Elisabeth van Hongarije (St.)
+46AA1269|Godfrey of Bouillon
+46AA170|labour
+46AA171|meester
+46AA171|dienaar
+46AA1711|aanvrager
+46AA1711|vragen
+46AA172|betalen
+46AA173|groep
+46AA173|processie
+46AA174|thuis
+46AA174|terugkerende
+46AA175|kinderarbeid
+46AA175|labour
+46AA179|werkloosheid
+46AA241|portie
+46AA241|twee
+46AA611|voorzitter
+46AA612|secretaresse
+46AA613|penningmeester
+46AA614|lidmaatschap
+46AA632|aanpakken
+46AA633|bespreken
+46AA633|betwisten
+46AA634|vragen
+46AA634|onderbreking
+46AA635|stemming
+46AA636|chaos
+46AA636|stoornis
+46AA638|assemblage-kamer
+46AA638|kamer
+46B|bedrijf
+46B|economie
+46B|financiën
+46B|beroepen
+46B|handel
+46B0|allegorie
+46B0|Commertio della vita humana
+46B0|Ripa
+46B1|kopen
+46B1|bouwwerk
+46B1|selling
+46B11|markt
+46B111|kraam
+46B111|kraam
+46B112|hal
+46B112|market-hall
+46B12|dansen
+46B12|eerlijk
+46B12|boer
+46B12|dorp
+46B13|winkel
+46B131|warenhuis
+46B131|supermarkt
+46B132|shop-window
+46B132|tonen
+46B133|teller
+46B14|weigh-house
+46B15|wholesale house
+46B16|veiling
+46B17|Bourse
+46B17|uitwisseling
+46B18|tentoonstelling
+46B18|eerlijk
+46B18|industrie
+46B18|vakbeurs
+46B181|wereld
+46B181|world exhibition
+46B19|eerlijk
+46B19|fancy fair
+46B2|mens
+46B21|koopman
+46B22|koopman
+46B22|omzwerving
+46B221|street-trader
+46B221(...)|water-carrier
+46B2211|kreten van Londen
+46B2211|cris de Paris
+46B2211|schreeuw
+46B2211|Londen
+46B2211|Paris (city)
+46B222|marskramer
+46B23|koopman
+46B23|traveller
+46B24|winkelier
+46B241|klerk
+46B241|koopman
+46B25|markt
+46B26|markt
+46B26|terugkerende
+46B27|klant
+46B271|tevredenheid
+46B272|klagen
+46B31|geld
+46B310|Pecunia
+46B310|Ripa
+46B311|muntstuk
+46B3111|teken
+46B312|bankbiljet
+46B312|papier
+46B313|bar
+46B313|schelp
+46B314|rekening
+46B314|controleren
+46B314|ontwerp
+46B314|uitwisselen
+46B3140|allegorie
+46B3140|Cambio
+46B3140|Ripa
+46B3140|Wissel
+46B32|administratie
+46B321|accountant
+46B321|boekhouding
+46B3211|overeenstemmen
+46B322|kantoor
+46B33|weging
+46B331|instrument
+46B3311|balans
+46B3311|balans
+46B3312|gewicht
+46B332|goud
+46B332|geld
+46B34|kubieke meten
+46B34|meten
+46B341|houder
+46B341|kubieke maatregel
+46B341|instrument
+46B35|adverteren
+46B351|schreeuw
+46B352|handbill
+46B3521|brochure
+46B353|poster
+46B3531|bill-board
+46B3531|boord
+46B3532|pijler
+46B3532|poster-pillar
+46B3533|sandwich-man
+46B354|boord
+46B354|signboard
+46B355|kaart
+46B355|mark
+46B355|teken
+46B356|advertentie
+46B356|kennisgeving
+46B4|onderhandelen
+46B411|kopen
+46B412|selling
+46B413|ruilhandel
+46B414|verhuren
+46B414|het leasen
+46B42|inspecting
+46B42|koopwaar
+46B43|onderhandelen
+46B44|betalen
+46B451|debet
+46B451|schuld
+46B4510|Debito
+46B4510|Ripa
+46B4511|obligatie
+46B4511|document
+46B4511|IOU
+46B452|credit
+46B4520|Credito
+46B4520|Ripa
+46B46|koopovereenkomst
+46B46|document
+46B46|selling
+46B471|winst
+46B4711|rente
+46B472|verlies
+46B48|speculatie
+46B48|stock-jobbery
+46B481|boom
+46B491|import
+46B492|export
+46B493|expeditie
+46B494|bedrijf
+46B494|trade-company
+46B4941|merchant shipping
+46B4941|shipping trade
+46B5|organisatie
+46B51|geld
+46B511|veranderen
+46B511|money-changer
+46B512|kredietverlening
+46B512|usurer
+46B5120|Ripa
+46B5120|Usura
+46B5120|woeker
+46B513|Lombard
+46B513|pawnbroker
+46B52|uitwisseling
+46B52|markt
+46B52|effectenbeurs
+46B521|rapportage
+46B53|bank
+46B531|bankier
+46B54|giro
+46B55|verzekering
+46B551|agent
+46B551|verzekeringsagent
+46B56|zakenman
+46B561|gilde
+46B561|koopman
+46B562|Kamer van Koophandel
+46B57|kartel
+46B57|monopoly
+46B57|trust (cartel)
+46B6|dumping
+46B61|koopje-verkoop
+46B61|selling
+46B7|spion
+46B8|boycot
+46B9|resultaat
+46B91|fraudulence
+46B910|Acquisto cattivo
+46B910|Ripa
+46B911|omkopen
+46B92|faillissement
+46B921|process-server
+46B93|depressie
+46B93|malaise
+46B931|paniek
+46B932|inflatie
+46BB221|street-trader
+46BB221(...)|water-carrier
+46BB222|marskramer
+46BB241|klerk
+46BB241|koopman
+46BB271|tevredenheid
+46BB272|klagen
+46C|verkeer
+46C|vervoeren
+46C1|land
+46C11|pad
+46C11|weg
+46C111|doorwaadbare plaats
+46C1111|oversteken van een rivier
+46C1112|ferrying
+46C1113|opstap
+46C1113|steen
+46C112|brug
+46C1121|bouw
+46C11211|suspension bridge
+46C11212|cantileverbrug
+46C11213|wipbrug
+46C1122|vorm
+46C11221|overdekte brug
+46C11221|bouwwerk
+46C113|viaduct
+46C114|tunnel
+46C114|ondergronds
+46C115|traffic regulation
+46C1151|teken
+46C1151|traffic sign
+46C1152|politieagent
+46C1152|point-duty
+46C1153|lamp
+46C1153|stoplicht
+46C1159|obstructie
+46C1159|traffic-jam
+46C116|cross-wegen
+46C1160|allegorie
+46C1160|symbool
+46C1161|wegwijzer
+46C1162|milestone
+46C1162|steen
+46C117|kruis
+46C117|mont-joie
+46C117|road-cross
+46C1181|trappenhuis
+46C12|sterkte
+46C121|dragende
+46C1211|zak
+46C1211|mand
+46C1211|rugzak
+46C1212|milkmaid
+46C1212|juk
+46C1213|dragende-pole
+46C1214|grafheuvel
+46C1215|dragen op de schouders
+46C1215|hoofd
+46C122|kruiwagen
+46C123|kar
+46C123|hand-cart
+46C124|riksja
+46C125|fiets
+46C1252|three-wheeler
+46C1252|tricycle
+46C12521|carrier-driewieler
+46C1253|monocycle
+46C1254|tandem
+46C1258|deel
+46C1261|stilt
+46C127|dragende
+46C1271|dragen op de rug
+46C1272|lijkbaar
+46C1273|stoel
+46C1273|sedan-chair
+46C128|mankracht
+46C128|trekken
+46C128|duwen
+46C128|voertuig
+46C13|dierlijk
+46C13|hoofed animal
+46C13|pack-animal
+46C131|riding (on horseback)
+46C1311|manège
+46C1311|riding-school
+46C1311|school
+46C13111|high-school riding
+46C13111|paardrijden
+46C13112|carrousel
+46C1312|ruiter
+46C1312|portret
+46C1312|state-portrait
+46C1313|Baltazar Carlos
+46C1313|Bamberg rider
+46C1313|Charlemagne
+46C1313|Charles I
+46C1313|Karel V
+46C1313|Colleoni
+46C1313|Constantijn de Grote (St.)
+46C1313|Curtius (Marcus)
+46C1313|keizer
+46C1313|ruiter
+46C1313|Ferdinand II
+46C1313|Frederick the Great
+46C1313|Gattamelata
+46C1313|koning
+46C1313|Louis XIV
+46C1313|Louis XV
+46C1313|Magdeburg rider
+46C1313|Marcus Aurelius (Emperor)
+46C1313|Maximilian (Emperor)
+46C1313|Napoleon
+46C1313|Peter the Great
+46C1313|Philips IV
+46C1313|Rudolf II
+46C1313|Stanislas Kostka Potocki
+46C1313|standbeeld
+46C1313|Theodoric
+46C1313|Wellington (Duke of)
+46C13141|paard
+46C131411|fighting (animal)
+46C13142|ezel
+46C13142|ezel
+46C13143|muildier
+46C13144|hinny
+46C1315|fokkerij
+46C1315|veeteelt
+46C1315|boerderij
+46C1315|stud farm
+46C1316|beteugelen
+46C1316|zadelen
+46C13161|saddlery
+46C131611|head-stall
+46C131612|bit
+46C131613|nieren
+46C131614|saddle
+46C1316141|howdah
+46C131615|stijgbeugel
+46C131616|stofbril
+46C131617|deken
+46C131617|horse-blanket
+46C1317|verzorging
+46C13171|bruidegom
+46C13172|kam
+46C13172|curry-comb
+46C1318|paard
+46C1318|beweging
+46C13181|wandelen
+46C13182|draven
+46C13183|galloping
+46C13184|jumping
+46C13185|grootbrengen
+46C13186|schoppen
+46C13187|toonaangevend
+46C13187|nieren
+46C1319|ongeval
+46C1319|paard
+46C13191|builen
+46C13192|vallend
+46C13192|paardrijden
+46C13192|het werpen
+46C13193|aanvallende
+46C13193|wild dier
+46C132|paardrijden
+46C14|dierlijk
+46C14|rijden
+46C14|trekken
+46C14|voertuig
+46C141|winning
+46C141|hitching up
+46C1411|harness
+46C14111|juk
+46C1413|unharnessing
+46C142|strijdwagen
+46C142|sjees
+46C14241|quadriga
+46C143|three-wheeler
+46C144|taxi
+46C144|vervoer
+46C145|kar
+46C145|farm wagon
+46C145|freight wagon
+46C145|wagon
+46C1451|huifkar
+46C1451|hooded wagon
+46C146|vermanende
+46C1461|prikkel
+46C1461|prik
+46C1462|uitloper
+46C1463|whip
+46C147|diligence (vervoer)
+46C147|horse-tram
+46C147|omnibus
+46C147|tram
+46C148|slee
+46C148|toeslede
+46C149|ongeval
+46C1491|builen
+46C1492|strijdwagen
+46C1492|sjees
+46C149241|quadriga
+46C1493|three-wheeler
+46C1494|taxi
+46C1494|vervoer
+46C1495|kar
+46C1495|farm wagon
+46C1495|freight wagon
+46C1495|wagon
+46C1496|vermanende
+46C14961|prikkel
+46C14961|prik
+46C14962|uitloper
+46C14963|whip
+46C1497|diligence (vervoer)
+46C1497|horse-tram
+46C1497|omnibus
+46C1497|tram
+46C1498|slee
+46C1498|toeslede
+46C15|spoorweg
+46C15|trein
+46C151|rails
+46C151|spoor
+46C15111|goederentrein
+46C15112|passenger train
+46C1512|tram
+46C15121|tram
+46C1513|rack railway
+46C152|locomotief
+46C1521|steam locomotive
+46C1522|diesellocomotief
+46C1523|elektrische trein
+46C153|vervoer
+46C153|railway-carriage
+46C153|wagon
+46C1531|passenger carriage
+46C1532|goederenwagon
+46C1532|railway wagon
+46C154|signal system
+46C1541|signal-box
+46C1541|signal-station
+46C1542|kruising
+46C1542|level-crossing
+46C1543|kruising
+46C1543|level-crossing
+46C1544|signaal
+46C155|schuilplaats
+46C155|station
+46C1551|platform
+46C1552|waiting room
+46C15591|depot
+46C156|métro
+46C156|ondergronds
+46C1561|station
+46C157|monorail
+46C158|suspension railway
+46C1581|funicular railway
+46C159|ongeval
+46C159|railway-accident
+46C1591|rack railway
+46C1591|rails
+46C1591|spoor
+46C1591|tram
+46C1592|locomotief
+46C1593|vervoer
+46C1594|signal system
+46C15941|signal-box
+46C15941|signal-station
+46C15942|kruising
+46C15942|level-crossing
+46C15943|kruising
+46C15943|level-crossing
+46C1595|schuilplaats
+46C1595|station
+46C1596|métro
+46C1596|ondergronds
+46C15961|station
+46C1597|monorail
+46C1598|suspension railway
+46C15981|funicular railway
+46C16|rijden
+46C16|motor-vehicle
+46C16|pad
+46C16|weg
+46C161|automobiel
+46C1611|three-wheeler
+46C162|bus
+46C162|vervoer
+46C163|automobiel
+46C163|truck
+46C164|amfibie voertuig
+46C165|bromfiets
+46C165|motorfiets
+46C165|scooter
+46C1661|trekker
+46C167|deel
+46C168|onderhoud
+46C1681|gas station
+46C1681|benzinestation
+46C1681|service station
+46C16811|benzine
+46C16811|petrol pump
+46C16811|pomp
+46C16812|garage
+46C16812|repareren
+46C16812|losse onderdelen
+46C16812|levering
+46C16813|carwash
+46C16813|washing (cars)
+46C1682|parkeergelegenheid
+46C16821|parkeerplaats
+46C16821|parkeerplaats
+46C16822|garage
+46C16822|multistorey car park
+46C16822|parkeergarage
+46C16823|meter
+46C16823|parking meter
+46C168231|metermaid
+46C168231|parking attendant
+46C168231|Rita
+46C168231|traffic warden
+46C169|ongeval
+46C1691|automobiel
+46C16911|three-wheeler
+46C1692|bus
+46C1693|automobiel
+46C1693|truck
+46C1694|amfibie voertuig
+46C1695|bromfiets
+46C1695|motorfiets
+46C1695|scooter
+46C17|sailing-car
+46C18|ijs
+46C18|sneeuw
+46C181|slee
+46C181|slee
+46C1811|horse-sleigh
+46C1812|dog-slee
+46C1813|reindeer-sleigh
+46C1814|prikstok
+46C1814|stok
+46C182|schoen
+46C182|snow-shoe
+46C183|boot
+46C189|ongeval
+46C19|wiel
+46C191|naaf
+46C191|naaf
+46C1911|kogellager
+46C192|spaak
+46C193|band
+46C1931|buis
+46C1939|spoor
+46C199|spoor
+46C2|marine painting
+46C2|waters
+46C20|navigatie
+46C20|Navigatione
+46C20|Ripa
+46C21|schip
+46C211|scheepsbouw
+46C212|careening
+46C212|breeuwen
+46C212|repareren
+46C2121|dok
+46C2121|droogdok
+46C2121|floating-dock
+46C213|model
+46C2131|fles
+46C214|portret
+46C215|buitenkant
+46C215(...)|mast
+46C215(ANCHOR)|anker
+46C215(ANCHOR)|kaapstander
+46C215(ANCHOR)|lier
+46C215(BOW)|boog (boeg)
+46C215(BOW)|kaapstander
+46C215(BOW)|lier
+46C215(FIGURE-HEAD)|kaapstander
+46C215(FIGURE-HEAD)|figure-head
+46C215(FIGURE-HEAD)|lier
+46C215(MAST)|kaapstander
+46C215(MAST)|lier
+46C215(RUDDER)|kaapstander
+46C215(RUDDER)|roer
+46C215(RUDDER)|lier
+46C215(WINDLASS)|lier
+46C216|binnenland
+46C216(...)|brug (van het schip)
+46C216(...)|cabine
+46C216(...)|engine-room
+46C216(...)|fo'c's'le
+46C219|drijvend
+46C22|haven
+46C22|schip
+46C222|roadstead
+46C2231|pier
+46C2231|kade
+46C2231|werf
+46C2232|bollard
+46C2232|boei
+46C2232|mooring-buoy
+46C2233|gangboard
+46C2233|gangplank
+46C2234|machine
+46C22341|kraan (machine)
+46C2235|bouwwerk
+46C2235|magazijn
+46C2236|boat-house
+46C2236|werpen
+46C2237|oever
+46C23|boot
+46C23|voortstuwing
+46C231|aak
+46C231|mankracht
+46C231|sleep-
+46C232|kano
+46C232|mankracht
+46C232|rowing-boat
+46C2321|duwen
+46C2321|rowing
+46C2322|trekken
+46C2322|rowing
+46C23221|kombuis
+46C2323|oar
+46C2323|sculling
+46C23231|gondel
+46C2324|kanoën
+46C2325|pool
+46C2325|poling
+46C2325|punting
+46C233|dierlijk
+46C233|trekken
+46C233|sea-monster
+46C24|sailing-ship
+46C24|jacht
+46C24(...)|schors (schip)
+46C24(...)|Boyer
+46C24(...)|brik
+46C24(...)|radertje
+46C24(...)|schooner
+46C241|tuigage
+46C2411(...)|katrol
+46C2411(...)|touw
+46C2411(...)|vel
+46C24111|zeil
+46C24112|ladder
+46C24112|touw
+46C24112|rope-ladder
+46C25|motorship
+46C25|steamship
+46C251|paddle-wheel boat
+46C251|wiel
+46C252|onderzeeër
+46C253|bel
+46C253|diving bell-
+46C254|ice-breaker
+46C255|trekken
+46C255|pusher tug
+46C255|duwen
+46C255|sleepboot
+46C256|freight vessel
+46C256|belasting
+46C2561|aak
+46C2561|motorboat
+46C257|voering
+46C257|passenger liner
+46C26|sailing-ship
+46C26|steamsailer
+46C261|motorsailer
+46C271|bemanning
+46C271|zeeman
+46C2711(...)|captain
+46C2711(...)|eerste stuurman
+46C2711(...)|stuurman
+46C2711(...)|steersman
+46C2712|discipline
+46C2712|straf
+46C2713|vertrekken
+46C2713|liberty-man
+46C2713|recreatie
+46C2713|shore-leave
+46C2719|muiterij
+46C2719|opstand
+46C272|passagier
+46C273|viering
+46C2731|equator
+46C2731|Neptune
+46C279|geheimhouding
+46C279|verstekeling
+46C28|manoeuvre
+46C28|navigatie
+46C280|Navigatione
+46C280|Ripa
+46C281|signaal
+46C2811|storm-signal
+46C282|kompas
+46C282|instrument
+46C282|plaats
+46C282|meten
+46C282|nautical instrument
+46C2821|firmament
+46C2821|ster
+46C2821|zon
+46C2822|octant
+46C2822|quadrant
+46C2822|sextant
+46C2823|Astrolabe
+46C283|baken
+46C2831|vuurtoren
+46C2831|lightship
+46C2832|bel
+46C2832|bell-boei
+46C2832|boei
+46C2832|fluitend
+46C2832|whistling-buoy
+46C2833|boei
+46C2833|licht
+46C2833|light-buoy
+46C284|fathoming
+46C284|meten
+46C284|klinkend
+46C285|zeeman
+46C2851|brug (van het schip)
+46C2852|steersman
+46C2853|pilot-boat
+46C2854|kraaien nest
+46C2854|kijken
+46C286|bar
+46C286|verheffing
+46C2861|overtoom
+46C2861|rolling bridge
+46C2862|kameel
+46C2862|ship's camel
+46C289|ghost-ship
+46C2891|Flying Dutchman
+46C29|ongeval
+46C29|dood
+46C29|ziekte
+46C291|schipbreuk
+46C292|verstoten
+46C292|verdrinking
+46C2921|boot
+46C2921|reddingsboot
+46C2922|vlotter
+46C2922|vlot
+46C2923|vallend
+46C2923|overboord
+46C29231|throwing (being thrown)
+46C293|kustwacht
+46C293|life-saving service
+46C293|service
+46C2931|verdrinking
+46C2931|het redden
+46C2932|boei
+46C2932|life-buoy
+46C2932|lifebelt
+46C294|schipbreuk
+46C294|oever
+46C294|wreck
+46C2941|salvaging
+46C295|luring
+46C295|schipbreuk
+46C2951|beach-comber
+46C2951|strandjutter
+46C296|sea-sickness
+46C297|begrafenis
+46C297|zee
+46C298|schade
+46C3|lucht (in)
+46C3|luchtvaart
+46C3|vliegend
+46C31|dierlijk
+46C31|vogel
+46C32|tapijt
+46C33|mankracht
+46C34|ballon
+46C35|luchtschip
+46C35|zeppelin
+46C36|vliegtuig
+46C3611|deel
+46C3621|bemanning
+46C3621|personeel
+46C36211|cockpitbemanning
+46C362111|piloot
+46C36212|cabinepersoneel
+46C36212|stewardess
+46C362121|purser
+46C362121|rentmeester
+46C362121|stewardess
+46C36213|ground crew
+46C3622|passagier
+46C371|helicopter
+46C372|autogiro
+46C373|hover-craft
+46C38|vliegveld
+46C38|luchthaven
+46C381|bouwwerk
+46C3811|controle toren
+46C3811|toren
+46C3812|hangar
+46C39|ongeval
+46C39|lucht crash
+46C39|ramp
+46C4|astronautiek
+46C4|planeet
+46C4|ruimte
+46C4|reizend
+46C41|raket
+46C42|capsule
+46C42|shuttle
+46C42|space craft
+46C42|space station
+46C43|astronaut
+46C43|kosmonaut
+46C49|flying saucer
+46C49|UFO
+46C491|vreemdeling
+46C491|ET
+46C491|buitenaards
+46C491|mens
+46C491|monster
+46C5|reizend
+46C511|voorbereiding
+46C512|vertrekkende
+46C5121|leave-taking
+46C5121|wuivende
+46C513|traveller
+46C5131|vragen
+46C5132|kaart
+46C5133|hitch-hiking
+46C5134|roven
+46C5135|buitenshuis
+46C5135|rusten
+46C5136|toonder
+46C5136|dragende
+46C5136|porter
+46C5136|sherpa
+46C514|aankomst
+46C514|terugkerende
+46C5141|gastvrije
+46C519|verdwalen
+46C519|losing one's way
+46C519|zoeken
+46C52|hotel
+46C52|cafe
+46C521|bureau
+46C521|receptiebalie
+46C522|hotel room
+46C522|kamer
+46C53|migratie
+46C54|toerisme
+46C541|uitstapje
+46C541|pleasure-trip
+46C541|trip
+46C542|culturele tour
+46C542|tour
+46C5421|bezienswaardigheden bekijken
+46C54211|grand tour
+46C5422|rondleiding
+46C54221|guiding
+46C5423|boek
+46C5423|guide-book
+46C543|reis
+46C543|tour
+46C543|world tour
+46C55|bagage
+46C55|zak
+46C551|borst (container)
+46C551|suit-case
+46C551|trunk (container)
+46C552|knapzak
+46C552|rugzak
+46C56|souvenir
+46C57|accès à un autre monde
+46C57|fictie
+46C57|reis
+46CC215(...)|kaapstander
+46CC215(...)|lier
+46D|journalistiek
+46D1|omroeper
+46D1|nieuws
+46D1|geschreeuw
+46D1|town crier
+46D2|distribueren
+46D2|brochure
+46D3|krant
+46D3|papier
+46D31|kraam
+46D31|kiosk
+46D31|selling
+46D32|newsboy
+46D33|levering
+46D4|tijdschrift
+46D4|maandelijks
+46D4|wekelijks
+46D41|canard
+46D41|sensational press
+46D5|pressmen
+46D51|board (commissie)
+46D51|redactieraad
+46D52|journalist
+46D52|verslaggever
+46D53|fotograaf
+46D54|interviewing
+46E1|boodschapper
+46E11|doos (container)
+46E12|insigne
+46E13|verzending dienst
+46E13|estafette
+46E13|relay dispatch service
+46E2|post
+46E21|post-office
+46E211|postbode
+46E212|vervoer
+46E212|mail-coach
+46E2121|podium
+46E213|letter-box
+46E213|pillar-box
+46E221|envelop
+46E221|letter (epistle)
+46E222|kaart
+46E222|picture-postcard
+46E222|ansichtkaart
+46E223|pakket
+46E223|perceel
+46E224|telegram
+46E225|postzegel
+46E231|verpakking
+46E231|verzenden
+46E232|levering
+46E232|postbode
+46E232|ontvangen
+46E2321|goed
+46E2321|boodschapper
+46E2321|nieuws
+46E2322|slecht
+46E2322|boodschapper
+46E2322|nieuws
+46E3|dierlijk
+46E3|boodschapper
+46E31|hond
+46E32|duif
+46E4|signaal
+46E41|vlag
+46E411|mast
+46E42|seinpaal
+46E43|brand
+46E43|licht
+46E43|rook
+46E43(...)|lamp
+46E43(ROCKET)|raket
+46E5|akoestiek
+46E5|signaal
+46E52|instrument
+46E521|bel
+46E522|megafoon
+46E522|speaking-trumpet
+46E523|rammelaar
+46E524|sirene
+46E525|fluitend
+46E6|communicatie
+46E6|elektrisch apparaat
+46E6|elektriciteit
+46E6|elektronische communicatie
+46E6|telecommunication
+46E61|walrus
+46E61|telegraaf
+46E610|allegorie
+46E611|telex
+46E612|pool
+46E612|telegraph pole
+46E612|telephone pole
+46E62|telefoon
+46E621|kraam
+46E621|telefooncel
+46E621|kiosk
+46E621|public telephone
+46E621|telephone box
+46E622|uitrusting
+46E6221|fax machine
+46E6222|mobiele telefoon
+46E6222|mobiele telefoon
+46E6223|antwoordapparaat
+46E63|omroep
+46E63|radio
+46E631|radio-telegraph
+46E631|walkie-talkie
+46E632|radio broadcasting studio
+46E632|studio
+46E64|omroep
+46E64|televisie
+46E64|television broadcasting
+46E641|antenne
+46E641|antenne
+46E641|satellite dish
+46E6411|antennemast
+46E6411|zendmast
+46E6411|telecommunications tower
+46E6411|televison tower
+46E6411|toren
+46E6411|TV tower
+46E642|studio
+46E642|television broadcasting studio
+46E65|gramophone
+46E65|fonograaf
+46E65|record-player
+46E651|compactdisc
+46E651|schijf
+46E651|gramophone record
+46E652|audioapparatuur
+46E652|uitrusting
+46E652|video equipment
+46E6521|audiospeler
+46E6521|media player
+46E6521|video player
+46E653|accessoires
+46E653|audio-accessoires
+46E653|media accessories
+46E653|video accessories
+46E65311|versterker
+46E65312|luidspreker
+46E653121|koptelefoon
+46E6532|video player
+46E65321|monitor
+46E65321|screen (monitor)
+46E66|opnemer
+46E66|opname
+46E66|tape recorder
+46E66|video recorder
+46E661|cassette
+46E661|haspel
+46E661|band
+46E662|accessoires
+46E662|uitrusting
+46E662|recording equipment
+46E6621|microfoon
+46E663|recording studio
+46E663|studio
+46E67|uitrusting
+46E67|structuur
+46E671|netwerk
+46E671|telecommunications network
+46E6711|computernetwerk
+46E67111|Internet
+46E672|communicatiesatelliet
+46E672|satelliet
+46E673|modem
+46E7|plaats
+46E71|akoestiek
+46E71|echo
+46E72|optica
+46E73|elektriciteit
+46E731|radar
+46E81|Marforio
+46E81|Pasquino
+46E81|speaking statue
+46E81|standbeeld
+47|ambacht
+47|industrie
+47|beroepen
+470|Agricultura
+470|landbouw
+470|Armatura
+470|wapensmid
+470|Artes Mechanicae
+470|kledingindustrie
+470|jacht
+470|Lanificium
+470|Medicina
+470|geneeskunde
+470|Navigatio
+470|navigatie
+470|zeven
+470|theater
+470|Theatrica
+470|Venatio
+47A|bouwwerk
+47A1|buitenkant
+47A1|fabriek
+47A11|werkplaats
+47A121|schoorsteen
+47A121|smoke-stack
+47A121|stack
+47A122|hoogoven
+47A122|furnace
+47A13|buitenshuis
+47A2|binnenland
+47A21|werkplaats
+47A211|bank
+47A211|tafel
+47A211|werkbank
+47A212|brand
+47A212|smeden
+47A212|furnace
+47A212|oven
+47A22|fabriek
+47A22|machine
+47A221|lopende band
+47A23|laboratorium
+47A23|onderzoek
+47B1|ambachtsman
+47B1|handwerk
+47B1|arbeider
+47B11|metaal
+47B111|smid
+47B111|smeden
+47B1111|shoeing-smith
+47B11111|hoefijzer
+47B1112|wapensmid
+47B1113|lock-smith
+47B112|brassworker
+47B112|koperslager
+47B113|pewterer
+47B113|tinsmith
+47B114|klokkengieter
+47B115|muntstuk
+47B115|minter
+47B12|jeweller
+47B12|precious stone
+47B121|lapidary
+47B122|snijdend
+47B122|diamantslijper
+47B122|polijsten
+47B13|steen
+47B131|snijdend
+47B131|zager
+47B131|stone-cutter
+47B131|stone-sawyer
+47B132|breuk
+47B132|stone-breaker
+47B14|krijt
+47B14|klei
+47B14|zand
+47B141|baksteen
+47B141|steenbakker
+47B142|furnace
+47B142|limoen
+47B15|glas
+47B151|glass-maker
+47B152|mirror-maker
+47B153|opticien
+47B153|bril
+47B154|slijpen
+47B154|lens grinder
+47B16|plant material
+47B161|hout
+47B161|wood(en)
+47B1611|timmerman
+47B1612|zager
+47B1613|draaier
+47B1614|snijwerk
+47B1614|wood carver
+47B171|leer
+47B1711|vilder
+47B1712|leerlooier
+47B1713|bont
+47B1713|furrier
+47B181|eten
+47B1811|bakker
+47B18111|blazen
+47B18111|Hoorn
+47B1812|banketbakker
+47B1812|snoepgoed
+47B1813|kok
+47B1813|pastry cook
+47B1814|slager
+47B182|drank
+47B1821|bierbrouwerij
+47B1822|distilleren
+47B1822|gin-distiller
+47B183|stimulans
+47B191|onderhoud
+47B191|repareren
+47B192|molenaar
+47B21|metaal
+47B211|ijzeren
+47B211|staal
+47B2111|heavy industry
+47B212|bouwkunde
+47B212|vervoeren
+47B22|steen
+47B23|krijt
+47B23|klei
+47B23|zand
+47B231|baksteen
+47B231|baksteen werken
+47B232|limoen
+47B233|cementfabrieken
+47B234|keramiek
+47B235|glas
+47B24|plant material
+47B241|wood(en)
+47B2411|molen
+47B2411|saw-mill
+47B25|dierlijk materiaal
+47B251|leer
+47B26|drank
+47B26|eten
+47B26|stimulans
+47B27|chemische industrie
+47B28|elektronica-industrie
+47C|verwerking
+47C12|voorbereiding
+47C121|kookpunt
+47C121|hitte
+47C121|stomen
+47C1211|het smelten
+47C122|koeling
+47C123|moistening
+47C123|water
+47C124|drogen
+47C125|suppling
+47C13|schoonmaak
+47C131|bleken
+47C132|zand
+47C14|selecteren
+47C14|sorteer-
+47C141|doorlichting
+47C141|zeven
+47C142|blazen
+47C149|weigeren
+47C149|verwerpen
+47C1491|verzamelen
+47C2|verplaatsing
+47C2|verwijderen
+47C21|het graven
+47C211|baggeren
+47C22|opstapelen
+47C23|uitspreiden
+47C24|verschuiven
+47C24|vervoeren
+47C241|lopende band
+47C241|horizontal transport
+47C242|hijsen
+47C242|vertical transport
+47C2431|duwen
+47C2432|trekken
+47C2433|rollend
+47C2434|het werpen
+47C3|scheidslijn
+47C31|snijdend
+47C311|hakken
+47C312|splitting
+47C32|knipsel
+47C32|ponsen
+47C32|stempelen
+47C33|sawing
+47C34|chippen
+47C34|beitelen
+47C35|schuren
+47C35|filing
+47C35|schaven
+47C35|scraping
+47C36|mincing
+47C37|slijpen
+47C38|verpletterend
+47C4|aansluiten
+47C41|aangrijpend
+47C42|bindend
+47C42|lashing (binding)
+47C421|knoop
+47C429|unravelling
+47C429|ontkoppeling
+47C4291|knoop
+47C43|aansluiting
+47C432|nailing
+47C4321|doweling
+47C4321|klinken
+47C433|schroeven
+47C4331|bout
+47C4331|nut (screwing)
+47C434|dichtknopen
+47C435|glueing
+47C436|soldering
+47C437|lassen
+47C51|afvlakking
+47C51|smoothing
+47C511|polijsten
+47C512|polijsten
+47C52|consolideren
+47C521|persing
+47C53|rollend
+47C55|slijpen
+47C55|verscherping
+47C56|blunting
+47C57|stiffening
+47C59|roughening
+47C6|vormgeven
+47C61|vermenging
+47C611|gieten
+47C6112|legen
+47C62|lijstwerk
+47C621|schimmel
+47C622|trekken
+47C63|gieten
+47C7|vorm
+47C71|verbuiging
+47C72|vouwen
+47C73|vormgeven
+47C731|smeden
+47C732|embossing
+47C8|saai
+47C8|boren
+47C8|doordringend
+47D1|motor
+47D1|machine
+47D1|productie
+47D2|dierlijk
+47D2|arbeider
+47D2|machine
+47D2|mankracht
+47D21|handmill
+47D21|molen
+47D22|molen
+47D22|tredmolen
+47D3|machine
+47D3|wind
+47D31|molen
+47D31|windmolen
+47D311|zeil
+47D311|lont
+47D4|machine
+47D4|water
+47D41|molen
+47D41|watermill
+47D411|scheprad
+47D411|wiel
+47D5|machine
+47D5|stoom
+47D50|allegorie
+47D50|steampower
+47D6|machine
+47D61|verbranding
+47D62|elektriciteit
+47D63|nuclear energy
+47D69|automatisering
+47D691|automaat
+47D6911|robot
+47D692|spring (metal)
+47D693|perpetuity
+47D7|machine
+47D7(HOPPER)|hopper
+47D7(MILL-STONE)|millstone
+47D8|gereedschap
+47D8(ANVIL)|aambeeld
+47D8(ASCIA)|Ascia
+47D8(AXE)|bijl
+47D8(CHAIN)|keten
+47D8(CHISEL)|beitel
+47D8(COIN STAMP)|munt postzegel
+47D8(CROWBAR)|breekijzer
+47D8(DRILL)|boor
+47D8(FILE)|bestand
+47D8(GRINDSTONE)|grindstone
+47D8(HAMMER)|hamer
+47D8(KNIFE)|mes
+47D8(NAIL)|nail (spike)
+47D8(PICKAXE)|houweel
+47D8(PLANE)|vlak
+47D8(PRESS)|pers
+47D8(ROPE)|touw
+47D8(SAW)|zaag
+47D8(SCISSORS)|scissors
+47D8(SCREW)|schroef
+47D8(SIPHON)|sifon
+47D8(TACKLE)|aanpakken
+47D8(TONGS)|tang
+47D8(VICE)|vice (tool)
+47D8(WEDGE)|wig
+47D8(WINDLASS)|lier
+47D9|schade
+47D9|vernietiging
+47D9|verlies
+47D9|machine
+47E|organisatie
+47E1|productie
+47E11|home production
+47E12|ambachtelijke productie
+47E12|handwerk
+47E12|bekwaamheid
+47E13|industrial production
+47E13|machine
+47E131|mass production
+47E2|corporatieve organisatie
+47E2|gilde
+47E21|board (commissie)
+47E211|guildhall
+47E211|hal
+47E22|insigne
+47E221|insigne
+47E221|medaille
+47E23|graad
+47E231|leerling
+47E232|gezel
+47E2321|Wanderbursche
+47E2321|Wandergesell
+47E2321|omzwerving
+47E233|meesterschap
+47E2331|meesterwerk
+47E24|controle
+47E24|kwaliteit
+47E241|officier
+47E242|hall-mark
+47E242|mark
+47E25|feest
+47E251|spectakel
+47E252|viering
+47E252|vakantie
+47E2521|blauwe maandag
+47E2521|Maandag
+47E3|vakbond
+47E3|eenheid
+47E4|personeel
+47E41|baas
+47E41|directeur
+47F|productie
+47F11|experiment
+47F11|onderzoek
+47F12|ontwerp
+47F13|model
+47F14|testen
+47F2|product
+47F21|sorteer-
+47F22|verpakking
+47F3|product
+47F3|opslagruimte
+47F31|depot
+47F31|bouwwerk
+47F31|silo
+47F31|magazijn
+47F32|inblikken
+47F32|behoud
+47F32|behoud
+47F32|tin
+47F4|voorbereiding
+47F9|schade
+47F9|vernietiging
+47F9|verlies
+47F9|product
+47G|gebouw
+47G1|bouwplaats
+47G11|kiezen
+47G111|wonder
+47G111|tonen
+47G12|grond
+47G12|staking out
+47G12|surveying
+47G2|stichting
+47G2|loopgraaf
+47G21|ceremonie
+47G21|first stone
+47G21|steen
+47G211|offeren
+47G22|opheldering
+47G22|grond
+47G23|bulldozer
+47G23|aarde
+47G23|spade
+47G24|heien
+47G24|rammen
+47G31|karkas (kader)
+47G311|metselaar
+47G3111|mark
+47G3111|mason's mark
+47G3111|Steinmetzzeichen
+47G312|baksteen
+47G312|metselaar
+47G313|beton werknemer
+47G314|kader
+47G314|hout
+47G32|viering
+47G32|dak
+47G32|top
+47G33|decoratie
+47G331|dak
+47G332|glazuur
+47G332|leiden
+47G332|ruit
+47G333|gips
+47G334|vloer
+47G335|interior decoration
+47G3351|stuccoeing
+47G3352|witten
+47G3353|wainscoting
+47G3354|wall-paper
+47G3355|stoffering
+47G336|pipe system
+47G336|bedrading
+47G3361|loodgieter
+47G3362|elektricien
+47G3363|gas-fitter
+47G341|ceremonie
+47G41|stellingen
+47G42|centreren
+47G43|form-work
+47G43|bekisting
+47G5|bouw materiaal
+47G51|metaal
+47G52|steen
+47G53|klei
+47G53|zand
+47G531|mud
+47G532|baksteen
+47G532|tegel
+47G533|beton
+47G5331|reinforced concrete
+47G534|glas
+47G54|plant material
+47G541|riet
+47G542|takje
+47G543|hout
+47G543|wood(en)
+47G5431|straal
+47G5431|dwarsbalk
+47G5431|dakspar
+47G5432|boord
+47G5432|plank
+47G55|dierlijk materiaal
+47G551|verbergen
+47G551|leer
+47G56|doek
+47G57|kunststof
+47G6|machine
+47G6|gereedschap
+47G6(MORTISE CHISEL)|mortise chisel
+47G6(PLUMB-LINE)|plumb-line
+47G6(RAMMER)|rammer
+47G6(WATER-LEVEL)|spirit-level
+47G6(WATER-LEVEL)|water-level
+47G7|bouw materiaal
+47G7|vervoeren
+47G8|technologie
+47G9|sloop
+47G91|instortende
+47G91|ruin
+47H|textile industry
+47H1|materiaal
+47H11|linnen
+47H111|vlas
+47H12|katoen
+47H13|zijde
+47H131|rups
+47H131|silkworm
+47H132|cocon
+47H132|pupa
+47H14|wol
+47H15|kunststof
+47H2|voorbereiding
+47H2|verwerking
+47H2|garen
+47H21|hackling
+47H211|hackle
+47H22|het wassen
+47H23|kaarden
+47H23|kam
+47H3|fabricage
+47H3|verwerking
+47H3|garen
+47H31|spinnen
+47H311|spinrokken
+47H312|spil
+47H313|spinning-wheel
+47H32|twining
+47H32|verdraaien
+47H33|bleken
+47H34|verven
+47H35|bochtig
+47H351|haspel
+47H351|spool
+47H352|bal
+47H4|fabricage
+47H4|verwerking
+47H4|garen
+47H41|touw
+47H41|rope-making
+47H411|rope-walk
+47H411|ropery
+47H42|haken
+47H43|kant
+47H44|breiwerk
+47H45|vlechten
+47H46|het weven
+47H462|patroon
+47H463|weaving-loom
+47H5|doek
+47H5|verwerking
+47H51|verven
+47H512|batik-werk
+47H512|patroon
+47H52|het drukken
+47H521|schilderij
+47H531|linnen
+47H532|katoen
+47H533|zijde
+47H534|wol
+47H5341|fulling
+47H535|kunststof
+47H54|borduurwerk
+47H55|patchwork
+47H56|trimming
+47H6|doek
+47H6(...)|brokaat
+47H6(VELVET)|fluwelen
+47H7|kleren
+47H7|kledingindustrie
+47H7|fabricage
+47H71|kleermaker
+47H711|pop
+47H711|human figure
+47H712|tracing wheel
+47H712|wiel
+47H713|thimble
+47H72|hatter
+47H73|shoemaker
+47H731|laatste
+47H74|klompenmaker
+47H75|perruquier
+47H75|wigmaker
+47H76|veer
+47I|boerderij
+47I1|landbouw
+47I10|Agricoltura
+47I10|Agricultura
+47I10|personification
+47I10|Ripa
+47I10|Studio dell'agricoltura
+47I11|plant
+47I111|boekweit
+47I111|cornflakes
+47I111|maïs
+47I111|maïs
+47I111|gierst
+47I111|haver
+47I111|rijst
+47I111|rye
+47I111|tarwe
+47I1111|korenaar
+47I112|wortel
+47I112|aardappel
+47I112|wortel
+47I112|knol
+47I112|raap
+47I119|onkruid
+47I12|teelt
+47I12|boer
+47I12|bodem
+47I121|vruchtbaarheid
+47I121|bemesting
+47I122|spade
+47I1221|hakken
+47I1221|schoffelen
+47I123|ploegen
+47I124|eg
+47I125|rollend
+47I126|wieden
+47I127|schoffelen
+47I128|raking
+47I13|teelt
+47I13|boer
+47I13|groeiend
+47I131|zaaien
+47I132|aanplant
+47I132|transplantation
+47I133|plant
+47I133|voortplanting
+47I134|snijdend
+47I134|het enten
+47I134|uitglijden
+47I1341|bestuiving
+47I1342|bindend
+47I135|snoeien
+47I136|bedekking
+47I1361|schaduw
+47I137|sproeien
+47I138|watering
+47I1381|irrigatie
+47I139|aftappen
+47I14|boer
+47I14|oogst
+47I141|bijeenkomst
+47I141|mowing
+47I141|picking
+47I142|bindend
+47I1421|sheaf
+47I1422|wisp
+47I143|stocking (harvest)
+47I1431|hay-cock
+47I144|gleaning
+47I145|vervoeren
+47I1451|hay-wagon
+47I1451|wagon
+47I146|opstapelen
+47I1461|hay-stack
+47I147|opslagruimte
+47I1471|zak
+47I1472|pit
+47I1473|silo
+47I148|het dorsen
+47I1481|winnow
+47I149|hofmakerij
+47I149|dansen
+47I149|het eten
+47I149|buitenshuis
+47I149|rusten
+47I15|landbouwwerktuigen
+47I15|gereedschap
+47I15(COULTER)|kouter
+47I15(FLAIL)|dorsvlegel
+47I15(HARROW)|eg
+47I15(HOE)|schoffel
+47I15(PITCHFORK)|two-pronged fork
+47I15(PLOUGH)|plough
+47I15(PRUNING-KNIFE)|pruning-knife
+47I15(RAKE)|hark
+47I15(SCYTHE)|zeis
+47I15(SICKLE)|sikkel
+47I15(SPADE)|spade
+47I15(WINNOW)|winnow
+47I16|schade
+47I16|verlies
+47I16|bescherming
+47I17|oogst
+47I17|product
+47I17(HAY)|hay
+47I17(STRAW)|stro
+47I2|fokkerij
+47I2|veeteelt
+47I2|boer
+47I21|dierlijk
+47I21|vee
+47I21|huisdier
+47I21|hoofed animal
+47I211|runderen
+47I2111|bul
+47I21111|os
+47I2112|koe
+47I2113|kalf
+47I2114|heifer
+47I212|varken
+47I2121|mannetjesvarken
+47I21211|hog
+47I2122|zeug
+47I2123|big
+47I2123|suckling pig
+47I2124|eikel
+47I2124|bos
+47I2124|swine-herd
+47I213|schaap
+47I2131|RAM
+47I2132|ewe
+47I2133|lam
+47I214|goat
+47I2141|he-goat
+47I2143|kind
+47I22|vee
+47I221|cowgirl
+47I221|koeherder
+47I221|herdsman
+47I221|herdswoman
+47I221|shepherd
+47I221|shepherdess
+47I2211|kudde
+47I2211|schaap
+47I22111|veestal
+47I22111|vouw
+47I22111|terugkerende
+47I22111|stabiel
+47I2212|dragen op de schouders
+47I2212|lam
+47I2212|schaap
+47I2213|personeel
+47I222|voeden
+47I222|watering
+47I2221|fattening
+47I2222|nose-bag
+47I2223|kribbe
+47I2223|trough
+47I2224|veevoeder
+47I223|het melken
+47I2231|melk
+47I2231|vervoeren
+47I2231|juk
+47I22311|milkmaid
+47I2232|karnen
+47I224|het scheren
+47I224|schaap
+47I2241|dompelen
+47I2241|het wassen
+47I226|branding
+47I226|het merken
+47I2261|branding-iron
+47I2262|oormerk
+47I2262|mark
+47I2262|nose-ring
+47I2262|ring
+47I2262|label
+47I227|schoonmaak
+47I227|stabiel
+47I2271|sheepfold
+47I228|rijden
+47I228|herdsman
+47I2281|cowboy
+47I2282|round-up
+47I2283|riding (on horseback)
+47I2283|rodeo
+47I229|spoor
+47I23|gevogelte
+47I24|bijenteelt
+47I241|imker
+47I242|bijenkorf
+47I2421|honingraat
+47I2422|wax
+47I243|zwerm
+47I2431|bee-boom
+47I2431|boom
+47I244|honingbij
+47I2441|koningin
+47I2442|worker (bee)
+47I2443|dar
+47I3|tuinman
+47I3|groeiend
+47I3|tuinbouw
+47I3|market garden
+47I3|plant
+47I3|groente
+47I31|tuin
+47I31|kwekerij
+47I311|bed (plot)
+47I311|forcing bed
+47I312|bel
+47I312|deksel
+47I312|glas
+47I4|fruit
+47I4|groeiend
+47I41|fruit-tree
+47I41|boom
+47I411|boomgaard
+47I412|espalier
+47I413|oogst
+47I4131|picking
+47I4132|schudden
+47I4132|het werpen
+47I42|wine
+47I42|wine-growing
+47I421|wijngaard
+47I4211|huisje
+47I422|plant
+47I422|wijnstok
+47I4221|blad
+47I4221|rank
+47I4222|druif
+47I4223|druif
+47I423|druif
+47I423|oogst
+47I423|wijnoogst
+47I4231|mand
+47I4231|vervoeren
+47I424|productie
+47I4241|druif
+47I4241|wine-press
+47I4242|druif
+47I4242|persing
+47I42421|wine-press
+47I425|grot
+47I425|wine-vault
+47I4251|wine-testing
+47I426|bottelen
+47I426|wine-bottle
+47I5|bloem
+47I5|groeiend
+47I51|kwekerij
+47I52|tuin
+47I52|herb
+47I52|herb garden
+47I521|geneesmiddel
+47I53|broeikas
+47I53|orangery
+47I531|glass-house
+47I531|hot-house
+47I54|gloeilamp
+47I541|bol veld
+47I541|veld
+47I6|tropical culture
+47I7|boomteelt
+47I71|kwekerij
+47I71|boom
+47I8|bosbouw
+47I8|boom
+47I81|boswachter
+47I82|arbeider
+47I83|brandend
+47I83|kolenbrander
+47I83|houtskool branden
+47I83|wood collier
+47I831|houtskool oven
+47I831|furnace
+47I84|houthakker
+47I84|houthakker
+47I84|woodcutting
+47I85|bijeenkomst
+47I85|wood(en)
+47I86|onderhoud
+47I861|opheldering
+47I862|pad
+47I862|weg
+47I863|aanplant
+47I87|opstapelen
+47I87|timber yard
+47I871|hout
+47I871|aanhangwagen
+47I871|vervoeren
+47I8711|drijvend
+47I8711|rivier
+47I872|straal
+47I88|snijdend
+47I88|turf
+47I9|opheldering
+47I9|land
+47I9|reclamation
+47K|visvangst
+47K1|kustvisserij
+47K1|sea fishery
+47K11|whale fishery
+47K12|shell fishery
+47K13|schaaldieren visserij-
+47K14|herring
+47K2|fresh-water fishery
+47K21|fish-pond
+47K21|vijver
+47K3|mossel
+47K3|oester
+47K31|koraal
+47K31|duiken
+47K31|pearl fishing
+47K4|breiwerk
+47K4|netto
+47K41|repareren
+47L|scheepsbouw
+47L1|schip
+47L11|slipway
+47L12|stellingen
+47L2|arbeider
+47L21|dock-arbeider
+47L22|timmerman
+47L22|ship's carpenter
+47L3|launching
+47L31|doop
+47L31|naam
+47L32|maidentrip
+48|kunst
+480|allegorie
+480|Arte
+480|embleem
+480|Ripa
+480|symbool
+48A|openbaar
+48A1|fijnproever
+48A1|Maecenas
+48A1|beschermheer
+48A11|kunstenaar
+48A11|commissie
+48A111|klant
+48A111|bezoekende
+48A12|kunstenaar
+48A12|Dedikationsbild
+48A12|offer
+48A13|kunstliefhebber
+48A13|kunstenaar
+48A13|receiving a person
+48A13|salon
+48A2|bekritiseren
+48A2|bespreken
+48A211|criticus
+48A220|Envy (Invidia)
+48A220|onwetendheid
+48A220|Ignorantia
+48A220|Invidia et Ignorantia
+48A221|criticus
+48A23|kunsttheorie
+48A23|theory
+48A231|Paragone
+48A24|initiation
+48A25|verandering
+48A25|reputatie
+48A251|roem
+48A252|ill-fame
+48A26|karikatuur
+48A3|wedstrijd
+48A31|jury
+48A311|prijs
+48A4|kunstenaar
+48A4|eren
+48A41|bekroning
+48A41|laurel
+48A42|herdenking
+48A5|behoud
+48A5|kunstwerk
+48A51|restauratie
+48A59|plundering
+48A59|oorlog
+48A591|recuperation
+48A6|schade
+48A6|vernietiging
+48A6|kunstwerk
+48A7|uitleggen
+48A7|reading aloud
+48A7|tonen
+48A7|kunstwerk
+48A71|prestatie
+48A711|repetitie
+48A712|publiek
+48A7121|applaus
+48A7121|claque
+48A713|interval
+48A72|bouwwerk
+48A72|buitenshuis
+48A72|prestatie
+48A721|theater
+48A722|Concertgebouw
+48A723|Opera Huis
+48A723|theater
+48A724|music-hall
+48A725|bioscoop
+48A725|movie-house
+48A726|cabaret
+48A729|front of house
+48A729|binnenland
+48A7291|foyer
+48A7292|gehoorzaal
+48A7293|stalls
+48A7294|galerij
+48A7295|box (gebied in het theater)
+48A7295|loge
+48A8|kunstwerk
+48A81|verzamelen
+48A811|kunstverzamelaar
+48A8111|kunstcollectie
+48A8111|verzameling
+48A8111|galerij
+48A8112|kabinet
+48A8112|curiosa
+48A8112|Kunst- und Wunderkammer
+48A81121|Kunstschrank
+48A82|tentoonstelling
+48A821|museum
+48A8211|begeleider
+48A8211|bewaarder
+48A8211|personeel
+48A822|salon
+48A822|tijdelijk
+48A83|beroepen
+48A83|winkel
+48A83|handel
+48A831|kunst handelaar
+48A8311|antiquair
+48A832|art verkoop
+48A832|veiling
+48A832|selling
+48A91|stijl
+48A92|folk art
+48A93|naïve art
+48A94|amateurkunst
+48A95|kinderen kunst
+48A96|psychiatric art
+48A96|psychotic art
+48A97|kitsch
+48A97|Trivialkunst
+48A98|ornament
+48A981|abstracte kunst
+48A981|geometry
+48A9811|lijn
+48A9811|juiste hoek
+48A9811|rechte lijn
+48A98111|slingeren
+48A9812|lijn
+48A9812|rechte lijn
+48A9813|gebogen lijn
+48A9813|round form
+48A98131|cirkel
+48A98131|guilloche
+48A98132|ellips
+48A98133|Greek wave
+48A98133|spiraal
+48A98133|golf
+48A9814|gebogen lijn
+48A9814|lijn
+48A9814|rechte lijn
+48A98141|tracery
+48A9815|ster
+48A98151|pentagram
+48A9816|uitstralende
+48A9816|wiel
+48A9817|roterende
+48A98171|yin-yang
+48A98172|triskele
+48A982|human figure
+48A9821|lidmaat
+48A98211|mascaron
+48A98211|maskeren
+48A98212|gebladerte
+48A98212|hoofd
+48A9822|monster
+48A9823|monster
+48A983|plant
+48A98311|gebladerte
+48A983111|acanthus
+48A983112|palmette
+48A98312|rank
+48A98313|Astwerk
+48A98313|tak
+48A9832|fruit
+48A9832|groente
+48A98321|granaatappel
+48A9833|bloem
+48A98331|fleur-de-lis
+48A98332|lotus
+48A98333|Bos bloemen
+48A98341|rozet
+48A984|dierlijk
+48A9841|bucranium
+48A9841|head (animal)
+48A9841|os
+48A9842|head (animal)
+48A9842|RAM
+48A9843|head (animal)
+48A9843|leeuw
+48A9844|dolfijn
+48A9846|monster
+48A9851|banderol
+48A9851|lint
+48A9851|scroll
+48A9852|linenfold
+48A9853|schelp
+48A9854|vaas
+48A9855|lambrequin
+48A9856|architectuur
+48A9857(...)|ei-en-dart
+48A986|fantasie
+48A9861|scrollwork
+48A9861|strapwork
+48A9862|auricular ornament
+48A9862|lobe style
+48A9863|rocaille
+48A9871|arabesk
+48A98711|luchter
+48A9872|grotesque
+48A9873|moresque
+48A9874|bederven
+48A9874|trofee
+48A9875|guirlande
+48A9876|cartouche
+48A9877|medallion
+48A9878|interlace
+48A98781|abstracte kunst
+48A98781|knoop
+48A98782|dierlijk
+48A98783|bloem
+48A9879|Laub- und Bandelwerk
+48AA721|theater
+48AA722|Concertgebouw
+48AA723|Opera Huis
+48AA723|theater
+48AA724|music-hall
+48AA725|bioscoop
+48AA725|movie-house
+48AA726|cabaret
+48AA729|front of house
+48AA729|binnenland
+48AA9821|lidmaat
+48AA9822|monster
+48AA9823|monster
+48AA983111|acanthus
+48AA983112|palmette
+48AA9841|bucranium
+48AA9841|head (animal)
+48AA9841|os
+48AA9842|head (animal)
+48AA9842|RAM
+48AA9843|head (animal)
+48AA9843|leeuw
+48AA9844|dolfijn
+48AA9846|monster
+48AA9851|banderol
+48AA9851|lint
+48AA9851|scroll
+48AA9852|linenfold
+48AA9853|schelp
+48AA9854|vaas
+48AA9855|lambrequin
+48AA9856|architectuur
+48B|kunstenaar
+48B1|labour
+48B1|studio
+48B10|inspiratie
+48B101|Muses
+48B111|vereiste
+48B111|studio requisites
+48B121|ontwerp
+48B121|schets
+48B122|klassieke overblijfselen
+48B122|studying
+48B123|model
+48B124|model (sitter)
+48B1242|naakt
+48B13|model (sitter)
+48B14|onderwijs
+48B141|academie
+48B141|school
+48B1410|Academia
+48B1410|personification
+48B1410|Ripa
+48B142|wonderkind
+48B142|talent
+48B142|youth (adolescent)
+48B143|pupil
+48B15|assistent
+48B15|pupil
+48B19|vernietiging
+48B19|kunstwerk
+48B21|roem
+48B22|gezin
+48B23|club
+48B24|Bohemien leven
+48B24|feest
+48B25|genie
+48B25|ingloriousness
+48B25|gebrek
+48B26|sterfbed
+48B3|portret
+48B3|self-portrait
+48B4|organisatie
+48B4|vakbond
+48B41|gilde
+48B41|Luke (St.)
+48B411|wapen
+48B42|academie
+48B42|vereniging
+48B43|rederijkerskamer
+48B43|rederijkerskamer
+48B43|redenaar
+48BB101|Muses
+48BB111|vereiste
+48BB111|studio requisites
+48BB1242|naakt
+48BB141|academie
+48BB141|school
+48BB1410|Academia
+48BB1410|personification
+48BB1410|Ripa
+48BB142|wonderkind
+48BB142|talent
+48BB142|youth (adolescent)
+48BB143|pupil
+48C|kunstenaar
+48C|beroepen
+48C1|architectuur
+48C10|allegorie
+48C10|Architettura
+48C10|embleem
+48C10|Ripa
+48C10|symbool
+48C101|hut
+48C101|oorsprong
+48C11|architect
+48C11|labour
+48C111|ontwerp
+48C111|schets
+48C112|klassieke overblijfselen
+48C112|studying
+48C113|ontwerp
+48C113|model
+48C113|offer
+48C113|beschermheer
+48C114|gebouw
+48C114|toezicht
+48C12|architect
+48C13|architect
+48C13|portret
+48C13|self-portrait
+48C14|kunstwerk
+48C141|bouwwerk
+48C1411|buitenkant
+48C14111|vogelperspectief
+48C1412|binnenland
+48C1413|karikatuur
+48C142|ontwerp
+48C142|model
+48C1421|serie
+48C1422|maquette
+48C1424|sectie
+48C1425|buitenkant
+48C14251|vogelperspectief
+48C1426|binnenland
+48C143|ideal architecture
+48C143|visie
+48C1431|fantasie
+48C1432|maquette
+48C1432|model
+48C1433|ontwerp
+48C1434|sectie
+48C1435|buitenkant
+48C14351|vogelperspectief
+48C1436|binnenland
+48C144|dwaasheid
+48C145|schilderij
+48C145|beeldhouwkunst
+48C1451|Architekturbild
+48C149|ruin
+48C15|gereedschap
+48C161|pijler
+48C1611|half-column
+48C1611|pilaster
+48C1612|kapitaal (architectuur)
+48C1613|base
+48C1614|spiraal
+48C1614|Solomonic column
+48C1614|spiraal
+48C1615|zuilengalerij
+48C162|boog
+48C162|archivolt
+48C1621|zuilengang
+48C1622|gewelf
+48C1622(...)|fan vault
+48C1622(...)|lierne-vault
+48C16221|hoeksteen
+48C1623|koepel
+48C1624|oorschelp
+48C163|boek
+48C163|bestellen
+48C1631|Dorische orde
+48C1632|Tuscan order
+48C1633|Ionic order
+48C1634|Corinthian order
+48C1635|samengestelde opdracht
+48C164|human figure
+48C1641|atlantes
+48C1642|kariatiden
+48C165|lijstwerk
+48C1661|rustication
+48C167|vloer
+48C167|bestrating
+48C168(...)|telraam
+48C168(...)|kroonlijst
+48C168(ARCHITRAVE)|architrave
+48C2|beeldhouwkunst
+48C20|allegorie
+48C20|embleem
+48C20|Ripa
+48C20|Scoltura
+48C20|Sculptura
+48C20|symbool
+48C21|labour
+48C21|sculptor
+48C21|studio
+48C211|bozzetto
+48C211|model
+48C212|gieten
+48C212|hollow casting
+48C213|klassieke overblijfselen
+48C213|studying
+48C22|sculptor
+48C23|portret
+48C23|sculptor
+48C23|self-portrait
+48C24|weergave
+48C24|standbeeld
+48C24|kunstwerk
+48C241|galerij
+48C242|kabinet
+48C242|human figure
+48C242|wax
+48C243|karikatuur
+48C244|Herm
+48C244|voetstuk
+48C25|gereedschap
+48C25(MALLET)|houten hamer
+48C26|medaille
+48C27|juweel
+48C3|kunstnijverheid
+48C3|ambacht
+48C30|allegorie
+48C30|embleem
+48C30|symbool
+48C31|ambachtsman
+48C311|goudsmid
+48C311|jeweller
+48C311|metaal
+48C311|Edel metaal
+48C311|zilversmid
+48C312|basismetaal
+48C312|metaal
+48C313|pottenbakker
+48C314|blazen
+48C314|glass-blowing
+48C315|gobelin making
+48C315|tapestry weaver
+48C315|het weven
+48C316|ébéniste
+48C316|meubelmaker
+48C316|meubilair
+48C316|schrijnwerker
+48C32|ambachtsman
+48C32|portret
+48C32|self-portrait
+48C33|kunstwerk
+48C34|gereedschap
+48C34(POTTER'S WHEEL)|potter's wheel
+48C34(POTTER'S WHEEL)|wiel
+48C34(TOUCH-STONE)|touchstone
+48C35|decoratie
+48C35|ornament
+48C351|applicatiestuk
+48C351|en relief
+48C352|creux
+48C352|en creux
+48C3521|gravure
+48C3522|ets
+48C3523|snijwerk
+48C35231|chip carving
+48C353|flat decoration
+48C3531|schilderij
+48C35311|lacquering
+48C3532|het drukken
+48C3533|emailleren
+48C3534|veneering
+48C35341|intarsia
+48C35342|marquetry
+48C3535|damascening
+48C3535|niello-ing
+48C3536|encrusting
+48C36|ontwerp
+48C36|industrial design
+48C361|industrial designer
+48C4|monumental art
+48C40|allegorie
+48C40|embleem
+48C40|symbool
+48C41|monumental artist
+48C411|mosaicist
+48C412|mural painter
+48C412|schilder
+48C413|glas
+48C413|stained glass artist
+48C42|portret
+48C42|self-portrait
+48C43|kunstwerk
+48C44|gereedschap
+48C51|book-verlichting
+48C51|miniatuur
+48C51|schilderij
+48C510|allegorie
+48C510|embleem
+48C510|Pictura
+48C510|Pittura
+48C510|Ripa
+48C510|symbool
+48C5101|tekening
+48C5101|oorsprong
+48C511|labour
+48C511|schilder
+48C511|studio
+48C5110|inspiratie
+48C51101|Muses
+48C51102|music making
+48C51102|musical instrument
+48C51111|vereiste
+48C51111|studio requisites
+48C51121|ontwerp
+48C51121|schets
+48C51122|klassieke overblijfselen
+48C51122|studying
+48C51123|model (sitter)
+48C511232|naakt
+48C5113|model (sitter)
+48C5114|kleur
+48C5114|verf
+48C5115|pupil
+48C5115|onderwijs
+48C51151|assistent
+48C5119|vernietiging
+48C5119|kunstwerk
+48C512|schilder
+48C513|schilder
+48C513|portret
+48C513|self-portrait
+48C514|afbeelding
+48C514|kunstwerk
+48C5141|galerij
+48C5141|gemalte Galerie
+48C5143|karikatuur
+48C515|painter's tools
+48C515|gereedschap
+48C5151|schildersezel
+48C5152|palet
+48C5153|borstel
+48C5154|pop
+48C5154|human figure
+48C5154|mannequin
+48C5154|puppet
+48C5155|boek
+48C5155|model-book
+48C5156|omlijsting
+48C51561|passe-partout
+48C51562|gordijn
+48C5157|maulstick
+48C52|tekening
+48C520|allegorie
+48C520|embleem
+48C520|symbool
+48C521|tekenaar
+48C521|labour
+48C5211|klassieke overblijfselen
+48C5211|studying
+48C5212|tekening-les
+48C5212|onderwijs
+48C522|tekenaar
+48C523|tekenaar
+48C523|portret
+48C523|self-portrait
+48C524|schets
+48C524|kunstwerk
+48C525|gereedschap
+48C5251|camera
+48C5251|camera obscura
+48C5252|camera
+48C5252|camera lucida
+48C5253|bolle spiegel
+48C5253|spiegel
+48C5254|physionotrace
+48C5254|silhouet
+48C5254|silhouette-apparatus
+48C5255|perspectief
+48C53|graphic arts
+48C530|allegorie
+48C530|embleem
+48C530|symbool
+48C531|graficus
+48C5311|engraver
+48C5311|wood-engraver
+48C5311|houthakker
+48C5312|engraver
+48C5312|etcher
+48C5313|lithographer
+48C532|graficus
+48C532|portret
+48C532|self-portrait
+48C533|gravure
+48C533|ets
+48C533|litho
+48C533|afdruk
+48C533|woodcut
+48C533|kunstwerk
+48C534|gereedschap
+48C61|fotografie
+48C610|allegorie
+48C610|embleem
+48C610|symbool
+48C611|fotograaf
+48C6111|studio
+48C61111|vereiste
+48C61111|studio requisites
+48C6112|foto
+48C6112|fotograferen
+48C61121|model (sitter)
+48C61121|portret
+48C6113|donkere kamer
+48C6114|film
+48C6114|verwerking
+48C61141|ontwikkelen
+48C61142|het drukken
+48C612|fotograaf
+48C613|fotograaf
+48C613|portret
+48C613|self-portrait
+48C614|foto
+48C614|kunstwerk
+48C6141|negatief
+48C6142|glijbaan
+48C6142|transparency
+48C6143|film
+48C6143|bord
+48C6144|digitale foto
+48C615|apparaat
+48C6151|camera
+48C62|cinematografie
+48C620|allegorie
+48C620|embleem
+48C620|symbool
+48C621|cinematograaf
+48C621|labour
+48C6211|studio
+48C6212|filmen
+48C62121|feature movie
+48C62121|motion picture
+48C62122|geanimeerde cartoon
+48C62122|spotprent
+48C6213|snijdend
+48C6213|montage
+48C622|cinematograaf
+48C623|cinematograaf
+48C623|portret
+48C623|self-portrait
+48C624|celluloïde
+48C624|film
+48C6241|haspel
+48C625|apparaat
+48C6251|camera
+48C6251|film camera
+48C6251|movie camera
+48C6251|video camera
+48C6252|projector
+48C63|cinematografie
+48C63|oorsprong
+48C63|fotografie
+48C7|muziek
+48C70|allegorie
+48C70|embleem
+48C70|Musica
+48C70|Ripa
+48C70|symbool
+48C701|oorsprong
+48C702|magic power of music
+48C71|componist
+48C7110|inspiratie
+48C71101|Muses
+48C713|portret
+48C72|musician
+48C721|labour
+48C7210|inspiratie
+48C72101|Muses
+48C7211|music-lesson
+48C7211|pupil
+48C723|portret
+48C73|musical instrument
+48C731|strijkinstrument
+48C731|string instrument
+48C7311|viool
+48C7312|bas
+48C7312|cello
+48C7312|dubbele bas
+48C7312|altviool
+48C7312|violoncello
+48C7313|rebec
+48C7313|vedel
+48C7314|hurdy-gurdy
+48C732|plucked instrument
+48C732|string instrument
+48C7321|cithara
+48C7321|lyre
+48C7321|psaltery
+48C7322|harp
+48C7323|luit
+48C7323|theorbo
+48C7324|balalaika
+48C7324|luit
+48C7324|gitaar
+48C7324|mandoline
+48C7325|hakkebord
+48C7325|zither
+48C733|keyboard instrument
+48C7331|spinet
+48C7331|maagdelijk
+48C7332|klavichord
+48C7332|harpsichord
+48C7333|piano
+48C73331|grote piano
+48C7334|orgel
+48C73341|kerkorgel
+48C7335|accordeon
+48C734|percussion instrument
+48C7341|drum (muziekinstrument)
+48C73411|tamboerijn
+48C7342|castagnetten
+48C7342|klepels
+48C7343|bel
+48C7343|klokkenspel
+48C7343|klokkenspel
+48C735|wind instrument
+48C7351|aulos
+48C7351|fluit
+48C7351|scheenbeen
+48C73511|opnemer
+48C73512|fagot
+48C73512|klarinet
+48C73512|hobo
+48C73512|shawm
+48C73513|dwarsfluit
+48C73513|traverso
+48C7352|blazen
+48C7352|kornet
+48C7352|Hoorn
+48C7352|trombone
+48C7352|trompet
+48C7352|tuba
+48C73521|saxophone
+48C7353|syrinx
+48C7354|doedelzak
+48C7354|musette
+48C7355|mouth organ
+48C7356(CONCH)|schelp
+48C736|popular music
+48C737|kitchen-utensils
+48C737|rough music
+48C737(RUMBLING-POT)|rumbling pot
+48C738|accessoires
+48C738|vork
+48C738|metronoom
+48C738|music-stand
+48C738|tuning-fork
+48C74|muzieknotatie
+48C74|schrijfwijze
+48C74|Aantekening
+48C74|partituur
+48C74|geschrift
+48C741|boek
+48C741|drukwerk
+48C742|manuscript
+48C7421|handtekening
+48C7421|componist
+48C743|muziektheorie
+48C743|theory
+48C75|musical instrument
+48C75|musician
+48C7511|stemming
+48C75111|luit
+48C7512|overpeinzing
+48C752|music making
+48C7521|strijkinstrument
+48C7521|string instrument
+48C7522|plucked instrument
+48C7522|string instrument
+48C7523|keyboard instrument
+48C7524|percussion instrument
+48C7525|wind instrument
+48C753|concert
+48C753|groep
+48C753|music making
+48C7531|orkest
+48C7532|band (muziek)
+48C7532|kamerorkest
+48C7532|jazz-band
+48C7532|pop-band
+48C7532|kwartet
+48C7532|quintet
+48C7532|trio
+48C754|music making
+48C754|singing
+48C7541|vergezellen
+48C7541|zanger
+48C75411|jongleur
+48C75411|minstrel
+48C75412|bard
+48C75412|lyric poet
+48C75412|dichter
+48C7542|vergezellen
+48C7542|zanger
+48C755|music making
+48C755|singing
+48C7551|a cappella
+48C7551|zanger
+48C7551|soloist
+48C75512|vrouw
+48C7552|koor
+48C756|folk music
+48C756|music making
+48C756|popular music
+48C756|street music
+48C7561|fiddler
+48C75611|hurdy-gurdy
+48C75612|draaiorgel
+48C75613|homme orchestre
+48C75613|one-man band
+48C75614|band (muziek)
+48C75614|brassband
+48C75614|street band
+48C7562|folk song
+48C7562|singing
+48C75621|ballad verkoper
+48C75621|ballad zanger
+48C75621|selling
+48C75621|zanger
+48C76|automatisering
+48C761|musical box
+48C762|orgel
+48C762|pierement
+48C762|street-organ
+48C763|orchestrion
+48C763|pianola
+48C77|dirigent
+48C771|wapenstok
+48C771|stok
+48C78|publiek
+48C78|concert
+48C78|het luisteren
+48C8|stage (theatre)
+48C8|kunstwerk
+48C80|allegorie
+48C80|embleem
+48C80|symbool
+48C801|ballet
+48C801|dansen
+48C802|theater
+48C8021|drama
+48C8021|literatuur
+48C803|muziek
+48C804|motion picture
+48C81|uitrusting
+48C811|ontwerp
+48C811|stage design
+48C813|scenery (stage)
+48C813|set (stage)
+48C8131|achtergrond
+48C8132|lamp
+48C8133|gordijn
+48C814|kleedkamer
+48C814|kamer
+48C821|directeur
+48C821|producent
+48C821|stage manager
+48C822|choreograaf
+48C823|prompter
+48C824|stage-hand
+48C83|artiest
+48C831|portret
+48C8311|danser
+48C8312|acteur
+48C8312|actrice
+48C8313|opera-singer
+48C8313|zanger
+48C8314|cabaret-artiste
+48C8315|film actor
+48C8315|film actress
+48C8321|danser
+48C8322|acteur
+48C8322|actrice
+48C8323|opera-singer
+48C8323|zanger
+48C8324|cabaret-artiste
+48C8325|film actor
+48C8325|film actress
+48C84|ballet
+48C84|prestatie
+48C841|opleiding
+48C842|danser
+48C842|groep
+48C8422|vrouw
+48C843|ballet stap
+48C843|positie
+48C843|houding
+48C843|stap
+48C844|ballet jurk
+48C844|kostuum
+48C85|drama
+48C85|prestatie
+48C85|play (drama)
+48C85|theater
+48C851|repetitie
+48C851|studying
+48C852|acteur
+48C852|actrice
+48C852|groep
+48C852|troep
+48C85211|verpersoonlijking
+48C85211|women's clothes
+48C85221|verpersoonlijking
+48C85221|men's clothes
+48C8523|reizend
+48C85231|aankondigen
+48C853|kostuum
+48C853|stage costume
+48C854|genre
+48C854|theatrical genre
+48C8541|mystery play
+48C8541|religious drama
+48C85411|moraliteit
+48C8542|redenaar
+48C8543|komedie
+48C8543|commedia dell'arte
+48C85431|type
+48C85431(COLOMBINE)|Colombine
+48C85431(HARLEQUIN)|Harlequin
+48C85431(PANTALONE)|Pantalone
+48C85431(PIERROT)|Pierrot
+48C85431(PULCINELLA)|Pulcinella
+48C8544|gebarenspel
+48C8544|masker
+48C8544|pantomime
+48C85441|tableau vivant
+48C8545|tragedie
+48C85450|Ripa
+48C85450|Tragedia
+48C8546|komedie
+48C85460|Comedia
+48C85460|Comedia vecchia
+48C85460|Ripa
+48C8547|klucht
+48C8547|satyr play
+48C85481|mixed media
+48C85481|total theatre
+48C85482|happening
+48C855|marionette show
+48C855|puppet show
+48C855|tonen
+48C8551|puppet
+48C85511|Jan Klaassen
+48C85511|Katrijn
+48C85511|Punch and Judy
+48C8552|marionet
+48C856|schaduw
+48C856|silhouet
+48C86|drama
+48C86|musical drama
+48C86|prestatie
+48C861|repetitie
+48C861|rol
+48C861|studying
+48C862|opera
+48C8621|opera-singer
+48C8621|zanger
+48C8622|opera-singer
+48C8622|zanger
+48C8622|vrouw
+48C863|musical
+48C863|operette
+48C863|Singspiel
+48C864|cabaret
+48C8641|artiest
+48C8641|cabaret-artiste
+48C865|tonen
+48C865|verscheidenheid
+48C865|vaudeville
+48C8651|strip-tease
+48C8651|uitkleden
+48C87|motion picture
+48C87|tonen
+48C871|acteur
+48C871|actrice
+48C871|scherm
+48C8711|film actor
+48C8712|film actress
+48C872|explicator
+48C872|film explicator
+48C873|genre
+48C8731|feature movie
+48C8732|natuur
+48C8733|documentaire
+48C8734|geanimeerde cartoon
+48C8734|spotprent
+48C9|fictie
+48C9|literatuur
+48C90|allegorie
+48C90|embleem
+48C90|Lettere
+48C90|litterae
+48C90|Ripa
+48C90|symbool
+48C901|Poesia
+48C901|poëzie
+48C9011|epic poetry
+48C90111|heroic poetry
+48C90111|Poema heroico
+48C9012|lyric poetry
+48C9012|Poema lirico
+48C90121|love poetry
+48C9013|elegie
+48C9014|Poema satirico
+48C9014|satirical poetry
+48C9015|pastoral poetry
+48C9015|Poema pastorale
+48C902|proza
+48C9021|episch
+48C91|dichter
+48C91|schrijver
+48C910|Furore poetico
+48C910|inspiratie
+48C910|Ripa
+48C9101|Muses
+48C911|geschrift
+48C9111|handtekening
+48C9112|dicteren
+48C912|poète maudit
+48C913|reading aloud
+48C913|kunstwerk
+48C919|vernietiging
+48C919|kunstwerk
+48C92|dichter
+48C92|schrijver
+48C921|roem
+48C921|Laureate
+48C921|laurel
+48C921|poeta laureatus
+48C93|dichter
+48C93|portret
+48C93|schrijver
+48CC51111|vereiste
+48CC51111|studio requisites
+48CC51121|ontwerp
+48CC51121|schets
+48CC51122|klassieke overblijfselen
+48CC51122|studying
+48CC51123|model (sitter)
+48CC51151|assistent
+48CC61111|vereiste
+48CC61111|studio requisites
+48CC61141|ontwikkelen
+48CC61142|het drukken
+48CC6211|studio
+48CC6212|filmen
+48CC62121|feature movie
+48CC62121|motion picture
+48CC62122|geanimeerde cartoon
+48CC62122|spotprent
+48CC6213|snijdend
+48CC6213|montage
+48CC70|allegorie
+48CC70|embleem
+48CC70|Musica
+48CC70|Ripa
+48CC70|symbool
+48CC71|componist
+48CC7110|inspiratie
+48CC71101|Muses
+48CC72|musician
+48CC7210|inspiratie
+48CC7211|music-lesson
+48CC7211|pupil
+48CC73|musical instrument
+48CC731|strijkinstrument
+48CC731|string instrument
+48CC732|plucked instrument
+48CC732|string instrument
+48CC733|keyboard instrument
+48CC7331|spinet
+48CC7331|maagdelijk
+48CC7332|klavichord
+48CC7332|harpsichord
+48CC7333|piano
+48CC73331|grote piano
+48CC7334|orgel
+48CC73341|kerkorgel
+48CC7335|accordeon
+48CC734|percussion instrument
+48CC7341|drum (muziekinstrument)
+48CC73411|tamboerijn
+48CC7342|castagnetten
+48CC7342|klepels
+48CC7343|bel
+48CC7343|klokkenspel
+48CC7343|klokkenspel
+48CC735|wind instrument
+48CC7351|aulos
+48CC7351|fluit
+48CC7351|scheenbeen
+48CC7352|blazen
+48CC7352|kornet
+48CC7352|Hoorn
+48CC7352|trombone
+48CC7352|trompet
+48CC7352|tuba
+48CC7353|syrinx
+48CC7354|doedelzak
+48CC7354|musette
+48CC7355|mouth organ
+48CC736|popular music
+48CC737|kitchen-utensils
+48CC737|rough music
+48CC738|accessoires
+48CC738|vork
+48CC738|metronoom
+48CC738|music-stand
+48CC738|tuning-fork
+48CC74|muzieknotatie
+48CC74|schrijfwijze
+48CC74|Aantekening
+48CC74|partituur
+48CC74|geschrift
+48CC7421|handtekening
+48CC7421|componist
+48CC75|musical instrument
+48CC75|musician
+48CC75111|luit
+48CC75512|vrouw
+48CC75611|hurdy-gurdy
+48CC75612|draaiorgel
+48CC75613|homme orchestre
+48CC75613|one-man band
+48CC75614|band (muziek)
+48CC75614|brassband
+48CC75614|street band
+48CC76|automatisering
+48CC761|musical box
+48CC762|orgel
+48CC762|pierement
+48CC762|street-organ
+48CC763|orchestrion
+48CC763|pianola
+48CC77|dirigent
+48CC78|publiek
+48CC78|concert
+48CC78|het luisteren
+49|geleerdheid
+49|beroepen
+49|wetenschap
+49A|onderwijs
+49A0|allegorie
+49A0|Ammaestramento
+49A0|leer
+49A0|Dottrina
+49A0|Het onderwijs
+49A0|embleem
+49A0|Istitutione
+49A0|Ripa
+49A0|symbool
+49A1|spelen
+49A1|studying
+49B|kind
+49B|school
+49B|onderwijs
+49B1|verplegingsschool
+49B2|klasse
+49B2|basisschool
+49B211|first school-day
+49B211|toonaangevend
+49B22|thuis
+49B22|terugkerende
+49B23|last school-day
+49B24|pupil
+49B24|leraar
+49B241|ouders
+49B25|discipline
+49B25|straf
+49B251|hoek
+49B251|keeping in
+49B252|afstraffing
+49B2521|berk (staaf)
+49B2521|staaf
+49B2521|takje
+49B2522|pupil
+49B2522|leraar
+49B253|lijn
+49B253|geschrift
+49B31|middelbare school
+49B31|voortgezet onderwijs
+49B32|technical school
+49B32|beroepsonderwijs
+49B33|teacher's college
+49B4|universiteit
+49B40|Academia
+49B40|personification
+49B40|Ripa
+49B41|organisatie
+49B411|oprichting
+49B4111|herdenking
+49B412|board (commissie)
+49B412|dignitaris
+49B413|pedel
+49B4131|foelie
+49B4131|sceptre
+49B414|insigne
+49B414|zegel
+49B415|faculteiten
+49B416|college
+49B416|bouwwerk
+49B421|lezing
+49B4211|installatie
+49B4211|spraak
+49B4212|magister cum discipulis
+49B4212|pupil
+49B4212|leraar
+49B4213|Accipies-houtsnede
+49B4213|woodcut
+49B4214|praktijk
+49B422|onderzoek
+49B423|graad
+49B423|dokter
+49B423|ontvangen
+49B4231|scriptie
+49B4232|diploma
+49B4233|honorary degree
+49B4233|eer
+49B43|professor
+49B431|groep
+49B44|student
+49B441|studying
+49B4411|nacht
+49B442|studenten leven
+49B4421|kostuum
+49B4422|kamer
+49B4423|liefde
+49B4424|groentje
+49B44241|matriculation
+49B4425|vakantie
+49B4426|sending away
+49B4427|rel
+49B4428|organisatie
+49B44281|club
+49B44282|fraternity
+49B44283|initiation
+49B44284|feest
+49B44285|spectakel
+49B4429|Bettelstudent
+49B4429|omzwerving
+49BB431|groep
+49BB441|studying
+49BB4411|nacht
+49BB442|studenten leven
+49BB4421|kostuum
+49BB4422|kamer
+49BB4423|liefde
+49BB4424|groentje
+49BB44241|matriculation
+49BB4425|vakantie
+49BB4426|sending away
+49BB4427|rel
+49BB4428|organisatie
+49BB44281|club
+49BB44282|fraternity
+49BB44283|initiation
+49BB44284|feest
+49BB44285|spectakel
+49BB4429|Bettelstudent
+49BB4429|omzwerving
+49C0|allegorie
+49C0|embleem
+49C0|erudition
+49C0|Ripa
+49C0|Scientia
+49C0|Scienza
+49C0|studio
+49C0|symbool
+49C01|verleiding
+49C01|werelds
+49C011|ivory tower
+49C011|renouncing
+49C011|scholar
+49C1|Artes Liberales
+49C1|liberal arts
+49C1|zeven
+49C11|personification
+49C11|drie
+49C11|trivium
+49C111|grammatica
+49C111|Grammatica
+49C111|Ripa
+49C112|Dialectica
+49C112|Dialettica
+49C112|logica
+49C112|Ripa
+49C113|welsprekendheid
+49C113|Eloquentia
+49C113|Rettorica
+49C113|retoriek
+49C113|Rhetorica
+49C113|Ripa
+49C12|vier
+49C12|personification
+49C12|quadrivium
+49C121|rekenkunde
+49C121|Arithmetica
+49C121|Aritmética
+49C121|Ripa
+49C122|Geometria
+49C122|geometry
+49C122|Ripa
+49C123|Astronomia
+49C123|astronomie
+49C123|Ripa
+49C124|muziek
+49C124|Musica
+49C124|Ripa
+49C131|filosofie
+49C131|wijsheid
+49C14|embleem
+49C14|symbool
+49C15|Artes vulgares
+49C15|contrast
+49C16|faculteiten
+49C16|vier
+49C16|four faculties
+49C161|theology
+49C162|justitie
+49C163|geneeskunde
+49C164|filosofie
+49C17|geesteswetenschappen
+49C2|filosofie
+49C20|Filosofia
+49C20|Philosophia
+49C20|Ripa
+49C201|bespreken
+49C201|filosoof
+49C21|discipline
+49C211|Metafisica
+49C211|Metaphysica
+49C211|metafysica
+49C211|Ripa
+49C212|Logica
+49C212|logica
+49C212|Ripa
+49C213|epistemologie
+49C213|kennis
+49C213|theory
+49C2131|antrum Platonicum
+49C2131|grot
+49C2131|Plato
+49C214|schoonheidsleer
+49C3|filosoof
+49C3|scholar
+49C31|groep
+49C32|studie
+49C33|academie
+49C33|learned society
+49C33|organisatie
+49C34|omzwerving
+49C4|dialoog
+49C4|bespreken
+49C4|betwisten
+49C41|verontrustende
+49C41|onderbreking
+49D|wiskunde
+49D0|Mathematica
+49D0|Ripa
+49D1|rekenkunde
+49D11|aantal
+49D11(10)|tien
+49D11(1095)|one thousand and ninety-five
+49D11(11)|elf
+49D11(12)|twaalf
+49D11(13)|dertien
+49D11(16)|zestien
+49D11(2)|twee
+49D11(3)|drie
+49D11(4)|vier
+49D11(5)|vijf
+49D11(6)|zes
+49D11(666)|666
+49D11(7)|zeven
+49D11(8)|acht
+49D11(9)|negen
+49D110|number symbolism
+49D110|symbool
+49D121|toevoeging
+49D1211|Fibonacci
+49D1211|series of Fibonacci
+49D122|aftrekking
+49D123|vermenigvuldiging
+49D124|scheidslijn
+49D13|schrijfwijze
+49D13|schaal
+49D131|decimale schaal
+49D132|tweetallig stelsel
+49D2|algebra
+49D2|statistiek
+49D21|vergelijking
+49D21|formule
+49D22|tabel
+49D22|diagram
+49D22|pictorial chart
+49D3|geometry
+49D3|planimetry
+49D30|Ichonografia
+49D30|Planimetria
+49D30|Ripa
+49D31|punt
+49D32|lijn
+49D321|rechte lijn
+49D3211|intersecting lines
+49D3212|hoek
+49D3213|parallel lines
+49D3214|gulden middenweg
+49D3214|golden section
+49D3214|sectio aurea
+49D3214|sectie
+49D322|gebogen lijn
+49D3221|onregelmatigheid
+49D3222|schoonheid
+49D3222|regularity
+49D3223|spiraal
+49D33|driehoek
+49D331|gelijkbenige driehoek
+49D332|equilateral triangle
+49D333|juiste hoek
+49D34|quadrilateral
+49D341|onregelmatigheid
+49D342|regularity
+49D342(...)|deltoid
+49D342(...)|rechthoek
+49D342(...)|rhombus
+49D342(...)|trapezium
+49D342(RHOMBUS)|ruit
+49D342(SQUARE)|square (shape)
+49D35|polygon
+49D351|onregelmatigheid
+49D352|regularity
+49D352(6)|zeshoek
+49D352(8)|achthoek
+49D36|cirkel
+49D361|segment
+49D362|quadrature of the circle
+49D363|omtrek
+49D364|straal
+49D365|centrum
+49D366|diameter
+49D37|kegel
+49D37|kegelsnede
+49D37|sectie
+49D371|ellips
+49D372|parabool
+49D373|hyperbola
+49D4|geometry
+49D4|solide
+49D4|stereometry
+49D40|Ripa
+49D40|Sterometria
+49D41|vijf
+49D41|Platonic solids
+49D42|hoek
+49D421|rand
+49D43|prisma
+49D431|driehoek
+49D432|quadrangular prism
+49D433|parallelepiped
+49D44|piramide
+49D441|driehoek
+49D442|quadrangular pyramid
+49D45|polyhedron
+49D45|regularity
+49D451|tetrahedron
+49D452|kubus
+49D452|hexahedron
+49D453|octahedron
+49D454|dodecaëder
+49D455|icosahedron
+49D46|cilinder
+49D461|spiraal
+49D461|spiraal
+49D47|kegel
+49D48|globe
+49D481|ellipsoïde
+49D51|tekening
+49D511|tekening-instrumenten
+49D511|instrument
+49D511(...)|curve
+49D511(...)|pantograph
+49D511(PROTRACTOR)|gradenboog
+49D511(RULER)|ruler (drawing-instrument)
+49D5111|kompassen
+49D5112|square (drawing-instrument)
+49D52|meten
+49D521|instrument
+49D521|measuring-instrument
+49D521(...)|remklauw (meet-instrument)
+49D521(...)|peilen
+49D521(...)|yard-stick
+49D53|tellen
+49D531|berekenen-instrument
+49D531|instrument
+49D531|machine
+49D531(...)|voegen-machine
+49D531(...)|kassa
+49D531(...)|slide rule
+49D5311|telraam
+49D5311|tellen frame
+49D5312|teller
+49D5312|tellen-board
+49D5313|tapijt
+49D5313|doek
+49D5313|reckoning-cloth
+49D5314|casting-counter
+49D5314|jetton
+49D5314|geld
+49D54|computer
+49D54|vergelijking
+49D54|machine
+49D541|laptop
+49D541|notitieboekje
+49D542|tablet
+49D61|set theory
+49D61|theory
+49D62|geometry
+49D62|non-Euclidean geometry
+49D63|geometry
+49D64|polygonometry
+49D64|trigonometry
+49D65|beschrijvende meetkunde
+49D65|geometry
+49D7|optical illusion
+49D7|perspectief
+49D70|allegorie
+49D70|Prospetiva
+49D70|Ripa
+49D71|anamorfose
+49E1|astronomie
+49E1|kosmografie
+49E1|ster
+49E10|Astronomia
+49E10|Cosmografia
+49E10|Ripa
+49E11|astronomisch instrument
+49E11|instrument
+49E11|measuring-instrument
+49E111|observatorium
+49E112|radio-telescope
+49E112|telescoop
+49E12|tabel
+49E12|kaart
+49E12|star-chart
+49E121|globe
+49E121|star-globe
+49E122|armillairsfeer
+49E122|hemelglobe
+49E122|globe
+49E123|orrery
+49E123|planetarium
+49E13|kosmologische theorieën
+49E13|theory
+49E131|aarde
+49E131|geocentric theory
+49E132|heliocentric theory
+49E132|solar system
+49E132|zon
+49E133|expansie
+49E133|heelal
+49E1331|Grote knal
+49E21|fysica
+49E210|Fisica
+49E210|Ripa
+49E2111|relativiteit
+49E2111|theory
+49E212|quantum theory
+49E212|theory
+49E22|mechanica
+49E220|Mecanica
+49E220|Ripa
+49E221|dynamica
+49E221|kinetica
+49E2211|wrijving
+49E222|zwaartekracht
+49E2221|slinger
+49E2222|ballistiek
+49E2222|projectile
+49E223|fluid mechanics
+49E223|hydraulica
+49E224|aërodynamica
+49E224|gas
+49E2241|vacuum physics
+49E23|thermodynamics
+49E24|akoestiek
+49E24|klinken
+49E25|licht
+49E25|optica
+49E251|instrument
+49E251|optical instrument
+49E2511|lens
+49E25111|brandende glas
+49E25111|sun-glass
+49E2512|microscoop
+49E2513|kijker
+49E2513|spy-glass
+49E2514|telescoop
+49E2515|3D
+49E252|refraction
+49E253|prisma
+49E2531|kleur
+49E2531|zeven
+49E254|brandende-spiegel
+49E254|holle spiegel
+49E254|spiegel
+49E255|vergroting
+49E26|elektrodynamica
+49E26|elektromagnetisme
+49E27|atoomfysica
+49E27|molecular physics
+49E27|nuclear physics
+49E271|atoom
+49E271|elektron
+49E271|elementariness
+49E271|molecule
+49E271|neutron
+49E271|deeltje
+49E2711|model
+49E272|radioactiviteit
+49E2721|bescherming
+49E273|nuclear reaction
+49E3|Chemie
+49E31|chemisch symbool
+49E31|symbool
+49E32|inorganic chemistry
+49E33|organic chemistry
+49E39|alchimie
+49E391|alchimist
+49E391|blaasbalg
+49E391|smeltkroes
+49E391|distilleren
+49E391|distilleren-apparaat
+49E391|furnace
+49E391|zandloper
+49E391|nog
+49E3911|poging (poging)
+49E3911|goud
+49E3912|Philosopher's stone
+49E3912|zoeken
+49E3912|steen
+49E3913|tekortkoming
+49E3913|mislukking
+49E392|alchemistische symbool
+49E392|symbool
+49E393|uitrusting
+49E3931|vaartuig
+49E3931(...)|fles
+49E39311|ampulla
+49E39311|fles
+49E39311(OVUM PHILOSOPHICUM)|ei
+49E39311(OVUM PHILOSOPHICUM)|fles
+49E39311(OVUM PHILOSOPHICUM)|ovum philosophicum
+49E39311(OVUM PHILOSOPHICUM)|philosophical egg
+49E39312|cucurbita
+49E39312|fles
+49E39313|pot
+49E39313|olla
+49E39313|pot
+49E39313(...)|fles
+49E3932|furnace
+49E3932(ASSAY FURNACE)|assay oven
+49E3932(ASSAY FURNACE)|cupellatie
+49E3932(ATHANOR)|athanor
+49E3933|Balneum
+49E3933|bad
+49E3933(BALNEUM ARENAE)|Balneum arenae
+49E3933(BALNEUM MARIAE)|Mary's bath
+49E394|stof
+49E3941|zwavel
+49E3942|kwik
+49E394211|vogel van Hermes
+49E3943|zout
+49E3944|materie
+49E3944|prima materia
+49E3945|Philosopher's stone
+49E3945|steen
+49E39451|quintessence
+49E39452|White stone
+49E39453|Red stone
+49E3946|Elixir vitae
+49E39461|Panacea
+49E3949(ANTIMONY)|antimonium
+49E3949(SAL AMMONIAC)|ammoniak
+49E3949(SAL AMMONIAC)|sal ammoniac
+49E3949(VITRIOL)|vitriol
+49E395|werkwijze
+49E3951|vier
+49E3951|Magnum opus
+49E3951|podium
+49E3951|transmutation
+49E39511|zwartmaking
+49E39511|melanosis
+49E39511|nigredo
+49E39511|stadia
+49E39512|albedo
+49E39512|leukosis
+49E39512|stadia
+49E39512|whitening
+49E39513|citrinitas
+49E39513|stadia
+49E39513|xanthosis
+49E39513|vergeling
+49E39514|iosis
+49E39514|reddening
+49E39514|rubedo
+49E39514|stadia
+49E3952|Magnum opus
+49E3952|podium
+49E3952|transmutation
+49E3952(CALCINATION)|verkalking
+49E3952(CIBATION)|cibation
+49E3952(COAGULATION)|stolling
+49E3952(COAGULATION)|bevestiging
+49E3952(CONJUNCTION)|chemische bruiloft
+49E3952(CONJUNCTION)|conjunctie
+49E3952(CONJUNCTION)|bruiloft
+49E3952(DISTILLATION)|destillatio
+49E3952(DISTILLATION)|distillatie
+49E3952(EXALTATION)|verheerlijking
+49E3952(MULTIPLICATION)|vermenigvuldiging
+49E3952(PROJECTION)|projectie
+49E3952(PUTREFACTION)|fermentatie
+49E3952(PUTREFACTION)|putrefaction
+49E3952(SEPARATION)|divisie
+49E3952(SEPARATION)|scheiding
+49E3952(SOLUTION)|ontbinding
+49E3952(SOLUTION)|oplossing
+49E3952(SUBLIMATION)|sublimering
+49E3953|te combineren
+49E3954|wisselwerking
+49E3954|reactie
+49E3954|stof
+49E39541|uitwisseling
+49E39542|evaporation
+49E39542|solvent
+49E39543|tegenover
+49E395431|Luna
+49E395431|kwik
+49E395431|maan
+49E395431|Sol
+49E395431|zwavel
+49E395431|zon
+49E4|kristallografie
+49E5|geologie
+49E51|mineralogie
+49E6|meteorologie
+49E61|observatorium
+49E7|technologie
+49E71|bouwkunde
+49E8|laboratorium
+49E81|apparaat
+49E81|uitrusting
+49E811|demonstratie
+49E811|popular laboratory device
+49E9|experiment
+49E9|testen
+49E91|uitvinding
+49F|biologie
+49F1|plantkunde
+49F1|plant
+49F11|plantentuin
+49F11|tuin
+49F11|hortus botanicus
+49F12|herbarium
+49F2|dierlijk
+49F2|zoology
+49F21|experiment
+49F22|palaeontology
+49F3|antropologie
+49F3|physical anthropology
+49F31|craniology
+49G|geneeskunde
+49G0|allegorie
+49G0|Medicina
+49G0|Ripa
+49G01|embleem
+49G01|teken
+49G01|symbool
+49G011|rod and serpent
+49G012|pentagram
+49G1|arts
+49G11|kapper
+49G11|chirurg
+49G12|kapper
+49G12|tandarts
+49G13|oogarts
+49G2|zieke
+49G21|bed
+49G211|bezoekende
+49G22|verpleging
+49G23|genezing
+49G231|wonder
+49G232|imposition of hands
+49G233|geest
+49G24|geneesmiddel
+49G25|herstel
+49G251|achteruitgang
+49G26|feigning
+49G29|hypochondriac
+49G3|onderzoek
+49G3|behandeling
+49G31|raadgevend
+49G31|diagnose
+49G31|arts
+49G31|zieke
+49G311|urine
+49G3111|mand
+49G3111|urinoir
+49G312|temperatuur
+49G312|thermometer
+49G3121|tabel
+49G3121|temperature-chart
+49G313|tong
+49G314|stethoscope
+49G315|lichaam
+49G315|percussing
+49G3151|schoppen
+49G3151|knee
+49G3151|reflex
+49G316|pols
+49G317|recept
+49G317|geschrift
+49G32|ontsmettingsmiddelen
+49G321|zwachtel
+49G321|ointment
+49G322|immobilization
+49G322|gips
+49G322|slinger
+49G322|splint
+49G33|zuivering
+49G331|klisteer
+49G331|spuiten
+49G34|bloeden
+49G34|cupping-glas
+49G341|bloed-sucker
+49G341|leech
+49G342|cupping man
+49G35|operatie
+49G350|Chirurgia
+49G351|operating room
+49G351|kamer
+49G351|theater
+49G352|narcose
+49G353|amputatie
+49G353|afsnijden
+49G3531|kunstmatige ledematen
+49G3531|prothese
+49G354|transplantation
+49G359|instrument
+49G36|bad
+49G36|loop van de wateren
+49G36|waters
+49G361|spa
+49G361|watering-place
+49G37|injectie
+49G37|injectiespuit
+49G371|vaccinatie
+49G372|aftreksel
+49G373|bloed
+49G373|transfusion
+49G38|elektrotherapie
+49G38|radiotherapie
+49G381|X-ray
+49G39|massage
+49G4|ziekenhuis
+49G41|kamer
+49G41|afdeling
+49G42|sick (the)
+49G42|bezoekende
+49G43|verpleegster
+49G431|man
+49G44|ambulance
+49G44|dragende
+49G44|vervoeren
+49G51|asiel
+49G51|besmettelijke ziekte
+49G51|ziekenhuis
+49G511|isolatie
+49G511|quarantine
+49G52|asiel
+49G52|lunatic asylum
+49G52|mental home
+49G6|medisch onderzoek
+49G6|onderzoek
+49G6|specialist
+49G61|anatomie
+49G61|fysiologie
+49G611|bloedsomloop
+49G612|ademhaling
+49G613|spijsverteringskanaal
+49G613|spijsverteringsorganen
+49G6131|tandheelkunde
+49G614|huid
+49G615|endocrine system
+49G616|urogenital system
+49G6161|gynaecology
+49G6161|verloskunde
+49G617|locomotor system
+49G618|verstand
+49G6181|ophthalmology
+49G619|zenuw
+49G619|neurologie
+49G621|ontleding
+49G621|pathologist
+49G6211|ontleden-kamer
+49G6211|theatrum anatomicum
+49G6212|anatomische les
+49G6212|onderwijs
+49G6213|anatomisch specimen
+49G622|anatomisch model
+49G622|vijf
+49G622|human figure
+49G622|model
+49G6221|skelet
+49G6222|écorché
+49G6222|spier
+49G6223|ader
+49G6224|slagader
+49G6225|zenuw
+49G63|bacteriologie
+49G64|kind
+49G64|paediatrics
+49G65|geriatrics
+49G65|oude leeftijd
+49G71|psychologie
+49G711|testen
+49G712|graphology
+49G712|handschrift
+49G712|testen
+49G72|psychiatrie
+49G721|divan
+49G721|psychoanalysis
+49G8|apotheek
+49G81|geneesmiddel
+49G811|leer
+49G811|signatures (doctrine of)
+49G812|gif
+49G82|apotheker
+49G82|apotheek
+49G82|apotheek
+49G82|apotheker
+49G83|gereedschap
+49G831|mortel
+49G831|pestle
+49G84|gaper
+49G84|winkel
+49G84|signboard
+49G84|yawning
+49G9|folklore
+49G9|onwettig
+49G9|popular medicine
+49G91|charlatan
+49G91|markt
+49G91|mountebank
+49G91|kwakzalver
+49G91|saltimbanco
+49G911|snijdend
+49G911|Malleghem (Witch of)
+49G911|operatie
+49G911|steen
+49G911|stone-operation
+49G911|heks
+49G912|tandarts
+49G912|molar
+49G912|pulling out
+49G912|tand
+49G914|het eten
+49G914|frog
+49G914|slang
+49G914|spin
+49G914|pad
+49H|sociale wetenschappen
+49H1|sociologie
+49H2|folklore
+49H3|antropologie
+49H3|culturele antropologie
+49H3|ethnology
+49I|geography
+49I0|Geografia
+49I1|expeditie
+49I1|verkennen
+49I1|bevinding
+49I1|reis
+49I11|ontdekkingsreiziger
+49K1|oudheidkunde
+49K1|geschiedenis
+49K10|Historia
+49K10|Ripa
+49K11|het graven
+49K11|uitgraving
+49K12|boek
+49K12|kroniek
+49K2|kunst
+49K2|kunstgeschiedenis
+49K3|filologie
+49K31|taalwetenschap
+49K32|taal
+49K321|woord
+49K322|uitdrukking
+49K322|sentence (phrase)
+49L1|alfabet
+49L1|letter (character)
+49L10|uitvinding
+49L11|handschrift
+49L11|geschrift
+49L111|secretaresse
+49L112|pen
+49L112|schacht
+49L112|verscherping
+49L113|erasing
+49L113|tekst
+49L12|Roman script
+49L13|Greek script
+49L141|Hebrew script
+49L142|Arabisch schrift
+49L15|fancy letter
+49L15|ornament
+49L16|anagram
+49L16|letter square
+49L16|letterword
+49L16|monogram
+49L17|eerste
+49L171|historiated initial
+49L2|ideographic script
+49L2|letter (character)
+49L2|pictorial script
+49L21|Egyptische script
+49L21|hieroglyph
+49L211|fancy hieroglyph
+49L211|hieroglyphica
+49L22|spijkerschrift
+49L23|Chinese schrift
+49L23|Japanese script
+49L23|Korean script
+49L23|oriental script
+49L24|oude Amerikaanse script
+49L24|Aztec script
+49L24|Inca script
+49L24|Maya script
+49L25|pictograph
+49L251|rebus
+49L26|ars memorandi
+49L26|geheugen
+49L26|mnemotechnics
+49L27|mark
+49L27|eigendom
+49L271|Hausmarke
+49L271|huismerk
+49L31|shorthand
+49L31|stenography
+49L32|geheimschrift
+49L32|geheimhouding
+49L33|spiegelschrift
+49L4|schoonschrift
+49L4|belettering
+49L5|gereedschap
+49L5|writing tool
+49L51|pen
+49L511|schacht
+49L52|potlood
+49L6|accessoires
+49L6|writing accessories
+49L61|inkt
+49L611|vlek
+49L611|ink-blot
+49L62|ink-horn
+49L62|ink-well
+49L63|mes
+49L63|pen-knife
+49L64|writing surface
+49L641|papier
+49L6411|notitieboekje
+49L642|papyrus
+49L643|parchment
+49L643|vellum
+49L644|writing board
+49L6441|schoolbord
+49L6442|whiteboard
+49L645|tablet
+49L645|writing tablet
+49L6451|klei
+49L6451|kleitablet
+49L6451|steen
+49L6451|stone tablet
+49L64511|emerald tablet
+49L64511|smaragdine tablet
+49L64511|tabula smaragdina
+49L6452|wax
+49L6452|wax tablet
+49L6453|leisteen
+49L65|zegel
+49L65|postzegel
+49L651|sealing wax
+49L651|wax
+49L66|tafel
+49L66|writing-desk
+49L67(ERASER)|gom
+49L67(PAPERCLIP)|paperclip
+49L67(PAPERWEIGHT)|paperweight
+49L7|document
+49L7|handschrift
+49L7|manuscript
+49L71|scroll
+49L711|doos (container)
+49L711|Capsa
+49L72|boek
+49L72|codex
+49L73|banderol
+49L8|opschrift
+49M|book-productie
+49M|productie
+49M1|het drukken
+49M10|Ripa
+49M10|Stampa
+49M11|machine
+49M11|pers
+49M121|het smelten
+49M121|type-founder
+49M122|type-setter
+49M123|printer
+49M124|corrector
+49M13|letter (character)
+49M13|print (type)
+49M13|type (printing)
+49M13(...)|Garamond
+49M14|gereedschap
+49M2|machine
+49M2|vermenigvuldigen
+49M21|schrijfmachine
+49M22|multiplicator
+49M23|copier
+49M23|photostatic apparatus
+49M23|Xerox machine
+49M3|drukwerk
+49M31|vlugschrift
+49M31|brochure
+49M32|boek
+49M32|gesloten boek
+49M32|open book
+49M321|book-illustratie
+49M321|illustratie
+49M3211|blokboek
+49M3212|bande dessinée
+49M3212|stripverhaal
+49M3212|strip
+49M322|brochure
+49M4|decoratie
+49M41|book-illustratie
+49M41|illustratie
+49M411|frontispiece
+49M412|vignet
+49M413|historiated initial
+49M413|eerste
+49M42|ornament
+49M43|pagina
+49M43|title-page
+49M431|inrichting
+49M431|mark
+49M431|printer's device
+49M5|bindend
+49M5|boekbinden
+49M51|boekomslag
+49M51|deksel
+49M511|flaptekst
+49M511|book-jacket
+49M52|gesp
+49M53|Beutelbuch
+49M6|uitgever
+49M6|uitgeverij
+49M7|boekhandelaar
+49M7|boekenwinkel
+49M7|winkel
+49M71|antiquariaat
+49M71|tweedehands boekhandel
+49M72|book-stall
+49M72|kraam
+49M72|kiosk
+49M72|kraam
+49M8|ex-libris
+49M9|bibliotheek
+49M9|public library
+49M91|archief
+49MM3211|blokboek
+49MM3212|bande dessinée
+49MM3212|stripverhaal
+49MM3212|strip
+49N|lectuur
+49N1|reading aloud
+49N2|accessoires
+49N2|reading accessories
+49N21|lectern
+49N22|pointer
+49N23|book-marker
+49N23|het merken

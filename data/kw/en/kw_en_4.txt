@@ -1,0 +1,9461 @@
+4|civilization
+4|culture
+4|society
+41|materiality
+41A|housing
+41A1|architecture
+41A1|civil architecture
+41A1|edifice
+41A1|interior
+41A10|Edifitio overo un sito
+41A10|Ripa
+41A11|palace
+41A111|hôtel (palace)
+41A111|palazzo
+41A12|castle
+41A121|fortification
+41A121|house
+41A13|department store
+41A13|public building
+41A13|shop
+41A14|city
+41A14|house
+41A141|row
+41A141|street
+41A142|shop
+41A143|detached house
+41A144|apartment house
+41A144|flat-building
+41A15|skyscraper
+41A16|house
+41A16|rural housing
+41A161|country-house
+41A162|villa
+41A163|cottage
+41A17|farm
+41A171|barn
+41A18|cabin
+41A18|hut
+41A18|lodge
+41A181|log-cabin
+41A182|Indian lodge
+41A182|Native Americans
+41A1821|wigwam
+41A191|tent
+41A1911|camp
+41A1912|Native Americans
+41A1912|teepee
+41A1912|tepee
+41A1912|tipi
+41A192|caravan
+41A1921|camp
+41A1922|trailer
+41A193|houseboat
+41A194|lake-dwelling
+41A194|pile-dwelling
+41A195|hut
+41A195|igloo
+41A195|snow-hut
+41A196|cave
+41A2|house
+41A2|interior
+41A21|hall
+41A21|vestibule
+41A211|corridor
+41A2111|gallery
+41A22|room
+41A221|living-room
+41A221|parlour
+41A221|sitting-room
+41A222|drawing-room
+41A222|salon
+41A2221|boudoir
+41A223|dining-room
+41A23|bedroom
+41A23|room
+41A24|bathroom
+41A24|room
+41A241|equipment
+41A2411|bath
+41A2411|tub
+41A2412|shower
+41A2413|bidet
+41A2414|basin
+41A2415|basin
+41A2415|jug
+41A25|room
+41A251|studiolo
+41A251|study
+41A252|chapel
+41A253|parlour
+41A253|porch
+41A253|sun-porch
+41A253|verandah
+41A2531|conservatory
+41A2531|garden
+41A2531|winter garden
+41A254|wardrobe
+41A2541|closet
+41A2541|linen-closet
+41A255|attic
+41A255|loft
+41A256|storage
+41A3|annex
+41A3|exterior
+41A3|house
+41A3|part
+41A31|edifice
+41A31|façade
+41A31|wall
+41A311|front façade
+41A3111|gable stone
+41A3111|stone tablet
+41A3111|tablet
+41A312|rear façade
+41A313|inner court
+41A32|door
+41A32|feigned door
+41A32|optical illusion
+41A32|sham-door
+41A321|opening
+41A3211|open door
+41A3212|divided door
+41A3212|open door
+41A3213|revolving door
+41A322|closing
+41A3221|closed door
+41A323|aediculum
+41A323|monumental art
+41A323|porch
+41A324|metal
+41A3241|bell
+41A3241|door-knocker
+41A3241|doorbell
+41A3241|knocking
+41A3242|door-handle
+41A3242|doorknob
+41A325|threshold
+41A3251|doorpost
+41A3251|pole
+41A3251|stile
+41A3252|boot scraper
+41A3252|door furniture
+41A3252|doormat
+41A3252|mat
+41A3252|scraper
+41A326|letter-box
+41A327|doorkeeper
+41A327|guard
+41A327|house-guard
+41A328|lock
+41A3281|key
+41A32811|master-key
+41A32811|passe-partout
+41A32811|skeleton key
+41A3282|latch
+41A3283|bolt
+41A3284|padlock
+41A33|feigned window
+41A33|optical illusion
+41A33|sham-window
+41A33|window
+41A331|opening
+41A3311|open window
+41A332|closing
+41A3321|closed window
+41A333|lattice
+41A333|shutters
+41A3332|interior
+41A334|awning
+41A334|sunblind
+41A334|sunshade
+41A335|seat
+41A335|window-seat
+41A336|human figure
+41A336|open window
+41A3362|interior
+41A337|looking
+41A337|view
+41A3372|interior
+41A34|staircase
+41A341|stairwell
+41A3411|escalator
+41A342|elevator
+41A342|lift
+41A343|ladder
+41A344|fire-escape
+41A345|back step
+41A345|step (stair)
+41A35|front step
+41A35|step (stair)
+41A351|terrace
+41A352|canopy
+41A36|roof
+41A361|tower
+41A3611|spire
+41A3611|steeple
+41A362|covering
+41A362|roof-covering
+41A363|decoration
+41A363|gable
+41A37|basement
+41A37|cellar
+41A38|balcony
+41A381|loggia
+41A381|porch
+41A381|verandah
+41A382|bay-window
+41A382|oriel
+41A391|draining
+41A391|pipe system
+41A391|supply
+41A391|water
+41A3911|well
+41A3912|pump
+41A3913|faucet
+41A3913|tap
+41A3914|lavatory
+41A3914|WC
+41A3915|fountain
+41A3916|basin
+41A3916|sink
+41A392|gas
+41A392|pipe system
+41A393|cable
+41A393|electricity
+41A393|fittings
+41A393|light switch
+41A393|plug
+41A393|socket
+41A393|switch
+41A393|wiring
+41A4|decoration
+41A4|interior decoration
+41A41|wall-covering
+41A411|wall-paper
+41A412|panelling
+41A413|tapestry
+41A414|cordovan
+41A414|cordwain
+41A414|gold leather
+41A414|leather
+41A42|upholstery
+41A421|curtain
+41A422|drapery
+41A422|hangings
+41A4221|veil
+41A4231|baldachin
+41A4231|canopy
+41A43|floor-covering
+41A431|carpet
+41A44|ceiling
+41A5|annex
+41A5|edifice
+41A5|outbuilding
+41A51|courtyard
+41A511|hôtel (palace)
+41A511|inner court
+41A511|palace
+41A511|palazzo
+41A512|backyard
+41A52|coach-house
+41A521|garage
+41A53|shed
+41A54|enclosure
+41A54|fence
+41A54|palisades
+41A54|wall
+41A541|balustrade
+41A542|gate
+41A5421|barrier
+41A5422|clap gate
+41A5422|kissing gate
+41A543|stile
+41A544|watergate
+41A6|garden
+41A61|map
+41A62|edifice
+41A62|garden buildings
+41A621|pergola
+41A622|arbour
+41A622|summer-house
+41A622|theekoepel
+41A623|hermitage
+41A624|belvedere
+41A625|trellis
+41A626|feigned building
+41A626|sham-building
+41A63|design
+41A631|grass
+41A631|lawn
+41A632|bed (plot)
+41A632|flower-bed
+41A633|rock-garden
+41A634|labyrinth
+41A635|Hortus Conclusus
+41A635|enclosure
+41A635|fence
+41A635|wall
+41A6351|roof
+41A636|French garden
+41A636|architectonic garden
+41A636|formal garden
+41A637|English garden
+41A637|landscape
+41A638|drive
+41A638|garden drive
+41A638|road
+41A64|garden ornament
+41A64|ornament
+41A641|sculpture
+41A641|statue
+41A6411|dwarf
+41A6411|grylloi
+41A642|obelisk
+41A643|pyramid
+41A644|herm
+41A645|ruin
+41A646|vase
+41A65|waters
+41A651|fountain
+41A652|pond
+41A653|cascade
+41A653|waterfall
+41A66|grotto
+41A67|plant
+41A671|flower
+41A671|fruit
+41A671|insect
+41A671|still life
+41A6711|bunch of flowers
+41A6711|vase
+41A6712|arrangement
+41A672|bonsai
+41A672|bush
+41A672|espalliered
+41A672|shape
+41A672|topiary work
+41A672|training
+41A672|tree
+41A672|trimming
+41A673|pot
+41A68|cultivation
+41A681|gardener
+41A6811|watering
+41A682|gardening-tools
+41A682|tool
+41A7|furniture
+41A7|household
+41A711|table
+41A7111|tripod
+41A7112|trestle table
+41A712|rack (shelf)
+41A712|shelf
+41A712|sideboard
+41A7121|what-not
+41A7122|bookcase
+41A71221|book
+41A713|cloth
+41A713|table-ware
+41A72|sitting
+41A721|chair
+41A7211|stool
+41A72111|footstool
+41A7212|armchair
+41A7212|seat
+41A7213|rocking-chair
+41A722|couch
+41A7221|cushion
+41A723|bench
+41A73|storage
+41A731|cupboard
+41A732|cupboard
+41A732|ornament
+41A733|chest (container)
+41A734|cassone
+41A735|lock
+41A7351|key
+41A7352|bolt
+41A7353|padlock
+41A741|folding screen
+41A741|screen
+41A75|decoration
+41A751|draught-screen
+41A751|screen
+41A761|bed
+41A7611|bedstead
+41A7611|bedstee
+41A7612|canopy
+41A7612|tester
+41A76121|pole
+41A76121|two-poster bed
+41A76122|four-poster bed
+41A76122|pole
+41A762|hammock
+41A763|bedding
+41A7631|mattress
+41A7632|pillow
+41A7633|sheet
+41A7634|blanket
+41A7635|bedspread
+41A77|container
+41A771|bucket
+41A771|can
+41A771|canister
+41A771|drum
+41A771|metal
+41A771|tin
+41A771|vase
+41A7711|gold
+41A7711|precious metal
+41A7711|silver
+41A772|stone
+41A772|vase
+41A7721|precious stone
+41A773|ceramics
+41A773|jar
+41A773|jug
+41A773|pot
+41A773|pottery
+41A773|vase
+41A774|bottle
+41A774|glass
+41A774|jar
+41A774|vase
+41A775|barrel
+41A775|wood(en)
+41A7751|basket
+41A776|bag
+41A776|leather
+41A777|bag
+41A777|net
+41A777|sack
+41A778|bag
+41A778|cardboard container
+41A778|carton
+41A778|paper
+41A779|plastic
+41A779|synthetic material
+41A78|fancy goods
+41A78|knick-knacks
+41A81|furnishing
+41A82|moving
+41A9|castle
+41A9|house
+41A9|ruin
+41AA10|Edifitio overo un sito
+41AA10|Ripa
+41AA11|palace
+41AA111|hôtel (palace)
+41AA111|palazzo
+41AA12|castle
+41AA121|fortification
+41AA121|house
+41AA13|department store
+41AA13|public building
+41AA13|shop
+41AA14|city
+41AA14|house
+41AA141|row
+41AA141|street
+41AA142|shop
+41AA143|detached house
+41AA144|apartment house
+41AA144|flat-building
+41AA15|skyscraper
+41AA16|house
+41AA16|rural housing
+41AA161|country-house
+41AA162|villa
+41AA163|cottage
+41AA17|farm
+41AA171|barn
+41AA18|cabin
+41AA18|hut
+41AA18|lodge
+41AA181|log-cabin
+41AA182|Indian lodge
+41AA182|Native Americans
+41AA191|tent
+41AA1911|camp
+41AA1912|Native Americans
+41AA1912|teepee
+41AA1912|tepee
+41AA1912|tipi
+41AA192|caravan
+41AA1921|camp
+41AA1922|trailer
+41AA193|houseboat
+41AA194|lake-dwelling
+41AA194|pile-dwelling
+41AA195|hut
+41AA195|igloo
+41AA195|snow-hut
+41AA196|cave
+41B1|fire
+41B1|fire-place
+41B1|heat
+41B1|open fire
+41B11|kindling
+41B111|firestone
+41B111|flint
+41B111|steel
+41B112|tinder-box
+41B113|sulphur match
+41B114|matchstick
+41B1141|match-box
+41B115|fuse
+41B115|wick
+41B12|burning
+41B12|fuel
+41B12(COAL)|coal
+41B12(FAGGOT)|faggot
+41B12(LOG)|log
+41B12(OIL)|oil
+41B12(STRAW)|straw
+41B121|flame
+41B122|spark
+41B123|combustion
+41B123|gas
+41B13|stirring
+41B131|blowing
+41B1311|bellows
+41B132|fanning
+41B1321|fan
+41B133|poking
+41B1331|poker
+41B14|extinguishing
+41B151|soot
+41B152|ashes
+41B153|cinder
+41B153|slag
+41B16|camp-fire
+41B16|watch-fire
+41B161|bonfire
+41B162|smoke
+41B2|heat
+41B21|fire-place
+41B21|open fire
+41B211|Hyems
+41B211|fire
+41B211|warming
+41B211|warming-pan
+41B212|tool
+41B2121|fire-tongs
+41B2121|tongs
+41B2122|coal
+41B2122|extinguisher
+41B213|accessories
+41B2131|fire-screen
+41B2131|screen
+41B2132|fender
+41B2133|hearth-plate
+41B2133|plate
+41B2134|dummy
+41B2134|human figure
+41B2135|chain
+41B2135|pot
+41B2136|andiron
+41B2136|fire-dog
+41B214|chimney
+41B2141|chimney-piece
+41B2141|mantelpiece
+41B2142|ornament
+41B22|stove
+41B221|grate
+41B222|pipe
+41B222|stove-pipe
+41B223|bucket
+41B223|coal
+41B224|coal
+41B224|spade
+41B23|foot-stove
+41B23|stove
+41B231|warming-pan
+41B232|hot-water bottle
+41B24|central heating
+41B241|radiator
+41B29|air conditioning
+41B29|cooling
+41B3|lamp
+41B3|light
+41B31|candle
+41B311|candelabrum
+41B312|sconce
+41B312|wall-lamp
+41B313|candlestick
+41B314|snuffers
+41B32|torch
+41B32|upside down
+41B33|lantern
+41B34|oil-lamp
+41B35|paraffin lamp
+41B36|gas-lamp
+41B37|electric lamp
+41B371|bulb
+41B371|light bulb
+41B372|neon
+41B372|tube
+41B4|burning
+41B4|fire
+41B5|extinguishing
+41B5|fire
+41B5|fire-fighting
+41B51|fire-brigade
+41B51|occupations
+41B511|fireman
+41B52|equipment
+41B521|bucket
+41B522|pump
+41B523|fire-hose
+41B523|hose
+41B524|chemical apparatus
+41B525|fire-engine
+41B53|rescuing
+41B531|jumping-sheet
+41B6|ventilation
+41B61|airshaft
+41C|nourishment
+41C|nutrition
+41C10|art
+41C10|drinking
+41C10|eating
+41C10|gastronomy
+41C11|eating
+41C111|feeding
+41C111|food
+41C111|giving
+41C119|hunger
+41C1190|Fame
+41C1190|Fames
+41C1190|Ripa
+41C1190|personification
+41C1191|famine
+41C1191|starvation
+41C1192|hunger-strike
+41C1192|strike
+41C12|drinking
+41C121|drink
+41C121|giving
+41C122|pouring
+41C129|thirst
+41C13|blowing
+41C13|cooling
+41C14|cooling
+41C14|stirring
+41C18|satiety
+41C18|saturation
+41C19|hunger
+41C19|insatiableness
+41C19|thirst
+41C21|kitchen
+41C211|interior
+41C2111|food
+41C2111|keukenstuk
+41C2111|still life
+41C212|sink
+41C22|kitchen-personnel
+41C22|occupations
+41C22|personnel
+41C22|servant
+41C221|cook
+41C222|cook-maid
+41C222|maidservant
+41C23|kitchen
+41C23|rich and poor
+41C231|rich kitchen
+41C232|poor kitchen
+41C24|conservation
+41C241|cellar
+41C2411|wine-vault
+41C24111|steward
+41C24111|wine-steward
+41C242|ice-cellar
+41C2421|ice-box
+41C2421|refrigerator
+41C25|cooking
+41C251|roasting
+41C2511|spit
+41C2512|gridiron
+41C252|frying
+41C253|boiling
+41C254|fire
+41C2541|fire-place
+41C2541|open fire
+41C2541|stove
+41C2542|cooker
+41C2543|oven
+41C26|meal
+41C26|preparation
+41C261|cleaning
+41C2611|vegetable
+41C2612|fruit
+41C2612|peeling
+41C26121|lemon
+41C26121|peel
+41C2613|fowl
+41C2613|game (hunted animal)
+41C26131|plucked fowl
+41C262|dividing
+41C2621|cutting
+41C2621|meat
+41C2622|bread
+41C2622|cutting
+41C263|combining
+41C263|mixing
+41C2631|batter
+41C2631|dough
+41C2631|kneading
+41C264|beating
+41C264|smoothing
+41C265|decoration
+41C269|dish
+41C269|washing
+41C27|kitchen-utensils
+41C27|tool
+41C27(CAULDRON)|cauldron
+41C27(CAULDRON)|civilization
+41C27(CAULDRON)|culture
+41C27(CAULDRON)|kitchen-utensils
+41C27(CAULDRON)|materiality
+41C27(CAULDRON)|nourishment
+41C27(CAULDRON)|nutrition
+41C27(CAULDRON)|society
+41C27(CAULDRON)|tool
+41C27(COLANDER)|civilization
+41C27(COLANDER)|colander
+41C27(COLANDER)|culture
+41C27(COLANDER)|kitchen-utensils
+41C27(COLANDER)|materiality
+41C27(COLANDER)|nourishment
+41C27(COLANDER)|nutrition
+41C27(COLANDER)|society
+41C27(COLANDER)|tool
+41C27(FRYING PAN)|civilization
+41C27(FRYING PAN)|culture
+41C27(FRYING PAN)|frying pan
+41C27(FRYING PAN)|kitchen-utensils
+41C27(FRYING PAN)|materiality
+41C27(FRYING PAN)|nourishment
+41C27(FRYING PAN)|nutrition
+41C27(FRYING PAN)|society
+41C27(FRYING PAN)|tool
+41C27(FUNNEL)|civilization
+41C27(FUNNEL)|culture
+41C27(FUNNEL)|funnel
+41C27(FUNNEL)|kitchen-utensils
+41C27(FUNNEL)|ladle
+41C27(FUNNEL)|materiality
+41C27(FUNNEL)|nourishment
+41C27(FUNNEL)|nutrition
+41C27(FUNNEL)|society
+41C27(FUNNEL)|tool
+41C27(GRATER)|civilization
+41C27(GRATER)|culture
+41C27(GRATER)|grater
+41C27(GRATER)|kitchen-utensils
+41C27(GRATER)|materiality
+41C27(GRATER)|nourishment
+41C27(GRATER)|nutrition
+41C27(GRATER)|society
+41C27(GRATER)|tool
+41C27(LADLE)|civilization
+41C27(LADLE)|culture
+41C27(LADLE)|kitchen-utensils
+41C27(LADLE)|ladle
+41C27(LADLE)|materiality
+41C27(LADLE)|nourishment
+41C27(LADLE)|nutrition
+41C27(LADLE)|society
+41C27(LADLE)|tool
+41C27(PAN)|civilization
+41C27(PAN)|culture
+41C27(PAN)|kitchen-utensils
+41C27(PAN)|materiality
+41C27(PAN)|nourishment
+41C27(PAN)|nutrition
+41C27(PAN)|pan
+41C27(PAN)|society
+41C27(PAN)|tool
+41C27(POT)|civilization
+41C27(POT)|culture
+41C27(POT)|kitchen-utensils
+41C27(POT)|materiality
+41C27(POT)|nourishment
+41C27(POT)|nutrition
+41C27(POT)|pot
+41C27(POT)|society
+41C27(POT)|tool
+41C27(ROLLING-PIN)|civilization
+41C27(ROLLING-PIN)|culture
+41C27(ROLLING-PIN)|kitchen-utensils
+41C27(ROLLING-PIN)|materiality
+41C27(ROLLING-PIN)|nourishment
+41C27(ROLLING-PIN)|nutrition
+41C27(ROLLING-PIN)|rolling-pin
+41C27(ROLLING-PIN)|society
+41C27(ROLLING-PIN)|tool
+41C27(SIEVE)|civilization
+41C27(SIEVE)|culture
+41C27(SIEVE)|kitchen-utensils
+41C27(SIEVE)|ladle
+41C27(SIEVE)|materiality
+41C27(SIEVE)|nourishment
+41C27(SIEVE)|nutrition
+41C27(SIEVE)|sieve
+41C27(SIEVE)|society
+41C27(SIEVE)|tool
+41C27(SKIMMER)|civilization
+41C27(SKIMMER)|culture
+41C27(SKIMMER)|kitchen-utensils
+41C27(SKIMMER)|materiality
+41C27(SKIMMER)|nourishment
+41C27(SKIMMER)|nutrition
+41C27(SKIMMER)|skimmer
+41C27(SKIMMER)|society
+41C27(SKIMMER)|tool
+41C3|table-ware
+41C311|knife
+41C312|fork
+41C313|spoon
+41C314|salt
+41C315|box (container)
+41C315|spice-box
+41C316|egg-cup
+41C317|cooling
+41C317|wine-cooler
+41C32|drinking-vessel
+41C32|vessel
+41C321|cup
+41C3211|drinking-horn
+41C3211|horn
+41C3212|nautilus
+41C322|cup
+41C323|glass
+41C323|rummer
+41C323(BERKEMEYER)|berkemeyer
+41C323(PASGLAS)|pasglas
+41C324|tankard
+41C325|fountain
+41C326|jar
+41C326|jug
+41C327|shape
+41C3271|animal
+41C3272|human figure
+41C32721|skull
+41C33|coffee-service
+41C33|service (crockery)
+41C33|tea-service
+41C331|cup
+41C331|saucer
+41C332|pot
+41C333|pot
+41C333|samovar
+41C334|sugar-basin
+41C34|dinner-service
+41C34|service (crockery)
+41C341|dish
+41C342|dish
+41C343|tray
+41C344|gravy-boat
+41C345|bowl
+41C35|decoration
+41C351|centre-piece
+41C351|epergne
+41C351|milieu-de-table
+41C351|surtout
+41C352|pièces montées
+41C352|trionfi di tavola
+41C353|aquamanile
+41C353|washing (hands)
+41C36|dinner-service
+41C36|service (crockery)
+41C36|sideboard
+41C37|cloth
+41C371|napkin
+41C3711|napkin-ring
+41C3711|ring
+41C38|still life
+41C38|table
+41C381|breakfast
+41C381|ontbijtje
+41C382|banquet
+41C4|family meal
+41C4|meal
+41C41|breakfast
+41C411|coffee
+41C411|morning
+41C42|lunch
+41C42|midday meal
+41C421|high tea
+41C421|tea
+41C4211|ceremony
+41C422|afternoon tea
+41C43|supper
+41C44|supper
+41C5|banquet
+41C5|celebration
+41C5|feast
+41C5|meal
+41C50|Convito
+41C50|Ripa
+41C51|company
+41C51|elegant company
+41C52|drinking-bout
+41C52|orgy
+41C520|Crapula
+41C520|Ripa
+41C6|food
+41C6|still life
+41C61|flour
+41C611|corn
+41C612|corn
+41C6121|cereal
+41C6121|porridge
+41C6122|noodles
+41C6122|spaghetti
+41C621|bread
+41C621|loaf
+41C6211|shape
+41C62111|pizza
+41C62111|round form
+41C6212|filling
+41C6212|hamburger
+41C6212|roll (bread)
+41C6212|sandwich
+41C622|cake
+41C622|pastry
+41C622|tart
+41C6221|fancy cakes
+41C6222|biscuit
+41C623|pancake
+41C624|waffle
+41C6241|wafer
+41C625|pie
+41C626|mould
+41C6261|cake
+41C6261|pastry
+41C6261|tart
+41C6262|biscuit
+41C62621|speculaasplank
+41C6263|iron
+41C6263|waffle-iron
+41C6264|baking-tin
+41C6264|bread
+41C6264|bread-tin
+41C6264|tin
+41C63|sugar
+41C631|loaf-sugar
+41C632|sugar-lump
+41C633|syrup
+41C634|candy
+41C635|dainties
+41C635|sweets
+41C6351|ice-cream
+41C6352|chocolate
+41C636|honey
+41C637|sugar-coated
+41C6371|frosting
+41C6371|icing
+41C641|dairy products
+41C6411|butter
+41C6412|cheese
+41C6413|milk
+41C64131|buttermilk
+41C64132|yoghurt
+41C64133|cream
+41C642|egg
+41C65|fruit
+41C65|vegetable
+41C651|potato
+41C6511|French fries
+41C6511|chips
+41C6511|crisps
+41C6511|processing
+41C652(...)|carrot
+41C652(...)|turnip
+41C6521|processing
+41C6531|jam
+41C6531|marmalade
+41C6531|preserving
+41C6531|processing
+41C66|seasoning
+41C66|spice
+41C66(SAFFRON)|saffron
+41C661|salt
+41C662|pepper
+41C663|mustard
+41C671|fat
+41C671|oil
+41C671|vegetable fats
+41C6711|margarine
+41C672|vinegar
+41C673|sauce
+41C68|fish
+41C68(SMOKED HERRING)|herring
+41C68(SMOKED HERRING)|red herring
+41C68(SMOKED HERRING)|smoked herring
+41C681|seafood
+41C69|meat
+41C691|ox
+41C691|pig
+41C691|slaughtering
+41C692(...)|beef
+41C692(...)|lamb
+41C692(...)|mutton
+41C692(...)|pork
+41C693|sausage
+41C694|ham
+41C695|fat
+41C696|soup
+41C71|alcohol
+41C71|drink
+41C711|wine
+41C7111|glass
+41C7112|wine-bottle
+41C712|liqueur
+41C713|distilled spirits
+41C713|liquor
+41C713|spirits
+41C7131|gin
+41C7132|whisky
+41C7133|vodka
+41C7134|brandy
+41C7134|brandewijn
+41C714|ale
+41C714|beer
+41C7141|glass
+41C7151|cocktail
+41C72|drink
+41C72|stimulant
+41C721|coffee
+41C7211|cup
+41C722|tea
+41C7221|cup
+41C723|chocolate
+41C723|cocoa
+41C73|softdrink
+41C731|fruit
+41C731|syrup
+41C732|fruit
+41C732|juice
+41C74|tobacco
+41C741|pipe
+41C7411|hookah
+41C7411|narghile
+41C7411|water-pipe
+41C7412|roll
+41C7412|twining
+41C7412|twisting
+41C7413|jar
+41C7413|tobacco-jar
+41C7414|pipe-holder
+41C7415|ashtray
+41C742|cigar
+41C7421|box (container)
+41C7421|cigar-box
+41C7422|case
+41C7422|cigar-case
+41C7423|cigar-holder
+41C743|cigarette
+41C7431|case
+41C7431|cigarette-case
+41C7432|cigarette-paper
+41C7432|paper
+41C7433|cigarette-holder
+41C7433|cigarette-tube
+41C7433|pipe
+41C744|snuff
+41C7441|box (container)
+41C7441|snuff-box
+41C745|chewing-tobacco
+41C74511|betel
+41C74511|sirih
+41C74512|chewing-gum
+41C75|drug
+41C75(HASHISH)|hashish
+41C751|opium
+41C7511|opium-pipe
+41C7511|pipe
+41C7512|den
+41C7512|house
+41C7512|opium-house
+41C76|perfume
+41C76|scent
+41C761|box (container)
+41C761|scent-box
+41C762|censer
+41C762|incense
+41C9|cannibalism
+41C91|necrophagism
+41CC2511|spit
+41CC2512|gridiron
+41CC2611|vegetable
+41CC2612|fruit
+41CC2612|peeling
+41CC26121|lemon
+41CC26121|peel
+41CC2613|fowl
+41CC2613|game (hunted animal)
+41CC2621|cutting
+41CC2621|meat
+41CC2622|bread
+41CC2622|cutting
+41CC2631|batter
+41CC2631|dough
+41CC2631|kneading
+41CC411|coffee
+41CC411|morning
+41CC421|high tea
+41CC421|tea
+41CC4211|ceremony
+41CC422|afternoon tea
+41D|clothing
+41D1|fashion
+41D1|occupations
+41D11|fashion plate
+41D11|plate
+41D12|fashion show
+41D12|show
+41D121|mannequin
+41D121|model (sitter)
+41D122|human figure
+41D122|shop-window figure
+41D13|fashion mongering
+41D131|beau
+41D131|dandy
+41D1310|Delitioso
+41D1310|Ripa
+41D1311|incroyable
+41D132|belle
+41D132|woman
+41D1321|merveilleuse
+41D14|design
+41D14|fashion designer
+41D2|clothes
+41D2|costume
+41D211|gown
+41D211(BALL GOWN)|ball gown
+41D211(CHEMISE À LA REINE)|chemise à la reine
+41D211(CHEMISE À LA REINE)|chemise gown
+41D211(COURT GOWN)|court gown
+41D211(COURT GOWN)|court dress
+41D211(DAY DRESS)|afternoon dress
+41D211(DAY DRESS)|day dress
+41D211(DINNER DRESS)|dinner dress
+41D211(EVENING DRESS)|evening dress
+41D211(MANTEAU)|manteau
+41D211(MORNING DRESS)|morning dress
+41D211(REDINGOTE)|redingote
+41D211(ROBE À L’ANGLAISE)|robe à l'anglaise
+41D211(ROBE VOLANTE)|robe volante
+41D211(ROBE À L'ANGLAISE)|robe à l'anglaise
+41D211(ROBE À LA CIRCASSIENNE)|robe à la circassienne
+41D211(ROBE À LA FRANÇAISE)|robe à la française
+41D211(ROBE À LA LÉVITE)|robe à la lévite
+41D211(ROBE À LA POLONAISE)|robe à la polonaise
+41D211(WALKING DRESS)|walking dress
+41D212|cloak
+41D212|coat
+41D2121(BOLERO)|bolero
+41D2121(CARACO)|caraco
+41D2121(OVERCOAT)|overcoat
+41D21211|banyan
+41D21211|bathrobe
+41D21211|dressing gown
+41D21211|peignoir
+41D21211(BANYAN)|banyan
+41D2122(MANTELET)|mantelet
+41D2122(MANTELET)|mantille
+41D2122(MANTELET)|pelerine
+41D213|ensemble
+41D213(SAILOR SUIT)|sailor
+41D213(SAILOR SUIT)|sailor suit
+41D221|head-gear
+41D221(...)|cap
+41D221(...)|hat
+41D221(...)|turban
+41D221(BERET)|beret
+41D221(BICORNE)|bicorn
+41D221(BICORNE)|bicorne
+41D221(BOATER)|boater
+41D221(BOWLER)|bowler hat
+41D221(CLOCHE HAT)|cloche hat
+41D221(FONTANGE)|fontange
+41D221(HOOD)|hood
+41D221(MORNING CAP)|morning cap
+41D221(TOP HAT)|top hat
+41D221(TOQUE)|toque
+41D221(TRICORNE)|tricorn
+41D2211|veil
+41D2212|Phrygian bonnet
+41D222|neck-gear
+41D222(COLLAR)|collar
+41D222(JABOT)|jabot
+41D223(BLOUSE)|blouse
+41D223(BLOUSE)|canezou
+41D2231|breast
+41D2231|décolleté
+41D224|sleeve
+41D225|glove
+41D225|mitten
+41D2251|cloth
+41D2251|hand
+41D2251|manus velatae
+41D2252|muff
+41D231|trousers
+41D2311|codpiece
+41D2311|genitals
+41D232|skirt
+41D2321|apron
+41D233|foot-gear
+41D233|leg
+41D2331|sock
+41D2331|stocking
+41D2332|sandal
+41D2332|shoe
+41D23321|boot
+41D23322|slipper
+41D2333|clog
+41D2334|unequal
+41D23341|shoe
+41D23341|slipper
+41D23342|barefoot
+41D2335|accessories
+41D2335|insole
+41D2335|polish
+41D2335|shoe-polish
+41D2335|shoehorn
+41D2339|barefoot
+41D241|official dress
+41D241|uniform
+41D2411|attribute
+41D2411|dignitary
+41D242|party clothes
+41D2421|ball (dance)
+41D2421|masquerade
+41D2422|dressing up
+41D2422|feast
+41D2423|historical costume
+41D24231|pageant
+41D244|fantasy
+41D249|sculpture
+41D249|statue
+41D251|underclothes
+41D2512(CORSET)|corset
+41D2513(BLOOMERS)|bloomers
+41D2513(CORSET)|corset
+41D252|nightwear
+41D252(...)|pyjamas
+41D252(NIGHT-CAP)|cap
+41D252(NIGHT-CAP)|nightcap
+41D252(NIGHT-GOWN)|gown
+41D252(NIGHT-GOWN)|night-gown
+41D253|filling
+41D253|padding
+41D26|accessories
+41D26|ornament
+41D261|handkerchief
+41D262|fan
+41D2621|fan language
+41D2621|fanning
+41D2621|language
+41D263|cane
+41D263|staff
+41D263|walking-stick
+41D2631|umbrella
+41D2632|parasol
+41D2632|sunshade
+41D264|fasteners
+41D2641|pin
+41D26411|fibula
+41D26411|safety pin
+41D2642|button
+41D26421|cuff link
+41D26421|stud
+41D2643|hook-and-eye
+41D2643|press-stud
+41D2643|stud
+41D2644|buckle
+41D26441|zip-fastener
+41D2645|braces (suspenders)
+41D2645|suspenders
+41D2646|fly
+41D2646|zipper
+41D2651|embroidery
+41D2651|yarn
+41D26511|gold
+41D26512|bead
+41D2652|lace
+41D2653|border
+41D2653|braid
+41D2653|ribbon
+41D2654|bow (ribbon)
+41D2655|corsage
+41D2656|girdle
+41D2657|bandoleer
+41D2657|shoulder-belt
+41D266|jewels
+41D2661|necklace
+41D26611|pearl
+41D26612|breloque
+41D26612|medallion
+41D26612|pendant
+41D26612|trinket
+41D2662|bracelet
+41D26621|anklet
+41D2663|ear-ring
+41D2664|ring
+41D2665|agraffe
+41D2665|brooch
+41D2665|clasp
+41D2666|diadem
+41D2666|tiara
+41D2668|box (container)
+41D2668|jewel-box
+41D267|money-bag
+41D268|bag
+41D269|cachenez
+41D269|loup
+41D269|mask
+41D27|Gewandgebung
+41D27|drapery
+41D271|Pneumazipfel
+41D271|wind
+41D28|disguise
+41D281|men's clothes
+41D281|travesty
+41D282|travesty
+41D282|women's clothes
+41D283|mask
+41D29|rag
+41D3|costume
+41D3|folklore
+41D41|airing
+41D41|beating
+41D41|brushing
+41D41|care
+41D411|hanging
+41D4111|clothes hanger
+41D4112|pole
+41D42|washing (clothes)
+41D421|clothes-peg
+41D421|drying
+41D421|hanging
+41D421|peg
+41D422|bleaching
+41D423|mangling
+41D424|ironing
+41D4241|flat-iron
+41D4241|iron
+41D4242|board
+41D4242|ironing board
+41D425|dry-cleaning
+41D425|steaming
+41D426|pressing
+41D4261|mangle
+41D427|accessories
+41D427|clothes-peg
+41D427|drying frame
+41D427|peg
+41D427|tool
+41D427|washing line
+41D428|annex
+41D428|edifice
+41D428|outbuilding
+41D4281|laundry room
+41D4281|utility room
+41D4281|wash house
+41D4282|wash house
+41D43|dyeing
+41D441|sewing
+41D4411|needle
+41D4412|box (container)
+41D4412|sewing box
+41D4413|machine
+41D4413|sewing machine
+41D442|repairing
+41D4421|darning
+41D4421|patching
+41D443|crocheting
+41D443|embroidery
+41D443|knitting
+41D443|needlework
+41D9|nude
+41D9|quasi-nude
+41D9|showing
+41D9|undressing
+41D91|man
+41D92|woman
+41D921|décolleté
+41D94|tucking up
+41D99|shame
+41D991|attempt (effort)
+41D991|covering
+41E|still life
+41E2|optical illusion
+41E2|picture
+41E2|trompe l'oeil
+42|family
+42|offspring
+42A1|pregnancy
+42A1|procreation
+42A11|conception
+42A121|foetus
+42A13|behaviour
+42A13|treatment
+42A131|relief
+42A131|sick-leave
+42A132|giddiness
+42A132|nausea
+42A133|eating
+42A133|food
+42A134|fear
+42A134|impression
+42A134|maternal impression
+42A134|verzien
+42A1341|baby
+42A1341|mark
+42A14|paternity
+42A18|fertility
+42A19|barrenness
+42A19|sterility
+42A19|woman
+42A190|Ripa
+42A190|Sterilità
+42A191|desire
+42A192|conception
+42A192|counteraction
+42A192|fertility
+42A193|birth control
+42A193|family planning
+42A2|birth
+42A2|woman
+42A21|lying-in room
+42A21|room
+42A211|lying-in
+42A2111|squatting
+42A2112|accouchement chair
+42A2112|chair
+42A2119|difficulty
+42A21191|forceps
+42A21192|Caesarian section
+42A21192|section
+42A21193|premature birth
+42A21194|caul birth
+42A212|baby
+42A2121|breathing
+42A2121|cry
+42A2121|first cry (the)
+42A2122|cutting
+42A2122|umbilical cord
+42A2123|placenta
+42A213|child
+42A213|father
+42A213|father and child
+42A213|showing
+42A214|care
+42A22|lying-in
+42A22|visiting
+42A221|announcing
+42A23|house
+42A23|lying-in
+42A23|sign
+42A24|accoucheuse
+42A24|midwife
+42A241|accoucheur
+42A241|obstetrician
+42A25|dry-nurse
+42A25|nurse
+42A251|bakermat
+42A251|chair
+42A251|nursing-chair
+42A252|baby
+42A252|clothes
+42A252|swaddling clothes
+42A2521|swaddling
+42A26|twin
+42A261|Siamese twins
+42A27(...)|multiple birth
+42A27(...)|quadruplets
+42A27(...)|quintuplets
+42A27(...)|triplets
+42A28|baby
+42A28|cabbage
+42A28|folklore
+42A28|gooseberry bush
+42A28|growing
+42A28|pregnancy
+42A28|tree
+42A281|carrying
+42A2811|supernatural being
+42A2812|man
+42A2813|animal
+42A2813|stork
+42A29|abortion
+42A29|miscarriage
+42A291|abortionist
+42A299|animal
+42A299|monster
+42A3|child
+42A3|mother
+42A3|mother and child
+42A30|motherhood
+42A31|nursing
+42A31|suckling
+42A311|nurse
+42A312|animal
+42A32|feeding
+42A33|changing
+42A33|washing
+42A331|napkin
+42A34|bath
+42A35|dressing
+42A351|comb
+42A351|hair
+42A36|caressing
+42A36|crooning
+42A36|dandling
+42A36|playing
+42A361|rocking
+42A362|lullaby
+42A362|singing
+42A37|looking
+42A37|sleeping
+42A4|baby
+42A41|furniture
+42A411|cradle
+42A412|baby-chair
+42A412|chair
+42A413|play-pen
+42A42|baby-carriage
+42A42|carriage
+42A42|pram
+42A42|pushchair
+42A4211|carrying on the back
+42A4212|astride
+42A4212|carrying
+42A4212|hip
+42A4213|basket
+42A4213|carrying
+42A4213|cradle
+42A4213|head
+42A43|dentition
+42A43|teething
+42A431|tooth
+42A432|ring
+42A432|teething ring
+42A44|weaning
+42A441|comforter
+42A45|rattle
+42A46|care
+42A461|parents
+42A462|baby-sitter
+42A5|boy
+42A5|child
+42A5|girl
+42A50|Pueritia
+42A50|Ripa
+42A50|infancy
+42A51|toddler
+42A511|step
+42A511|walking
+42A5111|crawling
+42A5112|go-cart
+42A5113|head-protector
+42A5113|protector
+42A512|speaking
+42A52|playing
+42A53|care
+42A53|hygiene
+42A54|bad
+42A54|custom
+42A541|biting
+42A541|nail
+42A542|sucking
+42A542|thumb
+42A55|infancy
+42A55|sorrow
+42A551|comforting
+42A552|fleeing
+42A5521|finding
+42A5521|searching
+42A553|home
+42A553|returning
+42A56|upbringing
+42A561|measuring
+42A562|shedding
+42A562|tooth
+42A57|task
+42A571|errand
+42A571|help
+42A571|messenger
+42A571|shopping
+42A58|Struwwelpeter
+42A58|hair
+42A58|shock-headed Peter
+42A59|bogey-man
+42A59|bugaboo
+42AA461|parents
+42AA462|baby-sitter
+42AA511|step
+42AA511|walking
+42AA5111|crawling
+42AA5112|go-cart
+42AA5113|head-protector
+42AA5113|protector
+42AA512|speaking
+42AA541|biting
+42AA541|nail
+42AA542|sucking
+42AA542|thumb
+42AA5521|finding
+42AA5521|searching
+42B|child
+42B|parents
+42B1|love
+42B1|parental love
+42B11|father
+42B11|father-love
+42B111|father and son
+42B111|son
+42B112|daughter
+42B112|father and daughter
+42B113|daughter
+42B113|father and daughter
+42B113|father and son
+42B113|son
+42B12|mother
+42B12|mother-love
+42B121|mother and son
+42B121|son
+42B122|daughter
+42B122|mother and daughter
+42B123|daughter
+42B123|mother and daughter
+42B123|mother and son
+42B123|son
+42B2|absence
+42B2|love
+42B2|maltreating
+42B2|neglect
+42B2|parental love
+42B20|Oblivione d'amore verso i figliuoli
+42B20|Ripa
+42B21|disowning
+42B22|foster-parent
+42B221|stepfather
+42B222|stepmother
+42B29|killing
+42B3|foundling
+42B31|abandoning
+42B31|exposing
+42B311|mother
+42B311|mother and child
+42B311|separating
+42B312|changeling
+42B312|substitution
+42B321|adoption
+42B3210|Adottione
+42B3210|Ripa
+42B322|illegitimate child
+42B322|legitimation
+42B33|foster-parent
+42B34|searching
+42B35|recognizing
+42B351|identity
+42B351|legitimation
+42B36|illegitimate child
+42B361|investigation
+42B361|paternity
+42B362|mother
+42B362|unmarried mother
+42B4|filial love
+42B4|love
+42B40|Pietà de figliuoli verso il padre
+42B40|Ripa
+42B41|Caritas romana
+42B41|Cimon the Roman
+42B41|Pero
+42B41|Roman
+42B41|daughter
+42B41|father
+42B41|father and daughter
+42B41|old man
+42B41|suckling
+42B42|Caritas romana
+42B42|daughter
+42B42|mother
+42B42|mother and daughter
+42B42|old woman
+42B42|suckling
+42B43|carrying on the back
+42B5|absence
+42B5|filial love
+42B5|love
+42B51|rich and poor
+42B52|blanket
+42B52|horse-blanket
+42B53|arrow
+42B53|corpse
+42B53|exemplary judge
+42B53|false heir
+42B53|father and son
+42B53|heir
+42B53|judge
+42B53|refusing (order, request)
+42B53|shooting
+42B54|parricide
+42B542|matricide
+42B6|orphan
+42B61|guardian
+42B610|Ripa
+42B610|Tutela
+42B7|relatives
+42B71|home
+42B72|holiday
+42B72|travelling
+42B74|group
+42B741|father
+42B741|father and child
+42B7411|father and son
+42B7411|son
+42B7412|daughter
+42B7412|father and daughter
+42B742|mother
+42B742|mother and child
+42B7421|mother and son
+42B7421|son
+42B7422|daughter
+42B7422|mother and daughter
+42B75|group
+42B751|grandchild
+42B751|granddaughter
+42B751|grandfather
+42B751|grandmother
+42B751|grandparent and grandchild
+42B751|grandson
+42B76|daughter
+42B76|father
+42B76|father and daughter
+42B76|father and son
+42B76|generation
+42B76|grandchild
+42B76|granddaughter
+42B76|grandfather
+42B76|grandmother
+42B76|grandparent and grandchild
+42B76|grandson
+42B76|group
+42B76|mother
+42B76|mother and daughter
+42B76|mother and son
+42B76|son
+42B761|three
+42B762|four
+42B762|great-grandparent
+42B8|correction
+42B8|naughtiness
+42B8|punishment
+42B81|spanking
+42B82|boxing the ears
+42B82|ear
+42B82|striking
+42B821|pulling
+42B83|good and bad
+42B831|good
+42B9|home
+42B9|leave-taking
+42B9|youth (adolescent)
+42C|youth
+42C1|initiation
+42C1|puberty
+42C1|youth (adolescent)
+42C2|girl
+42C2|initiation
+42C2|puberty
+42C2|youth (adolescent)
+42C21|débutante
+42C3|contrast
+42C3|marriage
+42C3|virgin
+42D1|betrothal
+42D1|love
+42D1|lover
+42D11|proposal
+42D111|kneeling
+42D111|suitor
+42D119|love unrequited
+42D12|permission
+42D129|separating
+42D13|asking
+42D13|parents
+42D13|permission
+42D131|weighing
+42D132|marriage broker
+42D14|betrothed
+42D14|daughter-in-law
+42D14|father
+42D14|father-in-law
+42D14|mother
+42D14|mother-in-law
+42D14|parents
+42D14|presenting a person
+42D14|son
+42D141|bride
+42D1411|giving
+42D1411|portrait
+42D142|bridegroom
+42D1421|giving
+42D1421|portrait
+42D15|father-in-law
+42D15|marriage contract
+42D15|mother-in-law
+42D15|parents
+42D16|document
+42D16|marriage contract
+42D17|wedding-gift
+42D1711|Minnekästchen
+42D1711|box (container)
+42D1711|lovers' casket
+42D1712|ring
+42D1712|wedding-ring
+42D172|dowry
+42D18|giving
+42D19|bachelor
+42D19|feast
+42D2|ceremony
+42D2|marriage
+42D21|bride
+42D21|bridegroom
+42D21|husband and wife
+42D21|wedding-dress
+42D2121|chaplet
+42D2121|wreath
+42D2122|dressing
+42D2122|toilet (making)
+42D21221|veil
+42D213|meeting
+42D214|attendant
+42D214|bridal party
+42D214|wedding-guest
+42D2141|best man
+42D2142|bridesmaid
+42D2142|girl
+42D2143|boy
+42D2143|page (servant)
+42D22|admonishing
+42D22|blessing
+42D22|daughter
+42D22|daughter-in-law
+42D22|father-in-law
+42D22|mother-in-law
+42D22|parents
+42D22|son
+42D22|son-in-law
+42D221|choice
+42D221|home
+42D23|departing
+42D23|home
+42D231|abducting
+42D2311|bride
+42D2311|wife-capture
+42D232|elopement
+42D232|fleeing
+42D233|bride
+42D233|exchanging
+42D24|civil marriage
+42D241|registry
+42D241|signing
+42D242|Gretna Green
+42D242|irregularity
+42D243|receiving a person
+42D25|feast
+42D25|meal
+42D251|arrival
+42D252|cake
+42D253|dancing
+42D254|anniversary
+42D254|celebration
+42D254|wedding anniversary
+42D2541|copper
+42D2541|twelve-and-a-half
+42D2542|silver
+42D2542|twenty-five
+42D2543|fifty
+42D2543|golden anniversary
+42D2544|diamond
+42D2544|sixty
+42D26|honeymoon
+42D26|husband and wife
+42D26|travelling
+42D26|wedding trip
+42D261|departing
+42D2611|confetti
+42D2611|rice
+42D2611|shoe
+42D2611|throwing
+42D262|alone at last
+42D27|wedding-night
+42D271|bed
+42D271|bride
+42D271|leading
+42D2711|bath
+42D2711|purification
+42D2712|defloration
+42D2713|struggling
+42D2713|unwillingness
+42D272|disturbing
+42D273|awaking
+42D274|virginity
+42D279|jus primae noctis
+42D3|husband and wife
+42D3|marriage
+42D3|matrimonium
+42D3|matrimony
+42D30|Castità matrimoniale
+42D30|Fede maritale
+42D30|Matrimonio
+42D30|Ripa
+42D30|fidelity
+42D31|bad
+42D31|unequal
+42D311|age
+42D3111|disturbing
+42D3111|mocking
+42D3111|rebuking
+42D3111|third party
+42D312|wealth
+42D3121|disturbing
+42D3121|mocking
+42D3121|rebuking
+42D3121|third party
+42D313|size
+42D314|health
+42D32|satire
+42D321|trap
+42D322|battle
+42D322|dominance
+42D322|trousers
+42D323|contrast
+42D33|happiness
+42D330|Benevolenza et Unione matrimoniale
+42D330|Concordia maritale
+42D330|Ripa
+42D330|benevolence
+42D331|husband
+42D331|ideal husband
+42D332|ideal wife
+42D332|wife
+42D34|dominance
+42D341|husband
+42D342|wife
+42D3421|hen-pecked husband
+42D3421|husband
+42D3422|Bigorne
+42D3422|Chiceface
+42D35|bad
+42D351|marriage 'à la mode'
+42D351|quarrelling
+42D352|reconciliation
+42D36|bad
+42D37|cuckold
+42D37|deceit
+42D38|ménage à trois
+42D39|adultery
+42D390|Adulterio
+42D390|Ripa
+42D392|revenge
+42D3921|innocence
+42D3921|ordeal
+42D4|death
+42D41|widower
+42D42|widow
+42D429|Ephesus
+42D429|Widow of Ephesus
+42D43|marriage
+42D43|second marriage
+42D431|widower
+42D432|widow
+42D5|daughter
+42D5|divorce
+42D5|father
+42D5|father and daughter
+42D6|love unrequited
+42D7|adultery
+42D7|cicisbeo
+42D7|mistress
+42D71|concubine
+42D9|single
+42D9|unmarried
+42D91|bachelor
+42D91|man
+42D92|spinster
+42D92|woman
+42DD111|kneeling
+42DD111|suitor
+42DD119|love unrequited
+42DD251|arrival
+42DD252|cake
+42DD253|dancing
+42DD254|anniversary
+42DD254|celebration
+42DD254|wedding anniversary
+42DD2541|copper
+42DD2541|twelve-and-a-half
+42DD2542|silver
+42DD2542|twenty-five
+42DD2543|fifty
+42DD2543|golden anniversary
+42DD2544|diamond
+42DD2544|sixty
+42DD3121|disturbing
+42DD3121|mocking
+42DD3121|rebuking
+42DD3121|third party
+42DD71|concubine
+42E|burial rites
+42E|death
+42E|rite
+42E1|corpse
+42E1|mortuary toilet
+42E1|toilet (making)
+42E11|dressing
+42E11|washing
+42E111|shroud
+42E112|covering
+42E12|bier
+42E121|cloth
+42E121|hearse-cloth
+42E121|pall
+42E121|pannus funeralis
+42E1211|funeral shield
+42E1211|shield
+42E122|deathbed
+42E122|state
+42E13|wake
+42E131|mourning
+42E132|lamenting
+42E1321|wailing-woman
+42E1321|woman
+42E14|coffin
+42E142|flower
+42E142|offering
+42E142|ring
+42E142|wedding-ring
+42E15|embalming
+42E15|mummification
+42E15|preparation
+42E151|mummy
+42E152|head
+42E152|limb
+42E17|death-mask
+42E17|mask
+42E18|effigy
+42E18|human figure
+42E19|violating
+42E191|mutilation
+42E192|execution
+42E193|clothes
+42E193|robbing
+42E193|undressing
+42E194|necrophily
+42E2|ceremony
+42E2|funeral
+42E21|announcing
+42E211|occupations
+42E211|undertaker
+42E212|card
+42E212|death-notice
+42E212|mourning card
+42E212|obituary
+42E213|commemoration
+42E213|medal
+42E214|funeral parlour
+42E214|parlour
+42E22|cortege
+42E22|funeral procession
+42E22|procession
+42E221|car
+42E221|hearse
+42E222|carriage
+42E223|bier
+42E224|pleurant
+42E23|burial
+42E231|digging
+42E231|grave
+42E231|opening
+42E232|re-burial
+42E24|addressing
+42E24|grave
+42E24|open grave
+42E24|speech
+42E241|praying
+42E242|throwing
+42E25|pyre
+42E26|returning
+42E261|meal
+42E261|mourning
+42E27|mortuary specialist
+42E27|occupations
+42E27|specialist
+42E271|undertaker
+42E272|digging
+42E272|grave-digger
+42E273|cemetery guard
+42E273|guard
+42E274|association
+42E274|burial association
+42E28|destruction
+42E28|killing
+42E28|possessions
+42E281|deathbed
+42E31|grave
+42E31|tomb
+42E311|gravestone
+42E311|stone
+42E3113|cross
+42E312|epitaph
+42E32|niche-tomb
+42E32|tomb
+42E32|wall-tomb
+42E321|cave
+42E321|grave
+42E321|rock
+42E33|sarcophagus
+42E331|cover
+42E331|lid (sarcophagus)
+42E34|urn
+42E35|edifice
+42E35|monument
+42E35|tomb
+42E351|castrum doloris
+42E351|coffin
+42E351|effigy
+42E351|gisant
+42E351|human figure
+42E351|portrait
+42E351|transi
+42E3511|corpse
+42E3511|rotting
+42E3511|skeleton
+42E3511|worm
+42E361|needle
+42E361|obelisk
+42E362|pillar
+42E363|pyramid
+42E37|ancient grave forms
+42E371|prehistory
+42E3711|burial mound
+42E3711|mound
+42E3712|dolmen
+42E3712|megalithic
+42E3712|tomb
+42E372|history
+42E3721|mastaba
+42E3722|pyramid
+42E3723|mausoleum
+42E373|burial
+42E373|exotic
+42E3731|tree
+42E3732|abandoning
+42E38|art
+42E38|funerary art
+42E38|sign
+42E39|cenotaph
+42E39|feigned grave
+42E39|sham-grave
+42E4|cult
+42E4|dead (the)
+42E41|mourning
+42E411|costume
+42E411|mourning garment
+42E42|dirge
+42E43|cemetery
+42E43|grave
+42E43|graveyard
+42E43|tomb
+42E431|necropolis
+42E4311|catacomb
+42E4311|vault
+42E432|church
+42E432|churchyard
+42E433|mass-grave
+42E434|park
+42E435|charnelhouse
+42E435|ossuary
+42E44|care
+42E44|cemetery
+42E44|grave
+42E44|tomb
+42E44|visiting
+42E441|flower
+42E441|wreath
+42E442|finding
+42E45|card
+42E45|in memoriam
+42E49|desecration
+42E49|grave
+42E491|corpse
+42E491|stealing
+42E4911|body-snatcher
+42E51|possessions
+42E52|opening
+42E52|reading
+42E52|testament
+42E53|distributing
+42E53|possessions
+42E531|inheritance
+42E5311|heirloom
+42E532|heir
+42E5321|quarrelling
+42E54|care
+42E541|insurance
+42F|household
+42F0|Economia
+42F0|Providenza dell'annona
+42F0|Ripa
+42F0|economy
+42F0|providence
+42F1|housewife
+42F11|master
+42F11|ordering
+42F11|servant
+42F12|inspecting
+42F13|dividing
+42F13|food
+42F19|Betty
+42F19|Molly
+42F2|buying
+42F2|market
+42F2|shopping
+42F3|task
+42F31|cleaning
+42F311|dusting
+42F312|polishing
+42F313|window
+42F313|window-cleaning
+42F314|sweeping
+42F32|tool
+42F32(...)|broom
+42F33|bed
+42F33|covering
+42F34|table
+42F341|serving
+42F342|clearing
+42F35|care
+42F35|outbuilding
+42F4|house
+42F4|maintenance
+42F4|repairing
+42F49|neglect
+42F49|ruin
+42F5|personnel
+42F5|servant
+42F51|maidservant
+42F52|charwoman
+42F52|cleaning woman
+42F53|footman
+42F53|manservant
+42F54|butler
+42F55|doorkeeper
+42F55|guard
+42F55|house-guard
+42F55|janitor
+42F56|housekeeper
+42F6|accident
+42F61|breaking
+42F9|bad
+42F9|mismanagement
+42F91|Jan Steen
+42F91|disorder
+42F91|huishouden van Jan Steen
+42F91|shambles
+42F92|Lorts (Vrouw)
+42F92|Vrouw Lorts
+42F92|housewife
+42F92|slovenly
+42G1|chart
+42G1|diagram
+42G1|genealogical tree
+42G1|scheme
+42G1|tree
+42G11|Ahnengalerie
+42G11|ancestor
+42G11|gallery
+42G11|portrait
+42G11|series
+42G2|degree
+42G2|family relationship
+42G2|generation
+42G2|relationship
+42G211|parents
+42G2111|father
+42G2112|mother
+42G212|child
+42G2121|son
+42G2122|daughter
+42G221|grandparent
+42G222|brother
+42G222|sister
+42G223|grandchild
+42G223|granddaughter
+42G223|grandson
+42G231|great-grandparent
+42G232|aunt
+42G232|uncle
+42G233|nephew
+42G233|niece
+42G234|cousin
+42G235|great-grandchild
+42G241|great-great grandparent
+42G242|great aunt
+42G242|great uncle
+42G243|grand nephew
+42G243|grand niece
+42G244|second cousin
+42G245|great-great grandchild
+42G29|incest
+42Z|exotic
+42Z1|polygamy
+42Z11|harem
+42Z111|odalisque
+42Z112|Bain turc
+42Z112|Turkish bath
+42Z112|bath
+42Z113|eunuch
+42Z2|polyandry
+42Z3|community
+42Z3|marriage
+42Z31|Weibergemeinschaft
+42Z32|Punalua
+42Z32|family marriage
+42Z32|group marriage
+43|amusement
+43|recreation
+43A|feast
+43A|rejoicing
+43A1|celebration
+43A1|folklore
+43A1|popular feast
+43A11|calendar
+43A11|festival
+43A121|Christmas
+43A1211|Christmas tree
+43A1211|tree
+43A1212|decoration
+43A1213|Father Christmas
+43A1213|Santa Claus
+43A1213|elf
+43A1214|card
+43A122|Carnival
+43A122|Shrovetide
+43A1221|Narrenschiff
+43A1221|fool
+43A1221|ship
+43A1221|ship of fools
+43A1222|Jeudi gras
+43A1222|Shrove Thursday
+43A1222|Thursday
+43A1223|Quinquagesima
+43A1224|Mardi gras
+43A1224|Shrove Tuesday
+43A1224|Tuesday
+43A123|Easter
+43A1231|Easter egg
+43A1231|egg
+43A12311|jewels
+43A12311|shape
+43A1232|cattle-show
+43A1232|fattening
+43A1232|ox
+43A1232|prize ox
+43A12321|showing
+43A1233|Easter rabbit
+43A1233|hare
+43A1233|rabbit
+43A13|season
+43A131|spring
+43A1311|dancing
+43A1311|maypole
+43A132|harvest
+43A132|vintage
+43A14|commemoration
+43A141|January 1
+43A141|New Year
+43A1411|December 31
+43A1411|Hogmanay
+43A1411|New Year's Eve
+43A142|All Fool's Day
+43A142|April 1
+43A143|Labour Day
+43A143|May 1
+43A144|Epiphany
+43A144|January 6
+43A144|Twelfth Night
+43A145|saint
+43A1451|December 5
+43A1451|Nicholas of Myra (St.)
+43A1451|Saint Nicholas Eve
+43A1451|Sinterklaas
+43A1452|All Hallow's Eve
+43A1452|Halloween
+43A1452|October 31
+43A1453|Martin (St.)
+43A1453|November 11
+43A1454|March 17
+43A1454|Patrick (St.)
+43A146(...)|Armistice Day
+43A146(...)|July 14
+43A146(...)|November 11
+43A146(...)|Poppy Day
+43A146(...)|quatorze juillet
+43A2|company
+43A2|family
+43A2|fête champêtre
+43A2|merry company
+43A2|outdoors
+43A2|picnic
+43A2|private festivity
+43A21|cocktail party
+43A21|receiving a person
+43A22|commemoration
+43A22|jubilee
+43A23|ball (dance)
+43A23|dancing
+43A3|fair
+43A3|kermis
+43A3|occupations
+43A3|pleasure-fair
+43A31|chair o'plane
+43A31|merry-go-round
+43A31|roundabout
+43A311|Ferris wheel
+43A311|giant wheel
+43A311|wheel
+43A32|car
+43A321|roller-coaster
+43A322|bumper cars
+43A322|collision
+43A323|railway
+43A323|switchback
+43A33|exercise
+43A33|skill
+43A33|strength
+43A331|rifle range
+43A331|shooting
+43A332|machine
+43A341|mirror
+43A342|diorama
+43A343|cyclorama
+43A343|panorama
+43A344|peep-show
+43A345|lottery
+43A346|freak
+43A3461|human being
+43A3461|monster
+43A3462|animal
+43A3462|monster
+43A3463|plant
+43A3463|stone
+43A35|outdoors
+43A35|performance
+43A351|tent
+43A352|crowd
+43A352|drum (musical instrument)
+43A352|public
+43A36|circus
+43A361|tent
+43A362|entrance
+43A363|tent
+43A3631|arena
+43A3631|circle
+43A37|circus
+43A37|show
+43A371|boss
+43A371|director
+43A3711|ring-master
+43A372|acrobat
+43A3721|rope
+43A3721|tight-rope
+43A3722|trapeze
+43A3723|equilibrium
+43A3724|knife
+43A3724|knife-thrower
+43A3725|gunman
+43A3725|shooting
+43A3726|contortionist
+43A3727|escapologist
+43A3728|fire-eater
+43A373|clown
+43A3731|Hanswurst
+43A3731|Simple Simon
+43A3731|fool
+43A374|animal
+43A374|performance
+43A374|training
+43A3741|monkey
+43A3742|elephant
+43A3743|bear
+43A3744|lion
+43A3744|tiger
+43A3745|horse
+43A3746|dog
+43A3747|dolphin
+43A3748|seal (mammal)
+43A3749|flea
+43A375|conjurer
+43A375|illusionist
+43A375|juggler
+43A375|legerdemain
+43A3751|ventriloquist
+43A376|divination
+43A38|circus
+43A38|travelling
+43A381|tent
+43A382|tent
+43A4|boat
+43A4|public festivity
+43A4|sea
+43A4|ship
+43A4|waters
+43A411|celebration
+43A411|national event
+43A412|royal event
+43A4121|marriage
+43A4122|birth
+43A42|entry
+43A42|entrée solennelle
+43A42|joyeuse entrée
+43A42|pageant
+43A42|public reception
+43A42|receiving a person
+43A42|triumph
+43A421|chariot
+43A421|triumphal chariot
+43A4211|Roman chariot
+43A4211|quadriga
+43A4212|float
+43A4212|platform
+43A422|arch
+43A422|triumphal arch
+43A424|money
+43A424|scattering
+43A4241|coin
+43A4241|strooipenningen
+43A425|decoration
+43A425|illumination
+43A425|lamp
+43A425|square (place)
+43A425|street
+43A426|confetti
+43A426|ticker-tape
+43A43|allegory
+43A43|symbol
+43A43|triomphe marin
+43A43|triumph
+43A431|Petrarca
+43A431|Petrarch
+43A431|Trionfi (Petrarca)
+43A4311|Amore (Trionfi d')
+43A4311|Carro d'amore
+43A4311|Cupid
+43A4311|Ripa
+43A4311|Trionfi d'Amore
+43A4311|Triumphus Cupidinis
+43A4312|Carro della castità
+43A4312|Castità
+43A4312|Ripa
+43A4312|Trionfo della Castità
+43A4312|Triumphus Pudicitiae
+43A4313|Carro della morte
+43A4313|Death
+43A4313|Morte
+43A4313|Ripa
+43A4313|Trionfo della Morte
+43A4313|Triumphus Mortis
+43A4314|Carro della Fama
+43A4314|Fama
+43A4314|Ripa
+43A4314|Trionfo della Fama
+43A4314|Triumphus Famae
+43A4315|Carro del Tempo
+43A4315|Ripa
+43A4315|Tempo
+43A4315|Trionfo del Tempo
+43A4315|Triumphus Temporis
+43A4315|time
+43A4316|Carro della Divinità
+43A4316|Divinità
+43A4316|Trionfo della Divinità
+43A4316|Triumphus Aeternitatis
+43A4316|eternity
+43A4321|apotheosis
+43A4321|ascension
+43A433|crowning
+43A433|laurel
+43A44|bonfire
+43A44|fire-works
+43A45|disgrace
+43A45|mocking
+43A45|public disgrace
+43A46|aeroplane
+43A46|air (in the)
+43A46|flying
+43A46|saluting
+43A46|show
+43A49|funeral
+43A49|public funeral
+43A491|castrum doloris
+43A491|catafalque
+43AA21|cocktail party
+43AA21|receiving a person
+43AA22|commemoration
+43AA22|jubilee
+43AA23|ball (dance)
+43AA23|dancing
+43AA42|entry
+43AA42|entrée solennelle
+43AA42|joyeuse entrée
+43AA42|pageant
+43AA42|public reception
+43AA42|receiving a person
+43AA42|triumph
+43AA43|allegory
+43AA43|symbol
+43AA43|triomphe marin
+43AA43|triumph
+43AA44|bonfire
+43AA44|fire-works
+43AA46|aeroplane
+43AA46|air (in the)
+43AA46|flying
+43AA46|saluting
+43AA46|show
+43AA49|funeral
+43AA49|public funeral
+43AA491|castrum doloris
+43AA491|catafalque
+43B|leisure
+43B1|joy
+43B1|nature
+43B11|contemplation
+43B11|sunset
+43B12|alfresco
+43B12|déjeuner sur l'herbe
+43B12|meal
+43B12|picnic
+43B121|assembly
+43B121|délices à la campagne
+43B121|group
+43B121|outdoors
+43B13|hiking
+43B13|walking
+43B131|bicycle
+43B141|botanizing
+43B141|flower
+43B141|herb
+43B141|plant
+43B142|hunting
+43B142|mushroom
+43B143|herb
+43B143|picking
+43B144|flower
+43B144|picking
+43B15|animal
+43B151|butterfly
+43B151|hunting
+43B16|climbing
+43B16|mountain
+43B16|mountaineering
+43B17|cave
+43B17|exploring
+43B2|outdoors
+43B21|pleasure-resort
+43B3|indoors
+43B31|cafe
+43B31|inn
+43B31|saloon
+43B31|wine-bar
+43B311|restaurant
+43B312|garden
+43B312|tea garden
+43B313|pavement
+43B313|terrace
+43B32|club
+43B32|meeting place
+43B33|casino
+43B331|den
+43B331|gambling
+43B331|games
+43B34|dance-hall
+43B34|night-club
+43B41|forest
+43B41|playing
+43B411|climbing
+43B411|tree
+43B412|falling
+43B412|tree
+43B42|park
+43B421|bandstand
+43B5|beach
+43B51|bathing
+43B51|sea
+43B52|sunbathing
+43B53|building
+43B53|castle
+43B53|sand
+43B54|donkey
+43B55|dune
+43B55|sand
+43B6|playground
+43B6|playing
+43B61(...)|equipment
+43B611|swing
+43B612|chute
+43B612|slide
+43B613|seesaw
+43B7|zoo
+43B8|collection
+43B8|exhibition
+43B8|show
+43C1|animal
+43C1|exercise
+43C1|games
+43C1|sport
+43C11|hunting
+43C11|occupations
+43C111|game (hunted animal)
+43C1111|group
+43C1112|mammal
+43C11121|group
+43C11122|monkey
+43C11123|predatory animal
+43C111231|fox hunt
+43C1112311|dog
+43C1112311|fox
+43C1112311|hunting dog
+43C111232|lion-hunt
+43C1112321|fighting (animal)
+43C1112321|lion
+43C11124|hoofed animal
+43C111241|stag
+43C111242|roe
+43C111243|boar
+43C11125|trunked animal
+43C11126|rodent
+43C111261|hare
+43C111261|rabbit
+43C11127|sea-mammal
+43C1113|bird
+43C112|hunting accident
+43C1121|attacking
+43C1121|wounded person
+43C113|carcass
+43C113|game (hunted animal)
+43C113|spoils of the hunt
+43C113|still life
+43C1131|kill
+43C11311|hunting-trophy
+43C11311|trophy
+43C1132|showing
+43C114|hunter
+43C114|huntress
+43C1141|assembling
+43C1141|départ pour la chasse
+43C1141|group
+43C11421|resting
+43C1143|beater
+43C1144|blowing
+43C1144|hunting-horn
+43C1145|halali
+43C1146|group
+43C1146|portrait
+43C1147|dog
+43C1147|hunting dog
+43C11471|game (hunted animal)
+43C11471|spoils of the hunt
+43C1148|accoutrement
+43C1148|equipment
+43C11481|bag
+43C11481|game bag
+43C11482|hunting-horn
+43C1149|returning
+43C11491|Jagdschloss
+43C11491|hunting-seat
+43C11491|lodge
+43C11491|rendez-vous de chasse
+43C115|searching
+43C1151|catching
+43C1152|watching
+43C11521|filming
+43C11521|photographer
+43C116|ground
+43C116|hunting-ground
+43C1161|boundary
+43C1161|pole
+43C1162|camouflage
+43C1162|hiding
+43C1162|hiding oneself
+43C1162|hunting stand
+43C1162|shelter
+43C1162|stand
+43C1162|watching
+43C11621|high seat (hunting stand)
+43C11621|platform
+43C116211|tree
+43C116211|tree stand (hunting stand)
+43C11622|ground blind (hunting stand)
+43C117|gamekeeper
+43C118|poacher
+43C12|fishing
+43C128|fisherman
+43C1281|fish
+43C1281|showing
+43C13|bird
+43C13|fowl
+43C13|fowler
+43C131|finch trap
+43C131|trap
+43C132|decoy
+43C132|duck decoy
+43C132|trap
+43C14|tormenting
+43C141|group
+43C142|mammal
+43C1421|barrel
+43C1421|beating
+43C1421|cat
+43C1421|cudgel
+43C1422|bull
+43C1422|bullfight
+43C1422|fighting (animal)
+43C14221|toreador
+43C1423|bear
+43C143|bird
+43C1431|cock
+43C1431|fighting (animal)
+43C1432|goose
+43C1432|pull-the-goose
+43C144|reptile
+43C145|amphibian
+43C146|fish
+43C1461|eel
+43C1461|pull-the-eel
+43C2|exercise
+43C2|games
+43C2|speed
+43C2|sport
+43C211|race (contest)
+43C211|running
+43C2111|course
+43C2111|hurdle race
+43C2111|obstacle
+43C2112|cross-country
+43C2113|walking
+43C212|animal
+43C212|race (contest)
+43C212|riding
+43C2121|horse
+43C2121|riding (on horseback)
+43C21211|jockey
+43C21212|stable
+43C21213|race-track
+43C2122|jumping
+43C2122|steeple chase
+43C213|race (contest)
+43C213|vehicle
+43C2131|horse
+43C2131|wagon
+43C21311|charioteer
+43C21312|chariot
+43C21312|sulky
+43C2132|bicycle
+43C21321|Giro d'Italia
+43C21321|Tour de France
+43C21321|tour
+43C2133|motorcycle
+43C2134|automobile
+43C214|hiking
+43C214|walking
+43C218|animal
+43C218|race (contest)
+43C2181|dog
+43C2182|dove
+43C22|waters
+43C221|swimming
+43C2211|diving
+43C22111|deep sea
+43C22111|sea
+43C222|skiing
+43C222|surf-riding
+43C222|waterskiing
+43C223|canoeing
+43C223|rowing
+43C224|sailing
+43C224|yacht
+43C225|boat
+43C225|motorboat
+43C23|air (in the)
+43C23|aviation
+43C231|flying
+43C232|gliding
+43C233|balloon
+43C233|flying
+43C234|parachuting
+43C234|sky diving
+43C24|ice
+43C24|snow
+43C24|winter
+43C24|winter sports
+43C241|sledge
+43C241|sleigh
+43C242|bob-sled
+43C243|sleigh
+43C244|skating
+43C245|skiing
+43C2451|slalom
+43C2452|jumping
+43C2453|elevator
+43C2453|lift
+43C2453|ski-lift
+43C246|ice-sailing
+43C246|sailing
+43C3|athletics
+43C3|exercise
+43C3|games
+43C3|gymnastics
+43C3|sport
+43C31|high-jumping
+43C31|jumping
+43C311|pole-vaulting
+43C312|trampoline
+43C32|broad-jumping
+43C32|jumping
+43C32|long-jumping
+43C321|hop-skip-jump
+43C33|spear
+43C34|ball
+43C34|shot-putting
+43C35|discus-throwing
+43C35|throwing
+43C361|carrying
+43C361|weight
+43C37|floor
+43C37|ground
+43C371|dumb-bells
+43C371|stick
+43C38|apparatus
+43C381|ring
+43C382|bar
+43C382|equilibrium
+43C382|horizontal bar
+43C383|vaulting horse
+43C384|bar
+43C384|parallel bars
+43C39|contest
+43C39|fighting
+43C391|boxing
+43C392|wrestling
+43C393|jiu-jitsu
+43C393|judo
+43C394|fencing
+43C3941|foil
+43C3942|sabre
+43C3942|sword
+43C395|rope
+43C395|tug-of-war
+43C396|knight
+43C396|medieval history
+43C396|middle ages
+43C3961|gladiator
+43C39611|animal
+43C39611|fighting (animal)
+43C39612|bear
+43C39612|lion
+43C3962|bridge
+43C3962|pas d'armes
+43C3962|pass
+43C3963|tournament
+43C39631|joust
+43C39631|tilting
+43C396312|barrier
+43C39641|Bouhourt
+43C39641|Buhurt
+43C39642|Quintaine
+43C397|tournament
+43C3971|Olympic games
+43C4|games
+43C4|skill
+43C4|sport
+43C41|ball games
+43C411|cholle
+43C411|choule
+43C411|football
+43C411|soccer
+43C411|soule
+43C4111|rugby
+43C4112|American football
+43C412|hand
+43C4121|handball
+43C4122|basketball
+43C4123|volley-ball
+43C4124|polo
+43C4124|water polo
+43C413|stick
+43C4131|lacrosse
+43C4132|hockey
+43C41321|ice
+43C41321|ice hockey
+43C4133|polo
+43C4133|riding (on horseback)
+43C4134|cricket (sports)
+43C4135|baseball
+43C4136|stick ball
+43C414|stick
+43C4141|maille
+43C4142|golf
+43C4143|kolf
+43C41431|ice
+43C4144|croquet
+43C4145|billiards
+43C415|hand
+43C415|racket
+43C4151|lawn-tennis
+43C4151|tennis
+43C4152|table-tennis
+43C4152|tennis
+43C4153|jeu de Paume
+43C4154|badminton
+43C4154|jeu de volant
+43C4155|five
+43C4155|palm of the hand
+43C416|rolling
+43C4161|jeu de boules
+43C4162|bowling
+43C4163|ring
+43C4163|throwing
+43C4164|ninepins
+43C4164|skittles
+43C417|throwing
+43C4171|bilboquet
+43C4171|cup-and-ball
+43C418|machine
+43C418|pinball
+43C42|sharpshooting
+43C42|shooting
+43C421|archer
+43C421|bow and arrow
+43C421|contest
+43C4211|bird
+43C4211|pole
+43C4211|shooting-the-bird
+43C4212|champion-shot
+43C422|firearms
+43C422|handgun
+43C422|revolver
+43C423|firearms
+43C423|rifle
+43C424|target
+43C43|barrel
+43C43|jeu de tonneau
+43C431|disc
+43C431|hole
+43C432|shovel-board
+43C44|yoyo
+43C441|air top
+43C441|devil-on-two-sticks
+43C441|diabolo
+43C441|stick
+43C45|ring
+43C45|tilting
+43C5|calculation
+43C5|chance
+43C5|gambling
+43C5|games
+43C51|card game
+43C511|card-sharp
+43C511|cheating
+43C511|deceit
+43C512|card
+43C512|playing-cards
+43C5121|joker
+43C513|patience
+43C52|board-game
+43C521|chess
+43C5211|chessmen
+43C5212|player (games)
+43C5212|winner
+43C5212|woman
+43C522|backgammon
+43C522|tric-trac
+43C523|draughts
+43C5231|draughtsmen
+43C53|board-game
+43C531|goose-game
+43C532|monopoly
+43C54|dominoes
+43C55|dice-game
+43C551|cheating
+43C551|deceit
+43C552|dice
+43C56|betting
+43C561|sport
+43C562|roulette
+43C57|tombola
+43C58|lottery
+43C581|lot
+43C582|pool (totalizator)
+43C582|totalizator
+43C59|conundrum
+43C59|enigma
+43C59|puzzle
+43C59|riddle
+43C591|charade
+43C592|cross-word
+43C593|jig-saw
+43C6|feast
+43C6|games
+43C6|group
+43C61|forfeit
+43C62|chair
+43C62|musical chairs
+43C63|contest
+43C63|kissing
+43C63|sensuality
+43C631|cockles
+43C631|hand
+43C631|haute coquilles
+43C631|hot cockles
+43C631|main chaude
+43C631|striking
+43C64|frog
+43C64|middle
+43C68|adult
+43C68|children's games
+43C69|rough-and-tumble
+43C7|child
+43C7|children's games
+43C7|games
+43C7|playing
+43C711|running game
+43C71111|running
+43C71112|catching
+43C71113|red rover, red light?
+43C7112|contest
+43C71121|prisoner
+43C71122|dividing
+43C71122|ground
+43C71123|catching
+43C71123|group
+43C71123|touching
+43C7113|hiding
+43C7113|hiding oneself
+43C71131|hide-and-seek
+43C7114|circle
+43C7115|story
+43C7116|London Bridge
+43C7116|arch
+43C7116|bridge
+43C7117|chain game
+43C7117|snake-game
+43C71171|train (retinue)
+43C7118|pinwheel
+43C7118|whirling
+43C712|jumping
+43C7122|leap-frog
+43C7123|cockalorum
+43C7123|hey cockalorum
+43C7124|hop-scotch
+43C71251|somersault
+43C71251|tumbling
+43C71252|standing on the head
+43C71253|crawling
+43C71254|whirling
+43C7126|ditch-over
+43C71261|pole-vaulting
+43C713|dancing
+43C7132|jumping-rope
+43C7132|rope
+43C7132|skipping-rope
+43C7133|circle
+43C7133|square (shape)
+43C7134|row dancing
+43C714|throwing
+43C7142|stone
+43C7143|stick
+43C7144|coin
+43C7145|fruit
+43C7146|ball
+43C71462|catching
+43C71463|hitting
+43C71463|stick
+43C71464|kicking
+43C7147|bowling
+43C71481|quoit
+43C71481|ring
+43C715|finger
+43C715|fist
+43C715|hand
+43C71511|shadow
+43C71511|silhouette
+43C71512|cat's cradle
+43C71512|string
+43C7152|clap game
+43C7152|striking
+43C71521|piling up
+43C71522|bag
+43C71522|bursting
+43C7153|counting
+43C7153|pointing
+43C7155|rhyme
+43C716|adult
+43C716|dressing up
+43C716|imitation
+43C716|trade
+43C717|guessing
+43C7172|hunting
+43C71721|track
+43C7173|divination
+43C7174|lot
+43C7175|blindfold
+43C71751|blind-man's buff
+43C718|swinging game
+43C7181|swinging
+43C7182|cradle
+43C7182|rocking
+43C7183|knee
+43C7183|riding
+43C7184|carrying
+43C71841|carrying on the back
+43C71841|pick-a-back
+43C719|fighting
+43C719|rough-and-tumble
+43C72|toy
+43C721|marbles
+43C7211|cup-hole
+43C722|top (toy)
+43C7221|whirling
+43C7222|whipping
+43C723|hoop
+43C7231|whirling
+43C724|flying
+43C724|kite (toy)
+43C7241|balloon
+43C725|stilt
+43C726|astragali
+43C726|knuckle-bones
+43C727|roller-skating
+43C727|skating
+43C73|nature
+43C731|imitation
+43C732|bird
+43C732|nest
+43C732|robbing
+43C7321|egg
+43C7321|hunting
+43C733|animal
+43C733|teasing
+43C734|animal
+43C735|plant
+43C736|natural phenomena
+43C736|phenomena
+43C736|weather
+43C7361|rain
+43C737|ice
+43C737|snow
+43C7371|slide
+43C7372|snowman
+43C73721|snowball
+43C7373|snowball
+43C7373|throwing
+43C7374|chair
+43C7379|accident
+43C7379|breaking
+43C741(...)|calendar
+43C742|school
+43C7421|feast
+43C7421|school festivity
+43C7422|outing
+43C7422|school outing
+43C7422|trip
+43C7423|playground
+43C7424|naughtiness
+43C7425|truancy
+43C743|art
+43C7431|music
+43C74311|kitchen-utensils
+43C74311|rough music
+43C74312|whistling
+43C74313|bladder
+43C74313|pea
+43C7432|music making
+43C7432|musical instrument
+43C74322|pleasure-fair instruments
+43C7433|singing
+43C75|naughtiness
+43C751|calling names
+43C751|hooting
+43C751|insulting
+43C752|teasing
+43C7521|stealing
+43C753|bell
+43C753|doorbell
+43C754|Teddy-boy
+43C755|vandalism
+43C761|counting
+43C767|home
+43C767|returning
+43C768|pursuing
+43C769|chasing away
+43C769|interruption
+43C771|picture book
+43C771|reading
+43C772|book
+43C7721|image
+43C7721|picture
+43C78|toy
+43C781|building material
+43C7811|piling up
+43C7812|building block
+43C7813|meccano
+43C7814|cutting
+43C7815|building
+43C7815|house
+43C7815|model
+43C7816|building
+43C7816|machine
+43C7816|model
+43C7816|vehicle
+43C782|motion
+43C7821|dancing
+43C7821|doll
+43C7822|revolving toy
+43C7823|mill
+43C783|mechanical toys
+43C7831|engine
+43C7831|steam
+43C7832|motor
+43C7833|engine
+43C7833|motor
+43C7833|steam
+43C784|transporting
+43C7841|vehicle
+43C78411|barrow
+43C78411|wagon
+43C78412|automobile
+43C78413|car
+43C78413|rails
+43C78413|roller-coaster
+43C78414|train
+43C7842|waters
+43C78421|boat
+43C78422|yacht
+43C78423|motorboat
+43C7843|air
+43C7843|aviation
+43C78431|aeroplane
+43C78432|aeroplane
+43C78432|model
+43C78432|motor
+43C78433|rocket
+43C785|blowing
+43C7851|bubble
+43C7851|bubble-blowing
+43C786|housewife
+43C7861|dish
+43C78611|tea-service
+43C7862|kitchen
+43C78621|oven
+43C78621|stove
+43C7863|doll's house
+43C7863|house
+43C7871|doll
+43C78711|clothes
+43C78719|adult
+43C7872|animal
+43C7872|teddy bear
+43C78721|hobby-horse
+43C78721|horse
+43C78722|horse
+43C78722|rocking-horse
+43C78729|adult
+43C78729|mascot
+43C7881|book
+43C7881|pasting
+43C7882|weaving
+43C7883|needlework
+43C7891|imitation
+43C7891|miniature
+43C7891|model
+43C8|field
+43C8|ground
+43C8|sport
+43C81|changing room
+43C81|locker room
+43C81|room
+43C9|dancer
+43C9|dancing
+43C91|one
+43C911|man
+43C912|woman
+43C92|couple
+43C92|pair
+43C921|woman
+43C922|man
+43C923|inviting
+43C94|community dancing
+43C94|group
+43C941|upper class
+43C942|folk dancing
+43C9421|man
+43C9422|woman
+43C943|circle
+43C95|chain dancing
+43C95|jigging
+43C95|jogging
+43C95|street
+43CC1141|assembling
+43CC1141|départ pour la chasse
+43CC1141|group
+43CC11421|resting
+43CC1143|beater
+43CC1144|blowing
+43CC1144|hunting-horn
+43CC1145|halali
+43CC1146|group
+43CC1146|portrait
+43CC1149|returning
+43CC11491|Jagdschloss
+43CC11491|hunting-seat
+43CC11491|lodge
+43CC11491|rendez-vous de chasse
+43D1|craft
+43D1|handicraft
+43D1|hobby
+43D2|collecting
+44A|state
+44A|symbol
+44A1|coat of arms
+44A11|device
+44A2|seal
+44A21|chain
+44A21|mayor
+44A3|colour
+44A3|flag
+44A31|banner
+44A31|standard
+44A311|flag-bearer
+44A311|standard-bearer
+44A32|flagpole
+44A32|pole
+44A4|decoration
+44A4|honour
+44A4|medal
+44A5|America
+44A5|Egypt
+44A5|France
+44A5|Germany
+44A5|Italy
+44A5|Netherlands
+44A5|Poland
+44A5|Sweden
+44A5|Venice
+44A5|national symbol
+44A51|country
+44A51|nation
+44A51|personification
+44A51|region
+44A51(...)|Spain
+44B|Auttorità o Potestà
+44B|Politica
+44B|Ripa
+44B|government
+44B|occupations
+44B|state
+44B0|governmental system
+44B01|Monarchia mondana
+44B01|king
+44B01|monarchy
+44B011|Aristocratia
+44B011|aristocracy
+44B02|Democratia
+44B02|democracy
+44B03|Governo della republica
+44B03|republic
+44B04|colonial system
+44B041|imperialism
+44B09|Tirannide
+44B09|tyranny
+44B091|Ragione di Stato
+44B091|reason of state
+44B1|ruler
+44B10|virtue
+44B11|rank
+44B111|gallery
+44B111|series
+44B1111|dynasty
+44B112|czar
+44B112|emperor
+44B112|tsar
+44B1121|myth
+44B1121|returning
+44B113|king
+44B114(DOGE)|doge
+44B115|president
+44B1151|vice-president
+44B116|regent
+44B116|substitution
+44B116|viceroy
+44B1161|stadtholder
+44B117|feudal lord
+44B117|lord
+44B1171|vassal
+44B119|tyrant
+44B12|before
+44B12|king
+44B12|royal event
+44B121|audience
+44B1211|hall
+44B1211|room
+44B1211|throne-room
+44B1212|throne
+44B122|installation
+44B122|investiture
+44B1221|knighting
+44B1221|nobility
+44B1222|power
+44B1222|transfer of power
+44B1223|giving
+44B1223|privilege
+44B123|free pardon
+44B123|mercy
+44B123|pardoning
+44B124|counsellor
+44B125|ordering
+44B126|enfeoffment
+44B127|subject
+44B1271|giving
+44B1271|honour
+44B1271|mark
+44B1272|substitution
+44B12721|Damocles
+44B12721|sword
+44B128|informal
+44B128|subject
+44B129|evil
+44B129|healing
+44B129|king's evil
+44B129|touching
+44B13|before
+44B13|honouring
+44B131|acclamation
+44B1311|loyalty
+44B1311|oath
+44B1311|swearing
+44B132|bowing
+44B1321|genuflexion
+44B1322|kneeling
+44B1323|prostration
+44B133|flag
+44B134|cannon
+44B134|salvo
+44B1341|birth
+44B1341|marriage
+44B1341|royal event
+44B135|paying
+44B135|tribute
+44B14|apotheosis
+44B15|court
+44B15|family
+44B15|royal family
+44B150|Corte
+44B151|dynasty
+44B1511|consort
+44B1511|empress
+44B1511|queen
+44B15111|prince consort
+44B1512|child
+44B15121|prince
+44B151211|crown prince
+44B15122|princess
+44B151221|crown princess
+44B15123|illegitimate child
+44B1513|parents
+44B15131|father
+44B15132|mother
+44B15132|queen mother
+44B1515|favourite
+44B152|courtier
+44B152|household
+44B152|train (retinue)
+44B1521|master
+44B1522|dignitary
+44B1523|page (servant)
+44B1524|court jester
+44B1524|fool
+44B1524|jester
+44B15241|attribute
+44B152411|cap
+44B152411|fool's cap
+44B152412|bauble
+44B1525|food
+44B1525|taster
+44B1525|testing
+44B1526|lackey
+44B1526|personnel
+44B1527|body-guard
+44B153|ceremony
+44B153|etiquette
+44B1531|courtesy
+44B154|festival
+44B155|daily life
+44B16|installation
+44B16|succession
+44B161|choosing
+44B161|election
+44B1611|proclamation
+44B16111|raising
+44B16111|shield
+44B1612|anointing
+44B1613|crown
+44B1613|offering
+44B1613|orb
+44B1613|regalia
+44B1613|sceptre
+44B1619|usurpation
+44B162|coronation
+44B162|crowning
+44B1624|anointing
+44B1625|crown
+44B1625|offering
+44B1625|orb
+44B1625|regalia
+44B1625|sceptre
+44B163|sword
+44B1641|oath
+44B165|celebration
+44B165|ceremony
+44B1651|pageant
+44B1651|parade
+44B1651|procession
+44B16511|coronation procession
+44B168|refusing (order, request)
+44B1681|crown
+44B1681|trampling
+44B169|abdication
+44B169|sending away
+44B1692|unwillingness
+44B16921|adversary
+44B16921|fleeing
+44B16922|arresting
+44B16923|killing
+44B16923|king
+44B16923|murdering
+44B16923|regicide
+44B17|bad
+44B19|crown jewels
+44B19|insignia
+44B19|regalia
+44B191|crown
+44B1911|diadem
+44B192|sceptre
+44B192|staff
+44B1921|arm
+44B1921|hand
+44B1921|justice
+44B1922|lance
+44B1922|spear
+44B193|cross
+44B193|orb
+44B194|coat of arms
+44B195|seal
+44B196|standard
+44B197|cloak
+44B197|gown
+44B1971|emperor
+44B1972|king
+44B198|breast-plate
+44B2|council
+44B2|representative bodies
+44B21|national government
+44B211|minister
+44B2111|prime minister
+44B2113|secretary of state
+44B2113|state secretary
+44B22|province
+44B221|governor
+44B23|city
+44B23|municipal government
+44B231|burgomaster
+44B231|mayor
+44B232|city council
+44B233|hall
+44B233|townhall
+44B24|colonial government
+44B241|colonial governor
+44B241|governor
+44B3|administration
+44B3|control
+44B3|water-control
+44B31|dike-reeve
+44B31|reeve
+44B32|inspecting
+44B4|diplomacy
+44B4|diplomat
+44B41|ambassador
+44B411|departing
+44B412|journey
+44B413|receiving a person
+44B414|reconciliation
+44B42|assembly
+44B42|conference
+44B42|negotiating
+44B421|peace
+44B4211|document
+44B4211|signing
+44B4211|treaty
+44B4212|proclamation
+44B43|consular service
+44B44|credentials
+44B44|document
+44B44|offering
+44B45|alliance
+44B45|unity
+44B450|Lega
+44B5|law
+44B511|Upper House
+44B511|senate
+44B512|Lower House
+44B512|chamber
+44B512|parliament
+44B5121|member of parliament
+44B52|proclamation
+44B521|crier
+44B521|shouting
+44B522|poster
+44B532|legend
+44B532|origin
+44B6|good and bad
+44B61|good
+44B610|allegory
+44B610|personification
+44B611|Utopia
+44B62|bad
+44B621|dissatisfaction
+44BB1111|dynasty
+44BB1121|myth
+44BB1121|returning
+44BB1151|vice-president
+44BB1161|stadtholder
+44BB1211|hall
+44BB1211|room
+44BB1211|throne-room
+44BB1212|throne
+44BB1311|loyalty
+44BB1311|oath
+44BB1311|swearing
+44BB1321|genuflexion
+44BB1322|kneeling
+44BB1323|prostration
+44BB1341|birth
+44BB1341|marriage
+44BB1341|royal event
+44BB15121|prince
+44BB151211|crown prince
+44BB15122|princess
+44BB151221|crown princess
+44BB15123|illegitimate child
+44BB15131|father
+44BB15132|mother
+44BB15132|queen mother
+44BB1521|master
+44BB1522|dignitary
+44BB1523|page (servant)
+44BB1524|court jester
+44BB1524|fool
+44BB1524|jester
+44BB1525|food
+44BB1525|taster
+44BB1525|testing
+44BB1526|lackey
+44BB1526|personnel
+44BB1527|body-guard
+44BB1531|courtesy
+44BB161|choosing
+44BB161|election
+44BB162|coronation
+44BB162|crowning
+44BB163|sword
+44BB1641|oath
+44BB165|celebration
+44BB165|ceremony
+44BB1651|pageant
+44BB1651|parade
+44BB1651|procession
+44BB168|refusing (order, request)
+44BB1681|crown
+44BB1681|trampling
+44BB169|abdication
+44BB169|sending away
+44BB16921|adversary
+44BB16921|fleeing
+44BB16922|arresting
+44BB16923|killing
+44BB16923|king
+44BB16923|murdering
+44BB16923|regicide
+44BB1911|diadem
+44BB1971|emperor
+44BB1972|king
+44C|citizen
+44C|civil rights
+44C|right
+44C1|citizenship
+44C1|nationality
+44C11|country
+44C11|patriotism
+44C110|Amor della patria
+44C110|Ripa
+44C12|emigration
+44C13|immigration
+44C14|internal migration
+44C14|migration
+44C14|population redistribution
+44C14|resettlement
+44C14|transmigration
+44C141|city
+44C141|rural life
+44C141|rural-urban migration
+44C141|urban life
+44C141|village
+44C142|city
+44C142|rural life
+44C142|urban life
+44C142|urban-rural migration
+44C142|village
+44C19|betraying
+44C19|country
+44C19|treason
+44C2|voting
+44C21|campaign
+44C21|politics
+44C22|polling station
+44C22|voting place
+44C221|booth
+44C221|cubicle
+44C221|polling booth
+44C221|voting booth
+44C221|voting cubicle
+44C222|ballot
+44C222|voting ballot
+44C223|box (container)
+44C223|urn
+44C223|voting receptacle
+44C224|machine
+44C224|voting machine
+44C23|election
+44C231|propaganda
+44C231|voting propaganda
+44C24|emancipation
+44C24|enfranchisement of women
+44C24|liberating
+44C24|woman
+44C24|women's liberation
+44C241|suffragette
+44C29|fighting
+44C3|politics
+44C30|Politica
+44C30|Ripa
+44C31|propaganda
+44C311|assembly
+44C312|caricature
+44C312|satire
+44C32|class
+44C32|war
+44C33|political party
+44C34|party leader
+44C34|politician
+44C35|ideology
+44C35|political ideology
+44C35|theory
+44C4|demonstration
+44C41|strike
+44C42|agitator
+44C5|freedom
+44C5|journalism
+44C5|speech
+44C59|censorship
+44C591|burning (books)
+44C6|emancipation
+44C6|racialism
+44D|administration
+44D|occupations
+44D1|bureau
+44D1|registry
+44D2|tax
+44D20|Datio overo Gabella
+44D20|Ripa
+44D21|collecting
+44D21|tax-collector
+44D211|paying
+44D22|customs
+44D221|gate
+44D221|toll gate
+44D222|smuggling
+44D2221|drug
+44D2221|trade
+44D223|passport
+44D223|visa
+44D224|control
+44D224|investigation
+44D23|finance
+44D3|boundary
+44D31|marking
+44D311|pole
+44D311|stone
+44D32|land
+44D32|registry
+44D321|dividing
+44D4|civil servant
+44D4|functionary
+44D4|official
+44D4|statesman
+44E|government service
+44E|occupations
+44E|service
+44E1|supply
+44E1|water
+44E11|tower
+44E11|water-tower
+44E12|purification
+44E13|aqueduct
+44E131|pipe system
+44E14|fountain
+44E14|public pump
+44E14|pump
+44E14|utilitarian
+44E2|lamp
+44E2|street
+44E3|gas
+44E3|supply
+44E4|electricity
+44E4|supply
+44E41|power station
+44E41|station
+44E42|cable
+44E42|power line
+44E42|pylon
+44E5|collecting
+44E5|garbage
+44E51|automobile
+44E51|truck
+44E52|bucket
+44E52|dustbin
+44E53|cleaning
+44E53|street sweeping
+44E53|sweeping
+44E6|food
+44E6|rationing
+44E61|card
+44E61|rationing card
+44E62|cook-shop
+44E62|kitchen
+44E62|soup-kitchen
+44F|revolution
+44F0|Rebellione
+44F0|Ripa
+44F0|Seditio
+44F0|Seditione civile
+44F1|riot
+44F1|street
+44F11|barricade
+44F14|plundering
+44F2|civil war
+44F2|war
+44F3|emergency
+44F31|curfew
+44F4|court-martial
+44F4|justice
+44F4|summary justice
+44F41|verdict
+44F51|conspiracy
+44F51|plotting
+44F511|oath
+44F52|preparation (battle, war)
+44F52|secrecy
+44F52|weapon
+44F53|board (committee)
+44F53|group
+44F531|patriot
+44F532|ring-leader
+44F541|agitator
+44F541|speech
+44F542|broadside
+44F542|cartoon
+44F542|libel
+44F542|propaganda
+44F55|violence
+44F551|sabotage
+44F552|attempt (attack)
+44F552|murdering
+44F552|politics
+44F553|anarchism
+44F5531|bomb
+44F554|destruction
+44F554|edifice
+44F555|destruction
+44F555|monument
+44F555|portrait
+44F59|defeat
+44F59|failure
+44F59|suppression
+44F6|government
+44F61|capturing
+44F62|banishing
+44F62|expelling
+44F621|fleeing
+44F63|exile
+44F630|Esilio
+44F630|Ripa
+44F631|refugee
+44F631|émigré
+44F7|government
+44F71|proclamation
+44F711|celebration
+44F7111|dancing
+44F7111|freedom
+44F7111|tree
+44F72|court of justice
+44F72|justice
+44F73|council
+44F741|fear
+44F741|reign of terror
+44F741|terror
+44F7411|agent provocateur
+44F7411|provocative agent
+44F7412|reporting
+44G|justice
+44G|law
+44G|occupations
+44G0|allegory
+44G0|symbol
+44G01|Legge
+44G01|Legge civile
+44G01|Ripa
+44G02|Rechtsdenkmäler
+44G03|lawsuit
+44G1|trial
+44G11|court of justice
+44G111|accusing
+44G112|verdict
+44G1121|execution
+44G1121|ordering
+44G113|acquittal
+44G12|edifice
+44G121|court of justice
+44G1211|court-room
+44G1211|room
+44G122|sign
+44G1221|Rolandsäule
+44G1221|statue
+44G123|sanctuary
+44G123|sign
+44G1231|cross
+44G1231|market cross
+44G13|judge
+44G130|Giudice
+44G130|Ripa
+44G131(...)|official
+44G14|jury
+44G1411|Vehmgericht
+44G1411|vehmic court
+44G1412|tribunal
+44G15|witness
+44G151|finger
+44G151|oath
+44G151|two
+44G1511|beard
+44G1511|braid
+44G1511|hand
+44G1511|woman
+44G152|document
+44G153|visiting
+44G159|false witness
+44G159|perjury
+44G16|attorney
+44G16|lawyer
+44G161|barrister
+44G162|counsellor
+44G163|pleading
+44G17|ordeal
+44G171|fire
+44G171|heat
+44G172|water
+44G1731|Bocca della Verità
+44G1731|adultery
+44G1731|hand
+44G1731|mouth
+44G1731|truth
+44G174|duel
+44G2|public safety
+44G2|safety
+44G21|night-patrol
+44G21|patrol
+44G211|guard
+44G211|tower sentry
+44G22|police
+44G221|sheriff
+44G222|bailiff
+44G223|constable
+44G23|criminal investigation
+44G23|investigation
+44G231|detective
+44G231|private detective
+44G232|coroner
+44G232|post-mortem
+44G233|finger-prints
+44G24|criminal
+44G24|pursuing
+44G241|group
+44G241|posse
+44G242|dog
+44G242|police dog
+44G25|arresting
+44G251|handcuffs
+44G252|transporting
+44G253|interrogation
+44G29|outlaw
+44G291|sanctuary
+44G3|criminal law
+44G3|penal law
+44G3|punishment
+44G311|prison
+44G3110|allegory
+44G3110|symbol
+44G3111|gaoler
+44G3111|personnel
+44G312|chains
+44G312|fetters
+44G312|prisoner
+44G3121|binding
+44G3121|hand
+44G313|cell
+44G313|prisoner
+44G314|camp
+44G314|chain gang
+44G314|hard labour
+44G314|workhouse
+44G315|visiting
+44G3151|liberating
+44G3151|prisoner
+44G3151|ransom
+44G3152|liberating
+44G3152|miracle
+44G3152|prisoner
+44G316|attempt (effort)
+44G316|escaping
+44G317|rehabilitation
+44G318|courtyard
+44G318|prisoner
+44G319|releasing
+44G3191|bail
+44G3191|paying
+44G32|executioner
+44G32|hangman
+44G321|execution
+44G321|instrument
+44G321|torturing
+44G321(BIRCH ROD)|birch
+44G321(BIRCH ROD)|rod
+44G321(CROSS)|cross
+44G321(GALLOWS)|gallows
+44G321(GALLOWS)|gibbet
+44G321(GALLOWS)|hanging
+44G321(GRIDIRON)|gridiron
+44G321(RACK)|rack
+44G321(SCOURGE)|scourge
+44G321(SCOURGE)|whip
+44G321(STAKE)|stake
+44G33|torturing
+44G34|death
+44G34|execution
+44G341|last hours
+44G34111|leave-taking
+44G34111|relatives
+44G34111|speaking
+44G3412|comforting
+44G3412|praying
+44G3412|spirit
+44G3413|repenting
+44G3414|despair
+44G3415|scaffold
+44G342|scaffold
+44G349|effigy
+44G349|human figure
+44G35|corpse
+44G35|execution
+44G35|public
+44G35|showing
+44G3511|head
+44G36|corpse
+44G36|execution
+44G36|showing
+44G3611|head
+44G37|public punishment
+44G371|contempt
+44G371|mocking
+44G371|public ridicule
+44G3711|stocks
+44G3712|ducking
+44G372|branding
+44G373|beating
+44G3731|scourging
+44G38|banishing
+44G38|exile
+44G381|deportation
+44G382|asking
+44G382|sheltering
+44G39|modification
+44G39|preventing
+44G399|pardoning
+44G4|civil law
+44G41|lawsuit
+44G42|fine
+44G43|capturing
+44G43|confiscating
+44G43|merchandise
+44G43|property
+44G44|forcing
+44G44|selling
+44G45|notary
+44G48|arbitration
+44G49|barratry
+44G49|exhorting
+44G49|lawsuit
+44G5|criminal
+44G51|crime
+44G510|Ripa
+44G510|Sceleratezza o vitio
+44G511|murderer
+44G5111|murdering
+44G512|poisoner
+44G52|robbing
+44G52|stealing
+44G521|cave
+44G521|robber's cave
+44G5220|Rapina
+44G5220|Ripa
+44G53|thief
+44G531|stealing
+44G54|thief
+44G540|Furto
+44G540|Ripa
+44G541|pickpocket
+44G542|shoplifter
+44G543|fence (receiver)
+44G543|receiver
+44G544|stealing
+44G55|counterfeiter
+44G551|falsification
+44G56|pirate
+44G561|ship
+44G562|piracy
+44G59|tool
+44G591|dark lantern
+44G591|lantern
+44G6|Gerechtigkeitsbilder
+44G6|exemplary judge
+44G6|judge
+44G61|cutting off
+44G61|hand
+44G69|bad judge
+44G69|corruption
+44G690|Corruttella ne' giudici
+44G690|Ripa
+44G8|informal
+44G8|self-help
+44G81|lynching
+44G82|blood-revenge
+44G82|revenge
+44G82|vendetta
+44G83|liberating
+44G83|prisoner
+44G89|rescuing
+44G9|abuse
+44G9|corruption
+44G9|murdering
+44G91|genocide
+44GG51|crime
+44GG510|Ripa
+44GG510|Sceleratezza o vitio
+44GG511|murderer
+44GG5111|murdering
+44GG512|poisoner
+44GG52|robbing
+44GG52|stealing
+44GG53|thief
+44GG54|thief
+44GG55|counterfeiter
+44GG56|pirate
+44GG561|ship
+44GG562|piracy
+44GG59|tool
+45|military affairs
+45|occupations
+45A|war and peace
+45A1|war
+45A10|Guerra
+45A10|Ripa
+45A10|allegory
+45A10|symbol
+45A11|militarism
+45A12|declaration of war
+45A13|exhorting
+45A13|propaganda
+45A131|enemy
+45A132|preparation (battle, war)
+45A14|effect
+45A141|horror
+45A1411|massacre
+45A142|crime
+45A143|science
+45A144|technology
+45A145|economy
+45A1459|profiteer
+45A1459|war-profiteer
+45A2|peace
+45A20|Pace
+45A20|Pax
+45A20|Ripa
+45A20|allegory
+45A20|symbol
+45A21|anti-militarism
+45A21|pacifism
+45A22|disarming
+45A23|effect
+45A231|blessing
+45A232|Abundantia
+45A232|Pax et Abundantia
+45A232|abundance
+45A232|prosperity
+45A233|Justice
+45A233|Peace
+45A233|Psalm 85
+45A233|kissing
+45A3|victory
+45A30|Ripa
+45A30|Victoria
+45A30|Vittoria
+45A30|Vittoria degl'antichi
+45A30|Vittoria navale
+45A31|glory
+45A31|triumph
+45A4|defeat
+45A41|disgrace
+45A42|capitulation
+45A5|cold war
+45A5|war
+45A51|psychology
+45A6|fifth column
+45A61|sabotage
+45A9|neutral
+45A9|non-belligerent
+45B|soldier
+45B1|enlisting
+45B11|recruitment
+45B111|crimp
+45B112|contract
+45B113|voluntariness
+45B114|conscription
+45B1141|crimp
+45B1141|forcing
+45B1141|press gang
+45B1141|shanghai
+45B115|lot
+45B1151|releasing
+45B116|examination
+45B116|medicine
+45B1161|rejecting
+45B117|substitution
+45B12|departing
+45B13|arrival
+45B13|company station
+45B14|conscience
+45B14|conscientious objector
+45B14|objecting
+45B2|training
+45B21|instructing
+45B211|drill (military)
+45B212|handling
+45B212|weapon
+45B2121|rifle range
+45B2121|shooting
+45B213|exercise
+45B22|theory
+45B23|manoeuvre
+45B24|contest
+45B25|entry
+45B251|oath
+45B2511|breach of promise
+45B28|academy
+45B281|ship
+45B3|military service
+45B3|service
+45B31|guard
+45B311|changing
+45B312|guard-room
+45B312|kortegaard
+45B312|room
+45B313|challenging
+45B314|attacking
+45B315|sentry box
+45B32|troop
+45B321|inspecting
+45B33|day
+45B33|dividing
+45B331|reveille
+45B331|trumpet
+45B332|roll call
+45B333|tattoo
+45B334|flag
+45B334|showing
+45B3341|hoisting
+45B3341|raising
+45B3342|hoisting
+45B3342|lowering
+45B41|saluting
+45B411|salute
+45B412|presenting arms
+45B412|rifle
+45B412|showing
+45B412|weapon
+45B413|flag
+45B414|flag
+45B415|cannon
+45B415|salvo
+45B42|discipline
+45B421|police
+45B421|provost
+45B422|court of justice
+45B422|court-martial
+45B4221|drum-head court-martial
+45B423|punishment
+45B4231|arresting
+45B4232|exercise
+45B4232|hard labour
+45B4233|chastising
+45B42331|gauntlet (punishment)
+45B42331|running
+45B4234|prison
+45B424|degradation
+45B424|rank
+45B425|execution
+45B43|honour
+45B431|promotion
+45B432|citation
+45B432|praising
+45B433|decoration
+45B433|mark
+45B433|medal
+45B49|mutiny
+45B49|rebellion
+45B5|celebration
+45B51|pageant
+45B51|parade
+45B52|demonstration
+45B53|decoration
+45B53|flag
+45B54|assembly
+45B54|meeting
+45B54|officer
+45B55|guard
+45B55|honour
+45B6|off duty
+45B61|recreation
+45B611|canteen
+45B612|mess
+45B62|leave
+45B621|company
+45B621|merry company
+45B621|whore
+45B7|completion
+45B71|demobilization
+45B72|disbanding
+45B73|home
+45B73|returning
+45B81|veteran
+45B82|cripple
+45B82|disabled
+45B83|Hôtel des Invalides
+45B83|cripple
+45B83|disabled
+45B83|old-soldiers-home
+45B84|assembly
+45B84|commemoration
+45B84|reunion
+45B9|desertion
+45B91|enemy
+45C|equipment
+45C|supply
+45C1|weapon
+45C10|Arme
+45C10|Ripa
+45C11|casting weapons
+45C11|throwing
+45C11(BALLISTA)|ballista
+45C11(SLING)|sling
+45C11(SPEAR)|spear
+45C12|striking
+45C12(CLUB)|club (weapon)
+45C13|piercing
+45C13|stabbing
+45C13(DAGGER)|dagger
+45C13(RAPIER)|rapier
+45C13(SWORD)|sword
+45C131(BLADE)|blade
+45C131(GRIP)|grip
+45C131(GRIP)|handle
+45C131(GRIP)|hilt
+45C131(GUARD)|guard
+45C131(POMMEL)|pommel
+45C14|helved weapons
+45C14|piercing
+45C14|pole-arms
+45C14|stabbing
+45C14|striking
+45C14(HALBERD)|halberd
+45C14(JAVELIN)|spear
+45C14(LANCE)|lance
+45C14(PIKE)|pike (weapon)
+45C15|archer
+45C15(ARROW)|arrow
+45C15(BOW AND ARROW)|bow and arrow
+45C15(BOW)|bow (weapon)
+45C15(CROSSBOW)|crossbow
+45C16|firearms
+45C16|shooting
+45C16(CANNON)|cannon
+45C16(RIFLE)|rifle
+45C161|ammunition
+45C1611|arsenal
+45C1611|storage
+45C1612|disaster
+45C1612|explosion
+45C1612|gunpowder
+45C17|explosive
+45C17|projectile
+45C17(GUNPOWDER)|gunpowder
+45C17(MINE)|mine (weapon)
+45C18|biological weapon
+45C18|chemical weapon
+45C18|nuclear weapon
+45C19|protection
+45C19(...)|gas-mask
+45C19(SHIELD)|shield
+45C2|costume
+45C21|uniform
+45C211|cap
+45C212|baton
+45C212|staff
+45C22|armour
+45C221|helmet
+45C222|arm protector
+45C222|protection
+45C2221|gauntlet (glove)
+45C2221|glove
+45C2221|hand protector
+45C223|cuirass
+45C23|quiver
+45C231|scabbard
+45C231|sheath
+45C24|camouflage
+45C3|food
+45C32|reserve
+45C33|meal
+45C33|preparation
+45C34|transporting
+45C35|inspecting
+45C36|serving
+45C37|meal
+45C4|shelter
+45C41|camp
+45C41|tent
+45C42|barracks
+45C421|garrison
+45C43|civilian
+45C43|guest
+45C43|quartering (lodging)
+45C431|requisition
+45C432|warrant
+45C433|good
+45C433|receiving a person
+45C4331|help
+45C434|bad
+45C434|receiving a person
+45C4341|revenge
+45C439|safeguard
+45C5|money
+45C51|paying
+45C511|pay-master
+45C52|asking
+45C6|camp-followers
+45C61|man
+45C61|sutler
+45C62|woman
+45C621|canteen-woman
+45C621|sutler
+45C63|Hurenwebel
+45C63|whore
+45C7|care
+45C7|hygiene
+45C7|medicine
+45C7|war
+45C71|corpse
+45C71|sick (the)
+45C71|transporting
+45C71|wounded person
+45C711|battle-field
+45C711|carrying
+45C712|vehicle
+45C72|nursing
+45C72|sick (the)
+45C72|wounded person
+45C721|battle-field
+45C722|battle
+45C723|field-hospital
+45C723|hospital
+45C724|lazaretto
+45C8|care
+45C81|welfare
+45C82|chaplain
+45C82|religion
+45C9|music
+45C91|band (music)
+45C92|signal
+45D1|flag
+45D1|standard
+45D11|insignia
+45D12|standard-bearer
+45D2|division
+45D2|forces
+45D21|army
+45D22|navy
+45D23|air force
+45D3|rank
+45D31|soldier
+45D311|commander
+45D311|general
+45D311|marshal
+45D312(...)|officer
+45D313|horse-soldier
+45D313|hussar
+45D313|private soldier
+45D32|navy
+45D321|admiral
+45D321|commander
+45D322|officer
+45D323|sailor
+45D33|air force
+45E1|communication
+45E2|train
+45E2|transporting
+45E3|vehicle
+45E31|chariot
+45E32(...)|tank (vehicle)
+45E4|animal
+45E5|engineering
+45E51|bridge
+45E51|improvisation
+45E51|temporary
+45E511|pontoon bridge
+45E512|Bailey bridge
+45E52|barricade
+45E52|obstruction
+45F|preparation (battle, war)
+45F|war
+45F1|council
+45F11|design
+45F12|negotiating
+45F2|intelligence services
+45F21|observation
+45F21|scouting
+45F211|guiding
+45F211|prisoner
+45F212|mechanical equipment
+45F22|spy
+45F220|Ripa
+45F220|Spia
+45F221|overhearing
+45F221|radio
+45F221|telephone
+45F222|arresting
+45F23|counter-espionage
+45F3|assembling
+45F3|forces
+45F3|troop
+45F31|mobilization
+45F32|requisition
+45F33|concentration
+45F34|array
+45F4|transporting
+45F4|troop
+45F41|leave-taking
+45F42|marching
+45F43|night
+45F5|army
+45F5|travelling
+45F6|addressing
+45F6|chieftain
+45F6|general
+45F7|chaplain
+45F7|praying
+45F7|religious service
+45F8|challenging
+45F8|enemy
+45F9|betraying
+45F9|treason
+45F90|Ripa
+45F90|Tradimento
+45G|civilization
+45G|culture
+45G|defending
+45G|military affairs
+45G|occupations
+45G|society
+45G|war
+45G1|communication
+45G1|cutting
+45G11|beacon
+45G11|removing
+45G11|roadsign
+45G12|obstruction
+45G121|army
+45G1211|road
+45G12111|barricade
+45G12111|street
+45G1212|caltrop
+45G1212|man-trap
+45G1212|nail (spike)
+45G12121|pit
+45G12121|trap
+45G12122|land-mine
+45G12122|mine (weapon)
+45G12122|mine-field
+45G12123|barbed wire
+45G122|navy
+45G1221|chain
+45G1222|mine (weapon)
+45G1222|mine-field
+45G123|air force
+45G1231|airfield
+45G1231|destruction
+45G1232|search-light
+45G1233|balloon
+45G2|protection
+45G2|self-protection
+45G21|shelter
+45G21|underground
+45H|fighting
+45H|war
+45H1|attacking
+45H11|signal
+45H111|cry
+45H111|war-cry
+45H12|ambush
+45H13|stratagem
+45H130|Ripa
+45H130|Stratagemma militare
+45H2|defending
+45H21|signal
+45H22|counter-attack
+45H3|battle
+45H31|bombardment
+45H32|attacking
+45H33|boarding
+45H33|single combat
+45H331|superior forces
+45H34|single combat
+45H34|substitution
+45H341|duel
+45H342|group
+45H4|defeat
+45H4|fleeing
+45H4|pursuing
+45H4|victory
+45H5|defeat
+45H5|victory
+45H51|superior forces
+45H52|wounded person
+45H53|killing
+45H54|starvation
+45H54|supply
+45H6|guerilla warfare
+45I1|prisoner of war
+45I11|surrender
+45I12|disarming
+45I13|deportation
+45I14|interrogation
+45I141|brain-washing
+45I141|torturing
+45I15|care
+45I151|camp
+45I16|exchanging
+45I161|ransom
+45I17|liberating
+45I2|hostage
+45I3|communiqué
+45I31|criticizing
+45I4|negotiating
+45I4|truce
+45I41|bridge
+45I41|ruin
+45I5|stopping
+45I5|suspension
+45I51|Trève-Dieu
+45I51|truce
+45I52|burial
+45I53|truce
+45I530|Ripa
+45I530|Tregua
+45I6|victor
+45I61|triumph
+45I611|crowning
+45I611|laurel
+45I612|chaining
+45I612|chariot
+45I612|prisoner
+45I62|riding (on horseback)
+45I62|trampling
+45I63|gripping
+45I63|hair
+45I7|defeat
+45I71|before
+45I71|victor
+45K|position-war
+45K|war
+45K1|engineering
+45K1|fortification
+45K11|temporary
+45K111|trench
+45K112|land
+45K112|no man's land
+45K12|permanence
+45K121|palisades
+45K122|bastion
+45K122|bulwark
+45K13|fortress
+45K14|city
+45K141|city-wall
+45K1411|machicolation
+45K1412|battlement
+45K1412|crenellation
+45K1413|loophole
+45K142|tower
+45K143|moat
+45K1431|bridge
+45K1431|drawbridge
+45K144|city-gate
+45K1441|portcullis
+45K2|attacking
+45K21|siege
+45K22|blockade
+45K23|bombardment
+45K231|battering ram
+45K231|ram
+45K231|weapon
+45K24|attaques brusquées
+45K25|travaux d'approche
+45K27|city-wall
+45K27|fortress
+45K3|defending
+45K31|city
+45K31|fortification
+45K32|attacking
+45K33|city
+45K33|siege
+45K331|fortification
+45K4|capturing (city)
+45K5|raising the siege
+45K5|siege
+45K51|relief
+45K52|liberating
+45L|occupation (invasion)
+45L1|surrender
+45L11|key
+45L12|entry
+45L12|marching
+45L13|defeat
+45L2|levy
+45L2|tribute
+45L21|delivering
+45L22|dividing
+45L22|spoil
+45L23|carrying
+45L23|spoil
+45L29|safe conduct
+45L3|plundering
+45L31|spoil
+45L311|trophy
+45L3111|ornament
+45L3111|panoply
+45L3111|tropaion
+45L3111|weapon
+45L4|city
+45L4|destruction (of city)
+45L40|allegory
+45L40|personification
+45L41|demolition
+45L42|setting on fire
+45L43|ruin
+45M|civilian
+45M|non-combatants
+45M11|battle
+45M12|soldier
+45M13|fighting
+45M13|franc tireur
+45M2|soldier
+45M3|occupation (invasion)
+45M31|house-to-house search
+45M31|searching
+45M39|partisan
+45M39|underground movement
+45M391|sabotage
+45M4|bombardment
+45M5|escaping
+45M5|fugitive
+45M51|travelling
+45M52|camp
+45M52|resting
+45M6|camp
+45M6|internment camp
+45M7|camp
+45M7|concentration camp
+46A|community
+46A1|social stratification
+46A1|stratification
+46A11|class
+46A11|dividing
+46A111|Estates (three)
+46A111|clergy
+46A111|commoners
+46A111|nobility
+46A111|three
+46A12|chivalry
+46A12|class
+46A12|knighthood
+46A12|nobility
+46A12|patriciate
+46A121|coronet
+46A122(...)|coat of arms
+46A122(...)|heraldry
+46A122(...)2|crest
+46A122(...)3|device
+46A122(...)3|motto
+46A122(...)4|impresa
+46A122(...)5|banner
+46A122(...)6|seal
+46A123|herald
+46A124|knight
+46A1241|knighthood order
+46A1241|order
+46A1241(...)1|badge
+46A1241(...)1|chain
+46A1241(...)1|insignia
+46A1241(GOLDEN FLEECE)|Golden Fleece
+46A1241(GOLDEN FLEECE)1|badge
+46A1241(GOLDEN FLEECE)1|chain
+46A1241(GOLDEN FLEECE)1|insignia
+46A1241(HOLY SPIRIT)|Holy Spirit
+46A1241(HOLY SPIRIT)1|badge
+46A1241(HOLY SPIRIT)1|chain
+46A1241(HOLY SPIRIT)1|insignia
+46A1241(ST. JOHN)|John (St.)
+46A1241(ST. JOHN)1|badge
+46A1241(ST. JOHN)1|chain
+46A1241(ST. JOHN)1|insignia
+46A1241(TEUTONIC ORDER)|Teutonic Order
+46A1241(TEUTONIC ORDER)1|badge
+46A1241(TEUTONIC ORDER)1|chain
+46A1241(TEUTONIC ORDER)1|insignia
+46A125|knight
+46A1251|page (servant)
+46A1252|shield-bearer
+46A1252|squire
+46A1253|ceremony
+46A1253|knighting
+46A12531|dubbing
+46A125311|girding
+46A125311|sword
+46A125312|accolade
+46A125312|sword
+46A12532|dubbing
+46A125321|clothing
+46A125322|fasting
+46A125322|wake
+46A125323|blessing
+46A125323|sword
+46A125324|armour
+46A125324|installation
+46A125324|investiture
+46A125324|spur
+46A125324|sword
+46A125325|accolade
+46A125325|sword
+46A126|hero
+46A126|neuf preux (les)
+46A126|nine
+46A126|worthies
+46A1261|Joshua
+46A1262|David
+46A1263|Judas Maccabeus
+46A1263|Maccabees
+46A1264|Hector
+46A1265|Alexander the Great
+46A1266|Caesar (Julius)
+46A1267|Arthur (King)
+46A1268|Charlemagne
+46A1269|Godfrey of Bouillon
+46A127|fame
+46A127|femmes célèbres
+46A127|hero
+46A127|homines illustres
+46A127|neuf preuses (les)
+46A127|nine
+46A127|uomini famosi
+46A127|woman
+46A13|commoners
+46A131|bourgeoisie
+46A131|burgher
+46A131|citizen
+46A131|class
+46A131|middle class
+46A132|dorper
+46A132|villein
+46A139|Schalksnarr
+46A139|buffoon
+46A14|farmer
+46A14|farmer's wife
+46A141|fighting
+46A141|soldier
+46A15|poor (the)
+46A151|beggar
+46A151|rag
+46A1511|begging bowl
+46A1511|bowl
+46A1512|procession
+46A152|fahrende Leute
+46A152|vagrant
+46A152|wandering
+46A153|bambochades
+46A153|feast
+46A154|actor
+46A154|actress
+46A154|contempt
+46A154|grave-digger
+46A154|occupations
+46A154|unehrliche Leute
+46A154|whore
+46A155|outcast
+46A155|pariah
+46A16|class
+46A16|wealth
+46A161|acquisition
+46A1611|goldrush
+46A1611|treasure
+46A1612|digging
+46A1612|finding
+46A1612|treasure
+46A162|showing
+46A1621|jewels
+46A1622|scattering
+46A1623|contemplation
+46A163|protection
+46A1631|depositing
+46A16311|burying
+46A16311|concealing
+46A16311|digging
+46A16311|hiding
+46A16311|treasure
+46A1632|box (container)
+46A1632|chest (container)
+46A1632|money-box
+46A16321|safe
+46A16321|strongbox
+46A1633|guarding
+46A1633|treasure
+46A16331|guard
+46A16332|animal
+46A16332|watch-dog
+46A16333|alarm
+46A16333|burglar alarm
+46A164|ten
+46A164|upper class
+46A165|jet set
+46A166|nouveau riche
+46A166|parvenu
+46A166|upstart
+46A17|class
+46A17|labourer
+46A17|working class
+46A170|labour
+46A171|master
+46A171|servant
+46A1711|applicant
+46A1711|asking
+46A172|paying
+46A1721|refusing (gift, offer)
+46A1722|refusing (order, request)
+46A173|group
+46A173|procession
+46A174|home
+46A174|returning
+46A175|child labour
+46A175|labour
+46A179|unemployment
+46A1791|unemployed (the)
+46A18|slave
+46A18|slavery
+46A180|Ripa
+46A180|Servitù
+46A181|slave-trade
+46A181|trade
+46A182|master
+46A183|freedom
+46A1831|liberating
+46A1832|buying
+46A1833|attempt (effort)
+46A1833|escaping
+46A1834|abolition
+46A2|contrast
+46A2|social contrast
+46A21|class
+46A21|rich and poor
+46A211|good and bad
+46A212|alms
+46A212|charity
+46A212|food
+46A212|giving
+46A2120|Elemosina
+46A2120|Ripa
+46A213|philanthropist
+46A22|city
+46A22|country
+46A22|rural life
+46A22|urban life
+46A2211|city dweller
+46A2219|depopulation
+46A2219|urban depopulation
+46A2221|country dweller
+46A22219|depopulation
+46A22219|rural depopulation
+46A23|before
+46A23|importance
+46A23|inferiority
+46A23|power
+46A23|powerlessness
+46A23|superiority
+46A23|unimportance
+46A231|patron
+46A231|protégé
+46A24|master
+46A24|servant
+46A241|serving
+46A241|two
+46A3|public welfare
+46A3|welfare
+46A31|orphan
+46A31|orphanage
+46A311|foundling
+46A311|foundling-hospital
+46A311|hospital
+46A32|care
+46A32|old age
+46A321|home
+46A321|old-people's home
+46A3211|alms-house
+46A3211|hofje
+46A33|charity
+46A4|race (human)
+46A4|relation
+46A41|discrimination
+46A41|segregation
+46A42|racialism
+46A421|riot
+46A422|Ku Klux Klan
+46A422|organization
+46A49|integration
+46A49|racialism
+46A5|communication
+46A5|language
+46A51|attempt (effort)
+46A51|understanding
+46A511|misunderstanding
+46A52|interpreter
+46A53|translator
+46A54|deaf-and-dumb
+46A541|lip-reading
+46A541|reading
+46A542|sign-language
+46A55|artificial language
+46A551|Esperanto
+46A6|directory board
+46A6|organization
+46A61|board (committee)
+46A61|governor
+46A61|trustee
+46A611|chairman
+46A612|secretary
+46A613|treasurer
+46A614|membership
+46A62|membership
+46A6211|balloting
+46A6212|initiation
+46A629|expelling
+46A629|stopping
+46A629|suspension
+46A63|assembly
+46A632|addressing
+46A633|discussing
+46A633|disputing
+46A634|asking
+46A634|interruption
+46A635|voting
+46A636|chaos
+46A636|disorder
+46A638|assembly-room
+46A638|room
+46A7|crowd
+46A71|contrast
+46A71|individuality
+46A8|housing
+46A8|life
+46A81|migration
+46A81|wandering
+46A81(GIPSIES)|gipsy
+46A81(GIPSIES)|gypsy
+46A81(NOMADS)|nomad
+46A811|tent
+46A812|house-wagon
+46A813|boat
+46A82|ideal community
+46A82|nature
+46A82|returning
+46A821(...)|group
+46A8211|sharing
+46A822|naturist
+46A823|nudist
+46A83|solitude
+46A831|Robinsonade
+46A831|island
+46A831|uninhabited island
+46A84|frontier life
+46A84|pioneering
+46A841|Wild West
+46A841|west
+46A85|adventurer
+46A9|primitive man
+46A91|matriarchy
+46A92|patriarchy
+46A93|clan
+46A93|tribe
+46AA126|heroine
+46AA1261|Esther
+46AA1261|Joshua
+46AA1262|David
+46AA1262|Judith
+46AA1263|Jael
+46AA1263|Judas Maccabeus
+46AA1263|Maccabees
+46AA1264|Hector
+46AA1264|Lucretia
+46AA1265|Alexander the Great
+46AA1265|Veturia
+46AA1266|Caesar (Julius)
+46AA1266|Virginia
+46AA1267|Arthur (King)
+46AA1267|Helena (St.)
+46AA1268|Bridget (St.)
+46AA1268|Charlemagne
+46AA1269|Elisabeth of Hungary (St.)
+46AA1269|Godfrey of Bouillon
+46AA170|labour
+46AA171|master
+46AA171|servant
+46AA1711|applicant
+46AA1711|asking
+46AA172|paying
+46AA173|group
+46AA173|procession
+46AA174|home
+46AA174|returning
+46AA175|child labour
+46AA175|labour
+46AA179|unemployment
+46AA241|serving
+46AA241|two
+46AA611|chairman
+46AA612|secretary
+46AA613|treasurer
+46AA614|membership
+46AA632|addressing
+46AA633|discussing
+46AA633|disputing
+46AA634|asking
+46AA634|interruption
+46AA635|voting
+46AA636|chaos
+46AA636|disorder
+46AA638|assembly-room
+46AA638|room
+46B|business
+46B|economy
+46B|finance
+46B|occupations
+46B|trade
+46B0|Commertio della vita humana
+46B0|Ripa
+46B0|allegory
+46B1|buying
+46B1|edifice
+46B1|selling
+46B11|market
+46B111|booth
+46B111|stall
+46B112|hall
+46B112|market-hall
+46B12|dancing
+46B12|fair
+46B12|farmer
+46B12|village
+46B13|shop
+46B131|department store
+46B131|supermarket
+46B132|shop-window
+46B132|showing
+46B133|counter
+46B14|weigh-house
+46B15|wholesale house
+46B16|auction
+46B17|Bourse
+46B17|exchange
+46B18|exhibition
+46B18|fair
+46B18|industry
+46B18|trade exhibition
+46B181|world
+46B181|world exhibition
+46B19|fair
+46B19|fancy fair
+46B2|human being
+46B21|merchant
+46B22|merchant
+46B22|wandering
+46B221|street-trader
+46B221(...)|water-carrier
+46B2211|London
+46B2211|Paris (city)
+46B2211|cries of London
+46B2211|cris de Paris
+46B2211|cry
+46B222|pedlar
+46B23|merchant
+46B23|traveller
+46B24|shopkeeper
+46B241|clerk
+46B241|merchant
+46B25|market
+46B26|market
+46B26|returning
+46B27|customer
+46B271|contentment
+46B272|complaining
+46B31|money
+46B310|Pecunia
+46B310|Ripa
+46B311|coin
+46B3111|sign
+46B312|bank-note
+46B312|paper
+46B313|bar
+46B313|shell
+46B314|bill
+46B314|cheque
+46B314|draft
+46B314|exchanging
+46B3140|Cambio
+46B3140|Ripa
+46B3140|Wissel
+46B3140|allegory
+46B32|administration
+46B321|accountant
+46B321|book-keeping
+46B3211|tally
+46B322|office
+46B33|weighing
+46B331|instrument
+46B3311|balance
+46B3311|scales
+46B3312|weight
+46B332|gold
+46B332|money
+46B34|cubic measuring
+46B34|measuring
+46B341|container
+46B341|cubic measure
+46B341|instrument
+46B35|advertising
+46B351|cry
+46B352|handbill
+46B3521|brochure
+46B353|poster
+46B3531|bill-board
+46B3531|board
+46B3532|pillar
+46B3532|poster-pillar
+46B3533|sandwich-man
+46B354|board
+46B354|signboard
+46B355|card
+46B355|mark
+46B355|sign
+46B356|advertisement
+46B356|notice
+46B4|negotiating
+46B411|buying
+46B412|selling
+46B413|barter
+46B414|hiring
+46B414|leasing
+46B42|inspecting
+46B42|merchandise
+46B43|bargaining
+46B44|paying
+46B451|debit
+46B451|debt
+46B4510|Debito
+46B4510|Ripa
+46B4511|IOU
+46B4511|bond
+46B4511|document
+46B452|credit
+46B4520|Credito
+46B4520|Ripa
+46B46|contract of sale
+46B46|document
+46B46|selling
+46B471|profit
+46B4711|interest
+46B472|loss
+46B48|speculation
+46B48|stock-jobbery
+46B481|boom
+46B491|import
+46B492|export
+46B493|expedition
+46B494|company
+46B494|trade-company
+46B4941|merchant shipping
+46B4941|shipping trade
+46B5|organization
+46B51|money
+46B511|changing
+46B511|money-changer
+46B512|lending
+46B512|usurer
+46B5120|Ripa
+46B5120|Usura
+46B5120|usury
+46B513|lombard
+46B513|pawnbroker
+46B52|exchange
+46B52|market
+46B52|stock exchange
+46B521|reporting
+46B53|bank
+46B531|banker
+46B54|giro
+46B55|insurance
+46B551|agent
+46B551|insurance agent
+46B56|business man
+46B561|guild
+46B561|merchant
+46B562|chamber of commerce
+46B57|cartel
+46B57|monopoly
+46B57|trust (cartel)
+46B6|dumping
+46B61|bargain-sale
+46B61|selling
+46B7|spy
+46B8|boycott
+46B9|result
+46B91|fraudulence
+46B910|Acquisto cattivo
+46B910|Ripa
+46B911|bribing
+46B92|bankruptcy
+46B921|process-server
+46B93|depression
+46B93|slump
+46B931|panic
+46B932|inflation
+46BB221|street-trader
+46BB221(...)|water-carrier
+46BB222|pedlar
+46BB241|clerk
+46BB241|merchant
+46BB271|contentment
+46BB272|complaining
+46C|traffic
+46C|transporting
+46C1|land
+46C11|path
+46C11|road
+46C111|ford
+46C1111|crossing a river
+46C1112|ferrying
+46C1113|stepping stone
+46C1113|stone
+46C112|bridge
+46C1121|construction
+46C11211|suspension bridge
+46C11212|cantilever bridge
+46C11213|bascule bridge
+46C11213|drawbridge
+46C1122|shape
+46C11221|covered bridge
+46C11221|edifice
+46C113|viaduct
+46C114|tunnel
+46C114|underground
+46C115|traffic regulation
+46C1151|sign
+46C1151|traffic sign
+46C1152|constable
+46C1152|point-duty
+46C1153|lamp
+46C1153|traffic light
+46C1159|obstruction
+46C1159|traffic-jam
+46C116|cross-roads
+46C1160|allegory
+46C1160|symbol
+46C1161|signpost
+46C1162|milestone
+46C1162|stone
+46C117|cross
+46C117|mont-joie
+46C117|road-cross
+46C1181|staircase
+46C12|strength
+46C121|carrying
+46C1211|bag
+46C1211|basket
+46C1211|rucksack
+46C1212|milkmaid
+46C1212|yoke
+46C1213|carrying-pole
+46C1214|barrow
+46C1215|carrying on the shoulders
+46C1215|head
+46C122|wheelbarrow
+46C123|cart
+46C123|hand-cart
+46C124|rickshaw
+46C125|bicycle
+46C1252|three-wheeler
+46C1252|tricycle
+46C12521|carrier-tricycle
+46C1253|monocycle
+46C1254|tandem
+46C1258|part
+46C1261|stilt
+46C127|carrying
+46C1271|carrying on the back
+46C1272|bier
+46C1273|chair
+46C1273|sedan-chair
+46C128|manpower
+46C128|pulling
+46C128|pushing
+46C128|vehicle
+46C13|animal
+46C13|hoofed animal
+46C13|pack-animal
+46C131|riding (on horseback)
+46C1311|manège
+46C1311|riding-school
+46C1311|school
+46C13111|high-school riding
+46C13111|riding
+46C13112|carrousel
+46C1312|equestrian
+46C1312|portrait
+46C1312|state-portrait
+46C1313|Baltazar Carlos
+46C1313|Bamberg rider
+46C1313|Charlemagne
+46C1313|Charles I
+46C1313|Charles V
+46C1313|Colleoni
+46C1313|Constantine the Great (St.)
+46C1313|Curtius (Marcus)
+46C1313|Ferdinand II
+46C1313|Frederick the Great
+46C1313|Gattamelata
+46C1313|Louis XIV
+46C1313|Louis XV
+46C1313|Magdeburg rider
+46C1313|Marcus Aurelius (Emperor)
+46C1313|Maximilian (Emperor)
+46C1313|Napoleon
+46C1313|Peter the Great
+46C1313|Philips IV
+46C1313|Rudolf II
+46C1313|Stanislas Kostka Potocki
+46C1313|Theodoric
+46C1313|Wellington (Duke of)
+46C1313|emperor
+46C1313|equestrian
+46C1313|king
+46C1313|statue
+46C13141|horse
+46C131411|fighting (animal)
+46C13142|ass
+46C13142|donkey
+46C13143|mule
+46C13144|hinny
+46C1315|breeding
+46C1315|cattle-breeding
+46C1315|farm
+46C1315|stud farm
+46C1316|bridling
+46C1316|saddling
+46C13161|saddlery
+46C131611|head-stall
+46C131612|bit
+46C131613|reins
+46C131614|saddle
+46C1316141|howdah
+46C131615|stirrup
+46C131616|blinkers
+46C131617|blanket
+46C131617|horse-blanket
+46C1317|grooming
+46C13171|groom
+46C13172|comb
+46C13172|curry-comb
+46C1318|horse
+46C1318|motion
+46C13181|walking
+46C13182|trotting
+46C13183|galloping
+46C13184|jumping
+46C13185|rearing
+46C13186|kicking
+46C13187|leading
+46C13187|reins
+46C1319|accident
+46C1319|horse
+46C13191|bolting
+46C13192|falling
+46C13192|riding
+46C13192|throwing
+46C13193|attacking
+46C13193|wild animal
+46C132|riding
+46C14|animal
+46C14|driving
+46C14|pulling
+46C14|vehicle
+46C141|harnessing
+46C141|hitching up
+46C1411|harness
+46C14111|yoke
+46C1413|unharnessing
+46C142|chariot
+46C142|gig
+46C14241|quadriga
+46C143|three-wheeler
+46C144|cab
+46C144|carriage
+46C145|cart
+46C145|farm wagon
+46C145|freight wagon
+46C145|wagon
+46C1451|covered wagon
+46C1451|hooded wagon
+46C146|exhorting
+46C1461|goad
+46C1461|prick
+46C1462|spur
+46C1463|whip
+46C147|diligence (carriage)
+46C147|horse-tram
+46C147|omnibus
+46C147|tram
+46C148|sledge
+46C148|toeslede
+46C149|accident
+46C1491|bolting
+46C1492|chariot
+46C1492|gig
+46C149241|quadriga
+46C1493|three-wheeler
+46C1494|cab
+46C1494|carriage
+46C1495|cart
+46C1495|farm wagon
+46C1495|freight wagon
+46C1495|wagon
+46C1496|exhorting
+46C14961|goad
+46C14961|prick
+46C14962|spur
+46C14963|whip
+46C1497|diligence (carriage)
+46C1497|horse-tram
+46C1497|omnibus
+46C1497|tram
+46C1498|sledge
+46C1498|toeslede
+46C15|railway
+46C15|train
+46C151|rails
+46C151|track
+46C15111|freight train
+46C15112|passenger train
+46C1512|tramway
+46C15121|tram
+46C1513|rack railway
+46C152|locomotive
+46C1521|steam locomotive
+46C1522|diesel locomotive
+46C1523|electric locomotive
+46C153|carriage
+46C153|railway-carriage
+46C153|wagon
+46C1531|passenger carriage
+46C1532|freight car
+46C1532|railway wagon
+46C154|signal system
+46C1541|signal-box
+46C1541|signal-station
+46C1542|crossing
+46C1542|level-crossing
+46C1543|crossing
+46C1543|level-crossing
+46C1544|signal
+46C155|shelter
+46C155|station
+46C1551|platform
+46C1552|waiting room
+46C15591|depot
+46C156|métro
+46C156|underground
+46C1561|station
+46C157|monorail
+46C158|suspension railway
+46C1581|funicular railway
+46C159|accident
+46C159|railway-accident
+46C1591|rack railway
+46C1591|rails
+46C1591|track
+46C1591|tramway
+46C1592|locomotive
+46C1593|carriage
+46C1594|signal system
+46C15941|signal-box
+46C15941|signal-station
+46C15942|crossing
+46C15942|level-crossing
+46C15943|crossing
+46C15943|level-crossing
+46C1595|shelter
+46C1595|station
+46C1596|métro
+46C1596|underground
+46C15961|station
+46C1597|monorail
+46C1598|suspension railway
+46C15981|funicular railway
+46C16|driving
+46C16|motor-vehicle
+46C16|path
+46C16|road
+46C161|automobile
+46C1611|three-wheeler
+46C162|bus
+46C162|carriage
+46C163|automobile
+46C163|truck
+46C164|amphibian vehicle
+46C165|moped
+46C165|motorcycle
+46C165|scooter
+46C1661|tractor
+46C167|part
+46C168|maintenance
+46C1681|gas station
+46C1681|petrol station
+46C1681|service station
+46C16811|gasoline
+46C16811|petrol pump
+46C16811|pump
+46C16812|garage
+46C16812|repairing
+46C16812|spare parts
+46C16812|supply
+46C16813|car wash
+46C16813|washing (cars)
+46C1682|parking
+46C16821|car park
+46C16821|parking place
+46C16822|garage
+46C16822|multistorey car park
+46C16822|parking garage
+46C16823|meter
+46C16823|parking meter
+46C168231|Rita
+46C168231|metermaid
+46C168231|parking attendant
+46C168231|traffic warden
+46C169|accident
+46C1691|automobile
+46C16911|three-wheeler
+46C1692|bus
+46C1693|automobile
+46C1693|truck
+46C1694|amphibian vehicle
+46C1695|moped
+46C1695|motorcycle
+46C1695|scooter
+46C17|sailing-car
+46C18|ice
+46C18|snow
+46C181|sledge
+46C181|sleigh
+46C1811|horse-sleigh
+46C1812|dog-sleigh
+46C1813|reindeer-sleigh
+46C1814|pricker
+46C1814|stick
+46C182|shoe
+46C182|snow-shoe
+46C183|boat
+46C189|accident
+46C19|wheel
+46C191|hub
+46C191|nave
+46C1911|ball-bearing
+46C192|spoke
+46C193|tyre
+46C1931|tube
+46C1939|track
+46C199|track
+46C2|marine painting
+46C2|waters
+46C20|Navigatione
+46C20|Ripa
+46C20|navigation
+46C21|ship
+46C211|shipbuilding
+46C212|careening
+46C212|caulking
+46C212|repairing
+46C2121|dock
+46C2121|dry-dock
+46C2121|floating-dock
+46C213|model
+46C2131|bottle
+46C214|portrait
+46C215|exterior
+46C215(...)|mast
+46C215(ANCHOR)|anchor
+46C215(ANCHOR)|capstan
+46C215(ANCHOR)|windlass
+46C215(BOW)|bow (prow)
+46C215(BOW)|capstan
+46C215(BOW)|windlass
+46C215(FIGURE-HEAD)|capstan
+46C215(FIGURE-HEAD)|figure-head
+46C215(FIGURE-HEAD)|windlass
+46C215(MAST)|capstan
+46C215(MAST)|windlass
+46C215(RUDDER)|capstan
+46C215(RUDDER)|rudder
+46C215(RUDDER)|windlass
+46C215(WINDLASS)|windlass
+46C216|interior
+46C216(...)|bridge (of ship)
+46C216(...)|cabin
+46C216(...)|engine-room
+46C216(...)|fo'c's'le
+46C219|floating
+46C22|harbour
+46C22|ship
+46C222|roadstead
+46C2231|pier
+46C2231|quay
+46C2231|wharf
+46C2232|bollard
+46C2232|buoy
+46C2232|mooring-buoy
+46C2233|gangboard
+46C2233|gangplank
+46C2234|machine
+46C22341|crane (machine)
+46C2235|edifice
+46C2235|warehouse
+46C2236|boat-house
+46C2236|shed
+46C2237|shore
+46C23|boat
+46C23|propulsion
+46C231|barge
+46C231|manpower
+46C231|towing
+46C232|canoe
+46C232|manpower
+46C232|rowing-boat
+46C2321|pushing
+46C2321|rowing
+46C2322|pulling
+46C2322|rowing
+46C23221|galley
+46C2323|oar
+46C2323|sculling
+46C23231|gondola
+46C2324|canoeing
+46C2325|pole
+46C2325|poling
+46C2325|punting
+46C233|animal
+46C233|pulling
+46C233|sea-monster
+46C24|sailing-ship
+46C24|yacht
+46C24(...)|bark (ship)
+46C24(...)|boyer
+46C24(...)|brig
+46C24(...)|cog
+46C24(...)|schooner
+46C241|rigging
+46C2411(...)|pulley
+46C2411(...)|rope
+46C2411(...)|sheet
+46C24111|sail
+46C24112|ladder
+46C24112|rope
+46C24112|rope-ladder
+46C25|motorship
+46C25|steamship
+46C251|paddle-wheel boat
+46C251|wheel
+46C252|submarine
+46C253|bell
+46C253|diving-bell
+46C254|ice-breaker
+46C255|pulling
+46C255|pusher tug
+46C255|pushing
+46C255|tug
+46C256|freight vessel
+46C256|load
+46C2561|barge
+46C2561|motorboat
+46C257|liner
+46C257|passenger liner
+46C26|sailing-ship
+46C26|steamsailer
+46C261|motorsailer
+46C271|crew
+46C271|sailor
+46C2711(...)|captain
+46C2711(...)|chief mate
+46C2711(...)|mate
+46C2711(...)|steersman
+46C2712|discipline
+46C2712|punishment
+46C2713|leave
+46C2713|liberty-man
+46C2713|recreation
+46C2713|shore-leave
+46C2719|mutiny
+46C2719|rebellion
+46C272|passenger
+46C273|celebration
+46C2731|Neptune
+46C2731|equator
+46C279|secrecy
+46C279|stowaway
+46C28|manoeuvre
+46C28|navigation
+46C280|Navigatione
+46C280|Ripa
+46C281|signal
+46C2811|storm-signal
+46C282|compass
+46C282|instrument
+46C282|location
+46C282|measuring
+46C282|nautical instrument
+46C2821|firmament
+46C2821|star
+46C2821|sun
+46C2822|octant
+46C2822|quadrant
+46C2822|sextant
+46C2823|astrolabe
+46C283|beacon
+46C2831|lighthouse
+46C2831|lightship
+46C2832|bell
+46C2832|bell-buoy
+46C2832|buoy
+46C2832|whistling
+46C2832|whistling-buoy
+46C2833|buoy
+46C2833|light
+46C2833|light-buoy
+46C284|fathoming
+46C284|measuring
+46C284|sounding
+46C285|sailor
+46C2851|bridge (of ship)
+46C2852|steersman
+46C2853|pilot-boat
+46C2854|crow's nest
+46C2854|watching
+46C286|bar
+46C286|raising
+46C2861|overtoom
+46C2861|rolling bridge
+46C2862|camel
+46C2862|ship's camel
+46C289|ghost-ship
+46C2891|Flying Dutchman
+46C29|accident
+46C29|death
+46C29|disease
+46C291|shipwreck
+46C292|castaway
+46C292|drowning
+46C2921|boat
+46C2921|lifeboat
+46C2922|float
+46C2922|raft
+46C2923|falling
+46C2923|overboard
+46C29231|throwing (being thrown)
+46C293|coastguard
+46C293|life-saving service
+46C293|service
+46C2931|drowning
+46C2931|rescuing
+46C2932|buoy
+46C2932|life-buoy
+46C2932|lifebelt
+46C294|shipwreck
+46C294|shore
+46C294|wreck
+46C2941|salvaging
+46C295|luring
+46C295|shipwreck
+46C2951|beach-comber
+46C2951|wrecker
+46C296|sea-sickness
+46C297|burial
+46C297|sea
+46C298|damage
+46C3|air (in the)
+46C3|aviation
+46C3|flying
+46C31|animal
+46C31|bird
+46C32|carpet
+46C33|manpower
+46C34|balloon
+46C35|airship
+46C35|zeppelin
+46C36|aeroplane
+46C3611|part
+46C3621|crew
+46C3621|personnel
+46C36211|flight crew
+46C362111|pilot
+46C36212|cabin crew
+46C36212|flight attendant
+46C362121|purser
+46C362121|steward
+46C362121|stewardess
+46C36213|ground crew
+46C3622|passenger
+46C371|helicopter
+46C372|autogiro
+46C373|hover-craft
+46C38|airfield
+46C38|airport
+46C381|edifice
+46C3811|control tower
+46C3811|tower
+46C3812|hangar
+46C39|accident
+46C39|air-crash
+46C39|disaster
+46C4|astronautics
+46C4|planet
+46C4|space
+46C4|travelling
+46C41|rocket
+46C42|capsule
+46C42|shuttle
+46C42|space craft
+46C42|space station
+46C43|astronaut
+46C43|cosmonaut
+46C49|UFO
+46C49|flying saucer
+46C491|ET
+46C491|alien
+46C491|extraterrestrial
+46C491|human being
+46C491|monster
+46C5|travelling
+46C511|preparation
+46C512|departing
+46C5121|leave-taking
+46C5121|waving
+46C513|traveller
+46C5131|asking
+46C5132|map
+46C5133|hitch-hiking
+46C5134|robbing
+46C5135|outdoors
+46C5135|resting
+46C5136|bearer
+46C5136|carrying
+46C5136|porter
+46C5136|sherpa
+46C514|arrival
+46C514|returning
+46C5141|welcoming
+46C519|getting lost
+46C519|losing one's way
+46C519|searching
+46C52|hotel
+46C52|inn
+46C521|desk
+46C521|reception desk
+46C522|hotel room
+46C522|room
+46C53|migration
+46C54|tourism
+46C541|outing
+46C541|pleasure-trip
+46C541|trip
+46C542|cultural tour
+46C542|tour
+46C5421|sightseeing
+46C54211|grand tour
+46C5422|conducted tour
+46C54221|guiding
+46C5423|book
+46C5423|guide-book
+46C543|cruise
+46C543|tour
+46C543|world tour
+46C55|luggage
+46C55|sack
+46C551|chest (container)
+46C551|suit-case
+46C551|trunk (container)
+46C552|knapsack
+46C552|rucksack
+46C56|souvenir
+46C57|accès à un autre monde
+46C57|fiction
+46C57|journey
+46CC215(...)|capstan
+46CC215(...)|windlass
+46D|journalism
+46D1|crier
+46D1|news
+46D1|shouting
+46D1|town crier
+46D2|distributing
+46D2|pamphlet
+46D3|newspaper
+46D3|paper
+46D31|booth
+46D31|kiosk
+46D31|selling
+46D32|newsboy
+46D33|delivery
+46D4|magazine
+46D4|monthly
+46D4|weekly
+46D41|canard
+46D41|sensational press
+46D5|pressmen
+46D51|board (committee)
+46D51|editorial board
+46D52|journalist
+46D52|reporter
+46D53|photographer
+46D54|interviewing
+46E1|messenger
+46E11|box (container)
+46E12|badge
+46E13|dispatch service
+46E13|estafette
+46E13|relay dispatch service
+46E2|post
+46E21|post-office
+46E211|postman
+46E212|carriage
+46E212|mail-coach
+46E2121|stage
+46E213|letter-box
+46E213|pillar-box
+46E221|envelope
+46E221|letter (epistle)
+46E222|card
+46E222|picture-postcard
+46E222|postcard
+46E223|packet
+46E223|parcel
+46E224|telegram
+46E225|stamp
+46E231|packing
+46E231|sending
+46E232|delivery
+46E232|postman
+46E232|receiving
+46E2321|good
+46E2321|messenger
+46E2321|news
+46E2322|bad
+46E2322|messenger
+46E2322|news
+46E3|animal
+46E3|messenger
+46E31|dog
+46E32|dove
+46E4|signal
+46E41|flag
+46E411|mast
+46E42|semaphore
+46E43|fire
+46E43|light
+46E43|smoke
+46E43(...)|lamp
+46E43(ROCKET)|rocket
+46E5|acoustics
+46E5|signal
+46E52|instrument
+46E521|bell
+46E522|megaphone
+46E522|speaking-trumpet
+46E523|rattle
+46E524|siren
+46E525|whistling
+46E6|communication
+46E6|electrical device
+46E6|electricity
+46E6|electronic communication
+46E6|telecommunication
+46E61|morse
+46E61|telegraph
+46E610|allegory
+46E611|telex
+46E612|pole
+46E612|telegraph pole
+46E612|telephone pole
+46E62|telephone
+46E621|booth
+46E621|call-box
+46E621|kiosk
+46E621|public telephone
+46E621|telephone box
+46E622|equipment
+46E6221|fax machine
+46E6222|cell phone
+46E6222|mobile phone
+46E6223|answering machine
+46E63|broadcasting
+46E63|radio
+46E631|radio-telegraph
+46E631|walkie-talkie
+46E632|radio broadcasting studio
+46E632|studio
+46E64|broadcasting
+46E64|television
+46E64|television broadcasting
+46E641|aerial
+46E641|antenna
+46E641|satellite dish
+46E6411|TV tower
+46E6411|antenna tower
+46E6411|radio mast
+46E6411|telecommunications tower
+46E6411|televison tower
+46E6411|tower
+46E642|studio
+46E642|television broadcasting studio
+46E65|gramophone
+46E65|phonograph
+46E65|record-player
+46E651|compact disc
+46E651|disc
+46E651|gramophone record
+46E652|audio equipment
+46E652|equipment
+46E652|video equipment
+46E6521|audio player
+46E6521|media player
+46E6521|video player
+46E653|accessories
+46E653|audio accessories
+46E653|media accessories
+46E653|video accessories
+46E65311|amplifier
+46E65312|loudspeaker
+46E653121|headphones
+46E6532|video player
+46E65321|monitor
+46E65321|screen (monitor)
+46E66|recorder
+46E66|recording
+46E66|tape recorder
+46E66|video recorder
+46E661|cassette
+46E661|reel
+46E661|tape
+46E662|accessories
+46E662|equipment
+46E662|recording equipment
+46E6621|microphone
+46E663|recording studio
+46E663|studio
+46E67|equipment
+46E67|structure
+46E671|network
+46E671|telecommunications network
+46E6711|computer network
+46E67111|Internet
+46E672|communications satellite
+46E672|satellite
+46E673|modem
+46E7|location
+46E71|acoustics
+46E71|echo
+46E72|optics
+46E73|electricity
+46E731|radar
+46E81|Marforio
+46E81|Pasquino
+46E81|speaking statue
+46E81|statue
+47|craft
+47|industry
+47|occupations
+470|Agricultura
+470|Armatura
+470|Artes Mechanicae
+470|Lanificium
+470|Medicina
+470|Navigatio
+470|Theatrica
+470|Venatio
+470|agriculture
+470|armourer
+470|clothing industry
+470|hunting
+470|medicine
+470|navigation
+470|seven
+470|theatre
+47A|edifice
+47A1|exterior
+47A1|factory
+47A11|workshop
+47A121|chimney
+47A121|smoke-stack
+47A121|stack
+47A122|blast-furnace
+47A122|furnace
+47A13|outdoors
+47A2|interior
+47A21|workshop
+47A211|bench
+47A211|table
+47A211|workbench
+47A212|fire
+47A212|forge
+47A212|furnace
+47A212|oven
+47A22|factory
+47A22|machine
+47A221|assembly line
+47A23|laboratory
+47A23|research
+47B1|craftsman
+47B1|handicraft
+47B1|labourer
+47B11|metal
+47B111|blacksmith
+47B111|forge
+47B1111|shoeing-smith
+47B11111|horseshoe
+47B1112|armourer
+47B1113|lock-smith
+47B112|brassworker
+47B112|coppersmith
+47B113|pewterer
+47B113|tinsmith
+47B114|bell-founder
+47B115|coin
+47B115|minter
+47B12|jeweller
+47B12|precious stone
+47B121|lapidary
+47B122|cutting
+47B122|diamond cutter
+47B122|polishing
+47B13|stone
+47B131|cutting
+47B131|sawyer
+47B131|stone-cutter
+47B131|stone-sawyer
+47B132|breaking
+47B132|stone-breaker
+47B14|chalk
+47B14|clay
+47B14|sand
+47B141|brick
+47B141|brickmaker
+47B142|furnace
+47B142|lime
+47B15|glass
+47B151|glass-maker
+47B152|mirror-maker
+47B153|optician
+47B153|spectacles
+47B154|grinding
+47B154|lens grinder
+47B16|plant material
+47B161|timber
+47B161|wood(en)
+47B1611|carpenter
+47B1612|sawyer
+47B1613|turner
+47B1614|carving
+47B1614|wood carver
+47B171|leather
+47B1711|skinner
+47B1712|tanner
+47B1713|fur
+47B1713|furrier
+47B181|food
+47B1811|baker
+47B18111|blowing
+47B18111|horn
+47B1812|confectioner
+47B1812|sweets
+47B1813|cook
+47B1813|pastry cook
+47B1814|butcher
+47B182|drink
+47B1821|brewing
+47B1822|distilling
+47B1822|gin-distiller
+47B183|stimulant
+47B191|maintenance
+47B191|repairing
+47B192|miller
+47B21|metal
+47B211|iron
+47B211|steel
+47B2111|heavy industry
+47B212|engineering
+47B212|transporting
+47B22|stone
+47B23|chalk
+47B23|clay
+47B23|sand
+47B231|brick
+47B231|brick works
+47B232|lime
+47B233|cement works
+47B234|ceramics
+47B235|glass
+47B24|plant material
+47B241|wood(en)
+47B2411|mill
+47B2411|saw-mill
+47B25|animal material
+47B251|leather
+47B26|drink
+47B26|food
+47B26|stimulant
+47B27|chemical industry
+47B28|electronics industry
+47C|processing
+47C12|preparation
+47C121|boiling
+47C121|heat
+47C121|steaming
+47C1211|melting
+47C122|cooling
+47C123|moistening
+47C123|water
+47C124|drying
+47C125|suppling
+47C13|cleaning
+47C131|bleaching
+47C132|sand
+47C14|selecting
+47C14|sorting
+47C141|screening
+47C141|sifting
+47C142|blowing
+47C149|refuse
+47C149|rejecting
+47C1491|collecting
+47C2|displacing
+47C2|removing
+47C21|digging
+47C211|dredging
+47C22|piling up
+47C23|spreading
+47C24|shifting
+47C24|transporting
+47C241|conveyer belt
+47C241|horizontal transport
+47C242|hoisting
+47C242|vertical transport
+47C2431|pushing
+47C2432|pulling
+47C2433|rolling
+47C2434|throwing
+47C3|dividing
+47C31|cutting
+47C311|chopping
+47C312|splitting
+47C32|clipping
+47C32|punching
+47C32|stamping
+47C33|sawing
+47C34|chipping
+47C34|chiselling
+47C35|abrading
+47C35|filing
+47C35|planing
+47C35|scraping
+47C36|mincing
+47C37|grinding
+47C38|crushing
+47C4|connecting
+47C41|gripping
+47C42|binding
+47C42|lashing (binding)
+47C421|knot
+47C429|unravelling
+47C429|untying
+47C4291|knot
+47C43|joining
+47C432|nailing
+47C4321|doweling
+47C4321|riveting
+47C433|screwing
+47C4331|bolt
+47C4331|nut (screwing)
+47C434|buttoning
+47C435|glueing
+47C436|soldering
+47C437|welding
+47C51|flattening
+47C51|smoothing
+47C511|polishing
+47C512|burnishing
+47C52|consolidating
+47C521|pressing
+47C53|rolling
+47C55|grinding
+47C55|sharpening
+47C56|blunting
+47C57|stiffening
+47C59|roughening
+47C6|shaping
+47C61|mixing
+47C611|pouring
+47C6112|emptying
+47C62|moulding
+47C621|mould
+47C622|pulling
+47C63|casting
+47C7|shape
+47C71|bending
+47C72|folding
+47C73|shaping
+47C731|forging
+47C732|embossing
+47C8|boring
+47C8|drilling
+47C8|piercing
+47D1|engine
+47D1|machine
+47D1|production
+47D2|animal
+47D2|labourer
+47D2|machine
+47D2|manpower
+47D21|handmill
+47D21|mill
+47D22|mill
+47D22|treadmill
+47D3|machine
+47D3|wind
+47D31|mill
+47D31|windmill
+47D311|sail
+47D311|wick
+47D4|machine
+47D4|water
+47D41|mill
+47D41|watermill
+47D411|paddle wheel
+47D411|wheel
+47D5|machine
+47D5|steam
+47D50|allegory
+47D50|steampower
+47D6|machine
+47D61|combustion
+47D62|electricity
+47D63|nuclear energy
+47D69|automation
+47D691|automaton
+47D6911|robot
+47D692|spring (metal)
+47D693|perpetuity
+47D7|machine
+47D7(HOPPER)|hopper
+47D7(MILL-STONE)|millstone
+47D8|tool
+47D8(ANVIL)|anvil
+47D8(ASCIA)|ascia
+47D8(AXE)|axe
+47D8(CHAIN)|chain
+47D8(CHISEL)|chisel
+47D8(COIN STAMP)|coin stamp
+47D8(CROWBAR)|crowbar
+47D8(DRILL)|drill
+47D8(FILE)|file
+47D8(GRINDSTONE)|grindstone
+47D8(HAMMER)|hammer
+47D8(KNIFE)|knife
+47D8(NAIL)|nail (spike)
+47D8(PICKAXE)|pickaxe
+47D8(PLANE)|plane
+47D8(PRESS)|press
+47D8(ROPE)|rope
+47D8(SAW)|saw
+47D8(SCISSORS)|scissors
+47D8(SCREW)|screw
+47D8(SIPHON)|siphon
+47D8(TACKLE)|tackle
+47D8(TONGS)|tongs
+47D8(VICE)|vice (tool)
+47D8(WEDGE)|wedge
+47D8(WINDLASS)|windlass
+47D9|damage
+47D9|destruction
+47D9|loss
+47D9|machine
+47E|organization
+47E1|production
+47E11|home production
+47E12|craft production
+47E12|handicraft
+47E12|skill
+47E13|industrial production
+47E13|machine
+47E131|mass production
+47E2|corporative organization
+47E2|guild
+47E21|board (committee)
+47E211|guildhall
+47E211|hall
+47E22|insignia
+47E221|badge
+47E221|medal
+47E23|degree
+47E231|apprentice
+47E232|journeyman
+47E2321|Wanderbursche
+47E2321|Wandergesell
+47E2321|wandering
+47E233|mastery
+47E2331|masterpiece
+47E24|control
+47E24|quality
+47E241|officer
+47E242|hall-mark
+47E242|mark
+47E25|feast
+47E251|pageant
+47E252|celebration
+47E252|holiday
+47E2521|Monday
+47E2521|blue Monday
+47E3|trade union
+47E3|unity
+47E4|personnel
+47E41|boss
+47E41|director
+47F|production
+47F11|experiment
+47F11|research
+47F12|design
+47F13|model
+47F14|testing
+47F2|product
+47F21|sorting
+47F22|packing
+47F3|product
+47F3|storage
+47F31|depot
+47F31|edifice
+47F31|silo
+47F31|warehouse
+47F32|canning
+47F32|conservation
+47F32|preserving
+47F32|tin
+47F4|preparation
+47F9|damage
+47F9|destruction
+47F9|loss
+47F9|product
+47G|building
+47G1|building-site
+47G11|choosing
+47G111|miracle
+47G111|showing
+47G12|ground
+47G12|staking out
+47G12|surveying
+47G2|foundation
+47G2|trench
+47G21|ceremony
+47G21|first stone
+47G21|stone
+47G211|sacrificing
+47G22|clearing
+47G22|ground
+47G23|bulldozer
+47G23|earth
+47G23|spade
+47G24|driving piles
+47G24|ramming
+47G31|carcass (framework)
+47G311|mason
+47G3111|Steinmetzzeichen
+47G3111|mark
+47G3111|mason's mark
+47G312|brick
+47G312|bricklayer
+47G313|concrete worker
+47G314|framework
+47G314|timber
+47G32|celebration
+47G32|roof
+47G32|top
+47G33|decoration
+47G331|roof
+47G332|glazing
+47G332|lead
+47G332|window pane
+47G333|plaster
+47G334|floor
+47G335|interior decoration
+47G3351|stuccoeing
+47G3352|whitewashing
+47G3353|wainscoting
+47G3354|wall-paper
+47G3355|upholstery
+47G336|pipe system
+47G336|wiring
+47G3361|plumber
+47G3362|electrician
+47G3363|gas-fitter
+47G341|ceremony
+47G41|scaffolding
+47G42|centring
+47G43|form-work
+47G43|shuttering
+47G5|building material
+47G51|metal
+47G52|stone
+47G53|clay
+47G53|sand
+47G531|mud
+47G532|brick
+47G532|tile
+47G533|concrete
+47G5331|reinforced concrete
+47G534|glass
+47G54|plant material
+47G541|reed
+47G542|twig
+47G543|timber
+47G543|wood(en)
+47G5431|beam
+47G5431|joist
+47G5431|rafter
+47G5432|board
+47G5432|plank
+47G55|animal material
+47G551|hide
+47G551|leather
+47G56|cloth
+47G57|synthetic material
+47G6|machine
+47G6|tool
+47G6(MORTISE CHISEL)|mortise chisel
+47G6(PLUMB-LINE)|plumb-line
+47G6(RAMMER)|rammer
+47G6(WATER-LEVEL)|spirit-level
+47G6(WATER-LEVEL)|water-level
+47G7|building material
+47G7|transporting
+47G8|technology
+47G9|demolition
+47G91|collapsing
+47G91|ruin
+47H|textile industry
+47H1|material
+47H11|linen
+47H111|flax
+47H12|cotton
+47H13|silk
+47H131|caterpillar
+47H131|silkworm
+47H132|cocoon
+47H132|pupa
+47H14|wool
+47H15|synthetic material
+47H2|preparation
+47H2|processing
+47H2|yarn
+47H21|hackling
+47H211|hackle
+47H22|washing
+47H23|carding
+47H23|comb
+47H3|manufacture
+47H3|processing
+47H3|yarn
+47H31|spinning
+47H311|distaff
+47H312|spindle
+47H313|spinning-wheel
+47H32|twining
+47H32|twisting
+47H33|bleaching
+47H34|dyeing
+47H35|winding
+47H351|reel
+47H351|spool
+47H352|ball
+47H4|manufacture
+47H4|processing
+47H4|yarn
+47H41|rope
+47H41|rope-making
+47H411|rope-walk
+47H411|ropery
+47H42|crocheting
+47H43|lace
+47H44|knitting
+47H45|braiding
+47H46|weaving
+47H462|pattern
+47H463|weaving-loom
+47H5|cloth
+47H5|processing
+47H51|dyeing
+47H512|batik-work
+47H512|pattern
+47H52|printing
+47H521|painting
+47H531|linen
+47H532|cotton
+47H533|silk
+47H534|wool
+47H5341|fulling
+47H535|synthetic material
+47H54|embroidery
+47H55|patchwork
+47H56|trimming
+47H6|cloth
+47H6(...)|brocade
+47H6(VELVET)|velvet
+47H7|clothes
+47H7|clothing industry
+47H7|manufacture
+47H71|tailor
+47H711|dummy
+47H711|human figure
+47H712|tracing wheel
+47H712|wheel
+47H713|thimble
+47H72|hatter
+47H73|shoemaker
+47H731|last
+47H74|clog-maker
+47H75|perruquier
+47H75|wigmaker
+47H76|feather
+47I|farm
+47I1|agriculture
+47I10|Agricoltura
+47I10|Agricultura
+47I10|Ripa
+47I10|Studio dell'agricoltura
+47I10|personification
+47I11|plant
+47I111|buckwheat
+47I111|cereal
+47I111|corn
+47I111|maize
+47I111|millet
+47I111|oats
+47I111|rice
+47I111|rye
+47I111|wheat
+47I1111|ear of corn
+47I112|carrot
+47I112|potato
+47I112|root
+47I112|tuber
+47I112|turnip
+47I119|weed
+47I12|cultivation
+47I12|farmer
+47I12|soil
+47I121|fertility
+47I121|manuring
+47I122|spade
+47I1221|chopping
+47I1221|hoeing
+47I123|ploughing
+47I124|harrow
+47I125|rolling
+47I126|weeding
+47I127|hoeing
+47I128|raking
+47I13|cultivation
+47I13|farmer
+47I13|growing
+47I131|sowing
+47I132|planting
+47I132|transplantation
+47I133|plant
+47I133|procreation
+47I134|cutting
+47I134|grafting
+47I134|slipping
+47I1341|pollination
+47I1342|binding
+47I135|pruning
+47I136|covering
+47I1361|shadow
+47I137|spraying
+47I138|watering
+47I1381|irrigation
+47I139|draining
+47I14|farmer
+47I14|harvest
+47I141|gathering
+47I141|mowing
+47I141|picking
+47I142|binding
+47I1421|sheaf
+47I1422|wisp
+47I143|stocking (harvest)
+47I1431|hay-cock
+47I144|gleaning
+47I145|transporting
+47I1451|hay-wagon
+47I1451|wagon
+47I146|piling up
+47I1461|hay-stack
+47I147|storage
+47I1471|sack
+47I1472|pit
+47I1473|silo
+47I148|threshing
+47I1481|winnow
+47I149|courting
+47I149|dancing
+47I149|eating
+47I149|outdoors
+47I149|resting
+47I15|agricultural implements
+47I15|tool
+47I15(COULTER)|coulter
+47I15(FLAIL)|flail
+47I15(HARROW)|harrow
+47I15(HOE)|hoe
+47I15(PITCHFORK)|two-pronged fork
+47I15(PLOUGH)|plough
+47I15(PRUNING-KNIFE)|pruning-knife
+47I15(RAKE)|rake
+47I15(SCYTHE)|scythe
+47I15(SICKLE)|sickle
+47I15(SPADE)|spade
+47I15(WINNOW)|winnow
+47I16|damage
+47I16|loss
+47I16|protection
+47I17|harvest
+47I17|product
+47I17(HAY)|hay
+47I17(STRAW)|straw
+47I2|breeding
+47I2|cattle-breeding
+47I2|farmer
+47I21|animal
+47I21|cattle
+47I21|domestic animal
+47I21|hoofed animal
+47I211|bovine cattle
+47I2111|bull
+47I21111|ox
+47I2112|cow
+47I2113|calf
+47I2114|heifer
+47I212|pig
+47I2121|boar
+47I21211|hog
+47I2122|sow
+47I2123|piglet
+47I2123|suckling pig
+47I2124|acorn
+47I2124|forest
+47I2124|swine-herd
+47I213|sheep
+47I2131|ram
+47I2132|ewe
+47I2133|lamb
+47I214|goat
+47I2141|he-goat
+47I2143|kid
+47I22|cattle
+47I221|cowgirl
+47I221|cowherd
+47I221|herdsman
+47I221|herdswoman
+47I221|shepherd
+47I221|shepherdess
+47I2211|herd
+47I2211|sheep
+47I22111|byre
+47I22111|fold
+47I22111|returning
+47I22111|stable
+47I2212|carrying on the shoulders
+47I2212|lamb
+47I2212|sheep
+47I2213|staff
+47I222|feeding
+47I222|watering
+47I2221|fattening
+47I2222|nose-bag
+47I2223|manger
+47I2223|trough
+47I2224|fodder
+47I223|milking
+47I2231|milk
+47I2231|transporting
+47I2231|yoke
+47I22311|milkmaid
+47I2232|churning
+47I224|shearing
+47I224|sheep
+47I2241|dipping
+47I2241|washing
+47I226|branding
+47I226|marking
+47I2261|branding-iron
+47I2262|ear tag
+47I2262|mark
+47I2262|nose-ring
+47I2262|ring
+47I2262|tag
+47I227|cleaning
+47I227|stable
+47I2271|sheepfold
+47I228|driving
+47I228|herdsman
+47I2281|cowboy
+47I2282|round-up
+47I2283|riding (on horseback)
+47I2283|rodeo
+47I229|track
+47I23|poultry
+47I24|bee-keeping
+47I241|bee-keeper
+47I242|bee-hive
+47I2421|honeycomb
+47I2422|wax
+47I243|swarm
+47I2431|bee-tree
+47I2431|tree
+47I244|bee
+47I2441|queen
+47I2442|worker (bee)
+47I2443|drone
+47I3|gardener
+47I3|growing
+47I3|horticulture
+47I3|market garden
+47I3|plant
+47I3|vegetable
+47I31|garden
+47I31|nursery
+47I311|bed (plot)
+47I311|forcing bed
+47I312|bell
+47I312|cover
+47I312|glass
+47I4|fruit
+47I4|growing
+47I41|fruit-tree
+47I41|tree
+47I411|orchard
+47I412|espalier
+47I413|harvest
+47I4131|picking
+47I4132|shaking
+47I4132|throwing
+47I42|wine
+47I42|wine-growing
+47I421|vineyard
+47I4211|cottage
+47I422|plant
+47I422|vine
+47I4221|leaf
+47I4221|tendril
+47I4222|grape
+47I4223|grape
+47I423|grape
+47I423|harvest
+47I423|vintage
+47I4231|basket
+47I4231|transporting
+47I424|production
+47I4241|grape
+47I4241|wine-press
+47I4242|grape
+47I4242|pressing
+47I42421|wine-press
+47I425|cave
+47I425|wine-vault
+47I4251|wine-testing
+47I426|bottling
+47I426|wine-bottle
+47I5|flower
+47I5|growing
+47I51|nursery
+47I52|garden
+47I52|herb
+47I52|herb garden
+47I521|medicament
+47I53|greenhouse
+47I53|orangery
+47I531|glass-house
+47I531|hot-house
+47I54|bulb
+47I541|bulb field
+47I541|field
+47I6|tropical culture
+47I7|arboriculture
+47I71|nursery
+47I71|tree
+47I8|forestry
+47I8|tree
+47I81|forester
+47I82|labourer
+47I83|burning
+47I83|charcoal burner
+47I83|charcoal burning
+47I83|wood collier
+47I831|charcoal furnace
+47I831|furnace
+47I84|woodcutter
+47I84|woodcutting
+47I84|lumberjack
+47I85|gathering
+47I85|wood(en)
+47I86|maintenance
+47I861|clearing
+47I862|path
+47I862|road
+47I863|planting
+47I87|piling up
+47I87|timber yard
+47I871|timber
+47I871|trailer
+47I871|transporting
+47I8711|floating
+47I8711|river
+47I872|beam
+47I88|cutting
+47I88|peat
+47I9|clearing
+47I9|land
+47I9|reclamation
+47K|fishing
+47K1|coastal fishery
+47K1|sea fishery
+47K11|whale fishery
+47K12|shell fishery
+47K13|crustacean fishery
+47K14|herring
+47K2|fresh-water fishery
+47K21|fish-pond
+47K21|pond
+47K3|mussel
+47K3|oyster
+47K31|coral
+47K31|diving
+47K31|pearl fishing
+47K4|knitting
+47K4|net
+47K41|repairing
+47L|shipbuilding
+47L1|ship
+47L11|slipway
+47L12|scaffolding
+47L2|labourer
+47L21|dock-labourer
+47L22|carpenter
+47L22|ship's carpenter
+47L3|launching
+47L31|christening
+47L31|name
+47L32|maidentrip
+48|art
+480|Arte
+480|Ripa
+480|allegory
+480|emblem
+480|symbol
+48A|public
+48A1|Maecenas
+48A1|connoisseur
+48A1|patron
+48A11|artist
+48A11|commission
+48A111|client
+48A111|visiting
+48A12|Dedikationsbild
+48A12|artist
+48A12|offering
+48A13|art lover
+48A13|artist
+48A13|receiving a person
+48A13|salon
+48A2|criticizing
+48A2|discussing
+48A211|critic
+48A220|Envy (Invidia)
+48A220|Ignorantia
+48A220|Invidia et Ignorantia
+48A220|ignorance
+48A221|critic
+48A23|art theory
+48A23|theory
+48A231|Paragone
+48A24|initiation
+48A25|change
+48A25|reputation
+48A251|fame
+48A252|ill-fame
+48A26|caricature
+48A3|contest
+48A31|jury
+48A311|prize
+48A4|artist
+48A4|honouring
+48A41|crowning
+48A41|laurel
+48A42|commemoration
+48A5|conservation
+48A5|work of art
+48A51|restoration
+48A59|plundering
+48A59|war
+48A591|recuperation
+48A6|damage
+48A6|destruction
+48A6|work of art
+48A7|explaining
+48A7|reading aloud
+48A7|showing
+48A7|work of art
+48A71|performance
+48A711|rehearsal
+48A712|audience
+48A7121|applause
+48A7121|claque
+48A713|interval
+48A72|edifice
+48A72|outdoors
+48A72|performance
+48A721|theatre
+48A722|concert hall
+48A723|opera house
+48A723|theatre
+48A724|music-hall
+48A725|cinema
+48A725|movie-house
+48A726|cabaret
+48A729|front of house
+48A729|interior
+48A7291|foyer
+48A7292|auditorium
+48A7293|stalls
+48A7294|gallery
+48A7295|box (area in theatre)
+48A7295|loge
+48A8|work of art
+48A81|collecting
+48A811|art collector
+48A8111|art collection
+48A8111|collection
+48A8111|gallery
+48A8112|Kunst- und Wunderkammer
+48A8112|cabinet
+48A8112|curiosities
+48A81121|Kunstschrank
+48A82|exhibition
+48A821|museum
+48A8211|attendant
+48A8211|keeper
+48A8211|personnel
+48A822|salon
+48A822|temporary
+48A83|occupations
+48A83|shop
+48A83|trade
+48A831|art dealer
+48A8311|antique dealer
+48A832|art sale
+48A832|auction
+48A832|selling
+48A91|style
+48A92|folk art
+48A93|naïve art
+48A94|amateur art
+48A95|children's art
+48A96|psychiatric art
+48A96|psychotic art
+48A97|Trivialkunst
+48A97|kitsch
+48A98|ornament
+48A981|abstract art
+48A981|geometry
+48A9811|line
+48A9811|right angle
+48A9811|straight line
+48A98111|meander
+48A9812|line
+48A9812|straight line
+48A9813|curved line
+48A9813|round form
+48A98131|circle
+48A98131|guilloche
+48A98132|ellipse
+48A98133|Greek wave
+48A98133|spiral
+48A98133|wave
+48A9814|curved line
+48A9814|line
+48A9814|straight line
+48A98141|tracery
+48A9815|star
+48A98151|pentagram
+48A9816|radiating
+48A9816|wheel
+48A9817|rotating
+48A98171|yin-yang
+48A98172|triskele
+48A982|human figure
+48A9821|limb
+48A98211|mascaron
+48A98211|mask
+48A98212|foliage
+48A98212|head
+48A9822|monster
+48A9823|monster
+48A983|plant
+48A98311|foliage
+48A983111|acanthus
+48A983112|palmette
+48A98312|tendril
+48A98313|Astwerk
+48A98313|branch
+48A9832|fruit
+48A9832|vegetable
+48A98321|pomegranate
+48A9833|flower
+48A98331|fleur-de-lis
+48A98332|lotus
+48A98333|bunch of flowers
+48A98341|rosette
+48A984|animal
+48A9841|bucranium
+48A9841|head (animal)
+48A9841|ox
+48A9842|head (animal)
+48A9842|ram
+48A9843|head (animal)
+48A9843|lion
+48A9844|dolphin
+48A9846|monster
+48A9851|banderole
+48A9851|ribbon
+48A9851|scroll
+48A9852|linenfold
+48A9853|shell
+48A9854|vase
+48A9855|lambrequin
+48A9856|architecture
+48A9857(...)|egg-and-dart
+48A986|fantasy
+48A9861|scrollwork
+48A9861|strapwork
+48A9862|auricular ornament
+48A9862|lobe style
+48A9863|rocaille
+48A9871|arabesque
+48A98711|candelabrum
+48A9872|grotesque
+48A9873|moresque
+48A9874|spoil
+48A9874|trophy
+48A9875|garland
+48A9876|cartouche
+48A9877|medallion
+48A9878|interlace
+48A98781|abstract art
+48A98781|knot
+48A98782|animal
+48A98783|flower
+48A9879|Laub- und Bandelwerk
+48AA721|theatre
+48AA722|concert hall
+48AA723|opera house
+48AA723|theatre
+48AA724|music-hall
+48AA725|cinema
+48AA725|movie-house
+48AA726|cabaret
+48AA729|front of house
+48AA729|interior
+48AA9821|limb
+48AA9822|monster
+48AA9823|monster
+48AA983111|acanthus
+48AA983112|palmette
+48AA9841|bucranium
+48AA9841|head (animal)
+48AA9841|ox
+48AA9842|head (animal)
+48AA9842|ram
+48AA9843|head (animal)
+48AA9843|lion
+48AA9844|dolphin
+48AA9846|monster
+48AA9851|banderole
+48AA9851|ribbon
+48AA9851|scroll
+48AA9852|linenfold
+48AA9853|shell
+48AA9854|vase
+48AA9855|lambrequin
+48AA9856|architecture
+48B|artist
+48B1|labour
+48B1|studio
+48B10|inspiration
+48B101|Muses
+48B111|requisite
+48B111|studio requisites
+48B121|design
+48B121|sketch
+48B122|classical remains
+48B122|studying
+48B123|model
+48B124|model (sitter)
+48B1242|nude
+48B13|model (sitter)
+48B14|teaching
+48B141|academy
+48B141|school
+48B1410|Academia
+48B1410|Ripa
+48B1410|personification
+48B142|prodigy
+48B142|talent
+48B142|youth (adolescent)
+48B143|pupil
+48B15|assistant
+48B15|pupil
+48B19|destruction
+48B19|work of art
+48B21|fame
+48B22|family
+48B23|club
+48B24|Bohemian life
+48B24|feast
+48B25|genius
+48B25|ingloriousness
+48B25|lack
+48B26|deathbed
+48B3|portrait
+48B3|self-portrait
+48B4|organization
+48B4|trade union
+48B41|Luke (St.)
+48B41|guild
+48B411|coat of arms
+48B42|academy
+48B42|association
+48B43|chamber of rhetoric
+48B43|rederijkerskamer
+48B43|rhetorician
+48BB101|Muses
+48BB111|requisite
+48BB111|studio requisites
+48BB1242|nude
+48BB141|academy
+48BB141|school
+48BB1410|Academia
+48BB1410|Ripa
+48BB1410|personification
+48BB142|prodigy
+48BB142|talent
+48BB142|youth (adolescent)
+48BB143|pupil
+48C|artist
+48C|occupations
+48C1|architecture
+48C10|Architettura
+48C10|Ripa
+48C10|allegory
+48C10|emblem
+48C10|symbol
+48C101|hut
+48C101|origin
+48C11|architect
+48C11|labour
+48C111|design
+48C111|sketch
+48C112|classical remains
+48C112|studying
+48C113|design
+48C113|model
+48C113|offering
+48C113|patron
+48C114|building
+48C114|supervising
+48C12|architect
+48C13|architect
+48C13|portrait
+48C13|self-portrait
+48C14|work of art
+48C141|edifice
+48C1411|exterior
+48C14111|bird's eye view
+48C1412|interior
+48C1413|caricature
+48C142|design
+48C142|model
+48C1421|series
+48C1422|maquette
+48C1424|section
+48C1425|exterior
+48C14251|bird's eye view
+48C1426|interior
+48C143|ideal architecture
+48C143|vision
+48C1431|fantasy
+48C1432|maquette
+48C1432|model
+48C1433|design
+48C1434|section
+48C1435|exterior
+48C14351|bird's eye view
+48C1436|interior
+48C144|folly
+48C145|painting
+48C145|sculpture
+48C1451|Architekturbild
+48C149|ruin
+48C15|tool
+48C161|pillar
+48C1611|half-column
+48C1611|pilaster
+48C1612|capital (architecture)
+48C1613|base
+48C1614|helix
+48C1614|Solomonic column
+48C1614|spiral
+48C1615|colonnade
+48C162|arch
+48C162|archivolt
+48C1621|arcade
+48C1622|vault
+48C1622(...)|fan vault
+48C1622(...)|lierne-vault
+48C16221|keystone
+48C1623|dome
+48C1624|concha
+48C163|book
+48C163|order
+48C1631|Doric order
+48C1632|Tuscan order
+48C1633|Ionic order
+48C1634|Corinthian order
+48C1635|composite order
+48C164|human figure
+48C1641|atlantes
+48C1642|caryatids
+48C165|moulding
+48C1661|rustication
+48C167|floor
+48C167|pavement
+48C168(...)|abacus
+48C168(...)|cornice
+48C168(ARCHITRAVE)|architrave
+48C2|sculpture
+48C20|Ripa
+48C20|Scoltura
+48C20|Sculptura
+48C20|allegory
+48C20|emblem
+48C20|symbol
+48C21|labour
+48C21|sculptor
+48C21|studio
+48C211|bozzetto
+48C211|model
+48C212|casting
+48C212|hollow casting
+48C213|classical remains
+48C213|studying
+48C22|sculptor
+48C23|portrait
+48C23|sculptor
+48C23|self-portrait
+48C24|reproduction
+48C24|statue
+48C24|work of art
+48C241|gallery
+48C242|cabinet
+48C242|human figure
+48C242|wax
+48C243|caricature
+48C244|herm
+48C244|pedestal
+48C25|tool
+48C25(MALLET)|mallet
+48C26|medal
+48C27|gem
+48C3|applied art
+48C3|craft
+48C30|allegory
+48C30|emblem
+48C30|symbol
+48C31|craftsman
+48C311|goldsmith
+48C311|jeweller
+48C311|metal
+48C311|precious metal
+48C311|silversmith
+48C312|base metal
+48C312|metal
+48C313|potter
+48C314|blowing
+48C314|glass-blowing
+48C315|gobelin making
+48C315|tapestry weaver
+48C315|weaving
+48C316|cabinet maker
+48C316|furniture
+48C316|joiner
+48C316|ébéniste
+48C32|craftsman
+48C32|portrait
+48C32|self-portrait
+48C33|work of art
+48C34|tool
+48C34(POTTER'S WHEEL)|potter's wheel
+48C34(POTTER'S WHEEL)|wheel
+48C34(TOUCH-STONE)|touchstone
+48C35|decoration
+48C35|ornament
+48C351|appliquéing
+48C351|en relief
+48C352|creux
+48C352|en creux
+48C3521|engraving
+48C3522|etching
+48C3523|carving
+48C35231|chip carving
+48C353|flat decoration
+48C3531|painting
+48C35311|lacquering
+48C3532|printing
+48C3533|enamelling
+48C3534|veneering
+48C35341|intarsia
+48C35342|marquetry
+48C3535|damascening
+48C3535|niello-ing
+48C3536|encrusting
+48C36|design
+48C36|industrial design
+48C361|industrial designer
+48C4|monumental art
+48C40|allegory
+48C40|emblem
+48C40|symbol
+48C41|monumental artist
+48C411|mosaicist
+48C412|mural painter
+48C412|painter
+48C413|glass
+48C413|stained glass artist
+48C42|portrait
+48C42|self-portrait
+48C43|work of art
+48C44|tool
+48C51|book-illumination
+48C51|miniature
+48C51|painting
+48C510|Pictura
+48C510|Pittura
+48C510|Ripa
+48C510|allegory
+48C510|emblem
+48C510|symbol
+48C5101|drawing
+48C5101|origin
+48C511|labour
+48C511|painter
+48C511|studio
+48C5110|inspiration
+48C51101|Muses
+48C51102|music making
+48C51102|musical instrument
+48C51111|requisite
+48C51111|studio requisites
+48C51121|design
+48C51121|sketch
+48C51122|classical remains
+48C51122|studying
+48C51123|model (sitter)
+48C511232|nude
+48C5113|model (sitter)
+48C5114|colour
+48C5114|paint
+48C5115|pupil
+48C5115|teaching
+48C51151|assistant
+48C5119|destruction
+48C5119|work of art
+48C512|painter
+48C513|painter
+48C513|portrait
+48C513|self-portrait
+48C514|picture
+48C514|work of art
+48C5141|gallery
+48C5141|gemalte Galerie
+48C5143|caricature
+48C515|painter's tools
+48C515|tool
+48C5151|easel
+48C5152|palette
+48C5153|brush
+48C5154|dummy
+48C5154|human figure
+48C5154|manikin
+48C5154|puppet
+48C5155|book
+48C5155|model-book
+48C5156|frame
+48C51561|passe-partout
+48C51562|curtain
+48C5157|maulstick
+48C52|drawing
+48C520|allegory
+48C520|emblem
+48C520|symbol
+48C521|draughtsman
+48C521|labour
+48C5211|classical remains
+48C5211|studying
+48C5212|drawing-lesson
+48C5212|teaching
+48C522|draughtsman
+48C523|draughtsman
+48C523|portrait
+48C523|self-portrait
+48C524|sketch
+48C524|work of art
+48C525|tool
+48C5251|camera
+48C5251|camera obscura
+48C5252|camera
+48C5252|camera lucida
+48C5253|convex mirror
+48C5253|mirror
+48C5254|physionotrace
+48C5254|silhouette
+48C5254|silhouette-apparatus
+48C5255|perspective
+48C53|graphic arts
+48C530|allegory
+48C530|emblem
+48C530|symbol
+48C531|graphic artist
+48C5311|engraver
+48C5311|wood-engraver
+48C5311|woodcutter
+48C5312|engraver
+48C5312|etcher
+48C5313|lithographer
+48C532|graphic artist
+48C532|portrait
+48C532|self-portrait
+48C533|engraving
+48C533|etching
+48C533|lithograph
+48C533|print
+48C533|woodcut
+48C533|work of art
+48C534|tool
+48C61|photography
+48C610|allegory
+48C610|emblem
+48C610|symbol
+48C611|photographer
+48C6111|studio
+48C61111|requisite
+48C61111|studio requisites
+48C6112|photograph
+48C6112|photographing
+48C61121|model (sitter)
+48C61121|portrait
+48C6113|dark room
+48C6114|film
+48C6114|processing
+48C61141|developing
+48C61142|printing
+48C612|photographer
+48C613|photographer
+48C613|portrait
+48C613|self-portrait
+48C614|photograph
+48C614|work of art
+48C6141|negative
+48C6142|slide
+48C6142|transparency
+48C6143|film
+48C6143|plate
+48C6144|digital photograph
+48C615|apparatus
+48C6151|camera
+48C62|cinematography
+48C620|allegory
+48C620|emblem
+48C620|symbol
+48C621|cinematographer
+48C621|labour
+48C6211|studio
+48C6212|filming
+48C62121|feature movie
+48C62121|motion picture
+48C62122|animated cartoon
+48C62122|cartoon
+48C6213|cutting
+48C6213|montage
+48C622|cinematographer
+48C623|cinematographer
+48C623|portrait
+48C623|self-portrait
+48C624|celluloid
+48C624|film
+48C6241|reel
+48C625|apparatus
+48C6251|camera
+48C6251|film camera
+48C6251|movie camera
+48C6251|video camera
+48C6252|projector
+48C63|cinematography
+48C63|origin
+48C63|photography
+48C7|music
+48C70|Musica
+48C70|Ripa
+48C70|allegory
+48C70|emblem
+48C70|symbol
+48C701|origin
+48C702|magic power of music
+48C71|composer
+48C7110|inspiration
+48C71101|Muses
+48C713|portrait
+48C72|musician
+48C721|labour
+48C7210|inspiration
+48C72101|Muses
+48C7211|music-lesson
+48C7211|pupil
+48C723|portrait
+48C73|musical instrument
+48C731|bowed instrument
+48C731|string instrument
+48C7311|violin
+48C7312|bass
+48C7312|cello
+48C7312|double-bass
+48C7312|viola
+48C7312|violoncello
+48C7313|rebec
+48C7313|viol
+48C7314|hurdy-gurdy
+48C732|plucked instrument
+48C732|string instrument
+48C7321|cithara
+48C7321|lyre
+48C7321|psaltery
+48C7322|harp
+48C7323|lute
+48C7323|theorbo
+48C7324|balalaika
+48C7324|cithern
+48C7324|guitar
+48C7324|mandolin
+48C7325|dulcimer
+48C7325|zither
+48C733|keyboard instrument
+48C7331|spinet
+48C7331|virginal
+48C7332|clavichord
+48C7332|harpsichord
+48C7333|pianoforte
+48C73331|grand piano
+48C7334|organ
+48C73341|church organ
+48C7335|accordion
+48C734|percussion instrument
+48C7341|drum (musical instrument)
+48C73411|tambourine
+48C7342|castanets
+48C7342|clappers
+48C7343|bell
+48C7343|carillon
+48C7343|chimes
+48C735|wind instrument
+48C7351|aulos
+48C7351|flute
+48C7351|tibia
+48C73511|recorder
+48C73512|bassoon
+48C73512|clarinet
+48C73512|oboe
+48C73512|shawm
+48C73513|transverse flute
+48C73513|traverso
+48C7352|blowing
+48C7352|cornet
+48C7352|horn
+48C7352|trombone
+48C7352|trumpet
+48C7352|tuba
+48C73521|saxophone
+48C7353|syrinx
+48C7354|bagpipe
+48C7354|musette
+48C7355|mouth organ
+48C7356(CONCH)|conch
+48C736|popular music
+48C737|kitchen-utensils
+48C737|rough music
+48C737(RUMBLING-POT)|rumbling pot
+48C738|accessories
+48C738|fork
+48C738|metronome
+48C738|music-stand
+48C738|tuning-fork
+48C74|musical notation
+48C74|notation
+48C74|note
+48C74|score
+48C74|writing
+48C741|book
+48C741|printed matter
+48C742|manuscript
+48C7421|autograph
+48C7421|composer
+48C743|musical theory
+48C743|theory
+48C75|musical instrument
+48C75|musician
+48C7511|tuning
+48C75111|lute
+48C7512|contemplation
+48C752|music making
+48C7521|bowed instrument
+48C7521|string instrument
+48C7522|plucked instrument
+48C7522|string instrument
+48C7523|keyboard instrument
+48C7524|percussion instrument
+48C7525|wind instrument
+48C753|concert
+48C753|group
+48C753|music making
+48C7531|orchestra
+48C7532|band (music)
+48C7532|chamber orchestra
+48C7532|jazz-band
+48C7532|pop-band
+48C7532|quartet
+48C7532|quintet
+48C7532|trio
+48C754|music making
+48C754|singing
+48C7541|accompanying
+48C7541|singer
+48C75411|jongleur
+48C75411|minstrel
+48C75412|bard
+48C75412|lyric poet
+48C75412|poet
+48C7542|accompanying
+48C7542|singer
+48C755|music making
+48C755|singing
+48C7551|a cappella
+48C7551|singer
+48C7551|soloist
+48C75512|woman
+48C7552|choir
+48C756|folk music
+48C756|music making
+48C756|popular music
+48C756|street music
+48C7561|fiddler
+48C75611|hurdy-gurdy
+48C75612|barrel-organ
+48C75613|homme orchestre
+48C75613|one-man band
+48C75614|band (music)
+48C75614|brass band
+48C75614|street band
+48C7562|folk song
+48C7562|singing
+48C75621|ballad seller
+48C75621|ballad singer
+48C75621|selling
+48C75621|singer
+48C76|automation
+48C761|musical box
+48C762|organ
+48C762|pierement
+48C762|street-organ
+48C763|orchestrion
+48C763|pianola
+48C77|conductor
+48C771|baton
+48C771|stick
+48C78|audience
+48C78|concert
+48C78|listening
+48C8|stage (theatre)
+48C8|work of art
+48C80|allegory
+48C80|emblem
+48C80|symbol
+48C801|ballet
+48C801|dancing
+48C802|theatre
+48C8021|drama
+48C8021|literature
+48C803|music
+48C804|motion picture
+48C81|equipment
+48C811|design
+48C811|stage design
+48C813|scenery (stage)
+48C813|set (stage)
+48C8131|backdrop
+48C8132|lamp
+48C8133|curtain
+48C814|dressing-room
+48C814|room
+48C821|director
+48C821|producer
+48C821|stage manager
+48C822|choreographer
+48C823|prompter
+48C824|stage-hand
+48C83|artiste
+48C831|portrait
+48C8311|dancer
+48C8312|actor
+48C8312|actress
+48C8313|opera-singer
+48C8313|singer
+48C8314|cabaret-artiste
+48C8315|film actor
+48C8315|film actress
+48C8321|dancer
+48C8322|actor
+48C8322|actress
+48C8323|opera-singer
+48C8323|singer
+48C8324|cabaret-artiste
+48C8325|film actor
+48C8325|film actress
+48C84|ballet
+48C84|performance
+48C841|training
+48C842|dancer
+48C842|group
+48C8422|woman
+48C843|ballet step
+48C843|position
+48C843|posture
+48C843|step
+48C844|ballet dress
+48C844|costume
+48C85|drama
+48C85|performance
+48C85|play (drama)
+48C85|theatre
+48C851|rehearsal
+48C851|studying
+48C852|actor
+48C852|actress
+48C852|group
+48C852|troupe
+48C85211|impersonation
+48C85211|women's clothes
+48C85221|impersonation
+48C85221|men's clothes
+48C8523|travelling
+48C85231|announcing
+48C853|costume
+48C853|stage costume
+48C854|genre
+48C854|theatrical genre
+48C8541|mystery play
+48C8541|religious drama
+48C85411|morality
+48C8542|rhetorician
+48C8543|comedy
+48C8543|commedia dell'arte
+48C85431|type
+48C85431(COLOMBINE)|Colombine
+48C85431(HARLEQUIN)|Harlequin
+48C85431(PANTALONE)|Pantalone
+48C85431(PIERROT)|Pierrot
+48C85431(PULCINELLA)|Pulcinella
+48C8544|dumb show
+48C8544|masque
+48C8544|pantomime
+48C85441|tableau vivant
+48C8545|tragedy
+48C85450|Ripa
+48C85450|Tragedia
+48C8546|comedy
+48C85460|Comedia
+48C85460|Comedia vecchia
+48C85460|Ripa
+48C8547|farce
+48C8547|satyr play
+48C85481|mixed media
+48C85481|total theatre
+48C85482|happening
+48C855|marionette show
+48C855|puppet show
+48C855|show
+48C8551|puppet
+48C85511|Jan Klaassen
+48C85511|Katrijn
+48C85511|Punch and Judy
+48C8552|marionette
+48C856|shadow
+48C856|silhouette
+48C86|drama
+48C86|musical drama
+48C86|performance
+48C861|rehearsal
+48C861|role
+48C861|studying
+48C862|opera
+48C8621|opera-singer
+48C8621|singer
+48C8622|opera-singer
+48C8622|singer
+48C8622|woman
+48C863|Singspiel
+48C863|musical
+48C863|operetta
+48C864|cabaret
+48C8641|artiste
+48C8641|cabaret-artiste
+48C865|show
+48C865|variety
+48C865|vaudeville
+48C8651|strip-tease
+48C8651|undressing
+48C87|motion picture
+48C87|show
+48C871|actor
+48C871|actress
+48C871|screen
+48C8711|film actor
+48C8712|film actress
+48C872|explicator
+48C872|film explicator
+48C873|genre
+48C8731|feature movie
+48C8732|nature
+48C8733|documentary film
+48C8734|animated cartoon
+48C8734|cartoon
+48C9|fiction
+48C9|literature
+48C90|Lettere
+48C90|Ripa
+48C90|allegory
+48C90|emblem
+48C90|litterae
+48C90|symbol
+48C901|Poesia
+48C901|poetry
+48C9011|epic poetry
+48C90111|Poema heroico
+48C90111|heroic poetry
+48C9012|Poema lirico
+48C9012|lyric poetry
+48C90121|love poetry
+48C9013|elegy
+48C9014|Poema satirico
+48C9014|satirical poetry
+48C9015|Poema pastorale
+48C9015|pastoral poetry
+48C902|prose
+48C9021|epic
+48C91|poet
+48C91|writer
+48C910|Furore poetico
+48C910|Ripa
+48C910|inspiration
+48C9101|Muses
+48C911|writing
+48C9111|autograph
+48C9112|dictating
+48C912|poète maudit
+48C913|reading aloud
+48C913|work of art
+48C919|destruction
+48C919|work of art
+48C92|poet
+48C92|writer
+48C921|Laureate
+48C921|fame
+48C921|laurel
+48C921|poeta laureatus
+48C93|poet
+48C93|portrait
+48C93|writer
+48CC51111|requisite
+48CC51111|studio requisites
+48CC51121|design
+48CC51121|sketch
+48CC51122|classical remains
+48CC51122|studying
+48CC51123|model (sitter)
+48CC51151|assistant
+48CC61111|requisite
+48CC61111|studio requisites
+48CC61141|developing
+48CC61142|printing
+48CC6211|studio
+48CC6212|filming
+48CC62121|feature movie
+48CC62121|motion picture
+48CC62122|animated cartoon
+48CC62122|cartoon
+48CC6213|cutting
+48CC6213|montage
+48CC70|Musica
+48CC70|Ripa
+48CC70|allegory
+48CC70|emblem
+48CC70|symbol
+48CC71|composer
+48CC7110|inspiration
+48CC71101|Muses
+48CC72|musician
+48CC7210|inspiration
+48CC7211|music-lesson
+48CC7211|pupil
+48CC73|musical instrument
+48CC731|bowed instrument
+48CC731|string instrument
+48CC732|plucked instrument
+48CC732|string instrument
+48CC733|keyboard instrument
+48CC7331|spinet
+48CC7331|virginal
+48CC7332|clavichord
+48CC7332|harpsichord
+48CC7333|pianoforte
+48CC73331|grand piano
+48CC7334|organ
+48CC73341|church organ
+48CC7335|accordion
+48CC734|percussion instrument
+48CC7341|drum (musical instrument)
+48CC73411|tambourine
+48CC7342|castanets
+48CC7342|clappers
+48CC7343|bell
+48CC7343|carillon
+48CC7343|chimes
+48CC735|wind instrument
+48CC7351|aulos
+48CC7351|flute
+48CC7351|tibia
+48CC7352|blowing
+48CC7352|cornet
+48CC7352|horn
+48CC7352|trombone
+48CC7352|trumpet
+48CC7352|tuba
+48CC7353|syrinx
+48CC7354|bagpipe
+48CC7354|musette
+48CC7355|mouth organ
+48CC736|popular music
+48CC737|kitchen-utensils
+48CC737|rough music
+48CC738|accessories
+48CC738|fork
+48CC738|metronome
+48CC738|music-stand
+48CC738|tuning-fork
+48CC74|musical notation
+48CC74|notation
+48CC74|note
+48CC74|score
+48CC74|writing
+48CC7421|autograph
+48CC7421|composer
+48CC75|musical instrument
+48CC75|musician
+48CC75111|lute
+48CC75512|woman
+48CC75611|hurdy-gurdy
+48CC75612|barrel-organ
+48CC75613|homme orchestre
+48CC75613|one-man band
+48CC75614|band (music)
+48CC75614|brass band
+48CC75614|street band
+48CC76|automation
+48CC761|musical box
+48CC762|organ
+48CC762|pierement
+48CC762|street-organ
+48CC763|orchestrion
+48CC763|pianola
+48CC77|conductor
+48CC78|audience
+48CC78|concert
+48CC78|listening
+49|learning
+49|occupations
+49|science
+49A|teaching
+49A0|Ammaestramento
+49A0|Dottrina
+49A0|Educatione
+49A0|Istitutione
+49A0|Ripa
+49A0|allegory
+49A0|doctrine
+49A0|emblem
+49A0|symbol
+49A1|playing
+49A1|studying
+49B|child
+49B|school
+49B|teaching
+49B1|nursery school
+49B2|class
+49B2|elementary school
+49B211|first school-day
+49B211|leading
+49B22|home
+49B22|returning
+49B23|last school-day
+49B24|pupil
+49B24|teacher
+49B241|parents
+49B25|discipline
+49B25|punishment
+49B251|corner
+49B251|keeping in
+49B252|beating
+49B2521|birch (rod)
+49B2521|rod
+49B2521|twig
+49B2522|pupil
+49B2522|teacher
+49B253|line
+49B253|writing
+49B31|high school
+49B31|secondary education
+49B32|technical school
+49B32|vocational education
+49B33|teacher's college
+49B4|university
+49B40|Academia
+49B40|Ripa
+49B40|personification
+49B41|organization
+49B411|founding
+49B4111|commemoration
+49B412|board (committee)
+49B412|dignitary
+49B413|beadle
+49B4131|mace
+49B4131|sceptre
+49B414|insignia
+49B414|seal
+49B415|faculties
+49B416|college
+49B416|edifice
+49B421|lecture
+49B4211|installation
+49B4211|speech
+49B4212|magister cum discipulis
+49B4212|pupil
+49B4212|teacher
+49B4213|Accipies-woodcut
+49B4213|woodcut
+49B4214|practice
+49B422|examination
+49B423|degree
+49B423|doctor
+49B423|receiving
+49B4231|thesis
+49B4232|diploma
+49B4233|honorary degree
+49B4233|honour
+49B43|professor
+49B431|group
+49B44|student
+49B441|studying
+49B4411|night
+49B442|student life
+49B4421|costume
+49B4422|room
+49B4423|love
+49B4424|freshman
+49B44241|matriculation
+49B4425|holiday
+49B4426|sending away
+49B4427|riot
+49B4428|organization
+49B44281|club
+49B44282|fraternity
+49B44283|initiation
+49B44284|feast
+49B44285|pageant
+49B4429|Bettelstudent
+49B4429|wandering
+49BB431|group
+49BB441|studying
+49BB4411|night
+49BB442|student life
+49BB4421|costume
+49BB4422|room
+49BB4423|love
+49BB4424|freshman
+49BB44241|matriculation
+49BB4425|holiday
+49BB4426|sending away
+49BB4427|riot
+49BB4428|organization
+49BB44281|club
+49BB44282|fraternity
+49BB44283|initiation
+49BB44284|feast
+49BB44285|pageant
+49BB4429|Bettelstudent
+49BB4429|wandering
+49C0|Ripa
+49C0|Scientia
+49C0|Scienza
+49C0|Studio
+49C0|allegory
+49C0|emblem
+49C0|erudition
+49C0|symbol
+49C01|temptation
+49C01|worldly
+49C011|ivory tower
+49C011|renouncing
+49C011|scholar
+49C1|Artes Liberales
+49C1|liberal arts
+49C1|seven
+49C11|personification
+49C11|three
+49C11|trivium
+49C111|Grammatica
+49C111|Ripa
+49C111|grammar
+49C112|Dialectica
+49C112|Dialettica
+49C112|Ripa
+49C112|logic
+49C113|Eloquentia
+49C113|Rettorica
+49C113|Rhetorica
+49C113|Ripa
+49C113|eloquence
+49C113|rhetoric
+49C12|four
+49C12|personification
+49C12|quadrivium
+49C121|Arithmetica
+49C121|Aritmetica
+49C121|Ripa
+49C121|arithmetic
+49C122|Geometria
+49C122|Ripa
+49C122|geometry
+49C123|Astronomia
+49C123|Ripa
+49C123|astronomy
+49C124|Musica
+49C124|Ripa
+49C124|music
+49C131|philosophy
+49C131|wisdom
+49C14|emblem
+49C14|symbol
+49C15|Artes Vulgares
+49C15|contrast
+49C16|faculties
+49C16|four
+49C16|four faculties
+49C161|theology
+49C162|justice
+49C163|medicine
+49C164|philosophy
+49C17|humanities
+49C2|philosophy
+49C20|Filosofia
+49C20|Philosophia
+49C20|Ripa
+49C201|discussing
+49C201|philosopher
+49C21|discipline
+49C211|Metafisica
+49C211|Metaphysica
+49C211|Ripa
+49C211|metaphysics
+49C212|Logica
+49C212|Ripa
+49C212|logic
+49C213|epistemology
+49C213|knowledge
+49C213|theory
+49C2131|Plato
+49C2131|antrum Platonicum
+49C2131|cave
+49C214|aesthetics
+49C3|philosopher
+49C3|scholar
+49C31|group
+49C32|study
+49C33|academy
+49C33|learned society
+49C33|organization
+49C34|wandering
+49C4|dialogue
+49C4|discussing
+49C4|disputing
+49C41|disturbing
+49C41|interruption
+49D|mathematics
+49D0|Mathematica
+49D0|Ripa
+49D1|arithmetic
+49D11|number
+49D11(10)|ten
+49D11(1095)|one thousand and ninety-five
+49D11(11)|eleven
+49D11(12)|twelve
+49D11(13)|thirteen
+49D11(16)|sixteen
+49D11(2)|two
+49D11(3)|three
+49D11(4)|four
+49D11(5)|five
+49D11(6)|six
+49D11(666)|666
+49D11(7)|seven
+49D11(8)|eight
+49D11(9)|nine
+49D110|number symbolism
+49D110|symbol
+49D121|addition
+49D1211|Fibonacci
+49D1211|series of Fibonacci
+49D122|subtraction
+49D123|multiplication
+49D124|dividing
+49D13|notation
+49D13|scale
+49D131|decimal scale
+49D132|binary scale
+49D2|algebra
+49D2|statistics
+49D21|equation
+49D21|formula
+49D22|chart
+49D22|diagram
+49D22|pictorial chart
+49D3|geometry
+49D3|planimetry
+49D30|Ichonografia
+49D30|Planimetria
+49D30|Ripa
+49D31|point
+49D32|line
+49D321|straight line
+49D3211|intersecting lines
+49D3212|angle
+49D3213|parallel lines
+49D3214|golden mean
+49D3214|golden section
+49D3214|sectio aurea
+49D3214|section
+49D322|curved line
+49D3221|irregularity
+49D3222|beauty
+49D3222|regularity
+49D3223|spiral
+49D33|triangle
+49D331|isosceles triangle
+49D332|equilateral triangle
+49D333|right angle
+49D34|quadrilateral
+49D341|irregularity
+49D342|regularity
+49D342(...)|deltoid
+49D342(...)|rectangle
+49D342(...)|rhombus
+49D342(...)|trapezoid
+49D342(RHOMBUS)|lozenge
+49D342(SQUARE)|square (shape)
+49D35|polygon
+49D351|irregularity
+49D352|regularity
+49D352(6)|hexagon
+49D352(8)|octagon
+49D36|circle
+49D361|segment
+49D362|quadrature of the circle
+49D363|circumference
+49D364|radius
+49D365|centre
+49D366|diameter
+49D37|cone
+49D37|conic section
+49D37|section
+49D371|ellipse
+49D372|parabola
+49D373|hyperbola
+49D4|geometry
+49D4|solid
+49D4|stereometry
+49D40|Ripa
+49D40|Sterometria
+49D41|Platonic solids
+49D41|five
+49D42|corner
+49D421|edge
+49D43|prism
+49D431|triangle
+49D432|quadrangular prism
+49D433|parallelepiped
+49D44|pyramid
+49D441|triangle
+49D442|quadrangular pyramid
+49D45|polyhedron
+49D45|regularity
+49D451|tetrahedron
+49D452|cube
+49D452|hexahedron
+49D453|octahedron
+49D454|dodecahedron
+49D455|icosahedron
+49D46|cylinder
+49D461|helix
+49D461|spiral
+49D47|cone
+49D48|globe
+49D481|ellipsoid
+49D51|drawing
+49D511|drawing-instruments
+49D511|instrument
+49D511(...)|curve
+49D511(...)|pantograph
+49D511(PROTRACTOR)|protractor
+49D511(RULER)|ruler (drawing-instrument)
+49D5111|compasses
+49D5112|square (drawing-instrument)
+49D52|measuring
+49D521|instrument
+49D521|measuring-instrument
+49D521(...)|calliper (measuring-instrument)
+49D521(...)|gauge
+49D521(...)|yard-stick
+49D53|counting
+49D531|calculating-instrument
+49D531|instrument
+49D531|machine
+49D531(...)|adding-machine
+49D531(...)|cash-register
+49D531(...)|slide rule
+49D5311|abacus
+49D5311|counting-frame
+49D5312|counter
+49D5312|counting-board
+49D5313|carpet
+49D5313|cloth
+49D5313|reckoning-cloth
+49D5314|casting-counter
+49D5314|jetton
+49D5314|money
+49D54|computer
+49D54|equation
+49D54|machine
+49D541|laptop
+49D541|notebook
+49D542|tablet
+49D61|set theory
+49D61|theory
+49D62|geometry
+49D62|non-Euclidean geometry
+49D63|geometry
+49D64|polygonometry
+49D64|trigonometry
+49D65|descriptive geometry
+49D65|geometry
+49D7|optical illusion
+49D7|perspective
+49D70|Prospetiva
+49D70|Ripa
+49D70|allegory
+49D71|anamorphosis
+49E1|astronomy
+49E1|cosmography
+49E1|star
+49E10|Astronomia
+49E10|Cosmografia
+49E10|Ripa
+49E11|astronomical instrument
+49E11|instrument
+49E11|measuring-instrument
+49E111|observatory
+49E112|radio-telescope
+49E112|telescope
+49E12|chart
+49E12|map
+49E12|star-chart
+49E121|globe
+49E121|star-globe
+49E122|armillary sphere
+49E122|celestial globe
+49E122|globe
+49E123|orrery
+49E123|planetarium
+49E13|cosmological theories
+49E13|theory
+49E131|earth
+49E131|geocentric theory
+49E132|heliocentric theory
+49E132|solar system
+49E132|sun
+49E133|expansion
+49E133|universe
+49E1331|Big Bang
+49E21|physics
+49E210|Fisica
+49E210|Ripa
+49E2111|relativity
+49E2111|theory
+49E212|quantum theory
+49E212|theory
+49E22|mechanics
+49E220|Mecanica
+49E220|Ripa
+49E221|dynamics
+49E221|kinetics
+49E2211|friction
+49E222|gravitation
+49E2221|pendulum
+49E2222|ballistics
+49E2222|projectile
+49E223|fluid mechanics
+49E223|hydraulics
+49E224|aerodynamics
+49E224|gas
+49E2241|vacuum physics
+49E23|thermodynamics
+49E24|acoustics
+49E24|sound
+49E25|light
+49E25|optics
+49E251|instrument
+49E251|optical instrument
+49E2511|lens
+49E25111|burning-glass
+49E25111|sun-glass
+49E2512|microscope
+49E2513|binoculars
+49E2513|spy-glass
+49E2514|telescope
+49E2515|3D
+49E252|refraction
+49E253|prism
+49E2531|colour
+49E2531|seven
+49E254|burning-mirror
+49E254|concave mirror
+49E254|mirror
+49E255|magnification
+49E26|electrodynamics
+49E26|electromagnetics
+49E27|atomic physics
+49E27|molecular physics
+49E27|nuclear physics
+49E271|atom
+49E271|electron
+49E271|elementariness
+49E271|molecule
+49E271|neutron
+49E271|particle
+49E2711|model
+49E272|radioactivity
+49E2721|protection
+49E273|nuclear reaction
+49E3|chemistry
+49E31|chemical symbol
+49E31|symbol
+49E32|inorganic chemistry
+49E33|organic chemistry
+49E39|alchemy
+49E391|alchemist
+49E391|bellows
+49E391|crucible
+49E391|distilling
+49E391|distilling-apparatus
+49E391|furnace
+49E391|hourglass
+49E391|still
+49E3911|attempt (effort)
+49E3911|gold
+49E3912|Philosopher's stone
+49E3912|searching
+49E3912|stone
+49E3913|failing
+49E3913|failure
+49E392|alchemistic symbol
+49E392|symbol
+49E393|equipment
+49E3931|vessel
+49E3931(...)|flask
+49E39311|ampulla
+49E39311|bottle
+49E39311(OVUM PHILOSOPHICUM)|egg
+49E39311(OVUM PHILOSOPHICUM)|flask
+49E39311(OVUM PHILOSOPHICUM)|ovum philosophicum
+49E39311(OVUM PHILOSOPHICUM)|philosophical egg
+49E39312|cucurbita
+49E39312|flask
+49E39313|jar
+49E39313|olla
+49E39313|pot
+49E39313(...)|flask
+49E3932|furnace
+49E3932(ASSAY FURNACE)|assay furnace
+49E3932(ASSAY FURNACE)|cupellation
+49E3932(ATHANOR)|athanor
+49E3933|bath
+49E3933|balneum
+49E3933(BALNEUM ARENAE)|balneum arenae
+49E3933(BALNEUM MARIAE)|Mary's bath
+49E394|substance
+49E3941|sulphur
+49E3942|mercury
+49E394211|bird of Hermes
+49E3943|sal
+49E3944|matter
+49E3944|prima materia
+49E3945|Philosopher's stone
+49E3945|stone
+49E39451|quintessence
+49E39452|White stone
+49E39453|Red stone
+49E3946|Elixir vitae
+49E39461|Panacea
+49E3949(ANTIMONY)|antimony
+49E3949(SAL AMMONIAC)|sal ammoniac
+49E3949(SAL AMMONIAC)|ammoniac
+49E3949(VITRIOL)|vitriol
+49E395|process
+49E3951|four
+49E3951|Magnum opus
+49E3951|stage
+49E3951|transmutation
+49E39511|blackening
+49E39511|melanosis
+49E39511|nigredo
+49E39511|stages
+49E39512|albedo
+49E39512|leukosis
+49E39512|stages
+49E39512|whitening
+49E39513|citrinitas
+49E39513|stages
+49E39513|xanthosis
+49E39513|yellowing
+49E39514|iosis
+49E39514|reddening
+49E39514|rubedo
+49E39514|stages
+49E3952|Magnum opus
+49E3952|stage
+49E3952|transmutation
+49E3952(CALCINATION)|calcination
+49E3952(CIBATION)|cibation
+49E3952(COAGULATION)|coagulation
+49E3952(COAGULATION)|fixation
+49E3952(CONJUNCTION)|chemical wedding
+49E3952(CONJUNCTION)|conjunction
+49E3952(CONJUNCTION)|wedding
+49E3952(DISTILLATION)|destillatio
+49E3952(DISTILLATION)|distillation
+49E3952(EXALTATION)|exaltation
+49E3952(MULTIPLICATION)|multiplication
+49E3952(PROJECTION)|projection
+49E3952(PUTREFACTION)|fermentation
+49E3952(PUTREFACTION)|putrefaction
+49E3952(SEPARATION)|division
+49E3952(SEPARATION)|separation
+49E3952(SOLUTION)|dissolution
+49E3952(SOLUTION)|solution
+49E3952(SUBLIMATION)|sublimation
+49E3953|combining
+49E3954|interaction
+49E3954|reaction
+49E3954|substance
+49E39541|exchange
+49E39542|evaporation
+49E39542|solvent
+49E39543|opposite
+49E395431|Luna
+49E395431|Mercury
+49E395431|moon
+49E395431|Sol
+49E395431|sulphur
+49E395431|sun
+49E4|crystallography
+49E5|geology
+49E51|mineralogy
+49E6|meteorology
+49E61|observatory
+49E7|technology
+49E71|engineering
+49E8|laboratory
+49E81|apparatus
+49E81|equipment
+49E811|demonstration
+49E811|popular laboratory device
+49E9|experiment
+49E9|testing
+49E91|invention
+49F|biology
+49F1|botany
+49F1|plant
+49F11|botanic garden
+49F11|garden
+49F11|hortus botanicus
+49F12|herbarium
+49F2|animal
+49F2|zoology
+49F21|experiment
+49F22|palaeontology
+49F3|anthropology
+49F3|physical anthropology
+49F31|craniology
+49G|medicine
+49G0|Medicina
+49G0|Ripa
+49G0|allegory
+49G01|emblem
+49G01|sign
+49G01|symbol
+49G011|rod and serpent
+49G012|pentagram
+49G1|physician
+49G11|barber
+49G11|surgeon
+49G12|barber
+49G12|dentist
+49G13|ophthalmologist
+49G2|sick person
+49G21|bed
+49G211|visiting
+49G22|nursing
+49G23|healing
+49G231|miracle
+49G232|imposition of hands
+49G233|spirit
+49G24|medicament
+49G25|recovery
+49G251|deterioration
+49G26|feigning
+49G29|hypochondriac
+49G3|examination
+49G3|treatment
+49G31|consulting
+49G31|diagnosis
+49G31|physician
+49G31|sick person
+49G311|urine
+49G3111|basket
+49G3111|urinal
+49G312|temperature
+49G312|thermometer
+49G3121|chart
+49G3121|temperature-chart
+49G313|tongue
+49G314|stethoscope
+49G315|body
+49G315|percussing
+49G3151|kicking
+49G3151|knee
+49G3151|reflex
+49G316|pulse
+49G317|prescription
+49G317|writing
+49G32|antiseptics
+49G321|bandage
+49G321|ointment
+49G322|immobilization
+49G322|plaster
+49G322|sling
+49G322|splint
+49G33|purging
+49G331|enema
+49G331|squirt
+49G34|bleeding
+49G34|cupping-glass
+49G341|blood-sucker
+49G341|leech
+49G342|cupping man
+49G35|operation
+49G350|Chirurgia
+49G351|operating room
+49G351|room
+49G351|theatre
+49G352|narcosis
+49G353|amputation
+49G353|cutting off
+49G3531|artificial limb
+49G3531|prosthesis
+49G354|transplantation
+49G359|instrument
+49G36|bath
+49G36|course of waters
+49G36|waters
+49G361|spa
+49G361|watering-place
+49G37|injection
+49G37|syringe
+49G371|vaccination
+49G372|infusion
+49G373|blood
+49G373|transfusion
+49G38|electrotherapy
+49G38|radiotherapy
+49G381|X-ray
+49G39|massage
+49G4|hospital
+49G41|room
+49G41|ward
+49G42|sick (the)
+49G42|visiting
+49G43|nurse
+49G431|man
+49G44|ambulance
+49G44|carrying
+49G44|transporting
+49G51|asylum
+49G51|contagious disease
+49G51|hospital
+49G511|isolation
+49G511|quarantine
+49G52|asylum
+49G52|lunatic asylum
+49G52|mental home
+49G6|medical research
+49G6|research
+49G6|specialist
+49G61|anatomy
+49G61|physiology
+49G611|circulatory system
+49G612|breathing
+49G613|alimentary tract
+49G613|digestive system
+49G6131|dentistry
+49G614|skin
+49G615|endocrine system
+49G616|urogenital system
+49G6161|gynaecology
+49G6161|obstetrics
+49G617|locomotor system
+49G618|senses
+49G6181|ophthalmology
+49G619|nerve
+49G619|neurology
+49G621|dissection
+49G621|pathologist
+49G6211|dissecting-room
+49G6211|theatrum anatomicum
+49G6212|anatomy lesson
+49G6212|teaching
+49G6213|anatomical specimen
+49G622|anatomical model
+49G622|five
+49G622|human figure
+49G622|model
+49G6221|skeleton
+49G6222|muscle
+49G6222|écorché
+49G6223|vein
+49G6224|artery
+49G6225|nerve
+49G63|bacteriology
+49G64|child
+49G64|paediatrics
+49G65|geriatrics
+49G65|old age
+49G71|psychology
+49G711|testing
+49G712|graphology
+49G712|handwriting
+49G712|testing
+49G72|psychiatry
+49G721|couch
+49G721|psychoanalysis
+49G8|pharmacy
+49G81|medicament
+49G811|doctrine
+49G811|signatures (doctrine of)
+49G812|poison
+49G82|apothecary
+49G82|chemist's
+49G82|drugstore
+49G82|pharmacist
+49G83|tool
+49G831|mortar
+49G831|pestle
+49G84|gaper
+49G84|shop
+49G84|signboard
+49G84|yawning
+49G9|folklore
+49G9|illegal
+49G9|popular medicine
+49G91|charlatan
+49G91|market
+49G91|mountebank
+49G91|quack
+49G91|saltimbanco
+49G911|Malleghem (Witch of)
+49G911|cutting
+49G911|operation
+49G911|stone
+49G911|stone-operation
+49G911|witch
+49G912|dentist
+49G912|molar
+49G912|pulling out
+49G912|tooth
+49G914|eating
+49G914|frog
+49G914|snake
+49G914|spider
+49G914|toad
+49H|social sciences
+49H1|sociology
+49H2|folklore
+49H3|anthropology
+49H3|cultural anthropology
+49H3|ethnology
+49I|geography
+49I0|Geografia
+49I1|expedition
+49I1|exploring
+49I1|finding
+49I1|journey
+49I11|explorer
+49K1|archaeology
+49K1|history
+49K10|Historia
+49K10|Ripa
+49K11|digging
+49K11|excavation
+49K12|book
+49K12|chronicle
+49K2|art
+49K2|history of art
+49K3|philology
+49K31|linguistics
+49K32|language
+49K321|word
+49K322|phrase
+49K322|sentence (phrase)
+49L1|alphabet
+49L1|letter (character)
+49L10|invention
+49L11|handwriting
+49L11|writing
+49L111|secretary
+49L112|pen
+49L112|quill
+49L112|sharpening
+49L113|erasing
+49L113|text
+49L12|Roman script
+49L13|Greek script
+49L141|Hebrew script
+49L142|Arabic script
+49L15|fancy letter
+49L15|ornament
+49L16|anagram
+49L16|letter square
+49L16|letterword
+49L16|monogram
+49L17|initial
+49L171|historiated initial
+49L2|ideographic script
+49L2|letter (character)
+49L2|pictorial script
+49L21|Egyptian script
+49L21|hieroglyph
+49L211|fancy hieroglyph
+49L211|hieroglyphica
+49L22|cuneiform writing
+49L23|Chinese script
+49L23|Japanese script
+49L23|Korean script
+49L23|oriental script
+49L24|Aztec script
+49L24|Inca script
+49L24|Maya script
+49L24|ancient American script
+49L25|pictograph
+49L251|rebus
+49L26|ars memorandi
+49L26|memory
+49L26|mnemotechnics
+49L27|mark
+49L27|ownership
+49L271|Hausmarke
+49L271|huismerk
+49L31|shorthand
+49L31|stenography
+49L32|cryptography
+49L32|secrecy
+49L33|mirror writing
+49L4|calligraphy
+49L4|lettering
+49L5|tool
+49L5|writing tool
+49L51|pen
+49L511|quill
+49L52|pencil
+49L6|accessories
+49L6|writing accessories
+49L61|ink
+49L611|blot
+49L611|ink-blot
+49L62|ink-horn
+49L62|ink-well
+49L63|knife
+49L63|pen-knife
+49L64|writing surface
+49L641|paper
+49L6411|notebook
+49L642|papyrus
+49L643|parchment
+49L643|vellum
+49L644|writing board
+49L6441|blackboard
+49L6442|whiteboard
+49L645|tablet
+49L645|writing tablet
+49L6451|clay
+49L6451|clay tablet
+49L6451|stone
+49L6451|stone tablet
+49L64511|emerald tablet
+49L64511|smaragdine tablet
+49L64511|tabula smaragdina
+49L6452|wax
+49L6452|wax tablet
+49L6453|slate
+49L65|seal
+49L65|stamp
+49L651|sealing wax
+49L651|wax
+49L66|table
+49L66|writing-desk
+49L67(ERASER)|eraser
+49L67(PAPERCLIP)|paperclip
+49L67(PAPERWEIGHT)|paperweight
+49L7|document
+49L7|handwriting
+49L7|manuscript
+49L71|scroll
+49L711|box (container)
+49L711|capsa
+49L72|book
+49L72|codex
+49L73|banderole
+49L8|inscription
+49M|book-production
+49M|production
+49M1|printing
+49M10|Ripa
+49M10|Stampa
+49M11|machine
+49M11|press
+49M121|melting
+49M121|type-founder
+49M122|type-setter
+49M123|printer
+49M124|corrector
+49M13|letter (character)
+49M13|print (type)
+49M13|type (printing)
+49M13(...)|Garamond
+49M14|tool
+49M2|machine
+49M2|multiplying
+49M21|typewriter
+49M22|multiplicator
+49M23|Xerox machine
+49M23|copier
+49M23|photostatic apparatus
+49M3|printed matter
+49M31|broadsheet
+49M31|leaflet
+49M32|book
+49M32|closed book
+49M32|open book
+49M321|book-illustration
+49M321|illustration
+49M3211|blockbook
+49M3212|bande dessinée
+49M3212|comic strip
+49M3212|strip
+49M322|pamphlet
+49M4|decoration
+49M41|book-illustration
+49M41|illustration
+49M411|frontispiece
+49M412|vignette
+49M413|historiated initial
+49M413|initial
+49M42|ornament
+49M43|page
+49M43|title-page
+49M431|device
+49M431|mark
+49M431|printer's device
+49M5|binding
+49M5|bookbinding
+49M51|book-cover
+49M51|cover
+49M511|blurb
+49M511|book-jacket
+49M52|clasp
+49M53|Beutelbuch
+49M6|publisher
+49M6|publishing
+49M7|bookseller
+49M7|bookshop
+49M7|shop
+49M71|antiquarian bookshop
+49M71|second-hand bookshop
+49M72|book-stall
+49M72|booth
+49M72|kiosk
+49M72|stall
+49M8|ex-libris
+49M9|library
+49M9|public library
+49M91|archive
+49MM3211|blockbook
+49MM3212|bande dessinée
+49MM3212|comic strip
+49MM3212|strip
+49N|reading
+49N1|reading aloud
+49N2|accessories
+49N2|reading accessories
+49N21|lectern
+49N22|pointer
+49N23|book-marker
+49N23|marking

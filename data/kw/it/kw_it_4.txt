@@ -1,0 +1,9715 @@
+4|civilizzazione
+4|cultura
+4|società
+41|materialità
+41A|abitare
+41A1|architettura
+41A1|architettura civile
+41A1|edificio
+41A1|interno
+41A10|Edifitio overo un sito
+41A10|Ripa
+41A11|palazzo
+41A111|hôtel (palazzo)
+41A12|castello
+41A121|casa
+41A121|fortificazione
+41A13|edificio pubblico
+41A13|grande magazzino
+41A13|negozio
+41A14|casa
+41A14|città
+41A141|fila
+41A141|strada
+41A141|via
+41A142|negozio
+41A143|casa indipendente
+41A143|casa isolata
+41A144|appartamento
+41A144|edificio ad appartamenti
+41A15|grattacielo
+41A16|casa
+41A16|casetta di campagna
+41A16|edificio rurale
+41A161|casa di campagna
+41A162|villa
+41A163|villino
+41A17|fattoria
+41A171|granaio
+41A18|cabina
+41A18|capanna
+41A18|casetta
+41A18|casupola
+41A181|capanna di legno
+41A181|capanna di tronchi
+41A182|Indiani americani
+41A182|abitazione dei nativi del Nord America
+41A1821|wigwam
+41A191|tenda
+41A1911|campo
+41A1912|Indiani americani
+41A1912|tepee
+41A1912|tipi
+41A192|carovana
+41A1921|campo
+41A1922|rimorchio
+41A193|casa galleggiante
+41A194|abitazione lacustre
+41A194|palafitta
+41A195|capanna
+41A195|casa di neve
+41A195|igloo
+41A196|caverna
+41A2|casa
+41A2|interno
+41A21|sala
+41A21|vestibolo
+41A211|corridoio
+41A2111|galleria
+41A22|stanza
+41A221|salotto
+41A221|soggiorno
+41A221|stanza di soggiorno
+41A222|salon
+41A222|salone
+41A222|salotto
+41A2221|boudoir
+41A223|sala da pranzo
+41A23|camera da letto
+41A23|stanza
+41A24|stanza
+41A24|stanza da bagno
+41A241|equipaggiamento
+41A2411|bagno
+41A2411|tinozza
+41A2412|doccia
+41A2413|bidet
+41A2414|bacile
+41A2415|bacile
+41A2415|brocca
+41A25|stanza
+41A251|studio
+41A251|studiolo
+41A252|cappella
+41A253|portico
+41A253|salotto
+41A253|veranda
+41A2531|conservatorio
+41A2531|giardino
+41A2531|giardino d'inverno
+41A2531|serra
+41A254|guardaroba
+41A2541|armadio
+41A2541|armadio della biancheria
+41A255|attico
+41A255|soffitta
+41A256|immagazzinamento
+41A3|annesso
+41A3|casa
+41A3|esterno
+41A3|parte
+41A31|edificio
+41A31|facciata
+41A311|prospetto principale
+41A3111|lapide
+41A3111|tavola
+41A3111|tavoletta
+41A312|prospetto posteriore
+41A313|cortile interno
+41A32|illusione ottica
+41A32|porta
+41A32|porta finta
+41A321|aprire
+41A3211|porta aperta
+41A3212|porta aperta
+41A3212|porta divisa
+41A3213|porta girevole
+41A322|chiudere
+41A3221|porta chiusa
+41A323|aediculum
+41A323|arte monumentale
+41A323|portico
+41A324|metallo
+41A3241|batacchio
+41A3241|bussare
+41A3241|campana
+41A3241|campanello della porta
+41A3242|maniglia di porta
+41A3242|pomo di porta
+41A325|soglia
+41A3251|asta
+41A3251|palo
+41A3251|stipite
+41A3252|accessori relativi alla porta
+41A3252|raschiastivali
+41A3252|raschiatoio
+41A3252|raschiatoio per stivali
+41A3252|raschietto
+41A3252|spazzola per stivali da ingresso
+41A3252|stuoia
+41A326|cassetta postale
+41A327|guardia
+41A327|portinaio
+41A328|serratura
+41A3281|chiave
+41A32811|chiave maestra
+41A32811|chiave universale
+41A32811|passe-partout
+41A3282|saliscendi
+41A3283|catenaccio
+41A3284|lucchetto
+41A33|finestra
+41A33|finestra finta
+41A33|illusione ottica
+41A331|aprire
+41A3311|finestra aperta
+41A332|chiudere
+41A3321|finestra chiusa
+41A333|grata
+41A333|imposte
+41A3332|interno
+41A334|parasole
+41A334|persiana
+41A334|tenda di riparo
+41A335|sedile
+41A335|sedile da finestra
+41A336|figura umana
+41A336|finestra aperta
+41A3362|interno
+41A337|guardare
+41A337|vista
+41A3372|interno
+41A34|scala
+41A341|tromba delle scale
+41A3411|scala mobile
+41A342|ascensore
+41A342|sollevamento
+41A343|scala (a pioli)
+41A344|uscita di sicurezza
+41A345|gradino
+41A345|scala di servizio
+41A35|gradino
+41A35|scalinata principale
+41A351|terrazzo
+41A352|baldacchino
+41A352|canopo
+41A36|tetto
+41A361|torre
+41A3611|guglia
+41A362|copertura del tetto
+41A362|coprire
+41A363|decorazione
+41A363|frontone
+41A37|cantina
+41A37|seminterrato
+41A38|balcone
+41A381|loggia
+41A381|portico
+41A381|veranda
+41A382|balcone chiuso da vetri
+41A382|bovindo
+41A391|acqua
+41A391|drenaggio
+41A391|rifornimento
+41A391|tubature
+41A3911|pozzo
+41A3912|pompa
+41A3913|faucet
+41A3913|rubinetto
+41A3914|gabinetto (di toilette)
+41A3914|ritirata
+41A3914|WC
+41A3915|fontana
+41A3916|bacile
+41A3916|lavabo
+41A392|gas
+41A392|tubature
+41A393|accessori (elettrici)
+41A393|cavità
+41A393|cavo
+41A393|elettricità
+41A393|impianto elettrico
+41A393|interruttore
+41A393|interruttore della luce
+41A393|spina
+41A4|decorazione
+41A4|decorazione di interni
+41A41|rivestimento delle pareti
+41A411|carta da parati
+41A412|pannellatura
+41A413|tappezzeria
+41A414|cordovano dorato
+41A414|cuir de Cordoue
+41A414|pelle
+41A42|tappezzeria
+41A421|tenda
+41A422|tessuto
+41A4221|velo
+41A4231|baldacchino
+41A4231|canopo
+41A43|rivestimento di pavimento
+41A431|tappeto
+41A44|soffitto
+41A5|annesso
+41A5|dipendenza
+41A5|edificio
+41A51|cortile
+41A511|cortile interno
+41A511|hôtel (palazzo)
+41A511|palazzo
+41A512|cortile posteriore
+41A52|rimessa
+41A521|autorimessa
+41A53|rimessa
+41A54|muro
+41A54|palizzata
+41A54|recinto
+41A54|steccato
+41A541|balaustrata
+41A542|cancello
+41A5421|barriera
+41A5422|cancelletto con chiusura a combaciare
+41A543|scaletta
+41A544|chiusa
+41A544|saracinesca
+41A6|giardino
+41A61|mappa
+41A62|architettura da giardino
+41A62|costruzioni da giardino
+41A62|edificio
+41A621|pergola
+41A622|chiosco
+41A622|pergolato
+41A622|theekoepel
+41A623|eremo
+41A624|belvedere
+41A625|graticcio
+41A626|edificio falso
+41A626|edificio fittizio
+41A63|progetto
+41A631|erba
+41A631|prato rasato
+41A632|aiola
+41A632|appezzamento coltivato
+41A633|giardino alla giapponese
+41A633|giardino roccioso
+41A634|labirinto
+41A635|Hortus Conclusus
+41A635|muro
+41A635|recinto
+41A635|steccato
+41A6351|tetto
+41A636|giardino all'italiana
+41A636|giardino alla francese
+41A636|giardino architettonico
+41A637|giardino all'inglese
+41A637|paesaggio
+41A638|passeggiata
+41A638|passeggiata (giardino)
+41A638|strada
+41A64|ornamenti da giardino
+41A64|ornamento
+41A641|scultura
+41A641|statua
+41A6411|grylloi
+41A6411|nano
+41A642|obelisco
+41A643|piramide
+41A644|erma
+41A645|rovina
+41A646|vaso
+41A65|acque
+41A651|fontana
+41A652|peschiera
+41A652|stagno
+41A653|cascata
+41A66|grotta
+41A67|pianta
+41A671|fiore
+41A671|frutto
+41A671|insetto
+41A671|natura morta
+41A6711|mazzo di fiori
+41A6711|vaso
+41A6712|ordinamento
+41A672|albero
+41A672|arte topiaria
+41A672|bonsai
+41A672|cespuglio
+41A672|coltivare
+41A672|forma
+41A672|piante a spalliera
+41A672|potare
+41A672|tagliare
+41A672|taglio ornamentale di piante
+41A673|recipiente
+41A68|coltivazione
+41A681|giardiniere
+41A6811|innaffiare
+41A682|arnese
+41A682|attrezzi da giardinaggio
+41A682|attrezzo
+41A7|domestico
+41A7|mobilio
+41A711|tavola
+41A711|tavolo
+41A7111|tripode
+41A7112|tavolo su cavalletti
+41A712|credenza
+41A712|rastrelliera
+41A712|scaffale
+41A7121|scansia
+41A71221|biblioteca
+41A71221|libreria
+41A71221|libro
+41A713|arredo della tavola
+41A713|panno
+41A713|stoviglie da tavola
+41A72|seduto
+41A721|sedia
+41A7211|sgabello
+41A72111|poggiapiedi
+41A72111|posapiedi
+41A72111|sgabello (per i piedi)
+41A7212|poltrona
+41A7212|sedile
+41A7213|sedia a dondolo
+41A722|divano
+41A7221|cuscino
+41A723|banco
+41A73|immagazzinamento
+41A731|credenza
+41A732|credenza
+41A732|ornamento
+41A733|cassa
+41A734|cassone
+41A735|serratura
+41A7351|chiave
+41A7352|catenaccio
+41A7353|lucchetto
+41A741|paravento pieghevole
+41A741|schermo
+41A75|decorazione
+41A751|paravento
+41A751|schermo
+41A761|letto
+41A7611|bedstee
+41A7611|telaio del letto
+41A7612|baldacchino
+41A7612|baldacchino (di letto)
+41A7612|canopo
+41A76121|asta
+41A76121|letto (a baldacchino) a due aste
+41A76121|palo
+41A76122|asta
+41A76122|letto (a baldacchino) a quattro aste
+41A76122|palo
+41A762|amaca
+41A763|biancheria da letto
+41A7631|materasso
+41A7632|cuscino
+41A7633|lenzuolo
+41A7633|telo
+41A7634|coperta
+41A7635|copriletto
+41A77|contenitore
+41A771|bidone
+41A771|latta
+41A771|lattina
+41A771|metallo
+41A771|scatoletta
+41A771|secchio
+41A771|vaso
+41A7711|argento
+41A7711|metallo prezioso
+41A7711|oro
+41A772|pietra
+41A772|vaso
+41A7721|pietra preziosa
+41A773|brocca
+41A773|ceramica
+41A773|recipiente
+41A773|stoviglie
+41A773|vaso
+41A774|bottiglia
+41A774|vaso
+41A774|vetro
+41A775|botte
+41A775|legno
+41A7751|cesto
+41A776|borsa
+41A776|cuoio
+41A776|pelle
+41A777|borsa
+41A777|rete
+41A777|sacco
+41A778|borsa
+41A778|carta
+41A778|contenitore di cartone
+41A778|scatola di cartone
+41A779|materiale sintetico
+41A779|plastica
+41A78|fancy goods
+41A78|ninnoli
+41A81|ammobiliare
+41A82|spostarsi
+41A9|casa
+41A9|castello
+41A9|rovina
+41AA10|Edifitio overo un sito
+41AA10|Ripa
+41AA11|palazzo
+41AA111|hôtel (palazzo)
+41AA12|castello
+41AA121|casa
+41AA121|fortificazione
+41AA13|edificio pubblico
+41AA13|grande magazzino
+41AA13|negozio
+41AA14|casa
+41AA14|città
+41AA141|fila
+41AA141|strada
+41AA141|via
+41AA142|negozio
+41AA143|casa indipendente
+41AA143|casa isolata
+41AA144|appartamento
+41AA144|edificio ad appartamenti
+41AA15|grattacielo
+41AA16|casa
+41AA16|casetta di campagna
+41AA16|edificio rurale
+41AA161|casa di campagna
+41AA162|villa
+41AA163|villino
+41AA17|fattoria
+41AA171|granaio
+41AA18|cabina
+41AA18|capanna
+41AA18|casetta
+41AA18|casupola
+41AA181|capanna di legno
+41AA181|capanna di tronchi
+41AA182|Indiani americani
+41AA182|abitazione dei nativi del Nord America
+41AA191|tenda
+41AA1911|campo
+41AA1912|Indiani americani
+41AA1912|tepee
+41AA1912|tipi
+41AA192|carovana
+41AA1921|campo
+41AA1922|rimorchio
+41AA193|casa galleggiante
+41AA194|abitazione lacustre
+41AA194|palafitta
+41AA195|capanna
+41AA195|casa di neve
+41AA195|igloo
+41AA196|caverna
+41B1|calore
+41B1|focolare
+41B1|focolare (aperto)
+41B1|fuoco
+41B11|accendere
+41B111|acciaio
+41B111|pietra focaia
+41B112|scatola per esca e acciarino
+41B113|zolfanello
+41B114|fiammifero
+41B1141|scatola di fiammiferi
+41B115|miccia
+41B12|bruciare
+41B12|combustibile
+41B12(COAL)|carbone
+41B12(FAGGOT)|fascina
+41B12(LOG)|ceppo
+41B12(OIL)|olio
+41B12(STRAW)|paglia
+41B121|fiamma
+41B122|scintilla
+41B123|combustione
+41B123|gas
+41B13|agitare
+41B13|rimescolare
+41B131|soffiare
+41B1311|mantice
+41B132|fare vento
+41B1321|ventola
+41B133|attizzare
+41B1331|attizzatoio
+41B14|estinguere
+41B151|fuliggine
+41B152|ceneri
+41B153|cenere
+41B153|scoria
+41B16|fuoco di bivacco
+41B16|fuoco di guardia
+41B161|falò
+41B162|fumo
+41B2|calore
+41B21|focolare
+41B21|focolare (aperto)
+41B211|Hyems
+41B211|fuoco
+41B211|scaldaletto
+41B211|scaldare
+41B211|scaldino
+41B212|arnese
+41B212|attrezzo
+41B2121|molle per il fuoco
+41B2121|tenaglie
+41B2122|carbone
+41B2122|estintore
+41B213|accessori
+41B2131|parafuoco
+41B2131|schermo
+41B2132|paralapilli
+41B2133|piano del focolare
+41B2133|piastra
+41B2134|figura umana
+41B2134|manichino
+41B2135|catena
+41B2135|recipiente
+41B2136|alare
+41B214|camino
+41B2141|mensola di camino
+41B2142|ornamento
+41B22|stufa
+41B221|grata
+41B222|pipa
+41B222|tubo da stufa
+41B223|carbone
+41B223|secchio
+41B224|carbone
+41B224|vanga
+41B23|scaldapiedi
+41B23|stufa
+41B231|scaldaletto
+41B231|scaldino
+41B232|borsa d'acqua calda
+41B232|bottiglia d'acqua calda
+41B24|riscaldamento centralizzato
+41B241|termosifone
+41B29|aria condizionata
+41B29|raffreddare
+41B3|lampada
+41B3|luce
+41B31|candela
+41B311|candelabro
+41B312|candelabro a muro
+41B312|lampada a muro
+41B313|candeliere
+41B314|smoccolatoio
+41B32|a testa in giù
+41B32|capovolto
+41B32|fiaccola
+41B32|sottosopra
+41B33|lanterna
+41B34|lampada a olio
+41B35|lampada a paraffina
+41B36|lampada a gas
+41B37|lampada elettrica
+41B371|bulbo
+41B371|lampadina
+41B372|neon
+41B372|tubo
+41B4|bruciare
+41B4|fuoco
+41B5|attività antincendio
+41B5|estinguere
+41B5|fuoco
+41B5|lotta contro il fuoco
+41B51|occupazioni
+41B51|vigili del fuoco
+41B511|pompiere
+41B511|vigile del fuoco
+41B52|equipaggiamento
+41B521|secchio
+41B522|pompa
+41B523|manichetta antincendio
+41B523|naspo
+41B524|apparato chimico
+41B525|pompa antincendio
+41B53|soccorrere
+41B531|telo di salvataggio
+41B6|ventilazione
+41B61|pozzo di ventillazione
+41C|nutrimento
+41C|nutrizione
+41C10|arte
+41C10|bere
+41C10|gastronomia
+41C10|mangiare
+41C11|mangiare
+41C111|cibo
+41C111|dare
+41C111|nutrire
+41C119|fame
+41C1190|Fame
+41C1190|Fames
+41C1190|Ripa
+41C1190|personificazione
+41C1191|carestia
+41C1191|inedia
+41C1192|sciopero
+41C1192|sciopero della fame
+41C12|bere
+41C121|bevanda
+41C121|dare
+41C122|versare
+41C129|sete
+41C13|raffreddare
+41C13|soffiare
+41C14|agitare
+41C14|raffreddare
+41C14|rimescolare
+41C18|saturazione
+41C18|sazietà
+41C19|fame
+41C19|insaziabilità
+41C19|sete
+41C21|cucina
+41C211|interno
+41C2111|cibo
+41C2111|keukenstuk
+41C2111|natura morta
+41C212|lavabo
+41C22|occupazioni
+41C22|personale
+41C22|personale di cucina
+41C22|servo/a
+41C221|cuoco
+41C222|cameriera
+41C222|cuoca
+41C23|cucina
+41C23|ricco e povero
+41C231|cucina ricca
+41C232|cucina povera
+41C24|conservazione
+41C241|cantina
+41C2411|cantina per vino
+41C24111|cantiniere
+41C24111|dispensiere
+41C242|cella frigorifera
+41C2421|frigorifero
+41C2421|ghiacciaia
+41C25|cucinare
+41C251|arrostire
+41C2511|spiedo
+41C2512|graticola
+41C252|friggere
+41C253|bollire
+41C254|fuoco
+41C2541|focolare
+41C2541|focolare (aperto)
+41C2541|stufa
+41C2542|fornello
+41C2543|forno
+41C26|pasto
+41C26|preparativi
+41C26|preparazione
+41C261|pulire
+41C2611|verdura
+41C2612|frutto
+41C2612|sbucciare
+41C26121|buccia
+41C26121|limone
+41C2613|cacciagione
+41C2613|selvaggina
+41C2613|volatile
+41C26131|volatile spennato
+41C262|dividere
+41C2621|carne
+41C2621|tagliare
+41C2622|pane
+41C2622|tagliare
+41C263|mescolare
+41C263|mischiare
+41C2631|impastare
+41C2631|impasto
+41C2631|pastella
+41C264|battere
+41C264|levigare
+41C265|decorazione
+41C269|lavare
+41C269|piatto
+41C27|arnese
+41C27|attrezzo
+41C27|utensili da cucina
+41C27(CAULDRON)|arnese
+41C27(CAULDRON)|attrezzo
+41C27(CAULDRON)|calderone
+41C27(CAULDRON)|civilizzazione
+41C27(CAULDRON)|cultura
+41C27(CAULDRON)|materialità
+41C27(CAULDRON)|nutrimento
+41C27(CAULDRON)|nutrizione
+41C27(CAULDRON)|società
+41C27(CAULDRON)|utensili da cucina
+41C27(COLANDER)|arnese
+41C27(COLANDER)|attrezzo
+41C27(COLANDER)|civilizzazione
+41C27(COLANDER)|colino
+41C27(COLANDER)|cultura
+41C27(COLANDER)|materialità
+41C27(COLANDER)|nutrimento
+41C27(COLANDER)|nutrizione
+41C27(COLANDER)|società
+41C27(COLANDER)|utensili da cucina
+41C27(FRYING PAN)|arnese
+41C27(FRYING PAN)|attrezzo
+41C27(FRYING PAN)|civilizzazione
+41C27(FRYING PAN)|cultura
+41C27(FRYING PAN)|materialità
+41C27(FRYING PAN)|nutrimento
+41C27(FRYING PAN)|nutrizione
+41C27(FRYING PAN)|padella
+41C27(FRYING PAN)|società
+41C27(FRYING PAN)|utensili da cucina
+41C27(FUNNEL)|arnese
+41C27(FUNNEL)|attrezzo
+41C27(FUNNEL)|civilizzazione
+41C27(FUNNEL)|cultura
+41C27(FUNNEL)|imbuto
+41C27(FUNNEL)|materialità
+41C27(FUNNEL)|mestolo
+41C27(FUNNEL)|nutrimento
+41C27(FUNNEL)|nutrizione
+41C27(FUNNEL)|società
+41C27(FUNNEL)|utensili da cucina
+41C27(GRATER)|arnese
+41C27(GRATER)|attrezzo
+41C27(GRATER)|civilizzazione
+41C27(GRATER)|cultura
+41C27(GRATER)|grattugia
+41C27(GRATER)|materialità
+41C27(GRATER)|nutrimento
+41C27(GRATER)|nutrizione
+41C27(GRATER)|società
+41C27(GRATER)|utensili da cucina
+41C27(LADLE)|arnese
+41C27(LADLE)|attrezzo
+41C27(LADLE)|civilizzazione
+41C27(LADLE)|cultura
+41C27(LADLE)|materialità
+41C27(LADLE)|mestolo
+41C27(LADLE)|nutrimento
+41C27(LADLE)|nutrizione
+41C27(LADLE)|società
+41C27(LADLE)|utensili da cucina
+41C27(PAN)|arnese
+41C27(PAN)|attrezzo
+41C27(PAN)|casseruola
+41C27(PAN)|civilizzazione
+41C27(PAN)|cultura
+41C27(PAN)|materialità
+41C27(PAN)|nutrimento
+41C27(PAN)|nutrizione
+41C27(PAN)|società
+41C27(PAN)|utensili da cucina
+41C27(POT)|arnese
+41C27(POT)|attrezzo
+41C27(POT)|civilizzazione
+41C27(POT)|cultura
+41C27(POT)|materialità
+41C27(POT)|nutrimento
+41C27(POT)|nutrizione
+41C27(POT)|pentola
+41C27(POT)|società
+41C27(POT)|utensili da cucina
+41C27(ROLLING-PIN)|arnese
+41C27(ROLLING-PIN)|attrezzo
+41C27(ROLLING-PIN)|civilizzazione
+41C27(ROLLING-PIN)|cultura
+41C27(ROLLING-PIN)|materialità
+41C27(ROLLING-PIN)|mattarello
+41C27(ROLLING-PIN)|mestolo
+41C27(ROLLING-PIN)|nutrimento
+41C27(ROLLING-PIN)|nutrizione
+41C27(ROLLING-PIN)|società
+41C27(ROLLING-PIN)|utensili da cucina
+41C27(SIEVE)|arnese
+41C27(SIEVE)|attrezzo
+41C27(SIEVE)|civilizzazione
+41C27(SIEVE)|cultura
+41C27(SIEVE)|materialità
+41C27(SIEVE)|mestolo
+41C27(SIEVE)|nutrimento
+41C27(SIEVE)|nutrizione
+41C27(SIEVE)|setaccio
+41C27(SIEVE)|società
+41C27(SIEVE)|utensili da cucina
+41C27(SKIMMER)|arnese
+41C27(SKIMMER)|attrezzo
+41C27(SKIMMER)|civilizzazione
+41C27(SKIMMER)|cultura
+41C27(SKIMMER)|materialità
+41C27(SKIMMER)|nutrimento
+41C27(SKIMMER)|nutrizione
+41C27(SKIMMER)|scrematrice
+41C27(SKIMMER)|società
+41C27(SKIMMER)|utensili da cucina
+41C3|arredo della tavola
+41C3|stoviglie da tavola
+41C311|coltello
+41C312|forchetta
+41C313|cucchiaio
+41C314|sale
+41C315|contenitore per spezie
+41C315|scatola
+41C316|portauovo
+41C317|raffreddare
+41C317|secchiello del ghiaccio
+41C32|recipiente
+41C32|recipiente per bere
+41C321|coppa
+41C3211|corno
+41C3211|corno per bere
+41C3212|nautilo
+41C322|coppa
+41C323|bicchierone
+41C323|vetro
+41C323(BERKEMEYER)|berkemeyer
+41C323(PASGLAS)|pasglas
+41C324|boccale
+41C325|fontana
+41C326|brocca
+41C326|vaso
+41C327|forma
+41C3271|animale
+41C3272|figura umana
+41C32721|teschio
+41C33|servizio da caffè
+41C33|servizio da tè
+41C33|servizio di stoviglie
+41C331|coppa
+41C331|sottocoppa
+41C332|recipiente
+41C333|recipiente
+41C333|samovar
+41C334|zuccheriera
+41C34|servizio da pranzo
+41C34|servizio di stoviglie
+41C341|piatto
+41C342|piatto
+41C343|vassoio
+41C344|salsiera
+41C345|ciotola
+41C35|decorazione
+41C351|alzata
+41C351|centro tavola
+41C351|milieu-de-table
+41C351|surtout
+41C352|pièces montées
+41C352|trionfi di tavola
+41C353|acquamanile
+41C353|lavare (mani)
+41C353|recipiente
+41C36|credenza
+41C36|servizio da pranzo
+41C36|servizio di stoviglie
+41C37|panno
+41C371|tovagliolo
+41C3711|anello
+41C3711|portatovagliolo
+41C38|natura morta
+41C38|tavola
+41C38|tavolo
+41C381|colazione
+41C381|ontbijtje
+41C382|banchetto
+41C4|pasto
+41C4|pasto familiare
+41C41|colazione
+41C411|caffè
+41C411|mattina
+41C42|pasto di mezzogiorno
+41C42|pranzo
+41C421|high tea
+41C421|tè
+41C4211|cerimonia
+41C422|tè pomeridiano
+41C43|cena
+41C44|cena
+41C5|banchetto
+41C5|celebrazione
+41C5|festa
+41C5|pasto
+41C50|Convito
+41C50|Ripa
+41C51|compagnia
+41C51|compagnia raffinata
+41C52|bicchierata
+41C52|orgia
+41C520|Crapula
+41C520|Ripa
+41C6|cibo
+41C6|natura morta
+41C61|farina
+41C611|grano
+41C612|grano
+41C6121|cereale
+41C6121|porridge
+41C6122|spaghetti
+41C6122|tagliatelle
+41C621|forma di pane
+41C621|pagnotta
+41C621|pane
+41C6211|forma
+41C62111|forma circolare
+41C62111|pizza
+41C6212|hamburger
+41C6212|panino da imbottire
+41C6212|riempire
+41C6212|sandwich
+41C622|crostata
+41C622|pasticceria
+41C622|torta
+41C6221|pasticcini
+41C6222|biscuit
+41C623|frittella
+41C624|cialda
+41C6241|wafer
+41C625|pasticcio
+41C626|stampo
+41C6261|crostata
+41C6261|pasticceria
+41C6261|torta
+41C6262|biscuit
+41C62621|speculaasplank
+41C6263|ferro
+41C6263|stampo per cialde
+41C6264|latta
+41C6264|pane
+41C6264|stampo per pane
+41C6264|teglia
+41C63|zucchero
+41C631|zucchero in zollette
+41C632|zollette di zuccheero
+41C633|sciroppo
+41C634|candito
+41C635|dolci
+41C635|leccornia
+41C6351|gelato
+41C6352|cioccolato
+41C636|miele
+41C637|rivestimento di zucchero
+41C6371|glassa
+41C6371|glassatura
+41C641|latticini
+41C6411|burro
+41C6412|formaggio
+41C6413|latte
+41C64131|siero di latte
+41C64132|yogurt
+41C64133|panna
+41C642|uovo
+41C65|frutto
+41C65|verdura
+41C651|patata
+41C6511|lavorazione
+41C6511|patatine fritte
+41C652(...)|carota
+41C652(...)|rapa
+41C6521|lavorazione
+41C6531|lavorazione
+41C6531|marmellata
+41C6531|preservare
+41C66|condimento
+41C66|spezia
+41C66(SAFFRON)|zafferano
+41C661|sale
+41C662|pepe
+41C663|senape
+41C671|grassi vegetali
+41C671|grasso
+41C671|olio
+41C6711|margarina
+41C672|aceto
+41C673|salsa
+41C68|pesce
+41C68(SMOKED HERRING)|aringa
+41C68(SMOKED HERRING)|aringa affumicata
+41C68(SMOKED HERRING)|aringa rossa
+41C681|frutti di mare
+41C69|carne
+41C691|bue
+41C691|macellare
+41C691|maiale
+41C692(...)|agnello
+41C692(...)|carne suina
+41C692(...)|maiale
+41C692(...)|manzo
+41C692(...)|montone (carne di)
+41C693|salsiccia
+41C694|prosciutto
+41C695|grasso
+41C696|minestra
+41C71|alcool
+41C71|bevanda
+41C711|vino
+41C7111|vetro
+41C7112|bottiglia di vino
+41C712|liquore
+41C713|bevande alcoliche
+41C713|distillati
+41C713|liquore (distillati)
+41C7131|gin
+41C7132|whisky
+41C7133|vodka
+41C7134|arzente
+41C7134|brandewijn
+41C7134|brandy
+41C714|birra
+41C7141|vetro
+41C7151|cocktail
+41C72|bevanda
+41C72|stimolante
+41C721|caffè
+41C7211|coppa
+41C722|tè
+41C7221|coppa
+41C723|cacao
+41C723|cioccolato
+41C73|bibita
+41C73|softdrink
+41C731|frutto
+41C731|sciroppo
+41C732|frutto
+41C732|succo
+41C74|tabacco
+41C741|pipa
+41C7411|narghilè
+41C7411|pipa ad acqua
+41C7411|pipa turca
+41C7412|intrecciare
+41C7412|rotolo
+41C7412|torcere
+41C7413|scatola di tabacco
+41C7413|vaso
+41C7414|portapipe
+41C7415|portacenere
+41C742|sigaro
+41C7421|scatola
+41C7421|scatola di sigari
+41C7422|astuccio
+41C7422|portasigari
+41C7423|bocchino per sigaro
+41C743|sigaretta
+41C7431|astuccio
+41C7431|portasigarette
+41C7432|carta
+41C7432|carta da sigaretta
+41C7433|bocchino da sigaretta
+41C7433|bocchino per sigaretta
+41C7433|pipa
+41C744|tabacco da fiuto
+41C7441|scatola
+41C7441|tabacchiera
+41C745|tabacco da masticare
+41C74511|betel
+41C74511|sirih
+41C74512|gomma da masticare
+41C75|droga
+41C75(HASHISH)|hashish
+41C751|oppio
+41C7511|pipa
+41C7511|pipa d'oppio
+41C7512|casa
+41C7512|covo
+41C7512|fumeria d'oppio
+41C76|essenza
+41C76|profumo
+41C761|scatola
+41C761|scatola dei profumi
+41C762|incenso
+41C762|turibolo
+41C9|cannibalismo
+41C91|necrofagia
+41CC2511|spiedo
+41CC2512|graticola
+41CC2611|verdura
+41CC2612|frutto
+41CC2612|sbucciare
+41CC26121|buccia
+41CC26121|limone
+41CC2613|cacciagione
+41CC2613|selvaggina
+41CC2613|volatile
+41CC2621|carne
+41CC2621|tagliare
+41CC2622|pane
+41CC2622|tagliare
+41CC2631|impastare
+41CC2631|impasto
+41CC2631|pastella
+41CC411|caffè
+41CC411|mattina
+41CC421|high tea
+41CC421|tè
+41CC4211|cerimonia
+41CC422|tè pomeridiano
+41D|vestire
+41D1|moda
+41D1|occupazioni
+41D11|figurino (moda)
+41D11|illustrazione
+41D12|sfilata di moda
+41D12|spettacolo
+41D121|indossatrice
+41D121|modello (chi posa)
+41D122|figura umana
+41D122|manichini per vetrina
+41D13|diffusione di moda
+41D13|vendita di moda
+41D131|beau
+41D131|dandy
+41D1310|Delitioso
+41D1310|Ripa
+41D1311|incroyable
+41D132|belle
+41D132|donna
+41D1321|merveilleuse
+41D14|designer di moda
+41D14|progetto
+41D14|stilista
+41D2|abiti
+41D2|abito
+41D2|costume
+41D211|toga
+41D211(BALL GOWN)|abito da ballo
+41D211(BALL GOWN)|ballo
+41D211(CHEMISE À LA REINE)|chemise à la Reine
+41D211(DAY DRESS)|day dress
+41D211(DINNER DRESS)|dinner dress
+41D211(EVENING DRESS)|abito da sera
+41D211(EVENING DRESS)|evening dress
+41D211(MANTEAU)|manteau
+41D211(MORNING DRESS)|morning dress
+41D211(REDINGOTE)|redingote
+41D211(ROBE À L’ANGLAISE)|robe à l'anglaise
+41D211(ROBE VOLANTE)|robe volante
+41D211(ROBE À L'ANGLAISE)|robe à l'anglaise
+41D211(ROBE À LA FRANÇAISE)|robe à la française
+41D211(ROBE À LA LÉVITE)|robe à la lévite
+41D211(ROBE À LA POLONAISE)|robe à la polonaise
+41D211(WALKING DRESS)|walking dress
+41D212|manto
+41D212|soprabito
+41D212|tunica
+41D2121(BOLERO)|bolero
+41D2121(CARACO)|caraco
+41D21211|vestaglia
+41D21211(BANYAN)|banyan
+41D2122(MANTELET)|mantelet
+41D2122(MANTELET)|pelerine
+41D213|insieme
+41D213(SAILOR SUIT)|marinaio
+41D213(SAILOR SUIT)|vestito da marinaio
+41D221|copricapo
+41D221(...)|berretto
+41D221(...)|cappello
+41D221(...)|turbante
+41D221(...)|zucchetto
+41D221(BICORNE)|bicorno
+41D221(BICORNE)|feluca
+41D221(BOATER)|paglietta
+41D221(BOWLER)|bombetta
+41D221(FONTANGE)|fontange
+41D221(HOOD)|capuccio
+41D221(MORNING CAP)|bonnet du matin
+41D221(TOP HAT)|cilindro
+41D221(TOQUE)|toque
+41D221(TRICORNE)|tricorno
+41D2211|velo
+41D2212|berretto frigio
+41D222|gorgiera
+41D222(COLLAR)|collare
+41D222(JABOT)|jabot
+41D223(BLOUSE)|blusa
+41D223(BLOUSE)|canezou
+41D2231|décolleté
+41D2231|petto
+41D224|manica
+41D225|guanto
+41D225|mezzo guanto
+41D2251|mano
+41D2251|manus velatae
+41D2251|panno
+41D2252|manicotto
+41D231|calzoni
+41D2311|braghetta
+41D2311|organi genitali
+41D232|gonna
+41D2321|grembiale
+41D233|calzatura
+41D233|gamba
+41D2331|calza
+41D2331|calzino
+41D2332|sandalo
+41D2332|scarpa
+41D23321|stivali
+41D23322|pantofola
+41D2333|zoccoli
+41D2334|disuguale
+41D2334|ineguale
+41D23341|pantofola
+41D23341|scarpa
+41D23342|a piedi scalzi
+41D2335|accessori
+41D2335|corno da scarpe
+41D2335|lucido
+41D2335|lucido da scarpe
+41D2335|soletta
+41D2339|a piedi scalzi
+41D241|abito ufficiale
+41D241|uniforme
+41D2411|attributo
+41D2411|dignitario
+41D242|abiti da ricevimento
+41D2421|ballo
+41D2421|mascherata
+41D2422|festa
+41D2422|travestirsi
+41D2423|costume storico
+41D24231|parata
+41D244|fantasia
+41D249|scultura
+41D249|statua
+41D251|biancheria intima
+41D2512(CORSET)|corsetto
+41D2513(BLOOMERS)|bloomers
+41D2513(BLOOMERS)|mutandoni
+41D2513(CORSET)|corsetto
+41D252|vesti da notte
+41D252(...)|pigiama
+41D252(NIGHT-CAP)|berretto
+41D252(NIGHT-CAP)|berretto da notte
+41D252(NIGHT-CAP)|zucchetto
+41D252(NIGHT-GOWN)|camicia da notte
+41D252(NIGHT-GOWN)|toga
+41D253|imbottitura
+41D253|riempire
+41D26|accessori
+41D261|fazzoletto
+41D262|ventaglio
+41D2621|fare vento
+41D2621|linguaggio
+41D2621|linguaggio del ventaglio
+41D263|bastone
+41D263|bastone da passeggio
+41D2631|ombrello
+41D2632|parasole
+41D264|chiusura
+41D2641|spillo
+41D26411|fibula
+41D26411|spilla da balia
+41D2642|bottone
+41D26421|bottoncino
+41D26421|bottone da camicia
+41D2643|bottoncino
+41D2643|bottone a gancio
+41D2643|bottone automatico
+41D2644|fibbia
+41D26441|chiusura lampo
+41D2645|bretelle
+41D2646|cerniera lampo
+41D265|ornamento
+41D2651|filato
+41D2651|ricamo
+41D26511|oro
+41D26512|perlina
+41D2652|merletto
+41D2653|bordo
+41D2653|fettuccia
+41D2653|nastro
+41D2654|fiocco
+41D2655|corsage
+41D2655|decorazione da corpetto
+41D2656|cintura
+41D2657|bandoliera
+41D2657|tracolla
+41D266|gioielli
+41D2661|collana
+41D26611|perla
+41D26612|breloque
+41D26612|ciondolo
+41D26612|medaglione
+41D26612|pendente
+41D2662|braccialetto
+41D26621|cavigliera
+41D2663|orecchino
+41D2664|anello
+41D2665|agraffe
+41D2665|fermaglio
+41D2665|spilla
+41D2666|diadema
+41D2666|tiara
+41D2668|cofanetto di gioielli
+41D2668|scatola
+41D2668|scrigno per gioielli
+41D267|borsa di denaro
+41D268|borsa
+41D269|cachenez
+41D269|loup
+41D269|maschera
+41D27|Gewandgebung
+41D27|tessuto
+41D271|Pneumazipfel
+41D271|vento
+41D28|travestimento
+41D281|abiti da uomo
+41D281|abiti maschili
+41D282|abiti femminili
+41D283|maschera
+41D29|brandello
+41D29|cencio
+41D3|abito
+41D3|costume
+41D3|folclore
+41D41|arieggiare
+41D41|battere
+41D41|cure
+41D41|spazzolare
+41D411|appendere
+41D4111|appendiabiti
+41D4111|attaccapanni
+41D4112|asta
+41D4112|palo
+41D42|lavare (vestiti)
+41D421|appendere
+41D421|asciugare
+41D421|molletta
+41D421|molletta per panni
+41D422|candeggiare
+41D423|manganare
+41D424|stiratura
+41D4241|ferro
+41D4241|ferro da stiro
+41D4242|asse da stiro
+41D4242|tavola
+41D425|lavaggio a secco
+41D425|trattare a vapore
+41D426|pressare
+41D426|schiacciare
+41D4261|mangano
+41D427|accessori
+41D427|arnese
+41D427|attrezzo
+41D427|filo da bucato
+41D427|molletta
+41D427|molletta per panni
+41D427|stenditoio
+41D428|annesso
+41D428|dipendenza
+41D428|edificio
+41D4281|lavaggio
+41D4281|lavanderia
+41D4281|lavatoio
+41D4281|ripostiglio
+41D4282|lavatoio pubblico
+41D4282|nave-lavatoio
+41D43|tingere
+41D441|cucire
+41D4411|ago
+41D4412|cesto da lavoro
+41D4412|scatola
+41D4413|macchina
+41D4413|macchina per cucire
+41D442|riparare
+41D4421|rammendare
+41D4421|rappezzare
+41D443|cucito
+41D443|lavorare a maglia
+41D443|lavorare all'uncinetto
+41D443|ricamo
+41D9|mostrare
+41D9|nudo
+41D9|seminudo
+41D9|spogliare
+41D9|svestire
+41D91|uomo
+41D92|donna
+41D921|décolleté
+41D94|rimboccare
+41D94|ripiegare
+41D99|vergogna
+41D991|coprire
+41D991|tentativo
+41E|natura morta
+41E2|dipinto
+41E2|illusione ottica
+41E2|quadro
+41E2|trompe l'oeil
+42|famiglia
+42|progenie
+42A1|gravidanza
+42A1|procreazione
+42A11|concepire
+42A11|concezione
+42A121|feto
+42A13|comportamento
+42A13|trattamento
+42A131|esenzione
+42A131|licenza per malattia
+42A132|capogiro
+42A132|nausea
+42A133|cibo
+42A133|mangiare
+42A134|impressione
+42A134|impressione materna
+42A134|paura
+42A134|verzien
+42A1341|bambino
+42A1341|marchio
+42A1341|neonato/a
+42A14|paternità
+42A18|fertilità
+42A19|donna
+42A19|sterilità
+42A190|Ripa
+42A190|Sterilità
+42A191|desiderio
+42A192|azione contraria
+42A192|concepire
+42A192|concezione
+42A192|fertilità
+42A193|controllo delle nascite
+42A2|donna
+42A2|nascita
+42A21|sala da parto
+42A21|stanza
+42A211|distesi (partorienti)
+42A2111|accovacciarsi
+42A2112|sedia
+42A2112|sedia gestatoria
+42A2119|difficoltà
+42A21191|forcipe
+42A21192|parto cesareo
+42A21192|sezione
+42A21193|parto prematuro
+42A21194|nascere con la camicia
+42A212|bambino
+42A212|neonato/a
+42A2121|grido
+42A2121|primo vagito
+42A2121|respirare
+42A2122|cordone ombelicale
+42A2122|tagliare
+42A2123|placenta
+42A213|bambino/a
+42A213|mostrare
+42A213|padre
+42A213|padre e figlio/a
+42A214|cure
+42A22|distesi (partorienti)
+42A22|visitare
+42A221|annunziare
+42A23|casa
+42A23|distesi (partorienti)
+42A23|segno
+42A24|levatrice
+42A241|ostetrico
+42A241|ostetrico/a
+42A25|balia
+42A25|balia asciutta
+42A251|bakermat
+42A251|nursing-chair
+42A251|sedia
+42A251|sedia (a dondolo) da puerpera
+42A252|abiti
+42A252|bambino
+42A252|fasce
+42A252|neonato/a
+42A2521|fasciare
+42A26|gemelli
+42A261|gemelli siamesi
+42A27(...)|parto multiplo
+42A27(...)|parto trigemino
+42A27(...)|quadruplo
+42A27(...)|quintuplo
+42A28|albero
+42A28|arbusto d'uva spina
+42A28|bambino
+42A28|cavolo
+42A28|crescere
+42A28|folclore
+42A28|gravidanza
+42A28|neonato/a
+42A281|portare
+42A2811|essere soprannaturale
+42A2812|uomo
+42A2813|animale
+42A2813|cicogna
+42A29|aborto
+42A291|aborto (chi procura aborti)
+42A299|animale
+42A299|mostro
+42A3|bambino/a
+42A3|madre
+42A3|madre e figlio/a
+42A30|maternità
+42A31|allattare
+42A31|curare
+42A311|balia
+42A312|animale
+42A32|nutrire
+42A33|cambio
+42A33|lavare
+42A331|pannolino
+42A34|bagno
+42A35|vestire
+42A351|capelli
+42A351|pettine
+42A36|canticchiare
+42A36|carezzare
+42A36|far saltare sulle ginocchia
+42A36|giocare
+42A361|cullare
+42A362|cantare
+42A362|ninna-nanna
+42A37|dormire
+42A37|guardare
+42A4|bambino
+42A4|neonato/a
+42A41|mobilio
+42A411|culla
+42A412|sedia
+42A412|seggiolone
+42A413|recinto per bambini
+42A42|carretto
+42A42|carrozzina
+42A42|passeggino
+42A4211|portare sulla schiena
+42A4212|a cavalcioni
+42A4212|fianco
+42A4212|portare
+42A4213|cesto
+42A4213|culla
+42A4213|portare
+42A4213|testa
+42A43|dentizione
+42A43|mettere i denti
+42A431|dente
+42A432|anello
+42A432|dentaruolo
+42A44|svezzare
+42A441|tettarella
+42A45|raganella
+42A46|cure
+42A461|genitori
+42A462|baby-sitter
+42A5|bambino/a
+42A5|ragazza
+42A5|ragazzo
+42A50|Pueritia
+42A50|Ripa
+42A50|infanzia
+42A51|bambino ai primi passi
+42A511|camminare
+42A511|fare un passo
+42A511|passo
+42A5111|camminare carponi
+42A5112|girello
+42A5113|casco per bambini
+42A5113|protezione
+42A512|parlare
+42A52|giocare
+42A53|cure
+42A53|igiene
+42A54|cattivo/a
+42A54|consuetudine
+42A541|mordere
+42A541|unghia
+42A542|pollice
+42A542|succhiare
+42A55|dolore
+42A55|infanzia
+42A551|confortare
+42A552|fuggire
+42A5521|cercare
+42A5521|ritrovare
+42A553|casa
+42A553|dimora
+42A553|ritornare
+42A56|educare
+42A561|misurare
+42A562|dente
+42A562|perdere
+42A57|compito
+42A57|incarico
+42A571|aiuto
+42A571|commissione
+42A571|far spese
+42A571|messaggero
+42A58|Struwwelpeter
+42A58|capelli
+42A59|orco
+42A59|spauracchio
+42AA461|genitori
+42AA462|baby-sitter
+42AA511|camminare
+42AA511|fare un passo
+42AA511|passo
+42AA5111|camminare carponi
+42AA5112|girello
+42AA5113|casco per bambini
+42AA5113|protezione
+42AA512|parlare
+42AA541|mordere
+42AA541|unghia
+42AA542|pollice
+42AA542|succhiare
+42AA5521|cercare
+42AA5521|ritrovare
+42B|bambino/a
+42B|genitori
+42B1|amore
+42B1|amore dei genitori
+42B11|amore paterno
+42B11|padre
+42B111|figlio
+42B111|padre e figlio
+42B112|figlia
+42B112|padre e figlia
+42B113|figlia
+42B113|figlio
+42B113|padre e figlia
+42B113|padre e figlio
+42B12|amore materno
+42B12|madre
+42B121|figlio
+42B121|madre e figlio
+42B122|figlia
+42B122|madre e figlia
+42B123|figlia
+42B123|figlio
+42B123|madre e figlia
+42B123|madre e figlio
+42B2|amore
+42B2|amore dei genitori
+42B2|assenza
+42B2|maltrattamento
+42B2|trascuratezza
+42B20|Oblivione d'amore verso i figliuoli
+42B20|Ripa
+42B21|disconoscere
+42B22|genitore adottivo
+42B221|patrigno
+42B222|matrigna
+42B29|uccidere
+42B3|trovatello/a
+42B31|abbandonare
+42B311|madre
+42B311|madre e figlio/a
+42B311|separare
+42B312|changeling
+42B312|sostituzione
+42B312|sostituzione di un bambino
+42B321|adozione
+42B3210|Adottione
+42B3210|Ripa
+42B322|figlio illegittimo
+42B322|legittimazione
+42B33|genitore adottivo
+42B34|cercare
+42B35|riconoscere
+42B351|identità
+42B351|legittimazione
+42B36|figlio illegittimo
+42B361|investigazione
+42B361|paternità
+42B362|madre
+42B362|madre non sposata
+42B4|amore
+42B4|amore filiale
+42B40|Pietà de figliuoli verso il padre
+42B40|Ripa
+42B41|Caritas romana
+42B41|Cimone il Romano
+42B41|Pero
+42B41|allattare
+42B41|anziano
+42B41|figlia
+42B41|padre
+42B41|padre e figlia
+42B41|romano/a
+42B41|vecchio (anziano)
+42B42|Caritas romana
+42B42|allattare
+42B42|anziana
+42B42|figlia
+42B42|madre
+42B42|madre e figlia
+42B42|vecchia
+42B43|portare sulla schiena
+42B5|amore
+42B5|amore filiale
+42B5|assenza
+42B51|ricco e povero
+42B52|coperta
+42B52|gualdrappa
+42B53|cadavere
+42B53|colpire
+42B53|erede
+42B53|falso erede
+42B53|freccia
+42B53|giudice
+42B53|giudice esemplare
+42B53|padre e figlio
+42B53|rifiutare un ordine, una richiesta
+42B53|tirare
+42B54|parricidio
+42B542|matricidio
+42B6|orfano
+42B61|custode
+42B61|protettore
+42B61|tutore
+42B610|Ripa
+42B610|Tutela
+42B7|parenti
+42B71|casa
+42B71|dimora
+42B72|vacanza
+42B72|viaggiare
+42B74|gruppo
+42B741|padre
+42B741|padre e figlio/a
+42B7411|figlio
+42B7411|padre e figlio
+42B7412|figlia
+42B7412|padre e figlia
+42B742|madre
+42B742|madre e figlio/a
+42B7421|figlio
+42B7421|madre e figlio
+42B7422|figlia
+42B7422|madre e figlia
+42B75|gruppo
+42B751|nipote (di nonni)
+42B751|nipote (femmina, di nonni)
+42B751|nipote (maschio, di nonni)
+42B751|nonna
+42B751|nonno
+42B751|nonno/a e nipote
+42B76|figlia
+42B76|figlio
+42B76|generazione
+42B76|gruppo
+42B76|madre
+42B76|madre e figlia
+42B76|madre e figlio
+42B76|nipote (di nonni)
+42B76|nipote (femmina, di nonni)
+42B76|nipote (maschio, di nonni)
+42B76|nonna
+42B76|nonno
+42B76|nonno/a e nipote
+42B76|padre
+42B76|padre e figlia
+42B76|padre e figlio
+42B761|tre
+42B762|bisnonno/a
+42B762|quattro
+42B8|correzione
+42B8|disubbidienza
+42B8|punizione
+42B81|sculacciare
+42B82|colpire
+42B82|orecchio
+42B82|tirare le orecchie
+42B821|tirare
+42B83|buono e cattivo
+42B831|buono
+42B9|adolescente
+42B9|casa
+42B9|congedarsi
+42B9|dimora
+42C|giovinezza
+42C1|adolescente
+42C1|iniziazione
+42C1|pubertà
+42C2|adolescente
+42C2|iniziazione
+42C2|pubertà
+42C2|ragazza
+42C21|debuttante
+42C3|contrasto
+42C3|matrimonio
+42C3|vergine
+42D1|amante
+42D1|amore
+42D1|fidanzamento
+42D11|proposta
+42D111|inginocchiarsi
+42D111|pretendente
+42D119|amore non corrisposto
+42D12|permesso
+42D129|separare
+42D13|genitori
+42D13|permesso
+42D13|richiedere
+42D131|pesare
+42D132|agente matrimoniale
+42D132|mediatore matrimoniale
+42D14|cognata
+42D14|fidanzato/a
+42D14|figlio
+42D14|genitori
+42D14|madre
+42D14|padre
+42D14|presentare una persona
+42D14|suocera
+42D14|suocero
+42D141|sposa
+42D1411|dare
+42D1411|ritratto
+42D142|sposo
+42D1421|dare
+42D1421|ritratto
+42D15|contratto matrimoniale
+42D15|genitori
+42D15|suocera
+42D15|suocero
+42D16|contratto matrimoniale
+42D16|documento
+42D17|regalo di nozze
+42D1711|Minnekästchen
+42D1711|cofanetto nuziale
+42D1711|scatola
+42D1712|anello
+42D1712|anello nuziale
+42D172|dote
+42D18|dare
+42D19|festa
+42D19|scapolo
+42D2|cerimonia
+42D2|matrimonio
+42D21|abito nuziale
+42D21|marito e moglie
+42D21|sposa
+42D21|sposo
+42D2121|ghirlanda
+42D2121|serto
+42D2122|toletta (fare)
+42D2122|vestire
+42D21221|velo
+42D213|incontrare
+42D214|festa di nozze
+42D214|invitato a nozze
+42D214|servitore
+42D2141|testimone dello sposo
+42D2142|damigella d'onore
+42D2142|ragazza
+42D2143|paggio
+42D2143|ragazzo
+42D22|ammonire
+42D22|benedire
+42D22|cognata
+42D22|figlia
+42D22|figlio
+42D22|genero
+42D22|genitori
+42D22|suocera
+42D22|suocero
+42D221|casa
+42D221|dimora
+42D221|scelta
+42D23|casa
+42D23|dimora
+42D23|partire
+42D231|rapire
+42D2311|cattura di una moglie
+42D2311|sposa
+42D232|fuga (di due amanti)
+42D232|fuggire
+42D233|scambiare
+42D233|sposa
+42D24|matrimonio civile
+42D241|firmare
+42D241|registrazione
+42D242|Gretna Green
+42D242|irregolarità
+42D243|accogliere
+42D25|festa
+42D25|pasto
+42D251|arrivo
+42D252|torta
+42D253|danzare
+42D254|anniversario
+42D254|anniversario di matrimonio
+42D254|celebrazione
+42D2541|dodici e mezzo
+42D2541|rame
+42D2542|argento
+42D2542|venticinque
+42D2543|cinquanta
+42D2543|nozze d'oro
+42D2544|diamante
+42D2544|sessanta
+42D26|luna di miele
+42D26|marito e moglie
+42D26|viaggiare
+42D26|viaggio di nozze
+42D261|partire
+42D2611|confetti
+42D2611|lanciare
+42D2611|riso
+42D2611|scagliare
+42D2611|scarpa
+42D262|finalmente soli
+42D27|prima notte di nozze
+42D271|condurre
+42D271|letto
+42D271|sposa
+42D2711|bagno
+42D2711|purificazione
+42D2712|deflorazione
+42D2713|lottare
+42D2713|riluttanza
+42D272|disturbare
+42D273|risveglio
+42D274|verginità
+42D279|jus primae noctis
+42D3|marito e moglie
+42D3|matrimonio
+42D3|matrimonium
+42D30|Castità matrimoniale
+42D30|Fede maritale
+42D30|Matrimonio
+42D30|Ripa
+42D30|fedeltà
+42D31|cattivo
+42D31|disuguale
+42D31|ineguale
+42D311|età
+42D3111|deridere
+42D3111|disturbare
+42D3111|rimproverare
+42D3111|terze persone
+42D312|ricchezza
+42D3121|deridere
+42D3121|disturbare
+42D3121|rimproverare
+42D3121|terze persone
+42D313|misura
+42D314|salute
+42D32|satira
+42D321|trappola
+42D322|battaglia
+42D322|calzoni
+42D322|predominio
+42D323|contrasto
+42D33|felicità
+42D330|Benevolenza
+42D330|Benevolenza et Unione matrimoniale
+42D330|Concordia maritale
+42D330|Ripa
+42D331|marito
+42D331|marito ideale
+42D332|moglie
+42D332|moglie ideale
+42D34|predominio
+42D341|marito
+42D342|moglie
+42D3421|marito
+42D3421|marito dominato (dalla moglie)
+42D3421|marito tormentato (dalla moglie)
+42D3422|Bigorne
+42D3422|Chiceface
+42D35|cattivo
+42D351|litigare
+42D351|matrimonio 'à la mode'
+42D352|riconciliazione
+42D36|cattivo
+42D37|inganno
+42D37|marito tradito
+42D38|rapporto a tre
+42D39|adulterio
+42D390|Adulterio
+42D390|Ripa
+42D392|vendetta
+42D3921|giudizio divino
+42D3921|innocenza
+42D3921|ordalia
+42D4|morte
+42D41|vedovo
+42D42|vedova
+42D429|Efeso
+42D429|Vedova di Efeso
+42D43|matrimonio
+42D43|secondo matrimonio
+42D431|vedovo
+42D432|vedova
+42D5|divorzio
+42D5|figlia
+42D5|padre
+42D5|padre e figlia
+42D6|amore non corrisposto
+42D7|adulterio
+42D7|amante
+42D7|cicisbeo
+42D7|mantenuta
+42D71|concubina
+42D9|celibe
+42D9|non sposato/a
+42D9|nubile
+42D9|single
+42D91|scapolo
+42D91|uomo
+42D92|donna
+42D92|zitella
+42DD111|inginocchiarsi
+42DD111|pretendente
+42DD119|amore non corrisposto
+42DD251|arrivo
+42DD252|torta
+42DD253|danzare
+42DD254|anniversario
+42DD254|anniversario di matrimonio
+42DD254|celebrazione
+42DD2541|dodici e mezzo
+42DD2541|rame
+42DD2542|argento
+42DD2542|venticinque
+42DD2543|cinquanta
+42DD2543|nozze d'oro
+42DD2544|diamante
+42DD2544|sessanta
+42DD3121|deridere
+42DD3121|disturbare
+42DD3121|rimproverare
+42DD3121|terze persone
+42DD71|concubina
+42E|morte
+42E|riti funebri
+42E|rito
+42E1|cadavere
+42E1|toletta (fare)
+42E1|toletta mortuaria
+42E11|lavare
+42E11|vestire
+42E111|sudario
+42E112|coprire
+42E12|cataletto
+42E121|drappo
+42E121|lenzuolo funebre
+42E121|panno
+42E121|pannus funeralis
+42E1211|scudo
+42E1211|scudo funerario
+42E122|letto di morte
+42E122|stato
+42E13|veglia
+42E131|piangere
+42E132|lamentarsi
+42E1321|donna
+42E1321|prefica
+42E14|bara
+42E142|anello
+42E142|anello nuziale
+42E142|fiore
+42E142|offrire
+42E15|imbalsamare
+42E15|mummificazione
+42E15|preparativi
+42E15|preparazione
+42E151|mummia
+42E152|arto
+42E152|testa
+42E17|maschera
+42E17|maschera mortuaria
+42E18|effigie
+42E18|figura umana
+42E19|violentare
+42E191|mutilazione
+42E192|esecuzione
+42E193|abiti
+42E193|derubare
+42E193|spogliare
+42E193|svestire
+42E194|necrofilia
+42E2|cerimonia
+42E2|funerale
+42E21|annunziare
+42E211|impresario di pompe funebri
+42E211|occupazioni
+42E212|biglietto
+42E212|biglietto listato a lutto
+42E212|carta
+42E212|necrologio
+42E212|obituario
+42E213|commemorazione
+42E213|medaglia
+42E214|camera ardente
+42E214|salotto
+42E22|corteo
+42E22|processione
+42E22|processione funebre
+42E221|autovettura
+42E221|carro funebre
+42E222|carretto
+42E223|cataletto
+42E224|pleurant
+42E23|sepoltura
+42E231|aprire
+42E231|scavare
+42E231|tomba
+42E232|risepoltura
+42E24|arringare
+42E24|discorso
+42E24|tomba
+42E24|tomba aperta
+42E241|pregare
+42E242|lanciare
+42E242|scagliare
+42E25|pira
+42E26|ritornare
+42E261|pasto
+42E261|piangere
+42E27|addetto ai servizi funebri
+42E27|occupazioni
+42E27|specialista
+42E271|impresario di pompe funebri
+42E272|becchino
+42E272|scavare
+42E273|guardia
+42E273|guardiano di cimitero
+42E274|associazione
+42E274|associazione funeraria
+42E28|beni
+42E28|distruzione
+42E28|uccidere
+42E281|letto di morte
+42E31|sepolcro
+42E31|tomba
+42E311|lapide funeraria
+42E311|pietra
+42E311|pietra tombale
+42E3113|croce
+42E312|epitaffio
+42E32|arcosolio
+42E32|sepolcro
+42E32|tomba
+42E32|tomba a nicchia
+42E321|caverna
+42E321|roccia
+42E33|sarcofago
+42E331|coperchio (sarcofago)
+42E331|copertina
+42E34|urna
+42E35|edificio
+42E35|monumento
+42E35|sepolcro
+42E35|tomba
+42E351|bara
+42E351|castrum doloris
+42E351|effigie
+42E351|figura umana
+42E351|gisant
+42E351|ritratto
+42E351|transi
+42E3511|cadavere
+42E3511|imputridire
+42E3511|scheletro
+42E3511|verme
+42E361|ago
+42E361|obelisco
+42E362|colonna
+42E362|pilastro
+42E363|piramide
+42E37|tipi di tomba antichi
+42E371|preistoria
+42E3711|tumulo
+42E3712|dolmen
+42E3712|megalitico
+42E3712|sepolcro
+42E3712|tomba
+42E372|storia
+42E3721|mastaba
+42E3722|piramide
+42E3723|mausoleo
+42E373|esotico
+42E373|sepoltura
+42E3731|albero
+42E3732|abbandonare
+42E38|arte
+42E38|arte funeraria
+42E38|segno
+42E39|cenotafio
+42E39|finto sepolcro
+42E39|tomba fittizia
+42E4|culto
+42E4|morti
+42E41|piangere
+42E411|abito
+42E411|costume
+42E411|vestiti a lutto
+42E42|canto funebre
+42E43|cimitero
+42E43|sepolcro
+42E43|tomba
+42E431|necropoli
+42E4311|catacomba
+42E4311|volta
+42E432|camposanto
+42E432|chiesa
+42E433|fossa comune
+42E434|parco
+42E435|ossario
+42E44|cimitero
+42E44|cure
+42E44|sepolcro
+42E44|tomba
+42E44|visitare
+42E441|fiore
+42E441|serto
+42E442|ritrovare
+42E45|biglietto
+42E45|carta
+42E45|in memoriam
+42E49|sconsacrazione
+42E49|tomba
+42E491|cadavere
+42E491|rubare
+42E4911|disseppellitore di cadaveri
+42E51|beni
+42E52|aprire
+42E52|leggere
+42E52|testamento
+42E53|beni
+42E53|distribuire
+42E531|eredità
+42E5311|cimelio di casa
+42E5311|eredità in beni mobili
+42E532|erede
+42E5321|litigare
+42E54|cure
+42E541|assicurazione
+42F|domestico
+42F0|Economia
+42F0|Providenza dell'annona
+42F0|Ripa
+42F0|economia
+42F0|previdenza
+42F1|casalinga
+42F11|ordinare
+42F11|padrone
+42F11|servo/a
+42F12|ispezionare
+42F13|cibo
+42F13|dividere
+42F19|Betty
+42F19|Molly
+42F2|comprare
+42F2|far spese
+42F2|mercato
+42F3|compito
+42F3|incarico
+42F31|pulire
+42F311|spolverare
+42F312|lucidare
+42F313|finestra
+42F313|pulire le finestre
+42F314|spazzare
+42F32|arnese
+42F32|attrezzo
+42F32(...)|scopa
+42F33|coprire
+42F33|letto
+42F34|tavola
+42F34|tavolo
+42F341|servire
+42F342|sgombrare
+42F35|cure
+42F35|dipendenza
+42F4|casa
+42F4|manutenzione
+42F4|riparare
+42F49|rovina
+42F49|trascuratezza
+42F5|personale
+42F5|servo/a
+42F51|cameriera
+42F52|domestica
+42F52|donna delle pulizie
+42F53|valletto
+42F54|maggiordomo
+42F55|guardia
+42F55|guardiano
+42F55|portinaio
+42F56|governante
+42F56|guardiano
+42F6|incidente
+42F61|rompere
+42F9|cattiva amministrazione
+42F9|cattivo
+42F91|Jan Steen
+42F91|disordine
+42F91|huishouden van Jan Steen
+42F91|macello (confusione)
+42F92|Lorts (Vrouw)
+42F92|Vrouw Lorts
+42F92|casalinga
+42F92|sciatto
+42G1|albero
+42G1|albero genealogico
+42G1|carta
+42G1|diagramma
+42G1|schema
+42G11|Ahnengalerie
+42G11|antenato
+42G11|galleria
+42G11|ritratto
+42G11|serie
+42G2|generazione
+42G2|grado
+42G2|parentele familiari
+42G2|relazione
+42G211|genitori
+42G2111|padre
+42G2112|madre
+42G212|bambino/a
+42G2121|figlio
+42G2122|figlia
+42G221|nonno/nonna
+42G222|fratello
+42G222|sorella
+42G223|nipote (di nonni)
+42G223|nipote (femmina, di nonni)
+42G223|nipote (maschio, di nonni)
+42G231|bisnonno/a
+42G232|zia
+42G232|zio
+42G233|nipote (femmina, di zii)
+42G233|nipote (maschio, di zii)
+42G234|cugino
+42G235|pronipote
+42G241|trisavolo/a
+42G242|prozia
+42G242|prozio
+42G243|pronipote (femmina, di zii)
+42G243|pronipote (maschio, di zii)
+42G244|cugino di secondo grado
+42G245|pronipote (di trisavoli)
+42G29|incesto
+42Z|esotico
+42Z1|poligamia
+42Z11|harem
+42Z111|odalisca
+42Z112|Bain turc
+42Z112|bagno
+42Z112|bagno turco
+42Z113|eunuco
+42Z2|poliandria
+42Z3|comunità
+42Z3|matrimonio
+42Z31|Weibergmeinschaft
+42Z32|Punalua
+42Z32|matrimonio di famiglia
+42Z32|matrimonio di gruppo
+43|divertimento
+43|ricreazione
+43A|festa
+43A|gioire
+43A1|celebrazione
+43A1|festa popolare
+43A1|folclore
+43A11|calendario
+43A11|festività
+43A121|Natale
+43A1211|albero
+43A1211|albero di Natale
+43A1212|decorazione
+43A1213|Babbo Natale
+43A1213|Santa Claus
+43A1213|elfo
+43A1214|biglietto
+43A1214|carta
+43A122|Carnevale
+43A122|Shrovetide
+43A1221|Narrenschiff
+43A1221|nave
+43A1221|nave dei folli
+43A1221|sciocco
+43A1222|Jeudi gras
+43A1222|giovedì
+43A1222|giovedì grasso
+43A1223|Quinquagesima
+43A1224|martedì
+43A1224|martedì grasso
+43A123|Pasqua
+43A1231|uovo
+43A1231|uovo di Pasqua
+43A12311|forma
+43A12311|gioielli
+43A1232|bue
+43A1232|bue da concorso
+43A1232|fiera di bestiame
+43A1232|ingrassare
+43A12321|mostrare
+43A1233|coniglio
+43A1233|coniglio pasquale
+43A1233|lepre
+43A13|stagione
+43A131|primavera
+43A1311|danzare
+43A1311|maio
+43A1311|palo di maggio
+43A132|raccolto
+43A132|vendemmia
+43A14|commemorazione
+43A141|Anno nuovo
+43A141|gennaio 1
+43A1411|Capodanno
+43A1411|dicembre 31
+43A1411|notte di San Silvestro
+43A1411|ultimo dell'anno
+43A142|Primo Aprile
+43A142|aprile 1
+43A143|Primo Maggio
+43A143|maggio 1
+43A144|Epifania
+43A144|gennaio 6
+43A144|notte dell'Epifania
+43A145|santo/a
+43A1451|San Nicola di Bari
+43A1451|Sinterklaas
+43A1451|dicembre 5
+43A1451|vigilia di San Nicola
+43A1452|Halloween
+43A1452|ottobre 31
+43A1452|vigilia di Ognissanti
+43A1453|Festa di San Martino
+43A1453|San Martino
+43A1453|novembre 11
+43A1454|San Patrizio
+43A1454|marzo 17
+43A146(...)|Armistice Day
+43A146(...)|Festa di San Martino
+43A146(...)|Poppy Day
+43A146(...)|giorno dell'armistizio
+43A146(...)|luglio 14
+43A146(...)|novembre 11
+43A146(...)|quatorze juillet
+43A2|all'aperto
+43A2|compagnia
+43A2|compagnia allegra
+43A2|famiglia
+43A2|festeggiamenti privati
+43A2|fête champêtre
+43A2|picnic
+43A21|accogliere
+43A21|cocktail party
+43A22|commemorazione
+43A22|giubileo
+43A23|ballo
+43A23|danzare
+43A3|fiera
+43A3|kermis
+43A3|occupazioni
+43A3|parco di divertimenti
+43A31|giostra
+43A31|giostra con seggiolini volanti
+43A311|ruota
+43A311|ruota gigante
+43A311|ruota panoramica
+43A32|autovettura
+43A321|otto volante
+43A322|autoscontro
+43A322|scontro automobilistico
+43A323|ferrovia
+43A323|montagne russe
+43A33|destrezza
+43A33|esercizio
+43A33|forza
+43A331|poligono di tiro
+43A331|tirare
+43A332|macchina
+43A341|specchio
+43A342|diorama
+43A343|panorama
+43A343|panorama circolare
+43A344|visore
+43A345|lotteria
+43A346|freak
+43A3461|essere umano
+43A3461|mostro
+43A3462|animale
+43A3462|mostro
+43A3463|pianta
+43A3463|pietra
+43A35|all'aperto
+43A35|rappresentazione
+43A351|tenda
+43A352|folla
+43A352|pubblico
+43A352|tamburo
+43A36|circo
+43A361|tenda
+43A362|ingresso
+43A363|tenda
+43A3631|arena
+43A3631|cerchio
+43A37|circo
+43A37|spettacolo
+43A371|boss
+43A371|direttore
+43A3711|direttore di circo
+43A372|acrobata
+43A3721|corda
+43A3721|fune da equilibrista
+43A3722|trapezio
+43A3723|equilibrio
+43A3724|coltello
+43A3724|lanciatore di coltelli
+43A3725|pistolero
+43A3725|tirare
+43A3726|contorsionista
+43A3727|escapologist
+43A3728|mangiatore di fuoco
+43A373|pagliaccio
+43A3731|Hanswurst
+43A3731|Simple Simon
+43A3731|sciocco
+43A374|addestrare
+43A374|animale
+43A374|rappresentazione
+43A3741|scimmia
+43A3742|elefante
+43A3743|orso
+43A3744|leone
+43A3744|tigre
+43A3745|cavallo
+43A3746|cane
+43A3747|delfino
+43A3748|foca
+43A3749|pulce
+43A375|giocoliere
+43A375|illusionista
+43A375|legerdemain
+43A375|prestigiatore
+43A3751|ventriloquo
+43A376|divinazione
+43A38|circo
+43A38|viaggiare
+43A381|tenda
+43A382|tenda
+43A4|acque
+43A4|barca
+43A4|festeggiamento pubblico
+43A4|mare
+43A4|nave
+43A411|avvenimento nazionale
+43A411|celebrazione
+43A412|evento reale
+43A4121|matrimonio
+43A4122|nascita
+43A42|accoglienza pubblica
+43A42|accogliere
+43A42|entrata
+43A42|entrée solennelle
+43A42|ingresso trionfale
+43A42|joyeuse entree
+43A42|parata
+43A42|trionfo
+43A421|carro trionfale
+43A421|cocchio
+43A4211|carro romano
+43A4211|quadriga
+43A4212|galleggiante
+43A4212|piattaforma
+43A422|arco
+43A422|arco di trionfo
+43A424|denaro
+43A424|distribuire
+43A424|spargere
+43A4241|moneta
+43A4241|strooipenningen
+43A425|decorazione
+43A425|illuminazione
+43A425|lampada
+43A425|piazza
+43A425|strada
+43A425|via
+43A426|confetti
+43A426|coriandoli
+43A43|allegoria
+43A43|simbolo
+43A43|triomphe marin
+43A43|trionfo
+43A43|trionfo marino
+43A431|Petrarca
+43A431|Trionfi (Petrarca)
+43A4311|Amore (Trionfi d')
+43A4311|Carro d'amore
+43A4311|Cupido
+43A4311|Ripa
+43A4311|Trionfi d'Amore
+43A4311|Triumphus Cupidinis
+43A4312|Carro della castità
+43A4312|Castità
+43A4312|Ripa
+43A4312|Trionfo della Castità
+43A4312|Triumphus Pudicitiae
+43A4313|Carro della morte
+43A4313|Morte
+43A4313|Ripa
+43A4313|Trionfo della Morte
+43A4313|Triumphus Mortis
+43A4314|Carro della Fama
+43A4314|Fama
+43A4314|Ripa
+43A4314|Trionfo della Fama
+43A4314|Triumphus Famae
+43A4315|Carro del Tempo
+43A4315|Ripa
+43A4315|Tempo
+43A4315|Trionfo del Tempo
+43A4315|Triumphus Temporis
+43A4315|tempo
+43A4316|Carro della Divinità
+43A4316|Divinità
+43A4316|Trionfo della Divinità
+43A4316|Triumphus Aeternitatis
+43A4316|eternità
+43A4321|apoteosi
+43A4321|ascensione
+43A433|alloro
+43A433|inconorazione
+43A44|falò
+43A44|fuochi d'artificio
+43A45|deridere
+43A45|disgrazia
+43A45|disonore pubblico
+43A46|aeroplano
+43A46|nell'aria (in cielo)
+43A46|parata aerea
+43A46|salutare
+43A46|spettacolo
+43A46|volare
+43A49|funerale
+43A49|funerale pubblico
+43A491|castrum doloris
+43A491|catafalco
+43AA21|accogliere
+43AA21|cocktail party
+43AA22|commemorazione
+43AA22|giubileo
+43AA23|ballo
+43AA23|danzare
+43AA42|accoglienza pubblica
+43AA42|accogliere
+43AA42|entrata
+43AA42|entrée solennelle
+43AA42|ingresso trionfale
+43AA42|joyeuse entree
+43AA42|parata
+43AA42|trionfo
+43AA43|allegoria
+43AA43|simbolo
+43AA43|triomphe marin
+43AA43|trionfo
+43AA43|trionfo marino
+43AA44|falò
+43AA44|fuochi d'artificio
+43AA46|aeroplano
+43AA46|nell'aria (in cielo)
+43AA46|parata aerea
+43AA46|salutare
+43AA46|spettacolo
+43AA46|volare
+43AA49|funerale
+43AA49|funerale pubblico
+43AA491|castrum doloris
+43AA491|catafalco
+43B|tempo libero
+43B1|gioia
+43B1|natura
+43B11|contemplazione
+43B11|tramonto
+43B12|all'aperto
+43B12|dejeuner sur l'herbe
+43B12|pasto
+43B12|picnic
+43B121|délices à la campagne
+43B121|gruppo
+43B121|riunione
+43B13|camminare
+43B13|fare un'escursione
+43B131|bicicletta
+43B141|erbe
+43B141|fiore
+43B141|pianta
+43B141|studio delle piante
+43B142|cacciare
+43B142|fungo
+43B143|cogliere
+43B143|erbe
+43B144|cogliere
+43B144|fiore
+43B15|animale
+43B151|cacciare
+43B151|farfalla
+43B16|alpinismo
+43B16|arrampicarsi
+43B16|montagna
+43B17|caverna
+43B17|esplorare
+43B2|all'aperto
+43B21|luogo di divertimento
+43B3|al chiuso
+43B3|al coperto
+43B3|all'interno
+43B31|caffè
+43B31|locanda
+43B31|saloon
+43B31|wine-bar
+43B311|ristorante
+43B312|giardino
+43B312|giardino per il tè
+43B312|tea garden
+43B313|marciapiede
+43B313|terrazzo
+43B32|club
+43B32|luogo d'incontro
+43B33|casinò
+43B331|covo
+43B331|giochi
+43B331|gioco d'azzardo
+43B34|locale notturno
+43B34|night-club
+43B34|sala da ballo
+43B41|foresta
+43B41|giocare
+43B411|albero
+43B411|arrampicarsi
+43B412|albero
+43B412|cadere
+43B42|parco
+43B421|palco dell'orchestra
+43B5|spiaggia
+43B51|bagnarsi
+43B51|mare
+43B52|bagno di sole
+43B53|castello
+43B53|costruire
+43B53|sabbia
+43B54|somaro
+43B55|duna
+43B55|sabbia
+43B6|giocare
+43B6|parco giochi
+43B61(...)|equipaggiamento
+43B611|altalena
+43B612|scivolo
+43B612|toboga
+43B613|altalena
+43B7|zoo
+43B8|collezione
+43B8|esposizione
+43B8|spettacolo
+43C1|animale
+43C1|esercizio
+43C1|giochi
+43C1|sport
+43C11|cacciare
+43C11|occupazioni
+43C111|cacciagione
+43C111|selvaggina
+43C1111|gruppo
+43C1112|mammiferi
+43C11121|gruppo
+43C11122|scimmia
+43C11123|predatori
+43C111231|caccia alla volpe
+43C1112311|cane
+43C1112311|cane da caccia
+43C1112311|volpe
+43C111232|caccia al leone
+43C1112321|combattimento (animali)
+43C1112321|leone
+43C11124|ungulato
+43C111241|cervo
+43C111242|capriolo
+43C111243|cinghiale
+43C11125|proboscidati
+43C11126|roditore
+43C111261|coniglio
+43C111261|lepre
+43C11127|mammiferi marini
+43C1113|uccello
+43C112|incidente di caccia
+43C1121|assalire
+43C1121|ferito
+43C113|cacciagione
+43C113|carcassa
+43C113|natura morta
+43C113|selvaggina
+43C1131|uccisione
+43C11311|trofeo
+43C11311|trofeo di caccia
+43C1132|mostrare
+43C114|cacciatore
+43C114|cacciatrice
+43C1141|départ pour la chasse
+43C1141|gruppo
+43C1141|riunirsi
+43C11421|riposare
+43C1143|battitore
+43C1144|corno da caccia
+43C1144|soffiare
+43C1145|halali
+43C1146|gruppo
+43C1146|ritratto
+43C1147|cane
+43C1147|cane da caccia
+43C11471|cacciagione
+43C11471|selvaggina
+43C1148|equipaggiamento
+43C11481|borsa
+43C11481|carniere
+43C11482|corno da caccia
+43C1149|ritornare
+43C11491|Jagdschloss
+43C11491|casino di caccia
+43C11491|padiglione
+43C11491|rendez-vous de chasse
+43C115|cercare
+43C1151|prendere
+43C1152|vigilare
+43C11521|filmare
+43C11521|fotografo
+43C116|suolo
+43C116|terreno di caccia
+43C1161|asta
+43C1161|confine
+43C1161|palo
+43C1162|appostamento da caccia
+43C1162|capanno (appostamento da caccia)
+43C1162|mimetizzazione
+43C1162|nascondere
+43C1162|nascondersi
+43C1162|vigilare
+43C11621|appostamento sopraelevato (appostamento da caccia)
+43C11621|palchetto (appostamento da caccia)
+43C11621|piattaforma
+43C116211|albero
+43C116211|appostamento su un albero (appostamento da caccia)
+43C116211|palchetto su un albero (appostamento da caccia)
+43C117|guardacaccia
+43C118|bracconiere
+43C12|pescare
+43C128|pescatore
+43C1281|mostrare
+43C1281|pesce
+43C13|uccellatore
+43C13|uccello
+43C13|volatile
+43C131|trappola
+43C131|trappola per fringuelli
+43C132|richiamo
+43C132|trappola
+43C132|trappola per anatre
+43C14|tormentare
+43C141|gruppo
+43C142|mammiferi
+43C1421|bastone
+43C1421|battere
+43C1421|botte
+43C1421|gatto
+43C1421|randello
+43C1422|combattimento (animali)
+43C1422|corrida
+43C1422|toro
+43C14221|torero
+43C1423|orso
+43C143|uccello
+43C1431|combattimento (animali)
+43C1431|gallo
+43C1432|oca
+43C1432|pull-the-goose
+43C1432|tiro all'anatra
+43C144|rettile
+43C145|anfibi
+43C146|pesce
+43C1461|anguilla
+43C1461|pull-the-eel
+43C1461|spellare l'anguilla
+43C2|esercizio
+43C2|giochi
+43C2|sport
+43C2|velocità
+43C211|correre
+43C211|gara
+43C2111|corsa ad ostacoli
+43C2111|corso
+43C2111|ostacolo
+43C2112|attraverso i campi
+43C2113|marciare
+43C212|animale
+43C212|cavalcare
+43C212|gara
+43C2121|andare a cavallo
+43C2121|cavallo
+43C21211|fantino
+43C21212|stalla
+43C21213|pista
+43C2122|corsa ad ostacoli
+43C2122|saltare
+43C213|gara
+43C213|veicolo
+43C2131|carro
+43C2131|cavallo
+43C21311|auriga
+43C21312|cocchio
+43C21312|sulky
+43C2132|bicicletta
+43C21321|Giro d'Italia
+43C21321|Tour de France
+43C21321|giro
+43C2133|ciclomotore
+43C2133|motociclo
+43C2134|automobile
+43C214|camminare
+43C214|fare un'escursione
+43C218|animale
+43C218|gara
+43C2181|cane
+43C2182|colomba
+43C22|acque
+43C221|nuotare
+43C2211|immergersi
+43C22111|mare
+43C22111|mare profondo
+43C222|sci d'acqua
+43C222|sciare
+43C222|surf
+43C223|canottaggio
+43C223|remare
+43C224|navigare
+43C224|veleggiare
+43C224|yacht
+43C225|barca
+43C225|barca a motore
+43C23|aviazione
+43C23|nell'aria (in cielo)
+43C231|volare
+43C232|volo a vela
+43C233|pallone aerostatico
+43C233|volare
+43C234|lancio con il paracadute
+43C234|scendere con il paracadute
+43C24|ghiaccio
+43C24|inverno
+43C24|neve
+43C24|sport invernali
+43C241|slitta
+43C242|bob
+43C243|slitta
+43C244|pattinare
+43C245|sciare
+43C2451|slalom
+43C2452|saltare
+43C2453|ascensore
+43C2453|ski-lift
+43C2453|sollevamento
+43C246|navigare
+43C246|slitta a vela su ghiaccio
+43C246|veleggiare
+43C3|atletica
+43C3|esercizio
+43C3|ginnastica
+43C3|giochi
+43C3|sport
+43C31|saltare
+43C31|salto in alto
+43C311|salto con l'asta
+43C312|trampolino
+43C32|saltare
+43C32|salto in lungo
+43C321|salto triplo
+43C33|lancia
+43C34|getto del peso
+43C34|palla
+43C34|peso
+43C35|lanciare
+43C35|lancio del disco
+43C35|scagliare
+43C361|peso
+43C361|portare
+43C37|pavimento
+43C37|suolo
+43C371|bastone
+43C371|manubrio per ginnastica
+43C38|attrezzatura
+43C381|anello
+43C382|asse d'equilibro
+43C382|barra
+43C382|equilibrio
+43C382|sbarra
+43C382|sbarra orizzontale
+43C383|cavallo (ginnastica)
+43C384|barra
+43C384|parallele
+43C384|sbarra
+43C39|combattere
+43C39|contesa
+43C391|pugilato
+43C392|lottare
+43C393|jiu-jitsu
+43C393|judo
+43C394|scherma
+43C3941|fioretto
+43C3942|sciabola
+43C3942|spada
+43C395|corda
+43C395|tiro alla fune
+43C396|cavaliere
+43C396|medioevo
+43C396|storia medievale
+43C3961|gladiatore
+43C39611|animale
+43C39611|combattimento (animali)
+43C39612|leone
+43C39612|orso
+43C3962|pas d'armes
+43C3962|passo
+43C3962|ponte
+43C3963|torneo
+43C39631|giostra
+43C39631|giostrare
+43C396312|barriera
+43C39641|Bouhourt
+43C39641|Buhurt
+43C39642|Quintana
+43C397|torneo
+43C3971|giochi Olimpici
+43C4|destrezza
+43C4|giochi
+43C4|sport
+43C41|giochi con la palla
+43C411|calcio
+43C411|cholle
+43C411|choule
+43C411|football
+43C411|gioco del calcio
+43C411|soule
+43C4111|rugby
+43C4112|football americano
+43C412|mano
+43C4121|pallamano
+43C4122|pallacanestro
+43C4123|pallavolo
+43C4124|pallanuoto
+43C4124|polo (sport)
+43C413|bastone
+43C4131|lacrosse
+43C4132|hockey
+43C41321|ghiaccio
+43C41321|hockey su ghiaccio
+43C4133|andare a cavallo
+43C4133|polo (sport)
+43C4134|cricket
+43C4135|baseball
+43C4136|stick ball
+43C414|bastone
+43C4141|maille
+43C4142|golf
+43C4143|kolf
+43C41431|ghiaccio
+43C4144|croquet
+43C4145|biliardo
+43C415|mano
+43C415|racchetta
+43C4151|tennis
+43C4151|tennis su prato
+43C4152|ping-pong
+43C4152|tennis
+43C4152|tennis da tavolo
+43C4153|jeu de Paume
+43C4153|pallacorda
+43C4154|gioco del volano
+43C4154|jeu de volant
+43C4154|volano
+43C4155|cinque
+43C4155|palmo della mano
+43C416|ruotare
+43C4161|gioco delle bocce
+43C4161|jeu de boules
+43C4162|bowling
+43C4163|anello
+43C4163|lanciare
+43C4163|scagliare
+43C4164|birilli
+43C417|lanciare
+43C417|scagliare
+43C4171|bilboquet
+43C4171|cup-and-ball
+43C418|flipper
+43C418|macchina
+43C42|tirare
+43C42|tiro a segno
+43C421|arciere
+43C421|arco e freccia
+43C421|contesa
+43C4211|asta
+43C4211|palo
+43C4211|tiro all'uccello
+43C4211|uccello
+43C4212|colpo vincente
+43C422|arma da fuoco
+43C422|pistola
+43C422|rivoltella
+43C423|arma da fuoco
+43C423|fucile
+43C424|bersaglio
+43C43|botte
+43C43|jeu de tonneau
+43C431|buco
+43C431|disco
+43C431|foro
+43C432|piastrelle
+43C44|yo-yo
+43C441|air top
+43C441|bastone
+43C441|diabolo
+43C441|rocchetto per il 'diabolo'
+43C45|anello
+43C45|giostrare
+43C5|calcolo
+43C5|caso
+43C5|giochi
+43C5|gioco d'azzardo
+43C51|gioco di carte
+43C511|baro
+43C511|inganno
+43C512|biglietto
+43C512|carta
+43C512|carte da gioco
+43C5121|joker
+43C513|pazienza
+43C52|gioco da tavolo
+43C521|scacchi
+43C5211|pezzi degli scacchi
+43C5212|donna
+43C5212|giocatore
+43C5212|vincitore
+43C522|backgammon
+43C522|tric-trac
+43C523|gioco della dama
+43C5231|pezzi della dama
+43C53|gioco da tavolo
+43C531|gioco dell'oca
+43C532|monopolio
+43C54|domino
+43C55|gioco dei dadi
+43C551|inganno
+43C551|trucco
+43C552|dadi
+43C56|scommettere
+43C561|sport
+43C562|roulette
+43C57|tombola
+43C58|lotteria
+43C581|sorte
+43C582|pool
+43C582|totalizzatore
+43C59|enigma
+43C59|indovinello
+43C59|puzzle
+43C591|sciarada
+43C592|cruciverba
+43C593|gioco di composizioni
+43C593|gioco di pazienza
+43C6|festa
+43C6|giochi
+43C6|gruppo
+43C61|pegno
+43C62|gioco della sedia
+43C62|sedia
+43C63|baciare
+43C63|contesa
+43C63|sensualità
+43C631|colpire
+43C631|haute coquilles
+43C631|main chaude
+43C631|mano
+43C631|schiaffo del soldato
+43C64|centro
+43C64|rana
+43C68|adulto
+43C68|giochi infantili
+43C69|zuffa
+43C7|bambino/a
+43C7|giocare
+43C7|giochi
+43C7|giochi infantili
+43C711|gioco con corsa
+43C71111|correre
+43C71112|prendere
+43C71113|red rover, red light?
+43C7112|contesa
+43C71121|prigioniero
+43C71122|dividere
+43C71122|suolo
+43C71123|gruppo
+43C71123|prendere
+43C71123|toccare
+43C7113|nascondere
+43C7113|nascondersi
+43C71131|nascondino
+43C7114|cerchio
+43C7115|racconto
+43C7116|Ponte di Londra
+43C7116|arco
+43C7116|ponte
+43C7117|giochi in cui i giocatori formano una catena
+43C7117|gioco in cui i giocatori formano un serpente
+43C71171|corteo
+43C7118|far ruotare
+43C7118|girandola
+43C712|saltare
+43C7122|gioco della cavallina
+43C7123|tre tre giù giù
+43C7124|gioco del mondo
+43C71251|capriola
+43C71251|fare acrobazie
+43C71252|stare in verticale sulla testa
+43C71253|camminare carponi
+43C71254|far ruotare
+43C7126|saltare fossi
+43C71261|salto con l'asta
+43C713|danzare
+43C7132|corda
+43C7132|corda per saltare
+43C7133|cerchio
+43C7133|quadrato
+43C7134|danzare in file
+43C714|lanciare
+43C714|scagliare
+43C7142|pietra
+43C7143|bastone
+43C7144|moneta
+43C7145|frutto
+43C7146|palla
+43C71462|prendere
+43C71463|bastone
+43C71463|colpire
+43C71464|calciare
+43C71464|prendere a calci
+43C7147|bowling
+43C71481|anello
+43C71481|gioco degli anelli
+43C715|dito
+43C715|mano
+43C715|pugno
+43C71511|ombra
+43C71511|silhouette
+43C71512|corda
+43C71512|ripiglino
+43C71512|spago
+43C7152|colpire
+43C7152|giochi in cui si battono le mani
+43C71521|accatastare
+43C71522|borsa
+43C71522|scoppiare
+43C7153|contare
+43C7153|indicare
+43C7155|rima
+43C716|adulto
+43C716|commercio
+43C716|imitazione
+43C716|travestirsi
+43C717|indovinare
+43C7172|cacciare
+43C71721|impronta
+43C71721|traccia
+43C7173|divinazione
+43C7174|sorte
+43C7175|occhi bendati
+43C71751|mosca cieca
+43C718|gioco con dondolio
+43C7181|dondolare
+43C7182|culla
+43C7182|cullare
+43C7183|cavalcare
+43C7183|ginocchio
+43C7184|portare
+43C71841|a cavalluccio
+43C71841|portare sulla schiena
+43C719|combattere
+43C719|zuffa
+43C72|giocattolo
+43C721|biglie
+43C7211|buca
+43C722|trottola
+43C7221|far ruotare
+43C7222|frustare
+43C723|cerchio (gioco)
+43C7231|far ruotare
+43C724|aquilone
+43C724|volare
+43C7241|pallone aerostatico
+43C725|trampoli
+43C726|astragali
+43C727|pattinare
+43C727|pattini a rotelle
+43C73|natura
+43C731|imitazione
+43C732|derubare
+43C732|nido
+43C732|uccello
+43C7321|cacciare
+43C7321|uovo
+43C733|animale
+43C733|molestare
+43C734|animale
+43C735|pianta
+43C736|fenomeni
+43C736|fenomeni naturali
+43C736|tempo atmosferico
+43C7361|pioggia
+43C737|ghiaccio
+43C737|neve
+43C7371|scivolo
+43C7372|pupazzo di neve
+43C73721|palla di neve
+43C7373|lanciare
+43C7373|palla di neve
+43C7373|scagliare
+43C7374|sedia
+43C7379|incidente
+43C7379|rompere
+43C741(...)|calendario
+43C742|scuola
+43C7421|festa
+43C7421|vacanza scolastica
+43C7422|gita
+43C7422|gita scolastica
+43C7423|parco giochi
+43C7424|disubbidienza
+43C7425|marinare la scuola
+43C7425|svogliataggine
+43C743|arte
+43C7431|musica
+43C74311|musica rudimentale
+43C74311|utensili da cucina
+43C74312|fischiare
+43C74313|pisello
+43C74313|vescica
+43C7432|strumento musicale
+43C7432|suonare
+43C74322|strumenti da parco dei divertimenti
+43C7433|cantare
+43C75|disubbidienza
+43C751|ingiuriare
+43C751|insultare
+43C751|schiamazzare
+43C752|molestare
+43C7521|rubare
+43C753|campana
+43C753|campanello della porta
+43C754|Teddy-boy
+43C755|vandalismo
+43C761|contare
+43C767|casa
+43C767|dimora
+43C767|ritornare
+43C768|inseguire
+43C769|interruzione
+43C769|scacciare
+43C771|leggere
+43C771|libro illustrato
+43C772|libro
+43C7721|dipinto
+43C7721|immagine
+43C7721|quadro
+43C78|giocattolo
+43C781|materiale da costruzione
+43C7811|accatastare
+43C7812|blocco per costruzioni
+43C7813|meccano
+43C7814|tagliare
+43C7815|casa
+43C7815|costruire
+43C7815|modello
+43C7816|costruire
+43C7816|macchina
+43C7816|modello
+43C7816|veicolo
+43C782|movimento
+43C7821|bambola
+43C7821|danzare
+43C7822|giocattolo che fa capriole
+43C7823|mulino
+43C783|giocattoli meccanici
+43C7831|macchine
+43C7831|vapore
+43C7832|motore
+43C7833|macchine
+43C7833|motore
+43C7833|vapore
+43C784|trasportare
+43C7841|veicolo
+43C78411|carretto
+43C78411|carro
+43C78412|automobile
+43C78413|autovettura
+43C78413|otto volante
+43C78413|rotaie
+43C78414|treno
+43C7842|acque
+43C78421|barca
+43C78422|yacht
+43C78423|barca a motore
+43C7843|aria
+43C7843|aviazione
+43C78431|aeroplano
+43C78432|aeroplano
+43C78432|modello
+43C78432|motore
+43C78433|razzo
+43C785|soffiare
+43C7851|bolla
+43C7851|bolla di sapone
+43C786|casalinga
+43C7861|piatto
+43C78611|servizio da tè
+43C7862|cucina
+43C78621|forno
+43C78621|stufa
+43C7863|casa
+43C7863|casa di bambole
+43C7871|bambola
+43C78711|abiti
+43C78719|adulto
+43C7872|animale
+43C7872|orsacchiotto
+43C78721|cavallo
+43C78721|cavalluccio di legno
+43C78722|cavallo
+43C78722|cavallo a dondolo
+43C78729|adulto
+43C78729|mascotte
+43C7881|incollare
+43C7881|libro
+43C7882|tessere
+43C7883|cucito
+43C7891|imitazione
+43C7891|miniatura
+43C7891|modello
+43C8|sport
+43C8|suolo
+43C8|terreno
+43C81|spogliatoio
+43C81|stanza
+43C9|ballerino
+43C9|danzare
+43C9|danzatore
+43C91|uno
+43C911|uomo
+43C912|donna
+43C92|coppia
+43C92|paio
+43C921|donna
+43C922|uomo
+43C923|invitare
+43C94|danza di gruppo
+43C94|gruppo
+43C941|classe elevata
+43C941|ricchi
+43C942|danza popolare
+43C9421|uomo
+43C9422|donna
+43C943|cerchio
+43C95|ballare la giga
+43C95|danza a catena
+43C95|strada
+43C95|trotterellare
+43C95|via
+43CC1141|départ pour la chasse
+43CC1141|gruppo
+43CC1141|riunirsi
+43CC11421|riposare
+43CC1143|battitore
+43CC1144|corno da caccia
+43CC1144|soffiare
+43CC1145|halali
+43CC1146|gruppo
+43CC1146|ritratto
+43CC1149|ritornare
+43CC11491|Jagdschloss
+43CC11491|casino di caccia
+43CC11491|padiglione
+43CC11491|rendez-vous de chasse
+43D1|artigianato
+43D1|hobby
+43D1|mestiere
+43D2|raccogliere
+44A|simbolo
+44A|stato
+44A1|blasone
+44A11|emblema
+44A2|sigillo
+44A21|catena
+44A21|sindaco
+44A3|bandiera
+44A3|colore
+44A31|stendardo
+44A31|vessillo
+44A311|alfiere
+44A311|portabandiera
+44A32|asta
+44A32|asta della bandiera
+44A32|palo
+44A4|decorazione
+44A4|medaglia
+44A4|onore
+44A5|America
+44A5|Egitto
+44A5|Francia
+44A5|Germania
+44A5|Italia
+44A5|Paesi Bassi
+44A5|Polonia
+44A5|Svezia
+44A5|Venezia
+44A5|simbolo nazionale
+44A51|nazione
+44A51|paese
+44A51|personificazione
+44A51|regione
+44A51(...)|Spagna
+44B|Auttorità o Potestà
+44B|Politica
+44B|Ripa
+44B|governo
+44B|occupazioni
+44B|stato
+44B0|sistema di governo
+44B01|Monarchia mondana
+44B01|monarchia
+44B01|re
+44B011|Aristocratia
+44B011|aristocrazia
+44B02|Democratia
+44B02|democrazia
+44B03|Governo della republica
+44B03|repubblica
+44B04|sistema coloniale
+44B041|imperialismo
+44B09|Tirannide
+44B09|tirannia
+44B091|Ragione di Stato
+44B091|ragione di stato
+44B1|sovrano
+44B10|virtù
+44B11|rango
+44B111|galleria
+44B111|serie
+44B1111|dinastia
+44B112|imperatore
+44B112|zar
+44B1121|mito
+44B1121|ritornare
+44B113|re
+44B114(DOGE)|doge
+44B115|presidente
+44B1151|vicepresidente
+44B116|reggente
+44B116|sostituzione
+44B116|viceré
+44B1161|stadtholder
+44B117|padrone
+44B117|signore
+44B117|signore feudale
+44B1171|vassallo
+44B119|tiranno
+44B12|davanti
+44B12|evento reale
+44B12|re
+44B121|udienza
+44B1211|sala
+44B1211|sala del trono
+44B1211|stanza
+44B1212|trono
+44B122|insediamento
+44B122|investitura
+44B1221|nobiltà
+44B1221|nominare a cavaliere
+44B1222|passaggio di poteri
+44B1222|potere
+44B1223|dare
+44B1223|privilegio
+44B123|grazia
+44B123|misericordia
+44B123|perdono
+44B124|consigliere
+44B125|ordinare
+44B126|infeudazione
+44B127|suddito
+44B1271|dare
+44B1271|marchio
+44B1271|onore
+44B1272|sostituzione
+44B12721|Damocle
+44B12721|spada
+44B128|informale
+44B128|suddito
+44B129|guarire
+44B129|male
+44B129|scrofola
+44B129|toccare
+44B13|davanti
+44B13|onorare
+44B131|acclamazione
+44B1311|giuramento
+44B1311|giurare
+44B1311|lealtà
+44B132|chinarsi
+44B1321|genuflessione
+44B1322|inginocchiarsi
+44B1323|prostrazione
+44B133|bandiera
+44B134|cannone
+44B134|salva
+44B1341|evento reale
+44B1341|matrimonio
+44B1341|nascita
+44B135|pagare
+44B135|tributo
+44B14|apoteosi
+44B15|corte
+44B15|famiglia
+44B15|famiglia reale
+44B150|Corte
+44B151|dinastia
+44B1511|consorte
+44B1511|imperatrice
+44B1511|regina
+44B15111|principe consorte
+44B1512|bambino/a
+44B15121|principe
+44B151211|principe ereditario
+44B15122|principessa
+44B151221|principessa ereditaria
+44B15123|figlio illegittimo
+44B1513|genitori
+44B15131|padre
+44B15132|madre
+44B15132|regina madre
+44B1515|favorito/a
+44B152|corteo
+44B152|cortigiano
+44B152|domestico
+44B1521|padrone
+44B1522|dignitario
+44B1523|paggio
+44B1524|buffone di corte
+44B1524|giullare
+44B1524|sciocco
+44B15241|attributo
+44B152411|berretto
+44B152411|berretto a sonagli
+44B152411|zucchetto
+44B152412|bastone da giullare
+44B1525|assaggiare
+44B1525|assaggiatore
+44B1525|cibo
+44B1526|lacchè
+44B1526|personale
+44B1527|guardia del corpo
+44B153|cerimonia
+44B153|etichetta
+44B1531|cortesia
+44B154|festività
+44B155|vita quotidiana
+44B16|insediamento
+44B16|successione
+44B161|elezione
+44B161|scegliere
+44B1611|proclamazione
+44B16111|allevare
+44B16111|scudo
+44B1612|unzione
+44B1613|corona
+44B1613|globo
+44B1613|insegne reali
+44B1613|offrire
+44B1613|regalia
+44B1613|scettro
+44B1619|usurpazione
+44B162|inconorazione
+44B1624|unzione
+44B1625|corona
+44B1625|globo
+44B1625|insegne reali
+44B1625|offrire
+44B1625|regalia
+44B1625|scettro
+44B163|spada
+44B1641|giuramento
+44B165|celebrazione
+44B165|cerimonia
+44B165|festa
+44B1651|cavalcata
+44B1651|corteo
+44B1651|parata
+44B1651|processione
+44B16511|corteo dell'incoronazione
+44B168|rifiutare un ordine, una richiesta
+44B1681|calpestare
+44B1681|corona
+44B169|abdicazione
+44B169|mandar via
+44B1692|riluttanza
+44B16921|avversario
+44B16921|fuggire
+44B16922|arrestare
+44B16923|assassinare
+44B16923|re
+44B16923|regicidio
+44B16923|uccidere
+44B17|cattivo
+44B19|gioielli della corona
+44B19|insegne
+44B19|insegne reali
+44B19|regalia
+44B191|corona
+44B1911|diadema
+44B192|bastone
+44B192|scettro
+44B1921|braccio
+44B1921|giustizia
+44B1921|mano
+44B1922|lancia
+44B193|croce
+44B193|globo
+44B194|blasone
+44B195|sigillo
+44B196|stendardo
+44B197|manto
+44B197|toga
+44B1971|imperatore
+44B1972|re
+44B198|pettorale
+44B2|consiglio
+44B2|organi rappresentativi
+44B21|governo nazionale
+44B211|ministro
+44B2111|primo ministro
+44B2113|segretario di Stato
+44B22|provincia
+44B221|governatore
+44B23|città
+44B23|governo municipale
+44B231|borgomastro
+44B231|sindaco
+44B232|consiglio municipale
+44B233|municipio
+44B24|governo coloniale
+44B241|governatore
+44B241|governatore coloniale
+44B3|amministrazione
+44B3|controllo
+44B3|controllo delle acque
+44B31|magistrato
+44B31|sovrintendente alle dighe
+44B32|ispezionare
+44B4|diplomatico
+44B4|diplomazia
+44B41|ambasciatore
+44B411|partire
+44B412|viaggio
+44B413|accogliere
+44B414|riconciliazione
+44B42|conferenza
+44B42|negoziare
+44B421|pace
+44B4211|documento
+44B4211|firmare
+44B4211|trattato
+44B4212|proclamazione
+44B43|servizio consolare
+44B44|credenziali
+44B44|documento
+44B44|offrire
+44B45|alleanza
+44B45|unità
+44B450|Lega
+44B5|legge
+44B511|Camera alta
+44B511|senato
+44B512|Camera Bassa
+44B512|camera
+44B512|parlamento
+44B5121|deputato
+44B52|proclamazione
+44B521|banditore
+44B521|gridare
+44B522|manifesto
+44B532|leggenda
+44B532|origine
+44B6|buono e cattivo
+44B61|buono
+44B610|allegoria
+44B610|personificazione
+44B611|Utopia
+44B62|cattivo
+44B621|insoddisfazione
+44BB1111|dinastia
+44BB1121|mito
+44BB1121|ritornare
+44BB1151|vicepresidente
+44BB1161|stadtholder
+44BB1211|sala
+44BB1211|sala del trono
+44BB1211|stanza
+44BB1212|trono
+44BB1311|giuramento
+44BB1311|giurare
+44BB1311|lealtà
+44BB1321|genuflessione
+44BB1322|inginocchiarsi
+44BB1323|prostrazione
+44BB1341|evento reale
+44BB1341|matrimonio
+44BB1341|nascita
+44BB15121|principe
+44BB151211|principe ereditario
+44BB15122|principessa
+44BB151221|principessa ereditaria
+44BB15123|figlio illegittimo
+44BB15131|padre
+44BB15132|madre
+44BB15132|regina madre
+44BB1521|padrone
+44BB1522|dignitario
+44BB1523|paggio
+44BB1524|buffone di corte
+44BB1524|giullare
+44BB1524|sciocco
+44BB1525|assaggiare
+44BB1525|assaggiatore
+44BB1525|cibo
+44BB1526|lacchè
+44BB1526|personale
+44BB1527|guardia del corpo
+44BB1531|cortesia
+44BB161|elezione
+44BB161|scegliere
+44BB162|inconorazione
+44BB163|spada
+44BB1641|giuramento
+44BB165|celebrazione
+44BB165|cerimonia
+44BB165|festa
+44BB1651|cavalcata
+44BB1651|corteo
+44BB1651|parata
+44BB1651|processione
+44BB168|rifiutare un ordine, una richiesta
+44BB1681|calpestare
+44BB1681|corona
+44BB169|abdicazione
+44BB169|mandar via
+44BB16921|avversario
+44BB16921|fuggire
+44BB16922|arrestare
+44BB16923|assassinare
+44BB16923|re
+44BB16923|regicidio
+44BB16923|uccidere
+44BB1911|diadema
+44BB1971|imperatore
+44BB1972|re
+44C|cittadino
+44C|diritti civili
+44C|diritto
+44C1|cittadinanza
+44C1|nazionalità
+44C11|paese
+44C11|patriottismo
+44C110|Amor della patria
+44C110|Ripa
+44C12|emigrazione
+44C13|immigrazione
+44C14|insediamento
+44C14|migrazione
+44C14|migrazione interna
+44C14|redistribuzione della popolazione
+44C14|trasmigrazione
+44C141|città
+44C141|migrazione rurale-urbana
+44C141|villaggio
+44C141|vita di città
+44C141|vita rurale
+44C142|città
+44C142|migrazione urbana-rurale
+44C142|villaggio
+44C142|vita di città
+44C142|vita rurale
+44C19|paese
+44C19|tradimento
+44C19|tradire
+44C2|votare
+44C21|campagna (politica o militare)
+44C21|politica
+44C22|seggio elettorale
+44C221|cabina
+44C221|cabina elettorale
+44C222|scheda
+44C222|scheda elettorale
+44C223|boîte
+44C223|scatola
+44C223|urna
+44C223|urna elettorale
+44C224|macchina
+44C224|macchina elettorale
+44C23|elezione
+44C231|propaganda
+44C231|propaganda elettorale
+44C24|donna
+44C24|emancipazione
+44C24|emancipazione delle donne
+44C24|liberare
+44C24|liberazione della donna
+44C24|liberazione delle donne
+44C241|suffragetta
+44C29|combattere
+44C3|politica
+44C30|Politica
+44C30|Ripa
+44C31|propaganda
+44C311|riunione
+44C312|caricatura
+44C312|satira
+44C32|classe sociale
+44C32|guerra
+44C33|partito politico
+44C34|capo di partito
+44C34|politico
+44C35|ideologia
+44C35|ideologia politica
+44C35|teoria
+44C4|dimostrazione
+44C41|sciopero
+44C42|agitatore
+44C5|giornalismo
+44C5|libertà
+44C5|parola
+44C59|censura
+44C591|rogo di libri
+44C6|emancipazione
+44C6|razzismo
+44D|amministrazione
+44D|occupazioni
+44D1|registrazione
+44D1|ufficio del registro
+44D2|tassa
+44D20|Datio overo Gabella
+44D20|Ripa
+44D21|esattore
+44D21|raccogliere
+44D211|pagare
+44D22|dogana
+44D221|barriera di pedaggio
+44D221|cancello
+44D221|casello di pedaggio
+44D222|contrabbando
+44D2221|commercio
+44D2221|droga
+44D223|passaporto
+44D223|visto
+44D224|controllo
+44D224|investigazione
+44D23|finanza
+44D3|confine
+44D31|marcare
+44D311|asta
+44D311|palo
+44D311|pietra
+44D32|registrazione
+44D32|terra
+44D32|terreno
+44D321|dividere
+44D4|funzionario
+44D4|pubblico ufficiale
+44D4|statista
+44D4|ufficiale
+44D4|uomo di stato
+44E|occupazioni
+44E|servizi di pubblica utilità
+44E|servizio
+44E1|acqua
+44E1|rifornimento
+44E11|torre
+44E11|torre-serbatoio
+44E12|purificazione
+44E13|acquedotto
+44E131|tubature
+44E14|di pubblica utilità
+44E14|fontana
+44E14|pompa
+44E14|pompa pubblica
+44E14|utilitario
+44E2|lampada
+44E2|strada
+44E2|via
+44E3|gas
+44E3|rifornimento
+44E4|elettricità
+44E4|rifornimento
+44E41|centrale elettrica
+44E41|stazione
+44E42|cavo
+44E42|linea elettrica
+44E42|pilone
+44E5|immondizie
+44E5|raccogliere
+44E51|automobile
+44E51|camion
+44E52|pattumiera
+44E52|secchio
+44E53|pulire
+44E53|spazzare
+44E53|spazzare le strade
+44E6|cibo
+44E6|razionare
+44E61|biglietto
+44E61|carta
+44E61|tessera annonaria
+44E62|cucina
+44E62|mensa per i poveri
+44E62|mensa popolare
+44F|rivoluzione
+44F0|Rebellione
+44F0|Ripa
+44F0|Seditio
+44F0|Seditione civile
+44F1|rivolta
+44F1|strada
+44F1|via
+44F11|barricata
+44F14|saccheggiare
+44F2|guerra
+44F2|guerra civile
+44F3|emergenza
+44F31|coprifuoco
+44F4|corte marziale
+44F4|giustizia
+44F4|giustizia sommaria
+44F41|verdetto
+44F51|complottare
+44F51|congiura
+44F511|giuramento
+44F52|arma
+44F52|preparativi per la battaglia
+44F52|segretezza
+44F53|commissione
+44F53|gruppo
+44F531|patriota
+44F532|capo dei rivoltosi
+44F541|agitatore
+44F541|discorso
+44F542|libello
+44F542|manifestino
+44F542|propaganda
+44F542|vignetta
+44F55|violenza
+44F551|sabotaggio
+44F552|assassinare
+44F552|attentato
+44F552|politica
+44F553|anarchia
+44F5531|bomba
+44F554|distruzione
+44F554|edificio
+44F555|distruzione
+44F555|monumento
+44F555|ritratto
+44F59|fallimento
+44F59|repressione
+44F59|sconfitta
+44F6|governo
+44F61|imprigionare
+44F62|espellere
+44F62|scacciare
+44F621|fuggire
+44F63|esilio
+44F630|Esilio
+44F630|Ripa
+44F631|profugo
+44F631|émigré
+44F7|governo
+44F71|proclamazione
+44F711|celebrazione
+44F7111|albero
+44F7111|danzare
+44F7111|libertà
+44F72|corte di giustizia
+44F72|giustizia
+44F73|consiglio
+44F741|paura
+44F741|regno del terrore
+44F741|terrore
+44F7411|agent provocateur
+44F7411|agente provocatore
+44F7412|riferire
+44G|giustizia
+44G|legge
+44G|occupazioni
+44G0|allegoria
+44G0|simbolo
+44G01|Legge
+44G01|Legge civile
+44G01|Ripa
+44G02|Rechtsdenkmaler
+44G03|azione legale
+44G1|processo
+44G11|corte di giustizia
+44G111|accusare
+44G112|verdetto
+44G1121|esecuzione
+44G1121|ordinare
+44G113|assoluzione
+44G12|edificio
+44G121|corte di giustizia
+44G1211|sala delle udienze
+44G1211|stanza
+44G122|segno
+44G1221|Rolandsäule
+44G1221|statua
+44G123|santuario
+44G123|segno
+44G1231|croce
+44G1231|croce che indica un mercato
+44G1231|croce segnale di mercato
+44G13|giudice
+44G130|Giudice
+44G130|Ripa
+44G131(...)|funzionario
+44G131(...)|ufficiale
+44G14|giuria
+44G1411|Vehmgericht
+44G1411|feme
+44G1412|tribunale
+44G15|testimone
+44G151|dito
+44G151|due
+44G151|giuramento
+44G1511|barba
+44G1511|donna
+44G1511|fettuccia
+44G1511|mano
+44G152|documento
+44G153|visitare
+44G159|falsa testimonianza
+44G159|spergiuro
+44G16|avvocato
+44G16|procuratore
+44G161|patrocinante nelle corti superiori
+44G162|consigliere
+44G163|perorare
+44G17|giudizio divino
+44G17|ordalia
+44G171|calore
+44G171|fuoco
+44G172|acqua
+44G1731|Bocca della verità
+44G1731|adulterio
+44G1731|bocca
+44G1731|mano
+44G1731|verità
+44G174|duello
+44G2|pubblica sicurezza
+44G2|sicurezza
+44G21|pattuglia
+44G21|ronda
+44G21|ronda di notte
+44G211|guardia
+44G211|sentinella alla torre
+44G211|vedetta
+44G22|polizia
+44G221|sceriffo
+44G222|magistrato inquirente
+44G223|guardia
+44G23|indagine giudiziaria
+44G23|investigazione
+44G231|investigatore
+44G231|investigatore privato
+44G232|coroner
+44G232|post mortem
+44G233|impronte digitali
+44G24|criminale
+44G24|inseguire
+44G241|gruppo
+44G241|squadra di armati
+44G242|cane
+44G242|cane poliziotto
+44G25|arrestare
+44G251|manette
+44G252|trasportare
+44G253|interrogare
+44G29|fuorilegge
+44G291|santuario
+44G3|diritto penale
+44G3|punizione
+44G311|prigione
+44G3110|allegoria
+44G3110|simbolo
+44G3111|carceriere
+44G3111|personale
+44G312|catena
+44G312|ceppi
+44G312|prigioniero
+44G3121|legare
+44G3121|mano
+44G313|cella
+44G313|prigioniero
+44G314|campo
+44G314|casa di lavoro
+44G314|lavoro pesante
+44G314|squadra di forzati alla catena
+44G315|visitare
+44G3151|liberare
+44G3151|prigioniero
+44G3151|riscattare
+44G3152|liberare
+44G3152|miracolo
+44G3152|prigioniero
+44G316|scappare
+44G316|tentativo
+44G317|riabilitazione
+44G318|cortile
+44G318|prigioniero
+44G319|liberare
+44G319|rilasciare
+44G3191|cauzione
+44G3191|pagare
+44G32|boia
+44G32|carnefice
+44G321|esecuzione
+44G321|strumento
+44G321|torturare
+44G321(BIRCH ROD)|bacchetta
+44G321(BIRCH ROD)|verga
+44G321(CROSS)|croce
+44G321(GALLOWS)|forca
+44G321(GRIDIRON)|graticola
+44G321(RACK)|ruota di tortura
+44G321(SCOURGE)|flagello
+44G321(SCOURGE)|frusta
+44G321(STAKE)|rogo
+44G33|torturare
+44G34|esecuzione
+44G34|morte
+44G341|ultime ore
+44G34111|congedarsi
+44G34111|parenti
+44G34111|parlare
+44G3412|confortare
+44G3412|pregare
+44G3412|spirito
+44G3412|spirituale
+44G3413|pentirsi
+44G3414|disperazione
+44G3415|patibolo
+44G342|patibolo
+44G349|effigie
+44G349|figura umana
+44G35|cadavere
+44G35|esecuzione
+44G35|mostrare
+44G35|pubblico
+44G3511|testa
+44G36|cadavere
+44G36|esecuzione
+44G36|mostrare
+44G3611|testa
+44G37|punizione pubblica
+44G371|deridere
+44G371|derisione pubblica
+44G371|disprezzo
+44G3711|gogna
+44G3712|immergere nell'acqua
+44G372|marchiare
+44G373|battere
+44G3731|fustigare
+44G38|esilio
+44G38|scacciare
+44G381|deportazione
+44G382|richiedere
+44G382|rifugiarsi
+44G39|modifica
+44G39|prevenire
+44G399|perdono
+44G4|diritto civile
+44G41|azione legale
+44G42|ammenda
+44G43|confisca
+44G43|imprigionare
+44G43|merce
+44G43|proprietà
+44G44|forza
+44G44|vendere
+44G45|notaio
+44G48|arbitrato
+44G49|azione legale
+44G49|esortare
+44G49|incitamento alla lite
+44G5|criminale
+44G51|crimine
+44G510|Ripa
+44G510|Sceleratezza o vitio
+44G511|assassino
+44G5111|assassinare
+44G512|avvelenatore
+44G52|derubare
+44G52|rubare
+44G521|caverna
+44G521|covo del rapinatore
+44G5220|Rapina
+44G5220|Ripa
+44G53|ladro
+44G531|rubare
+44G54|ladro
+44G540|Furto
+44G540|Ripa
+44G541|borsaiolo
+44G542|taccheggiatore
+44G543|ricettatore
+44G544|rubare
+44G55|falsario
+44G551|falsificazione
+44G56|pirata
+44G561|nave
+44G562|pirateria
+44G59|arnese
+44G59|attrezzo
+44G591|lanterna
+44G591|lanterna cieca
+44G6|Gerechtigkeitsbilder
+44G6|giudice
+44G6|giudice esemplare
+44G61|mano
+44G61|recidere
+44G69|cattivo giudice
+44G69|corruzione
+44G690|Corruttella ne' giudici
+44G690|Ripa
+44G8|fare da sé
+44G8|informale
+44G81|linciare
+44G82|faida
+44G82|vendetta
+44G83|liberare
+44G83|prigioniero
+44G89|soccorrere
+44G9|abuso
+44G9|assassinare
+44G9|corruzione
+44G91|genocidio
+44GG51|crimine
+44GG510|Ripa
+44GG510|Sceleratezza o vitio
+44GG511|assassino
+44GG5111|assassinare
+44GG512|avvelenatore
+44GG52|derubare
+44GG52|rubare
+44GG53|ladro
+44GG54|ladro
+44GG55|falsario
+44GG56|pirata
+44GG561|nave
+44GG562|pirateria
+44GG59|arnese
+44GG59|attrezzo
+45|occupazioni
+45|vita militare
+45A|guerra e pace
+45A1|guerra
+45A10|Guerra
+45A10|Ripa
+45A10|allegoria
+45A10|simbolo
+45A11|militarismo
+45A12|dichiarazione di guerra
+45A13|esortare
+45A13|propaganda
+45A131|nemico
+45A132|preparativi per la battaglia
+45A14|effetto
+45A141|orrore
+45A1411|massacro
+45A142|crimine
+45A143|scienza
+45A144|tecnologia
+45A145|economia
+45A1459|arricchito di guerra
+45A1459|profittatore
+45A2|pace
+45A20|Pace
+45A20|Pax
+45A20|Ripa
+45A20|allegoria
+45A20|simbolo
+45A21|antimilitarismo
+45A21|pacifismo
+45A22|disarmare
+45A23|effetto
+45A231|benedire
+45A232|Abundantia
+45A232|Pax et Abundantia
+45A232|abbondanza
+45A232|prosperità
+45A233|Giustizia
+45A233|Pace
+45A233|Salmo 85
+45A233|baciare
+45A3|vittoria
+45A30|Ripa
+45A30|Victoria
+45A30|Vittoria
+45A30|Vittoria degl'antichi
+45A30|Vittoria navale
+45A31|gloria
+45A31|trionfo
+45A4|sconfitta
+45A41|disgrazia
+45A42|capitolazione
+45A5|guerra
+45A5|guerra fredda
+45A51|psicologia
+45A6|quinta colonna
+45A61|sabotaggio
+45A9|neutrale
+45A9|non belligerante
+45B|soldato
+45B1|arruolare
+45B11|reclutamento
+45B111|arruolatore
+45B112|contratto
+45B113|volontarietà
+45B114|coscrizione
+45B1141|arruolatore
+45B1141|coscrizione forzata
+45B1141|costringere
+45B1141|forza
+45B1141|imbarcare
+45B115|sorte
+45B1151|liberare
+45B1151|rilasciare
+45B116|esame
+45B116|medicina
+45B1161|rifiutare
+45B117|sostituzione
+45B12|partire
+45B13|arrivo
+45B13|base militare
+45B14|coscienza
+45B14|obiettare
+45B14|obiettore di coscienza
+45B2|addestrare
+45B21|istruire
+45B211|esercitazione militare
+45B212|arma
+45B212|maneggiare
+45B2121|poligono di tiro
+45B2121|tirare
+45B213|esercizio
+45B22|teoria
+45B23|manovra
+45B24|contesa
+45B25|entrata
+45B251|giuramento
+45B2511|rottura di promessa
+45B28|accademia
+45B281|nave
+45B3|servizio
+45B3|servizio militare
+45B31|guardia
+45B311|cambio
+45B312|corpo di guardia
+45B312|kortegaard
+45B312|stanza
+45B313|sfidare
+45B314|assalire
+45B315|garitta
+45B32|truppa
+45B321|ispezionare
+45B33|dividere
+45B33|giorno
+45B331|sveglia
+45B331|tromba
+45B332|appello
+45B333|ritirata
+45B333|silenzio
+45B334|bandiera
+45B334|mostrare
+45B3341|allevare
+45B3341|sollevare
+45B3342|calare
+45B3342|sollevare
+45B41|salutare
+45B411|saluto militare
+45B412|arma
+45B412|fucile
+45B412|mostrare
+45B412|presentare le armi
+45B412|presentatarm
+45B413|bandiera
+45B414|bandiera
+45B415|cannone
+45B415|salva
+45B42|disciplina
+45B421|capo della polizia militare
+45B421|polizia
+45B422|corte di giustizia
+45B422|corte marziale
+45B4221|corte marziale straordinaria
+45B423|punizione
+45B4231|arrestare
+45B4232|esercizio
+45B4232|lavoro pesante
+45B4233|castigare
+45B42331|correre
+45B42331|gauntlet (punizione)
+45B42331|pena delle bacchette
+45B4234|prigione
+45B424|degradazione
+45B424|rango
+45B425|esecuzione
+45B43|onore
+45B431|promozione
+45B432|citazione
+45B432|lodare
+45B433|decorazione
+45B433|marchio
+45B433|medaglia
+45B49|ammutinamento
+45B49|ribellione
+45B5|celebrazione
+45B51|corteo
+45B51|parata
+45B52|dimostrazione
+45B53|bandiera
+45B53|decorazione
+45B54|incontrare
+45B54|riunione
+45B54|ufficiale
+45B55|guardia
+45B55|onore
+45B6|fuori servizio
+45B61|ricreazione
+45B611|spaccio
+45B612|mensa
+45B62|congedo
+45B62|permesso
+45B621|compagnia
+45B621|compagnia allegra
+45B621|prostituta
+45B7|compimento
+45B71|smobilitazione
+45B72|dispersione
+45B73|casa
+45B73|dimora
+45B73|ritornare
+45B81|veterano
+45B82|invalido
+45B82|zoppo
+45B83|Hôtel des Invalides
+45B83|casa di riposo militare
+45B83|invalido
+45B83|zoppo
+45B84|commemorazione
+45B84|riunione
+45B9|diserzione
+45B91|nemico
+45C|equipaggiamento
+45C|rifornimento
+45C1|arma
+45C10|Arme
+45C10|Ripa
+45C11|armi da lancio
+45C11|lanciare
+45C11|scagliare
+45C11(BALLISTA)|balista
+45C11(SLING)|fionda
+45C11(SPEAR)|lancia
+45C12|colpire
+45C12(CLUB)|clava
+45C13|trafiggere
+45C13(DAGGER)|pugnale
+45C13(RAPIER)|stocco
+45C13(SWORD)|spada
+45C131(BLADE)|lama
+45C131(GRIP)|elsa
+45C131(GRIP)|mancia
+45C131(GUARD)|guardia
+45C131(POMMEL)|pomolo
+45C14|armi immanicate
+45C14|armi in asta
+45C14|colpire
+45C14|trafiggere
+45C14(HALBERD)|alabarda
+45C14(JAVELIN)|lancia
+45C14(LANCE)|lancia
+45C14(PIKE)|picca
+45C15|arciere
+45C15(ARROW)|freccia
+45C15(BOW AND ARROW)|arco e freccia
+45C15(BOW)|arco
+45C15(CROSSBOW)|balestra
+45C16|arma da fuoco
+45C16|tirare
+45C16(CANNON)|cannone
+45C16(RIFLE)|fucile
+45C161|munizioni
+45C1611|arsenale
+45C1611|immagazzinamento
+45C1612|disastro
+45C1612|esplosione
+45C1612|polvere da sparo
+45C17|esplosivo
+45C17|proiettile
+45C17(GUNPOWDER)|polvere da sparo
+45C17(MINE)|mina
+45C18|arma biologica
+45C18|arma chimica
+45C18|arma nucleare
+45C19|armi difensive
+45C19(...)|maschera antigas
+45C19(SHIELD)|scudo
+45C2|abito
+45C2|costume
+45C21|uniforme
+45C211|berretto
+45C211|zucchetto
+45C212|bastone
+45C212|bastone del comando
+45C22|armatura
+45C22|armi difensive
+45C221|elmo
+45C222|bracciale (protezione per il braccio)
+45C222|protezione
+45C2221|guanto
+45C2221|guardamano
+45C2221|manopola (armatura)
+45C2221|moffola
+45C2221|protezione della mano
+45C223|corazza
+45C23|feretra
+45C231|fodero
+45C231|guaina
+45C24|mimetizzazione
+45C3|cibo
+45C32|riserva
+45C33|pasto
+45C33|preparativi
+45C33|preparazione
+45C34|trasportare
+45C35|ispezionare
+45C36|servire
+45C37|pasto
+45C4|rifugio
+45C41|campo
+45C41|tenda
+45C42|caserma
+45C421|presidio
+45C43|alloggiare
+45C43|civile
+45C43|ospite
+45C431|requisizione
+45C432|autorizzazione
+45C432|mandato
+45C433|accogliere
+45C433|buono
+45C4331|aiuto
+45C434|accogliere
+45C434|cattivo
+45C4341|vendetta
+45C439|salvaguardia
+45C5|denaro
+45C51|pagare
+45C511|ufficiale pagatore
+45C52|richiedere
+45C6|civili a seguito di un esercito
+45C61|uomo
+45C61|vivandiere
+45C62|donna
+45C621|vivandiera
+45C621|vivandiere
+45C63|Hurenwebel
+45C63|prostituta
+45C7|cure
+45C7|guerra
+45C7|igiene
+45C7|medicina
+45C71|cadavere
+45C71|ferito
+45C71|infermi
+45C71|trasportare
+45C711|campo di battaglia
+45C711|portare
+45C712|veicolo
+45C72|curare
+45C72|ferito
+45C72|infermi
+45C721|campo di battaglia
+45C722|battaglia
+45C723|ospedale
+45C723|ospedale da campo
+45C724|lazzaretto
+45C8|cure
+45C81|assistenza (opere di)
+45C82|cappellano
+45C82|religione
+45C9|musica
+45C91|banda musicale
+45C92|segnale
+45D1|bandiera
+45D1|stendardo
+45D11|insegne
+45D12|alfiere
+45D2|divisione
+45D2|forze
+45D21|esercito
+45D22|marina (militare)
+45D23|aviazione militare
+45D3|rango
+45D31|soldato
+45D311|cavaliere
+45D311|comandante
+45D311|generale
+45D312(...)|ufficiale
+45D313|soldato di cavalleria
+45D313|soldato semplice
+45D313|ussaro
+45D32|marina (militare)
+45D321|ammiraglio
+45D321|comandante
+45D322|ufficiale
+45D323|marinaio
+45D33|aviazione militare
+45E1|comunicazione
+45E2|trasportare
+45E2|treno
+45E3|veicolo
+45E31|cocchio
+45E32(...)|carro armato
+45E4|animale
+45E5|ingegneria
+45E51|improvvisazione
+45E51|ponte
+45E51|provvisorio
+45E51|temporaneo
+45E511|ponte di barche
+45E512|ponte Bailey
+45E52|barricata
+45E52|ostruzione
+45F|guerra
+45F|preparativi per la battaglia
+45F1|consiglio
+45F11|progetto
+45F12|negoziare
+45F2|servizi segreti
+45F21|osservazione
+45F21|perlustratori
+45F211|guidare
+45F211|prigioniero
+45F212|attrezzature meccaniche
+45F22|spia
+45F220|Ripa
+45F220|Spia
+45F221|origliare
+45F221|radio
+45F221|telefono
+45F222|arrestare
+45F23|controspionaggio
+45F3|forze
+45F3|riunirsi
+45F3|truppa
+45F31|mobilitazione
+45F32|requisizione
+45F33|concentrazione
+45F34|schieramento
+45F4|trasportare
+45F4|truppa
+45F41|congedarsi
+45F42|marciare
+45F43|notte
+45F5|esercito
+45F5|viaggiare
+45F6|arringare
+45F6|condottiero
+45F6|generale
+45F7|cappellano
+45F7|funzione religiosa
+45F7|pregare
+45F8|nemico
+45F8|sfidare
+45F9|tradimento
+45F9|tradire
+45F90|Ripa
+45F90|Tradimento
+45G|civilizzazione
+45G|cultura
+45G|difendere
+45G|guerra
+45G|occupazioni
+45G|società
+45G|vita militare
+45G1|comunicazione
+45G1|tagliare
+45G11|cartello stradale
+45G11|faro
+45G11|rimuovere
+45G12|ostruzione
+45G121|esercito
+45G1211|strada
+45G12111|barricata
+45G12111|via
+45G1212|chiodo
+45G1212|tagliola
+45G1212|tribolo
+45G12121|fossa
+45G12121|trappola
+45G12122|campo minato
+45G12122|mina
+45G12122|mina terrestre
+45G12123|filo spinato
+45G122|marina (militare)
+45G1221|catena
+45G1222|campo minato
+45G1222|mina
+45G123|aviazione militare
+45G1231|campo d'aviazione
+45G1231|distruzione
+45G1232|riflettore
+45G1233|pallone aerostatico
+45G2|autodifesa
+45G2|protezione
+45G21|rifugio
+45G21|sotterraneo
+45H|combattere
+45H|guerra
+45H1|assalire
+45H11|segnale
+45H111|grido
+45H111|grido di guerra
+45H12|imboscata
+45H13|stratagemma
+45H130|Ripa
+45H130|Stratagemma militare
+45H2|difendere
+45H21|segnale
+45H22|contrattacco
+45H3|battaglia
+45H31|bombardamento
+45H32|assalire
+45H33|abbordaggio
+45H33|lotta
+45H331|forze superiori
+45H34|lotta
+45H34|sostituzione
+45H341|duello
+45H342|gruppo
+45H4|fuggire
+45H4|inseguire
+45H4|sconfitta
+45H4|vittoria
+45H5|sconfitta
+45H5|vittoria
+45H51|forze superiori
+45H52|ferito
+45H53|uccidere
+45H54|inedia
+45H54|rifornimento
+45H6|guerriglia
+45I1|prigioniero di guerra
+45I11|resa
+45I12|disarmare
+45I13|deportazione
+45I14|interrogare
+45I141|lavaggio del cervello
+45I141|torturare
+45I15|cure
+45I151|campo
+45I16|scambiare
+45I161|riscattare
+45I17|liberare
+45I2|ostaggio
+45I3|comunicato
+45I31|criticare
+45I4|negoziare
+45I4|tregua
+45I41|ponte
+45I41|rovina
+45I5|fermare
+45I5|sospensione
+45I51|Trève-Dieu
+45I51|tregua
+45I52|sepoltura
+45I53|tregua
+45I530|Ripa
+45I530|Tregua
+45I6|vincitore, vincitrice
+45I61|trionfo
+45I611|alloro
+45I611|inconorazione
+45I612|cocchio
+45I612|incatenare
+45I612|prigioniero
+45I62|andare a cavallo
+45I62|calpestare
+45I63|afferrare
+45I63|capelli
+45I7|sconfitta
+45I71|davanti
+45I71|vincitore, vincitrice
+45K|guerra
+45K|guerra di posizione
+45K1|fortificazione
+45K1|ingegneria
+45K11|provvisorio
+45K11|temporaneo
+45K111|fosso
+45K112|terra
+45K112|terra di nessuno
+45K112|terreno
+45K12|permanenza
+45K121|palizzata
+45K122|baluardo
+45K122|bastione
+45K13|fortezza
+45K14|città
+45K141|mura di città
+45K1411|caditoia
+45K1412|merlatura
+45K1413|feritoia
+45K142|torre
+45K143|fossato
+45K1431|ponte
+45K1431|ponte levatoio
+45K144|porta di città
+45K1441|saracinesca
+45K2|assalire
+45K21|assedio
+45K22|blocco militare
+45K23|bombardamento
+45K231|ariete
+45K231|arma
+45K24|attacco improvviso
+45K25|travaux d'approche
+45K27|fortezza
+45K27|mura di città
+45K3|difendere
+45K31|città
+45K31|fortificazione
+45K32|assalire
+45K33|assedio
+45K33|città
+45K331|fortificazione
+45K4|presa di città
+45K5|assedio
+45K5|togliere l'assedio
+45K51|liberazione
+45K52|liberare
+45L|occupazione (invasione)
+45L1|resa
+45L11|chiave
+45L12|entrata
+45L12|marciare
+45L13|sconfitta
+45L2|tributo
+45L21|consegnare
+45L22|bottino
+45L22|dividere
+45L23|bottino
+45L23|portare
+45L29|salvacondotto
+45L3|saccheggiare
+45L31|bottino
+45L311|trofeo
+45L3111|arma
+45L3111|ornamento
+45L3111|panoplia
+45L3111|tropaion
+45L4|città
+45L4|distruzione di città
+45L40|allegoria
+45L40|personificazione
+45L41|demolizione
+45L42|dare fuoco
+45L42|incendiare
+45L43|rovina
+45M|civile
+45M|non combattenti
+45M11|battaglia
+45M12|soldato
+45M13|combattere
+45M13|franco tiratore
+45M2|soldato
+45M3|occupazione (invasione)
+45M31|cercare
+45M31|ricerca casa per casa
+45M39|movimento clandestino
+45M39|partigiano
+45M391|sabotaggio
+45M4|bombardamento
+45M5|fuggitivo
+45M5|scappare
+45M51|viaggiare
+45M52|campo
+45M52|riposare
+45M6|campo
+45M6|campo di internamento
+45M7|campo
+45M7|campo di concentramento
+46A|comunità
+46A1|stratificazione
+46A1|stratificazione sociale
+46A11|classe sociale
+46A11|dividere
+46A111|cittadini
+46A111|clero
+46A111|nobiltà
+46A111|tre
+46A111|tre Stati
+46A12|cavalierato
+46A12|cavalleria
+46A12|classe sociale
+46A12|nobiltà
+46A12|patriziato
+46A121|corona gentilizia
+46A122(...)|araldica
+46A122(...)|blasone
+46A122(...)2|cimiero
+46A122(...)3|emblema
+46A122(...)3|motto
+46A122(...)4|impresa
+46A122(...)5|vessillo
+46A122(...)6|sigillo
+46A123|araldo
+46A124|cavaliere
+46A1241|ordine
+46A1241|ordine cavalleresco
+46A1241(...)1|catena
+46A1241(...)1|insegna
+46A1241(...)1|insegne
+46A1241(GOLDEN FLEECE)|vello d'oro
+46A1241(GOLDEN FLEECE)1|catena
+46A1241(GOLDEN FLEECE)1|insegna
+46A1241(GOLDEN FLEECE)1|insegne
+46A1241(HOLY SPIRIT)|Spirito Santo (Ordine cavalleresco)
+46A1241(HOLY SPIRIT)1|catena
+46A1241(HOLY SPIRIT)1|insegna
+46A1241(HOLY SPIRIT)1|insegne
+46A1241(ST. JOHN)|San Giovanni Evangelista
+46A1241(ST. JOHN)1|catena
+46A1241(ST. JOHN)1|insegna
+46A1241(ST. JOHN)1|insegne
+46A1241(TEUTONIC ORDER)|Ordine Teutonico
+46A1241(TEUTONIC ORDER)1|catena
+46A1241(TEUTONIC ORDER)1|insegna
+46A1241(TEUTONIC ORDER)1|insegne
+46A125|cavaliere
+46A1251|paggio
+46A1252|cavalier servente
+46A1252|scudiero
+46A1253|cerimonia
+46A1253|nominare a cavaliere
+46A12531|conferimento
+46A125311|cingere
+46A125311|spada
+46A125312|accollata
+46A125312|spada
+46A12532|conferimento
+46A125321|vestire
+46A125322|digiunare
+46A125322|veglia
+46A125323|benedire
+46A125323|spada
+46A125324|armatura
+46A125324|insediamento
+46A125324|investitura
+46A125324|spada
+46A125324|sperone
+46A125325|accollata
+46A125325|spada
+46A126|eroe
+46A126|eroi
+46A126|eroine
+46A126|nove
+46A126|nove prodi
+46A1261|Giosuè
+46A1262|David
+46A1263|Giuda Maccabeo
+46A1263|Maccabei
+46A1264|Ettore
+46A1265|Alessandro Magno
+46A1266|Giulio Cesare
+46A1267|Artù
+46A1268|Carlomagno
+46A1269|Goffredo di Buglione
+46A127|donna
+46A127|donne celebri
+46A127|eroe
+46A127|fama
+46A127|femmes célèbres
+46A127|homines illustres
+46A127|nove
+46A127|nove eroine
+46A127|uomini famosi
+46A127|uomini illustri
+46A13|cittadini
+46A131|borghese
+46A131|borghesia
+46A131|cittadino
+46A131|classe sociale
+46A132|dorper
+46A132|servo feudale
+46A139|Schalksnarr
+46A139|buffone
+46A14|agricoltore
+46A14|moglie del fattore
+46A141|combattere
+46A141|soldato
+46A15|povero
+46A151|brandello
+46A151|cencio
+46A151|mendicante
+46A1511|ciotola
+46A1511|ciotola del mendicante
+46A1512|processione
+46A152|fahrende Leute
+46A152|vagabondo
+46A152|vagare
+46A153|bambocciate
+46A153|festa
+46A154|attore
+46A154|attrice
+46A154|becchino
+46A154|disprezzo
+46A154|occupazioni
+46A154|prostituta
+46A154|unerliche Leute
+46A155|bandito
+46A155|paria
+46A155|proscritto
+46A16|classe sociale
+46A16|ricchezza
+46A161|acquisto
+46A1611|corsa all'oro
+46A1611|tesoro
+46A1612|ritrovare
+46A1612|scavare
+46A1612|tesoro
+46A162|mostrare
+46A1621|gioielli
+46A1622|spargere
+46A1623|contemplazione
+46A163|protezione
+46A1631|depositare
+46A16311|nascondere
+46A16311|scavare
+46A16311|seppellire
+46A16311|tesoro
+46A1632|cassa
+46A1632|salvadanaio
+46A1632|scatola
+46A16321|cassaforte
+46A16321|scrigno
+46A1633|sorvegliare
+46A1633|tesoro
+46A16331|guardia
+46A16332|animale
+46A16332|cane da guardia
+46A16333|allarme
+46A16333|antifurto
+46A164|classe elevata
+46A164|dieci
+46A164|ricchi
+46A165|jet set
+46A166|arricchito
+46A166|nuovo ricco
+46A166|parvenu
+46A17|classe operaia
+46A17|classe sociale
+46A17|lavoratore
+46A170|lavoro
+46A171|padrone
+46A171|servo/a
+46A1711|postulante
+46A1711|richiedere
+46A172|pagare
+46A1721|rifiutare un dono, un'offerta
+46A1722|rifiutare un ordine, una richiesta
+46A173|gruppo
+46A173|processione
+46A174|casa
+46A174|dimora
+46A174|ritornare
+46A175|lavoro minorile
+46A179|disoccupazione
+46A1791|disoccupato
+46A18|schiavitù
+46A18|schiavo/a
+46A180|Ripa
+46A180|Servitù
+46A181|commercio
+46A181|commercio degli schiavi
+46A182|padrone
+46A183|libertà
+46A1831|liberare
+46A1832|comprare
+46A1833|scappare
+46A1833|tentativo
+46A1834|abolizione
+46A2|contrasto
+46A2|contrasto sociale
+46A21|classe sociale
+46A21|ricco e povero
+46A211|buono e cattivo
+46A212|carità
+46A212|cibo
+46A212|dare
+46A212|elemosina
+46A2120|Elemosina
+46A2120|Ripa
+46A213|filantropo
+46A22|città
+46A22|paese
+46A22|vita di città
+46A22|vita rurale
+46A2211|abitante della città
+46A2211|cittadino
+46A2219|spopolamento
+46A2219|spopolamento urbano
+46A2221|abitante della campagna
+46A22219|spopolamento
+46A22219|spopolamento delle campagne
+46A23|davanti
+46A23|importanza
+46A23|impotenza
+46A23|inferiorità
+46A23|potere
+46A23|scarsa importanza
+46A23|superiorità
+46A231|patrono
+46A231|protetto
+46A24|padrone
+46A24|servo/a
+46A241|due
+46A241|servire
+46A3|assistenza (opere di)
+46A3|assistenza pubblica
+46A31|orfano
+46A31|orfanotrofio
+46A311|brefotrofio
+46A311|ospedale
+46A311|trovatello/a
+46A32|anzianità
+46A32|cure
+46A321|casa
+46A321|dimora
+46A321|ospizio per anziani
+46A3211|hofje
+46A3211|ospizio
+46A33|carità
+46A4|razze
+46A4|relazione
+46A41|discriminazione
+46A41|segregazione
+46A42|razzismo
+46A421|rivolta
+46A422|Ku Klux Klan
+46A422|organizzazione
+46A49|integrazione
+46A49|razzismo
+46A5|comunicazione
+46A5|linguaggio
+46A51|capire
+46A51|tentativo
+46A511|incomprensione
+46A52|interprete
+46A53|traduttore
+46A54|sordomuto
+46A541|leggere
+46A541|lettura delle labbra
+46A542|linguaggio dei segni
+46A55|linguaggio artificiale
+46A551|Esperanto
+46A6|consiglio d'amministrazione
+46A6|organizzazione
+46A61|amministratore
+46A61|commissione
+46A61|governatore
+46A611|presidente
+46A612|segretario
+46A613|tesoriere
+46A614|membro
+46A62|membro
+46A6211|votazione a scrutinio segreto
+46A6212|iniziazione
+46A629|espellere
+46A629|fermare
+46A629|sospensione
+46A63|riunione
+46A632|arringare
+46A633|discutere
+46A633|disputare
+46A634|interruzione
+46A634|richiedere
+46A635|votare
+46A636|caos
+46A636|disordine
+46A638|sala da riunioni
+46A638|stanza
+46A7|folla
+46A71|contrasto
+46A71|individualità
+46A8|abitare
+46A8|vita
+46A81|migrazione
+46A81|vagare
+46A81(GIPSIES)|zingaro
+46A81(NOMADS)|nomade
+46A811|tenda
+46A812|carro coperto
+46A813|barca
+46A82|comunità ideale
+46A82|natura
+46A82|ritornare
+46A821(...)|gruppo
+46A8211|spartire
+46A822|naturista
+46A823|nudista
+46A83|solitudine
+46A831|Robinsonade
+46A831|isola
+46A831|isola deserta
+46A84|pionierismo
+46A84|vita di frontiera
+46A841|ovest
+46A841|selvaggio West
+46A85|avventuriero
+46A9|uomo primitivo
+46A91|matriarcato
+46A92|patriarcato
+46A93|clan
+46A93|tribù
+46AA126|eroina
+46AA1261|Ester
+46AA1261|Giosuè
+46AA1262|David
+46AA1262|Giuditta
+46AA1263|Giaele
+46AA1263|Giuda Maccabeo
+46AA1263|Maccabei
+46AA1264|Ettore
+46AA1264|Lucrezia
+46AA1265|Alessandro Magno
+46AA1265|Veturia
+46AA1266|Giulio Cesare
+46AA1266|Virginia
+46AA1267|Artù
+46AA1267|Sant'Elena
+46AA1268|Carlomagno
+46AA1268|Santa Brigida di Svezia
+46AA1269|Goffredo di Buglione
+46AA1269|Sant'Elisabetta d'Ungheria
+46AA170|lavoro
+46AA171|padrone
+46AA171|servo/a
+46AA1711|postulante
+46AA1711|richiedere
+46AA172|pagare
+46AA173|gruppo
+46AA173|processione
+46AA174|casa
+46AA174|dimora
+46AA174|ritornare
+46AA175|lavoro minorile
+46AA179|disoccupazione
+46AA241|due
+46AA241|servire
+46AA611|presidente
+46AA612|segretario
+46AA613|tesoriere
+46AA614|membro
+46AA632|arringare
+46AA633|discutere
+46AA633|disputare
+46AA634|interruzione
+46AA634|richiedere
+46AA635|votare
+46AA636|caos
+46AA636|disordine
+46AA638|sala da riunioni
+46AA638|stanza
+46B|affari
+46B|commercio
+46B|economia
+46B|finanza
+46B|occupazioni
+46B0|Commertio della vita humana
+46B0|Ripa
+46B0|allegoria
+46B1|comprare
+46B1|edificio
+46B1|vendere
+46B11|mercato
+46B111|bancarella
+46B111|baracca
+46B112|sala
+46B112|sala del mercato
+46B12|agricoltore
+46B12|danzare
+46B12|fiera
+46B12|villaggio
+46B13|negozio
+46B131|grande magazzino
+46B131|supermercato
+46B132|mostrare
+46B132|vetrina di negozio
+46B133|bancone
+46B14|pesa pubblica
+46B15|magazzino di vendita all'ingrosso
+46B16|asta
+46B17|Borsa
+46B17|cambio
+46B18|esposizione
+46B18|esposizione commerciale
+46B18|fiera
+46B18|industria
+46B181|esposizione universale
+46B181|mondo
+46B19|fiera
+46B19|fiera di beneficenza
+46B2|essere umano
+46B21|mercante
+46B22|mercante
+46B22|vagare
+46B221|venditore ambulante
+46B221(...)|acquaiolo
+46B2211|Londra
+46B2211|Parigi
+46B2211|cries of London
+46B2211|cris de Paris
+46B2211|grido
+46B222|venditore ambulante
+46B23|mercante
+46B23|viaggiatore
+46B24|negoziante
+46B241|commesso
+46B241|mercante
+46B25|mercato
+46B26|mercato
+46B26|ritornare
+46B27|cliente
+46B271|contentarsi
+46B272|lagnarsi
+46B31|denaro
+46B310|Pecunia
+46B310|Ripa
+46B311|moneta
+46B3111|segno
+46B312|assegno circolare
+46B312|carta
+46B313|barra
+46B313|conchiglia
+46B313|sbarra
+46B314|assegno
+46B314|cambiale
+46B314|scambiare
+46B3140|Cambio
+46B3140|Ripa
+46B3140|Wissel
+46B3140|allegoria
+46B32|amministrazione
+46B321|contabile
+46B321|contabilità
+46B3211|registro delle vendite
+46B322|ufficio
+46B33|pesare
+46B331|strumento
+46B3311|bilancia
+46B3312|peso
+46B332|denaro
+46B332|oro
+46B34|misura di capacità
+46B34|misurare
+46B341|contenitore
+46B341|strumento
+46B341|unità di volume
+46B35|pubblicità
+46B351|grido
+46B352|volantino
+46B3521|opuscolo
+46B353|manifesto
+46B3531|pannello pubblicitario
+46B3531|tavola
+46B3532|colonna
+46B3532|colonna per affissione
+46B3532|pilastro
+46B3533|uomo-sandwich
+46B354|insegna
+46B354|tavola
+46B355|biglietto
+46B355|carta
+46B355|marchio
+46B355|segno
+46B356|avviso
+46B4|negoziare
+46B411|comprare
+46B412|vendere
+46B413|baratto
+46B414|affittare
+46B414|affitto
+46B414|leasing
+46B414|prendere in affitto
+46B42|ispezionare
+46B42|merce
+46B43|contrattazione
+46B44|pagare
+46B451|addebito
+46B451|debito
+46B4510|Debito
+46B4510|Ripa
+46B4511|IOU
+46B4511|documento
+46B4511|obbligazione
+46B452|credito
+46B4520|Credito
+46B4520|Ripa
+46B46|contratto di vendita
+46B46|documento
+46B46|vendere
+46B471|profitto
+46B4711|interesse (economico)
+46B472|perdita
+46B48|speculazione
+46B48|speculazione in borsa
+46B481|boom
+46B491|importazione
+46B492|esportazione
+46B493|spedizione
+46B494|compagnia
+46B494|compagnia di commercio
+46B4941|commercio marittimo
+46B4941|marina mercantile
+46B5|organizzazione
+46B51|denaro
+46B511|cambiavalute
+46B511|cambio
+46B512|prestare
+46B512|usuraio
+46B5120|Ripa
+46B5120|Usura
+46B5120|usura
+46B513|lombard
+46B513|prestatore su pegno
+46B52|borsa valori
+46B52|cambio
+46B52|mercato
+46B521|riferire
+46B53|banca
+46B531|banchiere
+46B54|postagiro
+46B55|assicurazione
+46B551|agente
+46B551|agente di assicurazione
+46B56|uomo d'affari
+46B561|corporazione
+46B561|mercante
+46B562|camera di commercio
+46B57|cartello finanziario
+46B57|consorzio
+46B57|monopolio
+46B57|trust
+46B6|dumping
+46B61|svendita
+46B61|vendere
+46B7|spia
+46B8|boicottaggio
+46B9|risultato
+46B91|frode
+46B910|Acquisto cattivo
+46B910|Ripa
+46B911|corrompere
+46B92|bancarotta
+46B921|ufficiale giudiziario
+46B93|crisi economica
+46B93|crollo (dei prezzi)
+46B931|panico
+46B932|inflazione
+46BB221|venditore ambulante
+46BB221(...)|acquaiolo
+46BB222|venditore ambulante
+46BB241|commesso
+46BB241|mercante
+46BB271|contentarsi
+46BB272|lagnarsi
+46C|circolazione
+46C|traffico
+46C|trasportare
+46C1|terra
+46C1|terreno
+46C11|strada
+46C111|guado
+46C1111|attraversare un fiume
+46C1112|traghettare
+46C1113|pietra
+46C1113|pietra per guadare
+46C112|ponte
+46C1121|costruzione
+46C11211|ponte sospeso
+46C11212|ponte a cantilever
+46C11213|ponte levatoio
+46C1122|forma
+46C11221|edificio
+46C11221|ponte coperto
+46C113|viadotto
+46C114|sotterraneo
+46C114|tunnel
+46C115|regolamentazione del traffico
+46C1151|segnale stradale
+46C1151|segno
+46C1152|guardia
+46C1152|servizio di vigilanza
+46C1153|lampada
+46C1153|semaforo
+46C1159|ingorgo stradale
+46C1159|ostruzione
+46C116|bivio
+46C1160|allegoria
+46C1160|simbolo
+46C1161|palo segnavia
+46C1162|pietra
+46C1162|pietra miliare
+46C117|croce
+46C117|crocevia
+46C117|mont-joie
+46C1181|scala
+46C12|forza
+46C121|portare
+46C1211|borsa
+46C1211|cesto
+46C1211|sacco da montagna
+46C1212|giogo
+46C1212|lattaia
+46C1212|mungitrice
+46C1213|palo da trasporto
+46C1214|barella
+46C1215|portare sulle spalle
+46C1215|testa
+46C122|carriola
+46C123|carretto a mano
+46C123|carro
+46C124|risciò
+46C125|bicicletta
+46C1252|tre ruote
+46C1252|triciclo
+46C12521|triciclo da trasporto
+46C1253|monociclo
+46C1254|tandem
+46C1258|parte
+46C1261|trampoli
+46C127|portare
+46C1271|portare sulla schiena
+46C1272|cataletto
+46C1273|portantina
+46C1273|sedia
+46C128|forza umana
+46C128|spingere
+46C128|tirare
+46C128|veicolo
+46C13|animale
+46C13|animale da soma
+46C13|ungulato
+46C131|andare a cavallo
+46C1311|maneggio
+46C1311|scuola
+46C1311|scuola di equitazione
+46C13111|cavalcare
+46C13111|scuola media d'equitazione
+46C13112|carosello
+46C1312|equestre
+46C1312|ritratto
+46C1312|ritratto di stato
+46C1313|Baltazar Carlos
+46C1313|Carlo I
+46C1313|Carlo V
+46C1313|Carlomagno
+46C1313|Cavaliere di Magdeburgo
+46C1313|Colleoni
+46C1313|Costantino (San)
+46C1313|Curzio (Marco)
+46C1313|Federico il Grande
+46C1313|Ferdinando II
+46C1313|Filippo IV
+46C1313|Gattamelata
+46C1313|Luigi XIV
+46C1313|Luigi XV
+46C1313|Marco Aurelio (imperatore)
+46C1313|Massimiliano (imperatore)
+46C1313|Napoleone
+46C1313|Pietro il Grande
+46C1313|Rodolfo II
+46C1313|San Costantino
+46C1313|Stanislas Kostka Potocki
+46C1313|Teodorico
+46C1313|Wellington (duca di)
+46C1313|cavaliere di Bamberga
+46C1313|equestre
+46C1313|imperatore
+46C1313|re
+46C1313|statua
+46C13141|cavallo
+46C131411|combattimento (animali)
+46C13142|asino
+46C13142|somaro
+46C13143|mulo
+46C13144|bardotto
+46C1315|allevamento
+46C1315|allevare
+46C1315|campo di allevamento
+46C1315|fattoria
+46C1316|imbrigliare
+46C1316|sellare
+46C13161|selleria
+46C131611|testiera di briglia
+46C131612|morso
+46C131613|redini
+46C131614|sella
+46C1316141|palanchino (sul dorso di un elefante)
+46C131615|staffa
+46C131616|paraocchi
+46C131617|coperta
+46C131617|gualdrappa
+46C1317|strigliare
+46C13171|stalliere
+46C13172|pettine
+46C13172|striglia
+46C1318|cavallo
+46C1318|movimento
+46C13181|andare al passo
+46C13182|trottare
+46C13183|galoppare
+46C13184|saltare
+46C13185|impennarsi
+46C13186|calciare
+46C13186|prendere a calci
+46C13187|condurre
+46C13187|redini
+46C1319|cavallo
+46C1319|incidente
+46C13191|fuggire
+46C13192|cadere
+46C13192|cavalcare
+46C13192|lanciare
+46C13192|scagliare
+46C13193|animale selvatico
+46C13193|assalire
+46C132|cavalcare
+46C14|animale
+46C14|condurre un veicolo
+46C14|tirare
+46C14|veicolo
+46C141|attaccare i cavalli
+46C141|mettere i finimenti
+46C1411|finimenti
+46C14111|giogo
+46C1413|togliere i finimenti
+46C142|calesse
+46C142|cocchio
+46C14241|quadriga
+46C143|tre ruote
+46C144|carretto
+46C144|carrozza
+46C145|carro
+46C145|carro agricolo
+46C145|carro da trasporto
+46C1451|carro con cappotta o soffietto
+46C1451|carro coperto
+46C146|esortare
+46C1461|pungolo
+46C1462|sperone
+46C1463|frusta
+46C147|diligenza a cavalli
+46C147|omnibus
+46C147|tram
+46C147|tram a cavalli
+46C148|slitta
+46C148|toeslede
+46C149|incidente
+46C1491|fuggire
+46C1492|calesse
+46C1492|cocchio
+46C149241|quadriga
+46C1493|tre ruote
+46C1494|carretto
+46C1494|carrozza
+46C1495|carro
+46C1495|carro agricolo
+46C1495|carro da trasporto
+46C1496|esortare
+46C14961|pungolo
+46C14962|sperone
+46C14963|frusta
+46C1497|diligenza a cavalli
+46C1497|omnibus
+46C1497|tram
+46C1497|tram a cavalli
+46C1498|slitta
+46C1498|toeslede
+46C15|ferrovia
+46C15|treno
+46C151|impronta
+46C151|rotaie
+46C151|traccia
+46C15111|treno merci
+46C15112|treno passeggeri
+46C1512|tramway
+46C15121|tram
+46C1513|ferrovia a cremagliera
+46C152|locomotiva
+46C1521|locomotiva a vapore
+46C1522|locomotiva diesel
+46C1523|locomotiva elettrica
+46C153|carretto
+46C153|carro
+46C153|carrozza ferroviaria
+46C1531|carrozza passeggeri
+46C1532|carro merci
+46C1532|vagone ferroviario
+46C1532|vettura da carico
+46C154|sistema di segnalazione
+46C1541|cabina di segnalazione
+46C1541|stazione di segnalazione
+46C1542|attraversamento
+46C1542|passaggio a livello
+46C1543|attraversamento
+46C1543|passaggio a livello
+46C1544|segnale
+46C155|pensilina
+46C155|stazione
+46C1551|piattaforma
+46C1552|sala d'aspetto
+46C15591|magazzino
+46C156|metropolitana
+46C156|sotterraneo
+46C1561|stazione
+46C157|monorotaia
+46C158|ferrovia sospesa
+46C1581|funicolare
+46C159|incidente
+46C159|incidente ferroviario
+46C1591|ferrovia a cremagliera
+46C1591|impronta
+46C1591|rotaie
+46C1591|traccia
+46C1591|tramway
+46C1592|locomotiva
+46C1593|carretto
+46C1594|sistema di segnalazione
+46C15941|cabina di segnalazione
+46C15941|stazione di segnalazione
+46C15942|attraversamento
+46C15942|passaggio a livello
+46C15943|attraversamento
+46C15943|passaggio a livello
+46C1595|pensilina
+46C1595|stazione
+46C1596|metropolitana
+46C1596|sotterraneo
+46C15961|stazione
+46C1597|monorotaia
+46C1598|ferrovia sospesa
+46C15981|funicolare
+46C16|condurre un veicolo
+46C16|veicolo a motore
+46C161|automobile
+46C1611|tre ruote
+46C162|autobus
+46C162|carretto
+46C163|automobile
+46C163|camion
+46C164|veicolo anfibio
+46C165|ciclomotore
+46C165|motociclo
+46C165|scooter
+46C1661|trattore
+46C167|parte
+46C168|manutenzione
+46C1681|centrale del gas
+46C1681|stazione di rifornimento
+46C1681|stazione di servizio
+46C16811|benzina
+46C16811|distributore di benzina
+46C16811|gasolina
+46C16811|pompa
+46C16812|autorimessa
+46C16812|pezzi di ricambio
+46C16812|rifornimento
+46C16812|riparare
+46C16813|autolavaggio
+46C16813|lavare (macchine)
+46C1682|parcheggio
+46C16822|autorimessa
+46C16822|garage di parcheggio
+46C16822|parcheggio multipiano
+46C16823|contatore
+46C16823|parchimetro
+46C168231|Rita
+46C168231|addetta ai parchimetri
+46C168231|custode
+46C168231|parcheggiatore
+46C168231|vigile urbano
+46C169|incidente
+46C1691|automobile
+46C16911|tre ruote
+46C1692|autobus
+46C1693|automobile
+46C1693|camion
+46C1694|veicolo anfibio
+46C1695|ciclomotore
+46C1695|motociclo
+46C1695|scooter
+46C17|vettura a vela
+46C18|ghiaccio
+46C18|neve
+46C181|slitta
+46C1811|slitta da cavalli
+46C1812|slitta per cani
+46C1813|slitta da renne
+46C1814|bastone
+46C1814|punteruolo
+46C182|racchetta da neve
+46C182|scarpa
+46C183|barca
+46C189|incidente
+46C19|ruota
+46C191|mozzo (di ruota)
+46C1911|cuscinetto a sfere
+46C192|raggio (di ruota)
+46C193|pneumatico
+46C1931|camera d'aria
+46C1939|impronta
+46C1939|traccia
+46C199|impronta
+46C199|traccia
+46C2|acque
+46C2|marina
+46C20|Navigatione
+46C20|Ripa
+46C20|navigazione
+46C21|nave
+46C211|costruzioni di navi
+46C212|calafataggio
+46C212|carenaggio
+46C212|riparare
+46C2121|bacino
+46C2121|bacino di carenaggio
+46C2121|bacino galleggiante
+46C213|modello
+46C2131|bottiglia
+46C214|ritratto
+46C215|esterno
+46C215(ANCHOR)|albero di nave
+46C215(ANCHOR)|ancora
+46C215(ANCHOR)|argano
+46C215(BOW)|albero di nave
+46C215(BOW)|argano
+46C215(BOW)|prua
+46C215(FIGURE-HEAD)|albero di nave
+46C215(FIGURE-HEAD)|argano
+46C215(FIGURE-HEAD)|polena
+46C215(MAST)|albero di nave
+46C215(MAST)|argano
+46C215(RUDDER)|albero di nave
+46C215(RUDDER)|argano
+46C215(RUDDER)|timone
+46C215(WINDLASS)|albero di nave
+46C215(WINDLASS)|argano
+46C216|interno
+46C216(...)|cabina
+46C216(...)|castello di prua
+46C216(...)|casupola
+46C216(...)|ponte di nave
+46C216(...)|sala macchine
+46C22|nave
+46C22|porto
+46C222|nave in rada
+46C2231|banchina
+46C2231|molo
+46C2231|pontile
+46C2232|bitta
+46C2232|boa
+46C2232|boa di ormeggio
+46C2233|passerella (naut.)
+46C2234|macchina
+46C22341|gru (macchina)
+46C2235|deposito
+46C2235|edificio
+46C2236|rimessa
+46C2237|riva
+46C23|barca
+46C23|propulsione
+46C231|chiatta
+46C231|forza umana
+46C231|trainare
+46C232|barca a remi
+46C232|canoa
+46C232|forza umana
+46C2321|remare
+46C2321|spingere
+46C2322|remare
+46C2322|tirare
+46C23221|galea
+46C2323|remo
+46C2323|vogare di coda
+46C23231|gondola
+46C2324|canottaggio
+46C2325|asta
+46C2325|palo
+46C2325|spingere con un palo
+46C2325|spingere con una pertica
+46C233|animale
+46C233|mostro marino
+46C233|tirare
+46C24|imbarcazione a vela
+46C24|veliero
+46C24|yacht
+46C24(...)|boyer
+46C24(...)|brigantino
+46C24(...)|cog
+46C24(...)|goletta
+46C241|sartiame
+46C2411(...)|corda
+46C2411(...)|lenzuolo
+46C2411(...)|puleggia
+46C2411(...)|telo
+46C24111|vela
+46C24112|corda
+46C24112|scala (a pioli)
+46C24112|scala di corda
+46C25|imbarcazione a motore
+46C25|piroscafo
+46C251|elica di barca
+46C251|ruota
+46C252|sottomarino
+46C253|campana
+46C253|campana subaquea
+46C254|rompighiaccio
+46C255|rimorchiatore
+46C255|spingere
+46C255|tirare
+46C256|carico
+46C256|nave da carico
+46C2561|barca a motore
+46C2561|chiatta
+46C257|nave di linea
+46C26|imbarcazione a vela
+46C26|veliero
+46C26|veliero a vapore
+46C261|veliero a motore
+46C271|marinaio
+46C2711(...)|capitano
+46C2711(...)|nostromo
+46C2711(...)|timoniere
+46C2711(...)|ufficiale in seconda
+46C2712|disciplina
+46C2712|punizione
+46C2713|congedo
+46C2713|congedo dei marinai
+46C2713|marinaio con permesso di sbarcare
+46C2713|permesso
+46C2713|ricreazione
+46C2719|ammutinamento
+46C2719|ribellione
+46C272|passeggero
+46C273|celebrazione
+46C2731|Nettuno
+46C2731|equatore
+46C279|clandestino
+46C279|segretezza
+46C28|manovra
+46C28|navigazione
+46C280|Navigatione
+46C280|Ripa
+46C281|segnale
+46C2811|segnale di tempesta
+46C282|bussola
+46C282|locazione
+46C282|misurare
+46C282|strumenti nautici
+46C282|strumento
+46C2821|firmamento
+46C2821|sole
+46C2821|stella
+46C2822|ottante
+46C2822|quadrante
+46C2822|sestante
+46C2823|astrolabio
+46C283|faro
+46C2831|battello-faro
+46C2832|boa
+46C2832|boa a fischio
+46C2832|boa con campana
+46C2832|campana
+46C2832|fischiare
+46C2833|boa
+46C2833|boa luminosa
+46C2833|luce
+46C284|misurare
+46C284|scandagliare
+46C284|scandaglio
+46C285|marinaio
+46C2851|ponte di nave
+46C2852|timoniere
+46C2853|battello pilota
+46C2854|coffa
+46C2854|vigilare
+46C286|allevare
+46C286|barra
+46C2861|overtoom
+46C2861|ponte girevole
+46C2862|cammello
+46C2862|cassone pneumatico
+46C289|nave dei morti
+46C2891|Olandese volante
+46C29|incidente
+46C29|malattia
+46C29|morte
+46C291|naufragio
+46C292|annegamento
+46C292|naufrago
+46C2921|barca
+46C2921|imbarcazione di salvataggio
+46C2922|galleggiante
+46C2922|zattera
+46C2923|cadere
+46C2923|fuori bordo
+46C2923|in mare
+46C29231|gettare (essere gettato)
+46C293|guardia costiera
+46C293|servizio
+46C293|servizio di salvataggio marino
+46C2931|annegamento
+46C2931|soccorrere
+46C2932|boa
+46C2932|boa di salvataggio
+46C2932|cintura di salvataggio
+46C2932|cintura di sicurezza
+46C294|naufragio
+46C294|relitto
+46C294|riva
+46C2941|salvataggio
+46C295|adescare
+46C295|attrarre
+46C295|naufragio
+46C2951|accattone
+46C2951|saccheggiatore di relitti
+46C296|mal di mare
+46C297|mare
+46C297|sepoltura
+46C298|danno
+46C3|aviazione
+46C3|nell'aria (in cielo)
+46C3|volare
+46C31|animale
+46C31|uccello
+46C32|tappeto
+46C33|forza umana
+46C34|pallone aerostatico
+46C35|dirigibile
+46C35|zeppelin
+46C36|aeroplano
+46C3611|parte
+46C3621|equipaggio
+46C3621|personale
+46C36211|pilotaggio
+46C362111|pilota
+46C36212|assistenti di volo
+46C36212|equipaggio di cabina
+46C362121|assistente di cabina
+46C362121|capocabina
+46C362121|hostess di cabina
+46C362121|steward
+46C36213|personale di terra
+46C3622|passeggero
+46C3622|passeggero di volo
+46C371|elicottero
+46C372|autogiro
+46C373|hovercraft
+46C38|aereoporto
+46C38|campo d'aviazione
+46C381|edificio
+46C3811|torre
+46C3811|torre di controllo
+46C3812|hangar
+46C39|disastro
+46C39|disastro aereo
+46C39|incidente
+46C4|astronautica
+46C4|pianeta
+46C4|spazio
+46C4|viaggiare
+46C41|razzo
+46C42|capsula
+46C42|shuttle
+46C42|stazione spaziale
+46C42|veicolo spaziale
+46C43|astronauta
+46C43|cosmonauta
+46C49|UFO
+46C49|disco volante
+46C491|ET
+46C491|alieno
+46C491|essere umano
+46C491|extraterrestre
+46C491|mostro
+46C5|viaggiare
+46C511|preparativi
+46C511|preparazione
+46C512|partire
+46C5121|agitare
+46C5121|congedarsi
+46C5121|fare cenni
+46C513|viaggiatore
+46C5131|richiedere
+46C5132|mappa
+46C5133|autostop
+46C5134|derubare
+46C5135|all'aperto
+46C5135|riposare
+46C5136|portare
+46C5136|portatore
+46C5136|sherpa
+46C514|arrivo
+46C514|ritornare
+46C5141|accogliere
+46C519|cercare
+46C519|perdersi
+46C519|smarrire la strada
+46C52|albergo
+46C52|hotel
+46C52|locanda
+46C521|banco
+46C521|reception
+46C522|stanza
+46C522|stanza d'albergo
+46C53|migrazione
+46C54|turismo
+46C541|gita
+46C541|viaggio di piacere
+46C542|giro
+46C542|viaggio culturale
+46C5421|visita turistica
+46C54211|grand tour
+46C5422|viaggio organizzato
+46C54221|guidare
+46C5423|libro
+46C5423|manuale turistico
+46C543|crociera
+46C543|giro
+46C543|giro del mondo
+46C55|bagaglio
+46C55|sacco
+46C551|baule
+46C551|cassa
+46C551|valigia
+46C552|sacco da montagna
+46C552|zaino
+46C56|souvenir
+46C57|accès à un autre monde
+46C57|finzione
+46C57|viaggio
+46CC215(...)|albero di nave
+46CC215(...)|argano
+46D|giornalismo
+46D|stampa
+46D1|banditore
+46D1|banditore municipale
+46D1|gridare
+46D1|notizie
+46D2|distribuire
+46D2|opuscolo
+46D3|carta
+46D3|giornale
+46D31|baracca
+46D31|chiosco
+46D31|vendere
+46D32|strillone
+46D33|consegna
+46D4|mensile
+46D4|periodico
+46D4|settimanale
+46D41|canard
+46D41|stampa sensazionale
+46D5|stampatore
+46D51|comitato editoriale
+46D51|commissione
+46D52|cronista
+46D52|giornalista
+46D53|fotografo
+46D54|intervistare
+46E1|messaggero
+46E11|scatola
+46E12|insegna
+46E13|servizio postale a staffetta
+46E13|servizio spedizioni
+46E13|staffetta
+46E2|posta
+46E21|ufficio postale
+46E211|postino
+46E212|carretto
+46E212|vettura postale
+46E2121|tappa
+46E213|cassetta delle lettere
+46E213|cassetta postale
+46E221|busta
+46E221|epistola
+46E221|lettera (epistola, missiva)
+46E222|biglietto
+46E222|carta
+46E222|cartolina
+46E222|cartolina illustrata
+46E223|pacco
+46E223|plico
+46E224|telegramma
+46E225|francobollo
+46E231|imballare
+46E231|mandare
+46E232|consegna
+46E232|postino
+46E232|ricevere
+46E2321|buono
+46E2321|messaggero
+46E2321|notizie
+46E2322|cattivo
+46E2322|messaggero
+46E2322|notizie
+46E3|animale
+46E3|messaggero
+46E31|cane
+46E32|colomba
+46E4|segnale
+46E41|bandiera
+46E411|albero di nave
+46E42|semaforo
+46E43|fumo
+46E43|fuoco
+46E43|luce
+46E43(...)|lampada
+46E43(ROCKET)|razzo
+46E5|acustica
+46E5|segnale
+46E52|strumento
+46E521|campana
+46E522|cornetto acustico
+46E522|megafono
+46E523|raganella
+46E524|sirena (segnale acustico)
+46E525|fischiare
+46E6|comunicazione
+46E6|comunicazione elettrica
+46E6|comunicazione elettronica
+46E6|elettricità
+46E6|telecomunicazione
+46E61|morse
+46E61|telegrafo
+46E610|allegoria
+46E611|telex
+46E612|asta
+46E612|palo
+46E612|palo del telefono
+46E612|palo del telegrafo
+46E612|palo telefonico
+46E612|palo telegrafico
+46E62|telefono
+46E621|baracca
+46E621|cabina telefonica
+46E621|chiosco
+46E621|telefono pubblico
+46E622|equipaggiamento
+46E6221|fax (macchina)
+46E6222|telefono mobile
+46E6223|risponditore
+46E63|diffusione
+46E63|radio
+46E63|radiodiffusione
+46E63|trasmissione radiofonica
+46E631|radiotelegrafo
+46E631|walkie-talkie
+46E632|studio
+46E632|studio radiofonico
+46E64|diffusione
+46E64|televisione
+46E64|trasmissione televisiva
+46E641|antenna
+46E641|antenna satellitare
+46E6411|torre
+46E6411|torre radiofonica
+46E6411|torre televisiva
+46E6411|torre-antenna radiotelevisiva
+46E642|studio
+46E642|studio televisivo
+46E65|fonografo
+46E65|giradischi
+46E65|grammofono
+46E651|compact disc
+46E651|disco
+46E652|attrezzatura
+46E652|attrezzatura audio
+46E652|attrezzatura video
+46E652|equipaggiamento
+46E6521|apparecchio audio
+46E6521|apparecchio video
+46E653|accessori
+46E653|accessori audio
+46E653|accessori video
+46E65311|amplificatore
+46E65312|altoparlante
+46E653121|cuffie
+46E6532|accessori per il video
+46E65321|monitor
+46E65321|schermo
+46E66|magnetofono
+46E66|registratore
+46E66|registrazione
+46E66|videoregistratore
+46E661|bobina
+46E661|bobina (registrazione)
+46E661|cassetta
+46E661|nastro (registrazione)
+46E662|accessori
+46E662|apparecchiatura
+46E662|attrezzatura
+46E662|attrezzatura di registrazione
+46E662|equipaggiamento
+46E6621|microfono
+46E663|studio
+46E663|studio di registrazione
+46E67|apparecchiatura
+46E67|attrezzatura
+46E67|equipaggiamento
+46E67|struttura
+46E671|rete
+46E671|rete di telecomunicazioni
+46E671|telecomunicazioni
+46E6711|calcolatore
+46E6711|rete di calcolatori
+46E67111|Internet
+46E672|satellite
+46E672|satellite per telecomunicazioni
+46E673|modem
+46E7|locazione
+46E71|acustica
+46E71|eco
+46E72|ottica
+46E73|elettricità
+46E731|radar
+46E81|Marforio
+46E81|Pasquino
+46E81|statua
+46E81|statua parlante
+47|industria
+47|mestiere
+47|occupazioni
+470|Agricultura
+470|Armatura
+470|Artes Mechanicae
+470|Lanificium
+470|Medicina
+470|Navigatio
+470|Theatrica
+470|Venatio
+470|agricoltura
+470|armiere
+470|cacciare
+470|industria dell'abbigliamento
+470|medicina
+470|navigazione
+470|sette
+470|teatro
+47A|edificio
+47A1|esterno
+47A1|fabbrica
+47A11|bottega
+47A121|camino
+47A121|ciminiera
+47A121|fumaiolo
+47A122|altoforno
+47A122|fornace
+47A13|all'aperto
+47A2|interno
+47A21|bottega
+47A211|banco
+47A211|tavolo da lavoro
+47A212|fornace
+47A212|forno
+47A212|fucina
+47A212|fuoco
+47A22|fabbrica
+47A22|macchina
+47A221|catena di montaggio
+47A23|laboratorio
+47A23|ricerca
+47B1|artigianato
+47B1|artigiano
+47B1|lavoratore
+47B11|metallo
+47B111|fabbro
+47B111|fucina
+47B1111|maniscalco
+47B11111|ferro di cavallo
+47B1112|armiere
+47B1113|magnano
+47B112|ottoniere
+47B112|ramaio
+47B113|peltraio
+47B113|stagnaio
+47B114|fonditore di campane
+47B115|coniatore
+47B115|moneta
+47B12|gioielliere
+47B12|pietra preziosa
+47B121|lapidario
+47B122|lucidare
+47B122|tagliare
+47B122|tagliatore di diamanti
+47B13|pietra
+47B131|segatore
+47B131|tagliapietre
+47B131|tagliare
+47B132|rompere
+47B132|spaccapietre
+47B14|argilla
+47B14|creta
+47B14|gesso
+47B14|sabbia
+47B141|mattonaio
+47B141|mattone
+47B142|calce
+47B142|fornace
+47B15|vetro
+47B151|vetraio
+47B152|specchiaio
+47B153|occhiali
+47B153|ottico
+47B154|macinare
+47B154|mola per lenti
+47B16|materiale vegetale
+47B161|legname
+47B161|legno
+47B1611|carpentiere
+47B1612|segatore
+47B1613|tornitore
+47B1614|scolpire
+47B1614|scultore in legno
+47B171|cuoio
+47B171|pelle
+47B1711|conciapelli
+47B1711|cuoiaio
+47B1712|conciatore
+47B1713|pelliccia
+47B1713|pellicciaio
+47B181|cibo
+47B1811|fornaio
+47B18111|corno
+47B18111|soffiare
+47B1812|confettiere
+47B1812|dolci
+47B1812|pasticcere
+47B1813|cuoco
+47B1813|pasticciere
+47B1814|macellaio
+47B182|bevanda
+47B1821|mescolare
+47B1822|distillare
+47B1822|distillatore di gin
+47B183|stimolante
+47B191|manutenzione
+47B191|riparare
+47B192|mugnaio
+47B21|metallo
+47B211|acciaio
+47B211|ferro
+47B2111|industria pesante
+47B212|ingegneria
+47B212|trasportare
+47B22|pietra
+47B23|argilla
+47B23|creta
+47B23|gesso
+47B23|sabbia
+47B231|fabbrica di mattoni
+47B231|mattone
+47B232|calce
+47B233|fabbrica di cemento
+47B234|ceramica
+47B235|vetro
+47B24|materiale vegetale
+47B241|legno
+47B2411|mulino
+47B2411|segheria
+47B25|materiali di origine animale
+47B251|cuoio
+47B251|pelle
+47B26|bevanda
+47B26|cibo
+47B26|stimolante
+47B27|industria chimica
+47B28|industria elettronica
+47C|lavorazione
+47C12|preparativi
+47C12|preparazione
+47C121|bollire
+47C121|calore
+47C121|trattare a vapore
+47C1211|fondere
+47C122|raffreddare
+47C123|acqua
+47C123|inumidire
+47C124|asciugare
+47C125|rendere flessibile
+47C13|pulire
+47C131|candeggiare
+47C132|sabbia
+47C14|raggruppare
+47C14|selezionare
+47C141|setacciare
+47C141|vagliare
+47C142|soffiare
+47C149|rifiutare
+47C149|scarto
+47C1491|raccogliere
+47C2|rimuovere
+47C2|spostare
+47C21|scavare
+47C211|dragare
+47C22|accatastare
+47C23|spargere
+47C24|trasportare
+47C241|nastro trasportatore
+47C241|trasporto orizzontale
+47C242|sollevare
+47C242|trasporto verticale
+47C2431|spingere
+47C2432|tirare
+47C2433|ruotare
+47C2434|lanciare
+47C2434|scagliare
+47C3|dividere
+47C31|tagliare
+47C311|spaccare
+47C312|spaccare
+47C32|imprimere
+47C32|perforare
+47C32|taglio
+47C33|segare
+47C34|scalpellare
+47C34|scheggiare
+47C35|abradere
+47C35|limare
+47C35|piallare
+47C35|sfregare
+47C36|tagliuzzare
+47C36|tritare
+47C37|macinare
+47C38|schiacciare
+47C4|connettere
+47C41|afferrare
+47C42|legare
+47C421|nodo
+47C429|disfare
+47C429|sciogliere
+47C429|slegare
+47C4291|nodo
+47C43|congiungere
+47C432|inchiodare
+47C4321|incavigliare
+47C433|avvitare
+47C4331|catenaccio
+47C4331|dado (avvitare)
+47C4331|madrevite
+47C434|abbottonare
+47C435|incollare
+47C436|saldatura
+47C437|saldare
+47C51|levigare
+47C51|spianatura (procedimento industriale)
+47C511|lucidare
+47C512|brunitura
+47C52|consolidare
+47C521|pressare
+47C521|schiacciare
+47C53|ruotare
+47C55|aguzzare
+47C55|fare la punta
+47C55|macinare
+47C56|lustrare
+47C57|indurire
+47C59|irruvidire
+47C6|sagomare
+47C61|mischiare
+47C611|versare
+47C6112|vuotare
+47C62|fondere
+47C621|stampo
+47C622|tirare
+47C63|fusione
+47C63|getto
+47C7|forma
+47C71|piegare
+47C72|avvolgere
+47C72|piegare
+47C73|sagomare
+47C731|forgiare
+47C732|sbalzare
+47C8|alesatura
+47C8|trafiggere
+47C8|trivellare
+47D1|macchina
+47D1|macchine
+47D1|produzione
+47D2|animale
+47D2|forza umana
+47D2|lavoratore
+47D2|macchina
+47D21|macina a mano
+47D21|macinino
+47D21|mulino
+47D22|mulino
+47D22|mulino a mano
+47D3|macchina
+47D3|vento
+47D31|mulino
+47D31|mulino a vento
+47D311|pale
+47D4|acqua
+47D4|macchina
+47D41|mulino
+47D41|mulino ad acqua
+47D411|ruota a pale
+47D5|macchina
+47D5|vapore
+47D50|allegoria
+47D50|forza a vapore
+47D6|macchina
+47D61|combustione
+47D62|elettricità
+47D63|energia nucleare
+47D69|automazione
+47D691|automa
+47D6911|robot
+47D692|molla
+47D693|perpetuità
+47D693|perpetuo
+47D7|macchina
+47D7(HOPPER)|tramoggia
+47D7(MILL-STONE)|macina
+47D8|arnese
+47D8|attrezzo
+47D8(ANVIL)|incudine
+47D8(ASCIA)|ascia
+47D8(AXE)|scure
+47D8(CHAIN)|catena
+47D8(CHISEL)|scalpello
+47D8(COIN STAMP)|conio
+47D8(CROWBAR)|palanchino
+47D8(DRILL)|trapano
+47D8(FILE)|lima
+47D8(GRINDSTONE)|mola
+47D8(HAMMER)|martello
+47D8(KNIFE)|coltello
+47D8(NAIL)|chiodo
+47D8(PICKAXE)|piccone
+47D8(PLANE)|pialla
+47D8(PRESS)|torchio
+47D8(ROPE)|corda
+47D8(SAW)|sega
+47D8(SCISSORS)|forbici
+47D8(SCREW)|vite
+47D8(SIPHON)|sifone
+47D8(TACKLE)|paranco
+47D8(TONGS)|tenaglie
+47D8(VICE)|morsa
+47D8(WEDGE)|cuneo
+47D8(WINDLASS)|argano
+47D9|danno
+47D9|distruzione
+47D9|macchina
+47D9|perdita
+47E|organizzazione
+47E1|produzione
+47E11|produzione casalinga
+47E12|artigianato
+47E12|destrezza
+47E12|produzione artigianale
+47E13|macchina
+47E13|produzione industriale
+47E131|produzione in serie
+47E2|corporazione
+47E2|organizzazione corporativa
+47E21|commissione
+47E211|palazzo delle corporazioni
+47E211|sala
+47E22|insegne
+47E221|insegna
+47E221|medaglia
+47E23|grado
+47E231|apprendista
+47E232|operaio giornaliero
+47E2321|Wanderbursche
+47E2321|Wandergesell
+47E2321|vagare
+47E233|maestria
+47E2331|capolavoro
+47E24|controllo
+47E24|qualità
+47E241|ufficiale
+47E242|marchio
+47E242|marchio di garanzia
+47E25|festa
+47E251|corteo
+47E251|parata
+47E252|celebrazione
+47E252|vacanza
+47E2521|blue Monday
+47E2521|lunedì
+47E3|sindacato
+47E3|unità
+47E4|personale
+47E41|boss
+47E41|direttore
+47F|produzione
+47F11|esperimento
+47F11|ricerca
+47F12|progetto
+47F13|modello
+47F14|testare
+47F2|prodotto
+47F21|raggruppare
+47F22|imballare
+47F3|immagazzinamento
+47F3|prodotto
+47F31|deposito
+47F31|edificio
+47F31|magazzino
+47F31|silos
+47F32|conservazione
+47F32|inscatolare
+47F32|latta
+47F32|preservare
+47F4|preparativi
+47F4|preparazione
+47F9|danno
+47F9|distruzione
+47F9|perdita
+47F9|prodotto
+47G|costruire
+47G1|luogo di fondazione
+47G11|scegliere
+47G111|miracolo
+47G111|mostrare
+47G12|delimitare
+47G12|misurazione topografica
+47G12|suolo
+47G2|fondamenta
+47G2|fosso
+47G21|cerimonia
+47G21|pietra
+47G21|prima pietra
+47G211|sacrificare
+47G22|sgombrare
+47G22|suolo
+47G23|bulldozer
+47G23|terra
+47G23|vanga
+47G24|battere
+47G24|conficcare
+47G24|piantare pali
+47G31|armatura (edilizia)
+47G311|muratore
+47G3111|Steinmetzzeichen
+47G3111|marchio
+47G3111|marchio del muratore
+47G312|mattonatore
+47G312|mattone
+47G313|addetto al calcestruzzo
+47G314|legname
+47G314|struttura
+47G32|celebrazione
+47G32|sommità
+47G32|tetto
+47G33|decorazione
+47G331|tetto
+47G332|montaggio di vetri
+47G332|piombo
+47G332|vetro di finestra
+47G333|gesso
+47G334|pavimento
+47G335|decorazione di interni
+47G3351|stuccare
+47G3352|intonacare
+47G3353|rivestire
+47G3354|carta da parati
+47G3355|tappezzeria
+47G336|impianto elettrico
+47G336|tubature
+47G3361|idraulico
+47G3362|elettricista
+47G3363|gassista
+47G341|cerimonia
+47G41|impalcatura
+47G42|centina
+47G43|cassaforma
+47G5|materiale da costruzione
+47G51|metallo
+47G52|pietra
+47G53|argilla
+47G53|creta
+47G53|sabbia
+47G531|fango
+47G532|mattone
+47G532|tegola
+47G533|calcestruzzo
+47G5331|cemento armato
+47G534|vetro
+47G54|materiale vegetale
+47G541|canna
+47G542|ramoscello
+47G543|legname
+47G543|legno
+47G5431|trave
+47G5431|travetto
+47G5431|travicello
+47G5432|asse
+47G5432|tavola
+47G55|materiali di origine animale
+47G551|cuoio
+47G551|pelle
+47G551|pelle di animale
+47G56|panno
+47G57|materiale sintetico
+47G6|arnese
+47G6|attrezzo
+47G6|macchina
+47G6(MORTISE CHISEL)|punta da mortasa
+47G6(PLUMB-LINE)|filo a piombo
+47G6(RAMMER)|battipalo
+47G6(WATER-LEVEL)|livella
+47G6(WATER-LEVEL)|livella ad acqua
+47G7|materiale da costruzione
+47G7|trasportare
+47G8|tecnologia
+47G9|demolizione
+47G91|crollare
+47G91|rovina
+47H|industria tessile
+47H1|materiale
+47H11|tela di lino
+47H111|lino
+47H12|cotone
+47H13|seta
+47H131|baco da seta
+47H131|bruco
+47H132|bozzolo
+47H132|pupa
+47H14|lana
+47H15|materiale sintetico
+47H2|filato
+47H2|lavorazione
+47H2|preparativi
+47H2|preparazione
+47H21|pettinare
+47H211|pettine per cardare
+47H22|lavare
+47H23|cardatura
+47H23|pettine
+47H3|filato
+47H3|lavorazione
+47H3|manifattura
+47H31|filare
+47H311|conocchia
+47H312|fuso
+47H313|filatoio
+47H32|intrecciare
+47H32|torcere
+47H33|candeggiare
+47H34|tingere
+47H35|avvolgere
+47H351|bobina
+47H352|gomitolo
+47H4|filato
+47H4|lavorazione
+47H4|manifattura
+47H41|corda
+47H41|fabbricazione di corda
+47H411|corderia
+47H42|lavorare all'uncinetto
+47H43|merletto
+47H44|lavorare a maglia
+47H45|intrecciare
+47H46|tessere
+47H462|modello
+47H463|telaio per tessitura
+47H5|lavorazione
+47H5|panno
+47H51|tingere
+47H512|batic
+47H512|modello
+47H52|stampare
+47H521|pittura
+47H531|tela di lino
+47H532|cotone
+47H533|seta
+47H534|lana
+47H5341|follare
+47H535|materiale sintetico
+47H54|ricamo
+47H55|patchwork
+47H56|passamaneria
+47H6|panno
+47H6(...)|broccato
+47H6(VELVET)|velluto
+47H7|abiti
+47H7|industria dell'abbigliamento
+47H7|manifattura
+47H71|sarto
+47H711|figura umana
+47H711|manichino
+47H712|rotella da ricalco
+47H712|ruota
+47H713|ditale
+47H72|cappellaio
+47H73|calzolaio
+47H731|forma per calzature
+47H74|zoccolaio
+47H75|fabbricante di parrucche
+47H75|parruccaio
+47H76|piuma
+47I|fattoria
+47I1|agricoltura
+47I10|Agricoltura
+47I10|Agricultura
+47I10|Ripa
+47I10|Studio dell'agricoltura
+47I10|personificazione
+47I11|pianta
+47I111|avena
+47I111|cereale
+47I111|frumento
+47I111|grano
+47I111|grano saraceno
+47I111|mais
+47I111|miglio
+47I111|riso
+47I1111|spiga di grano
+47I112|carota
+47I112|patata
+47I112|radice
+47I112|rapa
+47I112|tubero
+47I119|erbaccia
+47I12|agricoltore
+47I12|coltivazione
+47I12|suolo
+47I121|concimare
+47I121|fertilità
+47I122|vanga
+47I1221|spaccare
+47I1221|zappare
+47I123|arare
+47I124|erpice
+47I125|ruotare
+47I126|sarchiare
+47I127|zappare
+47I128|rastrellare
+47I13|agricoltore
+47I13|coltivazione
+47I13|crescere
+47I131|seminare
+47I132|piantare
+47I132|trapianto
+47I133|pianta
+47I133|procreazione
+47I134|innestare
+47I134|scivolare
+47I134|tagliare
+47I1341|impollinazione
+47I1342|legare
+47I135|potare
+47I136|coprire
+47I1361|ombra
+47I137|innaffiare
+47I138|innaffiare
+47I1381|irrigazione
+47I139|drenaggio
+47I14|agricoltore
+47I14|raccolto
+47I141|cogliere
+47I141|mietitura
+47I141|raccogliere
+47I142|legare
+47I1421|covone
+47I1422|fascio
+47I143|imballare (raccolto)
+47I143|insilare
+47I1431|balla di fieno
+47I1431|mucchio di fieno
+47I144|spigolare
+47I145|trasportare
+47I1451|carro
+47I1451|carro di fieno
+47I146|accatastare
+47I1461|catasta di fieno
+47I147|immagazzinamento
+47I1471|sacco
+47I1472|fossa
+47I1473|silos
+47I148|trebbiare
+47I1481|vaglio
+47I149|all'aperto
+47I149|corteggiare
+47I149|danzare
+47I149|mangiare
+47I149|riposare
+47I15|arnese
+47I15|attrezzi agricoli
+47I15|attrezzo
+47I15(COULTER)|coltro
+47I15(FLAIL)|correggiato
+47I15(HARROW)|erpice
+47I15(HOE)|zappa
+47I15(PITCHFORK)|bidente
+47I15(PLOUGH)|aratro
+47I15(PRUNING-KNIFE)|potatoio
+47I15(RAKE)|rastrello
+47I15(SCYTHE)|falce
+47I15(SICKLE)|falcetto
+47I15(SPADE)|vanga
+47I15(WINNOW)|vaglio
+47I16|danno
+47I16|perdita
+47I16|protezione
+47I17|prodotto
+47I17|raccolto
+47I17(HAY)|fieno
+47I17(STRAW)|paglia
+47I2|agricoltore
+47I2|allevamento
+47I2|allevare
+47I21|animale
+47I21|animali domestici
+47I21|bestiame
+47I21|ungulato
+47I211|bovini
+47I2111|toro
+47I21111|bue
+47I2112|vacca
+47I2113|vitello
+47I2114|giovenca
+47I212|maiale
+47I2121|cinghiale
+47I2122|scrofa
+47I2123|maialino
+47I2123|porcellino da latte
+47I2124|foresta
+47I2124|ghianda
+47I2124|porcaro
+47I213|pecora
+47I2131|ariete
+47I2132|pecora (femmina)
+47I2133|agnello
+47I214|capra
+47I2141|caprone
+47I2143|capretto
+47I22|bestiame
+47I221|mandriana
+47I221|mandriano
+47I221|pastora
+47I221|pastore
+47I221|pastorella
+47I221|vaccaro
+47I2211|mandria
+47I2211|pecora
+47I22111|ovile
+47I22111|ritornare
+47I22111|stalla
+47I22111|stalla per bovini
+47I2212|agnello
+47I2212|pecora
+47I2212|portare sulle spalle
+47I2213|bastone
+47I222|abbeverare
+47I222|nutrire
+47I2221|ingrassare
+47I2222|musetta
+47I2222|sacchetta per foraggio
+47I2223|abbeveratoio
+47I2223|mangiatoia
+47I2223|trogolo
+47I2224|foraggio
+47I223|mungere
+47I2231|giogo
+47I2231|latte
+47I2231|trasportare
+47I22311|lattaia
+47I22311|mungitrice
+47I2232|fare il burro
+47I224|pecora
+47I224|tosare
+47I2241|immergere
+47I2241|lavare
+47I226|marcare
+47I226|marchiare
+47I2261|ferro da marchio
+47I2262|anello
+47I2262|anello da naso
+47I2262|marchio
+47I2262|piastrina
+47I2262|piastrina (di riconoscimento) da orecchio
+47I227|pulire
+47I227|stalla
+47I2271|ovile
+47I228|condurre un veicolo
+47I228|mandriano
+47I2281|bovaro
+47I2281|cow boy
+47I2282|battuta a cavallo
+47I2283|andare a cavallo
+47I2283|rodeo
+47I229|impronta
+47I229|traccia
+47I23|pollame
+47I24|apicoltura
+47I241|apicoltore
+47I242|sciame d'api
+47I2421|favo
+47I2422|cera
+47I243|sciame
+47I2431|albero
+47I2431|arnia rustica
+47I244|ape
+47I2441|regina
+47I2442|ape operaia
+47I2443|fuco
+47I3|crescere
+47I3|giardiniere
+47I3|orticultura
+47I3|orto
+47I3|pianta
+47I3|verdura
+47I31|giardino
+47I31|vivaio
+47I311|appezzamento coltivato
+47I311|coltura forzata
+47I312|campana
+47I312|copertina
+47I312|vetro
+47I4|crescere
+47I4|frutto
+47I41|albero
+47I41|albero da frutto
+47I411|frutteto
+47I412|spalliera per piante
+47I413|raccolto
+47I4131|cogliere
+47I4132|lanciare
+47I4132|scagliare
+47I4132|scuotere
+47I42|vino
+47I42|viticoltura
+47I421|vigna
+47I4211|casetta di campagna
+47I422|pianta
+47I422|vite
+47I4221|foglia
+47I4221|viticcio
+47I4222|uva
+47I4223|uva
+47I423|raccolto
+47I423|uva
+47I423|vendemmia
+47I4231|cesto
+47I4231|trasportare
+47I424|produzione
+47I4241|torchio da vino
+47I4241|uva
+47I4242|premere
+47I4242|uva
+47I42421|torchio da vino
+47I425|cantina per vino
+47I425|caverna
+47I4251|assaggiare il vino
+47I426|bottiglia di vino
+47I426|imbottigliare
+47I5|crescere
+47I5|fiore
+47I51|vivaio
+47I52|erbe
+47I52|giardino
+47I52|giardino di erbe
+47I521|medicamento
+47I53|aranciera
+47I53|serra
+47I54|bulbo
+47I541|campo di bulbi
+47I541|terreno
+47I6|coltura tropicale
+47I7|arboricoltura
+47I71|albero
+47I71|vivaio
+47I8|albero
+47I8|silvicultura
+47I81|guardia forestale
+47I82|lavoratore
+47I83|bruciare
+47I83|bruciare carbone
+47I83|carbonaio
+47I83|carbone
+47I831|fornace
+47I84|taglialegna
+47I84|tagliare legna
+47I85|legno
+47I85|raccogliere
+47I86|manutenzione
+47I861|sgombrare
+47I862|strada
+47I863|piantare
+47I87|accatastare
+47I87|deposito di legname
+47I871|legname
+47I871|rimorchio
+47I871|trasportare
+47I8711|fiume
+47I8711|galleggiare
+47I872|trave
+47I88|tagliare
+47I88|torba
+47I9|bonifica
+47I9|sgombrare
+47I9|terra
+47I9|terreno
+47K|pescare
+47K1|pesca costiera
+47K1|pesca di mare
+47K11|caccia alla balena
+47K12|pesca delle conchiglie
+47K13|pesca di crostacei
+47K14|aringa
+47K2|pesca d'acqua dolce
+47K21|peschiera
+47K21|stagno
+47K21|vivaio
+47K3|mitilo
+47K3|ostrica
+47K31|corallo
+47K31|immergersi
+47K31|pesca delle perle
+47K4|lavorare a maglia
+47K4|rete
+47K41|riparare
+47L|costruzioni di navi
+47L1|nave
+47L11|invasatura
+47L12|ponteggio
+47L2|lavoratore
+47L21|portuale
+47L22|carpentiere
+47L22|carpentiere navale
+47L3|varare
+47L31|battezzare
+47L31|inaugurare
+47L31|nome
+47L32|primo viaggio
+48|arte
+480|Arte
+480|Ripa
+480|allegoria
+480|emblema
+480|simbolo
+48A|pubblico
+48A1|Mecenate
+48A1|connoisseur
+48A1|patrono
+48A11|artista
+48A11|commissione artistica
+48A111|committente
+48A111|visitare
+48A12|Dedikationsbild
+48A12|artista
+48A12|offrire
+48A13|accogliere
+48A13|amante dell'arte
+48A13|artista
+48A13|salon
+48A13|salotto
+48A2|criticare
+48A2|discutere
+48A211|critico
+48A220|Ignorantia
+48A220|Invidia
+48A220|Invidia et Ignorantia
+48A220|ignoranza
+48A221|critico
+48A23|teoria
+48A23|teoria artistica
+48A231|Paragone
+48A24|iniziazione
+48A25|mutamento
+48A25|reputazione
+48A251|fama
+48A252|cattiva reputazione
+48A26|caricatura
+48A3|contesa
+48A31|giuria
+48A311|premio
+48A4|artista
+48A4|onorare
+48A41|alloro
+48A41|inconorazione
+48A42|commemorazione
+48A5|conservazione
+48A5|opera d'arte
+48A51|restauro
+48A59|guerra
+48A59|saccheggiare
+48A591|recupero
+48A6|danno
+48A6|distruzione
+48A6|opera d'arte
+48A7|leggere ad alta voce
+48A7|mostrare
+48A7|opera d'arte
+48A7|spiegare
+48A71|rappresentazione
+48A711|prova (teatrale, musicale)
+48A712|uditorio
+48A7121|applauso
+48A7121|claque
+48A713|intervallo
+48A72|all'aperto
+48A72|edificio
+48A72|rappresentazione
+48A721|teatro
+48A722|sala da concerto
+48A723|teatro
+48A723|teatro dell'opera
+48A724|caffè concerto
+48A724|music-hall
+48A725|cinema
+48A725|sala cinematografica
+48A726|cabaret
+48A729|fronte di edificio
+48A729|interno
+48A729|prospetto di edificio
+48A7291|foyer
+48A7292|auditorium
+48A7293|poltrona (di platea)
+48A7294|galleria
+48A7295|loggia (teatro)
+48A7295|palco
+48A8|opera d'arte
+48A81|raccogliere
+48A811|collezionista d'arte
+48A8111|collezione
+48A8111|collezione d'arte
+48A8111|galleria
+48A8112|Kunst- und Wunderkammer
+48A8112|curiosità (oggetti)
+48A8112|gabinetto
+48A81121|Kunstschrank
+48A82|esposizione
+48A821|museo
+48A8211|custode
+48A8211|personale
+48A8211|servitore
+48A822|provvisorio
+48A822|salon
+48A822|salotto
+48A822|temporaneo
+48A83|commercio
+48A83|negozio
+48A83|occupazioni
+48A831|commerciante d'arte
+48A8311|antiquario
+48A832|asta
+48A832|vendere
+48A832|vendita di opere d'arte
+48A91|stile
+48A92|arte popolare
+48A93|arte naïf
+48A94|arte amatoriale
+48A95|arte infantile
+48A96|arte psichiatrica
+48A96|arte psicotica
+48A97|Trivialkunst
+48A97|kitsch
+48A98|ornamento
+48A981|arte astratta
+48A981|geometria
+48A9811|angolo retto
+48A9811|lenza
+48A9811|linea
+48A9811|linea retta
+48A98111|meandro
+48A9812|lenza
+48A9812|linea
+48A9812|linea retta
+48A9813|forma circolare
+48A9813|linea curva
+48A98131|cerchio
+48A98131|guilloche
+48A98132|elisse
+48A98133|onda
+48A98133|onda greca
+48A98133|spirale
+48A9814|lenza
+48A9814|linea
+48A9814|linea curva
+48A9814|linea retta
+48A98141|intreccio
+48A9815|stella
+48A98151|pentagramma
+48A9816|irradiare
+48A9816|ruota
+48A9817|ruotare
+48A98171|yin-yang
+48A98172|triscele
+48A982|figura umana
+48A9821|arto
+48A98211|maschera
+48A98211|mascherone
+48A98212|fogliame
+48A98212|testa
+48A9822|mostro
+48A9823|mostro
+48A983|pianta
+48A98311|fogliame
+48A983111|acanto
+48A983112|palmetta
+48A98312|viticcio
+48A98313|Astwerk
+48A98313|ramo
+48A9832|frutto
+48A9832|verdura
+48A98321|melagrana
+48A9833|fiore
+48A98331|fleur-de-lis
+48A98332|loto
+48A98333|mazzo di fiori
+48A98341|rosetta
+48A984|animale
+48A9841|bucranio
+48A9841|bue
+48A9841|testa (animali)
+48A9842|ariete
+48A9842|testa (animali)
+48A9843|leone
+48A9843|testa (animali)
+48A9844|delfino
+48A9846|mostro
+48A9851|banderuola
+48A9851|cartiglio
+48A9851|nastro
+48A9852|panneggio
+48A9852|velo a pieghe
+48A9853|conchiglia
+48A9854|vaso
+48A9855|lambrecchino
+48A9856|architettura
+48A9857(...)|ovolo
+48A986|fantasia
+48A9861|ornamento nastriforme
+48A9861|voluta
+48A9862|ornamento auricolare
+48A9862|stile auricolare
+48A9863|rocaille
+48A9871|arabesco
+48A98711|candelabro
+48A9872|grottesca
+48A9873|moresco
+48A9874|bottino
+48A9874|trofeo
+48A9875|ghirlanda
+48A9876|cartouche
+48A9877|medaglione
+48A9878|intreccio
+48A98781|arte astratta
+48A98781|nodo
+48A98782|animale
+48A98783|fiore
+48A9879|Laub- und Bandelwerk
+48AA721|teatro
+48AA722|sala da concerto
+48AA723|teatro
+48AA723|teatro dell'opera
+48AA724|caffè concerto
+48AA724|music-hall
+48AA725|cinema
+48AA725|sala cinematografica
+48AA726|cabaret
+48AA729|fronte di edificio
+48AA729|interno
+48AA729|prospetto di edificio
+48AA9821|arto
+48AA9822|mostro
+48AA9823|mostro
+48AA983111|acanto
+48AA983112|palmetta
+48AA9841|bucranio
+48AA9841|bue
+48AA9841|testa (animali)
+48AA9842|ariete
+48AA9842|testa (animali)
+48AA9843|leone
+48AA9843|testa (animali)
+48AA9844|delfino
+48AA9846|mostro
+48AA9851|banderuola
+48AA9851|cartiglio
+48AA9851|nastro
+48AA9852|panneggio
+48AA9852|velo a pieghe
+48AA9853|conchiglia
+48AA9854|vaso
+48AA9855|lambrecchino
+48AA9856|architettura
+48B|artista
+48B1|lavoro
+48B1|studio
+48B10|ispirazione
+48B101|Muse
+48B111|requisito
+48B111|strumenti da studio
+48B121|progetto
+48B121|schizzo
+48B122|studiare
+48B122|vestigia classiche
+48B123|modello
+48B124|modello (chi posa)
+48B1242|nudo
+48B13|modello (chi posa)
+48B14|insegnare
+48B141|accademia
+48B141|scuola
+48B1410|Academia
+48B1410|Ripa
+48B1410|personificazione
+48B142|adolescente
+48B142|prodigio
+48B142|talento
+48B143|allievo/a
+48B15|allievo/a
+48B15|assistente
+48B19|distruzione
+48B19|opera d'arte
+48B21|fama
+48B22|famiglia
+48B23|club
+48B24|bohème
+48B24|festa
+48B25|genio
+48B25|ignominia
+48B25|mancanza
+48B26|letto di morte
+48B3|autoritratto
+48B3|ritratto
+48B4|organizzazione
+48B4|sindacato
+48B41|San Luca
+48B41|corporazione
+48B411|blasone
+48B42|accademia
+48B42|associazione
+48B43|camera di retorica
+48B43|rederijkerskamer
+48B43|retore
+48BB101|Muse
+48BB111|requisito
+48BB111|strumenti da studio
+48BB1242|nudo
+48BB141|accademia
+48BB141|scuola
+48BB1410|Academia
+48BB1410|Ripa
+48BB1410|personificazione
+48BB142|adolescente
+48BB142|prodigio
+48BB142|talento
+48BB143|allievo/a
+48C|artista
+48C|occupazioni
+48C1|architettura
+48C10|Architettura
+48C10|Ripa
+48C10|allegoria
+48C10|emblema
+48C10|simbolo
+48C101|capanna
+48C101|origine
+48C11|architetto
+48C11|lavoro
+48C111|progetto
+48C111|schizzo
+48C112|studiare
+48C112|vestigia classiche
+48C113|modello
+48C113|offrire
+48C113|patrono
+48C113|progetto
+48C114|costruire
+48C114|sovraintendere
+48C12|architetto
+48C13|architetto
+48C13|autoritratto
+48C13|ritratto
+48C14|opera d'arte
+48C141|edificio
+48C1411|esterno
+48C14111|veduta a volo d'uccello
+48C1412|interno
+48C1413|caricatura
+48C142|modello
+48C142|progetto
+48C1421|serie
+48C1422|plastico
+48C1424|sezione
+48C1425|esterno
+48C14251|veduta a volo d'uccello
+48C1426|interno
+48C143|architetttura ideale
+48C143|visione
+48C1431|fantasia
+48C1432|modello
+48C1432|plastico
+48C1433|progetto
+48C1434|sezione
+48C1435|esterno
+48C14351|veduta a volo d'uccello
+48C1436|interno
+48C144|follia
+48C144|stravaganza
+48C145|pittura
+48C145|scultura
+48C1451|Architekturbild
+48C149|rovina
+48C15|arnese
+48C15|attrezzo
+48C161|colonna
+48C161|pilastro
+48C1611|lesena
+48C1611|semicolonna
+48C1612|capitello
+48C1613|base
+48C1614|elica
+48C1614|spirale
+48C1615|colonnato
+48C162|archivolto
+48C162|arco
+48C1621|porticato
+48C1622|volta
+48C1622(...)|volta a intreccio di costoloni
+48C1622(...)|volta a ventaglio
+48C16221|chiave di volta
+48C1623|cupola
+48C1624|conca absidale
+48C163|libro
+48C163|ordine
+48C1631|ordine dorico
+48C1632|ordine tuscanico
+48C1633|ordine ionico
+48C1634|ordine corinzio
+48C1635|ordine composito
+48C164|figura umana
+48C1641|telamoni
+48C1642|cariatidi
+48C165|fondere
+48C1661|bugnato
+48C167|pavimentazione
+48C167|pavimento
+48C168(...)|abaco
+48C168(...)|cornice
+48C168(ARCHITRAVE)|architrave
+48C2|scultura
+48C20|Ripa
+48C20|Scoltura
+48C20|Sculptura
+48C20|allegoria
+48C20|emblema
+48C20|simbolo
+48C21|lavoro
+48C21|scultore
+48C21|studio
+48C211|bozzetto
+48C211|modello
+48C212|fondere
+48C212|fusione
+48C212|gettare (fusione)
+48C212|getto
+48C213|studiare
+48C213|vestigia classiche
+48C22|scultore
+48C23|autoritratto
+48C23|ritratto
+48C23|scultore
+48C24|opera d'arte
+48C24|riproduzione
+48C241|galleria
+48C242|cera
+48C242|figura umana
+48C242|gabinetto
+48C243|caricatura
+48C244|erma
+48C244|piedistallo
+48C25|arnese
+48C25|attrezzo
+48C25(MALLET)|mazzuolo
+48C26|medaglia
+48C27|gemma
+48C3|arte applicata
+48C3|mestiere
+48C30|allegoria
+48C30|emblema
+48C30|simbolo
+48C31|artigiano
+48C311|argentiere
+48C311|gioielliere
+48C311|metallo
+48C311|metallo prezioso
+48C311|orefice
+48C312|metallo
+48C312|metallo vile
+48C313|vasaio
+48C314|soffiare
+48C314|soffiatura del vetro
+48C315|fattura di gobelin
+48C315|tessere
+48C315|tessitore d'arazzi
+48C316|ebanista
+48C316|falegname
+48C316|mobilio
+48C316|stipettaio
+48C316|ébéniste
+48C32|artigiano
+48C32|autoritratto
+48C32|ritratto
+48C33|opera d'arte
+48C34|arnese
+48C34|attrezzo
+48C34(POTTER'S WHEEL)|tornio da vasaio
+48C34(POTTER'S WHEEL)|vasaio
+48C34(TOUCH-STONE)|pietra di paragone
+48C35|decorazione
+48C35|ornamento
+48C351|applicazione
+48C351|applique
+48C351|en relief
+48C352|creux
+48C352|en creux
+48C3521|incisione
+48C3522|acquaforte
+48C3523|scolpire
+48C35231|intaglio
+48C353|decorazione piana
+48C3531|pittura
+48C35311|laccatura
+48C3532|stampare
+48C3533|smaltare
+48C3534|impiallacciare
+48C35341|intarsio
+48C35342|intarsio
+48C35342|marqueterie
+48C3535|damaschinare
+48C3535|niello
+48C3536|incrostare
+48C36|disegno industriale
+48C36|industrial design
+48C36|progetto
+48C361|industrial designer
+48C361|progettista industriale
+48C4|arte monumentale
+48C40|allegoria
+48C40|emblema
+48C40|simbolo
+48C41|artista (arte monumentale)
+48C411|mosaicista
+48C412|frescante
+48C412|muralista
+48C412|pittore
+48C413|creatore di vetrate artistiche
+48C413|vetro
+48C42|autoritratto
+48C42|ritratto
+48C43|opera d'arte
+48C44|arnese
+48C44|attrezzo
+48C51|decorazione del libro
+48C51|miniatura
+48C51|pittura
+48C510|Pictura
+48C510|Pittura
+48C510|Ripa
+48C510|allegoria
+48C510|emblema
+48C510|simbolo
+48C5101|disegnare
+48C5101|origine
+48C511|lavoro
+48C511|pittore
+48C511|studio
+48C5110|ispirazione
+48C51101|Muse
+48C51102|strumento musicale
+48C51102|suonare
+48C51111|requisito
+48C51111|strumenti da studio
+48C51121|progetto
+48C51121|schizzo
+48C51122|studiare
+48C51122|vestigia classiche
+48C51123|modello (chi posa)
+48C511232|nudo
+48C5113|modello (chi posa)
+48C5114|colore
+48C5114|tintura
+48C5115|allievo/a
+48C5115|insegnare
+48C51151|assistente
+48C5119|distruzione
+48C5119|opera d'arte
+48C512|pittore
+48C513|autoritratto
+48C513|pittore
+48C513|ritratto
+48C514|dipinto
+48C514|opera d'arte
+48C514|quadro
+48C5141|galleria
+48C5141|gemalte Galerie
+48C5141|pinacoteca
+48C5143|caricatura
+48C515|arnese
+48C515|attrezzo
+48C515|strumenti del pittore
+48C5151|cavalletto
+48C5152|tavolozza
+48C5153|spazzola
+48C5154|burattino
+48C5154|figura umana
+48C5154|manichino
+48C5155|libro
+48C5155|taccuino di studi preparatori
+48C5156|cornice
+48C51561|passe-partout
+48C51562|tenda
+48C5157|bastone poggiapolso
+48C5157|canna
+48C52|disegnare
+48C520|allegoria
+48C520|emblema
+48C520|simbolo
+48C521|disegnatore
+48C521|lavoro
+48C5211|studiare
+48C5211|vestigia classiche
+48C5212|insegnare
+48C5212|lezione di disegno
+48C522|disegnatore
+48C523|autoritratto
+48C523|disegnatore
+48C523|ritratto
+48C524|opera d'arte
+48C524|schizzo
+48C525|arnese
+48C525|attrezzo
+48C5251|camera
+48C5251|camera obscura
+48C5252|camera
+48C5252|camera lucida
+48C5253|specchio
+48C5253|specchio convesso
+48C5254|physionotrace
+48C5254|silhouette
+48C5254|silhouette-apparatus
+48C5255|prospettiva
+48C53|arti grafiche
+48C530|allegoria
+48C530|emblema
+48C530|simbolo
+48C531|artista grafico
+48C5311|incisore
+48C5311|intagliatore di legno
+48C5311|xilografo
+48C5312|acquafortista
+48C5312|incisore
+48C5313|litografo
+48C532|artista grafico
+48C532|autoritratto
+48C532|ritratto
+48C533|acquaforte
+48C533|incisione
+48C533|litografia
+48C533|opera d'arte
+48C533|stampa
+48C533|xilografia
+48C534|arnese
+48C534|attrezzo
+48C61|arte fotografica
+48C610|allegoria
+48C610|emblema
+48C610|simbolo
+48C611|fotografo
+48C6111|studio
+48C61111|requisito
+48C61111|strumenti da studio
+48C6112|fotografare
+48C6112|fotografia
+48C61121|modello (chi posa)
+48C61121|ritratto
+48C6113|camera oscura
+48C6114|film
+48C6114|lavorazione
+48C61141|sviluppo
+48C61142|stampare
+48C612|fotografo
+48C613|autoritratto
+48C613|fotografo
+48C613|ritratto
+48C614|foto
+48C614|fotografia
+48C614|opera d'arte
+48C6141|negativo (fotografico)
+48C6142|diapositiva
+48C6143|film
+48C6143|lastra
+48C6144|fotografia digitale
+48C615|attrezzatura
+48C6151|macchina fotografica
+48C62|cinematografia
+48C620|allegoria
+48C620|emblema
+48C620|simbolo
+48C621|lavoro
+48C621|operatore cinematografico
+48C6211|studio
+48C6212|filmare
+48C62121|lungometraggio
+48C62121|pellicola cinematografica
+48C62122|cartone
+48C62122|cartoni animati
+48C6213|montaggio
+48C6213|tagliare
+48C622|operatore cinematografico
+48C623|autoritratto
+48C623|operatore cinematografico
+48C623|ritratto
+48C624|celluloide
+48C624|film
+48C6241|bobina
+48C625|attrezzatura
+48C6251|cinepresa
+48C6251|macchina da presa
+48C6251|telecamera
+48C6251|videocamera
+48C6252|proiettore
+48C63|arte fotografica
+48C63|cinematografia
+48C63|origine
+48C7|musica
+48C70|Musica
+48C70|Ripa
+48C70|allegoria
+48C70|emblema
+48C70|simbolo
+48C701|origine
+48C702|potere magico della musica
+48C71|compositore
+48C7110|ispirazione
+48C71101|Muse
+48C713|ritratto
+48C72|musicista
+48C721|lavoro
+48C7210|ispirazione
+48C72101|Muse
+48C7211|allievo/a
+48C7211|lezione di musica
+48C723|ritratto
+48C73|strumento musicale
+48C731|strumenti a corda
+48C731|strumento ad arco
+48C7311|violino
+48C7312|basso
+48C7312|contrabbasso
+48C7312|viola (mus.)
+48C7312|violoncello
+48C7313|ribeca
+48C7313|viola antica
+48C7314|organetto a manovella
+48C732|strumenti a corda
+48C732|strumenti a corda (suonati a pizzico)
+48C7321|lira
+48C7321|salterio (strumento musicale)
+48C7322|arpa
+48C7323|liuto
+48C7323|tiorba
+48C7324|balalaika
+48C7324|cetra
+48C7324|chitarra
+48C7324|mandolino
+48C7325|dulcimero
+48C7325|zither
+48C733|strumenti a tastiera
+48C7331|spinetta
+48C7331|virginale
+48C7332|arpicordo
+48C7332|clavicembalo
+48C7333|pianoforte
+48C73331|pianoforte a coda
+48C7334|organo
+48C73341|organo da chiesa
+48C7335|fisarmonica
+48C734|strumenti a percussione
+48C7341|tamburo
+48C73411|tamburello
+48C7342|castagnette
+48C7342|nacchere
+48C7343|campana
+48C7343|campanelli
+48C7343|carillon
+48C735|strumenti a fiato
+48C7351|aulos
+48C7351|flauto
+48C7351|tibia
+48C73511|registratore
+48C73512|cennamella
+48C73512|clarinetto
+48C73512|fagotto
+48C73512|oboe
+48C73513|flauto traverso
+48C73513|traverso
+48C7352|cornetta
+48C7352|corno
+48C7352|soffiare
+48C7352|tromba
+48C7352|trombone
+48C7352|tuba
+48C73521|sassofono
+48C7353|siringa (mus.)
+48C7354|cornamusa
+48C7354|musette
+48C7355|armonica a bocca
+48C7356(CONCH)|conchiglia
+48C736|musica popolare
+48C737|musica rudimentale
+48C737|utensili da cucina
+48C737(RUMBLING-POT)|cupa-cupa
+48C738|accessori
+48C738|diapason
+48C738|forchetta
+48C738|leggio per musica
+48C738|metronomo
+48C74|nota
+48C74|notazione (musicale)
+48C74|notazione musicale
+48C74|scrivere
+48C74|spartito
+48C741|libro
+48C741|stampati
+48C742|manoscritto
+48C7421|autografo
+48C7421|compositore
+48C743|teoria
+48C743|teoria musicale
+48C75|musicista
+48C75|strumento musicale
+48C7511|accordare
+48C75111|liuto
+48C7512|contemplazione
+48C752|suonare
+48C7521|strumenti a corda
+48C7521|strumento ad arco
+48C7522|strumenti a corda
+48C7522|strumenti a corda (suonati a pizzico)
+48C7523|strumenti a tastiera
+48C7524|strumenti a percussione
+48C7525|strumenti a fiato
+48C753|concerto
+48C753|gruppo
+48C753|suonare
+48C7531|orchestra
+48C7532|banda musicale
+48C7532|jazz-band
+48C7532|orchestra da camera
+48C7532|pop-band
+48C7532|quartetto
+48C7532|quintetto
+48C7532|trio
+48C754|cantare
+48C754|suonare
+48C7541|accompagnare
+48C7541|cantante
+48C75411|jongleur
+48C75411|menestrello
+48C75412|bardo
+48C75412|poeta
+48C75412|poeta lirico
+48C7542|accompagnare
+48C7542|cantante
+48C755|cantare
+48C755|suonare
+48C7551|a cappella
+48C7551|cantante
+48C7551|solista
+48C75512|donna
+48C7552|coro
+48C756|folk music
+48C756|musica da strada
+48C756|musica popolare
+48C756|suonare
+48C7561|violinista
+48C75611|organetto a manovella
+48C75612|organetto a cilindro
+48C75613|homme orchestre
+48C75613|uomo-orchestra
+48C75614|banda musicale
+48C75614|orchestrina da strada
+48C7562|cantare
+48C7562|canzone popolare
+48C75621|autore di ballate
+48C75621|cantante
+48C75621|cantore di ballate
+48C75621|vendere
+48C76|automazione
+48C761|scatola armonica
+48C762|organetto
+48C762|organo
+48C762|pierement
+48C763|orchestrion
+48C763|pianola
+48C77|direttore di orchestra
+48C771|bacchetta
+48C771|bastone
+48C78|ascoltare
+48C78|concerto
+48C78|uditorio
+48C8|opera d'arte
+48C8|palcoscenico
+48C80|allegoria
+48C80|emblema
+48C80|simbolo
+48C801|balletto
+48C801|danzare
+48C802|teatro
+48C8021|dramma
+48C8021|letteratura
+48C803|musica
+48C804|pellicola cinematografica
+48C81|equipaggiamento
+48C811|progetto
+48C811|scenografia
+48C813|scena teatrale
+48C813|set (scenario)
+48C8131|fondale teatrale
+48C8132|lampada
+48C8133|tenda
+48C814|camerino
+48C814|stanza
+48C821|direttore
+48C821|direttore di scena
+48C821|produttore
+48C822|coreografo
+48C823|suggeritore
+48C824|macchinista
+48C83|artista (teat.)
+48C831|ritratto
+48C8311|ballerino
+48C8311|danzatore
+48C8312|attore
+48C8312|attrice
+48C8313|cantante
+48C8313|cantante lirico
+48C8314|artista di cabaret
+48C8315|attore cinematografico
+48C8315|attrice cinematografica
+48C8321|ballerino
+48C8321|danzatore
+48C8322|attore
+48C8322|attrice
+48C8323|cantante
+48C8323|cantante lirico
+48C8324|artista di cabaret
+48C8325|attore cinematografico
+48C8325|attrice cinematografica
+48C84|balletto
+48C84|rappresentazione
+48C841|addestrare
+48C841|allenare
+48C842|ballerino
+48C842|danzatore
+48C842|gruppo
+48C8422|donna
+48C843|fare un passo
+48C843|passo
+48C843|passo di danza
+48C843|posizione
+48C843|postura
+48C844|abbigliamento da danza
+48C844|abito
+48C844|costume
+48C85|dramma
+48C85|rappresentazione
+48C85|teatro
+48C851|prova (teatrale, musicale)
+48C851|studiare
+48C852|attore
+48C852|attrice
+48C852|gruppo
+48C852|troupe
+48C85211|abiti femminili
+48C85211|interpretazione (recitazione)
+48C85221|abiti da uomo
+48C85221|abiti maschili
+48C85221|interpretazione (recitazione)
+48C8523|viaggiare
+48C85231|annunziare
+48C853|abito
+48C853|costume
+48C853|costume di scena
+48C854|genere
+48C854|genere teatrale
+48C8541|dramma religioso
+48C8541|sacra rappresentazione
+48C85411|moralità
+48C8542|retore
+48C8543|commedia
+48C8543|commedia dell'arte
+48C85431|tipo
+48C85431(COLOMBINE)|Colombina
+48C85431(HARLEQUIN)|Arlecchino
+48C85431(PANTALONE)|Pantalone
+48C85431(PIERROT)|Pierrot
+48C85431(PULCINELLA)|Pulcinella
+48C8544|masque
+48C8544|mimo
+48C8544|pantomima
+48C8544|rappresentazione allegorica
+48C85441|tableau vivant
+48C8545|tragedia
+48C85450|Ripa
+48C85450|Tragedia
+48C8546|commedia
+48C85460|Comedia
+48C85460|Comedia vecchia
+48C85460|Ripa
+48C8547|dramma satiresco
+48C8547|farsa
+48C85481|multimediale
+48C85481|teatro totale
+48C85482|happening
+48C855|spettacolo
+48C855|spettacolo di burattini
+48C855|spettacolo di marionette
+48C8551|burattino
+48C85511|Jan Klaassen
+48C85511|Katrijn
+48C85511|Punch and Judy
+48C8552|marionetta
+48C856|ombra
+48C856|silhouette
+48C86|dramma
+48C86|dramma musicale
+48C86|rappresentazione
+48C861|prova (teatrale, musicale)
+48C861|ruolo
+48C861|studiare
+48C862|opera
+48C8621|cantante
+48C8621|cantante lirico
+48C8622|cantante
+48C8622|cantante lirico
+48C8622|donna
+48C863|Singspiel
+48C863|commedia musicale
+48C863|operetta
+48C864|cabaret
+48C8641|artista (teat.)
+48C8641|artista di cabaret
+48C865|spettacolo
+48C865|varietà
+48C865|vaudeville
+48C8651|spogliare
+48C8651|spogliarello
+48C8651|svestire
+48C87|pellicola cinematografica
+48C87|spettacolo
+48C871|attore
+48C871|attrice
+48C871|schermo
+48C8711|attore cinematografico
+48C8712|attrice cinematografica
+48C872|critico
+48C872|critico cinematografico
+48C873|genere
+48C8731|lungometraggio
+48C8732|natura
+48C8733|documentario
+48C8734|cartone
+48C8734|cartoni animati
+48C9|finzione
+48C9|letteratura
+48C90|Lettere
+48C90|Ripa
+48C90|allegoria
+48C90|emblema
+48C90|litterae
+48C90|simbolo
+48C901|Poesia
+48C901|poesia
+48C9011|poema epico
+48C90111|Poema heroico
+48C90111|poema eroico
+48C9012|Poema lirico
+48C9012|poesia lirica
+48C90121|poesia d'amore
+48C9013|elegia
+48C9014|Poema satirico
+48C9014|poesia satirica
+48C9015|Poema pastorale
+48C9015|poesia pastorale
+48C902|prosa
+48C9021|epico
+48C91|poeta
+48C91|scrittore
+48C910|Furore poetico
+48C910|Ripa
+48C910|ispirazione
+48C9101|Muse
+48C911|scrivere
+48C9111|autografo
+48C9112|dettare
+48C912|poeta maledetto
+48C912|poète maudit
+48C913|leggere ad alta voce
+48C913|opera d'arte
+48C919|distruzione
+48C919|opera d'arte
+48C92|poeta
+48C92|scrittore
+48C921|alloro
+48C921|fama
+48C921|laureato
+48C921|poeta laureato
+48C921|poeta laureatus
+48C93|poeta
+48C93|ritratto
+48C93|scrittore
+48CC51111|requisito
+48CC51111|strumenti da studio
+48CC51121|progetto
+48CC51121|schizzo
+48CC51122|studiare
+48CC51122|vestigia classiche
+48CC51123|modello (chi posa)
+48CC51151|assistente
+48CC61111|requisito
+48CC61111|strumenti da studio
+48CC61141|sviluppo
+48CC61142|stampare
+48CC6211|studio
+48CC6212|filmare
+48CC62121|lungometraggio
+48CC62121|pellicola cinematografica
+48CC62122|cartone
+48CC62122|cartoni animati
+48CC6213|montaggio
+48CC6213|tagliare
+48CC70|Musica
+48CC70|Ripa
+48CC70|allegoria
+48CC70|emblema
+48CC70|simbolo
+48CC71|compositore
+48CC7110|ispirazione
+48CC71101|Muse
+48CC72|musicista
+48CC7210|ispirazione
+48CC7211|allievo/a
+48CC7211|lezione di musica
+48CC73|strumento musicale
+48CC731|strumenti a corda
+48CC731|strumento ad arco
+48CC732|strumenti a corda
+48CC732|strumenti a corda (suonati a pizzico)
+48CC733|strumenti a tastiera
+48CC7331|spinetta
+48CC7331|virginale
+48CC7332|arpicordo
+48CC7332|clavicembalo
+48CC7333|pianoforte
+48CC73331|pianoforte a coda
+48CC7334|organo
+48CC73341|organo da chiesa
+48CC7335|fisarmonica
+48CC734|strumenti a percussione
+48CC7341|tamburo
+48CC73411|tamburello
+48CC7342|castagnette
+48CC7342|nacchere
+48CC7343|campana
+48CC7343|campanelli
+48CC7343|carillon
+48CC735|strumenti a fiato
+48CC7351|aulos
+48CC7351|flauto
+48CC7351|tibia
+48CC7352|cornetta
+48CC7352|corno
+48CC7352|soffiare
+48CC7352|tromba
+48CC7352|trombone
+48CC7352|tuba
+48CC7353|siringa (mus.)
+48CC7354|cornamusa
+48CC7354|musette
+48CC7355|armonica a bocca
+48CC736|musica popolare
+48CC737|musica rudimentale
+48CC737|utensili da cucina
+48CC738|accessori
+48CC738|diapason
+48CC738|forchetta
+48CC738|leggio per musica
+48CC738|metronomo
+48CC74|nota
+48CC74|notazione (musicale)
+48CC74|notazione musicale
+48CC74|scrivere
+48CC74|spartito
+48CC7421|autografo
+48CC7421|compositore
+48CC75|musicista
+48CC75|strumento musicale
+48CC75111|liuto
+48CC75512|donna
+48CC75611|organetto a manovella
+48CC75612|organetto a cilindro
+48CC75613|homme orchestre
+48CC75613|uomo-orchestra
+48CC75614|banda musicale
+48CC75614|orchestrina da strada
+48CC76|automazione
+48CC761|scatola armonica
+48CC762|organetto
+48CC762|organo
+48CC762|pierement
+48CC763|orchestrion
+48CC763|pianola
+48CC77|direttore di orchestra
+48CC78|ascoltare
+48CC78|concerto
+48CC78|uditorio
+49|istruzione
+49|occupazioni
+49|scienza
+49A|insegnare
+49A0|Ammaestramento
+49A0|Dottrina
+49A0|Educatione
+49A0|Istitutione
+49A0|Ripa
+49A0|allegoria
+49A0|dottrina
+49A0|emblema
+49A0|simbolo
+49A1|giocare
+49A1|studiare
+49B|bambino/a
+49B|insegnare
+49B|scuola
+49B1|nido d'infanzia
+49B1|scuola materna
+49B2|classe sociale
+49B2|scuola elementare
+49B211|condurre
+49B211|primo giorno di scuola
+49B22|casa
+49B22|dimora
+49B22|ritornare
+49B23|ultimo giorno di scuola
+49B24|allievo/a
+49B24|insegnante
+49B241|genitori
+49B25|disciplina
+49B25|punizione
+49B251|angolo
+49B251|essere rinchiusi
+49B251|essere sotto custodia
+49B252|battere
+49B2521|bacchetta
+49B2521|ramoscello
+49B2521|verga
+49B2522|allievo/a
+49B2522|insegnante
+49B253|lenza
+49B253|linea
+49B253|scrivere
+49B31|istruzione secondaria
+49B31|scuola media
+49B31|scuola secondaria
+49B32|istituto tecnico
+49B32|istruzione professionale
+49B33|magistero
+49B4|università
+49B40|Academia
+49B40|Ripa
+49B40|personificazione
+49B41|organizzazione
+49B411|fondare
+49B4111|commemorazione
+49B412|commissione
+49B412|dignitario
+49B413|mazziere
+49B4131|mazza
+49B4131|scettro
+49B414|insegne
+49B414|sigillo
+49B415|facoltà
+49B416|college
+49B416|edificio
+49B421|conferenza
+49B421|lezione
+49B4211|discorso
+49B4211|insediamento
+49B4212|allievo/a
+49B4212|insegnante
+49B4212|magister cum discipulis
+49B4213|Accipies
+49B4213|xilografia
+49B4214|pratica
+49B422|esame
+49B423|dottore
+49B423|grado
+49B423|ricevere
+49B4231|tesi
+49B4232|diploma
+49B4233|laurea ad honorem
+49B4233|laurea honoris causa
+49B4233|onore
+49B43|professore
+49B431|gruppo
+49B44|studente
+49B441|studiare
+49B4411|notte
+49B442|vita dello studente
+49B4421|abito
+49B4421|costume
+49B4422|stanza
+49B4423|amore
+49B4424|matricola
+49B44241|immatricolazione
+49B4425|vacanza
+49B4426|mandar via
+49B4427|rivolta
+49B4428|organizzazione
+49B44281|club
+49B44282|confraternita
+49B44283|iniziazione
+49B44284|festa
+49B44285|corteo
+49B44285|parata
+49B4429|Bettelstudent
+49B4429|vagare
+49BB431|gruppo
+49BB441|studiare
+49BB4411|notte
+49BB442|vita dello studente
+49BB4421|abito
+49BB4421|costume
+49BB4422|stanza
+49BB4423|amore
+49BB4424|matricola
+49BB44241|immatricolazione
+49BB4425|vacanza
+49BB4426|mandar via
+49BB4427|rivolta
+49BB4428|organizzazione
+49BB44281|club
+49BB44282|confraternita
+49BB44283|iniziazione
+49BB44284|festa
+49BB44285|corteo
+49BB44285|parata
+49BB4429|Bettelstudent
+49BB4429|vagare
+49C0|Ripa
+49C0|Scientia
+49C0|Scienza
+49C0|Studio
+49C0|allegoria
+49C0|emblema
+49C0|erudizione
+49C0|simbolo
+49C01|mondano
+49C01|tentazione
+49C011|rinunciare
+49C011|studioso
+49C011|torre d'avorio
+49C1|Artes Liberales
+49C1|arti liberali
+49C1|sette
+49C11|personificazione
+49C11|tre
+49C11|trivio
+49C111|Grammatica
+49C111|Ripa
+49C111|grammatica
+49C112|Dialectica
+49C112|Dialettica
+49C112|Ripa
+49C112|logica
+49C113|Eloquentia
+49C113|Rettorica
+49C113|Rhetorica
+49C113|Ripa
+49C113|eloquenza
+49C113|retorica
+49C12|personificazione
+49C12|quadrivio
+49C12|quattro
+49C121|Arithmetica
+49C121|Aritmetica
+49C121|Ripa
+49C121|aritmetica
+49C122|Geometria
+49C122|Ripa
+49C122|geometria
+49C123|Astronomia
+49C123|Ripa
+49C123|astronomia
+49C124|Musica
+49C124|Ripa
+49C124|musica
+49C131|filosofia
+49C131|saggezza
+49C14|emblema
+49C14|simbolo
+49C15|Artes Vulgares
+49C15|contrasto
+49C16|facoltà
+49C16|quattro
+49C16|quattro facoltà
+49C161|teologia
+49C162|giustizia
+49C163|medicina
+49C164|filosofia
+49C17|discipline classiche
+49C2|filosofia
+49C20|Filosofia
+49C20|Philosophia
+49C20|Ripa
+49C201|discutere
+49C201|filosofo
+49C21|disciplina
+49C211|Metafisica
+49C211|Metaphysica
+49C211|Ripa
+49C211|metafisica
+49C212|Logica
+49C212|Ripa
+49C212|logica
+49C213|conoscenza
+49C213|epistemologia
+49C213|teoria
+49C2131|Platone
+49C2131|antrum Platonicum
+49C2131|caverna
+49C214|estetica
+49C3|filosofo
+49C3|studioso
+49C31|gruppo
+49C32|studio
+49C33|accademia
+49C33|associazione di scienziati
+49C33|associazione erudita
+49C33|organizzazione
+49C34|vagare
+49C4|dialogo
+49C4|discutere
+49C4|disputare
+49C41|disturbare
+49C41|interruzione
+49D|matematica
+49D0|Mathematica
+49D0|Ripa
+49D1|aritmetica
+49D11|numero
+49D11(10)|dieci
+49D11(1095)|millenovantacinque
+49D11(11)|undici
+49D11(12)|dodici
+49D11(13)|tredici
+49D11(16)|sedici
+49D11(2)|due
+49D11(3)|tre
+49D11(4)|quattro
+49D11(5)|cinque
+49D11(6)|sei
+49D11(666)|666
+49D11(7)|sette
+49D11(8)|otto
+49D11(9)|nove
+49D110|simbolismo dei numeri
+49D110|simbolo
+49D121|addizione
+49D1211|Fibonacci
+49D1211|serie di Fibonacci
+49D122|sottrazione
+49D123|moltiplicazione
+49D124|dividere
+49D13|notazione (musicale)
+49D13|scala (misurazione, gradazione)
+49D131|sistema decimale
+49D132|sistema binario
+49D2|algebra
+49D2|statistica
+49D21|equazione
+49D21|formula
+49D22|diagramma
+49D22|grafico
+49D22|schema illustrato
+49D3|geometria
+49D3|planimetria
+49D30|Ichonografia
+49D30|Planimetria
+49D30|Ripa
+49D31|punto
+49D32|lenza
+49D32|linea
+49D321|linea retta
+49D3211|linee intersecantesi
+49D3212|angolo
+49D3213|linee parallele
+49D3214|aurea mediocrità
+49D3214|sectio aurea
+49D3214|sezione
+49D3214|sezione aurea
+49D322|linea curva
+49D3221|irregolarità
+49D3222|bellezza
+49D3222|regolarità
+49D3223|spirale
+49D33|triangolo
+49D331|triangolo isoscele
+49D332|triangolo equilatero
+49D333|angolo retto
+49D34|quadrilatero
+49D341|irregolarità
+49D342|regolarità
+49D342(...)|deltoide
+49D342(...)|rettangolo
+49D342(...)|rombo
+49D342(...)|trapezoide
+49D342(RHOMBUS)|losanga
+49D342(SQUARE)|quadrato
+49D35|poligono
+49D351|irregolarità
+49D352|regolarità
+49D352(6)|esagono
+49D352(8)|ottagono
+49D36|cerchio
+49D361|segmento
+49D362|quadratura del cerchio
+49D363|circonferenza
+49D364|raggio
+49D365|centro
+49D366|diametro
+49D37|cono
+49D37|sezione
+49D37|sezione conica
+49D371|elisse
+49D372|parabola (geom.)
+49D373|iperbole
+49D4|geometria
+49D4|solido
+49D4|stereometria
+49D40|Ripa
+49D40|Sterometria
+49D41|cinque
+49D41|solidi platonici
+49D42|angolo
+49D421|bordo
+49D43|prisma
+49D431|triangolo
+49D432|prisma quadrangolare
+49D433|parallelepipedo
+49D44|piramide
+49D441|triangolo
+49D442|piramide quadrangolare
+49D45|poliedro
+49D45|regolarità
+49D451|tetraedro
+49D452|cubo
+49D452|esaedro
+49D453|ottaedro
+49D454|dodecaedro
+49D455|icosaedro
+49D46|cilindro
+49D461|elica
+49D461|spirale
+49D47|cono
+49D48|globo
+49D481|ellissoide
+49D51|disegnare
+49D511|strumenti da disegno
+49D511|strumento
+49D511(...)|curvilineo
+49D511(...)|pantografo
+49D511(PROTRACTOR)|goniometro
+49D511(RULER)|riga
+49D5111|compasso
+49D5112|squadra da disegno
+49D52|misurare
+49D521|strumenti di misurazione
+49D521|strumento
+49D521(...)|calibro
+49D521(...)|metro
+49D53|contare
+49D531|macchina
+49D531|strumenti di calcolo
+49D531|strumento
+49D531(...)|macchina calcolatrice
+49D531(...)|registratore di cassa
+49D531(...)|regolo
+49D5311|abaco
+49D5311|pallottoliere
+49D5312|calcolatore
+49D5312|tavola per conteggi
+49D5313|panno
+49D5313|panno da computo
+49D5313|tappeto
+49D5314|casting-counter
+49D5314|denaro
+49D5314|gettone
+49D54|computer
+49D54|equazione
+49D54|macchina
+49D541|laptop
+49D541|portatile
+49D542|tablet
+49D61|teoria
+49D61|teoria degli insiemi
+49D62|geometria
+49D62|geometria non euclidea
+49D63|geometria
+49D64|poligonometria
+49D64|trigonometria
+49D65|geometria
+49D65|geometria descrittiva
+49D7|illusione ottica
+49D7|prospettiva
+49D70|Prospetiva
+49D70|Ripa
+49D70|allegoria
+49D71|anamorfosi
+49E1|astronomia
+49E1|cosmografia
+49E1|stella
+49E10|Astronomia
+49E10|Cosmografia
+49E10|Ripa
+49E11|strumenti astronomici
+49E11|strumenti di misurazione
+49E11|strumento
+49E111|osservatorio
+49E112|radiotelescopio
+49E112|telescopio
+49E12|carta
+49E12|mappa
+49E12|mappa stellare
+49E121|globo
+49E121|globo celeste
+49E122|globo
+49E122|globo celeste
+49E122|sfera armillare
+49E123|planetario
+49E13|teoria
+49E13|teorie cosmologiche
+49E131|teoria geocentrica
+49E131|terra
+49E132|sistema solare
+49E132|sole
+49E132|teoria eliocentrica
+49E133|espansione
+49E133|universo
+49E1331|Big Bang
+49E21|fisica
+49E210|Fisica
+49E210|Ripa
+49E2111|relatività
+49E2111|teoria
+49E212|teoria
+49E212|teoria dei quanti
+49E22|meccanica
+49E220|Mecanica
+49E220|Ripa
+49E221|cinetica
+49E221|dinamica
+49E2211|attrito
+49E222|gravitazione
+49E2221|pendolo
+49E2222|balistica
+49E2222|proiettile
+49E223|idraulica
+49E223|meccanica dei fluidi
+49E224|aereodinamica
+49E224|gas
+49E2241|fisica del vuoto
+49E23|termodinamica
+49E24|acustica
+49E24|suono
+49E25|luce
+49E25|ottica
+49E251|strumento
+49E251|strumento ottico
+49E2511|lente
+49E25111|specchio ustorio
+49E25111|vetro affumicato
+49E2512|microscopio
+49E2513|binocolo
+49E2513|cannocchiale
+49E2514|telescopio
+49E2515|stereoscopio
+49E2515|3D
+49E252|rifrazione
+49E253|prisma
+49E2531|colore
+49E2531|sette
+49E254|specchio
+49E254|specchio concavo
+49E254|specchio ustorio
+49E255|ingrandimento
+49E26|elettrodinamica
+49E26|elettromagnetica
+49E27|fisica atomica
+49E27|fisica molecolare
+49E27|fisica nucleare
+49E271|atomo
+49E271|elementarità
+49E271|elettrone
+49E271|molecola
+49E271|neutrone
+49E271|particella
+49E2711|modello
+49E272|radioattività
+49E2721|protezione
+49E273|reazione nucleare
+49E3|chimica
+49E31|simbolo
+49E31|simbolo chimico
+49E32|chimica inorganica
+49E33|chimica organica
+49E39|alchimia
+49E391|alambicco
+49E391|alchimista
+49E391|apparato per distillazione
+49E391|clessidra
+49E391|crogiolo
+49E391|distillare
+49E391|fornace
+49E391|mantice
+49E3911|cercare
+49E3911|oro
+49E3911|ricercare
+49E3912|cercare
+49E3912|Pietra filosofale
+49E3912|ricercare
+49E3913|fallire
+49E3913|fallimento
+49E392|simbolo
+49E392|simbolo alchemico
+49E393|apparecchio
+49E393|attrezzatura
+49E393|strumento
+49E3931|stoviglie
+49E3931(...)|ampolla
+49E39311|ampolla
+49E39311|bottiglia
+49E39311(OVUM PHILOSOPHICUM)|ovo filosofico
+49E39311(OVUM PHILOSOPHICUM)|ovum philosophicum
+49E39312|ampolla
+49E39312|cucurbita
+49E39312|fiasco
+49E39313|barattolo
+49E39313|olla
+49E39313|pentola
+49E39313(...)|ampolla
+49E3932|forno
+49E3932(ASSAY FURNACE)|copellazione
+49E3932(ATHANOR)|athanor
+49E3933|bagno
+49E3933|balneum
+49E394|sostanza
+49E3941|sulphur
+49E3941|zolfo
+49E3942|mercurio
+49E3942|mercurius
+49E394211|Ermete
+49E394211|uccello di Ermete
+49E3943|sal
+49E3944|materia prima
+49E3944|prima materia
+49E3945|Pietra filosofale
+49E39451|quintessenza
+49E39452|bianca
+49E39452|bianco
+49E39452|Pietra bianca
+49E39453|Pietra rossa
+49E39453|rossa
+49E39453|rosso
+49E3946|Elisir di lunga vita
+49E3946|Elixir Vitae
+49E39461|Panacea
+49E3949(ANTIMONY)|antimonio
+49E3949(SAL AMMONIAC)|sale di ammonio
+49E3949(SAL AMMONIAC)|cloruro di ammonio
+49E3949(VITRIOL)|vetriolo
+49E395|processo
+49E3951|fase
+49E3951|Magnum opus
+49E3951|quattro
+49E3951|trasformazione
+49E3951|trasmutazione
+49E39511|melanosi
+49E39511|nero
+49E39511|nigredo
+49E39511|opera al nero
+49E39512|albedo
+49E39512|bianco
+49E39512|leucosi
+49E39512|opera al bianco
+49E39513|citrinitas
+49E39513|giallo
+49E39513|opera al giallo
+49E39513|xantosi
+49E39514|iosi
+49E39514|opera al rosso
+49E39514|rosso
+49E39514|rubedo
+49E3952|fase
+49E3952|Magnum opus
+49E3952|trasformazione
+49E3952|trasmutazione
+49E3952(CALCINATION)|calcinatio
+49E3952(CALCINATION)|calcinazione
+49E3952(CIBATION)|cibatio
+49E3952(CIBATION)|cibazione
+49E3952(CIBATION)|nutrizione
+49E3952(COAGULATION)|coagulatio
+49E3952(COAGULATION)|coagulazione
+49E3952(COAGULATION)|fissazione
+49E3952(COAGULATION)|fixatio
+49E3952(CONJUNCTION)|congiunzione
+49E3952(CONJUNCTION)|coniunctio
+49E3952(CONJUNCTION)|nozze chimiche
+49E3952(DISTILLATION)|destillatio
+49E3952(DISTILLATION)|distillazione
+49E3952(EXALTATION)|exaltatio
+49E3952(EXALTATION)|esaltazione
+49E3952(MULTIPLICATION)|moltiplicazione
+49E3952(MULTIPLICATION)|multiplicatio
+49E3952(PROJECTION)|proiezione
+49E3952(PROJECTION)|projectio
+49E3952(PROJECTION)|tintura
+49E3952(PUTREFACTION)|fermentatio
+49E3952(PUTREFACTION)|fermentazione
+49E3952(PUTREFACTION)|putrefactio
+49E3952(PUTREFACTION)|putrefazione
+49E3952(SEPARATION)|divisio
+49E3952(SEPARATION)|divisione
+49E3952(SEPARATION)|separatio
+49E3952(SEPARATION)|separazione
+49E3952(SOLUTION)|solutio
+49E3952(SOLUTION)|soluzione
+49E3952(SUBLIMATION)|sublimatio
+49E3952(SUBLIMATION)|sublimazione
+49E3953|combinare
+49E3954|interazione
+49E3954|reazione
+49E3954|sostanza
+49E39541|inversione
+49E39542|evaporazione
+49E39542|solvente
+49E39543|opposti
+49E395431|Luna
+49E395431|Mercurio
+49E395431|Sole
+49E395431|Zolfo
+49E4|cristallografia
+49E5|geologia
+49E51|mineralogia
+49E6|meteorologia
+49E61|osservatorio
+49E7|tecnologia
+49E71|ingegneria
+49E8|laboratorio
+49E81|attrezzatura
+49E81|equipaggiamento
+49E811|congegno dimostrativo da laboratorio
+49E811|dimostrazione
+49E9|esperimento
+49E9|testare
+49E91|invenzione
+49F|biologia
+49F1|botanica
+49F1|pianta
+49F11|giardino
+49F11|hortus botanicus
+49F11|orto botanico
+49F12|erbario
+49F2|animale
+49F2|zoologia
+49F21|esperimento
+49F22|paleontologia
+49F3|antropologia
+49F3|antropologia fisica
+49F31|craniologia
+49G|medicina
+49G0|Medicina
+49G0|Ripa
+49G0|allegoria
+49G01|emblema
+49G01|segno
+49G01|simbolo
+49G011|bastone e serpente
+49G012|pentagramma
+49G1|medico
+49G11|barbiere
+49G11|chirurgo
+49G12|barbiere
+49G12|dentista
+49G13|oculista
+49G2|malato/a
+49G21|letto
+49G211|visitare
+49G22|curare
+49G23|guarire
+49G231|miracolo
+49G232|imposizione delle mani
+49G233|spirito
+49G233|spirituale
+49G24|medicamento
+49G25|guarigione
+49G251|deterioramento
+49G26|simulare
+49G29|ipocondriaco
+49G3|esame
+49G3|trattamento
+49G31|consultare
+49G31|diagnosi
+49G31|malato/a
+49G31|medico
+49G311|orina
+49G3111|cesto
+49G3111|orinale
+49G312|temperatura
+49G312|termometro
+49G3121|grafico
+49G3121|grafico della temperatura
+49G313|lingua
+49G314|stetoscopio
+49G315|corpo
+49G315|percuotere
+49G3151|calciare
+49G3151|ginocchio
+49G3151|prendere a calci
+49G3151|riflesso (esame medico)
+49G316|polso
+49G317|prescrizione
+49G317|scrivere
+49G32|antisettici
+49G321|benda
+49G321|unguento
+49G322|fionda
+49G322|gesso
+49G322|immobilizzazione
+49G322|stecca
+49G33|purgare
+49G331|clistere
+49G34|coppetta di vetro
+49G34|sanguinare
+49G341|mignatta
+49G341|sanguisuga
+49G342|salassatore
+49G35|operazione (chirurgica)
+49G350|Chirurgia
+49G351|sala operatoria
+49G351|stanza
+49G351|teatro
+49G352|narcosi
+49G353|amputazione
+49G353|recidere
+49G3531|arto artificiale
+49G3531|protesi
+49G354|trapianto
+49G359|strumento
+49G36|acque
+49G36|bagno
+49G36|cura termale
+49G361|abbeveratoio
+49G361|stazione termale
+49G37|iniezione
+49G37|siringa
+49G371|vaccinazione
+49G372|infuso
+49G373|sangue
+49G373|trasfusione
+49G38|elettroterapia
+49G38|radioterapia
+49G381|raggi x
+49G39|massaggio
+49G4|ospedale
+49G41|corsia
+49G41|stanza
+49G42|infermi
+49G42|visitare
+49G43|balia
+49G431|uomo
+49G44|ambulanza
+49G44|portare
+49G44|trasportare
+49G51|casa di ricovero
+49G51|malattie contagiose
+49G51|ospedale
+49G511|isolamento
+49G511|quarantena
+49G52|casa di ricovero
+49G52|manicomio
+49G6|ricerca
+49G6|ricerca medica
+49G6|specialista
+49G61|anatomia
+49G61|fisiologia
+49G611|sistema circolatorio
+49G612|respirare
+49G613|apparato digerente
+49G6131|professione del dentista
+49G614|pelle
+49G615|sistema endocrino
+49G616|apparato urogenitale
+49G6161|ginecologia
+49G6161|ostetricia
+49G617|sistema locomotorio
+49G618|sensi
+49G6181|oftalmologia
+49G619|nervo
+49G619|neurologia
+49G621|patologo
+49G621|sezionamento
+49G6211|camera di sezionamento
+49G6211|teatro anatomico
+49G6211|theatrum anatomicum
+49G6212|insegnare
+49G6212|lezione di anatomia
+49G6213|specimen anatomico
+49G622|cinque
+49G622|figura umana
+49G622|modello
+49G622|modello anatomico
+49G6221|scheletro
+49G6222|muscolo
+49G6222|écorché
+49G6223|vena
+49G6224|arteria
+49G6225|nervo
+49G63|batteriologia
+49G64|bambino/a
+49G64|pediatria
+49G65|anzianità
+49G65|geriatria
+49G71|psicologia
+49G711|testare
+49G712|grafologia
+49G712|scrittura a mano
+49G712|testare
+49G72|psichiatria
+49G721|divano
+49G721|psicanalisi
+49G8|farmacia
+49G81|medicamento
+49G811|dottrina
+49G811|dottrina della prescrizione
+49G812|veleno
+49G82|erborista
+49G82|farmacista
+49G82|speziale
+49G83|arnese
+49G83|attrezzo
+49G831|mortaio
+49G831|pestello
+49G84|insegna
+49G84|negozio
+49G84|sbadigliare
+49G84|sbadigliatore
+49G9|folclore
+49G9|illegale
+49G9|medicina empirica
+49G91|ciarlatano
+49G91|guaritore
+49G91|mercato
+49G91|saltimbanco
+49G911|Malleghem (strega di)
+49G911|estrazione di calcoli
+49G911|operazione (chirurgica)
+49G911|pietra
+49G911|strega
+49G912|dente
+49G912|dentista
+49G912|estrarre
+49G912|molare
+49G914|mangiare
+49G914|ragno
+49G914|rana
+49G914|rospo
+49G914|serpente
+49H|scienze sociali
+49H1|sociologia
+49H2|folclore
+49H3|antropologia
+49H3|antropologia culturale
+49H3|etnologia
+49I|geografia
+49I0|Geografia
+49I1|esplorare
+49I1|ritrovare
+49I1|spedizione
+49I1|viaggio
+49I11|esploratore
+49K1|archeologia
+49K1|storia
+49K10|Historia
+49K10|Ripa
+49K11|scavare
+49K11|scavo
+49K12|cronaca
+49K12|libro
+49K2|arte
+49K2|storia dell'arte
+49K3|filologia
+49K31|linguistica
+49K32|linguaggio
+49K321|parola
+49K322|frase
+49L1|alfabeto
+49L1|lettera (carattere, alfabeto)
+49L10|invenzione
+49L11|scrittura a mano
+49L11|scrivere
+49L111|segretario
+49L112|aguzzare
+49L112|calamo
+49L112|fare la punta
+49L112|penna
+49L113|cancellare
+49L113|testo
+49L12|scrittura romana
+49L13|scrittura greca
+49L141|scrittura ebraica
+49L142|scrittura araba
+49L15|ornamento
+49L15|scrittura fantastica
+49L16|anagramma
+49L16|lettera-parola
+49L16|monogramma
+49L16|quadrato di lettere
+49L16|quadrato magico
+49L17|iniziale
+49L171|iniziale istoriata
+49L2|lettera (carattere, alfabeto)
+49L2|scrittura ideografica
+49L2|scrittura pittografica
+49L21|geroglifico
+49L21|scrittura egizia
+49L211|geroglifici fantastici
+49L211|hieroglyphica
+49L22|scrittura cuneiforme
+49L23|scrittura cinese
+49L23|scrittura coreana
+49L23|scrittura giapponese
+49L23|scrittura orientale
+49L24|scrittura americana antica
+49L24|scrittura azteca
+49L24|scrittura inca
+49L24|scrittura maya
+49L25|pittografia
+49L251|rebus
+49L26|ars memorandi
+49L26|memoria
+49L26|mnemotecnica
+49L27|marchio
+49L27|possesso
+49L271|Hausmarke
+49L271|huismerk
+49L31|stenografia
+49L32|crittografia
+49L32|segretezza
+49L33|scrittura speculare
+49L33|specchio
+49L4|calligrafia
+49L4|iscrizione
+49L5|arnese
+49L5|attrezzo
+49L5|strumenti di scrittura
+49L51|penna
+49L511|calamo
+49L52|matita
+49L6|accessori
+49L6|accessori di scrittura
+49L61|inchiostro
+49L611|macchia di inchiostro
+49L62|calamaio
+49L63|coltello
+49L63|temperino
+49L64|superficie su cui scrivere
+49L641|carta
+49L6411|quaderno
+49L6411|taccuino
+49L642|papiro
+49L643|cartapecora
+49L643|pergamena
+49L644|tavola per scrivere
+49L6441|lavagna (per scrivere)
+49L6442|lavagna (bianca)
+49L645|tavola
+49L645|tavoletta
+49L645|tavoletta per scrittura
+49L6451|argilla
+49L6451|creta
+49L6451|lapide
+49L6451|pietra
+49L6451|tavoletta d'argilla
+49L64511|smeraldo
+49L64511|tavola Smeraldina
+49L64511|tavola di Smeraldo
+49L6452|cera
+49L6452|tavoletta di cera
+49L6453|lavagnetta
+49L65|sigillo
+49L65|timbro
+49L651|cera
+49L651|ceralacca
+49L66|scrivania
+49L66|tavola
+49L66|tavolo
+49L67(ERASER)|gomma da cancellare
+49L67(PAPERCLIP)|graffetta
+49L67(PAPERWEIGHT)|fermacarte
+49L7|documento
+49L7|manoscritto
+49L7|scrittura a mano
+49L71|cartiglio
+49L711|capsa
+49L711|scatola
+49L72|codice
+49L72|libro
+49L73|banderuola
+49L8|iscrizione
+49M|produzione
+49M|produzione editoriale
+49M1|stampare
+49M10|Ripa
+49M10|Stampa
+49M11|macchina
+49M11|pressa tipografica
+49M121|fondere
+49M121|fonditore di caratteri
+49M122|compositore di caratteri
+49M123|tipografo
+49M124|correttore
+49M13|carattere tipografico
+49M13|lettera (carattere, alfabeto)
+49M13(...)|Garamond
+49M14|arnese
+49M14|attrezzo
+49M2|macchina
+49M2|moltiplicare
+49M21|macchina per scrivere
+49M22|moltiplicatore
+49M23|apparato fotostatico
+49M23|apparecchio fotostatico
+49M3|stampati
+49M31|volantino
+49M32|libro
+49M32|libro aperto
+49M32|libro chiuso
+49M321|illustrazione
+49M321|illustrazione di libro
+49M3211|libro xilografico
+49M3212|bande dessinée
+49M3212|fumetto
+49M3212|strip
+49M3212|striscia
+49M3212|striscia umoristica
+49M322|opuscolo
+49M4|decorazione
+49M41|illustrazione
+49M41|illustrazione di libro
+49M411|frontespizio
+49M412|vignetta
+49M413|iniziale
+49M413|iniziale istoriata
+49M42|ornamento
+49M43|frontespizio
+49M43|pagina
+49M431|emblema
+49M431|emblema dello stampatore
+49M431|marchio
+49M5|legare
+49M5|rilegatura
+49M51|copertina
+49M51|legatura
+49M511|sopraccoperta
+49M511|sovraccopertina
+49M52|fermaglio
+49M53|Beutelbuch
+49M6|editore
+49M6|pubblicare
+49M7|libraio
+49M7|libreria
+49M7|negozio
+49M71|libreria antiquaria
+49M71|libreria dell'usato
+49M72|bancarella
+49M72|baracca
+49M72|chiosco
+49M72|chiosco di libri
+49M72|edicola
+49M8|ex libris
+49M9|biblioteca
+49M9|biblioteca pubblica
+49M91|archivio
+49MM3211|libro xilografico
+49MM3212|bande dessinée
+49MM3212|fumetto
+49MM3212|strip
+49MM3212|striscia
+49MM3212|striscia umoristica
+49N|leggere
+49N1|leggere ad alta voce
+49N2|accessori
+49N2|strumenti per la lettura
+49N21|leggio
+49N22|indicatore
+49N23|marcare
+49N23|segnalibro
