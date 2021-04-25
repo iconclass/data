@@ -2512,6 +2512,8 @@
 31A22621|Haar
 31A22622|Körperbehaarung
 31A22623|Schamhaar
+31A22624|Hautfarbe
+31A22624(...)|Hautfarbe (mit FITZPATRICK Nummer)
 31A2263|Muskeln
 31A2264|Flechsen, Sehnen
 31A2265|Nerven
@@ -4237,60 +4239,144 @@
 32A62|Chirognomie
 32A7|Charaktere (Menschentypen)
 32A8|Leidenschaften, Emotionen, Affekte
-32B|menschliche Rassen; Völker; Nationalitäten
+32B|Völker; Ethnien; Nationalitäten
 32B1|der prähistorische Mensch
 32B11|Rekonstruktion des prähistorischen Menschen
 32B11(...)|Rekonstruktion des prähistorischen Menschen (mit NAMEN)
+32B11(NEANDERTHAL)|Rekonstruktion des prähistorischen Menschen: Neandertaler
 32B12|Rekonstruktion von Leben und Kultur prähistorischer Menschen
-32B2|untergegangene, historische Völker
-32B2(...)|untergegangene, historische Völker (mit NAMEN)
-32B2(GAULS)|untergegangene, historische Völker: Gallier
-32B2(TEUTONS)|untergegangene, historische Völker: Germanen
-32B3|menschliche Rassen, Völker und Nationalitäten (keine prähistorischen oder untergegangenen)
-32B31|Rassen und Völker mit weißer Haut
-32B311|Europäer
-32B311(...)|Europäer (mit NAMEN des Volkes)
-32B311(ENGLISHMEN)|Europäer: Engländer
+32B2|historische Ethnien
+32B2(...)|historische Ethnien (mit NAMEN)
+32B2(AMBRONES)|historische Ethnien: Ambrones
+32B2(AZTEC)|historische Ethnien: Azteken
+32B2(BATAVIANS)|historische Ethnien: Batavianer
+32B2(CARIANS)|historische Ethnien: Karer
+32B2(CARTHAGINIANS)|historische Ethnien: Karthager
+32B2(GAULS)|historische Ethnien: Gallier
+32B2(GOTHS)|historische Ethnien: Goten
+32B2(LYDIANS)|historische Ethnien: Lydier
+32B2(OSCI)|historische Ethnien: Osci
+32B2(PHOENICIANS)|historische Ethnien: Phönizier
+32B2(ROMANS)|historische Ethnien: Römer
+32B2(SCYTHIANS)|historische Ethnien: Skythen
+32B2(TEUTONS)|historische Ethnien: Germanen
+32B2(THRACIANS)|historische Ethnien: Thraker
+32B3|Ethnien und Nationalitäten (keine prähistorischen oder historischen)
+32B31|europäische Ethnien, Europäer
+32B311|indigene europäische Ethnien
+32B311(...)|indigene europäische Ethnien (mit NAMEN)
+32B311(ALBANIANS)|Europäer: Albaner
+32B311(BELGIANS)|Europäer: Belgier
+32B311(BRITONS)|Europäer: Briten
+32B311(BULGARIANS)|Europäer: Bulgaren
+32B311(CROATS)|Europäer: Kroaten
+32B311(CZECHS)|Europäer: Tschechen
+32B311(DANES)|Europäer: Dänen
+32B311(DUTCH)|Europäer: Niederländer
+32B311(ENGLISH)|Europäer: Engländer
+32B311(FLEMINGS)|Europäer: Flamen
+32B311(FRENCH)|Europäer: Französen
 32B311(GERMANS)|Europäer: Deutsche
+32B311(GREEKS)|Europäer: Griechen
+32B311(HUNGARIAN)|Europäer: Ungarn
+32B311(IRISH)|Europäer: Iren
+32B311(ITALIANS)|Europäer: Italiener
+32B311(POLES)|Europäer: Polen
+32B311(PORTUGESE)|Europäer: Portugiesen
+32B311(RUMANIANS)|Europäer: Rumänen
+32B311(RUSSIANS)|Europäer: Russen
+32B311(SCOTS)|Europäer: Schotten
+32B311(SERBIANS)|Europäer: Serben
+32B311(SLAVS)|Europäer: Slawen
+32B311(SLOWAKIANS)|Europäer: Slowaken
 32B311(SPANIARDS)|Europäer: Spanier
-32B312|nicht-europäische Völker weißer Hautfarbe
-32B312(...)|nicht-europäische Völker weißer Hautfarbe (mit NAMEN)
-32B312(AMERICANS)|nicht-europäische Völker weißer Hautfarbe: Amerikaner
-32B32|Afrikaner
-32B32(...)|Afrikaner (mit NAMEN)
-32B321|Schwarzafrikaner
-32B321(...)|Schwarzafrikaner (mit NAMEN)
-32B3211|amerikanische Schwarze
-32B33|asiatische Rassen und Völker
-32B33(...)|asiatische Rassen und Völker (mit NAMEN)
-32B33(INDIANS)|asiatische Rassen und Völker: Inder
-32B33(PERSIANS)|asiatische Rassen und Völker: Perser
-32B33(TURKS)|asiatische Rassen und Völker: Türken
-32B331|Mongolen
+32B311(SWEDES)|Europäer: Schweden
+32B311(WALLOONS)|Europäer: Wallonen
+32B312|(Nachfahren) europäische(r) Emigranten; Personen, die aus Europa migrieren
+32B312(...)|(Nachfahren) europäische(r) Emigranten; Personen, die aus Europa migrieren (mit NAMEN der AUFNEHMENDEN ETHNIE)
+32B312(AMERICA)|(Nachfahren) europäische(r) Emigranten: Amerikaner
+32B312(AUSTRALIA)|(Nachfahren) europäische(r) Emigranten: Australier
+32B313|europäische Immigranten; Personen, die nach Europa migrieren
+32B313(...)|europäische Immigranten (mit NAMEN des HERKUNFTSETHNIE)
+32B313(MOROCCO)|europäische Immigranten: Marokkaner
+32B313(SRI LANKA)|europäische Immigranten: Sri Lanker
+32B32|afrikanische Ethnien, Afrikaner
+32B32(...)|afrikanische Ethnien, Afrikaner (mit NAMEN)
+32B32(TUNISIANS)|afrikanische Ethnien, Afrikaner: Tunesier
+32B321|indigene Ethnien des subsaharischen Afrika
+32B321(...)|indigene Ethnien des subsaharischen Afrika (mit NAMEN)
+32B321(NIGERIANS)|indigene Ethnien des subsaharischen Afrika: Nigerianer
+32B3211|Amerikaner mit afrikanischen Wurzeln, Afro-Amerikaner
+32B3212|(Nachfahren) afrikanische(r) Emigranten; Personen, die aus Afrika migrieren
+32B3212(...)|(Nachfahren) afrikanische(r) Emigranten; Personen, die aus Afrika migrieren (mit NAMEN der AUFNEHMENDEN ETHNIE)
+32B3212(AMERICA)|(Nachfahren) afrikanische(r) Emigranten: Amerikaner
+32B3212(GREAT BRITAIN)|(Nachfahren) afrikanische(r) Emigranten: Engländer
+32B3212(ISRAEL)|(Nachfahren) afrikanische(r) Emigranten: Israelis
+32B3213|afrikanische Immigranten; Personen, die nach Afrika migrieren
+32B3213(...)|afrikanische Immigranten (mit NAMEN der HERKUNFTSETHNIE)
+32B3213(THE NETHERLANDS)|afrikanische Immigranten: Niederländer
+32B3213(INDIA)|afrikanische Immigranten: Inder
+32B3213(GREAT BRITAIN)|afrikanische Immigranten: Engländer
+32B33|asiatische Ethnien, Asiaten
+32B33(...)|asiatische Ethnien, Asiaten (mit NAMEN)
+32B33(INDIANS)|asiatische Ethnien, Asiaten: Inder
+32B33(PERSIANS)|asiatische Ethnien, Asiaten: Perser
+32B33(TURKS)|asiatische Ethnien, Asiaten: Türken
+32B331|indigene Ethnien Zentral- und Ostasiens
 32B3311|Chinesen
 32B3312|Japaner
-32B34|farbige Rassen in Amerika
-32B341|Eskimos
-32B342|Indianer, nordamerikanische Indianer
-32B342(...)|Indianer, nordamerikanische Indianer (mit NAMEN)
-32B343|farbige Rassen in Zentralamerika
-32B344|farbige Rassen in Südamerika
-32B345|farbige Rassen in der Karibik
-32B35|australische und ozeanische Rassen
-32B35(...)|australische und ozeanische Rassen (mit NAMEN)
-32B36|primitive Rassen und Völker; Ureinwohner, Eingeborene
-32B37|Zwergstämme, Pygmäen
-32B371|afrikanische Pygmäen
-32B371(...)|afrikanische Pygmäen (mit NAMEN)
-32B3711|Buschmänner
-32B3712|Hottentotten
-32B372|Pygmäen aus Neuguinea
-32B38|Mischlinge
-32B381|Mulatte
-32B382|Eurasier, Mischling
-32B383|Mestize (Abkömmling von Spaniern und südamerikanischen Indianern)
-32B39|(andere) menschliche Rassen und Völker
-32B39(...)|(andere) menschliche Rassen und Völker (mit NAMEN)
+32B3313|Mongolen
+32B3314|Koreaner
+32B332|(Nachfahren) asiatische(r) Emigranten; Personen, die aus Asien migrieren
+32B332(...)|(Nachfahren) asiatische(r) Emigranten; Personen, die aus Asien migrieren (mit NAMEN des ZIELORTS)
+32B332(AUSTRALIA)|(Nachfahren) asiatische(r) Emigranten: Australier
+32B333|asiatische Immigranten; Personen, die nach Asien migrieren
+32B333(...)|asiatische Immigranten (mit NAMEN der HERKUNFTSETHNIE)
+32B333(EUROPE)|asiatische Immigranten: Europäer
+32B34|amerikanische Ethnien, Amerikaner
+32B341|indigene Ethnien der arktischen Regionen
+32B341(...)|indigene Ethnien der arktischen Regionen (mit NAMEN)
+32B341(INUIT)|indigene Ethnien der arktischen Regionen: Inuit
+32B341(YUPIK)|indigene Ethnien der arktischen Regionen: Yupik
+32B341(INUPIAT)|indigene Ethnien der arktischen Regionen: Inupiat
+32B342|indigene Ethnien Nordamerikas
+32B342(...)|indigene Ethnien Nordamerikas (mit NAMEN)
+32B342(SHOSHONE)|indigene Ethnien Nordamerikas: Shoshone
+32B342(SIOUX)|indigene Ethnien Nordamerikas: Sioux
+32B343|indigene Ethnien Mittelamerikas
+32B344|indigene Ethnien Südamerikas
+32B345|indigene Ethnien der Karibik
+32B346|(Nachfahren) amerikanische(r) Emigranten; Personen, die aus Amerika migrieren
+32B346(...)|(Nachfahren) amerikanische(r) Emigranten; Personen, die aus Amerika migrieren (mit NAMEN der AUFNEHMENDEN ETHNIE)
+32B346(JAPAN)|(Nachfahren) amerikanische(r) Emigranten: Japaner
+32B347|amerikanische Immigranten; Personen, die nach Amerika migrieren
+32B347(...)|amerikanische Immigranten (mit NAMEN der HERKUNFTSETHNIE)
+32B347(IRELAND)|amerikanische Immigranten: Iren
+32B347(SOMALIA)|amerikanische Immigranten: Somalier
+32B35|australische und ozeanische Ethnien; Australier und Ozeanier
+32B351|indigene Ethnien Australiens und Ozeaniens
+32B351(...)|indigene Ethnien Australiens und Ozeaniens (mit NAMEN)
+32B351(PAPUANS)|indigene Ethnien Australiens und Ozeaniens: Papua
+32B351(POLYNESIANS)|indigene Ethnien Australiens und Ozeaniens: Polynesier
+32B351(NARUNGGA)|indigene Ethnien Australiens und Ozeaniens: Narungga
+32B352|(Nachfahren) australische(r) und ozeanische(r) Emigranten; Personen, die aus Australien und Ozeanien migrieren
+32B352(...)|(Nachfahren) australische(r) und ozeanische(r) Emigranten (mit NAMEN der AUFNEHMENDEN ETHNIE)
+32B353|australische und ozeanische Immigranten; Personen, die nach Australien und Ozeanien migrieren
+32B353(...)|australische und ozeanische Immigranten (mit NAMEN der HERKUNFTSETHNIE)
+32B36|vormodern lebende Ethnien, 'Naturvölker'
+32B37|Ethnien der Pygmäen (in Legende, Literatur und Ethnografie)
+32B371|Ethnien der afrikanischen Pygmäen
+32B371(...)|Ethnien der afrikanischen Pygmäen (mit NAMEN)
+32B371(AKA)|Ethnien der afrikanischen Pygmäen: Aka
+32B3711|San
+32B3712|Khoikhoi
+32B372|Ethnien der Pygmäen Neuguineas
+32B38|Personen mit Herkunft aus verschiedenen Ethnien
+32B381|Personen mit Herkunft aus europäischen und schwarzafrikanischen Ethnien
+32B382|Personen mit Herkunft aus europäischen und asiatischen Ethnien
+32B383|Personen mit Herkunft aus europäischen und indigen-südamerikanischen Ethnien
+32B39|(andere) menschliche Ethnien
+32B39(...)|(andere) menschliche Ethnien (mit NAMEN)
 32C|wissenschaftliche Klassifikation menschlicher Rassen
 33|Beziehungen zwischen individuellen Personen
 33A|nicht-aggressive Beziehungen
@@ -4645,7 +4731,7 @@
 34F12|ein Mensch tötet ein Tier
 34F13|ein Tier tötet einen Menschen
 34F14|Tiere fressen einen Menschen (einen menschlichen Leichnam)
-34F2|die Geschichte von Timoclea - Kindheit, Jugend, Erziehung einer Person der klassisch-antiken Geschichte (+ Dreiviertelprofil)
+34F2|Tier, das sich um den Menschen kümmert
 34F21|ein Tier zieht ein Findelkind auf
 34G|als Tier verkleideter Mensch
 35|Idyllen, ländliche Szenen, arkadische Szenen

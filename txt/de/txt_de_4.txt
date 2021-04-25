@@ -3426,9 +3426,13 @@
 46A175|Kinderarbeit
 46A179|Arbeitslosigkeit
 46A1791|arbeitslose Arbeiter
-46A18|Sklaverei; Sklaven
+46A18|Sklaverei; Leibeigene, versklavte Personen, Zwangsarbeiter
 46A180|Ripa: Servitù, Servitù per forza
 46A181|Sklavenhandel
+46A1811|Herkunftsland oder -region der versklavten Person
+46A1811(...)|Herkunftsland oder -region der versklavten Person (mit NAMEN)
+46A1812|Zielland oder -region der versklavten Person
+46A1812(...)|Zielland oder -region der versklavten Person (mit NAMEN)
 46A182|Sklavenhalter
 46A183|Befreiung aus der Sklaverei
 46A1831|Sklavenbefreiung

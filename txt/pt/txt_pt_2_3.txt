@@ -2477,6 +2477,8 @@
 31A22621|cabelo
 31A22622|pêlos do corpo
 31A22623|pêlos púbicos
+31A22624|cor de pele
+31A22624(...)|cor da pele (com número FITZPATRICK)
 31A2263|músculos
 31A2264|tendões, ligamentos
 31A2265|nervos

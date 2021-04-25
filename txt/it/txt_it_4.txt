@@ -3429,6 +3429,10 @@
 46A18|schiavitù; servi e schiavi
 46A180|Servitù (allegorica); 'Servitù', 'Servitù per forza' (Ripa)
 46A181|commercio degli schiavi
+46A1811|paese o regione di origine degli schiavi
+46A1811(...)|paese o regione di origine degli schiavi (con NOME)
+46A1812|paese o regione di destinazione degli schiavi
+46A1812(...)|paese o regione di destinazione degli schiavi (con NOME)
 46A182|padrone ~ schiavo
 46A183|libertà ~ schiavitù
 46A1831|liberazione (di uno schiavo)

@@ -2512,6 +2512,8 @@
 31A22621|cheveux
 31A22622|poils du corps
 31A22623|poils du pubis
+31A22624|couleur de peau
+31A22624(...)|couleur de peau (avec numéro FITZPATRICK
 31A2263|muscles
 31A2264|tendons
 31A2265|nerfs
@@ -4237,60 +4239,144 @@
 32A62|chirognomie
 32A7|caractères (types humains)
 32A8|passions, émotions, affections
-32B|races humaines; peuples; nationalités
-32B1|homme préhistorique
-32B11|reconstitution d'un homme préhistorique
-32B11(...)|reconstitution d'un homme préhistorique (avec NOM)
-32B12|reconstitution de la vie et de la culture de l'homme préhistorique
-32B2|peuples 'historiquement' disparus
-32B2(...)|peuples 'historiquement' disparus (avec NOM)
-32B2(GAULS)|peuples 'historiquement' disparus : Gaulois
-32B2(TEUTONS)|peuples 'historiquement' disparus : Teutons
-32B3|races humaines, peuples et nationalités (sauf ceux de la préhistoire ou qui ont disparus)
-32B31|races et peuples de couleur blanche
-32B311|Européens
-32B311(...)|Européens (avec NOM)
-32B311(ENGLISHMEN)|Européens : Anglais
-32B311(GERMANS)|Européens : Allemands
-32B311(SPANIARDS)|Européens : Espagnols
-32B312|peuples non européens de couleur blanche
-32B312(...)|peuples non européens de couleur blanche (avec NOM)
-32B312(AMERICANS)|peuples non européens de couleur blanche : Américains
-32B32|Africains
-32B32(...)|Africains (avec NOM)
-32B321|noirs d'Afrique
-32B321(...)|noirs d'Afrique (avec NOM)
-32B3211|noirs d'Amérique
-32B33|races et peuples asiatiques
-32B33(...)|races et peuples asiatiques (avec NOM)
-32B33(INDIANS)|races et peuples asiatiques : Indiens
-32B33(PERSIANS)|races et peuples asiatiques : Persans (Perses)
-32B33(TURKS)|races et peuples asiatiques : Turcs
-32B331|Mongoles
+32B|les peuples; groupes ethniques; nationalités
+32B1|l'homme préhistorique
+32B11|reconstruction de l'homme préhistorique
+32B11(...)|reconstruction de l'homme préhistorique (avec NOM)
+32B11(NEANDERTHAL)|reconstruction de l'homme préhistorique: Néandertal
+32B12|reconstruction de la vie et de la culture de l'homme préhistorique
+32B2|peuples 'historiques'
+32B2(...)|peuples 'historiques' (avec NOM)
+32B2(AMBRONES)|peuples 'historiques': Ambrones
+32B2(AZTEC)|peuples 'historiques': Aztèques
+32B2(BATAVIANS)|peuples 'historiques': les Bataves
+32B2(CARIANS)|peuples 'historiques': les Cariens
+32B2(CARTHAGINIANS)|peuples 'historiques': les Carthaginois
+32B2(GAULS)|peuples 'historiques': Gaulois
+32B2(GOTHS)|peuples 'historiques': Goths
+32B2(LYDIANS)|peuples 'historiques': les Lydiens
+32B2(OSCI)|peuples 'historiques': Osci
+32B2(PHOENICIANS)|peuples 'historiques': Phéniciens
+32B2(ROMANS)|peuples 'historiques': les Romains
+32B2(SCYTHIANS)|peuples 'historiques': les Scythes
+32B2(TEUTONS)|peuples 'historiques': les Teutons
+32B2(THRACIANS)|peuples 'historiques': Thraces
+32B3|peuples et nationalités (autres que préhistoriques ou «historiques»)
+32B31|Peuples européens
+32B311|peuples indigènes européens
+32B311(...)|peuples autochtones européens (avec NOM)
+32B311(ALBANIANS)|Européens: Albanais
+32B311(BELGIANS)|Européens: Belges
+32B311(BRITONS)|Européens: Britanniques
+32B311(BULGARIANS)|Européens: Bulgares
+32B311(CROATS)|Européens: Croates
+32B311(CZECHS)|Européens: Tchèques
+32B311(DANES)|Européens: Danois
+32B311(DUTCH)|Européens: Néerlandais
+32B311(ENGLISH)|Européens: Anglais
+32B311(FLEMINGS)|Européens: Flamands
+32B311(FRENCH)|Européens: Français
+32B311(GERMANS)|Européens: Allemands
+32B311(GREEKS)|Européens: Grecs
+32B311(HUNGARIANS)|Européens: Hongrois
+32B311(IRISH)|Européens: Irlandais
+32B311(ITALIANS)|Européens: Italiens
+32B311(POLES)|Européens: Polonais
+32B311(PORTUGESE)|Européens: Portugais
+32B311(RUMANIANS)|Européens: Roumains
+32B311(RUSSIANS)|Européens: Russes
+32B311(SCOTS)|Européens: Écossais
+32B311(SERBIANS)|Européens: Serbes
+32B311(SLAVS)|Européens: Slaves
+32B311(SLOWAKIANS)|Européens: Slowakiens
+32B311(SPANIARDS)|Européens: Espagnols
+32B311(SWEDES)|Européens: Suédois
+32B311(WALLOONS)|Européens: Wallons
+32B312|(descendants) d'émigrants européens, personne émigrant d'Europe
+32B312(...)|(descendants) d'émigrants européens, personne émigrant d'Europe (avec NOM de DESTINATION)
+32B312(AMERICA)|(descendants) d'émigrants européens en Amérique
+32B312(AUSTRALIA)|(descendants) d'émigrants européens en Australie
+32B313|Immigrants européens, personne migrant vers l'Europe
+32B313(...)|Immigrants européens (avec NOM D'ORIGINE)
+32B313(MOROCCO)|Immigrants européens du Maroc
+32B313(SRI LANKA)|Immigrants européens du Sri Lanka
+32B32|Peuples africains, Africains
+32B32(...)|Peuples africains, Africains (avec NOM)
+32B32(TUNISIANS)|Africains: Tunisiens
+32B321|peuples (autochtones) d'Afrique subsaharienne
+32B321(...)|peuples (autochtones) d'Afrique subsaharienne (avec NOM)
+32B321(NIGERIANS)|peuple d'Afrique subsaharienne: Nigérians
+32B3211|Américains d'origine africaine, Afro-Américains
+32B3212|(descendants) d'émigrants africains, personne émigrant d'Afrique
+32B3212(...)|(descendants de) émigrants africains, personne émigrant d'Afrique (avec NOM de DESTINATION)
+32B3212(AMERICA)|(descendants) d'émigrants africains en Amérique
+32B3212(GREAT BRITAIN)|(descendants) d'émigrants africains en Grande-Bretagne
+32B3212(ISRAEL)|(descendants) d'émigrants africains en Israël
+32B3213|Immigrants africains, personne migrant vers l'Afrique
+32B3213(...)|Immigrants africains (avec NOM D'ORIGINE)
+32B3213(THE NETHERLANDS)|Immigrants africains des Pays-Bas
+32B3213(INDIA)|Immigrants africains d'Inde
+32B3213(GREAT BRITAIN)|Immigrants africains de Grande-Bretagne
+32B33|Peuples asiatiques, Asiatiques
+32B33(...)|Peuples asiatiques, Asiatiques (avec NOM)
+32B33(INDIANS)|Peuples asiatiques, Asiatiques: Indiens
+32B33(PERSIANS)|Peuples asiatiques, Asiatiques: Perses
+32B33(TURKS)|Peuples asiatiques, Asiatiques: Turcs
+32B331|peuples autochtones d'Asie centrale et orientale
 32B3311|Chinois
 32B3312|Japonais
-32B34|races de couleur d'Amérique
-32B341|Esquimaux
-32B342|Peaux-Rouges, Indiens d'Amérique
-32B342(...)|Peaux-Rouges, Indiens d'Amérique (avec NOM)
-32B343|races de couleur de l'Amérique centrale
-32B344|races de couleur de l'Amérique du Sud
-32B345|races de couleur des Caraïbes
-32B35|races australiennes et océaniennes
-32B35(...)|races australiennes et océaniennes (avec NOM)
-32B36|races et peuplades primitives; aborigènes
-32B37|tribus de nains, pygmées
-32B371|pygmées d'Afrique
-32B371(...)|pygmées d'Afrique (avec NOM)
-32B3711|Bochimans
-32B3712|Hottentots
-32B372|pygmées de Nouvelle-Guinée
-32B38|personnes de races mixtes typiques
-32B381|mulâtre (né d'un parent blanc et d'un parent noir)
-32B382|Eurasien (né d'un parent européen et d'un parent asiatique)
-32B383|métis (né d'un parent espagnol ou portugais et d'un parent indien de l'Amérique du Sud)
-32B39|(encore d'autres) peuples et races humaines
-32B39(...)|(encore d'autres) peuples et races humaines (avec NOM)
+32B3313|Mongols
+32B3314|Coréens
+32B332|(descendants) d'émigrants asiatiques, personne émigrant d'Asie
+32B332(...)|(descendants) d'émigrants asiatiques (avec NOM de DESTINATION)
+32B332(AUSTRALIA)|(descendants) d'émigrants asiatiques en Australie
+32B333|Immigrants asiatiques, personne migrant vers l'Asie
+32B333(...)|Immigrants asiatiques (avec NOM D'ORIGINE)
+32B333(EUROPE)|Immigrants asiatiques d'Europe
+32B34|Peuples américains, américains
+32B341|peuples autochtones des régions arctiques américaines
+32B341(...)|peuples autochtones des régions arctiques américaines (avec NOM)
+32B341(INUIT)|peuples autochtones des régions arctiques: Inuit
+32B341(YUPIK)|peuples autochtones des régions arctiques: Yupik
+32B341(INUPIAT)|peuples autochtones des régions arctiques: Inupiat
+32B342|peuples autochtones d'Amérique du Nord
+32B342(...)|peuples autochtones d'Amérique du Nord (avec NOM)
+32B342(SHOSHONE)|peuples autochtones d'Amérique du Nord: Shoshone
+32B342(SIOUX)|peuples autochtones d'Amérique du Nord: Sioux
+32B343|peuples autochtones d'Amérique centrale
+32B344|peuples autochtones d'Amérique du Sud
+32B345|peuples autochtones des Caraïbes
+32B346|(descendants) d'émigrants américains, personne émigrant d'Amérique
+32B346(...)|(descendants de) émigrants américains (avec NOM de DESTINATION)
+32B346(JAPAN)|(descendants) d'émigrants américains au Japon
+32B347|Immigrants américains, personne migrant vers l'Amérique
+32B347(...)|Immigrants américains, (avec NOM D'ORIGINE)
+32B347(IRELAND)|Immigrants américains: Irlande
+32B347(SOMALIA)|Immigrants américains: Somalie
+32B35|Peuples australiens et océaniens, Australiens et océaniens
+32B351|peuples autochtones d'Australie et d'Océanie
+32B351(...)|peuples autochtones d'Australie et d'Océanie (avec NAME)
+32B351(PAPUANS)|peuples autochtones d'Australie et d'Océanie: Papous
+32B351(POLYNESIANS)|peuples autochtones d'Australie et d'Océanie: Polynésiens
+32B351(NARUNGGA)|peuples autochtones d'Australie et d'Océanie: Narungga
+32B352||(descendants) d'émigrants australiens et océaniens, personnes émigrant d'Australie ou d'Océanie
+32B352(...)|(descendants) d'émigrants australiens et océaniens (avec NOM de DESTINATION)
+32B353|Immigrants australiens et océaniens, personne migrant vers l'Australie ou l'Océanie
+32B353(...)|Immigrants australiens et océaniens (avec NOM D'ORIGINE)
+32B36|peuples 'primitifs', 'pré-modernes'
+32B37|Peuples pygmées (dans la légende, la littérature et l'ethnographie)
+32B371|Peuples pygmées africains
+32B371(...)|Peuples pygmées africains (avec NOM)
+32B371(AKA)|Peuples pygmées africains: Aka
+32B3711|San
+32B3712|Khoikhoi
+32B372|Peuples pygmées néo-guinéens
+32B38|personnes de racines mixtes
+32B381|personnes d'ascendance afro-caucasienne
+32B382|personnes d'ascendance européenne et asiatique
+32B383|personnes d'ascendance espagnole et indigène sud-américaine
+32B39|(encore d'autres) races et peuples humains
+32B39(...)|(encore d'autres) races et peuples humains (avec NOM)
 32C|classification scientifique des races humaines
 33|relations entre personnes individuelles
 33A|relations non-agressives
@@ -4645,7 +4731,7 @@
 34F12|homme tuant l'animal
 34F13|animal tuant l'homme
 34F14|(corps d') homme mangé par des animaux
-34F2|(histoire de) Timoclée - petite enfance, enfance, éducation d'un personnage de l'antiquité classique (+ vue de trois-quarts)
+34F2|animal prenant soin de l'homme
 34F21|animal prenant soin d'un enfant trouvé
 34G|homme déguisé en animal
 35|scènes pastorales, bucoliques, champêtres, 'l'Arcadie'

@@ -3427,9 +3427,13 @@
 46A175|main-d'oeuvre d'enfant
 46A179|chômage
 46A1791|ouvriers en chômage, des chômeurs
-46A18|esclavage; serfs et esclaves
+46A18|esclavage; serfs et esclaves, personne réduite en esclavage
 46A180|'Servitù', 'Servitù per forza' (Ripa)
-46A181|commerce des esclaves, traite des Noirs
+46A181|commerce des esclaves
+46A1811|pays ou région d'origine de l'esclave
+46A1811(...)|pays ou région d'origine de l'esclave (avec NOM)
+46A1812|pays ou région de destination de l'esclave
+46A1812(...)|pays ou région de destination de l'esclave (avec NOM)
 46A182|maître ~ esclave
 46A183|liberté ~ esclavage
 46A1831|libération (d'un esclave)

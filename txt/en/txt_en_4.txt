@@ -3429,14 +3429,18 @@
 46A175|child labour
 46A179|unemployment
 46A1791|unemployed labourers
-46A18|slavery; serfs and slaves
+46A18|slavery; serfs and enslaved persons
 46A180|'Servitù', 'Servitù per forza' (Ripa)
 46A181|slave-trade
-46A182|master ~ slave
+46A1811|country or region of origin of the enslaved
+46A1811(...)|country or region of origin of the enslaved (with NAME)
+46A1812|country or region of destination of the enslaved
+46A1812(...)|country or region of destination of the enslaved (with NAME)
+46A182|master ~ enslaved person
 46A183|freedom ~ slavery
-46A1831|liberation (of a slave)
+46A1831|liberation (of an enslaved person)
 46A1832|purchase of freedom
-46A1833|escape, escape attempts (of a slave)
+46A1833|escape, escape attempts (of an enslaved person)
 46A1834|abolition of slavery, fighting slavery
 46A2|social contrast
 46A21|contrast between rich and poor

@@ -2512,6 +2512,8 @@
 31A22621|capelli
 31A22622|peli, peluria del corpo
 31A22623|peli del pube
+31A22624|colore della pelle
+31A22624(...)|colore della pelle (con numero FITZPATRICK)
 31A2263|muscoli
 31A2264|tendini, legamenti
 31A2265|nervi
@@ -4237,60 +4239,144 @@
 32A62|chironomia
 32A7|caratteri (tipi umani)
 32A8|passioni, emozioni, affetti
-32B|razze umane; popoli; nazionalità
-32B1|uomo preistorico
-32B11|ricostruzione dell'aspetto dell'uomo preistorico
-32B11(...)|ricostruzione dell'uomo preistorico (col NOME)
+32B|popoli; gruppi etnici; nazionalità
+32B1|l'uomo preistorico
+32B11|ricostruzione dell'uomo preistorico
+32B11(...)|ricostruzione dell'uomo preistorico (con NOME)
+32B11(NEANDERTHAL)|ricostruzione dell'uomo preistorico: Neanderthal
 32B12|ricostruzione della vita e della cultura dell'uomo preistorico
-32B2|popoli 'storici' estinti
-32B2(...)|popoli 'storici' estinti (col NOME)
-32B2(GAULS)|popoli 'storici' estinti: Galli
-32B2(TEUTONS)|popoli 'storici' estinti: Teutoni
-32B3|altre razze umane, popoli e nazionalità (che non siano preistoriche o estinte)
-32B31|popoli e razze bianche
-32B311|Europei
-32B311(...)|Europei (col NOME)
-32B311(ENGLISHMEN)|Europei: Inglesi
-32B311(GERMANS)|Europei: Tedeschi
-32B311(SPANIARDS)|Europei: Spagnoli
-32B312|popoli bianchi non Europei
-32B312(...)|popoli bianchi non Europei (col NOME)
-32B312(AMERICANS)|popoli bianchi non Europei: Americani
-32B32|Africani
-32B32(...)|Africani (col NOME)
-32B321|Africani neri
-32B321(...)|Africani neri (col NOME)
-32B3211|Americani neri
-32B33|razze e popoli asiatici
-32B33(...)|razze e popoli asiatici (col NOME)
-32B33(INDIANS)|razze e popoli asiatici: Indiani
-32B33(PERSIANS)|razze e popoli asiatici: Persiani
-32B33(TURKS)|razze e popoli asiatici: Turchi
-32B331|Mongoli
-32B3311|Cinesi
-32B3312|Giapponesi
-32B34|razze di colore d'America
-32B341|Eschimesi
-32B342|Pellerossa, Indiani d'America
-32B342(...)|Pellerossa, Indiani d'America (col NOME)
-32B343|razze di colore dell'America Centrale
-32B344|razze di colore dell'America Meridionale
-32B345|razze di colore dei Caraibi
-32B35|razze dell'Australia e dell'Oceania
-32B35(...)|razze dell'Australia e dell'Oceania (col NOME)
-32B36|razze e popoli primitivi; aborigeni
-32B37|tribù nane, pigmei
-32B371|pigmei africani
-32B371(...)|pigmei africani (col NOME)
-32B3711|Boscimani
-32B3712|Ottentotti
-32B372|pigmei della Nuova Ghinea
-32B38|specifici incroci razziali
-32B381|mulatto
-32B382|eurasiano, di padre europeo e madre indiana
-32B383|meticcio
-32B39|ulteriori razze umane e popoli
-32B39(...)|ulteriori razze umane e popoli (col NOME)
+32B2|popoli e nazionalità "storici"
+32B2(...)|Popoli e nazionalità "storici" (con NOME)
+32B2(AMBRONES)|Popoli "storici": Ambrones
+32B2(AZTEC)|Popoli "storici": Aztechi
+32B2(BATAVIANS)|Popoli "storici": Bataviani
+32B2(CARIANS)|Popoli "storici": Carians
+32B2(CARTHAGINIANS)|Popoli "storici": i Cartaginesi
+32B2(GAULS)|Popoli "storici": Galli
+32B2(GOTHS)|Popoli "storici": Goti
+32B2(LYDIANS)|Popoli "storici": Lidi
+32B2(OSCI)|Popoli "storici": Osci
+32B2(PHOENICIANS)|Popoli "storici": Fenici
+32B2(ROMANS)|Popoli "storici": i Romani
+32B2(SCYTHIANS)|Popoli "storici": Sciti
+32B2(TEUTONS)|Popoli "storici": Teutoni
+32B2(THRACIANS)|Popoli "storici": Traci
+32B3|popoli e nazionalità (diversi da quelli preistorici o "storici")
+32B31|Popoli europei
+32B311|popoli indigeni europei
+32B311(...)|popoli indigeni europei (con NOME)
+32B311(ALBANIANS)|Europei: albanesi
+32B311(BELGIANS)|Europei: belgi
+32B311(BRITONS)|Europei: britannici
+32B311(BULGARIANS)|Europei: bulgari
+32B311(CROATS)|Europei: croati
+32B311(CZECHS)|Europei: cechi
+32B311(DANES)|Europei: danesi
+32B311(DUTCH)|Europei: olandesi
+32B311(ENGLISH)|Europei: inglese
+32B311(FLEMINGS)|Europei: fiamminghi
+32B311(FRENCH)|Europei: francesi
+32B311(GERMANS)|Europei: tedeschi
+32B311(GREEKS)|Europei: greci
+32B311(HUNGARIANS)|Europei: ungheresi
+32B311(IRISH)|Europei: irlandesi
+32B311(ITALIANS)|Europei: italiani
+32B311(POLES)|Europei: polacchi
+32B311(PORTUGESE)|Europei: portoghesi
+32B311(RUMANIANS)|Europei: rumeni
+32B311(RUSSIANS)|Europei: russi
+32B311(SCOTS)|Europei: scozzesi
+32B311(SERBIANS)|Europei: serbi
+32B311(SLAVS)|Europei: slavi
+32B311(SLOWAKIANS)|Europei: slowakiani
+32B311(SPANIARDS)|Europei: spagnoli
+32B311(SWEDES)|Europei: svedesi
+32B311(WALLOONS)|Europei: valloni
+32B312|(discendenti di) emigranti europei, persona che emigra dall'Europa
+32B312(...)|(discendenti di) emigranti europei, persona che emigra dall'Europa (con NOME di DESTINAZIONE)
+32B312(AMERICA)|(discendenti di) emigranti europei in America
+32B312(AUSTRALIA)|(discendenti di) emigranti europei in Australia
+32B313|Immigrati europei, persona che emigra in Europa
+32B313(...)|Immigrati europei (con NOME DI ORIGINE)
+32B313(MOROCCO)|Immigrati europei dal Marocco
+32B313(SRI LANKA)|Immigrati europei dallo Sri Lanka
+32B32|Popoli africani, africani
+32B32(...)|Popoli africani, africani (con NOME)
+32B32(TUNISIANS)|Africani: tunisini
+32B321|popolazioni (indigene) dell'Africa subsahariana
+32B321(...)|popoli (indigeni) dell'Africa subsahariana (con NOME)
+32B321(NIGERIANS)|popolo dell'Africa subsahariana: nigeriani
+32B3211|Americani con radici africane, afroamericani
+32B3212|(discendenti di) emigranti africani, persona che emigra dall'Africa
+32B3212(...)|(discendenti di) emigranti africani, persona migrante dall'Africa (con NOME di DESTINAZIONE)
+32B3212(AMERICA)|(discendenti di) emigranti africani in America
+32B3212(GREAT BRITAIN)|(discendenti di) emigranti africani in Gran Bretagna
+32B3212(ISRAEL)|(discendenti di) emigranti africani in Israele
+32B3213|Immigrati africani, persona che emigra in Africa
+32B3213(...)|Immigrati africani (con NOME di ORIGINE)
+32B3213(THE NETHERLANDS)|Immigrati africani dai Paesi Bassi
+32B3213(INDIA)|Immigrati africani dall'India
+32B3213(GREAT BRITAIN)|Immigrati africani dalla Gran Bretagna
+32B33|Popoli asiatici, asiatici
+32B33(...)|Popoli asiatici, asiatici (con NAME)
+32B33(INDIANS)|Popoli asiatici, asiatici: indiani
+32B33(PERSIANS)|Popoli asiatici, asiatici: persiani
+32B33(TURKS)|Popoli asiatici, asiatici: turchi
+32B331|popolazioni indigene dell'Asia centrale e orientale
+32B3311|Cinese
+32B3312|Giapponese
+32B3313|Mongoli
+32B3314|Coreani
+32B332|(discendenti di) emigranti asiatici, persona che emigra dall'Asia
+32B332(...)|(discendenti di) emigranti asiatici (con NOME di DESTINAZIONE)
+32B332(AUSTRALIA)|(discendenti di) emigranti asiatici in Australia
+32B333|Immigrati asiatici, persona che emigra in Asia
+32B333(...)|Immigrati asiatici (con NOME di ORIGINE)
+32B333(EUROPE)|Immigrati asiatici dall'Europa
+32B34|Popoli americani, americani
+32B341|popolazioni indigene delle regioni artiche americane
+32B341(...)|popolazioni indigene delle regioni artiche americane (con NOME)
+32B341(INUIT)|popolazioni indigene delle regioni artiche: Inuit
+32B341(YUPIK)|popolazioni indigene delle regioni artiche: Yupik
+32B341(INUPIAT)|popolazioni indigene delle regioni artiche: Inupiat
+32B342|popolazioni indigene del Nord America
+32B342(...)|popolazioni indigene del Nord America (con NOME)
+32B342(SHOSHONE)|popolazioni indigene del Nord America: Shoshone
+32B342(SIOUX)|popolazioni indigene del Nord America: Sioux
+32B343|popolazioni indigene dell'America centrale
+32B344|popolazioni indigene del Sud America
+32B345|popolazioni indigene dei Caraibi
+32B346|(discendenti di) emigranti americani, persona che emigra dall'America
+32B346(...)|(discendenti di) emigranti americani (con NOME di DESTINAZIONE)
+32B346(JAPAN)|(discendenti di) emigranti americani in Giappone
+32B347|Immigrati americani, persona che emigra in America
+32B347(...)|Immigrati americani, (con NOME di ORIGINE)
+32B347(IRELAND)|Immigrati americani: Irlanda
+32B347(SOMALIA)|Immigrati americani: Somalia
+32B35|Popoli australiani e oceanici, australiani e oceaniani
+32B351|popolazioni indigene dell'Australia e dell'Oceania
+32B351(...)|popolazioni indigene dell'Australia e dell'Oceania (con NOME)
+32B351(PAPUANS)|popolazioni indigene dell'Australia e dell'Oceania: Papua
+32B351(POLYNESIANS)|popolazioni indigene dell'Australia e dell'Oceania: Polinesiani
+32B351(NARUNGGA)|popolazioni indigene dell'Australia e dell'Oceania: Narungga
+32B352|(discendenti di) emigranti australiani e oceanici, persone che migrano dall'Australia o dall'Oceania
+32B352(...)|(discendenti di) emigranti australiani e oceanici (con NOME di DESTINAZIONE)
+32B353|Immigrati australiani e dell'Oceania, persona che emigra in Australia o Oceania
+32B353(...)|Immigrati australiani e oceanici (con NOME di ORIGINE)
+32B36|popoli "primitivi", "premoderni"
+32B37|Popoli pigmei (nella leggenda, nella letteratura e nell'etnografia)
+32B371|Popoli pigmei africani
+32B371(...)|Popoli pigmei africani (con NOME)
+32B371(AKA)|Popoli pigmei africani: Aka
+32B3711|San
+32B3712|Khoikhoi
+32B372|Popoli pigmei della Nuova Guinea
+32B38|persone di radici miste
+32B381|persone di ascendenza afro-caucasica
+32B382|Eurasiatico, persone di origine europea e asiatica
+32B383|persone di origini sudamericane spagnole e indigene
+32B39|(ancora altre) razze e popoli umani
+32B39(...)|(ancora altre) razze e popoli umani (con NOME)
 32C|classificazione scientifica di razze umane
 33|relazioni, rapporti tra singoli individui
 33A|rapporti non aggressivi
