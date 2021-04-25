@@ -4283,7 +4283,7 @@
 32B311(IRISH)|Europeans: Irish
 32B311(ITALIANS)|Europeans: Italians
 32B311(POLES)|Europeans: Poles
-32B311(PORTUGESE)|Europeans: Portugese
+32B311(PORTUGUESE)|Europeans: Portuguese
 32B311(RUMANIANS)|Europeans: Rumanians
 32B311(RUSSIANS)|Europeans: Russians
 32B311(SCOTS)|Europeans: Scots
