@@ -5304,6 +5304,7 @@
 32B311(SLOVAKIANS)|Slovacchi
 32B311(SPANIARDS)|Spagnoli
 32B311(SWEDES)|Svedesi
+32B311(WALLOONS)|Walloni
 32B312|emigranti
 32B312|popoli non europei
 32B312(AMERICA)|americani

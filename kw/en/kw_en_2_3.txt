@@ -5242,8 +5242,8 @@
 32B312(AMERICA)|Americans
 32B312(AUSTRALIA)|Australians
 32B313|immigrants
-32B313(MOROCCO)|Moroccan
-32B313(SRI LANKA)|Sri Lankan
+32B313(MOROCCO)|Moroccans
+32B313(SRI LANKA)|Sri Lankans
 32B32|Africans
 32B32(BEDOUINS)|Bedouins
 32B32(TUNISIANS)|Tunisians

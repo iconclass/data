@@ -5297,12 +5297,13 @@
 32B311(SLOVAKIANS)|Slovaques
 32B311(SPANIARDS)|Espagnol
 32B311(SWEDES)|Suédois
+32B311(WALLOONS)|Wallons
 32B312|émigrants
 32B312|non européens
 32B312(AMERICA)|Américains
 32B312(AUSTRALIA)|Australiens
 32B313|immigrants
-32B313(MOROCCO)|Marocain
+32B313(MOROCCO)|Marocains
 32B313(SRI LANKA)|Srilankais
 32B32|Africains
 32B32(BEDOUINS)|Bédouins

@@ -4269,8 +4269,8 @@
 32B33(PERSIANS)|Povos asiáticos, asiáticos: persas
 32B33(TURKS)|Povos asiáticos, asiáticos: turcos
 32B331|povos indígenas da Ásia Central e Oriental
-32B3311|chinês
-32B3312|japonês
+32B3311|Chinês
+32B3312|Japonês
 32B3313|Mongóis
 32B3314|Coreanos
 32B332|(descendentes de) emigrantes asiáticos, pessoa migrando da Ásia
