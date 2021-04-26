@@ -4245,23 +4245,23 @@
 32B11(...)|ricostruzione dell'uomo preistorico (con NOME)
 32B11(NEANDERTHAL)|ricostruzione dell'uomo preistorico: Neanderthal
 32B12|ricostruzione della vita e della cultura dell'uomo preistorico
-32B2|popoli e nazionalità "storici"
-32B2(...)|Popoli e nazionalità "storici" (con NOME)
-32B2(AMBRONES)|Popoli "storici": Ambrones
-32B2(AZTEC)|Popoli "storici": Aztechi
-32B2(BATAVIANS)|Popoli "storici": Bataviani
-32B2(CARIANS)|Popoli "storici": Carians
-32B2(CARTHAGINIANS)|Popoli "storici": i Cartaginesi
-32B2(GAULS)|Popoli "storici": Galli
-32B2(GOTHS)|Popoli "storici": Goti
-32B2(LYDIANS)|Popoli "storici": Lidi
-32B2(OSCI)|Popoli "storici": Osci
-32B2(PHOENICIANS)|Popoli "storici": Fenici
-32B2(ROMANS)|Popoli "storici": i Romani
-32B2(SCYTHIANS)|Popoli "storici": Sciti
-32B2(TEUTONS)|Popoli "storici": Teutoni
-32B2(THRACIANS)|Popoli "storici": Traci
-32B3|popoli e nazionalità (diversi da quelli preistorici o "storici")
+32B2|popoli e nazionalità 'storici’
+32B2(...)|Popoli e nazionalità storici (con NOME)
+32B2(AMBRONES)|Popoli storici: Ambrones
+32B2(AZTEC)|Popoli storici: Aztechi
+32B2(BATAVIANS)|Popoli storici: Bataviani
+32B2(CARIANS)|Popoli storici: Carians
+32B2(CARTHAGINIANS)|Popoli storici: i Cartaginesi
+32B2(GAULS)|Popoli storici: Galli
+32B2(GOTHS)|Popoli storici: Goti
+32B2(LYDIANS)|Popoli storici: Lidi
+32B2(OSCI)|Popoli storici: Osci
+32B2(PHOENICIANS)|Popoli storici: Fenici
+32B2(ROMANS)|Popoli storici: i Romani
+32B2(SCYTHIANS)|Popoli storici: Sciti
+32B2(TEUTONS)|Popoli storici: Teutoni
+32B2(THRACIANS)|Popoli storici: Traci
+32B3|popoli e nazionalità (diversi da quelli preistorici o ’storici’)
 32B31|Popoli europei
 32B311|popoli indigeni europei
 32B311(...)|popoli indigeni europei (con NOME)

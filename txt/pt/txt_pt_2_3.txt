@@ -4190,22 +4190,22 @@
 32B11(...)|reconstrução do homem pré-histórico (com NOME)
 32B11(NEANDERTHAL)|reconstrução do homem pré-histórico: Neandertal
 32B12|reconstrução da vida e cultura do homem pré-histórico
-32B2|povos e nacionalidades 'históricas'
-32B2(...)|povos e nacionalidades 'históricas' (com NOME)
-32B2(AMBRONES)|povos 'históricos': Ambrones
-32B2(AZTEC)|povos 'históricos': Asteca
-32B2(BATAVIANS)|povos 'históricos': Batavians
-32B2(CARIANS)|povos 'históricos': Carians
-32B2(CARTHAGINIANS)|povos 'históricos': Cartagineses
-32B2(GAULS)|povos 'históricos': Gauleses
-32B2(GOTHS)|povos 'históricos': Góticos
-32B2(LYDIANS)|povos 'históricos': Lídios
-32B2(OSCI)|povos 'históricos': Osci
-32B2(PHOENICIANS)|povos 'históricos': fenícios
-32B2(ROMANS)|povos 'históricos': Romanos
-32B2(SCYTHIANS)|povos 'históricos': Citas
-32B2(TEUTONS)|povos 'históricos': Teutões
-32B2(THRACIANS)|povos 'históricos': Trácios
+32B2|povos e nacionalidades "históricas"
+32B2(...)|povos e nacionalidades históricas (com NOME)
+32B2(AMBRONES)|povos históricos: Ambrones
+32B2(AZTEC)|povos históricos: Asteca
+32B2(BATAVIANS)|povos históricos: Batavians
+32B2(CARIANS)|povos históricos: Carians
+32B2(CARTHAGINIANS)|povos históricos: Cartagineses
+32B2(GAULS)|povos históricos: Gauleses
+32B2(GOTHS)|povos históricos: Góticos
+32B2(LYDIANS)|povos históricos: Lídios
+32B2(OSCI)|povos históricos: Osci
+32B2(PHOENICIANS)|povos históricos: fenícios
+32B2(ROMANS)|povos históricos: Romanos
+32B2(SCYTHIANS)|povos históricos: Citas
+32B2(TEUTONS)|povos históricos: Teutões
+32B2(THRACIANS)|povos históricos: Trácios
 32B3|povos e nacionalidades (exceto pré-históricos ou "históricos")
 32B31|Povos europeus
 32B311|povos indígenas europeus

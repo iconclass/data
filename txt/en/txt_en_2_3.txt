@@ -4247,22 +4247,22 @@
 32B11(NEANDERTHAL)|reconstruction of prehistoric man: Neanderthal
 32B12|reconstruction of life and culture of prehistoric man
 32B2|'historical' peoples and nationalities
-32B2(...)|'historical' peoples and nationalities (with NAME)
-32B2(AMBRONES)|'historical' peoples: Ambrones
-32B2(AZTEC)|'historical' peoples: Aztec
-32B2(BATAVIANS)|'historical' peoples: Batavians
-32B2(CARIANS)|'historical' peoples: Carians
-32B2(CARTHAGINIANS)|'historical' peoples: Carthaginians
-32B2(GAULS)|'historical' peoples: Gauls
-32B2(GOTHS)|'historical' peoples: Goths
-32B2(LYDIANS)|'historical' peoples: Lydians
-32B2(OSCI)|'historical' peoples: Osci
-32B2(PHOENICIANS)|'historical' peoples: Phoenicians
-32B2(ROMANS)|'historical' peoples: Romans
-32B2(SCYTHIANS)|'historical' peoples: Scythians
-32B2(TEUTONS)|'historical' peoples: Teutons
-32B2(THRACIANS)|'historical' peoples: Thracians
-32B3|peoples and nationalities (other than prehistoric or 'historical’)
+32B2(...)|historical peoples and nationalities (with NAME)
+32B2(AMBRONES)|historical peoples: Ambrones
+32B2(AZTEC)|historical peoples: Aztec
+32B2(BATAVIANS)|historical peoples: Batavians
+32B2(CARIANS)|historical peoples: Carians
+32B2(CARTHAGINIANS)|historical peoples: Carthaginians
+32B2(GAULS)|historical peoples: Gauls
+32B2(GOTHS)|historical peoples: Goths
+32B2(LYDIANS)|historical peoples: Lydians
+32B2(OSCI)|historical peoples: Osci
+32B2(PHOENICIANS)|historical peoples: Phoenicians
+32B2(ROMANS)|historical peoples: Romans
+32B2(SCYTHIANS)|historical peoples: Scythians
+32B2(TEUTONS)|historical peoples: Teutons
+32B2(THRACIANS)|historical peoples: Thracians
+32B3|peoples and nationalities (other than prehistoric or 'historical')
 32B31|European peoples
 32B311|indigenous Europeans peoples
 32B311(...)|indigenous European peoples (with NAME)

@@ -4246,21 +4246,21 @@
 32B11(NEANDERTHAL)|reconstruction de l'homme préhistorique: Néandertal
 32B12|reconstruction de la vie et de la culture de l'homme préhistorique
 32B2|peuples 'historiques'
-32B2(...)|peuples 'historiques' (avec NOM)
-32B2(AMBRONES)|peuples 'historiques': Ambrones
-32B2(AZTEC)|peuples 'historiques': Aztèques
-32B2(BATAVIANS)|peuples 'historiques': les Bataves
-32B2(CARIANS)|peuples 'historiques': les Cariens
-32B2(CARTHAGINIANS)|peuples 'historiques': les Carthaginois
-32B2(GAULS)|peuples 'historiques': Gaulois
-32B2(GOTHS)|peuples 'historiques': Goths
-32B2(LYDIANS)|peuples 'historiques': les Lydiens
-32B2(OSCI)|peuples 'historiques': Osci
-32B2(PHOENICIANS)|peuples 'historiques': Phéniciens
-32B2(ROMANS)|peuples 'historiques': les Romains
-32B2(SCYTHIANS)|peuples 'historiques': les Scythes
-32B2(TEUTONS)|peuples 'historiques': les Teutons
-32B2(THRACIANS)|peuples 'historiques': Thraces
+32B2(...)|peuples historiques (avec NOM)
+32B2(AMBRONES)|peuples historiques: Ambrones
+32B2(AZTEC)|peuples historiques: Aztèques
+32B2(BATAVIANS)|peuples historiques: les Bataves
+32B2(CARIANS)|peuples historiques: les Cariens
+32B2(CARTHAGINIANS)|peuples historiques: les Carthaginois
+32B2(GAULS)|peuples historiques: Gaulois
+32B2(GOTHS)|peuples historiques: Goths
+32B2(LYDIANS)|peuples historiques: les Lydiens
+32B2(OSCI)|peuples historiques: Osci
+32B2(PHOENICIANS)|peuples historiques: Phéniciens
+32B2(ROMANS)|peuples historiques: les Romains
+32B2(SCYTHIANS)|peuples historiques: les Scythes
+32B2(TEUTONS)|peuples historiques: les Teutons
+32B2(THRACIANS)|peuples historiques: Thraces
 32B3|peuples et nationalités (autres que préhistoriques ou «historiques»)
 32B31|Peuples européens
 32B311|peuples indigènes européens

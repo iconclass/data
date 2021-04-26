@@ -4245,7 +4245,7 @@
 32B11(...)|Rekonstruktion des prähistorischen Menschen (mit NAMEN)
 32B11(NEANDERTHAL)|Rekonstruktion des prähistorischen Menschen: Neandertaler
 32B12|Rekonstruktion von Leben und Kultur prähistorischer Menschen
-32B2|historische Ethnien
+32B2|’historische’ Ethnien
 32B2(...)|historische Ethnien (mit NAMEN)
 32B2(AMBRONES)|historische Ethnien: Ambrones
 32B2(AZTEC)|historische Ethnien: Azteken
