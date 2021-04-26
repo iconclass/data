@@ -5312,7 +5312,8 @@
 32B313(MOROCCO)|Marocchini
 32B313(SRI LANKA)|Srilankesi
 32B32|africani
-32B32(...)|Beduini
+32B32(BEDOUINS)|Bedouini
+32B32(TUNISIANS)|Tunisini
 32B321|nero (pelle)
 32B321(...)|Bantu
 32B3211|americani

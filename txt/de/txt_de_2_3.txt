@@ -4302,6 +4302,7 @@
 32B313(SRI LANKA)|europäische Immigranten aus Sri Lanka
 32B32|afrikanische Ethnien, Afrikaner
 32B32(...)|afrikanische Ethnien, Afrikaner (mit NAMEN)
+32B32(BEDOUINS)|afrikanische Ethnien, Afrikaner: Beduinen
 32B32(TUNISIANS)|afrikanische Ethnien, Afrikaner: Tunesier
 32B321|indigene Ethnien des subsaharischen Afrika
 32B321(...)|indigene Ethnien des subsaharischen Afrika (mit NAMEN)

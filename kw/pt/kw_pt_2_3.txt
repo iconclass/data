@@ -5243,7 +5243,8 @@
 32B313(MOROCCO)|Marroquinos
 32B313(SRI LANKA)|Srilankanos
 32B32|Africanos
-32B32(...)|Beduínos
+32B32(BEDOUINS)|Bedouínos
+32B32(TUNISIANS)|Tunisinos
 32B321|preto
 32B321(...)|Bantus
 32B3211|Americanos

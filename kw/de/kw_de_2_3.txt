@@ -5790,7 +5790,8 @@
 32B313(MOROCCO)|Marokkaner
 32B313(SRI LANKA)|Srilankaner
 32B32|Afrikaner
-32B32(...)|Beduinen
+32B32(BEDOUINS)|Beduinen
+32B32(TUNISIANS)|Tunesier
 32B321|Neger
 32B321|Schwarzer
 32B321(...)|Bantus
