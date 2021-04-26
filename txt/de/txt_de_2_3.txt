@@ -4294,12 +4294,12 @@
 32B311(WALLOONS)|Europäer: Wallonen
 32B312|(Nachfahren) europäische(r) Emigranten; Personen, die aus Europa migrieren
 32B312(...)|(Nachfahren) europäische(r) Emigranten; Personen, die aus Europa migrieren (mit NAMEN der AUFNEHMENDEN ETHNIE)
-32B312(AMERICA)|(Nachfahren) europäische(r) Emigranten: Amerikaner
-32B312(AUSTRALIA)|(Nachfahren) europäische(r) Emigranten: Australier
+32B312(AMERICA)|(Nachfahren) europäische(r) Emigranten nach Amerikan
+32B312(AUSTRALIA)|(Nachfahren) europäische(r) Emigranten nach Australien
 32B313|europäische Immigranten; Personen, die nach Europa migrieren
 32B313(...)|europäische Immigranten (mit NAMEN des HERKUNFTSETHNIE)
-32B313(MOROCCO)|europäische Immigranten: Marokkaner
-32B313(SRI LANKA)|europäische Immigranten: Sri Lanker
+32B313(MOROCCO)|europäische Immigranten aus Marokko
+32B313(SRI LANKA)|europäische Immigranten aus Sri Lanka
 32B32|afrikanische Ethnien, Afrikaner
 32B32(...)|afrikanische Ethnien, Afrikaner (mit NAMEN)
 32B32(TUNISIANS)|afrikanische Ethnien, Afrikaner: Tunesier

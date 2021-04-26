@@ -5304,10 +5304,14 @@
 32B311(SLOVAKIANS)|Slovacchi
 32B311(SPANIARDS)|Spagnoli
 32B311(SWEDES)|Svedesi
+32B312|emigranti
 32B312|popoli non europei
-32B312(AMERICANS)|americani
+32B312(AMERICA)|americani
+32B312(AUSTRALIA)|australiani
+32B313|immigranti
+32B313(MOROCCO)|Marocchini
+32B313(SRI LANKA)|Srilankesi
 32B32|africani
-32B32(...)|Arabi
 32B32(...)|Beduini
 32B321|nero (pelle)
 32B321(...)|Bantu

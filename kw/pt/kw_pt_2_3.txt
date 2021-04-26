@@ -5237,9 +5237,12 @@
 32B311(SPANIARDS)|Espanhóis
 32B311(SWEDES)|Suecos
 32B312|não-europeus
-32B312(AMERICANS)|Americanos
+32B312(AMERICA)|Americanos
+32B312(AUSTRALIA)|Australianos
+32B313|imigrantes
+32B313(MOROCCO)|Marroquinos
+32B313(SRI LANKA)|Srilankanos
 32B32|Africanos
-32B32(...)|Árabes
 32B32(...)|Beduínos
 32B321|preto
 32B321(...)|Bantus

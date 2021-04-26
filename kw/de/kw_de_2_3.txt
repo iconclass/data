@@ -5782,10 +5782,14 @@
 32B311(SPANIARDS)|Spanier
 32B311(SWEDES)|Schweden
 32B311(WALLOONS)|Wallonen
+32B312|Emigranten
 32B312|nicht-europaeische Voelker
-32B312(AMERICANS)|Amerikaner
+32B312(AMERICA)|Amerikaner
+32B312(AUSTRALIA)|Australier
+32B313|Immigranten
+32B313(MOROCCO)|Marokkaner
+32B313(SRI LANKA)|Srilankaner
 32B32|Afrikaner
-32B32(...)|Araber
 32B32(...)|Beduinen
 32B321|Neger
 32B321|Schwarzer
