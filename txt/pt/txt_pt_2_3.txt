@@ -4251,7 +4251,8 @@
 32B32(TUNISIANS)|Africanos: tunisinos
 32B321|povos (indígenas) da África Subsaariana
 32B321(...)|povos (indígenas) da África Subsaariana (com NOME)
-32B321(NIGERIANS)|povo da África Subsaariana: nigerianos
+32B321(BANTUS)|povo da África Subsaariana: povos Bantu
+32B321(NIGERIANS)|povo da África Subsaariana: Nigerianos
 32B3211|Americanos com raízes africanas, afro-americanos
 32B3212|(descendentes de) emigrantes africanos, pessoa migrando da África
 32B3212(...)|(descendentes de) emigrantes africanos, pessoa migrando da África (com NOME de DESTINO)

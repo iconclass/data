@@ -4306,6 +4306,7 @@
 32B32(TUNISIANS)|afrikanische Ethnien, Afrikaner: Tunesier
 32B321|indigene Ethnien des subsaharischen Afrika
 32B321(...)|indigene Ethnien des subsaharischen Afrika (mit NAMEN)
+32B321(BANTUS)|indigene Ethnien des subsaharischen Afrika: Bantu Völker
 32B321(NIGERIANS)|indigene Ethnien des subsaharischen Afrika: Nigerianer
 32B3211|Amerikaner mit afrikanischen Wurzeln, Afro-Amerikaner
 32B3212|(Nachfahren) afrikanische(r) Emigranten; Personen, die aus Afrika migrieren

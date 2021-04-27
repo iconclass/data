@@ -5309,7 +5309,7 @@
 32B32(BEDOUINS)|Bédouins
 32B32(TUNISIANS)|Tunisiens
 32B321|nègre
-32B321(...)|Bantous
+32B321(BANTUS)|Bantous
 32B3211|Américains
 32B33|Asiatiques
 32B33(INDIANS)|Indiens
@@ -5317,7 +5317,7 @@
 32B33(TURKS)|Turcs
 32B331|Mongoles
 32B3311|Chinois
-32B3312|japonais
+32B3312|Japonais
 32B34|Américains
 32B341|Esquimaux
 32B342|Indiens d'Amérique

@@ -4305,6 +4305,7 @@
 32B32(TUNISIANS)|Africani: tunisini
 32B321|popolazioni (indigene) dell'Africa subsahariana
 32B321(...)|popoli (indigeni) dell'Africa subsahariana (con NOME)
+32B321(BANTUS)|popolo dell'Africa subsahariana: popoli bantu
 32B321(NIGERIANS)|popolo dell'Africa subsahariana: nigeriani
 32B3211|Americani con radici africane, afroamericani
 32B3212|(discendenti di) emigranti africani, persona che emigra dall'Africa

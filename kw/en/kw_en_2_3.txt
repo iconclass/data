@@ -5248,8 +5248,10 @@
 32B32(BEDOUINS)|Bedouins
 32B32(TUNISIANS)|Tunisians
 32B321|negro
-32B321(...)|Bantus
+32B321|sub-Saharan Africans
+32B321(BANTUS)|Bantus
 32B3211|Americans
+32B3211|African-Americans
 32B33|Asians
 32B33(ARABS)|Arabs
 32B32(BEDOUINS)|Bedouins

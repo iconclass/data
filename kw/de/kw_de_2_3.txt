@@ -5794,14 +5794,14 @@
 32B32(TUNISIANS)|Tunesier
 32B321|Neger
 32B321|Schwarzer
-32B321(...)|Bantus
+32B321(BANTUS)|Bantus
 32B3211|Amerikaner
 32B33|Asiaten
 32B33(INDIANS)|Inder
 32B33(PERSIANS)|Perser
 32B33(TURKS)|Tuerken
 32B331|Mongolen
-32B3311|chinesisch
+32B3311|Chinesisch
 32B3312|Japaner
 32B34|Amerikaner
 32B341|Eskimos

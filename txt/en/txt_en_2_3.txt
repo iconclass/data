@@ -4307,6 +4307,7 @@
 32B32(TUNISIANS)|Africans: Tunisians
 32B321|(indigenous) peoples of sub-Saharan Africa
 32B321(...)|(indigenous) peoples of sub-Saharan Africa (with NAME)
+32B321(BANTUS)|people of sub-Saharan Africa: Bantu peoples
 32B321(NIGERIANS)|people of sub-Saharan Africa: Nigerians
 32B3211|Americans with African roots, African-Americans
 32B3212|(descendants of) African emigrants, person migrating from Africa
