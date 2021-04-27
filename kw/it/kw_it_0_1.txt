@@ -187,21 +187,25 @@
 11D123(TAU-CROSS)|croce a tau
 11D124|adorazione
 11D131|animale
-11D131|aquila
-11D131|colomba
-11D131|daino
-11D131|delfino
-11D131|fenice
-11D131|grifone
-11D131|leone
-11D131|lepre
-11D131|pavone
-11D131|pellicano
-11D131|scarabeo
-11D131|unicorno
-11D1311|Agnus Dei
 11D1311|agnello
+11D1311|Agnus Dei
 11D1311|vessillo
+11D1312|uccelli
+11D13121|colomba
+11D13122|aquila
+11D13123|pavone
+11D13124|pellicano
+11D1313|mammiferi
+11D13131|daino
+11D13132|delfino
+11D13133|lepre
+11D13134|leone
+11D1314|insetti
+11D13141|scarabeo
+11D1315|animali fantastici
+11D13151|grifone
+11D13152|fenice
+11D13153|unicorno
 11D132|pianta
 11D1331|Etimasia
 11D1331|Giudizio Universale

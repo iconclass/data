@@ -103,6 +103,22 @@
 11D13|altri simboli di Cristo
 11D131|simboli di Cristo ~ animali
 11D1311|agnello (con la croce o il vessillo), 'Agnus Dei' ~ simbolo di Cristo
+11D1312|simboli di Cristo ~ uccelli
+11D13121|colomba come simbolo di Cristo
+11D13122|aquila come simbolo di Cristo
+11D13123|pavone come simbolo di Cristo
+11D13124|pellicano come simbolo di Cristo
+11D1313|simboli di Cristo ~ mammiferi
+11D13131|daino come simbolo di Cristo
+11D13132|delfino come simbolo di Cristo
+11D13133|lepre come simbolo di Cristo
+11D13134|leone come simbolo di Cristo
+11D1314|simboli di Cristo ~ insetti
+11D13141|scarabeo come simbolo di Cristo
+11D1315|simboli di Cristo ~ animali fantastici
+11D13151|grifone come simbolo di Cristo
+11D13152|fenice come simbolo di Cristo
+11D13153|unicorno come simbolo di Cristo
 11D132|simboli di Cristo ~ piante
 11D133|simboli di Cristo ~ oggetti
 11D1331|'Etimasia', il trono di Cristo, vuoto, con il libro della vita

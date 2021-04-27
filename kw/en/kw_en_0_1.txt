@@ -191,21 +191,25 @@
 11D123(TAU-CROSS)|tau-cross
 11D124|adoration
 11D131|animal
-11D131|deer
-11D131|dolphin
-11D131|dove
-11D131|eagle
-11D131|griffin
-11D131|hare
-11D131|lion
-11D131|peacock
-11D131|pelican
-11D131|phoenix
-11D131|scarabaeus
-11D131|unicorn
 11D1311|Agnus Dei
 11D1311|banner
 11D1311|lamb
+11D1312|birds
+11D13121|dove
+11D13122|eagle
+11D13123|peacock
+11D13124|pelican
+11D1313|mammals
+11D13131|deer
+11D13132|dolphin
+11D13133|hare
+11D13134|lion
+11D1314|insects
+11D13141|scarabaeus
+11D1315|fabulous animals
+11D13151|griffin
+11D13152|phoenix
+11D13153|unicorn
 11D132|plant
 11D1331|Etimasia
 11D1331|Last Judgement

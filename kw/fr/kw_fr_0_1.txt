@@ -191,23 +191,27 @@
 11D123(SWASTIKA)|svastika
 11D123(TAU-CROSS)|tau (croix)
 11D124|adoration
-11D131|aigle
 11D131|animal
-11D131|biche
-11D131|cerf-volant
-11D131|colombe
-11D131|dauphin
-11D131|griffon
-11D131|licorne
-11D131|lion
-11D131|lièvre
-11D131|paon
-11D131|phénix
-11D131|pélican
-11D1311|Agneau mystique
 11D1311|Agnus Dei
-11D1311|agneau
 11D1311|bannière
+11D1311|agneau
+11D1312|oiseaux
+11D13121|colombe
+11D13122|aigle
+11D13123|paon
+11D13124|pélican
+11D1313|mammifères
+11D13131|cerf
+11D13132|dauphin
+11D13133|lièvre
+11D13134|lion
+11D1314 |insectes
+11D13141|cerf-volant
+11D13141|scarabée
+11D1315|animaux fabuleux
+11D13151|griffon
+11D13152|phénix
+11D13153|licorne
 11D132|plante
 11D1331|Jugement Dernier
 11D1331|deuxième avènement

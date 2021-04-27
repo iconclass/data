@@ -103,6 +103,22 @@
 11D13|autres symboles du Christ
 11D131|symboles du Christ ~ animaux
 11D1311|l'agneau portant la croix ou l'étendard, l'Agneau Mystique, 'Agnus Dei' ~ symbole du Christ
+11D1312|symboles du Christ ~ oiseaux
+11D13121|colombe comme symbole du Christ
+11D13122|aigle comme symbole du Christ
+11D13123|paon comme symbole du Christ
+11D13124|pélican comme symbole du Christ
+11D1313|symboles du Christ ~ mammifères
+11D13131|biche comme symbole du Christ
+11D13132|dauphin comme symbole du Christ
+11D13133|lièvre comme symbole du Christ
+11D13134|lion comme symbole du Christ
+11D1314|symboles du Christ ~ insectes
+11D13141|cerf-volant comme symbole du Christ
+11D1315|symboles du Christ ~ animaux fabuleux
+11D13151|griffon comme symbole du Christ
+11D13152|phénix comme symbole du Christ
+11D13153|licorne comme symbole du Christ
 11D132|symboles du Christ ~ plantes
 11D133|symboles du Christ ~ objets
 11D1331|'Etimasia', l'Étimasie : trône vide sur lequel repose le livre de la vie, préparé pour le Christ
