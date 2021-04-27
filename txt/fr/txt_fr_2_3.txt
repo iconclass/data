@@ -4316,9 +4316,9 @@
 32B3212(ISRAEL)|(descendants) d'émigrants africains en Israël
 32B3213|Immigrants africains, personne migrant vers l'Afrique
 32B3213(...)|Immigrants africains (avec NOM D'ORIGINE)
-32B3213(THE NETHERLANDS)|Immigrants africains des Pays-Bas
-32B3213(INDIA)|Immigrants africains d'Inde
 32B3213(GREAT BRITAIN)|Immigrants africains de Grande-Bretagne
+32B3213(INDIA)|Immigrants africains d'Inde
+32B3213(THE NETHERLANDS)|Immigrants africains des Pays-Bas
 32B33|Peuples asiatiques, Asiatiques
 32B33(...)|Peuples asiatiques, Asiatiques (avec NOM)
 32B33(INDIANS)|Peuples asiatiques, Asiatiques: Indiens
@@ -4339,8 +4339,8 @@
 32B341|peuples autochtones des régions arctiques américaines
 32B341(...)|peuples autochtones des régions arctiques américaines (avec NOM)
 32B341(INUIT)|peuples autochtones des régions arctiques: Inuit
-32B341(YUPIK)|peuples autochtones des régions arctiques: Yupik
 32B341(INUPIAT)|peuples autochtones des régions arctiques: Inupiat
+32B341(YUPIK)|peuples autochtones des régions arctiques: Yupik
 32B342|peuples autochtones d'Amérique du Nord
 32B342(...)|peuples autochtones d'Amérique du Nord (avec NOM)
 32B342(SHOSHONE)|peuples autochtones d'Amérique du Nord: Shoshone
