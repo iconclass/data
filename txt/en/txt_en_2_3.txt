@@ -4317,9 +4317,9 @@
 32B3212(ISRAEL)|(descendants of) African emigrants to Israel
 32B3213|African immigrants, person migrating to Africa
 32B3213(...)|African immigrants (with NAME of ORIGIN)
-32B3213(THE NETHERLANDS)|African immigrants from The Netherlands
-32B3213(INDIA)|African immigrants from India
 32B3213(GREAT BRITAIN)|African immigrants from Great Britain
+32B3213(INDIA)|African immigrants from India
+32B3213(THE NETHERLANDS)|African immigrants from The Netherlands
 32B33|Asian peoples, Asians
 32B33(...)|Asian peoples, Asians (with NAME)
 32B33(ARABS)|Asian peoples, Asians: Arabs
