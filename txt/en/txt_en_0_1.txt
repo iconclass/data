@@ -103,6 +103,21 @@
 11D13|(other) symbols of Christ
 11D131|symbols of Christ ~ animals
 11D1311|lamb bearing cross or banner, 'Agnus Dei' ~ symbol of Christ
+11D1312|symbols of Christ ~ birds
+11D13121|dove as a symbol of Christ
+11D13122|eagle as a symbol of Christ
+11D13123|peacock as a symbol of Christ
+11D13124|pelican as a symbol of Christ
+11D1313|symbols of Christ ~ mammals
+11D13131|deer as a symbol of Christ
+11D13132|dolphin as a symbol of Christ
+11D13133|hare as a symbol of Christ
+11D13134|lion as a symbol of Christ
+11D1314|symbols of Christ ~ insects
+11D13141|scarabaeus as a symbol of Christ
+11D1315|symbols of Christ ~ fabulous animals
+11D13151|griffin as a symbol of Christ
+11D13152|phoenix as a symbol of Christ
 11D132|symbols of Christ ~ plants
 11D133|symbols of Christ ~ objects
 11D1331|'Etimasia', empty throne with the book of life, prepared for Christ

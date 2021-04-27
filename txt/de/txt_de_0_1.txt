@@ -103,6 +103,21 @@
 11D13|(andere) Christussymbole
 11D131|Christussymbole aus der Tierwelt
 11D1311|das Lamm trägt das Kreuz oder das Kreuzbanner, Agnus Dei als Christussymbol
+11D1312|Christussymbole ~ Vögel
+11D13121|Taube als Christussymbol
+11D13122|Adler als Christussymbol
+11D13123|Pfau als Christussymbol
+11D13124|Pelikan als Christussymbol
+11D1313|Christussymbole ~ Saügetiere
+11D13131|Hirsch als Christussymbol
+11D13132|Delphin als Christussymbol
+11D13133|Hasse als Christussymbol
+11D13134|Löwe als Christussymbol
+11D1314|Christussymbole ~ Insekten
+11D13141|Skarabäus als Christussymbol
+11D1315|Christussymbole ~ Fabeltiere
+11D13151|Greif als Christussymbol
+11D13152|Phönix als Christussymbol
 11D132|Christussymbole aus der Flora
 11D133|Gegenstände als Christussymbole
 11D1331|Etimasia, leerer Thron mit dem Buch des Lebens (für Christus vorbereitet)
