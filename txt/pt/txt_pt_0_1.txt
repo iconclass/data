@@ -363,6 +363,19 @@ Pedro, etc.) - DD - Cristo sem barba"
 11F11|símbolos da Virgem Maria
 11F111|símbolos da Virgem Maria das litanias 
 11F111(...)|símbolos (da Virgem Maria) das litanias (com TEXTO)
+11F111(CIVITAS DEI)|símbolos da Virgem Maria das litanias: Civitas Dei
+11F111(ELECTA UT SOL)|símbolos da Virgem Maria das litanias: Electa ut sol
+11F111(FLOS CAMPI)|símbolos da Virgem Maria das litanias: Flos campi
+11F111(FONS SIGNATUS)|símbolos da Virgem Maria das litanias: Fons signatus
+11F111(HORTUS CONCLUSUS)|símbolos da Virgem Maria das litanias: Hortus conclusus
+11F111(PORTA COELI)|símbolos da Virgem Maria das litanias: Porta coeli
+11F111(PULCHRA UT LUNA)|símbolos da Virgem Maria das litanias: Pulchra ut luna
+11F111(ROSA MYSTICA)|símbolos da Virgem Maria das litanias: Rosa mystica
+11F111(SPECULUM SINE MACULA)|símbolos da Virgem Maria das litanias: Speculum sine macula
+11F111(STELLA MARIS)|símbolos da Virgem Maria das litanias: Stella maris
+11F111(STELLA MATUTINA)|símbolos da Virgem Maria das litanias: Stella matutina
+11F111(TURRIS DAVIDICA)|símbolos da Virgem Maria das litanias: Turris Davidica
+11F111(TURRIS EBURNEA)|símbolos da Virgem Maria das litanias: Turris eburnea
 11F112|Virgem Maria ou Nossa Senhora com símbolos da Litania Lauretana
 11F12|monogramas da Virgem Maria
 11F13|brasão da Virgem Maria

@@ -358,7 +358,20 @@
 11F1|Symbole und Präfigurationen Marias
 11F11|Mariensymbole
 11F111|Mariensymbole aus Litaneien
-11F111(...)|symbols (of Mary) from litanies (with TEXT)
+11F111(...)|Mariensymbole aus Litaneien (mit TEXT)
+11F111(CIVITAS DEI)|Mariensymbole aus Litaneien: Civitas Dei
+11F111(ELECTA UT SOL)|Mariensymbole aus Litaneien: Electa ut sol
+11F111(FLOS CAMPI)|Mariensymbole aus Litaneien: Flos campi
+11F111(FONS SIGNATUS)|Mariensymbole aus Litaneien: Fons signatus
+11F111(HORTUS CONCLUSUS)|Mariensymbole aus Litaneien: Hortus conclusus
+11F111(PORTA COELI)|Mariensymbole aus Litaneien: Porta coeli
+11F111(PULCHRA UT LUNA)|Mariensymbole aus Litaneien: Pulchra ut luna
+11F111(ROSA MYSTICA)|Mariensymbole aus Litaneien: Rosa mystica
+11F111(SPECULUM SINE MACULA)|Mariensymbole aus Litaneien: Speculum sine macula
+11F111(STELLA MARIS)|Mariensymbole aus Litaneien: Stella maris
+11F111(STELLA MATUTINA)|Mariensymbole aus Litaneien: Stella matutina
+11F111(TURRIS DAVIDICA)|Mariensymbole aus Litaneien: Turris Davidica
+11F111(TURRIS EBURNEA)|Mariensymbole aus Litaneien: Turris eburnea
 11F112|Maria (mit oder ohne Kind) mit Symbolen aus der Lauretanischen Litanei
 11F12|Marienmonogramme
 11F13|Marienwappen

@@ -359,6 +359,19 @@
 11F11|simboli di Maria Vergine
 11F111|simboli di Maria Vergine dalle litanie
 11F111(...)|simboli di Maria Vergine dalle litanie (con il TESTO)
+11F111(CIVITAS DEI)|simboli di Maria Vergine dalle litanie: Civitas Dei
+11F111(ELECTA UT SOL)|simboli di Maria Vergine dalle litanie: Electa ut sol
+11F111(FLOS CAMPI)|simboli di Maria Vergine dalle litanie: Flos campi
+11F111(FONS SIGNATUS)|simboli di Maria Vergine dalle litanie: Fons signatus
+11F111(HORTUS CONCLUSUS)|simboli di Maria Vergine dalle litanie: Hortus conclusus
+11F111(PORTA COELI)|simboli di Maria Vergine dalle litanie: Porta coeli
+11F111(PULCHRA UT LUNA)|simboli di Maria Vergine dalle litanie: Pulchra ut luna
+11F111(ROSA MYSTICA)|simboli di Maria Vergine dalle litanie: Rosa mystica
+11F111(SPECULUM SINE MACULA)|simboli di Maria Vergine dalle litanie: Speculum sine macula
+11F111(STELLA MARIS)|simboli di Maria Vergine dalle litanie: Stella maris
+11F111(STELLA MATUTINA)|simboli di Maria Vergine dalle litanie: Stella matutina
+11F111(TURRIS DAVIDICA)|simboli di Maria Vergine dalle litanie: Turris Davidica
+11F111(TURRIS EBURNEA)|simboli di Maria Vergine dalle litanie: Turris eburnea
 11F112|Maria Vergine o Madonna con Bambino e simboli delle Litanie Lauretane
 11F12|monogrammi di Maria Vergine
 11F13|blasoni di Maria Vergine

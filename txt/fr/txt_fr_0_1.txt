@@ -359,6 +359,19 @@
 11F11|symboles de Marie
 11F111|symboles des litanies de Marie
 11F111(...)|symboles des litanies (de Marie) (avec TEXTE)
+11F111(CIVITAS DEI)|symboles des litanies de Marie: Civitas Dei
+11F111(ELECTA UT SOL)|symboles des litanies de Marie: Electa ut sol
+11F111(FLOS CAMPI)|symboles des litanies de Marie: Flos campi
+11F111(FONS SIGNATUS)|symboles des litanies de Marie: Fons signatus
+11F111(HORTUS CONCLUSUS)|symboles des litanies de Marie: Hortus conclusus
+11F111(PORTA COELI)|symboles des litanies de Marie: Porta coeli
+11F111(PULCHRA UT LUNA)|symboles des litanies de Marie: Pulchra ut luna
+11F111(ROSA MYSTICA)|symboles des litanies de Marie: Rosa mystica
+11F111(SPECULUM SINE MACULA)|symboles des litanies de Marie: Speculum sine macula
+11F111(STELLA MARIS)|symboles des litanies de Marie: Stella maris
+11F111(STELLA MATUTINA)|symboles des litanies de Marie: Stella matutina
+11F111(TURRIS DAVIDICA)|symboles des litanies de Marie: Turris Davidica
+11F111(TURRIS EBURNEA)|symboles des litanies de Marie: Turris eburnea
 11F112|Marie ou Madone avec symboles de la litanie Laurentienne
 11F12|monogrammes de Marie
 11F13|armoiries de Marie

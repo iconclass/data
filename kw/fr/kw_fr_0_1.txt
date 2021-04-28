@@ -642,33 +642,32 @@
 11F11|symbole
 11F111|dévotion
 11F111|litanie
-11F111(...)|Cité de Dieu
-11F111(...)|Civitas Dei
-11F111(...)|Electa ut Sol
-11F111(...)|Flos Campi
-11F111(...)|Fons Signatus
-11F111(...)|Hortus Conclusus
-11F111(...)|Jardin Clos
-11F111(...)|Porta Coeli
-11F111(...)|Pulchra ut Luna
-11F111(...)|Rosa Mystica
-11F111(...)|Speculum sine Macula
-11F111(...)|Stella Maris
-11F111(...)|Stella Matutina
-11F111(...)|Turris Davidica
-11F111(...)|Turris Eburnea
-11F111(...)|fleur
-11F111(...)|fontaine
-11F111(...)|jardin
-11F111(...)|lune
-11F111(...)|miroir
-11F111(...)|porte
-11F111(...)|rose
-11F111(...)|soleil
-11F111(...)|tour
-11F111(...)|tour d'ivoire
-11F111(...)|ville
-11F111(...)|étoile
+11F111(CIVITAS DEI)|Civitas Dei
+11F111(CIVITAS DEI)|ville
+11F111(ELECTA UT SOL)|Electa ut Sol
+11F111(ELECTA UT SOL)|soleil
+11F111(FLOS CAMPI)|Flos Campi
+11F111(FLOS CAMPI)|fleur
+11F111(FONS SIGNATUS)|Fons Signatus
+11F111(FONS SIGNATUS)|fontaine
+11F111(HORTUS CONCLUSUS)|Hortus Conclusus
+11F111(HORTUS CONCLUSUS)|jardin
+11F111(PORTA COELI)|Porta Coeli
+11F111(PORTA COELI)|porte
+11F111(PULCHRA UT LUNA)|Pulchra ut Luna
+11F111(PULCHRA UT LUNA)|lune
+11F111(ROSA MYSTICA)|Rosa Mystica
+11F111(ROSA MYSTICA)|rose
+11F111(SPECULUM SINE MACULA)|Speculum sine Macula
+11F111(SPECULUM SINE MACULA)|miroir
+11F111(STELLA MARIS)|Stella Maris
+11F111(STELLA MARIS)|étoile
+11F111(STELLA MATUTINA)|Stella Matutina
+11F111(STELLA MATUTINA)|étoile
+11F111(TURRIS DAVIDICA)|Turris Davidica
+11F111(TURRIS DAVIDICA)|tour
+11F111(TURRIS EBURNEA)|Turris Eburnea
+11F111(TURRIS EBURNEA)|tour d'ivoire
 11F112|Litanie Laurentienne
 11F112|Madonna (Vierge avec l'Enfant)
 11F112|litanie

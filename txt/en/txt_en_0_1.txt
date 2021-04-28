@@ -358,7 +358,20 @@
 11F1|symbols and prefigurations of Mary
 11F11|symbols of Mary
 11F111|symbols of Mary from litanies
-11F111(...)|symbols (of Mary) from litanies (with TEXT)
+11F111(...)|symbols of Mary from litanies (with TEXT)
+11F111(CIVITAS DEI)|symbols of Mary from litanies: Civitas Dei
+11F111(ELECTA UT SOL)|symbols of Mary from litanies: Electa ut sol
+11F111(FLOS CAMPI)|symbols of Mary from litanies: Flos campi
+11F111(FONS SIGNATUS)|symbols of Mary from litanies: Fons signatus
+11F111(HORTUS CONCLUSUS)|symbols of Mary from litanies: Hortus conclusus
+11F111(PORTA COELI)|symbols of Mary from litanies: Porta coeli
+11F111(PULCHRA UT LUNA)|symbols of Mary from litanies: Pulchra ut luna
+11F111(ROSA MYSTICA)|symbols of Mary from litanies: Rosa mystica
+11F111(SPECULUM SINE MACULA)|symbols of Mary from litanies: Speculum sine macula
+11F111(STELLA MARIS)|symbols of Mary from litanies: Stella maris
+11F111(STELLA MATUTINA)|symbols of Mary from litanies: Stella matutina
+11F111(TURRIS DAVIDICA)|symbols of Mary from litanies: Turris Davidica
+11F111(TURRIS EBURNEA)|symbols of Mary from litanies: Turris eburnea
 11F112|Mary or Madonna with symbols of the Lauretanian Litany
 11F12|monograms of Mary
 11F13|coat of arms of Mary
