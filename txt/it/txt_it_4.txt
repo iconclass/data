@@ -1317,6 +1317,13 @@
 42D6|ripudiare la moglie
 42D7|amante
 42D71|concubina
+42D8|suoceri
+42D81|suocero  
+42D82|suocera  
+42D83|genero   
+42D84|nuora    
+42D85|cognata  
+42D86|cognato
 42D9|condizione di non coniugati
 42D91|uomo solo, single, celibe
 42D92|donna sola, single, nubile, zitella

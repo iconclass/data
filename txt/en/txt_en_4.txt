@@ -1320,6 +1320,13 @@
 42D6|repudiating one's wife
 42D7|mistress
 42D71|concubine
+42D8|in-laws
+42D81|father-in-law                              
+42D82|mother-in-law                              
+42D83|son-in-law                                 
+42D84|daughter-in-law                            
+42D85|brother-in-law
+42D86|sister-in-law                              
 42D9|being unmarried
 42D91|single man, bachelor
 42D92|single woman, spinster

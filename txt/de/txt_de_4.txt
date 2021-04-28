@@ -1317,6 +1317,13 @@
 42D6|Verstoßung einer Ehefrau
 42D7|Geliebte (eines Ehemanns)
 42D71|Konkubine, Mätresse
+42D8|Schwiegerfamilie
+42D81|Schwiegervater   
+42D82|Schwiegermutter  
+42D83|Schwiegersohn    
+42D84|Schwiegertochter 
+42D85|Schwägerin       
+42D86|Schwager 
 42D9|unverheiratet sein
 42D91|alleinstehender Mann, Junggeselle
 42D92|alleinstehende Frau, alte Jungfer

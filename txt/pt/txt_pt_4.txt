@@ -1243,6 +1243,13 @@
 42D6|repudiando a sua própria mulher
 42D7|amante
 42D71|concubina
+42D8|sogros
+42D81|sogro 
+42D82|sogra 
+42D83|Genro 
+42D84|nora 
+42D85|cunhada 
+42D86|cunhado
 42D9|ser solteiro
 42D91|solteiro
 42D92|solteira

@@ -2415,6 +2415,13 @@
 42D7|Geliebte
 42D71|Konkubine
 42D71|Nebenfrau
+42D8|Schwiegerfamilie
+42D81|Schwiegervater   
+42D82|Schwiegermutter  
+42D83|Schwiegersohn    
+42D84|Schwiegertochter 
+42D85|Schwägerin       
+42D86|Schwager 
 42D9|Single
 42D9|ledig
 42D9|unverheiratet
