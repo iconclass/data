@@ -24244,10 +24244,14 @@
 11P23|Église catholique romaine
 11P24|Église anglicane
 11P25|Protestantisme
-11P25(...)|Quakers
-11P25(...)|Église baptiste
-11P25(...)|Église méthodiste
-11P25(...)|Église wallonne
+11P25(BAPTISTS)|Église baptiste
+11P25(COLLEGIANTS)|Église collégiante
+11P25(METHODISTS)|Église méthodiste
+11P25(PRESBYTERIANS)|Église presbytérienne
+11P25(REMONSTRANTS)|Église remontants
+11P25(REMONSTRANTS)|Église arminiane
+11P25(QUAKERS)|Quakers
+11P25(WALLOON CHURCH)|Église wallonne
 11P250|personnification
 11P251|organisation
 11P251(...)|Mormons

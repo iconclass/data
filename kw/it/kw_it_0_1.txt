@@ -24422,10 +24422,14 @@
 11P23|Chiesa Cattolica Romana
 11P24|Chiesa anglicana
 11P25|Protestantesimo
-11P25(...)|Chiesa Battista
-11P25(...)|Chiesa metodista
-11P25(...)|Chiesa vallone
-11P25(...)|Quaccheri
+11P25(BAPTISTS)|Chiesa battista
+11P25(COLLEGIANTS)|Chiesa collegiante
+11P25(METHODISTS)|Chiesa metodista
+11P25(PRESBYTERIANS)|Chiesa presbiteriana
+11P25(REMONSTRANTS)|Chiesa rimonstrante
+11P25(REMONSTRANTS)|Chiesa arminiana
+11P25(QUAKERS)|Quaccheri
+11P25(WALLOON CHURCH)|Chiese vallone
 11P250|personificazione
 11P251|organizzazione
 11P251(...)|Mormoni

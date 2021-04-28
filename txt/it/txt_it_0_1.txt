@@ -9613,6 +9613,13 @@
 11P24|Chiese cattoliche episcopali non romane, p.es.: anglicana
 11P25|Chiese Protestanti e loro denominazioni
 11P25(...)|Chiese Protestanti (col NOME)
+11P25(BAPTISTS)|Chiese Protestanti: Battisti
+11P25(COLLEGIANTS)|Chiese Protestanti: Collegianti
+11P25(METHODISTS)|Chiese Protestanti: Metodisti
+11P25(PRESBYTERIANS)|Chiese Protestanti: Presbyteriani
+11P25(REMONSTRANTS)|Chiese Protestanti: Remonstranti
+11P25(QUAKERS)|Chiese Protestanti: Quaccheri
+11P25(WALLOON CHURCH)|Chiese Protestanti: Chiesa Vallona
 11P250|allegorie e personificazioni ~ protestantesimo
 11P251|movimenti derivati da Chiese Protestanti
 11P251(...)|movimenti derivati da Chiese Protestanti (col NOME)

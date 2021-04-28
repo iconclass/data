@@ -9613,6 +9613,13 @@
 11P24|Églises épiscopales dérivées de l'Église catholique, p.ex. l'Église anglicane
 11P25|l'Église protestante et ses diverses confessions
 11P25(...)|l'Église protestante et ses diverses confessions (avec NOM)
+11P25(BAPTISTS)|l'Église protestante et ses diverses confessions: Baptistes
+11P25(COLLEGIANTS)|l'Église protestante et ses diverses confessions: Collégiants
+11P25(METHODISTS)|l'Église protestante et ses diverses confessions: Méthodistes
+11P25(PRESBYTERIANS)|l'Église protestante et ses diverses confessions: Presbytériens
+11P25(REMONSTRANTS)|l'Église protestante et ses diverses confessions: Remontants
+11P25(QUAKERS)|l'Église protestante et ses diverses confessions: Quakers
+11P25(WALLOON CHURCH)|l'Église protestante et ses diverses confessions: Église wallonne
 11P250|allégories et personnifications ~ Protestantisme
 11P251|mouvements dérivés de l'Église protestante
 11P251(...)|mouvements dérivés de l'Églises protestante (avec NOM)

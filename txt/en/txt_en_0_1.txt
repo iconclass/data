@@ -9613,6 +9613,13 @@
 11P24|non-Roman Catholic Episcopal Churches, e.g. Anglicans
 11P25|Protestant Churches and denominations
 11P25(...)|Protestant Churches and denominations (with NAME)
+11P25(BAPTISTS)|Protestant Churches and denominations: Baptists
+11P25(COLLEGIANTS)|Protestant Churches and denominations: Collegiants
+11P25(METHODISTS)|Protestant Churches and denominations: Methodists
+11P25(PRESBYTERIANS)|Protestant Churches and denominations: Presbyterians
+11P25(REMONSTRANTS)|Protestant Churches and denominations: Remonstrants
+11P25(QUAKERS)|Protestant Churches and denominations: Quakers
+11P25(WALLOON CHURCH)|Protestant Churches and denominations: Walloon church
 11P250|allegories and personifications ~ Protestantism
 11P251|movements derived from Protestant Churches
 11P251(...)|movements derived from Protestant Churches (with NAME)

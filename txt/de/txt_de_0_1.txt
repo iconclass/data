@@ -9613,6 +9613,13 @@
 11P24|nicht römisch-katholische Episkopalkirchen, z.B. die Anglikaner
 11P25|protestantische Kirchen und Gruppen
 11P25(...)|protestantische Kirchen und Gruppen (mit NAMEN)
+11P25(BAPTISTS)|protestantische Kirchen und Gruppen: Baptisten
+11P25(COLLEGIANTS)|protestantische Kirchen und Gruppen: Collegianten
+11P25(METHODISTS)|protestantische Kirchen und Gruppen: Methodisten
+11P25(PRESBYTERIANS)|protestantische Kirchen und Gruppen: Presbyterianen
+11P25(REMONSTRANTS)|protestantische Kirchen und Gruppen: Remonstranten
+11P25(QUAKERS)|protestantische Kirchen und Gruppen: Quäker
+11P25(WALLOON CHURCH)|protestantische Kirchen und Gruppen: Wallonische Kirche
 11P250|Allegorien und Personifikationen des Protestantismus
 11P251|Bewegungen/Organisationen, die dem Protestantismus entstammen
 11P251(...)|Bewegungen/Organisationen, die dem Protestantismus entstammen (mit NAMEN)

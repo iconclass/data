@@ -23619,10 +23619,14 @@
 11P23|Roman Catholic Church
 11P24|Anglican Church
 11P25|Protestantism
-11P25(...)|Baptist Church
-11P25(...)|Methodist Church
-11P25(...)|Quakers
-11P25(...)|Walloon Church
+11P25(BAPTISTS)|Baptist Church
+11P25(COLLEGIANTS)|Collegiant Church
+11P25(METHODISTS)|Methodist Church
+11P25(PRESBYTERIANS)|Presbyterian Church
+11P25(REMONSTRANTS)|Remonstrant Church
+11P25(REMONSTRANTS)|Arminian Church
+11P25(QUAKERS)|Quaker
+11P25(WALLOON CHURCH)|Walloon Church
 11P250|personification
 11P251|organization
 11P251(...)|Christian Science
