@@ -1995,8 +1995,8 @@
 42D82|belle-mère  
 42D83|gendre      
 42D84|belle-fille 
-42D85|belle-soeur 
-42D86|beau-frère
+42D85|beau-frère
+42D86|belle-soeur 
 42D9|célibataire
 42D91|célibataire (homme)
 42D91|homme

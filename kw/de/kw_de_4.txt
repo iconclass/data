@@ -2420,8 +2420,8 @@
 42D82|Schwiegermutter  
 42D83|Schwiegersohn    
 42D84|Schwiegertochter 
-42D85|Schwägerin       
-42D86|Schwager 
+42D85|Schwager     
+42D86|Schwägerin  
 42D9|Single
 42D9|ledig
 42D9|unverheiratet

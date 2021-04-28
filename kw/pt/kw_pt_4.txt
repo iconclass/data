@@ -1993,8 +1993,8 @@
 42D84|nora 
 42D85|cunhada 
 42D86|cunhado
-42D9|solteira
 42D9|solteiro
+42D9|solteira
 42D91|bacharel
 42D91|cara
 42D92|solteirona

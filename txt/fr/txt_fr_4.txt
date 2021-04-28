@@ -1323,8 +1323,8 @@
 42D82|belle-mère  
 42D83|gendre      
 42D84|belle-fille 
-42D85|belle-soeur 
-42D86|beau-frère
+42D85|beau-frère 
+42D86|belle-soeur
 42D9|être dans le célibat
 42D91|homme seul, célibataire
 42D92|femme seule, célibataire, vieille fille

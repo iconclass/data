@@ -2058,8 +2058,8 @@
 42D82|suocera  
 42D83|genero   
 42D84|nuora    
-42D85|cognata  
-42D86|cognato
+42D85|cognato  
+42D86|cognata
 42D9|celibe
 42D9|non sposato/a
 42D9|nubile
