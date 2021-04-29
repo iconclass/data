@@ -103,6 +103,22 @@
 11D13|altri simboli di Cristo
 11D131|simboli di Cristo ~ animali
 11D1311|agnello (con la croce o il vessillo), 'Agnus Dei' ~ simbolo di Cristo
+11D1312|simboli di Cristo ~ uccelli
+11D13121|colomba come simbolo di Cristo
+11D13122|aquila come simbolo di Cristo
+11D13123|pavone come simbolo di Cristo
+11D13124|pellicano come simbolo di Cristo
+11D1313|simboli di Cristo ~ mammiferi
+11D13131|daino come simbolo di Cristo
+11D13132|delfino come simbolo di Cristo
+11D13133|lepre come simbolo di Cristo
+11D13134|leone come simbolo di Cristo
+11D1314|simboli di Cristo ~ insetti
+11D13141|scarabeo come simbolo di Cristo
+11D1315|simboli di Cristo ~ animali fantastici
+11D13151|grifone come simbolo di Cristo
+11D13152|fenice come simbolo di Cristo
+11D13153|unicorno come simbolo di Cristo
 11D132|simboli di Cristo ~ piante
 11D133|simboli di Cristo ~ oggetti
 11D1331|'Etimasia', il trono di Cristo, vuoto, con il libro della vita
@@ -343,6 +359,19 @@
 11F11|simboli di Maria Vergine
 11F111|simboli di Maria Vergine dalle litanie
 11F111(...)|simboli di Maria Vergine dalle litanie (con il TESTO)
+11F111(CIVITAS DEI)|simboli di Maria Vergine dalle litanie: Civitas Dei
+11F111(ELECTA UT SOL)|simboli di Maria Vergine dalle litanie: Electa ut sol
+11F111(FLOS CAMPI)|simboli di Maria Vergine dalle litanie: Flos campi
+11F111(FONS SIGNATUS)|simboli di Maria Vergine dalle litanie: Fons signatus
+11F111(HORTUS CONCLUSUS)|simboli di Maria Vergine dalle litanie: Hortus conclusus
+11F111(PORTA COELI)|simboli di Maria Vergine dalle litanie: Porta coeli
+11F111(PULCHRA UT LUNA)|simboli di Maria Vergine dalle litanie: Pulchra ut luna
+11F111(ROSA MYSTICA)|simboli di Maria Vergine dalle litanie: Rosa mystica
+11F111(SPECULUM SINE MACULA)|simboli di Maria Vergine dalle litanie: Speculum sine macula
+11F111(STELLA MARIS)|simboli di Maria Vergine dalle litanie: Stella maris
+11F111(STELLA MATUTINA)|simboli di Maria Vergine dalle litanie: Stella matutina
+11F111(TURRIS DAVIDICA)|simboli di Maria Vergine dalle litanie: Turris Davidica
+11F111(TURRIS EBURNEA)|simboli di Maria Vergine dalle litanie: Turris eburnea
 11F112|Maria Vergine o Madonna con Bambino e simboli delle Litanie Lauretane
 11F12|monogrammi di Maria Vergine
 11F13|blasoni di Maria Vergine
@@ -9584,6 +9613,13 @@
 11P24|Chiese cattoliche episcopali non romane, p.es.: anglicana
 11P25|Chiese Protestanti e loro denominazioni
 11P25(...)|Chiese Protestanti (col NOME)
+11P25(BAPTISTS)|Chiese Protestanti: Battisti
+11P25(COLLEGIANTS)|Chiese Protestanti: Collegianti
+11P25(METHODISTS)|Chiese Protestanti: Metodisti
+11P25(PRESBYTERIANS)|Chiese Protestanti: Presbyteriani
+11P25(REMONSTRANTS)|Chiese Protestanti: Remonstranti
+11P25(QUAKERS)|Chiese Protestanti: Quaccheri
+11P25(WALLOON CHURCH)|Chiese Protestanti: Chiesa Vallona
 11P250|allegorie e personificazioni ~ protestantesimo
 11P251|movimenti derivati da Chiese Protestanti
 11P251(...)|movimenti derivati da Chiese Protestanti (col NOME)

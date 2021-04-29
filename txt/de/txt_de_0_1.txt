@@ -103,6 +103,22 @@
 11D13|(andere) Christussymbole
 11D131|Christussymbole aus der Tierwelt
 11D1311|das Lamm trägt das Kreuz oder das Kreuzbanner, Agnus Dei als Christussymbol
+11D1312|Christussymbole ~ Vögel
+11D13121|Taube als Christussymbol
+11D13122|Adler als Christussymbol
+11D13123|Pfau als Christussymbol
+11D13124|Pelikan als Christussymbol
+11D1313|Christussymbole ~ Saügetiere
+11D13131|Reh als Christussymbol
+11D13132|Delphin als Christussymbol
+11D13133|Hase als Christussymbol
+11D13134|Löwe als Christussymbol
+11D1314|Christussymbole ~ Insekten
+11D13141|Skarabäus als Christussymbol
+11D1315|Christussymbole ~ Fabeltiere
+11D13151|Greif als Christussymbol
+11D13152|Phönix als Christussymbol
+11D13153|Einhorn als Christussymbol
 11D132|Christussymbole aus der Flora
 11D133|Gegenstände als Christussymbole
 11D1331|Etimasia, leerer Thron mit dem Buch des Lebens (für Christus vorbereitet)
@@ -342,7 +358,20 @@
 11F1|Symbole und Präfigurationen Marias
 11F11|Mariensymbole
 11F111|Mariensymbole aus Litaneien
-11F111(...)|symbols (of Mary) from litanies (with TEXT)
+11F111(...)|Mariensymbole aus Litaneien (mit TEXT)
+11F111(CIVITAS DEI)|Mariensymbole aus Litaneien: Civitas Dei
+11F111(ELECTA UT SOL)|Mariensymbole aus Litaneien: Electa ut sol
+11F111(FLOS CAMPI)|Mariensymbole aus Litaneien: Flos campi
+11F111(FONS SIGNATUS)|Mariensymbole aus Litaneien: Fons signatus
+11F111(HORTUS CONCLUSUS)|Mariensymbole aus Litaneien: Hortus conclusus
+11F111(PORTA COELI)|Mariensymbole aus Litaneien: Porta coeli
+11F111(PULCHRA UT LUNA)|Mariensymbole aus Litaneien: Pulchra ut luna
+11F111(ROSA MYSTICA)|Mariensymbole aus Litaneien: Rosa mystica
+11F111(SPECULUM SINE MACULA)|Mariensymbole aus Litaneien: Speculum sine macula
+11F111(STELLA MARIS)|Mariensymbole aus Litaneien: Stella maris
+11F111(STELLA MATUTINA)|Mariensymbole aus Litaneien: Stella matutina
+11F111(TURRIS DAVIDICA)|Mariensymbole aus Litaneien: Turris Davidica
+11F111(TURRIS EBURNEA)|Mariensymbole aus Litaneien: Turris eburnea
 11F112|Maria (mit oder ohne Kind) mit Symbolen aus der Lauretanischen Litanei
 11F12|Marienmonogramme
 11F13|Marienwappen
@@ -9584,6 +9613,13 @@
 11P24|nicht römisch-katholische Episkopalkirchen, z.B. die Anglikaner
 11P25|protestantische Kirchen und Gruppen
 11P25(...)|protestantische Kirchen und Gruppen (mit NAMEN)
+11P25(BAPTISTS)|protestantische Kirchen und Gruppen: Baptisten
+11P25(COLLEGIANTS)|protestantische Kirchen und Gruppen: Collegianten
+11P25(METHODISTS)|protestantische Kirchen und Gruppen: Methodisten
+11P25(PRESBYTERIANS)|protestantische Kirchen und Gruppen: Presbyterianen
+11P25(REMONSTRANTS)|protestantische Kirchen und Gruppen: Remonstranten
+11P25(QUAKERS)|protestantische Kirchen und Gruppen: Quäker
+11P25(WALLOON CHURCH)|protestantische Kirchen und Gruppen: Wallonische Kirche
 11P250|Allegorien und Personifikationen des Protestantismus
 11P251|Bewegungen/Organisationen, die dem Protestantismus entstammen
 11P251(...)|Bewegungen/Organisationen, die dem Protestantismus entstammen (mit NAMEN)

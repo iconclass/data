@@ -844,6 +844,7 @@
 25F31|gruppi di uccelli
 25F32|uccelli canori
 25F32(...)|uccelli canori (col NOME)
+25F32(BLACKBIRD)|uccelli canori: merla
 25F32(CROW)|uccelli canori: corvo
 25F32(FINCH)|uccelli canori: fringuello
 25F32(GOLDFINCH)|uccelli canori: cardellino
@@ -1068,58 +1069,58 @@
 25FF2|animali fantastici ~ mammiferi
 25FF21|animali fantastici ~ animali domestici
 25FF22|animali fantastici ~ scimmie
-25FF22(...)|scimmie, scimmie antropomorfe (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF22(BABOON)|scimmie, scimmie antropomorfe: babbuino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF22(...)|scimmie, scimmie antropomorfe (col NOME) - FF - animali fantastici
+25FF22(BABOON)|scimmie, scimmie antropomorfe: babbuino - FF - animali fantastici
 25FF23|animali fantastici ~ predatori
 25FF23(...)|animali fantastici ~ predatori (col NOME)
-25FF23(BADGER)|predatori, rapaci: tasso - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(BEAR)|predatori, rapaci: orso - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(CHEETAH)|predatori, rapaci: ghepardo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF23(BADGER)|predatori, rapaci: tasso - FF - animali fantastici
+25FF23(BEAR)|predatori, rapaci: orso - FF - animali fantastici
+25FF23(CHEETAH)|predatori, rapaci: ghepardo - FF - animali fantastici
 25FF23(CROCOTAS)|animali fantastici ~ predatori: crocota
-25FF23(ERMINE)|predatori, rapaci: ermellino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(FERRET)|predatori, rapaci: furetto - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(FOX)|predatori, rapaci: volpe - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(HYENA)|predatori, rapaci: iena - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(ICHNEUMON)|predatori, rapaci: icneumone - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(LEOPARD)|predatori, rapaci: leopardo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(LION)|predatori, rapaci: leone - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(LYNX)|predatori, rapaci: lince - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(MANGOUSTE)|predatori, rapaci: mangusta - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(MARTEN)|predatori, rapaci: martora - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(OTTER)|predatori, rapaci: lontra - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(PANTHER)|predatori, rapaci: pantera - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(SABLE)|predatori, rapaci: zibellino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(TIGER)|predatori, rapaci: tigre - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(WEASEL)|predatori, rapaci: donnola - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF23(WOLF)|predatori, rapaci: lupo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF23(ERMINE)|predatori, rapaci: ermellino - FF - animali fantastici
+25FF23(FERRET)|predatori, rapaci: furetto - FF - animali fantastici
+25FF23(FOX)|predatori, rapaci: volpe - FF - animali fantastici
+25FF23(HYENA)|predatori, rapaci: iena - FF - animali fantastici
+25FF23(ICHNEUMON)|predatori, rapaci: icneumone - FF - animali fantastici
+25FF23(LEOPARD)|predatori, rapaci: leopardo - FF - animali fantastici
+25FF23(LION)|predatori, rapaci: leone - FF - animali fantastici
+25FF23(LYNX)|predatori, rapaci: lince - FF - animali fantastici
+25FF23(MANGOUSTE)|predatori, rapaci: mangusta - FF - animali fantastici
+25FF23(MARTEN)|predatori, rapaci: martora - FF - animali fantastici
+25FF23(OTTER)|predatori, rapaci: lontra - FF - animali fantastici
+25FF23(PANTHER)|predatori, rapaci: pantera - FF - animali fantastici
+25FF23(SABLE)|predatori, rapaci: zibellino - FF - animali fantastici
+25FF23(TIGER)|predatori, rapaci: tigre - FF - animali fantastici
+25FF23(WEASEL)|predatori, rapaci: donnola - FF - animali fantastici
+25FF23(WOLF)|predatori, rapaci: lupo - FF - animali fantastici
 25FF231|grifone (leone/aquila); 'Griffo' (Ripa)
 25FF232|Chimera (leone /capra/serpente); 'Chimera' (Ripa)
 25FF233|iena, capace di cambiare sesso
 25FF24|animali fantastici ~ ungulati
 25FF24(...)|animali fantastici ~ ungulati (col NOME)
-25FF24(ANTELOPE)|ungulati: antilope - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(BISON)|ungulati: bisonte - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(BOAR)|ungulati: cinghiale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF24(ANTELOPE)|ungulati: antilope - FF - animali fantastici
+25FF24(BISON)|ungulati: bisonte - FF - animali fantastici
+25FF24(BOAR)|ungulati: cinghiale - FF - animali fantastici
 25FF24(BONNACON)|animali fantastici ~ ungulati: bonnacon
-25FF24(CAMEL)|ungulati: cammello - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF24(CAMEL)|ungulati: cammello - FF - animali fantastici
 25FF24(CATOBLEPAS)|animali fantastici ~ ungulati: catoblepa
-25FF24(DEER)|ungulati: daino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(DROMEDARY)|ungulati: dromedario - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(ELK)|ungulati: alce - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(GAZELLE)|ungulati: gazzella - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(GIRAFFE)|ungulati: giraffa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(GNU)|ungulati: gnu - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(HIPPOPOTAMUS)|ungulati: ippopotamo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(IBEX)|ungulati: stambecco - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(MUSK-DEER)|ungulati: mosco - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(ONAGER)|ungulati: onagro - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(ORYX)|ungulati: orice - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF24(DEER)|ungulati: daino - FF - animali fantastici
+25FF24(DROMEDARY)|ungulati: dromedario - FF - animali fantastici
+25FF24(ELK)|ungulati: alce - FF - animali fantastici
+25FF24(GAZELLE)|ungulati: gazzella - FF - animali fantastici
+25FF24(GIRAFFE)|ungulati: giraffa - FF - animali fantastici
+25FF24(GNU)|ungulati: gnu - FF - animali fantastici
+25FF24(HIPPOPOTAMUS)|ungulati: ippopotamo - FF - animali fantastici
+25FF24(IBEX)|ungulati: stambecco - FF - animali fantastici
+25FF24(MUSK-DEER)|ungulati: mosco - FF - animali fantastici
+25FF24(ONAGER)|ungulati: onagro - FF - animali fantastici
+25FF24(ORYX)|ungulati: orice - FF - animali fantastici
 25FF24(OX WITH ONE HORN)|animali fantastici ~ ungulati: bue con un corno
 25FF24(OX WITH THREE HORNS)|animali fantastici ~ ungulati: bue con tre corna
 25FF24(PEGASUS)|animali fantastici ~ ungulati : Usare 93 D 1 Pegaso, il cavallo alato, o 25 FF (WINGED HORSE) per cavallo alato (in contesto non classico)
-25FF24(QUAGGA)|ungulati: quagga - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(RHINOCEROS)|ungulati: rinoceronte - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF24(STAG)|ungulati: cervo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF24(QUAGGA)|ungulati: quagga - FF - animali fantastici
+25FF24(RHINOCEROS)|ungulati: rinoceronte - FF - animali fantastici
+25FF24(STAG)|ungulati: cervo - FF - animali fantastici
 25FF24(WINGED HORSE)|animali fantastici ~ ungulati: cavallo alato
 25FF241|unicorno
 25FF2411|unicorno catturato da una vergine, 'Chasse à la licorne'
@@ -1132,33 +1133,33 @@
 25FF246|eale, 'éale'
 25FF2461|'centicore'
 25FF25|animali fantastici ~ proboscidati
-25FF25(...)|proboscidati (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF25(ELEPHANT)|proboscidati: elefante - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF25(...)|proboscidati (col NOME) - FF - animali fantastici
+25FF25(ELEPHANT)|proboscidati: elefante - FF - animali fantastici
 25FF26|animali fantastici ~ roditori
-25FF26(...)|roditori (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(BEAVER)|roditori: castoro - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(HARE)|roditori: lepre - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(MOUSE)|roditori: topo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(MUSK-RAT)|roditori: topo muschiato - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(RABBIT)|roditori: coniglio - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(RAT)|roditori: ratto - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(SQUIRREL)|roditori: scoiattolo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF26(WOMBAT)|roditori: vombato - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF26(...)|roditori (col NOME) - FF - animali fantastici
+25FF26(BEAVER)|roditori: castoro - FF - animali fantastici
+25FF26(HARE)|roditori: lepre - FF - animali fantastici
+25FF26(MOUSE)|roditori: topo - FF - animali fantastici
+25FF26(MUSK-RAT)|roditori: topo muschiato - FF - animali fantastici
+25FF26(RABBIT)|roditori: coniglio - FF - animali fantastici
+25FF26(RAT)|roditori: ratto - FF - animali fantastici
+25FF26(SQUIRREL)|roditori: scoiattolo - FF - animali fantastici
+25FF26(WOMBAT)|roditori: vombato - FF - animali fantastici
 25FF27|animali fantastici ~ mammiferi acquiatici
-25FF27(...)|mammiferi acquatici (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF27(DOLPHIN)|mammiferi acquatici: delfino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF27(SEAL)|mammiferi acquatici: foca - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF27(WHALE)|mammiferi acquatici: balena - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF27(...)|mammiferi acquatici (col NOME) - FF - animali fantastici
+25FF27(DOLPHIN)|mammiferi acquatici: delfino - FF - animali fantastici
+25FF27(SEAL)|mammiferi acquatici: foca - FF - animali fantastici
+25FF27(WHALE)|mammiferi acquatici: balena - FF - animali fantastici
 25FF28|animali fantastici ~ volatili mammiferi
-25FF28(...)|mammiferi volatili, chirotteri (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF28(BAT)|mammiferi volatili, chirotteri: pipistrello - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF28(...)|mammiferi volatili, chirotteri (col NOME) - FF - animali fantastici
+25FF28(BAT)|mammiferi volatili, chirotteri: pipistrello - FF - animali fantastici
 25FF29|animali fantastici ~ altri mammiferi
 25FF29(...)|animali fantastici ~ altri mammiferi (col NOME)
-25FF29(ARMADILLO)|altri mammiferi: armadillo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF29(HEDGEHOG)|altri mammiferi: istrice - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF29(ARMADILLO)|altri mammiferi: armadillo - FF - animali fantastici
+25FF29(HEDGEHOG)|altri mammiferi: istrice - FF - animali fantastici
 25FF29(LERTIX)|animali fantastici ~ altri mammiferi: lertix
-25FF29(MOLE)|altri mammiferi: talpa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF29(PORCUPINE)|altri mammiferi: porcospino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF29(MOLE)|altri mammiferi: talpa - FF - animali fantastici
+25FF29(PORCUPINE)|altri mammiferi: porcospino - FF - animali fantastici
 25FF3|animali fantastici ~ uccelli
 25FF3(...)|animali fantastici ~ uccelli (col NOME)
 25FF3(AVALERION)|animali fantastici ~ uccelli: avalerion
@@ -1177,96 +1178,96 @@
 25FF311|basilisco (gallo con la parte posteriore di serpente)
 25FF312|coccatrice, un drago a due zampe con la testa di un gallo
 25FF32|animali fantastici ~ uccelli canori
-25FF32(...)|uccelli canori (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(CROW)|uccelli canori: corvo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(FINCH)|uccelli canori: fringuello - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(GOLDFINCH)|uccelli canori: cardellino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(JACKDAW)|uccelli canori: cornacchia - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(LARK)|uccelli canori: allodola - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(MAGPIE)|uccelli canori: gazza - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(NIGHTINGALE)|uccelli canori: usignolo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(RAVEN)|uccelli canori: corvo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(ROBIN)|uccelli canori: pettirosso - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(SPARROW)|uccelli canori: passero - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(STARLING)|uccelli canori: storno - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(SWALLOW)|uccelli canori: rondine - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(THRUSH)|uccelli canori: tordo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(WAGTAIL)|uccelli canori: cutrettola - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(WARBLER)|uccelli canori: warbler (embarizidi passeriformi) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(WHITE THROAT)|uccelli canori: silvia - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF32(WREN)|uccelli canori: scricciolo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF32(...)|uccelli canori (col NOME) - FF - animali fantastici
+25FF32(CROW)|uccelli canori: corvo - FF - animali fantastici
+25FF32(FINCH)|uccelli canori: fringuello - FF - animali fantastici
+25FF32(GOLDFINCH)|uccelli canori: cardellino - FF - animali fantastici
+25FF32(JACKDAW)|uccelli canori: cornacchia - FF - animali fantastici
+25FF32(LARK)|uccelli canori: allodola - FF - animali fantastici
+25FF32(MAGPIE)|uccelli canori: gazza - FF - animali fantastici
+25FF32(NIGHTINGALE)|uccelli canori: usignolo - FF - animali fantastici
+25FF32(RAVEN)|uccelli canori: corvo - FF - animali fantastici
+25FF32(ROBIN)|uccelli canori: pettirosso - FF - animali fantastici
+25FF32(SPARROW)|uccelli canori: passero - FF - animali fantastici
+25FF32(STARLING)|uccelli canori: storno - FF - animali fantastici
+25FF32(SWALLOW)|uccelli canori: rondine - FF - animali fantastici
+25FF32(THRUSH)|uccelli canori: tordo - FF - animali fantastici
+25FF32(WAGTAIL)|uccelli canori: cutrettola - FF - animali fantastici
+25FF32(WARBLER)|uccelli canori: warbler (embarizidi passeriformi) - FF - animali fantastici
+25FF32(WHITE THROAT)|uccelli canori: silvia - FF - animali fantastici
+25FF32(WREN)|uccelli canori: scricciolo - FF - animali fantastici
 25FF33|animali fantastici ~ uccelli predatori
-25FF33(...)|uccelli rapaci (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33(EAGLE)|uccelli rapaci: aquila - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33(FALCON)|uccelli rapaci: falcone - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33(FISH-HAWK)|uccelli rapaci: falco pescatore - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33(HAWK)|uccelli rapaci: falco - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33(KITE)|uccelli rapaci: nibbio - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33(SPARROW-HAWK)|uccelli rapaci: sparviero - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF33(VULTURE)|uccelli rapaci: avvoltoio - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF33(...)|uccelli rapaci (col NOME) - FF - animali fantastici
+25FF33(EAGLE)|uccelli rapaci: aquila - FF - animali fantastici
+25FF33(FALCON)|uccelli rapaci: falcone - FF - animali fantastici
+25FF33(FISH-HAWK)|uccelli rapaci: falco pescatore - FF - animali fantastici
+25FF33(HAWK)|uccelli rapaci: falco - FF - animali fantastici
+25FF33(KITE)|uccelli rapaci: nibbio - FF - animali fantastici
+25FF33(SPARROW-HAWK)|uccelli rapaci: sparviero - FF - animali fantastici
+25FF33(VULTURE)|uccelli rapaci: avvoltoio - FF - animali fantastici
 25FF331|volpoca
 25FF332|aquila a due teste
 25FF34|animali fantastici ~ strigiformi
 25FF35|animali fantastici ~ uccelli ornamentali
-25FF35(...)|uccelli ornamentali (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF35(BIRD OF PARADISE)|uccelli ornamentali: uccello del paradiso - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF35(HORNBILL)|uccelli ornamentali: bucero - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF35(PARROT)|uccelli ornamentali: pappagallo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF35(PEACOCK)|uccelli ornamentali: pavone - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF35(...)|uccelli ornamentali (col NOME) - FF - animali fantastici
+25FF35(BIRD OF PARADISE)|uccelli ornamentali: uccello del paradiso - FF - animali fantastici
+25FF35(HORNBILL)|uccelli ornamentali: bucero - FF - animali fantastici
+25FF35(PARROT)|uccelli ornamentali: pappagallo - FF - animali fantastici
+25FF35(PEACOCK)|uccelli ornamentali: pavone - FF - animali fantastici
 25FF36|animali fantastici ~ uccelli acquatici
-25FF36(...)|uccelli acquatici (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36(COOT)|uccelli acquatici: folaga - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36(DIPPER)|uccelli acquatici: merlo acquaiolo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36(DUCK)|uccelli acquatici: anatra - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36(GOOSE)|uccelli acquatici: oca - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36(PELICAN)|uccelli acquatici: pellicano - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36(SWAMP-HEN)|uccelli acquatici: pollosultano - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF36(SWAN)|uccelli acquatici: cigno - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF36(...)|uccelli acquatici (col NOME) - FF - animali fantastici
+25FF36(COOT)|uccelli acquatici: folaga - FF - animali fantastici
+25FF36(DIPPER)|uccelli acquatici: merlo acquaiolo - FF - animali fantastici
+25FF36(DUCK)|uccelli acquatici: anatra - FF - animali fantastici
+25FF36(GOOSE)|uccelli acquatici: oca - FF - animali fantastici
+25FF36(PELICAN)|uccelli acquatici: pellicano - FF - animali fantastici
+25FF36(SWAMP-HEN)|uccelli acquatici: pollosultano - FF - animali fantastici
+25FF36(SWAN)|uccelli acquatici: cigno - FF - animali fantastici
 25FF37|animali fantastici ~ caradri e trampolieri
-25FF37(...)|caradri e trampolieri (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(BITTERN)|caradri e trampolieri: tarabuso - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(CRANE)|caradri e trampolieri: gru - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(GULL)|caradri e trampolieri: gabbiano - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(HERON)|caradri e trampolieri: airone - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(IBIS)|caradri e trampolieri: ibis - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(LAPWING)|caradri e trampolieri: pavoncella - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(MARABOU)|caradri e trampolieri: marabù - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(PLOVER)|caradri e trampolieri: piviere - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(PURPLE WATER-HEN)|caradri e trampolieri: gallinella d'acqua - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(SNIPE)|caradri e trampolieri: beccaccino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(STORK)|caradri e trampolieri: cicogna - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(TROCHILUS)|caradri e trampolieri: piviere - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF37(WOODCOCK)|caradri e trampolieri: beccaccia - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF37(...)|caradri e trampolieri (col NOME) - FF - animali fantastici
+25FF37(BITTERN)|caradri e trampolieri: tarabuso - FF - animali fantastici
+25FF37(CRANE)|caradri e trampolieri: gru - FF - animali fantastici
+25FF37(GULL)|caradri e trampolieri: gabbiano - FF - animali fantastici
+25FF37(HERON)|caradri e trampolieri: airone - FF - animali fantastici
+25FF37(IBIS)|caradri e trampolieri: ibis - FF - animali fantastici
+25FF37(LAPWING)|caradri e trampolieri: pavoncella - FF - animali fantastici
+25FF37(MARABOU)|caradri e trampolieri: marabù - FF - animali fantastici
+25FF37(PLOVER)|caradri e trampolieri: piviere - FF - animali fantastici
+25FF37(PURPLE WATER-HEN)|caradri e trampolieri: gallinella d'acqua - FF - animali fantastici
+25FF37(SNIPE)|caradri e trampolieri: beccaccino - FF - animali fantastici
+25FF37(STORK)|caradri e trampolieri: cicogna - FF - animali fantastici
+25FF37(TROCHILUS)|caradri e trampolieri: piviere - FF - animali fantastici
+25FF37(WOODCOCK)|caradri e trampolieri: beccaccia - FF - animali fantastici
 25FF371|'caladrius', 'caradrio' (uccello favoloso)
 25FF38|animali fantastici ~ colombiformi e rallidi
-25FF38(...)|colombiformi e rallidi (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF38(BUSTARD)|colombiformi e rallidi: ottarda - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF38(OSTRICH)|colombiformi e rallidi: struzzo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF38(PARTRIDGE)|colombiformi e rallidi: pernice - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF38(PHEASANT)|colombiformi e rallidi: fagiano - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF38(QUAIL)|colombiformi e rallidi: quaglia - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF38(TURKEY)|colombiformi e rallidi: tacchino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF38(...)|colombiformi e rallidi (col NOME) - FF - animali fantastici
+25FF38(BUSTARD)|colombiformi e rallidi: ottarda - FF - animali fantastici
+25FF38(OSTRICH)|colombiformi e rallidi: struzzo - FF - animali fantastici
+25FF38(PARTRIDGE)|colombiformi e rallidi: pernice - FF - animali fantastici
+25FF38(PHEASANT)|colombiformi e rallidi: fagiano - FF - animali fantastici
+25FF38(QUAIL)|colombiformi e rallidi: quaglia - FF - animali fantastici
+25FF38(TURKEY)|colombiformi e rallidi: tacchino - FF - animali fantastici
 25FF39|altri uccelli
-25FF39(...)|altri uccelli (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(CUCKOO)|altri uccelli: cuculo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(DODO)|altri uccelli: dodo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(DOVE)|altri uccelli: colomba - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(HOOPOE)|altri uccelli: upupa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(HUMMING-BIRD)|altri uccelli: colibrì - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(KINGFISHER)|altri uccelli: martin pescatore - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(TURTLE DOVE)|altri uccelli: tortora - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(WOODPECKER)|altri uccelli: picchio - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF39(WRYNECK)|altri uccelli: torcicollo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF39(...)|altri uccelli (col NOME) - FF - animali fantastici
+25FF39(CUCKOO)|altri uccelli: cuculo - FF - animali fantastici
+25FF39(DODO)|altri uccelli: dodo - FF - animali fantastici
+25FF39(DOVE)|altri uccelli: colomba - FF - animali fantastici
+25FF39(HOOPOE)|altri uccelli: upupa - FF - animali fantastici
+25FF39(HUMMING-BIRD)|altri uccelli: colibrì - FF - animali fantastici
+25FF39(KINGFISHER)|altri uccelli: martin pescatore - FF - animali fantastici
+25FF39(TURTLE DOVE)|altri uccelli: tortora - FF - animali fantastici
+25FF39(WOODPECKER)|altri uccelli: picchio - FF - animali fantastici
+25FF39(WRYNECK)|altri uccelli: torcicollo - FF - animali fantastici
 25FF4|animali fantastici ~ rettili
 25FF41|animali fantastici ~ lacertidi
-25FF41(...)|lacertidi (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF41(CHAMELEON)|lacertidi: camaleonte - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF41(LIZARD)|lacertidi: lucertola - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF41(...)|lacertidi (col NOME) - FF - animali fantastici
+25FF41(CHAMELEON)|lacertidi: camaleonte - FF - animali fantastici
+25FF41(LIZARD)|lacertidi: lucertola - FF - animali fantastici
 25FF411|drago
 25FF412|salamandra (animale fantastico); la salamandra come spirito del fuoco
 25FF42|animali fantastici ~ serpenti (aspide, drago, hidrus, ecc.)
-25FF42(...)|serpenti (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF42(VIPER)|serpenti: vipera - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF42(...)|serpenti (col NOME) - FF - animali fantastici
+25FF42(VIPER)|serpenti: vipera - FF - animali fantastici
 25FF421|aspide
 25FF422|drago (grande serpente favoloso, talvolta con ali e zampe)
 25FF423|'hydrus' (serpente d'acqua)
@@ -1275,132 +1276,132 @@
 25FF425|vipera cornuta
 25FF4251|cerasta
 25FF43|animali fantastici ~ coccodrilli
-25FF43(...)|coccodrilli (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF43(ALLIGATOR)|coccodrilli: alligatore - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF43(CROCODILE)|coccodrilli: coccodrillo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF43(...)|coccodrilli (col NOME) - FF - animali fantastici
+25FF43(ALLIGATOR)|coccodrilli: alligatore - FF - animali fantastici
+25FF43(CROCODILE)|coccodrilli: coccodrillo - FF - animali fantastici
 25FF44|animali fantastici ~ tartarughe
 25FF5|animali fantastici ~ anfibi
 25FF51|animali fantastici ~ anfibi anuri
-25FF51(...)|anfibi anuri (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF51(FROG)|anfibi anuri: rana - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF51(TOAD)|anfibi anuri: rospo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF51(...)|anfibi anuri (col NOME) - FF - animali fantastici
+25FF51(FROG)|anfibi anuri: rana - FF - animali fantastici
+25FF51(TOAD)|anfibi anuri: rospo - FF - animali fantastici
 25FF52|animali fantastici ~ anfibi urodeli
-25FF52(...)|anfibi urodeli (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF52(...)|anfibi urodeli (col NOME) - FF - animali fantastici
 25FF6|animali fantastici ~ pesci
 25FF61|leviatano (pesce fantastico)
-25FF61(...)|condritti (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF61(DOGFISH)|condritti: pescecane - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF61(RAY)|condritti: razza - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF61(SAWFISH)|condritti: pesce sega - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF61(SHARK)|condritti: squalo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF61(...)|condritti (col NOME) - FF - animali fantastici
+25FF61(DOGFISH)|condritti: pescecane - FF - animali fantastici
+25FF61(RAY)|condritti: razza - FF - animali fantastici
+25FF61(SAWFISH)|condritti: pesce sega - FF - animali fantastici
+25FF61(SHARK)|condritti: squalo - FF - animali fantastici
 25FF62|cavallo marino, ippocampo (mostro mitologico ibrido)
-25FF62(...)|osteitti (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(BARBEL)|osteitti: barbio - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(BUTTERFISH)|osteitti: butterfish (peprilus triachantus) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(CARP)|osteitti: carpa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(HERRING)|osteitti: aringa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(HIPPOCAMPUS)|osteitti: ippocampo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(LUNGFISH)|osteitti: dipnoo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(MACKEREL)|osteitti: maccarello - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(MULLET)|osteitti: triglia - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(PIKE)|osteitti: luccio - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(PILOT-FISH)|osteitti: pesce pilota - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(RED HERRING)|aringa rossa o aringa affumicata : Usare 41 C 68 (SMOKED HERRING); aringa : Usare 25 F 62 (HERRING) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(ROACH)|osteitti: lasca - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SALMON)|osteitti: salmone - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SARDINE)|osteitti: sardina - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SCARUS)|osteitti: scaro (pesce pappagallo) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SEA-BREAM)|osteitti: pagello - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SEA-DEVIL)|osteitti: razza - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SEA-PERCH)|osteitti: pesce persico - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SEA-WOLF)|osteitti: pesce lupo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SHEAT-FISH)|osteitti: siluro d'Europa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(STURGEON)|osteitti: storione - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SUN-FISH)|osteitti: pesce luna - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(SWORD-FISH)|osteitti: pescespada - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(TUNNY)|osteitti: tonno - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF62(WEEVER)|osteitti: trachino - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF62(...)|osteitti (col NOME) - FF - animali fantastici
+25FF62(BARBEL)|osteitti: barbio - FF - animali fantastici
+25FF62(BUTTERFISH)|osteitti: butterfish (peprilus triachantus) - FF - animali fantastici
+25FF62(CARP)|osteitti: carpa - FF - animali fantastici
+25FF62(HERRING)|osteitti: aringa - FF - animali fantastici
+25FF62(HIPPOCAMPUS)|osteitti: ippocampo - FF - animali fantastici
+25FF62(LUNGFISH)|osteitti: dipnoo - FF - animali fantastici
+25FF62(MACKEREL)|osteitti: maccarello - FF - animali fantastici
+25FF62(MULLET)|osteitti: triglia - FF - animali fantastici
+25FF62(PIKE)|osteitti: luccio - FF - animali fantastici
+25FF62(PILOT-FISH)|osteitti: pesce pilota - FF - animali fantastici
+25FF62(RED HERRING)|aringa rossa o aringa affumicata : Usare 41 C 68 (SMOKED HERRING); aringa : Usare 25 F 62 (HERRING) - FF - animali fantastici
+25FF62(ROACH)|osteitti: lasca - FF - animali fantastici
+25FF62(SALMON)|osteitti: salmone - FF - animali fantastici
+25FF62(SARDINE)|osteitti: sardina - FF - animali fantastici
+25FF62(SCARUS)|osteitti: scaro (pesce pappagallo) - FF - animali fantastici
+25FF62(SEA-BREAM)|osteitti: pagello - FF - animali fantastici
+25FF62(SEA-DEVIL)|osteitti: razza - FF - animali fantastici
+25FF62(SEA-PERCH)|osteitti: pesce persico - FF - animali fantastici
+25FF62(SEA-WOLF)|osteitti: pesce lupo - FF - animali fantastici
+25FF62(SHEAT-FISH)|osteitti: siluro d'Europa - FF - animali fantastici
+25FF62(STURGEON)|osteitti: storione - FF - animali fantastici
+25FF62(SUN-FISH)|osteitti: pesce luna - FF - animali fantastici
+25FF62(SWORD-FISH)|osteitti: pescespada - FF - animali fantastici
+25FF62(TUNNY)|osteitti: tonno - FF - animali fantastici
+25FF62(WEEVER)|osteitti: trachino - FF - animali fantastici
 25FF63|pistrice, drago marino
-25FF63(...)|anguilliformi (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF63(EEL)|anguilliformi: anguilla - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF63(LAMPREY)|anguilliformi: lampreda - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF63(SEA-EEL)|anguilliformi: anguilla di mare - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF63(...)|anguilliformi (col NOME) - FF - animali fantastici
+25FF63(EEL)|anguilliformi: anguilla - FF - animali fantastici
+25FF63(LAMPREY)|anguilliformi: lampreda - FF - animali fantastici
+25FF63(SEA-EEL)|anguilliformi: anguilla di mare - FF - animali fantastici
 25FF64|remora, 'echeneis remora'
-25FF64(...)|pesci abissali (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF64(...)|pesci abissali (col NOME) - FF - animali fantastici
 25FF65|'serra' (pesce con pinne enormi)
-25FF65(...)|altri pesci (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF65(...)|altri pesci (col NOME) - FF - animali fantastici
 25FF7|animali fantastici ~ invertebrati
 25FF71|animali fantastici ~ artropodi
 25FF711|'pyrausta'
-25FF711(...)|insetti (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(ANT)|insetti: formica - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(BEE)|insetti: ape - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(BEETLE)|insetti: coleottero - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(BUTTERFLY)|insetti: farfalla - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(CATERPILLAR)|insetti: bruco - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(CICADA)|insetti: cicala - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(CRICKET)|insetti: grillo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(DAY-FLY)|insetti: effimera - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(DUNG-BEETLE)|insetti: stercorario - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(FLY)|insetti: mosca - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(GLOW-WORM)|insetti: lucciola - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(GNAT)|insetti: culice - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(GRASS-HOPPER)|insetti: cavalletta - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(ICHNEUMON-FLY)|insetti: icneumonide - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(LADYBIRD)|insetti: coccinella - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(MANTIS)|insetti: mantide - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(MOTH)|insetti: tignola - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(PRAYING-MANTIS)|insetti: mantide religiosa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(SCARABAEUS)|insetti: scarabeo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF711(WASP)|insetti: vespa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF712|millepiedi - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF713|ragni - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF714|bachi - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF715|scorpioni - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF716|crostacei - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF716(...)|crostacei (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF716(CRAB)|crostacei: granchio - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF716(LOBSTER)|crostacei: aragosta - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF711(...)|insetti (col NOME) - FF - animali fantastici
+25FF711(ANT)|insetti: formica - FF - animali fantastici
+25FF711(BEE)|insetti: ape - FF - animali fantastici
+25FF711(BEETLE)|insetti: coleottero - FF - animali fantastici
+25FF711(BUTTERFLY)|insetti: farfalla - FF - animali fantastici
+25FF711(CATERPILLAR)|insetti: bruco - FF - animali fantastici
+25FF711(CICADA)|insetti: cicala - FF - animali fantastici
+25FF711(CRICKET)|insetti: grillo - FF - animali fantastici
+25FF711(DAY-FLY)|insetti: effimera - FF - animali fantastici
+25FF711(DUNG-BEETLE)|insetti: stercorario - FF - animali fantastici
+25FF711(FLY)|insetti: mosca - FF - animali fantastici
+25FF711(GLOW-WORM)|insetti: lucciola - FF - animali fantastici
+25FF711(GNAT)|insetti: culice - FF - animali fantastici
+25FF711(GRASS-HOPPER)|insetti: cavalletta - FF - animali fantastici
+25FF711(ICHNEUMON-FLY)|insetti: icneumonide - FF - animali fantastici
+25FF711(LADYBIRD)|insetti: coccinella - FF - animali fantastici
+25FF711(MANTIS)|insetti: mantide - FF - animali fantastici
+25FF711(MOTH)|insetti: tignola - FF - animali fantastici
+25FF711(PRAYING-MANTIS)|insetti: mantide religiosa - FF - animali fantastici
+25FF711(SCARABAEUS)|insetti: scarabeo - FF - animali fantastici
+25FF711(WASP)|insetti: vespa - FF - animali fantastici
+25FF712|millepiedi - FF - animali fantastici
+25FF713|ragni - FF - animali fantastici
+25FF714|bachi - FF - animali fantastici
+25FF715|scorpioni - FF - animali fantastici
+25FF716|crostacei - FF - animali fantastici
+25FF716(...)|crostacei (col NOME) - FF - animali fantastici
+25FF716(CRAB)|crostacei: granchio - FF - animali fantastici
+25FF716(LOBSTER)|crostacei: aragosta - FF - animali fantastici
 25FF72|animali fantastici ~ molluschi
 25FF72(...)|animali fantastici ~ molluschi (col NOME)
-25FF72(CUTTLE-FISH)|molluschi: seppia - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF72(CUTTLE-FISH)|molluschi: seppia - FF - animali fantastici
 25FF72(KRAKEN)|animali fantastici ~ molluschi: kraken
-25FF72(MUREX)|molluschi: murice - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72(MUSSEL)|molluschi: mitilo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72(NAUTILUS)|molluschi: nautilo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72(OCTOPUS)|molluschi: ottopode - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72(OYSTER)|molluschi: ostrica - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72(POLYP)|molluschi: polpo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72(SNAIL)|molluschi: chiocciola - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF72(SQUID)|molluschi: seppia - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF73|vermi - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF73(...)|vermi (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF74|echinodermi - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF74(...)|echinodermi (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF74(SEA-URCHIN)|echinodermi: riccio di mare - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF74(STARFISH)|echinodermi: stella marina - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF75|celenterati - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF75(...)|celenterati (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF75(CORAL)|celenterati: corallo - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF75(JELLY-FISH)|celenterati: medusa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF75(SPONGE)|celenterati: spugna - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF76|organismi unicellulari, batteri, bacilli - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF8|animali estinti - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF8(...)|animali estinti (col NOME) - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF81|animali preistorici - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF82|animali fossili - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF72(MUREX)|molluschi: murice - FF - animali fantastici
+25FF72(MUSSEL)|molluschi: mitilo - FF - animali fantastici
+25FF72(NAUTILUS)|molluschi: nautilo - FF - animali fantastici
+25FF72(OCTOPUS)|molluschi: ottopode - FF - animali fantastici
+25FF72(OYSTER)|molluschi: ostrica - FF - animali fantastici
+25FF72(POLYP)|molluschi: polpo - FF - animali fantastici
+25FF72(SNAIL)|molluschi: chiocciola - FF - animali fantastici
+25FF72(SQUID)|molluschi: seppia - FF - animali fantastici
+25FF73|vermi - FF - animali fantastici
+25FF73(...)|vermi (col NOME) - FF - animali fantastici
+25FF74|echinodermi - FF - animali fantastici
+25FF74(...)|echinodermi (col NOME) - FF - animali fantastici
+25FF74(SEA-URCHIN)|echinodermi: riccio di mare - FF - animali fantastici
+25FF74(STARFISH)|echinodermi: stella marina - FF - animali fantastici
+25FF75|celenterati - FF - animali fantastici
+25FF75(...)|celenterati (col NOME) - FF - animali fantastici
+25FF75(CORAL)|celenterati: corallo - FF - animali fantastici
+25FF75(JELLY-FISH)|celenterati: medusa - FF - animali fantastici
+25FF75(SPONGE)|celenterati: spugna - FF - animali fantastici
+25FF76|organismi unicellulari, batteri, bacilli - FF - animali fantastici
+25FF8|animali fantastici ~ animali estinti
+25FF8(...)|animali estinti (col NOME) - FF - animali fantastici
+25FF81|animali preistorici - FF - animali fantastici
+25FF82|animali fossili - FF - animali fantastici
 25FF9|altri animali fantastici che non possono essere classificati sotto 25 FF 2 -25 FF 7
-25FF91|mostri più grandi del normale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF92|mostri più piccoli del normale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF93|parto plurigemellare ~ animali deformi, mostri - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF94|mostri mancanti di alcune parti - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF95|mostri con alcune parti in numero maggiore del naturale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF951|animali con tre teste - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF952|bicorpori, animali con due corpi e una sola testa - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF96|mostri con membra, organi, ecc. posizionati in posti non normali - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF97|mostri con parti, membra, organi, ecc. di forma anormale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF971|mostri con parti, membra, organi, ecc. più grandi del normale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
-25FF972|mostri con parti, membra, organi, ecc. più piccoli del normale - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)
+25FF91|mostri più grandi del normale - FF - animali fantastici
+25FF92|mostri più piccoli del normale - FF - animali fantastici
+25FF93|parto plurigemellare ~ animali deformi, mostri - FF - animali fantastici
+25FF94|mostri mancanti di alcune parti - FF - animali fantastici
+25FF95|mostri con alcune parti in numero maggiore del naturale - FF - animali fantastici
+25FF951|animali con tre teste - FF - animali fantastici
+25FF952|bicorpori, animali con due corpi e una sola testa - FF - animali fantastici
+25FF96|mostri con membra, organi, ecc. posizionati in posti non normali - FF - animali fantastici
+25FF97|mostri con parti, membra, organi, ecc. di forma anormale - FF - animali fantastici
+25FF971|mostri con parti, membra, organi, ecc. più grandi del normale - FF - animali fantastici
+25FF972|mostri con parti, membra, organi, ecc. più piccoli del normale - FF - animali fantastici
 25G|piante; vegetazione
 25G1|piante (in generale)
 25G11|gruppi di alberi
@@ -2512,6 +2513,8 @@
 31A22621|capelli
 31A22622|peli, peluria del corpo
 31A22623|peli del pube
+31A22624|colore della pelle
+31A22624(...)|colore della pelle (con numero FITZPATRICK)
 31A2263|muscoli
 31A2264|tendini, legamenti
 31A2265|nervi
@@ -4237,60 +4240,145 @@
 32A62|chironomia
 32A7|caratteri (tipi umani)
 32A8|passioni, emozioni, affetti
-32B|razze umane; popoli; nazionalità
-32B1|uomo preistorico
-32B11|ricostruzione dell'aspetto dell'uomo preistorico
-32B11(...)|ricostruzione dell'uomo preistorico (col NOME)
+32B|popoli; gruppi etnici; nazionalità
+32B1|l'uomo preistorico
+32B11|ricostruzione dell'uomo preistorico
+32B11(...)|ricostruzione dell'uomo preistorico (con NOME)
+32B11(NEANDERTHAL)|ricostruzione dell'uomo preistorico: Neanderthal
 32B12|ricostruzione della vita e della cultura dell'uomo preistorico
-32B2|popoli 'storici' estinti
-32B2(...)|popoli 'storici' estinti (col NOME)
-32B2(GAULS)|popoli 'storici' estinti: Galli
-32B2(TEUTONS)|popoli 'storici' estinti: Teutoni
-32B3|altre razze umane, popoli e nazionalità (che non siano preistoriche o estinte)
-32B31|popoli e razze bianche
-32B311|Europei
-32B311(...)|Europei (col NOME)
-32B311(ENGLISHMEN)|Europei: Inglesi
-32B311(GERMANS)|Europei: Tedeschi
-32B311(SPANIARDS)|Europei: Spagnoli
-32B312|popoli bianchi non Europei
-32B312(...)|popoli bianchi non Europei (col NOME)
-32B312(AMERICANS)|popoli bianchi non Europei: Americani
-32B32|Africani
-32B32(...)|Africani (col NOME)
-32B321|Africani neri
-32B321(...)|Africani neri (col NOME)
-32B3211|Americani neri
-32B33|razze e popoli asiatici
-32B33(...)|razze e popoli asiatici (col NOME)
-32B33(INDIANS)|razze e popoli asiatici: Indiani
-32B33(PERSIANS)|razze e popoli asiatici: Persiani
-32B33(TURKS)|razze e popoli asiatici: Turchi
-32B331|Mongoli
-32B3311|Cinesi
-32B3312|Giapponesi
-32B34|razze di colore d'America
-32B341|Eschimesi
-32B342|Pellerossa, Indiani d'America
-32B342(...)|Pellerossa, Indiani d'America (col NOME)
-32B343|razze di colore dell'America Centrale
-32B344|razze di colore dell'America Meridionale
-32B345|razze di colore dei Caraibi
-32B35|razze dell'Australia e dell'Oceania
-32B35(...)|razze dell'Australia e dell'Oceania (col NOME)
-32B36|razze e popoli primitivi; aborigeni
-32B37|tribù nane, pigmei
-32B371|pigmei africani
-32B371(...)|pigmei africani (col NOME)
-32B3711|Boscimani
-32B3712|Ottentotti
-32B372|pigmei della Nuova Ghinea
-32B38|specifici incroci razziali
-32B381|mulatto
-32B382|eurasiano, di padre europeo e madre indiana
-32B383|meticcio
-32B39|ulteriori razze umane e popoli
-32B39(...)|ulteriori razze umane e popoli (col NOME)
+32B2|popoli e nazionalità 'storici’
+32B2(...)|Popoli e nazionalità storici (con NOME)
+32B2(AMBRONES)|Popoli storici: Ambrones
+32B2(AZTEC)|Popoli storici: Aztechi
+32B2(BATAVIANS)|Popoli storici: Bataviani
+32B2(CARIANS)|Popoli storici: Carians
+32B2(CARTHAGINIANS)|Popoli storici: i Cartaginesi
+32B2(GAULS)|Popoli storici: Galli
+32B2(GOTHS)|Popoli storici: Goti
+32B2(LYDIANS)|Popoli storici: Lidi
+32B2(OSCI)|Popoli storici: Osci
+32B2(PHOENICIANS)|Popoli storici: Fenici
+32B2(ROMANS)|Popoli storici: i Romani
+32B2(SCYTHIANS)|Popoli storici: Sciti
+32B2(TEUTONS)|Popoli storici: Teutoni
+32B2(THRACIANS)|Popoli storici: Traci
+32B3|popoli e nazionalità (diversi da quelli preistorici o ’storici’)
+32B31|Popoli europei
+32B311|popoli indigeni europei
+32B311(...)|popoli indigeni europei (con NOME)
+32B311(ALBANIANS)|Europei: albanesi
+32B311(BELGIANS)|Europei: belgi
+32B311(BRITONS)|Europei: britannici
+32B311(BULGARIANS)|Europei: bulgari
+32B311(CROATS)|Europei: croati
+32B311(CZECHS)|Europei: cechi
+32B311(DANES)|Europei: danesi
+32B311(DUTCH)|Europei: olandesi
+32B311(ENGLISH)|Europei: inglese
+32B311(FLEMINGS)|Europei: fiamminghi
+32B311(FRENCH)|Europei: francesi
+32B311(GERMANS)|Europei: tedeschi
+32B311(GREEKS)|Europei: greci
+32B311(HUNGARIANS)|Europei: ungheresi
+32B311(IRISH)|Europei: irlandesi
+32B311(ITALIANS)|Europei: italiani
+32B311(POLES)|Europei: polacchi
+32B311(PORTUGUESE)|Europei: portoghesi
+32B311(RUMANIANS)|Europei: rumeni
+32B311(RUSSIANS)|Europei: russi
+32B311(SCOTS)|Europei: scozzesi
+32B311(SERBIANS)|Europei: serbi
+32B311(SLAVS)|Europei: slavi
+32B311(SLOWAKIANS)|Europei: slowakiani
+32B311(SPANIARDS)|Europei: spagnoli
+32B311(SWEDES)|Europei: svedesi
+32B311(WALLOONS)|Europei: valloni
+32B312|(discendenti di) emigranti europei, persona che emigra dall'Europa
+32B312(...)|(discendenti di) emigranti europei, persona che emigra dall'Europa (con NOME di DESTINAZIONE)
+32B312(AMERICA)|(discendenti di) emigranti europei in America
+32B312(AUSTRALIA)|(discendenti di) emigranti europei in Australia
+32B313|Immigrati europei, persona che emigra in Europa
+32B313(...)|Immigrati europei (con NOME DI ORIGINE)
+32B313(MOROCCO)|Immigrati europei dal Marocco
+32B313(SRI LANKA)|Immigrati europei dallo Sri Lanka
+32B32|Popoli africani, africani
+32B32(...)|Popoli africani, africani (con NOME)
+32B32(TUNISIANS)|Africani: tunisini
+32B321|popolazioni (indigene) dell'Africa subsahariana
+32B321(...)|popoli (indigeni) dell'Africa subsahariana (con NOME)
+32B321(BANTUS)|popolo dell'Africa subsahariana: popoli bantu
+32B321(NIGERIANS)|popolo dell'Africa subsahariana: nigeriani
+32B3211|Americani con radici africane, afroamericani
+32B3212|(discendenti di) emigranti africani, persona che emigra dall'Africa
+32B3212(...)|(discendenti di) emigranti africani, persona migrante dall'Africa (con NOME di DESTINAZIONE)
+32B3212(AMERICA)|(discendenti di) emigranti africani in America
+32B3212(GREAT BRITAIN)|(discendenti di) emigranti africani in Gran Bretagna
+32B3212(ISRAEL)|(discendenti di) emigranti africani in Israele
+32B3213|Immigrati africani, persona che emigra in Africa
+32B3213(...)|Immigrati africani (con NOME di ORIGINE)
+32B3213(GREAT BRITAIN)|Immigrati africani dalla Gran Bretagna
+32B3213(INDIA)|Immigrati africani dall'India
+32B3213(THE NETHERLANDS)|Immigrati africani dai Paesi Bassi
+32B33|Popoli asiatici, asiatici
+32B33(...)|Popoli asiatici, asiatici (con NAME)
+32B33(INDIANS)|Popoli asiatici, asiatici: indiani
+32B33(PERSIANS)|Popoli asiatici, asiatici: persiani
+32B33(TURKS)|Popoli asiatici, asiatici: turchi
+32B331|popolazioni indigene dell'Asia centrale e orientale
+32B3311|Cinese
+32B3312|Giapponese
+32B3313|Mongoli
+32B3314|Coreani
+32B332|(discendenti di) emigranti asiatici, persona che emigra dall'Asia
+32B332(...)|(discendenti di) emigranti asiatici (con NOME di DESTINAZIONE)
+32B332(AUSTRALIA)|(discendenti di) emigranti asiatici in Australia
+32B333|Immigrati asiatici, persona che emigra in Asia
+32B333(...)|Immigrati asiatici (con NOME di ORIGINE)
+32B333(EUROPE)|Immigrati asiatici dall'Europa
+32B34|Popoli americani, americani
+32B341|popolazioni indigene delle regioni artiche americane
+32B341(...)|popolazioni indigene delle regioni artiche americane (con NOME)
+32B341(INUIT)|popolazioni indigene delle regioni artiche: Inuit
+32B341(INUPIAT)|popolazioni indigene delle regioni artiche: Inupiat
+32B341(YUPIK)|popolazioni indigene delle regioni artiche: Yupik
+32B342|popolazioni indigene del Nord America
+32B342(...)|popolazioni indigene del Nord America (con NOME)
+32B342(SHOSHONE)|popolazioni indigene del Nord America: Shoshone
+32B342(SIOUX)|popolazioni indigene del Nord America: Sioux
+32B343|popolazioni indigene dell'America centrale
+32B344|popolazioni indigene del Sud America
+32B345|popolazioni indigene dei Caraibi
+32B346|(discendenti di) emigranti americani, persona che emigra dall'America
+32B346(...)|(discendenti di) emigranti americani (con NOME di DESTINAZIONE)
+32B346(JAPAN)|(discendenti di) emigranti americani in Giappone
+32B347|Immigrati americani, persona che emigra in America
+32B347(...)|Immigrati americani, (con NOME di ORIGINE)
+32B347(IRELAND)|Immigrati americani: Irlanda
+32B347(SOMALIA)|Immigrati americani: Somalia
+32B35|Popoli australiani e oceanici, australiani e oceaniani
+32B351|popolazioni indigene dell'Australia e dell'Oceania
+32B351(...)|popolazioni indigene dell'Australia e dell'Oceania (con NOME)
+32B351(PAPUANS)|popolazioni indigene dell'Australia e dell'Oceania: Papua
+32B351(POLYNESIANS)|popolazioni indigene dell'Australia e dell'Oceania: Polinesiani
+32B351(NARUNGGA)|popolazioni indigene dell'Australia e dell'Oceania: Narungga
+32B352|(discendenti di) emigranti australiani e oceanici, persone che migrano dall'Australia o dall'Oceania
+32B352(...)|(discendenti di) emigranti australiani e oceanici (con NOME di DESTINAZIONE)
+32B353|Immigrati australiani e dell'Oceania, persona che emigra in Australia o Oceania
+32B353(...)|Immigrati australiani e oceanici (con NOME di ORIGINE)
+32B36|popoli "primitivi", "premoderni"
+32B37|Popoli pigmei (nella leggenda, nella letteratura e nell'etnografia)
+32B371|Popoli pigmei africani
+32B371(...)|Popoli pigmei africani (con NOME)
+32B371(AKA)|Popoli pigmei africani: Aka
+32B3711|San
+32B3712|Khoikhoi
+32B372|Popoli pigmei della Nuova Guinea
+32B38|persone di radici miste
+32B381|persone di ascendenza afro-caucasica
+32B382|Eurasiatico, persone di origine europea e asiatica
+32B383|persone di origini sudamericane spagnole e indigene
+32B39|(ancora altre) razze e popoli umani
+32B39(...)|(ancora altre) razze e popoli umani (con NOME)
 32C|classificazione scientifica di razze umane
 33|relazioni, rapporti tra singoli individui
 33A|rapporti non aggressivi

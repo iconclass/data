@@ -192,23 +192,26 @@
 11D123(TAU-CROSS)|Tau-Kreuz
 11D124|Anbetung
 11D124|uebernatuerlich
-11D131|Adler
-11D131|Delphin
-11D131|Einhorn
-11D131|Greif
-11D131|Hase
-11D131|Loewe
-11D131|Pelikan
-11D131|Pfau
-11D131|Phoenix
-11D131|Reh
-11D131|Skarabaeus
-11D131|Taube
 11D131|Tier
 11D1311|Agnus Dei
 11D1311|Banner
 11D1311|Fahne
 11D1311|Lamm
+11D13121|Taube
+11D13122|Adler
+11D13123|Pfau
+11D13124|Pelikan
+11D1313|Saügetiere
+11D13131|Reh
+11D13132|Delphin
+11D13133|Hase
+11D13134|Loewe
+11D1314|Insekten
+11D13141|Skarabaeus
+11D1315|Fabeltiere
+11D13151|Greif
+11D13152|Einhorn
+11D13152|Phoenix
 11D132|Pflanze
 11D1331|Buch
 11D1331|Etimasia
@@ -676,32 +679,32 @@
 11F11|Symbol
 11F111|Litanei
 11F111|Verehrung
-11F111(...)|Blume
-11F111(...)|Brunnen
-11F111(...)|Civitas Dei
-11F111(...)|Electa ut Sol
-11F111(...)|Elfenbeinturm
-11F111(...)|Garten
-11F111(...)|Hortus Conclusus
-11F111(...)|Mond
-11F111(...)|Quelle
-11F111(...)|Rosa Mystica
-11F111(...)|Rose
-11F111(...)|Sonne
-11F111(...)|Spiegel
-11F111(...)|Stadt
-11F111(...)|Stella Maris
-11F111(...)|Stella Matutina
-11F111(...)|Stern
-11F111(...)|Tor
-11F111(...)|Turm
-11F111(...)|Turris Davidica
-11F111(...)|Turris Eburnea
-11F111(...)|flos campi
-11F111(...)|fons signatus
-11F111(...)|porta coeli
-11F111(...)|pulchra ut Luna
-11F111(...)|speculum sine macula
+11F111(CIVITAS DEI)|Civitas Dei
+11F111(CIVITAS DEI)|Stadt
+11F111(ELECTA UT SOL)|Electa ut Sol
+11F111(ELECTA UT SOL)|Sonne
+11F111(FLOS CAMPI)|Flos Campi
+11F111(FLOS CAMPI)|Blume
+11F111(FONS SIGNATUS)|Fons Signatus
+11F111(FONS SIGNATUS)|Quelle
+11F111(HORTUS CONCLUSUS)|Hortus Conclusus
+11F111(HORTUS CONCLUSUS)|Garten
+11F111(PORTA COELI)|Porta Coeli
+11F111(PORTA COELI)|Tor
+11F111(PULCHRA UT LUNA)|Pulchra ut Luna
+11F111(PULCHRA UT LUNA)|Mond
+11F111(ROSA MYSTICA)|Rosa Mystica
+11F111(ROSA MYSTICA)|Rose
+11F111(SPECULUM SINE MACULA)|Speculum sine Macula
+11F111(SPECULUM SINE MACULA)|Spiegel
+11F111(STELLA MARIS)|Stella Maris
+11F111(STELLA MARIS)|Stern
+11F111(STELLA MATUTINA)|Stella Matutina
+11F111(STELLA MATUTINA)|Stern
+11F111(TURRIS DAVIDICA)|Turris Davidica
+11F111(TURRIS DAVIDICA)|Turm
+11F111(TURRIS EBURNEA)|Turris Eburnea
+11F111(TURRIS EBURNEA)|Elfenbeinturm
 11F112|Lauretanische Litanei
 11F112|Litanei
 11F112|Madonna (Maria mit Kind)
@@ -25516,10 +25519,14 @@
 11P23|roemisch-katholische Kirche
 11P24|Anglikanische Kirche
 11P25|Protestantismus
-11P25(...)|Baptistenirche
-11P25(...)|Methodistenkirche
-11P25(...)|Quaeker
-11P25(...)|wallonische Kirche
+11P25(BAPTISTS)|Baptistenkirche
+11P25(COLLEGIANTS)|Collegiantenkirche
+11P25(METHODISTS)|Methodistenkirche
+11P25(PRESBYTERIANS)|Presbyterianenkirche
+11P25(REMONSTRANTS)|Remonstrantenkirche
+11P25(REMONSTRANTS)|Arminianenkirche
+11P25(QUAKERS)|Quaeker
+11P25(WALLOON CHURCH)|wallonische Kirche
 11P250|Personifikation
 11P251|Organisation
 11P251(...)|Christian Science

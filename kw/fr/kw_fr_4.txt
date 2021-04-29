@@ -1990,6 +1990,13 @@
 42D7|maîtresse
 42D7|sigisbée
 42D71|concubine
+42D8|belle-famille
+42D81|beau-père   
+42D82|belle-mère  
+42D83|gendre      
+42D84|belle-fille 
+42D85|beau-frère
+42D86|belle-soeur 
 42D9|célibataire
 42D91|célibataire (homme)
 42D91|homme

@@ -103,6 +103,22 @@
 11D13|(outros) símbolos de Cristo
 11D131|símbolos de Cristo ~ animais
 11D1311|cordeiro com a cruz ou estandarte, "Agnus Dei" ~ símbolo de Cristo
+11D1312|simbolos de Cristo ~ pássaros
+11D13121|pomba como um símbolo de Cristo
+11D13122|águia como um símbolo de Cristo
+11D13123|pavão como um símbolo de Cristo
+11D13124|pelicano como um símbolo de Cristo
+11D1313|simboli di Cristo ~ mamíferos
+11D13131|cervo como um símbolo de Cristo
+11D13132|golfinho como um símbolo de Cristo
+11D13133|lebre como um símbolo de Cristo
+11D13134|leão como um símbolo de Cristo
+11D1314|simboli di Cristo ~ insetos
+11D13141|scarabaeus como um símbolo de Cristo
+11D1315|simboli di Cristo ~ animais fantásticos
+11D13151|grifo como um símbolo de Cristo
+11D13152|fénix como um símbolo de Cristo
+11D13153|unicórnio como um símbolo de Cristo
 11D132|símbolos de Cristo ~ plantas
 11D133|símbolos de Cristo ~ objectos
 11D1331|"Etimasia", trono vazio, com o livro da vida, preparado para Cristo
@@ -347,6 +363,19 @@ Pedro, etc.) - DD - Cristo sem barba"
 11F11|símbolos da Virgem Maria
 11F111|símbolos da Virgem Maria das litanias 
 11F111(...)|símbolos (da Virgem Maria) das litanias (com TEXTO)
+11F111(CIVITAS DEI)|símbolos da Virgem Maria das litanias: Civitas Dei
+11F111(ELECTA UT SOL)|símbolos da Virgem Maria das litanias: Electa ut sol
+11F111(FLOS CAMPI)|símbolos da Virgem Maria das litanias: Flos campi
+11F111(FONS SIGNATUS)|símbolos da Virgem Maria das litanias: Fons signatus
+11F111(HORTUS CONCLUSUS)|símbolos da Virgem Maria das litanias: Hortus conclusus
+11F111(PORTA COELI)|símbolos da Virgem Maria das litanias: Porta coeli
+11F111(PULCHRA UT LUNA)|símbolos da Virgem Maria das litanias: Pulchra ut luna
+11F111(ROSA MYSTICA)|símbolos da Virgem Maria das litanias: Rosa mystica
+11F111(SPECULUM SINE MACULA)|símbolos da Virgem Maria das litanias: Speculum sine macula
+11F111(STELLA MARIS)|símbolos da Virgem Maria das litanias: Stella maris
+11F111(STELLA MATUTINA)|símbolos da Virgem Maria das litanias: Stella matutina
+11F111(TURRIS DAVIDICA)|símbolos da Virgem Maria das litanias: Turris Davidica
+11F111(TURRIS EBURNEA)|símbolos da Virgem Maria das litanias: Turris eburnea
 11F112|Virgem Maria ou Nossa Senhora com símbolos da Litania Lauretana
 11F12|monogramas da Virgem Maria
 11F13|brasão da Virgem Maria
@@ -9608,6 +9637,13 @@ Pedro, etc.) - DD - Cristo sem barba"
 11P24|Igrejas Episcopais Católicas não Romanas, e.g. Anglicana
 11P25|Igrejas Protestantes e denominações
 11P25(...)|Igrejas Protestantes e denominações (com NOME)
+11P25(BAPTISTS)|Igrejas Protestantes e denominações: Batistas
+11P25(COLLEGIANTS)|Igrejas Protestantes e denominações: Colegiais
+11P25(METHODISTS)|Igrejas Protestantes e denominações: Metodistas
+11P25(PRESBYTERIANS)|Igrejas Protestantes e denominações: Presbiterianos
+11P25(REMONSTRANTS)|Igrejas Protestantes e denominações: Remonstrantes
+11P25(QUAKERS)|Igrejas Protestantes e denominações: Quakers
+11P25(WALLOON CHURCH)|Igrejas Protestantes e denominações: Igreja valona
 11P250|alegorias e personificações ~ Protestantismo
 11P251|movimentos derivados das Igrejas Protestantes
 11P251(...)|movimentos derivados das Igrejas Protestantes (com NOME)

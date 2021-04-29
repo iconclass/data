@@ -191,21 +191,25 @@
 11D123(TAU-CROSS)|tau-cross
 11D124|adoration
 11D131|animal
-11D131|deer
-11D131|dolphin
-11D131|dove
-11D131|eagle
-11D131|griffin
-11D131|hare
-11D131|lion
-11D131|peacock
-11D131|pelican
-11D131|phoenix
-11D131|scarabaeus
-11D131|unicorn
 11D1311|Agnus Dei
 11D1311|banner
 11D1311|lamb
+11D1312|birds
+11D13121|dove
+11D13122|eagle
+11D13123|peacock
+11D13124|pelican
+11D1313|mammals
+11D13131|deer
+11D13132|dolphin
+11D13133|hare
+11D13134|lion
+11D1314|insects
+11D13141|scarabaeus
+11D1315|fabulous animals
+11D13151|griffin
+11D13152|phoenix
+11D13153|unicorn
 11D132|plant
 11D1331|Etimasia
 11D1331|Last Judgement
@@ -625,31 +629,32 @@
 11F11|symbol
 11F111|devotion
 11F111|litany
-11F111(...)|Civitas Dei
-11F111(...)|Electa ut Sol
-11F111(...)|Flos Campi
-11F111(...)|Fons Signatus
-11F111(...)|Hortus Conclusus
-11F111(...)|Porta Coeli
-11F111(...)|Pulchra ut Luna
-11F111(...)|Rosa Mystica
-11F111(...)|Speculum sine Macula
-11F111(...)|Stella Maris
-11F111(...)|Stella Matutina
-11F111(...)|Turris Davidica
-11F111(...)|Turris Eburnea
-11F111(...)|city
-11F111(...)|flower
-11F111(...)|fountain
-11F111(...)|garden
-11F111(...)|gate
-11F111(...)|ivory tower
-11F111(...)|mirror
-11F111(...)|moon
-11F111(...)|rose
-11F111(...)|star
-11F111(...)|sun
-11F111(...)|tower
+11F111(CIVITAS DEI)|Civitas Dei
+11F111(CIVITAS DEI)|city
+11F111(ELECTA UT SOL)|Electa ut Sol
+11F111(ELECTA UT SOL)|sun
+11F111(FLOS CAMPI)|Flos Campi
+11F111(FLOS CAMPI)|flower
+11F111(FONS SIGNATUS)|Fons Signatus
+11F111(FONS SIGNATUS)|fountain
+11F111(HORTUS CONCLUSUS)|Hortus Conclusus
+11F111(HORTUS CONCLUSUS)|garden
+11F111(PORTA COELI)|Porta Coeli
+11F111(PORTA COELI)|gate
+11F111(PULCHRA UT LUNA)|Pulchra ut Luna
+11F111(PULCHRA UT LUNA)|moon
+11F111(ROSA MYSTICA)|Rosa Mystica
+11F111(ROSA MYSTICA)|rose
+11F111(SPECULUM SINE MACULA)|Speculum sine Macula
+11F111(SPECULUM SINE MACULA)|mirror
+11F111(STELLA MARIS)|Stella Maris
+11F111(STELLA MARIS)|star
+11F111(STELLA MATUTINA)|Stella Matutina
+11F111(STELLA MATUTINA)|star
+11F111(TURRIS DAVIDICA)|Turris Davidica
+11F111(TURRIS DAVIDICA)|tower
+11F111(TURRIS EBURNEA)|Turris Eburnea
+11F111(TURRIS EBURNEA)|ivory tower
 11F112|Lauretanian Litany
 11F112|Madonna (Mary with Christ-child)
 11F112|litany
@@ -23614,10 +23619,14 @@
 11P23|Roman Catholic Church
 11P24|Anglican Church
 11P25|Protestantism
-11P25(...)|Baptist Church
-11P25(...)|Methodist Church
-11P25(...)|Quakers
-11P25(...)|Walloon Church
+11P25(BAPTISTS)|Baptist Church
+11P25(COLLEGIANTS)|Collegiant Church
+11P25(METHODISTS)|Methodist Church
+11P25(PRESBYTERIANS)|Presbyterian Church
+11P25(REMONSTRANTS)|Remonstrant Church
+11P25(REMONSTRANTS)|Arminian Church
+11P25(QUAKERS)|Quaker
+11P25(WALLOON CHURCH)|Walloon Church
 11P250|personification
 11P251|organization
 11P251(...)|Christian Science

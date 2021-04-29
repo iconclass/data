@@ -1317,6 +1317,13 @@
 42D6|Verstoßung einer Ehefrau
 42D7|Geliebte (eines Ehemanns)
 42D71|Konkubine, Mätresse
+42D8|Schwiegerfamilie
+42D81|Schwiegervater   
+42D82|Schwiegermutter  
+42D83|Schwiegersohn    
+42D84|Schwiegertochter 
+42D85|Schwager       
+42D86|Schwägerin 
 42D9|unverheiratet sein
 42D91|alleinstehender Mann, Junggeselle
 42D92|alleinstehende Frau, alte Jungfer
@@ -3426,9 +3433,13 @@
 46A175|Kinderarbeit
 46A179|Arbeitslosigkeit
 46A1791|arbeitslose Arbeiter
-46A18|Sklaverei; Sklaven
+46A18|Sklaverei; Leibeigene, versklavte Personen, Zwangsarbeiter
 46A180|Ripa: Servitù, Servitù per forza
 46A181|Sklavenhandel
+46A1811|Herkunftsland oder -region der versklavten Person
+46A1811(...)|Herkunftsland oder -region der versklavten Person (mit NAMEN)
+46A1812|Zielland oder -region der versklavten Person
+46A1812(...)|Zielland oder -region der versklavten Person (mit NAMEN)
 46A182|Sklavenhalter
 46A183|Befreiung aus der Sklaverei
 46A1831|Sklavenbefreiung

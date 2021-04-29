@@ -103,6 +103,22 @@
 11D13|(other) symbols of Christ
 11D131|symbols of Christ ~ animals
 11D1311|lamb bearing cross or banner, 'Agnus Dei' ~ symbol of Christ
+11D1312|symbols of Christ ~ birds
+11D13121|dove as a symbol of Christ
+11D13122|eagle as a symbol of Christ
+11D13123|peacock as a symbol of Christ
+11D13124|pelican as a symbol of Christ
+11D1313|symbols of Christ ~ mammals
+11D13131|deer as a symbol of Christ
+11D13132|dolphin as a symbol of Christ
+11D13133|hare as a symbol of Christ
+11D13134|lion as a symbol of Christ
+11D1314|symbols of Christ ~ insects
+11D13141|scarabaeus as a symbol of Christ
+11D1315|symbols of Christ ~ fabulous animals
+11D13151|griffin as a symbol of Christ
+11D13152|phoenix as a symbol of Christ
+11D13153|unicorn as a symbol of Christ
 11D132|symbols of Christ ~ plants
 11D133|symbols of Christ ~ objects
 11D1331|'Etimasia', empty throne with the book of life, prepared for Christ
@@ -342,7 +358,20 @@
 11F1|symbols and prefigurations of Mary
 11F11|symbols of Mary
 11F111|symbols of Mary from litanies
-11F111(...)|symbols (of Mary) from litanies (with TEXT)
+11F111(...)|symbols of Mary from litanies (with TEXT)
+11F111(CIVITAS DEI)|symbols of Mary from litanies: Civitas Dei
+11F111(ELECTA UT SOL)|symbols of Mary from litanies: Electa ut sol
+11F111(FLOS CAMPI)|symbols of Mary from litanies: Flos campi
+11F111(FONS SIGNATUS)|symbols of Mary from litanies: Fons signatus
+11F111(HORTUS CONCLUSUS)|symbols of Mary from litanies: Hortus conclusus
+11F111(PORTA COELI)|symbols of Mary from litanies: Porta coeli
+11F111(PULCHRA UT LUNA)|symbols of Mary from litanies: Pulchra ut luna
+11F111(ROSA MYSTICA)|symbols of Mary from litanies: Rosa mystica
+11F111(SPECULUM SINE MACULA)|symbols of Mary from litanies: Speculum sine macula
+11F111(STELLA MARIS)|symbols of Mary from litanies: Stella maris
+11F111(STELLA MATUTINA)|symbols of Mary from litanies: Stella matutina
+11F111(TURRIS DAVIDICA)|symbols of Mary from litanies: Turris Davidica
+11F111(TURRIS EBURNEA)|symbols of Mary from litanies: Turris eburnea
 11F112|Mary or Madonna with symbols of the Lauretanian Litany
 11F12|monograms of Mary
 11F13|coat of arms of Mary
@@ -9584,6 +9613,13 @@
 11P24|non-Roman Catholic Episcopal Churches, e.g. Anglicans
 11P25|Protestant Churches and denominations
 11P25(...)|Protestant Churches and denominations (with NAME)
+11P25(BAPTISTS)|Protestant Churches and denominations: Baptists
+11P25(COLLEGIANTS)|Protestant Churches and denominations: Collegiants
+11P25(METHODISTS)|Protestant Churches and denominations: Methodists
+11P25(PRESBYTERIANS)|Protestant Churches and denominations: Presbyterians
+11P25(REMONSTRANTS)|Protestant Churches and denominations: Remonstrants
+11P25(QUAKERS)|Protestant Churches and denominations: Quakers
+11P25(WALLOON CHURCH)|Protestant Churches and denominations: Walloon church
 11P250|allegories and personifications ~ Protestantism
 11P251|movements derived from Protestant Churches
 11P251(...)|movements derived from Protestant Churches (with NAME)

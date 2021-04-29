@@ -1320,6 +1320,13 @@
 42D6|repudiating one's wife
 42D7|mistress
 42D71|concubine
+42D8|in-laws
+42D81|father-in-law                              
+42D82|mother-in-law                              
+42D83|son-in-law                                 
+42D84|daughter-in-law                            
+42D85|brother-in-law
+42D86|sister-in-law                              
 42D9|being unmarried
 42D91|single man, bachelor
 42D92|single woman, spinster
@@ -3429,14 +3436,18 @@
 46A175|child labour
 46A179|unemployment
 46A1791|unemployed labourers
-46A18|slavery; serfs and slaves
+46A18|slavery; serfs and enslaved persons
 46A180|'Servitù', 'Servitù per forza' (Ripa)
 46A181|slave-trade
-46A182|master ~ slave
+46A1811|country or region of origin of the enslaved
+46A1811(...)|country or region of origin of the enslaved (with NAME)
+46A1812|country or region of destination of the enslaved
+46A1812(...)|country or region of destination of the enslaved (with NAME)
+46A182|master ~ enslaved person
 46A183|freedom ~ slavery
-46A1831|liberation (of a slave)
+46A1831|liberation (of an enslaved person)
 46A1832|purchase of freedom
-46A1833|escape, escape attempts (of a slave)
+46A1833|escape, escape attempts (of an enslaved person)
 46A1834|abolition of slavery, fighting slavery
 46A2|social contrast
 46A21|contrast between rich and poor
