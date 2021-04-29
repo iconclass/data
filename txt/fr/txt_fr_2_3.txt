@@ -1573,6 +1573,7 @@
 25G41(BUTTERCUP)|fleurs : bouton d'or (renoncule)
 25G41(CARNATION)|fleurs : oeillet
 25G41(COLUMBINE)|fleurs : ancolie
+25G41(CORNFLOWER)|fleurs: bleuet
 25G41(CROCUS)|fleurs : crocus
 25G41(HELIOTROPE)|fleurs : héliotrope
 25G41(HYACINTH)|fleurs : jacinthe

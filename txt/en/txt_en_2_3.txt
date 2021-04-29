@@ -1573,6 +1573,7 @@
 25G41(BUTTERCUP)|flowers: buttercup
 25G41(CARNATION)|flowers: carnation
 25G41(COLUMBINE)|flowers: columbine
+25G41(CORNFLOWER)|flowers: cornflower
 25G41(CROCUS)|flowers: crocus
 25G41(HELIOTROPE)|flowers: heliotrope
 25G41(HYACINTH)|flowers: hyacinth

@@ -1573,6 +1573,7 @@
 25G41(BUTTERCUP)|fiori: ranuncolo
 25G41(CARNATION)|fiori: garofano
 25G41(COLUMBINE)|fiori: aquilegia
+25G41(CORNFLOWER)|fiori: fiordaliso
 25G41(CROCUS)|fiori: croco
 25G41(HELIOTROPE)|fiori: eliotropio
 25G41(HYACINTH)|fiori: giacinto

@@ -2139,6 +2139,7 @@
 25G41(BUTTERCUP)|buttercup
 25G41(CARNATION)|carnation
 25G41(COLUMBINE)|columbine
+25G41(CORNFLOWER)|cornflower
 25G41(CROCUS)|crocus
 25G41(HELIOTROPE)|heliotrope
 25G41(HYACINTH)|hyacinth

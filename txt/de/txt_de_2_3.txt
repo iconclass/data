@@ -1573,6 +1573,7 @@
 25G41(BUTTERCUP)|Blumen: Butterblume
 25G41(CARNATION)|Blumen: Nelke
 25G41(COLUMBINE)|Blumen: Akelei
+25G41(CORNFLOWER)|Blumen: Kornblume
 25G41(CROCUS)|Blumen: Krokus
 25G41(HELIOTROPE)|Blumen: Heliotrop
 25G41(HYACINTH)|Blumen: Hyazinthe

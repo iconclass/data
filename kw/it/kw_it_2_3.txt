@@ -2138,6 +2138,7 @@
 25G41(BUTTERCUP)|ranuncolo
 25G41(CARNATION)|garofano
 25G41(COLUMBINE)|aquilegia
+25G41(CORNFLOWER)|fiordaliso
 25G41(CROCUS)|croco
 25G41(HELIOTROPE)|eliotropio
 25G41(HYACINTH)|giacinto

@@ -1539,6 +1539,7 @@
 25G41(BUTTERCUP)|flores: ranúnculo
 25G41(CARNATION)|flores: cravo
 25G41(COLUMBINE)|flores: columbina, aquilégia
+25G41(CORNFLOWER)|flores: centáurea
 25G41(CROCUS)|flores: açafrão
 25G41(HELIOTROPE)|flores: heliotrópios
 25G41(HYACINTH)|flores: jacinto
