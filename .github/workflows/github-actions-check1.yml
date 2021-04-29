@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
-      - run: python make_index.py
+      - run: python make_sqlite.py
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
