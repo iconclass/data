@@ -68,8 +68,14 @@ def read_notations(filename, cursor):
     INSERT_SQL = "INSERT INTO notations VALUES (?, ?, ?, ?, ?)"
     notation_ids = {}
     with open(filename, "rt", encoding="utf8") as input_file:
-        for chunk in input_file.read().split("\n$"):
-            obj = parse_dbtxt(chunk)
+        for lineno, chunk in enumerate(input_file.read().split("\n$")):
+            try:
+                obj = parse_dbtxt(chunk)
+            except:
+                print(
+                    f"Problem with notations in {filename} on line {lineno}: {repr(chunk)}"
+                )
+                return None
             notation = obj.get("n")
             children = "|".join(obj.get("c", [])) or None
             refs = "|".join(obj.get("r", [])) or None
@@ -151,6 +157,8 @@ if __name__ == "__main__":
 
     # Read the structure
     notation_ids = read_notations("notations.txt", cursor)
+    if not notation_ids:
+        sys.exit(1)
 
     # Read the texts
     for dirpath, dirs, files in os.walk("."):
