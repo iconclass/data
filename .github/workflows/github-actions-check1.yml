@@ -1,0 +1,12 @@
+name: Check 1
+on: workflow_dispatch
+jobs:
+  Check-1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - run: python make_sqlite.py
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
