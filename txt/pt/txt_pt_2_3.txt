@@ -824,6 +824,7 @@
 25F31|grupos de aves
 25F32|aves canoras
 25F32(...)|aves canoras (com NOME)
+25F32(BLACKBIRD)|aves canoras: passaro preto
 25F32(CROW)|aves canoras: corvo e gralha
 25F32(FINCH)|aves canoras: tentilhão
 25F32(GOLDFINCH)|aves canoras: pintassilgo

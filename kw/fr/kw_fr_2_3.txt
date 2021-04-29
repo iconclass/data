@@ -1322,6 +1322,7 @@
 25F3|oiseau
 25F31|groupe
 25F32|oiseau chanteur
+25F32(BLACKBIRD)|merle
 25F32(CROW)|corneille
 25F32(FINCH)|pinson
 25F32(GOLDFINCH)|chardonneret

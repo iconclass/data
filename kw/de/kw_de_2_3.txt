@@ -1434,6 +1434,7 @@
 25F3|Vogel
 25F31|Gruppe
 25F32|Singvogel
+25F32(BLACKBIRD)|Amsel
 25F32(CROW)|Kraehe
 25F32(FINCH)|Fink
 25F32(GOLDFINCH)|Stieglitz

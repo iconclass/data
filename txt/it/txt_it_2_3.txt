@@ -844,6 +844,7 @@
 25F31|gruppi di uccelli
 25F32|uccelli canori
 25F32(...)|uccelli canori (col NOME)
+25F32(BLACKBIRD)|uccelli canori: merla
 25F32(CROW)|uccelli canori: corvo
 25F32(FINCH)|uccelli canori: fringuello
 25F32(GOLDFINCH)|uccelli canori: cardellino

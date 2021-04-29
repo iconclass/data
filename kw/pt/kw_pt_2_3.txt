@@ -1271,6 +1271,7 @@
 25F3|pássaro
 25F31|grupo
 25F32|song-bird
+25F32(BLACKBIRD)|passaro preto
 25F32(CROW)|corvo
 25F32(FINCH)|tentilhão
 25F32(GOLDFINCH)|pintassilgo

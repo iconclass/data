@@ -1271,6 +1271,7 @@
 25F3|bird
 25F31|group
 25F32|song-bird
+25F32(BLACKBIRD)|blackbird
 25F32(CROW)|crow
 25F32(FINCH)|finch
 25F32(GOLDFINCH)|goldfinch

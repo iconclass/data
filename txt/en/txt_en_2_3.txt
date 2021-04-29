@@ -844,6 +844,7 @@
 25F31|groups of birds
 25F32|song-birds
 25F32(...)|song-birds (with NAME)
+25F32(BLACKBIRD)|song-birds: blackbird
 25F32(CROW)|song-birds: crow
 25F32(FINCH)|song-birds: finch
 25F32(GOLDFINCH)|song-birds: goldfinch

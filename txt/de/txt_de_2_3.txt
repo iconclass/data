@@ -844,6 +844,7 @@
 25F31|Gruppen verschiedener Vögel
 25F32|Singvögel
 25F32(...)|Singvögel (mit NAMEN)
+25F32(BLACKBIRD)|Singvögel: Amsel
 25F32(CROW)|Singvögel: Krähe
 25F32(FINCH)|Singvogel: Fink
 25F32(GOLDFINCH)|Singvögel: Stieglitz

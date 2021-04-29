@@ -844,6 +844,7 @@
 25F31|groupes d'oiseaux
 25F32|oiseaux chanteurs
 25F32(...)|oiseaux chanteurs (avec NOM)
+25F32(BLACKBIRD)|oiseaux chanteurs: merle
 25F32(CROW)|oiseaux chanteurs : corneille
 25F32(FINCH)|oiseaux chanteurs : pinson
 25F32(GOLDFINCH)|oiseaux chanteurs : chardonneret
