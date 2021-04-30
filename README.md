@@ -46,6 +46,8 @@ You might wonder why we can not simply use a standard system to manage vocabular
 
 Alas, no. The ["base" ICONCLASS system](notations.txt) has around 40K nodes arranged in a tree. But then there are several "sub-trees" that are switched on and off at various parts of the base tree. These so-called "keys" in the IC causes an explosion to more than 1 million nodes in the system, which would make it very trickey to maintain in a traditional system.
 
+![Keys to 25F](/misc/key_to_25F.jpg)
+
 A furher complication is the use of WITH-NAMES placeholders in tree, also known as _bracketed text_. These notations looke like 11H(...) where the ... can be filled in with any valid entry that makes sense to the user using that particular node in the tree. In the example, 11H(...) are male saints, so that could be 11H(JOHN) - but this could be in any language or variant. In the printed volumes for IC, several entries were already filled in as a convenience, and over the years some itemes have been added to the "official" list.
 
 This also causes a problem when we create static _dumps_ of the IC system, for example in RDF as it creates very large files.
