@@ -1486,6 +1486,7 @@
 25G3(OAK)|Bäume: Eiche
 25G3(OLEASTER)|Bäume: Oleaster
 25G3(OLIVE-TREE)|Bäume: Ölbaum
+25G3(ORANGE-TREE)|Bäume: Orangenbaum
 25G3(PALM-TREE)|Bäume: Palme
 25G3(PEACH-TREE)|Bäume: Pfirsichbaum
 25G3(PEAR-TREE)|Bäume (mit NAMEN)
@@ -1681,6 +1682,7 @@
 25GG3(MYRRH-TREE)|Bäume: Balsambaum - GG - Phantasiepflanzen, erfundene Vegetation
 25GG3(OAK)|Bäume: Eiche - GG - Phantasiepflanzen, erfundene Vegetation
 25GG3(OLIVE-TREE)|Bäume: Ölbaum - GG - Phantasiepflanzen, erfundene Vegetation
+25G3(ORANGE-TREE)|Bäume: Orangenbaum - GG - Phantasiepflanzen, erfundene Vegetation
 25GG3(PALM-TREE)|Bäume: Palme - GG - Phantasiepflanzen, erfundene Vegetation
 25GG3(PEACH-TREE)|Bäume: Pfirsichbaum - GG - Phantasiepflanzen, erfundene Vegetation
 25GG3(PINE)|Bäume: Kiefer - GG - Phantasiepflanzen, erfundene Vegetation

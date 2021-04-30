@@ -1486,6 +1486,7 @@
 25G3(OAK)|arbres : chêne
 25G3(OLEASTER)|arbres: olivier sauvage
 25G3(OLIVE-TREE)|arbres : olivier
+25G3(ORANGE-TREE)|arbres : oranger
 25G3(PALM-TREE)|arbres : palmier
 25G3(PEACH-TREE)|arbres : pêcher
 25G3(PEAR-TREE)|arbres (avec NOM)
@@ -1681,6 +1682,7 @@
 25GG3(MYRRH-TREE)|arbres : balsamier - GG - plantes fantastiques, végétation fictive
 25GG3(OAK)|arbres : chêne - GG - plantes fantastiques, végétation fictive
 25GG3(OLIVE-TREE)|arbres : olivier - GG - plantes fantastiques, végétation fictive
+25G3(ORANGE-TREE)|arbres : oranger - GG - plantes fantastiques, végétation fictive
 25GG3(PALM-TREE)|arbres : palmier - GG - plantes fantastiques, végétation fictive
 25GG3(PEACH-TREE)|arbres : pêcher - GG - plantes fantastiques, végétation fictive
 25GG3(PINE)|arbres : pin - GG - plantes fantastiques, végétation fictive
