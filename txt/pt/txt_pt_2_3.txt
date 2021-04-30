@@ -1455,6 +1455,7 @@
 25G3(OAK)|árvores: carvalho
 25G3(OLEASTER)|árvores: zambujeiro, oliveira-brava
 25G3(OLIVE-TREE)|árvores: oliveira
+25G3(ORANGE-TREE)|árvores: laranja
 25G3(PALM-TREE)|árvores: palmeira
 25G3(PEACH-TREE)|árvores: pessegueiro
 25G3(PINE)|árvores: pinheiro
@@ -1646,6 +1647,7 @@
 25GG3(MYRRH-TREE)|árvores: mirra - DD - plantas fantásticas, vegetação fantástica
 25GG3(OAK)|árvores: carvalho - DD - plantas fantásticas, vegetação fantástica
 25GG3(OLIVE-TREE)|árvores: oliveira - DD - plantas fantásticas, vegetação fantástica
+25GG3(ORANGE-TREE)|árvores: laranja - DD - plantas fantásticas, vegetação fantástica
 25GG3(PALM-TREE)|árvores: palmeira - DD - plantas fantásticas, vegetação fantástica
 25GG3(PEACH-TREE)|árvores: pessegueiro - DD - plantas fantásticas, vegetação fantástica
 25GG3(PINE)|árvores: pinheiro - DD - plantas fantásticas, vegetação fantástica

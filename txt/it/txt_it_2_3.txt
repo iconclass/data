@@ -1486,9 +1486,10 @@
 25G3(OAK)|alberi: quercia
 25G3(OLEASTER)|alberi: oleastro
 25G3(OLIVE-TREE)|alberi: olivo
+25G3(ORANGE-TREE)|alberi: arance
 25G3(PALM-TREE)|alberi: palma
 25G3(PEACH-TREE)|alberi: pesco
-25G3(PEAR-TREE)|alberi (col NOME)
+25G3(PEAR-TREE)|alberi: pera
 25G3(PINE)|alberi: pino
 25G3(PLANE-TREE)|alberi: platano
 25G3(PLUM-TREE)|alberi: susino
@@ -1681,6 +1682,7 @@
 25GG3(MYRRH-TREE)|alberi: laserpizio - GG - piante fantastiche, vegetazione fantastica
 25GG3(OAK)|alberi: quercia - GG - piante fantastiche, vegetazione fantastica
 25GG3(OLIVE-TREE)|alberi: olivo - GG - piante fantastiche, vegetazione fantastica
+25G3(OLIVE-TREE)|alberi: olivo - GG - piante fantastiche, vegetazione fantastica
 25GG3(PALM-TREE)|alberi: palma - GG - piante fantastiche, vegetazione fantastica
 25GG3(PEACH-TREE)|alberi: pesco - GG - piante fantastiche, vegetazione fantastica
 25GG3(PINE)|alberi: pino - GG - piante fantastiche, vegetazione fantastica

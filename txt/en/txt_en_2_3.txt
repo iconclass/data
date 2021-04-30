@@ -1486,6 +1486,7 @@
 25G3(OAK)|trees: oak
 25G3(OLEASTER)|trees: oleaster
 25G3(OLIVE-TREE)|trees: olive-tree
+25G3(ORANGE-TREE)|trees: orange-tree
 25G3(PALM-TREE)|trees: palm-tree
 25G3(PEACH-TREE)|trees: peach-tree
 25G3(PEAR-TREE)|trees (with NAME)
@@ -1681,6 +1682,7 @@
 25GG3(MYRRH-TREE)|trees: myrrh-tree - GG - fantastic plants, fabulous vegetation
 25GG3(OAK)|trees: oak - GG - fantastic plants, fabulous vegetation
 25GG3(OLIVE-TREE)|trees: olive-tree - GG - fantastic plants, fabulous vegetation
+25GG3(ORANGE-TREE)|trees: orange-tree - GG - fantastic plants, fabulous vegetation
 25GG3(PALM-TREE)|trees: palm-tree - GG - fantastic plants, fabulous vegetation
 25GG3(PEACH-TREE)|trees: peach-tree - GG - fantastic plants, fabulous vegetation
 25GG3(PINE)|trees: pine - GG - fantastic plants, fabulous vegetation
