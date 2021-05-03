@@ -706,7 +706,7 @@
 92D151|Amor entwaffnet die Stärke; die Macht der Liebe
 92D1511|Omnia vincit Amor; die Liebe als Eroberin; die triumphierende Liebe
 92D152|Cupido benutzt seine Waffen
-92D1521|Cpido schießt einen Pfeil
+92D1521|Cupido schießt einen Pfeil
 92D15211|Cupido schießt auf Befehl der Venus einen Pfeil
 92D1522|Cupido fertigt seinen Bogen an
 92D15221|Cupido fertigt seinen Bogen aus der Keule des Herkules
