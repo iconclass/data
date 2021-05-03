@@ -48,6 +48,6 @@ Alas, no. The ["base" ICONCLASS system](notations.txt) has around 40K nodes arra
 
 ![Keys to 25F](/misc/key_to_25F.jpg)
 
-A furher complication is the use of WITH-NAMES placeholders in tree, also known as _bracketed text_. These notations looke like 11H(...) where the ... can be filled in with any valid entry that makes sense to the user using that particular node in the tree. In the example, 11H(...) are male saints, so that could be 11H(JOHN) - but this could be in any language or variant. In the printed volumes for IC, several entries were already filled in as a convenience, and over the years some itemes have been added to the "official" list.
+A furher complication is the use of WITH-NAMES placeholders in tree, also known as _bracketed text_. These notations look like 11H(...) where the ... can be filled in with any valid entry that makes sense to the user using that particular node in the tree. In the example, 11H(...) are male saints, so that could be 11H(JOHN) - but this could be in any language or variant. In the printed volumes for IC, several entries were already filled in as a convenience, and over the years some items have been added to the "official" list.
 
 This also causes a problem when we create static _dumps_ of the IC system, for example in RDF as it creates very large files.
