@@ -1,0 +1,25 @@
+11k0|variant
+11k1|Drieëenheid
+11k11|God de Vader
+11k111|God de Vader in de vorm van licht
+11k12|Christus
+11k121|Christus met baard
+11k122|Christus zonder baard
+11k13|De Heilige Geest (als duif)
+11k131|De Heilige Geest (niet als duif)
+11k2|Maria
+11k3|engel(en)
+11k31|zwevende engelen
+11k4|duivel(s)
+11k5|donor(en), smekeling(en), al dan niet met beschermheilige(n)
+12k0|variant
+23k0|variant
+23k1|met de tekens van de dierenriem
+23k11|met de tekens van de Dierenriem van de winter
+23k111|met Capricornus, Steenbok (december)
+23k112|met Aquarius, Waterman (januari)
+23k113|met Pisces, Vissen (februari)
+23k12|met de tekens van de Dierenriem van de lente
+23k121|met Aries, Ram (maart)
+23k122|met Taurus, Stier (april)
+23k123|met Gemini, Tweelingen (mei)

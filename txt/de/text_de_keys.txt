@@ -1,0 +1,2873 @@
+11k0|Variante
+11k1|Heilige Dreifaltigkeit
+11k11|Gottvater
+11k111|Gottvater in Form von Licht
+11k12|Christus
+11k121|Christus (bärtig)
+11k122|Christus (ohne Bart)
+11k13|der Hl. Geist (als Taube)
+11k131|der Hl. Geist (nicht als Taube)
+11k2|Maria
+11k3|Engel
+11k31|Engel schweben in der Luft
+11k4|Teufel
+11k5|Stifter, Bittsteller, mit oder ohne Schutzheilige(n)
+12k0|Variante
+23k0|Variante
+23k1|mit Tierkreiszeichen
+23k11|mit Tierkreiszeichen des Winters
+23k111|mit Capricorn, Steinbock (Dezember)
+23k112|mit Aquarius, Wassermann (Januar)
+23k113|mit Pisces, Fische (Februar)
+23k12|mit Tierkreiszeichen des Frühlings
+23k121|mit Aries, Widder (März)
+23k122|mit Taurus, Stier (April)
+23k123|mit Gemini, Zwillinge (Mai)
+23k13|mit Tierkreiszeichen des Sommers
+23k131|mit Krebs (Juni)
+23k132|mit Leo, Löwe (Juli)
+23k133|mit Virgo, Jungfrau (August)
+23k14|mit Tierkreiszeichen des Herbstes
+23k141|mit Libra, Waage (September)
+23k142|mit Scorpio, Skorpion (Oktober)
+23k143|mit Sagittarius, Schütze (November)
+23k2|mit Zeichen oder Personifikationen der Planeten
+23k21|mit Zeichen oder Personifikationen der Planeten des Winters
+23k211|mit Saturn
+23k212|mit Jupiter
+23k213|mit Mars
+23k22|mit Zeichen oder Personifikationen der Planeten des Frühlings
+23k221|mit Venus
+23k222|mit Merkur
+23k223|mit Luna
+23k23|mit Zeichen oder Personifikationen der Planeten des Sommers
+23k231|mit Sol
+23k232|mit Merkur
+23k233|mit Venus
+23k24|mit Zeichen oder Personifikationen der Planeten des Herbstes
+23k241|mit Mars
+23k242|mit Jupiter
+23k243|mit Saturn
+23k3|mit Zeichen oder Personifikationen der Planeten in Verbindung mit Tierkreiszeichen
+23k31|mit Planeten und Tierkreiszeichen des Winters
+23k311|mit Saturn und Steinbock (oder Wassermann)
+23k312|mit Jupiter und Wassermann (oder Fische)
+23k313|mit Mars und Fische (oder Widder)
+23k32|mit Planeten und Tierkreiszeichen des Frühlings
+23k321|mit Venus und Widder (oder Stier)
+23k322|mit Merkur und Stier (oder Zwillinge)
+23k323|mit Luna und Zwillinge (oder Krebs)
+23k33|mit Planeten und Tierkreiszeichen des Sommers
+23k331|mit Sol und Krebs (oder Löwe)
+23k332|mit Merkur und Löwe (oder Jungfrau)
+23k333|mit Venus und Jungfrau (oder Waage)
+23k34|mit Planeten und Tierkreiszeichen des Herbstes
+23k341|mit Mars und Waage (oder Skorpion)
+23k342|mit Jupiter und Skorpion (oder Schütze)
+23k343|mit Saturn und Schütze (oder Steinbock)
+23k4|mit Szenen, die menschliche Arbeiten zeigen, die bestimmte Jahreszeiten und Monate darstellen
+23k5|mit unterschiedlichen Konzepten, die bestimmte Jahreszeiten und Monate darstellen
+23k6|Möglichkeiten der Darstellung von Jahreszeiten und Monaten
+23k60|allegorische oder symbolische Darstellung von Jahreszeiten und Monaten
+23k61|menschliche Arbeiten, die bestimmte Jahreszeiten und Monate darstellen
+23k62|Landschaften, die bestimmte Jahreszeiten und Monate darstellen
+23k621|Gärten, die bestimmte Jahreszeiten und Monate darstellen
+23k63|Stilleben, die bestimmte Jahreszeiten und Monate darstellen
+23k64|unterschiedliche Darstellungen von Jahreszeiten und Monaten
+25D11k0|Variante
+25D11k1|symbolischer Gebrauch von Edelsteinen
+25D11k11|Lapidaria
+25D3k0|Variante
+25D3k1|Kohle
+25D3k11|Braunkohle, Lignit
+25D3k2|Gestein
+25D3k2(...)|Gestein (mit dem NAMEN der Sorte)
+25D3k21|Kies und Sand
+25D3k3|Grubengut
+25D3k3(...)|Grubengut (mit dem NAMEN der Sorte)
+25FFk0|Variante
+25FFk1|außergewöhnlich große Körperteile, Gliedmaßen und Organe
+25FFk11|Kopf und Gesicht
+25FFk111|Nase, Fangzahn, Stoßzahn etc.
+25FFk112|Augen
+25FFk113|Ohren
+25FFk114|Maul, Schnabel
+25FFk115|Hals, Nacken
+25FFk12|Brust(kasten)
+25FFk13|Unterleib, Bauch
+25FFk131|Genitalien
+25FFk132|Hinterteil, Steiß
+25FFk14|Gliedmaßen
+25FFk141|Klauen, Pfoten
+25FFk142|Flügel
+25FFk143|Schwanz
+25FFk15|bestimmte anatomische Details
+25FFk151|Haut, Fell
+25FFk152|Haar, Federn
+25FFk153|Muskeln
+25FFk2|außergewöhnlich kleine Gliedmaßen und Organe
+25FFk21|Kopf und Gesicht
+25FFk211|Nase, Fangzahn, Stoßzahn etc.
+25FFk212|Augen
+25FFk213|Ohren
+25FFk214|Maul, Schnabel
+25FFk215|Hals, Nacken
+25FFk22|Brust(kasten)
+25FFk23|Unterleib, Bauch
+25FFk231|Genitalien
+25FFk232|Hinterteil, Steiß
+25FFk24|Gliedmaßen
+25FFk241|Klauen, Pfoten
+25FFk242|Flügel
+25FFk243|Schwanz
+25FFk25|bestimmte anatomische Details
+25FFk251|Haut, Fell
+25FFk252|Haar, Federn
+25FFk253|Muskeln
+25FFk3|fehlende Körperteile, Gliedmaßen und Organe
+25FFk31|Kopf und Gesicht
+25FFk311|Nase, Fangzahn, Stoßzahn etc.
+25FFk312|Augen
+25FFk313|Ohren
+25FFk314|Maul, Schnabel
+25FFk315|Hals, Nacken
+25FFk32|Brust(kasten)
+25FFk33|Unterleib, Bauch
+25FFk331|Genitalien
+25FFk332|Hinterteil, Steiß
+25FFk34|Gliedmaßen
+25FFk341|Klauen, Pfoten
+25FFk342|Flügel
+25FFk343|Schwanz
+25FFk35|bestimmte anatomische Details
+25FFk351|Haut, Fell
+25FFk352|Haar, Federn
+25FFk353|Muskeln
+25FFk4|Körperteile, Gliedmaßen und Organe in außergewöhnlich großer Anzahl
+25FFk41|Kopf und Gesicht
+25FFk411|Nase, Fangzahn, Stoßzahn etc.
+25FFk412|Augen
+25FFk413|Ohren
+25FFk414|Maul, Schnabel
+25FFk415|Hals, Nacken
+25FFk42|Brust(kasten)
+25FFk43|Unterleib, Bauch
+25FFk431|Genitalien
+25FFk432|Hinterteil, Steiß
+25FFk44|Gliedmaßen
+25FFk441|Klauen, Pfoten
+25FFk442|Flügel
+25FFk443|Schwanz
+25FFk45|bestimmte anatomische Details
+25FFk451|Haut, Fell
+25FFk452|Haar, Federn
+25FFk453|Muskeln
+25FFk5|Körperteile, Gliedmaßen und Organe an ungewöhnlichen Stellen
+25FFk51|Kopf und Gesicht
+25FFk511|Nase, Fangzahn, Stoßzahn etc.
+25FFk512|Augen
+25FFk513|Ohren
+25FFk514|Maul, Schnabel
+25FFk515|Hals, Nacken
+25FFk52|Brust(kasten)
+25FFk53|Unterleib, Bauch
+25FFk531|Genitalien
+25FFk532|Hinterteil, Steiß
+25FFk54|Gliedmaßen
+25FFk541|Klauen, Pfoten
+25FFk542|Flügel
+25FFk543|Schwanz
+25FFk55|bestimmte anatomische Details
+25FFk551|Haut, Fell
+25FFk552|Haar, Federn
+25FFk553|Muskeln
+25FFk6|mißgestaltete Körperteile, Gliedmaßen und Organe
+25FFk61|Kopf und Gesicht
+25FFk611|Nase, Fangzahn, Stoßzahn etc.
+25FFk612|Augen
+25FFk613|Ohren
+25FFk614|Maul, Schnabel
+25FFk615|Hals, Nacken
+25FFk62|Brust(kasten)
+25FFk63|Unterleib, Bauch
+25FFk631|Genitalien
+25FFk632|Hinterteil, Steiß
+25FFk64|Gliedmaßen
+25FFk641|Klauen, Pfoten
+25FFk642|Flügel
+25FFk643|Schwanz
+25FFk65|bestimmte anatomische Details
+25FFk651|Haut, Fell
+25FFk652|Haar, Federn
+25FFk653|Muskeln
+25FFk7|nicht unter KEY (+1) bis (+6) erfasste Aspekte von Körperteilen, Gliedmaßen und Organen
+25FFk70|Variante
+25FFk71|Tiere als Symbole
+25FFk711|Bestiarien; z.B. der Physiologus
+25FFk712|Wappentiere
+25FFk713|Tiere als Attribute
+25FFk714|Tiere in der Karikatur
+25FFk715|ornamentale Darstellungen von Tieren
+25FFk7151|symmetrisch plazierte ornamentale Tierdarstellungen
+25FFk7152|ornamentale Tierdarstellungen, teilweise miteinander vereinigt
+25FFk7153|ornamentale Tierdarstellungen, teilweise miteinander verflochten
+25FFk7154|symmetrisch plazierte ornamentale Tierdarstellungen, die von einer (menschlichen) Figur oder einem Gegenstand getrennt werden
+25FFk72|Geschlecht und Alter von Tieren; Fortpflanzung von Tieren
+25FFk721|junges Tier
+25FFk722|männliches Tier
+25FFk723|weibliches Tier
+25FFk724|sehr altes Tier
+25FFk73|Anatomie von Tieren
+25FFk731|Skelett eines Tieres
+25FFk732|Rumpf eines Tieres
+25FFk7321|Genitalien eines Tieres
+25FFk73211|Genitalien eines männlichen Tieres
+25FFk73212|Genitalien eines weiblichen Tieres
+25FFk7322|Gesäß eines Tieres
+25FFk7323|Eingeweide, innere Organe eines Tieres
+25FFk733|Kopf eines Tieres
+25FFk7331|Schädel eines Tieres
+25FFk7332|Geweih; Horn
+25FFk7333|Ohren eines Tieres
+25FFk7334|Fangzahn, Stoßzahn
+25FFk7335|Schnauze, Kiefer, Schnabel
+25FFk7336|Zunge eines Tieres
+25FFk7337|Augen eines Tieres
+25FFk734|Gliedmaßen eines Tieres
+25FFk7341|Klauen, Pfoten eines Tieres
+25FFk7342|Flügel eines Tieres
+25FFk7343|Schwanz eines Tieres
+25FFk7349|Spur, Fährte eines Tieres
+25FFk735|äußere Erscheinung von Tieren
+25FFk7351|Haut, Schaffell, Fell, Pelz, Leder
+25FFk7352|Federn
+25FFk7353|Schuppen eines Tieres
+25FFk736|Schale, Panzer, Schneckenhaus etc.
+25FFk74|tierisches Verhalten
+25FFk741|Geburt eines Tieres
+25FFk7411|Geburt aus einem Ei
+25FFk7412|brüten, ausbrüten
+25FFk7413|Larve, Made
+25FFk7414|Puppe, Schmetterlingspuppe
+25FFk742|Fütterung und Pflege der Jungtiere
+25FFk7421|Nest, Höhle, Bau eines Tieres
+25FFk7422|Erziehung von und Spiel mit den Jungtieren
+25FFk7429|ein Tier tötet seine eigene Brut
+25FFk743|Tiere werben umeinander und paaren sich
+25FFk7431|Tiere werben umeinander
+25FFk7432|Tiere paaren sich
+25FFk744|Beziehungen zwischen Tieren
+25FFk7441|Herde, Gruppe von Tieren
+25FFk7442|Tiere spielen miteinander
+25FFk745|Tiere fressen und trinken
+25FFk7451|Tiere suchen nach Futter
+25FFk7452|Tiere mit Beute
+25FFk7459|Tiere scheiden Exkremente aus
+25FFk74591|Exkremente, Kot von Tieren
+25FFk746|schlafende Tiere
+25FFk7461|Winterschlaf von Tieren
+25FFk747|Tierpsychologie
+25FFk7471|tierischer Instinkt
+25FFk74711|Wanderung, Zug von Tieren
+25FFk74712|Tiere errichten ein Nest, einen Bau, ein Netz etc.
+25FFk748|Tiere wechseln ihre äußere Erscheinung
+25FFk7481|Tiere wechseln ihre äußere Erscheinung im Rhythmus der Jahreszeiten
+25FFk74811|Tiere wechseln ihre äußere Erscheinung im Sommer
+25FFk74812|Tiere wechseln ihre äußere Erscheinung im Winter
+25FFk74813|Umwandlung, Gestaltveränderung von Tieren
+25FFk74814|Tiere wechseln ihre äußere Erscheinung in der Brunstzeit
+25FFk7482|Erneuerung der äußeren Erscheinung von Tieren
+25FFk74821|Häutung (oder Mauser) von Tieren
+25FFk7483|Angleichung der äußeren Erscheinung von Tieren an ihre Umgebung
+25FFk74831|Tiere wechseln ihre Farbe
+25FFk749|akustische Formen der Kommunikation bei Tieren: Brüllen; Schreien, Singen, Bellen, Miauen, Wiehern, Zwitschern etc.
+25FFk7491|nicht-akustische Formen der Kommunikation bei Tieren: Wedeln mit dem Schwanz etc.
+25FFk75|Tiere in Bewegung; Stellungen, Ausdrucksweisen von Tieren
+25FFk751|kämpfende Tiere; aggressive Beziehungen
+25FFk7511|drohende Tiere
+25FFk7512|angreifende Tiere
+25FFk7513|Tiere bei der Verfolgungsjagd
+25FFk7514|tötende Tiere
+25FFk7515|Tiere töten sich selbst
+25FFk75151|Tiere suchen den Tod; Selbstaufopferung von Tieren
+25FFk752|Bewegung von Tieren
+25FFk7521|Vorwärtsbewegung von Tieren
+25FFk75211|laufendes Tier
+25FFk75212|rennendes Tier
+25FFk75213|ein Tier wälzt sich vorwärts bzw. herum
+25FFk75214|ein Tier läuft auf den Vorderbeinen
+25FFk75215|ein Tier wird geritten
+25FFk75219|Rückwärtsbewegung eines Tieres
+25FFk7522|Auf- und Abwärtsbewegung von Tieren
+25FFk75221|springende Tiere
+25FFk75222|kletternde Tiere
+25FFk75223|ein Tier zieht sich selbst nach oben
+25FFk75227|ein Tier trampelt, tritt, stampft auf etwas oder jemandem herum
+25FFk7523|passive Bewegung von Tieren
+25FFk75231|fallende Tiere
+25FFk75232|Tiere werden getragen
+25FFk7524|Bewegung von Tieren mit Bezug auf ein anderes Tier, einen Menschen oder einen Gegenstand
+25FFk75241|Tiere werfen etwas
+25FFk75242|Tiere greifen nach etwas
+25FFk75243|Tiere schlagen bzw. stoßen etwas oder jemanden
+25FFk75244|Tiere greifen bzw. packen etwas oder jemanden
+25FFk75245|Tiere halten etwas oder jemanden
+25FFk75246|Tiere tragen etwas oder jemanden
+25FFk75247|Tiere ziehen bzw. zerren etwas oder jemanden
+25FFk75248|Tiere schieben etwas oder jemanden
+25FFk752481|Tiere drehen etwas oder jemanden
+25FFk7525|andere Bewegungen von Tieren
+25FFk75251|ein Tier rollt sich zusammen
+25FFk75252|ein Tier streckt sich aus
+25FFk75253|ein Tier dreht sich, windet sich
+25FFk7526|Tiere bewegen sich in der Luft
+25FFk75262|fliegende Tiere
+25FFk75263|Tiere schweben in der Luft
+25FFk7527|Tiere bewegen sich im Wasser
+25FFk75273|schwimmende Tiere
+25FFk75274|Tiere treiben im Wasser
+25FFk75278|Tiere tauchen aus dem Wasser auf
+25FFk753|Haltungen, Stellungen von Tieren
+25FFk7531|ein stehendes Tier
+25FFk7532|ein Tier lehnt sich an etwas oder jemanden an
+25FFk7533|ein kniendes Tier
+25FFk7534|ein kauerndes, geducktes Tier
+25FFk7535|ein sitzendes Tier
+25FFk7536|ein liegendes Tier
+25FFk7537|ein hängendes Tier
+25FFk75371|ein mit dem Kopf nach unten hängendes Tier
+25FFk7539|andere (oben nicht erwähnte) Haltungen bzw. Stellungen von Tieren
+25FFk754|Kopfhaltungen von Tieren
+25FFk7541|ein Tier mit erhobenem Kopf
+25FFk7542|ein Tier mit seitwärts gedrehtem Kopf
+25FFk7543|ein Tier mit zurückgebeugtem Kopf
+25FFk7544|ein Tier mit nach vorne geneigtem Kopf; ein gebeugtes Tier
+25FFk7547|ein Tier blickt über die Schulter
+25FFk755|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+25FFk7551|ein Tier mit erhobenen Vorderbeinen
+25FFk7552|ein Tier mit nach vorne ausgestreckten Vorderbeinen
+25FFk7553|ein Tier mit seitlich ausgestreckten Vorderbeinen
+25FFk7554|ein Tier hält seine Vorderbeine vor den Körper
+25FFk75541|ein Tier mit einer Vorderpfote bzw. Klaue auf dem Herz
+25FFk75542|ein Tier legt seine Vorderpfoten bzw. Klauen vor dem Unterleib übereinander
+25FFk7555|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren zueinander
+25FFk75551|ein Tier mit gekreuzten Vorderpfoten
+25FFk75552|ein Tier mit aneinander gehaltenen Vorderpfoten
+25FFk7556|auf den Kopf bezogene Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+25FFk75561|ein Tier zeigt mit der Vorderpfote auf die Stirn
+25FFk75562|Vorderpfote(n) auf das (die) Auge(n) gerichtet
+25FFk75563|Vorderpfote(n) auf die Nase gerichtet
+25FFk75564|Vorderpfote(n) auf den Mund gerichtet
+25FFk75565|Vorderpfoten auf ein (die) Ohr(en) gerichtet
+25FFk7557|Stellungen und Gesten der Vorderbeine, Vorderpfoten und Klauen von Tieren,die sich auf ein anderes Tier, einen Menschen oder einen Gegenstand beziehen
+25FFk75571|ein Tier packt ein anderes Tier, einen Menschen oder einen Gegenstand
+25FFk7559|noch mehr Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren
+25FFk756|Stellungen der Hinterbeine von Tieren
+25FFk7561|Tiere stehen auf ihren Hinterbeinen
+25FFk7562|Tiere sitzen mit überkreuzten Beinen
+25FFk757|Morphologie des Ausdrucks von Tieren (generell)
+25FFk7571|Morphologie des Gesichtsausdrucks von Tieren: Augen
+25FFk75711|ein Tier blickt nach oben
+25FFk75712|ein Tier blickt nach unten
+25FFk75713|ein Tier blickt seitwärts
+25FFk75717|ein Tier blickt rückwärts
+25FFk7573|Morphologie des Gesichtsausdrucks von Tieren: Mund
+25FFk75731|ein lächelndes Tier
+25FFk75732|ein Tier mit leicht geöffnetem Mund
+25FFk757321|ein Tier mit herausgestreckter Zunge
+25FFk75733|ein Tier mit weit geöffnetem Mund
+25FFk757331|ein Tier mit weit geöffnetem Mund und zusammengepressten Zähnen
+25FFk758|Beziehungen von neutralem oder freundlichem, nicht-aggresivem Charakter (Morphologie des Ausdrucks von Tieren)
+25FFk76|Krankheit und Tod von Tieren
+25FFk761|kranke Tiere
+25FFk762|verletzte Tiere
+25FFk7621|erschlagene, erschossene, gefangene Tiere
+25FFk763|ein sterbendes Tier, Tod eines Tieres, ein totes Tier
+25FFk764|ein Tier wird vom Menschen getötet
+25FFk7641|ein geschlachtetes Tier
+25FFk765|Pflege eines kranken Tieres
+25FFk766|Aas
+25FFk767|ein ausgestopftes Tier
+25FFk77|biologische Erforschung von Tieren
+25FFk771|Beobachtung von Tieren
+25FFk772|Experimente mit Tieren (mit biologischer Zielsetzung)
+25FFk779|ausgestorbene Tiere
+25FFk78|Mensch und Tier
+25FFk781|Vieh
+25FFk782|Haustiere
+25FFk783|Reinigung eines Tieres, z.B. Waschen, Pflege
+25FFk789|medizinische Tierversuche
+25FFk7891|Darstellung von Tieren als Stellvertreter des Menschen
+25FFk7892|Gebrauch von Tieren in der medizinischen Forschung
+25FFk7893|Vivisektion von Tieren
+25FFk79|tierische Erzeugnisse
+25FFk791|Ei
+25FFk7911|Eier legen
+25FFk792|tierisches Gift
+25FFk793|Perle (als tierisches Produkt)
+25FFkq1|Kopf und Gesicht
+25FFkq11|Nase, Fangzahn, Stoßzahn etc.
+25FFkq12|Augen
+25FFkq13|Ohren
+25FFkq14|Maul, Schnabel
+25FFkq15|Hals, Nacken
+25FFkq2|Brust(kasten)
+25FFkq3|Unterleib, Bauch
+25FFkq31|Genitalien
+25FFkq32|Hinterteil, Steiß
+25FFkq4|Gliedmaßen
+25FFkq41|Klauen, Pfoten
+25FFkq42|Flügel
+25FFkq43|Schwanz
+25FFkq5|bestimmte anatomische Details
+25FFkq51|Haut, Fell
+25FFkq52|Haar, Federn
+25FFkq53|Muskeln
+25Fk0|Variante
+25Fk1|Tiere als Symbole
+25Fk11|Bestiarien, z.B. der Physiologus
+25Fk12|Wappentiere
+25Fk13|Tiere als Attribute
+25Fk14|Tiere in der Karikatur
+25Fk15|ornamentale Darstellungen von Tieren
+25Fk151|symmetrisch plazierte ornamentale Tierdarstellungen
+25Fk152|ornamentale Tierdarstellungen, teilweise miteinander vereinigt
+25Fk153|ornamentale Tierdarstellungen, teilweise miteinander verflochten
+25Fk154|symmetrisch plazierte ornamentale Tierdarstellungen, die von einer (menschlichen) Figur oder einem Gegenstand getrennt werden
+25Fk2|Geschlecht und Alter von Tieren; Fortpflanzung von Tieren
+25Fk21|junges Tier
+25Fk22|männliches Tier
+25Fk23|weibliches Tier
+25Fk24|sehr altes Tier
+25Fk3|Anatomie von Tieren
+25Fk31|Skelett eines Tieres
+25Fk32|Rumpf eines Tieres
+25Fk321|Genitalien eines Tieres
+25Fk3211|Genitalien eines männlichen Tieres
+25Fk3212|Genitalien eines weiblichen Tieres
+25Fk322|Gesäß eines Tieres
+25Fk323|Eingeweide, innere Organe eines Tieres
+25Fk33|Kopf eines Tieres
+25Fk331|Schädel eines Tieres
+25Fk332|Geweih, Horn
+25Fk333|Ohren eines Tieres
+25Fk334|Fangzahn, Stoßzahn
+25Fk335|Schnauze, Kiefer, Schnabel
+25Fk336|Zunge eines Tieres
+25Fk337|Augen eines Tieres
+25Fk34|Gliedmaßen eines Tieres
+25Fk341|Klauen, Pfoten eines Tieres
+25Fk342|Flügel eines Tieres
+25Fk343|Schwanz eines Tieres
+25Fk349|Spur, Fährte eines Tiers
+25Fk35|äußere Erscheinung von Tieren
+25Fk351|Haut, Schaffell, Fell, Pelz, Leder
+25Fk352|Federn
+25Fk353|Schuppen eines Tieres
+25Fk36|Schale, Panzer, Schneckenhaus etc.
+25Fk4|tierisches Verhalten
+25Fk41|Geburt eines Tieres
+25Fk411|Geburt aus einem Ei
+25Fk412|brüten, ausbrüten
+25Fk413|Larve, Made
+25Fk414|Puppe (zoologisch), Schmetterlingspuppe
+25Fk42|Fütterung und Pflege der Jungtiere
+25Fk421|Nest, Höhle, Bau eines Tieres
+25Fk422|Erziehung von und Spiel mit den Jungtieren
+25Fk429|ein Tier tötet seine eigene Brut
+25Fk43|Tiere werben umeinander und paaren sich
+25Fk431|Tiere werben umeinander
+25Fk432|Tiere paaren sich
+25Fk44|Beziehungen zwischen Tieren
+25Fk441|Herde, Gruppe von Tieren
+25Fk442|Tiere spielen miteinander
+25Fk45|Tiere fressen und trinken
+25Fk451|Tiere suchen nach Futter
+25Fk452|Tier mit Beute(tier)
+25Fk459|Tiere scheiden Exkremente aus
+25Fk4591|Exkremente, Kot von Tieren
+25Fk46|schlafende Tiere
+25Fk461|Tiere im Winterschlaf
+25Fk47|Tierpsychologie
+25Fk471|Instinkt eines Tieres
+25Fk4711|Wanderung, Zug von Tieren
+25Fk4712|Tiere errichten ein Nest, einen Bau, ein Netz etc.
+25Fk48|Wandlungen in der äußeren Erscheinung von Tieren
+25Fk481|Tiere wechseln ihre äußere Erscheinung im Rhythmus der Jahreszeiten
+25Fk4811|Tiere wechseln ihre äußere Erscheinung im Sommer
+25Fk4812|Tiere wechseln ihre äußere Erscheinung im Winter
+25Fk4813|Umwandlung, Gestaltveränderung von Tieren
+25Fk4814|Tiere wechseln ihre äußere Erscheinung in der Brunstzeit
+25Fk482|Erneuerung, Regeneration der äußeren Erscheinung von Tieren
+25Fk4821|Häutung (oder Mauser) von Tieren
+25Fk483|Angleichung der äußeren Erscheinung von Tieren an ihre Umgebung
+25Fk4831|Tiere wechseln ihre Farbe
+25Fk49|akustische Formen der Kommunikation bei Tieren: Brüllen; Schreien, Singen, Bellen, Miauen, Wiehern, Zwitschern etc.
+25Fk491|nicht-akustische Formen der Kommunikation bei Tieren: Wedeln mit dem Schwanz etc.
+25Fk5|Bewegung von Tieren; Stellungen, Ausdrucksweisen von Tieren
+25Fk51|kämpfende Tiere; aggressive Beziehungen
+25Fk511|drohende Tiere
+25Fk512|angreifende Tiere
+25Fk513|Tiere bei der Verfolgungsjagd
+25Fk514|tötende Tiere
+25Fk515|Tiere töten sich selbst
+25Fk5151|Tiere suchen den Tod; Selbstopferung von Tieren
+25Fk52|Bewegungen von Tieren
+25Fk521|Vorwärtsbewegung von Tieren
+25Fk5211|laufendes Tier
+25Fk5212|rennendes Tier
+25Fk5213|ein Tier wälzt sich vorwärts bzw. herum
+25Fk5214|ein Tier läuft auf den Vorderbeinen
+25Fk5215|ein Tier wird geritten
+25Fk5219|Rückwärtsbewegung eines Tieres
+25Fk522|Aufwärts- und Abwärtsbewegung von Tieren
+25Fk5221|springende Tiere
+25Fk5222|kletternde Tiere
+25Fk5223|ein Tier zieht sich selbst nach oben
+25Fk5227|ein Tier trampelt, tritt, stampft auf etwas oder jemandem herum
+25Fk523|passive Bewegung von Tieren
+25Fk5231|fallende Tiere
+25Fk5232|Tiere werden getragen
+25Fk524|Bewegung von Tieren mit Bezug auf ein anderes Tier, eine menschliche Figur oder einen Gegenstand
+25Fk5241|Tiere werfen bzw. schleudern etwas
+25Fk5242|Tiere greifen nach etwas
+25Fk5243|Tiere schlagen bzw. stoßen etwas oder jemanden
+25Fk5244|Tiere greifen bzw. packen etwas oder jemanden
+25Fk5245|Tiere halten etwas oder jemanden
+25Fk5246|Tiere tragen etwas oder jemanden
+25Fk5247|Tiere ziehen bzw. zerren etwas oder jemanden
+25Fk5248|Tiere schieben etwas oder jemanden
+25Fk52481|Tiere drehen etwas oder jemanden
+25Fk525|andere Bewegungen von Tieren
+25Fk5251|ein Tier rollt sich zusammen
+25Fk5252|ein Tier streckt sich aus
+25Fk5253|ein Tier dreht bzw. windet sich
+25Fk526|Tiere bewegen sich in der Luft
+25Fk5262|fliegende Tiere
+25Fk5263|Tiere schweben in der Luft
+25Fk527|Tiere bewegen sich im Wasser
+25Fk5273|schwimmende Tiere
+25Fk5274|Tiere treiben im Wasser
+25Fk5278|Tiere tauchen aus dem Wasser auf
+25Fk53|Haltungen, Stellungen von Tieren
+25Fk531|ein stehendes Tier
+25Fk532|ein Tier lehnt sich an etwas oder jemanden an
+25Fk533|ein kniendes Tier
+25Fk534|ein kauerndes, geducktes Tier
+25Fk535|ein sitzendes Tier
+25Fk536|ein liegendes Tier
+25Fk537|ein hängendes Tier
+25Fk5371|ein mit dem Kopf nach unten hängendes Tier
+25Fk539|andere (oben nicht erwähnte) Stellungen und Körperhaltungen von Tieren
+25Fk54|Kopfhaltungen von Tieren
+25Fk541|ein Tier mit erhobenem Kopf
+25Fk542|ein Tier mit seitwärts gedrehtem Kopf
+25Fk543|ein Tier mit zurückgebeugtem Kopf
+25Fk544|ein Tier mit nach vorne geneigtem Kopf; ein nach vorne gebeugtes Tier
+25Fk547|ein Tier blickt über die Schulter
+25Fk55|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+25Fk551|ein Tier mit erhobenen Vorderbeinen
+25Fk552|ein Tier mit nach vorne ausgestreckten Vorderbeinen
+25Fk553|ein Tier mit seitlich ausgestreckten Vorderbeinen
+25Fk554|ein Tier hält seine Vorderbeine vor den Körper
+25Fk5541|ein Tier mit einer Vorderpfote bzw. Klaue auf dem Herz
+25Fk5542|ein Tier legt seine Vorderpfoten bzw. Klauen vor dem Unterleib übereinander
+25Fk555|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren zueinander
+25Fk5551|ein Tier mit gekreuzten Vorderpfoten
+25Fk5552|ein Tier mit aneinander gehaltenen Vorderpfoten
+25Fk556|auf den Kopf bezogene Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+25Fk5561|ein Tier zeigt mit der Vorderpfote auf die Stirn
+25Fk5562|Vorderpfote(n) auf das (die) Auge(n) gerichtet
+25Fk5563|Vorderpfote(n) auf die Nase gerichtet
+25Fk5564|Vorderpfote(n) auf den Mund gerichtet
+25Fk5565|Vorderpfote(n) auf ein (die) Ohr(en) gerichtet
+25Fk557|Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren, die sich auf ein anderes Tier, einen Menschen oder einen Gegenstand beziehen
+25Fk5571|ein Tier packt ein anderes Tier, einen Menschen oder einen Gegenstand
+25Fk559|noch mehr Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren
+25Fk56|Stellungen der Hinterbeine von Tieren
+25Fk561|Tiere stehen auf ihren Hinterbeinen
+25Fk562|Tiere sitzen mit überkreuzten Beinen
+25Fk57|Morphologie des Ausdrucks von Tieren (generell)
+25Fk571|Morphologie des Gesichtsausdrucks von Tieren: Augen
+25Fk5711|ein Tier blickt nach oben
+25Fk5712|ein Tier blickt nach unten
+25Fk5713|ein Tier blickt seitwärts
+25Fk5717|ein Tier blickt rückwärts
+25Fk573|Morphologie des Gesichtsausdrucks von Tieren: Mund
+25Fk5731|ein lächelndes Tier
+25Fk5732|ein Tier mit leicht geöffnetem Mund
+25Fk57321|ein Tier mit herausgestreckter Zunge
+25Fk5733|ein Tier mit weit geöffnetem Mund
+25Fk57331|ein Tier mit weit geöffnetem Mund und zusammengepressten Zähnen
+25Fk58|Beziehungen von neutralem oder freundlichem, nicht-aggressivem Charakter (Morphologie des Ausdrucks von Tieren)
+25Fk6|Krankheit und Tod von Tieren
+25Fk61|kranke Tiere
+25Fk62|verletzte Tiere
+25Fk621|erschlagene, erschossene, gefangene Tiere
+25Fk63|ein sterbendes Tier; Tod eines Tieres; ein totes Tier
+25Fk64|ein Tier wird vom Menschen getötet
+25Fk641|ein geschlachtetes Tier
+25Fk65|Pflege eines kranken Tieres
+25Fk66|Aas
+25Fk67|ein ausgestopftes Tier
+25Fk7|biologische Erforschung von Tieren
+25Fk71|Beobachtung von Tieren
+25Fk72|Experimente mit Tieren (mit biologischer Zielsetzung)
+25Fk79|ausgestorbene Tiere
+25Fk8|Mensch und Tier
+25Fk81|Vieh
+25Fk82|Haustiere
+25Fk83|Reinigung eines Tieres; z.B. Waschen, Pflege
+25Fk89|medizinische Tierversuche
+25Fk891|Darstellung von Tieren als Stellvertreter des Menschen
+25Fk892|Gebrauch von Tieren in der medizinischen Forschung
+25Fk893|Vivisektion von Tieren
+25Fk9|tierische Erzeugnisse
+25Fk91|Ei
+25Fk911|Eier legen
+25Fk92|tierisches Gift
+25Fk93|Perle (als tierisches Erzeugnis)
+25Gk0|Variante
+25Gk1|Pflanzen als Symbole
+25Gk11|Floralia
+25Gk12|Wappenpflanzen
+25Gk13|Pflanzen als Attribute
+25Gk14|Pflanzen in der Karikatur
+25Gk15|ornamentale Pflanzendarstellungen
+25Gk2|Teile von Pflanzen
+25Gk21|Stengel, (Baum-)Stamm
+25Gk211|(Baum-)Stumpf, Strunk
+25Gk22|Ast, Stock
+25Gk221|Reis (Holz), Zweig
+25Gk222|Dornenzweig
+25Gk223|Dorn, Stachel
+25Gk224|Holz-, Reisigbündel
+25Gk225|verdorrter Zweig
+25Gk23|Spitze, Krone, oberstes Teil einer Pflanze
+25Gk24|Wurzel, Knolle
+25Gk241|Luftwurzel
+25Gk25|Ranke, Rankengeflecht
+25Gk26|(Blumen-)Zwiebel, Knolle
+25Gk27|Blatt
+25Gk29|andere Teile von Pflanzen
+25Gk3|Kennzeichen pflanzlichen Wachstums
+25Gk31|Knospe, knospende Pflanzen
+25Gk32|Blumen, Blüten, blühende Pflanzen
+25Gk33|Blätter, Blattknospen
+25Gk34|Pflanzen tragen Früchte
+25Gk341|Pflanzen werfen Früchte ab
+25Gk35|Pflanzen verwelken, verdorren; Blätter oder Blüten fallen ab
+25Gk351|kahle Pflanzen
+25Gk36|Alter von Pflanzen
+25Gk361|junge Pflanzen
+25Gk362|ausgewachsene Pflanzen
+25Gk363|(sehr) alte Pflanzen
+25Gk37|absterbende Pflanzen
+25Gk371|abgestorbene, verdorrte Pflanzen
+25Gk39|andere Kennzeichen pflanzlichen Wachstums
+25Gk39(...)|andere Kennzeichen pflanzlichen Wachstums (mit NAMEN)
+25Hk0|Variante
+25Hk1|Landschaftsdarstellung mit Figuren, Staffage
+25Ik0|Variante
+25Ik1|Stadt(ansicht) mit (Staffage-)Figuren
+25Kk0|Variante
+25Kk1|Landschaften (in den nicht-gemäßigten Zonen) mit (Staffage-)Figuren
+25Lk0|Variante
+25Lk1|allegorisch dargestellte Stadt mit (Staffage-)Figuren
+2k0|Variante
+31A42k0|Variante
+31A42k1|außergewöhnlich große Körperteile, Gliedmaßen und Organe
+31A42k11|Kopf, Gesicht
+31A42k111|Nase
+31A42k112|Augen
+31A42k113|Ohren
+31A42k114|Mund
+31A42k1141|Zunge
+31A42k1142|Lippen
+31A42k1143|Zähne
+31A42k115|Hals, Nacken
+31A42k12|Brust(kasten)
+31A42k121|(weibliche) Brüste
+31A42k13|Unterleib, Bauch
+31A42k131|Genitalien
+31A42k132|Gesäß
+31A42k14|Arme
+31A42k141|Hände
+31A42k142|Finger
+31A42k15|Beine
+31A42k151|Füße
+31A42k152|Zehen
+31A42k16|andere anatomische Details
+31A42k161|Haut
+31A42k162|Haar
+31A42k163|Muskeln
+31A42k2|außergewöhnlich kleine Körperteile, Gliedmaßen und Organe
+31A42k21|Kopf, Gesicht
+31A42k211|Nase
+31A42k212|Augen
+31A42k213|Ohren
+31A42k214|Mund
+31A42k2141|Zunge
+31A42k2142|Lippen
+31A42k2143|Zähne
+31A42k215|Hals, Nacken
+31A42k22|Brust(kasten)
+31A42k221|(weibliche) Brüste
+31A42k23|Unterleib, Bauch
+31A42k231|Genitalien
+31A42k232|Gesäß
+31A42k24|Arme
+31A42k241|Hände
+31A42k242|Finger
+31A42k25|Beine
+31A42k251|Füße
+31A42k252|Zehen
+31A42k26|andere anatomische Details
+31A42k261|Haut
+31A42k262|Haar
+31A42k263|Muskeln
+31A42k3|fehlende Körperteile, Gliedmaßen und Organe
+31A42k31|Kopf, Gesicht
+31A42k311|Nase
+31A42k312|Augen
+31A42k313|Ohren
+31A42k314|Mund
+31A42k3141|Zunge
+31A42k3142|Lippen
+31A42k3143|Zähne
+31A42k315|Hals, Nacken
+31A42k32|Brust(kasten)
+31A42k321|(weibliche) Brüste
+31A42k33|Unterleib, Bauch
+31A42k331|Genitalien
+31A42k332|Gesäß
+31A42k34|Arme
+31A42k341|Hände
+31A42k342|Finger
+31A42k35|Beine
+31A42k351|Füße
+31A42k352|Zehen
+31A42k36|andere anatomische Details
+31A42k361|Haut
+31A42k362|Haar
+31A42k363|Muskeln
+31A42k4|Körperteile, Gliedmaßen und Organe in außergewöhnlich großer Anzahl
+31A42k41|Kopf, Gesicht
+31A42k411|Nase
+31A42k412|Augen
+31A42k413|Ohren
+31A42k414|Mund
+31A42k4141|Zunge
+31A42k4142|Lippen
+31A42k4143|Zähne
+31A42k415|Hals, Nacken
+31A42k42|Brust(kasten)
+31A42k421|(weibliche) Brüste
+31A42k43|Unterleib, Bauch
+31A42k431|Genitalien
+31A42k432|Gesäß
+31A42k44|Arme
+31A42k441|Hände
+31A42k442|Finger
+31A42k45|Beine
+31A42k451|Füße
+31A42k452|Zehen
+31A42k46|andere anatomische Details
+31A42k461|Haut
+31A42k462|Haar
+31A42k463|Muskeln
+31A42k5|Körperteile, Gliedmaßen und Organe an ungewöhnlichen Stellen
+31A42k51|Kopf, Gesicht
+31A42k511|Nase
+31A42k512|Augen
+31A42k513|Ohren
+31A42k514|Mund
+31A42k5141|Zunge
+31A42k5142|Lippen
+31A42k5143|Zähne
+31A42k515|Hals, Nacken
+31A42k52|Brust(kasten)
+31A42k521|(weibliche) Brüste
+31A42k53|Unterleib, Bauch
+31A42k531|Genitalien
+31A42k532|Gesäß
+31A42k54|Arme
+31A42k541|Hände
+31A42k542|Finger
+31A42k55|Beine
+31A42k551|Füße
+31A42k552|Zehen
+31A42k56|andere anatomische Details
+31A42k561|Haut
+31A42k562|Haar
+31A42k563|Muskeln
+31A42k6|entstellte Körperteile, Gliedmaßen und Organe
+31A42k61|Kopf, Gesicht
+31A42k611|Nase
+31A42k612|Augen
+31A42k613|Ohren
+31A42k614|Mund
+31A42k6141|Zunge
+31A42k6142|Lippen
+31A42k6143|Zähne
+31A42k615|Hals, Nacken
+31A42k62|Brust(kasten)
+31A42k621|(weibliche) Brüste
+31A42k63|Unterleib, Bauch
+31A42k631|Genitalien
+31A42k632|Gesäß
+31A42k64|Arme
+31A42k641|Hände
+31A42k642|Finger
+31A42k65|Beine
+31A42k651|Füße
+31A42k652|Zehen
+31A42k66|andere anatomische Details
+31A42k661|Haut
+31A42k662|Haar
+31A42k663|Muskeln
+31A42kq1|Kopf, Gesicht
+31A42kq11|Nase
+31A42kq12|Augen
+31A42kq13|Ohren
+31A42kq14|Mund
+31A42kq141|Zunge
+31A42kq142|Lippen
+31A42kq143|Zähne
+31A42kq15|Hals, Nacken
+31A42kq2|Brust(kasten)
+31A42kq21|(weibliche) Brüste
+31A42kq3|Unterleib, Bauch
+31A42kq31|Genitalien
+31A42kq32|Gesäß
+31A42kq4|Arme
+31A42kq41|Hände
+31A42kq42|Finger
+31A42kq5|Beine
+31A42kq51|Füße
+31A42kq52|Zehen
+31A42kq6|andere anatomische Details
+31A42kq61|Haut
+31A42kq62|Haar
+31A42kq63|Muskeln
+31A44k0|Variante
+31A44k1|außergewöhnlich große Körperteile, Gliedmaßen und Organe
+31A44k11|Kopf, Gesicht
+31A44k111|Nase
+31A44k112|Augen
+31A44k113|Ohren
+31A44k114|Mund
+31A44k1141|Zunge
+31A44k1142|Lippen
+31A44k1143|Zähne
+31A44k115|Hals, Nacken
+31A44k12|Brust(kasten)
+31A44k121|weibliche Brüste
+31A44k13|Unterleib, Bauch
+31A44k131|Genitalien
+31A44k132|Gesäß
+31A44k14|Arme
+31A44k141|Hände
+31A44k142|Finger
+31A44k15|Beine
+31A44k151|Füße
+31A44k152|Zehen
+31A44k16|andere anatomische Details
+31A44k161|Haut
+31A44k162|Haare
+31A44k163|Muskeln
+31A44k2|außergewöhnlich kleine Körperteile, Gliedmaßen und Organe
+31A44k21|Kopf, Gesicht
+31A44k211|Nase
+31A44k212|Augen
+31A44k213|Ohren
+31A44k214|Mund
+31A44k2141|Zunge
+31A44k2142|Lippen
+31A44k2143|Zähne
+31A44k215|Hals, Nacken
+31A44k22|Brust(kasten)
+31A44k221|weibliche Brüste
+31A44k23|Unterleib, Bauch
+31A44k231|Genitalien
+31A44k232|Gesäß
+31A44k24|Arme
+31A44k241|Hände
+31A44k242|Finger
+31A44k25|Beine
+31A44k251|Füße
+31A44k252|Zehen
+31A44k26|andere anatomische Details
+31A44k261|Haut
+31A44k262|Haare
+31A44k263|Muskeln
+31A44k3|fehlende Körperteile, Gliedmaßen und Organe
+31A44k31|Kopf, Gesicht
+31A44k311|Nase
+31A44k312|Augen
+31A44k313|Ohren
+31A44k314|Mund
+31A44k3141|Zunge
+31A44k3142|Lippen
+31A44k3143|Zähne
+31A44k315|Hals, Nacken
+31A44k32|Brust(kasten)
+31A44k321|weibliche Brüste
+31A44k33|Unterleib, Bauch
+31A44k331|Genitalien
+31A44k332|Gesäß
+31A44k34|Arme
+31A44k341|Hände
+31A44k342|Finger
+31A44k35|Beine
+31A44k351|Füße
+31A44k352|Zehen
+31A44k36|andere anatomische Details
+31A44k361|Haut
+31A44k362|Haare
+31A44k363|Muskeln
+31A44k4|Körperteile, Gliedmaßen und Organe in außergewöhnlich großer Anzahl
+31A44k41|Kopf, Gesicht
+31A44k411|Nase
+31A44k412|Augen
+31A44k413|Ohren
+31A44k414|Mund
+31A44k4141|Zunge
+31A44k4142|Lippen
+31A44k4143|Zähne
+31A44k415|Hals, Nacken
+31A44k42|Brust(kasten)
+31A44k421|weibliche Brüste
+31A44k43|Unterleib, Bauch
+31A44k431|Genitalien
+31A44k432|Gesäß
+31A44k44|Arme
+31A44k441|Hände
+31A44k442|Finger
+31A44k45|Beine
+31A44k451|Füße
+31A44k452|Zehen
+31A44k46|andere anatomische Details
+31A44k461|Haut
+31A44k462|Haare
+31A44k463|Muskeln
+31A44k5|Körperteile, Gliedmaßen und Organe an ungewöhnlichen Stellen
+31A44k51|Kopf, Gesicht
+31A44k511|Nase
+31A44k512|Augen
+31A44k513|Ohren
+31A44k514|Mund
+31A44k5141|Zunge
+31A44k5142|Lippen
+31A44k5143|Zähne
+31A44k515|Hals, Nacken
+31A44k52|Brust(kasten)
+31A44k521|weibliche Brüste
+31A44k53|Unterleib, Bauch
+31A44k531|Genitalien
+31A44k532|Gesäß
+31A44k54|Arme
+31A44k541|Hände
+31A44k542|Finger
+31A44k55|Beine
+31A44k551|Füße
+31A44k552|Zehen
+31A44k56|andere anatomische Details
+31A44k561|Haut
+31A44k562|Haare
+31A44k563|Muskeln
+31A44k6|entstellte Körperteile, Gliedmaßen und Organe
+31A44k61|Kopf, Gesicht
+31A44k611|Nase
+31A44k612|Augen
+31A44k613|Ohren
+31A44k614|Mund
+31A44k6141|Zunge
+31A44k6142|Lippen
+31A44k6143|Zähne
+31A44k615|Hals, Nacken
+31A44k62|Brust(kasten)
+31A44k621|weibliche Brüste
+31A44k63|Unterleib, Bauch
+31A44k631|Genitalien
+31A44k632|Gesäß
+31A44k64|Arme
+31A44k641|Hände
+31A44k642|Finger
+31A44k65|Beine
+31A44k651|Füße
+31A44k652|Zehen
+31A44k66|andere anatomische Details
+31A44k661|Haut
+31A44k662|Haare
+31A44k663|Muskeln
+31A44kq1|Kopf, Gesicht
+31A44kq11|Nase
+31A44kq12|Augen
+31A44kq13|Ohren
+31A44kq14|Mund
+31A44kq141|Zunge
+31A44kq142|Lippen
+31A44kq143|Zähne
+31A44kq15|Hals, Nacken
+31A44kq2|Brust(kasten)
+31A44kq21|weibliche Brüste
+31A44kq3|Unterleib, Bauch
+31A44kq31|Genitalien
+31A44kq32|Gesäß
+31A44kq4|Arme
+31A44kq41|Hände
+31A44kq42|Finger
+31A44kq5|Beine
+31A44kq51|Füße
+31A44kq52|Zehen
+31A44kq6|andere anatomische Details
+31A44kq61|Haut
+31A44kq62|Haare
+31A44kq63|Muskeln
+31A45k0|Variante
+31A45k1|Kopf oder Gesicht (bzw. Teile des Gesichts)
+31A45k2|Körper
+31A45k21|Brustkasten, Brust
+31A45k22|Bauch
+31A45k221|Genitalien
+31A45k222|Gesäß
+31A45k23|Schwanz
+31A45k3|Beine, Flügel etc.
+31A45k31|Pfoten, Klauen, Zehen
+31A45k4|andere anatomische Details
+31A45k41|Haut, Schuppen
+31A45k42|Haare, Federn
+31A54k0|Variante
+31A54k1|alleine baden
+31A54k2|zu zweit baden
+31A54k3|mit vielen Personen zusammen baden
+31E23k0|Variante
+31E23k1|schuldhafte Tötung
+31E23k2|Tod durch Mord, Ermordung
+31E23k21|Tod durch Lynchen
+31E23k3|Tod in einem Kampf
+31E23k31|Tod in einem Faustkampf, bei einem Aufruhr
+31E23k311|Tod in einem Duell
+31E23k32|Tod bei einem Raub(überfall)
+31E23k33|Tod in einem Krieg
+31E23k4|Tod durch Folter
+31E23k41|Tod durch die Inquisition
+31E23k42|Folterwerkzeuge
+31E23k42(...)|Folterwerkzeug (mit NAMEN)
+31E23k5|Tod durch Martyrium
+31E23k6|Hinrichtung (nach einem Todesurteil)
+31E23k61|Werkzeug einer Hinrichtung
+31E23k61(...)|Werkzeug einer Hinrichtung (mit NAMEN)
+31E23k7|den Tod suchen, Selbstmord, Freitod
+31E23k71|Selbstaufopferung, Tod für ein höheres Ziel
+31E23k72|Selbstmord aus Verzweiflung
+31E23k79|versuchter Selbstmord
+31E23k791|vereitelter Selbstmord
+31E23k8|Tod durch medizinische Behandlung
+31E23k9|Auffindung einer toten oder sterbenden Person
+31F2k0|Variante
+31F2k1|der Tod reitet auf einem Pferd
+31F2k2|der Tod reitet auf einem Ochsen
+31F2k3|der Tod mit Pfeil und Bogen
+31F2k4|der Tod mit einer Sense
+31F2k5|der Tod mit einem Musikinstrument
+31F2k6|der Tod mit einer Krone
+31k0|Variante
+31k1|Vorderansicht
+31k2|Rückansicht
+31k21|Rückansicht mit verlorenem Profil
+31k3|Seitenansicht, Profil
+31k31|linke(r) Seite, Hand, Fuß etc. sichtbar
+31k32|rechte(r) Seite, Hand, Fuß etc. sichtbar
+31k33|von oben gesehen
+31k4|Dreiviertelprofil
+31k5|Haltungen, Stellungen der menschlichen Figur
+31k51|stehen
+31k511|auf dem Kopf oder auf den Händen stehen
+31k52|anlehnen
+31k53|sitzen
+31k54|knien
+31k55|auf der Erde sitzen
+31k56|liegen
+31k57|hängen
+31k571|mit dem Kopf nach unten hängen
+31k6|Richtung von Bewegungen
+31k61|vorwärts
+31k62|rückwärts
+31k63|aufwärts
+31k64|abwärts
+31k65|seitwärts
+31k66|kreisförmig, ringförmig
+31k7|Anzahl von Personen
+31k71|eine Person
+31k72|zwei Personen
+31k73|drei Personen
+31k74|vier Personen
+31k75|fünf Personen
+31k76|sechs Personen
+31k77|sieben Personen
+31k78|acht Personen
+31k79|mehr als acht Personen
+31k8|Geschlecht und Alter (eines Menschen)
+31k81|Mann (diese Notation nicht benutzen, wenn A vorgeschrieben ist)
+31k811|junger Mann
+31k812|erwachsener Mann
+31k813|alter Mann
+31k82|Frau (diese Notation nicht benutzen, wenn AA vorgeschrieben ist)
+31k821|junge Frau
+31k822|erwachsene Frau
+31k823|alte Frau
+31k89|nackter Mensch
+31k9|menschliche Ausdrucksformen
+31k91|freundliche, nicht-aggressive Beziehungen (menschliche Ausdrucksformen)
+31k911|grüßen, Ehrerbietung erweisen
+31k9111|danken, Dankbarkeit erweisen
+31k9112|einladen
+31k9113|Abschied nehmen
+31k912|lachen, Freude
+31k9121|gratulieren, Glückwünsche aussprechen
+31k9129|kondolieren, Beileid aussprechen
+31k913|winken, jemandem zuwinken
+31k9131|(jemanden) herbeiwinken
+31k914|jemandem vergeben, verzeihen
+31k9141|sich versöhnen bzw. aussöhnen
+31k915|segnen
+31k916|helfen
+31k9161|beschützen
+31k9162|retten
+31k9163|befreien
+31k9164|trösten, Trost zusprechen
+31k917|dringend bitten, (an)flehen
+31k918|liebkosen, verführen, umwerben, den Hof machen
+31k919|andere (oben nicht erwähnte) freundliche Beziehungen
+31k92|aggressive, feindliche Beziehungen (menschliche Ausdrucksformen)
+31k921|drohen; Zorn, Wut
+31k9211|anklagen
+31k9212|auffordern, herausfordern
+31k9213|sich verschwören, intrigieren
+31k922|kämpfen
+31k9221|streiten
+31k9222|Faustkampf
+31k9223|jemanden angreifen
+31k9224|jemanden verfolgen
+31k9225|töten
+31k923|sich verteidigen
+31k9231|fernhalten, abweisen
+31k9232|jemanden oder etwas zurückweisen
+31k924|sich fürchten, mißtrauisch sein
+31k925|erschreckt sein
+31k926|verzweifeln
+31k927|bestrafen
+31k9271|züchtigen
+31k928|Schadenfreude
+31k9281|eine Person auslachen
+31k929|andere Konnotationen
+31k93|neutrale Beziehungen (menschliche Ausdrucksformen)
+31k931|hinweisen, zeigen
+31k932|ansprechen
+31k9321|sprechen
+31k9322|befehlen
+31k9323|fragen
+31k93231|betteln
+31k9324|warnen, ermahnen
+31k9325|sich beklagen, beschweren
+31k933|etwas halten
+31k9331|ein Stück Draperie halten
+31k934|jemanden oder etwas erreichen, etwas zu fassen bekommen, berühren
+31k9341|reichen, überreichen, geben
+31k935|etwas bekommen, empfangen
+31k936|sich strecken, recken
+31k937|seine Kleidung richten, glätten
+31k9371|ankleiden oder entkleiden
+31k938|denken, meditieren
+31k939|andere Konnotationen
+31k94|traurige Beziehungen (menschliche Ausdrucksformen)
+31k941|traurig sein, leiden, bekümmert sein
+31k9411|sich grämen, trauern, wehklagen, jammern
+31k9412|Kummer, seelische Qual, Herzeleid
+31k94121|seufzen
+31k942|verbittert sein
+31k943|gequält werden, gepeinigt werden
+32Bk0|Variante
+32Bk1|Betonung anthropologischer Charakteristika
+32Bk2|Ureinwohner, Eingeborene
+32Bk3|Kostüm
+32Bk4|andere kulturelle Aspekte
+32Bk5|Geschlecht und Alter
+32Bk51|Männer
+32Bk52|Frauen
+32Bk53|Babys und Kinder
+32Bk54|Erwachsene
+32Bk55|alte Menschen
+32Bk9|karikiert
+34k0|Variante
+34k1|ein Tier wird gefüttert
+34k11|ein Tier wird getränkt
+34k19|Ausscheidungen von Tieren
+34k2|Versorgung, Unterbringung von Tieren
+34k21|Stall, Schuppen, Hütte, Zwinger
+34k22|Tierkäfig
+34k3|Tierhygiene, Tierpflege
+34k31|ein Tier waschen
+34k32|ein Tier pflegen
+34k4|Verschönerungen, sonstige Modifikationen von Tieren
+34k41|ein Tier (auf)putzen
+34k42|ein Tier stutzen, beschneiden
+34k43|ein Tier scheren
+34k5|Geschlecht eines Tieres
+34k51|männliches Tier
+34k511|Kastration eines Tieres
+34k52|weibliches Tier
+34k53|junges Tier
+34k6|anspannen, satteln etc.
+34k61|ausspannen, den Sattel abnehmen etc.
+34k7|ein Tier abrichten, dressieren
+34k8|Tiere züchten
+34k9|zoologische Aspekte von Tieren (Mensch und Tier)
+34k90|Variante
+34k91|Tiere als Symbole
+34k911|Bestiarien, z.B. der Physiologus
+34k912|Wappentiere
+34k913|Tiere als Attribute
+34k914|Tiere in der Karikatur
+34k915|ornamentale Darstellungen von Tieren
+34k9151|symmetrisch plazierte ornamentale Tierdarstellungen
+34k9152|ornamentale Tierdarstellungen, teilweise miteinander vereinigt
+34k9153|ornamentale Tierdarstellungen, teilweise miteinander verflochten
+34k9154|symmetrisch plazierte ornamentale Tierdarstellungen, die von einer (menschlichen) Figur oder einem Gegenstand getrennt werden
+34k92|Geschlecht und Alter von Tieren; Fortpflanzung von Tieren
+34k921|junges Tier
+34k922|männliches Tier
+34k923|weibliches Tier
+34k924|sehr altes Tier
+34k93|Anatomie von Tieren
+34k931|Skelett eines Tieres
+34k932|Rumpf eines Tieres
+34k9321|Genitalien eines Tieres
+34k93211|Genitalien eines männlichen Tieres
+34k93212|Genitalien eines weiblichen Tieres
+34k9322|Gesäß eines Tieres
+34k9323|Eingeweide, innere Organe eines Tieres
+34k933|Kopf eines Tieres
+34k9331|Schädel eines Tieres
+34k9332|Geweih, Horn
+34k9333|Ohren eines Tieres
+34k9334|Fangzahn, Stoßzahn
+34k9335|Schnauze, Kiefer, Schnabel
+34k9336|Zunge eines Tieres
+34k9337|Augen eines Tieres
+34k934|Gliedmaßen eines Tieres
+34k9341|Klauen, Pfoten eines Tieres
+34k9342|Flügel eines Tieres
+34k9343|Schwanz eines Tieres
+34k9349|Spur, Fährte eines Tieres
+34k935|äußere Erscheinung eines Tieres
+34k9351|Haut, Schaffell, Fell, Pelz, Leder
+34k9352|Federn
+34k9353|Schuppen eines Tieres
+34k936|Schale, Panzer, Schneckenhaus etc.
+34k94|tierisches Verhalten
+34k941|Geburt eines Tieres
+34k9411|Geburt aus einem Ei
+34k9412|brüten, ausbrüten
+34k9413|Larve, Made
+34k9414|Puppe (zoologisch), Schmetterlingspuppe
+34k942|Fütterung und Pflege der Jungtiere
+34k9421|Nest, Höhle, Bau eines Tieres
+34k9422|Erziehung von und Spiel mit den Jungtieren
+34k9429|ein Tier tötet seine eigene Brut
+34k943|Tiere werben umeinander und paaren sich
+34k9431|Tiere werben umeinander
+34k9432|Tiere paaren sich
+34k944|Beziehungen zwischen Tieren
+34k9441|Herde, Gruppe von Tieren
+34k9442|Tiere spielen miteinander
+34k945|Tiere fressen und trinken
+34k9451|Tiere suchen nach Futter
+34k9452|Tier mit Beute(tier)
+34k9459|Tiere scheiden Exkremente aus
+34k94591|Exkremente, Kot von Tieren
+34k946|schlafende Tiere
+34k9461|Tiere im Winterschlaf
+34k947|Tierpsychologie
+34k9471|Instinkt eines Tieres
+34k94711|Wanderung, Zug von Tieren
+34k94712|Tiere errichten ein Nest, einen Bau, ein Netz etc.
+34k948|Wandlungen in der äußeren Erscheinung von Tieren
+34k9481|Tiere wechseln ihre äußere Erscheinung im Rhythmus der Jahreszeiten
+34k94811|Tiere wechseln ihre äußere Erscheinung im Sommer
+34k94812|Tiere wechseln ihre äußere Erscheinung im Winter
+34k94813|Umwandlung, Gestaltveränderung von Tieren
+34k94814|Tiere wechseln ihre äußere Erscheinung in der Brunstzeit
+34k9482|Erneuerung, Regeneration der äußeren Erscheinung von Tieren
+34k94821|Häutung (oder Mauser) von Tieren
+34k9483|Angleichung der äußeren Erscheinung von Tieren an ihre Umgebung
+34k94831|Tiere wechseln ihre Farbe
+34k949|akustische Formen der Kommunikation bei Tieren: Brüllen; Schreien, Singen, Bellen, Miauen, Wiehern, Zwitschern etc.
+34k9491|nicht-akustische Formen der Kommunikation bei Tieren: Wedeln mit dem Schwanz etc.
+34k95|Bewegungen von Tieren; Stellungen, Ausdrucksweisen von Tieren
+34k951|kämpfende Tiere; aggressive Beziehungen
+34k9511|drohende Tiere
+34k9512|angreifende Tiere
+34k9513|Tiere bei der Verfolgungsjagd
+34k9514|tötende Tiere
+34k9515|Tiere töten sich selbst
+34k95151|Tiere suchen den Tod; Selbstopferung von Tieren
+34k952|Bewegungen von Tieren
+34k9521|Vorwärtsbewegung von Tieren
+34k95211|laufendes Tier
+34k95212|rennendes Tier
+34k95213|ein Tier wälzt sich vorwärts bzw. herum
+34k95214|ein Tier läuft auf den Vorderbeinen
+34k95215|ein Tier wird geritten
+34k95219|Rückwärtsbewegung eines Tieres
+34k9522|Aufwärts- und Abwärtsbewegung von Tieren
+34k95221|springende Tiere
+34k95222|kletternde Tiere
+34k95223|ein Tier zieht sich selbst nach oben
+34k95227|ein Tier trampelt, tritt, stampft auf etwas oder jemandem herum
+34k9523|passive Bewegung von Tieren
+34k95231|fallende Tiere
+34k95232|Tiere werden getragen
+34k9524|Bewegung von Tieren mit Bezug auf ein anderes Tier, eine menschliche Figur oder einen Gegenstand
+34k95241|Tiere werfen bzw. schleudern etwas
+34k95242|Tiere greifen nach etwas
+34k95243|Tiere schlagen bzw. stoßen etwas oder jemanden
+34k95244|Tiere greifen bzw. packen etwas oder jemanden
+34k95245|Tiere halten etwas oder jemanden
+34k95246|Tiere tragen etwas oder jemanden
+34k95247|Tiere ziehen bzw. zerren etwas oder jemanden
+34k95248|Tiere schieben etwas oder jemanden
+34k952481|Tiere drehen etwas oder jemanden
+34k9525|andere Bewegungen von Tieren
+34k95251|ein Tier rollt sich zusammen
+34k95252|ein Tier streckt sich aus
+34k95253|ein Tier dreht bzw. windet sich
+34k9526|Tiere bewegen sich in der Luft
+34k95262|fliegende Tiere
+34k95263|Tiere schweben in der Luft
+34k9527|Tiere bewegen sich im Wasser
+34k95273|schwimmende Tiere
+34k95274|Tiere treiben im Wasser
+34k95278|Tiere tauchen aus dem Wasser auf
+34k953|Haltungen, Stellungen von Tieren
+34k9531|ein stehendes Tier
+34k9532|ein Tier lehnt sich an etwas oder jemanden an
+34k9533|ein kniendes Tier
+34k9534|ein kauerndes, geducktes Tier
+34k9535|ein sitzendes Tier
+34k9536|ein liegendes Tier
+34k9537|ein hängendes Tier
+34k95371|ein mit dem Kopf nach unten hängendes Tier
+34k9539|andere (oben nicht erwähnte) Stellungen und Körperhaltungen von Tieren
+34k954|Kopfhaltungen von Tieren
+34k9541|ein Tier mit erhobenem Kopf
+34k9542|ein Tier mit seitwärts gedrehtem Kopf
+34k9543|ein Tier mit zurückgebeugtem Kopf
+34k9544|ein Tier mit nach vorne geneigtem Kopf; nach vorne gebeugtes Tier
+34k9547|ein Tier blickt über die Schulter
+34k955|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+34k9551|ein Tier mit erhobenen Vorderbeinen
+34k9552|ein Tier mit nach vorne ausgestreckten Vorderbeinen
+34k9553|ein Tier mit seitlich ausgestreckten Vorderbeinen
+34k9554|ein Tier hält seine Vorderbeine vor den Körper
+34k95541|ein Tier mit einer Vorderpfote bzw. Klaue auf dem Herz
+34k95542|ein Tier legt seine Vorderpfoten bzw. Klauen vor dem Unterleib übereinander
+34k9555|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren zueinander
+34k95551|ein Tier mit gekreuzten Vorderpfoten
+34k95552|ein Tier mit aneinander gehaltenen Vorderpfoten
+34k9556|auf den Kopf bezogene Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+34k95561|ein Tier zeigt mit der Vorderpfote auf die Stirn
+34k95562|Vorderpfote(n) auf das (die) Auge(n) gerichtet
+34k95563|Vorderpfote(n) auf die Nase gerichtet
+34k95564|Vorderpfote(n) auf den Mund gerichtet
+34k95565|Vorderpfote(n) auf ein (die) Ohr(en) gerichtet
+34k9557|Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren, die sich auf ein anderes Tier, einen Menschen oder einen Gegenstand beziehen
+34k95571|ein Tier packt ein anderes Tier, einen Menschen oder einen Gegenstand
+34k9559|noch mehr Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren
+34k956|Stellungen der Hinterbeine von Tieren
+34k9561|Tiere stehen auf ihren Hinterbeinen
+34k9562|Tiere sitzen mit überkreuzten Beinen
+34k957|Morphologie des Ausdrucks von Tieren (generell)
+34k9571|Morphologie des Gesichtsausdrucks von Tieren: Augen
+34k95711|ein Tier blickt nach oben
+34k95712|ein Tier blickt nach unten
+34k95713|ein Tier blickt seitwärts
+34k95717|ein Tier blickt rückwärts
+34k9573|Morphologie des Gesichtsausdrucks von Tieren: Mund
+34k95731|ein lächelndes Tier
+34k95732|ein Tier mit leicht geöffnetem Mund
+34k957321|ein Tier mit herausgestreckter Zunge
+34k95733|ein Tier mit weit geöffnetem Mund
+34k957331|ein Tier mit weit geöffnetem Mund und zusammengepressten Zähnen
+34k958|Beziehungen von neutralem oder freundlichem, nicht aggressivem Charakter (Morphologie des Ausdrucks von Tieren)
+34k96|Krankheit und Tod von Tieren
+34k961|kranke Tiere
+34k962|verletzte Tiere
+34k9621|erschlagene, erschossene, gefangene Tiere
+34k963|ein sterbendes Tier; Tod eines Tieres; ein totes Tier
+34k964|ein Tier wird vom Menschen getötet
+34k9641|ein geschlachtetes Tier
+34k965|Pflege eines kranken Tieres
+34k966|Aas
+34k967|ein ausgestopftes Tier
+34k97|biologische Erforschung von Tieren
+34k971|Beobachtung von Tieren
+34k972|Experimente mit Tieren
+34k979|ausgestorbene Tiere
+34k98|Mensch und Tier
+34k981|Vieh
+34k982|Haustiere
+34k983|Reinigung eines Tieres; z.B. Waschen, Pflege
+34k989|medizinische Tierversuche
+34k9891|Darstellung von Tieren als Stellvertreter des Menschen
+34k9892|Gebrauch von Tieren in der medizinischen Forschung
+34k9893|Vivisektion von Tieren
+34k99|tierische Erzeugnisse
+34k991|Ei
+34k9911|Eier legen
+34k992|tierisches Gift
+34k993|Perle (als tierisches Erzeugnis)
+3k0|Variante
+41B3k0|Variante
+41B3k1|ein Licht anzünden; angezündete(s), brennende(s) Licht, Lampe, Kerze
+41B3k2|ein Licht löschen; ausgelöschte(s) Licht, Lampe, Kerze
+41B3k3|jemandem ein(e) Licht(quelle) geben
+41Cm0|Variante
+41Cm1|Ansprache, Rede (bei Tisch)
+41Cm2|Trinkspruch (bei Tisch)
+41Cm3|Bedienung, Diener (bei Tisch)
+41Cm4|Verweilen bei Tisch
+41Cm5|Form des gedeckten Tisches
+41Cm51|rechteckiger Tisch
+41Cm52|quadratischer Tisch
+41Cm53|runder Tisch
+41Cm54|ovaler Tisch
+41Cm55|andere Form eines Tisches, z.B.: T-Form, Hufeisenform etc.
+41Cm9|zerbrochenes, beschädigtes Tafelgeschirr etc.
+41Cn0|Variante
+41Cn1|Lebensmittel zu sich nehmen: essen, trinken, rauchen, kauen etc.
+41Cn11|heimlich essen, trinken, rauchen, kauen etc.
+41Cn2|Lebensmittel, Getränke etc. Auf einem Teller
+41Cn3|Lebensmittel in einem Glas
+41Cn4|Lebensmittel in einer Glasflasche oder einem flaschenförmigen Gefäß
+41Cn5|Lebensmitteln in anderen Behältern; z.B. in einem Faß, in einer Tonne, Büchse, Dose etc.
+41Cn6|konservierte Lebensmittel
+41Cn61|getrocknete, eingemachte Lebensmittel
+41Cn62|tiefgefrorene Lebensmittel
+41Cn7|gekochte Lebensmittel
+41Dk0|Variante
+41Dk1|häusliche Herstellung von Kleidung
+41Dk2|verschiedene Stadien der Produktion bei der häuslichen Herstellung von Kleidung
+41Dk21|Maß nehmen (häusliche Herstellung von Kleidung)
+41Dk22|schneiden (häusliche Herstellung von Kleidung)
+41Dk23|nähen (häusliche Herstellung von Kleidung)
+41Dk24|Anprobe (häusliche Herstellung von Kleidung)
+41Dk3|Muster(stück) (häusliche Herstellung von Kleidung)
+41Dk4|Kleiderstoffe, -materialien
+41Dk41|Textilfabriken (Herstellung von Kleidung)
+41Dk411|Spitzen(besatz) als Material für Kleidung
+41Dk42|Leder als Material für Kleidung
+41Dk43|Pelz als Material für Kleidung
+41Dk44|Federn als Material für Kleidung
+41Dk45|andere Kleiderstoffe, -materialien
+41Dk5|Kleidung anziehen, sich ankleiden
+41Dk6|Kleidung ausziehen, sich entkleiden
+41Dk7|abgetragene oder abgenutzte Kleidungsstücke
+41Dk8|Bestimmung oder Funktion von Kleidungsstücken
+41Dk81|Kleidung für Männer
+41Dk811|als Mann ge- oder verkleidete Frau (Travestie)
+41Dk82|Kleidung für Frauen
+41Dk821|als Frau ge- oder verkleideter Mann (Travestie)
+41Dk83|Kleidung für Kinder
+41Dk831|Kleidung für Jungen
+41Dk832|Kleidung für Mädchen
+41k0|Variante
+41k1|Metall
+41k2|Stein
+41k3|Keramik und Glas
+41k4|Holz und andere pflanzliche Materialien
+41k5|Material tierischen Ursprungs
+41k6|synthetisches Material
+41k9|zerbrochen, beschädigt
+43Ak0|Variante
+43Ak1|Festdekoration (bei Festlichkeiten)
+43Ak11|Illumination, Feuerwerk (bei Festlichkeiten)
+43Ak12|Kranz, Girlande (bei Festlichkeiten)
+43Ak13|geschmückter Stab, tragbare Dekorationen (bei Festlichkeiten)
+43Ak2|Parade, Umzug, Kavalkade (bei Festlichkeiten)
+43Ak21|dekorierte(r) Plattform, Festwagen (bei Festlichkeiten)
+43Ak3|Musik und Gesang (bei Festlichkeiten)
+43Ak4|Tanz (bei Festlichkeiten)
+43Ak5|Kostümfest (bei Festlichkeiten)
+43Ak6|Essen und Trinken (bei Festlichkeiten)
+43Ak61|einsames Trinken (bei Festlichkeiten)
+43Ak7|Wettbewerb, Wettkampf (bei Festlichkeiten)
+43Ak71|Geschicklichkeitsspiele (bei Festlichkeiten)
+43Ak8|Rede, Ansprache (bei Festlichkeiten)
+43Ak9|das Publikum, die Öffentlichkeit (bei Festlichkeiten)
+43Ak91|Ovationen, Applaus (bei Festlichkeiten)
+43Ak92|zischen, auspfeifen (bei Festlichkeiten)
+43B3k0|Variante
+43B3k1|Besuch eines Gasthauses, Restaurants, Cafés, Clubs, Kasinos etc. (Erholung, Entspannung im Haus)
+43B3k11|Kellner, Kellnerin etc.
+43B3k12|Speisekarte
+43B3k13|Wirt, Gastwirt
+43B3k2|bestellen (im Gasthaus etc.)
+43B3k21|bedient werden (im Gasthaus etc.)
+43B3k29|sich beklagen, beschweren (im Gasthaus etc.)
+43B3k3|zahlen, die Rechnung verlangen (im Gasthaus etc.)
+43B3k4|hinausgehen, verlassen (ein Gasthaus etc.)
+43B3k9|hinausgeworfen werden (aus einem Gasthaus etc.)
+43C1k0|Variante
+43C1k1|Sportler, Spieler etc. (Sport und Spiele mit Tieren)
+43C1k11|Training (Sport und Spiele mit Tieren)
+43C1k12|spezielle Trainingsausrüstung (Sport und Spiele mit Tieren)
+43C1k2|Wettkampf (Sport und Spiele mit Tieren)
+43C1k21|die beiden Parteien, Mannschaften (Sport und Spiele mit Tieren)
+43C1k22|eine der beiden Parteien, Mannschaften (Sport und Spiele mit Tieren)
+43C1k221|Unterstützer oder Anhänger (Sport und Spiele mit Tieren)
+43C1k23|Schiedsrichter, Unparteiischer (Sport und Spiele mit Tieren)
+43C1k24|Publikum (Sport und Spiele mit Tieren)
+43C1k25|Herausforderung (Sport und Spiele mit Tieren)
+43C1k26|Vorbereitungen für den Wettkampf (Sport und Spiele mit Tieren)
+43C1k3|Ergebnis, Resultat (Sport und Spiele mit Tieren)
+43C1k31|Gewinner, Sieger eines Wettkampfs (Sport und Spiele mit Tieren)
+43C1k311|den Preis oder die Ehrenkrone entgegennehmen (Sport und Spiele mit Tieren)
+43C1k3111|Preis, Kranz, Medaille, Pokal (Sport und Spiele mit Tieren)
+43C1k32|der Verlierer eines Wettbewerbs (Sport und Spiele mit Tieren)
+43C1k321|der verspottete, verachtete Verlierer
+43C1k322|Tröstung (Sport und Spiele mit Tieren)
+43C1k3221|Trostpreis (Sport und Spiele mit Tieren)
+43C1k4|Bedarf, Erfordernisse (Sport und Spiele mit Tieren)
+43C1k4(...)|Bedarf, Erfordernisse (Sport und Spiele mit Tieren) (mit NAMEN)
+43C1k41|Waffen, Ausrüstung, Bekleidung für die Jagd
+43C1k411|Wurfobjekte oder Geschosse
+43C1k4111|Speer
+43C1k4112|Pfeil und Bogen
+43C1k4113|Blasrohr
+43C1k4114|Bumerang
+43C1k412|Schußwaffen
+43C1k413|Lasso
+43C1k414|Falle
+43C1k4141|Schlinge
+43C1k4142|Fallgrube
+43C1k415|Netz
+43C1k416|Angelgerät, Werkzeuge zum Fischen
+43C1k4161|Angelrute
+43C1k41611|Angel(zeug)
+43C1k41612|Angelleine
+43C1k41613|Angelkork
+43C1k41614|Angelhaken
+43C1k4162|Harpune
+43C1k41621|Dreizack
+43C1k4163|Fischnetz
+43C1k4164|Fangnetz
+43C1k4165|Korb mit Ködern
+43C1k4166|Schachtel mit Ködern
+43C1k417|Miscellanea
+43C1k4171|Jagdmesser
+43C1k4179|andere Miscellanea
+43C1k4179(...)|andere Miscellanea (mit NAMEN)
+43C1k42|Tiere, die bei der Jagd eingesetzt werden
+43C1k421|mit Hunden jagen; Jagdhunde
+43C1k422|mit Geparden jagen; Jagdleoparden
+43C1k423|mit Pferden jagen
+43C1k424|mit Vögeln jagen
+43C1k4241|mit Falke, Habicht jagen; Falknerei
+43C1k4242|mit Adler jagen
+43C1k425|mit Hilfe von Fischen als Ködern jagen
+43C1k43|mit Hilfe von Ködern, Lockvögeln jagen
+43C1k431|Futter (Sport und Spiele mit Tieren)
+43C1k432|Tiere als Köder, Lockvögel
+43C1k4321|künstliche Tiere als Köder, Lockvögel
+43C1k433|Nachahmung von Lockrufen bei der Jagd
+43C1k5|Organisation, Verein (Sport und Spiele mit Tieren)
+43C1k51|Team, Mannschaft (Sport und Spiele mit Tieren)
+43C1k6|im Freien (Sport und Spiele mit Tieren)
+43C1k61|innen, im Haus (Sport und Spiele mit Tieren)
+43C1k7|Schlüssel Nr. 7 entfällt
+43C1k8|Streit, Meinungsverschiedenheiten (Sport und Spiele mit Tieren)
+43C1k81|Foul (Sport, Spiele etc.)
+43C1k9|Unfall (Sport und Spiele mit Tieren)
+43Ck0|Variante
+43Ck1|Sportler, Spieler etc.
+43Ck11|Training (Sport, Spiele etc.)
+43Ck12|spezielle Trainingsausrüstung (Sport, Spiele etc.)
+43Ck2|Wettkampf (Sport, Spiele etc.)
+43Ck21|die beiden Parteien, Mannschaften (Sport, Spiele etc.)
+43Ck22|eine der beiden Parteien, Mannschaften (Sport, Spiele etc.)
+43Ck221|Unterstützer oder Anhänger (Sport, Spiele etc.)
+43Ck23|Schiedsrichter, Unparteiischer (Sport, Spiele etc.)
+43Ck24|Publikum (Sport, Spiele etc.)
+43Ck25|Herausforderung (Sport, Spiele etc.)
+43Ck26|Vorbereitungen für den Wettkampf (Sport, Spiele etc.)
+43Ck29|Pause oder Unterbrechung während eines sportlichen Wettkampfs
+43Ck3|Ergebnis, Resultat (Sport, Spiele etc.)
+43Ck31|Gewinner, Sieger eines Wettkampfs (Sport, Spiele etc.)
+43Ck311|den Preis oder die Ehrenkrone entgegennehmen (Sport, Spiele etc.)
+43Ck3111|Preis, Kranz, Medaille, Pokal (Sport, Spiele etc.)
+43Ck32|der Verlierer eines Wettbewerbs (Sport, Spiele etc.)
+43Ck321|der verspottete, verachtete Verlierer (Sport, Spiele etc.)
+43Ck322|Tröstung (Sport, Spiele etc.)
+43Ck3221|Trostpreis (Sport, Spiele etc.)
+43Ck4|Bedarf, Erfordernisse (Sport, Spiele etc.)
+43Ck4(...)|Bedarf, Erfordernisse (Sport, Spiele etc.) (mit NAMEN)
+43Ck4(BALL)|Bedarf, Erfordernisse (Sport, Spiele etc.): Ball
+43Ck41|Ausrüstung, Bekleidung (Sport, Spiele etc.)
+43Ck5|Organisation, Verein (Sport, Spiele etc.)
+43Ck51|Team, Mannschaft (Sport, Spiele etc.)
+43Ck6|im Freien (Sport, Spiele etc.)
+43Ck61|innen, im Haus (Sport, Spiele etc.)
+43Ck7|Schlüssel Nr.7 entfällt
+43Ck8|Streit, Meinungsverschiedenheiten (Sport, Spiele etc.)
+43Ck81|Foul (Sport, Spiele etc.)
+43Ck9|Unfall (Sport, Spiele etc.)
+44Ak0|Variante
+44Ak1|Staatenbündnis; übernational; international
+44Ak1(...)|Staatenbündnis; übernational, international (mit NAME der Organisation)
+44Ak2|Nation; national
+44Ak2(...)|Nation; national (mit NAMEN des Landes)
+44Ak3|Provinz, Region; regional
+44Ak3(...)|Provinz, Region; regional (mit NAMEN der Provinz)
+44Ak4|Stadt; Gemeinde
+44Ak4(...)|Stadt; Gemeinde (mit NAMEN der Stadt)
+44Ak5|Gesellschaft
+44Ak5(...)|Gesellschaft (mit NAMEN)
+44Ak6|Kirche, Kloster; ekklesiastische Gemeinschaft
+44Ak6(...)|Kirche, Kloster, ekklesiastische Gemeinschaft (mit NAMEN)
+44Gk0|Variante
+44Gk1|Gerichtsgebäude
+44Gk11|Gerichtssaal
+44Gk12|Gefängnis, Gefängniszelle
+44Gk13|Besserungsanstalt
+44Gk14|Ort der Hinrichtung
+44Gk2|Richter
+44Gk21|andere Gerichtsbeamte
+44Gk22|Gefangenenwärter, Gefängnisaufseher
+44Gk23|die Geschworenen
+44Gk24|Zeuge
+44Gk25|Rechtsanwalt
+44Gk26|Polizei
+44Gk27|Angeklagte(r)
+44Gk28|Verbrecher, Kriminelle
+44Gk3|Hilfsmittel (von Recht und Rechtsprechung)
+44Gk31|Rechtsaltertümer
+44Gk32|Handschellen, Fesseln
+44Gk33|Folterinstrumente
+44Gk34|Hinrichtungswerkzeuge
+44Gk35|fasces cum securibus
+44Gk39|Kleidung bei Gericht
+44Gk4|Gerichtstypen
+44Gk41|Strafgericht, Strafkammer
+44Gk42|Polizeigericht
+44Gk43|Gericht für Schnellverfahren
+44Gk44|Geschworenengericht
+44Gk45|Berufungsgericht
+44Gk46|höchstes Berufungsgericht
+44Gk47|kirchliches Gericht
+44Gk48|verschiedene Gerichte, Gerichtshöfe
+44Gk481|Schlichtungsamt (für Handel und Gewerbe)
+44Gk482|Marinegericht
+44Gk483|Kriegsgericht, Militärgericht
+44Gk484|Handelsgerichtshof
+44Gk49|Schiedsgericht
+44Gk5|Stadien eines Gerichtsverfahrens
+44Gk51|Verhaftung, Festnahme
+44Gk511|Transport, Deportation
+44Gk512|auf frischer Tat ertappt werden
+44Gk52|Vernehmung, Verhör
+44Gk53|Anklage
+44Gk54|Verteidigung
+44Gk55|Urteilsspruch
+44Gk551|Freispruch
+44Gk56|Gefängnisstrafe
+44Gk561|Bestrafung in der Öffentlichkeit
+44Gk57|Hinrichtung
+44Gk571|Folter
+44Gk58|Verbannung, Exil
+44Gk59|Entlassung aus dem Gefängnis
+44Gk591|Flucht aus dem Gefängnis
+44Gk6|Machtmißbrauch; staatliches Verbrechen
+44Gk61|Freispruch eines Schuldigen
+44Gk62|Verurteilung oder Bestrafung eines Unschuldigen
+45k0|Variante
+45k1|während der Schlacht
+45k11|vor der Schlacht
+45k12|nach der Schlacht
+45k2|Landstreitkräfte, Heer
+45k21|Infanterie
+45k21(...)|Infanterieeinheiten (mit NAMEN)
+45k211|Fallschirmspringertruppen
+45k212|Marines (vom amerikanischen Marine Corps)
+45k22|Kavallerie, Reitertruppen
+45k22(...)|Kavallerieeinheiten (mit NAMEN)
+45k221|berittene Einheiten (nicht zu Pferd)
+45k23|motorisierte Truppen
+45k231|Streitwagen
+45k232|bewaffnetes Fahrzeug, Panzer
+45k24|Artillerie
+45k25|Hilfstruppen
+45k26|Bürgerwehr, Zivilgarde, Miliz
+45k27|Partisanen, Franktireurs
+45k28|Söldnertruppen, z.B.: Landsknechte
+45k29|irreguläre Truppen
+45k3|Kriegsmarine
+45k31|Ruderschiffe, z.B.: Galeere
+45k32|Segelschiffe
+45k32(...)|Segelschiffe (mit NAMEN)
+45k33|Motorschiffe
+45k34|Hilfsschiffe
+45k35|Landungsboot
+45k4|Luftwaffe
+45k41|Kampfflugzeuge, Jagdflugzeuge
+45k42|Bomber (Flugzeuge)
+45k43|Transportflugzeuge
+45k44|Ballons
+45k441|Luftschiffe, Zeppeline
+45k45|Flugplatz und Bodenpersonal
+45k5|Dienstgrade; Gliederung der Streitkräfte
+45k51|Oberbefehlshaber
+45k52|Offiziere
+45k53|Soldaten ohne Dienstgrad
+45k54|Gliederung der Streitkräfte
+45k541|Division, Bataillon, Regiment
+45k542|Kompanie
+45k543|kleine Einheit
+45k6|Waffen
+45k61|Austeilung von Waffen
+45k611|Austeilung von Waffen während der Schlacht
+45k62|Transport von Waffen
+45k63|Handhabung von waffen
+45k631|Instandhaltung von Waffen
+45k64|Inspektion von Waffen
+45k65|Übergabe von Waffen
+45k66|Waffen wegwerfen
+45k67|Waffenschmuck
+45k69|Zerstörung von Waffen
+45k7|das Terrain erkunden (Kriegsführung)
+45k71|Kriegsführung im Wald
+45k72|Kriegsführung in bebautem Gebiet
+45k73|Kriegsführung auf dem Wasser, entlang eines Flusses, am Strand
+45k731|Landung, Ausschiffung von Streitkräften
+45k74|Kriegsführung in bergigem Gelände
+45k75|außerhalb gelegene Stadtmauer oder Festung
+46Ck0|Variante
+46Ck1|Sicht, Ansicht (Fahrzeug, Schiff etc.)
+46Ck11|das Äußere eines Fahrzeugs, Schiffs etc.
+46Ck12|das Innere eines Fahrzeugs, Schiffs etc.
+46Ck13|das Äußere und Innere eines Fahrzeugs, Schiffs etc. kombiniert
+46Ck2|Anzahl von Personen (Verkehr und Transportwesen)
+46Ck21|eine Person (Verkehr und Transportwesen)
+46Ck22|zwei Personen (Verkehr und Transportwesen)
+46Ck23|drei Personen (Verkehr und Transportwesen)
+46Ck24|vier oder mehr Personen (Verkehr und Transportwesen)
+46Ck3|verschiedene Antriebsarten eines Fahrzeugs, Schiffs etc.
+46Ck31|Antrieb eines Fahrzeugs, Schiffs etc. durch menschliche Körperkraft
+46Ck32|Antrieb eines Fahrzeugs, Schiffs etc. durch Tiere
+46Ck33|Antrieb eines Fahrzeugs, Schiffs etc. durch Wind
+46Ck34|Antrieb eines Fahrzeugs, Schiffs etc. durch Wasser
+46Ck35|Antrieb eines Fahrzeugs, Schiffs etc. durch Dampf
+46Ck36|Antrieb eines Fahrzeugs, Schiffs etc. durch Verbrennung
+46Ck37|Antrieb eines Fahrzeugs, Schiffs etc. durch Elektrizität
+46Ck38|Antrieb eines Fahrzeugs, Schiffs etc. durch Atomkraft
+46Ck39|Antrieb eines Fahrzeugs, Schiffs etc. durch Automation
+46Ck4|Orte, an denen Verkehr stattfindet
+46Ck41|Verkehr auf dem (Fest-)Land
+46Ck42|Verkehr auf dem Wasser
+46Ck43|Verkehr in der Luft, im Weltraum
+46Ck5|Formen und Mittel der (räumlichen) Beförderung
+46Ck51|Beförderung von Personen
+46Ck511|Vergnügungsreisen
+46Ck52|Beförderung und Transport von Tieren
+46Ck53|Beförderung und Transport von Lasten und Frachtgütern
+46Ck54|(räumliche) Beförderung zu wissenschaftlichen Zwecken
+46Ck6|Abreise und Ankunft (Verkehr und Transportwesen)
+46Ck61|Vorbereitungen zur Abreise
+46Ck611|Brennstoff aufnehmen; die Tiere füttern
+46Ck612|einladen
+46Ck62|Abreise; den Anker lichten
+46Ck621|hineingehen; einsteigen, besteigen; Einschiffung
+46Ck622|zum Abschied winken
+46Ck623|Wartesaal (Ankunft und Abreise)
+46Ck63|unterwegs; auf See (Reisen)
+46Ck631|Haltestelle, Rastplatz
+46Ck632|Rast, Ruhepause (Reisen)
+46Ck64|Ankunft, vor Anker gehen, ankern
+46Ck641|hinausgehen; aussteigen, absteigen; landen
+46Ck642|ausladen
+46Ck643|begrüßen
+46Ck644|Rückkehr
+46Ck7|zoologische Aspekte von Tieren in Verkehr und Transportwesen
+46Ck70|Variante
+46Ck71|Tiere als Symbole
+46Ck711|Bestiarien, z.B. der Physiologus
+46Ck712|Wappentiere
+46Ck713|Tiere als Attribute
+46Ck714|Tiere in der Karikatur
+46Ck715|ornamentale Darstellungen von Tieren
+46Ck7151|symmetrisch plazierte ornamentale Tierdarstellungen
+46Ck7152|ornamentale Tierdarstellungen, teilweise miteinander vereinigt
+46Ck7153|ornamentale Tierdarstellungen, teilweise miteinander verflochten
+46Ck7154|symmetrisch plazierte ornamentale Tierdarstellungen, die von einer (menschlichen) Figur oder einem Gegenstand getrennt werden
+46Ck72|Geschlecht und Alter von Tieren; Fortpflanzung von Tieren
+46Ck721|junges Tier
+46Ck722|männliches Tier
+46Ck723|weibliches Tier
+46Ck724|sehr altes Tier
+46Ck73|Anatomie von Tieren
+46Ck731|Skelett eines Tieres
+46Ck732|Rumpf eines Tieres
+46Ck7321|Genitalien eines Tieres
+46Ck73211|Genitalien eines männlichen Tieres
+46Ck73212|Genitalien eines weiblichen Tieres
+46Ck7322|Gesäß eines Tieres
+46Ck7323|Eingeweide, innere Organe eines Tieres
+46Ck733|Kopf eines Tieres
+46Ck7331|Schädel eines Tieres
+46Ck7332|Geweih, Horn
+46Ck7333|Ohren eines Tieres
+46Ck7334|Fangzahn, Stoßzahn
+46Ck7335|Schnauze, Kiefer, Schnabel
+46Ck7336|Zunge eines Tieres
+46Ck7337|Augen eines Tieres
+46Ck734|Gliedmaßen eines Tieres
+46Ck7341|Klauen, Pfoten eines Tieres
+46Ck7342|Flügel eines Tieres
+46Ck7343|Schwanz eines Tieres
+46Ck7349|Spur, Fährte eines Tieres
+46Ck735|äußere Erscheinung von Tieren
+46Ck7351|Haut, Schaffell, Fell, Pelz, Leder
+46Ck7352|Federn
+46Ck7353|Schuppen eines Tieres
+46Ck736|Schale, Panzer, Schneckenhaus etc.
+46Ck74|tierisches Verhalten
+46Ck741|Geburt eines Tieres
+46Ck7411|Geburt aus einem Ei
+46Ck7412|brüten, ausbrüten
+46Ck7413|Larve, Made
+46Ck7414|Puppe (zoologisch), Schmetterlingspuppe
+46Ck742|Fütterung und Pflege der Jungtiere
+46Ck7421|Nest, Höhle, Bau eines Tieres
+46Ck7422|Erziehung von und Spiel mit den Jungtieren
+46Ck7429|ein Tier tötet seine eigene Brut
+46Ck743|Tiere werben umeinander und paaren sich
+46Ck7431|Tiere werben umeinander
+46Ck7432|Tiere paaren sich
+46Ck744|Beziehungen zwischen Tieren
+46Ck7441|Herde, Gruppe von Tieren
+46Ck7442|Tiere spielen miteinander
+46Ck745|Tiere fressen und trinken
+46Ck7451|Tiere suchen nach Futter
+46Ck7452|Tier mit Beute(tier)
+46Ck7459|Tiere scheiden Exkremente aus
+46Ck74591|Exkremente, Kot von Tieren
+46Ck746|schlafende Tiere
+46Ck7461|Tiere im Winterschlaf
+46Ck747|Tierpsychologie
+46Ck7471|Instinkt eines Tieres
+46Ck74711|Wanderung, Zug von Tieren
+46Ck74712|Tiere errichten ein Nest, einen Bau, ein Netz etc.
+46Ck748|Wandlungen in der äußeren Erscheinung von Tieren
+46Ck7481|Tiere wechseln ihre äußere Erscheinung im Rhythmus der Jahreszeiten
+46Ck74811|Tiere wechseln ihre äußere Erscheinung im Sommer
+46Ck74812|Tiere wechseln ihre äußere Erscheinung im Winter
+46Ck74813|Umwandlung, Gestaltveränderung von Tieren
+46Ck74814|Tiere wechseln ihre äußere Erscheinung in der Brunstzeit
+46Ck7482|Erneuerung, Regeneration der äußeren Erscheinung von Tieren
+46Ck74821|Häutung (oder Mauser) von Tieren
+46Ck7483|Angleichung der äußeren Erscheinung von Tieren an ihre Umgebung
+46Ck74831|Tiere wechseln ihre Farbe
+46Ck749|akustische Formen der Kommunikation bei Tieren: Brüllen; Schreien, Singen, Bellen, Miauen, Wiehern, Zwitschern etc.
+46Ck7491|nicht-akustische Formen der Kommunikation bei Tieren: Wedeln mit dem Schwanz etc.
+46Ck75|Bewegung von Tieren; Stellungen, Ausdrucksweisen von Tieren
+46Ck751|kämpfende Tiere; aggressive Beziehungen
+46Ck7511|drohende Tiere
+46Ck7512|angreifende Tiere
+46Ck7513|Tiere bei der Verfolgungsjagd
+46Ck7514|tötende Tiere
+46Ck7515|Tiere töten sich selbst
+46Ck75151|Tiere suchen den Tod; Selbstopferung von Tieren
+46Ck752|Bewegungen von Tieren
+46Ck7521|Vorwärtsbewegung von Tieren
+46Ck75211|laufendes Tier
+46Ck75212|rennendes Tier
+46Ck75213|ein Tier wälzt sich vorwärts bzw. herum
+46Ck75214|ein Tier läuft auf den Vorderbeinen
+46Ck75215|ein Tier wird geritten
+46Ck75219|Rückwärtsbewegung eines Tieres
+46Ck7522|Aufwärts- und Abwärtsbewegung von Tieren
+46Ck75221|springende Tiere
+46Ck75222|kletternde Tiere
+46Ck75223|ein Tier zieht sich selbst nach oben
+46Ck75227|ein Tier trampelt, tritt, stampft auf etwas oder jemandem herum
+46Ck7523|passive Bewegung von Tieren
+46Ck75231|fallende Tiere
+46Ck75232|Tiere werden getragen
+46Ck7524|Bewegung von Tieren mit Bezug auf ein anderes Tier, eine menschliche Figur oder einen Gegenstand
+46Ck75241|Tiere werfen bzw. schleudern etwas
+46Ck75242|Tiere greifen nach etwas
+46Ck75243|Tiere schlagen bzw. stoßen etwas oder jemanden
+46Ck75244|Tiere greifen bzw. packen etwas oder jemanden
+46Ck75245|Tiere halten etwas oder jemanden
+46Ck75246|Tiere tragen etwas oder jemanden
+46Ck75247|Tiere ziehen bzw. zerren etwas oder jemanden
+46Ck75248|Tiere schieben etwas oder jemanden
+46Ck752481|Tiere drehen etwas oder jemanden
+46Ck7525|andere Bewegungen von Tieren
+46Ck75251|ein Tier rollt sich zusammen
+46Ck75252|ein Tier streckt sich aus
+46Ck75253|ein Tier dreht bzw. windet sich
+46Ck7526|Tiere bewegen sich in der Luft
+46Ck75262|fliegende Tiere
+46Ck75263|Tiere schweben in der Luft
+46Ck7527|Tiere bewegen sich im Wasser
+46Ck75273|schwimmende Tiere
+46Ck75274|Tiere treiben im Wasser
+46Ck75278|Tiere tauchen aus dem Wasser auf
+46Ck753|Haltungen, Stellungen von Tieren
+46Ck7531|ein stehendes Tier
+46Ck7532|ein Tier lehnt sich an etwas oder jemanden an
+46Ck7533|ein kniendes Tier
+46Ck7534|ein kauerndes, geducktes Tier
+46Ck7535|ein sitzendes Tier
+46Ck7536|ein liegendes Tier
+46Ck7537|ein hängendes Tier
+46Ck75371|ein mit dem Kopf nach unten hängendes Tier
+46Ck7539|andere (oben nicht erwähnte) Stellungen und Körperhaltungen von Tieren
+46Ck754|Kopfhaltungen von Tieren
+46Ck7541|ein Tier mit erhobenem Kopf
+46Ck7542|ein Tier mit seitwärts gedrehtem Kopf
+46Ck7543|ein Tier mit rückwärts gedrehtem Kopf
+46Ck7544|ein Tier mit nach vorne geneigtem Kopf; ein nach vorne gebeugtes Tier
+46Ck7547|ein Tier blickt über die Schulter
+46Ck755|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+46Ck7551|ein Tier mit erhobenen Vorderbeinen
+46Ck7552|ein Tier mit nach vorne ausgestreckten Vorderbeinen
+46Ck7553|ein Tier mit seitlich ausgestreckten Vorderbeinen
+46Ck7554|ein Tier hält seine Vorderbeine vor den Körper
+46Ck75541|ein Tier mit einer Vorderpfote bzw. Klaue auf dem Herz
+46Ck75542|ein Tier legt seine Vorderpfoten bzw. Klauen vor dem Unterleib übereinander
+46Ck7555|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren zueinander
+46Ck75551|ein Tier mit gekreuzten Vorderpfoten
+46Ck75552|ein Tier mit aneinander gehaltenen Vorderpfoten
+46Ck7556|auf den Kopf bezogene Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+46Ck75561|ein Tier zeigt mit der Vorderpfote auf die Stirn
+46Ck75562|Vorderpfote(n) auf das (die) Auge(n) gerichtet
+46Ck75563|Vorderpfote(n) auf die Nase gerichtet
+46Ck75564|Vorderpfote(n) auf den Mund gerichtet
+46Ck75565|Vorderpfote(n) auf ein (die) Ohr(en) gerichtet
+46Ck7557|Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren, die sich auf ein anderes Tier, einen Menschen oder einen Gegenstand beziehen
+46Ck75571|ein Tier packt ein anderes Tier, einen Menschen oder einen Gegenstand
+46Ck7559|noch mehr Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren
+46Ck756|Stellungen der Hinterbeine von Tieren
+46Ck7561|Tiere stehen auf ihren Hinterbeinen
+46Ck7562|Tiere sitzen mit überkreuzten Beinen
+46Ck757|Morphologie des Gesichtsausdrucks von Tieren (generell)
+46Ck7571|Morphologie des Gesichtsausdrucks von Tieren: Augen
+46Ck75711|ein Tier blickt nach oben
+46Ck75712|ein Tier blickt nach unten
+46Ck75713|ein Tier blickt seitwärts
+46Ck75717|ein Tier blickt rückwärts
+46Ck7573|Morphologie des Gesichtsausdrucks von Tieren: Mund
+46Ck75731|ein lächelndes Tier
+46Ck75732|ein Tier mit leicht geöffnetem Mund
+46Ck757321|ein Tier mit herausgestreckter Zunge
+46Ck75733|ein Tier mit weit geöffnetem Mund
+46Ck757331|ein Tier mit weit geöffnetem Mund und zusammengepressten Zähnen
+46Ck758|Beziehungen von neutralem oder freundlichem, nicht-aggressivem Charakter (Morphologie des Ausdrucks von Tieren)
+46Ck76|Krankheit und Tod von Tieren
+46Ck761|kranke Tiere
+46Ck762|verwundete Tiere
+46Ck7621|erschlagene, erschossene, gefangene Tiere
+46Ck763|ein Sterbendes Tier; Tod eines Tieres; ein totes Tier
+46Ck764|ein Tier wird vom Menschen getötet
+46Ck7641|ein geschlachtetes Tier
+46Ck765|Pflege eines kranken Tieres
+46Ck766|Aas
+46Ck767|ein ausgestopftes Tier
+46Ck77|biologische Erforschung von Tieren
+46Ck771|Beobachtung von Tieren
+46Ck772|Experimente mit Tieren (mit biologischer Zielsetzung)
+46Ck779|ausgestorbene Tiere
+46Ck78|Mensch und Tier
+46Ck781|Vieh
+46Ck782|Haustiere
+46Ck783|Reinigung eines Tieres; z.B. Waschen, Pflege
+46Ck789|medizinische Tierversuche
+46Ck7891|Darstellung von Tieren als Stellvertreter des Menschen
+46Ck7892|Gebrauch von Tieren in der medizinischen Forschung
+46Ck7893|Vivisektion von Tieren
+46Ck79|tierische Erzeugnisse
+46Ck791|Ei
+46Ck7911|Eier legen
+46Ck792|tierisches Gift
+46Ck793|Perle (als tierisches Erzeugnis)
+46Ck8|ungewöhnliche Formen, auf einem Reittier zu sitzen
+46Ck81|ohne Sattel rittlings sitzen
+46Ck82|auf einem Tier mit beiden Beinen zur Seite sitzen; auf einem Damensattel reiten
+46Ck83|rückwärts auf einem Reittier sitzen
+46Ck84|stehend reiten
+46Ck85|mehrere Personen reiten auf einem Tier
+46Ck9|Unfall, Kollision, Zusammenstoß (Verkehr und Transportwesen)
+46Ck91|die Opfer bergen (nach einem Verkehrsunfall)
+46Ck92|Wrack (nach einem Verkehrsunfall)
+46Ck93|Vorkehrungen zur Vermeidung von Unfällen
+47k0|Variante
+47k1|Orte (für Gewerbe, Industrie, Landwirtschaft)
+47k11|innen; im Laboratorium, in der Fabrik, der Scheune etc.
+47k12|im Freien
+47k121|auf bewässerten Feldern
+47k122|unter einer schützenden Bedeckung, z.B. in einer Treibform
+47k13|unter der Erde; in Kellern
+47k14|auf dem Wasser
+47k15|in der Luft; im Weltraum
+47k2|Arbeiter
+47k21|Männer (Arbeiter)
+47k22|Frauen (Arbeiterinnen)
+47k23|Kinder (Arbeiter)
+47k24|Tiere (Arbeiter)
+47k3|technische Aspekte (Gewerbe, Industrie, Landwirtschaft)
+47k31|Handarbeit (Gewerbe, Industrie, Landwirtschaft)
+47k32|Werkzeuge und Arbeitsgeräte (Gewerbe, Industrie, Landwirtschaft)
+47k33|Hilfsmittel (Gewerbe, Industrie, Landwirtschaft)
+47k34|Maschinen (Gewerbe, Industrie, Landwirtschaft)
+47k35|Maschinenteile (Gewerbe, Industrie, Landwirtschaft)
+47k36|Berufskleidung (Gewerbe, Industrie, Landwirtschaft)
+47k4|Materialien verarbeiten (Gewerbe, Industrie, Landwirtschaft)
+47k41|Metalle, Mineralien (Gewerbe, Industrie, Landwirtschaft)
+47k411|Edelmetalle (Gewerbe, Industrie, Landwirtschaft)
+47k412|unedle Metalle (Gewerbe, Industrie, Landwirtschaft)
+47k42|Gestein (Gewerbe, Industrie, Landwirtschaft)
+47k421|Halbedelsteine (Gewerbe, Industrie, Landwirtschaft)
+47k43|Ton, Lehm, Sand (Gewerbe und Industrie)
+47k431|Keramik (Gewerbe, Industrie, Landwirtschaft)
+47k432|Glas (Gewerbe, Industrie, Landwirtschaft)
+47k44|pflanzliche Materialien (Gewerbe, Industrie, Landwirtschaft)
+47k441|Fasern (Gewerbe, Industrie, Landwirtschaft)
+47k4411|Flachs, Leinen (Gewerbe, Industrie, Landwirtschaft)
+47k4412|Baumwolle (Gewerbe, Industrie, Landwirtschaft)
+47k442|Schilf, Binsen (Gewerbe, Industrie, Landwirtschaft)
+47k443|Zweige (Gewerbe, Industrie, Landwirtschaft)
+47k444|Holz (Gewerbe, Industrie, Landwirtschaft)
+47k445|andere pflanzliche Materialien (Gewerbe, Industrie, Landwirtschaft)
+47k45|tierische Materialien (Gewerbe, Industrie, Landwirtschaft)
+47k451|Haut, Pelz, Leder etc. (Gewerbe, Industrie, Landwirtschaft)
+47k4511|Wolle (Gewerbe, Industrie, Landwirtschaft)
+47k452|Knochen (Gewerbe, Industrie, Landwirtschaft)
+47k453|Horn, Elfenbein (Gewerbe, Industrie, Landwirtschaft)
+47k454|Schalen (Gewerbe, Industrie, Landwirtschaft)
+47k455|Seide (Gewerbe, Industrie, Landwirtschaft)
+47k456|andere tierische Materialien (Gewerbe, Industrie, Landwirtschaft)
+47k456(...)|andere tierische Materialien in Gewerbe, Industrie und Landwirtschaft (mit NAMEN)
+47k46|Flüssigkeiten (Gewerbe, Industrie, Landwirtschaft)
+47k461|Öl (Gewerbe, Industrie, Landwirtschaft)
+47k462|chemische Flüssigkeit (Gewerbe, Industrie, Landwirtschaft)
+47k47|Nahrungsmittel (Gewerbe, Industrie, Landwirtschaft)
+47k48|synthetisches Material (Gewerbe, Industrie, Landwirtschaft)
+47k5|grundlegende industrielle Verfahrensweisen
+47k51|präparieren, reinigen, sortieren, selektieren (industrielle Verfahrensweisen)
+47k52|verlagern, wegnehmen (industrielle Verfahrensweisen)
+47k53|teilen, aufteilen (industrielle Verfahrensweisen)
+47k54|verbinden, festmachen, festbinden, zusammenfügen (industrielle Verfahrensweisen)
+47k55|glätten, polieren (industrielle Verfahrensweisen)
+47k56|mischen, formen, gießen (industrielle Verfahrensweisen)
+47k57|biegen, falten, formen (industrielle Verfahrensweisen)
+47k58|bohren, durchbohren (industrielle Verfahrensweisen)
+47k59|schmücken, dekorieren (industrielle Verfahrensweisen)
+47k6|vor und nach der Produktion
+47k61|Zeichnung, Entwurf, Plan (Produktion)
+47k611|Forschung, Experiment (Produktion)
+47k612|Modell (Produktion)
+47k6121|Versuch, Test, Probe (Produktion)
+47k62|Produkt (Gewerbe, Industrie, Landwirtschaft)
+47k63|Produkte sortieren, einpacken (Gewerbe, Industrie, Landwirtschaft)
+47k64|Produkte lagern, konservieren, aufbewahren (Gewerbe, Industrie, Landwirtschaft)
+47k65|Transport von Produkten (Gewerbe, Industrie, Landwirtschaft)
+47k66|Handel (Gewerbe, Industrie, Landwirtschaft)
+47k67|für den Gebrauch oder Konsum vorbereiten (Gewerbe, Industrie, Landwirtschaft)
+47k671|flicken, reparieren (Gewerbe, Industrie, Landwirtschaft)
+47k69|Zerstörung von Produkten
+47k691|unfallbedingte Zerstörungen, Fehler von Produkten
+47k6911|Zerstörung von Produkten durch die Elemente
+47k6912|Zerstörung von Produkten durch Tiere
+47k6913|Zerstörung von Produkten durch Krankheiten
+47k692|aktive Zerstörung von Produkten
+47k6921|Demontage von Produkten
+47k6922|Explosion von Produkten
+47k699|Wiederverwertung; Recycling von Produkten
+47k7|Formen der Produktion und Organisation
+47k71|Heimarbeit
+47k72|industrielle Produktion
+47k73|Tagelöhner
+47k8|landwirtschaftliche Verfahrensweisen
+47k81|Bodenbearbeitung (landwirtschaftliche Verfahrensweisen)
+47k82|säen, pflanzen (landwirtschaftliche Verfahrensweisen)
+47k83|Pflege von Pflanzen (landwirtschaftliche Verfahrensweisen)
+47k84|ernten (landwirtschaftliche Verfahrensweisen)
+47k85|Pflege von Tieren (landwirtschaftliche Verfahrensweisen)
+47k89|Ergebnisse und Besonderheiten des pflanzlichen Wachstums (landwirtschaftliche Verfahrensweisen)
+47k891|Pflanzen als Symbole
+47k8911|Floralia
+47k8912|Wappenpflanzen
+47k8913|Pflanzen als Attribute
+47k8914|Pflanzen in der Karikatur
+47k8915|ornamentale Pflanzendarstellungen
+47k892|Teile von Pflanzen
+47k8921|Stengel, (Baum-)Stamm
+47k89211|(Baum-)Stumpf, Strunk
+47k8922|Ast, Stock
+47k89221|Reis (Holz), Zweig
+47k89222|Dornenzweig
+47k89223|Dorn, Stachel
+47k89224|Holz-, Reisigbündel
+47k89225|verdorrter Zweig
+47k8923|Spitze, Krone, oberstes Teil einer Pflanze
+47k8924|Wurzel, Knolle
+47k89241|Luftwurzel
+47k8925|Ranke, Rankengeflecht
+47k8926|(Blumen-)Zwiebel, Knolle
+47k8927|Blatt
+47k8929|andere Teile von Pflanzen
+47k893|Kennzeichen pflanzlichen Wachstums
+47k8931|Knospe, knospende Pflanzen
+47k8932|Blumen, Blüten, blühende Pflanzen
+47k8933|Blätter, Blattknospen
+47k8934|Pflanzen tragen Früchte
+47k89341|Pflanzen werfen Früchte ab
+47k8935|Pflanzen verwelken, verdorren; Blätter oder Blüten fallen ab
+47k89351|kahle Pflanzen
+47k8936|Alter von Pflanzen
+47k89361|junge Pflanzen
+47k89362|ausgewachsene Pflanzen
+47k89363|(sehr) alte Pflanzen
+47k8937|absterbende Pflanzen
+47k89371|abgestorbene, verdorrte Pflanzen
+47k8939|andere Kennzeichen pflanzlichen Wachstums
+47k8939(...)|andere Kennzeichen pflanzlichen Wachstums (mit NAME)
+47k9|zoologische Aspekte der Vieh- und Geflügelhaltung
+47k90|Variante
+47k91|Tiere als Symbole
+47k911|Bestiarien, z.B. der Physiologus
+47k912|Wappentiere
+47k913|Tiere als Attribute
+47k914|Tiere in der Karikatur
+47k915|ornamentale Darstellungen von Tieren
+47k9151|symmetrisch plazierte ornamentale Tierdarstellungen
+47k9152|ornamentale Tierdarstellungen, teilweise miteinander vereinigt
+47k9153|ornamentale Tierdarstellungen, teilweise miteinander verflochten
+47k9154|symmetrisch plazierte ornamentale Tierdarstellungen, die von einer (menschlichen) Figur oder einem Gegenstand getrennt werden
+47k92|Geschlecht und Alter von Tieren; Fortpflanzung von Tieren
+47k921|junges Tier
+47k922|männliches Tier
+47k923|weibliches Tier
+47k924|sehr altes Tier
+47k93|Anatomie von Tieren
+47k931|Skelett eines Tieres
+47k932|Rumpf eines Tieres
+47k9321|Genitalien eines Tieres
+47k93211|Genitalien eines männlichen Tieres
+47k93212|Genitalien eines weiblichen Tieres
+47k9322|Gesäß eines Tieres
+47k9323|Eingeweide, innere Organe eines Tieres
+47k933|Kopf eines Tieres
+47k9331|Schädel eines Tieres
+47k9332|Geweih, Horn
+47k9333|Ohren eines Tieres
+47k9334|Fangzahn, Stoßzahn
+47k9335|Schnauze, Kiefer, Schnabel
+47k9336|Zunge eines Tieres
+47k9337|Augen eines Tieres
+47k934|Gliedmaßen eines Tieres
+47k9341|Klauen, Pfoten eines Tieres
+47k9342|Flügel eines Tieres
+47k9343|Schwanz eines Tieres
+47k9349|Spur, Fährte eines Tieres
+47k935|äußere Erscheinung von Tieren
+47k9351|Haut, Schaffell, Fell, Pelz, Leder
+47k9352|Federn
+47k9353|Schuppen eines Tieres
+47k936|Schale, Panzer, Schneckenhaus etc.
+47k94|tierisches Verhalten
+47k941|Geburt eines Tieres
+47k9411|Geburt aus einem Ei
+47k9412|brüten, ausbrüten
+47k9413|Larve, Made
+47k9414|Puppe (zoologisch), Schmetterlingspuppe
+47k942|Fütterung und Pflege der Jungtiere
+47k9421|Nest, Höhle, Bau eines Tieres
+47k9422|Erziehung von und Spiel mit den Jungtieren
+47k9429|ein Tier tötet seine eigene Brut
+47k943|Tiere werben umeinander und paaren sich
+47k9431|Tiere werben umeinander
+47k9432|Tiere paaren sich
+47k944|Beziehungen zwischen Tieren
+47k9441|Herde, Gruppe von Tieren
+47k9442|Tiere spielen miteinander
+47k945|Tiere fressen und trinken
+47k9451|Tiere suchen nach Futter
+47k9452|Tier mit Beute(tier)
+47k9459|Tiere scheiden Exkremente aus
+47k94591|Exkremente, Kot von Tieren
+47k946|schlafende Tiere
+47k9461|Tiere im Winterschlaf
+47k947|Tierpsychologie
+47k9471|Instinkt eines Tieres
+47k94711|Wanderung, Zug von Tieren
+47k94712|Tiere errichten ein Nest, einen Bau, ein Netz etc.
+47k948|Wandlungen in der äußeren Erscheinung von Tieren
+47k9481|Tiere wechseln ihre äußere Erscheinung im Rhythmus der Jahreszeiten
+47k94811|Tiere wechseln ihre äußere Erscheinung im Sommer
+47k94812|Tiere wechseln ihre äußere Erscheinung im Winter
+47k94813|Umwandlung, Gestaltveränderung von Tieren
+47k94814|Tiere wechseln ihre äußere Erscheinung in der Brunstzeit
+47k9482|Erneuerung, Regeneration der äußeren Erscheinung von Tieren
+47k94821|Häutung (oder Mauser) von Tieren
+47k9483|Angleichung der äußeren Erscheinung von Tieren an ihre Umgebung
+47k94831|Tiere wechseln ihre Farbe
+47k949|akustische Formen der Kommunikation bei Tieren: Brüllen; Schreien, Singen, Bellen, Miauen, Wiehern, Zwitschern etc.
+47k9491|nicht-akustische Formen der Kommunikation bei Tieren: Wedeln mit dem Schwanz etc.
+47k95|Bewegung von Tieren; Stellungen, Ausdrucksweisen von Tieren
+47k951|kämpfende Tiere; aggressive Beziehungen
+47k9511|drohende Tiere
+47k9512|angreifende Tiere
+47k9513|Tiere bei der Verfolgungsjagd
+47k9514|tötende Tiere
+47k9515|Tiere töten sich selbst
+47k95151|Tiere suchen den Tod; Selbstopferung von Tieren
+47k952|Bewegungen von Tieren
+47k9521|Vorwärtsbewegung von Tieren
+47k95211|laufendes Tier
+47k95212|rennendes Tier
+47k95213|ein Tier wälzt sich vorwärts bzw. herum
+47k95214|ein Tier läuft auf den Vorderbeinen
+47k95215|ein Tier wird geritten
+47k95219|Rückwärtsbewegung eines Tieres
+47k9522|Aufwärts- und Abwärtsbewegung von Tieren
+47k95221|springende Tiere
+47k95222|kletternde Tiere
+47k95223|ein Tier zieht sich selbst nach oben
+47k95227|ein Tier trampelt, tritt, stampft auf etwas oder jemandem herum
+47k9523|passive Bewegung von Tieren
+47k95231|fallende Tiere
+47k95232|Tiere werden getragen
+47k9524|Bewegung von Tieren mit Bezug auf ein anderes Tier, eine menschliche Figur oder einen Gegenstand
+47k95241|Tiere werfen bzw. schleudern etwas
+47k95242|Tiere greifen nach etwas
+47k95243|Tiere schlagen bzw. stoßen etwas oder jemanden
+47k95244|Tiere greifen bzw. packen etwas oder jemanden
+47k95245|Tiere halten etwas oder jemanden
+47k95246|Tiere tragen etwas oder jemanden
+47k95247|Tiere ziehen bzw. zerren etwas oder jemanden
+47k95248|Tiere schieben etwas oder jemanden
+47k952481|Tiere drehen etwas oder jemanden
+47k9525|andere Bewegungen von Tieren
+47k95251|ein Tier rollt sich zusammen
+47k95252|ein Tier streckt sich aus
+47k95253|ein Tier dreht bzw. windet sich
+47k9526|Tiere bewegen sich in der Luft
+47k95262|fliegende Tiere
+47k95263|Tiere schweben in der Luft
+47k9527|Tiere bewegen sich im Wasser
+47k95273|schwimmende Tiere
+47k95274|Tiere treiben im Wasser
+47k95278|Tiere tauchen aus dem Wasser auf
+47k953|Haltungen, Stellungen von Tieren
+47k9531|ein stehendes Tier
+47k9532|ein Tier lehnt sich an etwas oder jemanden an
+47k9533|ein kniendes Tier
+47k9534|ein kauerndes, geducktes Tier
+47k9535|ein sitzendes Tier
+47k9536|ein liegendes Tier
+47k9537|ein hängendes Tier
+47k95371|ein mit dem Kopf nach unten hängendes Tier
+47k9539|andere (oben nicht erwähnte) Stellungen und Körperhaltungen von Tieren
+47k954|Kopfhaltungen von Tieren
+47k9541|ein Tier mit erhobenem Kopf
+47k9542|ein Tier mit seitwärts gedrehtem Kopf
+47k9543|ein Tier mit rückwärts gedrehtem Kopf
+47k9544|ein Tier mit nach vorne geneigtem Kopf; ein nach vorne gebeugtes Tier
+47k9547|ein Tier blickt über die Schulter
+47k955|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+47k9551|ein Tier mit erhobenen Vorderbeinen
+47k9552|ein Tier mit nach vorne ausgestreckten Vorderbeinen
+47k9553|ein Tier mit seitlich ausgestreckten Vorderbeinen
+47k9554|ein Tier hält seine Vorderbeine vor den Körper
+47k95541|ein Tier mit einer Vorderpfote bzw. Klaue auf dem Herz
+47k95542|ein Tier legt seine Vorderpfoten bzw. Klauen vor dem Unterleib übereinander
+47k9555|Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren zueinander
+47k95551|ein Tier mit gekreuzten Vorderpfoten
+47k95552|ein Tier mit aneinander gehaltenen Vorderpfoten
+47k9556|auf den Kopf bezogene Stellungen der Vorderbeine, Vorderpfoten, Klauen von Tieren
+47k95561|ein Tier zeigt mit der Vorderpfote auf die Stirn
+47k95562|Vorderpfote(n) auf das (die) Auge(n) gerichtet
+47k95563|Vorderpfote(n) auf die Nase gerichtet
+47k95564|Vorderpfote(n) auf den Mund gerichtet
+47k95565|Vorderpfote(n) auf ein (die) Ohr(en) gerichtet
+47k9557|Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren, die sich auf ein anderes Tier, einen Menschen oder einen Gegenstand beziehen
+47k95571|ein Tier packt ein anderes Tier, einen Menschen oder einen Gegenstand
+47k9559|noch mehr Stellungen und Gesten der Vorderbeine, Vorderpfoten, Klauen von Tieren
+47k956|Stellungen der Hinterbeine von Tieren
+47k9561|Tiere stehen auf ihren Hinterbeinen
+47k9562|Tiere sitzen mit überkreuzten Beinen
+47k957|Morphologie des Ausdrucks von Tieren (generell)
+47k9571|Morphologie des Gesichtsausdrucks von Tieren: Augen
+47k95711|ein Tier blickt nach oben
+47k95712|ein Tierblickt nach unten
+47k95713|ein Tier blickt seitwärts
+47k95717|ein Tier blickt rückwärts
+47k9573|Morphologie des Gesichtsausdrucks von Tieren: Mund
+47k95731|ein lächelndes Tier
+47k95732|ein Tier mit leicht geöffnetem Mund
+47k957321|ein Tier mit herausgestreckter Zunge
+47k95733|ein Tier mit weit geöffnetem Mund
+47k957331|ein Tier mit weit geöffnetem Mund und zusammengepressten Zähnen
+47k958|Beziehungen von neutralem oder freundlichem, nicht-aggressivem Charakter (Morphologie des Ausdrucks von Tieren)
+47k96|Krankheit und Tod von Tieren
+47k961|kranke Tiere
+47k962|verwundete Tiere
+47k9621|erschlagene, erschossene, gefangene Tiere
+47k963|ein sterbendes Tier; Tod eines Tieres; ein totes Tier
+47k964|ein Tier wird vom Menschen getötet
+47k9641|ein geschlachtetes Tier
+47k965|Pflege eines kranken Tieres
+47k966|Aas
+47k967|ein ausgestopftes Fabeltier
+47k97|biologische Erforschung von Tieren
+47k971|Beobachtung von Tieren
+47k972|Experimente mit Tieren (mit biologischer Zielsetzung)
+47k979|ausgestorbene Tiere
+47k98|Mensch und Tier
+47k981|Vieh
+47k982|Haustiere
+47k983|Reinigung eines Tieres, z.B. Waschen, Pflege
+47k989|medizinische Tierversuche
+47k9891|Darstellung von Tieren als Stellvertreter des Menschen
+47k9892|Gebrauch von Tieren in der medizinischen Forschung
+47k9893|Vivisektion von Tieren
+47k99|tierische Erzeugnisse
+47k991|Ei
+47k9911|Eier legen
+47k992|tierisches Gift
+47k993|Perle (als tierisches Erzeugnis)
+48A98k0|Variante
+48A98k1|ornamentale Dekoration von Oberflächen
+48A98k11|abgegrenzte ornamentale Dekoration von Oberflächen
+48A98k111|rechteckige Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k1111|symmetrisch gefüllte rechteckige Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k1112|asymmetrisch gefüllte rechteckige Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k112|kreisförmige oder ovale Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k1121|symmetrisch gefüllte kreisförmige oder ovale Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k1122|asymmetrisch gefüllte kreisförmige oder ovale Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k113|andere Formen (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k1131|andere symmetrisch gefüllte Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k1132|andere asymmetrisch gefüllte Form (abgegrenzte ornamentale Dekoration von Oberflächen)
+48A98k12|Dekoration von Oberflächen, die in zwei Richtungen ausgedehnt werden kann
+48A98k121|Bandornament
+48A98k13|Dekoration von Oberflächen, die in alle Richtungen ausgedehnt werden kann; unbegenzte ornamentale Dekoration von Oberflächen
+48A98k2|Rahmendekorationen
+48A98k21|symmetrische Rahmendekorationen
+48A98k22|asymmetrische Rahmendekorationen
+48A98k3|senkrechte und hängende Dekorationen
+48A98k31|senkrechte Dekorationen
+48A98k311|symmetrisch gefüllte senkrechte Dekorationen
+48A98k312|asymmetrisch gefüllte senkrechte Dekorationen
+48A98k32|hängende Dekorationen
+48A98k321|symmetrisch gefüllte hängende Dekorationen
+48A98k322|asymmetrisch gefüllte hängende Dekorationen
+48A98k4|dreidimensionale und scheinbar dreidimensionale Ornamente
+48A98k5|Ornamente aus belebten Formen
+48A98k51|Ornamente aus menschlichen Formen
+48A98k52|Ornamente aus pflanzlichen Formen
+48A98k53|Ornamente aus tierischen Formen
+48A98k54|Ornamente aus hybriden, monströsen Formen
+48A98k55|Ornamente, die teilweise aus belebten Formen bestehen
+48A98k6|Materialien (Ornamentik)
+48A98k61|Metalle (Ornamentik)
+48A98k611|Edelmetalle (Ornamentik)
+48A98k612|unedle Metalle (Ornamentik)
+48A98k6121|Kupfer (Ornamentik)
+48A98k6122|Bronze (Ornamentik)
+48A98k6123|Zink (Ornamentik)
+48A98k62|Gestein (Ornamentik)
+48A98k621|Halbedelsteine (Ornamentik)
+48A98k622|Marmor (Ornamentik)
+48A98k63|Ton, Lehm, Sand (Ornamentik)
+48A98k631|Keramik (Ornamentik)
+48A98k632|Glas (Ornamentik)
+48A98k633|Gips, Stuck (Ornamentik)
+48A98k64|pflanzliche Materialien (Ornamentik)
+48A98k641|Schilf, Binsen (Ornamentik)
+48A98k642|Zweige (Ornamentik)
+48A98k643|Holz, z.B.: Paneel (Ornamentik)
+48A98k644|Papier (Ornamentik)
+48A98k65|tierische Materialien (Ornamentik)
+48A98k651|Häute, Leder (Ornamentik)
+48A98k6511|Pergament (Ornamentik)
+48A98k652|Knochen, Elfenbein (Ornamentik)
+48A98k66|Textilien (Ornamentik)
+48A98k661|Leinen, Tuch, Stoff
+48A98k67|Malmaterialien (Ornamentik)
+48A98k671|Farbe (Ornamentik)
+48A98k672|Lack (Ornamentik)
+48A98k7|Ornamentstile
+48A98k71|prähistorischer Ornamentstil
+48A98k71(...)|prähistorischer Ornamentstil (mit NAMEN)
+48A98k72|antiker Ornamentstil
+48A98k721|altägyptischer Ornamentstil
+48A98k722|Ornamentstil antiker Kulturen des Nahen Ostens
+48A98k722(...)|Ornamentstil antiker Kulturen des Nahen Ostens (mit NAMEN)
+48A98k723|minoischer, mykenischer und vorgriechischer Ornamentstil
+48A98k724|griechisch-antiker Ornamentstil
+48A98k7241|archaischer griechischer Ornamentstil
+48A98k7242|klassischer griechischer Ornamentstil
+48A98k7243|hellenistischer Ornamentstil
+48A98k725|etruskischer Ornamentstil
+48A98k726|römischer Ornamentstil
+48A98k73|vorchristlicher europäischer Ornamentstil
+48A98k73(...)|Ornamentstile der Barbarenvölker und der vorchristlichen Kunst (mit NAMEN)
+48A98k74|abendländischer Ornamentstil
+48A98k741|frühchristlicher Ornamentstil
+48A98k7411|koptischer Ornamentstil
+48A98k7412|byzantinischer Ornamentstil
+48A98k742|mittelalterlicher Ornamentstil
+48A98k7421|frühmittelalterlicher Ornamentstil
+48A98k74211|karolingischer Ornamentstil
+48A98k74212|ottonischer Ornamentstil
+48A98k74213|romanischer Ornamentstil
+48A98k7422|spätmittelalterlicher Ornamentstil
+48A98k74221|gotischer Ornamentstil
+48A98k742211|Ornamentstil der Internationalen Gotik
+48A98k74222|Ornamentstil der Frührenaissance
+48A98k743|Ornamentstil der Renaissance
+48A98k744|Ornamentstil des Manierismus
+48A98k745|barocker oder palladianischer Ornamentstil
+48A98k746|Ornamentstil des Rokoko
+48A98k747|klassizistischer Ornamentstil
+48A98k748|spätere Entwicklungen des Ornamentstils
+48A98k748(...)|spätere Entwicklungen des Ornamentstils (mit NAMEN)
+48A98k75|Ornamentstil des Islam
+48A98k75(...)|Ornamentstil des Islam (mit NAMEN)
+48A98k76|nicht-europäischer Ornamentstil
+48A98k76(...)|nicht-europäischer Ornamentstil (mit NAMEN)
+48A98k761|asiatischer Ornamentstil
+48A98k7611|ostasiatischer Ornamentstil
+48A98k76111|chinesischer Ornamentstil
+48A98k76112|japanischer Ornamentstil
+48A98k7612|südasiatischer Ornamentstil
+48A98k76121|indischer Ornamentstil
+48A98k7613|nord- und zentralasiatischer Ornamentstil
+48A98k762|altamerikanischer Ornamentstil
+48A98k7621|präkolumbianischer Ornamentstil
+48A98k7622|indianischer Ornamentstil Nordamerikas
+48A98k763|Ornamentstil der afrikanischen Stammeskunst
+48A98k764|ozeanischer Ornamentstil
+48k0|Variante
+48k1|ein arbeitender Künstler
+48k10|Inspiration
+48k101|der Künstler und seine Muse
+48k11|in der Werkstatt oder im Atelier
+48k111|im Freien
+48k12|Arbeitssituationen
+48k121|Vorzeichnungen bzw. Skizzen anfertigen
+48k122|ein Künstler studiert Antiken
+48k123|ein Modell herstellen
+48k124|nach einem lebenden Modell arbeiten
+48k1241|nach einem bekleideten lebenden Modell arbeiten
+48k1242|nach einem nackten lebenden Modell arbeiten
+48k13|das (lebende) Modell des Künstlers
+48k14|Erziehung, Unterricht des Künstlers
+48k141|Ort oder Institution für die Erziehung und den Unterricht eines Künstlers, z.B.: Kunstakademie
+48k142|geniale Begabung, großes Talent des jungen Künstlers
+48k143|der Künstler unterrichtet (einen) Schüler
+48k15|ein Künstler arbeitet zusammen mit Gehilfen oder Schülern
+48k16|Atelierutensilien eines Künstlers
+48k17|Berufskleidung, Arbeitskleidung des Künstlers
+48k19|ein Künstler zerstört sein eigenes Werk
+48k2|ein Künstler in Situationen, in denen er nicht arbeitet
+48k21|der Ruhm des Künstlers
+48k22|der Künstler und seine Familie, Angehörigen etc.
+48k23|Zusammenkunft, Vereinigung von Künstlern
+48k24|Leben als Bohemien
+48k25|das verkannte Genie des Künstlers
+48k26|der Künstler auf dem Sterbebett
+48k27|Porträt, Selbstporträt eines Künstlers
+48k3|Kunstgattungen
+48k31|Architektur
+48k32|Skulptur, Plastik
+48k321|Relief (Skulptur)
+48k33|die angewandten Künste
+48k331|mit Juwelen arbeiten; mit Edelmetallen arbeiten
+48k332|mit unedlen Metallen arbeiten
+48k333|Töpferware, Keramik herstellen
+48k334|Glasblasen
+48k335|Teppiche wirken; Gobelins knüpfen
+48k336|tischlern
+48k34|Monumentalkunst
+48k341|mosaizieren
+48k342|Wandmalerei
+48k343|Glasmalerei
+48k35|malen, zeichnen; Graphik
+48k351|malen
+48k3511|Grisaille
+48k352|Miniaturmalerei
+48k353|Buchmalerei
+48k354|zeichnen
+48k355|Graphik
+48k3551|Holzschnitte produzieren
+48k3552|kupferstechen, radieren
+48k3553|lithographieren
+48k36|Photographie; Kinematographie
+48k361|photographieren
+48k362|filmen
+48k37|Musik
+48k371|komponieren
+48k372|Musik aufführen
+48k373|singen
+48k374|Musik dirigieren
+48k38|Bühnenkunst
+48k381|Ballett
+48k382|Theater
+48k383|Oper
+48k384|Operette
+48k385|Kabarett
+48k386|Film(kunst)
+48k39|Literatur, Dichtkunst
+48k391|schreiben
+48k4|das Kunstwerk und sein Entstehungsprozeß
+48k41|Stadien der Entstehung eines Kunstwerkes
+48k411|vorbereitende Präsentation eines Kunstwerks, einer Skizze, eines Modells
+48k412|Studium, Probe eines Kunstwerks
+48k413|endgültige Version eines Kunstwerks
+48k414|unvollendete version eines Kunstwerks
+48k42|Beschädigung und Reparatur eines Kunstwerks
+48k421|eine drohende Zerstörung oder Beschädigung eines Kunstwerks verhindern
+48k422|ein Kunstwerk zerstören
+48k4221|ein beschädigtes Kunstwerk
+48k42211|Beschädigung eines Kunstwerks durch einen ikonoklastischen Akt, Bildersturm
+48k423|Restaurierung eines Kunstwerks
+48k43|Reproduktion eines Kunstwerks
+48k431|Kopie, Kopieren eines Kunstwerks
+48k4311|Plagiat eines Kunstwerks
+48k4312|Fälschung eines Kunstwerks
+48k49|Parodie, Karikatur eines Kunstwerks
+48k5|Organisation (Kunst)
+48k51|Berufs-, Standesorganisation (Kunst)
+48k52|Organisation von Dilettanten und Kennern (Kunst)
+48k53|Treffen, Zusammenkunft (Kunst)
+48k54|Wettbewerbe, Wettkämpfe (Kunst)
+48k6|Materialien (Kunst)
+48k61|Metalle (Kunst)
+48k611|Edelmetalle (Kunst)
+48k612|unedle Metalle (Kunst)
+48k6121|Kupfer (Kunst)
+48k6122|Bronze (Kunst)
+48k6123|Zink (Kunst)
+48k62|Gestein (Kunst)
+48k621|(Halb-)Edelsteine (Kunst)
+48k622|Marmor (Kunst)
+48k63|Ton, Lehm, Sand (Kunst)
+48k631|Keramik (Kunst)
+48k632|Glas (Kunst)
+48k633|Gips, Stuck (Kunst)
+48k64|pflanzliche Materialien (Kunst)
+48k641|Schilf, Binsen (Kunst)
+48k642|Zweige (Kunst)
+48k643|Holz, z.B. Paneel (Kunst)
+48k644|Papier (Kunst)
+48k65|tierische Materialien (Kunst)
+48k651|Häute, Leder (Kunst)
+48k6511|Pergament (Kunst)
+48k652|Knochen, Elfenbein (Kunst)
+48k66|Textilien (Kunst)
+48k661|Leinen, Tuch, Stoff (Kunst)
+48k67|Malmaterialien (Kunst)
+48k671|Farbe (Kunst)
+48k672|Lack (Kunst)
+48k7|Kunststile
+48k71|prähistorische Kunst
+48k71(...)|prähistorische Kunst (mit NAMEN der Epoche)
+48k72|antike Kunst
+48k721|altägyptische Kunst
+48k722|Kunst der antiken Kulturen des Nahen Ostens
+48k722(...)|Kunst der antiken Kulturen des Nahen Ostens (mit NAMEN des Stils)
+48k723|minoische, mykenische und vorgriechische Kunst
+48k724|griechisch-antike Kunst
+48k7241|griechisch-archaische kunst
+48k7242|griechisch-klassische Kunst
+48k7243|hellenistische Kunst
+48k725|etruskische Kunst
+48k726|römische Kunst
+48k73|vorchristliche Kunst
+48k73(...)|Kunst der vorchristlichen Zeit und der Barbarenvölker (mit NAMEN des Stils)
+48k74|abendländische Kunststile
+48k741|frühchristliche kunst
+48k7411|koptische Kunst
+48k7412|byzantinische Kunst
+48k742|mittelalterliche Kunst
+48k7421|frühmittelalterliche Kunst
+48k74211|karolingische Kunst
+48k74212|ottonische Kunst
+48k74213|romanische Kunst
+48k7422|spätmittelalterliche Kunst
+48k74221|gotische Kunst
+48k742211|Kunst der Internationalen Gotik
+48k74222|Kunst der Frührenaissance
+48k743|Kunst der Renaissance
+48k744|Kunst des Manierismus
+48k745|Kunst des Barock und des Klassizismus
+48k746|Kunst des Rokoko
+48k747|Kunst des Neoklassizismus
+48k748|spätere Entwicklungen
+48k748(...)|Kunststile in der Zeit nach der neoklassizistischen Epoche (mit NAMEN)
+48k75|islamische Kunst
+48k75(...)|islamische Kunst (mit NAMEN des Stils)
+48k76|andere nicht-europäische Kunststile
+48k76(...)|nicht-europäische Kunststile (mit NAMEN)
+48k761|asiatische Kunst
+48k7611|ostasiatische Kunst
+48k76111|chinesische Kunst
+48k76112|japanische Kunst
+48k7612|südostasiatische Kunst
+48k76121|indische Kunst
+48k7613|nord- und zentralasiatische Kunst
+48k762|altamerikanische Kunst
+48k7621|präkolumbianische Kunst
+48k7622|indianische Kunst Nordamerikas
+48k763|afrikanische Stammeskunst
+48k764|ozeanische Kunst
+49Bk0|Symbol, Wappen, Siegel etc. (Schule, Ausbildung)
+49Bk1|Gebäude (für Ausbildung und Unterricht)
+49Bk2|Unterricht, Vorlesung
+49Bk21|Mangel an Ordnung, Aufmerksamkeit (Unterricht, Vorlesung)
+49Bk3|Lehrer, Professor
+49Bk31|spezielle Kleidung eines Lehrers, Professors
+49Bk32|Porträt eines Lehrers, Professors
+49Bk4|Schüler
+49Bk5|Disziplinarmaßnahmen (Ausbildung, Unterricht)
+49Bk51|Entfernung, Relegation von der Schule
+49Bk6|Zeugnis, Notengebung (Schule)
+49Bk7|Prüfung, bestandenes Examen
+49Bk71|erfolgreich bestandenes Examen
+49Bk72|nicht bestandenes Examen
+49Bk8|Unterrichtshilfen
+49Bk9|Personen (schulische Erziehung)
+49Bk91|Schulamt, Rektorenkonferenz, Lehrerkonferenz
+49Bk92|Kuratorengremium
+49Bk93|Direktor, Rektor, Präsident, Kanzler etc.
+49Bk94|Schulrat
+49Bk95|Hausmeister (Schule)
+49k0|Variante
+49k1|Wissenschaftler (bei der Arbeit)
+49k10|Inspiration
+49k101|Wissenschaftler mit einer Muse
+49k11|in der Werkstatt, im Laboratorium
+49k12|Assistent, Gehilfe, Famulus eines Gelehrten
+49k13|Wissenschaftlerin
+49k14|ein Kind als Wissenschaftler
+49k2|ein Wissenschaftler in Situationen, in denen er nicht arbeitet
+49k21|Ruhm eines Wissenschaftlers
+49k22|mißverstandener, verkannter Wissenschaftler
+49k3|Porträt eines Wissenschaftlers
+49k4|Berufskleidung eines Wissenschaftlers
+49k5|wissenschaftliche Forschung
+49k51|Wissenschaftstheorie
+49k52|wissenschaftliche Werkzeuge, Instrumente, Laboratoriumsausrüstung
+49k52(...)|wissenschaftliche Werkzeuge, Instrumente, Laboratoriumsausrüstung (mit NAMEN)
+49k52(GYROSCOPE)|wissenschaftliche Werkzeuge, Instrumente, Laboratoriumsausrüstung: Gyroskop
+49k53|wissenschaftliche Beobachtung
+49k531|wissenschaftliche Feldforschung
+49k54|wissenschaftliches Experiment
+49k541|Thema eines wissenschaftlichen Experiments
+49k55|wissenschaftliche Erfindung
+49k551|erste Kopie einer wissenschaftlichen Erfindung
+49k56|Unfall in der Wissenschaft
+49k561|Unfallvermeidung in der Wissenschaft
+49k57|Versuchsphase, Installation von Anlagen in der Wissenschaft
+49k59|Zerstörung einer installierten Anlage oder von Forschungsergebnissen in der Wissenschaft
+49k591|Zerstörung einer installierten Anlage oder von Forschungsergebnissen in der Wissenschaft durch den Wissenschaftler
+49k6|Veröffentlichung von Forschungsergebnissen
+49k61|Wissenschaftler mit Schülern; Vortrag, Vorlesung, Diskussion
+49k62|Beweisführung, Darlegung, Veranschaulichung von Forschungsergebnissen
+49k63|wissenschaftliche Sammlung, Ausstellung
+49k64|Populärwissenschaft
+49k7|grundlegende Vorgänge und Verfahrensweisen in den Naturwissenschaften
+49k8|wissenschaftliche Plagiate
+49k9|wissenschaftliche Fälschungen
+4k0|Variante
+5k0|Variante
+5k1|Personifikation
+5k11|eine abstrakte Konzeption wird durch eine weibliche Figur verkörpert
+5k111|nackt
+5k1111|nackt mit Flügeln
+5k112|teilweise bekleidet
+5k1121|teilweise bekleidet mit Flügeln
+5k113|bekleidet
+5k1131|bekleidet mit Flügeln
+5k12|eine abstrakte Konzeption wird durch eine männliche Figur verkörpert
+5k121|nackt
+5k1211|nackt mit Flügeln
+5k122|teilweise bekleidet
+5k1221|teilweise bekleidet mit Flügeln
+5k123|bekleidet
+5k1231|bekleidet mit Flügeln
+5k13|eine abstrakte Konzeption wird durch ein Kind verkörpert
+5k131|nackt
+5k1311|nackt mit Flügeln
+5k132|teilweise bekleidet
+5k1321|teilweise bekleidet mit Flügeln
+5k133|bekleidet
+5k1331|bekleidet mit Flügeln
+5k14|eine abstrakte Konzeption wird durch zwei oder mehr Figuren (Seite an Seite) verkörpert, die nicht in eine Handlung involviert sind
+5k141|nackt
+5k1411|nackt mit Flügeln
+5k142|teilweise bekleidet
+5k1421|teilweise bekleidet mit Flügeln
+5k143|bekleidet
+5k1431|bekleidet mit Flügeln
+5k2|allegorische Szene (zwei oder mehr Personifikationen sind in eine Handlung involviert)
+5k21|zwei oder mehr Personifikationen verfolgen ein Ziel
+5k22|Streit zwischen Konzeptionen
+5k221|eine Konzeption besiegt die andere
+5k3|symbolische Darstellung einer Konzeption
+5k4|emblematische Darstellung einer Konzeption
+5k5|Exemplum: Darstellung eines beispielhaften historischen Ereignisses
+5k51|Exemplum, das zu einer Serie von Exempeln gehört
+5k6|Situation oder Ereignis (besonders in der Genremalerei) mit symbolischer Konnotation
+5kq1|nackt
+5kq11|nackt mit Flügeln
+5kq2|teilweise bekleidet
+5kq21|teilweise bekleidet mit Flügeln
+5kq3|bekleidet
+5kq31|bekleidet mit Flügeln
+61Ak0|Variante
+61Ak1|historische Szene in allegorischem oder symbolischem Rahmen; oder mit allegorischem oder symbolischem Beiwerk
+61Ak2|allegorische Darstellung eines historischen Ereignisses
+61Ak3|emblematische, moralisierende Darstellung einer historischen Szene
+61Ak4|Cartoon, Satire, Karikatur eines historischen Ereignisses
+61Bk0|Variante
+61Bk1|historische Person oder Szene in allegorischem oder symbolischem Rahmen; oder mit allegorischem oder symbolischem Beiwerk
+61Bk2|alle Formen eines portrait historié: mythologisches Porträt, allegorisches Porträt, Rollenporträt etc.
+61Bk3|spezifische Formen der Darstellung historischer Personen
+61Bk31|idealisierende oder heroische Darstellung historischer Personen
+61Bk32|Staatsporträt
+61Bk33|portrait à l'antique
+61Bk34|Totenbildnis
+61Bk35|eine der porträtierten Personen ist verstorben
+61Bk4|karikierendes Porträt, Karikatur eines Porträts
+61Bk5|kompositionelle Varianten von Porträts
+61Bk51|Kopf (und eventuell Schultern) (Porträt)
+61Bk511|Vorderansicht des Gesichts (Porträt)
+61Bk512|Dreiviertelprofil des Gesichts (Porträt)
+61Bk513|Profil (Porträt)
+61Bk514|imago clipeata (Porträt)
+61Bk52|Brustbild
+61Bk521|Brustbild, Vorderansicht (Porträt)
+61Bk522|Brustbild, Dreiviertelprofil (Porträt)
+61Bk523|Brustbild, Profil (Porträt)
+61Bk53|halbfiguriges Porträt
+61Bk54|dreiviertelfiguriges Porträt
+61Bk55|ganzfiguriges Porträt
+61Bk56|verschiedene Ansichten einer Person in einer Darstellung
+6k0|Variante
+7k0|Variante
+7k1|Hl. Dreifaltigkeit
+7k11|Gottvater
+7k111|Gottvater in Form von Licht
+7k12|Christus
+7k121|Christus mit Bart
+7k122|Christus ohne Bart
+7k13|der Hl. Geist (als Taube)
+7k131|der Hl. Geist in anderer Form
+7k2|Maria
+7k3|Engel
+7k31|(ein) Engel (schwebt) schweben in der Luft
+7k4|Teufel
+7k5|Stifter, Bittsteller (auf jeden Fall mit heiligen Patronen)
+8k0|Variante
+91k0|Variante
+91k1|Kindheit, Jugend
+91k11|Geburt
+91k12|frühe Kindheit, Erziehung
+91k2|Liebesaffären
+91k3|wichtigste Taten
+91k4|aggressive, unfreundliche Handlungen und Beziehungen
+91k5|nicht-aggressive, freundliche oder neutrale Handlungen oder Beziehungen
+91k6|Leiden, Unglück
+91k68|Tod
+91k69|Apotheose, Vergöttlichung
+91k7|spezifische Darstellungsformen, allegorische Darstellungsformen
+91k78|Triumph
+91k8|Attribute
+91k9|Nachkommenschaft, Begleiter, Gefolge
+92k0|Variante
+92k1|Kindheit, Jugend
+92k11|Geburt
+92k12|frühe Kindheit, Erziehung
+92k2|Liebesaffären
+92k3|wichtigste Taten
+92k4|aggressive, unfreundliche Handlungen und Beziehungen
+92k5|nicht-aggressive, freundliche oder neutrale Handlungen und Beziehungen
+92k6|Leiden, Unglück
+92k68|Tod
+92k69|Apotheose, Vergöttlichung
+92k7|spezifische Darstellungsformen, allegorische Darstellungsformen
+92k78|Triumph
+92k8|Attribute
+92k9|Nachkommenschaft, Begleiter, Gefolge
+93k0|Variante
+93k1|Kindheit, Jugend
+93k11|Geburt
+93k12|frühe Kindheit, Erziehung
+93k2|Liebesaffären
+93k3|wichtigste Taten
+93k4|aggressive, unfreundliche Handlungen und Beziehungen
+93k5|nicht-aggressive, freundliche oder neutrale Handlungen und Beziehungen
+93k6|Leiden, Unglück
+93k68|Tod
+93k69|Apotheose, Vergöttlichung
+93k7|spezifische Darstellungsformen, allegorische Darstellungsformen
+93k78|Triumph
+93k8|Attribute
+93k9|Nachkommenschaft, Begleiter, Gefolge etc.
+96Ak0|Variante
+96Ak1|Kindheit, Jugend
+96Ak11|Geburt
+96Ak12|frühe Kindheit, Erziehung
+96Ak2|Liebesaffären
+96Ak3|wichtigste Taten
+96Ak4|aggressive, unfreundliche Handlungen und Beziehungen
+96Ak5|nicht-aggressive, freundliche oder neutrale Handlungen und Beziehungen
+96Ak6|Leiden, Unglück
+96Ak68|Tod
+96Ak69|Apotheose, Vergöttlichung
+96Ak7|spezifische Darstellungsformen, allegorische Darstellungsformen
+96Ak78|Triumph
+96Ak8|Attribute
+96Ak9|Nachkommenschaft, Begleiter, Gefolge etc.
+98k0|Variante
+98k1|in einem allegorischen oder symbolischen Rahmen; mit allegorischen oder symbolischen Beigaben
+98k2|mythologisches oder allegorisches Porträt; allegorische Darstellung von Ereignissen aus dem Leben einer historischen Person
+98k3|spezifische Formen der Darstellung historischer Personen
+98k31|ideale oder heroische Darstellung
+98k32|Staatsporträt
+98k33|eine der porträtierten Personen ist gestorben
+98k4|Karikatur
+98k5|Kopf, Brustbild etc.
+98k51|Kopf (und Schultern)
+98k511|vollständig sichtbares Gesicht
+98k512|Dreiviertelprofil
+98k513|Profil
+98k514|imago clipeata
+98k52|(vollständiges) Brustbild
+98k521|vollständig sichtbares Gesicht
+98k522|Dreiviertelprofil
+98k523|Profil
+98k53|halbfigurig
+98k54|dreiviertelfigurig
+98k55|ganzfigurig
+98k56|verschiedene Ansichten einer Person in einer Darstellung
+98k8|zur griechischen Geschichte gehörend
+98k9|zur römischen Geschichte gehörend
+9k0|Variante

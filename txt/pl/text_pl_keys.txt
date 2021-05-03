@@ -1,0 +1,617 @@
+11k0|odmiana
+11k1|Trójca Święta
+11k11|Bóg Ojciec
+11k111|Bóg Ojciec pod postacią światła
+11k12|Chrystus
+11k121|Chrystus brodaty
+11k122|Chrystus bez brody
+11k13|Duch Święty (jako gołębica)
+11k131|Duch Święty (w postaci innej niż gołębica)
+11k2|Maria
+11k3|anioł(y)
+11k31|anioły unoszące się w powietrzu
+11k4|diabeł
+11k5|donatorzy, suplikanci, z (bez) świętymi patronami
+12k0|odmiana
+25FFk0|odmiana
+25FFk1|części, członki i narządy większe niż normalne
+25FFk2|członki i narządy mniejsze niż normalne
+25FFk3|brakujące części, członki i narządy
+25Fk0|odmiana
+25Fk1|zwierzęta w charakterze symboli
+25Fk11|bestiariusze, 'Physiologus'
+25Fk12|zwierzęta heraldyczne
+25Fk13|zwierzęta jako atrybuty
+25Fk14|zwierzęta w karykaturze
+25Fk15|ornamentalne odmiany zwierząt
+25Fk151|symetrycznie rozmieszczone zwierzęta ornamentalne
+25Fk152|zwierzęta ornamentalne, częściowo połączone
+25Fk153|zwierzęta ornamentalne, częściowo przeplecione
+25Fk154|symetrycznie rozmieszczone zwierzęta ornamentalne, rozdzielone przez (ludzką) postać
+25Fk2|płeć i wiek zwierząt; rozmnażanie zwierząt
+25Fk21|młode zwierzę
+25Fk22|samiec
+25Fk23|samica
+25Fk24|bardzo stare zwierzę
+25Fk3|anatomia zwierząt
+25Fk31|szkielet zwierzęcia
+25Fk32|korpus zwierzęcia
+25Fk321|narządy płciowe zwierzęcia
+25Fk3211|narządy płciowe samca
+25Fk3212|narządy płciowe samicy
+25Fk322|zad zwierzęcia
+25Fk323|wnętrzności, narządy wewnętrzne zwierzęcia
+25Fk33|głowa zwierzęcia
+25Fk332|poroże; róg
+25Fk333|uszy zwierzęcia
+25Fk334|kieł, cios
+25Fk335|ryj, paszcza, morda, dziób
+25Fk336|język zwierzęcia
+25Fk337|oczy zwierzęcia
+25Fk34|członki zwierzęcia
+25Fk35|wygląd zewnętrzny zwierzęcia
+25Fk36|muszla, skorupa i in.
+25Fk4|zachowania zwierząt
+25Fk5|zwierzę(ta) w ruchu; pozycje; ekspresja zwierząt
+25Fk6|choroby i zejścia zwierzęcia (zwierząt)
+25Fk7|zwierzęta ~ badania biologiczne
+25Fk8|człowiek i zwierzę
+25Fk9|produkty zwierzęce
+2k0|odmiana
+31k0|odmiana
+31k1|widok z przodu
+32Bk0|odmiana
+34k0|odmiana
+34k1|karmienie zwierzęcia
+34k2|mieszkanie dla zwierząt
+34k3|troska o higienę zwierzęcia
+34k4|estetyczne przekształcenia zwierząt
+34k5|płeć zwierzęcia
+34k6|zaprzęganie, siodłanie itp.
+34k7|ćwiczenie, tresowanie zwierzęcia
+34k8|rozmnażanie zwierząt
+34k9|zoologiczne aspekty zwierząt ~ człowiek i zwierzę
+41B3k0|variant
+41B3k1|zapalanie światła; płonące światło, lampa, świeca
+41B3k2|wyłączanie; wyłączone światło, lampa, świeca
+41B3k3|dawać komuś światło
+41k0|variant
+41k1|metal
+41k2|kamień
+41k3|ceramika i szkło
+41k4|drewno i inne materie fitogeniczne
+41k5|świat zoogeniczny
+41k6|materiały syntetyczne, sztuczne
+41k9|zniszczone, uszkodzone (rzeczy
+44Ak0|odmiana
+44Ak2|naród; narodowy
+45k0|odmiana
+45k1|podczas bitwy
+45k11|przed bitwą
+45k12|po bitwie
+45k2|siły lądowe
+45k21|piechota
+45k211|oddziały spadochronowe
+45k212|piechota morska
+45k22|kawaleria, konnica
+45k221|oddziały jeździeckie na zwierzętach innych niż konie
+45k23|oddziały zmechanizowane
+45k231|powóz, wóz bojowy
+45k232|pojazd opancerzony; czołg
+45k24|artyleria
+45k25|oddziały pomocnicze
+45k26|straż obywatelska; gwardia obywatelska; milicja
+45k27|partyzanci, powstańcy
+45k28|oddziały najemne, np. lancknechci
+45k29|oddziały nieregularne
+45k3|siły morskie
+45k31|okręty wiosłowe, np. galery
+45k32|żaglowce
+45k33|statki motorowe
+45k34|okręty pomocnicze
+45k35|barka desantowa
+45k4|siły powietrzne
+45k41|samoloty bojowe, myśliwce
+45k42|bombowce
+45k43|samoloty transportowe
+45k44|balony
+45k441|sterowce
+45k45|personel naziemny i lotniskowy
+45k5|stopnie; podział sił zbrojnych
+45k51|głównodowodzący
+45k52|oficerowie
+45k53|szeregowcy
+45k54|podział sił zbrojnych
+45k541|dywizja, batalion, pułk
+45k542|kompania
+45k543|mała jednostka
+45k6|broń
+45k61|rozdzielanie broni
+45k611|zaopatrzenie w broń podczas bitwy
+45k62|transport broni
+45k63|posługiwanie się bronią
+45k631|utrzymanie broni
+45k64|przegląd broni
+45k65|złożenie broni
+45k66|wyrzucenie broni
+45k67|broń paradna
+45k69|zniszczenie broni
+45k7|rodzaj terenu ~ działania wojenne
+45k71|działania wojenne w lesie
+45k72|działania wojenne w obszarze zabudowanym
+45k73|działania wojenne ~ woda, wzdłuż rzeki, na brzegu, na wybrzeżu
+45k731|lądowanie, desant sił zbrojnych
+45k74|działania wojenne w terenie górzystym
+45k75|pod murami miasta lub twierdzy
+46Ck0|odmiana
+46Ck1|widok ~ pojazd, statek, i in.
+46Ck2|liczba osób ~ transport i komunikacja
+46Ck21|jedna osoba ~ transport i komunikacja
+46Ck22|dwie osoby ~ transport i komunikacja
+46Ck23|trzy osoby ~ transport i komunikacja
+46Ck24|cztery osoby lub więcej ~ transport i komunikacja
+46Ck3|napęd pojazdu, statku i in. przy pomocy...
+46Ck4|komunikacja ~ miejsca
+46Ck5|środki i rodzaje transportu
+46Ck6|odjazd i przyjazd ~ transport i komunikacja
+46Ck7|zoologiczne aspekty zwierząt w transporcie i komunikacji
+46Ck8|niecodzienne sposoby dosiadania zwierząt
+46Ck9|wypadek; kolizja; zderzenie ~ transport i komunikacja
+47k0|odmiana
+47k1|miejsce ~ rzemiosło, przemysł, rolnictwo
+47k11|we wnętrzu; w laboratorium, fabryce, stajni itd.
+47k12|na zewnątrz; pod gołym niebem
+47k121|na nawadnianych polach
+47k122|pod przykryciem, np. inspekt
+47k13|pod ziemią; w piwnicach
+47k14|na wodzie
+47k15|w powietrzu; w przestrzeni
+47k2|pracownicy ~ rzemiosło, przemysł, rolnictwo
+47k21|mężczyźni (robotnicy)
+47k22|kobiety (robotnice)
+47k23|dzieci (robotnicy)
+47k24|zwierzęta (robocze)
+47k3|aspekty techniczne ~ rzemiosło, przemysł, rolnictwo
+47k31|prace ręczne ~ rzemiosło, przemysł, rolnictwo
+47k32|narzędzia i przybory ~ rzemiosło, przemysł, rolnictwo
+47k33|środki pomocnicze ~ rzemiosło, przemysł, rolnictwo
+47k34|maszyny ~ rzemiosło, przemysł, rolnictwo
+47k35|części maszyn ~ rzemiosło, przemysł, rolnictwo
+47k36|odzież robocza ~ rzemiosło, przemysł, rolnictwo
+47k4|obrabiane materiały ~ rzemiosło, przemysł, rolnictwo
+47k41|metale, minerały ~ rzemiosło, przemysł, rolnictwo
+47k411|metale szlachetne ~ rzemiosło, przemysł, rolnictwo
+47k412|metale nieszlachetne ~ rzemiosło, przemysł, rolnictwo
+47k42|kamień ~ rzemiosło, przemysł, rolnictwo
+47k421|(pół)szlachetny kamień ~ rzemiosło, przemysł, rolnictwo
+47k43|glina, piasek itp. ~ rzemiosło, przemysł, rolnictwo
+47k431|ceramika ~ rzemiosło, przemysł, rolnictwo
+47k432|szkło ~ rzemiosło, przemysł, rolnictwo
+47k44|materiał roślinny ~ rzemiosło, przemysł, rolnictwo
+47k441|włókno ~ rzemiosło, przemysł, rolnictwo
+47k4411|len ~ rzemiosło, przemysł, rolnictwo
+47k4412|bawełna ~ rzemiosło, przemysł, rolnictwo
+47k442|trzcina, sitowie ~ rzemiosło, przemysł, rolnictwo
+47k443|gałązki ~ rzemiosło, przemysł, rolnictwo
+47k444|drewno ~ rzemiosło, przemysł, rolnictwo
+47k445|inne materiały roślinne ~ rzemiosło, przemysł, rolnictwo
+47k45|materiał zwierzęcy ~ rzemiosło, przemysł, rolnictwo
+47k451|skóry, futro itp. ~ rzemiosło, przemysł, rolnictwo
+47k4511|wełna ~ rzemiosło, przemysł, rolnictwo
+47k452|kość ~ rzemiosło, przemysł; rolnictwo
+47k453|róg, kość słoniowa ~ rzemiosło, przemysł, rolnictwo
+47k454|muszla ~ rzemiosło, przemysł, rolnictwo
+47k455|jedwab ~ rzemiosło, przemysł, rolnictwo
+47k456|inne materiały zwierzęce ~ rzemiosło, przemysł, rolnictwo
+47k46|płyny ~ rzemiosło, przemysł, rolnictwo
+47k461|olej ~ rzemiosło, przemysł, rolnictwo
+47k462|płyn chemiczny ~ rzemiosło, przemysł, rolnictwo
+47k47|środki spożywcze ~ rzemiosło, przemysł, rolnictwo
+47k48|materiał syntetyczny ~ rzemiosło, przemysł, rolnictwo
+47k5|podstawowe procesy przemysłowe
+47k51|przygotowywanie, czyszczenie, sortowanie, wybór ~ procesy przemysłowe
+47k52|przemieszczanie, usuwanie ~ procesy przemysłowe
+47k53|dzielenie ~ procesy przemysłowe
+47k54|łączenie, mocowanie, wiązanie, scalanie ~ procesy przemysłowe
+47k55|gładzenie, polerowanie ~ procesy przemysłowe
+47k56|mieszanie; formowanie; odlewanie ~ procesy przemysłowe
+47k57|zakrzywianie, zginanie, kształtowanie ~ procesy przemysłowe
+47k58|wiercenie, dziurawienie ~ procesy przemysłowe
+47k59|zdobienie, dekorowanie ~ procesy przemysłowe
+47k6|przed i po wytworzeniu
+47k61|plan, projekt ~ produkcja
+47k611|badania, eksperyment ~ produkcja
+47k612|model ~ produkcja
+47k6121|test, próba ~ produkcja
+47k62|produkt ~ rzemiosło, przemysł, rolnictwo
+47k63|sortowanie, pakowanie produktów ~ rzemiosło, przemysł, rolnictwo
+47k64|przechowywanie, konserwowanie produktów ~ rzemiosło, przemysł, rolnictwo
+47k65|transport produktów ~ rzemiosło, przemysł, rolnictwo
+47k66|handel ~ rzemiosło, przemysł, rolnictwo
+47k67|przygotowanie do użytku lub spożycia ~ rzemiosło, przemysł, rolnictwo
+47k671|poprawianie, naprawianie ~ rzemiosło, przemysł, rolnictwo
+47k69|niszczenie produktów
+47k691|przypadkowe zniszczenie, wady produkcyjne
+47k6911|zniszczenie produktów spowodowane przez żywioły
+47k6912|zniszczenie produktów spowodowane przez zwierzęta
+47k6913|zniszczenie produktów spowodowane przez choroby
+47k692|zamierzone zniszczenie produktów
+47k6921|rozbiórka produktów
+47k6922|wybuch produktów
+47k699|recykling produktów
+47k7|formy produkcji i organizacja
+47k71|produkcja domowa
+47k72|produkcja przemysłowa
+47k73|praca na dniówki
+47k8|produkcja rolna
+47k81|uprawa gleby ~ procesy rolnicze
+47k82|sianie, sadzenie ~ procesy rolnicze
+47k83|opieka nad roślinami ~ procesy rolnicze
+47k84|zbiory ~ procesy rolnicze
+47k85|opieka nad zwierzętami ~ procesy rolnicze
+47k89|efekty i charakterystyka wzrostu roślin ~ procesy rolnicze
+47k891|rośliny w charakterze symboli
+47k8911|'floralia'
+47k8912|rośliny heraldyczne
+47k8913|rośliny jako atrybuty
+47k8914|rośliny w karykaturze
+47k8915|ornamentalne warianty roślin
+47k892|części roślin
+47k8921|łodyga, pień
+47k89211|pieniek, pniak
+47k8922|gałąź, kij
+47k89221|gałązka, patyk
+47k89222|gałązka cierniowa
+47k89223|cierń, kolec
+47k89224|wiązka gałęzi, chrustu
+47k89225|uschnięta gałąź
+47k8923|czubek rośliny
+47k8924|korzeń, bulwa
+47k89241|korzeń powietrzny
+47k8925|wić, liana
+47k8926|cebulka
+47k8927|liść
+47k8929|inne części roślin
+47k893|charakterystyka wzrostu roślin
+47k8931|pączek, pączkowanie
+47k8932|kwiaty, kwiecie, kwitnięcie
+47k8933|liście, wypuszczanie liści
+47k8934|owocowanie
+47k89341|spadanie owoców
+47k8935|usychanie, opadanie liści lub kwiatów
+47k89351|naga roślina
+47k8936|wiek roślin
+47k89361|młoda roślina
+47k89362|w pełni rozwinięta roślina
+47k89363|(bardzo) stara roślina
+47k8937|umierająca roślina
+47k89371|nieżywa, uschnięta roślina
+47k8939|inne aspekty wzrostu roślin
+47k9|zoologiczne aspekty udomowionego bydła i drobiu
+47k90|odmiana
+47k91|zwierzęta w charakterze symboli
+47k911|bestiariusze, 'Fizjologus'
+47k912|zwierzęta heraldyczne
+47k913|zwierzęta jako atrybuty
+47k914|zwierzęta w karykaturze
+47k915|ornamentalne odmiany zwierząt
+47k9151|ornamentalne zwierzęta rozmieszczone symetrycznie
+47k9152|ornamentalne zwierzęta, częściowo złączone
+47k9153|ornamentalne zwierzęta, częściowo przeplecione
+47k9154|symetrycznie rozmieszczone zwierzęta ornamentalne, przedzielone postacią (ludzką
+47k92|płeć i wiek zwierząt; rozmnażanie zwierząt
+47k921|młode zwierzę
+47k922|samiec
+47k923|samica
+47k924|bardzo stare zwierzę
+47k93|anatomia zwierząt
+47k931|szkielet zwierzęcia
+47k932|korpus zwierzęcia
+47k9321|narządy płciowe zwierzęcia
+47k93211|narządy płciowe samca
+47k93212|narządy płciowe samicy
+47k9322|zad zwierzęcia
+47k9323|wnętrzności, organy wewnętrzne zwierzęcia
+47k933|łeb zwierzęcia
+47k9331|czaszka zwierzęcia
+47k9332|poroże; róg
+47k9333|uszy zwierzęcia
+47k9334|kieł
+47k9335|pysk, szczęki, dziób
+47k9336|ozór zwierzęcia
+47k9337|oczy zwierzęcia
+47k934|kończyny zwierzęcia
+47k9341|pazury, łapy zwierzęcia
+47k9342|skrzydła zwierzęcia
+47k9343|ogon zwierzęcia
+47k9349|ślad, trop zwierzęcia
+47k935|wygląd zewnętrzny zwierząt
+47k9351|skóra, runo, sierść, futro
+47k9352|pióra
+47k9353|łuski zwierzęcia
+47k936|muszla, skorupa, pancerz itp.
+47k94|zachowanie zwierzęcia
+47k941|narodzenie zwierzęcia
+47k9411|wylęganie z jaja
+47k9412|wysiadywanie, wykluwanie się
+47k9413|larwa
+47k9414|poczwarka
+47k942|karmienie i opieka nad młodymi
+47k9421|gniazdo, legowisko, nora
+47k9422|zwierzę wychowujące młode, bawiące się z młodymi
+47k9429|zwierzę zabijające swoje własne potomstwo
+47k943|zwierzęta zalecające się do siebie i łączące się w pary
+47k9431|zwierzęta zalecające się
+47k9432|zwierzęta łączące się w pary
+47k944|relacje pomiędzy zwierzętami
+47k9441|stado, grupa zwierząt
+47k9442|zwierzęta bawiące się ze sobą
+47k945|zwierzęta jedzące i pijące
+47k9451|zwierzęta poszukujące pożywienia
+47k9452|zwierzę z upolowaną zdobyczą
+47k9459|zwierzę wypróżniające się
+47k94591|odchody zwierzęce, łajno
+47k946|śpiące zwierzę(ta)
+47k9461|sen zimowy zwierzęcia (zwierząt)
+47k95|zwierzę(ta) w ruchu; pozycje, ekspresja zwierząt
+47k951|walczące zwierzęta; relacje agresywne
+47k9511|zwierzę(ta) grożące
+47k9512|zwierzę(ta) atakujące
+47k9513|zwierzę(ta) w pościgu
+47k9514|zwierzę(ta) zabijające
+47k9515|zwierzę(ta) zabijające siebie
+47k95151|zwierzę(ta) poszukujące śmierci, samopoświęcenie zwierzęcia (zwierząt)
+47k952|ruchy zwierzęcia (zwierząt)
+47k9521|ruch zwierzęcia (zwierząt) do przodu
+47k95211|kroczące zwierzę
+47k95212|biegnące zwierzę
+47k95213|toczące się zwierzę
+47k95214|zwierzę kroczące na przednich łapach
+47k95215|zwierzę ujeżdżane
+47k95219|zwierzę poruszające się wstecz
+47k9522|ruch zwierzęcia (zwierząt) w górę i w dół
+47k95221|skaczące zwierzę(ta)
+47k95222|wspinające się zwierzę(ta)
+47k95223|zwierzę podciągające się
+47k95227|zwierzę tratujące, depczące, stąpające po kimś lub po czymś
+47k9523|bierny ruch zwierzęcia (zwierząt)
+47k95231|spadające zwierzę(ta)
+47k95232|niesione zwierzę(ta)
+47k9524|ruch zwierzęcia (zwierząt) względem innego zwierzęcia (zwierząt), postaci ludzkiej lub obiektu
+47k95241|zwierzę(ta) rzucające czymś
+47k95242|zwierzę(ta) sięgające po coś
+47k95243|zwierzę(ta) uderzające coś
+47k95244|zwierzę(ta) chwytające, łapiące za coś
+47k95245|zwierzę(ta) trzymające coś
+47k95246|zwierzę(ta) niosące coś
+47k95247|zwierzę(ta) ciągnące, wlokące coś
+47k95248|zwierzę(ta) pchające coś
+47k952481|zwierzę(ta) obracające coś
+47k9525|niektóre inne ruchy zwierzęcia (zwierząt)
+47k95251|zwierzę zwijające się
+47k95252|zwierzę wyciągające się
+47k95253|zwierzę kręcące się, obracające się
+47k9526|zwierzę(ta) poruszające się w powietrzu
+47k95262|zwierzę (zwierzęta) latające)
+47k95263|zwierzę (zwierzęta) unoszące się w powietrzu
+47k9527|zwierzę(ta) poruszające się w wodzie
+47k95273|zwierzę(ta) pływające
+47k95274|zwierzę(ta) unoszące się w wodzie
+47k95278|zwierzę(ta) wynurzające się z wody
+47k953|postawy, pozycje zwierzęcia (zwierząt)
+47k9531|zwierzę stojące
+47k9532|zwierzę wspierające się
+47k9533|zwierzę klęczące
+47k9534|zwierzę przykucnięte, skulone
+47k9535|zwierzę siedzące
+47k9536|zwierzę leżące
+47k9537|zwierzę wiszące
+47k95371|zwierzę wiszące głową w dół
+47k9539|inne postawy zwierząt, nie wymienione wyżej
+47k954|układy głowy ~ zwierzę
+47k9541|zwierzę z głową trzymaną prosto
+47k9542|zwierzę z głową obróconą na bok
+47k9543|zwierzę z głową zadartą do tyłu
+47k9544|zwierzę z głową pochyloną do przodu; zwierzę kłaniające się
+47k9547|zwierzę oglądające się za siebie
+47k955|układy przednich kończyn, nóg, łap zwierzęcia
+47k9551|zwierzę z przednimi łapami uniesionymi do góry
+47k9552|zwierzę z przednimi kończynami wyciągniętymi do przodu
+47k9553|zwierzę z przednimi kończynami wyciągniętymi na boki
+47k9554|zwierzę z przednimi kończynami trzymanymi przed korpusem
+47k95541|zwierzę z przednimi kończynami na sercu
+47k95542|zwierzę z przednimi kończynami złożonymi na brzuchu
+47k9555|układy przednich kończyn zwierzęcia we wzajemnym odniesieniu
+47k95551|zwierzę z przednimi kończynami skrzyżowanymi
+47k95552|zwierzę z przednimi kończynami jedna naprzeciw drugiej
+47k9556|układy przednich kończyn zwierzęcia w odniesieniu do głowy
+47k95561|zwierzę wskazujące przednią kończyną na czoło
+47k95562|przednia kończyna (przednie kończyny) w stronę oka (oczu)
+47k95563|przednia kończyna (przednie kończyny
+47k95564|przednia kończyna (przednie kończyny
+47k95565|przednia kończyna (przednie kończyny) w kierunku ucha (uszu
+47k9557|układy i gesty przednich kończyn zwierzęcia w odniesieniu do innego zwierzęcia, postaci ludzkiej lub przedmiotu
+47k95571|zwierzę chwytające inne zwierzę, postać ludzką lub przedmiot
+47k9559|inne jeszcze układy i gesty przednich kończyn zwierzęcia
+47k956|układy tylnych nóg (tylnej nogi) zwierzęcia (zwierząt
+47k9561|zwierzę(ta) stojące na tylnych nogach
+47k9562|zwierzę siedzące ze skrzyżowanymi nogami
+47k957|morfologia ekspresji zwierzęcia (zwierząt) w ogólności
+47k9571|morfologia mimicznego wyrazu zwierzęcia (zwierząt) ~ oczy
+47k95711|zwierzę patrzące w górę
+47k95712|zwierzę patrzące w dół
+47k95713|zwierzę patrzące w bok
+47k95717|zwierzę patrzące w tył
+47k9573|morfologia mimicznego wyrazu zwierzęcia (zwierząt) ~ pysk
+47k95731|zwierzę śmiejące się
+47k95732|zwierzę z lekko otwartym pyskiem
+47k957321|zwierzę z wystawionym językiem
+47k95733|zwierzę z szeroko otwartym pyskiem
+47k957331|zwierzę z wyszczerzonymi zębami
+47k958|relacje o charakterze neutralnym lub przyjaznym, nie agresywnym (konotacje ekspresyjne ~ zwierzęta)
+47k96|choroba i zgon zwierzęcia (zwierząt)
+47k961|zwierzę(ta) chore; cierpiące na chorobę
+47k962|zwierzę(ta) zranione
+47k9621|zwierzę(ta) uderzone, trafione, postrzelone, schwytane
+47k963|zwierzę zdychające; zgon zwierzęcia; martwe zwierzę
+47k964|zwierzę zabite przez człowieka
+47k9641|zwierzę ubite
+47k965|pielęgnowanie chorego zwierzęcia
+47k966|padlina
+47k967|wypchane zwierzę
+47k97|zwierzęta ~ badania biologiczne
+47k971|obserwowanie zwierząt
+47k972|eksperymenty ze zwierzętami (aspekty biologiczne)
+47k979|zwierzęta wymarłe
+47k98|człowiek i zwierzę
+47k981|zwierzęta hodowlane
+47k982|zwierzęta domowe
+47k983|czyszczenie zwierzęcia, tj. mycie, oporządzanie
+47k989|eksperymenty ze zwierzętami (medycyna)
+47k9891|zwierzęta używane w zastępstwie człowieka
+47k9892|zwierzęta używane w badaniach medycznych
+47k9893|wiwisekcja zwierząt
+47k99|produkty pochodzenia zwierzęcego
+47k991|jajo
+47k9911|znoszenie jaj
+47k992|trucizna pochodzenia zwierzęcego
+47k993|perła ~ produkt pochodzenia zwierzęcego
+48k0|odmiana
+48k1|artysta przy pracy
+48k10|inspiracja
+48k101|artysta i jego muza
+48k11|w pracowni lub w atelier
+48k111|w plenerze
+48k12|sytuacje w trakcie tworzenia
+48k121|wykonywanie wstępnych projektów, szkiców, szkicowanie
+48k122|artysta studiujący relikty antyku
+48k123|wykonywanie modelu
+48k124|praca z żywym modelem
+48k1241|praca z modelem ubranym
+48k1242|praca z modelem nagim
+48k13|model, osoba pozująca
+48k14|nauka, kształcenie artysty
+48k141|miejsce lub instytucja służąca kształceniu artystów np. akademia sztuk pięknych
+48k142|niezwykły talent młodego artysty
+48k143|artysta kształcący ucznia (uczniów)
+48k15|artysta przy pracy z asystentami lub uczniami
+48k16|rekwizyty pracowni artysty
+48k17|zawodowe ubranie artysty
+48k19|artysta niszczący swoje własne dzieło
+48k2|artysta w sytuacji, gdy nie pracuje
+48k21|Sława ~ artysta
+48k22|artysta i jego rodzina, krewni itd.
+48k23|krąg, klub artystów
+48k24|cyganeria
+48k25|nie rozpoznany geniusz artysty
+48k26|artysta na łożu śmierci
+48k27|portret, autoportret artysty
+48k3|rodzaje sztuki
+48k4|dzieło sztuki i jego wytwarzanie
+48k5|organizacja ~ sztuki piękne
+48k6|tworzywa ~ sztuki piękne
+48k7|style w sztuce
+4k0|odmiana
+5k0|odmiana
+5k1|personifikacja
+5k11|pojęcie abstrakcyjne zobrazowane przez postać kobiecą
+5k111|akt
+5k1111|akt ze skrzydłami
+5k112|częściowo odziana
+5k1121|częściowo odziana, ze skrzydłami
+5k113|odziana
+5k1131|odziana; ze skrzydłami
+5k12|pojęcie abstrakcyjne zobrazowane przez postać męską
+5k121|akt
+5k1211|akt ze skrzydłami
+5k122|częściowo odziany
+5k1221|częściowo odziany, ze skrzydłami
+5k123|odziany
+5k1231|odziany, ze skrzydłami
+5k13|pojęcie abstrakcyjne zobrazowane przez postać dziecięcą
+5k131|akt
+5k1311|akt ze skrzydłami
+5k132|częściowo odziane
+5k1321|częściowo odziane, ze skrzydłami
+5k133|odziane
+5k1331|odziane, ze skrzydłami
+5k14|pojęcie abstrakcyjne zobrazowane przez dwie lub więcej postacie umieszczone obok siebie (nie zaangażowane w akcję)
+5k141|akty
+5k1411|akty ze skrzydłami
+5k142|częściowo odziane
+5k1421|częściowo odziane, ze skrzydłami
+5k143|odziane
+5k1431|odziane, ze skrzydłami
+5k2|scena alegoryczna; tj. dwie lub więcej personifikacje zaangażowane w akcję
+5k21|dwie lub więcej personifikacja podążające za wspólnym celem
+5k22|zmaganie pomiędzy pojęciami
+5k221|jedno pojęcie przezwycięża drugie
+5k3|symboliczne przedstawienie pojęcia
+5k4|emblematyczne przedstawienie pojęcia
+5k5|'exemplum', przedstawienie przykładowego (historycznego) zdarzenia
+5k51|'exemplum' przynależne do tradycyjnej serii egzemplów
+5k6|sytuacja lub zdarzenie (zwłaszcza w malarstwie rodzajowym) posiadające konotację symboliczną
+61Bk0|odmiana
+61Bk1|postać lub scena historyczna w konwencji bądź scenerii alegorycznej lub symbolicznej albo z akcesoriami alegorycznymi lub symbolicznymi
+61Bk2|wszystkie rodzaje 'portrait historié' portret mitologiczny, alegoryczny, 'Rollenporträt', itp.
+61Bk3|szczególne sposoby przedstawienia postaci historycznych
+61Bk31|idealizowane lub heroiczne przedstawienia postaci historycznych
+61Bk32|portret reprezentacyjny
+61Bk33|'portrait à l'antique'
+61Bk34|portret osoby zmarłej
+61Bk35|jedna z osób portretowanych jest nieżyjąca
+61Bk4|karykatura ~ portret
+61Bk5|kompozycyjne odmiany portretu
+61Bk51|głowa (i ramiona) (portret)
+61Bk511|portret en-face
+61Bk512|portret z trzech czwartych
+61Bk513|portret z profilu
+61Bk514|'imago clipeata' (portret)
+61Bk52|portret w (pełnym) popiersiu
+61Bk521|portret 'en-face'
+61Bk522|portret z trzech czwartych
+61Bk523|portret z profilu
+61Bk53|portret w półpostaci
+61Bk54|portret w trzech czwartych
+61Bk55|portret w całej postaci
+61Bk56|różne widoki jednej postaci w obrębie jednego przedstawienia
+6k0|odmiana
+7k0|odmiana
+7k1|Trójca Święta
+7k11|Bóg Ojciec
+7k111|Bóg Ojciec pod postacią światła
+7k12|Chrystus
+7k121|Chrystus brodaty
+7k122|Chrystus bez brody
+7k13|Duch Święty (jako gołębica)
+7k131|Duch Święty (w postaci innej niż gołębica)
+7k2|Maria
+7k3|anioł(y)
+7k31|anioł(y) unoszący(e) się w powietrzu
+7k4|diabeł
+7k5|donatorzy, suplikanci, z (bez) świętymi patronami
+8k0|odmiana
+91k0|odmiana
+91k1|dzieciństwo, młodość
+91k11|narodzenie
+91k12|dziecięctwo, wychowanie
+91k2|miłostki
+91k3|najważniejsze czyny
+91k4|agresywne, nieprzyjacielskie działania i relacje
+91k5|przyjacielskie, nie agresywne lub neutralne działania
+91k6|cierpienia; niepowodzenia
+91k68|śmierć
+91k69|apoteoza, deifikacja
+91k7|szczególne aspekty, aspekty alegoryczne
+91k78|triumf
+91k8|atrybuty
+91k9|potomstwo, towarzysz(e), orszak
+98k0|odmiana
+98k1|w ujęciu alegorycznym lub symbolicznym; z alegorycznymi lub symbolicznymi akcesoriami
+98k2|portret mitologiczny lub alegoryczny; alegoryczne przedstawienie wydarzenia z życia osoby historycznej
+98k3|szczególne sposoby przedstawienia osoby historycznej
+98k4|karykatura
+98k5|głowa, popiersie itp.
+98k8|przynależna do historii greckiej
+98k9|przynależna do historii rzymskiej
+9k0|odmiana

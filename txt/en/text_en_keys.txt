@@ -1,0 +1,2873 @@
+11k0|variant
+11k1|Holy Trinity
+11k11|God the Father
+11k111|God the Father in the form of light
+11k12|Christ
+11k121|Christ (bearded)
+11k122|Christ (not bearded)
+11k13|Holy Ghost (as a dove)
+11k131|Holy Ghost (not as dove)
+11k2|Mary
+11k3|angel(s)
+11k31|angels floating in the air
+11k4|devil(s)
+11k5|donor(s), supplicant(s), whether or not with patron saint(s)
+12k0|variant
+23k0|variant
+23k1|with zodiacal signs
+23k11|with zodiacal signs of the winter season
+23k111|with Capricorn (December)
+23k112|with Aquarius (January)
+23k113|with Pisces (February)
+23k12|with zodiacal signs of the spring season
+23k121|with Aries (March)
+23k122|with Taurus (April)
+23k123|with Gemini (May)
+23k13|with zodiacal signs of the summer season
+23k131|with Cancer (June)
+23k132|with Leo (July)
+23k133|with Virgo (August)
+23k14|with zodiacal signs of the autumn season
+23k141|with Libra (September)
+23k142|with Scorpio (October)
+23k143|with Sagittarius (November)
+23k2|with signs or personifications of the planets
+23k21|with signs or personifications of the planets of the winter season
+23k211|with Saturn
+23k212|with Jupiter
+23k213|with Mars
+23k22|with signs or personifications of the planets of the spring season
+23k221|with Venus
+23k222|with Mercury
+23k223|with Luna
+23k23|with signs or personifications of the planets of the summer season
+23k231|with Sol
+23k232|with Mercury
+23k233|with Venus
+23k24|with signs or personifications of the planets of the autumn season
+23k241|with Mars
+23k242|with Jupiter
+23k243|with Saturn
+23k3|with signs or personifications of the planets together with zodiacal signs
+23k31|with planets and zodiacal signs of the winter season
+23k311|with Saturn and Capricorn (or Aquarius)
+23k312|with Jupiter and Aquarius (or Pisces)
+23k313|with Mars and Pisces (or Aries)
+23k32|with planets and zodiacal signs of the spring season
+23k321|with Venus and Aries (or Taurus)
+23k322|with Mercury and Taurus (or Gemini)
+23k323|with Luna or Gemini (or Cancer)
+23k33|with planets and zodiacal signs of the summer season
+23k331|with Sol and Cancer (or Leo)
+23k332|with Mercury and Leo (or Virgo)
+23k333|with Venus and Virgo (or Libra)
+23k34|with planets and zodiacal signs of the autumn season
+23k341|with Mars and Libra (or Scorpio)
+23k342|with Jupiter and Scorpio or (Sagittarius)
+23k343|with Saturn and Sagittarius or (Capricorn)
+23k4|with scenes showing human occupations ~ seasons and months
+23k5|with different concepts ~ seasons and months
+23k6|ways of representing seasons and months
+23k60|allegorical or symbolical representation of seasons and months
+23k61|human occupations representing seasons and months
+23k62|landscape representing seasons and months
+23k621|garden representing seasons and months
+23k63|still life representing seasons and months
+23k64|different representations of seasons and months
+25D11k0|variant
+25D11k1|precious stones used symbolically
+25D11k11|lapidaria
+25D3k0|variant
+25D3k1|coal
+25D3k11|brown coal, lignite
+25D3k2|stone
+25D3k2(...)|stone (with NAME) of kind
+25D3k21|gravel and sand
+25D3k3|minerals
+25D3k3(...)|minerals (with NAME) of kind
+25FFk0|variant
+25FFk1|parts, limbs and organs larger than normal
+25FFk11|head and face
+25FFk111|nose, tusk etc.
+25FFk112|eyes
+25FFk113|ears
+25FFk114|mouth, beak, nib
+25FFk115|neck
+25FFk12|chest
+25FFk13|abdomen, belly
+25FFk131|sexual organs
+25FFk132|partes posteriores, rump
+25FFk14|limbs
+25FFk141|claws, paws
+25FFk142|wings
+25FFk143|tail
+25FFk15|certain anatomical details
+25FFk151|skin
+25FFk152|hair, feathers
+25FFk153|muscles
+25FFk2|limbs and organs smaller than normal
+25FFk21|head and face
+25FFk211|nose, tusk etc.
+25FFk212|eyes
+25FFk213|ears
+25FFk214|mouth, beak, nib
+25FFk215|neck
+25FFk22|chest
+25FFk23|abdomen, belly
+25FFk231|sexual organs
+25FFk232|partes posteriores, rump
+25FFk24|limbs
+25FFk241|claws, paws
+25FFk242|wings
+25FFk243|tail
+25FFk25|certain anatomical details
+25FFk251|skin
+25FFk252|hair, feathers
+25FFk253|muscles
+25FFk3|parts, limbs and organs missing
+25FFk31|head and face
+25FFk311|nose, tusk etc.
+25FFk312|eyes
+25FFk313|ears
+25FFk314|mouth, beak, nib
+25FFk315|neck
+25FFk32|chest
+25FFk33|abdomen, belly
+25FFk331|sexual organs
+25FFk332|partes posteriores, rump
+25FFk34|limbs
+25FFk341|claws, paws
+25FFk342|wings
+25FFk343|tail
+25FFk35|certain anatomical details
+25FFk351|skin
+25FFk352|hair, feathers
+25FFk353|muscles
+25FFk4|parts, limbs and organs in greater number than normal
+25FFk41|head and face
+25FFk411|nose, tusk etc.
+25FFk412|eyes
+25FFk413|ears
+25FFk414|mouth, beak, nib
+25FFk415|neck
+25FFk42|chest
+25FFk43|abdomen, belly
+25FFk431|sexual organs
+25FFk432|partes posteriores, rump
+25FFk44|limbs
+25FFk441|claws, paws
+25FFk442|wings
+25FFk443|tail
+25FFk45|certain anatomical details
+25FFk451|skin
+25FFk452|hair, feathers
+25FFk453|muscles
+25FFk5|parts, limbs and organs in unusual places
+25FFk51|head and face
+25FFk511|nose, tusk etc.
+25FFk512|eyes
+25FFk513|ears
+25FFk514|mouth, beak, nib
+25FFk515|neck
+25FFk52|chest
+25FFk53|abdomen, belly
+25FFk531|sexual organs
+25FFk532|partes posteriores, rump
+25FFk54|limbs
+25FFk541|claws, paws
+25FFk542|wings
+25FFk543|tail
+25FFk55|certain anatomical details
+25FFk551|skin
+25FFk552|hair, feathers
+25FFk553|muscles
+25FFk6|deformed parts, limbs and organs
+25FFk61|head and face
+25FFk611|nose, tusk etc.
+25FFk612|eyes
+25FFk613|ears
+25FFk614|mouth, beak, nib
+25FFk615|neck
+25FFk62|chest
+25FFk63|abdomen, belly
+25FFk631|sexual organs
+25FFk632|partes posteriores, rump
+25FFk64|limbs
+25FFk641|claws, paws
+25FFk642|wings
+25FFk643|tail
+25FFk65|certain anatomical details
+25FFk651|skin
+25FFk652|hair, feathers
+25FFk653|muscles
+25FFk7|aspects of parts, limbs and organs of fabulous animals, not meant or mentioned under KEY (+1) to (+6)
+25FFk70|variant
+25FFk71|animals used symbolically
+25FFk711|bestiaries, 'Physiologus'
+25FFk712|heraldic animals
+25FFk713|animals as attributes
+25FFk714|animals in caricature
+25FFk715|ornamental variants of animals
+25FFk7151|symmetrically placed ornamental animals
+25FFk7152|ornamental animals, partly joined
+25FFk7153|ornamental animals, partly interlaced
+25FFk7154|symmetrically placed ornamental animals, divided by a (human) figure or an object
+25FFk72|sex and age of animals; propagation of animals
+25FFk721|young animal
+25FFk722|male animal
+25FFk723|female animal
+25FFk724|very old animal
+25FFk73|anatomy of animals
+25FFk731|skeleton of an animal
+25FFk732|trunk of an animal
+25FFk7321|sexual organs of an animal
+25FFk73211|sexual organs of a male animal
+25FFk73212|sexual organs of a female animal
+25FFk7322|buttocks of an animal
+25FFk7323|entrails, internal organs of an animal
+25FFk733|head of an animal
+25FFk7331|skull of an animal
+25FFk7332|antlers; horn
+25FFk7333|ears of an animal
+25FFk7334|fang, tusk
+25FFk7335|snout, jaw, beak, nib
+25FFk7336|tongue of an animal
+25FFk7337|eyes of an animal
+25FFk734|limbs of an animal
+25FFk7341|claws, paws of an animal
+25FFk7342|wings of an animal
+25FFk7343|tail of an animal
+25FFk7349|track, trail of an animal
+25FFk735|external appearance of animals
+25FFk7351|skin, fleece, hide, fur, leather
+25FFk7352|feathers
+25FFk7353|scales of an animal
+25FFk736|shell, snail-shell etc.
+25FFk74|animal behaviour
+25FFk741|birth of an animal
+25FFk7411|birth from an egg
+25FFk7412|brooding, hatching
+25FFk7413|'larva', grub
+25FFk7414|'pupa', chrysalis
+25FFk742|feeding and care of young
+25FFk7421|nest, den, burrow
+25FFk7422|animal 'educating the young', playing with young
+25FFk7429|animal killing its own breed
+25FFk743|animals courting and mating
+25FFk7431|animals courting
+25FFk7432|animals mating
+25FFk744|relationship between animals
+25FFk7441|herd, group of animals
+25FFk7442|animals playing together
+25FFk745|animals eating and drinking
+25FFk7451|animal in search of food
+25FFk7452|animal with prey
+25FFk7459|animal excreting
+25FFk74591|excrement, dung of animal(s)
+25FFk746|sleeping animal(s)
+25FFk7461|hibernation of animal(s)
+25FFk747|animal psychology
+25FFk7471|instinct of animal
+25FFk74711|migration of animal(s)
+25FFk74712|animals nesting; making nests, lodges, webs, etc.
+25FFk748|changes in external appearance of animal(s)
+25FFk7481|animal(s) changing external appearance in connection with seasons
+25FFk74811|animal(s) changing external appearance in summer
+25FFk74812|animal(s) changing external appearance in winter
+25FFk74813|transition, metamorphosis of animals
+25FFk74814|changes in external appearance of animals ~ rutting season
+25FFk7482|renewal of exterior of animals
+25FFk74821|shedding of skin of animal(s)
+25FFk7483|external changes of animal(s) in relation to their environment
+25FFk74831|animal(s) changing colour
+25FFk749|audible means of communication of animal(s): roaring, crying, singing, barking, mewing, neighing, chirping, etc.
+25FFk7491|silent means of communication of animal(s): wagging of tail etc.
+25FFk75|animal(s) in motion; positions, expressions of animals
+25FFk751|fighting animals; aggressive relations
+25FFk7511|animal(s) threatening
+25FFk7512|animal(s) attacking
+25FFk7513|animal(s) in pursuit
+25FFk7514|animal(s) killing
+25FFk7515|animal(s) killing itself (themselves)
+25FFk75151|animal(s) seeking death, self-sacrifice of animal(s)
+25FFk752|movements of animal(s)
+25FFk7521|forward movement of animal(s)
+25FFk75211|walking animal
+25FFk75212|running animal
+25FFk75213|rolling animal
+25FFk75214|animal walking on the forelegs
+25FFk75215|animal riding
+25FFk75219|backward movement of animal
+25FFk7522|upward and downward movement of animal(s)
+25FFk75221|jumping animal(s)
+25FFk75222|climbing animal(s)
+25FFk75223|animal pulling itself up
+25FFk75227|animal trampling, treading, stamping on someone or something
+25FFk7523|passive motion of animal(s)
+25FFk75231|falling animal(s)
+25FFk75232|animal(s) being carried
+25FFk7524|movement of animal(s) in relation to an other animal, human figure, or object
+25FFk75241|animal(s) throwing something
+25FFk75242|animal(s) reaching for something
+25FFk75243|animal(s) hitting something
+25FFk75244|animal(s) grasping, seizing something
+25FFk75245|animal(s) holding something
+25FFk75246|animal(s) carrying something
+25FFk75247|animal(s) pulling, drawing something
+25FFk75248|animal(s) pushing something
+25FFk752481|animal(s) turning something
+25FFk7525|some other movements of animal(s)
+25FFk75251|animal curling up
+25FFk75252|animal stretching out
+25FFk75253|animal rotating, twisting
+25FFk7526|animal(s) moving in the air
+25FFk75262|flying animal(s)
+25FFk75263|animal(s) floating in the air
+25FFk7527|animal(s) moving in water
+25FFk75273|swimming animal(s)
+25FFk75274|animal(s) floating in water
+25FFk75278|animal(s) emerging from the water
+25FFk753|postures, positions of animal(s)
+25FFk7531|standing animal
+25FFk7532|leaning animal
+25FFk7533|kneeling animal
+25FFk7534|squatting, crouching animal
+25FFk7535|sitting animal
+25FFk7536|lying animal
+25FFk7537|hanging animal
+25FFk75371|animal hanging upside down
+25FFk7539|other postures of animals, not meant or mentioned above
+25FFk754|postures of the head ~ animal
+25FFk7541|animal with head in upright position
+25FFk7542|animal with head turned sideways
+25FFk7543|animal with head bent backwards
+25FFk7544|animal with head bent forward; bowing animal
+25FFk7547|animal looking over the shoulder
+25FFk755|postures of forelegs, forepaws, claws of animal(s)
+25FFk7551|animal with forelegs raised upward
+25FFk7552|animal with forelegs stretched foreward
+25FFk7553|animal with forelegs stretched sidewards
+25FFk7554|animal with forelegs held in front of the body
+25FFk75541|animal with forepaw, claw on the heart
+25FFk75542|animal with forepaws, claws, folded over the abdomen
+25FFk7555|postures of animal forelegs, forepaws, claws in relation to each other
+25FFk75551|animal with forepaws crossed
+25FFk75552|animal with forepaws against each other
+25FFk7556|postures of animal forelegs, forepaws, claws in relation to the head
+25FFk75561|animal pointing with forepaw towards the forehead
+25FFk75562|forepaw(s) towards the eye(s)
+25FFk75563|forepaw(s) towards the nose
+25FFk75564|forepaw(s) towards the mouth
+25FFk75565|forepaw(s) towards the ear(s)
+25FFk7557|postures and gestures of animal forelegs, forepaws, claws in relation to another animal, human figure, or object
+25FFk75571|animal gripping another animal, human figure, or object
+25FFk7559|still other postures and gestures of animal forelegs, forepaws, claws
+25FFk756|postures of hind leg(s) of animal(s)
+25FFk7561|animal(s) standing on the hind legs
+25FFk7562|animal sitting cross-legged
+25FFk757|morphology of expression of animal(s) (in general)
+25FFk7571|morphology of facial expression of animal(s) ~ eyes
+25FFk75711|animal looking upwards
+25FFk75712|animal looking downwards
+25FFk75713|animal looking sideways
+25FFk75717|animal looking backwards
+25FFk7573|morphology of facial expression of animal(s) ~ mouth
+25FFk75731|animal smiling
+25FFk75732|animal with mouth slightly open
+25FFk757321|animal with tongue stuck out
+25FFk75733|animal with mouth wide open
+25FFk757331|animal with mouth wide open, teeth pressed together
+25FFk758|relations with neutral or friendly, non-aggressive character (expressive connotations ~ animals)
+25FFk76|disease and death of animal(s)
+25FFk761|animal(s) being sick; having a disease
+25FFk762|animal(s) being wounded
+25FFk7621|animal(s) being hit, shot, caught
+25FFk763|dying animal; death of animal; dead animal
+25FFk764|animal killed by man
+25FFk7641|slaughtered animal
+25FFk765|caring for sick animal
+25FFk766|carrion
+25FFk767|stuffed animal
+25FFk77|animals ~ biological investigation
+25FFk771|observation of animals
+25FFk772|experiments with animals (biological aspects)
+25FFk779|extinct animals
+25FFk78|man and animal
+25FFk781|animals used as cattle, livestock
+25FFk782|domestic animals
+25FFk783|cleaning an animal, e.g. washing, grooming
+25FFk789|experiments with animals (medicine)
+25FFk7891|animals used as substitute for man
+25FFk7892|animals used in medical research
+25FFk7893|vivisection of animals
+25FFk79|products of animals
+25FFk791|egg
+25FFk7911|egg-laying
+25FFk792|poison ~ product of animal
+25FFk793|pearl ~ product of animal
+25FFkq1|head and face
+25FFkq11|nose, tusk etc.
+25FFkq12|eyes
+25FFkq13|ears
+25FFkq14|mouth, beak, nib
+25FFkq15|neck
+25FFkq2|chest
+25FFkq3|abdomen, belly
+25FFkq31|sexual organs
+25FFkq32|partes posteriores, rump
+25FFkq4|limbs
+25FFkq41|claws, paws
+25FFkq42|wings
+25FFkq43|tail
+25FFkq5|certain anatomical details
+25FFkq51|skin
+25FFkq52|hair, feathers
+25FFkq53|muscles
+25Fk0|variant
+25Fk1|animals used symbolically
+25Fk11|bestiaries, 'Physiologus'
+25Fk12|heraldic animals
+25Fk13|animals as attributes
+25Fk14|animals in caricature
+25Fk15|ornamental variants of animals
+25Fk151|symmetrically placed ornamental animals
+25Fk152|ornamental animals, partly joined
+25Fk153|ornamental animals, partly interlaced
+25Fk154|symmetrically placed ornamental animals, divided by a (human) figure or an object
+25Fk2|sex and age of animals; propagation of animals
+25Fk21|young animal
+25Fk22|male animal
+25Fk23|female animal
+25Fk24|very old animal
+25Fk3|anatomy of animals
+25Fk31|skeleton of an animal
+25Fk32|trunk of an animal
+25Fk321|sexual organs of an animal
+25Fk3211|sexual organs of a male animal
+25Fk3212|sexual organs of a female animal
+25Fk322|buttocks of an animal
+25Fk323|entrails, internal organs of an animal
+25Fk33|head of an animal
+25Fk331|skull of an animal
+25Fk332|antlers; horn
+25Fk333|ears of an animal
+25Fk334|fang, tusk
+25Fk335|snout, jaw, beak, nib
+25Fk336|tongue of an animal
+25Fk337|eyes of an animal
+25Fk34|limbs of an animal
+25Fk341|claws, paws of an animal
+25Fk342|wings of an animal
+25Fk343|tail of an animal
+25Fk349|track, trail of an animal
+25Fk35|external appearance of animals
+25Fk351|skin, fleece, hide, fur, leather
+25Fk352|feathers
+25Fk353|scales of an animal
+25Fk36|shell, snail-shell etc.
+25Fk4|animal behaviour
+25Fk41|birth of an animal
+25Fk411|birth from an egg
+25Fk412|brooding, hatching
+25Fk413|'larva', grub
+25Fk414|'pupa', chrysalis
+25Fk42|feeding and care of young
+25Fk421|nest, den, burrow
+25Fk422|animal 'educating the young', playing with young
+25Fk429|animal killing its own breed
+25Fk43|animals courting and mating
+25Fk431|animals courting
+25Fk432|animals mating
+25Fk44|relationship between animals
+25Fk441|herd, group of animals
+25Fk442|animals playing together
+25Fk45|animals eating and drinking
+25Fk451|animal in search of food
+25Fk452|animal with prey
+25Fk459|animal excreting
+25Fk4591|excrement, dung of animal(s)
+25Fk46|sleeping animal(s)
+25Fk461|hibernation of animal(s)
+25Fk47|animal psychology
+25Fk471|instinct of animal
+25Fk4711|migration of animal(s)
+25Fk4712|animals nesting; making nests, lodges, webs, etc.
+25Fk48|changes in external appearance of animal(s)
+25Fk481|animal(s) changing external appearance in connection with seasons
+25Fk4811|animal(s) changing external appearance in summer
+25Fk4812|animal(s) changing external appearance in winter
+25Fk4813|transition, metamorphosis of animals
+25Fk4814|changes in external appearance of animals ~ rutting season
+25Fk482|renewal of exterior of animals
+25Fk4821|shedding of skin of animal(s)
+25Fk483|external changes of animal(s) in relation to their environment
+25Fk4831|animal(s) changing colour
+25Fk49|audible means of communication of animal(s): roaring, crying, singing, barking, mewing, neighing, chirping, etc.
+25Fk491|silent means of communication of animal(s): wagging of tail etc.
+25Fk5|animal(s) in motion; positions, expressions of animals
+25Fk51|fighting animals; aggressive relations
+25Fk511|animal(s) threatening
+25Fk512|animal(s) attacking
+25Fk513|animal(s) in pursuit
+25Fk514|animal(s) killing
+25Fk515|animal(s) killing itself (themselves)
+25Fk5151|animal(s) seeking death, self-sacrifice of animal(s)
+25Fk52|movements of animal(s)
+25Fk521|forward movement of animal(s)
+25Fk5211|walking animal
+25Fk5212|running animal
+25Fk5213|rolling animal
+25Fk5214|animal walking on the forelegs
+25Fk5215|animal riding
+25Fk5219|backward movement of animal
+25Fk522|upward and downward movement of animal(s)
+25Fk5221|jumping animal(s)
+25Fk5222|climbing animal(s)
+25Fk5223|animal pulling itself up
+25Fk5227|animal trampling, treading, stamping on someone or something
+25Fk523|passive motion of animal(s)
+25Fk5231|falling animal(s)
+25Fk5232|animal(s) being carried
+25Fk524|movement of animal(s) in relation to an other animal, human figure, or object
+25Fk5241|animal(s) throwing something
+25Fk5242|animal(s) reaching for something
+25Fk5243|animal(s) hitting something
+25Fk5244|animal(s) grasping, seizing something
+25Fk5245|animal(s) holding something
+25Fk5246|animal(s) carrying something
+25Fk5247|animal(s) pulling, drawing something
+25Fk5248|animal(s) pushing something
+25Fk52481|animal(s) turning something
+25Fk525|some other movements of animal(s)
+25Fk5251|animal curling up
+25Fk5252|animal stretching out
+25Fk5253|animal rotating, twisting
+25Fk526|animal(s) moving in the air
+25Fk5262|flying animal(s)
+25Fk5263|animal(s) floating in the air
+25Fk527|animal(s) moving in water
+25Fk5273|swimming animal(s)
+25Fk5274|animal(s) floating in water
+25Fk5278|animal(s) emerging from the water
+25Fk53|postures, positions of animal(s)
+25Fk531|standing animal
+25Fk532|leaning animal
+25Fk533|kneeling animal
+25Fk534|squatting, crouching animal
+25Fk535|sitting animal
+25Fk536|lying animal
+25Fk537|hanging animal
+25Fk5371|animal hanging upside down
+25Fk539|other postures of animals, not meant or mentioned above
+25Fk54|postures of the head ~ animal
+25Fk541|animal with head in upright position
+25Fk542|animal with head turned sideways
+25Fk543|animal with head bent backwards
+25Fk544|animal with head bent forward; bowing animal
+25Fk547|animal looking over the shoulder
+25Fk55|postures of forelegs, forepaws, claws of animal(s)
+25Fk551|animal with forelegs raised upward
+25Fk552|animal with forelegs stretched foreward
+25Fk553|animal with forelegs stretched sidewards
+25Fk554|animal with forelegs held in front of the body
+25Fk5541|animal with forepaw, claw on the heart
+25Fk5542|animal with forepaws, claws, folded over the abdomen
+25Fk555|postures of animal forelegs, forepaws, claws in relation to each other
+25Fk5551|animal with forepaws crossed
+25Fk5552|animal with forepaws against each other
+25Fk556|postures of animal forelegs, forepaws, claws in relation to the head
+25Fk5561|animal pointing with forepaw towards the forehead
+25Fk5562|forepaw(s) towards the eye(s)
+25Fk5563|forepaw(s) towards the nose
+25Fk5564|forepaw(s) towards the mouth
+25Fk5565|forepaw(s) towards the ear(s)
+25Fk557|postures and gestures of animal forelegs, forepaws, claws in relation to another animal, human figure, or object
+25Fk5571|animal gripping another animal, human figure, or object
+25Fk559|still other postures and gestures of animal forelegs, forepaws, claws
+25Fk56|postures of hind leg(s) of animal(s)
+25Fk561|animal(s) standing on the hind legs
+25Fk562|animal sitting cross-legged
+25Fk57|morphology of expression of animal(s) (in general)
+25Fk571|morphology of facial expression of animal(s) ~ eyes
+25Fk5711|animal looking upwards
+25Fk5712|animal looking downwards
+25Fk5713|animal looking sideways
+25Fk5717|animal looking backwards
+25Fk573|morphology of facial expression of animal(s) ~ mouth
+25Fk5731|animal smiling
+25Fk5732|animal with mouth slightly open
+25Fk57321|animal with tongue stuck out
+25Fk5733|animal with mouth wide open
+25Fk57331|animal with mouth wide open, teeth pressed together
+25Fk58|relations with neutral or friendly, non-aggressive character (expressive connotations ~ animals)
+25Fk6|disease and death of animal(s)
+25Fk61|animal(s) being sick; having a disease
+25Fk62|animal(s) being wounded
+25Fk621|animal(s) being hit, shot, caught
+25Fk63|dying animal; death of animal; dead animal
+25Fk64|animal killed by man
+25Fk641|slaughtered animal
+25Fk65|caring for sick animal
+25Fk66|carrion
+25Fk67|stuffed animal
+25Fk7|animals ~ biological investigation
+25Fk71|observation of animals
+25Fk72|experiments with animals (biological aspects)
+25Fk79|extinct animals
+25Fk8|man and animal
+25Fk81|animals used as cattle, livestock
+25Fk82|domestic animals
+25Fk83|cleaning an animal, e.g. washing, grooming
+25Fk89|experiments with animals (medicine)
+25Fk891|animals used as substitute for man
+25Fk892|animals used in medical research
+25Fk893|vivisection of animals
+25Fk9|products of animals
+25Fk91|egg
+25Fk911|egg-laying
+25Fk92|poison ~ product of animal
+25Fk93|pearl ~ product of animal
+25Gk0|variant
+25Gk1|plants used symbolically
+25Gk11|'floralia'
+25Gk12|heraldic plants
+25Gk13|plants as attributes
+25Gk14|plants in caricature
+25Gk15|ornamental variants of plants
+25Gk2|parts of plants
+25Gk21|stem, trunk
+25Gk211|stump, stub
+25Gk22|branch, stick
+25Gk221|sprig, twig
+25Gk222|thorny twig
+25Gk223|thorn, prickle
+25Gk224|bundle of twigs, faggot
+25Gk225|withered branch
+25Gk23|top of plant
+25Gk24|root, tuber
+25Gk241|aerial root
+25Gk25|tendril, twine
+25Gk26|bulb
+25Gk27|leaf
+25Gk29|other parts of plants
+25Gk3|characteristics of plant growth
+25Gk31|bud, budding
+25Gk32|flowers, blossom, blossoming
+25Gk33|leaves, putting forth leaves
+25Gk34|bearing fruit
+25Gk341|shedding fruit
+25Gk35|withering, leaves or flowers falling off
+25Gk351|bare plant
+25Gk36|age of plant
+25Gk361|young plant
+25Gk362|fully grown plant
+25Gk363|(very) old plant
+25Gk37|dying plant
+25Gk371|dead, withered plant
+25Gk39|other characteristics of plant growth
+25Gk39(...)|other characteristics of plant growth (with NAME)
+25Hk0|variant
+25Hk1|landscape with figures, staffage
+25Ik0|variant
+25Ik1|city(-scape) with figures, staffage
+25Kk0|variant
+25Kk1|landscape (in the non-temperate zone) with figures, staffage
+25Lk0|variant
+25Lk1|allegorical city with figures, staffage
+2k0|variant
+31A42k0|variant
+31A42k1|parts, limbs and organs larger than normal
+31A42k11|head, face
+31A42k111|nose
+31A42k112|eyes
+31A42k113|ears
+31A42k114|mouth
+31A42k1141|tongue
+31A42k1142|lips
+31A42k1143|teeth
+31A42k115|neck
+31A42k12|chest
+31A42k121|breast(s)
+31A42k13|abdomen, belly
+31A42k131|sexual organs
+31A42k132|'partes posteriores'
+31A42k14|arms
+31A42k141|hands
+31A42k142|fingers
+31A42k15|legs
+31A42k151|feet
+31A42k152|toes
+31A42k16|some other anatomical details
+31A42k161|skin
+31A42k162|hair
+31A42k163|muscles
+31A42k2|parts, limbs and organs smaller than normal
+31A42k21|head, face
+31A42k211|nose
+31A42k212|eyes
+31A42k213|ears
+31A42k214|mouth
+31A42k2141|tongue
+31A42k2142|lips
+31A42k2143|teeth
+31A42k215|neck
+31A42k22|chest
+31A42k221|breast(s)
+31A42k23|abdomen, belly
+31A42k231|sexual organs
+31A42k232|'partes posteriores'
+31A42k24|arms
+31A42k241|hands
+31A42k242|fingers
+31A42k25|legs
+31A42k251|feet
+31A42k252|toes
+31A42k26|some other anatomical details
+31A42k261|skin
+31A42k262|hair
+31A42k263|muscles
+31A42k3|parts, limbs and organs missing
+31A42k31|head, face
+31A42k311|nose
+31A42k312|eyes
+31A42k313|ears
+31A42k314|mouth
+31A42k3141|tongue
+31A42k3142|lips
+31A42k3143|teeth
+31A42k315|neck
+31A42k32|chest
+31A42k321|breast(s)
+31A42k33|abdomen, belly
+31A42k331|sexual organs
+31A42k332|'partes posteriores'
+31A42k34|arms
+31A42k341|hands
+31A42k342|fingers
+31A42k35|legs
+31A42k351|feet
+31A42k352|toes
+31A42k36|some other anatomical details
+31A42k361|skin
+31A42k362|hair
+31A42k363|muscles
+31A42k4|parts, limbs and organs in greater number than normal
+31A42k41|head, face
+31A42k411|nose
+31A42k412|eyes
+31A42k413|ears
+31A42k414|mouth
+31A42k4141|tongue
+31A42k4142|lips
+31A42k4143|teeth
+31A42k415|neck
+31A42k42|chest
+31A42k421|breast(s)
+31A42k43|abdomen, belly
+31A42k431|sexual organs
+31A42k432|'partes posteriores'
+31A42k44|arms
+31A42k441|hands
+31A42k442|fingers
+31A42k45|legs
+31A42k451|feet
+31A42k452|toes
+31A42k46|some other anatomical details
+31A42k461|skin
+31A42k462|hair
+31A42k463|muscles
+31A42k5|parts, limbs and organs in unusual places
+31A42k51|head, face
+31A42k511|nose
+31A42k512|eyes
+31A42k513|ears
+31A42k514|mouth
+31A42k5141|tongue
+31A42k5142|lips
+31A42k5143|teeth
+31A42k515|neck
+31A42k52|chest
+31A42k521|breast(s)
+31A42k53|abdomen, belly
+31A42k531|sexual organs
+31A42k532|'partes posteriores'
+31A42k54|arms
+31A42k541|hands
+31A42k542|fingers
+31A42k55|legs
+31A42k551|feet
+31A42k552|toes
+31A42k56|some other anatomical details
+31A42k561|skin
+31A42k562|hair
+31A42k563|muscles
+31A42k6|deformed parts, limbs and organs
+31A42k61|head, face
+31A42k611|nose
+31A42k612|eyes
+31A42k613|ears
+31A42k614|mouth
+31A42k6141|tongue
+31A42k6142|lips
+31A42k6143|teeth
+31A42k615|neck
+31A42k62|chest
+31A42k621|breast(s)
+31A42k63|abdomen, belly
+31A42k631|sexual organs
+31A42k632|'partes posteriores'
+31A42k64|arms
+31A42k641|hands
+31A42k642|fingers
+31A42k65|legs
+31A42k651|feet
+31A42k652|toes
+31A42k66|some other anatomical details
+31A42k661|skin
+31A42k662|hair
+31A42k663|muscles
+31A42kq1|head, face
+31A42kq11|nose
+31A42kq12|eyes
+31A42kq13|ears
+31A42kq14|mouth
+31A42kq141|tongue
+31A42kq142|lips
+31A42kq143|teeth
+31A42kq15|neck
+31A42kq2|chest
+31A42kq21|breast(s)
+31A42kq3|abdomen, belly
+31A42kq31|sexual organs
+31A42kq32|'partes posteriores'
+31A42kq4|arms
+31A42kq41|hands
+31A42kq42|fingers
+31A42kq5|legs
+31A42kq51|feet
+31A42kq52|toes
+31A42kq6|some other anatomical details
+31A42kq61|skin
+31A42kq62|hair
+31A42kq63|muscles
+31A44k0|variant
+31A44k1|parts, limbs and organs larger than normal
+31A44k11|head, face
+31A44k111|nose
+31A44k112|eyes
+31A44k113|ears
+31A44k114|mouth
+31A44k1141|tongue
+31A44k1142|lips
+31A44k1143|teeth
+31A44k115|neck
+31A44k12|chest
+31A44k121|breast(s)
+31A44k13|abdomen, belly
+31A44k131|sexual organs
+31A44k132|'partes posteriores'
+31A44k14|arms
+31A44k141|hands
+31A44k142|fingers
+31A44k15|legs
+31A44k151|feet
+31A44k152|toes
+31A44k16|some other anatomical details
+31A44k161|skin
+31A44k162|hair
+31A44k163|muscles
+31A44k2|parts, limbs and organs smaller than normal
+31A44k21|head, face
+31A44k211|nose
+31A44k212|eyes
+31A44k213|ears
+31A44k214|mouth
+31A44k2141|tongue
+31A44k2142|lips
+31A44k2143|teeth
+31A44k215|neck
+31A44k22|chest
+31A44k221|breast(s)
+31A44k23|abdomen, belly
+31A44k231|sexual organs
+31A44k232|'partes posteriores'
+31A44k24|arms
+31A44k241|hands
+31A44k242|fingers
+31A44k25|legs
+31A44k251|feet
+31A44k252|toes
+31A44k26|some other anatomical details
+31A44k261|skin
+31A44k262|hair
+31A44k263|muscles
+31A44k3|parts, limbs and organs missing
+31A44k31|head, face
+31A44k311|nose
+31A44k312|eyes
+31A44k313|ears
+31A44k314|mouth
+31A44k3141|tongue
+31A44k3142|lips
+31A44k3143|teeth
+31A44k315|neck
+31A44k32|chest
+31A44k321|breast(s)
+31A44k33|abdomen, belly
+31A44k331|sexual organs
+31A44k332|'partes posteriores'
+31A44k34|arms
+31A44k341|hands
+31A44k342|fingers
+31A44k35|legs
+31A44k351|feet
+31A44k352|toes
+31A44k36|some other anatomical details
+31A44k361|skin
+31A44k362|hair
+31A44k363|muscles
+31A44k4|parts, limbs and organs in greater number than normal
+31A44k41|head, face
+31A44k411|nose
+31A44k412|eyes
+31A44k413|ears
+31A44k414|mouth
+31A44k4141|tongue
+31A44k4142|lips
+31A44k4143|teeth
+31A44k415|neck
+31A44k42|chest
+31A44k421|breast(s)
+31A44k43|abdomen, belly
+31A44k431|sexual organs
+31A44k432|'partes posteriores'
+31A44k44|arms
+31A44k441|hands
+31A44k442|fingers
+31A44k45|legs
+31A44k451|feet
+31A44k452|toes
+31A44k46|some other anatomical details
+31A44k461|skin
+31A44k462|hair
+31A44k463|muscles
+31A44k5|parts, limbs and organs in unusual places
+31A44k51|head, face
+31A44k511|nose
+31A44k512|eyes
+31A44k513|ears
+31A44k514|mouth
+31A44k5141|tongue
+31A44k5142|lips
+31A44k5143|teeth
+31A44k515|neck
+31A44k52|chest
+31A44k521|breast(s)
+31A44k53|abdomen, belly
+31A44k531|sexual organs
+31A44k532|'partes posteriores'
+31A44k54|arms
+31A44k541|hands
+31A44k542|fingers
+31A44k55|legs
+31A44k551|feet
+31A44k552|toes
+31A44k56|some other anatomical details
+31A44k561|skin
+31A44k562|hair
+31A44k563|muscles
+31A44k6|deformed parts, limbs and organs
+31A44k61|head, face
+31A44k611|nose
+31A44k612|eyes
+31A44k613|ears
+31A44k614|mouth
+31A44k6141|tongue
+31A44k6142|lips
+31A44k6143|teeth
+31A44k615|neck
+31A44k62|chest
+31A44k621|breast(s)
+31A44k63|abdomen, belly
+31A44k631|sexual organs
+31A44k632|'partes posteriores'
+31A44k64|arms
+31A44k641|hands
+31A44k642|fingers
+31A44k65|legs
+31A44k651|feet
+31A44k652|toes
+31A44k66|some other anatomical details
+31A44k661|skin
+31A44k662|hair
+31A44k663|muscles
+31A44kq1|head, face
+31A44kq11|nose
+31A44kq12|eyes
+31A44kq13|ears
+31A44kq14|mouth
+31A44kq141|tongue
+31A44kq142|lips
+31A44kq143|teeth
+31A44kq15|neck
+31A44kq2|chest
+31A44kq21|breast(s)
+31A44kq3|abdomen, belly
+31A44kq31|sexual organs
+31A44kq32|'partes posteriores'
+31A44kq4|arms
+31A44kq41|hands
+31A44kq42|fingers
+31A44kq5|legs
+31A44kq51|feet
+31A44kq52|toes
+31A44kq6|some other anatomical details
+31A44kq61|skin
+31A44kq62|hair
+31A44kq63|muscles
+31A45k0|variant
+31A45k1|head or (parts of) face
+31A45k2|body
+31A45k21|chest, breast
+31A45k22|belly
+31A45k221|sexual organs
+31A45k222|'partes posteriores'
+31A45k23|tail
+31A45k3|legs, wings, etc.
+31A45k31|paws, claws, toes
+31A45k4|some other anatomical details
+31A45k41|skin, scales
+31A45k42|hair, feathers
+31A54k0|variant
+31A54k1|alone
+31A54k2|two together
+31A54k3|many persons
+31E23k0|variant
+31E23k1|culpable homicide
+31E23k2|death by murder
+31E23k21|death by lynching
+31E23k3|death in a fight
+31E23k31|death in a fist-fight, fracas
+31E23k311|death in a duel
+31E23k32|death by robbery
+31E23k33|death during war
+31E23k4|death on the rack, under torture
+31E23k41|death by inquisition
+31E23k42|instrument of torture
+31E23k42(...)|instrument of torture (with NAME)
+31E23k5|death by martyrdom
+31E23k6|execution (by judicial verdict)
+31E23k61|instrument of execution
+31E23k61(...)|instrument of execution (with NAME)
+31E23k7|seeking death, suicide
+31E23k71|self-sacrifice, death in the service of a higher purpose
+31E23k72|suicide out of despair
+31E23k79|attempted suicide
+31E23k791|suicide prevented
+31E23k8|death resulting from medical treatment
+31E23k9|finding of dead or dying person
+31F2k0|variant
+31F2k1|Death riding on a horse
+31F2k2|Death riding on an ox
+31F2k3|Death with bow and arrow
+31F2k4|Death with scythe
+31F2k5|Death with musical instrument
+31F2k6|Death with crown
+31k0|variant
+31k1|front view
+31k2|back view
+31k21|back view with lost profile
+31k3|sideview, profile
+31k31|left side visible; left - (l. hand, l. foot, etc.)
+31k32|right side visible; right - (r. hand, r. foot, etc.)
+31k33|seen from above
+31k4|three-quarter view
+31k5|positions (of the human figure)
+31k51|standing
+31k511|standing on the head or on the hands
+31k52|leaning
+31k53|sitting
+31k54|kneeling
+31k55|sitting on the ground
+31k56|lying
+31k57|hanging
+31k571|hanging upside down
+31k6|direction of movements
+31k61|forward
+31k62|backward
+31k63|upward
+31k64|downward
+31k65|sideways
+31k66|circular
+31k7|number of persons
+31k71|one person
+31k72|two persons
+31k73|three persons
+31k74|four persons
+31k75|five persons
+31k76|six persons
+31k77|seven persons
+31k78|eight persons
+31k79|more than eight persons
+31k8|sex and age (of human being)
+31k81|male human being (not to be used where -A- is prescribed)
+31k811|young male (human being)
+31k812|adult male (human being)
+31k813|old male (human being)
+31k82|female (human being) (not to be used where -AA- is prescribed)
+31k821|young female (human being)
+31k822|adult female (human being)
+31k823|old female (human being)
+31k89|nude human being
+31k9|expressive connotations
+31k91|relations with friendly, non-aggressive character (expressive connotations)
+31k911|saluting, showing reverence
+31k9111|expressing one's gratitude
+31k9112|inviting
+31k9113|taking leave
+31k912|laughing, joy
+31k9121|congratulating
+31k9129|condoling
+31k913|swinging, waving
+31k9131|beckoning
+31k914|forgiving
+31k9141|reconciling
+31k915|blessing
+31k916|helping
+31k9161|protecting
+31k9162|rescuing
+31k9163|freeing
+31k9164|comforting, consoling
+31k917|beseeching
+31k918|caressing, courting, making love
+31k919|other relations with friendly character not mentioned above
+31k92|relations with aggressive, hostile character (expressive connotations)
+31k921|threatening; fury
+31k9211|accusing
+31k9212|challenging
+31k9213|conspiring, plotting
+31k922|fighting
+31k9221|quarrelling
+31k9222|fistfight
+31k9223|attacking somebody
+31k9224|pursuing somebody
+31k9225|killing
+31k923|defending oneself
+31k9231|keeping off
+31k9232|refusing somebody or something
+31k924|fearing, being suspicious
+31k925|being frightened
+31k926|despairing
+31k927|punishing
+31k9271|chastising
+31k928|having pleasure in the misfortune of others
+31k9281|laughing at a person
+31k929|other connotations
+31k93|relations with neutral character (expressive connotations)
+31k931|indicating, pointing at
+31k932|addressing
+31k9321|speaking
+31k9322|commanding
+31k9323|asking
+31k93231|begging
+31k9324|warning, admonishing
+31k9325|complaining
+31k933|holding something
+31k9331|holding a piece of drapery which blows out
+31k934|reaching for somebody or something, seizing something, touching
+31k9341|reaching, handing, giving
+31k935|receiving something
+31k936|stretching oneself
+31k937|arranging, straightening one's clothes
+31k9371|dressing or undressing
+31k938|thinking, meditating
+31k939|other neutral connotations
+31k94|relations with sad character (expressive connotations)
+31k941|being sad, suffering, sorrowing
+31k9411|grieving, mourning, lamenting, bewailing
+31k9412|suffering heartache, heart-break
+31k94121|sighing
+31k942|being bitter
+31k943|being tormented
+32Bk0|variant
+32Bk1|anthropological characteristics emphasized
+32Bk2|aborigines
+32Bk3|costume
+32Bk4|other cultural aspects
+32Bk5|sex and age
+32Bk51|men
+32Bk52|women
+32Bk53|babies and children
+32Bk54|adults
+32Bk55|aged
+32Bk9|caricatured
+34k0|variant
+34k1|feeding animal
+34k11|watering animal
+34k19|voiding by animals
+34k2|accomodations for animals
+34k21|stable, shed, kennel
+34k22|animal cage
+34k3|hygienic care of animal
+34k31|washing an animal
+34k32|grooming an animal
+34k4|esthetic modifications of animals
+34k41|trimming an animal
+34k42|docking an animal
+34k43|clipping an animal
+34k5|sex of animal
+34k51|male animal
+34k511|castration of animal
+34k52|female animal
+34k53|young animal
+34k6|harnessing, saddling, etc.
+34k61|unharnessing, unsaddling, etc.
+34k7|exercising, performing animal
+34k8|breeding animals
+34k9|zoological aspects of animals ~ man and animal
+34k90|variant
+34k91|animals used symbolically
+34k911|bestiaries, 'Physiologus'
+34k912|heraldic animals
+34k913|animals as attributes
+34k914|animals in caricature
+34k915|ornamental variants of animals
+34k9151|symmetrically placed ornamental animals
+34k9152|ornamental animals, partly joined
+34k9153|ornamental animals, partly interlaced
+34k9154|symmetrically placed ornamental animals, divided by a (human) figure or an object
+34k92|sex and age of animals; propagation of animals
+34k921|young animal
+34k922|male animal
+34k923|female animal
+34k924|very old animal
+34k93|anatomy of animals
+34k931|skeleton of an animal
+34k932|trunk of an animal
+34k9321|sexual organs of an animal
+34k93211|sexual organs of a male animal
+34k93212|sexual organs of a female animal
+34k9322|buttocks of an animal
+34k9323|entrails, internal organs of an animal
+34k933|head of an animal
+34k9331|skull of an animal
+34k9332|antlers; horn
+34k9333|ears of an animal
+34k9334|fang, tusk
+34k9335|snout, jaw, beak, nib
+34k9336|tongue of an animal
+34k9337|eyes of an animal
+34k934|limbs of an animal
+34k9341|claws, paws of an animal
+34k9342|wings of an animal
+34k9343|tail of an animal
+34k9349|track, trail of an animal
+34k935|external appearance of animals
+34k9351|skin, fleece, hide, fur, leather
+34k9352|feathers
+34k9353|scales of an animal
+34k936|shell, snail-shell etc.
+34k94|animal behaviour
+34k941|birth of an animal
+34k9411|birth from an egg
+34k9412|brooding, hatching
+34k9413|'larva', grub
+34k9414|'pupa', chrysalis
+34k942|feeding and care of young
+34k9421|nest, den, burrow
+34k9422|animal 'educating the young', playing with young
+34k9429|animal killing its own breed
+34k943|animals courting and mating
+34k9431|animals courting
+34k9432|animals mating
+34k944|relationship between animals
+34k9441|herd, group of animals
+34k9442|animals playing together
+34k945|animals eating and drinking
+34k9451|animal in search of food
+34k9452|animal with prey
+34k9459|animal excreting
+34k94591|excrement, dung of animal(s)
+34k946|sleeping animal(s)
+34k9461|hibernation of animal(s)
+34k947|animal psychology
+34k9471|instinct of animal
+34k94711|migration of animal(s)
+34k94712|animals nesting; making nests, lodges, webs, etc.
+34k948|changes in external appearance of animal(s)
+34k9481|animal(s) changing external appearance in connection with seasons
+34k94811|animal(s) changing external appearance in summer
+34k94812|animal(s) changing external appearance in winter
+34k94813|transition, metamorphosis of animals
+34k94814|changes in external appearance of animals ~ rutting season
+34k9482|renewal of exterior of animals
+34k94821|shedding of skin of animal(s)
+34k9483|external changes of animal(s) in relation to their environment
+34k94831|animal(s) changing colour
+34k949|audible means of communication of animal(s): roaring, crying, singing, barking, mewing, neighing, chirping, etc.
+34k9491|silent means of communication of animal(s): wagging of tail etc.
+34k95|animal(s) in motion; positions, expressions of animals
+34k951|fighting animals; aggressive relations
+34k9511|animal(s) threatening
+34k9512|animal(s) attacking
+34k9513|animal(s) in pursuit
+34k9514|animal(s) killing
+34k9515|animal(s) killing itself (themselves)
+34k95151|animal(s) seeking death, self-sacrifice of animal(s)
+34k952|movements of animal(s)
+34k9521|forward movement of animal(s)
+34k95211|walking animal
+34k95212|running animal
+34k95213|rolling animal
+34k95214|animal walking on the forelegs
+34k95215|animal riding
+34k95219|backward movement of animal
+34k9522|upward and downward movement of animal(s)
+34k95221|jumping animal(s)
+34k95222|climbing animal(s)
+34k95223|animal pulling itself up
+34k95227|animal trampling, treading, stamping on someone or something
+34k9523|passive motion of animal(s)
+34k95231|falling animal(s)
+34k95232|animal(s) being carried
+34k9524|movement of animal(s) in relation to an other animal, human figure, or object
+34k95241|animal(s) throwing something
+34k95242|animal(s) reaching for something
+34k95243|animal(s) hitting something
+34k95244|animal(s) grasping, seizing something
+34k95245|animal(s) holding something
+34k95246|animal(s) carrying something
+34k95247|animal(s) pulling, drawing something
+34k95248|animal(s) pushing something
+34k952481|animal(s) turning something
+34k9525|some other movements of animal(s)
+34k95251|animal curling up
+34k95252|animal stretching out
+34k95253|animal rotating, twisting
+34k9526|animal(s) moving in the air
+34k95262|flying animal(s)
+34k95263|animal(s) floating in the air
+34k9527|animal(s) moving in water
+34k95273|swimming animal(s)
+34k95274|animal(s) floating in water
+34k95278|animal(s) emerging from the water
+34k953|postures, positions of animal(s)
+34k9531|standing animal
+34k9532|leaning animal
+34k9533|kneeling animal
+34k9534|squatting, crouching animal
+34k9535|sitting animal
+34k9536|lying animal
+34k9537|hanging animal
+34k95371|animal hanging upside down
+34k9539|other postures of animals, not meant or mentioned above
+34k954|postures of the head ~ animal
+34k9541|animal with head in upright position
+34k9542|animal with head turned sideways
+34k9543|animal with head bent backwards
+34k9544|animal with head bent forward; bowing animal
+34k9547|animal looking over the shoulder
+34k955|postures of forelegs, forepaws, claws of animal(s)
+34k9551|animal with forelegs raised upward
+34k9552|animal with forelegs stretched foreward
+34k9553|animal with forelegs stretched sidewards
+34k9554|animal with forelegs held in front of the body
+34k95541|animal with forepaw, claw on the heart
+34k95542|animal with forepaws, claws, folded over the abdomen
+34k9555|postures of animal forelegs, forepaws, claws in relation to each other
+34k95551|animal with forepaws crossed
+34k95552|animal with forepaws against each other
+34k9556|postures of animal forelegs, forepaws, claws in relation to the head
+34k95561|animal pointing with forepaw towards the forehead
+34k95562|forepaw(s) towards the eye(s)
+34k95563|forepaw(s) towards the nose
+34k95564|forepaw(s) towards the mouth
+34k95565|forepaw(s) towards the ear(s)
+34k9557|postures and gestures of animal forelegs, forepaws, claws in relation to another animal, human figure, or object
+34k95571|animal gripping another animal, human figure, or object
+34k9559|still other postures and gestures of animal forelegs, forepaws, claws
+34k956|postures of hind leg(s) of animal(s)
+34k9561|animal(s) standing on the hind legs
+34k9562|animal sitting cross-legged
+34k957|morphology of expression of animal(s) (in general)
+34k9571|morphology of facial expression of animal(s) ~ eyes
+34k95711|animal looking upwards
+34k95712|animal looking downwards
+34k95713|animal looking sideways
+34k95717|animal looking backwards
+34k9573|morphology of facial expression of animal(s) ~ mouth
+34k95731|animal smiling
+34k95732|animal with mouth slightly open
+34k957321|animal with tongue stuck out
+34k95733|animal with mouth wide open
+34k957331|animal with mouth wide open, teeth pressed together
+34k958|relations with neutral or friendly, non-aggressive character (expressive connotations ~ animals)
+34k96|disease and death of animal(s)
+34k961|animal(s) being sick; having a disease
+34k962|animal(s) being wounded
+34k9621|animal(s) being hit, shot, caught
+34k963|dying animal; death of animal; dead animal
+34k964|animal killed by man
+34k9641|slaughtered animal
+34k965|caring for sick animal
+34k966|carrion
+34k967|stuffed animal
+34k97|animals ~ biological investigation
+34k971|observation of animals
+34k972|experiments with animals (biological aspects)
+34k979|extinct animals
+34k98|man and animal
+34k981|animals used as cattle, livestock
+34k982|domestic animals
+34k983|cleaning an animal, e.g. washing, grooming
+34k989|experiments with animals (medicine)
+34k9891|animals used as substitute for man
+34k9892|animals used in medical research
+34k9893|vivisection of animals
+34k99|products of animals
+34k991|egg
+34k9911|egg-laying
+34k992|poison ~ product of animal
+34k993|pearl ~ product of animal
+3k0|variant
+41B3k0|variant
+41B3k1|kindling a light; lit, burning light, lamp, candle
+41B3k2|extinguishing; extinguished light, lamp, candle
+41B3k3|giving someone a light
+41Cm0|variant
+41Cm1|address, speech during meal, banquet
+41Cm2|toast at meal, banquet
+41Cm3|serving, servants at table, meal
+41Cm4|lingering at table
+41Cm5|shape of laid table
+41Cm51|rectangular table
+41Cm52|square table
+41Cm53|round table
+41Cm54|oval table
+41Cm55|other shape of table, e.g.: T-shape, U-shape, etc.
+41Cm9|broken, damaged tableware, etc.
+41Cn0|variant
+41Cn1|taking (particular) foodstuffs: eating, drinking, smoking, chewing, etc.
+41Cn11|eating, drinking, smoking, chewing, etc. in secret, furtively
+41Cn2|foodstuffs, drink, etc. on a plate
+41Cn3|foodstuffs in a glass
+41Cn4|foodstuffs in glass bottle or jar, bottled
+41Cn5|foodstuffs in other container, e.g.: barrel, can, cask, tin, etc.
+41Cn6|preserved foods
+41Cn61|dried, candied foodstuffs
+41Cn62|deep-frozen foodstuffs
+41Cn7|cooked foodstuffs
+41Dk0|variant
+41Dk1|home making of clothes
+41Dk2|stadia of production ~ home making of clothes
+41Dk21|taking measurements ~ home making of clothes
+41Dk22|cutting ~ home making of clothes
+41Dk23|sewing ~ home making of clothes
+41Dk24|fitting ~ home making of clothes
+41Dk3|pattern ~ home making of clothes
+41Dk4|materials used for clothes
+41Dk41|textile fabrics used for clothes
+41Dk411|lace used for clothes
+41Dk42|leather used for clothes
+41Dk43|fur used for clothes
+41Dk44|feathers used for clothes
+41Dk45|other materials used for clothes
+41Dk5|dressing, putting on clothes
+41Dk6|undressing, taking off clothes
+41Dk7|worn or torn clothes
+41Dk8|destination or function of clothes
+41Dk81|men's clothes
+41Dk811|woman dressed as man (travesty)
+41Dk82|women's clothes
+41Dk821|man dressed as woman (travesty)
+41Dk83|children's clothes
+41Dk831|boys' clothes
+41Dk832|girls' clothes
+41k0|variant
+41k1|metal
+41k2|stone
+41k3|ceramics and glass
+41k4|wood and other phytogenic material
+41k5|zoogenic material
+41k6|synthetic material
+41k9|broken, damaged
+43Ak0|variant
+43Ak1|festive decoration ~ festive activities
+43Ak11|illumination, fire-works ~ festive activities
+43Ak12|wreath, garland ~ festive activities
+43Ak13|decorated staff, portable structure ~ festive activities
+43Ak2|parade, pageant, cavalcade ~ festive activities
+43Ak21|decorated float, wagon ~ festive activities
+43Ak3|music and song ~ festive activities
+43Ak4|dancing ~ festive activities
+43Ak5|costume party ~ festive activities
+43Ak6|eating and drinking ~ festive activities
+43Ak61|solitary drinking ~ festive activities
+43Ak7|competition ~ festive activities
+43Ak71|games of skill ~ festive activities
+43Ak8|speech, address ~ festive activities
+43Ak9|the public ~ festive activities
+43Ak91|cheers, applause ~ festive activities
+43Ak92|hissing, catcalls ~ festive activities
+43B3k0|variant
+43B3k1|service ~ indoor recreation
+43B3k11|waiter, waitress, etc.
+43B3k12|menu, bill of fare
+43B3k13|innkeeper, host
+43B3k2|ordering ~ indoor recreation
+43B3k21|being served ~ indoor recreation
+43B3k29|complaining ~ indoor recreation
+43B3k3|paying, settling the bill ~ indoor recreation
+43B3k4|departing, leaving ~ indoor recreation
+43B3k9|being thrown out ~ indoor recreation
+43C1k0|variant
+43C1k1|sportsman, player, etc. (sports ~ animals)
+43C1k11|training (sports ~ animals)
+43C1k12|special training equipment (sports ~ animals)
+43C1k2|the contest (sports ~ animals)
+43C1k21|the two sides (sports ~ animals)
+43C1k22|one of the two sides (sports ~ animals)
+43C1k221|seconds or supporters (sports ~ animals)
+43C1k23|judge, umpire, referee (sports ~ animals)
+43C1k24|public (sports ~ animals)
+43C1k25|challenge (sports ~ animals)
+43C1k26|preparations for the contest (sports ~ animals)
+43C1k3|the outcome (sports ~ animals)
+43C1k31|the winner, victor, of a contest (sports ~ animals)
+43C1k311|receiving prize or crown of honours (sports ~ animals)
+43C1k3111|prize, wreath, medal, cup (sports ~ animals)
+43C1k32|the loser of a contest (sports ~ animals)
+43C1k321|loser scorned (sports ~ animals)
+43C1k322|consolation (sports ~ animals)
+43C1k3221|consolation prize (sports ~ animals)
+43C1k4|requirements, necessaries (sports ~ animals)
+43C1k4(...)|requirements, necessaries (sports ~ animals) (with NAME)
+43C1k41|hunting weapons, equipment, outfit
+43C1k411|objects to be thrown or shot
+43C1k4111|spear
+43C1k4112|bow and arrow
+43C1k4113|blow-pipe
+43C1k4114|boomerang
+43C1k412|firearms
+43C1k413|lasso
+43C1k414|trap
+43C1k4141|snare
+43C1k4142|pitfall
+43C1k415|net
+43C1k416|fishing equipment
+43C1k4161|fishing-rod
+43C1k41611|fishing-tackle
+43C1k41612|fishing-line
+43C1k41613|float
+43C1k41614|fish-hook
+43C1k4162|harpoon
+43C1k41621|trident
+43C1k4163|net
+43C1k4164|fish-trap
+43C1k4165|live-basket
+43C1k4166|live-box
+43C1k417|miscellanea
+43C1k4171|hunting-knife
+43C1k4179|other miscellanea
+43C1k4179(...)|other miscellanea (with NAME)
+43C1k42|animals used for hunting, hunting with animals
+43C1k421|hunting with dogs
+43C1k422|hunting with cheetahs (hunting leopards)
+43C1k423|hunting with horses
+43C1k424|hunting with birds
+43C1k4241|hunting with falcon, hawk; falconry
+43C1k4242|hunting with eagle
+43C1k425|hunting with fish, bait
+43C1k43|lures ~ hunting
+43C1k431|food ~ lures (hunting)
+43C1k432|decoy animals, e.g. decoy duck, stool pigeon ~ lures (hunting)
+43C1k4321|artificial decoy animals, e.g. artificial decoy duck ~ lures (hunting)
+43C1k433|imitation calls ~ lures (hunting)
+43C1k5|organization, club (sports ~ animals)
+43C1k51|team (sports ~ animals)
+43C1k6|out of doors (sports ~ animals)
+43C1k61|indoors (sports ~ animals)
+43C1k7|key number 7 not used
+43C1k8|quarrel, disagreement (sports ~ animals)
+43C1k81|foul; unfair behaviour (in sports, games, etc.)
+43C1k9|accident (sports ~ animals)
+43Ck0|variant
+43Ck1|sportsman, player, etc.
+43Ck11|training (sports, games, etc.)
+43Ck12|special training equipment (sports, games, etc.)
+43Ck2|the contest (sports, games, etc.)
+43Ck21|the two sides (sports, games, etc.)
+43Ck22|one of the two sides (sports, games, etc.)
+43Ck221|seconds or supporters (sports, games, etc.)
+43Ck23|judge, umpire, referee (sports, games, etc.)
+43Ck24|public (sports, games, etc.)
+43Ck25|challenge (sports, games, etc.)
+43Ck26|preparations for the contest (sports, games, etc.)
+43Ck29|interval or breaktime during sports contest
+43Ck3|the outcome (sports, games, etc.)
+43Ck31|the winner, victor, of a contest (sports, games, etc.)
+43Ck311|receiving prize or crown of honours (sports, games, etc.)
+43Ck3111|prize, wreath, medal, cup (sports, games, etc.)
+43Ck32|the loser of a contest (sports, games, etc.)
+43Ck321|loser scorned (sports, games, etc.)
+43Ck322|consolation (sports, games, etc.)
+43Ck3221|consolation prize (sports, games, etc.)
+43Ck4|requirements, necessaries ~ sports and games
+43Ck4(...)|requirements, necessaries ~ sports and games (with NAME)
+43Ck4(BALL)|requirements, necessaries ~ sports and games: ball
+43Ck41|equipment, outfit (sports, games, etc.)
+43Ck5|organization, club (sports, games, etc.)
+43Ck51|team (sports, games, etc.)
+43Ck6|out of doors (sports, games, etc.)
+43Ck61|indoors (sports, games, etc.)
+43Ck7|key number 7 not used
+43Ck8|quarrel, disagreement (in sports, games, etc.)
+43Ck81|foul; unfair behaviour (in sports, games, etc.)
+43Ck9|accident (in sports, games, etc.)
+44Ak0|variant
+44Ak1|league of nations; supranational, international
+44Ak1(...)|league of nations; supranational, international (with NAME of organization)
+44Ak2|nation; national
+44Ak2(...)|nation; national (with NAME of country)
+44Ak3|province; provincial
+44Ak3(...)|province; provincial (with NAME of province)
+44Ak4|city; municipal
+44Ak4(...)|city; municipal (with NAME of city)
+44Ak5|society
+44Ak5(...)|society (with NAME of society)
+44Ak6|church, monastery; ecclesiastical
+44Ak6(...)|church, monastery; ecclesiastical (with NAME of church, monastery, etc.)
+44Gk0|variant
+44Gk1|court building
+44Gk11|court room
+44Gk12|prison, cell
+44Gk13|work-house
+44Gk14|place of execution
+44Gk2|judge
+44Gk21|other court officials
+44Gk22|jailer, warden
+44Gk23|jury
+44Gk24|witness
+44Gk25|attorney at law
+44Gk26|police
+44Gk27|accused
+44Gk28|criminals
+44Gk3|auxiliaries ~ law and jurisprudence
+44Gk31|'Rechtsaltertümer'
+44Gk32|handcuffs, fetters
+44Gk33|instruments of torture
+44Gk34|instruments of execution
+44Gk35|'fasces cum securibus'
+44Gk39|legal dress
+44Gk4|types of courts
+44Gk41|criminal court
+44Gk42|police court
+44Gk43|court of summary jurisdiction
+44Gk44|court of assize
+44Gk45|court of appeal
+44Gk46|supreme court of appeal
+44Gk47|ecclesiastical and canonical court
+44Gk48|various tribunals
+44Gk481|industrial court
+44Gk482|marine court
+44Gk483|court-martial
+44Gk484|commercial court
+44Gk49|arbitration or conciliation court
+44Gk5|stadia of judicature
+44Gk51|arrest
+44Gk511|transport
+44Gk512|being caught in the act
+44Gk52|hearing, interrogation
+44Gk53|accusation
+44Gk54|defence
+44Gk55|verdict
+44Gk551|acquittal
+44Gk56|imprisonment
+44Gk561|public punishment
+44Gk57|execution
+44Gk571|torture
+44Gk58|banishment, exile
+44Gk59|release from prison
+44Gk591|escape from prison
+44Gk6|abuse of legal power
+44Gk61|acquittal of the guilty
+44Gk62|condemnation or punishment of the guiltless
+45k0|variant
+45k1|during the battle
+45k11|before the battle
+45k12|after the battle
+45k2|land forces
+45k21|infantry
+45k21(...)|infantry (with NAME of type or regiment)
+45k211|parachute troops
+45k212|marines
+45k22|cavalry, horsemen
+45k22(...)|cavalry, horsemen (with NAME of type or regiment)
+45k221|mounted troops on other animals than horses
+45k23|motorized troops
+45k231|battle wagon, chariot
+45k232|armoured vehicle, tank
+45k24|artillery
+45k25|auxiliary corps
+45k26|citizen soldiery, civil guard, citizen militia
+45k27|partisans, 'franc tireurs'
+45k28|mercenary troops, e.g.: lansquenets
+45k29|irregular troops
+45k3|naval force
+45k31|oared ships, e.g.: galley
+45k32|sailing-ships
+45k32(...)|sailing ships (with NAME)
+45k33|motor ships
+45k34|auxiliary ships
+45k35|landing craft
+45k4|air force
+45k41|combat planes, fighters
+45k42|bombers (planes)
+45k43|transport planes
+45k44|balloons
+45k441|dirigibles
+45k45|airfield and ground force
+45k5|ranks; division of armed forces
+45k51|commander-in-chief
+45k52|officers
+45k53|privates
+45k54|division of armed forces
+45k541|division, batallion, regiment
+45k542|company
+45k543|small unit
+45k6|weapons
+45k61|distribution of weapons
+45k611|supply of weapons during battle
+45k62|transport of weapons
+45k63|handling of weapons
+45k631|maintenance of weapons
+45k64|inspection of weapons
+45k65|turning-in of weapons
+45k66|throwing away of weapons
+45k67|ornamental weapons
+45k69|destruction of weapons
+45k7|situation of the terrain ~ warfare
+45k71|warfare in forest
+45k72|warfare in built-up area
+45k73|warfare ~ water, along a river, on a shore
+45k731|landing, disembarkation of armed forces
+45k74|warfare in mountainous area
+45k75|outside city-wall or fortress
+46Ck0|variant
+46Ck1|view ~ vehicle, ship, etc.
+46Ck11|exterior ~ vehicle, ship, etc.
+46Ck12|interior ~ vehicle, ship, etc.
+46Ck13|exterior and interior combined ~ vehicle, ship, etc.
+46Ck2|number of persons ~ traffic and transport
+46Ck21|one person ~ traffic and transport
+46Ck22|two persons ~ traffic and transport
+46Ck23|three persons ~ traffic and transport
+46Ck24|four persons or more ~ traffic and transport
+46Ck3|propulsion of vehicle, ship, etc. by ...
+46Ck31|propulsion of vehicle, ship, etc. by human power
+46Ck32|propulsion of vehicle, ship, etc. by animals
+46Ck33|propulsion of vehicle, ship, etc. by wind
+46Ck34|propulsion of vehicle, ship, etc. by water
+46Ck35|propulsion of vehicle, ship, etc. by steam
+46Ck36|propulsion of vehicle, ship, etc. by combustion
+46Ck37|propulsion of vehicle, ship, etc. by electricity
+46Ck38|propulsion of vehicle, ship, etc. by nuclear energy
+46Ck39|propulsion of vehicle, ship, etc. by automation
+46Ck4|traffic ~ places
+46Ck41|traffic on land
+46Ck42|traffic on the water
+46Ck43|traffic in the air; space
+46Ck5|types and use of conveyance
+46Ck51|conveyance for transport of persons
+46Ck511|travelling for pleasure
+46Ck52|conveyance for transport of animals
+46Ck53|conveyance for transport of loads and cargoes
+46Ck54|conveyance for scientific purposes
+46Ck6|departure and arrival ~ traffic and transport
+46Ck61|preparations ~ departure
+46Ck611|taking in fuel; feeding the animals
+46Ck612|loading
+46Ck62|departure; weighing anchor
+46Ck621|getting in; mounting; embarkation
+46Ck622|waving farewell
+46Ck623|waiting room ~ arrival and departure
+46Ck63|under way, at sea (~ travelling)
+46Ck631|stop, halting-place
+46Ck632|rest ~ travelling
+46Ck64|arrival, coming to anchor, at anchor
+46Ck641|getting out; dismounting; disembarkation
+46Ck642|unloading
+46Ck643|welcoming
+46Ck644|return
+46Ck7|zoological aspects of animals in traffic and transport
+46Ck70|variant
+46Ck71|animals used symbolically
+46Ck711|bestiaries, 'Physiologus'
+46Ck712|heraldic animals
+46Ck713|animals as attributes
+46Ck714|animals in caricature
+46Ck715|ornamental variants of animals
+46Ck7151|symmetrically placed ornamental animals
+46Ck7152|ornamental animals, partly joined
+46Ck7153|ornamental animals, partly interlaced
+46Ck7154|symmetrically placed ornamental animals, divided by a (human) figure or an object
+46Ck72|sex and age of animals; propagation of animals
+46Ck721|young animal
+46Ck722|male animal
+46Ck723|female animal
+46Ck724|very old animal
+46Ck73|anatomy of animals
+46Ck731|skeleton of an animal
+46Ck732|trunk of an animal
+46Ck7321|sexual organs of an animal
+46Ck73211|sexual organs of a male animal
+46Ck73212|sexual organs of a female animal
+46Ck7322|buttocks of an animal
+46Ck7323|entrails, internal organs of an animal
+46Ck733|head of an animal
+46Ck7331|skull of an animal
+46Ck7332|antlers; horn
+46Ck7333|ears of an animal
+46Ck7334|fang, tusk
+46Ck7335|snout, jaw, beak, nib
+46Ck7336|tongue of an animal
+46Ck7337|eyes of an animal
+46Ck734|limbs of an animal
+46Ck7341|claws, paws of an animal
+46Ck7342|wings of an animal
+46Ck7343|tail of an animal
+46Ck7349|track, trail of an animal
+46Ck735|external appearance of animals
+46Ck7351|skin, fleece, hide, fur, leather
+46Ck7352|feathers
+46Ck7353|scales of an animal
+46Ck736|shell, snail-shell etc.
+46Ck74|animal behaviour
+46Ck741|birth of an animal
+46Ck7411|birth from an egg
+46Ck7412|brooding, hatching
+46Ck7413|'larva', grub
+46Ck7414|'pupa', chrysalis
+46Ck742|feeding and care of young
+46Ck7421|nest, den, burrow
+46Ck7422|animal 'educating the young', playing with young
+46Ck7429|animal killing its own breed
+46Ck743|animals courting and mating
+46Ck7431|animals courting
+46Ck7432|animals mating
+46Ck744|relationship between animals
+46Ck7441|herd, group of animals
+46Ck7442|animals playing together
+46Ck745|animals eating and drinking
+46Ck7451|animal in search of food
+46Ck7452|animal with prey
+46Ck7459|animal excreting
+46Ck74591|excrement, dung of animal(s)
+46Ck746|sleeping animal(s)
+46Ck7461|hibernation of animal(s)
+46Ck747|animal psychology
+46Ck7471|instinct of animal
+46Ck74711|migration of animal(s)
+46Ck74712|animals nesting; making nests, lodges, webs, etc.
+46Ck748|changes in external appearance of animal(s)
+46Ck7481|animal(s) changing external appearance in connection with seasons
+46Ck74811|animal(s) changing external appearance in summer
+46Ck74812|animal(s) changing external appearance in winter
+46Ck74813|transition, metamorphosis of animals
+46Ck74814|changes in external appearance of animals ~ rutting season
+46Ck7482|renewal of exterior of animals
+46Ck74821|shedding of skin of animal(s)
+46Ck7483|external changes of animal(s) in relation to their environment
+46Ck74831|animal(s) changing colour
+46Ck749|audible means of communication of animal(s): roaring, crying, singing, barking, mewing, neighing, chirping, etc.
+46Ck7491|silent means of communication of animal(s): wagging of tail etc.
+46Ck75|animal(s) in motion; positions, expressions of animals
+46Ck751|fighting animals; aggressive relations
+46Ck7511|animal(s) threatening
+46Ck7512|animal(s) attacking
+46Ck7513|animal(s) in pursuit
+46Ck7514|animal(s) killing
+46Ck7515|animal(s) killing itself (themselves)
+46Ck75151|animal(s) seeking death, self-sacrifice of animal(s)
+46Ck752|movements of animal(s)
+46Ck7521|forward movement of animal(s)
+46Ck75211|walking animal
+46Ck75212|running animal
+46Ck75213|rolling animal
+46Ck75214|animal walking on the forelegs
+46Ck75215|animal riding
+46Ck75219|backward movement of animal
+46Ck7522|upward and downward movement of animal(s)
+46Ck75221|jumping animal(s)
+46Ck75222|climbing animal(s)
+46Ck75223|animal pulling itself up
+46Ck75227|animal trampling, treading, stamping on someone or something
+46Ck7523|passive motion of animal(s)
+46Ck75231|falling animal(s)
+46Ck75232|animal(s) being carried
+46Ck7524|movement of animal(s) in relation to an other animal, human figure, or object
+46Ck75241|animal(s) throwing something
+46Ck75242|animal(s) reaching for something
+46Ck75243|animal(s) hitting something
+46Ck75244|animal(s) grasping, seizing something
+46Ck75245|animal(s) holding something
+46Ck75246|animal(s) carrying something
+46Ck75247|animal(s) pulling, drawing something
+46Ck75248|animal(s) pushing something
+46Ck752481|animal(s) turning something
+46Ck7525|some other movements of animal(s)
+46Ck75251|animal curling up
+46Ck75252|animal stretching out
+46Ck75253|animal rotating, twisting
+46Ck7526|animal(s) moving in the air
+46Ck75262|flying animal(s)
+46Ck75263|animal(s) floating in the air
+46Ck7527|animal(s) moving in water
+46Ck75273|swimming animal(s)
+46Ck75274|animal(s) floating in water
+46Ck75278|animal(s) emerging from the water
+46Ck753|postures, positions of animal(s)
+46Ck7531|standing animal
+46Ck7532|leaning animal
+46Ck7533|kneeling animal
+46Ck7534|squatting, crouching animal
+46Ck7535|sitting animal
+46Ck7536|lying animal
+46Ck7537|hanging animal
+46Ck75371|animal hanging upside down
+46Ck7539|other postures of animals, not meant or mentioned above
+46Ck754|postures of the head ~ animal
+46Ck7541|animal with head in upright position
+46Ck7542|animal with head turned sideways
+46Ck7543|animal with head bent backwards
+46Ck7544|animal with head bent forward; bowing animal
+46Ck7547|animal looking over the shoulder
+46Ck755|postures of forelegs, forepaws, claws of animal(s)
+46Ck7551|animal with forelegs raised upward
+46Ck7552|animal with forelegs stretched foreward
+46Ck7553|animal with forelegs stretched sidewards
+46Ck7554|animal with forelegs held in front of the body
+46Ck75541|animal with forepaw, claw on the heart
+46Ck75542|animal with forepaws, claws, folded over the abdomen
+46Ck7555|postures of animal forelegs, forepaws, claws in relation to each other
+46Ck75551|animal with forepaws crossed
+46Ck75552|animal with forepaws against each other
+46Ck7556|postures of animal forelegs, forepaws, claws in relation to the head
+46Ck75561|animal pointing with forepaw towards the forehead
+46Ck75562|forepaw(s) towards the eye(s)
+46Ck75563|forepaw(s) towards the nose
+46Ck75564|forepaw(s) towards the mouth
+46Ck75565|forepaw(s) towards the ear(s)
+46Ck7557|postures and gestures of animal forelegs, forepaws, claws in relation to another animal, human figure, or object
+46Ck75571|animal gripping another animal, human figure, or object
+46Ck7559|still other postures and gestures of animal forelegs, forepaws, claws
+46Ck756|postures of hind leg(s) of animal(s)
+46Ck7561|animal(s) standing on the hind legs
+46Ck7562|animal sitting cross-legged
+46Ck757|morphology of expression of animal(s) (in general)
+46Ck7571|morphology of facial expression of animal(s) ~ eyes
+46Ck75711|animal looking upwards
+46Ck75712|animal looking downwards
+46Ck75713|animal looking sideways
+46Ck75717|animal looking backwards
+46Ck7573|morphology of facial expression of animal(s) ~ mouth
+46Ck75731|animal smiling
+46Ck75732|animal with mouth slightly open
+46Ck757321|animal with tongue stuck out
+46Ck75733|animal with mouth wide open
+46Ck757331|animal with mouth wide open, teeth pressed together
+46Ck758|relations with neutral or friendly, non-aggressive character (expressive connotations ~ animals)
+46Ck76|disease and death of animal(s)
+46Ck761|animal(s) being sick; having a disease
+46Ck762|animal(s) being wounded
+46Ck7621|animal(s) being hit, shot, caught
+46Ck763|dying animal; death of animal; dead animal
+46Ck764|animal killed by man
+46Ck7641|slaughtered animal
+46Ck765|caring for sick animal
+46Ck766|carrion
+46Ck767|stuffed animal
+46Ck77|animals ~ biological investigation
+46Ck771|observation of animals
+46Ck772|experiments with animals (biological aspects)
+46Ck779|extinct animals
+46Ck78|man and animal
+46Ck781|animals used as cattle, livestock
+46Ck782|domestic animals
+46Ck783|cleaning an animal, e.g. washing, grooming
+46Ck789|experiments with animals (medicine)
+46Ck7891|animals used as substitute for man
+46Ck7892|animals used in medical research
+46Ck7893|vivisection of animals
+46Ck79|products of animals
+46Ck791|egg
+46Ck7911|egg-laying
+46Ck792|poison ~ product of animal
+46Ck793|pearl ~ product of animal
+46Ck8|unusual way of sitting on riding-animal
+46Ck81|sitting astride without saddlery
+46Ck82|sitting on animal with both legs on one side, riding side-saddle
+46Ck83|riding back to front on animal
+46Ck84|standing ~ unusual ways of riding an animal
+46Ck85|more than one person riding one animal
+46Ck9|accident, collision, crash ~ traffic and transport
+46Ck91|saving the victims ~ traffic accident
+46Ck92|wreck ~ traffic accident
+46Ck93|preventing, trying to prevent an accident
+47k0|variant
+47k1|place ~ crafts, industries, agriculture
+47k11|indoors; in laboratory, factory, barn, etc.
+47k12|outdoors; in the open air
+47k121|on irrigated fields
+47k122|under cover, e.g. forcing bed
+47k13|under the earth; in cellars
+47k14|on the water
+47k15|in the air; in space
+47k2|labourers ~ crafts, industries, agriculture
+47k21|men (labourers)
+47k22|women (labourers)
+47k23|children (labourers)
+47k24|animals (labourers)
+47k3|technical aspects ~ crafts, industries, agriculture
+47k31|processes by hand ~ crafts, industries, agriculture
+47k32|tools and appliances ~ crafts, industries, agriculture
+47k33|aids ~ crafts, industries, agriculture
+47k34|machines ~ crafts, industries, agriculture
+47k35|parts of machines ~ crafts, industries, agriculture
+47k36|professional clothes ~ crafts, industries, agriculture
+47k4|materials processed ~ crafts, industries, agriculture
+47k41|metals, minerals ~ crafts, industries, agriculture
+47k411|precious metals ~ crafts, industries, agriculture
+47k412|base metals ~ crafts, industries, agriculture
+47k42|stone ~ crafts, industries, agriculture
+47k421|(semi-)precious stone ~ crafts, industries, agriculture
+47k43|clay, sand, etc. ~ crafts, industries, agriculture
+47k431|ceramics ~ crafts, industries, agriculture
+47k432|glass ~ crafts, industries, agriculture
+47k44|plant material ~ crafts, industries, agriculture
+47k441|fibre ~ crafts, industries, agriculture
+47k4411|flax, linen ~ crafts, industries, agriculture
+47k4412|cotton ~ crafts, industries, agriculture
+47k442|reeds, rushes ~ crafts, industries, agriculture
+47k443|twigs ~ crafts, industries, agriculture
+47k444|wood ~ crafts, industries, agriculture
+47k445|other plant material ~ crafts, industries, agriculture
+47k45|animal material ~ crafts, industries, agriculture
+47k451|skins, fur, leather, etc. ~ crafts, industries, agriculture
+47k4511|wool ~ crafts, industries, agriculture
+47k452|bone ~ crafts, industries, agriculture
+47k453|horn, ivory ~ crafts, industries, agriculture
+47k454|shell ~ crafts, industries, agriculture
+47k455|silk ~ crafts, industries, agriculture
+47k456|other animal material ~ crafts, industries, agriculture
+47k456(...)|other animal material ~ crafts, industries, agriculture (with NAME)
+47k46|liquids ~ crafts, industries, agriculture
+47k461|oil ~ crafts, industries, agriculture
+47k462|chemical liquid ~ crafts, industries, agriculture
+47k47|foodstuffs ~ crafts, industries, agriculture
+47k48|synthetic material ~ crafts, industries, agriculture
+47k5|basic industrial processes
+47k51|preparing, cleaning, sorting, selecting ~ industrial processes
+47k52|displacing, removing ~ industrial processes
+47k53|dividing ~ industrial processes
+47k54|connecting, gripping, lashing, joining ~ industrial processes
+47k55|smoothing, polishing ~ industrial processes
+47k56|mixing, moulding, casting ~ industrial processes
+47k57|bending, folding, shaping ~ industrial processes
+47k58|boring, drilling, piercing ~ industrial processes
+47k59|ornamenting, decorating ~ industrial processes
+47k6|before and after production
+47k61|plan, design ~ production
+47k611|research, experiment ~ production
+47k612|model ~ production
+47k6121|test, trial ~ production
+47k62|product ~ crafts, industries, agriculture
+47k63|sorting, packing of products ~ crafts, industries, agriculture
+47k64|storing, conserving, preserving of products ~ crafts, industries, agriculture
+47k65|transport of products ~ crafts, industries, agriculture
+47k66|trade ~ crafts, industries, agriculture
+47k67|preparing for use or consumption ~ crafts, industries, agriculture
+47k671|mending, repairing ~ crafts, industries, agriculture
+47k69|destruction of products
+47k691|accidental destruction, failing of production
+47k6911|destruction of products caused by the elements
+47k6912|destruction of products caused by animals
+47k6913|destruction of products caused by diseases
+47k692|active destruction of products
+47k6921|dismantlement of products
+47k6922|explosion of products
+47k699|recycling of products
+47k7|forms of production and organization
+47k71|home production
+47k72|industrial production
+47k73|day-labour
+47k8|agricultural processes
+47k81|soil cultivation ~ agricultural processes
+47k82|sowing, planting ~ agricultural processes
+47k83|care of plants ~ agricultural processes
+47k84|harvesting ~ agricultural processes
+47k85|care of animals ~ agricultural processes
+47k89|effects and characteristics of plant growth ~ agricultural processes
+47k891|plants used symbolically
+47k8911|'floralia'
+47k8912|heraldic plants
+47k8913|plants as attributes
+47k8914|plants in caricature
+47k8915|ornamental variants of plants
+47k892|parts of plants
+47k8921|stem, trunk
+47k89211|stump, stub
+47k8922|branch, stick
+47k89221|sprig, twig
+47k89222|thorny twig
+47k89223|thorn, prickle
+47k89224|bundle of twigs, faggot
+47k89225|withered branch
+47k8923|top of plant
+47k8924|root, tuber
+47k89241|aerial root
+47k8925|tendril, twine
+47k8926|bulb
+47k8927|leaf
+47k8929|other parts of plants
+47k893|characteristics of plant growth
+47k8931|bud, budding
+47k8932|flowers, blossom, blossoming
+47k8933|leaves, putting forth leaves
+47k8934|bearing fruit
+47k89341|shedding fruit
+47k8935|withering, leaves or flowers falling off
+47k89351|bare plant
+47k8936|age of plant
+47k89361|young plant
+47k89362|fully grown plant
+47k89363|(very) old plant
+47k8937|dying plant
+47k89371|dead, withered plant
+47k8939|other characteristics of plant growth
+47k8939(...)|other characteristics of plant growth (with NAME)
+47k9|zoological aspects of domestic cattle and poultry
+47k90|variant
+47k91|animals used symbolically
+47k911|bestiaries, 'Physiologus'
+47k912|heraldic animals
+47k913|animals as attributes
+47k914|animals in caricature
+47k915|ornamental variants of animals
+47k9151|symmetrically placed ornamental animals
+47k9152|ornamental animals, partly joined
+47k9153|ornamental animals, partly interlaced
+47k9154|symmetrically placed ornamental animals, divided by a (human) figure or an object
+47k92|sex and age of animals; propagation of animals
+47k921|young animal
+47k922|male animal
+47k923|female animal
+47k924|very old animal
+47k93|anatomy of animals
+47k931|skeleton of an animal
+47k932|trunk of an animal
+47k9321|sexual organs of an animal
+47k93211|sexual organs of a male animal
+47k93212|sexual organs of a female animal
+47k9322|buttocks of an animal
+47k9323|entrails, internal organs of an animal
+47k933|head of an animal
+47k9331|skull of an animal
+47k9332|antlers; horn
+47k9333|ears of an animal
+47k9334|fang, tusk
+47k9335|snout, jaw, beak, nib
+47k9336|tongue of an animal
+47k9337|eyes of an animal
+47k934|limbs of an animal
+47k9341|claws, paws of an animal
+47k9342|wings of an animal
+47k9343|tail of an animal
+47k9349|track, trail of an animal
+47k935|external appearance of animals
+47k9351|skin, fleece, hide, fur, leather
+47k9352|feathers
+47k9353|scales of an animal
+47k936|shell, snail-shell etc.
+47k94|animal behaviour
+47k941|birth of an animal
+47k9411|birth from an egg
+47k9412|brooding, hatching
+47k9413|'larva', grub
+47k9414|'pupa', chrysalis
+47k942|feeding and care of young
+47k9421|nest, den, burrow
+47k9422|animal 'educating the young', playing with young
+47k9429|animal killing its own breed
+47k943|animals courting and mating
+47k9431|animals courting
+47k9432|animals mating
+47k944|relationship between animals
+47k9441|herd, group of animals
+47k9442|animals playing together
+47k945|animals eating and drinking
+47k9451|animal in search of food
+47k9452|animal with prey
+47k9459|animal excreting
+47k94591|excrement, dung of animal(s)
+47k946|sleeping animal(s)
+47k9461|hibernation of animal(s)
+47k947|animal psychology
+47k9471|instinct of animal
+47k94711|migration of animal(s)
+47k94712|animals nesting; making nests, lodges, webs, etc.
+47k948|changes in external appearance of animal(s)
+47k9481|animal(s) changing external appearance in connection with seasons
+47k94811|animal(s) changing external appearance in summer
+47k94812|animal(s) changing external appearance in winter
+47k94813|transition, metamorphosis of animals
+47k94814|changes in external appearance of animals ~ rutting season
+47k9482|renewal of exterior of animals
+47k94821|shedding of skin of animal(s)
+47k9483|external changes of animal(s) in relation to their environment
+47k94831|animal(s) changing colour
+47k949|audible means of communication of animal(s): roaring, crying, singing, barking, mewing, neighing, chirping, etc.
+47k9491|silent means of communication of animal(s): wagging of tail etc.
+47k95|animal(s) in motion; positions, expressions of animals
+47k951|fighting animals; aggressive relations
+47k9511|animal(s) threatening
+47k9512|animal(s) attacking
+47k9513|animal(s) in pursuit
+47k9514|animal(s) killing
+47k9515|animal(s) killing itself (themselves)
+47k95151|animal(s) seeking death, self-sacrifice of animal(s)
+47k952|movements of animal(s)
+47k9521|forward movement of animal(s)
+47k95211|walking animal
+47k95212|running animal
+47k95213|rolling animal
+47k95214|animal walking on the forelegs
+47k95215|animal riding
+47k95219|backward movement of animal
+47k9522|upward and downward movement of animal(s)
+47k95221|jumping animal(s)
+47k95222|climbing animal(s)
+47k95223|animal pulling itself up
+47k95227|animal trampling, treading, stamping on someone or something
+47k9523|passive motion of animal(s)
+47k95231|falling animal(s)
+47k95232|animal(s) being carried
+47k9524|movement of animal(s) in relation to an other animal, human figure, or object
+47k95241|animal(s) throwing something
+47k95242|animal(s) reaching for something
+47k95243|animal(s) hitting something
+47k95244|animal(s) grasping, seizing something
+47k95245|animal(s) holding something
+47k95246|animal(s) carrying something
+47k95247|animal(s) pulling, drawing something
+47k95248|animal(s) pushing something
+47k952481|animal(s) turning something
+47k9525|some other movements of animal(s)
+47k95251|animal curling up
+47k95252|animal stretching out
+47k95253|animal rotating, twisting
+47k9526|animal(s) moving in the air
+47k95262|flying animal(s)
+47k95263|animal(s) floating in the air
+47k9527|animal(s) moving in water
+47k95273|swimming animal(s)
+47k95274|animal(s) floating in water
+47k95278|animal(s) emerging from the water
+47k953|postures, positions of animal(s)
+47k9531|standing animal
+47k9532|leaning animal
+47k9533|kneeling animal
+47k9534|squatting, crouching animal
+47k9535|sitting animal
+47k9536|lying animal
+47k9537|hanging animal
+47k95371|animal hanging upside down
+47k9539|other postures of animals, not meant or mentioned above
+47k954|postures of the head ~ animal
+47k9541|animal with head in upright position
+47k9542|animal with head turned sideways
+47k9543|animal with head bent backwards
+47k9544|animal with head bent forward; bowing animal
+47k9547|animal looking over the shoulder
+47k955|postures of forelegs, forepaws, claws of animal(s)
+47k9551|animal with forelegs raised upward
+47k9552|animal with forelegs stretched foreward
+47k9553|animal with forelegs stretched sidewards
+47k9554|animal with forelegs held in front of the body
+47k95541|animal with forepaw, claw on the heart
+47k95542|animal with forepaws, claws, folded over the abdomen
+47k9555|postures of animal forelegs, forepaws, claws in relation to each other
+47k95551|animal with forepaws crossed
+47k95552|animal with forepaws against each other
+47k9556|postures of animal forelegs, forepaws, claws in relation to the head
+47k95561|animal pointing with forepaw towards the forehead
+47k95562|forepaw(s) towards the eye(s)
+47k95563|forepaw(s) towards the nose
+47k95564|forepaw(s) towards the mouth
+47k95565|forepaw(s) towards the ear(s)
+47k9557|postures and gestures of animal forelegs, forepaws, claws in relation to another animal, human figure, or object
+47k95571|animal gripping another animal, human figure, or object
+47k9559|still other postures and gestures of animal forelegs, forepaws, claws
+47k956|postures of hind leg(s) of animal(s)
+47k9561|animal(s) standing on the hind legs
+47k9562|animal sitting cross-legged
+47k957|morphology of expression of animal(s) (in general)
+47k9571|morphology of facial expression of animal(s) ~ eyes
+47k95711|animal looking upwards
+47k95712|animal looking downwards
+47k95713|animal looking sideways
+47k95717|animal looking backwards
+47k9573|morphology of facial expression of animal(s) ~ mouth
+47k95731|animal smiling
+47k95732|animal with mouth slightly open
+47k957321|animal with tongue stuck out
+47k95733|animal with mouth wide open
+47k957331|animal with mouth wide open, teeth pressed together
+47k958|relations with neutral or friendly, non-aggressive character (expressive connotations ~ animals)
+47k96|disease and death of animal(s)
+47k961|animal(s) being sick; having a disease
+47k962|animal(s) being wounded
+47k9621|animal(s) being hit, shot, caught
+47k963|dying animal; death of animal; dead animal
+47k964|animal killed by man
+47k9641|slaughtered animal
+47k965|caring for sick animal
+47k966|carrion
+47k967|stuffed animal
+47k97|animals ~ biological investigation
+47k971|observation of animals
+47k972|experiments with animals (biological aspects)
+47k979|extinct animals
+47k98|man and animal
+47k981|animals used as cattle, livestock
+47k982|domestic animals
+47k983|cleaning an animal, e.g. washing, grooming
+47k989|experiments with animals (medicine)
+47k9891|animals used as substitute for man
+47k9892|animals used in medical research
+47k9893|vivisection of animals
+47k99|products of animals
+47k991|egg
+47k9911|egg-laying
+47k992|poison ~ product of animal
+47k993|pearl ~ product of animal
+48A98k0|variant
+48A98k1|surface pattern ~ ornaments
+48A98k11|limited surface pattern ~ ornaments
+48A98k111|main form rectangular ~ limited surface pattern of ornament
+48A98k1111|symmetrically filled rectangular form ~ limited surface pattern of ornament
+48A98k1112|asymmetrically filled rectangular form ~ limited surface pattern of ornament
+48A98k112|main form circular or oval ~ limited surface pattern of ornament
+48A98k1121|symmetrically filled circular or oval form ~ limited surface pattern of ornament
+48A98k1122|asymmetrically filled circular or oval form ~ limited surface pattern of ornament
+48A98k113|other forms ~ limited surface pattern of ornament
+48A98k1131|symmetrically filled other form ~ limited surface pattern of ornament
+48A98k1132|asymmetrically filled other form ~ limited surface pattern of ornament
+48A98k12|surface pattern, extendable in two directions ~ ornaments
+48A98k121|band ornament
+48A98k13|surface pattern, extendable to all sides, unlimited surface pattern ~ ornaments
+48A98k2|framing decorations
+48A98k21|symmetrical framing decorations
+48A98k22|asymmetrical framing decorations
+48A98k3|upright and pending decorations
+48A98k31|upright decorations
+48A98k311|symmetrically filled upright decorations
+48A98k312|asymmetrically filled upright decorations
+48A98k32|pending decorations
+48A98k321|symmetrically filled pending decorations
+48A98k322|asymmetrically filled pending decorations
+48A98k4|three-dimensional and seemingly three-dimensional ornament
+48A98k5|ornament enlivened
+48A98k51|ornament enlivened by human forms
+48A98k52|ornament enlivened by plant forms
+48A98k53|ornament enlivened by animal forms
+48A98k54|ornament enlivened by hybrid forms
+48A98k55|ornament enlivened by objects in particular
+48A98k6|materials ~ ornaments
+48A98k61|metals ~ ornaments
+48A98k611|precious metals ~ ornaments
+48A98k612|base metals ~ ornaments
+48A98k6121|copper ~ ornaments
+48A98k6122|bronze ~ ornaments
+48A98k6123|zinc ~ ornaments
+48A98k62|stone ~ ornaments
+48A98k621|(semi-) precious stone ~ ornaments
+48A98k622|marble ~ ornaments
+48A98k63|clay, sand, etc. ~ ornaments
+48A98k631|ceramics ~ ornaments
+48A98k632|glass ~ ornaments
+48A98k633|plaster ~ ornaments
+48A98k64|plant material ~ ornaments
+48A98k641|reeds, rushes ~ ornaments
+48A98k642|twigs ~ ornaments
+48A98k643|wood, e.g.: panel ~ ornaments
+48A98k644|paper ~ ornaments
+48A98k65|animal material ~ ornaments
+48A98k651|skins, leather ~ ornaments
+48A98k6511|parchment ~ ornaments
+48A98k652|bone, ivory ~ ornaments
+48A98k66|textiles ~ ornaments
+48A98k661|linen, cloth ~ ornaments
+48A98k67|painting materials ~ ornaments
+48A98k671|paint ~ ornaments
+48A98k672|varnish ~ ornaments
+48A98k7|styles in ornament
+48A98k71|ornament style ~ prehistoric period
+48A98k71(...)|ornament style ~ prehistoric period (with NAME)
+48A98k72|ornament style ~ ancient historical period
+48A98k721|Egyptian ornament style
+48A98k722|ancient near-Eastern ornament style
+48A98k722(...)|ancient near-Eastern ornament style (with NAME)
+48A98k723|Minoan and Mycenaean, pre-Hellenian, pre-Greek ornament style
+48A98k724|Greek ornament style
+48A98k7241|archaic Greek ornament style
+48A98k7242|classical Greek ornament style
+48A98k7243|Hellenistic ornament style
+48A98k725|Etruscan ornament style
+48A98k726|Roman ornament style
+48A98k73|pre-Christian European ornament
+48A98k73(...)|pre-Christian European ornament style, barbarian ornament (with NAME)
+48A98k74|western ornament style
+48A98k741|early Christian ornament style
+48A98k7411|Coptic ornament style
+48A98k7412|Byzantine ornament style
+48A98k742|medieval ornament style
+48A98k7421|early medieval ornament style
+48A98k74211|Carolingian ornament style
+48A98k74212|Ottonian ornament style
+48A98k74213|Romanesque ornament style
+48A98k7422|late medieval ornament style
+48A98k74221|Gothic ornament style
+48A98k742211|international Gothic ornament style
+48A98k74222|proto-renaissance ornament style
+48A98k743|renaissance ornament style
+48A98k744|mannerism ~ ornament style
+48A98k745|baroque and classicism ~ ornament style
+48A98k746|rococo ~ ornament style
+48A98k747|neo-classicism ~ ornament style
+48A98k748|later developments of ornament style
+48A98k748(...)|later developments of ornament style (with NAME)
+48A98k75|Islamic ornament style
+48A98k75(...)|Islamic ornament style (with NAME)
+48A98k76|non-European ornament style
+48A98k76(...)|non-European ornament style (with NAME)
+48A98k761|Asian ornament style
+48A98k7611|eastern Asian ornament style
+48A98k76111|Chinese ornament style
+48A98k76112|Japanese ornament style
+48A98k7612|southern Asian ornament style
+48A98k76121|Indian ornament style
+48A98k7613|northern and central Asian ornament style
+48A98k762|primeval American ornament style
+48A98k7621|pre-Columbian ornament style
+48A98k7622|Indian ornament style of North America
+48A98k763|African tribal ornament style
+48A98k764|Oceanic ornament style
+48k0|variant
+48k1|artist at work
+48k10|inspiration
+48k101|the artist and his muse
+48k11|in workshop or studio
+48k111|out of doors
+48k12|working situations
+48k121|making preliminary designs, sketching
+48k122|artist studying classical remains
+48k123|making a model
+48k124|working from live model
+48k1241|working from clothed model
+48k1242|working from nude model
+48k13|model, sitter
+48k14|education, tuition of the artist
+48k141|place or institution of education and training, e.g.: academy of art
+48k142|prodigious talent of the young artist
+48k143|artist training pupil(s)
+48k15|artist at work with assistants or pupils
+48k16|studio requisites of artist
+48k17|professional clothes of artist
+48k19|artist destroying his own work
+48k2|artist in non-work situation
+48k21|Fame ~ artist
+48k22|the artist and his family, relatives, etc.
+48k23|circle, club of artists
+48k24|Bohemian life
+48k25|the artist's genius unrecognized
+48k26|artist on his deathbed
+48k27|portrait, self-portrait of artist
+48k3|types of art
+48k31|architecture
+48k32|sculpture
+48k321|relief ~ sculpture
+48k33|applied arts
+48k331|working in jewelry; working in precious metals
+48k332|working in base metals
+48k333|making pottery, ceramics
+48k334|glass-blowing
+48k335|tapestry weaving, gobelin making
+48k336|joining, cabinet making
+48k34|monumental art
+48k341|mosaic making
+48k342|mural painting
+48k343|making stained glass
+48k35|painting, drawing, graphic arts
+48k351|painting
+48k3511|grisaille
+48k352|miniature painting
+48k353|book-illumination
+48k354|drawing
+48k355|graphic arts
+48k3551|woodcutting, wood-engraving ~ graphic arts
+48k3552|engraving, etching
+48k3553|lithographing
+48k36|photography, cinematography
+48k361|photographing
+48k362|filming
+48k37|music
+48k371|composing
+48k372|performing ~ music
+48k373|singing
+48k374|conducting ~ music
+48k38|arts of the stage
+48k381|ballet
+48k382|theatre
+48k383|opera
+48k384|operetta
+48k385|cabaret
+48k386|moving picture, film
+48k39|literature
+48k391|writing
+48k4|the work of art and its production
+48k41|stadia of production of work of art
+48k411|preliminary presentation of work of art, sketch, model
+48k412|study, rehearsal of work of art
+48k413|final version of work of art
+48k414|unfinished version of work of art
+48k42|damage and repair of work of art
+48k421|rescuing a work of art from imminent destruction or damage
+48k422|destroying a work of art
+48k4221|work of art damaged
+48k42211|work of art damaged by iconoclasm
+48k423|restoration ~ work of art
+48k43|reproduction ~ work of art
+48k431|copy, copying ~ work of art
+48k4311|plagiary ~ work of art
+48k4312|fake, forgery ~ work of art
+48k49|parody, caricature ~ work of art
+48k5|organization ~ arts
+48k51|professional organization ~ arts
+48k52|organization of amateurs and connoisseurs ~ arts
+48k53|meetings ~ arts
+48k54|competitions, contests ~ arts
+48k6|materials ~ arts
+48k61|metals ~ arts
+48k611|precious metals ~ arts
+48k612|base metals ~ arts
+48k6121|copper ~ arts
+48k6122|bronze ~ arts
+48k6123|zinc ~ arts
+48k62|stone ~ arts
+48k621|(semi-)precious stone ~ arts
+48k622|marble ~ arts
+48k63|clay, sand, etc. ~ arts
+48k631|ceramics ~ arts
+48k632|glass ~ arts
+48k633|plaster ~ arts
+48k64|plant material ~ arts
+48k641|reeds, rushes ~ arts
+48k642|twigs ~ arts
+48k643|wood, e.g.: panel ~ arts
+48k644|paper ~ arts
+48k65|animal material ~ arts
+48k651|skins, leather ~ arts
+48k6511|parchment ~ arts
+48k652|bone, ivory ~ arts
+48k66|textiles ~ arts
+48k661|linen, cloth ~ arts
+48k67|painting materials ~ arts
+48k671|paint ~ arts
+48k672|varnish ~ arts
+48k7|styles in art
+48k71|styles in art ~ prehistoric period
+48k71(...)|styles in art ~ prehistoric period (with NAME)
+48k72|styles in art ~ ancient historical period
+48k721|Egyptian art
+48k722|ancient near-Eastern art
+48k722(...)|ancient near-Eastern art (with NAME)
+48k723|Minoan and Mycenaean, pre-Hellenic, pre-Greek art
+48k724|Greek art
+48k7241|archaic art
+48k7242|classical art
+48k7243|Hellenistic art
+48k725|Etruscan art
+48k726|Roman art
+48k73|styles in art ~ pre-Christian European art developments
+48k73(...)|styles in art ~ pre-Christian European art developments, barbarian art (with NAME)
+48k74|styles in western art
+48k741|early Christian art
+48k7411|Coptic art
+48k7412|Byzantine art
+48k742|medieval art
+48k7421|early medieval art
+48k74211|Carolingian art
+48k74212|Ottonian art
+48k74213|Romanesque art
+48k7422|late medieval art
+48k74221|Gothic art
+48k742211|international Gothic art
+48k74222|proto-renaissance art
+48k743|renaissance art
+48k744|mannerism
+48k745|baroque and classicism
+48k746|rococo
+48k747|neo-classicism
+48k748|later developments
+48k748(...)|later developments (with NAME)
+48k75|Islamic art
+48k75(...)|Islamic art (with NAME)
+48k76|other non-European art developments
+48k76(...)|other non-European art developments (with NAME)
+48k761|Asian art
+48k7611|eastern Asian art
+48k76111|Chinese art
+48k76112|Japanese art
+48k7612|southern Asian art
+48k76121|Indian art
+48k7613|northern and central Asian art
+48k762|primeval American art
+48k7621|pre-Columbian art
+48k7622|Indian art of North-America
+48k763|African tribal art
+48k764|Oceanic art
+49Bk0|symbol, coat of arms, seal, etc. ~ school, education
+49Bk1|building ~ education, tuition
+49Bk2|lesson, lecture
+49Bk21|lack of order, lack of attention ~ lesson, lecture
+49Bk3|teacher, professor
+49Bk31|special dress of teacher, professor
+49Bk32|portrait of teacher, professor
+49Bk4|pupil
+49Bk5|disciplinary measures ~ education, tuition
+49Bk51|expulsion from school
+49Bk6|report, mark ~ school
+49Bk7|examination, granting degree
+49Bk71|success ~ examination
+49Bk72|failure ~ examination
+49Bk8|teaching aids
+49Bk9|persons ~ scholastic education
+49Bk91|school board, board of directors
+49Bk92|board of guardians
+49Bk93|headmaster, director, chancellor, etc.
+49Bk94|school inspector
+49Bk95|concierge, caretaker ~ school
+49k0|variant
+49k1|scholar, scientist (at work)
+49k10|inspiration
+49k101|scholar or scientist with muse
+49k11|in workshop, laboratory
+49k12|scholar's assistant, helper, 'famulus'
+49k13|woman as scholar or scientist
+49k14|child as scholar or scientist
+49k2|scholar, scientist in non-work situations
+49k21|Fame ~ scholar, scientist
+49k22|scholar, scientist misunderstood
+49k3|portrait of scholar, scientist
+49k4|professional clothes of scholar, scientist
+49k5|scientific research
+49k51|theory, theoretical approach ~ scientific research
+49k52|tools, instruments; laboratory equipment ~ scientific research
+49k52(...)|tools, instruments; laboratory equipment (with NAME) ~ scientific research
+49k52(GYROSCOPE)|tools, instruments; laboratory equipment: gyroscope ~ scientific research
+49k53|observation ~ scientific research
+49k531|fieldwork ~ scientific research
+49k54|experiment ~ scientific research
+49k541|subject of experiment ~ scientific research
+49k55|invention ~ scientific research
+49k551|first copy of invention ~ scientific research
+49k56|accident ~ scientific research
+49k561|prevention of accident ~ scientific research
+49k57|operational phase, installation ~ scientific research
+49k59|destroying an installation or the results of research
+49k591|destroying an installation or the result of research by the scientist himself
+49k6|divulgation of the results of research
+49k61|scholar, scientist with pupils; lecture, discussion, learned academy
+49k62|demonstration ~ results of research
+49k63|collection, exhibition ~ results of research
+49k64|popularization ~ results of research
+49k7|basic phenomena and processes in the natural sciences
+49k8|plagiary ~ sciences
+49k9|counterfeit, fake, forgery ~ sciences
+4k0|variant
+5k0|variant
+5k1|personification
+5k11|abstract concept represented by female figure
+5k111|nude
+5k1111|nude with wings
+5k112|partially clothed
+5k1121|partially clothed with wings
+5k113|clothed
+5k1131|clothed with wings
+5k12|abstract concept represented by male figure
+5k121|nude
+5k1211|nude with wings
+5k122|partially clothed
+5k1221|partially clothed with wings
+5k123|clothed
+5k1231|clothed with wings
+5k13|abstract concept represented by child
+5k131|nude
+5k1311|nude with wings
+5k132|partially clothed
+5k1321|partially clothed with wings
+5k133|clothed
+5k1331|clothed with wings
+5k14|abstract concept represented by two or more figures side by side (not involved in an action)
+5k141|nude
+5k1411|nude with wings
+5k142|partially clothed
+5k1421|partially clothed with wings
+5k143|clothed
+5k1431|clothed with wings
+5k2|allegorical scene, i.e. two or more personifications involved in an action
+5k21|two or more personifications pursuing one aim
+5k22|strife between concepts
+5k221|one concept conquering the other
+5k3|symbolical representation of concept
+5k4|emblematical representation of concept
+5k5|'exemplum', representation of exemplary (historical) event
+5k51|'exemplum' belonging to a traditional series of 'exempla'
+5k6|situation or event (especially in genre-painting) with symbolical connotation
+5kq1|nude
+5kq11|nude with wings
+5kq2|partially clothed
+5kq21|partially clothed with wings
+5kq3|clothed
+5kq31|clothed with wings
+61Ak0|variant
+61Ak1|historical scene in allegorical or symbolical frame or setting; or with allegorical or symbolic accessories
+61Ak2|allegorical representation of historical event
+61Ak3|emblematic, moralizing representation of historical scene (Dutch: 'zinneprent')
+61Ak4|cartoon, satire, caricature of historical event
+61Bk0|variant
+61Bk1|historical person or scene in allegorical or symbolic frame or setting; or with allegorical or symbolic accessories
+61Bk2|all kinds of 'portrait historié': mythological portrait, allegorical portrait, 'Rollenporträt', etc.
+61Bk3|specific ways of representation of historical persons
+61Bk31|ideal or heroic representation of historical persons
+61Bk32|state-portrait
+61Bk33|'portrait à l'antique'
+61Bk34|death-portrait
+61Bk35|one of the portrayed persons deceased
+61Bk4|caricature ~ portrait
+61Bk5|compositional variants of portrait
+61Bk51|head (and shoulders) (portrait)
+61Bk511|full face portrait
+61Bk512|three-quarter view portrait
+61Bk513|profile portrait
+61Bk514|'imago clipeata' (portrait)
+61Bk52|(full) bust portrait
+61Bk521|full face portrait
+61Bk522|three-quarter view portrait
+61Bk523|profile portrait
+61Bk53|half-length portrait
+61Bk54|three-quarter length portrait
+61Bk55|full length portrait
+61Bk56|different views of one person in one representation
+6k0|variant
+7k0|variant
+7k1|Holy Trinity
+7k11|God the Father
+7k111|God the Father in the form of light
+7k12|Christ
+7k121|Christ bearded
+7k122|Christ not bearded
+7k13|Holy Ghost (as dove)
+7k131|Holy Ghost in other form
+7k2|Mary
+7k3|angel(s)
+7k31|angel(s) floating in the air
+7k4|devil(s)
+7k5|donor(s), supplicant(s), whether or not with patron saint(s)
+8k0|variant
+91k0|variant
+91k1|early life, prime youth
+91k11|birth
+91k12|infancy, upbringing
+91k2|love-affairs
+91k3|most important deeds
+91k4|aggressive, unfriendly activities and relationships
+91k5|non-aggressive, friendly or neutral activities and relationships
+91k6|suffering, misfortune
+91k68|death
+91k69|apotheosis, deification
+91k7|specific aspects, allegorical aspects
+91k78|triumph
+91k8|attributes
+91k9|offspring, companion(s), train, etc.
+92k0|variant
+92k1|early life, prime youth
+92k11|birth
+92k12|infancy, upbringing
+92k2|love-affairs
+92k3|most important deeds
+92k4|aggressive, unfriendly activities and relationships
+92k5|non-aggressive, friendly or neutral activities and relationships
+92k6|suffering, misfortune
+92k68|death
+92k69|apotheosis, deification
+92k7|specific aspects, allegorical aspects
+92k78|triumph
+92k8|attributes
+92k9|offspring, companion(s), train, etc.
+93k0|variant
+93k1|early life, prime youth
+93k11|birth
+93k12|infancy, upbringing
+93k2|love-affairs
+93k3|most important deeds
+93k4|aggressive, unfriendly activities and relationships
+93k5|non-aggressive, friendly or neutral activities and relationships
+93k6|suffering, misfortune
+93k68|death
+93k69|apotheosis, deification
+93k7|specific aspects, allegorical aspects
+93k78|triumph
+93k8|attributes
+93k9|offspring, companion(s), train, etc.
+96Ak0|variant
+96Ak1|early life, prime youth
+96Ak11|birth
+96Ak12|infancy, upbringing
+96Ak2|love-affairs
+96Ak3|most important deeds
+96Ak4|aggressive, unfriendly activities and relationships
+96Ak5|non-aggressive, friendly or neutral activities and relationships
+96Ak6|suffering, misfortune
+96Ak68|death
+96Ak69|apotheosis, deification
+96Ak7|specific aspects, allegorical aspects
+96Ak78|triumph
+96Ak8|attributes
+96Ak9|offspring, companion(s), train, etc.
+98k0|variant
+98k1|in allegorical or symbolic frame or setting; with allegorical or symbolic accessories
+98k2|mythological or allegorical portrait; allegorical representation of event from the life of historical person
+98k3|specific ways of representation of historical persons
+98k31|ideal or heroic representation
+98k32|state-portrait
+98k33|one of the portrayed persons deceased
+98k4|caricature
+98k5|head, bust, etc.
+98k51|head (and shoulders)
+98k511|full face
+98k512|three-quarter view
+98k513|profile
+98k514|'imago clipeata'
+98k52|(full) bust
+98k521|full face
+98k522|three-quarter view
+98k523|profile
+98k53|half-length
+98k54|three-quarter length
+98k55|full length
+98k56|different views of one person in one representation
+98k8|belonging to Greek history
+98k9|belonging to Roman history
+9k0|variant
