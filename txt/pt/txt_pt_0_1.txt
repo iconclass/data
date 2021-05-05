@@ -4849,39 +4849,39 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(MATTHIAS)83|o apóstolo e mártir Matias; possíveis atributos: machado, livro, cruz, alabarda, rolo, espada - acções póstumas, aparições do santo
 11H(MATTHIAS)84|o apóstolo e mártir Matias; possíveis atributos: machado, livro, cruz, alabarda, rolo, espada - beatificação, canonização do santo
 11H(MATTHIAS)9|o apóstolo e mártir Matias; possíveis atributos: machado, livro, cruz, alabarda, rolo, espada - retrato do santo
-11H(MAURICE)|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada)
-11H(MAURICE)0|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo representado em grupo
-11H(MAURICE)1|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - iconografia específica ~ santo 
-11H(MAURICE)11|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo como padroeiro, protector, intercessor
-11H(MAURICE)119|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo protegendo os devotos sob o manto, "Schutzmantel"
-11H(MAURICE)12|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
-11H(MAURICE)13|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo como fundador da Ordem
-11H(MAURICE)131|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
-11H(MAURICE)2|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - primeiros anos da vida do santo
-11H(MAURICE)3|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - devoção pessoal do santo
-11H(MAURICE)31|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - vocação, conversão do santo
-11H(MAURICE)32|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - baptismo, consagração, professar votos
-11H(MAURICE)33|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - renúncia de bens materiais, a vida ascética do santo
-11H(MAURICE)34|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - visão(ões), casamento místico do santo
-11H(MAURICE)35|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - tentações do santo
-11H(MAURICE)36|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - penitência do santo
-11H(MAURICE)37|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo meditando, em êxtase
-11H(MAURICE)4|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - actividades e eventos não milagrosos ~ santo
-11H(MAURICE)5|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - actividades e eventos milagrosos ~ santo
-11H(MAURICE)59|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - estigmatização do santo 
+11H(MAURICE)|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada)
+11H(MAURICE)0|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo representado em grupo
+11H(MAURICE)1|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - iconografia específica ~ santo 
+11H(MAURICE)11|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo como padroeiro, protector, intercessor
+11H(MAURICE)119|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo protegendo os devotos sob o manto, "Schutzmantel"
+11H(MAURICE)12|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
+11H(MAURICE)13|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo como fundador da Ordem
+11H(MAURICE)131|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
+11H(MAURICE)2|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - primeiros anos da vida do santo
+11H(MAURICE)3|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - devoção pessoal do santo
+11H(MAURICE)31|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - vocação, conversão do santo
+11H(MAURICE)32|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - baptismo, consagração, professar votos
+11H(MAURICE)33|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - renúncia de bens materiais, a vida ascética do santo
+11H(MAURICE)34|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - visão(ões), casamento místico do santo
+11H(MAURICE)35|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - tentações do santo
+11H(MAURICE)36|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - penitência do santo
+11H(MAURICE)37|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - santo meditando, em êxtase
+11H(MAURICE)4|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - actividades e eventos não milagrosos ~ santo
+11H(MAURICE)5|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - actividades e eventos milagrosos ~ santo
+11H(MAURICE)59|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - estigmatização do santo 
 11H(MAURICE)6|martírio, sofrimento, infortúnio, morte de São Maurício
 11H(MAURICE)61|São Maurício e os seus companheiros da Legião Tebana recusam-se a adorar estátuas pagãs
 11H(MAURICE)62|São Maurício e os seus companheiros são decapitados (por vezes São Maurício em conversa com os seus companheiros antes do martírio)
 11H(MAURICE)63|o massacre da Legião Tebana 
 11H(MAURICE)68|martírio, sofrimento, infortúnio, morte de São Maurício - morte, leito de morte do santo
 11H(MAURICE)69|martírio, sofrimento, infortúnio, morte de São Maurício - maus tratos do cadáver do santo
-11H(MAURICE)7|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) -  apoteose, glória, triunfo do santo
-11H(MAURICE)8|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - ocorrências post-mortem ~ santo 
-11H(MAURICE)81|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - descoberta, transporte das relíquias do santo
-11H(MAURICE)82|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - milagres que ocorrem durante o manuseamento das relíquias do santo
-11H(MAURICE)83|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - acções póstumas, aparições do santo
-11H(MAURICE)84|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - beatificação, canonização do santo
-11H(MAURICE)9|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas e mártir; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - retrato do santo
+11H(MAURICE)7|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) -  apoteose, glória, triunfo do santo
+11H(MAURICE)8|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - ocorrências post-mortem ~ santo 
+11H(MAURICE)81|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - descoberta, transporte das relíquias do santo
+11H(MAURICE)82|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - milagres que ocorrem durante o manuseamento das relíquias do santo
+11H(MAURICE)83|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - acções póstumas, aparições do santo
+11H(MAURICE)84|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - beatificação, canonização do santo
+11H(MAURICE)9|o mártir guerreiro Maurício de Agaune, comandante da Legião de Tebas; possíveis atributos: estandarte, lança, escudo (cruz trifoliada) - retrato do santo
 11H(NICHOLAS OF TOLENTINO)|o eremita agostinho Nicolau de Tolentino; possíveis atributos: livro, crucifixo (entrelaçado com lírios), lírio, (cesto com) pães, duas pombas (num prato ou a voar), estrela (no peito)
 11H(NICHOLAS OF TOLENTINO)0|o eremita agostinho Nicolau de Tolentino; possíveis atributos: livro, crucifixo (entrelaçado com lírios), lírio, (cesto com) pães, duas pombas (num prato ou a voar), estrela (no peito) - santo representado em grupo
 11H(NICHOLAS OF TOLENTINO)1|iconografia específica ~ São Nicolau de Tolentino 
