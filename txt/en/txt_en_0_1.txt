@@ -4834,39 +4834,39 @@
 11H(MATTHIAS)83|the apostle and martyr Matthias; possible attributes: axe, book, cross, halberd, scroll, sword - posthumous deeds, appearances of male saints
 11H(MATTHIAS)84|the apostle and martyr Matthias; possible attributes: axe, book, cross, halberd, scroll, sword - beatification, canonization of male saint
 11H(MATTHIAS)9|the apostle and martyr Matthias; possible attributes: axe, book, cross, halberd, scroll, sword - portrait of male saint
-11H(MAURICE)|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross)
-11H(MAURICE)0|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint represented in a group
-11H(MAURICE)1|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - specific aspects ~ male saint
-11H(MAURICE)11|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint as patron, protector, intercessor
-11H(MAURICE)119|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint protecting devotees with cloak, 'Schutzmantel'
-11H(MAURICE)12|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint writing, studying, teaching, dictating (e.g. as Doctor of the Church)
-11H(MAURICE)13|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint as founder of Order
-11H(MAURICE)131|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint ~ confirmation of Order, approval of Rule(s)
-11H(MAURICE)2|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - early life of male saint
-11H(MAURICE)3|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - personal devotion of male saint
-11H(MAURICE)31|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - vocation, conversion of male saint
-11H(MAURICE)32|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - baptism, consecration, taking vows of male saint
-11H(MAURICE)33|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - renouncing worldly goods, ascetic life of male saint
-11H(MAURICE)34|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - vision(s), mystic marriage of male saint
-11H(MAURICE)35|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - temptation of male saint
-11H(MAURICE)36|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - penitence of male saint
-11H(MAURICE)37|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint meditating, in ecstasy
-11H(MAURICE)4|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - non-miraculous activities and events ~ male saint
-11H(MAURICE)5|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - miraculous activities and events ~ male saint
-11H(MAURICE)59|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - stigmatization of male saint
+11H(MAURICE)|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross)
+11H(MAURICE)0|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint represented in a group
+11H(MAURICE)1|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - specific aspects ~ male saint
+11H(MAURICE)11|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint as patron, protector, intercessor
+11H(MAURICE)119|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint protecting devotees with cloak, 'Schutzmantel'
+11H(MAURICE)12|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint writing, studying, teaching, dictating (e.g. as Doctor of the Church)
+11H(MAURICE)13|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint as founder of Order
+11H(MAURICE)131|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint ~ confirmation of Order, approval of Rule(s)
+11H(MAURICE)2|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - early life of male saint
+11H(MAURICE)3|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - personal devotion of male saint
+11H(MAURICE)31|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - vocation, conversion of male saint
+11H(MAURICE)32|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - baptism, consecration, taking vows of male saint
+11H(MAURICE)33|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - renouncing worldly goods, ascetic life of male saint
+11H(MAURICE)34|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - vision(s), mystic marriage of male saint
+11H(MAURICE)35|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - temptation of male saint
+11H(MAURICE)36|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - penitence of male saint
+11H(MAURICE)37|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - male saint meditating, in ecstasy
+11H(MAURICE)4|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - non-miraculous activities and events ~ male saint
+11H(MAURICE)5|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - miraculous activities and events ~ male saint
+11H(MAURICE)59|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - stigmatization of male saint
 11H(MAURICE)6|martyrdom, suffering, misfortune, death of St. Maurice
 11H(MAURICE)61|St. Maurice and his companions of the Theban Legion refuse to worship pagan statues
 11H(MAURICE)62|St. Maurice and his companions are beheaded (sometimes St. Maurice in discussion with his companions before the martyrdom)
 11H(MAURICE)63|the massacre of the Theban Legion
 11H(MAURICE)68|martyrdom, suffering, misfortune, death of St. Maurice - death, deathbed of male saint
 11H(MAURICE)69|martyrdom, suffering, misfortune, death of St. Maurice - maltreatment of corpse of male saint
-11H(MAURICE)7|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - apotheosis, glory, triumph of male saint
-11H(MAURICE)8|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - post-mortem occurrences ~ male saint
-11H(MAURICE)81|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - finding, transportation of relics of male saint
-11H(MAURICE)82|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - miracles occurring during handling of relics of male saint
-11H(MAURICE)83|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - posthumous deeds, appearances of male saints
-11H(MAURICE)84|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - beatification, canonization of male saint
-11H(MAURICE)9|the (negro-)warrior Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - portrait of male saint
+11H(MAURICE)7|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - apotheosis, glory, triumph of male saint
+11H(MAURICE)8|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - post-mortem occurrences ~ male saint
+11H(MAURICE)81|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - finding, transportation of relics of male saint
+11H(MAURICE)82|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - miracles occurring during handling of relics of male saint
+11H(MAURICE)83|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - posthumous deeds, appearances of male saints
+11H(MAURICE)84|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - beatification, canonization of male saint
+11H(MAURICE)9|the warrior martyr Maurice (Mauritius) of Agaunum, commander of the Theban Legion, and martyr; possible attributes: banner, lance, shield (with trefoil cross) - portrait of male saint
 11H(NICHOLAS OF TOLENTINO)|the Augustine hermit, Nicholas of Tolentino; possible attributes: book, crucifix, (entwined with lilies), lily, (basket with) loaves, two doves (on a dish or flying away), star (on his breast)
 11H(NICHOLAS OF TOLENTINO)0|the Augustine hermit, Nicholas of Tolentino; possible attributes: book, crucifix, (entwined with lilies), lily, (basket with) loaves, two doves (on a dish or flying away), star (on his breast) - male saint represented in a group
 11H(NICHOLAS OF TOLENTINO)1|specific aspects ~ St. Nicholas of Tolentino
