@@ -23841,6 +23841,7 @@
 11L111|donner
 11L112|Hostienmühle
 11L112|apôtre
+11L112|hostie
 11L112|moulin
 11L112|prophète
 11L12|Ancien Testament

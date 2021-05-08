@@ -23224,6 +23224,7 @@
 11L111|giving
 11L112|Hostienmühle
 11L112|apostle
+11L112|Host
 11L112|mill
 11L112|prophet
 11L12|Law (biblical)

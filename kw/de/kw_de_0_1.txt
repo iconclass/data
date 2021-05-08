@@ -25104,6 +25104,7 @@
 11L111|Moses
 11L111|geben
 11L112|Apostel
+11L112|Hostie
 11L112|Hostienmuehle
 11L112|Muehle
 11L112|Prophet
