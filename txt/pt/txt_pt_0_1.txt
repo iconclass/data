@@ -304,8 +304,7 @@
 11DD3276|Cristo como anfitrião - DD - Cristo sem barba
 11DD3277|Cristo como (sumo) sacerdote ou profeta - DD - Cristo sem barba
 11DD3278|Cristo como peregrino - DD - Cristo sem barba
-11DD3279|"""Feiertagschristus"",
-Cristo com ferramentas de artesão - DD - Cristo sem barba"
+11DD3279|"Feiertagschristus", Cristo com ferramentas de artesão - DD - Cristo sem barba"
 11DD328|tipos de Cristo (sozinho) - DD - Cristo sem barba
 11DD3281|Cristo como mulher - DD - Cristo sem barba
 11DD3282|Cristo orante - DD - Cristo sem barba
