@@ -28,6 +28,7 @@
 11A31|Flagello di Dio
 11A31|Ripa
 11A31|scourge
+11A4|will
 11B|Christ
 11B|God
 11B|Holy Ghost
@@ -23224,6 +23225,7 @@
 11L111|giving
 11L112|Hostienmühle
 11L112|apostle
+11L112|Host
 11L112|mill
 11L112|prophet
 11L12|Law (biblical)
