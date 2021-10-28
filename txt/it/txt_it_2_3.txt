@@ -421,6 +421,7 @@
 23Q7|sabato
 23Q8|domani
 23Q81|dopodomani
+23Q9|ieri
 23R|giorno e notte
 23R1|giorno di ventiquattro ore, giorno naturale
 23R10|'Giorno naturale', 'Carro del giorno naturale' (Ripa)
@@ -4292,7 +4293,7 @@
 32B311(SCOTS)|Europei: scozzesi
 32B311(SERBIANS)|Europei: serbi
 32B311(SLAVS)|Europei: slavi
-32B311(SLOWAKIANS)|Europei: slowakiani
+32B311(SLOVAKS)|Europei: slowakiani
 32B311(SPANIARDS)|Europei: spagnoli
 32B311(SWEDES)|Europei: svedesi
 32B311(WALLOONS)|Europei: valloni

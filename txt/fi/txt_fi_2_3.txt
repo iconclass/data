@@ -421,6 +421,7 @@
 #23Q7|Saturday
 23Q8|huomenna
 23Q81|ylihuomenna
+23Q9|eilen
 23R|päivä ja yö
 23R1|päivä, vuorokauden päivä , luonnollinen päivä
 #23R10|'Giorno naturale', 'Carro del giorno naturale' (Ripa)

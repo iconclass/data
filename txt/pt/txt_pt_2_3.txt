@@ -420,6 +420,7 @@
 23Q7|Sábado
 23Q8|amanhã
 23Q81|o dia depois de amanhã
+23Q9|ontem
 23R|dia e noite
 23R1|dia de vinte e quatro horas, dia natural
 23R10|"Giorno naturale", "Carro del giorno naturale" (Ripa)
@@ -4238,7 +4239,7 @@
 32B311(SCOTS)|Europeus: Escoceses
 32B311(SERBIANS)|Europeus: Sérvios
 32B311(SLAVS)|Europeus: Eslavos
-32B311(SLOWAKIANS)|Europeus: Slowakians
+32B311(SLOVAKS)|Europeus: Slowakians
 32B311(SPANIARDS)|Europeus: Espanhóis
 32B311(SWEDES)|Europeus: Suecos
 32B311(WALLOONS)|Europeus: Valões

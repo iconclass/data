@@ -421,6 +421,7 @@
 23Q7|Samstag
 23Q8|morgen
 23Q81|übermorgen
+23Q9|gestern
 23R|Tag und Nacht
 23R1|der vierundzwanzigstündige Tag, der natürliche Tag
 23R10|Ripa: Giorno naturale, Carro del giorno naturale
@@ -4292,7 +4293,7 @@
 32B311(SCOTS)|Europäer: Schotten
 32B311(SERBIANS)|Europäer: Serben
 32B311(SLAVS)|Europäer: Slawen
-32B311(SLOWAKIANS)|Europäer: Slowaken
+32B311(SLOVAKS)|Europäer: Slowaken
 32B311(SPANIARDS)|Europäer: Spanier
 32B311(SWEDES)|Europäer: Schweden
 32B311(WALLOONS)|Europäer: Wallonen
