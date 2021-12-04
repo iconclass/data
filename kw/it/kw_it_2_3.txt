@@ -5797,6 +5797,7 @@
 34A41|orso
 34A42|scimmia
 34A43|porcellino d'India
+34A5|serpente
 34A9|maltrattamento
 34A9|tormentare
 34B|animali domestici

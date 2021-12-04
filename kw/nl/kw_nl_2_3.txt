@@ -5710,6 +5710,7 @@
 34A41|dragen
 34A42|aap
 34A43|guinea-pig
+34A5|slang
 34A9|maltreating
 34A9|kwellende
 34B|huisdier

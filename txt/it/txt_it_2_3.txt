@@ -4651,6 +4651,7 @@
 34A42|guadagnare con una scimmia
 34A43|guadagnare con un porcellino d'India
 34A44|guadagnare con altri animali
+34A5|incantatore di serpenti
 34A9|uomo che maltratta animale/i
 34B|animali domestici, tenuti dentro e fuori casa
 34B1|animali domestici, tenuti in casa

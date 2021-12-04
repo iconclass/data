@@ -4558,6 +4558,7 @@
 #34A42|earning money with monkey
 #34A43|earning money with guinea-pig
 #34A44|earning money with other animals
+#34A5|encantador de serpientes
 #34A9|man tormenting animal(s)
 #34B|domestic animals, kept in and outside the house
 #34B1|domestic animals, kept in the house

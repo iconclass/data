@@ -4652,6 +4652,7 @@
 34A42|gagner de l'argent avec un singe
 34A43|gagner de l'argent avec un cochon d'Inde
 34A44|gagner de l'argent avec d'autres animaux
+34A5|charmeur de serpents
 34A9|l'homme tourmentant l'animal
 34B|animaux domestiques gardés à l'intérieur et à l'extérieur de la maison
 34B1|animaux domestiques gardés à l'intérieur de la maison

@@ -5722,6 +5722,7 @@
 34A41|bear
 34A42|monkey
 34A43|guinea-pig
+34A5|snake
 34A9|maltreating
 34A9|tormenting
 34B|domestic animal

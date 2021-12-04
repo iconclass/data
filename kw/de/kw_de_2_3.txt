@@ -6303,6 +6303,7 @@
 34A41|Baer
 34A42|Affe
 34A43|Meerschweinchen
+34A5|Schlange
 34A9|Misshandlung
 34A9|quaelen
 34B|Haustier

@@ -4652,6 +4652,7 @@
 34A42|mit einem Affen Geld verdienen
 34A43|mit einem Meerschweinchen Geld verdienen
 34A44|mit anderen Tieren Geld verdienen
+34A5|Schlangenbeschwörer
 34A9|Tierquälerei
 34B|Haustiere (innerhalb und außerhalb des Hauses)
 34B1|Haustiere, die zu Hause gehalten werden
