@@ -748,6 +748,23 @@
 41D21|vestuário, roupa(s) que cobre(m) o corpo todo
 41D21(...)|vestuário, roupa(s) que cobre(m) o corpo todo (com NOME)
 41D211|vestido, vestido comprido
+41D211(...)|vestido, vestido comprido (com NOME)
+41D211(BALL GOWN)|
+41D211(CHEMISE À LA REINE)|
+41D211(COURT GOWN)|
+41D211(DAY DRESS)|
+41D211(DINNER DRESS)|
+41D211(EVENING DRESS)|
+41D211(MANTEAU)|
+41D211(MORNING DRESS)|
+41D211(REDINGOTE)|
+41D211(ROBE À L'ANGLAISE)|
+41D211(ROBE À LA CIRCASSIENNE)|
+41D211(ROBE À LA FRANÇAISE)|
+41D211(ROBE À LA LÉVITE)|
+41D211(ROBE À LA POLONAISE)|
+41D211(ROBE VOLANTE)|
+41D211(WALKING DRESS)|
 41D212|casaco, capa
 41D22|chapelaria e roupa para a parte superior do corpo
 41D221|chapelaria 

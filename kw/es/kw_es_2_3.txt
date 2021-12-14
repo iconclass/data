@@ -5710,6 +5710,7 @@
 34A41|oso
 34A42|mono
 34A43|conejillo de indias
+34A5|serpiente
 34A9|maltratar
 34A9|atormentador
 34B|animal domestico

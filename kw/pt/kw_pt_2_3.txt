@@ -5717,6 +5717,7 @@
 34A41|Urso
 34A42|macaco
 34A43|cobaia
+34A5|serpente
 34A9|maltratar
 34A9|tormenting
 34B|animal doméstico

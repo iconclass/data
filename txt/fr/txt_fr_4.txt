@@ -774,7 +774,6 @@
 41D211(MANTEAU)|robe: manteau
 41D211(MORNING DRESS)|robe: robe du matin
 41D211(REDINGOTE)|robe: redingote
-41D211(ROBE À L’ANGLAISE)|robe: robe à l'anglaise
 41D211(ROBE VOLANTE)|robe: robe volante
 41D211(ROBE À L'ANGLAISE)|robe: robe à l'anglaise
 41D211(ROBE À LA CIRCASSIENNE)|robe: robe à la circassienne
