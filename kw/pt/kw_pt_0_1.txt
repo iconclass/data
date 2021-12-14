@@ -28,6 +28,7 @@
 11A31|Flagello di Dio
 11A31|Ripa
 11A31|flagelo
+11A4|vontade
 11B|Cristo
 11B|Deus
 11B|Santo fantasma
@@ -321,7 +322,7 @@
 11D325|Eucaristia
 11D3251|pão
 11D3251|cálice
-11D3251|anfitrião
+11D3251|Hóstia
 11D3252|Christus in der Kelter
 11D3252|Isaías 63
 11D3252|misticismo
@@ -549,7 +550,7 @@
 11DD3223|juiz
 11DD3251|pão
 11DD3251|cálice
-11DD3251|anfitrião
+11DD3251|Hóstia
 11DD3252|Christus in der Kelter
 11DD3252|Isaías 63
 11DD3252|misticismo
@@ -949,7 +950,7 @@
 11F832|vivo
 11F832|Garoto
 11F832|queimando vivo
-11F832|anfitrião
+11F832|Hóstia
 11F832|Judeu
 11F832|poupança
 11F833|criança
@@ -2278,7 +2279,7 @@
 11H(ANTONY OF PADUA)37|êxtase
 11H(ANTONY OF PADUA)37|meditando
 11H(ANTONY OF PADUA)51|cálice
-11H(ANTONY OF PADUA)51|anfitrião
+11H(ANTONY OF PADUA)51|Hóstia
 11H(ANTONY OF PADUA)51|Judeu
 11H(ANTONY OF PADUA)51|ajoelhada
 11H(ANTONY OF PADUA)51|persuadir
@@ -3158,7 +3159,7 @@
 11H(BERNARD)41|ensino
 11H(BERNARD)42|duque
 11H(BERNARD)42|excomunhão
-11H(BERNARD)42|anfitrião
+11H(BERNARD)42|Hóstia
 11H(BERNARD)42|ajoelhada
 11H(BERNARD)42|mostrando
 11H(BERNARD)42|William de Aquitaine (St.)
@@ -3432,7 +3433,7 @@
 11H(BONAVENTURA)68|rei
 11H(BONAVENTURA)68|papa
 11H(BONAVENTURA)681|tórax (peito)
-11H(BONAVENTURA)681|anfitrião
+11H(BONAVENTURA)681|Hóstia
 11H(BONAVENTURA)681|última comunhão
 11H(BONAVENTURA)69|cadáver
 11H(BONAVENTURA)69|execução
@@ -12447,7 +12448,7 @@
 11H(ONUPHRIUS)|atravessar
 11H(ONUPHRIUS)|coroa
 11H(ONUPHRIUS)|eremita
-11H(ONUPHRIUS)|anfitrião
+11H(ONUPHRIUS)|Hóstia
 11H(ONUPHRIUS)|leão
 11H(ONUPHRIUS)|Onuphrius (St.)
 11H(ONUPHRIUS)|corvo
@@ -17158,7 +17159,7 @@
 11HH(BARBARA)|coroa
 11HH(BARBARA)|Dioscuros
 11HH(BARBARA)|pena
-11HH(BARBARA)|anfitrião
+11HH(BARBARA)|Hóstia
 11HH(BARBARA)|mártir
 11HH(BARBARA)|ferramentas de pedreiro
 11HH(BARBARA)|pena de pavão
@@ -20209,7 +20210,7 @@
 11HH(MARY MAGDALENE)361|olhando
 11HH(MARY MAGDALENE)362|anjo
 11HH(MARY MAGDALENE)362|alimentando
-11HH(MARY MAGDALENE)362|anfitrião
+11HH(MARY MAGDALENE)362|Hóstia
 11HH(MARY MAGDALENE)362|píxide
 11HH(MARY MAGDALENE)37|devoção
 11HH(MARY MAGDALENE)37|êxtase
@@ -23224,6 +23225,7 @@
 11L111|Moisés
 11L112|apóstolo
 11L112|Hostienmühle
+11L112|Hóstia
 11L112|moinho
 11L112|profeta
 11L12|Lei (bíblico)
@@ -24177,7 +24179,7 @@
 11Q71483|Sino
 11Q71483|sino da igreja
 11Q7151|pão
-11Q7151|anfitrião
+11Q7151|Hóstia
 11Q7152|sangue
 11Q7152|vinho
 11Q7153|Água benta
@@ -24216,7 +24218,7 @@
 11Q731124|vinho
 11Q731125|cálice
 11Q731125|elevatio
-11Q731125|anfitrião
+11Q731125|Hóstia
 11Q731125|mostrando
 11Q731126|comunhão
 11Q73113|Publicar communio
@@ -24262,15 +24264,15 @@
 11Q732331|indulgência plenária
 11Q7324|Eucaristia
 11Q73241|cálice
-11Q73241|anfitrião
+11Q73241|Hóstia
 11Q73242|adoração
-11Q73242|anfitrião
+11Q73242|Hóstia
 11Q73242|ostensório
 11Q73242|perpetuidade
 11Q732421|Disputa
 11Q73243|glória
 11Q73243|triunfo
-11Q73244|anfitrião
+11Q73244|Hóstia
 11Q73244|lenda
 11Q73244|milagre
 11Q73245|primeira comunhão
@@ -24297,7 +24299,7 @@
 11Q73272|leito de morte
 11Q73272|padre
 11Q73273|honrando
-11Q73273|anfitrião
+11Q73273|Hóstia
 11Q73273|viático
 11Q732731|cavalo
 11Q732731|oferta
@@ -25476,7 +25478,7 @@
 12A911|assassinato
 12A911|rito
 12A912|profanação
-12A912|anfitrião
+12A912|Hóstia
 12A913|profanação
 12A913|relíquia
 12A92|conversão

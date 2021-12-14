@@ -4559,6 +4559,7 @@
 #34A42|earning money with monkey
 #34A43|earning money with guinea-pig
 #34A44|earning money with other animals
+34A5|slangenbezweerder
 #34A9|man tormenting animal(s)
 34B|huisdieren
 #34B1|domestic animals, kept in the house

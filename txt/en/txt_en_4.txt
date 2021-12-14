@@ -776,14 +776,12 @@
 41D211(MANTEAU)|dress, gown: manteau
 41D211(MORNING DRESS)|dress, gown: morning dress
 41D211(REDINGOTE)|dress, gown: redingote
-41D211(ROBE À L’ANGLAISE)|dress, gown: robe à l'anglaise
 41D211(ROBE VOLANTE)|dress, gown: robe volante
 41D211(ROBE À L'ANGLAISE)|dress, gown: robe à l'anglaise
 41D211(ROBE À LA CIRCASSIENNE)|dress, gown: robe à la circassienne
 41D211(ROBE À LA FRANÇAISE)|dress, gown: robe à la française
 41D211(ROBE À LA LÉVITE)|dress, gown: robe à la lévite
 41D211(ROBE À LA POLONAISE)|dress, gown: robe à la polonaise
-
 41D211(WALKING DRESS)|dress, gown: walking dress
 41D212|coat, cape
 41D2121|coat

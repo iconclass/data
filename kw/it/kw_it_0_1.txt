@@ -22,6 +22,7 @@
 11A31|Flagello di Dio
 11A31|Ripa
 11A31|flagello
+11A4|volontà
 11B|Cristo
 11B|Dio
 11B|Spirito Santo
@@ -24020,6 +24021,7 @@
 11L111|Mosè
 11L111|dare
 11L112|Hostienmühle
+11L112|Ostia
 11L112|Mola Mystica
 11L112|apostolo
 11L112|mulino

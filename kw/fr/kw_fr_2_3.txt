@@ -5786,6 +5786,7 @@
 34A41|ours
 34A42|singe
 34A43|cochon d'Inde
+34A5|serpent
 34A9|maltraiter
 34A9|tourmenter
 34B|animal domestique

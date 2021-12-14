@@ -22,6 +22,7 @@
 11A31|Geissel
 11A31|Ripa, Cesare
 11A31|flagello di Dio
+11A4|Wille
 11B|Christus
 11B|Dreifaltigkeit
 11B|Gott
@@ -25104,6 +25105,7 @@
 11L111|Moses
 11L111|geben
 11L112|Apostel
+11L112|Hostie
 11L112|Hostienmuehle
 11L112|Muehle
 11L112|Prophet
