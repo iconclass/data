@@ -12809,7 +12809,7 @@ TXT_IT aborigeni
 KWD_IT uomo primitivo
 TXT_FR aborigènes
 KWD_FR homme primitif
-TXT_DE Ureinwohner, Eingeborene
+TXT_DE indigene Einwohner und Einwohnerinnen eines Gebiets
 KWD_DE Ureinwohner
 $
 CODE 32Bk
@@ -12821,9 +12821,10 @@ KWD_IT costume
 ; abito
 TXT_FR costume
 KWD_FR costume
-TXT_DE Kostüm
+TXT_DE Kleidung
 KWD_DE Kostüm
 ; Tracht
+; Kleidung
 $
 CODE 32Bk
 SUFFIX 4
