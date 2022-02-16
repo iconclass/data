@@ -1776,6 +1776,7 @@
 25GG41(BUTTERCUP)|flowers: buttercup - GG - fantastic plants, fabulous vegetation
 25GG41(CARNATION)|flowers: carnation - GG - fantastic plants, fabulous vegetation
 25GG41(COLUMBINE)|flowers: columbine - GG - fantastic plants, fabulous vegetation
+25GG41(CORNFLOWER)|flowers: cornflower - GG - fantastic plants, fabulous vegetation
 25GG41(CROCUS)|flowers: crocus - GG - fantastic plants, fabulous vegetation
 25GG41(HELIOTROPE)|flowers: heliotrope - GG - fantastic plants, fabulous vegetation
 25GG41(HYACINTH)|flowers: hyacinth - GG - fantastic plants, fabulous vegetation
@@ -2635,6 +2636,7 @@
 31A2536|hand(s) towards the mouth
 31A25361|whistling with fingers
 31A25362|pulling at the corners of the mouth
+31A25363|licking food from a finger
 31A2537|hand(s) towards the ear(s)
 31A25371|cupping one's ear
 31A25372|scratching one's ear
@@ -3958,7 +3960,7 @@
 31E23|violent death, being killed; being mishandled and maltreated; seeking death
 31E231|violent death ~ elements
 31E2311|violent death ~ water
-31E23111|drowning (violent death ~ water)
+31E23111|drowning, ’walking the plank'
 31E231111|keelhauling
 31E23112|continuous dripping (violent death ~ water)
 31E2312|violent death ~ fire

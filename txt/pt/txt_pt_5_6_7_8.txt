@@ -4054,7 +4054,9 @@
 71O36|martírio de Isaías: por ordem do rei Manassés, Isaías é serrado em dois
 71O37|outras cenas ~ Isaías
 71O37(...)|outras cenas ~ Isaías (com LIVRO CAPÍTULO, VERSÍCULO)
-71O37(Is. 21:11)|"Sentinela, que vês na noite?"
+71O37(Is. 21:11)|Sentinela, que vês na noite?
+71O37(Is. 53:7)|como um cordeiro levado ao matadouro
+71O37(Is. 55:1)|Ah! Todos que tendes sede, vinde às águas cristalinas
 71O37(Is. 62:6)|os sentinelas nas muralhas de Jerusalém
 71O4|o livro de Miqueias
 71O41|Miqueias é chamado por Deus a profetizar (Miqueias 1, 1)

@@ -4062,6 +4062,7 @@
 71O37(...)|andere Szenen aus dem Buch Jesaja (mit BUCH, KAPITEL, VERS)
 71O37(Is. 21:11)|Wächter, wie weit ist es in der Nacht?
 71O37(Is. 53:7)|wie ein Lamm, das zur Schlachtbank geführt wird
+71O37(Is. 55:1)|Auf, ihr Durstigen, kommt alle zum Wasser! 
 71O37(Is. 62:6)|der Wächter auf den Stadtmauern Jerusalems
 71O4|das Buch Micha
 71O41|Micha wird von Gott als Prophet berufen (Micha 1:1)

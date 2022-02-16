@@ -1738,6 +1738,7 @@
 25GG41(BUTTERCUP)|flores: ranúnculo - DD - plantas fantásticas, vegetação fantástica
 25GG41(CARNATION)|flores: cravo - DD - plantas fantásticas, vegetação fantástica
 25GG41(COLUMBINE)|flores: columbina, aquilégia - DD - plantas fantásticas, vegetação fantástica
+25GG41(CORNFLOWER)|flores: columbina, centáurea - DD - plantas fantásticas, vegetação fantástica
 25GG41(CROCUS)|flores: açafrão - DD - plantas fantásticas, vegetação fantástica
 25GG41(HELIOTROPE)|flores heliotrópios - DD - plantas fantásticas, vegetação fantástica
 25GG41(HYACINTH)|flores: jacinto - DD - plantas fantásticas, vegetação fantástica
@@ -2597,6 +2598,7 @@
 31A2536|mão(s) na direcção da boca
 31A25361|assobiando com os dedos
 31A25362|puxando os cantos da boca
+31A25363|lambendo comida de um dedo
 31A2537|mão(s) na direcção do(s) ouvido(s)
 31A25371|colocando a mão atrás da orelha
 31A25372|coçando a orelha

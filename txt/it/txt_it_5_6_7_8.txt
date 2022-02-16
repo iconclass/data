@@ -4062,6 +4062,7 @@
 71O37(...)|altre scene ~ Isaia (con libro, capitolo e versetti tra parentesi)
 71O37(Is. 21:11)|'Sentinella, quanto resta della notte?'
 71O37(Is. 53:7)|come l’agnello menato allo scannatoio
+71O37(Is. 55:1)|O voi tutti che siete assetati, venite alle acque
 71O37(Is. 62:6)|la sentinella sulle mura di Gerusalemme
 71O4|il libro di Michea
 71O41|Michea è chiamato da Dio ad essere profeta (Mi. 1, 1)
