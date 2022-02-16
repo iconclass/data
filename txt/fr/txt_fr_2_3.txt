@@ -2518,7 +2518,7 @@
 31A22622|poils du corps
 31A22623|poils du pubis
 31A22624|couleur de peau
-31A22624(...)|couleur de peau (avec numéro FITZPATRICK
+31A22624(...)|couleur de peau (avec numéro FITZPATRICK)
 31A2263|muscles
 31A2264|tendons
 31A2265|nerfs
@@ -3200,6 +3200,7 @@
 31AA22621|cheveux - AA - figure féminine
 31AA22622|poils du corps - AA - figure féminine
 31AA22623|poils du pubis - AA - figure féminine
+31AA22624(...)|couleur de peau (avec numéro FITZPATRICK) - AA - figure féminine
 31AA2263|muscles - AA - figure féminine
 31AA2264|tendons - AA - figure féminine
 31AA2265|nerfs - AA - figure féminine

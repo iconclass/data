@@ -3152,6 +3152,7 @@
 31AA22621|cabelo - AA - figura humana feminina
 31AA22622|pêlos do corpo - AA - figura humana feminina
 31AA22623|pêlos púbicos - AA - figura humana feminina
+31AA22624(...)|cor da pele (com número FITZPATRICK) - AA - figura humana feminina
 31AA2263|músculos - AA - figura humana feminina
 31AA2264|tendões, ligamentos - AA - figura humana feminina
 31AA2265|nervos - AA - figura humana feminina
