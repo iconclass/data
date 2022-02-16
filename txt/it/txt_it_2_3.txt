@@ -1180,6 +1180,7 @@
 25FF312|coccatrice, un drago a due zampe con la testa di un gallo
 25FF32|animali fantastici ~ uccelli canori
 25FF32(...)|uccelli canori (col NOME) - FF - animali fantastici
+25FF32(BLACKBIRD)|uccelli canori: merla - FF - animali fantastici
 25FF32(CROW)|uccelli canori: corvo - FF - animali fantastici
 25FF32(FINCH)|uccelli canori: fringuello - FF - animali fantastici
 25FF32(GOLDFINCH)|uccelli canori: cardellino - FF - animali fantastici
@@ -1523,6 +1524,7 @@
 25G4(ALOE)|piante ed erbe: aloe
 25G4(AMARANTH)|piante ed erbe: amaranto
 25G4(ARTICHOKE)|piante ed erbe: carciofo
+25G4(BARLEY)|piante ed erbe: orzo
 25G4(BASIL)|piante ed erbe: basilico
 25G4(BEAN)|piante ed erbe: fagiolo
 25G4(CABBAGE)|piante ed erbe: cavolo
@@ -1629,6 +1631,7 @@
 25GG21(CHESTNUT)|frutti: castagna - GG - piante fantastiche, vegetazione fantastica
 25GG21(FIG)|frutti: fico - GG - piante fantastiche, vegetazione fantastica
 25GG21(GOURD)|frutti: zucca - GG - piante fantastiche, vegetazione fantastica
+25GG21(HAZELNUT)|frutti: nocciola - GG - piante fantastiche, vegetazione fantastica
 25GG21(LEMON)|frutti: limone - GG - piante fantastiche, vegetazione fantastica
 25GG21(MEDLAR)|frutti: nespola - GG - piante fantastiche, vegetazione fantastica
 25GG21(MELON)|frutti: melone - GG - piante fantastiche, vegetazione fantastica

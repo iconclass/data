@@ -20,9 +20,7 @@
 91B1|Titãs
 91B11|Titãs masculinos 
 91B111|(história de) Saturno (Crono)
-91B1111|"(história de) Saturno (Crono) - primeiros anos da vida
-
-"
+91B1111|(história de) Saturno (Crono) - primeiros anos da vida
 91B11111|(história de) Saturno (Crono) - nascimento
 91B11112|(história de) Saturno (Crono) - infância, educação
 91B1112|relações amorosas de Saturno
@@ -1918,9 +1916,9 @@
 93E6|Planície de Asfódelo, os prados de Asfódelo
 93E7|Elísio, Campos Elísios; Ilhas dos Bem-aventurados
 93E8|Tártaro (e os condenados atribuídos a este lugar)
-92E81|Tântalo, a sofrer eternamente de fome e sede
-92E82|Sísifo a empurrar uma pedra até ao cume ou a carregá-la nos seus ombros
-92E83|Ixíon numa roda em chamas
+93E81|Tântalo, a sofrer eternamente de fome e sede
+93E82|Sísifo a empurrar uma pedra até ao cume ou a carregá-la nos seus ombros
+93E83|Ixíon numa roda em chamas
 93E84|Tício; dois abutres (ou uma águia) dilaceram-lhe o fígado
 93E85|as Danaides a deitarem água num vaso perfurado
 93E86|Ocno, normalmente a tecer uma corda que um burro come com a mesma velocidade com que esta é produzida

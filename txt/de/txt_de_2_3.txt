@@ -1180,6 +1180,7 @@
 25FF312|Cockatrice, ein zweibeiniger geflügelter Drache mit Hahnenkopf
 25FF32|Fabeltiere: Singvögel
 25FF32(...)|Singvögel (mit NAMEN) - FF - Fabeltiere
+25FF32(BLACKBIRD)|Singvögel: Amsel - FF - Fabeltiere
 25FF32(CROW)|Singvögel: Krähe - FF - Fabeltiere
 25FF32(FINCH)|Singvogel: Fink - FF - Fabeltiere
 25FF32(GOLDFINCH)|Singvögel: Stieglitz - FF - Fabeltiere
@@ -1629,6 +1630,7 @@
 25GG21(CHESTNUT)|Früchte: Kastanie - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(FIG)|Früchte: Feige - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(GOURD)|Früchte: Kürbis - GG - Phantasiepflanzen, erfundene Vegetation
+25GG21(HAZELNUT)|Früchte: Haselnuß - GG - Phantasiepflanzen, erfundene Vegetation 
 25GG21(LEMON)|Früchte: Zitrone - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(MEDLAR)|Früchte: Mispel - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(MELON)|Früchte: Melone - GG - Phantasiepflanzen, erfundene Vegetation
@@ -1716,6 +1718,7 @@
 25GG4(ALOE)|Pflanzen und Kräuter: Aloe - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(AMARANTH)|Pflanzen und Kräuter: Amarant - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(ARTICHOKE)|Pflanzen und Kräuter: Artischocke - GG - Phantasiepflanzen, erfundene Vegetation
+25GG4(BARLEY)|Pflanzen und Kräuter: Gerste - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(BASIL)|Pflanzen und Kräuter: Ocimum - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(BEAN)|Pflanzen und Kräuter: Bohnengewächs - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(CABBAGE)|Pflanzen und Kräuter: Kohlpflanze - GG - Phantasiepflanzen, erfundene Vegetation
@@ -4284,11 +4287,11 @@
 32B311(FRENCH)|Europäer: Französen
 32B311(GERMANS)|Europäer: Deutsche
 32B311(GREEKS)|Europäer: Griechen
-32B311(HUNGARIAN)|Europäer: Ungarn
+32B311(HUNGARIANS)|Europäer: Ungarn
 32B311(IRISH)|Europäer: Iren
 32B311(ITALIANS)|Europäer: Italiener
 32B311(POLES)|Europäer: Polen
-32B311(PORTUGESE)|Europäer: Portugiesen
+32B311(PORTUGUESE)|Europäer: Portugiesen
 32B311(RUMANIANS)|Europäer: Rumänen
 32B311(RUSSIANS)|Europäer: Russen
 32B311(SCOTS)|Europäer: Schotten

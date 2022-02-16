@@ -1180,6 +1180,7 @@
 25FF312|cocatrix, un dragon à deux pattes avec une tête de coq
 25FF32|animaux fabuleux ~ oiseaux chanteurs
 25FF32(...)|oiseaux chanteurs (avec NOM) - FF - animaux fabuleux
+25FF32(BLACKBIRD)|oiseaux chanteurs: merle - FF - animaux fabuleux
 25FF32(CROW)|oiseaux chanteurs : corneille - FF - animaux fabuleux
 25FF32(FINCH)|oiseaux chanteurs : pinson - FF - animaux fabuleux
 25FF32(GOLDFINCH)|oiseaux chanteurs : chardonneret - FF - animaux fabuleux
@@ -1629,6 +1630,7 @@
 25GG21(CHESTNUT)|fruits : châtaigne - GG - plantes fantastiques, végétation fictive
 25GG21(FIG)|fruits : figue - GG - plantes fantastiques, végétation fictive
 25GG21(GOURD)|fruits : gourde - GG - plantes fantastiques, végétation fictive
+25GG21(HAZELNUT)|fruits: noisette - GG - plantes fantastiques, végétation fictive
 25GG21(LEMON)|fruits : citron - GG - plantes fantastiques, végétation fictive
 25GG21(MEDLAR)|fruits : nefle - GG - plantes fantastiques, végétation fictive
 25GG21(MELON)|fruits : melon - GG - plantes fantastiques, végétation fictive

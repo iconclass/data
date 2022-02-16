@@ -8,9 +8,9 @@
 91A14|Más ősi istenségek
 91A14(...)|Más ősi istenségek (névvel)
 91A14(AION)|Más ősi istenségek: Aion
-91A14(KÁOSZ)|Más ősi istenségek: Chaos
-91A14(Demogorgon)|Más ősi istenségek: Demogorgon
-91A14(Erebus)|Más ősi istenségek: Erebus
+91A14(CHAOS)|Más ősi istenségek: Chaos
+91A14(DEMOGORGON)|Más ősi istenségek: Demogorgon
+91A14(EREBUS)|Más ősi istenségek: Erebus
 91A14(NOX)|Más ősi istenségek: Nox
 91A2|szétválasztása az elemek valamilyen alkotó erő ~ klasszikus mitológia
 91A21|a föld teremtése ~ klasszikus mitológia
