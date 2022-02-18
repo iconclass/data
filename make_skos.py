@@ -28,9 +28,6 @@ def main():
             if not filename.startswith("txt_"):
                 continue
             lang, txts = read_texts(os.path.join(dirpath, filename))
-            # import pdb
-
-            # pdb.set_trace()
             for notation, txt in txts:
                 if notation not in ic:
                     print(filename, notation)
