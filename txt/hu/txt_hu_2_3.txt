@@ -20,7 +20,7 @@
 22A|ügyet
 22A0|Matter (allegorikus)
 22A1|vegyi anyagok
-22A1 (...)|vegyi anyagok (névvel)
+22A1(...)|vegyi anyagok (névvel)
 22A2|kémiai jelenségeket
 22A21|kémiai reakció
 22A3|fizikai jelenségek
@@ -2386,7 +2386,7 @@
 #29B|plants behaving as human beings or animals
 #29C|objects coming to life, e.g. puppets
 #29D|natural forms in stones, wood, clouds, etc. interpreted as representations
-3.|Emberi Lény, ember általában
+3|Emberi Lény, ember általában
 31|férfi egy általános biológiai értelemben
 31A|A (akt) emberi alak; "Corpo humano" (Ripa)
 31A1|kánon, az arányok

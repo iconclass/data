@@ -765,7 +765,7 @@
 41D211|ドレス, ガウン
 41D211(...)|ドレス, ガウン (名称を伴う)
 41D211(BALL GOWN)|ドレス, ガウン: 夜会服
-41D211(CHEMISE ﾃ LA REINE)|ドレス, ガウン: シュミーズ・ア・ラ・レーヌ (chemise à la Reine)
+41D211(CHEMISE À LA REINE)|ドレス, ガウン: シュミーズ・ア・ラ・レーヌ (chemise à la Reine)
 41D211(COURT GOWN)|ドレス, ガウン: 宮中服または大礼服
 41D211(DAY DRESS)|ドレス, ガウン: デイドレス
 41D211(DINNER DRESS)|ドレス, ガウン: ディナードレス
@@ -773,13 +773,12 @@
 41D211(MANTEAU)|ドレス, ガウン: マント
 41D211(MORNING DRESS)|ドレス, ガウン: モーニング
 41D211(REDINGOTE)|ドレス, ガウン: ルダンゴト
-41D211(ROBE ﾃ L窶僊NGLAISE)|ドレス, ガウン: ローブ・ア・ラングレーズ (robe à l'anglaise)
 41D211(ROBE VOLANTE)|ドレス, ガウン: ローブ・ヴォラント
-41D211(ROBE ﾃ L'ANGLAISE)|ドレス, ガウン: ローブ・ア・ラングレーズ (robe à l'anglaise)
-41D211(ROBE ﾃ LA CIRCASSIENNE)|ドレス, ガウン: ローブ・ア・ラ・シルカシェンヌ (robe à la circassienne)
-41D211(ROBE ﾃ LA FRANﾃ②ISE)|ドレス, ガウン: ローブ・ア・ラ・フランセーズ (robe à la française)
-41D211(ROBE ﾃ LA Lﾃ鰻ITE)|ドレス, ガウン: ローブ・ア・ラ・レヴィ (robe à la lévite)
-41D211(ROBE ﾃ LA POLONAISE)|ドレス, ガウン: ローブ・ア・ラ・ポロネーズ (robe à la polonaise)
+41D211(ROBE À L'ANGLAISE)|ドレス, ガウン: ローブ・ア・ラングレーズ (robe à l'anglaise)
+41D211(ROBE À LA CIRCASSIENNE)|ドレス, ガウン: ローブ・ア・ラ・シルカシェンヌ (robe à la circassienne)
+41D211(ROBE À LA FRANÇAISE)|ドレス, ガウン: ローブ・ア・ラ・フランセーズ (robe à la française)
+41D211(ROBE À LA LÉVITE)|ドレス, ガウン: ローブ・ア・ラ・レヴィ (robe à la lévite)
+41D211(ROBE À LA POLONAISE)|ドレス, ガウン: ローブ・ア・ラ・ポロネーズ (robe à la polonaise)
 41D211(WALKING DRESS)|ドレス, ガウン: 外出着
 41D212|コート, ケープ
 41D2121|コート

@@ -186,7 +186,7 @@
 23E43|Verão ~ actividades humanas (as quatro estações)
 23E44|Outono ~ actividades humanas (as quatro estações)
 23E5|ano dividido em cinco estações ~ actividades humanas
-2E6|ano dividido em seis estações ~ actividades humanas
+23E6|ano dividido em seis estações ~ actividades humanas
 23E61|ano dividido em seis estações ~ actividades humanas (primeira série)
 23E611|Janeiro e Fevereiro ~ actividades humanas (ano dividido em seis estações)
 23E612|Março e Abril ~ actividades humanas (ano dividido em seis estações)
@@ -1154,6 +1154,7 @@
 25FF311|basilisco (galo com a cauda de uma serpente)
 25FF32|animais fantásticos ~ aves canoras
 25FF32(...)|aves canoras (com NOME) - FF - animais fantásticos
+25FF32(BLACKBIRD)|aves canoras: passaro preto - FF - animais fantásticos
 25FF32(CROW)|aves canoras: corvo e gralha - FF - animais fantásticos
 25FF32(FINCH)|aves canoras: tentilhão - FF - animais fantásticos
 25FF32(GOLDFINCH)|aves canoras: pintassilgo - FF - animais fantásticos
@@ -1490,6 +1491,7 @@
 25G4(ALOE)|plantas e ervas: aloé
 25G4(AMARANTH)|plantas e ervas: amaranto
 25G4(ARTICHOKE)|plantas e ervas: alcachofra
+25G4(BARLEY)|plantas e ervas: cevada
 25G4(BASIL)|plantas e ervas: manjericão
 25G4(BEAN)|plantas e ervas: feijão
 25G4(CABBAGE)|plantas e ervas: couve
@@ -1511,12 +1513,15 @@
 25G4(HYSSOP)|plantas e ervas: hissopo
 25G4(IVY)|plantas e ervas: hera
 25G4(LETTUCE)|plantas e ervas: alface
+25G4(LOTUS)|plantas e ervas: lótus
 25G4(LUPIN)|plantas e ervas: tremoceiro
 25G4(MANDRAKE)|plantas e ervas: mandrágora
 25G4(MARJORAM)|plantas e ervas: manjerona
+25G4(MINT)|plantas e ervas: hortelã
 25G4(MISTLETOE)|plantas e ervas: visco
 25G4(NETTLE)|plantas e ervas: urtiga
-25G4(ORIGANUM)|plantas e ervas: oregão 
+25G4(ORIGANUM)|plantas e ervas: oregão
+25G4(PARSLEY)|plantas e ervas: salsinha
 25G4(PEA)|plantas e ervas: ervilha
 25G4(PENNYROYAL)|plantas e ervas: poejo
 25G4(PEONY)|plantas e ervas: peónia
@@ -1526,6 +1531,7 @@
 25G4(RUE)|plantas e ervas: arruda
 25G4(SAFFRON)|plantas e ervas: açafrão
 25G4(SAGE)|plantas e ervas: salva
+25G4(SAVORY)|plantas e ervas: segurelha
 25G4(STINGING-NETTLE)|plantas e ervas: urtiga-comum
 25G4(STRAWBERRY)|plantas e ervas: morango
 25G4(SUNDEW)|plantas e ervas: drosera, orvalhinha
@@ -1732,6 +1738,7 @@
 25GG41(BUTTERCUP)|flores: ranúnculo - DD - plantas fantásticas, vegetação fantástica
 25GG41(CARNATION)|flores: cravo - DD - plantas fantásticas, vegetação fantástica
 25GG41(COLUMBINE)|flores: columbina, aquilégia - DD - plantas fantásticas, vegetação fantástica
+25GG41(CORNFLOWER)|flores: columbina, centáurea - DD - plantas fantásticas, vegetação fantástica
 25GG41(CROCUS)|flores: açafrão - DD - plantas fantásticas, vegetação fantástica
 25GG41(HELIOTROPE)|flores heliotrópios - DD - plantas fantásticas, vegetação fantástica
 25GG41(HYACINTH)|flores: jacinto - DD - plantas fantásticas, vegetação fantástica
@@ -2591,6 +2598,7 @@
 31A2536|mão(s) na direcção da boca
 31A25361|assobiando com os dedos
 31A25362|puxando os cantos da boca
+31A25363|lambendo comida de um dedo
 31A2537|mão(s) na direcção do(s) ouvido(s)
 31A25371|colocando a mão atrás da orelha
 31A25372|coçando a orelha
@@ -3027,7 +3035,7 @@
 31A7221|Miss Mundo
 31A729|"virago", mulher masculinizada
 31A73|hermafrodita, andrógino
-31A371|rebis, o hermafrodita divino, reconciliação do espírito e da matéria ~ alquimia
+31A731|rebis, o hermafrodita divino, reconciliação do espírito e da matéria ~ alquimia
 31A8|o corpo visto como uma máquina
 31A9|maneiras de simular a cura ou melhorar partes do corpo
 31AA|a figura humana (nua), "Corpo humano" (Ripa) - AA - figura humana feminina
@@ -3152,6 +3160,7 @@
 31AA22621|cabelo - AA - figura humana feminina
 31AA22622|pêlos do corpo - AA - figura humana feminina
 31AA22623|pêlos púbicos - AA - figura humana feminina
+31AA22624(...)|cor da pele (com número FITZPATRICK) - AA - figura humana feminina
 31AA2263|músculos - AA - figura humana feminina
 31AA2264|tendões, ligamentos - AA - figura humana feminina
 31AA2265|nervos - AA - figura humana feminina
@@ -4671,7 +4680,7 @@
 34E2|colecção de animais
 34E21|animais de circo
 34E22|jardim zoológico, zoo, visto como o lugar onde animais não domésticos são mantidos
-34E23|tratadores ~ jardim zoológico
+34E221|tratadores ~ jardim zoológico
 34E3|animais amarrados
 34F|homem e animal (selvagem)
 34F1|animais ameaçando o homem

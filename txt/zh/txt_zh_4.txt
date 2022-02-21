@@ -774,14 +774,12 @@
 41D211(MANTEAU)|袍服, 長袍: 外套
 41D211(MORNING DRESS)|袍服, 長袍: 晨禮服
 41D211(REDINGOTE)|袍服, 長袍: 騎裝外套
-41D211(ROBE À L’ANGLAISE)|袍服, 長袍: 寬身女袍robe à l'anglaise
 41D211(ROBE VOLANTE)|袍服, 長袍: robe volante
 41D211(ROBE À L'ANGLAISE)|袍服, 長袍: 寬身女袍robe à l'anglaise
 41D211(ROBE À LA CIRCASSIENNE)|袍服, 長袍: robe à la circassienne
 41D211(ROBE À LA FRANÇAISE)|袍服, 長袍: robe à la française
 41D211(ROBE À LA LÉVITE)|袍服, 長袍: robe à la lévite
 41D211(ROBE À LA POLONAISE)|袍服, 長袍: robe à la polonaise
-
 41D211(WALKING DRESS)|袍服, 長袍: 外出服
 41D212|外套coat, 披風
 41D2121|外套coat
@@ -1385,6 +1383,7 @@
 42E222|送葬車funeral carriages
 42E223|靈柩?litter, coffin rest
 42E224|'pleurants'
+42EE224|'pleurants' - EE - 女性
 42E23|下葬
 42E231|打開墓穴
 42E232|再次入葬
@@ -1461,7 +1460,6 @@
 42E5321|繼承人的爭吵
 42E54|為配偶及子女提供支助
 42E541|保險金 (為配偶及子女提供支助)
-2EE224|'pleurants' - EE - 女性
 42F|家政;家庭主婦的工作
 42F0|家庭經濟; 'Economia', 'Providenza dell'annona' (Ripa)
 42F1|家庭主婦

@@ -6107,7 +6107,6 @@
 49E392|alchemistische Symbole
 49E393|alchemistische Gerätschaften
 49E3931|alchemistischen Gefäße
-49E3931(...)|
 49E39311|Flaschen und flaschenähnliche Gefäße (ampullae)
 49E39311(...)|Flaschen und flaschenähnliche Gefäße (ampullae) (mit NAMEN)
 49E39311(OVUM PHILOSOPHICUM)|Flasche: Philosophisches Ei (ovum philosophicum)

@@ -1180,6 +1180,7 @@
 25FF312|coccatrice, un drago a due zampe con la testa di un gallo
 25FF32|animali fantastici ~ uccelli canori
 25FF32(...)|uccelli canori (col NOME) - FF - animali fantastici
+25FF32(BLACKBIRD)|uccelli canori: merla - FF - animali fantastici
 25FF32(CROW)|uccelli canori: corvo - FF - animali fantastici
 25FF32(FINCH)|uccelli canori: fringuello - FF - animali fantastici
 25FF32(GOLDFINCH)|uccelli canori: cardellino - FF - animali fantastici
@@ -1523,6 +1524,7 @@
 25G4(ALOE)|piante ed erbe: aloe
 25G4(AMARANTH)|piante ed erbe: amaranto
 25G4(ARTICHOKE)|piante ed erbe: carciofo
+25G4(BARLEY)|piante ed erbe: orzo
 25G4(BASIL)|piante ed erbe: basilico
 25G4(BEAN)|piante ed erbe: fagiolo
 25G4(CABBAGE)|piante ed erbe: cavolo
@@ -1545,12 +1547,15 @@
 25G4(HYSSOP)|piante ed erbe: issopo
 25G4(IVY)|piante ed erbe: edera
 25G4(LETTUCE)|piante ed erbe: lattuga
+25G4(LOTUS)|piante ed erbe: loto
 25G4(LUPIN)|piante ed erbe: lupino
 25G4(MANDRAKE)|piante ed erbe: mandragora
 25G4(MARJORAM)|piante ed erbe: maggiorana
+25G4(MINT)|piante ed erbe: menta
 25G4(MISTLETOE)|piante ed erbe: vischio
 25G4(NETTLE)|piante ed erbe: ortica
 25G4(ORIGANUM)|piante ed erbe: origano
+25G4(PARSLEY)|piante ed erbe: prezzemolo
 25G4(PEA)|piante ed erbe: pisello
 25G4(PENNYROYAL)|piante ed erbe: menta romana
 25G4(PEONY)|piante ed erbe: peonia
@@ -1560,6 +1565,7 @@
 25G4(RUE)|piante ed erbe: ruta
 25G4(SAFFRON)|piante ed erbe: zafferano
 25G4(SAGE)|piante ed erbe: salvia
+25G4(SAVORY)|piante ed erbe: salato
 25G4(STINGING-NETTLE)|piante ed erbe: ortica
 25G4(STRAWBERRY)|piante ed erbe: fragola
 25G4(SUNDEW)|piante ed erbe: drosera
@@ -1629,6 +1635,7 @@
 25GG21(CHESTNUT)|frutti: castagna - GG - piante fantastiche, vegetazione fantastica
 25GG21(FIG)|frutti: fico - GG - piante fantastiche, vegetazione fantastica
 25GG21(GOURD)|frutti: zucca - GG - piante fantastiche, vegetazione fantastica
+25GG21(HAZELNUT)|frutti: nocciola - GG - piante fantastiche, vegetazione fantastica
 25GG21(LEMON)|frutti: limone - GG - piante fantastiche, vegetazione fantastica
 25GG21(MEDLAR)|frutti: nespola - GG - piante fantastiche, vegetazione fantastica
 25GG21(MELON)|frutti: melone - GG - piante fantastiche, vegetazione fantastica
@@ -1767,6 +1774,7 @@
 25GG41(BUTTERCUP)|fiori: ranuncolo - GG - piante fantastiche, vegetazione fantastica
 25GG41(CARNATION)|fiori: garofano - GG - piante fantastiche, vegetazione fantastica
 25GG41(COLUMBINE)|fiori: aquilegia - GG - piante fantastiche, vegetazione fantastica
+25GG41(CORNFLOWER)|fiori: fiordaliso - GG - piante fantastiche, vegetazione fantastica
 25GG41(CROCUS)|fiori: croco - GG - piante fantastiche, vegetazione fantastica
 25GG41(HELIOTROPE)|fiori: eliotropio - GG - piante fantastiche, vegetazione fantastica
 25GG41(HYACINTH)|fiori: giacinto - GG - piante fantastiche, vegetazione fantastica
@@ -2626,6 +2634,7 @@
 31A2536|mano/i verso la bocca
 31A25361|fischiare con le dita
 31A25362|tirarsi gli angoli della bocca
+31A25363|leccare il cibo da un dito
 31A2537|mano/i verso le orecchie
 31A25371|far coppa con le mani all'orecchio
 31A25372|grattarsi l'orecchio
@@ -3200,6 +3209,7 @@
 31AA22621|capelli - AA - figura umana femminile
 31AA22622|peli, peluria del corpo - AA - figura umana femminile
 31AA22623|peli del pube - AA - figura umana femminile
+31AA22624(...)|colore della pelle (con numero FITZPATRICK) - AA - figura umana femminile
 31AA2263|muscoli - AA - figura umana femminile
 31AA2264|tendini, legamenti - AA - figura umana femminile
 31AA2265|nervi - AA - figura umana femminile

@@ -772,7 +772,6 @@
 41D211(MANTEAU)|
 #41D211(MORNING DRESS)|dress, gown: morning dress
 #41D211(REDINGOTE)|dress, gown: redingote
-41D211(ROBE À L’ANGLAISE)|
 #41D211(ROBE VOLANTE)|dress, gown: robe volante
 41D211(ROBE À L'ANGLAISE)|
 #41D211(ROBE À LA CIRCASSIENNE)|dress, gown: robe à la circassienne
@@ -6091,14 +6090,13 @@
 49E392|alkemistiset symbolit
 #49E393|alchemistic equipment
 #49E3931|alchemistic vessels
-49E3931(...)|
-49E39311|
+49E39311|bottles (ampullae)
 #49E39311(...)|bottles (ampullae) (with NAME)
 49E39311(OVUM PHILOSOPHICUM)|bottle: philosophical egg (ovum philosophicum)
 #49E39312|flasks (cucurbitae)
 #49E39312(...)|flasks (cucurbitae) (with NAME)
 #49E39313|pots, jars (ollae)
-49E39313(...)|
+49E39313(...)|pots, jars (ollae) (with NAME)
 #49E3932|alchemistic furnace
 #49E3932(...)|alchemistic furnace (with NAME)
 49E3932(ASSAY FURNACE)|assay furnace

@@ -1180,6 +1180,7 @@
 25FF312|Cockatrice, ein zweibeiniger geflügelter Drache mit Hahnenkopf
 25FF32|Fabeltiere: Singvögel
 25FF32(...)|Singvögel (mit NAMEN) - FF - Fabeltiere
+25FF32(BLACKBIRD)|Singvögel: Amsel - FF - Fabeltiere
 25FF32(CROW)|Singvögel: Krähe - FF - Fabeltiere
 25FF32(FINCH)|Singvogel: Fink - FF - Fabeltiere
 25FF32(GOLDFINCH)|Singvögel: Stieglitz - FF - Fabeltiere
@@ -1523,6 +1524,7 @@
 25G4(ALOE)|Pflanzen und Kräuter: Aloe
 25G4(AMARANTH)|Pflanzen und Kräuter: Amarant
 25G4(ARTICHOKE)|Pflanzen und Kräuter: Artischocke
+25G4(BARLEY)|Pflanzen und Kräuter: Gerste
 25G4(BASIL)|Pflanzen und Kräuter: Ocimum
 25G4(BEAN)|Pflanzen und Kräuter: Bohnengewächs
 25G4(CABBAGE)|Pflanzen und Kräuter: Kohlpflanze
@@ -1545,12 +1547,15 @@
 25G4(HYSSOP)|Pflanzen und Kräuter: Ysop
 25G4(IVY)|Pflanzen und Kräuter: Efeu
 25G4(LETTUCE)|Pflanzen und Kräuter: Lattich, Kopfsalat
+25G4(LOTUS)|Pflanzen und Kräuter: Lotus
 25G4(LUPIN)|Pflanzen und Kräuter: Lupine
 25G4(MANDRAKE)|Pflanzen und Kräuter: Alraune
 25G4(MARJORAM)|Pflanzen und Kräuter: Majoran
+25G4(MINT)|Pflanzen und Kräuter: Minze
 25G4(MISTLETOE)|Pflanzen und Kräuter: Mistel
 25G4(NETTLE)|Pflanzen und Kräuter: Nessel
 25G4(ORIGANUM)|Pflanzen und Kräuter: Oregano
+25G4(PARSLEY)|Pflanzen und Kräuter: Petersilie
 25G4(PEA)|Pflanzen und Kräuter: Erbse
 25G4(PENNYROYAL)|Pflanzen und Kräuter: Flohkraut
 25G4(PEONY)|Pflanzen und Kräuter: Pfingstrose
@@ -1560,6 +1565,7 @@
 25G4(RUE)|Pflanzen und Kräuter: Gartenraute
 25G4(SAFFRON)|Pflanzen und Kräuter: Saffran
 25G4(SAGE)|Pflanzen und Kräuter: Salbei
+25G4(SAVORY)|Pflanzen und Kräuter: Bohnenkraut
 25G4(STINGING-NETTLE)|Pflanzen und Kräuter: Brennessel
 25G4(STRAWBERRY)|Pflanzen und Kräuter: Erdbeerstaude
 25G4(SUNDEW)|Pflanzen und Kräuter: Sonnentau
@@ -1629,6 +1635,7 @@
 25GG21(CHESTNUT)|Früchte: Kastanie - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(FIG)|Früchte: Feige - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(GOURD)|Früchte: Kürbis - GG - Phantasiepflanzen, erfundene Vegetation
+25GG21(HAZELNUT)|Früchte: Haselnuß - GG - Phantasiepflanzen, erfundene Vegetation 
 25GG21(LEMON)|Früchte: Zitrone - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(MEDLAR)|Früchte: Mispel - GG - Phantasiepflanzen, erfundene Vegetation
 25GG21(MELON)|Früchte: Melone - GG - Phantasiepflanzen, erfundene Vegetation
@@ -1716,6 +1723,7 @@
 25GG4(ALOE)|Pflanzen und Kräuter: Aloe - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(AMARANTH)|Pflanzen und Kräuter: Amarant - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(ARTICHOKE)|Pflanzen und Kräuter: Artischocke - GG - Phantasiepflanzen, erfundene Vegetation
+25GG4(BARLEY)|Pflanzen und Kräuter: Gerste - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(BASIL)|Pflanzen und Kräuter: Ocimum - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(BEAN)|Pflanzen und Kräuter: Bohnengewächs - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(CABBAGE)|Pflanzen und Kräuter: Kohlpflanze - GG - Phantasiepflanzen, erfundene Vegetation
@@ -1767,6 +1775,7 @@
 25GG41(BUTTERCUP)|Blumen: Butterblume - GG - Phantasiepflanzen, erfundene Vegetation
 25GG41(CARNATION)|Blumen: Nelke - GG - Phantasiepflanzen, erfundene Vegetation
 25GG41(COLUMBINE)|Blumen: Akelei - GG - Phantasiepflanzen, erfundene Vegetation
+25GG41(CORNFLOWER)|Blumen: Kornblume - GG - Phantasiepflanzen, erfundene Vegetation
 25GG41(CROCUS)|Blumen: Krokus - GG - Phantasiepflanzen, erfundene Vegetation
 25GG41(HELIOTROPE)|Blumen: Heliotrop - GG - Phantasiepflanzen, erfundene Vegetation
 25GG41(HYACINTH)|Blumen: Hyazinthe - GG - Phantasiepflanzen, erfundene Vegetation
@@ -2626,6 +2635,7 @@
 31A2536|mit der Hand zum Mund weisen
 31A25361|mit den Fingern pfeifen
 31A25362|an den Ecken des Mundes ziehend
+31A25363|Essen von einem Finger lecken
 31A2537|mit der Hand auf ein Ohr weisen
 31A25371|ein Ohr schröpfen
 31A25372|sich am Ohr kratzen
@@ -3200,6 +3210,7 @@
 31AA22621|Haar - AA - weibliche Figur
 31AA22622|Körperbehaarung - AA - weibliche Figur
 31AA22623|Schamhaar - AA - weibliche Figur
+31AA22624(...)|Hautfarbe (mit FITZPATRICK Nummer) - AA - weibliche Figur
 31AA2263|Muskeln - AA - weibliche Figur
 31AA2264|Flechsen, Sehnen - AA - weibliche Figur
 31AA2265|Nerven - AA - weibliche Figur
@@ -4283,11 +4294,11 @@
 32B311(FRENCH)|Europäer: Französen
 32B311(GERMANS)|Europäer: Deutsche
 32B311(GREEKS)|Europäer: Griechen
-32B311(HUNGARIAN)|Europäer: Ungarn
+32B311(HUNGARIANS)|Europäer: Ungarn
 32B311(IRISH)|Europäer: Iren
 32B311(ITALIANS)|Europäer: Italiener
 32B311(POLES)|Europäer: Polen
-32B311(PORTUGESE)|Europäer: Portugiesen
+32B311(PORTUGUESE)|Europäer: Portugiesen
 32B311(RUMANIANS)|Europäer: Rumänen
 32B311(RUSSIANS)|Europäer: Russen
 32B311(SCOTS)|Europäer: Schotten

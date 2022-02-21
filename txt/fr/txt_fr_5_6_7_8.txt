@@ -4061,6 +4061,7 @@
 71O37(...)|autres scènes ~ Isaïe (avec LIVRE CHAPITRE:VERSET)
 71O37(Is. 21:11)|'Veilleur, où en est la nuit?'
 71O37(Is. 53:7)|comme l'agneau qui se laisse mener à l'abattoir
+71O37(Is. 55:1)|Vous tous qui avez soif, venez aux eaux
 71O37(Is. 62:6)|les gardes sur les murailles de Jérusalem
 71O4|le livre de Michée
 71O41|Michée est appelé par le Seigneur à prophétiser (Michée 1:1)
@@ -6881,7 +6882,6 @@
 73G42|la bête qui monte de la mer (Antéchrist, 666) ~ Apocalypse de Jean
 73G421|une bête, semblable à un léopard à sept têtes, sort de la mer et est adoré avec le dragon
 73G422|la bête qui sort de la mer fait la guerre aux saints
-73G423|
 73G43|la bête qui monte de la terre ~ Apocalypse de Jean
 73G431|la bête à deux cornes sortie de la terre et la bête sortie de la mer sont adorées
 73G432|le peuple reçoit une marque sur la main ou sur le front ~ la bête qui monte de la terre

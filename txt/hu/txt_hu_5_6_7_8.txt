@@ -903,7 +903,7 @@
 6|Történelem
 61|történelmi események és helyzetek; történelmi személyek
 61A|történelmi események és helyzetek
-61A (...)|történelmi események és helyzetek (a Dátum)
+61A(...)|történelmi események és helyzetek (a Dátum)
 61B|történelmi személyek (portrék és életéből vett jeleneteket)
 61B1|Történelmi személyek nem nevezett
 61B11|névtelen történelmi személy ábrázolt

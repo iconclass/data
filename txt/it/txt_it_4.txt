@@ -6107,7 +6107,6 @@
 49E392|simboli alchemici
 49E393|attrezzatura dell’alchimista
 49E3931|stoviglie alchemiche
-49E3931(...)|
 49E39311|bottiglie (ampullae)
 49E39311(...)|bottiglie (ampullae) (col NOME)
 49E39311(OVUM PHILOSOPHICUM)|bottiglia: ovo filosofico (ovum philosophicum)
