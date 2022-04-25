@@ -2644,8 +2644,8 @@
 11H(FRANCIS)|San Francesco d'Assisi, fondatore dell'Ordine dei Frati Minori (Francescani); attributi: crocifisso, giglio, libro, stimmate, teschio
 11H(FRANCIS)0|San Francesco d'Assisi, fondatore dell'Ordine dei Frati Minori (Francescani); attributi: crocifisso, giglio, libro, stimmate, teschio - santo raffigurato in un gruppo; gruppo di santi
 11H(FRANCIS)1|specifiche iconografie ~ San Francesco d'Assisi
-11H(FRANCIS)11|San Fracesco d'Assisi protettore contro la peste: Cristo (o l'angelo della peste) è rappresentato in atto di scagliare frecce dal cielo; San Francesco protegge la terra (nella forma di un globo), la Madonna figura in atto di intercedere
-11H(FRANCIS)119|San Fracesco d'Assisi protettore contro la peste: Cristo (o l'angelo della peste) è rappresentato in atto di scagliare frecce dal cielo; San Francesco protegge la terra (nella forma di un globo), la Madonna figura in atto di intercedere - santo che protegge i devoti con il manto, 'Schutzmantel'
+11H(FRANCIS)11|San Francesco d'Assisi protettore contro la peste: Cristo (o l'angelo della peste) è rappresentato in atto di scagliare frecce dal cielo; San Francesco protegge la terra (nella forma di un globo), la Madonna figura in atto di intercedere
+11H(FRANCIS)119|San Francesco d'Assisi protettore contro la peste: Cristo (o l'angelo della peste) è rappresentato in atto di scagliare frecce dal cielo; San Francesco protegge la terra (nella forma di un globo), la Madonna figura in atto di intercedere - santo che protegge i devoti con il manto, 'Schutzmantel'
 11H(FRANCIS)12|specifiche iconografie ~ San Francesco d'Assisi - santo (come Dottore della Chiesa) che scrive, studia, insegna, detta
 11H(FRANCIS)13|San Francesco d'Assisi fondatore dell'Ordine Terziario (Francescani, Frati Minori), mentre distribuisce la regola ad altri santi
 11H(FRANCIS)131|conferma dell'Ordine Francescano da parte di papa Innocenzo III
