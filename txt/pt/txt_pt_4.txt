@@ -5309,6 +5309,7 @@
 48C625|aparato cinematográfico
 48C6251|câmara de filmar, câmara de vídeo
 48C6252|projector de filme
+48C6253|lanterna mágica
 48C63|os primórdios da fotografia e do cinema
 48C7|música
 48C70|"Musica", representações simbólicas, alegorias e emblemas ~ música; "Musica" (Ripa)

@@ -8131,6 +8131,7 @@
 48C6251|telecamera
 48C6251|videocamera
 48C6252|proiettore
+48C6253|lanterna magica
 48C63|arte fotografica
 48C63|cinematografia
 48C63|origine

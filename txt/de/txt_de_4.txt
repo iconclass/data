@@ -5393,6 +5393,7 @@
 48C625|filmtechnische Geräte
 48C6251|Filmkamera, Videokamera
 48C6252|filmisches Projektionsgerät
+48C6253|Zauberlaterne, Laterna magica
 48C63|Anfänge der Photographie und der Kinematographie
 48C7|Musik
 48C70|symbolische Darstellungen, Allegorien und Embleme der Musik; Musica; Ripa: Musica

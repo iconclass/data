@@ -7986,6 +7986,7 @@
 48C6251|caméra (film)
 48C6251|caméra pour vidéo
 48C6252|projecteur
+48C6253|lanterne magique
 48C63|cinématographie
 48C63|origine
 48C63|photographie
