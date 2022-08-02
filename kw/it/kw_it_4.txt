@@ -261,6 +261,8 @@
 41A52|rimessa
 41A521|autorimessa
 41A53|rimessa
+41A531|panetteria
+41A532|capannone degli attrezzi
 41A54|muro
 41A54|palizzata
 41A54|recinto

@@ -320,6 +320,8 @@
 41A52|Wagenschuppen
 41A521|Garage
 41A53|Schuppen
+41A531|Backhaus
+41A532|Werkzeugschuppen
 41A54|Einfriedung
 41A54|Einschliessung
 41A54|Mauer

@@ -261,6 +261,8 @@
 41A52|coach-house
 41A521|garage
 41A53|shed
+41A531|bakehouse
+41A532|toolshed
 41A54|enclosure
 41A54|fence
 41A54|palisades

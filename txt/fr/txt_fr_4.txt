@@ -157,7 +157,9 @@
 41A512|arrière-cour
 41A52|remise pour carrosse
 41A521|garage
-41A53|abri, resserre
+41A53|abri, resserre, petit bâtiment à usage spécifique
+41A531|four à bois
+41A532|remise à outils
 41A54|barrière, palissade, mur
 41A541|balustrade
 41A542|porte, entrée

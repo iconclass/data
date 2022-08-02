@@ -157,7 +157,9 @@
 41A512|backyard
 41A52|coach-house
 41A521|garage
-41A53|shed
+41A53|shed, small building for a specific purpose
+41A531|bakehouse
+41A532|toolshed
 41A54|fence, wall, paling
 41A541|balustrade
 41A542|gate, entrance

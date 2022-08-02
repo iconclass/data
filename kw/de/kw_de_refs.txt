@@ -2542,6 +2542,10 @@ KW1 Daemon
 REF see also
 KW2 Teufel
 $
+KW1 Dalila
+REF see
+KW2 Delila
+$
 KW1 Damastes
 REF see
 KW2 Procrustes

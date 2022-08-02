@@ -156,7 +156,9 @@
 41A512|quintal
 41A52|cocheira
 41A521|garagem
-41A53|alpendre
+41A53|alpendre, pequeno edifício para um propósito específico
+41A531|padaria
+41A532|galpão de ferramentas
 41A54|cerca, muro, paliçada
 41A541|balaústrada
 41A542|portão, entrada 

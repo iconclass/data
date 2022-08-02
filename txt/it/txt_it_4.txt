@@ -157,7 +157,9 @@
 41A512|cortile posteriore
 41A52|rimessa
 41A521|autorimessa
-41A53|capannone
+41A53|capannone, piccolo edificio per uno scopo specifico
+41A531|panetteria
+41A532|capannone degli attrezzi
 41A54|recinto, muro, palizzata
 41A541|balaustrata
 41A542|cancello, entrata

@@ -246,6 +246,9 @@
 41A52|remise pour carrosse
 41A521|garage
 41A53|abri
+41A53|resserre
+41A531|four à bois
+41A532|remise à outils
 41A54|barrière
 41A54|enclos
 41A54|mur
