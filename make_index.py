@@ -7,6 +7,19 @@ import gzip
 from tqdm import tqdm
 
 
+def hier(data, n):
+    if n not in data:
+        return
+    obj = data.get(n)
+    nn = obj["N"][0]
+    yield nn
+    for C in obj.get("C", []):
+        for CC in hier(data, C):
+            yield CC
+    for k in obj.get("K", {"S": []})["S"]:
+        yield f"{nn}(+{k})"
+
+
 def get_parts(a):
     "Split an ICONCLASS notation up into a list of its parts"
     SPLITTER = re.compile(r"(\(.+?\))")
@@ -62,12 +75,19 @@ def lookup_text(n, txts, kwds):
         # This object should have K and S keys
         if key in obj_key.get("S", []):
             lookup_k = obj_key["K"][0] + key
-            t2 = txts.get(lookup_k, "") + kwds.get(lookup_k, "")
+            t2 = txts.get(lookup_k, "") + " " + kwds.get(lookup_k, "")
             if t2:
-                obj_t = f"{base_t} (+ {t2})"
+                obj_t = f"{base_t} {t2}"
             else:
                 raise TextNotFoundException(n)
     return f"{n} {obj_t}"
+    # buf = []
+    # for x in obj_t:
+    #     if x in "-():[].,":
+    #         x = " "
+    #     buf.append(x)
+
+    # return f"{n} {''.join(buf)}"
 
 
 def read_n(filename):
@@ -110,16 +130,17 @@ def read_txt(lang, kw_or_text):
                 if len(tmp) != 2:
                     continue
                 notation, txt = tmp
-                d[notation] = txt
+                if notation in d:
+                    d[notation] = d[notation] + "\n" + txt
+                else:
+                    d[notation] = txt
     return d
 
 
 def index(lang, lang_name, prime_content=False):
     txts = read_txt(lang, "txt")
     kwds = read_txt(lang, "kw")
-    all_notations = list(
-        enumerate(gzip.open("all_notations.gz", "rt").read().split("\n"))
-    )
+    all_notations = list(enumerate(set(hier(notations, ""))))
 
     Z = []
     with sqlite3.connect("iconclass_index.sqlite") as index_db:
@@ -147,14 +168,30 @@ def index(lang, lang_name, prime_content=False):
             tt = (row_id + 1, n, is_key, t)
             batch.append(tt)
             Z.append((row_id + 1, n, is_key, None))
-        # There is no feedback on progress if we do a single giant batch insert, split it up
-
+            if len(batch) > 99999:
+                ci.executemany(
+                    f"INSERT INTO {lang}(rowid, notation, is_key, text) VALUES (?, ?, ?, ?)",
+                    batch,
+                )
+                batch = []
         ci.executemany(
             f"INSERT INTO {lang}(rowid, notation, is_key, text) VALUES (?, ?, ?, ?)",
             batch,
         )
+
         if prime_content:
             ci.executemany(f"INSERT INTO notations VALUES (?, ?, ?, ?)", Z)
+
+        ci.execute("CREATE TABLE IF NOT EXISTS txts (notation, lang, txt)")
+        ci.execute("CREATE INDEX IF NOT EXISTS txts_notation ON txts (notation)")
+        ci.execute("CREATE TABLE IF NOT EXISTS kwds (notation, lang, kw)")
+        ci.execute("CREATE INDEX IF NOT EXISTS kwds_notation ON kwds (notation)")
+        ci.executemany(
+            "INSERT INTO txts VALUES (?, ?, ?)", [(k, lang, v) for k, v in txts.items()]
+        )
+        ci.executemany(
+            "INSERT INTO kwds VALUES (?, ?, ?)", [(k, lang, v) for k, v in kwds.items()]
+        )
 
 
 LANGUAGE_MAP = {
@@ -170,6 +207,7 @@ LANGUAGE_MAP = {
 keys = read_k("keys.txt")
 # if we first read the keys, we can add references in the notations...
 notations = read_n("notations.txt")
+notations[""] = {"C": [str(x) for x in range(10)], "N": ["ICONCLASS"]}
 
 if __name__ == "__main__":
     lang = sys.argv[1]
