@@ -320,6 +320,8 @@
 41A52|Wagenschuppen
 41A521|Garage
 41A53|Schuppen
+41A531|Backhaus
+41A532|Werkzeugschuppen
 41A54|Einfriedung
 41A54|Einschliessung
 41A54|Mauer
@@ -8998,6 +9000,8 @@
 48C6251|Kamera
 48C6251|Videokamera
 48C6252|Projektor
+48C6253|Zauberlaterne
+48C6253|Laterna magica
 48C63|Kinematographie
 48C63|Photographie
 48C63|Ursprung

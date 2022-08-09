@@ -157,7 +157,9 @@
 41A512|cortile posteriore
 41A52|rimessa
 41A521|autorimessa
-41A53|capannone
+41A53|capannone, piccolo edificio per uno scopo specifico
+41A531|panetteria
+41A532|capannone degli attrezzi
 41A54|recinto, muro, palizzata
 41A541|balaustrata
 41A542|cancello, entrata
@@ -5393,6 +5395,7 @@
 48C625|apparecchiatura cinematografica
 48C6251|telecamera, cinepresa
 48C6252|proiettore ~ apparecchiatura cinematografica
+48C6253|lanterna magica
 48C63|gli inizi della fotografia e della cinematografia
 48C7|musica
 48C70|'Musica'; rappresentazioni simboliche, allegorie ed emblemi ~ musica; 'Musica' (Ripa)

@@ -5382,6 +5382,7 @@
 #48C625|cinematographic apparatus
 #48C6251|film camera, movie camera, video camera
 #48C6252|film projector
+#48C6253|magic lantern
 #48C63|first beginnings of photography and cinematography
 #48C7|music
 #48C70|'Musica', symbolic representations, allegories and emblems ~ music; 'Musica'(Ripa)

@@ -261,6 +261,8 @@
 41A52|coach-house
 41A521|garage
 41A53|shed
+41A531|bakehouse
+41A532|toolshed
 41A54|enclosure
 41A54|fence
 41A54|palisades
@@ -7921,6 +7923,7 @@
 48C6251|movie camera
 48C6251|video camera
 48C6252|projector
+48C6253|magic lantern
 48C63|cinematography
 48C63|origin
 48C63|photography

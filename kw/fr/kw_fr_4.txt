@@ -246,6 +246,9 @@
 41A52|remise pour carrosse
 41A521|garage
 41A53|abri
+41A53|resserre
+41A531|four à bois
+41A532|remise à outils
 41A54|barrière
 41A54|enclos
 41A54|mur
@@ -7986,6 +7989,7 @@
 48C6251|caméra (film)
 48C6251|caméra pour vidéo
 48C6252|projecteur
+48C6253|lanterne magique
 48C63|cinématographie
 48C63|origine
 48C63|photographie

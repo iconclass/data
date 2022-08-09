@@ -157,7 +157,9 @@
 #41A512|backyard
 41A52|cochera
 41A521|garaje
-41A53|cobertizo
+41A53|cobertizo, pequeño edificio para un propósito específico
+41A531|pastelería
+41A532|cobertizo para herramientas
 41A54|cerco, muro, empalizada
 41A541|balaustrada
 41A542|puerta, entrada

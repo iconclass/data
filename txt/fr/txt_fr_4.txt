@@ -157,7 +157,9 @@
 41A512|arrière-cour
 41A52|remise pour carrosse
 41A521|garage
-41A53|abri, resserre
+41A53|abri, resserre, petit bâtiment à usage spécifique
+41A531|four à bois
+41A532|remise à outils
 41A54|barrière, palissade, mur
 41A541|balustrade
 41A542|porte, entrée
@@ -5394,6 +5396,7 @@
 48C625|appareils servant à la cinématographie
 48C6251|caméra (film), caméra pour vidéo
 48C6252|projecteur de film
+48C6253|lanterne magique
 48C63|les débuts de la photographie et du cinéma
 48C7|musique
 48C70|'Musica', représentations symboliques, allégories et emblèmes ~ musique; 'Musica' (Ripa)

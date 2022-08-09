@@ -157,7 +157,9 @@
 41A512|backyard
 41A52|coach-house
 41A521|garage
-41A53|shed
+41A53|shed, small building for a specific purpose
+41A531|bakehouse
+41A532|toolshed
 41A54|fence, wall, paling
 41A541|balustrade
 41A542|gate, entrance
@@ -5395,6 +5397,7 @@
 48C625|cinematographic apparatus
 48C6251|film camera, movie camera, video camera
 48C6252|film projector
+48C6253|magic lantern
 48C63|first beginnings of photography and cinematography
 48C7|music
 48C70|'Musica', symbolic representations, allegories and emblems ~ music; 'Musica'(Ripa)

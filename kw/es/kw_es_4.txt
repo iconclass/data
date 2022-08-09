@@ -261,6 +261,8 @@
 41A52|casa en coche
 41A521|garaje
 41A53|cobertizo
+41A531|pastelería
+41A532|herramientas
 41A54|recinto
 41A54|cerca
 41A54|empalizadas

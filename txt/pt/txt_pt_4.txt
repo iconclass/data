@@ -156,7 +156,9 @@
 41A512|quintal
 41A52|cocheira
 41A521|garagem
-41A53|alpendre
+41A53|alpendre, pequeno edifício para um propósito específico
+41A531|padaria
+41A532|galpão de ferramentas
 41A54|cerca, muro, paliçada
 41A541|balaústrada
 41A542|portão, entrada 
@@ -5309,6 +5311,7 @@
 48C625|aparato cinematográfico
 48C6251|câmara de filmar, câmara de vídeo
 48C6252|projector de filme
+48C6253|lanterna mágica
 48C63|os primórdios da fotografia e do cinema
 48C7|música
 48C70|"Musica", representações simbólicas, alegorias e emblemas ~ música; "Musica" (Ripa)

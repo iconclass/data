@@ -7920,6 +7920,7 @@
 48C6251|câmera de filme
 48C6251|câmera de vídeo
 48C6252|projetor
+48C6253|lanterna mágica
 48C63|cinematografia
 48C63|origem
 48C63|fotografia

@@ -261,6 +261,8 @@
 41A52|rimessa
 41A521|autorimessa
 41A53|rimessa
+41A531|panetteria
+41A532|capannone degli attrezzi
 41A54|muro
 41A54|palizzata
 41A54|recinto
@@ -8131,6 +8133,7 @@
 48C6251|telecamera
 48C6251|videocamera
 48C6252|proiettore
+48C6253|lanterna magica
 48C63|arte fotografica
 48C63|cinematografia
 48C63|origine

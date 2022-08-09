@@ -5148,7 +5148,7 @@
 73A522|Annunciazione: Maria seduta
 73A523|Annunciazione: Maria in ginocchio
 73A53|Maria e l'angelo rappresentati a mezza figura ~ Annunciazione
-73A54|Gabriele di congeda da Maria ~ Annunciazione
+73A54|Gabriele si congeda da Maria ~ Annunciazione
 73A55|virtù di Maria nell'Annunciazione
 73A56|Maria concepisce Gesù (l'angelo non è presente)
 73A57|Maria sospettata di adulterio
