@@ -1,0 +1,3201 @@
+11k0|variante
+11k1|Trinité
+11k11|Dieu
+11k111|rayon de lumière
+11k12|Christ
+11k121|barbe
+11k122|imberbe
+11k13|Saint-Esprit
+11k13|colombe
+11k2|Marie (Vierge)
+11k3|ange
+11k31|air (dans l')
+11k4|diable
+11k5|donateur
+11k5|saint
+11k5|patron
+11k5|suppliant
+12k0|variante
+23k0|variante
+23k1|zodiaque
+23k11|hiver
+23k111|Capricorn
+23k111|Capricorne
+23k112|Aquarius
+23k112|Verseau
+23k113|Pisces
+23k113|Poissons
+23k12|printemps
+23k121|Aries
+23k121|Bélier
+23k122|Taurus
+23k122|Taureau
+23k123|Gemini
+23k123|Gémeaux
+23k13|eté
+23k131|Cancer
+23k132|Leo
+23k132|Lion
+23k133|Virgo
+23k133|Vierge
+23k14|automne
+23k141|Libra
+23k141|Balance
+23k142|Scorpion
+23k143|Sagittarius
+23k143|Sagittaire
+23k2|planète
+23k21|hiver
+23k211|Saturne
+23k212|Jupiter
+23k213|Mars
+23k22|printemps
+23k221|Vénus
+23k222|Mercure
+23k223|Lune
+23k23|eté
+23k231|Sol (le Soleil)
+23k232|Mercure
+23k233|Vénus
+23k24|automne
+23k241|Mars
+23k242|Jupiter
+23k243|Saturne
+23k3|planète
+23k3|zodiaque
+23k31|hiver
+23k311|Saturne
+23k311|Capricorn
+23k311|Capricorne
+23k311|Aquarius
+23k311|Verseau
+23k312|Jupiter
+23k312|Aquarius
+23k312|Verseau
+23k312|Pisces
+23k312|Poissons
+23k313|Mars
+23k313|Pisces
+23k313|Poissons
+23k313|Aries
+23k313|Bélier
+23k32|printemps
+23k321|Vénus
+23k321|Aries
+23k321|Bélier
+23k321|Taurus
+23k321|Taureau
+23k322|Mercure
+23k322|Taurus
+23k322|Taureau
+23k322|Gemini
+23k322|Gémeaux
+23k323|Lune
+23k323|Gemini
+23k323|Gémeaux
+23k323|Cancer
+23k33|eté
+23k331|Sol (le Soleil)
+23k331|Cancer
+23k331|Leo
+23k331|Lion
+23k332|Mercure
+23k332|Leo
+23k332|Lion
+23k332|Virgo
+23k332|Vierge
+23k333|Vénus
+23k333|Virgo
+23k333|Vierge
+23k333|Libra
+23k333|Balance
+23k34|automne
+23k341|Mars
+23k341|Libra
+23k341|Balance
+23k341|Scorpion
+23k342|Jupiter
+23k342|Scorpion
+23k342|Sagittarius
+23k342|Sagittaire
+23k343|Saturne
+23k343|Sagittarius
+23k343|Sagittaire
+23k343|Capricorn
+23k343|Capricorne
+23k4|saison
+23k4|mois
+23k4|travail
+23k5|saison
+23k5|mois
+23k6|saison
+23k6|mois
+23k60|allégorie
+23k60|symbole
+23k61|activités
+23k61|travail
+23k61|occupations humaines
+23k62|paysage
+23k621|jardin
+23k63|nature morte
+25D11k0|variante
+25D11k1|pierre précieuse
+25D11k1|symbole
+25D11k11|lapidaire
+25D3k0|variante
+25D3k1|charbon
+25D3k11|lignite
+25D3k2|pierre
+25D3k21|gravier
+25D3k21|sable
+25D3k3|mineral
+25FFk0|variante
+25FFk1|membre
+25FFk1|organe
+25FFk1|grand
+25FFk11|nez
+25FFk11|défense
+25FFk12|oeil
+25FFk13|oreille
+25FFk14|bouche
+25FFk14|bec
+25FFk15|cou
+25FFk2|membre
+25FFk2|organe
+25FFk2|petit
+25FFk3|membre
+25FFk3|organe
+25FFk3|absence
+25FFk3|manque
+25FFk31|organes génitaux
+25FFk32|fesses
+25FFk4|membre
+25FFk4|organe
+25FFk4|multitude
+25FFk41|griffe
+25FFk41|pied
+25FFk42|aile
+25FFk43|queue
+25FFk5|membre
+25FFk5|organe
+25FFk51|peau
+25FFk52|cheveux
+25FFk52|plume
+25FFk53|muscle
+25FFk6|membre
+25FFk6|organe
+25FFk6|difformité
+25FFk70|variante
+25FFk71|symbole
+25FFk711|bestiaire
+25FFk711|Physiologus
+25FFk712|héraldique
+25FFk713|attribut
+25FFk714|caricature
+25FFk715|ornement
+25FFk7151|symétrie
+25FFk7152|joindre
+25FFk7153|entrelacer
+25FFk7154|symétrie
+25FFk72|procréation
+25FFk72|sexe
+25FFk72|âge
+25FFk721|jeune (animal)
+25FFk722|mâle
+25FFk723|femelle
+25FFk724|vieillesse
+25FFk73|anatomie
+25FFk731|squelette
+25FFk732|tronc (torse)
+25FFk7321|organes génitaux
+25FFk73211|mâle
+25FFk73212|femelle
+25FFk7322|fesses
+25FFk7323|entrailles
+25FFk733|tête (animal)
+25FFk7331|crâne
+25FFk7332|bois (cervidés)
+25FFk7332|ramure (cervidés)
+25FFk7332|corne
+25FFk7333|oreille
+25FFk7334|croc
+25FFk7334|défense
+25FFk7335|museau
+25FFk7335|joue
+25FFk7335|bec
+25FFk7336|langue
+25FFk7337|oeil
+25FFk734|membre
+25FFk7341|griffe
+25FFk7341|pied
+25FFk7342|aile
+25FFk7343|queue
+25FFk7349|trace
+25FFk7349|piste
+25FFk7351|peau
+25FFk7351|toison
+25FFk7351|fourrure
+25FFk7351|cuir
+25FFk7352|plume
+25FFk7353|écaille
+25FFk736|coquille
+25FFk736|coquille d'escargot
+25FFk74|comportement
+25FFk741|naissance
+25FFk7411|oeuf
+25FFk7412|couver
+25FFk7412|oeuf
+25FFk7413|larve
+25FFk7413|asticot
+25FFk7414|pupa
+25FFk742|nourrir
+25FFk742|soin
+25FFk742|jeune (animal)
+25FFk7421|nid
+25FFk7421|tanière
+25FFk7421|terrier
+25FFk7422|éduquer
+25FFk7422|jouer
+25FFk7429|tuer (animal)
+25FFk7431|courtiser
+25FFk7432|accoupler
+25FFk744|relations
+25FFk7441|troupeau
+25FFk7441|groupe
+25FFk7442|jouer
+25FFk745|manger
+25FFk745|boire
+25FFk7451|chercher
+25FFk7452|proie
+25FFk7459|défécation
+25FFk74591|crotte
+25FFk74591|fumier
+25FFk74591|excrément
+25FFk74591|fèces
+25FFk746|dormir
+25FFk7461|hibernation
+25FFk747|psychologie
+25FFk7471|instinct
+25FFk74711|migration
+25FFk74712|nid
+25FFk74712|hutte
+25FFk74712|toile d'araignée
+25FFk748|changement
+25FFk7481|saison
+25FFk74811|eté
+25FFk74812|hiver
+25FFk74813|métamorphose
+25FFk74814|rut
+25FFk74821|perdre
+25FFk74821|peau
+25FFk7483|protection
+25FFk7483|environnement
+25FFk74831|couleur
+25FFk749|communication
+25FFk749|acoustique
+25FFk749|rugir
+25FFk749|cri
+25FFk749|chanter
+25FFk749|aboyer
+25FFk749|miauler
+25FFk749|miaou
+25FFk749|hennir
+25FFk749|pépier
+25FFk749|son
+25FFk7491|agiter la queue
+25FFk7491|queue
+25FFk75|mouvement
+25FFk75|position
+25FFk751|combattre (animal)
+25FFk7511|menacer
+25FFk7512|attaquer
+25FFk7513|poursuivre
+25FFk7514|tuer (animal)
+25FFk7515|suicide
+25FFk75151|sacrifice de soi
+25FFk75211|marcher
+25FFk75212|courir
+25FFk75213|rouler
+25FFk75214|marcher
+25FFk75214|patte avant
+25FFk75214|debout sur la tête
+25FFk75215|monter à dos
+25FFk75215|monter à cheval
+25FFk75219|en arrière
+25FFk7522|vers le haut
+25FFk7522|en bas
+25FFk75221|sauter
+25FFk75222|monter
+25FFk75222|grimper
+25FFk75223|tirer
+25FFk75227|fouler aux pieds
+25FFk75227|taper du pied
+25FFk75231|tomber
+25FFk75232|porter
+25FFk75241|jetter
+25FFk75242|étendre
+25FFk75243|frapper
+25FFk75244|saisir
+25FFk75245|tenir
+25FFk75246|porter
+25FFk75247|tirer
+25FFk75247|hisser
+25FFk75248|pousser
+25FFk752481|tourner
+25FFk752481|cercle
+25FFk752481|roue
+25FFk752481|pivoter
+25FFk75251|s'enrouler
+25FFk75252|s'étirer
+25FFk75253|pivoter
+25FFk75253|tourner
+25FFk7526|air (dans l')
+25FFk75262|voler (dans l'air)
+25FFk75263|air (dans l')
+25FFk7527|eau
+25FFk75273|nager
+25FFk75274|flotter
+25FFk75278|émerger
+25FFk7531|debout
+25FFk7532|se pencher
+25FFk7533|agenouiller
+25FFk7534|s'accroupir
+25FFk7534|tapir
+25FFk7535|asseoir
+25FFk7536|coucher
+25FFk7537|suspendre
+25FFk75371|suspendre
+25FFk754|position
+25FFk754|tête (animal)
+25FFk7542|de côté
+25FFk7543|courber
+25FFk7543|en arrière
+25FFk7544|incliner
+25FFk7544|courber
+25FFk7544|en avant
+25FFk7547|épaule
+25FFk7547|regarder
+25FFk755|position
+25FFk755|griffe
+25FFk755|main
+25FFk755|patte avant
+25FFk7551|vers le haut
+25FFk7551|bras levé
+25FFk7552|bras étendu
+25FFk7552|en avant
+25FFk7553|bras étendu
+25FFk7553|de côté
+25FFk75541|coeur
+25FFk75542|plier
+25FFk75542|ventre
+25FFk75551|bras croisés
+25FFk7556|tête
+25FFk7556|visage
+25FFk75561|front
+25FFk75562|oeil
+25FFk75563|nez
+25FFk75564|bouche
+25FFk75565|oreille
+25FFk75571|toucher
+25FFk75571|saisir
+25FFk756|position
+25FFk756|patte postérieure
+25FFk7561|debout
+25FFk7561|patte postérieure
+25FFk7562|jambes croisées
+25FFk7562|asseoir
+25FFk757|expression
+25FFk7571|oeil
+25FFk7571|visage
+25FFk75711|regarder
+25FFk75711|vers le haut
+25FFk75712|regarder
+25FFk75712|en bas
+25FFk75713|regarder
+25FFk75713|de côté
+25FFk75717|regarder
+25FFk75717|en arrière
+25FFk7573|bouche
+25FFk7573|visage
+25FFk75731|sourire
+25FFk75732|bouche ouverte
+25FFk757321|langue
+25FFk75733|bouche ouverte
+25FFk757331|dent
+25FFk758|amabilité
+25FFk761|maladie
+25FFk762|plaie
+25FFk7621|frapper
+25FFk7621|tirer (arme)
+25FFk7621|attraper
+25FFk763|mort
+25FFk763|mourant
+25FFk764|tuer (animal)
+25FFk7641|abattre
+25FFk765|soin
+25FFk766|carcasse (animal)
+25FFk767|animal empaillé
+25FFk77|biologie
+25FFk77|investigation
+25FFk771|surveiller
+25FFk772|biologie
+25FFk772|expérimenter
+25FFk779|disparu
+25FFk78|être humain
+25FFk781|bétail
+25FFk782|animal domestique
+25FFk783|nettoyer
+25FFk783|laver
+25FFk783|panser
+25FFk789|médecine
+25FFk789|expérimenter
+25FFk7891|substitution
+25FFk7892|recherche scientifique
+25FFk7893|vivisection
+25FFk79|produit
+25FFk791|oeuf
+25FFk7911|ponte
+25FFk7911|ponte d'oeufs
+25FFk792|poison
+25FFk793|perle
+25Fk0|variante
+25Fk1|symbole
+25Fk11|bestiaire
+25Fk11|Physiologus
+25Fk12|héraldique
+25Fk13|attribut
+25Fk14|caricature
+25Fk15|ornement
+25Fk151|symétrie
+25Fk152|joindre
+25Fk153|entrelacer
+25Fk154|symétrie
+25Fk2|procréation
+25Fk2|sexe
+25Fk2|âge
+25Fk21|jeune (animal)
+25Fk22|mâle
+25Fk23|femelle
+25Fk24|vieillesse
+25Fk3|anatomie
+25Fk31|squelette
+25Fk32|tronc (torse)
+25Fk321|organes génitaux
+25Fk3211|mâle
+25Fk3212|femelle
+25Fk322|fesses
+25Fk323|entrailles
+25Fk33|tête (animal)
+25Fk331|crâne
+25Fk332|bois (cervidés)
+25Fk332|ramure (cervidés)
+25Fk332|corne
+25Fk333|oreille
+25Fk334|croc
+25Fk334|défense
+25Fk334|ivoire
+25Fk335|museau
+25Fk335|joue
+25Fk335|bec
+25Fk336|langue
+25Fk337|oeil
+25Fk34|membre
+25Fk341|griffe
+25Fk341|pied
+25Fk342|aile
+25Fk343|queue
+25Fk349|trace
+25Fk349|piste
+25Fk351|peau
+25Fk351|toison
+25Fk351|fourrure
+25Fk351|cuir
+25Fk352|plume
+25Fk353|écaille
+25Fk36|coquille
+25Fk36|coquille d'escargot
+25Fk4|comportement
+25Fk41|naissance
+25Fk411|oeuf
+25Fk412|couver
+25Fk412|oeuf
+25Fk413|larve
+25Fk413|asticot
+25Fk414|pupa
+25Fk42|nourrir
+25Fk42|soin
+25Fk42|jeune (animal)
+25Fk421|nid
+25Fk421|tanière
+25Fk421|terrier
+25Fk422|éduquer
+25Fk422|jouer
+25Fk429|tuer (animal)
+25Fk431|courtiser
+25Fk432|accoupler
+25Fk44|relations
+25Fk441|troupeau
+25Fk441|groupe
+25Fk442|jouer
+25Fk45|manger
+25Fk45|boire
+25Fk451|chercher
+25Fk452|proie
+25Fk459|défécation
+25Fk4591|crotte
+25Fk4591|fumier
+25Fk4591|excrément
+25Fk4591|fèces
+25Fk46|dormir
+25Fk461|hibernation
+25Fk47|psychologie
+25Fk471|instinct
+25Fk4711|migration
+25Fk4712|nid
+25Fk4712|hutte
+25Fk4712|toile d'araignée
+25Fk48|changement
+25Fk481|saison
+25Fk4811|eté
+25Fk4812|hiver
+25Fk4813|métamorphose
+25Fk4814|rut
+25Fk4821|perdre
+25Fk4821|peau
+25Fk483|protection
+25Fk483|environnement
+25Fk4831|couleur
+25Fk49|communication
+25Fk49|acoustique
+25Fk49|rugir
+25Fk49|cri
+25Fk49|chanter
+25Fk49|aboyer
+25Fk49|miauler
+25Fk49|miaou
+25Fk49|hennir
+25Fk49|pépier
+25Fk49|son
+25Fk491|agiter la queue
+25Fk491|queue
+25Fk5|mouvement
+25Fk5|position
+25Fk51|combattre (animal)
+25Fk511|menacer
+25Fk512|attaquer
+25Fk513|poursuivre
+25Fk514|tuer (animal)
+25Fk515|suicide
+25Fk5151|sacrifice de soi
+25Fk5211|marcher
+25Fk5212|courir
+25Fk5213|rouler
+25Fk5214|marcher
+25Fk5214|patte avant
+25Fk5214|debout sur la tête
+25Fk5215|monter à dos
+25Fk5215|monter à cheval
+25Fk5219|en arrière
+25Fk522|vers le haut
+25Fk522|en bas
+25Fk5221|sauter
+25Fk5222|monter
+25Fk5222|grimper
+25Fk5223|tirer
+25Fk5227|fouler aux pieds
+25Fk5227|taper du pied
+25Fk5231|tomber
+25Fk5232|porter
+25Fk5241|jetter
+25Fk5242|étendre
+25Fk5243|frapper
+25Fk5244|saisir
+25Fk5245|tenir
+25Fk5246|porter
+25Fk5247|tirer
+25Fk5247|hisser
+25Fk5248|pousser
+25Fk52481|tourner
+25Fk52481|cercle
+25Fk52481|roue
+25Fk52481|pivoter
+25Fk5251|s'enrouler
+25Fk5252|s'étirer
+25Fk5253|pivoter
+25Fk5253|tourner
+25Fk526|air (dans l')
+25Fk5262|voler (dans l'air)
+25Fk5263|air (dans l')
+25Fk527|eau
+25Fk5273|nager
+25Fk5274|flotter
+25Fk5278|émerger
+25Fk531|debout
+25Fk532|se pencher
+25Fk533|agenouiller
+25Fk534|s'accroupir
+25Fk534|tapir
+25Fk535|asseoir
+25Fk536|coucher
+25Fk537|suspendre
+25Fk5371|suspendre
+25Fk54|position
+25Fk54|tête (animal)
+25Fk542|de côté
+25Fk543|courber
+25Fk543|en arrière
+25Fk544|incliner
+25Fk544|courber
+25Fk544|en avant
+25Fk547|épaule
+25Fk547|regarder
+25Fk55|position
+25Fk55|griffe
+25Fk55|main
+25Fk55|patte avant
+25Fk551|vers le haut
+25Fk551|bras levé
+25Fk552|bras étendu
+25Fk552|en avant
+25Fk553|bras étendu
+25Fk553|de côté
+25Fk5541|coeur
+25Fk5542|plier
+25Fk5542|ventre
+25Fk5551|bras croisés
+25Fk556|tête
+25Fk556|visage
+25Fk5561|front
+25Fk5562|oeil
+25Fk5563|nez
+25Fk5564|bouche
+25Fk5565|oreille
+25Fk5571|toucher
+25Fk5571|saisir
+25Fk56|position
+25Fk56|patte postérieure
+25Fk561|debout
+25Fk561|patte postérieure
+25Fk562|jambes croisées
+25Fk562|asseoir
+25Fk57|expression
+25Fk571|oeil
+25Fk571|visage
+25Fk5711|regarder
+25Fk5711|vers le haut
+25Fk5712|regarder
+25Fk5712|en bas
+25Fk5713|regarder
+25Fk5713|de côté
+25Fk5717|regarder
+25Fk5717|en arrière
+25Fk573|bouche
+25Fk573|visage
+25Fk5731|sourire
+25Fk5732|bouche ouverte
+25Fk57321|langue
+25Fk5733|bouche ouverte
+25Fk57331|dent
+25Fk58|amabilité
+25Fk61|maladie
+25Fk62|plaie
+25Fk621|frapper
+25Fk621|tirer (arme)
+25Fk621|attraper
+25Fk63|mort
+25Fk63|mourant
+25Fk64|tuer (animal)
+25Fk641|abattre
+25Fk65|soin
+25Fk66|carcasse (animal)
+25Fk67|animal empaillé
+25Fk7|biologie
+25Fk7|investigation
+25Fk71|surveiller
+25Fk72|biologie
+25Fk72|expérimenter
+25Fk79|disparu
+25Fk8|être humain
+25Fk81|bétail
+25Fk82|animal domestique
+25Fk83|nettoyer
+25Fk83|laver
+25Fk83|panser
+25Fk89|médecine
+25Fk89|expérimenter
+25Fk891|substitution
+25Fk892|recherche scientifique
+25Fk893|vivisection
+25Fk9|produit
+25Fk91|oeuf
+25Fk911|ponte
+25Fk911|ponte d'oeufs
+25Fk92|poison
+25Fk93|perle
+25Gk0|variante
+25Gk1|plante
+25Gk1|symbole
+25Gk11|floralia
+25Gk11|floralies
+25Gk12|héraldique
+25Gk13|attribut
+25Gk14|plante
+25Gk14|caricature
+25Gk15|ornement
+25Gk2|plante
+25Gk21|tronc d'arbre
+25Gk211|souche
+25Gk211|chicot
+25Gk22|branche
+25Gk22|bâton
+25Gk221|petite branche
+25Gk221|brindille
+25Gk222|petite branche
+25Gk222|brindille
+25Gk222|épine
+25Gk223|épine
+25Gk223|piquant
+25Gk224|paquet
+25Gk224|poignée
+25Gk224|petite branche
+25Gk224|brindille
+25Gk224|fagot
+25Gk225|flétri
+25Gk23|sommet
+25Gk24|racine
+25Gk24|tubercule
+25Gk241|racine aérienne
+25Gk25|vrille
+25Gk26|bulbe
+25Gk27|feuille
+25Gk3|plante
+25Gk31|bourgeon
+25Gk32|fleur
+25Gk32|fleurs
+25Gk32|fleurir
+25Gk32|floraison
+25Gk33|feuille
+25Gk33|pousser (feuilles)
+25Gk34|fruit
+25Gk341|perdre
+25Gk341|tomber
+25Gk35|flétri
+25Gk35|feuille
+25Gk35|fleur
+25Gk351|plante dépouillée
+25Gk36|âge
+25Gk361|jeune
+25Gk362|maturité
+25Gk363|âge
+25Gk363|vieillesse
+25Gk37|plante morte
+25Gk371|mort
+25Gk371|flétri
+25Hk0|variante
+25Hk1|figure humaine
+25Hk1|staffage
+25Hk1|garniture
+25Ik0|variante
+25Ik1|figure humaine
+25Ik1|staffage
+25Ik1|garniture
+25Kk0|variante
+25Kk1|figure humaine
+25Kk1|staffage
+25Kk1|garniture
+25Lk0|variante
+25Lk1|figure humaine
+25Lk1|staffage
+25Lk1|garniture
+2k0|variante
+31A42k0|variante
+31A42k1|membre
+31A42k1|organe
+31A42k1|grand
+31A42k11|nez
+31A42k12|oeil
+31A42k13|oreille
+31A42k14|bouche
+31A42k141|langue
+31A42k142|lèvre
+31A42k15|cou
+31A42k2|membre
+31A42k2|organe
+31A42k2|petit
+31A42k21|poitrine
+31A42k21|sein
+31A42k3|membre
+31A42k3|organe
+31A42k3|absence
+31A42k3|manque
+31A42k31|organes génitaux
+31A42k32|fesses
+31A42k4|membre
+31A42k4|organe
+31A42k4|multitude
+31A42k41|main
+31A42k42|doigt
+31A42k5|jambe
+31A42k51|pied
+31A42k52|orteil
+31A42k6|difformité
+31A42k61|peau
+31A42k62|cheveux
+31A42k63|muscle
+31A44k0|variante
+31A44k1|membre
+31A44k1|organe
+31A44k1|grand
+31A44k11|nez
+31A44k12|oeil
+31A44k13|oreille
+31A44k14|bouche
+31A44k141|langue
+31A44k142|lèvre
+31A44k15|cou
+31A44k2|membre
+31A44k2|organe
+31A44k2|petit
+31A44k21|poitrine
+31A44k21|sein
+31A44k3|membre
+31A44k3|organe
+31A44k3|absence
+31A44k3|manque
+31A44k31|organes génitaux
+31A44k32|fesses
+31A44k4|membre
+31A44k4|organe
+31A44k4|multitude
+31A44k41|main
+31A44k42|doigt
+31A44k5|jambe
+31A44k51|pied
+31A44k52|orteil
+31A44k6|difformité
+31A44k61|peau
+31A44k62|cheveux
+31A44k63|muscle
+31A45k0|variante
+31A45k1|tête
+31A45k1|visage
+31A45k1|tête (animal)
+31A45k2|corps
+31A45k21|poitrine
+31A45k21|sein
+31A45k22|ventre
+31A45k221|organes génitaux
+31A45k222|fesses
+31A45k23|queue
+31A45k3|jambe
+31A45k3|aile
+31A45k31|griffe
+31A45k31|pied
+31A45k41|peau
+31A45k42|cheveux
+31A45k42|plume
+31A54k0|variante
+31E23k0|variante
+31E23k1|assassiner
+31E23k2|assassiner
+31E23k21|lyncher
+31E23k3|combattre
+31E23k31|bagarre aux poings
+31E23k311|duel
+31E23k32|voler (dérober)
+31E23k33|guerre
+31E23k4|chevalet
+31E23k4|torturer
+31E23k41|inquisition
+31E23k42|instrument
+31E23k5|martyr
+31E23k6|exécution
+31E23k61|instrument
+31E23k7|suicide
+31E23k71|sacrifice de soi
+31E23k72|désespoir
+31E23k79|tentative de suicide
+31E23k791|empêcher
+31E23k8|médecine
+31E23k9|trouver
+31E23k9|cadavre
+31E23k9|mourant
+31F2k0|variante
+31F2k1|monter à cheval
+31F2k2|monter à dos
+31F2k2|boeuf
+31F2k3|arc et flèche
+31F2k4|faux
+31F2k5|instrument de musique
+31F2k6|couronne
+31k0|variante
+31k1|vue de face
+31k2|vu de dos
+31k21|profil perdu
+31k21|profil
+31k3|profil
+31k31|gauche (contraire de droite)
+31k32|droit (contraire de gauche)
+31k33|vue panoramique
+31k4|trois-quarts
+31k5|position
+31k51|debout
+31k511|debout sur la tête
+31k52|se pencher
+31k53|asseoir
+31k54|agenouiller
+31k55|terre
+31k55|asseoir
+31k56|coucher
+31k57|suspendre
+31k571|tête en bas
+31k6|direction
+31k6|mouvement
+31k61|en avant
+31k62|en arrière
+31k63|vers le haut
+31k64|en bas
+31k65|de côté
+31k66|tourner
+31k66|cercle
+31k7|nombre
+31k71|un
+31k72|deux
+31k73|trois
+31k74|quatre
+31k75|cinq
+31k76|six
+31k77|sept
+31k78|huit
+31k79|groupe
+31k8|sexe
+31k8|âge
+31k81|homme
+31k81|mâle
+31k811|jeune
+31k811|jeune homme
+31k812|adulte
+31k813|vieillard
+31k82|femme
+31k821|jeune
+31k821|jeune homme
+31k821|fille
+31k822|adulte
+31k823|vieille femme
+31k89|nu
+31k9|expression
+31k91|amabilité
+31k911|saluer
+31k911|honorer
+31k9111|remercier
+31k9112|inviter
+31k9113|adieux
+31k912|joie
+31k912|rire
+31k9121|féliciter
+31k9129|condoléances
+31k913|agiter
+31k9131|faire signe
+31k914|pardonner
+31k9141|réconciliation
+31k915|bénir
+31k916|aide
+31k9161|protection
+31k9162|sauver
+31k9163|libérer
+31k9164|consoler
+31k917|demander
+31k918|caresser
+31k918|amour
+31k918|courtiser
+31k92|agression
+31k921|colère
+31k921|menacer
+31k9211|accuser
+31k9212|défier
+31k9213|conspiration
+31k9213|comploter
+31k922|combattre
+31k9221|querelle
+31k9222|bagarre aux poings
+31k9223|attaquer
+31k9224|poursuivre
+31k9225|tuer
+31k923|défense
+31k9232|refuser
+31k924|peur
+31k924|soupçon
+31k925|peur
+31k926|désespoir
+31k927|punition
+31k9271|châtiment
+31k928|moquer
+31k9281|rire
+31k931|indiquer
+31k932|adresser
+31k9321|parler
+31k9322|ordonner
+31k9322|commander
+31k9323|demander
+31k93231|demander
+31k93231|mendiant
+31k9324|avertir
+31k9324|admonester
+31k9325|se plaindre
+31k933|tenir
+31k9331|draperie
+31k9331|vent
+31k934|toucher
+31k934|saisir
+31k934|étendre
+31k9341|donner
+31k935|recevoir
+31k936|s'étirer
+31k937|arranger ses vêtements
+31k937|vêtements
+31k9371|déshabiller
+31k9371|habiller
+31k938|méditer
+31k938|pensée
+31k94|tristesse
+31k941|souffrance
+31k941|chagrin
+31k941|tristesse
+31k9411|avoir du chagrin
+31k9411|être peiné
+31k9411|pleurer
+31k9411|deuil
+31k9411|pleurer la mort
+31k9411|lamenter
+31k9412|peine
+31k9412|chagrin
+31k9412|douleur
+31k9412|chagrin d'amour
+31k94121|soupirs
+31k942|amère
+31k942|amertune
+31k943|tourmenter
+32Bk0|variante
+32Bk1|anthropologie
+32Bk2|homme primitif
+32Bk3|costume
+32Bk5|âge
+32Bk5|sexe
+32Bk51|homme
+32Bk52|femme
+32Bk53|bébé
+32Bk53|jeune
+32Bk53|enfant
+32Bk54|adulte
+32Bk55|vieillesse
+32Bk9|caricature
+34k0|variante
+34k1|nourrir
+34k11|donner de l'eau
+34k19|défécation
+34k21|étable
+34k21|abri
+34k21|chenil
+34k21|niche
+34k22|cage
+34k22|cage à oiseaux
+34k3|hygiène
+34k3|soin
+34k31|laver
+34k32|panser
+34k41|tailler
+34k42|écourter
+34k42|queue
+34k43|tondre
+34k5|sexe
+34k51|mâle
+34k511|castration
+34k52|femelle
+34k53|jeune (animal)
+34k6|déharnacher
+34k6|selle
+34k61|déharnacher
+34k7|dressage
+34k7|spectacle
+34k8|élevage
+34k90|variante
+34k91|symbole
+34k911|bestiaire
+34k911|Physiologus
+34k912|héraldique
+34k913|attribut
+34k914|caricature
+34k915|ornement
+34k9151|symétrie
+34k9152|joindre
+34k9153|entrelacer
+34k9154|symétrie
+34k92|procréation
+34k92|sexe
+34k92|âge
+34k921|jeune (animal)
+34k922|mâle
+34k923|femelle
+34k924|vieillesse
+34k93|anatomie
+34k931|squelette
+34k932|tronc (torse)
+34k9321|organes génitaux
+34k93211|mâle
+34k93212|femelle
+34k9322|fesses
+34k9323|entrailles
+34k933|tête (animal)
+34k9331|crâne
+34k9332|bois (cervidés)
+34k9332|ramure (cervidés)
+34k9332|corne
+34k9333|oreille
+34k9334|croc
+34k9334|défense
+34k9335|museau
+34k9335|joue
+34k9335|bec
+34k9336|langue
+34k9337|oeil
+34k934|membre
+34k9341|griffe
+34k9341|pied
+34k9342|aile
+34k9343|queue
+34k9349|trace
+34k9349|piste
+34k9351|peau
+34k9351|toison
+34k9351|fourrure
+34k9351|cuir
+34k9352|plume
+34k9353|écaille
+34k936|coquille
+34k936|coquillage
+34k936|coquille d'escargot
+34k94|comportement
+34k941|naissance
+34k9411|oeuf
+34k9412|couver
+34k9412|oeuf
+34k9413|larve
+34k9413|asticot
+34k9414|pupa
+34k942|nourrir
+34k942|soin
+34k942|jeune (animal)
+34k9421|nid
+34k9421|tanière
+34k9421|terrier
+34k9422|éduquer
+34k9422|jouer
+34k9429|tuer (animal)
+34k9431|courtiser
+34k9432|accoupler
+34k944|relations
+34k9441|troupeau
+34k9441|groupe
+34k9442|jouer
+34k945|manger
+34k945|boire
+34k9451|chercher
+34k9452|proie
+34k9459|défécation
+34k94591|crotte
+34k94591|fumier
+34k94591|excrément
+34k94591|fèces
+34k946|dormir
+34k9461|hibernation
+34k947|psychologie
+34k9471|instinct
+34k94711|migration
+34k94712|nid
+34k94712|hutte
+34k94712|toile d'araignée
+34k948|changement
+34k9481|saison
+34k94811|eté
+34k94812|hiver
+34k94813|métamorphose
+34k94814|rut
+34k94821|perdre
+34k94821|peau
+34k9483|protection
+34k9483|environnement
+34k94831|couleur
+34k949|communication
+34k949|acoustique
+34k949|rugir
+34k949|cri
+34k949|chanter
+34k949|aboyer
+34k949|miauler
+34k949|miaou
+34k949|hennir
+34k949|pépier
+34k949|son
+34k9491|agiter la queue
+34k9491|queue
+34k95|mouvement
+34k95|position
+34k951|combattre (animal)
+34k9511|menacer
+34k9512|attaquer
+34k9513|poursuivre
+34k9514|tuer (animal)
+34k9515|suicide
+34k95151|sacrifice de soi
+34k95211|marcher
+34k95212|courir
+34k95213|rouler
+34k95214|marcher
+34k95214|patte avant
+34k95214|debout sur la tête
+34k95215|monter à dos
+34k95215|monter à cheval
+34k95219|en arrière
+34k9522|vers le haut
+34k9522|en bas
+34k95221|sauter
+34k95222|monter
+34k95222|grimper
+34k95223|tirer
+34k95227|fouler aux pieds
+34k95227|taper du pied
+34k95231|tomber
+34k95232|porter
+34k95241|jetter
+34k95242|étendre
+34k95243|frapper
+34k95244|saisir
+34k95245|tenir
+34k95246|porter
+34k95247|tirer
+34k95247|hisser
+34k95248|pousser
+34k952481|tourner
+34k952481|cercle
+34k952481|roue
+34k952481|pivoter
+34k95251|s'enrouler
+34k95252|s'étirer
+34k95253|pivoter
+34k95253|tourner
+34k9526|air (dans l')
+34k95262|voler (dans l'air)
+34k95263|air (dans l')
+34k9527|eau
+34k95273|nager
+34k95274|flotter
+34k95278|émerger
+34k9531|debout
+34k9532|se pencher
+34k9533|agenouiller
+34k9534|s'accroupir
+34k9534|tapir
+34k9535|asseoir
+34k9536|coucher
+34k9537|suspendre
+34k95371|suspendre
+34k954|position
+34k954|tête (animal)
+34k9542|de côté
+34k9543|courber
+34k9543|en arrière
+34k9544|incliner
+34k9544|courber
+34k9544|en avant
+34k9547|épaule
+34k9547|regarder
+34k955|position
+34k955|griffe
+34k955|main
+34k955|patte avant
+34k9551|vers le haut
+34k9551|bras levé
+34k9552|bras étendu
+34k9552|en avant
+34k9553|bras étendu
+34k9553|de côté
+34k95541|coeur
+34k95542|plier
+34k95542|ventre
+34k95551|bras croisés
+34k9556|tête
+34k9556|visage
+34k95561|front
+34k95562|oeil
+34k95563|nez
+34k95564|bouche
+34k95565|oreille
+34k95571|toucher
+34k95571|saisir
+34k956|position
+34k956|patte postérieure
+34k9561|debout
+34k9561|patte postérieure
+34k9562|jambes croisées
+34k9562|asseoir
+34k957|expression
+34k9571|oeil
+34k9571|visage
+34k95711|regarder
+34k95711|vers le haut
+34k95712|regarder
+34k95712|en bas
+34k95713|regarder
+34k95713|de côté
+34k95717|regarder
+34k95717|en arrière
+34k9573|bouche
+34k9573|visage
+34k95731|sourire
+34k95732|bouche ouverte
+34k957321|langue
+34k95733|bouche ouverte
+34k957331|dent
+34k958|amabilité
+34k961|maladie
+34k962|plaie
+34k9621|frapper
+34k9621|tirer (arme)
+34k9621|attraper
+34k963|mort
+34k963|mourant
+34k964|tuer (animal)
+34k9641|abattre
+34k965|soin
+34k966|carcasse (animal)
+34k967|animal empaillé
+34k97|biologie
+34k97|investigation
+34k971|surveiller
+34k972|biologie
+34k972|expérimenter
+34k979|disparu
+34k98|être humain
+34k981|bétail
+34k982|animal domestique
+34k983|nettoyer
+34k983|laver
+34k983|panser
+34k989|médecine
+34k989|expérimenter
+34k9891|substitution
+34k9892|recherche scientifique
+34k9893|vivisection
+34k991|oeuf
+34k9911|ponte
+34k9911|ponte d'oeufs
+34k992|poison
+34k993|perle
+3k0|variante
+41B3k0|variante
+41B3k1|allumer
+41B3k1|brûler
+41B3k2|éteindre
+41B3k3|donner
+41Dk0|variante
+41Dk1|vêtements
+41Dk1|tailleur
+41Dk21|mesurer
+41Dk22|couper
+41Dk23|coudre
+41Dk24|essayage
+41Dk3|patron (couture)
+41Dk4|matière
+41Dk41|tissu
+41Dk411|dentelle
+41Dk42|cuir
+41Dk43|fourrure
+41Dk44|plume
+41Dk5|habiller
+41Dk6|déshabiller
+41Dk7|loques
+41Dk7|déchirer ses vêtements
+41Dk81|vêtements pour homme
+41Dk811|travesti
+41Dk82|vêtements pour femme
+41Dk821|travesti
+41Dk83|vêtements pour enfant
+41Dk831|vêtements pour garçon
+41Dk832|fille
+41k0|variante
+41k1|métal
+41k2|pierre
+41k3|céramique
+41k3|verre
+41k4|bois
+41k4|matière végétale
+41k5|matière animale
+41k6|matière synthétique
+41k9|casser
+41k9|briser
+41k9|dommage
+43Ak0|variante
+43Ak1|décoration
+43Ak11|illumination
+43Ak11|feu d'artifice
+43Ak12|couronne
+43Ak12|guirlande
+43Ak13|mât
+43Ak2|spectacle fastueux
+43Ak2|parade
+43Ak2|défilé
+43Ak2|cortège
+43Ak2|cavalcade
+43Ak21|char
+43Ak21|chariot
+43Ak3|jouer de la musique
+43Ak3|chanter
+43Ak4|danser
+43Ak5|bal costumé
+43Ak5|costume
+43Ak5|déguisement
+43Ak6|manger
+43Ak6|boire
+43Ak7|combat
+43Ak7|compétition
+43Ak71|jeux
+43Ak8|discours
+43Ak8|adresser
+43Ak9|public
+43Ak91|acclamations
+43Ak91|applaudissement
+43Ak92|siffler
+43Ak92|sifflet (fêtes)
+43B3k0|variante
+43B3k1|servir
+43B3k11|serveur
+43B3k11|serveuse
+43B3k12|menu
+43B3k12|carte du jour
+43B3k13|aubergiste
+43B3k13|patron
+43B3k13|hôte
+43B3k2|ordonner
+43B3k2|commander
+43B3k21|servir
+43B3k29|se plaindre
+43B3k3|payer
+43B3k3|régler
+43B3k3|facture
+43B3k4|partir
+43B3k4|quitter
+43B3k9|expulser
+43C1k0|variante
+43C1k1|sportif
+43C1k1|joueur (jeux)
+43C1k11|dressage
+43C1k12|équipement
+43C1k2|combat
+43C1k2|compétition
+43C1k221|supporter
+43C1k23|juge
+43C1k23|arbitre
+43C1k24|public
+43C1k25|défier
+43C1k26|préparatifs
+43C1k3|résultat
+43C1k31|vainqueur
+43C1k311|prix
+43C1k311|couronne
+43C1k3111|couronne
+43C1k3111|médaille
+43C1k3111|coupe
+43C1k32|perdant
+43C1k321|mépris
+43C1k322|consoler
+43C1k3221|prix
+43C1k4|équipement de sport
+43C1k41|vêtements
+43C1k41|équipement
+43C1k41|arme
+43C1k4111|lance
+43C1k4112|arc et flèche
+43C1k4113|sarbacane
+43C1k4114|boomerang
+43C1k412|armes à feu
+43C1k413|lasso
+43C1k414|piège
+43C1k4141|piège
+43C1k4142|fosse
+43C1k4142|embûche
+43C1k415|filet
+43C1k416|pêcher
+43C1k4161|canne à pêche
+43C1k41611|moulinet
+43C1k41612|ligne
+43C1k41613|flotteur
+43C1k41614|hameçon
+43C1k41621|trident
+43C1k4163|filet
+43C1k4164|piège
+43C1k4165|manne à poisson
+43C1k4165|corbeille
+43C1k4166|banneton
+43C1k4171|couteau
+43C1k42|animal
+43C1k42|chasser
+43C1k421|chien
+43C1k421|chien de chasse
+43C1k422|guépard
+43C1k422|chasse avec des guépards
+43C1k423|cheval
+43C1k424|oiseau
+43C1k4241|faucon
+43C1k4241|épervier
+43C1k4241|fauconnerie
+43C1k4242|aigle
+43C1k425|poisson
+43C1k425|appât
+43C1k43|leurre
+43C1k431|nourriture
+43C1k432|appeau
+43C1k433|imitation
+43C1k5|club
+43C1k51|équipe
+43C1k6|dehors
+43C1k61|à l'intérieur
+43C1k8|querelle
+43C1k81|faute (sport)
+43C1k81|tromperie
+43C1k81|tricherie
+43C1k81|conduite déloyale
+43C1k9|accident
+43Ck0|variante
+43Ck1|sportif
+43Ck1|joueur (jeux)
+43Ck11|dressage
+43Ck12|équipement
+43Ck2|combat
+43Ck2|compétition
+43Ck221|supporter
+43Ck23|juge
+43Ck23|arbitre
+43Ck24|public
+43Ck25|défier
+43Ck26|préparatifs
+43Ck29|reposer
+43Ck29|pause
+43Ck29|mi-temps
+43Ck29|intervalle
+43Ck3|résultat
+43Ck31|vainqueur
+43Ck311|recevoir
+43Ck311|prix
+43Ck311|couronne
+43Ck3111|couronne
+43Ck3111|médaille
+43Ck3111|coupe
+43Ck32|perdant
+43Ck321|mépris
+43Ck322|consoler
+43Ck3221|prix
+43Ck4|équipement de sport
+43Ck41|vêtements
+43Ck41|équipement
+43Ck5|club
+43Ck51|équipe
+43Ck6|dehors
+43Ck61|à l'intérieur
+43Ck8|querelle
+43Ck81|faute (sport)
+43Ck81|tromperie
+43Ck81|tricherie
+43Ck81|conduite déloyale
+43Ck9|accident
+44Ak0|variante
+44Ak1|alliance
+44Ak1|symbole supranational
+44Ak1|symbole international
+44Ak3|province
+44Ak4|ville
+44Ak4|symbole de la ville
+44Ak5|organisation
+44Ak6|église
+44Ak6|monastère
+44Ak6|symbole ecclésiastique
+44Gk0|variante
+44Gk1|tribunal
+44Gk1|édifice
+44Gk1|bâtiment
+44Gk11|salle d'audience
+44Gk11|chambre
+44Gk12|prison
+44Gk12|cellule
+44Gk13|maison de correction
+44Gk14|exécution
+44Gk2|juge
+44Gk2|tribunal
+44Gk21|officiel
+44Gk22|geôlier
+44Gk22|directeur
+44Gk22|gardien
+44Gk23|jury
+44Gk24|témoin
+44Gk25|avocat
+44Gk26|police
+44Gk27|accuser
+44Gk28|criminel
+44Gk31|Rechtsaltertümer
+44Gk32|menottes
+44Gk32|chaînes
+44Gk33|instrument
+44Gk34|instrument
+44Gk35|fasces cum securibus
+44Gk39|costume
+44Gk4|tribunal
+44Gk41|cour pénale
+44Gk42|tribunal de police
+44Gk43|justice sommaire
+44Gk43|justice
+44Gk43|tribunal militaire
+44Gk44|cour d'assises
+44Gk45|cour d'appel
+44Gk46|cour d'appel
+44Gk46|cour de cassation
+44Gk47|tribunal ecclésiastique
+44Gk47|cour canonique
+44Gk48|tribunal
+44Gk481|industrie
+44Gk482|tribunal de la marine
+44Gk483|tribunal militaire
+44Gk484|tribunal du commerce
+44Gk49|arbitrage
+44Gk51|arrestation
+44Gk511|transporter
+44Gk512|flagrant délit
+44Gk512|attraper
+44Gk52|entendre
+44Gk52|audition
+44Gk52|interrogation
+44Gk53|accuser
+44Gk54|plaider
+44Gk55|verdict
+44Gk551|acquittement
+44Gk56|prison
+44Gk561|châtiment
+44Gk561|châtiment public
+44Gk57|exécution
+44Gk571|torturer
+44Gk58|bannir
+44Gk58|exil
+44Gk59|relâcher
+44Gk591|échapper
+44Gk6|loi
+44Gk6|abus
+44Gk6|corruption
+44Gk6|injustice
+44Gk61|acquittement
+44Gk61|culpabilité
+44Gk62|verdict
+44Gk62|punition
+44Gk62|innocence
+45k0|variante
+45k1|bataille
+45k2|armée
+45k21|infanterie
+45k211|troupes de parachutistes
+45k212|marines (soldat)
+45k22|cavalerie
+45k22|monter à dos
+45k221|chameau
+45k221|éléphant
+45k23|troupes motorisées
+45k231|chariot
+45k231|char
+45k232|voiture blindé
+45k232|tank
+45k24|artillerie
+45k25|corps auxiliaires
+45k26|garde civile
+45k26|citoyen
+45k27|partisan
+45k27|franc-tireur
+45k28|mercenaire
+45k28|lansquenet
+45k28|troupe
+45k29|troupes irrégulièrES
+45k29|troupe
+45k3|marine
+45k3|bateau
+45k31|galère
+45k32|voilier
+45k33|bateaux à moteur
+45k34|bateaux auxiliaires
+45k35|navire de débarquement
+45k4|armée de l'air
+45k41|avion de combat
+45k41|chasseur (avion)
+45k41|avion
+45k42|bombardier
+45k42|avion
+45k43|transporter
+45k43|avion
+45k44|ballon
+45k441|dirigeable
+45k45|aérodrome
+45k45|terrain d'aviation
+45k5|rang
+45k5|troupe
+45k5|soldat
+45k51|commandant
+45k52|officier
+45k53|soldat
+45k53|soldat (simple)
+45k54|diviser
+45k541|bataillon
+45k541|régiment
+45k541|division
+45k542|troupe
+45k6|arme
+45k61|distribuer
+45k611|fournir
+45k62|transporter
+45k63|manipuler
+45k631|entretien
+45k64|inspecter
+45k65|désarmement
+45k66|jetter
+45k67|ornement
+45k69|destruction
+45k7|terrain
+45k71|forêt
+45k72|édifice
+45k72|bâtiment
+45k73|rivière
+45k73|rivage
+45k73|eaux
+45k73|rive
+45k731|débarquement
+45k74|montagne
+45k75|forteresse
+45k75|murailles
+46Ck0|variante
+46Ck11|extérieur
+46Ck12|intérieur
+46Ck13|intérieur
+46Ck13|extérieur
+46Ck2|nombre
+46Ck21|un
+46Ck22|deux
+46Ck23|trois
+46Ck24|quatre
+46Ck24|groupe
+46Ck3|propulsion
+46Ck31|bras d'homme
+46Ck32|animal
+46Ck33|vent
+46Ck34|eau
+46Ck35|vapeur
+46Ck36|combustion
+46Ck37|électricité
+46Ck38|energie nucléaire
+46Ck39|automation
+46Ck41|terre
+46Ck42|eaux
+46Ck43|air (dans l')
+46Ck43|espace
+46Ck5|transporter
+46Ck51|transport de personnes
+46Ck511|excursion
+46Ck511|voyage de plaisance
+46Ck52|animal
+46Ck53|charge
+46Ck53|cargaison
+46Ck54|science
+46Ck61|préparatifs
+46Ck611|ravitailler en carburant
+46Ck611|nourrir
+46Ck612|charger
+46Ck612|porter
+46Ck62|ancre
+46Ck62|partir
+46Ck621|monter
+46Ck621|embarquement
+46Ck622|agiter
+46Ck622|adieux
+46Ck623|salle d'attente
+46Ck623|chambre
+46Ck63|voyager
+46Ck63|mer
+46Ck631|halte
+46Ck631|arrêt
+46Ck632|reposer
+46Ck64|arrivée
+46Ck64|ancre
+46Ck641|démonter
+46Ck641|débarquement
+46Ck642|porter
+46Ck642|décharger
+46Ck643|accueillir
+46Ck644|retourner
+46Ck7|animal domestique
+46Ck7|animal
+46Ck70|variante
+46Ck71|symbole
+46Ck711|bestiaire
+46Ck711|Physiologus
+46Ck712|héraldique
+46Ck713|attribut
+46Ck714|caricature
+46Ck715|ornement
+46Ck7151|symétrie
+46Ck7152|joindre
+46Ck7153|entrelacer
+46Ck7154|symétrie
+46Ck72|procréation
+46Ck72|sexe
+46Ck72|âge
+46Ck721|jeune (animal)
+46Ck722|mâle
+46Ck723|femelle
+46Ck724|vieillesse
+46Ck73|anatomie
+46Ck731|squelette
+46Ck732|tronc (torse)
+46Ck7321|organes génitaux
+46Ck73211|mâle
+46Ck73212|femelle
+46Ck7322|fesses
+46Ck7323|entrailles
+46Ck733|tête (animal)
+46Ck7331|crâne
+46Ck7332|bois (cervidés)
+46Ck7332|ramure (cervidés)
+46Ck7332|corne
+46Ck7333|oreille
+46Ck7334|croc
+46Ck7334|défense
+46Ck7335|museau
+46Ck7335|joue
+46Ck7335|bec
+46Ck7336|langue
+46Ck7337|oeil
+46Ck734|membre
+46Ck7341|griffe
+46Ck7341|pied
+46Ck7342|aile
+46Ck7343|queue
+46Ck7349|trace
+46Ck7349|piste
+46Ck7351|peau
+46Ck7351|toison
+46Ck7351|fourrure
+46Ck7351|cuir
+46Ck7352|plume
+46Ck7353|écaille
+46Ck736|coquille
+46Ck736|coquillage
+46Ck736|coquille d'escargot
+46Ck74|comportement
+46Ck741|naissance
+46Ck7411|oeuf
+46Ck7412|couver
+46Ck7412|oeuf
+46Ck7413|larve
+46Ck7413|asticot
+46Ck7414|pupa
+46Ck742|nourrir
+46Ck742|soin
+46Ck742|jeune (animal)
+46Ck7421|nid
+46Ck7421|tanière
+46Ck7421|terrier
+46Ck7422|éduquer
+46Ck7422|jouer
+46Ck7429|tuer (animal)
+46Ck7431|courtiser
+46Ck7432|accoupler
+46Ck744|relations
+46Ck7441|troupeau
+46Ck7441|groupe
+46Ck7442|jouer
+46Ck745|manger
+46Ck745|boire
+46Ck7451|chercher
+46Ck7452|proie
+46Ck7459|défécation
+46Ck74591|crotte
+46Ck74591|fumier
+46Ck74591|excrément
+46Ck74591|fèces
+46Ck746|dormir
+46Ck7461|hibernation
+46Ck747|psychologie
+46Ck7471|instinct
+46Ck74711|migration
+46Ck74712|nid
+46Ck74712|hutte
+46Ck74712|toile d'araignée
+46Ck748|changement
+46Ck7481|saison
+46Ck74811|eté
+46Ck74812|hiver
+46Ck74813|métamorphose
+46Ck74814|rut
+46Ck74821|perdre
+46Ck74821|peau
+46Ck7483|protection
+46Ck7483|environnement
+46Ck74831|couleur
+46Ck749|acoustique
+46Ck749|communication
+46Ck749|rugir
+46Ck749|cri
+46Ck749|chanter
+46Ck749|aboyer
+46Ck749|miauler
+46Ck749|miaou
+46Ck749|hennir
+46Ck749|pépier
+46Ck749|son
+46Ck7491|agiter la queue
+46Ck7491|queue
+46Ck75|mouvement
+46Ck75|position
+46Ck751|combattre (animal)
+46Ck7511|menacer
+46Ck7512|attaquer
+46Ck7513|poursuivre
+46Ck7514|tuer (animal)
+46Ck7515|suicide
+46Ck75151|sacrifice de soi
+46Ck75211|marcher
+46Ck75212|courir
+46Ck75213|rouler
+46Ck75214|marcher
+46Ck75214|patte avant
+46Ck75214|debout sur la tête
+46Ck75215|monter à dos
+46Ck75215|monter à cheval
+46Ck75219|en arrière
+46Ck7522|vers le haut
+46Ck7522|en bas
+46Ck75221|sauter
+46Ck75222|monter
+46Ck75222|grimper
+46Ck75223|tirer
+46Ck75227|fouler aux pieds
+46Ck75227|taper du pied
+46Ck75231|tomber
+46Ck75232|porter
+46Ck75241|jetter
+46Ck75242|étendre
+46Ck75243|frapper
+46Ck75244|saisir
+46Ck75245|tenir
+46Ck75246|porter
+46Ck75247|tirer
+46Ck75247|hisser
+46Ck75248|pousser
+46Ck752481|tourner
+46Ck752481|cercle
+46Ck752481|roue
+46Ck752481|pivoter
+46Ck75251|s'enrouler
+46Ck75252|s'étirer
+46Ck75253|pivoter
+46Ck75253|tourner
+46Ck7526|air (dans l')
+46Ck75262|voler (dans l'air)
+46Ck75263|air (dans l')
+46Ck7527|eau
+46Ck75273|nager
+46Ck75274|flotter
+46Ck75278|émerger
+46Ck7531|debout
+46Ck7532|se pencher
+46Ck7533|agenouiller
+46Ck7534|s'accroupir
+46Ck7534|tapir
+46Ck7535|asseoir
+46Ck7536|coucher
+46Ck7537|suspendre
+46Ck75371|suspendre
+46Ck754|position
+46Ck754|tête (animal)
+46Ck7542|de côté
+46Ck7543|courber
+46Ck7543|en arrière
+46Ck7544|incliner
+46Ck7544|courber
+46Ck7544|en avant
+46Ck7547|épaule
+46Ck7547|regarder
+46Ck755|position
+46Ck755|griffe
+46Ck755|main
+46Ck755|patte avant
+46Ck7551|vers le haut
+46Ck7551|bras levé
+46Ck7552|bras étendu
+46Ck7552|en avant
+46Ck7553|bras étendu
+46Ck7553|de côté
+46Ck75541|coeur
+46Ck75542|plier
+46Ck75542|ventre
+46Ck75551|bras croisés
+46Ck7556|tête
+46Ck7556|visage
+46Ck75561|front
+46Ck75562|oeil
+46Ck75563|nez
+46Ck75564|bouche
+46Ck75565|oreille
+46Ck75571|toucher
+46Ck75571|saisir
+46Ck756|position
+46Ck756|patte postérieure
+46Ck7561|debout
+46Ck7561|patte postérieure
+46Ck7562|jambes croisées
+46Ck7562|asseoir
+46Ck757|expression
+46Ck7571|oeil
+46Ck7571|visage
+46Ck75711|regarder
+46Ck75711|vers le haut
+46Ck75712|regarder
+46Ck75712|en bas
+46Ck75713|regarder
+46Ck75713|de côté
+46Ck75717|regarder
+46Ck75717|en arrière
+46Ck7573|bouche
+46Ck7573|visage
+46Ck75731|sourire
+46Ck75732|bouche ouverte
+46Ck757321|langue
+46Ck75733|bouche ouverte
+46Ck757331|dent
+46Ck758|amabilité
+46Ck761|maladie
+46Ck762|plaie
+46Ck7621|frapper
+46Ck7621|tirer (arme)
+46Ck7621|attraper
+46Ck763|mort
+46Ck763|mourant
+46Ck764|tuer (animal)
+46Ck7641|abattre
+46Ck765|soin
+46Ck766|carcasse (animal)
+46Ck767|animal empaillé
+46Ck77|biologie
+46Ck77|investigation
+46Ck771|surveiller
+46Ck772|biologie
+46Ck772|expérimenter
+46Ck779|disparu
+46Ck78|être humain
+46Ck781|bétail
+46Ck782|animal domestique
+46Ck783|nettoyer
+46Ck783|laver
+46Ck783|panser
+46Ck789|médecine
+46Ck789|expérimenter
+46Ck7891|substitution
+46Ck7892|recherche scientifique
+46Ck7893|vivisection
+46Ck791|oeuf
+46Ck7911|ponte
+46Ck7911|ponte d'oeufs
+46Ck792|poison
+46Ck793|perle
+46Ck8|asseoir
+46Ck8|monter à dos
+46Ck81|à califourchon
+46Ck82|monter en amazone
+46Ck83|à l'envers
+46Ck84|debout
+46Ck85|monter à dos
+46Ck85|monter à cheval
+46Ck9|collision
+46Ck9|accident
+46Ck91|sauver
+46Ck91|blessé
+46Ck92|épave
+46Ck93|empêcher
+47k0|variante
+47k1|emplacement
+47k11|à l'intérieur
+47k11|laboratoire
+47k11|usine
+47k11|grange
+47k11|forge
+47k12|dehors
+47k122|planche de forcerie
+47k122|plate-bande
+47k13|cave
+47k14|eau
+47k15|air (dans l')
+47k15|espace
+47k2|ouvrier
+47k2|ouvrière
+47k21|homme
+47k22|femme
+47k22|gardienne de troupeaux
+47k22|bergère
+47k22|vachère
+47k23|enfant travailleur
+47k23|enfant
+47k24|animal
+47k3|technologie
+47k31|fabrication
+47k32|outil
+47k34|machine
+47k36|costume
+47k4|matière
+47k41|métal
+47k41|mineral
+47k411|métaux précieux
+47k412|métal vil
+47k42|pierre
+47k421|pierre précieuse
+47k43|argile
+47k43|sable
+47k431|céramique
+47k432|verre
+47k44|matière végétale
+47k441|fibre
+47k4411|lin
+47k4412|coton
+47k442|roseau
+47k443|petite branche
+47k443|brindille
+47k444|bois
+47k45|matière animale
+47k451|peau
+47k451|fourrure
+47k451|cuir
+47k4511|laine
+47k452|os
+47k453|ivoire
+47k453|corne
+47k454|coquille
+47k455|soie
+47k46|liquide
+47k461|huile
+47k462|liquide chimique
+47k462|chimique
+47k47|nourriture
+47k48|matière synthétique
+47k5|traiter
+47k51|préparatifs
+47k51|préparer
+47k51|nettoyer
+47k51|trier
+47k51|sélectionner
+47k52|déplacer
+47k53|diviser
+47k54|connecter
+47k54|saisir
+47k54|attacher
+47k54|lier
+47k54|joindre
+47k55|lisser
+47k55|polir
+47k56|mélanger
+47k56|mouler
+47k56|couler
+47k57|courber
+47k57|plier
+47k57|façonner
+47k58|forer
+47k58|percer
+47k59|ornement
+47k59|décoration
+47k61|plan
+47k611|recherche scientifique
+47k611|expérimenter
+47k612|modèle
+47k6121|tester
+47k62|produit
+47k63|emballer
+47k63|trier
+47k64|entreposage
+47k64|emballer
+47k64|conservation
+47k65|transporter
+47k66|commerce
+47k67|préparatifs
+47k67|préparer
+47k671|réparer
+47k69|destruction
+47k691|accident
+47k6911|temps
+47k6912|animal
+47k6913|maladie
+47k692|but
+47k6921|démontage
+47k6922|explosion
+47k699|recycler
+47k7|production
+47k71|production à domicile
+47k72|production industrielle
+47k73|journalier (ouvrier)
+47k8|agriculture
+47k8|croître
+47k81|culture
+47k82|semer
+47k82|planter
+47k83|soin
+47k83|plante
+47k84|récolte
+47k84|moisson
+47k84|vendange
+47k85|soin
+47k85|animal
+47k891|plante
+47k891|symbole
+47k8911|floralia
+47k8911|floralies
+47k8912|héraldique
+47k8913|attribut
+47k8914|plante
+47k8914|caricature
+47k8915|ornement
+47k892|plante
+47k8921|tronc d'arbre
+47k89211|souche
+47k89211|chicot
+47k8922|branche
+47k8922|bâton
+47k89221|petite branche
+47k89221|brindille
+47k89222|petite branche
+47k89222|brindille
+47k89222|épine
+47k89223|épine
+47k89223|piquant
+47k89224|paquet
+47k89224|poignée
+47k89224|petite branche
+47k89224|brindille
+47k89224|fagot
+47k89225|flétri
+47k8923|sommet
+47k8924|racine
+47k8924|tubercule
+47k89241|racine aérienne
+47k8925|vrille
+47k8926|bulbe
+47k8927|feuille
+47k893|plante
+47k8931|bourgeon
+47k8932|fleur
+47k8932|fleurs
+47k8932|fleurir
+47k8932|floraison
+47k8933|feuille
+47k8933|pousser (feuilles)
+47k8934|fruit
+47k89341|perdre
+47k89341|tomber
+47k8935|flétri
+47k8935|feuille
+47k8935|fleur
+47k89351|plante dépouillée
+47k8936|âge
+47k89361|jeune
+47k89362|maturité
+47k89363|âge
+47k89363|vieillesse
+47k8937|plante morte
+47k89371|mort
+47k89371|flétri
+47k9|animal domestique
+47k9|bétail
+47k9|basse-cour
+47k9|volaille
+47k9|animal
+47k90|variante
+47k91|symbole
+47k911|bestiaire
+47k911|Physiologus
+47k912|héraldique
+47k913|attribut
+47k914|caricature
+47k915|ornement
+47k9151|symétrie
+47k9152|joindre
+47k9153|entrelacer
+47k9154|symétrie
+47k92|procréation
+47k92|sexe
+47k92|âge
+47k921|jeune (animal)
+47k922|mâle
+47k923|femelle
+47k924|vieillesse
+47k93|anatomie
+47k931|squelette
+47k932|tronc (torse)
+47k9321|organes génitaux
+47k93211|mâle
+47k93212|femelle
+47k9322|fesses
+47k9323|entrailles
+47k933|tête (animal)
+47k9331|crâne
+47k9332|bois (cervidés)
+47k9332|ramure (cervidés)
+47k9332|corne
+47k9333|oreille
+47k9334|croc
+47k9334|défense
+47k9335|museau
+47k9335|joue
+47k9335|bec
+47k9336|langue
+47k9337|oeil
+47k934|membre
+47k9341|griffe
+47k9341|pied
+47k9342|aile
+47k9343|queue
+47k9349|trace
+47k9349|piste
+47k9351|peau
+47k9351|toison
+47k9351|fourrure
+47k9351|cuir
+47k9352|plume
+47k9353|écaille
+47k936|coquille
+47k936|coquillage
+47k936|coquille d'escargot
+47k94|comportement
+47k941|naissance
+47k9411|oeuf
+47k9412|couver
+47k9412|oeuf
+47k9413|larve
+47k9413|asticot
+47k9414|pupa
+47k942|nourrir
+47k942|soin
+47k942|jeune (animal)
+47k9421|nid
+47k9421|tanière
+47k9421|terrier
+47k9422|éduquer
+47k9422|jouer
+47k9429|tuer (animal)
+47k9431|courtiser
+47k9432|accoupler
+47k944|relations
+47k9441|troupeau
+47k9441|groupe
+47k9442|jouer
+47k945|manger
+47k945|boire
+47k9451|chercher
+47k9452|proie
+47k9459|défécation
+47k94591|crotte
+47k94591|fumier
+47k94591|excrément
+47k94591|fèces
+47k946|dormir
+47k9461|hibernation
+47k947|psychologie
+47k9471|instinct
+47k94711|migration
+47k94712|nid
+47k94712|hutte
+47k94712|toile d'araignée
+47k948|changement
+47k9481|saison
+47k94811|eté
+47k94812|hiver
+47k94813|métamorphose
+47k94814|rut
+47k94821|perdre
+47k94821|peau
+47k9483|protection
+47k9483|environnement
+47k94831|couleur
+47k949|communication
+47k949|acoustique
+47k949|rugir
+47k949|cri
+47k949|chanter
+47k949|aboyer
+47k949|miauler
+47k949|miaou
+47k949|hennir
+47k949|pépier
+47k949|son
+47k9491|agiter la queue
+47k9491|queue
+47k95|mouvement
+47k95|position
+47k951|combattre (animal)
+47k9511|menacer
+47k9512|attaquer
+47k9513|poursuivre
+47k9514|tuer (animal)
+47k9515|suicide
+47k95151|sacrifice de soi
+47k95211|marcher
+47k95212|courir
+47k95213|rouler
+47k95214|marcher
+47k95214|patte avant
+47k95214|debout sur la tête
+47k95215|monter à dos
+47k95215|monter à cheval
+47k95219|en arrière
+47k9522|vers le haut
+47k9522|en bas
+47k95221|sauter
+47k95222|monter
+47k95222|grimper
+47k95223|tirer
+47k95227|fouler aux pieds
+47k95227|taper du pied
+47k95231|tomber
+47k95232|porter
+47k95241|jetter
+47k95242|étendre
+47k95243|frapper
+47k95244|saisir
+47k95245|tenir
+47k95246|porter
+47k95247|tirer
+47k95247|hisser
+47k95248|pousser
+47k952481|tourner
+47k952481|cercle
+47k952481|roue
+47k952481|pivoter
+47k95251|s'enrouler
+47k95252|s'étirer
+47k95253|pivoter
+47k95253|tourner
+47k9526|air (dans l')
+47k95262|voler (dans l'air)
+47k95263|air (dans l')
+47k9527|eau
+47k95273|nager
+47k95274|flotter
+47k95278|émerger
+47k9531|debout
+47k9532|se pencher
+47k9533|agenouiller
+47k9534|s'accroupir
+47k9534|tapir
+47k9535|asseoir
+47k9536|coucher
+47k9537|suspendre
+47k95371|suspendre
+47k954|position
+47k954|tête (animal)
+47k9542|de côté
+47k9543|courber
+47k9543|en arrière
+47k9544|incliner
+47k9544|courber
+47k9544|en avant
+47k9547|épaule
+47k9547|regarder
+47k955|position
+47k955|griffe
+47k955|main
+47k955|patte avant
+47k9551|vers le haut
+47k9551|bras levé
+47k9552|bras étendu
+47k9552|en avant
+47k9553|bras étendu
+47k9553|de côté
+47k95541|coeur
+47k95542|plier
+47k95542|ventre
+47k95551|bras croisés
+47k9556|tête
+47k9556|visage
+47k95561|front
+47k95562|oeil
+47k95563|nez
+47k95564|bouche
+47k95565|oreille
+47k95571|toucher
+47k95571|saisir
+47k956|position
+47k956|patte postérieure
+47k9561|debout
+47k9561|patte postérieure
+47k9562|jambes croisées
+47k9562|asseoir
+47k957|expression
+47k9571|oeil
+47k9571|visage
+47k95711|regarder
+47k95711|vers le haut
+47k95712|regarder
+47k95712|en bas
+47k95713|regarder
+47k95713|de côté
+47k95717|regarder
+47k95717|en arrière
+47k9573|bouche
+47k9573|visage
+47k95731|sourire
+47k95732|bouche ouverte
+47k957321|langue
+47k95733|bouche ouverte
+47k957331|dent
+47k958|amabilité
+47k961|maladie
+47k962|plaie
+47k9621|frapper
+47k9621|tirer (arme)
+47k9621|recueillir
+47k9621|attraper
+47k963|mort
+47k963|mourant
+47k964|tuer (animal)
+47k9641|abattre
+47k965|soin
+47k966|carcasse (animal)
+47k967|animal empaillé
+47k97|biologie
+47k97|investigation
+47k971|surveiller
+47k972|biologie
+47k972|expérimenter
+47k979|disparu
+47k98|être humain
+47k981|bétail
+47k982|animal domestique
+47k983|nettoyer
+47k983|laver
+47k983|panser
+47k989|médecine
+47k989|expérimenter
+47k9891|substitution
+47k9892|recherche scientifique
+47k9893|vivisection
+47k991|oeuf
+47k9911|ponte
+47k9911|ponte d'oeufs
+47k992|poison
+47k993|perle
+48A98k0|variante
+48A98k1|motif de décoration de surface
+48A98k1|motif
+48A98k111|rectangle
+48A98k1111|symétrie
+48A98k1112|asymétrie
+48A98k112|cercle
+48A98k112|ovale
+48A98k1121|symétrie
+48A98k1122|asymétrie
+48A98k1131|symétrie
+48A98k1132|asymétrie
+48A98k121|bande
+48A98k2|cadre
+48A98k21|symétrie
+48A98k22|asymétrie
+48A98k31|montant
+48A98k311|symétrie
+48A98k312|asymétrie
+48A98k32|pendant
+48A98k321|symétrie
+48A98k322|asymétrie
+48A98k4|trois dimensions
+48A98k51|figure humaine
+48A98k52|plante
+48A98k53|animal
+48A98k54|monstre
+48A98k55|object
+48A98k6|matière
+48A98k61|métal
+48A98k611|métaux précieux
+48A98k612|métal vil
+48A98k6121|cuivre
+48A98k6122|bronze
+48A98k6123|zinc
+48A98k62|pierre
+48A98k621|pierre précieuse
+48A98k622|marbre
+48A98k63|argile
+48A98k63|sable
+48A98k631|céramique
+48A98k632|verre
+48A98k633|plâtre
+48A98k64|matière végétale
+48A98k641|roseau
+48A98k642|petite branche
+48A98k642|brindille
+48A98k643|bois
+48A98k644|papier
+48A98k65|matière animale
+48A98k651|peau
+48A98k651|cuir
+48A98k6511|parchemin
+48A98k652|os
+48A98k652|ivoire
+48A98k661|lin
+48A98k661|tissu
+48A98k671|couleurs
+48A98k672|vernis
+48A98k7|mode
+48A98k71|préhistoire
+48A98k72|histoire ancienne
+48A98k721|art égyptien
+48A98k722|art archaïque du Proche-Orient
+48A98k723|art minoen
+48A98k723|art mycénien
+48A98k723|art pré-grec
+48A98k723|art pre-hellénic
+48A98k724|art grec
+48A98k7241|art de la Grèce archaïque
+48A98k7242|art de la Grèce classique
+48A98k7243|art hellénistique
+48A98k725|art étrusque
+48A98k726|art romain
+48A98k73|art pré-chrétien
+48A98k74|art de l'Europe occidentale
+48A98k74|art européen
+48A98k741|art chrétien primitif
+48A98k741|art chrétien
+48A98k7411|art copte
+48A98k7412|art Byzantin
+48A98k742|art médiéval
+48A98k7421|art du haut moyen-âge
+48A98k74211|art carolingien
+48A98k74212|art ottonien
+48A98k74213|art roman
+48A98k7422|art du bas moyen-âge
+48A98k74221|art gothique
+48A98k742211|art international gothique
+48A98k74222|art de la pré-Renaissance
+48A98k743|art de la Renaissance
+48A98k744|maniérisme
+48A98k745|baroque
+48A98k745|classicisme
+48A98k746|rococo
+48A98k747|néoclassicisme
+48A98k75|art islamique
+48A98k761|art asiatique
+48A98k7611|art de l'Asie orientale
+48A98k76111|art chinois
+48A98k76112|art japonais
+48A98k7612|art du sud de l'Asie
+48A98k76121|art indien
+48A98k7613|art du nord de l'Asie
+48A98k7613|art de l'Asie centrale
+48A98k762|art primitif de l'Amérique
+48A98k7621|art précolombien
+48A98k7622|art des Indiens d'Amérique
+48A98k7622|art de l'Amérique du Nord
+48A98k763|art africain
+48A98k763|art tribal
+48A98k764|art océanique
+48k0|variante
+48k1|artiste
+48k10|inspiration
+48k101|Muses
+48k11|atelier
+48k111|dehors
+48k121|esquisse
+48k121|plan
+48k122|étudier
+48k122|vestiges de l'antiquité classique
+48k123|modèle
+48k124|modèle (modèle d'artiste)
+48k1241|vêtements
+48k1242|nu
+48k13|modèle (modèle d'artiste)
+48k14|enseigner
+48k141|académie
+48k142|talent
+48k142|prodige
+48k142|jeune homme
+48k143|dressage
+48k143|élève
+48k15|assistant
+48k15|élève
+48k16|accessoires
+48k17|costume
+48k19|destruction
+48k19|oeuvre d'art
+48k21|renommée
+48k21|célébrité
+48k22|famille
+48k23|club
+48k24|vie de bohème
+48k25|manque
+48k25|absence
+48k25|méconnaissance
+48k25|déshonneur
+48k25|génie
+48k26|lit de mort
+48k27|portrait
+48k27|autoportrait
+48k3|art
+48k31|architecture
+48k32|sculpture
+48k321|relief
+48k33|art appliqué
+48k331|bijou
+48k331|métaux précieux
+48k332|métal vil
+48k333|poterie
+48k333|céramique
+48k334|soufflage du verre
+48k335|tapisserie
+48k335|tisser
+48k335|manufacture des Gobelins
+48k336|joindre
+48k336|ébénisterie
+48k34|art monumental
+48k341|mosaïque
+48k342|peinture murale
+48k343|vitrail
+48k343|verre
+48k351|peinture
+48k3511|grisaille
+48k352|miniature
+48k353|enluminure
+48k354|dessin
+48k355|arts graphiques
+48k3551|gravure sur bois
+48k3551|gravure
+48k3552|gravure
+48k3552|eau-forte
+48k3553|lithographie (procédée)
+48k361|photographie
+48k362|cinématographie
+48k362|filmer
+48k37|musique
+48k371|composer
+48k372|spectacle
+48k373|chanter
+48k374|diriger
+48k38|scène (théâtre)
+48k381|ballet
+48k382|théâtre
+48k383|opéra
+48k384|opérette
+48k385|cabaret
+48k386|film
+48k39|littérature
+48k391|écrire
+48k4|oeuvre d'art
+48k4|fabrication
+48k411|esquisse
+48k411|modèle
+48k412|répétition
+48k413|perfection
+48k413|complete (oeuvre)
+48k414|incomplétude
+48k414|imperfection
+48k42|dommage
+48k42|réparer
+48k421|sauver
+48k422|destruction
+48k4221|dommage
+48k42211|iconoclasme
+48k423|restauration
+48k43|reproduction
+48k431|copie
+48k4311|plagiat
+48k4312|falsification
+48k49|caricature
+48k5|organisation
+48k51|syndicat
+48k51|guilde
+48k52|amateur
+48k52|connaisseur
+48k53|rencontrer
+48k54|combat
+48k54|compétition
+48k6|matière
+48k61|métal
+48k611|métaux précieux
+48k612|métal vil
+48k6121|cuivre
+48k6122|bronze
+48k6123|zinc
+48k62|pierre
+48k621|pierre précieuse
+48k622|marbre
+48k63|argile
+48k63|sable
+48k631|céramique
+48k632|verre
+48k633|plâtre
+48k64|matière végétale
+48k641|roseau
+48k642|petite branche
+48k642|brindille
+48k643|bois
+48k644|papier
+48k65|matière animale
+48k651|peau
+48k651|cuir
+48k6511|parchemin
+48k652|os
+48k652|ivoire
+48k661|lin
+48k661|tissu
+48k671|couleurs
+48k672|vernis
+48k7|mode
+48k71|préhistoire
+48k72|histoire ancienne
+48k721|art égyptien
+48k722|art archaïque du Proche-Orient
+48k723|art minoen
+48k723|art mycénien
+48k723|art pré-grec
+48k723|art pre-hellénic
+48k724|art grec
+48k7241|art archaïque
+48k7242|art classique
+48k7243|art hellénistique
+48k725|art étrusque
+48k726|art romain
+48k73|art européen
+48k74|art de l'Europe occidentale
+48k74|art européen
+48k741|art chrétien primitif
+48k741|art chrétien
+48k7411|art copte
+48k7412|art Byzantin
+48k742|art médiéval
+48k7421|art du haut moyen-âge
+48k74211|art carolingien
+48k74212|art ottonien
+48k74213|art roman
+48k7422|art du bas moyen-âge
+48k74221|art gothique
+48k742211|art international gothique
+48k74222|art de la pré-Renaissance
+48k743|art de la Renaissance
+48k744|maniérisme
+48k745|baroque
+48k745|classicisme
+48k746|rococo
+48k747|néoclassicisme
+48k75|art islamique
+48k761|art asiatique
+48k7611|art de l'Asie orientale
+48k76111|art chinois
+48k76112|art japonais
+48k7612|art du sud de l'Asie
+48k76121|art indien
+48k7613|art du nord de l'Asie
+48k7613|art de l'Asie centrale
+48k762|art primitif de l'Amérique
+48k7621|art précolombien
+48k7622|art des Indiens d'Amérique
+48k763|art africain
+48k763|art tribal
+48k764|art océanique
+49Bk0|armoiries
+49Bk0|sceau
+49Bk0|insigne
+49Bk1|édifice
+49Bk1|bâtiment
+49Bk1|école
+49Bk2|enseigner
+49Bk2|discours
+49Bk21|manque
+49Bk21|absence
+49Bk21|ordre
+49Bk21|attention (concentration)
+49Bk3|enseignant
+49Bk3|professeur
+49Bk31|costume
+49Bk32|portrait
+49Bk4|élève
+49Bk5|discipline
+49Bk51|expulser
+49Bk6|bulletin
+49Bk6|marque
+49Bk7|examen
+49Bk7|degré
+49Bk7|donner
+49Bk71|succès
+49Bk72|échec
+49Bk8|équipement
+49Bk8|aides dans l'enseignement
+49Bk91|conseil d'un établissement scolaire
+49Bk91|conseil (comité)
+49Bk92|conseil (comité)
+49Bk92|tuteur
+49Bk93|proviseur
+49Bk93|directeur
+49Bk93|chancelier
+49Bk94|inspecter
+49Bk95|concierge
+49Bk95|gardien
+49Bk95|personnel
+49k0|variante
+49k1|savant
+49k10|inspiration
+49k101|Muses
+49k11|cabinet de travail
+49k11|atelier
+49k11|laboratoire
+49k12|assistant
+49k12|famulus
+49k13|femme
+49k14|enfant
+49k2|savant
+49k21|renommée
+49k21|célébrité
+49k22|mésentente
+49k22|incompréhension
+49k3|portrait
+49k3|savant
+49k4|costume
+49k5|recherche scientifique
+49k51|théorie
+49k52|équipement de laboratoire
+49k52|outil
+49k53|observation
+49k53|surveiller
+49k531|recherches sur le terrain
+49k54|expérimenter
+49k55|invention
+49k551|première exemplaire
+49k56|accident
+49k561|empêcher
+49k57|installation
+49k59|destruction
+49k59|explosion
+49k6|révéler
+49k61|discours
+49k61|discuter
+49k61|académie des sciences
+49k61|élève
+49k62|démonstration
+49k63|exposition
+49k63|collection
+49k64|vulgarisation
+49k7|phénomène
+49k7|science naturelle
+49k8|plagiat
+49k9|falsification
+4k0|variante
+5k0|variante
+5k1|personnification
+5k11|femme
+5k12|homme
+5k13|enfant
+5k14|groupe
+5k2|groupe
+5k21|coopération
+5k22|lutte
+5k221|vainqueur
+5k3|symbole
+5k4|emblème
+5k5|histoire
+5k5|exemplum
+5k51|série
+5k6|symbole
+5k6|peinture de genre
+61Ak0|variante
+61Ak1|allégorie
+61Ak1|symbole
+61Ak2|allégorie
+61Ak3|emblème
+61Ak3|moralisant
+61Ak3|zinneprent
+61Ak4|dessin animé
+61Ak4|dessin humoristique
+61Ak4|satire
+61Ak4|caricature
+61Bk0|variante
+61Bk1|allégorie
+61Bk1|symbole
+61Bk2|portrait historié
+61Bk2|Rollenporträt
+61Bk2|allégorie
+61Bk2|mythologie
+61Bk31|portrait idéalisé
+61Bk31|portrait héroïque
+61Bk32|portrait officiel
+61Bk33|portrait à l'antique
+61Bk34|portrait mortuaire
+61Bk35|cadavre
+61Bk4|caricature
+61Bk51|tête
+61Bk51|épaule
+61Bk511|de face
+61Bk512|trois-quarts
+61Bk513|profil
+61Bk514|imago clipeata
+61Bk52|buste
+61Bk521|de face
+61Bk522|trois-quarts
+61Bk523|profil
+61Bk53|à mi-corps
+61Bk54|trois-quarts
+61Bk55|en pied
+61Bk56|multitude
+6k0|variante
+7k0|variante
+7k1|Trinité
+7k11|Dieu
+7k111|lumière
+7k12|Christ
+7k121|barbe
+7k122|imberbe
+7k13|Saint-Esprit
+7k13|colombe
+7k2|Marie (Vierge)
+7k3|ange
+7k31|air (dans l')
+7k4|diable
+7k5|donateur
+7k5|saint
+7k5|patron
+7k5|suppliant
+8k0|variante
+91k0|variante
+91k1|jeunesse
+91k1|enfant
+91k11|naissance
+91k11|bébé
+91k12|petite enfance
+91k12|éduquer
+91k2|amours
+91k3|exploit
+91k4|agression
+91k4|combattre
+91k4|querelle
+91k4|inimitié
+91k5|amabilité
+91k5|non-agressive
+91k6|souffrance
+91k6|malchance
+91k6|malheur
+91k68|mort
+91k69|apothéose
+91k7|allégorie
+91k78|triomphe
+91k8|attribut
+91k9|progéniture
+91k9|compagnon
+91k9|suite
+92k0|variante
+92k1|jeunesse
+92k1|enfant
+92k11|naissance
+92k11|bébé
+92k12|petite enfance
+92k12|éduquer
+92k2|amours
+92k3|exploit
+92k4|agression
+92k4|combattre
+92k4|querelle
+92k4|inimitié
+92k5|amabilité
+92k5|non-agressive
+92k6|souffrance
+92k6|malchance
+92k6|malheur
+92k68|mort
+92k69|apothéose
+92k7|allégorie
+92k78|triomphe
+92k8|attribut
+92k9|progéniture
+92k9|compagnon
+92k9|suite
+93k0|variante
+93k1|jeunesse
+93k1|enfant
+93k11|naissance
+93k11|bébé
+93k12|petite enfance
+93k12|éduquer
+93k2|amours
+93k3|exploit
+93k4|agression
+93k4|combattre
+93k4|querelle
+93k4|inimitié
+93k5|amabilité
+93k5|non-agressive
+93k6|souffrance
+93k6|malchance
+93k6|malheur
+93k68|mort
+93k69|apothéose
+93k7|allégorie
+93k78|triomphe
+93k8|attribut
+93k9|progéniture
+93k9|compagnon
+93k9|suite
+96Ak0|variante
+96Ak1|jeunesse
+96Ak1|enfant
+96Ak11|naissance
+96Ak11|bébé
+96Ak12|petite enfance
+96Ak12|éduquer
+96Ak2|amours
+96Ak3|exploit
+96Ak4|agression
+96Ak4|combattre
+96Ak4|querelle
+96Ak4|inimitié
+96Ak5|amabilité
+96Ak5|non-agressive
+96Ak6|souffrance
+96Ak6|malchance
+96Ak6|malheur
+96Ak68|mort
+96Ak69|apothéose
+96Ak7|allégorie
+96Ak78|triomphe
+96Ak8|attribut
+96Ak9|progéniture
+96Ak9|compagnon
+96Ak9|suite
+98k0|variante
+98k1|allégorie
+98k1|symbole
+98k2|allégorie
+98k2|mythologie
+98k31|portrait idéalisé
+98k31|portrait héroïque
+98k32|portrait officiel
+98k33|cadavre
+98k4|caricature
+98k5|position
+98k51|tête
+98k51|épaule
+98k511|de face
+98k512|trois-quarts
+98k513|profil
+98k514|imago clipeata
+98k52|buste
+98k521|de face
+98k522|trois-quarts
+98k523|profil
+98k53|à mi-corps
+98k54|trois-quarts
+98k55|en pied
+98k56|multitude
+98k8|histoire grecque
+98k8|histoire
+98k9|histoire romaine
+98k9|histoire
+9k0|variante
