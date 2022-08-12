@@ -3,7 +3,6 @@ import sys
 import textbase
 import re
 import sqlite3
-import gzip
 from tqdm import tqdm
 
 
@@ -50,7 +49,7 @@ class TextNotFoundException(Exception):
     pass
 
 
-def lookup_text(n, txts, kwds):
+def lookup_text(n):
     if not n:
         return ""
     # Handle the Keys (+ etc. )
@@ -81,13 +80,6 @@ def lookup_text(n, txts, kwds):
             else:
                 raise TextNotFoundException(n)
     return f"{n} {obj_t}"
-    # buf = []
-    # for x in obj_t:
-    #     if x in "-():[].,":
-    #         x = " "
-    #     buf.append(x)
-
-    # return f"{n} {''.join(buf)}"
 
 
 def read_n(filename):
@@ -138,18 +130,28 @@ def read_txt(lang, kw_or_text):
 
 
 def index(lang, lang_name, prime_content=False):
-    txts = read_txt(lang, "txt")
-    kwds = read_txt(lang, "kw")
-    all_notations = list(enumerate(set(hier(notations, ""))))
-
     Z = []
     with sqlite3.connect("iconclass_index.sqlite") as index_db:
         index_db.enable_load_extension(True)
         index_db.load_extension("/usr/local/lib/fts5stemmer")
         ci = index_db.cursor()
 
+        if lang == "en":
+            all_notations = list(enumerate(set(hier(notations, ""))))
+        else:
+            all_notations = list(
+                enumerate(
+                    [
+                        x[0]
+                        for x in ci.execute(
+                            "SELECT notation FROM notations ORDER BY rowid"
+                        )
+                    ]
+                )
+            )
+
         ci.execute(
-            f"CREATE VIRTUAL TABLE IF NOT EXISTS {lang}  USING fts5(notation UNINDEXED, is_key, text, tokenize = 'snowball {lang_name} unicode61', content=notations)"
+            f"CREATE VIRTUAL TABLE IF NOT EXISTS {lang}  USING fts5(notation UNINDEXED, is_key, text, tokenize = 'snowball {lang_name} unicode61', content=notations, content_rowid=id)"
         )
         ci.execute(
             f"CREATE TABLE IF NOT EXISTS notations (id integer primary key, notation , is_key, text)"
@@ -158,7 +160,7 @@ def index(lang, lang_name, prime_content=False):
         batch = []
         for row_id, n in tqdm(all_notations):
             try:
-                t = "\n".join([lookup_text(part, txts, kwds) for part in get_parts(n)])
+                t = "\n".join([lookup_text(part) for part in get_parts(n)])
             except TypeError:
                 print(f"Error {n}")
                 continue
@@ -209,6 +211,9 @@ keys = read_k("keys.txt")
 notations = read_n("notations.txt")
 notations[""] = {"C": [str(x) for x in range(10)], "N": ["ICONCLASS"]}
 
+
 if __name__ == "__main__":
     lang = sys.argv[1]
+    txts = read_txt(lang, "txt")
+    kwds = read_txt(lang, "kw")
     index(lang, LANGUAGE_MAP[lang], lang == "en")
