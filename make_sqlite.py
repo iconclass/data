@@ -116,8 +116,8 @@ def read_keys(notation_ids, filename, cursor):
     # as the texts table have infor on both notations and keys
     row_id = max(notation_ids.values())
     INSERT_SQL1 = "INSERT INTO keys (id, code, suffix) VALUES (?, ?, ?)"
-    INSERT_SQL2 = "INSERT INTO texts (ref, type, language, text) VALUES (?, ?, ?, ?)"
 
+    keys_ids = {}
     with open(filename, "rt", encoding="utf8") as input_file:
         for chunk in input_file.read().split("\n$"):
             obj = parse_dbtxt(chunk)
@@ -126,18 +126,10 @@ def read_keys(notation_ids, filename, cursor):
                 row_id += 1
                 data = (row_id, code, suffix)
                 cursor.execute(INSERT_SQL1, data)
+                keys_ids[f"{code}{suffix}"] = row_id
             notation_ids[code] = row_id
-
-            # And also insert the texts and keywords
-            for language, v in obj.get("txt", {}).items():
-                for vv in v:
-                    data = (row_id, 0, language, vv)
-                    cursor.execute(INSERT_SQL2, data)
-            for language, v in obj.get("kw", {}).items():
-                for vv in v:
-                    data = (row_id, 1, language, vv)
-                    cursor.execute(INSERT_SQL2, data)
-
+            
+    return keys_ids
 
 if __name__ == "__main__":
     db = sqlite3.connect("iconclass.sqlite")
@@ -157,21 +149,27 @@ if __name__ == "__main__":
     if not notation_ids:
         sys.exit(1)
 
+    # read the keys
+    keys_ids = read_keys(notation_ids, "keys.txt", cursor)
+
     # Read the texts
     for dirpath, dirs, files in os.walk("."):
         for filename in files:
+            if filename.find("_keys") > 0:
+                thebuf = keys_ids
+            else:
+                thebuf = notation_ids
+
             if filename.startswith("kw_"):
                 language = filename[3:5]
                 read_texts(
-                    1, notation_ids, os.path.join(dirpath, filename), language, cursor
+                    1, thebuf, os.path.join(dirpath, filename), language, cursor
                 )
-            elif filename.startswith("txt_"):
+            elif filename.startswith("txt_"):                
                 language = filename[4:6]
                 read_texts(
-                    0, notation_ids, os.path.join(dirpath, filename), language, cursor
+                    0, thebuf, os.path.join(dirpath, filename), language, cursor
                 )
 
-    # read the keys
-    read_keys(notation_ids, "keys.txt", cursor)
 
     db.commit()
