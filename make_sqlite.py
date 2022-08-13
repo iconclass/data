@@ -47,7 +47,7 @@ def parse_dbtxt(data):
                 obj[last_field] = buf
             buf = [data]
             last_field = field
-        if field in ("n", "k", "code", "suffix"):
+        if field in ("n", "k"):
             buf = buf[0]
     if buf:
         obj[last_field] = buf
@@ -120,15 +120,12 @@ def read_keys(notation_ids, filename, cursor):
 
     with open(filename, "rt", encoding="utf8") as input_file:
         for chunk in input_file.read().split("\n$"):
-            row_id += 1
-
             obj = parse_dbtxt(chunk)
-            code = obj.get("code")
-            suffix = obj.get("suffix")
-            if not code and suffix:
-                continue
-            data = (row_id, code, suffix)
-            cursor.execute(INSERT_SQL1, data)
+            code = obj.get("k")
+            for suffix in obj.get("s", []):
+                row_id += 1
+                data = (row_id, code, suffix)
+                cursor.execute(INSERT_SQL1, data)
             notation_ids[code] = row_id
 
             # And also insert the texts and keywords
