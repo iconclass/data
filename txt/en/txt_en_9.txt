@@ -5204,7 +5204,7 @@
 95B(SEMELE)78|(story of) Semele - triumph
 95B(SEMELE)79|(story of) Semele - veneration, honoured by
 95B(SEMELE)8|(story of) Semele - attributes
-95B(THEONOE)| (story of) Theonoe
+95B(THEONOE)|(story of) Theonoe
 95B(THEONOE)1|(story of) Theonoe - early life, prime youth
 95B(THEONOE)11|(story of) Theonoe - birth
 95B(THEONOE)12|(story of) Theonoe - infancy, upbringing
