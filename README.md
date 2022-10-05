@@ -46,7 +46,7 @@ The first part of a line, up to the first space, is the field name. If there are
 
 You might wonder why we can not simply use a standard system to manage vocabularies or classification systems. If IC has a SKOS version, surely we can just use a SKOS editor?
 
-Alas, no. The ["base" ICONCLASS system](notations.txt) has around 40K nodes arranged in a tree. But then there are several "sub-trees" that are switched on and off at various parts of the base tree. These so-called "keys" in the IC causes an explosion to more than 1 million nodes in the system, which would make it very trickey to maintain in a traditional system.
+Alas, no. The ["base" ICONCLASS system](notations.txt) has around 40K nodes arranged in a tree. But then there are several "sub-trees" that are switched on and off at various parts of the base tree. These so-called "keys" in the IC causes an explosion to more than 1 million nodes in the system, which would make it very [tricky to maintain in a traditional system](https://iconclass.org/help/skos_sparql).
 
 ![Keys to 25F](/misc/key_to_25F.jpg)
 
