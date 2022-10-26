@@ -238,7 +238,7 @@
 23D|Jahreszeit
 23D|Personifikation
 23D|Ripa, Cesare
-23D|quattro stagione dell'anno (le)
+23D|quattro stagioni dell'anno (le)
 23D|stagione
 23D2|zwei
 23D21|Winter
@@ -1426,6 +1426,7 @@
 25F29(HEDGEHOG)|Igel
 25F29(HEDGEHOG)|Saeugetier
 25F29(KANGAROO)|Känguru
+25F29(KANGAROO)|Beuteltier
 25F29(MOLE)|Maulwurf
 25F29(MOLE)|Saeugetier
 25F29(PORCUPINE)|Saeugetier

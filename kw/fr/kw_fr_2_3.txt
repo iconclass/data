@@ -207,7 +207,7 @@
 23C2|lune
 23C3|sidéral
 23C3|étoile
-23D|Quattro stagione dell'anno (Le)
+23D|Quattro stagioni dell'anno (Le)
 23D|Ripa
 23D|Stagione
 23D|personnification
@@ -1316,6 +1316,7 @@
 25F29(ARMADILLO)|tatou
 25F29(HEDGEHOG)|hérisson
 25F29(KANGAROO)|kangourou
+25F29(KANGAROO)|marsupiale
 25F29(MOLE)|taupe
 25F29(PORCUPINE)|porc-épic
 25F29(SLOTH)|paresseux

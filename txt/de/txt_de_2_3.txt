@@ -131,7 +131,7 @@
 23C1|Annus: Personifikation des Jahres; Ripa: Anno, Caro dell'anno
 23C2|Mondjahr
 23C3|Sternjahr
-23D|Jahreszeiten (insbesondere ihre Personifikationen); Ripa: Stagione, Le quattro stagione dell'anno
+23D|Jahreszeiten (insbesondere ihre Personifikationen); Ripa: Stagione, Le quattro stagioni dell'anno
 23D1|wird nicht benötigt
 23D2|Aufteilung des Jahres in zwei Jahreszeiten
 23D21|das Winterhalbjahr

@@ -131,7 +131,7 @@
 #23C1|'Annus', personification of the year; 'Anno', 'Carro dell'anno' (Ripa)
 #23C2|lunar year
 #23C3|sidereal year
-#23D|seasons of the year (esp. personifications); 'Stagione', 'Le quattro stagione dell'anno' (Ripa)
+#23D|seasons of the year (esp. personifications); 'Stagione', 'Le quattro stagioni dell'anno' (Ripa)
 #23D1|not used
 #23D2|year divided into two seasons
 #23D21|winter half-year

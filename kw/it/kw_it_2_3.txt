@@ -203,7 +203,7 @@
 23C2|luna
 23C3|siderale
 23C3|stella
-23D|Quattro stagione dell'anno
+23D|Quattro stagioni dell'anno
 23D|Ripa
 23D|Stagione
 23D|personificazione
@@ -1286,6 +1286,7 @@
 25F29(ARMADILLO)|armadillo
 25F29(HEDGEHOG)|riccio
 25F29(KANGAROO)|canguro
+25F29(KANGAROO)|marsupiale
 25F29(MOLE)|talpa
 25F29(PORCUPINE)|porcospino
 25F29(SLOTH)|folivora

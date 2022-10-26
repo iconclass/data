@@ -197,7 +197,7 @@
 23C3|sideral
 23C3|estrela
 23D|personificação
-23D|Quattro stagione dell'anno (Le)
+23D|Quattro stagioni dell'anno (Le)
 23D|Ripa
 23D|estação
 23D|Temporada
@@ -1265,6 +1265,7 @@
 25F29(ARMADILLO)|tatu
 25F29(HEDGEHOG)|ouriço
 25F29(KANGAROO)|canguru
+25F29(KANGAROO)|marsupial
 25F29(MOLE)|toupeira (mamífero)
 25F29(PORCUPINE)|porco-espinho
 25F29(SLOTH)|preguiça

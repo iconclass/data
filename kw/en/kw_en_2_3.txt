@@ -1265,6 +1265,7 @@
 25F29(ARMADILLO)|armadillo
 25F29(HEDGEHOG)|hedgehog
 25F29(KANGAROO)|kangaroo
+25F29(KANGAROO)|marsupial
 25F29(MOLE)|mole (mammal)
 25F29(PORCUPINE)|porcupine
 25F29(SLOTH)|sloth

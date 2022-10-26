@@ -248,7 +248,7 @@
 23C2|kuu
 23C3|tähti
 23C3|tähti(vuosi)
-23D|Quattro stagione dell'anno (Le)
+23D|Quattro stagioni dell'anno (Le)
 23D|Ripa
 23D|Stagione
 23D|personifikaatio
@@ -1443,6 +1443,7 @@
 25F29(ARMADILLO)|vyötiäinen
 25F29(HEDGEHOG)|siili
 25F29(KANGAROO)|kengurut
+25F29(KANGAROO)|pussieläin
 25F29(MOLE)|maamyyrä
 25F29(PORCUPINE)|piikkisika
 25F29(SLOTH)|laiskiaiset

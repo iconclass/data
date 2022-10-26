@@ -131,7 +131,7 @@
 23C1|'Annus', personnification de l'année; 'Anno', 'Carro dell'anno' (Ripa)
 23C2|année lunaire
 23C3|année sidérale
-23D|saisons de l'année (en particulier comme personnifications); 'Stagione', 'Le quattro stagione dell'anno' (Ripa)
+23D|saisons de l'année (en particulier comme personnifications); 'Stagione', 'Le quattro stagioni dell'anno' (Ripa)
 23D1|pas utilisé
 23D2|l'année divisée en deux saisons
 23D21|semestre hivernal
