@@ -102,7 +102,10 @@ def read_k(filename):
     d = {}
     for x in textbase.parse(filename):
         k = x.get("K")
-        if k:
+        # Suppress the q of Keys here, this need to be double-checked with JPJB
+        suffixes = [s for s in x.get("S", []) if s.find("q") < 0]
+        if k and suffixes:
+            x["S"] = suffixes
             d[k[0]] = x
     return d
 
