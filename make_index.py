@@ -3,7 +3,7 @@ import sys
 import textbase
 import re
 import sqlite3
-from tqdm import tqdm
+from rich.progress import track
 
 
 def hier(data, n):
@@ -49,7 +49,7 @@ class TextNotFoundException(Exception):
     pass
 
 
-def lookup_text(n):
+def lookup_text(n, add_keywords=True):
     if not n:
         return ""
     # Handle the Keys (+ etc. )
@@ -67,14 +67,18 @@ def lookup_text(n):
     obj = notations.get(base)
     if not obj:
         return ""
-    base_t = txts.get(base, "") + " " + kwds.get(base, "")
+    base_t = txts.get(base, "")
+    if add_keywords:
+        base_t = base_t + " " + kwds.get(base, "")
     obj_t = base_t
     if key:
         obj_key = obj.get("K")
         # This object should have K and S keys
         if key in obj_key.get("S", []):
             lookup_k = obj_key["K"][0] + key
-            t2 = txts.get(lookup_k, "") + " " + kwds.get(lookup_k, "")
+            t2 = txts.get(lookup_k, "")
+            if add_keywords:
+                t2 = t2 + " " + kwds.get(lookup_k, "")
             if t2:
                 obj_t = f"{base_t} {t2}"
             else:
@@ -132,6 +136,12 @@ def read_txt(lang, kw_or_text):
     return d
 
 
+def dump(lang):
+    all_notations = list(set(hier(notations, "")))
+    for n in track(notations):
+        print(lookup_text(n, False))
+
+
 def index(lang, lang_name, prime_content=False):
     Z = []
     with sqlite3.connect("iconclass_index.sqlite") as index_db:
@@ -161,7 +171,7 @@ def index(lang, lang_name, prime_content=False):
         )
 
         batch = []
-        for row_id, n in tqdm(all_notations):
+        for row_id, n in track(all_notations):
             try:
                 t = "\n".join([lookup_text(part) for part in get_parts(n)])
             except TypeError:
@@ -219,4 +229,8 @@ if __name__ == "__main__":
     lang = sys.argv[1]
     txts = read_txt(lang, "txt")
     kwds = read_txt(lang, "kw")
-    index(lang, LANGUAGE_MAP[lang], lang == "en")
+    cmd = sys.argv[2]
+    if cmd == "index":
+        index(lang, LANGUAGE_MAP[lang], lang == "en")
+    elif cmd == "dump":
+        dump(lang)
