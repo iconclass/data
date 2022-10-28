@@ -3,7 +3,6 @@ import sys
 import textbase
 import re
 import sqlite3
-from rich.progress import track
 
 
 def hier(data, n):
@@ -83,7 +82,7 @@ def lookup_text(n, add_keywords=True):
                 obj_t = f"{base_t} {t2}"
             else:
                 raise TextNotFoundException(n)
-    return f"{n} {obj_t}"
+    return f"{n}\t{obj_t}"
 
 
 def read_n(filename):
@@ -138,11 +137,13 @@ def read_txt(lang, kw_or_text):
 
 def dump(lang):
     all_notations = list(set(hier(notations, "")))
-    for n in track(notations):
+    for n in all_notations:
         print(lookup_text(n, False))
 
 
 def index(lang, lang_name, prime_content=False):
+    from rich.progress import track
+
     Z = []
     with sqlite3.connect("iconclass_index.sqlite") as index_db:
         index_db.enable_load_extension(True)
