@@ -4202,11 +4202,14 @@
 95A(SALMONEUS)8|die Geschichte von Salmoneus - Attribute
 95A(SISYPHUS)|die Geschichte von Sisyphus
 95A(SISYPHUS)1|die Geschichte von Sisyphus - Kindheit, Jugend
+95A(SISYPHUS)11|die Geschichte von Sisyphus - Geburt
+95A(SISYPHUS)12|die Geschichte von Sisyphus - frühe Kindheit, Erziehung
 95A(SISYPHUS)2|die Geschichte von Sisyphus - Liebesaffären
 95A(SISYPHUS)3|die Geschichte von Sisyphus - Geburt
 95A(SISYPHUS)4|die Geschichte von Sisyphus - aggressive, unfreundliche Handlungen und Beziehungen
 95A(SISYPHUS)5|die Geschichte von Sisyphus - nicht-aggressive, freundliche oder neutrale Handlungen und Beziehungen
-95A(SISYPHUS)6|Leiden, Unglück des Sisyphus
+95A(SISYPHUS)6|die Geschichte von Sisyphus - Leiden, Unglück
+95A(SISYPHUS)68|die Geschichte von Sisyphus - Tod
 95A(SISYPHUS)681|Jupiter schickt Thanatos (den Tod) zu Sisyphus; letzterer aber kettet Thanatos an
 95A(SISYPHUS)6811|Mars befreit Thanatos und übergibt ihm Sisyphus
 95A(SISYPHUS)682|Sisyphus überredet Proserpina (und Pluto), ihn für eine Weile wieder in die oberirdische Welt zu entlassen
@@ -5346,6 +5349,8 @@
 96A1917|die Geschichte von Tages - spezifische Darstellungsformen, allegorische Darstellungsformen, Schutzgottheit von ...
 96A19178|die Geschichte von Tages - Triumph
 96A19179|die Geschichte von Tages - Anbetung, Verehrung, Kult, verehrt von ...
+96A1918|die Geschichte von Tages - Attribute 
+96A1919|die Geschichte von Tages - Nachkommenschaft, Begleiter, Gefolge etc.
 96A2|weibliche römische Gottheiten
 96A21|Acca Larentia
 96A22|Angerona
@@ -6707,6 +6712,8 @@
 98B(CHARONDAS)4|Leiden, Unglück des Charondas (+ in einem allegorischen oder symbolischen Rahmen; mit allegorischen oder symbolischen Beigaben)
 98B(CHARONDAS)5|die Geschichte von Charondas, dem Gesetzgeber - nicht-aggressive Handlungen einer Person der klassisch-antiken Geschichte
 98B(CHARONDAS)6|Leiden, Unglück des Charondas
+98B(CHARONDAS)68|Tod des Charondas, Gesetzgeber von Thurium: er tötet sich selbst, weil er versehentlich sein eigenes Gesetz gebrochen hat, indem er ein Schwert in der Versammlung trug
+98B(CHARONDAS)69|die Geschichte von Charondas, dem Gesetzgeber - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
 98B(CHARONDAS)7|die Geschichte von Charondas, dem Gesetzgeber - postume Erscheinungen einer Person der klassisch-antiken Geschichte
 98B(CHARONDAS)8|die Geschichte von Charondas, dem Gesetzgeber - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte
 98B(CHARONDAS)9|die Geschichte von Charondas, dem Gesetzgeber - Porträt einer Person der klassisch-antiken Geschichte
@@ -7222,6 +7229,7 @@
 98B(GRACCHUS, C.S.)5|die Geschichte von Gaius Sempronius Gracchus - nicht-aggressive Handlungen einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)6|Leiden, Unglück des Gaius Sempronius Gracchus
 98B(GRACCHUS, C.S.)68|Leiden, Unglück des Gaius Sempronius Gracchus - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
+98B(GRACCHUS, C.S.)69|die Geschichte von Gaius Sempronius Gracchus - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)7|die Geschichte von Gaius Sempronius Gracchus - postume Erscheinungen einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)8|die Geschichte von Gaius Sempronius Gracchus - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)9|die Geschichte von Gaius Sempronius Gracchus - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte (+ Variante)
@@ -8599,7 +8607,10 @@
 98C(AGRIPPINA THE ELDER)3|die Geschichte von Agrippina der Älteren - Darstellungen, denen der NAME einer historischen Person der klassisch-antiken Geschichte beigegeben werden kann
 98C(AGRIPPINA THE ELDER)4|die Geschichte von Agrippina der Älteren - aggressive Beziehungen einer Person der klassisch-antiken Geschichte
 98C(AGRIPPINA THE ELDER)5|nicht-aggressive Handlungen Agrippinas der Älteren
+98C(AGRIPPINA THE ELDER)51|Agrippina die Ältere in Brundisium (Brindisi): Sie kommt an Land und hält die Urne mit der Asche ihres Mannes Germanicus
 98C(AGRIPPINA THE ELDER)6|die Geschichte von Agrippina der Älteren - Leiden, Unglück einer Person der klassisch-antiken Geschichte
+98C(AGRIPPINA THE ELDER)68|die Geschichte von Agrippina der Älteren - Tod einer Person der klassisch-antiken Geschichte
+98C(AGRIPPINA THE ELDER)69|die Geschichte von Agrippina der Älteren - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
 98C(AGRIPPINA THE ELDER)7|die Geschichte von Agrippina der Älteren - postume Erscheinungen einer Person der klassisch-antiken Geschichte
 98C(AGRIPPINA THE ELDER)8|die Geschichte von Agrippina der Älteren - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte
 98C(AGRIPPINA THE ELDER)9|die Geschichte von Agrippina der Älteren - Porträt einer Person der klassisch-antiken Geschichte
@@ -8961,6 +8972,7 @@
 98C(OLYMPIAS)1|die Geschichte der Olympias - Kindheit, Jugend, Erziehung einer Person der klassisch-antiken Geschichte
 98C(OLYMPIAS)2|Liebesaffären der Olympias
 98C(OLYMPIAS)21|Olympias, die Mutter Alexanders des Großen, wird von einer Schlange oder einem Drachen umarmt
+98C(OLYMPIAS)211|Philipp von Mazedoniens Verdacht auf die Treue von Olympias wird von Nectanebus eingelullt, der in Form einer Schlange oder eines Drachen erscheint
 98C(OLYMPIAS)3|die Geschichte der Olympias - Darstellungen, denen der NAME einer historischen Person der klassisch-antiken Geschichte beigegeben werden kann
 98C(OLYMPIAS)4|die Geschichte der Olympias - aggressive Beziehungen einer Person der klassisch-antiken Geschichte
 98C(OLYMPIAS)5|die Geschichte der Olympias - nicht-aggressive Handlungen einer Person der klassisch-antiken Geschichte
@@ -9087,6 +9099,8 @@
 98C(SEMIRAMIS)68|der Tod der Semiramis: sie wird vor dem Grab des Ninus von ihrem Sohn Ninias erschlagen
 98C(SEMIRAMIS)69|Leiden, Unglück der Königin Semiramis - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
 98C(SEMIRAMIS)7|die Geschichte von der Königin Semiramis - postume Erscheinungen einer Person der klassisch-antiken Geschichte
+98C(SEMIRAMIS)8|die Geschichte von der Königin Semiramis - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte
+98C(SEMIRAMIS)9|die Geschichte von der Königin Semiramis - Porträt einer Person der klassisch-antiken Geschichte
 98C(SESTOS, WOMAN OF)|die Geschichte von der Frau des Sestos
 98C(SESTOS, WOMAN OF)1|die Geschichte von der Frau des Sestos - Kindheit, Jugend, Erziehung einer Person der klassisch-antiken Geschichte
 98C(SESTOS, WOMAN OF)2|die Geschichte von der Frau des Sestos - Liebesaffären einer Person der klassisch-antiken Geschichte
@@ -9174,6 +9188,8 @@
 98C(TOMYRIS)68|die Geschichte von Tomyris - Tod einer Person der klassisch-antiken Geschichte
 98C(TOMYRIS)69|die Geschichte von Tomyris - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
 98C(TOMYRIS)7|die Geschichte von Tomyris - postume Erscheinungen einer Person der klassisch-antiken Geschichte
+98C(TOMYRIS)8|die Geschichte von Tomyris - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte
+98C(TOMYRIS)9|die Geschichte von Tomyris - Porträt einer Person der klassisch-antiken Geschichte
 98C(TUCCIA)|die Geschichte von der Vestalin Tuccia
 98C(TUCCIA)1|die Geschichte von der Vestalin Tuccia - Kindheit, Jugend, Erziehung einer Person der klassisch-antiken Geschichte
 98C(TUCCIA)2|die Geschichte von der Vestalin Tuccia - Liebesaffären einer Person der klassisch-antiken Geschichte
@@ -9207,7 +9223,11 @@
 98C(VETURIA)4|die Geschichte von Veturia - aggressive Beziehungen einer Person der klassisch-antiken Geschichte
 98C(VETURIA)5|die Geschichte von Veturia - nicht-aggressive Handlungen einer Person der klassisch-antiken Geschichte
 98C(VETURIA)6|die Geschichte von Veturia - Leiden, Unglück einer Person der klassisch-antiken Geschichte
+98C(VETURIA)68|die Geschichte von Veturia - Tod einer Person der klassisch-antiken Geschichte
+98C(VETURIA)69|die Geschichte von Veturia - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
 98C(VETURIA)7|die Geschichte von Veturia - postume Erscheinungen einer Person der klassisch-antiken Geschichte
+98C(VETURIA)8|die Geschichte von Veturia - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte
+98C(VETURIA)9|die Geschichte von Veturia - Porträt einer Person der klassisch-antiken Geschichte
 98C(VIRGINIA)|die Geschichte von Virginia
 98C(VIRGINIA)1|die Geschichte von Virginia - Kindheit, Jugend, Erziehung einer Person der klassisch-antiken Geschichte
 98C(VIRGINIA)2|die Geschichte von Virginia - Liebesaffären einer Person der klassisch-antiken Geschichte
