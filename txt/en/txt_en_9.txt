@@ -4201,15 +4201,19 @@
 95A(SALMONEUS)8|(story of) Salmoneus - attributes
 95A(SISYPHUS)|(story of) Sisyphus
 95A(SISYPHUS)1|(story of) Sisyphus - early life, prime youth
+95A(SISYPHUS)11|(story of) Sisyphus - birth
+95A(SISYPHUS)12|(story of) Sisyphus - infancy, upbringing
 95A(SISYPHUS)2|(story of) Sisyphus - love-affairs
 95A(SISYPHUS)3|(story of) Sisyphus - most important deeds
 95A(SISYPHUS)4|(story of) Sisyphus - aggressive, unfriendly activities and relationships
 95A(SISYPHUS)5|(story of) Sisyphus - non-aggressive, friendly or neutral activities and relationships
 95A(SISYPHUS)6|suffering, misfortune of Sisyphus
+95A(SISYPHUS)68|death of Sisyphus
 95A(SISYPHUS)681|Jupiter sends Thanatos (Death) to Sisyphus, but the latter chains Thanatos up
 95A(SISYPHUS)6811|Mars releases Thanatos and hands Sisyphus over to him
 95A(SISYPHUS)682|Sisyphus persuades Proserpina (and Pluto) to let him return to the upper world for a while
 95A(SISYPHUS)6821|Mercury brings Sisyphus back to Hades
+95A(SISYPHUS)68|(story of) Sisyphus - apotheosis, deification
 95A(SISYPHUS)7|(story of) Sisyphus - specific aspects, allegorical aspects, as patron of
 95A(SISYPHUS)78|(story of) Sisyphus - triumph
 95A(SISYPHUS)79|(story of) Sisyphus - veneration, honoured by
@@ -5363,6 +5367,8 @@
 96A1917|(story of) Tages - specific aspects, allegorical aspects, as patron of
 96A19178|(story of) Tages - triumph
 96A19179|(story of) Tages - veneration, honoured by
+96A1918|(story of) Tages - attributes
+96A1919|(story of) Tages - offspring, companion(s), train etc.
 96A2|female Roman deities
 96A21|Acca Larentia
 96A22|Angerona
@@ -6724,6 +6730,8 @@
 98B(CHARONDAS)4|(story of) Charondas the lawgiver - aggressive relationships of person from classical history
 98B(CHARONDAS)5|(story of) Charondas the lawgiver - non-aggressive activities of person from classical history
 98B(CHARONDAS)6|suffering, misfortune of Charondas
+98B(CHARONDAS)68|death of Charondas, lawgiver of Thurium: he kills himself because he inadvertently broke his own law, by carrying a sword in the assembly
+98B(CHARONDAS)69|(story of) Charondas the lawgiver - apotheosis, deification
 98B(CHARONDAS)7|(story of) Charondas the lawgiver - post-mortem occurrences ~ person from classical history
 98B(CHARONDAS)8|(story of) Charondas the lawgiver - fabulous, clearly legendary extensions ~ person from classical history
 98B(CHARONDAS)9|(story of) Charondas the lawgiver - portrait of person from classical history
@@ -7239,6 +7247,7 @@
 98B(GRACCHUS, C.S.)5|(story of) Gaius Sempronius Gracchus - non-aggressive activities of person from classical history
 98B(GRACCHUS, C.S.)6|suffering, misfortune of Gaius Sempronius Gracchus
 98B(GRACCHUS, C.S.)68|death of Gaius Sempronius Gracchus: in order to escape his assailants, he bids a faithful slave to kill him
+98B(GRACCHUS, C.S.)69|(story of) Gaius Sempronius Gracchus - apotheosis, deification
 98B(GRACCHUS, C.S.)7|(story of) Gaius Sempronius Gracchus - post-mortem occurrences ~ person from classical history
 98B(GRACCHUS, C.S.)8|(story of) Gaius Sempronius Gracchus - fabulous, clearly legendary extensions ~ person from classical history
 98B(GRACCHUS, C.S.)9|(story of) Gaius Sempronius Gracchus - portrait of person from classical history
@@ -8616,7 +8625,10 @@
 98C(AGRIPPINA THE ELDER)3|(story of) Agrippina the Elder - representations to which the NAME of a person from classical history may be attached
 98C(AGRIPPINA THE ELDER)4|(story of) Agrippina the Elder - aggressive relationships of person from classical history
 98C(AGRIPPINA THE ELDER)5|non-aggressive activities of Agrippina the Elder
+98C(AGRIPPINA THE ELDER)51|Agrippina the Elder at Brundisium (Brindisi): she comes ashore, holding the urn containing the ashes of her husband Germanicus
 98C(AGRIPPINA THE ELDER)6|(story of) Agrippina the Elder - suffering, misfortune of person from classical history
+98C(AGRIPPINA THE ELDER)68|(story of) Agrippina the Elder - death of person from classical history
+98C(AGRIPPINA THE ELDER)69|(story of) Agrippina the Elder - apotheosis, deification of person from classical history
 98C(AGRIPPINA THE ELDER)7|(story of) Agrippina the Elder - post-mortem occurrences ~ person from classical history
 98C(AGRIPPINA THE ELDER)8|(story of) Agrippina the Elder - fabulous, clearly legendary extensions ~ person from classical history
 98C(AGRIPPINA THE ELDER)9|(story of) Agrippina the Elder - portrait of person from classical history
@@ -8978,6 +8990,7 @@
 98C(OLYMPIAS)1|(story of) Olympias - early life, infancy, upbringing of person from classical history
 98C(OLYMPIAS)2|love-affairs of Olympias
 98C(OLYMPIAS)21|Olympias, mother of Alexander the Great, embraced by a serpent or a dragon
+98C(OLYMPIAS)211|Philip of Macedon’s suspicion about Olympias’ fidelity is lulled by Nectanebus, who appears in the form of a serpent or a dragon
 98C(OLYMPIAS)3|(story of) Olympias - representations to which the NAME of a person from classical history may be attached
 98C(OLYMPIAS)4|(story of) Olympias - aggressive relationships of person from classical history
 98C(OLYMPIAS)5|(story of) Olympias - non-aggressive activities of person from classical history
@@ -9104,6 +9117,8 @@
 98C(SEMIRAMIS)68|death of Semiramis: she is slain by her son Ninias in front of Ninus' tomb
 98C(SEMIRAMIS)69|suffering, misfortune of queen Semiramis - apotheosis, deification of person from classical history
 98C(SEMIRAMIS)7|(story of) queen Semiramis - post-mortem occurrences ~ person from classical history
+98C(SEMIRAMIS)8|(story of) queen Semiramis - fabulous, clearly legendary extensions ~ person from classical history
+98C(SEMIRAMIS)9|(story of) queen Semiramis - portrait of person from classical history
 98C(SESTOS, WOMAN OF)|(story of) the woman of Sestos
 98C(SESTOS, WOMAN OF)1|(story of) the woman of Sestos - early life, infancy, upbringing of person from classical history
 98C(SESTOS, WOMAN OF)2|(story of) the woman of Sestos - love-affairs of person from classical history
@@ -9191,6 +9206,8 @@
 98C(TOMYRIS)68|(story of) Tomyris - death of person from classical history
 98C(TOMYRIS)69|(story of) Tomyris - apotheosis, deification of person from classical history
 98C(TOMYRIS)7|(story of) Tomyris - post-mortem occurrences ~ person from classical history
+98C(TOMYRIS)8|(story of) Tomyris - fabulous, clearly legendary extensions ~ person from classical history
+98C(TOMYRIS)9|(story of) Tomyris - portrait of person from classical history
 98C(TUCCIA)|(story of) the Vestal virgin Tuccia
 98C(TUCCIA)1|(story of) the Vestal virgin Tuccia - early life, infancy, upbringing of person from classical history
 98C(TUCCIA)2|(story of) the Vestal virgin Tuccia - love-affairs of person from classical history
@@ -9224,7 +9241,11 @@
 98C(VETURIA)4|(story of) Veturia - aggressive relationships of person from classical history
 98C(VETURIA)5|(story of) Veturia - non-aggressive activities of person from classical history
 98C(VETURIA)6|(story of) Veturia - suffering, misfortune of person from classical history
+98C(VETURIA)68|(story of) Veturia - death of person from classical history
+98C(VETURIA)69|(story of) Veturia - apotheosis, deification of person from classical history
 98C(VETURIA)7|(story of) Veturia - post-mortem occurrences ~ person from classical history
+98C(VETURIA)8|(story of) Veturia - fabulous, clearly legendary extensions ~ person from classical history
+98C(VETURIA)9|(story of) Veturia - apotheosis, deification of person from classical history
 98C(VIRGINIA)|(story of) Virginia
 98C(VIRGINIA)1|(story of) Virginia - early life, infancy, upbringing of person from classical history
 98C(VIRGINIA)2|(story of) Virginia - love-affairs of person from classical history
