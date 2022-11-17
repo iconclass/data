@@ -69,6 +69,10 @@ def text(ic, filename):
         nn = obj["N"][0]
         uri = f"http://iconclass.org/{quote(nn)}"
         t = ic.txts.get(nn)
+        if not t:
+            print(f"No text for {nn}")
+            continue
+        t = t.replace("\n", r"\n").replace('"', r"\"")
         F.write(f'<{uri}> <http://www.w3.org/2004/02/skos/core#prefLabel> "{t}"@en.\n')
 
         kprefix = obj.get("K", {}).get("K", [None])[0]
@@ -76,6 +80,7 @@ def text(ic, filename):
             continue
         for k in obj.get("K", {}).get("S", []):
             kt = ic.txts.get(kprefix + k)
+            kt = kt.replace("\n", r"\n").replace('"', r"\"")
             if not kt:
                 continue
             lastk = f"{nn}(+{k})"
