@@ -4201,15 +4201,19 @@
 95A(SALMONEUS)8|(histoire de) Salmonée - attributs
 95A(SISYPHUS)|(histoire de) Sisyphe
 95A(SISYPHUS)1|(histoire de) Sisyphe - première période de la vie, petite enfance
+95A(SISYPHUS)11|(histoire de) Sisyphe - naissance
+95A(SISYPHUS)12|(histoire de) Sisyphe - enfance, éducation
 95A(SISYPHUS)2|(histoire de) Sisyphe - les amours
 95A(SISYPHUS)3|(histoire de) Sisyphe - naissance
 95A(SISYPHUS)4|(histoire de) Sisyphe - activités et relations agressives, hostiles
 95A(SISYPHUS)5|(histoire de) Sisyphe - activités et relations non-agressives, amicales ou neutres
 95A(SISYPHUS)6|souffrance, mésaventures de Sisyphe
+95A(SISYPHUS)68|mort de Sisyphe
 95A(SISYPHUS)681|Sisyphe enchaîne Thanatos (la Mort), qui lui avait été envoyé par Jupiter
 95A(SISYPHUS)6811|Mars libère Thanatos (la Mort) et lui livre Sisyphe
 95A(SISYPHUS)682|Sisyphe persuade Proserpine (et Pluton) de le laisser sortir pour quelque temps des Enfers
 95A(SISYPHUS)6821|Mercure ramène Sisyphe aux Enfers
+95A(SISYPHUS)69|(histoire de) Sisyphe - apothéose, déification
 95A(SISYPHUS)7|(histoire de) Sisyphe - aspects spécifiques, aspects allégoriques, en tant que protecteur de
 95A(SISYPHUS)78|(histoire de) Sisyphe - triomphe
 95A(SISYPHUS)79|(histoire de) Sisyphe - culte, honoré par
@@ -5345,6 +5349,8 @@
 96A1917|(histoire de) Tagès - progéniture, compagnon(s), suite etc.
 96A19178|(histoire de) Tagès - triomphe
 96A19179|(histoire de) Tagès - culte, honoré par
+96A1918|(histoire de) Tagès - attributs
+96A1919|(histoire de) Tagès - progéniture, compagnon(s), suite etc.
 96A2|divinités féminines du panthéon romain
 96A21|Acca Larentia
 96A22|Angerona
@@ -6706,6 +6712,8 @@
 98B(CHARONDAS)4|souffrance, mésaventures de Charondas (+ dans un cadre, un décor allégorique ou symbolique; avec accessoires allégoriques ou symboliques)
 98B(CHARONDAS)5|(histoire de) Charondas, le législateur - activités non-agressives d'un personnage de l'antiquité classique
 98B(CHARONDAS)6|souffrance, mésaventures de Charondas
+98B(CHARONDAS)68|mort de Charondas, législateur de Thurium : il se tue parce qu'il a enfreint par inadvertance sa propre loi, en portant une épée dans l'assemblée
+98B(CHARONDAS)69|(story of) Charondas the lawgiver - apotheosis, deification
 98B(CHARONDAS)7|(histoire de) Charondas, le législateur - événements posthumes ~ personnage de l'antiquité classique
 98B(CHARONDAS)8|(histoire de) Charondas, le législateur - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique
 98B(CHARONDAS)9|(histoire de) Charondas, le législateur - portrait d'un personnage de l'antiquité classique
@@ -7220,7 +7228,8 @@
 98B(GRACCHUS, C.S.)4|(histoire de) Caius Sempronius Gracchus - relations agressives d'un personnage de l'antiquité classique
 98B(GRACCHUS, C.S.)5|(histoire de) Caius Sempronius Gracchus - activités non-agressives d'un personnage de l'antiquité classique
 98B(GRACCHUS, C.S.)6|souffrance, mésaventures de Caius Sempronius Gracchus
-98B(GRACCHUS, C.S.)68|souffrance, mésaventures de Caius Sempronius Gracchus - apothéose, déification d'un personnage de l'antiquité classique
+98B(GRACCHUS, C.S.)68|mort de Gaius Sempronius Gracchus : pour échapper à ses assaillants, il ordonne à un fidèle esclave de le tuer
+98B(GRACCHUS, C.S.)69|(story of) Gaius Sempronius Gracchus - apotheosis, deification
 98B(GRACCHUS, C.S.)7|(histoire de) Caius Sempronius Gracchus - événements posthumes ~ personnage de l'antiquité classique
 98B(GRACCHUS, C.S.)8|(histoire de) Caius Sempronius Gracchus - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique
 98B(GRACCHUS, C.S.)9|(histoire de) Caius Sempronius Gracchus - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique (+ variante)
@@ -8598,7 +8607,10 @@
 98C(AGRIPPINA THE ELDER)3|(histoire d') Agrippine l'Aînée - petite enfance, enfance, éducation d'un personnage de l'antiquité classique (+ dans un cadre, un décor allégorique ou symbolique; avec accessoires allégoriques ou symboliques)
 98C(AGRIPPINA THE ELDER)4|activités non agressives d'Agrippine l'Aînée (+ variante)
 98C(AGRIPPINA THE ELDER)5|activités non agressives d'Agrippine l'Aînée
+98C(AGRIPPINA THE ELDER)51|Agrippine l'Aînée à Brundisium (Brindisi) : elle débarque, tenant l'urne contenant les cendres de son mari Germanicus
 98C(AGRIPPINA THE ELDER)6|(histoire d') Agrippine l'Aînée - souffrance, mésaventures d'un personnage de l'antiquité classique
+98C(AGRIPPINA THE ELDER)68|(histoire d') Agrippine l'Aînée - mort d'un personnage de l'antiquité classique
+98C(AGRIPPINA THE ELDER)69|(histoire d') Agrippine l'Aînée - apothéose, déification d'un personnage de l'antiquité classique
 98C(AGRIPPINA THE ELDER)7|(histoire d') Agrippine l'Aînée - événements posthumes ~ personnage de l'antiquité classique
 98C(AGRIPPINA THE ELDER)8|(histoire d') Agrippine l'Aînée - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique
 98C(AGRIPPINA THE ELDER)9|(histoire d') Agrippine l'Aînée - portrait d'un personnage de l'antiquité classique
@@ -8960,6 +8972,7 @@
 98C(OLYMPIAS)1|(histoire d') Olympias - petite enfance, enfance, éducation d'un personnage de l'antiquité classique
 98C(OLYMPIAS)2|les amours d'Olympias
 98C(OLYMPIAS)21|Olympias, la mère d'Alexandre le Grand, enlacée par un serpent ou un dragon
+98C(OLYMPIAS)211|Les soupçons de Philippe de Macédoine sur la fidélité d'Olympias sont bercé par Nectanebus, qui apparaît sous la forme d'un serpent ou d'un dragon
 98C(OLYMPIAS)3|(histoire d') Olympias - représentations auxquelles on peut apposer le NOM d'un personnage de l'antiquité classique
 98C(OLYMPIAS)4|(histoire d') Olympias - relations agressives d'un personnage de l'antiquité classique
 98C(OLYMPIAS)5|(histoire d') Olympias - activités non-agressives d'un personnage de l'antiquité classique
@@ -9086,6 +9099,8 @@
 98C(SEMIRAMIS)68|mort de Sémiramis : elle est tuée par son fils Ninias (Ninus II) devant la tombe de Ninus
 98C(SEMIRAMIS)69|souffrance, mésaventures de la reine Sémiramis - apothéose, déification d'un personnage de l'antiquité classique
 98C(SEMIRAMIS)7|(histoire de) la reine Sémiramis - portrait d'un personnage de l'antiquité classique
+98C(SEMIRAMIS)8|(histoire de) la reine Sémiramis - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique
+98C(SEMIRAMIS)9|(histoire de) la reine Sémiramis - portrait d'un personnage de l'antiquité classique
 98C(SESTOS, WOMAN OF)|(histoire de) la femme de Sestos
 98C(SESTOS, WOMAN OF)1|(histoire de) la femme de Sestos - petite enfance, enfance, éducation d'un personnage de l'antiquité classique
 98C(SESTOS, WOMAN OF)2|(histoire de) la femme de Sestos - les amours d'un personnage de l'antiquité classique
@@ -9173,6 +9188,8 @@
 98C(TOMYRIS)68|(histoire de) Tomyris - mort d'un personnage de l'antiquité classique
 98C(TOMYRIS)69|(histoire de) Tomyris - apothéose, déification d'un personnage de l'antiquité classique
 98C(TOMYRIS)7|(histoire de) Tomyris - portrait d'un personnage de l'antiquité classique
+98C(TOMYRIS)8|(histoire de) Tomyris - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique
+98C(TOMYRIS)9|(histoire de) Tomyris - portrait d'un personnage de l'antiquité classique
 98C(TUCCIA)|(histoire de) la vestale Tuccia
 98C(TUCCIA)1|(histoire de) la vestale Tuccia - petite enfance, enfance, éducation d'un personnage de l'antiquité classique
 98C(TUCCIA)2|(histoire de) la vestale Tuccia - les amours d'un personnage de l'antiquité classique
@@ -9206,7 +9223,11 @@
 98C(VETURIA)4|(histoire de) Veturia - souffrance, mésaventures d'un personnage de l'antiquité classique
 98C(VETURIA)5|(histoire de) Veturia - événements posthumes ~ personnage de l'antiquité classique
 98C(VETURIA)6|(histoire de) Veturia - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique
+98C(VETURIA)68|(histoire de) Veturia - mort d'un personnage de l'antiquité classique
+98C(VETURIA)69|(histoire de) Veturia - apothéose, déification d'un personnage de l'antiquité classique
 98C(VETURIA)7|(histoire de) Veturia - activités non-agressives d'un personnage de l'antiquité classique (+ dans un cadre, un décor allégorique ou symbolique; avec accessoires allégoriques ou symboliques)
+98C(VETURIA)8|(histoire de) Veturia - adjonctions fabuleuses, manifestement légendaires ~ personnage de l'antiquité classique
+98C(VETURIA)9|(histoire de) Veturia - portrait d'un personnage de l'antiquité classique
 98C(VIRGINIA)|(histoire de) Virginie
 98C(VIRGINIA)1|(histoire de) Virginie - petite enfance, enfance, éducation d'un personnage de l'antiquité classique
 98C(VIRGINIA)2|(histoire de) Virginie - les amours d'un personnage de l'antiquité classique

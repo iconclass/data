@@ -4214,6 +4214,7 @@
 95A(SISYPHUS)6811|Mars befreit Thanatos und übergibt ihm Sisyphus
 95A(SISYPHUS)682|Sisyphus überredet Proserpina (und Pluto), ihn für eine Weile wieder in die oberirdische Welt zu entlassen
 95A(SISYPHUS)6821|Merkur bringt Sisyphus zurück in den Hades
+95A(SISYPHUS)69|die Geschichte von Sisyphus - Apotheose, Vergöttlichung
 95A(SISYPHUS)7|die Geschichte von Sisyphus - spezifische Darstellungsformen, allegorische Darstellungsformen, Schutzgottheit von ...
 95A(SISYPHUS)78|die Geschichte von Sisyphus - Triumph
 95A(SISYPHUS)79|die Geschichte von Sisyphus - Anbetung, Verehrung, Kult, verehrt von ...
@@ -7228,7 +7229,7 @@
 98B(GRACCHUS, C.S.)4|die Geschichte von Gaius Sempronius Gracchus - aggressive Beziehungen einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)5|die Geschichte von Gaius Sempronius Gracchus - nicht-aggressive Handlungen einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)6|Leiden, Unglück des Gaius Sempronius Gracchus
-98B(GRACCHUS, C.S.)68|Leiden, Unglück des Gaius Sempronius Gracchus - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
+98B(GRACCHUS, C.S.)68|Tod von Gaius Sempronius Gracchus: um seinen Angreifern zu entkommen, befiehlt er einem treuen Sklaven, ihn zu töten
 98B(GRACCHUS, C.S.)69|die Geschichte von Gaius Sempronius Gracchus - Apotheose, Vergöttlichung einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)7|die Geschichte von Gaius Sempronius Gracchus - postume Erscheinungen einer Person der klassisch-antiken Geschichte
 98B(GRACCHUS, C.S.)8|die Geschichte von Gaius Sempronius Gracchus - eindeutig legendarische Erweiterungen der Vita einer Person der klassisch-antiken Geschichte
