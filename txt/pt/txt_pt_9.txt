@@ -4176,15 +4176,19 @@
 95A(SALMONEUS)8|(história de) Salmoneu - atributos
 95A(SISYPHUS)|(história de) Sísifo
 95A(SISYPHUS)1|(história de) Sísifo - primeiros anos da vida
+95A(SISYPHUS)11|(história de) Sísifo - nascimento
+95A(SISYPHUS)12|(história de) Sísifo - infância, educação
 95A(SISYPHUS)2|(história de) Sísifo - relações amorosas
 95A(SISYPHUS)3|(história de) Sísifo - principais feitos
 95A(SISYPHUS)4|(história de) Sísifo - actividades e relacionamentos hostis
 95A(SISYPHUS)5|(história de) Sísifo - actividades e relacionamentos neutros ou amigáveis
 95A(SISYPHUS)6|sofrimento, infortúnio de Sísifo
+95A(SISYPHUS)68|morte de Sísifo
 95A(SISYPHUS)681|Júpiter envia Tânato (Morte) a Sísifo, mas este acorrenta-a
 95A(SISYPHUS)6811|Marte liberta Tânato e entrega-lhe Sísifo
 95A(SISYPHUS)682|Sísifo persuade Prosérpina (e Plutão) a deixá-lo regressar ao mundo superior por um momento
 95A(SISYPHUS)6821|Mercúrio leva Sísifo de volta ao Hades
+95A(SISYPHUS)69|(história de) Sísifo - apoteose, deificação
 95A(SISYPHUS)7|(história de) Sísifo - iconografia específica, aspectos alegóricos, como patrono ou protector
 95A(SISYPHUS)78|(história de) Sísifo - triunfo
 95A(SISYPHUS)79|(história de) Sísifo - veneração, culto, tributo
@@ -5336,6 +5340,8 @@
 96A1917|(história de) Tages - iconografia específica, aspectos alegóricos, como patrono ou protector
 96A19178|(história de) Tages - triunfo
 96A19179|(história de) Tages - veneração, culto, tributo
+96A1918|(história de) Tages - atributos
+96A1919|(história de) Tages - descendência, companheiro(s), séquito, etc.
 96A2|divindades romanas femininas
 96A21|Aca Laurência
 96A22|Angerona (Angerónia)
@@ -6697,6 +6703,8 @@
 98B(CHARONDAS)4|(história de) Carondas, o legislador - relacionamentos hostis da personagem da história clássica
 98B(CHARONDAS)5|(história de) Carondas, o legislador - actividades não agressivas da personagem da história clássica
 98B(CHARONDAS)6|sofrimento, infortúnio de Carondas
+98B(CHARONDAS)68|morte de Charondas, legislador de Thurium: ele se mata porque inadvertidamente quebrou sua própria lei, portando uma espada na assembléia
+98B(CHARONDAS)69|(história de) Carondas, o legislador - apoteose, deificação da personagem da história clássica
 98B(CHARONDAS)7|(história de) Carondas, o legislador - ocorrências post-mortem ~ personagem da história clássica
 98B(CHARONDAS)8|(história de) Carondas, o legislador - episódios fantásticos ou lendários ~ personagem da história clássica
 98B(CHARONDAS)9|(história de) Carondas, o legislador - retrato da personagem da história clássica
@@ -7212,6 +7220,7 @@
 98B(GRACCHUS, C.S.)5|(história de) Gaio Semprónio Graco - actividades não agressivas da personagem da história clássica
 98B(GRACCHUS, C.S.)6|sofrimento, infortúnio de Gaio Semprónio Graco
 98B(GRACCHUS, C.S.)68|morte de Gaio Semprónio Graco: a fim de escapar dos seus agressores, obriga um escravo fiel a matá-lo
+98B(GRACCHUS, C.S.)69|(história de) Gaio Semprónio Graco - apoteose, deificação da personagem da história clássica
 98B(GRACCHUS, C.S.)7|(história de) Gaio Semprónio Graco - ocorrências post-mortem ~ personagem da história clássica
 98B(GRACCHUS, C.S.)8|(história de) Gaio Semprónio Graco - episódios fantásticos ou lendários ~ personagem da história clássica
 98B(GRACCHUS, C.S.)9|(história de) Gaio Semprónio Graco - retrato da personagem da história clássica
@@ -8589,7 +8598,10 @@
 98C(AGRIPPINA THE ELDER)3|(história de) Agripina, a Maior - representações nas quais o NOME de uma personagem da história clássica pode estar incluído
 98C(AGRIPPINA THE ELDER)4|(história de) Agripina, a Maior - relacionamentos hostis da personagem da história clássica
 98C(AGRIPPINA THE ELDER)5|actividades não agressivas de Agripina, a Maior
+98C(AGRIPPINA THE ELDER)51|Agripina, a Maior, em Brundisium (Brindisi): ela desembarca segurando a urna contendo as cinzas de seu marido Germânico
 98C(AGRIPPINA THE ELDER)6|(história de) Agripina, a Maior - sofrimento, infortúnio da personagem da história clássica
+98C(AGRIPPINA THE ELDER)68|(história de) Agripina, a Maior - morte da personagem da história clássica
+98C(AGRIPPINA THE ELDER)69|(história de) Agripina, a Maior - apoteose, deificação da personagem da história clássica
 98C(AGRIPPINA THE ELDER)7|(história de) Agripina, a Maior - ocorrências post-mortem ~ personagem da história clássica
 98C(AGRIPPINA THE ELDER)8|(história de) Agripina, a Maior - episódios fantásticos ou lendários ~ personagem da história clássica
 98C(AGRIPPINA THE ELDER)9|(história de) Agripina, a Maior - retrato da personagem da história clássica
@@ -8951,6 +8963,7 @@
 98C(OLYMPIAS)1|(história de) Olímpia - primeiros anos, infância, educação da personagem da história clássica
 98C(OLYMPIAS)2|relações amorosas de Olímpia
 98C(OLYMPIAS)21|Olímpia, mãe de Alexandre, o Grande (Alexandre Magno), abraçada por uma serpente ou um dragão
+98C(OLYMPIAS)211|A suspeita de Filipe da Macedônia sobre a fidelidade de Olímpia é embalada por Nectanebus, que aparece na forma de uma serpente ou dragão
 98C(OLYMPIAS)3|(história de) Olímpia - representações nas quais o NOME de uma personagem da história clássica pode estar incluído
 98C(OLYMPIAS)4|(história de) Olímpia - relacionamentos hostis da personagem da história clássica
 98C(OLYMPIAS)5|(história de) Olímpia - actividades não agressivas da personagem da história clássica
@@ -9077,6 +9090,8 @@
 98C(SEMIRAMIS)68|morte de Semíramis: é morta pelo seu filho Nínias (Nínia) em frente do túmulo de Nino
 98C(SEMIRAMIS)69|sofrimento, infortúnio de rainha Semíramis - apoteose, deificação da personagem da história clássica
 98C(SEMIRAMIS)7|(história da) rainha Semíramis - ocorrências post-mortem ~ personagem da história clássica
+98C(SEMIRAMIS)8|(história da) rainha Semíramis - episódios fantásticos ou lendários ~ personagem da história clássica
+98C(SEMIRAMIS)9|(história da) rainha Semíramis - retrato da personagem da história clássica
 98C(SESTOS, WOMAN OF)|(história da) mulher de Sesto
 98C(SESTOS, WOMAN OF)1|(história da) mulher de Sesto - primeiros anos, infância, educação da personagem da história clássica
 98C(SESTOS, WOMAN OF)2|(história da) mulher de Sesto - relações amorosas da personagem da história clássica
@@ -9164,6 +9179,8 @@
 98C(TOMYRIS)68|(história de) Tómiris (Tâmiris) - morte da personagem da história clássica
 98C(TOMYRIS)69|(história de) Tómiris (Tâmiris) - apoteose, deificação da personagem da história clássica
 98C(TOMYRIS)7|(história de) Tómiris (Tâmiris) - ocorrências post-mortem ~ personagem da história clássica
+98C(TOMYRIS)8|(história de) Tómiris (Tâmiris) - episódios fantásticos ou lendários ~ personagem da história clássica
+98C(TOMYRIS)9|(história de) Tómiris (Tâmiris) - retrato da personagem da história clássica
 98C(TUCCIA)|(história de) Túcia, a virgem vestal
 98C(TUCCIA)1|(história de) Túcia, a virgem vestal - primeiros anos, infância, educação da personagem da história clássica
 98C(TUCCIA)2|(história de) Túcia, a virgem vestal - relações amorosas da personagem da história clássica
@@ -9197,7 +9214,11 @@
 98C(VETURIA)4|(história de) Vetúria - relacionamentos hostis da personagem da história clássica
 98C(VETURIA)5|(história de) Vetúria - actividades não agressivas da personagem da história clássica
 98C(VETURIA)6|(história de) Vetúria - sofrimento, infortúnio da personagem da história clássica
+98C(VETURIA)68|(história de) Vetúria - morte da personagem da história clássica
+98C(VETURIA)69|(história de) Vetúria - apoteose, deificação da personagem da história clássica
 98C(VETURIA)7|(história de) Vetúria - ocorrências post-mortem ~ personagem da história clássica
+98C(VETURIA)8|(história de) Vetúria - episódios fantásticos ou lendários ~ personagem da história clássica
+98C(VETURIA)9|(história de) Vetúria - retrato da personagem da história clássica
 98C(VIRGINIA)|(história de) Virgínia
 98C(VIRGINIA)1|(história de) Virgínia - primeiros anos, infância, educação da personagem da história clássica
 98C(VIRGINIA)2|(história de) Virgínia - relações amorosas da personagem da história clássica
