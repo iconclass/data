@@ -6130,7 +6130,6 @@
 49E39313(CHALICE)|pots, jars: chalice
 49E39313(CRUCIBLE)|pots, jars: crucible
 49E39313(CUPEL)|pots, jars: cupel
-49E39313(...)|pots (with NAME)
 49E3932|alchemistic furnace
 49E3932(...)|alchemistic furnace (with NAME)
 49E3932(ASSAY FURNACE)|alchemistic furnace: assay furnace

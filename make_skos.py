@@ -1,105 +1,157 @@
-import os
-from urllib.parse import quote_plus
+import sys, os
 import textbase
-from rich import print
+from urllib.parse import quote
 from rich.progress import track
-from rdflib import Namespace
-from rdflib.namespace import DC, SKOS, RDF
-from rdflib import Graph, URIRef, Literal
 
 
-def set_parents(objs: dict):
-    for n, obj in track(objs.items()):
-        for c in obj.get("C", []):
-            c_obj = objs.get(c)
-            if not c_obj:
-                print(c)
+def read_n(filename, keys):
+    d = {}
+    for x in textbase.parse(filename):
+        n = x.get("N")
+        if n:
+            d[n[0]] = x
+        k = x.get("K")
+        if k:
+            kk = keys.get(k[0])
+            if kk:
+                x["K"] = kk
             else:
-                c_obj["B"] = n
+                del x["K"]
+    return d
 
 
-def main():
-    ic = {}
-    for obj in track(textbase.parse("notations.txt")):
-        ic[obj["N"][0]] = obj
-    set_parents(ic)
-    for dirpath, dirs, files in os.walk("txt"):
-        for filename in files:
-            if not filename.startswith("txt_"):
-                continue
-            lang, txts = read_texts(os.path.join(dirpath, filename))
-            for notation, txt in txts:
-                if notation not in ic:
-                    print(filename, notation)
+def read_k(filename):
+    d = {}
+    for x in textbase.parse(filename):
+        k = x.get("K")
+        # Suppress the q of Keys here, this need to be double-checked with JPJB
+        suffixes = [s for s in x.get("S", []) if s.find("q") < 0]
+        if k and suffixes:
+            x["S"] = suffixes
+            d[k[0]] = x
+    return d
+
+
+def read_txt(lang, kw_or_text):
+    d = {}
+    langpath = os.path.join(kw_or_text, lang)
+    for filename in os.listdir(langpath):
+        filepath = os.path.join(langpath, filename)
+        if not filepath.lower().endswith(".txt"):
+            continue
+        with open(filepath, "rt", encoding="utf8") as input_file:
+            for lineno, line in enumerate(input_file.read().split("\n")):
+                if line.startswith("#"):
+                    continue
+                tmp = line.split("|")
+                if len(tmp) != 2:
+                    continue
+                notation, txt = tmp
+                if notation in d:
+                    d[notation] = d[notation] + "\n" + txt
                 else:
-                    ic[notation].setdefault("txt", {})[lang] = txt
-    return ic
+                    d[notation] = txt
+    return d
 
 
-def read_texts(filename):
-    if filename[4:6] not in (
-        "en",
-        "de",
-        "fr",
-        "it",
-        "fi",
-        "nl",
-        "pt",
-        "zh",
-        "jp",
-        "hu",
-        "pl",
-    ):
-        return None, []
-    lang = filename[4:6]
-    buf = []
-    with open(filename, "rt", encoding="utf8") as input_file:
-        for line in input_file.read().split("\n"):
-            if line.startswith("#"):
+class IC:
+    def __init__(self, lang="en"):
+        self.keys = read_k("keys.txt")
+        self.notations = read_n("notations.txt", self.keys)
+        self.notations[""] = {"C": [str(x) for x in range(10)], "N": ["ICONCLASS"]}
+        self.txts = read_txt(lang, "txt")
+        self.kwds = read_txt(lang, "kw")
+
+
+def text(ic, filename):
+    F = open(filename, "w")
+    for obj in track(ic.notations.values()):
+        nn = obj["N"][0]
+        uri = f"http://iconclass.org/{quote(nn)}"
+        t = ic.txts.get(nn)
+        if not t:
+            print(f"No text for {nn}")
+            continue
+        t = t.replace("\n", r"\n").replace('"', r"\"")
+        F.write(f'<{uri}> <http://www.w3.org/2004/02/skos/core#prefLabel> "{t}"@en.\n')
+
+        kprefix = obj.get("K", {}).get("K", [None])[0]
+        if not kprefix:
+            continue
+        for k in obj.get("K", {}).get("S", []):
+            kt = ic.txts.get(kprefix + k)
+            kt = kt.replace("\n", r"\n").replace('"', r"\"")
+            if not kt:
                 continue
-            line = line.strip()
-            tmp = line.split("|")
-            if len(tmp) != 2:
-                continue
-            notation, txt = tmp
-            buf.append((notation, txt))
-        print(f"Read {len(buf)} for {lang} in {filename}")
-    return lang, buf
+            lastk = f"{nn}(+{k})"
+            kuri = f"http://iconclass.org/{quote(lastk)}"
+            F.write(
+                f'<{kuri}> <http://www.w3.org/2004/02/skos/core#prefLabel> "{t} (+ {kt})"@en .\n'
+            )
+    F.close()
 
 
-def dump(ic):
+def structure(ic, filename):
+    F = open(filename, "w")
+    for obj in track(ic.notations.values()):
+        nn = obj["N"][0]
+        uri = f"http://iconclass.org/{quote(nn)}"
+        F.write(
+            f"<{uri}> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .\n"
+        )
+        F.write(
+            f"<{uri}> <http://www.w3.org/2004/02/skos/core#inScheme> <https://iconclass.org/rdf/2021/09/> .\n"
+        )
+        F.write(f'<{uri}> <http://www.w3.org/2004/02/skos/core#notation> "{nn}" .\n')
 
-    g = Graph()
-    IC = Namespace("http://iconclass.org/")
-    g.bind("ic", IC)
-    g.bind("rdf", RDF)
-    g.bind("skos", SKOS)
-
-    def ga(*kw):
-        s, p, o = kw
-        g.add((s, p, o))
-
-    for n, obj in track(ic.items()):
-        N = URIRef(IC[quote_plus(n)])
-        ga(N, RDF.type, SKOS.Concept)
-        ga(N, SKOS.notation, Literal(n))
-        ga(N, SKOS.inScheme, URIRef("http://iconclass.org/rdf/2011/09/"))
-        for lang, txt in obj.get("txt", {}).items():
-            ga(N, SKOS.prefLabel, Literal(txt, lang=lang))
-
-        b = obj.get("B")
-        if b:
-            ga(N, SKOS.broader, IC[quote_plus(b)])
         for c in obj.get("C", []):
-            ga(N, SKOS.narrower, IC[quote_plus(c)])
-        for r in obj.get("R", []):
-            ga(N, SKOS.related, IC[quote_plus(r)])
+            curi = f"http://iconclass.org/{quote(c)}"
+            F.write(
+                f"<{uri}> <http://www.w3.org/2004/02/skos/core#narrower> <{curi}> .\n"
+            )
+            F.write(
+                f"<{curi}> <http://www.w3.org/2004/02/skos/core#broader> <{uri}> .\n"
+            )
 
-        # TODO add DC.subject for the keyswords
-    return g
+        for r in obj.get("R", []):
+            ruri = f"http://iconclass.org/{quote(r)}"
+            F.write(
+                f"<{uri}> <http://www.w3.org/2004/02/skos/core#related> <{ruri}> .\n"
+            )
+
+        for k in obj.get("K", {}).get("S", []):
+            thek = ""
+            theuri = nn
+            for kk in k:
+                thek = thek + kk
+                lastk = f"{nn}(+{thek})"
+                kuri = f"http://iconclass.org/{quote(lastk)}"
+                nuri = f"http://iconclass.org/{quote(theuri)}"
+                F.write(
+                    f"<{nuri}> <http://www.w3.org/2004/02/skos/core#narrower> <{kuri}> .\n"
+                )
+                F.write(
+                    f"<{kuri}> <http://www.w3.org/2004/02/skos/core#broader> <{nuri}> .\n"
+                )
+                theuri = lastk
+    F.close()
 
 
 if __name__ == "__main__":
-    ic = main()
-    thegraph = dump(ic)
-    open("iconclass.ttl", "w").write(thegraph.serialize())
+    if len(sys.argv) < 2:
+        print(
+            f"""
+Usage:
+------
+
+To print out the SKOS structural triples
+  {sys.argv[0]} struct
+To print out the textual triples
+  {sys.argv[0]} text
+"""
+        )
+        sys.exit(1)
+    if sys.argv[1] == "struct":
+        structure(IC(), "iconclass_structure_skos.nt")
+    elif sys.argv[1] == "text":
+        text(IC(), "iconclass_text_skos.nt")
