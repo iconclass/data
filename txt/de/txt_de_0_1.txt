@@ -3897,36 +3897,36 @@
 11H(JOHN OF THE CROSS)83|Johannes vom Kreuz, Karmelitermönch und Mystiker; mögliche Attribute: Buch, Ketten, Kruzifix, Adler, Lilie, Schreibfeder - postume Handlungen, Erscheinungen eines männlichen Heiligen
 11H(JOHN OF THE CROSS)84|Johannes vom Kreuz, Karmelitermönch und Mystiker; mögliche Attribute: Buch, Ketten, Kruzifix, Adler, Lilie, Schreibfeder - Seligsprechung, Heiligsprechung eines männlichen Heiligen
 11H(JOHN OF THE CROSS)9|Johannes vom Kreuz, Karmelitermönch und Mystiker; mögliche Attribute: Buch, Ketten, Kruzifix, Adler, Lilie, Schreibfeder - Bildnis eines männlichen Heiligen
-11H(JOHN THE BAPTIST)|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab
-11H(JOHN THE BAPTIST)0|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger, der in einer Gruppe dargestellt ist
-11H(JOHN THE BAPTIST)1|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - besondere Darstellungsformen eines männlichen Heiligen
-11H(JOHN THE BAPTIST)11|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger als Patron, Beschützer, Fürsprecher
-11H(JOHN THE BAPTIST)119|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger beschützt Gläubige mit seinem Mantel (Schutzmantel)
-11H(JOHN THE BAPTIST)12|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger schreibt, studiert, unterrichtet, diktiert (z.B. als Kirchenlehrer)
-11H(JOHN THE BAPTIST)13|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger als Ordensgründer
-11H(JOHN THE BAPTIST)131|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger bei einer Regelbestätigung
-11H(JOHN THE BAPTIST)2|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Kindheit und Jugend eines männlichen Heiligen
-11H(JOHN THE BAPTIST)3|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Frömmigkeit eines männlichen Heiligen
-11H(JOHN THE BAPTIST)31|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Berufung, Bekehrung eines männlichen Heiligen
-11H(JOHN THE BAPTIST)32|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Taufe, Weihe, Gelübde eines männlichen Heiligen
-11H(JOHN THE BAPTIST)33|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Verzicht auf weltliche Güter, Askese eines männlichen Heiligen
-11H(JOHN THE BAPTIST)34|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Vision(en), mystische Vermählung eines männlichen Heiligen
-11H(JOHN THE BAPTIST)35|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Versuchung eines männlichen Heiligen
-11H(JOHN THE BAPTIST)36|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Buße eines männlichen Heiligen
-11H(JOHN THE BAPTIST)37|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger bei der Meditation, in Ekstase
-11H(JOHN THE BAPTIST)4|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - nicht-wundertätige Handlungen und Ereignisse in der Vita eines männlichen Heiligen
-11H(JOHN THE BAPTIST)5|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Wunder in der Vita eines männlichen Heiligen
-11H(JOHN THE BAPTIST)59|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Stigmatisation eines männlichen Heiligen
-11H(JOHN THE BAPTIST)6|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Martyrium, Leiden, Scheitern, Tod eines männlichen Heiligen
-11H(JOHN THE BAPTIST)68|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Tod, Totenbett eines männlichen Heiligen
-11H(JOHN THE BAPTIST)69|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Leichenschändung am Körper eines männlichen Heiligen
-11H(JOHN THE BAPTIST)7|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Apotheose, Verklärung, Triumph eines männlichen Heiligen
-11H(JOHN THE BAPTIST)8|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - postume Ereignisse in der Vita eines männlichen Heiligen
-11H(JOHN THE BAPTIST)81|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Auffindung, Translation der Reliquien eines männlichen Heiligen
-11H(JOHN THE BAPTIST)82|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Wunder durch die Berührung von Reliquien eines männlichen Heiligen
-11H(JOHN THE BAPTIST)83|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - postume Handlungen, Erscheinungen eines männlichen Heiligen
-11H(JOHN THE BAPTIST)84|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Seligsprechung, Heiligsprechung eines männlichen Heiligen
-11H(JOHN THE BAPTIST)9|Johannnes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Bildnis eines männlichen Heiligen
+11H(JOHN THE BAPTIST)|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab
+11H(JOHN THE BAPTIST)0|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger, der in einer Gruppe dargestellt ist
+11H(JOHN THE BAPTIST)1|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - besondere Darstellungsformen eines männlichen Heiligen
+11H(JOHN THE BAPTIST)11|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger als Patron, Beschützer, Fürsprecher
+11H(JOHN THE BAPTIST)119|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger beschützt Gläubige mit seinem Mantel (Schutzmantel)
+11H(JOHN THE BAPTIST)12|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger schreibt, studiert, unterrichtet, diktiert (z.B. als Kirchenlehrer)
+11H(JOHN THE BAPTIST)13|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger als Ordensgründer
+11H(JOHN THE BAPTIST)131|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger bei einer Regelbestätigung
+11H(JOHN THE BAPTIST)2|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Kindheit und Jugend eines männlichen Heiligen
+11H(JOHN THE BAPTIST)3|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Frömmigkeit eines männlichen Heiligen
+11H(JOHN THE BAPTIST)31|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Berufung, Bekehrung eines männlichen Heiligen
+11H(JOHN THE BAPTIST)32|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Taufe, Weihe, Gelübde eines männlichen Heiligen
+11H(JOHN THE BAPTIST)33|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Verzicht auf weltliche Güter, Askese eines männlichen Heiligen
+11H(JOHN THE BAPTIST)34|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Vision(en), mystische Vermählung eines männlichen Heiligen
+11H(JOHN THE BAPTIST)35|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Versuchung eines männlichen Heiligen
+11H(JOHN THE BAPTIST)36|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Buße eines männlichen Heiligen
+11H(JOHN THE BAPTIST)37|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - ein männlicher Heiliger bei der Meditation, in Ekstase
+11H(JOHN THE BAPTIST)4|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - nicht-wundertätige Handlungen und Ereignisse in der Vita eines männlichen Heiligen
+11H(JOHN THE BAPTIST)5|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Wunder in der Vita eines männlichen Heiligen
+11H(JOHN THE BAPTIST)59|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Stigmatisation eines männlichen Heiligen
+11H(JOHN THE BAPTIST)6|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Martyrium, Leiden, Scheitern, Tod eines männlichen Heiligen
+11H(JOHN THE BAPTIST)68|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Tod, Totenbett eines männlichen Heiligen
+11H(JOHN THE BAPTIST)69|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Leichenschändung am Körper eines männlichen Heiligen
+11H(JOHN THE BAPTIST)7|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Apotheose, Verklärung, Triumph eines männlichen Heiligen
+11H(JOHN THE BAPTIST)8|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - postume Ereignisse in der Vita eines männlichen Heiligen
+11H(JOHN THE BAPTIST)81|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Auffindung, Translation der Reliquien eines männlichen Heiligen
+11H(JOHN THE BAPTIST)82|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Wunder durch die Berührung von Reliquien eines männlichen Heiligen
+11H(JOHN THE BAPTIST)83|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - postume Handlungen, Erscheinungen eines männlichen Heiligen
+11H(JOHN THE BAPTIST)84|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Seligsprechung, Heiligsprechung eines männlichen Heiligen
+11H(JOHN THE BAPTIST)9|Johannes der Täufer; mögliche Attribute: Buch, Schilfkreuz, Taufgefäß, Honigwabe, Lamm, Stab - Bildnis eines männlichen Heiligen
 11H(JOHN)|Johannes der Evangelist, Apostel; mögliche Attribute: Buch, Kessel, Kelch mit Schlange, Adler, Palme, Schriftrolle
 11H(JOHN)0|Johannes der Evangelist, Apostel; mögliche Attribute: Buch, Kessel, Kelch mit Schlange, Adler, Palme, Schriftrolle - ein männlicher Heiliger, der in einer Gruppe dargestellt ist
 11H(JOHN)1|spezifische Erscheinungsformen des hl. Johannes des Evangelisten
