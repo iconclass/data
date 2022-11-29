@@ -1149,7 +1149,6 @@
 41D211(MANTEAU)|manteau
 41D211(MORNING DRESS)|morning dress
 41D211(REDINGOTE)|redingote
-41D211(ROBE À L’ANGLAISE)|robe à l'anglaise
 41D211(ROBE VOLANTE)|robe volante
 41D211(ROBE À L'ANGLAISE)|robe à l'anglaise
 41D211(ROBE À LA CIRCASSIENNE)|robe à la circassienne
@@ -8921,7 +8920,6 @@
 49E392|symbol
 49E393|equipment
 49E3931|vessel
-49E3931(...)|flask
 49E39311|ampulla
 49E39311|bottle
 49E39311(OVUM PHILOSOPHICUM)|egg
