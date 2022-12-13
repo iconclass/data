@@ -2827,7 +2827,7 @@
 31A344|sour (taste)
 31A345|bitter (taste)
 31A3450|bitter taste, represented allegorically or symbolically
-31A35|feeling (one of the five senses)
+31A35|touch, feeling (one of the five senses)
 31A350|'Tatto' (Ripa)
 31A351|agreeable feeling
 31A352|disagreeable feeling
