@@ -654,6 +654,10 @@ KW1 anointing
 REF see also
 KW2 embalming
 $
+KW1 anointing
+REF see also
+KW2 scent
+$
 KW1 answer
 REF see also
 KW2 asking
@@ -12210,6 +12214,10 @@ KW1 ointment
 REF see also
 KW2 anointing
 $
+KW1 ointment
+REF see also
+KW2 scent
+$
 KW1 old age
 REF see also
 KW2 old man
@@ -15213,6 +15221,10 @@ $
 KW1 scaring away
 REF see
 KW2 chasing away
+$
+KW1 scent
+REF see also
+KW2 anointing
 $
 KW1 scent
 REF see also
