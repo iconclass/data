@@ -11729,33 +11729,33 @@
 12O6|places and objects of worship ~ Shinto
 12O61|temple, shrine ~ Shinto
 12OO51|priest ~ Shinto - OO - priestess
-12P|tribal religions of South-East Asia
-12Q|African tribal religions
-12Q2|ritual practices ~ African tribal religions
-12Q21|worship and devotion ~ African tribal religions
-12Q211|prayer ~ African tribal religions
-12Q212|sacrifice ~ African tribal religions
-12Q213|making music and dancing ~ African tribal religions
-12Q214|orgy ~ African tribal religions
-12R|American Indian religions
-12R1|conceptions and ideas visualized ~ American Indian religions
-12R13|representations ~ gods, demi-gods, heroes, etc. (American Indian religions)
-12R13(...)|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions)
-12R13(...)1|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - early life, prime youth of non-Christian god or goddess
-12R13(...)11|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - birth of non-Christian god or goddess
-12R13(...)12|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - infancy, upbringing of non-Christian god or goddess
-12R13(...)2|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - love-affairs of non-Christian god or goddess
-12R13(...)3|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - most important deeds of non-Christian god or goddess
-12R13(...)4|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - aggressive, unfriendly activities and relationships of non-Christian god or goddess
-12R13(...)5|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - non-aggressive, friendly or neutral activities and relationships of non-Christian god or goddess
-12R13(...)6|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - suffering, misfortune of non-Christian god or goddess
-12R13(...)68|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - death of non-Christian god or goddess
-12R13(...)69|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - apotheosis, deification of non-Christian god or goddess
-12R13(...)7|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - specific aspects, allegorical aspects of non-Christian god or goddess
-12R13(...)78|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - triumph of non-Christian god or goddess
-12R13(...)79|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - veneration, honouring of non-Christian god or goddess
-12R13(...)8|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - attributes of non-Christian god or goddess
-12R13(...)9|representations ~ gods, demi-gods, heroes, etc. (with NAME) (American Indian religions) - offspring, companion(s), train, etc. of non-Christian god or goddess
+12P|traditional religions of South-East Asia
+12Q|African traditional religions
+12Q2|ritual practices ~ African traditional religions
+12Q21|worship and devotion ~ African traditional religions
+12Q211|prayer ~ African traditional religions
+12Q212|sacrifice ~ African traditional religions
+12Q213|making music and dancing ~ African traditional religions
+12Q214|orgy ~ African traditional religions
+12R|native American religions
+12R1|conceptions and ideas visualized ~ native American religions
+12R13|representations ~ gods, demi-gods, heroes, etc. (native American religions)
+12R13(...)|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions)
+12R13(...)1|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - early life, prime youth of non-Christian god or goddess
+12R13(...)11|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - birth of non-Christian god or goddess
+12R13(...)12|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - infancy, upbringing of non-Christian god or goddess
+12R13(...)2|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - love-affairs of non-Christian god or goddess
+12R13(...)3|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - most important deeds of non-Christian god or goddess
+12R13(...)4|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - aggressive, unfriendly activities and relationships of non-Christian god or goddess
+12R13(...)5|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - non-aggressive, friendly or neutral activities and relationships of non-Christian god or goddess
+12R13(...)6|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - suffering, misfortune of non-Christian god or goddess
+12R13(...)68|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - death of non-Christian god or goddess
+12R13(...)69|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - apotheosis, deification of non-Christian god or goddess
+12R13(...)7|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - specific aspects, allegorical aspects of non-Christian god or goddess
+12R13(...)78|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - triumph of non-Christian god or goddess
+12R13(...)79|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - veneration, honouring of non-Christian god or goddess
+12R13(...)8|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - attributes of non-Christian god or goddess
+12R13(...)9|representations ~ gods, demi-gods, heroes, etc. (with NAME) (native American religions) - offspring, companion(s), train, etc. of non-Christian god or goddess
 12R13(QUETZALCOATL)|Quetzalcoatl, Aztec god of the winds and sciences
 12R13(QUETZALCOATL)1|Quetzalcoatl, Aztec god of the winds and sciences - early life, prime youth of non-Christian god or goddess
 12R13(QUETZALCOATL)11|Quetzalcoatl, Aztec god of the winds and sciences - birth of non-Christian god or goddess
@@ -11773,60 +11773,60 @@
 12R13(QUETZALCOATL)79|Quetzalcoatl, Aztec god of the winds and sciences - veneration, honouring of non-Christian god or goddess
 12R13(QUETZALCOATL)8|Quetzalcoatl, Aztec god of the winds and sciences - attributes of non-Christian god or goddess
 12R13(QUETZALCOATL)9|Quetzalcoatl, Aztec god of the winds and sciences - offspring, companion(s), train, etc. of non-Christian god or goddess
-12R14|representations ~ natural phenomena (American Indian religions)
-12R2|ritual practices ~ American Indian religions
-12R21|worship and devotion ~ American Indian religions
-12R211|prayer ~ American Indian religions
-12R212|sacrifice ~ American Indian religions
-12R2121|animal sacrifice ~ American Indian religions
-12R2122|human sacrifice ~ American Indian religions
-12R2123|sacrificial feast ~ American Indian religions
-12R213|making music and dancing ~ American Indian religions
-12R214|orgy ~ American Indian religions
-12R219|other ritual practices ~ American Indian religions
-12R3|ritual practices with particular objectives ~ American Indian religions
-12R31|fertility rites ~ the soil, man, cattle (American Indian religions)
-12R311|rainmaking ~ fertility rites (American Indian religions)
-12R4|ritual practices ~ stadia of human life (American Indian religions)
-12R41|ritual practices ~ infancy (American Indian religions)
-12R42|ritual practices ~ puberty and initiation ('rites of passage') (American Indian religions)
-12R43|ritual practices ~ purification, blessing (American Indian religions)
-12R44|ritual practices ~ death and burial (American Indian religions)
-12R441|funerary ritual, ancestor cult ~ American Indian religions
-12R5|religious functionaries ~ American Indian religions
-12R51|priest ~ American Indian religions
-12R53|other religious functionaries ~ American Indian religions
-12R531|miracle-workers, performers of miracles ~ American Indian religions
-12R6|places and objects of worship ~ American Indian religions
-12R61|temple, shrine ~ American Indian religions
-12R62|altar ~ American Indian religions
-12R621|house-altar ~ American Indian religions
-12R63|statues, paintings, etc. ~ objects of worship (American Indian religions)
-12R7|ritual objects and ritual means ~ American Indian religions
+12R14|representations ~ natural phenomena (native American religions)
+12R2|ritual practices ~ native American religions
+12R21|worship and devotion ~ native American religions
+12R211|prayer ~ native American religions
+12R212|sacrifice ~ native American religions
+12R2121|animal sacrifice ~ native American religions
+12R2122|human sacrifice ~ native American religions
+12R2123|sacrificial feast ~ native American religions
+12R213|making music and dancing ~ native American religions
+12R214|orgy ~ native American religions
+12R219|other ritual practices ~ native American religions
+12R3|ritual practices with particular objectives ~ native American religions
+12R31|fertility rites ~ the soil, man, cattle (native American religions)
+12R311|rainmaking ~ fertility rites (native American religions)
+12R4|ritual practices ~ stadia of human life (native American religions)
+12R41|ritual practices ~ infancy (native American religions)
+12R42|ritual practices ~ puberty and initiation ('rites of passage') (native American religions)
+12R43|ritual practices ~ purification, blessing (native American religions)
+12R44|ritual practices ~ death and burial (native American religions)
+12R441|funerary ritual, ancestor cult ~ native American religions
+12R5|religious functionaries ~ native American religions
+12R51|priest ~ native American religions
+12R53|other religious functionaries ~ native American religions
+12R531|miracle-workers, performers of miracles ~ native American religions
+12R6|places and objects of worship ~ native American religions
+12R61|temple, shrine ~ native American religions
+12R62|altar ~ native American religions
+12R621|house-altar ~ native American religions
+12R63|statues, paintings, etc. ~ objects of worship (native American religions)
+12R7|ritual objects and ritual means ~ native American religions
 12R71|mask, mask-costume ~ American Indian ritual objects
 12R72|body-painting ~ American Indian ritual means
-12RR13|representations ~ goddesses, demi-goddesses, heroines, etc. (American Indian religions)
-12RR13(...)|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions)
-12RR13(...)1|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - early life, prime youth of non-Christian god or goddess
-12RR13(...)11|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - birth of non-Christian god or goddess
-12RR13(...)12|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - infancy, upbringing of non-Christian god or goddess
-12RR13(...)2|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - love-affairs of non-Christian god or goddess
-12RR13(...)3|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - most important deeds of non-Christian god or goddess
-12RR13(...)4|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - aggressive, unfriendly activities and relationships of non-Christian god or goddess
-12RR13(...)5|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - non-aggressive, friendly or neutral activities and relationships of non-Christian god or goddess
-12RR13(...)6|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - suffering, misfortune of non-Christian god or goddess
-12RR13(...)68|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - death of non-Christian god or goddess
-12RR13(...)69|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - apotheosis, deification of non-Christian god or goddess
-12RR13(...)7|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - specific aspects, allegorical aspects of non-Christian god or goddess
-12RR13(...)78|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - triumph of non-Christian god or goddess
-12RR13(...)79|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - veneration, honouring of non-Christian god or goddess
-12RR13(...)8|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - attributes of non-Christian god or goddess
-12RR13(...)9|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (American Indian religions) - offspring, companion(s), train, etc. of non-Christian god or goddess
-12RR42|ritual practices ~ puberty and initiation ('rites of passage') (American Indian religions) - RR - girls
-12RR51|priest ~ American Indian religions - RR - priestess
-12RR62|altar ~ American Indian religions - RR - in the open air
-12RR621|house-altar ~ American Indian religions - RR - in the open air
-12RR63|statues, paintings, etc. ~ objects of worship (American Indian religions) - RR - in the open air
+12RR13|representations ~ goddesses, demi-goddesses, heroines, etc. (native American religions)
+12RR13(...)|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions)
+12RR13(...)1|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - early life, prime youth of non-Christian god or goddess
+12RR13(...)11|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - birth of non-Christian god or goddess
+12RR13(...)12|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - infancy, upbringing of non-Christian god or goddess
+12RR13(...)2|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - love-affairs of non-Christian god or goddess
+12RR13(...)3|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - most important deeds of non-Christian god or goddess
+12RR13(...)4|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - aggressive, unfriendly activities and relationships of non-Christian god or goddess
+12RR13(...)5|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - non-aggressive, friendly or neutral activities and relationships of non-Christian god or goddess
+12RR13(...)6|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - suffering, misfortune of non-Christian god or goddess
+12RR13(...)68|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - death of non-Christian god or goddess
+12RR13(...)69|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - apotheosis, deification of non-Christian god or goddess
+12RR13(...)7|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - specific aspects, allegorical aspects of non-Christian god or goddess
+12RR13(...)78|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - triumph of non-Christian god or goddess
+12RR13(...)79|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - veneration, honouring of non-Christian god or goddess
+12RR13(...)8|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - attributes of non-Christian god or goddess
+12RR13(...)9|representations ~ goddesses, demi-goddesses, heroines, etc. (with NAME) (native American religions) - offspring, companion(s), train, etc. of non-Christian god or goddess
+12RR42|ritual practices ~ puberty and initiation ('rites of passage') (native American religions) - RR - girls
+12RR51|priest ~ native American religions - RR - priestess
+12RR62|altar ~ native American religions - RR - in the open air
+12RR621|house-altar ~ native American religions - RR - in the open air
+12RR63|statues, paintings, etc. ~ objects of worship (native American religions) - RR - in the open air
 12S|Australian and Polynesian/Melanesian religions
 12S2|ritual practices ~ Australian and Polynesian/Melanesian religions
 12S21|worship and devotion ~ Australian and Polynesian/Melanesian religions
