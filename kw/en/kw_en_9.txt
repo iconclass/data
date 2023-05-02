@@ -1532,6 +1532,7 @@
 92C4911|care
 92C4911|emerging
 92C4911|opening
+92C4911|smell:Myrrh
 92C4911|splitting
 92C4911|tree
 92C4912|Proserpina
@@ -3247,6 +3248,7 @@
 92L4229|offspring
 92L4229|train (retinue)
 92L5|Pan
+92L5|smell:Animalic; Musk
 92L51|child
 92L51|youth
 92L511|baby
@@ -11785,6 +11787,9 @@
 96A1812|upbringing
 96A1821|Pomona
 96A1821|fruit
+96A1821|smell:
+96A1821|smell:orchard
+96A1821|smell:plants and (fruit) trees
 96A18211|courting
 96A18211|disguise
 96A18211|old woman
@@ -13217,6 +13222,7 @@
 97AA1|Peneus
 97AA1|laurel
 97AA1|man
+97AA1|smell:Laurel
 97AA2|Clymene
 97AA2|Heliades
 97AA2|Ovid, Metamorphoses 02
@@ -13237,6 +13243,7 @@
 97AA4|fleeing
 97AA4|man
 97AA4|myrtle
+97AA4|smell:Resinous: Myrrh
 97AA5|Chiron
 97AA5|Philyra
 97AA5|Saturn
@@ -19435,6 +19442,10 @@
 98C(CLEOPATRA)51|wine
 98C(CLEOPATRA)52|Tarsus
 98C(CLEOPATRA)52|disembarkation
+98C(CLEOPATRA)52|smell:cardamom
+98C(CLEOPATRA)52|smell:cinnamon
+98C(CLEOPATRA)52|smell:musk
+98C(CLEOPATRA)52|smell:myrrh
 98C(CLEOPATRA)53|Augustus (Emperor)
 98C(CLEOPATRA)53|document
 98C(CLEOPATRA)53|giving

@@ -707,7 +707,6 @@
 11F243|unicorn
 11F243|virgin
 11F244|throne
-11F26|type
 11F25|Mater Dolorosa
 11F25|bust
 11F25|full length
@@ -718,6 +717,7 @@
 11F252|piercing
 11F252|sword
 11F253|instruments of the Passion
+11F26|type
 11F261|Holy Ghost
 11F261|breast
 11F261|bride
@@ -20677,6 +20677,7 @@
 11HH(MYRRHOPHORES)|four
 11HH(MYRRHOPHORES)|jar
 11HH(MYRRHOPHORES)|ointment
+11HH(MYRRHOPHORES)|smell:Myrrh
 11HH(MYRRHOPHORES)|three
 11HH(MYRRHOPHORES)0|group
 11HH(MYRRHOPHORES)11|Provence
@@ -21358,6 +21359,7 @@
 11HH(THERESA)|heart
 11HH(THERESA)|nun
 11HH(THERESA)|piercing
+11HH(THERESA)|smell:acetone.acetoacetic acid from ketosis
 11HH(THERESA)|virgin
 11HH(THERESA)0|group
 11HH(THERESA)11|Christ
@@ -23185,6 +23187,9 @@
 11K(LEVIATHAN)|Leviathan
 11K(LUCIFER)|Lucifer
 11K(SATAN)|Satan
+11K, 11K(LUCIFER)|smell:He-goat
+11K, 11K(LUCIFER)|smell:Smoke
+11K, 11K(LUCIFER)|smell:Sulfur
 11K1|human figure
 11K1|shape
 11K11|wing
@@ -23223,11 +23228,12 @@
 11L111|Ecclesia
 11L111|Moses
 11L111|giving
+11L112|Host
 11L112|Hostienmühle
 11L112|apostle
-11L112|Host
 11L112|mill
 11L112|prophet
+11L112|smell:sack of grain
 11L12|Law (biblical)
 11L12|Legge del timore
 11L12|Legge vecchia
@@ -23237,8 +23243,8 @@
 11L13|Legge nuova
 11L13|New Testament
 11L13|Ripa
-11L14|grace
 11L14|Law (biblical)
+11L14|grace
 11L141|ante legem
 11L142|sub lege
 11L143|sub gratia
@@ -23400,9 +23406,9 @@
 11M33|Caritas
 11M33|Carità
 11M33|Charity
+11M33|Love
 11M33|Ripa
 11M33|child
-11M33|Love
 11M4|Cardinal Virtues (Four)
 11M4|four
 11M4|triumph
@@ -23625,9 +23631,9 @@
 11P25(COLLEGIANTS)|Collegiant Church
 11P25(METHODISTS)|Methodist Church
 11P25(PRESBYTERIANS)|Presbyterian Church
-11P25(REMONSTRANTS)|Remonstrant Church
-11P25(REMONSTRANTS)|Arminian Church
 11P25(QUAKERS)|Quaker
+11P25(REMONSTRANTS)|Arminian Church
+11P25(REMONSTRANTS)|Remonstrant Church
 11P25(WALLOON CHURCH)|Walloon Church
 11P250|personification
 11P251|organization
@@ -24201,6 +24207,10 @@
 11Q731111|sacristy
 11Q731112|altar
 11Q731112|incense
+11Q731112|smell:cinnamon
+11Q731112|smell:frankincense
+11Q731112|smell:myrrh
+11Q731112|smell:oil
 11Q731113|bible
 11Q731113|reading
 11Q731114|sermon
@@ -24276,8 +24286,8 @@
 11Q73244|legend
 11Q73244|miracle
 11Q73245|first communion
-11Q732452|dress
 11Q732452|communion dress
+11Q732452|dress
 11Q73249|profanation
 11Q7325|Ordinatio
 11Q7325|ordination
@@ -24500,6 +24510,7 @@
 11R7|Memento mori
 11R7|Vanitas
 11R7|Vanità
+11R7|smell:Frankincense
 11R7|symbol
 11R7|vanity
 11R71|skull
@@ -24595,6 +24606,9 @@
 11S727|joy
 11T|hell
 11T|purgatory
+11T|smell:Excrement
+11T|smell:Smoke
+11T|smell:Sulfur
 11T1|Lucifer
 11T1|damned soul
 11T1|devil
@@ -24657,6 +24671,8 @@
 11U1|lily
 11U1|resurrection
 11U1|sky
+11U1|smell:Lily
+11U1|smell:indole
 11U1|surrounding
 11U1|sword
 11U1|trumpet
@@ -24840,6 +24856,9 @@
 12A3112|temple
 12A312|brazen
 12A312|sacrificing
+12A3121|smell:Frankincence
+12A3121|smell:Galbanum
+12A3121|smell:Onycha
 12A3121|tabernacle
 12A3122|temple
 12A32|animal
@@ -27595,6 +27614,10 @@
 13B22|apprentice
 13B3|Sabbath
 13B3|assembly
+13B3|smell:Cooking
+13B3|smell:He-goat
+13B3|smell:Smoke
+13B3|smell:Sulfur
 13B3|witch
 13B31|preparation
 13B311|anointing

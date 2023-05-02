@@ -214,8 +214,8 @@
 41A3912|pump
 41A3913|faucet
 41A3913|tap
-41A3914|lavatory
 41A3914|WC
+41A3914|lavatory
 41A3915|fountain
 41A3916|basin
 41A3916|sink
@@ -1022,8 +1022,8 @@
 41C7131|gin
 41C7132|whisky
 41C7133|vodka
-41C7134|brandy
 41C7134|brandewijn
+41C7134|brandy
 41C714|ale
 41C714|beer
 41C7141|glass
@@ -1138,10 +1138,10 @@
 41D2|costume
 41D211|gown
 41D211(BALL GOWN)|ball gown
-41D211(CHEMISE À LA REINE)|chemise à la reine
 41D211(CHEMISE À LA REINE)|chemise gown
-41D211(COURT GOWN)|court gown
+41D211(CHEMISE À LA REINE)|chemise à la reine
 41D211(COURT GOWN)|court dress
+41D211(COURT GOWN)|court gown
 41D211(DAY DRESS)|afternoon dress
 41D211(DAY DRESS)|day dress
 41D211(DINNER DRESS)|dinner dress
@@ -1987,7 +1987,6 @@
 42D7|cicisbeo
 42D7|mistress
 42D71|concubine
-42D9|single
 42D8|in-laws
 42D81|father-in-law                              
 42D82|mother-in-law                              
@@ -1995,6 +1994,7 @@
 42D84|daughter-in-law                            
 42D85|brother-in-law
 42D86|sister-in-law
+42D9|single
 42D9|unmarried
 42D91|bachelor
 42D91|man
@@ -7207,9 +7207,9 @@
 47I83|wood collier
 47I831|charcoal furnace
 47I831|furnace
+47I84|lumberjack
 47I84|woodcutter
 47I84|woodcutting
-47I84|lumberjack
 47I85|gathering
 47I85|wood(en)
 47I86|maintenance
@@ -7625,8 +7625,8 @@
 48C1611|pilaster
 48C1612|capital (architecture)
 48C1613|base
-48C1614|helix
 48C1614|Solomonic column
+48C1614|helix
 48C1614|spiral
 48C1615|colonnade
 48C162|arch
@@ -8936,8 +8936,8 @@
 49E3932(ASSAY FURNACE)|assay furnace
 49E3932(ASSAY FURNACE)|cupellation
 49E3932(ATHANOR)|athanor
-49E3933|bath
 49E3933|balneum
+49E3933|bath
 49E3933(BALNEUM ARENAE)|balneum arenae
 49E3933(BALNEUM MARIAE)|Mary's bath
 49E394|substance
@@ -8955,12 +8955,12 @@
 49E3946|Elixir vitae
 49E39461|Panacea
 49E3949(ANTIMONY)|antimony
-49E3949(SAL AMMONIAC)|sal ammoniac
 49E3949(SAL AMMONIAC)|ammoniac
+49E3949(SAL AMMONIAC)|sal ammoniac
 49E3949(VITRIOL)|vitriol
 49E395|process
-49E3951|four
 49E3951|Magnum opus
+49E3951|four
 49E3951|stage
 49E3951|transmutation
 49E39511|blackening
@@ -9011,8 +9011,8 @@
 49E39543|opposite
 49E395431|Luna
 49E395431|Mercury
-49E395431|moon
 49E395431|Sol
+49E395431|moon
 49E395431|sulphur
 49E395431|sun
 49E4|crystallography

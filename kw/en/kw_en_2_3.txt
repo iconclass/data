@@ -924,25 +924,25 @@
 24C32|moon
 24C32|silver
 24C33|mercury
-24C34|copper
 24C34|Venus
-24C35|iron
+24C34|copper
 24C35|Mars
+24C35|iron
 24C36|Jupiter
 24C36|tin
-24C37|lead
 24C37|Saturn
-24C39(URANUS)|platinum
+24C37|lead
 24C39(URANUS)|Uranus
+24C39(URANUS)|platinum
 24D|star
 24D0|allegory
 24D0|symbol
 24D1|constellation
 24D1(ORION)|Orion
-24D1(POLARIS)|north
 24D1(POLARIS)|North star
 24D1(POLARIS)|Polaris
 24D1(POLARIS)|Pole star
+24D1(POLARIS)|north
 24D1(SIRIUS)|Sirius
 24D2|galaxy
 24D21|Milky Way
@@ -1478,8 +1478,8 @@
 25F711(MANTIS)|flea
 25F711(MANTIS)|louse
 25F711(MANTIS)|mantis
-25F711(MOSQUITO)|mosquito
 25F711(MOSQUITO)|midge
+25F711(MOSQUITO)|mosquito
 25F711(MOTH)|dragon-fly
 25F711(MOTH)|flea
 25F711(MOTH)|louse
@@ -1625,6 +1625,7 @@
 25FF24(WINGED HORSE)|wing
 25FF241|horn
 25FF241|one
+25FF241|smell:cinnamon
 25FF241|unicorn
 25FF2411|Chasse à la licorne
 25FF2411|hunting
@@ -1898,8 +1899,8 @@
 25G3(FIG-TREE)|fig-tree
 25G3(FIR)|fir
 25G3(HOLM-OAK)|holm-oak
-25G3(INDIAN BANYAN)|banyan tree
 25G3(INDIAN BANYAN)|Indian banyan tree
+25G3(INDIAN BANYAN)|banyan tree
 25G3(LAUREL)|laurel
 25G3(LEMON-TREE)|lemon-tree
 25G3(LINDEN)|linden
@@ -2425,8 +2426,8 @@
 25H18|cultivation
 25H181|no man's land
 25H181|waste land
-25H182|ploughing
 25H182|field
+25H182|ploughing
 25H183|crop
 25H183|field
 25H19|polder
@@ -2708,9 +2709,9 @@
 25I154|triumphal column
 25I155|clock tower
 25I155|tower
+25I16|WC
 25I16|lavatory
 25I16|public convenience
-25I16|WC
 25I17|underground
 25I171|sewer
 25I18|outskirts
@@ -4024,6 +4025,7 @@
 31A58|body-building
 31A59|uncleanliness
 31A6|need
+31A61|smell:Ammonia
 31A61|urine
 31A611|chamber-pot
 31A611|pot
@@ -5248,15 +5250,15 @@
 32B313(SRI LANKA)|Sri Lankans
 32B32|Africans
 32B32(BEDOUINS)|Bedouins
+32B32(BEDOUINS)|Bedouins
 32B32(TUNISIANS)|Tunisians
 32B321|negro
 32B321|sub-Saharan Africans
 32B321(BANTUS)|Bantus
-32B3211|Americans
 32B3211|African-Americans
+32B3211|Americans
 32B33|Asians
 32B33(ARABS)|Arabs
-32B32(BEDOUINS)|Bedouins
 32B33(INDIANS)|Indians
 32B33(PERSIANS)|Persians
 32B33(TURKS)|Turks
