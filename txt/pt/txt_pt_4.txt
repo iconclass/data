@@ -4554,18 +4554,18 @@
 47G9|demolição de uma construção
 47G91|colapso de uma construção
 47H|indústria têxtil e do vestuário
-47H1|materiais ~ indústria têxtil
-47H11|fio de linho (material ~ indústria têxtil)
-47H111|linho (material ~ indústria têxtil)
-47H12|algodão  (material ~ indústria têxtil)
-47H13|seda (material ~ indústria têxtil)
+47H1|materiais ~ indústria têxtil e do vestuário
+47H11|fio de linho (material ~ indústria têxtil e do vestuário)
+47H111|linho (material ~ indústria têxtil e do vestuário)
+47H12|algodão  (material ~ indústria têxtil e do vestuário)
+47H13|seda (material ~ indústria têxtil e do vestuário)
 47H131|bicho-da-seda
 47H132|casulo do bicho-da-seda
-47H14|lã (material ~ indústria têxtil)
-47H15|material sintéctico ~ indústria têxtil 
-47H16|outros materiais ~ indústria têxtil
+47H14|lã (material ~ indústria têxtil e do vestuário)
+47H15|material sintéctico ~ indústria têxtil e do vestuário 
+47H16|outros materiais ~ indústria têxtil e do vestuário
 47H2|procedimentos preparatórios na manufactura de fio
-47H21|espadelar ~ indústria têxtil
+47H21|espadelar ~ indústria têxtil e do vestuário
 47H211|espadela ~ procedimentos preparatórios na manufactura de fio
 47H22|lavar ~ procedimentos preparatórios na manufactura de fio
 47H23|cardar, pentear ~ procedimentos preparatórios na manufactura de fio
@@ -4606,7 +4606,7 @@
 47H5341|pisoamento ~ acabamento do tecido
 47H535|procedimentos especiais para materiais sintéticos
 47H536|procedimentos especiais para outros materiais
-47H54|bordado ~ indústria têxtil 
+47H54|bordado ~ indústria têxtil e do vestuário 
 47H55|patchwork
 47H6|tecido, pano
 47H6(...)|tecido, pano (com NOME)

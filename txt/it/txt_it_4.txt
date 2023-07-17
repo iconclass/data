@@ -4633,16 +4633,16 @@
 47G9|demolizione di una costruzione
 47G91|crollo di una costruzione
 47H|industria tessile e dell'abbigliamento
-47H1|materiali ~ industria tessile
-47H11|filato di lino (materiali ~ industria tessile)
-47H111|lino (materiali ~ industria tessile)
-47H12|cotone (materiali ~ industria tessile)
-47H13|seta (materiali ~ industria tessile)
+47H1|materiali ~ industria tessile e dell'abbigliamento
+47H11|filato di lino (materiali ~ industria tessile e dell'abbigliamento)
+47H111|lino (materiali ~ industria tessile e dell'abbigliamento)
+47H12|cotone (materiali ~ industria tessile e dell'abbigliamento)
+47H13|seta (materiali ~ industria tessile e dell'abbigliamento)
 47H131|baco da seta
 47H132|bozzolo del baco da seta
-47H14|lana (materiali ~ industria tessile)
-47H15|materiali sintetici ~ industria tessile
-47H16|altri materiali ~ industria tessile
+47H14|lana (materiali ~ industria tessile e dell'abbigliamento)
+47H15|materiali sintetici ~ industria tessile e dell'abbigliamento
+47H16|altri materiali ~ industria tessile e dell'abbigliamento
 47H2|procedimenti preparatori nella lavorazione dei filati
 47H21|pettinare ~ procedimenti preparatori nella lavorazione dei filati
 47H211|pettine per cardare ~ procedimenti preparatori nella lavorazione dei filati
@@ -4685,7 +4685,7 @@
 47H5341|follare ~ finitura del tessuto
 47H535|procedimenti particolari per materiali sintetici
 47H536|procedimenti particolari per altri materiali
-47H54|ricamare ~ industria tessile
+47H54|ricamare ~ industria tessile e dell'abbigliamento
 47H55|patchwork
 47H56|passamaneria ~ tessuto
 47H6|tessuto, stoffa

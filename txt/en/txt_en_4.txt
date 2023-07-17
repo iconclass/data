@@ -4634,21 +4634,21 @@
 47G9|demolition of building
 47G91|collapsing building
 47H|textile industry and clothing industry
-47H1|materials ~ textile industry
-47H11|linen (material ~ textile industry)
-47H111|flax (material ~ textile industry)
-47H12|cotton (material ~ textile industry)
-47H13|silk (material ~ textile industry)
+47H1|materials ~ textile and clothing industry
+47H11|linen (material ~ textile and clothing industry)
+47H111|flax (material ~ textile and clothing industry)
+47H12|cotton (material ~ textile and clothing industry)
+47H13|silk (material ~ textile and clothing industry)
 47H131|silkworm
 47H132|cocoon of the silkworm
-47H14|wool (material ~ textile industry)
-47H15|synthetic material (~ textile industry)
-47H16|other material ~ textile industry
+47H14|wool (material ~ textile and clothing industry)
+47H15|synthetic material (~ textile and clothing industry)
+47H16|other material ~ textile and clothing industry
 47H2|preparatory processes in manufacture of yarn
-47H21|hackling ~ textile industry
+47H21|hackling ~ textile and clothing industry
 47H211|hackle
 47H22|washing (preparatory process in manufacture of yarn)
-47H23|carding, combing ~ textile industry
+47H23|carding, combing ~ textile and clothing industry
 47H3|manufacture of yarn
 47H31|spinning (manufacture of yarn)
 47H311|distaff
@@ -4686,7 +4686,7 @@
 47H5341|fulling ~ cloth finishing
 47H535|special processes for synthetic material
 47H536|special processes for other material
-47H54|embroidering ~ textile industry
+47H54|embroidering ~ textile and clothing industry
 47H55|patchwork
 47H56|trimmings ~ cloth
 47H6|textile fabric, cloth

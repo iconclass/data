@@ -4633,16 +4633,16 @@
 47G9|Zerstörung, Verwüstung eines Gebäudes
 47G91|Einsturz eines Gebäudes
 47H|Textilindustrie und Bekleidungsindustrie
-47H1|Materialien in der Textilindustrie
-47H11|Leinen (Materialien in der Textilindustrie)
-47H111|Flachs (Materialien in der Textilindustrie)
-47H12|Baumwolle (Materialien in der Textilindustrie)
-47H13|Seide (Materialien in der Textilindustrie)
+47H1|Materialien in der Textilindustrie und Bekleidungsindustrie
+47H11|Leinen (Materialien in der Textilindustrie und Bekleidungsindustrie)
+47H111|Flachs (Materialien in der Textilindustrie und Bekleidungsindustrie)
+47H12|Baumwolle (Materialien in der Textilindustrie und Bekleidungsindustrie)
+47H13|Seide (Materialien in der Textilindustrie und Bekleidungsindustrie)
 47H131|Seidenraupe
 47H132|Kokon einer Seidenraupe
-47H14|Wolle (Materialien in der Textilindustrie)
-47H15|synthetisches Material (Materialien in der Textilindustrie)
-47H16|andere Materialien in der Textilindustrie
+47H14|Wolle (Materialien in der Textilindustrie und Bekleidungsindustrie)
+47H15|synthetisches Material (Materialien in der Textilindustrie und Bekleidungsindustrie)
+47H16|andere Materialien in der Textilindustrie und Bekleidungsindustrie
 47H2|Vorarbeiten in einer Garnmanufaktur
 47H21|hecheln (Textilindustrie)
 47H211|Hechel

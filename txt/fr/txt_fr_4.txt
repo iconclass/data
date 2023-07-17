@@ -4634,21 +4634,21 @@
 47G9|démolition d'un bâtiment
 47G91|bâtiment s'écroulant
 47H|industrie du textile et de l'habillement
-47H1|matières ~ industrie du textile
-47H11|lin (matière ~ industrie du textile)
-47H111|filasse de lin (matière ~ industrie du textile)
-47H12|coton (matière ~ industrie du textile)
-47H13|soie (matière ~ industrie du textile)
-47H131|ver à soie (matière ~ industrie du textile)
-47H132|cocon de ver à soie (matière ~ industrie du textile)
-47H14|laine (matière ~ industrie du textile)
-47H15|matière synthétique (~ industrie du textile)
-47H16|autre matière ~ industrie du textile
+47H1|matières ~ industrie du textile et de l'habillement
+47H11|lin (matière ~ industrie du textile et de l'habillement)
+47H111|filasse de lin (matière ~ industrie du textile et de l'habillement)
+47H12|coton (matière ~ industrie du textile et de l'habillement)
+47H13|soie (matière ~ industrie du textile et de l'habillement)
+47H131|ver à soie (matière ~ industrie du textile et de l'habillement)
+47H132|cocon de ver à soie (matière ~ industrie du textile et de l'habillement)
+47H14|laine (matière ~ industrie du textile et de l'habillement)
+47H15|matière synthétique (~ industrie du textile et de l'habillement)
+47H16|autre matière ~ industrie du textile et de l'habillement
 47H2|travail préparatoire à la fabrication du fil
-47H21|peigner ~ industrie du textile
-47H211|peigne ~ industrie du textile
+47H21|peigner ~ industrie du textile et de l'habillement
+47H211|peigne ~ industrie du textile et de l'habillement
 47H22|laver (travail préparatoire à la fabrication du fil)
-47H23|cardage (à la machine) ~ industrie du textile
+47H23|cardage (à la machine) ~ industrie du textile et de l'habillement
 47H3|fabrication manuelle du fil
 47H31|filer (fabrication du fil)
 47H311|quenouille
@@ -4686,7 +4686,7 @@
 47H5341|fouler ~ finition de tissu
 47H535|procédés spéciaux pour matière synthétique
 47H536|procédés spéciaux pour autre matière
-47H54|broder ~ industrie du textile
+47H54|broder ~ industrie du textile et de l'habillement
 47H55|patchwork
 47H56|passement ~ tissu
 47H6|tissu, étoffe
