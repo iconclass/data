@@ -1,12 +1,17 @@
-name: Check 1
+name: Create Data Release
 on: workflow_dispatch
 jobs:
   Check-1:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - run: python make_sqlite.py
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: datafile
+          path: iconclass.sqlite
