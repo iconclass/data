@@ -1401,6 +1401,9 @@
 42A1|gravidez
 42A1|procriação
 42A11|concepção
+42A111|controle de natalidade
+42A111|contracepção
+42A11111|preservativo
 42A121|feto
 42A13|comportamento
 42A13|tratamento

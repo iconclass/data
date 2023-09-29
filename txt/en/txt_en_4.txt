@@ -975,6 +975,9 @@
 42A|procreation, birth and (early) youth
 42A1|procreation and pregnancy
 42A11|conception, impregnation
+42A111|birth control, contraception
+42A1111|devices of contraception
+42A11111|condom
 42A12|pregnant woman
 42A121|foetus
 42A13|treatment and behaviour of the pregnant woman

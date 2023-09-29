@@ -1398,6 +1398,9 @@
 42A1|grossesse
 42A1|procréation
 42A11|conception
+42A111|contrôle des naissances
+42A111|contraception
+42A11111|préservatif
 42A121|foetus
 42A13|comportement
 42A13|traitement

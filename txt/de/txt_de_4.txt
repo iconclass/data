@@ -974,6 +974,9 @@
 42A|Zeugung, Geburt und Kindheit
 42A1|Zeugung und Schwangerschaft
 42A11|Empfängnis, Schwängerung
+42A111|Geburtenkontrolle, Empfängnisverhütung
+42A1111|Verhütungsmittel
+42A11111|Kondom
 42A12|schwangere Frau
 42A121|Foetus
 42A13|Behandlung und Verhalten einer schwangeren Frau

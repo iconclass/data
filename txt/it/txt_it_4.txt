@@ -974,6 +974,9 @@
 42A|procreazione, nascita e primo periodo della vita
 42A1|procreazione e gravidanza
 42A11|concezione, fecondazione
+42A111|controllo delle nascite, contraccezione
+42A1111|dispositivi contraccettivi
+42A11111|preservativo
 42A12|donna incinta
 42A121|feto
 42A13|cura e comportamento della donna incinta

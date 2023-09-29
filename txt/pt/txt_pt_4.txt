@@ -922,6 +922,9 @@
 42A|procriação, nascimento e primeiros anos de vida, juventude
 42A1|procriação e gravidez
 42A11|concepção, fecundação
+42A111|controle de natalidade, contracepção
+42A1111|dispositivos contraceptivos
+42A11111|preservativo
 42A12|mulher grávida
 42A121|feto
 42A13|tratamento e comportamento de uma mulher grávida

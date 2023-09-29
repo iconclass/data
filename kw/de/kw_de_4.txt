@@ -1783,6 +1783,10 @@
 42A1|Schwangerschaft
 42A1|Zeugung
 42A11|Empfaengnis
+42A111|Geburtenkontrolle
+42A111|Empfängnisverhütung
+42A1111|Verhütungsmittel
+42A11111|Kondom
 42A121|Foetus
 42A13|Behandlung
 42A13|Verhalten

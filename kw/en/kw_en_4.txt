@@ -1402,6 +1402,9 @@
 42A1|pregnancy
 42A1|procreation
 42A11|conception
+42A111|birth control
+42A111|contraception
+42A11111|condom
 42A121|foetus
 42A13|behaviour
 42A13|treatment

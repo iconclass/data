@@ -975,6 +975,9 @@
 42A|procréation, naissance et petite enfance
 42A1|procréation et grossesse
 42A11|conception, fécondation
+42A111|contrôle des naissances, contraception
+42A1111|dispositifs de contraception
+42A11111|préservatif
 42A12|femme enceinte
 42A121|foetus
 42A13|traitement(obstétrique) et comportement de la femme enceinte
