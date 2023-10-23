@@ -2815,6 +2815,10 @@
 31A330|Ripa: Odorato
 31A331|angenehmer Geruch
 31A332|unangenehmer, abstoßender Geruch
+31A333|Geruchskonzept
+31A3331|Objekt mit Geruchsbezug
+31A3332|Geruchsgeste
+31A3333|Olfaktorischer Raum
 31A34|Geschmack, schmecken (als einer der fünf Sinne)
 31A340|Ripa: Gusto
 31A341|guter vs. schlechter Geschmack

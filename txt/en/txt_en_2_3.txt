@@ -2816,6 +2816,10 @@
 31A330|'Odorato' (Ripa)
 31A331|agreeable smell
 31A332|disagreeable, repellent smell
+31A333|olfactory concepts
+31A3331|olfaction-related object
+31A3332|smell gesture
+31A3333|fragrant space
 31A34|taste, tasting (one of the five senses)
 31A340|'Gusto' (Ripa)
 31A341|agreeable versus disagreeable taste
