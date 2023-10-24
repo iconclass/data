@@ -3519,6 +3519,7 @@
 71C2441|food
 71C2441|hunger
 71C2441|lentil
+71C2441|lentils
 71C2441|selling
 71C2441|soup
 71C25|Abimelech (king of Gerar)
@@ -4979,7 +4980,11 @@
 71E1382|Aholiab
 71E1382|Bezaleel
 71E1382|appointing
+71E1383|Galbanum
 71E1383|building
+71E1383|fragrant spices
+71E1383|frankincence
+71E1383|gum resin (styrax)
 71E1384|blessing
 71E1384|supervising
 71E1385|Ark of the Covenant
@@ -8623,7 +8628,9 @@
 71I331|arrival
 71I331|camel
 71I331|caravan
+71I331|cinnamon
 71I331|gift
+71I331|myrrh
 71I332|asking
 71I332|before
 71I3321|riddle
@@ -8674,6 +8681,10 @@
 71I431|labour
 71I432|Chronicles-2 02-07
 71I432|Kings-1 05-09
+71I432|almug
+71I432|cedar
+71I432|pine
+71I432|sweet
 71I432|temple
 71I43211|quarry
 71I43212|carcass (framework)
@@ -13580,9 +13591,12 @@
 73B56|Bethlehem
 73B56|arrival
 73B57|adoration
+73B57|frankincense
+73B57|frankincense
 73B57|gift
 73B57|gold
 73B57|incense
+73B57|myrrh
 73B57|myrrh
 73B57|offering
 73B57|spice
@@ -15112,8 +15126,8 @@
 73C9391|power
 73C9392|eternity
 73C9392|glory
-73C94|glorifying
 73C94|John 12
+73C94|glorifying
 73C94|voice
 73D|Christ
 73D|Passion of Christ
@@ -15142,6 +15156,7 @@
 73D131|anointing
 73D131|head
 73D132|Mary Magdalene (St.)
+73D132|Spikenard/nard-myrrh
 73D132|anointing
 73D132|foot
 73D133|Lazarus (St.)
@@ -15979,6 +15994,7 @@
 73E411|mission
 73E412|discussing
 73E412|lecture
+73E413|Olive tree
 73E413|blessing
 73E42|ascension
 73E42|mandorla
@@ -17595,10 +17611,10 @@
 73G412|expelling
 73G412|fighting (animal)
 73G413|pursuing
+73G42|666
 73G42|Antichrist
 73G42|beast
 73G42|sea
-73G42|666
 73G421|dragon
 73G421|head (animal)
 73G421|idolatry

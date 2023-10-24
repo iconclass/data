@@ -214,8 +214,8 @@
 41A3912|pump
 41A3913|faucet
 41A3913|tap
-41A3914|lavatory
 41A3914|WC
+41A3914|lavatory
 41A3915|fountain
 41A3916|basin
 41A3916|sink
@@ -361,6 +361,7 @@
 41A713|table-ware
 41A72|sitting
 41A721|chair
+41A721|tar
 41A7211|stool
 41A72111|footstool
 41A7212|armchair
@@ -534,6 +535,8 @@
 41B16|camp-fire
 41B16|watch-fire
 41B161|bonfire
+41B161|smoke
+41B162|smoke
 41B162|smoke
 41B2|heat
 41B21|fire-place
@@ -560,6 +563,7 @@
 41B2136|andiron
 41B2136|fire-dog
 41B214|chimney
+41B214|smoke
 41B2141|chimney-piece
 41B2141|mantelpiece
 41B2142|ornament
@@ -590,6 +594,7 @@
 41B32|torch
 41B32|upside down
 41B33|lantern
+41B34|oil
 41B34|oil-lamp
 41B35|paraffin lamp
 41B36|gas-lamp
@@ -916,6 +921,7 @@
 41C6121|porridge
 41C6122|noodles
 41C6122|spaghetti
+41C62|bread
 41C621|bread
 41C621|loaf
 41C6211|shape
@@ -927,12 +933,15 @@
 41C6212|sandwich
 41C622|cake
 41C622|pastry
+41C622|pastry
 41C622|tart
 41C6221|fancy cakes
 41C6222|biscuit
 41C623|pancake
+41C623|pancake
 41C624|waffle
 41C6241|wafer
+41C625|pie
 41C625|pie
 41C626|mould
 41C6261|cake
@@ -954,6 +963,7 @@
 41C635|dainties
 41C635|sweets
 41C6351|ice-cream
+41C6352|cacao
 41C6352|chocolate
 41C636|honey
 41C637|sugar-coated
@@ -961,6 +971,8 @@
 41C6371|icing
 41C641|dairy products
 41C6411|butter
+41C6411|butter
+41C6412|cheese
 41C6412|cheese
 41C6413|milk
 41C64131|buttermilk
@@ -983,6 +995,7 @@
 41C6531|processing
 41C66|seasoning
 41C66|spice
+41C66(...)|cloves
 41C66(SAFFRON)|saffron
 41C661|salt
 41C662|pepper
@@ -992,12 +1005,15 @@
 41C671|vegetable fats
 41C6711|margarine
 41C672|vinegar
+41C672|vinegar
 41C673|sauce
 41C68|fish
 41C68(SMOKED HERRING)|herring
 41C68(SMOKED HERRING)|red herring
 41C68(SMOKED HERRING)|smoked herring
 41C681|seafood
+41C681|seafood
+41C69|meat
 41C69|meat
 41C691|ox
 41C691|pig
@@ -1007,6 +1023,8 @@
 41C692(...)|mutton
 41C692(...)|pork
 41C693|sausage
+41C693|sausage
+41C694|ham
 41C694|ham
 41C695|fat
 41C696|soup
@@ -1017,13 +1035,15 @@
 41C7112|wine-bottle
 41C712|liqueur
 41C713|distilled spirits
+41C713|gin
+41C713|jenever
 41C713|liquor
 41C713|spirits
 41C7131|gin
 41C7132|whisky
 41C7133|vodka
-41C7134|brandy
 41C7134|brandewijn
+41C7134|brandy
 41C714|ale
 41C714|beer
 41C7141|glass
@@ -1031,9 +1051,12 @@
 41C72|drink
 41C72|stimulant
 41C721|coffee
+41C721|coffee
 41C7211|cup
 41C722|tea
+41C722|tea
 41C7221|cup
+41C723|cacao
 41C723|chocolate
 41C723|cocoa
 41C73|softdrink
@@ -1043,6 +1066,7 @@
 41C732|juice
 41C74|tobacco
 41C741|pipe
+41C741|tobacco
 41C7411|hookah
 41C7411|narghile
 41C7411|water-pipe
@@ -1054,12 +1078,23 @@
 41C7414|pipe-holder
 41C7415|ashtray
 41C742|cigar
+41C742|smoke
+41C742|tobacco
 41C7421|box (container)
+41C7421|cedar
 41C7421|cigar-box
+41C7421|smoke
+41C7421|tobacco
 41C7422|case
 41C7422|cigar-case
+41C7422|smoke
+41C7422|tobacco
 41C7423|cigar-holder
+41C7423|smoke
+41C7423|tobacco
 41C743|cigarette
+41C743|smoke
+41C743|tobacco
 41C7431|case
 41C7431|cigarette-case
 41C7432|cigarette-paper
@@ -1068,6 +1103,7 @@
 41C7433|cigarette-tube
 41C7433|pipe
 41C744|snuff
+41C7441|Radish
 41C7441|box (container)
 41C7441|snuff-box
 41C745|chewing-tobacco
@@ -1087,7 +1123,9 @@
 41C761|box (container)
 41C761|scent-box
 41C762|censer
+41C762|frankincense
 41C762|incense
+41C762|myrrh
 41C9|cannibalism
 41C91|necrophagism
 41CC2511|spit
@@ -1138,10 +1176,10 @@
 41D2|costume
 41D211|gown
 41D211(BALL GOWN)|ball gown
-41D211(CHEMISE À LA REINE)|chemise à la reine
 41D211(CHEMISE À LA REINE)|chemise gown
-41D211(COURT GOWN)|court gown
+41D211(CHEMISE À LA REINE)|chemise à la reine
 41D211(COURT GOWN)|court dress
+41D211(COURT GOWN)|court gown
 41D211(DAY DRESS)|afternoon dress
 41D211(DAY DRESS)|day dress
 41D211(DINNER DRESS)|dinner dress
@@ -1987,7 +2025,6 @@
 42D7|cicisbeo
 42D7|mistress
 42D71|concubine
-42D9|single
 42D8|in-laws
 42D81|father-in-law                              
 42D82|mother-in-law                              
@@ -1995,6 +2032,7 @@
 42D84|daughter-in-law                            
 42D85|brother-in-law
 42D86|sister-in-law
+42D9|single
 42D9|unmarried
 42D91|bachelor
 42D91|man
@@ -3963,6 +4001,7 @@
 44E53|cleaning
 44E53|street sweeping
 44E53|sweeping
+44E54|sulphurous/ rotten/ fecal
 44E6|food
 44E6|rationing
 44E61|card
@@ -5630,6 +5669,7 @@
 46C1313|king
 46C1313|statue
 46C13141|horse
+46C13141|horse
 46C131411|fighting (animal)
 46C13142|ass
 46C13142|donkey
@@ -5739,6 +5779,7 @@
 46C15121|tram
 46C1513|rack railway
 46C152|locomotive
+46C1521|steam
 46C1521|steam locomotive
 46C1522|diesel locomotive
 46C1523|electric locomotive
@@ -6468,6 +6509,7 @@
 47B1712|tanner
 47B1713|fur
 47B1713|furrier
+47B1714|leather
 47B181|food
 47B1811|baker
 47B18111|blowing
@@ -6848,7 +6890,11 @@
 47G91|ruin
 47H|textile industry
 47H1|material
+47H11|cedar
+47H11|lavender
 47H11|linen
+47H11|musk
+47H11|rose
 47H111|flax
 47H12|cotton
 47H13|silk
@@ -7044,11 +7090,14 @@
 47I21|domestic animal
 47I21|hoofed animal
 47I211|bovine cattle
+47I211|cow
 47I2111|bull
+47I21111|bull
 47I21111|ox
 47I2112|cow
 47I2113|calf
 47I2114|heifer
+47I212|pig
 47I212|pig
 47I2121|boar
 47I21211|hog
@@ -7062,6 +7111,7 @@
 47I2131|ram
 47I2132|ewe
 47I2133|lamb
+47I214|caprylic/ hircinos
 47I214|goat
 47I2141|he-goat
 47I2143|kid
@@ -7186,7 +7236,9 @@
 47I52|herb
 47I52|herb garden
 47I521|medicament
+47I53|fruity
 47I53|greenhouse
+47I53|orange
 47I53|orangery
 47I531|glass-house
 47I531|hot-house
@@ -7207,9 +7259,9 @@
 47I83|wood collier
 47I831|charcoal furnace
 47I831|furnace
+47I84|lumberjack
 47I84|woodcutter
 47I84|woodcutting
-47I84|lumberjack
 47I85|gathering
 47I85|wood(en)
 47I86|maintenance
@@ -7233,6 +7285,8 @@
 47K|fishing
 47K1|coastal fishery
 47K1|sea fishery
+47K11|ambergris
+47K11|sulphur
 47K11|whale fishery
 47K12|shell fishery
 47K13|crustacean fishery
@@ -7625,8 +7679,8 @@
 48C1611|pilaster
 48C1612|capital (architecture)
 48C1613|base
-48C1614|helix
 48C1614|Solomonic column
+48C1614|helix
 48C1614|spiral
 48C1615|colonnade
 48C162|arch
@@ -8936,8 +8990,8 @@
 49E3932(ASSAY FURNACE)|assay furnace
 49E3932(ASSAY FURNACE)|cupellation
 49E3932(ATHANOR)|athanor
-49E3933|bath
 49E3933|balneum
+49E3933|bath
 49E3933(BALNEUM ARENAE)|balneum arenae
 49E3933(BALNEUM MARIAE)|Mary's bath
 49E394|substance
@@ -8955,12 +9009,12 @@
 49E3946|Elixir vitae
 49E39461|Panacea
 49E3949(ANTIMONY)|antimony
-49E3949(SAL AMMONIAC)|sal ammoniac
 49E3949(SAL AMMONIAC)|ammoniac
+49E3949(SAL AMMONIAC)|sal ammoniac
 49E3949(VITRIOL)|vitriol
 49E395|process
-49E3951|four
 49E3951|Magnum opus
+49E3951|four
 49E3951|stage
 49E3951|transmutation
 49E39511|blackening
@@ -9011,8 +9065,8 @@
 49E39543|opposite
 49E395431|Luna
 49E395431|Mercury
-49E395431|moon
 49E395431|Sol
+49E395431|moon
 49E395431|sulphur
 49E395431|sun
 49E4|crystallography
