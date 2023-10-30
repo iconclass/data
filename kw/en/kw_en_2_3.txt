@@ -924,25 +924,25 @@
 24C32|moon
 24C32|silver
 24C33|mercury
-24C34|copper
 24C34|Venus
-24C35|iron
+24C34|copper
 24C35|Mars
+24C35|iron
 24C36|Jupiter
 24C36|tin
-24C37|lead
 24C37|Saturn
-24C39(URANUS)|platinum
+24C37|lead
 24C39(URANUS)|Uranus
+24C39(URANUS)|platinum
 24D|star
 24D0|allegory
 24D0|symbol
 24D1|constellation
 24D1(ORION)|Orion
-24D1(POLARIS)|north
 24D1(POLARIS)|North star
 24D1(POLARIS)|Polaris
 24D1(POLARIS)|Pole star
+24D1(POLARIS)|north
 24D1(SIRIUS)|Sirius
 24D2|galaxy
 24D21|Milky Way
@@ -1125,6 +1125,7 @@
 25D143|amber
 25D143|fossil
 25D143|resin
+25D143|resin
 25D15|crystal
 25D2|soil
 25D211|humus
@@ -1133,6 +1134,7 @@
 25D24|clay
 25D241|loam
 25D242|loess
+25D25|peat
 25D25|peat
 25D26|dirt
 25D26|mud
@@ -1178,6 +1180,7 @@
 25D45|gas
 25D45|ground
 25D451|coal
+25D451|coal
 25D4511|factory
 25D4511|gasworks
 25D4512|gasholder
@@ -1222,6 +1225,7 @@
 25F23(WEASEL)|weasel
 25F23(WOLF)|wolf
 25F24|hoofed animal
+25F24(...)|musk
 25F24(...)|reindeer
 25F24(ANTELOPE)|antelope
 25F24(BISON)|aurochs
@@ -1246,7 +1250,9 @@
 25F24(ZEBRA)|zebra
 25F25|trunked animal
 25F25(ELEPHANT)|elephant
+25F26|Castoreum
 25F26|rodent
+25F26(...)|musk
 25F26(BEAVER)|beaver
 25F26(HARE)|hare
 25F26(MOUSE)|mouse
@@ -1369,6 +1375,7 @@
 25F51(TOAD)|toad
 25F52|tail
 25F6|fish
+25F6|fish
 25F61|cartilaginous fish
 25F61(DOGFISH)|dogfish
 25F61(RAY)|ray (fish)
@@ -1478,8 +1485,8 @@
 25F711(MANTIS)|flea
 25F711(MANTIS)|louse
 25F711(MANTIS)|mantis
-25F711(MOSQUITO)|mosquito
 25F711(MOSQUITO)|midge
+25F711(MOSQUITO)|mosquito
 25F711(MOTH)|dragon-fly
 25F711(MOTH)|flea
 25F711(MOTH)|louse
@@ -1623,6 +1630,7 @@
 25FF24(WINGED HORSE)|Pegasus
 25FF24(WINGED HORSE)|horse
 25FF24(WINGED HORSE)|wing
+25FF241|cinnamon
 25FF241|horn
 25FF241|one
 25FF241|unicorn
@@ -1723,6 +1731,7 @@
 25FF39(HOOPOE)|hoopoe
 25FF4|reptile
 25FF411|dragon
+25FF411|dragon's breath
 25FF412|fire
 25FF412|salamander
 25FF412|spirit
@@ -1869,7 +1878,9 @@
 25G22(...)|bark (skin)
 25G22(...)|bulb
 25G22(...)|carrot
+25G22(...)|cinnamon
 25G22(...)|cork
+25G22(...)|onion
 25G22(...)|root
 25G22(...)|tuber
 25G22(ASPARAGUS)|asparagus
@@ -1878,6 +1889,12 @@
 25G22(RADISH)|radish
 25G22(TURNIP)|turnip
 25G3|tree
+25G3|tree
+25G3(...)|acacia
+25G3(...)|elm
+25G3(...)|laurel
+25G3(...)|myrrh
+25G3(...)|oak
 25G3(ACACIA)|acacia
 25G3(ACER)|acer
 25G3(ACER)|maple
@@ -1898,8 +1915,8 @@
 25G3(FIG-TREE)|fig-tree
 25G3(FIR)|fir
 25G3(HOLM-OAK)|holm-oak
-25G3(INDIAN BANYAN)|banyan tree
 25G3(INDIAN BANYAN)|Indian banyan tree
+25G3(INDIAN BANYAN)|banyan tree
 25G3(LAUREL)|laurel
 25G3(LEMON-TREE)|lemon-tree
 25G3(LINDEN)|linden
@@ -1925,6 +1942,9 @@
 25G3(YEW)|yew
 25G31|bush
 25G31(...)|incense bush
+25G31(...)|juniper
+25G31(...)|juniper berry
+25G31(...)|myrtle
 25G31(BLACKBERRY-BUSH)|blackberry-bush
 25G31(BOX)|box (plant)
 25G31(BROOM)|broom (plant)
@@ -1940,6 +1960,10 @@
 25G391|alchemy
 25G391|philosophy
 25G4|herb
+25G4|herb
+25G4(...)|garlic
+25G4(...)|mint
+25G4(...)|peonie
 25G4(ACANTHUS)|acanthus
 25G4(ACANTHUS)|barley
 25G4(ACANTHUS)|lotus
@@ -2134,6 +2158,13 @@
 25G4(WORMWOOD)|wormwood
 25G41|flower
 25G41(...)|aconite
+25G41(...)|carnation
+25G41(...)|daffodil
+25G41(...)|hyacinth
+25G41(...)|iris
+25G41(...)|orchid
+25G41(...)|rose
+25G41(...)|violet
 25G41(ALMOND-BLOSSOM)|almond-blossom
 25G41(ANEMONE)|anemone
 25G41(BUTTERCUP)|buttercup
@@ -2383,6 +2414,7 @@
 25H141|peninsula
 25H142|isthmus
 25H15|forest
+25H15|forest
 25H15|tree
 25H151|deciduous forest
 25H151|foliage
@@ -2407,6 +2439,7 @@
 25H161|savanna
 25H17|grass
 25H17|meadow
+25H17|meadowsweet
 25H171|alp
 25H171|mountain
 25H172|bird
@@ -2425,8 +2458,8 @@
 25H18|cultivation
 25H181|no man's land
 25H181|waste land
-25H182|ploughing
 25H182|field
+25H182|ploughing
 25H183|crop
 25H183|field
 25H19|polder
@@ -2450,6 +2483,7 @@
 25H211|spring (source)
 25H212|brook
 25H213|river
+25H213|tuberose
 25H2130|Fiumi
 25H2130|Ripa
 25H2130|personification
@@ -2537,6 +2571,7 @@
 25H2316|ocean
 25H2321|ocean
 25H23210|personification
+25H2322|sea
 25H2323|bay (gulf)
 25H2323|gulf
 25H2324|narrow
@@ -2708,9 +2743,9 @@
 25I154|triumphal column
 25I155|clock tower
 25I155|tower
+25I16|WC
 25I16|lavatory
 25I16|public convenience
-25I16|WC
 25I17|underground
 25I171|sewer
 25I18|outskirts
@@ -2934,6 +2969,15 @@
 26B4|rain shower
 26B4|shower (rain)
 26B9|drought
+26C|ambergris
+26C|cinnamon
+26C|civet
+26C|cloves
+26C|lavender
+26C|marjoram
+26C|musk
+26C|nutmeg
+26C|rosemary
 26C0|Ripa
 26C0|Venti
 26C0|meteorological phenomena
@@ -3910,8 +3954,19 @@
 31A5143|ointment
 31A5144|powder
 31A5145|tool
+31A51451|ambergris
+31A51451|cinnamon
+31A51451|civet
+31A51451|cloves
+31A51451|lemon
+31A51451|musk
 31A51451|musk ball
+31A51451|nutmeg
 31A51451|pomander
+31A51451|rose
+31A51451|rosemary
+31A51451|schlag
+31A51451|thyme
 31A51452|bottle
 31A51452|perfume bottle
 31A51453|jar
@@ -4024,6 +4079,7 @@
 31A58|body-building
 31A59|uncleanliness
 31A6|need
+31A61|Ammonia
 31A61|urine
 31A611|chamber-pot
 31A611|pot
@@ -5248,15 +5304,15 @@
 32B313(SRI LANKA)|Sri Lankans
 32B32|Africans
 32B32(BEDOUINS)|Bedouins
+32B32(BEDOUINS)|Bedouins
 32B32(TUNISIANS)|Tunisians
 32B321|negro
 32B321|sub-Saharan Africans
 32B321(BANTUS)|Bantus
-32B3211|Americans
 32B3211|African-Americans
+32B3211|Americans
 32B33|Asians
 32B33(ARABS)|Arabs
-32B32(BEDOUINS)|Bedouins
 32B33(INDIANS)|Indians
 32B33(PERSIANS)|Persians
 32B33(TURKS)|Turks
@@ -5752,6 +5808,7 @@
 34B232|cock
 34B232|fowl
 34B232|hen
+34B232|pigeon
 34B2321|chicken house
 34B233|water-bird
 34B2331|swan

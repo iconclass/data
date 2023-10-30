@@ -707,7 +707,6 @@
 11F243|unicorn
 11F243|virgin
 11F244|throne
-11F26|type
 11F25|Mater Dolorosa
 11F25|bust
 11F25|full length
@@ -718,6 +717,7 @@
 11F252|piercing
 11F252|sword
 11F253|instruments of the Passion
+11F26|type
 11F261|Holy Ghost
 11F261|breast
 11F261|bride
@@ -20673,6 +20673,7 @@
 11HH(MONICA)84|beatification
 11HH(MONICA)84|blessing
 11HH(MONICA)84|canonization
+11HH(MYRRHOPHORES)|Myrrh
 11HH(MYRRHOPHORES)|Myrrhophores (St.)
 11HH(MYRRHOPHORES)|four
 11HH(MYRRHOPHORES)|jar
@@ -21351,6 +21352,7 @@
 11HH(THERESA)|Carmelites
 11HH(THERESA)|Discalced Carmelites
 11HH(THERESA)|Theresa (St.)
+11HH(THERESA)|acetone.acetoacetic acid from ketosis
 11HH(THERESA)|angel
 11HH(THERESA)|arrow
 11HH(THERESA)|dove
@@ -23223,11 +23225,12 @@
 11L111|Ecclesia
 11L111|Moses
 11L111|giving
+11L112|Host
 11L112|Hostienmühle
 11L112|apostle
-11L112|Host
 11L112|mill
 11L112|prophet
+11L112|sack of grain
 11L12|Law (biblical)
 11L12|Legge del timore
 11L12|Legge vecchia
@@ -23237,8 +23240,8 @@
 11L13|Legge nuova
 11L13|New Testament
 11L13|Ripa
-11L14|grace
 11L14|Law (biblical)
+11L14|grace
 11L141|ante legem
 11L142|sub lege
 11L143|sub gratia
@@ -23400,9 +23403,9 @@
 11M33|Caritas
 11M33|Carità
 11M33|Charity
+11M33|Love
 11M33|Ripa
 11M33|child
-11M33|Love
 11M4|Cardinal Virtues (Four)
 11M4|four
 11M4|triumph
@@ -23625,9 +23628,9 @@
 11P25(COLLEGIANTS)|Collegiant Church
 11P25(METHODISTS)|Methodist Church
 11P25(PRESBYTERIANS)|Presbyterian Church
-11P25(REMONSTRANTS)|Remonstrant Church
-11P25(REMONSTRANTS)|Arminian Church
 11P25(QUAKERS)|Quaker
+11P25(REMONSTRANTS)|Arminian Church
+11P25(REMONSTRANTS)|Remonstrant Church
 11P25(WALLOON CHURCH)|Walloon Church
 11P250|personification
 11P251|organization
@@ -24095,6 +24098,7 @@
 11Q71427|fire
 11Q71427|lamp
 11Q71428|censer
+11Q71428|frankincense
 11Q71428|smoke
 11Q71429|aspergillum
 11Q7143|tabernacle
@@ -24200,7 +24204,11 @@
 11Q731111|procession
 11Q731111|sacristy
 11Q731112|altar
+11Q731112|cinnamon
+11Q731112|frankincense
 11Q731112|incense
+11Q731112|myrrh
+11Q731112|oil
 11Q731113|bible
 11Q731113|reading
 11Q731114|sermon
@@ -24276,8 +24284,8 @@
 11Q73244|legend
 11Q73244|miracle
 11Q73245|first communion
-11Q732452|dress
 11Q732452|communion dress
+11Q732452|dress
 11Q73249|profanation
 11Q7325|Ordinatio
 11Q7325|ordination
@@ -24497,6 +24505,7 @@
 11R6|still life
 11R6|vanity
 11R7|Death
+11R7|Frankincense
 11R7|Memento mori
 11R7|Vanitas
 11R7|Vanità
@@ -24593,6 +24602,9 @@
 11S726|security
 11S727|Gaudium
 11S727|joy
+11T|Excrement
+11T|Smoke
+11T|Sulfur
 11T|hell
 11T|purgatory
 11T1|Lucifer
@@ -24642,6 +24654,7 @@
 11U|Last Judgement
 11U1|Christ
 11U1|John the Baptist (St.)
+11U1|Lily
 11U1|Mary (Virgin)
 11U1|accompanying
 11U1|angel
@@ -24652,6 +24665,7 @@
 11U1|elder
 11U1|heaven
 11U1|hell
+11U1|indole
 11U1|instruments of the Passion
 11U1|leading
 11U1|lily
@@ -24840,6 +24854,9 @@
 12A3112|temple
 12A312|brazen
 12A312|sacrificing
+12A3121|Frankincence
+12A3121|Galbanum
+12A3121|Onycha
 12A3121|tabernacle
 12A3122|temple
 12A32|animal
@@ -27593,7 +27610,11 @@
 13B2(VIRGIL)|Virgil
 13B21|group
 13B22|apprentice
+13B3|Cooking
+13B3|He-goat
 13B3|Sabbath
+13B3|Smoke
+13B3|Sulfur
 13B3|assembly
 13B3|witch
 13B31|preparation

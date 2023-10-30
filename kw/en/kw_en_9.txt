@@ -1526,6 +1526,7 @@
 92C49|offspring
 92C49|train (retinue)
 92C491|Adonis
+92C4911|Myrrh
 92C4911|Naiad
 92C4911|baby
 92C4911|birth
@@ -3246,6 +3247,7 @@
 92L4229|companion
 92L4229|offspring
 92L4229|train (retinue)
+92L5|Animalic; Musk
 92L5|Pan
 92L51|child
 92L51|youth
@@ -11783,8 +11785,11 @@
 96A1811|birth
 96A1812|infancy
 96A1812|upbringing
+96A1821|
 96A1821|Pomona
 96A1821|fruit
+96A1821|orchard
+96A1821|plants and (fruit) trees
 96A18211|courting
 96A18211|disguise
 96A18211|old woman
@@ -13213,6 +13218,7 @@
 97AA|tree
 97AA|woman
 97AA1|Daphne
+97AA1|Laurel
 97AA1|Ovid, Metamorphoses 01
 97AA1|Peneus
 97AA1|laurel
@@ -13234,6 +13240,7 @@
 97AA3|reviving
 97AA4|Myrrha
 97AA4|Ovid, Metamorphoses 10
+97AA4|Resinous: Myrrh
 97AA4|fleeing
 97AA4|man
 97AA4|myrtle
@@ -19434,7 +19441,11 @@
 98C(CLEOPATRA)51|pearl
 98C(CLEOPATRA)51|wine
 98C(CLEOPATRA)52|Tarsus
+98C(CLEOPATRA)52|cardamom
+98C(CLEOPATRA)52|cinnamon
 98C(CLEOPATRA)52|disembarkation
+98C(CLEOPATRA)52|musk
+98C(CLEOPATRA)52|myrrh
 98C(CLEOPATRA)53|Augustus (Emperor)
 98C(CLEOPATRA)53|document
 98C(CLEOPATRA)53|giving
