@@ -2815,6 +2815,13 @@
 31A330|Ripa: Odorato
 31A331|angenehmer Geruch
 31A332|unangenehmer, abstoßender Geruch
+31A333|Geruchskonzepte
+31A3331|Geruchsquellen
+31A3332|Geruchsträger
+31A3333|duftende Räume
+31A334|Gesten und Handlungen ~ Geruch
+31A3341|riechen
+31A3342|geruchserzeugende Gesten und Handlungen
 31A34|Geschmack, schmecken (als einer der fünf Sinne)
 31A340|Ripa: Gusto
 31A341|guter vs. schlechter Geschmack
@@ -3480,6 +3487,13 @@
 31AA330|Ripa: Odorato - AA - weibliche Figur
 31AA331|angenehmer Geruch - AA - weibliche Figur
 31AA332|unangenehmer, abstoßender Geruch - AA - weibliche Figur
+31AA333|Geruchskonzepte - AA - weibliche Figur
+31AA3331|Geruchsquellen - AA - weibliche Figur
+31AA3332|Geruchsträger - AA - weibliche Figur
+31AA3333|duftende Räume - AA - weibliche Figur
+31AA334|Gesten und Handlungen ~ Geruch - AA - weibliche Figur
+31AA3341|riechen - AA - weibliche Figur
+31AA3342|geruchserzeugende Gesten und Handlungen - AA - weibliche Figur
 31AA34|Geschmack, schmecken (als einer der fünf Sinne) - AA - weibliche Figur
 31AA340|Ripa: Gusto - AA - weibliche Figur
 31AA341|guter vs. schlechter Geschmack - AA - weibliche Figur

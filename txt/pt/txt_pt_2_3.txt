@@ -2775,6 +2775,13 @@
 31A330|"Odorato" (Ripa)
 31A331|cheiro agradável
 31A332|cheiro desagradável, repelente
+31A333|conceitos olfativos
+31A3331|fontes de cheiro
+31A3332|transportadores de odores
+31A3333|espaços perfumados
+31A334|gestos e atos ~ odores
+31A3341|cheirando
+31A3342|gestos e atos que produzem odores
 31A34|paladar, saborear (um dos cinco sentidos)
 31A340|"Gusto" (Ripa)
 31A341|sabor agradável versus sabor desagradável
@@ -3430,6 +3437,13 @@
 31AA330|"Odorato" (Ripa) - AA - figura humana feminina
 31AA331|cheiro agradável - AA - figura humana feminina
 31AA332|cheiro desagradável, repelente - AA - figura humana feminina
+31AA333|conceitos olfativos - AA - figura humana feminina
+31AA3331|fontes de cheiro - AA - figura humana feminina
+31AA3332|transportadores de odores - AA - figura humana feminina
+31AA3333|espaços perfumados - AA - figura humana feminina
+31AA334|gestos e atos ~ odores - AA - figura humana feminina
+31AA3341|cheirando - AA - figura humana feminina
+31AA3342|gestos e atos que produzem odores - AA - figura humana feminina
 31AA34|paladar, saborear (um dos cinco sentidos) - AA - figura humana feminina
 31AA340|"Gusto" (Ripa) - AA - figura humana feminina
 31AA341|sabor agradável versus sabor desagradável - AA - figura humana feminina

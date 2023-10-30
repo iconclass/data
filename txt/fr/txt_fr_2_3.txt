@@ -2814,6 +2814,13 @@
 31A330|'Odorato' (Ripa)
 31A331|odeur plaisante
 31A332|mauvaise odeur, odeur répugnante
+31A333|notions olfactives
+31A3331|sources d'odeurs
+31A3332|porteurs d'odeurs
+31A3333|espaces parfumés
+31A334|gestes et actes ~ odeurs
+31A3341|renifler
+31A3342|gestes et actes générateurs d'odeurs
 31A34|le goût, goûter (un des cinq sens)
 31A340|'Gusto' (Ripa)
 31A341|goût agréable opposé à goût désagréable
@@ -3479,6 +3486,13 @@
 31AA330|'Odorato' (Ripa) - AA - figure féminine
 31AA331|odeur plaisante - AA - figure féminine
 31AA332|mauvaise odeur, odeur répugnante - AA - figure féminine
+31AA333|notions olfactives - AA - figure féminine
+31AA3331|sources d'odeurs - AA - figure féminine
+31AA3332|porteurs d'odeurs - AA - figure féminine
+31AA3333|espaces parfumés - AA - figure féminine
+31AA334|gestes et actes ~ odeurs - AA - figure féminine
+31AA3341|renifler - AA - figure féminine
+31AA3342|gestes et actes générateurs d'odeurs - AA - figure féminine
 31AA34|le goût, goûter (un des cinq sens) - AA - figure féminine
 31AA340|'Gusto' (Ripa) - AA - figure féminine
 31AA341|goût agréable opposé à goût désagréable - AA - figure féminine
