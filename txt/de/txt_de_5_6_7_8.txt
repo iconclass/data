@@ -203,6 +203,7 @@
 52A11|Aufmerksamkeit, Konzentration
 52A12|Neugier, Wißbegierde, Wissensdrang; Ripa: Curiosità
 52A13|Talent
+52A14|Künstliche Intelligenz
 52A2|Vorbedacht, Vorherdenken, Voraussicht, (planende) Überlegung; Ripa: Previdenza, Providenza
 52A21|Methode
 52A22|Takt, Feingefühl

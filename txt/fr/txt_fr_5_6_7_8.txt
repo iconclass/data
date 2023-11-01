@@ -203,6 +203,7 @@
 52A11|Attention, Concentration
 52A12|Curiosité, Recherche, Désir de Connaître; 'Curiosità' (Ripa)
 52A13|Talent
+52A14|Intelligence artificielle
 52A2|Prévoyance, Délibération; 'Previdenza', 'Providenza' (Ripa)
 52A21|Méthode
 52A22|Tact
