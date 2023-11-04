@@ -1373,6 +1373,7 @@
 42E14|den Leichnam in den Sarg legen
 42E141|Sarg
 42E142|Gegenstände in den Sarg legen, z.B. Blumen, den Trauring
+42E1421|Grabbeigabe
 42E15|Einbalsamierung, Mumifizierung des Leichnams
 42E151|Mumie
 42E152|Herrichtung von Teilen des Körpers

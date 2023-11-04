@@ -1373,6 +1373,7 @@
 42E14|deposizione della la salma nella bara
 42E141|bara
 42E142|porre qualcosa nella bara o sulla bara, p.es. fiori, fede nuziale
+42E1421|corredi funerari
 42E15|imbalsamare, mummificazione della salma
 42E151|mummia
 42E152|preparazione di parti del corpo

@@ -1374,6 +1374,7 @@
 42E14|placer le corps dans le cercueil
 42E141|cercueil
 42E142|mettre quelque chose dans le cercueil, p.ex. des fleurs, une alliance
+42E1421|mobilier funéraire
 42E15|embaumement, momification du corps
 42E151|momie
 42E152|apprêt de parties du corps

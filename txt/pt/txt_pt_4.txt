@@ -1317,6 +1317,7 @@
 42E14|deposição do cadáver no caixão
 42E141|caixão
 42E142|colocar algo sobre ou dentro do caixão, e.g. flores, aliança
+42E1421|objectos funerários
 42E15|embalsamamento, mumificação do cadáver
 42E151|múmia
 42E152|preparação de partes do corpo
