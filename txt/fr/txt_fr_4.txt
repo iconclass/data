@@ -1741,6 +1741,7 @@
 43B311|restaurant
 43B312|jardin qui fait salon de thé, jardin de restaurant
 43B313|terrasse d'auberge ou de restaurant
+43B314|signe, panneau d’auberge ou de restaurant
 43B32|club, salle de réunion
 43B33|casino
 43B331|maison de jeu, tripot
@@ -6115,20 +6116,37 @@
 49E392|symboles alchimiques
 49E393|équipement alchimique
 49E3931|vaisselle alchimique
-49E3931(...)|
-49E39311|bouteilles (ampullae)
+49E39311|bouteilles (ampulla)
 49E39311(...)|bouteilles (ampulla) (avec NOM)
 49E39311(OVUM PHILOSOPHICUM)|bouteille: oeuf philosophique (ovum philosophicum)
+49E39311(PELICAN)|bouteilles: pélican
+49E39311(PHIAL)|bouteilles: phiole
+49E39311(RECEPTACULUM)|bouteilles: réceptacle (receptaculum) 
 49E39312|fioles (cucurbitae)
 49E39312(...)|fioles (cucurbitae) (avec NOM)
+49E39312(ALEMBIC)|fioles: alembic
+49E39312(MOOR'S HEAD)|fioles: tête-de-Maure
+49E39312(OPERCULUM)|fioles: operculum
+49E39312(RETORT)|fioles: cornue
+49E39312(ROSENHUT)|fioles: rosenhut
 49E39313|pots, bocaux (ollae)
-
-49E39313(...)|
+49E39313(...)|pots, bocaux (ollae) (avec NOM)
+49E39313(ALUDEL)|pots, bocaux: aludel
+49E39313(CHALICE)|pots, bocaux: calice
+49E39313(CRUCIBLE)|pots, bocaux: creuset
+49E39313(CUPEL)|pots, bocaux: cupel
 49E3932|four alchimique
 49E3932(...)|four alchimique (avec NOM)
-49E3932(ASSAY FURNACE)|four pour coupellation
-49E3932(ATHANOR)|athanor
+49E3932(ASSAY FURNACE)|four alchimique: four pour coupellation
+49E3932(ATHANOR)|four alchimique: athanor
+49E3932(CARBURIZING FURNACE)|four alchimique: four pour cémentation
+49E3932(PIGER HENRICUS)|four alchimique: Henri le paresseux
+49E3932(REVERBATORY FURNACE)|four alchimique: Four à réverbère
+49E3932(SMELTING FURNACE)|four alchimique: four à fusion
 49E3933|bain alchimique (balneum)
+49E3933(...)|bain alchimique (balneum) (avec NOM)
+49E3933(BALNEUM ARENAE)|bain alchimiste: bain de sable
+49E3933(BALNEUM MARIAE)|bain alchimiste: bain-Marie
 49E3939|autre équipement alchimique
 49E3939(...)|autre équipement alchimique (avec NOM)
 49E394|substances alchimiques
@@ -6159,7 +6177,6 @@
 49E3952(...)|Magnum opus: étapes supplémentaires de la transmutation (avec NOM)
 49E3952(CALCINATION)|étapes supplémentaires: calcination
 49E3952(CIBATION)|étapes supplémentaires: cibation
-
 49E3952(COAGULATION)|étapes supplémentaires: coagulation (fixation)
 49E3952(CONJUNCTION)|étapes supplémentaires: conjonction (mariage chimique)
 49E3952(DISTILLATION)|étapes supplémentaires: distillation (destillatio)

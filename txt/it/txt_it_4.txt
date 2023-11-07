@@ -1740,6 +1740,7 @@
 43B311|ristorante
 43B312|giardino per il tè, dove viene servito tè e rinfreschi
 43B313|marciapiede o terrazza davanti a una locanda o a un ristorante
+43B314|insegna della locanda
 43B32|club, luogo d'incontro
 43B33|casinò
 43B331|casa da gioco, bisca

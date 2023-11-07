@@ -1684,6 +1684,7 @@
 43B311|restaurante
 43B312|jardim para o chá, onde é servido chá e refrescos
 43B313|pavimento, terraço em frente de uma pousada ou restaurante
+43B314|sinal de pousada ou restaurante
 43B32|clube, local de encontro
 43B33|casino
 43B331|casa de jogo, casa de apostas

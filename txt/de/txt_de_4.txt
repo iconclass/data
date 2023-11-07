@@ -1740,6 +1740,7 @@
 43B311|Restaurant
 43B312|Gartenrestaurant
 43B313|Terrasse bzw. Tische und Stühle vor einem Gasthaus oder Restaurant, auf dem Bürgersteig
+43B314|Nasenschild, Gasthausschild
 43B32|Club, Verein, fester Treffpunkt
 43B33|Kasino
 43B331|Spielhölle
@@ -6116,16 +6117,35 @@
 49E3931|alchemistischen Gefäße
 49E39311|Flaschen und flaschenähnliche Gefäße (ampullae)
 49E39311(...)|Flaschen und flaschenähnliche Gefäße (ampullae) (mit NAMEN)
-49E39311(OVUM PHILOSOPHICUM)|Flasche: Philosophisches Ei (ovum philosophicum)
+49E39311(OVUM PHILOSOPHICUM)|Flaschen: Philosophisches Ei (ovum philosophicum)
+49E39311(PELICAN)|Flaschen: Pelikan
+49E39311(PHIAL)|Flaschen: Phiole
+49E39311(RECEPTACULUM)|Flaschen: Rezipient (receptaculum, Vorlage)
 49E39312|Kolben (cucurbitae)
 49E39312(...)|Kolben (cucurbitae) (mit NAMEN)
+49E39312(ALEMBIC)|Kolbe: alembic
+49E39312(MOOR'S HEAD)|Kolbe: Mohrenkopf
+49E39312(OPERCULUM)|Kolbe: Operculum
+49E39312(RETORT)|Kolbe: Retorte
+49E39312(ROSENHUT)|Kolbe: Rosenhut
 49E39313|Töpfe, Krüge (ollae)
-49E39313(...)|
+49E39313(...)|Töpfe, Krüge (ollae) (mit NAMEN)
+49E39313(ALUDEL)|Töpfe, Krüge (ollae): Aludel
+49E39313(CHALICE)|Töpfe, Krüge (ollae): Kelch
+49E39313(CRUCIBLE)|Töpfe, Krüge (ollae): Tiegel
+49E39313(CUPEL)|Töpfe, Krüge (ollae): Kupelle
 49E3932|alchemistischer Ofen
 49E3932(...)|alchemistischer Ofen (mit NAMEN)
 49E3932(ASSAY FURNACE)|Probierofen
 49E3932(ATHANOR)|Athanor
+49E3932(CARBURIZING FURNACE)|alchemistischer Ofen: Zementierofen
+49E3932(PIGER HENRICUS)|alchemistischer Ofen: Bequemlichkeitsofen, "Fauler Heinz" (Piger Henricus)
+49E3932(REVERBATORY FURNACE)|alchemistischer Ofen: Reverberierofen, Flammofen
+49E3932(SMELTING FURNACE)|alchemistischer Ofen: Schmelzofen
 49E3933|alchemistisches Bad (balneum)
+49E3933(...)|alchemistisches Bad (balneum) (mit NAMEN)
+49E3933(BALNEUM ARENAE)|alchemistisches Bad: Sandbad, Sandkapelle
+49E3933(BALNEUM MARIAE)|alchemistisches Bad: Wasserbad, Marienbad
 49E3939|andere alchemistische Gerätschaften
 49E3939(...)|andere alchemistische Gerätschaften (mit NAMEN)
 49E394|alchemistische Substanzen
@@ -6161,7 +6181,6 @@
 49E3952(DISTILLATION)|zusätzliche Stufen: Destillation (Destillatio)
 49E3952(EXALTATION)|andere Stufen: Exaltatio
 49E3952(MULTIPLICATION)|andere Stufen: Multiplicatio
-
 49E3952(PROJECTION)|andere Stufen: Projectio (Tingierung)
 49E3952(PUTREFACTION)|andere Stufen: Putrefactio (Fäulung) oder Fermentatio
 49E3952(SEPARATION)|zusätzliche Stufen: Separatio oder Divisio

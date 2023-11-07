@@ -1741,6 +1741,7 @@
 43B311|restaurant
 43B312|tea garden, garden restaurant
 43B313|pavement, terrace in front of inn or restaurant
+43B314|pub sign, inn sign
 43B32|club, meeting place
 43B33|casino
 43B331|gaming den, gambling den
