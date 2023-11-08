@@ -5469,9 +5469,10 @@
 48C7356(CONCH)|andere Blasinstrumente: Tritonshorn
 48C736|Instrumente für Volksmusik, U-Musik
 48C737|improvisierte Musikinstrumente (Küchengeräte etc.)
-48C737(...)|
+48C737(...)|improvisierte Musikinstrumente (Küchengeräte etc.) (mit NAMEN)
 48C737(RUMBLING-POT)|improvisierte Musikinstrumente: Brummtopf
 48C738|Hilfsmittel und Zubehör für den Bereich der Musik: Metronom, Notenständer, Stimmgabel etc.
+48C739|Mechanische Musikinstrumente, Musikautomat
 48C74|Notenschrift
 48C741|gedruckte Ausgabe einer Partitur
 48C742|Manuskript einer Partitur

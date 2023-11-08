@@ -5472,6 +5472,7 @@
 48C737(...)|
 48C737(RUMBLING-POT)|strumenti improvvisati: cupa-cupa
 48C738|accessori ~ musica: metronomo, leggio per musica, diapason, ecc.
+48C739|automa musicale
 48C74|notazione di musica
 48C741|edizione a stampa della partitura musicale
 48C742|manoscritto della partitura musicale

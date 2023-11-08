@@ -5473,6 +5473,7 @@
 48C737(...)|
 48C737(RUMBLING-POT)|instruments improvisés de musique: tambour à friction
 48C738|accessoires ~ musique; métronome, pupitre à musique, diapason, etc.
+48C739|instrument de musique mécanique
 48C74|notation musicale
 48C741|édition imprimée de composition musicale, partition
 48C742|manuscrit musical

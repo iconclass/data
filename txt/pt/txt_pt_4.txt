@@ -5385,6 +5385,7 @@
 48C736|instrumentos ~ música popular
 48C737|instrumentos musicais improvisados ​​(utensílios de cozinha, etc.)
 48C738|acessórios ~ música: metrónomo, estante, diapasão, etc.
+48C739|instrumentos mecânicos
 48C74|notação musical
 48C741|edição impressa de partitura musical
 48C742|manuscrito de partitura musical

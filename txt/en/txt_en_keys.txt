@@ -2630,7 +2630,7 @@
 48k76111|Chinese art
 48k761111|chinoiserie, European interpretation of Chinese art
 48k76112|Japanese art
-48K761121|Japonisme, European imitation of Japanese art
+48k761121|Japonisme, European imitation of Japanese art
 48k7612|southern Asian art
 48k76121|Indian art
 48k7613|northern and central Asian art
