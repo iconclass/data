@@ -6109,24 +6109,43 @@
 49E33|chimica organica
 49E39|alchimia
 49E391|alchimista all'opera
-49E3911|alchimista che si cimenta nel cercare di fare l'oro
-49E3912|alchimista alla ricerca della Pietra Filosofale
+49E3911|alchimista che si cimenta nel cercare di fare 
+49E3912|alchimista alla ricerca della Pietra Filosofal
 49E3913|alchimista fallisce nella sua opera
 49E392|simboli alchemici
 49E393|attrezzatura dell’alchimista
 49E3931|stoviglie alchemiche
-49E39311|bottiglie (ampullae)
-49E39311(...)|bottiglie (ampullae) (col NOME)
-49E39311(OVUM PHILOSOPHICUM)|bottiglia: ovo filosofico (ovum philosophicum)
+49E39311|ampolle (ampullae)
+49E39311(...)|ampolle (ampullae) (col NOME)
+49E39311(OVUM PHILOSOPHICUM)|ampolle (ampullae): ovo filosofico (ovum philosophicum)
+49E39311(PELICAN)|ampolle (ampullae): pellicano
+49E39311(PHIAL)|ampolle (ampullae): fiole
+49E39311(RECEPTACULUM)|ampolle (ampullae): ricettacolo
 49E39312|fiaschi (cucurbitae)
 49E39312(...)|fiaschi (cucurbitae) (col NOME)
+49E39312(ALEMBIC)|fiasche: alambicco; distillatore
+49E39312(MOOR'S HEAD)|fiasche: Testa di Moro
+49E39312(OPERCULUM)|fiasche: operculum
+49E39312(RETORT)|fiasche: storta
+49E39312(ROSENHUT)|fiasche: rosenhut
 49E39313|pentole, barattoli (ollae)
-49E39313(...)|
+49E39313(...)|pentole, barattoli (ollae) (col NOME)
+49E39313(ALUDEL)|pentole, barattoli (ollae): aludel
+49E39313(CHALICE)|pentole, barattoli (ollae): calice
+49E39313(CRUCIBLE)|pentole, barattoli (ollae): crogiolo
+49E39313(CUPEL)|pentole, barattoli (ollae): coppella
 49E3932|forno alchimico
 49E3932(...)|forno alchimico (col NOME)
-49E3932(ASSAY FURNACE)|forno per copellazione
-49E3932(ATHANOR)|athanor
+49E3932(ASSAY FURNACE)|forno alchimico: forno per coppellazione
+49E3932(ATHANOR)|forno alchimico: athanor
+49E3932(CARBURIZING FURNACE)|forno alchimico: forno per cementazione
+49E3932(PIGER HENRICUS)|forno alchimico: Piger Henricus
+49E3932(REVERBATORY FURNACE)|forno alchimico: forno a riverbero
+49E3932(SMELTING FURNACE)|forno alchimico: forno fusorio
 49E3933|bagno alchimico (balneum)
+49E3933(...)|bagno alchimico (balneum) (col NOME)
+49E3933(BALNEUM ARENAE)|bagno alchimico (balneum): bagno di sabbia
+49E3933(BALNEUM MARIAE)|bagno alchimico (balneum): bagnomaria, bagno Maria
 49E3939|altra attrezzatura dell’alchimista
 49E3939(...)|altra attrezzatura dell’alchimista (col NOME)
 49E394|sostanze alchemiche
