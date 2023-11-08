@@ -2628,7 +2628,9 @@
 48k761|arte asiatica
 48k7611|arte asiatica orientale
 48k76111|arte cinese
+48k761111|cineserie, interpretazione europea dell'arte cinese
 48k76112|arte giapponese
+48k761121|giapponismo, Imitazione europea dell'arte giapponese
 48k7612|arte dell'Asia meridionale
 48k76121|arte indiana
 48k7613|arte asiatica settentrionale e centrale

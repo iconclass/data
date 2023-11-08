@@ -1,4 +1,4 @@
-11k0|variant
+1k0|variant
 11k1|Holy Trinity
 11k11|God the Father
 11k111|God the Father in the form of light
@@ -2628,7 +2628,9 @@
 48k761|Asian art
 48k7611|eastern Asian art
 48k76111|Chinese art
+48k761111|chinoiserie, European interpretation of Chinese art
 48k76112|Japanese art
+48K761121|Japonisme, European imitation of Japanese art
 48k7612|southern Asian art
 48k76121|Indian art
 48k7613|northern and central Asian art

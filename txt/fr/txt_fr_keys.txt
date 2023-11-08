@@ -2627,7 +2627,9 @@
 48k761|art asiatique
 48k7611|art de l'Asie orientale
 48k76111|art chinois
+48k761111|chinoiserie, interprétation européenne de l'art chinois
 48k76112|art japonais
+48k761121|japonisme, imitation européenne de l'art japonais
 48k7612|art de l'Asie méridionale
 48k76121|art indien
 48k7613|art du nord et du centre de l'Asie
