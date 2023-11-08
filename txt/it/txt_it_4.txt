@@ -5745,6 +5745,7 @@
 48CC736|strumenti ~ musica popolare - CC - all'esterno
 48CC737|strumenti improvvisati (utensili da cucina, ecc.) - CC - all'esterno
 48CC738|accessori ~ musica: metronomo, leggio per musica, diapason, ecc. - CC - all'esterno
+48C739|automa musicale- CC - all'esterno
 48CC74|notazione di musica - CC - all'esterno
 48CC741|edizione a stampa della partitura musicale - CC - all'esterno
 48CC742|manoscritto della partitura musicale - CC - all'esterno

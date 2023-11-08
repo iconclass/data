@@ -5746,6 +5746,7 @@
 48CC736|instruments ~ popular music - CC - out of doors
 48CC737|improvised musical instruments (kitchen-utensils, etc.) - CC - out of doors
 48CC738|accessories ~ music: metronome, music-stand, tuning-fork, etc. - CC - out of doors
+48CC739|mechanical musical instrument - CC - out of doors
 48CC74|notation of music - CC - out of doors
 48CC741|printed edition of musical score - CC - out of doors
 48CC742|manuscript of musical score - CC - out of doors

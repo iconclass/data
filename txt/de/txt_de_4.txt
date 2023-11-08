@@ -5745,6 +5745,7 @@
 48CC736|Instrumente für Volksmusik, U-Musik - CC - im Freien
 48CC737|improvisierte Musikinstrumente (Küchengeräte etc.) - CC - im Freien
 48CC738|Hilfsmittel und Zubehör für den Bereich der Musik: Metronom, Notenständer, Stimmgabel etc. - CC - im Freien
+48CC739|Mechanische Musikinstrumente, Musikautomat - CC - im Freien
 48CC74|Notenschrift - CC - im Freien
 48CC741|gedruckte Ausgabe einer Partitur - CC - im Freien
 48CC742|Manuskript einer Partitur - CC - im Freien
