@@ -6164,6 +6164,7 @@
 49K1|história e arqueologia
 49K10|Historia; "Historia" (Ripa)
 49K11|escavação ~ arqueologia
+49K111|tesouro arqueológico
 49K12|livro histórico, e.g.: crónica, anais
 49K2|história da arte
 49K3|filologia

@@ -6346,6 +6346,7 @@
 49K1|history and archaeology
 49K10|'Historia'; 'Historia' (Ripa)
 49K11|excavation ~ archaeology
+49K111|hoard ~ archaeology
 49K12|history-book, e.g.: chronicle, annal
 49K2|history of art
 49K3|philology

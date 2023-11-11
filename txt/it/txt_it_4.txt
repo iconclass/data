@@ -6347,6 +6347,7 @@
 49K1|storia e archeologia
 49K10|'Historia'; 'Historia' (Ripa)
 49K11|scavo ~ archeologia
+49K111|ripostiglio ~ archeologia
 49K12|libro storico, p.es.: cronaca, annale
 49K2|storia dell'arte
 49K3|filologia

@@ -6347,6 +6347,7 @@
 49K1|Geschichte und Archäologie
 49K10|Historia; Ripa: Historia
 49K11|archäologische Ausgrabung
+49K111|Hortfund, Depotfund
 49K12|historische Quellenschrift, z.B.: Chronik, Annalen
 49K2|Kunstgeschichte
 49K3|Philologie

@@ -6348,6 +6348,7 @@
 49K1|histoire et archéologie
 49K10|'Historia'; 'Historia' (Ripa)
 49K11|fouilles ~ archéologie
+49K111|trésor archéologique
 49K12|recueil de faits historiques, p.ex. : chronique, annales
 49K2|histoire de l'art
 49K3|philologie
