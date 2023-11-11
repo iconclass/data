@@ -8095,6 +8095,7 @@
 48C75621|venda
 48C75621|cantor
 48C76|automação
+48C76|música mecânica
 48C761|caixa de música
 48C762|órgão
 48C762|pierement
