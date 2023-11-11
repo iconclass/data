@@ -5472,7 +5472,6 @@
 48C737(...)|improvisierte Musikinstrumente (Küchengeräte etc.) (mit NAMEN)
 48C737(RUMBLING-POT)|improvisierte Musikinstrumente: Brummtopf
 48C738|Hilfsmittel und Zubehör für den Bereich der Musik: Metronom, Notenständer, Stimmgabel etc.
-48C739|Mechanische Musikinstrumente, Musikautomat
 48C74|Notenschrift
 48C741|gedruckte Ausgabe einer Partitur
 48C742|Manuskript einer Partitur
@@ -5745,7 +5744,6 @@
 48CC736|Instrumente für Volksmusik, U-Musik - CC - im Freien
 48CC737|improvisierte Musikinstrumente (Küchengeräte etc.) - CC - im Freien
 48CC738|Hilfsmittel und Zubehör für den Bereich der Musik: Metronom, Notenständer, Stimmgabel etc. - CC - im Freien
-48CC739|Mechanische Musikinstrumente, Musikautomat - CC - im Freien
 48CC74|Notenschrift - CC - im Freien
 48CC741|gedruckte Ausgabe einer Partitur - CC - im Freien
 48CC742|Manuskript einer Partitur - CC - im Freien

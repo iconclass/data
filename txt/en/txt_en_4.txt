@@ -5473,7 +5473,6 @@
 48C737(...)|improvised musical instruments (with NAME)
 48C737(RUMBLING-POT)|improvised musical instruments: rumbling pot
 48C738|accessories ~ music: metronome, music-stand, tuning-fork, etc.
-48C739|mechanical musical instrument
 48C74|notation of music
 48C741|printed edition of musical score
 48C742|manuscript of musical score
@@ -5746,7 +5745,6 @@
 48CC736|instruments ~ popular music - CC - out of doors
 48CC737|improvised musical instruments (kitchen-utensils, etc.) - CC - out of doors
 48CC738|accessories ~ music: metronome, music-stand, tuning-fork, etc. - CC - out of doors
-48CC739|mechanical musical instrument - CC - out of doors
 48CC74|notation of music - CC - out of doors
 48CC741|printed edition of musical score - CC - out of doors
 48CC742|manuscript of musical score - CC - out of doors
