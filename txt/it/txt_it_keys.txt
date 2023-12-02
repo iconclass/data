@@ -2461,7 +2461,7 @@
 48A98k762|stile ornamentale dell'America primitiva
 48A98k7621|stile ornamentale precolombiano
 48A98k7622|stile ornamentale degli indiani del Nord America
-48A98k763|stile ornamentale africano tribale
+48A98k763|stile ornamentale africano
 48A98k764|stile ornamentale dell'Oceania
 48k0|variante
 48k1|artista al lavoro
@@ -2637,7 +2637,7 @@
 48k762|arte americana primitiva
 48k7621|arte precolombiana
 48k7622|arte indiana del Nord America
-48k763|arte africana tribale
+48k763|arte africana
 48k764|arte dell'Oceania
 49Bk0|simbolo, blasone, sigillo, insegna, ecc. ~ educazione scolastica, insegnamento
 49Bk1|edificio scolastico

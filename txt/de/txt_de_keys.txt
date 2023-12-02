@@ -2461,7 +2461,7 @@
 48A98k762|altamerikanischer Ornamentstil
 48A98k7621|präkolumbianischer Ornamentstil
 48A98k7622|indianischer Ornamentstil Nordamerikas
-48A98k763|Ornamentstil der afrikanischen Stammeskunst
+48A98k763|Ornamentstil der afrikanischen Kunst
 48A98k764|ozeanischer Ornamentstil
 48k0|Variante
 48k1|ein arbeitender Künstler
@@ -2637,7 +2637,7 @@
 48k762|altamerikanische Kunst
 48k7621|präkolumbianische Kunst
 48k7622|indianische Kunst Nordamerikas
-48k763|afrikanische Stammeskunst
+48k763|afrikanische Kunst
 48k764|ozeanische Kunst
 49Bk0|Symbol, Wappen, Siegel etc. (Schule, Ausbildung)
 49Bk1|Gebäude (für Ausbildung und Unterricht)

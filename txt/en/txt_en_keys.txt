@@ -2461,7 +2461,7 @@
 48A98k762|primeval American ornament style
 48A98k7621|pre-Columbian ornament style
 48A98k7622|Indian ornament style of North America
-48A98k763|African tribal ornament style
+48A98k763|African ornament style
 48A98k764|Oceanic ornament style
 48k0|variant
 48k1|artist at work
@@ -2637,7 +2637,7 @@
 48k762|primeval American art
 48k7621|pre-Columbian art
 48k7622|Indian art of North-America
-48k763|African tribal art
+48k763|African art
 48k764|Oceanic art
 49Bk0|symbol, coat of arms, seal, etc. ~ school, education
 49Bk1|building ~ education, tuition

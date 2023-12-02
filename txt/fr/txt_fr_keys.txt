@@ -2460,7 +2460,7 @@
 48A98k762|style décoratif de l'Amérique primitive
 48A98k7621|style décoratif précolombien
 48A98k7622|style décoratif indien de l'Amérique du Nord
-48A98k763|style décoratif de l'Afrique tribale
+48A98k763|style décoratif de l'Afrique
 48A98k764|style décoratif océanique
 48k0|variante
 48k1|artiste au travail
@@ -2636,7 +2636,7 @@
 48k762|art primitif de l'Amérique
 48k7621|art précolombien
 48k7622|art indien de l'Amérique du nord
-48k763|art tribal africain
+48k763|art africain
 48k764|art océanique
 49Bk0|symbole, armoiries, blason, sceau, etc. ~ école, éducation
 49Bk1|bâtiments ~ éducation, enseignement
