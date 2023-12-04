@@ -6427,6 +6427,7 @@
 49L72|codice
 49L73|banderuola
 49L8|iscrizione
+49L81|graffitismo
 49LL71|cartiglio - LL - cartiglio svolto, aperto
 49LL711|'capsa', cofanetto per pergamene - LL - cartiglio svolto, aperto
 49LL72|codice - LL - codice aperto

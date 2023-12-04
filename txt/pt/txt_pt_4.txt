@@ -6241,6 +6241,7 @@
 49L72|códice
 49L73|flâmula
 49L8|inscrição
+49L81|grafito
 49LL71|rolo - LL - rolo aberto
 49LL711|"capsa", caixa para rolos - LL - rolo aberto
 49LL72|códice - LL - rolo aberto

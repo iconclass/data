@@ -6426,6 +6426,7 @@
 49L72|codex
 49L73|banderole
 49L8|inscription
+49L81|graffiti
 49LL71|scroll - LL - scroll unfolded
 49LL711|'capsa', casket for scrolls - LL - scroll unfolded
 49LL72|codex - LL - codex open

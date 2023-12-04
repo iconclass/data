@@ -6426,6 +6426,7 @@
 49L72|Codex
 49L73|Banderole
 49L8|Inschrift, Aufschrift
+49L81|Graffiti
 49LL71|Schriftrolle - LL - aufgerollte, aufgefaltete Schriftrolle
 49LL711|capsa: Futteral für Schriftrollen - LL - aufgerollte, aufgefaltete Schriftrolle
 49LL72|Codex - LL - geöffneter Kodex

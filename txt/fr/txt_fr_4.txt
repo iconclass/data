@@ -6428,6 +6428,7 @@
 49L72|codex
 49L73|banderole
 49L8|inscription
+49L81|graffiti
 49LL71|rouleau - LL - rouleau déroulé
 49LL711|'capsa', boîte pour rouleaux - LL - rouleau déroulé
 49LL72|codex - LL - codex ouvert
