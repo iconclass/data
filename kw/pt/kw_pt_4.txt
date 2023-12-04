@@ -9385,6 +9385,7 @@
 49L72|códice
 49L73|bandeirola
 49L8|inscrição
+49L81|grafito
 49M|livro-produção
 49M|Produção
 49M1|impressão

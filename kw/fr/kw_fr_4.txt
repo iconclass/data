@@ -9452,6 +9452,7 @@
 49L72|livre
 49L73|banderole
 49L8|inscription
+49L81|graffiti
 49M|fabrication
 49M|fabrication de livre
 49M1|imprimer

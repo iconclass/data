@@ -5798,6 +5798,7 @@
 46C16|path
 46C16|road
 46C161|automobile
+46C161|car
 46C1611|three-wheeler
 46C162|bus
 46C162|carriage
@@ -9386,6 +9387,7 @@
 49L72|codex
 49L73|banderole
 49L8|inscription
+49L81|graffiti
 49M|book-production
 49M|production
 49M1|printing
