@@ -4147,6 +4147,59 @@
 11H(JUSTUS)83|the boy-saint Justus of Beauvais; possible attributes: head in hands, palm-branch - posthumous deeds, appearances of male saints
 11H(JUSTUS)84|the boy-saint Justus of Beauvais; possible attributes: head in hands, palm-branch - beatification, canonization of male saint
 11H(JUSTUS)9|the boy-saint Justus of Beauvais; possible attributes: head in hands, palm-branch - portrait of male saint
+11H(KILIAN)|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten
+11H(KILIAN)0|saint Kilian represented in a group
+11H(KILIAN)01|saint Kilian with saint Kolonat and saint Totnan
+11H(KILIAN)1|specific aspects ~ saint Kilian
+11H(KILIAN)11|saint Kilian as patron, protector, intercessor
+11H(KILIAN)112|saint Kilian as patron saint of Franconia
+11H(KILIAN)119|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - male saint protecting devotees with cloak, 'Schutzmantel'
+11H(KILIAN)12|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - male saint writing, studying, teaching, dictating (e.g. as Doctor of the Church)
+11H(KILIAN)13|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - male saint as founder of Order
+11H(KILIAN)131|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - male saint ~ confirmation of Order, approval of Rule(s)
+11H(KILIAN)2|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - early life of male saint
+11H(KILIAN)3|personal devotion of saint Kilian
+11H(KILIAN)31|calling of saint Kilian and his companions
+11H(KILIAN)32|saint Kilian is consecrated bishop
+11H(KILIAN)33|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - renouncing worldly goods, ascetic life of male saint
+11H(KILIAN)34|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - vision(s), mystic marriage of male saint
+11H(KILIAN)35|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - temptation of male saint
+11H(KILIAN)36|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - penitence of male saint
+11H(KILIAN)37|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - male saint meditating, in ecstasy
+11H(KILIAN)4|non-miraculous activities and events ~ saint Kilian
+11H(KILIAN)41|Start of the mission
+11H(KILIAN)42|Crossing to Würzburg (with companions)
+11H(KILIAN)421|Arrival in Würzburg (with companions)
+11H(KILIAN)43|Kilian with the Pope
+11H(KILIAN)431|Kilian received by the Pope 
+11H(KILIAN)44|Kilian preaches 
+11H(KILIAN)441|Kilian preaches in presence of Gozbert
+11H(KILIAN)45|Kilian baptises pagans
+11H(KILIAN)451|Kilian baptises Gozbert 
+11H(KILIAN)5|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - miraculous activities and events ~ male saint
+11H(KILIAN)59|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - stigmatization of male saint
+11H(KILIAN)6|martyrdom, suffering, misfortune, death of saint Kilian
+11H(KILIAN)61|Kilian forbids the marriage between Gozbert and Gailana
+11H(KILIAN)611|Gailana orders Kilian’s murder 
+11H(KILIAN)612|An angel announces the martyrdom to Kilian and his companions Kolonat and Totan
+11H(KILIAN)62|events following the martyrdom
+11H(KILIAN)621|Gailana is possessed by demons
+11H(KILIAN)622|Gailana is carried away by demons
+11H(KILIAN)623|Suicides of Kilian’s murderers
+11H(KILIAN)68|death, deathbed of saint Kilian
+11H(KILIAN)681|Kilian is beheaded, stabbed or beaten with sword or another kind of weapon; Kolonat and Totnan often suffer the martyrdom with him; sometimes Gozbert and/or Gailana are present
+11H(KILIAN)682|their corpses are buried
+11H(KILIAN)69|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - maltreatment of corpse of male saint
+11H(KILIAN)7|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - apotheosis, glory, triumph of male saint
+11H(KILIAN)8|post-mortem occurrences ~ saint Kilian
+11H(KILIAN)81|finding, transportation of relics of saint Kilian
+11H(KILIAN)811|finding of the bodies (under a horse stable)
+11H(KILIAN)812|finding of the intact vestments and books
+11H(KILIAN)82|miracles occurring during handling of relics of saint Kilian
+11H(KILIAN)821|Atalongus regains his sight
+11H(KILIAN)83|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - posthumous deeds, appearances of male saints
+11H(KILIAN)84|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - beatification, canonization of male saint
+11H(KILIAN)9|martyr and bishop of Würzburg Kilian, the Irish 'apostle of Franconia'; possible attributes: crozier, book, sword, dagger, palm-branch, chalice, paten - portrait of male saint
 11H(LAMBERT)|Lambert(us), martyr bishop of Maastricht and patron of Liège; possible attributes: arrow, bear, cloth with flames, lance, nobleman under crozier, rationale, sword, two armed men under feet
 11H(LAMBERT)0|Lambert(us), martyr bishop of Maastricht and patron of Liège; possible attributes: arrow, bear, cloth with flames, lance, nobleman under crozier, rationale, sword, two armed men under feet - male saint represented in a group
 11H(LAMBERT)1|Lambert(us), martyr bishop of Maastricht and patron of Liège; possible attributes: arrow, bear, cloth with flames, lance, nobleman under crozier, rationale, sword, two armed men under feet - specific aspects ~ male saint

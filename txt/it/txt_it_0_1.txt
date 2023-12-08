@@ -4147,6 +4147,59 @@
 11H(JUSTUS)83|San Giusto di Beauvais, giovane santo e martire; attributi: palma, testa in mano - interventi compiuti dopo la morte, apparizioni post mortem del santo
 11H(JUSTUS)84|San Giusto di Beauvais, giovane santo e martire; attributi: palma, testa in mano - beatificazione, canonizzazione del santo
 11H(JUSTUS)9|San Giusto di Beauvais, giovane santo e martire; attributi: palma, testa in mano - ritratti del santo
+11H(KILIAN)|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; attributi possibili: bastone, libro, spada, pugnale, ramo di palma, calice, patena
+11H(KILIAN)0|San Kilian rappresentato in gruppo
+11H(KILIAN)01|San Kilian con San Kolonat e San Totnan
+11H(KILIAN)1|aspetti specifici ~ san Kilian
+11H(KILIAN)11|San Kilian come patrono, protettore, intercessore
+11H(KILIAN)112|San Kilian come patrono della Franconia
+11H(KILIAN)119|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - santo che protegge i fedeli con il manto, 'Schützmantel'
+11H(KILIAN)12|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - santo (come Dottore della Chiesa) che scrive, studia, insegna, detta
+11H(KILIAN)13|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - santo come fondatore di un Ordine
+11H(KILIAN)131|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - santo ~ conferma dell'Ordine, approvazione della Regola
+11H(KILIAN)2|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - primo periodo della vita del santo
+11H(KILIAN)3|devozione privata di san Kilian
+11H(KILIAN)31|Chiamata di san Kilian e dei suoi compagni Kolonat e Totnan
+11H(KILIAN)32|san Kilian è consacrato vescovo
+11H(KILIAN)33|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - rinuncia ai beni terreni, vita ascetica del santo
+11H(KILIAN)34|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - visione/i, nozze mistiche del santo
+11H(KILIAN)35|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - tentazione del santo
+11H(KILIAN)36|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - penitenza del santo
+11H(KILIAN)37|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - santo in meditazione, in estasi
+11H(KILIAN)4|attività ed eventi non miracolosi ~ San Kilian
+11H(KILIAN)41|Inizio della missione
+11H(KILIAN)42|Traversata verso Würzburg (con accompagnatori)
+11H(KILIAN)421|Arrivo a Würzburg (con accompagnatori)
+11H(KILIAN)43|Kilian con il Papa
+11H(KILIAN)431|Kilian ricevuto dal Papa
+11H(KILIAN)44|Kilian predica
+11H(KILIAN)441|Kilian predica alla presenza di Gozbert
+11H(KILIAN)45|Kilian battezza i pagani
+11H(KILIAN)451|Kilian battezza Gozbert
+11H(KILIAN)5|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - attività ed episodi miracolosi ~ santo
+11H(KILIAN)59|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - stigmatizzazione del santo
+11H(KILIAN)6|martirio, sofferenza, sventura, morte di San Kilian
+11H(KILIAN)61|Kilian vieta il matrimonio tra Gozbert e Gailana
+11H(KILIAN)611|Gailana ordina l'omicidio di Kilian
+11H(KILIAN)612|L'angelo annuncia il martirio a Kilian e ai suoi compagni Kolonat e Totnan
+11H(KILIAN)62|eventi successivi al martirio
+11H(KILIAN)621|Gailana è posseduta dai demoni
+11H(KILIAN)622|Gailana viene portata via dai demoni
+11H(KILIAN)623|Suicidio degli assassini di Kilian
+11H(KILIAN)68|morte, letto di morte di San Kilian
+11H(KILIAN)681|Kilian viene decapitato, pugnalato o picchiato con una spada o altro tipo di arma; Kolonat e Totnan subiscono spesso con lui il martirio; a volte sono presenti Gozbert e/o Gailana
+11H(KILIAN)682|i loro cadaveri vengono sepolti
+11H(KILIAN)69|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - maltrattato del cadavere del santo 
+11H(KILIAN)7|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - gloria, trionfo del santo
+11H(KILIAN)8|avvenimenti post mortem ~ san Kilian
+11H(KILIAN)81|ricerca, trasporto delle reliquie di San Kilian7
+11H(KILIAN)811|ricerca di corpi (sotto una stalla)
+11H(KILIAN)812|cerca vestiti e libri intatti
+11H(KILIAN)82|miracoli accaduti durante la manipolazione delle reliquie di San Kilian
+11H(KILIAN)821|Atalongus riacquista la vista
+11H(KILIAN)83|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - interventi compiuti dopo la morte, apparizioni post mortem del santo
+11H(KILIAN)84|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - beatificazione, canonizzazione del santo
+11H(KILIAN)9|martire e vescovo di Würzburg Kilian, 'apostolo della Franconia' irlandese; possibili attributi: pastorale, libro, spada, pugnale, ramo di palma, calice, patena - ritratti del santo
 11H(LAMBERT)|San Lamberto, martire vescovo di Maastricht, e patrono di Liegi; attributi: abito lambito da fiamme, due uomini armati ai suoi piedi, freccia, lancia, modello di chiesa, nobiluomo sotto il pastorale, orso, razionale, spada
 11H(LAMBERT)0|San Lamberto, martire vescovo di Maastricht, e patrono di Liegi; attributi: abito lambito da fiamme, due uomini armati ai suoi piedi, freccia, lancia, modello di chiesa, nobiluomo sotto il pastorale, orso, razionale, spada - santo raffigurato in un gruppo; gruppo di santi
 11H(LAMBERT)1|San Lamberto, martire vescovo di Maastricht, e patrono di Liegi; attributi: abito lambito da fiamme, due uomini armati ai suoi piedi, freccia, lancia, modello di chiesa, nobiluomo sotto il pastorale, orso, razionale, spada - specifiche iconografie ~ santo

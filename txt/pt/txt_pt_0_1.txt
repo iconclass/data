@@ -4161,6 +4161,59 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(JUSTUS)83|o rapaz santo Justo de Beauvais; possíveis atributos: cabeça nas mãos, palma - acções póstumas, aparições do santo  
 11H(JUSTUS)84|o rapaz santo Justo de Beauvais; possíveis atributos: cabeça nas mãos, palma - beatificação, canonização do santo
 11H(JUSTUS)9|o rapaz santo Justo de Beauvais; possíveis atributos: cabeça nas mãos, palma - retrato do santo
+11H(KILIAN)|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: bastão, livro, espada, punhal, ramo de palmeira, cálice, patena
+11H(KILIAN)0|Saint Kilian representado como um grupo
+11H(KILIAN)01|São Kilian com São Kolonat e São Totnan
+11H(KILIAN)1|aspectos específicos ~ São Kilian
+11H(KILIAN)11|São Kilian como padroeiro, protetor, intercessor
+11H(KILIAN)112|São Kilian como padroeiro da Francônia
+11H(KILIAN)119|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - santo protegendo os devotos com manto, 'Schutzmantel'
+11H(KILIAN)12|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
+11H(KILIAN)13|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - santo como fundador da Ordem
+11H(KILIAN)131|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - santo ~ confirmação da Ordem, aprovação da(s) Regra(s0
+11H(KILIAN)2|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - primeiros anos da vida do santo
+11H(KILIAN)3|devoção pessoal de São Kilian
+11H(KILIAN)31|Chamado de São Kilian e seus companheiros
+11H(KILIAN)32|santo Kilian é consagrado bispo
+11H(KILIAN)33|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - renúncia de bens materiais, vida ascética do santo
+11H(KILIAN)34|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - visão(ões), casamento místico do santo
+11H(KILIAN)35|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - tentações do santo
+11H(KILIAN)36|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - penitência do santo
+11H(KILIAN)37|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - santo meditando, em êxtase
+11H(KILIAN)4|atividades e eventos não milagrosos ~ Saint Kilian
+11H(KILIAN)41|Início da missão
+11H(KILIAN)42|Travessia para Würzburg (com acompanhantes)
+11H(KILIAN)421|Chegada em Würzburg (com acompanhantes)
+11H(KILIAN)43|Kilian com o Papa
+11H(KILIAN)431|Kilian recebido pelo Papa
+11H(KILIAN)44|Kilian prega
+11H(KILIAN)441|Kilian prega na presença de Gozbert
+11H(KILIAN)45|Kilian batiza os pagãos
+11H(KILIAN)451|Kilian batiza Gozbert
+11H(KILIAN)5|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - actividades e eventos milagrosos - santo
+11H(KILIAN)59|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; possíveis atributos: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena – estigmatização do santo
+11H(KILIAN)6|martírio, sofrimento, infortúnio, morte de São Kilian
+11H(KILIAN)61|Kilian proíbe o casamento entre Gozbert e Gailana
+11H(KILIAN)611|Gailana ordena o assassinato de Kilian
+11H(KILIAN)612|O anjo anuncia o martírio a Kilian e seus companheiros Kolonat e Totnan
+11H(KILIAN)62|eventos após o martírio
+11H(KILIAN)621|Gailana está possuída por demônios
+11H(KILIAN)622|Gailana é levada por demônios
+11H(KILIAN)623|Suicídio dos assassinos de Kilian
+11H(KILIAN)68|morte, leito de morte de São Kilian
+11H(KILIAN)681|Kilian é decapitado, esfaqueado ou espancado com uma espada ou outra arma; Kolonat e Totnan freqüentemente sofrem o martírio com ele; às vezes Gozbert e/ou Gailana estão presentes
+11H(KILIAN)682|seus cadáveres estão enterrados
+11H(KILIAN)69|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; possíveis atributos: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - maus tratos do cadáver do santo
+11H(KILIAN)7|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - apoteose, glória, triunfo do santo
+11H(KILIAN)8|eventos post-mortem ~ santo Kilian
+11H(KILIAN)81|pesquisa, transporte das relíquias de São Kilian7
+11H(KILIAN)811|procura de corpos (sob um estábulo)
+11H(KILIAN)812|procure roupas e livros intactos
+11H(KILIAN)82|milagres ocorreram durante o manuseio das relíquias de São Kilian
+11H(KILIAN)821|Atalongus recupera a visão
+11H(KILIAN)83|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; possíveis atributos: bastão, livro, espada, punhal, ramo de palmeira, cálice, patena - acções póstumas, aparições do santo
+11H(KILIAN)84|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - beatificação, canonização do santo
+11H(KILIAN)9|mártir e bispo de Würzburg Kilian, 'apóstolo da Francônia' irlandês; atributos possíveis: báculo, livro, espada, punhal, ramo de palmeira, cálice, patena - retrato do santo
 11H(LAMBERT)|Lamberto (Lambertus), bispo mártir de Maastricht e padroeiro de Liège; possíveis atributos: flecha, urso, pano com chamas, lança, nobre sob o báculo, racional denteado, espada, dois homens armados sob os pés
 11H(LAMBERT)0|Lamberto (Lambertus), bispo mártir de Maastricht e padroeiro de Liège; possíveis atributos: flecha, urso, pano com chamas, lança, nobre sob o báculo, racional denteado, espada, dois homens armados sob os pés - santo representado em grupo
 11H(LAMBERT)1|Lamberto (Lambertus), bispo mártir de Maastricht e padroeiro de Liège; possíveis atributos: flecha, urso, pano com chamas, lança, nobre sob o báculo, racional denteado, espada, dois homens armados sob os pés - iconografia específica ~ santo

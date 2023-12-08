@@ -4147,6 +4147,59 @@
 11H(JUSTUS)83|das heilige Kind Justus von Beauvais, mögliche Attribute: Kopf in den Händen, Palmwedel - postume Handlungen, Erscheinungen eines männlichen Heiligen
 11H(JUSTUS)84|das heilige Kind Justus von Beauvais, mögliche Attribute: Kopf in den Händen, Palmwedel - Seligsprechung, Heiligsprechung eines männlichen Heiligen
 11H(JUSTUS)9|das heilige Kind Justus von Beauvais, mögliche Attribute: Kopf in den Händen, Palmwedel - Bildnis eines männlichen Heiligen
+11H(KILIAN)|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene
+11H(KILIAN)0|Heiliger Kilian in einer Gruppe dargestellt
+11H(KILIAN)01|Heiliger Kilian mit dem Heiligen Kolonat und dem Heiligen Totnan
+11H(KILIAN)1|besondere Darstellungsformen ~ Heiliger Kilian
+11H(KILIAN)11|Heiliger Kilian als Schutzpatron, Beschützer, Fürsprecher
+11H(KILIAN)112|Heiliger Kilian als Schutzpatron Frankens
+11H(KILIAN)119|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; Mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – ein männlicher Heiliger, der die Gläubigen mit Umhang, „Schutzmantel“ beschützt
+11H(KILIAN)12|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – ein männlicher Heiliger schreibt, studiert, unterrichtet, diktiert (z.B. als Kirchenlehrer)
+11H(KILIAN)13|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – ein männlicher Heiliger als Ordensgründer
+11H(KILIAN)131|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – ein männlicher Heiliger ~ Bestätigung des Ordens, Genehmigung der Regel(n)
+11H(KILIAN)2|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Kindheit und Jugend eines männlichen Heiligen
+11H(KILIAN)3|Frömmigkeit des Heiligen Kilian
+11H(KILIAN)31|Berufung des Heiligen Kilian und seiner Gefährten
+11H(KILIAN)32|der hl. Kilian wird zum Bischof geweiht
+11H(KILIAN)33|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Verzicht auf weltliche Güter, Askese eines männlichen Heiligen
+11H(KILIAN)34|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Vision(en), mystische Vermählung eines männlichen Heiligen
+11H(KILIAN)35|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Versuchung eines männlichen Heiligen
+11H(KILIAN)36|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Buße eines männlichen Heiligen
+11H(KILIAN)37|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – ein männlicher Heiliger bei der Meditation, in Ekstase
+11H(KILIAN)4|nicht-wundertätige Handlungen und Ereignisse ~ Heiliger Kilian
+11H(KILIAN)41|Missionsbeginn
+11H(KILIAN)42|Überfahrt nach Würzburg (mit Begleitern)
+11H(KILIAN)421|Ankunft in Würzburg (mit Begleitung)
+11H(KILIAN)43|Kilian mit dem Papst
+11H(KILIAN)431|Kilian wird vom Papst empfangen
+11H(KILIAN)44|Kilian predigt
+11H(KILIAN)441|Kilian predigt in Anwesenheit von Gozbert
+11H(KILIAN)45|Kilian tauft Heiden
+11H(KILIAN)451|Kilian tauft Gozbert
+11H(KILIAN)5|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Wunder in der Vita eines männlichen Heiligen
+11H(KILIAN)59|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; Mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Stigmatisation eines männlichen Heiligen
+11H(KILIAN)6|Martyrium, Leid, Unglück, Tod des Heiligen Kilian
+11H(KILIAN)61|Kilian verbietet die Ehe zwischen Gozbert und Gailana
+11H(KILIAN)611|Gailana befiehlt Kilians Ermordung
+11H(KILIAN)612|Ein Engel verkündet Kilian und seinen Gefährten Kolonat und Totnan das Martyrium
+11H(KILIAN)62|Ereignisse nach dem Martyrium
+11H(KILIAN)621|Gailana ist von Dämonen besessen
+11H(KILIAN)622|Gailana wird von Dämonen entführt
+11H(KILIAN)623|Selbstmorde von Kilians Mördern
+11H(KILIAN)68|Tod, Sterbebett des Heiligen Kilian
+11H(KILIAN)681|Kilian wird enthauptet, erstochen oder erschlagen mit dem Schwert oder anderen Waffen; Kolonat und Totnan erleiden oft mit ihm das Märtyrertum; manchmal sind Gozbert und/oder Gailana anwesend
+11H(KILIAN)682|ihre Leichen sind begraben
+11H(KILIAN)69|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Leichenschändung am Körper eines männlichen Heiligen
+11H(KILIAN)7|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Apotheose, Verklärung, Triumph eines männlichen Heiligen
+11H(KILIAN)8|postume Ereignisse ~ Heiliger Kilian
+11H(KILIAN)81|Auffinden und Transport der Reliquien des Heiligen Kilian
+11H(KILIAN)811|Auffinden der Leichen (unter einem Pferdestall)
+11H(KILIAN)812|Auffinden der intakten Gewänder und Bücher
+11H(KILIAN)82|Wunder durch die Berührung von Reliquien des Heiligen Kilian
+11H(KILIAN)821|Atalongus erlangt sein Augenlicht zurück
+11H(KILIAN)83|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – postume Handlungen, Erscheinungen eines männlichen Heiligen
+11H(KILIAN)84|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Seligsprechung, Heiligsprechung eines männlichen Heiligen
+11H(KILIAN)9|Märtyrer und Bischof von Würzburg Kilian, der irische 'Frankenapostel'; Mögliche Attribute: Krummstab, Buch, Schwert, Dolch, Palmzweig, Kelch, Patene – Bildnis eines männlichen Heiligen
 11H(LAMBERT)|Lambert(us), Märtyrerbischof von Maastricht und Stadtpatron von Lüttich; mögliche Attribute: Pfeil, Bär, brennendes Tuch, Lanze, Adeliger unter dem Bischofsstab, Rationale (Würdezeichen), Schwert, zwei Bewaffnete unter den Füßen
 11H(LAMBERT)0|Lambert(us), Märtyrerbischof von Maastricht und Stadtpatron von Lüttich; mögliche Attribute: Pfeil, Bär, brennendes Tuch, Lanze, Adeliger unter dem Bischofsstab, Rationale (Würdezeichen), Schwert, zwei Bewaffnete unter den Füßen - ein männlicher Heiliger, der in einer Gruppe dargestellt ist
 11H(LAMBERT)1|Lambert(us), Märtyrerbischof von Maastricht und Stadtpatron von Lüttich; mögliche Attribute: Pfeil, Bär, brennendes Tuch, Lanze, Adeliger unter dem Bischofsstab, Rationale (Würdezeichen), Schwert, zwei Bewaffnete unter den Füßen - besondere Darstellungsformen eines männlichen Heiligen

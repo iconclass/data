@@ -4147,6 +4147,59 @@
 11H(JUSTUS)83|Juste de Beauvais, enfant martyr; attributs possibles : portant sa tête dans ses mains, palme de martyr - actions posthumes, apparitions du saint
 11H(JUSTUS)84|Juste de Beauvais, enfant martyr; attributs possibles : portant sa tête dans ses mains, palme de martyr - béatification, canonisation du saint
 11H(JUSTUS)9|Juste de Beauvais, enfant martyr; attributs possibles : portant sa tête dans ses mains, palme de martyr - portrait du saint
+11H(KILIAN)|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène
+11H(KILIAN)0|saint Kilian représenté en groupe
+11H(KILIAN)01|saint Kilian avec saint Kolonat et saint Totnan
+11H(KILIAN)1|aspects spécifiques ~ saint Kilian
+11H(KILIAN)11|saint Kilian comme patron, protecteur, intercesseur
+11H(KILIAN)112|saint Kilian comme saint patron de la Franconie
+11H(KILIAN)119|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - saint protégeant des fidèles sous son manteau, 'Schützmantel'
+11H(KILIAN)12|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - saint écrivant, étudiant, enseignant, dictant (p.ex. en tant que Docteur de l'Église)
+11H(KILIAN)13|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - saint comme fondateur d'un Ordre
+11H(KILIAN)131|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - saint ~ consécration d'un Ordre, approbation d'une Règle
+11H(KILIAN)2|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - jeunesse du saint
+11H(KILIAN)3|dévotion personnelle du saint Kilian
+11H(KILIAN)31|Appel de saint Kilian et de ses compagnons Kolonat et Totnan
+11H(KILIAN)32|saint Kilian est consacré évêque
+11H(KILIAN)33|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - renonçant aux biens terrestres, vie ascétique du saint
+11H(KILIAN)34|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - vision(s), mariage mystique du saint
+11H(KILIAN)35|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - tentation du saint
+11H(KILIAN)36|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - pénitence du saint
+11H(KILIAN)37|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - saint en méditation, en extase
+11H(KILIAN)4|activités et événements non miraculeux ~ saint Kilian
+11H(KILIAN)41|Début de la mission
+11H(KILIAN)42|Traversée vers Würzburg (avec accompagnateurs)
+11H(KILIAN)421|Arrivée à Würzburg (avec accompagnants)
+11H(KILIAN)43|Kilian avec le Pape
+11H(KILIAN)431|Kilian reçu par le Pape
+11H(KILIAN)44|Kilian prêche
+11H(KILIAN)441|Kilian prêche en présence de Gozbert
+11H(KILIAN)45|Kilian baptise les païens
+11H(KILIAN)451|Kilian baptise Gozbert
+11H(KILIAN)5|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - activités et événement miraculeux ~ saint
+11H(KILIAN)59|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - stigmatisation du saint
+11H(KILIAN)6|martyre, souffrance, malheur, mort de saint Kilian
+11H(KILIAN)61|Kilian interdit le mariage entre Gozbert et Gailana
+11H(KILIAN)611|Gailana ordonne le meurtre de Kilian
+11H(KILIAN)612|Un ange annonce le martyre à Kilian et ses compagnons Kolonat et Totnan
+11H(KILIAN)62|événements postérieurs au martyre
+11H(KILIAN)621|Gailana est possédée par des démons
+11H(KILIAN)622|Gailana est emportée par des démons
+11H(KILIAN)623|Suicides des meurtriers de Kilian
+11H(KILIAN)68|mort, lit de mort de saint Kilian
+11H(KILIAN)681|Kilian est décapité, poignardé ou battu avec une épée ou un autre type d'arme ; Kolonat et Totnan souffrent souvent le martyre avec lui ; parfois Gozbert et/ou Gailana sont présents
+11H(KILIAN)682|leurs cadavres sont enterrés
+11H(KILIAN)69|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - corps du saint malmené
+11H(KILIAN)7|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - apothéose, glorification, triomphe du saint
+11H(KILIAN)8|occurrences post-mortem ~ saint Kilian
+11H(KILIAN)81|recherche, transport des reliques de saint Kilian7
+11H(KILIAN)811|recherche des corps (sous une écurie)
+11H(KILIAN)812|recherche des vêtements et des livres intacts
+11H(KILIAN)82|miracles survenant lors de la manipulation des reliques de saint Kilian
+11H(KILIAN)821|Atalongus retrouve la vue
+11H(KILIAN)83|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - actions posthumes, apparitions du saint
+11H(KILIAN)84|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - béatification, canonisation du saint
+11H(KILIAN)9|martyr et évêque de Würzburg Kilian, 'l'apôtre de la Franconie' irlandais ; attributs possibles : crosse, livre, épée, poignard, branche de palmier, calice, patène - portrait du saint
 11H(LAMBERT)|Lambert, martyr évêque de Maastricht et patron de Liège; attributs possibles : flèche, ours, bout d'étoffe avec des flammes, lance, écrase un noble sous sa crosse, rational, épée, foulant aux pieds deux hommes armés
 11H(LAMBERT)0|Lambert, martyr évêque de Maastricht et patron de Liège; attributs possibles : flèche, ours, bout d'étoffe avec des flammes, lance, écrase un noble sous sa crosse, rational, épée, foulant aux pieds deux hommes armés - groupe de saints
 11H(LAMBERT)1|Lambert, martyr évêque de Maastricht et patron de Liège; attributs possibles : flèche, ours, bout d'étoffe avec des flammes, lance, écrase un noble sous sa crosse, rational, épée, foulant aux pieds deux hommes armés - aspects spécifiques ~ saint
