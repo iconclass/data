@@ -599,7 +599,7 @@
 56B21|ewige Seligkeit; Ripa: Felicità eterna
 56B22|kurzes Glück; Ripa: Felicità breve
 56B3|Befriedigung, Zufriedenheit; Ripa: Contento
-56B4|unterhaltung
+56B4|Unterhaltung
 56B41|Verwöhntheit; Epikureismus
 56B42|Grobheit, Ungehobeltheit
 56BB|Freude und Leid (entgegengesetzte Konzepte)
