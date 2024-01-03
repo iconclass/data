@@ -2582,6 +2582,7 @@
 44C14|Binnenwanderung, Bevölkerungsumverteilung
 44C141|Landflucht; Wanderung vom Land in die Stadt
 44C142|Stadtflucht; Wanderung aus der Stadt aufs Land
+44C15|internationale Migration, Flüchtlinge
 44C19|Landesverräter
 44C2|Stimmrecht, Wahlzwang
 44C21|Wahlkampagne

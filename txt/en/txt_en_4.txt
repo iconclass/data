@@ -2581,6 +2581,7 @@
 44C12|emigration
 44C13|immigration
 44C14|internal migration, population redistribution
+44C15|international migration, refugees
 44C141|rural-urban migration
 44C142|urban-rural migration
 44C19|traitor to one's country

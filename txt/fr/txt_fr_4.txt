@@ -2583,6 +2583,7 @@
 44C14|migration intérieure, redistribution de la population
 44C141|migration rurale-urbaine
 44C142|migration urbaine-rurale
+44C15|migration internationale, réfugiés
 44C19|traître de son pays
 44C2|le droit de vote, de suffrage, vote obligatoire
 44C21|campagne politique
