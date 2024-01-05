@@ -17450,6 +17450,9 @@
 73G14|Igreja
 73G14|Sete
 73G141|anjo
+73G15|chave
+73G15|morte
+73G15|inferno
 73G2|Apocalipse 04-05
 73G21|Etimasia
 73G21|Deus

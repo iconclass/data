@@ -17449,6 +17449,9 @@
 73G14|church
 73G14|seven
 73G141|angel
+73G15|key
+73G15|death
+73G15|hell
 73G2|Revelation 04-05
 73G21|Etimasia
 73G21|God
