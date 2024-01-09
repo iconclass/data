@@ -135,7 +135,7 @@
 41A3916|Spülstein, Spülbecken
 41A3917|Wasserableitungssystem
 41A39171|Dachrinne
-41A39712|Wasserspeier
+41A39172|Wasserspeier
 41A392|Gasleitungen
 41A393|elektrische Installationen, z.B. Steckdose, Stecker, Lichtschalter, Kabel, Stromleitung
 41A4|Innendekoration (eines Hauses)

@@ -135,7 +135,7 @@
 41A3916|lavatório, bacia
 41A3917|sistema de descarga de água
 41A39171|calha
-41A39712|gárgula
+41A39172|gárgula
 41A392|condutas de gás
 41A393|instalação eléctrica, acessórios, e.g. tomada, ficha, interruptor, cabo, fio eléctrico 
 41A4|decorações (no interior de uma casa)

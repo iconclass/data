@@ -135,7 +135,7 @@
 41A3916|sink, basin
 41A3917|water discharge system
 41A39171|rain gutter
-41A39712|gargoyle
+41A39172|gargoyle
 41A392|gas conduits
 41A393|electric installation, fittings, e.g. socket, plug, light switch, cable, wire
 41A4|decorations (interior of the house)

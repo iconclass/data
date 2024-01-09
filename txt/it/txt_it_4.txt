@@ -135,7 +135,7 @@
 41A3916|lavandino, lavabo
 41A3917|sistema di scarico dell'acqua
 41A39171|grondaia
-41A39712|gargolla
+41A39172|gargolla
 41A392|condutture del gas
 41A393|impianto elettrico, accessori, p.es. portalampada, spina, interruttore, cavo
 41A4|decorazioni (interno della casa)
