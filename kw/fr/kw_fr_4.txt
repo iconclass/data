@@ -207,6 +207,8 @@
 41A3915|fontaine
 41A3916|cuvette
 41A3916|évier
+41A39171|gouttière
+41A39172|gargouille
 41A392|conduites
 41A392|gaz
 41A393|appareillage électrique

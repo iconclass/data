@@ -219,6 +219,8 @@
 41A3915|fonte
 41A3916|bacia
 41A3916|lavatório
+41A39171|calha
+41A39172|gárgula
 41A392|gás
 41A392|sistema de tubulação
 41A393|cabo

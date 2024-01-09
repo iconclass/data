@@ -126,13 +126,16 @@
 41A381|loggia, varanda, alpendre
 41A382|janela saliente, janela de sacada envidraçada
 41A39|canalização, instalação eléctrica
-41A391|fornecimento de água e drenagem, tubagem (em casa ou edifício)
+41A391|fornecimento de água e drenagem, tubagem (de casa ou edifício)
 41A3911|poço
 41A3912|bomba
 41A3913|torneira
 41A3914|w.c. (casa de banho)
 41A3915|fonte (interior)
 41A3916|lavatório, bacia
+41A3917|sistema de descarga de água
+41A39171|calha
+41A39712|gárgula
 41A392|condutas de gás
 41A393|instalação eléctrica, acessórios, e.g. tomada, ficha, interruptor, cabo, fio eléctrico 
 41A4|decorações (no interior de uma casa)

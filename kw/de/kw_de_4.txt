@@ -271,6 +271,8 @@
 41A3916|Ausgussbecken
 41A3916|Becken
 41A3916|Schale
+41A39171|Dachrinne
+41A39172|Wasserspeier
 41A392|Gas
 41A392|Rohrleitungen
 41A393|Elektrizitaet

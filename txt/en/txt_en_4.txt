@@ -126,13 +126,16 @@
 41A381|loggia, verandah, porch
 41A382|bay-window, oriel
 41A39|piping and wiring
-41A391|water-supply and draining, pipework (in house or building)
+41A391|water-supply and draining, pipework (in or on house or building)
 41A3911|well
 41A3912|pump
 41A3913|tap, faucet
 41A3914|lavatory, water-closet
 41A3915|fountain (indoors)
 41A3916|sink, basin
+41A3917|water discharge system
+41A39171|rain gutter
+41A39712|gargoyle
 41A392|gas conduits
 41A393|electric installation, fittings, e.g. socket, plug, light switch, cable, wire
 41A4|decorations (interior of the house)

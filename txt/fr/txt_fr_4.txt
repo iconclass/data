@@ -133,6 +133,9 @@
 41A3914|toilettes, cabinets
 41A3915|fontaine (à l'intérieur)
 41A3916|évier, cuvette
+41A3917|système d'évacuation des eaux
+41A39171|gouttière
+41A39712|gargouille
 41A392|conduites de gaz
 41A393|installation, appareillage et accessoire électrique, p.ex. douille, prise de courant, interrupteur, câble, fil
 41A4|décorations (intérieur de maison)

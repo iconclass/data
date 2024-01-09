@@ -126,13 +126,16 @@
 41A381|loggia, veranda
 41A382|bovindo, balcone chiuso da vetri
 41A39|impianto idrico ed elettrico
-41A391|dotazione d'acqua e acque di scarico; tubazioni (in casa o edificio)
+41A391|dotazione d'acqua e acque di scarico; tubazioni (di casa o edificio)
 41A3911|pozzo
 41A3912|pompa
 41A3913|rubinetto
 41A3914|gabinetto
 41A3915|fontana (in un interno)
 41A3916|lavandino, lavabo
+41A3917|sistema di scarico dell'acqua
+41A39171|grondaia
+41A39712|gargolla
 41A392|condutture del gas
 41A393|impianto elettrico, accessori, p.es. portalampada, spina, interruttore, cavo
 41A4|decorazioni (interno della casa)

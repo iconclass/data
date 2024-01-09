@@ -222,6 +222,8 @@
 41A3915|fontana
 41A3916|bacile
 41A3916|lavabo
+41A39171|grondaia
+41A39172|gargolla
 41A392|gas
 41A392|tubature
 41A393|accessori (elettrici)

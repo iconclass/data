@@ -219,6 +219,8 @@
 41A3915|fountain
 41A3916|basin
 41A3916|sink
+41A39171|gutter
+41A39172|gargoyle
 41A392|gas
 41A392|pipe system
 41A393|cable
