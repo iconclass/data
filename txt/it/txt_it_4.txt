@@ -6291,6 +6291,7 @@
 49G5|istituti specializzati (medicina)
 49G51|reparto per le malattie infettive
 49G511|quarantena
+49G512|sanatorio
 49G52|manicomio, casa di salute metale
 49G6|ricerca medica, rami della medicina
 49G61|fisiologia e anatomia

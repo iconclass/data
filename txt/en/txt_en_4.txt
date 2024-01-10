@@ -6290,6 +6290,7 @@
 49G5|specialized institutions
 49G51|institution for contagious diseases
 49G511|quarantine
+49G512|sanatorium
 49G52|lunatic asylum, mental home
 49G6|medical research, branches of medicine
 49G61|physiology and anatomy

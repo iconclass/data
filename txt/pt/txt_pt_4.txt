@@ -6109,6 +6109,7 @@
 49G5|instituições especializadas
 49G51|instituição para doenças contagiosas
 49G511|quarentena
+49G512|sanatório
 49G52|hospital psiquiátrico, manicómio, casa de saúde mental
 49G6|investigação médica, ramos da medicina
 49G61|fisiologia e anatomia

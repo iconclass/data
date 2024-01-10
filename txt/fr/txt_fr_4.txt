@@ -6292,6 +6292,7 @@
 49G5|institutions spécialisées
 49G51|établissement hospitalier pour maladies contagieuses
 49G511|quarantaine
+49G512|sanatorium
 49G52|asile d'aliénés, hôpital psychiatrique
 49G6|recherche médicale, branches de la médecine
 49G61|physiologie et anatomie

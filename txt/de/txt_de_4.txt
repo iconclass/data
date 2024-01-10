@@ -6291,6 +6291,7 @@
 49G5|spezialisierte medizinische Einrichtungen
 49G51|Einrichtung, Institution für ansteckende Krankheiten
 49G511|Qurantäne
+49G512|Sanatorium
 49G52|Irrenanstalt, Psychiatrie
 49G6|medizinische Forschung, Teilgebiete der medizinischen Wissenschaft
 49G61|Physiologie und Anatomie
