@@ -1652,6 +1652,7 @@
 42B221|beau-père
 42B222|belle-mère
 42B29|tuer
+42B29|infanticide
 42B3|enfant trouvé
 42B31|abandonner
 42B31|exposer

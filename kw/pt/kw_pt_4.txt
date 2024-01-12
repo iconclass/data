@@ -1652,6 +1652,7 @@
 42B221|padrasto
 42B222|madrasta
 42B29|matança
+42B29|infanticidio
 42B3|criança abandonada
 42B31|abandonando
 42B31|expondo

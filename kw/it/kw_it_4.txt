@@ -1707,6 +1707,7 @@
 42B221|patrigno
 42B222|matrigna
 42B29|uccidere
+42B29|infanticidio
 42B3|trovatello/a
 42B31|abbandonare
 42B311|madre

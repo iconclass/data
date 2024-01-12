@@ -2057,6 +2057,7 @@
 42B221|Stiefvater
 42B222|Stiefmutter
 42B29|toeten
+42B29|Kindestötung
 42B3|Findelkind
 42B31|aussetzen
 42B311|Mutter
