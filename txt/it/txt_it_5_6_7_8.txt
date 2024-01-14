@@ -25,6 +25,7 @@
 51B|tipi di relazione
 51B1|relazione
 51B2|somiglianza, similarità
+51B21|assimilazione
 51B3|parità, uguaglianza
 51B4|uniformità
 51B5|identità
@@ -518,6 +519,7 @@
 54E3|accordo, consenso
 54E31|patto, unità; 'Concordia', 'Concordia insuperabile', 'Concordia militare', 'Concordia di Pace', 'Unione civile' (Ripa)
 54E32|condiscendenza
+54E33|adattamento
 54E4|difesa
 54E41|autodifesa
 54E42|protezione; 'Custodia', 'Difesa contra nimici, malefici e venefici', 'Difesa contra pericoli', 'Riparo da i tradimenti' (Ripa)

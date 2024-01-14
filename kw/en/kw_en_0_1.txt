@@ -27076,8 +27076,9 @@
 12Q213|dancing
 12Q213|music making
 12Q214|orgy
-12R|American Indian religion
-12R|Native Americans
+12R|native American religion
+12R|native Americans
+12R|Indian
 12R13|demi-god
 12R13|gods
 12R13|hero

@@ -25,6 +25,7 @@
 51B|Formen von Beziehungen
 51B1|Beziehung
 51B2|Ähnlichkeit
+51B21|Assimilation
 51B3|Parität, Gleichheit
 51B4|Gleichförmigkeit
 51B5|Identität
@@ -518,6 +519,7 @@
 54E3|Anerkennung, Übereinstimmung
 54E31|Vereinbarung, Übereinkunft, Abkommen; Ripa: Concordia, Concordia insuperabile, Concordia militare, Concordia di Pace, Unione civile
 54E32|Erfüllung
+54E33|Anpassung
 54E4|Verteidigung
 54E41|Selbstverteidigung
 54E42|Schutz; Ripa: Custodia, Difesa contra nimici, malefici & venefici, Difesa contra pericoli, Riparo da i tradimenti

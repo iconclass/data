@@ -25,6 +25,7 @@
 51B|Kinds of Relation
 51B1|Relation
 51B2|Similarity, Likeness
+51B21|Assimilation
 51B3|Parity, Equality
 51B4|Uniformity
 51B5|Identity
@@ -518,6 +519,7 @@
 54E3|Accord, Accordance
 54E31|Agreement, Unity; 'Concordia', 'Concordia insuperabile', 'Concordia militare', 'Concordia di Pace', 'Unione civile' (Ripa)
 54E32|Compliance
+54E33|Adjustment
 54E4|Defence
 54E41|Self-defence
 54E42|Protection; 'Custodia', 'Difesa contra nimici, malefici & venefici', 'Difesa contra pericoli', 'Riparo da i tradimenti' (Ripa)
