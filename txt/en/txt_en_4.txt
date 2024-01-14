@@ -22,7 +22,7 @@
 41A171|barn
 41A18|hut, cabin, lodge
 41A181|log-cabin
-41A182|Indian lodge
+41A182|native American lodge
 41A1821|wigwam
 41A19|other dwelling types
 41A191|tent
@@ -1157,7 +1157,7 @@
 42B34|the foundling or the adopted child searching for its parents
 42B35|the recognition (of foundling by the parents)
 42B351|means of identification (of foundling)
-42B36|illegitimate child, bastard
+42B36|illegitimate child
 42B361|inquiry into the paternity
 42B362|unmarried mother
 42B4|filial love, 'Pietas filiorum'

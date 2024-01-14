@@ -22,7 +22,7 @@
 41A171|Scheune
 41A18|Hütte, Häuschen
 41A181|Blockhütte, -haus
-41A182|Indianerhütte
+41A182|Wohnstätte indigener Ethnien Amerikas
 41A1821|Wigwam
 41A19|andere Formen des Wohnens
 41A191|Zelt
@@ -299,7 +299,7 @@
 41AA171|Scheune - AA - Profanarchitektur. Innenräume
 41AA18|Hütte, Häuschen - AA - Profanarchitektur. Innenräume
 41AA181|Blockhütte, -haus - AA - Profanarchitektur. Innenräume
-41AA182|Indianerhütte - AA - Profanarchitektur. Innenräume
+41AA182|Wohnstätte indigener Ethnien Amerikas - AA - Profanarchitektur. Innenräume
 41AA1821|Wigwam - AA - Profanarchitektur. Innenräume
 41AA19|andere Formen des Wohnens - AA - Profanarchitektur. Innenräume
 41AA191|Zelt - AA - Profanarchitektur. Innenräume
@@ -1156,7 +1156,7 @@
 42B34|das Findelkind oder Adoptivkind sucht nach seinen wahren Eltern
 42B35|das Wiedererkennen des Findelkindes durch seine Eltern
 42B351|Mittel zur Identifikation (eines Findelkindes)
-42B36|uneheliches Kind, Bastard
+42B36|uneheliches Kind
 42B361|Vaterschaftsklage
 42B362|unverheiratete Mutter
 42B4|Kindesliebe, Liebe der Kinder zu ihren Eltern; Pietas filiorum
@@ -2342,9 +2342,9 @@
 44B151211|Kronprinz
 44B15122|Prinzessin
 44B151221|Kronprinzessin
-44B15123|königliche Bastarde
-44B151231|männlicher königlicher Bastard
-44B151232|weiblicher königlicher Bastard
+44B15123|königliche Bastarde (uneheliche, rechtlich anerkannte Kinder)
+44B151231|männlicher königlicher Bastard (uneheliches, rechtlich anerkanntes Kind)
+44B151232|weiblicher königlicher Bastard (uneheliches, rechtlich anerkanntes Kind)
 44B1513|Eltern eines Herrschers
 44B15131|Vater eines Herrschers
 44B15132|Mutter eines Herrschers
@@ -2511,9 +2511,9 @@
 44BB151211|Kronprinz - BB - weiblicher Herrscher
 44BB15122|Prinzessin - BB - weiblicher Herrscher
 44BB151221|Kronprinzessin - BB - weiblicher Herrscher
-44BB15123|königliche Bastarde - BB - weiblicher Herrscher
-44BB151231|männlicher königlicher Bastard - BB - weiblicher Herrscher
-44BB151232|weiblicher königlicher Bastard - BB - weiblicher Herrscher
+44BB15123|königliche Bastarde (uneheliche, rechtlich anerkannte Kinder) - BB - weiblicher Herrscher
+44BB151231|männlicher königlicher Bastard (uneheliches, rechtlich anerkanntes Kind) - BB - weiblicher Herrscher
+44BB151232|weiblicher königlicher Bastard (uneheliches, rechtlich anerkanntes Kind)- BB - weiblicher Herrscher
 44BB1513|Eltern eines Herrschers - BB - weiblicher Herrscher
 44BB15131|Vater eines Herrschers - BB - weiblicher Herrscher
 44BB15132|Mutter eines Herrschers - BB - weiblicher Herrscher
@@ -2615,7 +2615,7 @@
 44C5|Pressefreiheit, Meinungsfreiheit
 44C59|Zensur
 44C591|Bücherverbrennung
-44C6|Rassenemanzipation
+44C6|Emanzipation ethnischer Gruppen
 44D|Verwaltung, Verwaltungseinheiten
 44D1|öffentliche Verwaltung, Behörde
 44D2|Steuer- und Finanzverwaltung
@@ -3481,12 +3481,12 @@
 46A321|Altersheim
 46A3211|Armenhaus (niederländisch: hofje)
 46A33|barmherzige Werke
-46A4|Beziehungen zwischen den Rassen
-46A41|Rassendiskriminierung, Rassentrennung
-46A42|Feindschaft zwischen den Rassen
-46A421|Rassenkrawalle
+46A4|Beziehungen zwischen Ethnien
+46A41|Diskriminierung von Ethnien, Rassentrennung
+46A42|Feindschaft zwischen Ethnien
+46A421|(gewalttätiger) Protest gegen ethnische Diskriminierung; Rassenunruhen
 46A422|Ku Klux Klan und ähnliche Organisationen
-46A49|Antirassismus; Rassenintegration
+46A49|Antirassismus; ethnische Integration
 46A5|sprachliche Kommunikation
 46A51|Versuch, sich verständlich zu machen (sprachliche Kommunikation)
 46A511|Mißverständnis
@@ -3522,7 +3522,7 @@
 46A8|ungewöhnliche Lebensformen
 46A81|umherziehende Gemeinschaften
 46A81(...)|umherziehende Gemeinschaften (mit NAMEN)
-46A81(GIPSIES)|umherziehende Gemeinschaften: Zigeuner
+46A81(GIPSIES)|umherziehende Gemeinschaften: Roma
 46A81(NOMADS)|umherziehende Gemeinschaften: Nomaden
 46A811|umherziehende Gemeinschaften, die in Zelten wohnen
 46A812|umherziehende Gemeinschaften, die in Wohnwagen leben
@@ -3541,7 +3541,7 @@
 46A9|einfache, archaische Sozialstruktur
 46A91|Matriarchat
 46A92|Patriarchat
-46A93|Clans, Stammesgemeinschaften
+46A93|Clans, Gemeinschaften in ethnischen Gruppen
 46AA122|Wappenschild, heraldisches Symbol - AA - weiblich
 46AA122(...)|Wappenschild, heraldisches Symbol (mit NAMEN der Familie) - AA - weiblich
 46AA122(...)1|Wappenschild, heraldisches Symbol (mit NAMEN der Familie) - AA - weiblich - Wappen

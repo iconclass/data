@@ -2861,13 +2861,13 @@
 31A4155|Stützband
 31A416|gekrümmte, gebeugte Person
 31A417|Buckel
-31A418|Albino
+31A418|Menschen mit Albinismus
 31A419|verstümmelte Person
 31A4191|Person mit nur einem Arm
 31A42|Menschen (legendarisch oder nicht) von außergewöhnlichen Proportionen, außergewöhnlicher Größe, Stärke etc.
 31A421|Riesen, Kolosse
-31A422|Zwerge
-31A4221|Pygmäen, Zwergmenschen
+31A422|kleinwüchsige Menschen, Zwerge
+31A4221|Pygmäen, kleinwüchsige Menschen
 31A4222|Kobolde
 31A4223|Grylloi
 31A423|Menschen mit übermenschlichen Kräften oder Fähigkeiten
@@ -3532,8 +3532,8 @@
 31AA419|verstümmelte Person - AA - weibliche Figur
 31AA42|Menschen (legendarisch oder nicht) von außergewöhnlichen Proportionen, außergewöhnlicher Größe, Stärke etc. - AA - weibliche Figur
 31AA421|Riesen, Kolosse - AA - weibliche Figur
-31AA422|Zwerge - AA - weibliche Figur
-31AA4221|Pygmäen, Zwergmenschen - AA - weibliche Figur
+31AA422|kleinwüchsige Menschen, Zwerge - AA - weibliche Figur
+31AA4221|Pygmäen, kleinwüchsige Menschen - AA - weibliche Figur
 31AA4222|Kobolde - AA - weibliche Figur
 31AA4223|Grylloi - AA - weibliche Figur
 31AA423|Menschen mit übermenschlichen Kräften oder Fähigkeiten - AA - weibliche Figur
@@ -4234,7 +4234,7 @@
 31G36|die Seele auf dem Weg zu ihrem letzten Bestimmungsort
 31G361|der Teufel trägt die Seele fort
 31G4|die Seele in der Ewigkeit
-32|Menschentypen; Völker und Nationalitäten
+32|Menschentypen; Ethnien und Nationalitäten
 32A|Menschentypen
 32A1|die Vier Temperamente; Ripa: Complessione
 32A11|cholerisches Temperament
@@ -4404,12 +4404,12 @@
 32B3712|Khoikhoi
 32B372|Ethnien der Pygmäen Neuguineas
 32B38|Personen mit Herkunft aus verschiedenen Ethnien
-32B381|Personen mit Herkunft aus europäischen und schwarzafrikanischen Ethnien
+32B381|Personen mit Herkunft aus europäischen und indigenen Ethnien des subsaharischen Afrika
 32B382|Personen mit Herkunft aus europäischen und asiatischen Ethnien
 32B383|Personen mit Herkunft aus europäischen und indigen-südamerikanischen Ethnien
 32B39|(andere) menschliche Ethnien
 32B39(...)|(andere) menschliche Ethnien (mit NAMEN)
-32C|wissenschaftliche Klassifikation menschlicher Rassen
+32C|Klassifikation menschlicher Ethnien
 33|Beziehungen zwischen individuellen Personen
 33A|nicht-aggressive Beziehungen
 33A1|grüßen

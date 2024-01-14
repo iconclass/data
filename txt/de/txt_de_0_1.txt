@@ -11782,33 +11782,33 @@
 12O6|Kultplätze und Kultgegenstände im Shintoismus
 12O61|Tempel und Heiligtümer im Shintoismus
 12OO51|Priester im Shintoismus - OO - Priesterin
-12P|Stammesreligionen in Südostasien
-12Q|afrikanische Stammesreligionen
-12Q2|rituelle Praktiken in den afrikanischen Stammesreligionen
-12Q21|Kult und Verehrung in den afrikanischen Stammesreligionen
-12Q211|das Gebet in den afrikanischen Stammesreligionen
-12Q212|Opfer in den afrikanischen Stammesreligionen
-12Q213|Musizieren und Tanzen in den afrikanischen Stammesreligionen
-12Q214|Orgien in den afrikanischen Stammesreligionen
-12R|indianische Religionen in Amerika
-12R1|die Visualisierung von Konzeptionen und Ideen in den indianischen Religionen
-12R13|Darstellungen von Göttern, Halbgöttern, Helden etc. in den indianischen Religionen
-12R13(...)|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen
-12R13(...)1|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Kindheit und Jugend eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)11|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - die Geburt eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)12|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - die frühe Kindheit und Erziehung eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)2|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Liebesaffären eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)3|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - die wichtigsten Taten eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)4|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - aggressive, unfreundliche Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)5|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - nicht-aggressive, freundliche oder neutrale Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)6|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Leiden, Unglück eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)68|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - der Tod eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)69|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Apotheose, Vergottung eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)7|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - spezifische, z.B. allegorische Aspekte eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)78|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Triumph eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)79|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Anbetung, Ehrung eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)8|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Attribute eines (einer) nicht-christlichen Gottes (Göttin)
-12R13(...)9|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den indianischen Religionen - Nachkommenschaft, Gefährte(n), Gefolge etc. eines (einer) nicht-christlichen Gottes (Göttin)
+12P|Religionen indigener Ethnien in Südostasien
+12Q|Religionen indigener Ethnien in Afrika
+12Q2|rituelle Praktiken in den Religionen indigener Ethnien Afrikas
+12Q21|Kult und Verehrung in den Religionen indigener Ethnien Afrikas
+12Q211|das Gebet in den Religionen indigener Ethnien Afrikas
+12Q212|Opfer in den Religionen indigener Ethnien Afrikas
+12Q213|Musizieren und Tanzen in den Religionen indigener Ethnien Afrikas
+12Q214|Orgien in den Religionen indigener Ethnien Afrikas
+12R|Religionen indigener Ethnien Amerikas
+12R1|die Visualisierung von Konzeptionen und Ideen in den Religionen indigener Ethnien Amerikas
+12R13|Darstellungen von Göttern, Halbgöttern, Helden etc. in den Religionen indigener Ethnien Amerikas
+12R13(...)|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas
+12R13(...)1|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Kindheit und Jugend eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)11|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - die Geburt eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)12|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - die frühe Kindheit und Erziehung eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)2|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Liebesaffären eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)3|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - die wichtigsten Taten eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)4|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - aggressive, unfreundliche Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)5|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - nicht-aggressive, freundliche oder neutrale Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)6|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Leiden, Unglück eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)68|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - der Tod eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)69|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Apotheose, Vergottung eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)7|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - spezifische, z.B. allegorische Aspekte eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)78|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Triumph eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)79|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Anbetung, Ehrung eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)8|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Attribute eines (einer) nicht-christlichen Gottes (Göttin)
+12R13(...)9|Darstellungen von Göttern, Halbgöttern, Helden etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Nachkommenschaft, Gefährte(n), Gefolge etc. eines (einer) nicht-christlichen Gottes (Göttin)
 12R13(QUETZALCOATL)|Quetzalcoatl, aztekischer Gott der Winde und Wissenschaften
 12R13(QUETZALCOATL)1|Quetzalcoatl, aztekischer Gott der Winde und Wissenschaften - Kindheit und Jugend eines (einer) nicht-christlichen Gottes (Göttin)
 12R13(QUETZALCOATL)11|Quetzalcoatl, aztekischer Gott der Winde und Wissenschaften - die Geburt eines (einer) nicht-christlichen Gottes (Göttin)
@@ -11826,60 +11826,60 @@
 12R13(QUETZALCOATL)79|Quetzalcoatl, aztekischer Gott der Winde und Wissenschaften - Anbetung, Ehrung eines (einer) nicht-christlichen Gottes (Göttin)
 12R13(QUETZALCOATL)8|Quetzalcoatl, aztekischer Gott der Winde und Wissenschaften - Attribute eines (einer) nicht-christlichen Gottes (Göttin)
 12R13(QUETZALCOATL)9|Quetzalcoatl, aztekischer Gott der Winde und Wissenschaften - Nachkommenschaft, Gefährte(n), Gefolge etc. eines (einer) nicht-christlichen Gottes (Göttin)
-12R14|Darstellungen von Naturereignissen in den indianischen Religionen
-12R2|rituelle Praktiken in den indianischen Religionen
-12R21|Kult und Verehrung in den indianischen Religionen
-12R211|das Gebet in den indianischen Religionen
-12R212|Opfer in indianischen Religionen
-12R2121|Tieropfer in den indianischen Religionen
-12R2122|Menschenopfer in den indianischen Religionen
-12R2123|Opferfeste in den indianischen Religionen
-12R213|Musizieren und Tanzen in den indianischen Religionen
-12R214|Orgien in den indianischen Religionen
-12R219|andere rituelle Praktiken in den indianischen Religionen
-12R3|rituelle Praktiken mit verschiedenen Zielsetzungen in den indianischen Religionen
-12R31|Fruchtbarkeitsriten mit Bezug auf den Ackerbau, den Menschen, das Vieh in den indianischen Religionen
-12R311|die Beschwörung von Regen als Fruchtbarkeitsritus in den indianischen Religionen
-12R4|rituelle Praktiken in verschiedenen Stadien des menschlichen Lebens (indianische Religionen)
-12R41|rituelle Praktiken in der Kindheit (indianische Religionen)
-12R42|rituelle Praktiken für die Pubertät und die sexuelle Initiation (Rites de passage) in den indianischen Religionen
-12R43|rituelle Praktiken der Reinigung und Segnung in den indianischen Religionen
-12R44|rituelle Praktiken für Tod und Begräbnis in den indianischen Religionen
-12R441|Begräbnisritual, Ahnenkult in den indianischen Religionen
-12R5|Amtsträger in den indianischen Religionen
-12R51|Priester in den indianischen Religionen
-12R53|andere Amtsträger in den indianischen Religionen
-12R531|Wundertäter in den indianischen Religionen
-12R6|Kultplätze und Kultgegenstände in den indianischen Religionen
-12R61|Tempel und Heiligtümer in den indianischen Religionen
-12R62|der Altar in den indianischen Religionen
-12R621|der Hausaltar in den indianischen Religionen
-12R63|Statuen, Bilder etc. als Kultgegenstände in den indianischen Religionen
-12R7|Gegenstände und Hilfsmittel ritueller Praktiken in den indianischen Religionen
-12R71|Maske und Kostüm als Hilfsmittel ritueller Praktiken in den indianischen Religionen
-12R72|Körpermalerei als Hilfsmittel ritueller Praktiken in den indianischen Religionen
-12RR13|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. in den indianischen Religionen
-12RR13(...)|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen
-12RR13(...)1|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Kindheit und Jugend eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)11|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - die Geburt eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)12|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - die frühe Kindheit und Erziehung eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)2|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Liebesaffären eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)3|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - die wichtigsten Taten eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)4|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - aggressive, unfreundliche Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)5|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - nicht-aggressive, freundliche oder neutrale Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)6|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Leiden, Unglück eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)68|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - der Tod eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)69|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Apotheose, Vergottung eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)7|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - spezifische, z.B. allegorische Aspekte eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)78|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Triumph eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)79|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Anbetung, Ehrung eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)8|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Attribute eines (einer) nicht-christlichen Gottes (Göttin)
-12RR13(...)9|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den indianischen Religionen - Nachkommenschaft, Gefährte(n), Gefolge etc. eines (einer) nicht-christlichen Gottes (Göttin)
-12RR42|rituelle Praktiken für die Pubertät und die sexuelle Initiation (Rites de passage) in den indianischen Religionen - RR - Mädchen
-12RR51|Priester in den indianischen Religionen - RR - Priesterin
-12RR62|der Altar in den indianischen Religionen - RR - im Freien
-12RR621|der Hausaltar in den indianischen Religionen - RR - im Freien
-12RR63|Statuen, Bilder etc. als Kultgegenstände in den indianischen Religionen - RR - im Freien
+12R14|Darstellungen von Naturereignissen in den Religionen indigener Ethnien Amerikas
+12R2|rituelle Praktiken in den Religionen indigener Ethnien Amerikas
+12R21|Kult und Verehrung in den Religionen indigener Ethnien Amerikas
+12R211|das Gebet in den Religionen indigener Ethnien Amerikas
+12R212|Opfer in Religionen indigener Ethnien Amerikas
+12R2121|Tieropfer in den Religionen indigener Ethnien Amerikas
+12R2122|Menschenopfer in den Religionen indigener Ethnien Amerikas
+12R2123|Opferfeste in den Religionen indigener Ethnien Amerikas
+12R213|Musizieren und Tanzen in den Religionen indigener Ethnien Amerikas
+12R214|Orgien in den Religionen indigener Ethnien Amerikas
+12R219|andere rituelle Praktiken in den Religionen indigener Ethnien Amerikas
+12R3|rituelle Praktiken mit verschiedenen Zielsetzungen in den Religionen indigener Ethnien Amerikas
+12R31|Fruchtbarkeitsriten mit Bezug auf den Ackerbau, den Menschen, das Vieh in den Religionen indigener Ethnien Amerikas
+12R311|die Beschwörung von Regen als Fruchtbarkeitsritus in den Religionen indigener Ethnien Amerikas
+12R4|rituelle Praktiken in verschiedenen Stadien des menschlichen Lebens (Religionen indigener Ethnien Amerikas)
+12R41|rituelle Praktiken in der Kindheit (Religionen indigener Ethnien Amerikas)
+12R42|rituelle Praktiken für die Pubertät und die sexuelle Initiation (Rites de passage) in den Religionen indigener Ethnien Amerikas
+12R43|rituelle Praktiken der Reinigung und Segnung in den Religionen indigener Ethnien Amerikas
+12R44|rituelle Praktiken für Tod und Begräbnis in den Religionen indigener Ethnien Amerikas
+12R441|Begräbnisritual, Ahnenkult in den Religionen indigener Ethnien Amerikas
+12R5|Amtsträger in den Religionen indigener Ethnien Amerikas
+12R51|Priester in den Religionen indigener Ethnien Amerikas
+12R53|andere Amtsträger in den Religionen indigener Ethnien Amerikas
+12R531|Wundertäter in den Religionen indigener Ethnien Amerikas
+12R6|Kultplätze und Kultgegenstände in den Religionen indigener Ethnien Amerikas
+12R61|Tempel und Heiligtümer in den Religionen indigener Ethnien Amerikas
+12R62|der Altar in den Religionen indigener Ethnien Amerikas
+12R621|der Hausaltar in den Religionen indigener Ethnien Amerikas
+12R63|Statuen, Bilder etc. als Kultgegenstände in den Religionen indigener Ethnien Amerikas
+12R7|Gegenstände und Hilfsmittel ritueller Praktiken in den Religionen indigener Ethnien Amerikas
+12R71|Maske und Kostüm als Hilfsmittel ritueller Praktiken in den Religionen indigener Ethnien Amerikas
+12R72|Körpermalerei als Hilfsmittel ritueller Praktiken in den Religionen indigener Ethnien Amerikas
+12RR13|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. in den Religionen indigener Ethnien Amerikas
+12RR13(...)|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas
+12RR13(...)1|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Kindheit und Jugend eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)11|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - die Geburt eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)12|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - die frühe Kindheit und Erziehung eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)2|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Liebesaffären eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)3|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - die wichtigsten Taten eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)4|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - aggressive, unfreundliche Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)5|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - nicht-aggressive, freundliche oder neutrale Aktivitäten und Beziehungen eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)6|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Leiden, Unglück eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)68|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - der Tod eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)69|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Apotheose, Vergottung eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)7|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - spezifische, z.B. allegorische Aspekte eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)78|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Triumph eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)79|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Anbetung, Ehrung eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)8|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Attribute eines (einer) nicht-christlichen Gottes (Göttin)
+12RR13(...)9|Darstellungen von Göttinnen, Halbgöttinnen, Heldinnen etc. (mit NAMEN) in den Religionen indigener Ethnien Amerikas - Nachkommenschaft, Gefährte(n), Gefolge etc. eines (einer) nicht-christlichen Gottes (Göttin)
+12RR42|rituelle Praktiken für die Pubertät und die sexuelle Initiation (Rites de passage) in den Religionen indigener Ethnien Amerikas - RR - Mädchen
+12RR51|Priester in den Religionen indigener Ethnien Amerikas - RR - Priesterin
+12RR62|der Altar in den Religionen indigener Ethnien Amerikas - RR - im Freien
+12RR621|der Hausaltar in den Religionen indigener Ethnien Amerikas - RR - im Freien
+12RR63|Statuen, Bilder etc. als Kultgegenstände in den Religionen indigener Ethnien Amerikas - RR - im Freien
 12S|australische und polynesische bzw. melanesische Religionen
 12S2|rituelle Praktiken in den australischen und polynesischen bzw. melanesischen Religionen
 12S21|Kult und Verehrung in den australischen und polynesischen bzw. melanesischen Religionen
@@ -11901,7 +11901,7 @@
 12SS62|der Altar in den australischen und polynesischen bzw. melanesischen Religionen - SS - im Freien
 12SS621|der Hausaltar in den australischen und polynesischen bzw. melanesischen Religionen - SS - im Freien
 12SS63|Statuen, Bilder etc. als Kultgegenstände in den australischen und polynesischen bzw. melanesischen Religionen - SS - im Freien
-12T|arktische Religionen (Religionen in Sibirien, bei den Lappen und Eskimos)
+12T|arktische Religionen (Religionen der indigenen Ethnien in Sibirien, im nördlichen Skandinavien und im nördlichen Polargebiet)
 12U|verschiedenartige Religionen, Kulte und Doktrinen
 12U(...)|verschiedenartige Religionen, Kulte und Doktrinen (mit NAMEN)
 12U(...)1|verschiedenartige Religionen, Kulte und Doktrinen (mit NAMEN) - die Visualisierung von Konzeptionen und Ideen
@@ -12312,7 +12312,7 @@
 13E41|Wahrsagerei aus dem menschlichen Leichnam, Nekromantie
 13E411|Totenbeschwörer
 13E42|Chiromantie, Wahrsagen aus der Hand, Handlesekunst
-13E421|eine Zigeunerin oder ein Zigeuner lesen aus der Hand
+13E421|eine Romni oder ein Rom lesen aus der Hand
 13E43|Wahrsagerei aus äußeren Teilen des menschlichen Körpers
 13E431|Wahrsagerei aus Muttermalen
 13E432|Wahrsagerei aus Linien bzw. Falten im Gesicht (auf der Stirn)

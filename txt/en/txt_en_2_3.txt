@@ -4408,7 +4408,7 @@
 32B3712|Khoikhoi
 32B372|New-Guinean pygmy peoples
 32B38|persons of mixed roots
-32B381|persons of afro-caucasian ancestry
+32B381|persons of European and subsaharan African ancestry
 32B382|Eurasian, persons of European and Asiatic ancestry
 32B383|persons of Spanish and indigenous South-American ancestry
 32B39|(still other) human races and peoples

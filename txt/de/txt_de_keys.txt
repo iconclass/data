@@ -1191,7 +1191,7 @@
 31k943|gequält werden, gepeinigt werden
 32Bk0|Variante
 32Bk1|Betonung anthropologischer Charakteristika
-32Bk2|Ureinwohner, Eingeborene
+32Bk2|indigene Menschen
 32Bk3|Kostüm
 32Bk4|andere kulturelle Aspekte
 32Bk5|Geschlecht und Alter
@@ -2426,7 +2426,7 @@
 48A98k725|etruskischer Ornamentstil
 48A98k726|römischer Ornamentstil
 48A98k73|vorchristlicher europäischer Ornamentstil
-48A98k73(...)|Ornamentstile der Barbarenvölker und der vorchristlichen Kunst (mit NAMEN)
+48A98k73(...)|Ornamentstile der vorchristlichen Kunst (mit NAMEN)
 48A98k74|abendländischer Ornamentstil
 48A98k741|frühchristlicher Ornamentstil
 48A98k7411|koptischer Ornamentstil
@@ -2460,7 +2460,7 @@
 48A98k7613|nord- und zentralasiatischer Ornamentstil
 48A98k762|altamerikanischer Ornamentstil
 48A98k7621|präkolumbianischer Ornamentstil
-48A98k7622|indianischer Ornamentstil Nordamerikas
+48A98k7622|Ornamentstil indigener Ethnien Nordamerikas
 48A98k763|Ornamentstil der afrikanischen Kunst
 48A98k764|ozeanischer Ornamentstil
 48k0|Variante
@@ -2600,7 +2600,7 @@
 48k725|etruskische Kunst
 48k726|römische Kunst
 48k73|vorchristliche Kunst
-48k73(...)|Kunst der vorchristlichen Zeit und der Barbarenvölker (mit NAMEN des Stils)
+48k73(...)|Kunst der vorchristlichen Zeit in Europa (mit NAMEN des Stils)
 48k74|abendländische Kunststile
 48k741|frühchristliche kunst
 48k7411|koptische Kunst
@@ -2636,7 +2636,7 @@
 48k7613|nord- und zentralasiatische Kunst
 48k762|altamerikanische Kunst
 48k7621|präkolumbianische Kunst
-48k7622|indianische Kunst Nordamerikas
+48k7622|Kunst indigener Ethnien Nordamerikas
 48k763|afrikanische Kunst
 48k764|ozeanische Kunst
 49Bk0|Symbol, Wappen, Siegel etc. (Schule, Ausbildung)

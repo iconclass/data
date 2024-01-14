@@ -189,10 +189,10 @@
 91E231|Personifikation des Bronzenen Zeitalters; Ripa: Età del bronzo, Età del rame
 91E24|das Eiserne Zeitalter; Aetas ferrea; das von Mars, Kriegen und Raubzügen geprägt ist
 91E241|Personifikation des Eisernen Zeitalters; Ripa: Età del ferro
-91E3|primitive Stadien der Menschheit; der Mensch steigt aus seinen barbarischen Anfängen zur Zivilisation auf
+91E3|frühe Stadien der Menschheit; der Mensch steigt aus seinen Anfängen zur Zivilisation auf
 91E31|Vulcan als Lehrer der Menschheit; Aeolus assistiert ihm
 91E32|die Entdeckung des Feuers
-91E33|Bau primitiver Gebäude, z.B. Hütten
+91E33|Bau einfacher Gebäude, z.B. Hütten
 91E4|die Geschichte des Prometheus
 91E41|die Geschichte des Prometheus - Kindheit, Jugend
 91E411|die Geschichte des Prometheus - Geburt
