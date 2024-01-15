@@ -4408,7 +4408,7 @@
 32B383|personnes d'ascendance espagnole et indigène sud-américaine
 32B39|(encore d'autres) races et peuples humains
 32B39(...)|(encore d'autres) races et peuples humains (avec NOM)
-32C|classification scientifique des races humaines
+32C|classification des groupes ethniques
 33|relations entre personnes individuelles
 33A|relations non-agressives
 33A1|saluer

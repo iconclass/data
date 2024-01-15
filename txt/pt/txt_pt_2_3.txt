@@ -4352,7 +4352,7 @@
 32B383|pessoas de ascendência espanhola e indígena sul-americana
 32B39|(ainda outras) raças e povos humanos
 32B39(...)|(ainda outras) raças e povos humanos (com NOME)
-32C|classificação científica das raças humanas
+32C|classificação de grupos étnicos
 33|relações interpessoais
 33A|relações não agressivas
 33A1|saudar

@@ -4413,7 +4413,7 @@
 32B383|persons of Spanish and indigenous South-American ancestry
 32B39|(still other) human races and peoples
 32B39(...)|(still other) human races and peoples (with NAME)
-32C|scientific classification of human races
+32C|classification of ethnic groups
 33|relations between individual persons
 33A|non-aggressive relationships
 33A1|saluting

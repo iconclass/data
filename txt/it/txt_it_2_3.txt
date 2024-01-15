@@ -4407,7 +4407,7 @@
 32B383|persone di origini sudamericane spagnole e indigene
 32B39|(ancora altre) razze e popoli umani
 32B39(...)|(ancora altre) razze e popoli umani (con NOME)
-32C|classificazione scientifica di razze umane
+32C|classificazione dei gruppi etnici
 33|relazioni, rapporti tra singoli individui
 33A|rapporti non aggressivi
 33A1|salutare
