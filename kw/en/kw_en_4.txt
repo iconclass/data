@@ -4580,6 +4580,7 @@
 45C2221|glove
 45C2221|hand protector
 45C223|cuirass
+45C224|greave
 45C23|quiver
 45C231|scabbard
 45C231|sheath

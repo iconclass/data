@@ -3085,6 +3085,7 @@
 45C222|brassard
 45C2221|gantelet, gant blindé protégeant la main ~ armure
 45C223|cuirasse
+45C224|cnémide, jambière
 45C23|carquois
 45C231|fourreau, étui
 45C24|camouflage

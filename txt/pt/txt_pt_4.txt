@@ -3014,6 +3014,8 @@
 45C221|capacete
 45C222|proteção para o braço
 45C2221|manopla, luva couroçada para protecção da mão
+45C223|couraça
+45C224|greva
 45C23|aljava
 45C231|bainha
 45C24|camuflar

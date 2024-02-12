@@ -3085,6 +3085,7 @@
 45C222|arm protector
 45C2221|gauntlet, armoured glove to protect the hand
 45C223|cuirass
+45C224|greaves
 45C23|quiver
 45C231|scabbard, sheath
 45C24|camouflage

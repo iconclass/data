@@ -4627,6 +4627,8 @@
 45C2221|protection
 45C2221|protection pour les mains
 45C223|cuirasse
+45C224|cnémide
+45C224|jambière
 45C23|carquois
 45C231|fourreau
 45C24|camouflage

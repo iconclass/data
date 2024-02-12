@@ -4579,6 +4579,7 @@
 45C2221|luva
 45C2221|protetor de mão
 45C223|couraça
+45C224|greva
 45C23|aljava
 45C231|bainha
 45C231|bainha
