@@ -1526,6 +1526,8 @@
 42G2122|fille (parenté au premier degré)
 42G22|parenté au second degré
 42G221|grands-parents (parenté au second degré)
+42G2211|grands-père (parenté au second degré)
+42G2212|grands-mère (parenté au second degré)
 42G222|frères et soeurs (parenté au second degré)
 42G2221|frères (parenté au second degré)
 42G2222|soeurs (parenté au second degré)

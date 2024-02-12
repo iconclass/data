@@ -2309,6 +2309,8 @@
 42G2121|filho
 42G2122|filha
 42G221|avô
+42G2211|avô
+42G2212|avó
 42G222|irmão
 42G222|irmã
 42G223|neto

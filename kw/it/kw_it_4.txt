@@ -2389,7 +2389,9 @@
 42G212|bambino/a
 42G2121|figlio
 42G2122|figlia
-42G221|nonno/nonna
+42G221|nonni
+42G2211|nonno
+42G2212|nonna
 42G222|fratello
 42G222|sorella
 42G223|nipote (di nonni)

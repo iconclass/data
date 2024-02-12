@@ -1525,6 +1525,8 @@
 42G2122|Tocher (Familienverwandtschaften ersten Grades)
 42G22|Familienverwandtschaften zweiten Grades
 42G221|Großeltern (Familienverwandtschaften zweiten Grades)
+42G2211|Großvater (Familienverwandtschaften zweiten Grades)
+42G2212|Großmutter (Familienverwandtschaften zweiten Grades)
 42G222|Brüder oder Schwestern (Familienverwandtschaften zweiten Grades)
 42G2221|Brüder (Familienverwandtschaften zweiten Grades)
 42G2222|Schwestern (Familienverwandtschaften zweiten Grades)

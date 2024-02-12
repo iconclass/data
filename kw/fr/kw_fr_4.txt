@@ -2325,6 +2325,8 @@
 42G2121|fils
 42G2122|fille
 42G221|grands-parents
+42G2211|grand-père
+42G2212|grand-mère
 42G222|frère
 42G222|soeur
 42G223|petit-enfant

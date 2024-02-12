@@ -2762,6 +2762,8 @@
 42G2121|Sohn
 42G2122|Tochter
 42G221|Grosseltern
+42G2211|Grossvater
+42G2212|Grossmutter
 42G222|Bruder
 42G222|Schwester
 42G223|Enkel

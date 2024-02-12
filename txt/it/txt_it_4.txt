@@ -1525,6 +1525,8 @@
 42G2122|figlia (parentela di primo grado)
 42G22|parentela di secondo grado
 42G221|nonni (parentela di secondo grado)
+42G2211|nonno (parentela di secondo grado)
+42G2212|nonna (parentela di secondo grado)
 42G222|fratelli o sorelle (parentela di secondo grado)
 42G2221|fratelli (parentela di secondo grado)
 42G2222|sorelle (parentela di secondo grado)

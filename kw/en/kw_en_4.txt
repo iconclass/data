@@ -2310,6 +2310,8 @@
 42G2121|son
 42G2122|daughter
 42G221|grandparent
+42G2211|grandfather
+42G2212|grandmother
 42G222|brother
 42G222|sister
 42G223|grandchild

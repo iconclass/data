@@ -1469,6 +1469,8 @@
 42G2122|filha (parentesco em primeiro grau)
 42G22|parentesco em segundo grau
 42G221|avós (parentesco em segundo grau)
+42G2211|avô (parentesco em segundo grau)
+42G2212|avó (parentesco em segundo grau)
 42G222|irmãos ou irmãs (parentesco em segundo grau)
 42G2221|irmãos (parentesco em segundo grau)
 42G2222|irmãs (parentesco em segundo grau)

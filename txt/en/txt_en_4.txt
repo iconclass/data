@@ -1526,6 +1526,8 @@
 42G2122|daughter (first degree family relationships)
 42G22|second degree family relationships
 42G221|grandparents (second degree family relationships)
+42G2211|grandfather (second degree family relationships)
+42G2212|grandmother (second degree family relationships)
 42G222|brothers or sisters (second degree family relationships)
 42G2221|brothers (second degree family relationships)
 42G2222|sisters (second degree family relationships)
