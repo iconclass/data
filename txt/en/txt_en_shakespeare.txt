@@ -107,8 +107,8 @@
 83(SHAKESPEARE, Coriolanus, I, 9)|Marcius praised for his courage and renamed Coriolanus.
 83(SHAKESPEARE, Coriolanus, I, 10)|Aufidius rages against Coriolanus.
 83(SHAKESPEARE, Coriolanus, II, 1)|Coriolanus returns to Rome. Sicinius and Brutus wish to block his nomination for Consul.
-83(SHAKESPEARE, Coriolanus, II, 2)|
-83(SHAKESPEARE, Coriolanus, II, 3)|
+83(SHAKESPEARE, Coriolanus, II, 2)|The Senate meets to hear Cominius praise Coriolanus in a formal oration and then to choose Coriolanus as its nominee for consul.
+83(SHAKESPEARE, Coriolanus, II, 3)|According to custom, Coriolanus asks a number of individual plebeians for their votes. Although he mocks them, they consent to his election. Later meeting with the tribunes, the plebeians reflect on Coriolanus’s mockery and decide, with the tribunes’ encouragement, to revoke their votes for him.
 83(SHAKESPEARE, Coriolanus, III, 1)|The citizens rise up against Coriolanus. He declares their views are irrelevant. Coriolanus accused of treason.
 83(SHAKESPEARE, Coriolanus, III, 2)|Coriolanus persuaded to apologise to the people.
 83(SHAKESPEARE, Coriolanus, III, 3)|Sicinius and Brutus provoke crowd against Coriolanus. Coriolanus exiled.
@@ -118,7 +118,7 @@
 83(SHAKESPEARE, Coriolanus, IV, 4)|Coriolanus, disguised as poor man, goes to Aufidius.
 83(SHAKESPEARE, Coriolanus, IV, 5)|Corialanus offers to support Aufidius against Rome.
 83(SHAKESPEARE, Coriolanus, IV, 6)|Crowd have misgivings on learning that the Volscians are now led by Corialanus.
-83(SHAKESPEARE, Coriolanus, IV, 7)|----­
+83(SHAKESPEARE, Coriolanus, IV, 7)|Aufidius, offended by the Volscian soldiers’ preference for Coriolanus, begins plotting against him.
 83(SHAKESPEARE, Coriolanus, V, 1)|Cominius rejected by Coriolanus.
 83(SHAKESPEARE, Coriolanus, V, 2)|Menenius rejected.
 83(SHAKESPEARE, Coriolanus, V, 3)|Virgilia, Volumnia, Valeria, Young Marcius and attendants plead for mercy and Coriolanus is finally convinced by his mother.
@@ -126,7 +126,7 @@
 83(SHAKESPEARE, Coriolanus, V, 5)|The Senators thankfully welcome Volumnia and other women back to Rome. 
 83(SHAKESPEARE, Coriolanus, V 6)|Aufidius turns Volscians against Coriolanus and he is killed. Aufidius grants him a noble burial.
 83(SHAKESPEARE, Cymbeline, I, 1)|Imagen has married Posthumus against her father's wishes. (Cymbeline). Posthumus has been banished.
-83(SHAKESPEARE, Cymbeline, I, 2)|-------------­
+83(SHAKESPEARE, Cymbeline, I, 2)|An encounter between Cloten and Posthumus, reported in 1.1, is here discussed by Cloten and two lords.
 83(SHAKESPEARE, Cymbeline, I, 3)|Cloten has attacked Posthumus.
 83(SHAKESPEARE, Cymbeline, I, 4)|Imagen and Pisanio.
 83(SHAKESPEARE, Cymbeline, I, 5)|Posthumus bets his ring against 1000 ducats of Iachimo that Imagen will remain faithful to him.
@@ -143,11 +143,11 @@
 83(SHAKESPEARE, Cymbeline, III, 4)|Near Milford Haven where Imagen has been lured. Pisanio tells Imagen of his orders which he cannot obey. Imagen is disguised as a man.
 83(SHAKESPEARE, Cymbeline, III, 5)|Cloten goes to Milford Haven disguised as Posthumus with plans to kill him in front of Imagen.
 83(SHAKESPEARE, Cymbeline, III, 6)|Imagen disguised as Fideles meets Belarius, Guiderius and Arviragus.
-83(SHAKESPEARE, Cymbeline, III, 7)|-----­
+83(SHAKESPEARE, Cymbeline, III, 7)|A Roman senator announces that the Roman army attacking Britain will be under the control of Caius Lucius and that it will be augmented by Roman gentry.
 83(SHAKESPEARE, Cymbeline, IV, 1)|Cloten near the cave of Belarius.
 83(SHAKESPEARE, Cymbeline, IV, 2)|Guiderius decapitates Cloten. Imagen in a deep sleep after drinking the potion. The two bodies are laid side by side. "Fear no more the heat o' th' sun." Imagen awakes and thinks it is Posthumus beside her.
 83(SHAKESPEARE, Cymbeline, IV, 3)|Roman legions have landed.
-83(SHAKESPEARE, Cymbeline, IV, 4)|-----
+83(SHAKESPEARE, Cymbeline, IV, 4)|The young princes persuade Belarius that the three of them should join with the Britons against Rome.
 83(SHAKESPEARE, Cymbeline, V, 1)|Posthumus in the Roman camp, has received the bloody rag which Pisanio sent him as proof of the murder. Filled with remorse he disguises himself as a British peasant and hopes to be killed.
 83(SHAKESPEARE, Cymbeline, V, 2)|Battle scene. Cymbeline rescued by Belarius, Guidarius and Arvigarus.
 83(SHAKESPEARE, Cymbeline, V, 3)|Posthumus captured by Britons.
@@ -156,45 +156,37 @@
 83(SHAKESPEARE, Hamlet, I, 1)|The ghost appears to Horatio, Marcellus and Barnardo.
 83(SHAKESPEARE, Hamlet, I, 2)|Hamlet confronts Claudius and Gertrude regarding their marriage. 110 that this too too solid flesh would melt .... Frailty thy name is woman." Hamlet and Horatio.
 83(SHAKESPEARE, Hamlet, I, 3)|Polonius gives Laertes advice. 11Neither a borrower or a lender be etc."
-83(SHAKESPEARE, Hamlet, I, 4)|Hamlet and the ghost. Hamlet swears Horatio and Marcellus to secrecy.
-83(SHAKESPEARE, Hamlet, I, 5)|-----
+83(SHAKESPEARE, Hamlet, I, 4)|Hamlet and the Ghost. Hamlet swears Horatio and Marcellus to secrecy.
+83(SHAKESPEARE, Hamlet, I, 5)|The Ghost tells Hamlet a tale of horror. Saying that he is the spirit of Hamlet’s father, he demands that Hamlet avenge King Hamlet’s murder at the hands of Claudius. Hamlet, horrified, vows to “remember” and swears his friends to secrecy about what they have seen.
 83(SHAKESPEARE, Hamlet, II, 1)|Polonius and Ophelia. Ophelia describes Hamlet. "His stockings foul'd/ Ungartered and down gyved etc."
 83(SHAKESPEARE, Hamlet, II, 2)|Hamlet mocks Polonius. "You are a fishmonger etc." Rosencrantz and Guildenstern announce the arrival of the players. Hamlet and the players.
 83(SHAKESPEARE, Hamlet, III, 1)|Hamlet alone. "To be or not to be etc." Hamlet and Ophelia. "Get thee to a nunnery etc." (King and Polonius may be watching).
 83(SHAKESPEARE, Hamlet, III, 2)|Hamlet and the players. "Speak the speech I pray you etc." The play within the play.
 83(SHAKESPEARE, Hamlet, III, 3)|Claudius praying-alone. Claudius praying-Hamlet watching. "Now might I do it pat."
 83(SHAKESPEARE, Hamlet, III, 4)|Gertrude's room. Polonius hides behind arras. Hamlet kills Polonius. Hamlet challenges his mother. "Look here upon this picture and on this." The ghost appears to Hamlet in his mother's room. Hamlet removes Polonius' body. “I'll lug the guts into the neighbour room."
-83(SHAKESPEARE, Hamlet, IV, 1)|----­
+83(SHAKESPEARE, Hamlet, IV, 1)|Gertrude reports Polonius’s death to Claudius, who sends Rosencrantz and Guildenstern to find Hamlet and recover the body.
 83(SHAKESPEARE, Hamlet, IV, 2)|Hamlet, Rosencrantz and Guildenstern.
 83(SHAKESPEARE, Hamlet, IV, 3)|Claudius sends Hamlet to England.
 83(SHAKESPEARE, Hamlet, IV, 4)|Fortinbras on the march, Hamlet may be watching.
 83(SHAKESPEARE, Hamlet, IV, 5)|Ophelia mad, and singing.
-83(SHAKESPEARE, Hamlet, IV, 6)|------
+83(SHAKESPEARE, Hamlet, IV, 6)|Horatio is given a letter from Hamlet telling of the prince’s boarding of a pirate ship and his subsequent return to Denmark.
 83(SHAKESPEARE, Hamlet, IV, 7)|Ophelia suicide by drowning.Gertrude tells of her death
 83(SHAKESPEARE, Hamlet, V, 1)|The Gravediggers. Hamlet and the Gravediggers. Hamlet alone holding the skull. "Alas poor Yorick, I knew him, Horatio." Funeral of Ophelia, Hamlet jumps into her grave
 83(SHAKESPEARE, Hamlet, V, 2)|Hamlet and Osric. "Dost know this waterfly." The duel sequence: Hamlet and Laertes fight, Hamlet kills Claudius, Gertrude takes the poison, death of Laertes, death of Hamlet Fortinbras bears off Hamlet's body.
 83(SHAKESPEARE, Henry IV Pt.1, I, 1)|King Henry is bought news of defeat in wales and victory in Scotland by Westmoreland and Blunt. 
 83(SHAKESPEARE, Henry IV Pt.1, I, 2)|Prince Hal and Falstaff-Poins enters and persuades Prince Hal to Play a trick on Falstaff and company.
 83(SHAKESPEARE, Henry IV Pt.1, I, 3)|King dismisses Worcester. Hotspur and prisoners and Mortimer's treachery. WorcesNorthumberland plot against the King the ter, King Hotspur discuss and
-83(SHAKESPEARE, Henry IV Pt.1, I, 4)|-----
-83(SHAKESPEARE, Henry IV Pt.1, I, 5)|-----
-83(SHAKESPEARE, Henry IV Pt.1, I, 6)|-----
 83(SHAKESPEARE, Henry IV Pt.1, II, 1)|Inn-yard. Parley between Carriers, Ostler, Chamberlain and Gadshill.
 83(SHAKESPEARE, Henry IV Pt.1, II, 2)|Falstaff, Prince Hal and Poins. Gadshill, Bardolph, Peto and Falstaff rob some travellers. Prince Hal and Poins then rob the robbers.
 83(SHAKESPEARE, Henry IV Pt.1, II, 3)|Hotspur with Lady Percy.
 83(SHAKESPEARE, Henry IV Pt.1, II, 4)|Prince Hal and Poins tease Francis. Falstaff, Bardolph, Gadshill and Peto join them. Hostess announces a man from the court. Falstaff sends him away and brings news of a rebellion. He and Prince Hal take turns at impersonating Prince Henry. The Sheriff arrives. Falstaff hides. Prince Hal tells the Sheriff he shall answer to him. Peto ands Prince Hal find Falstaff sleeping behind the arras and steal his papers.
-83(SHAKESPEARE, Henry IV Pt.1, II, 5)|-----
 83(SHAKESPEARE, Henry IV Pt.1, III, 1)|Hotspur, Worcester, Mortimer and Glendower parley. They discuss dividing up the kingdom between them. Lady Mortimer and Lady Percy enter. Hotspur relaxes with his wife and they listen to Lady Mortimer singing.
 83(SHAKESPEARE, Henry IV Pt.1, III, 2)|King Henry chides Prince Hal for his lifestyle. Blunt brings news of Mortimer and Douglas.
 83(SHAKESPEARE, Henry IV Pt.1, III, 3)|Falstaff and Bardolph. Hostess and Falstaff argue about his pocket being picked. Prince Hal confesses to it. He tells Falstaff and Bardolph to be ready to follow him against Hotspur.
-83(SHAKESPEARE, Henry IV Pt.1, III, 4)|-----
 83(SHAKESPEARE, Henry IV Pt.1, IV, 1)|Hotspur, Worcester and Douglas. Messenger announces Northumberland's illness. Vernon announces that Westmoreland and Prince John are approaching, also King Henry, Prince Hal and his cronies.
 83(SHAKESPEARE, Henry IV Pt.1, IV, 2)|Falstaff and Bardolph. Falstaff bewails his motley soldiers. Prince Hal and Westmoreland enter. They too comment on Falstaff's men.
 83(SHAKESPEARE, Henry IV Pt.1, IV, 3)|Hotspur, Douglas, Worcester and Vernon discuss··when to fight. Blunt enters with the possibility of pardon from King Henry. Hotspur sends him away while they consider this.
 83(SHAKESPEARE, Henry IV Pt.1, IV, 4)|Archbishop of York sends Sir Michael with letters to other conspiritors, as he fears Hotspur's defeat.
-83(SHAKESPEARE, Henry IV Pt.1, IV, 5)|-----
-83(SHAKESPEARE, Henry IV Pt.1, IV, 6)|-----
-83(SHAKESPEARE, Henry IV Pt.1, IV, 7)|-----
 83(SHAKESPEARE, Henry IV Pt.1, V, 1)|King, Prince Hal, Prince John, Blunt and Falstaff. Worcester and Vernon enter-they are sent by the King to try to make peace. Falstaff and Prince Hal are left, discussing the battle.
 83(SHAKESPEARE, Henry IV Pt.1, V, 2)|Worcester and Vernon do not tell Hotspur and Douglas of the King's peace offer. Douglas defies the King. Messenger enters to say the King is on his way. ­
 83(SHAKESPEARE, Henry IV Pt.1, V, 3)|Blunt and Douglas fight. Blunt is killed. Hotspur tells Dougals that he has mistaken Blunt for the King. Falstaf.f enters followed by Prince Hal, who borrows Falstaff's pistol, only to find it is a bottle of sack.
@@ -260,14 +252,14 @@
 83(SHAKESPEARE, Henry VI, Pt.1, III, 1)|King, Exeter, Gloucester, Warwick, Somerset, Suffolk, Bishop of Winchester, Plantagenet. Gloucester and Winchester quarrel and their retainers stone each other. King and Warwick make a temporary truce. King makes Plantagenet Duke of York and leaves to be crowned in France.
 83(SHAKESPEARE, Henry VI, Pt.1, III, 2)|Joan. Soldiers enter Rauen in disguise. She lights a torch as a signal. Dauphin, Alencon, Bastard and Regnier enter Rouen. The sick Bedford, Talbot and Burgundy parley with them. Sir John Fastolfe enters escaping from the fray. Bedford dies seeing the French defeated again. Talbot and Burgundy congratulate each other and prepare to join the King in Paris.
 83(SHAKESPEARE, Henry VI, Pt.1, III, 3)|Dauphin, Bastard, Alencon, Joan plot to retake Rauen. They persuade Burgundy to change sides and join them.
-83(SHAKESPEARE, Henry VI, Pt.1, III, 4)|
+83(SHAKESPEARE, Henry VI, Pt.1, III, 4)|In Paris, a grateful Henry VI creates Talbot Earl of Shrewsbury in recompense for his victories in France. Vernon, a supporter of York, quarrels with Basset, a supporter of Somerset.
 83(SHAKESPEARE, Henry VI, Pt.1, IV, 1)|King, Gloucester, Winchester, York, Suf_folk, Somerset, Warwick, Talbot, Exeter, Governer of Paris and others. King is crowned. Fastolfe enters with news of Burgundy's capitulation. Talbot removes the order of the garter from Fastolfe and the King banishes him. King reads Burgundy's letter and orders Talbot to march against Burgundy. Somerset and York bring their quarrel before the King, who tries to reconcile them and puts on a red rose.
 83(SHAKESPEARE, Henry VI, Pt.1, IV, 2)|Talbot before Bordeaux. French general tells him he is surrounded. Talbot vows to fight to the death.
 83(SHAKESPEARE, Henry VI, Pt.1, IV, 3)|York and Lucy discuss Talbot's imminent defeat and Somerset's treachery.
 83(SHAKESPEARE, Henry VI, Pt.1, IV, 4)|Somerset is berated by Lucy for not going to Talbot's aid in time.
 83(SHAKESPEARE, Henry VI, Pt.1, IV, 5)|Talbot tries to persuade his son to fly. He refuses and they vow to die side by side.
 83(SHAKESPEARE, Henry VI, Pt.1, IV, 6)|Talbot rescues John from the fray. Talbot dies clasping his son's body. Dauphin, Alencon, Burgundy, Bastard, Joan find them. Lucy demands news of the battle and is given permission to take Talbot and John Talbot's bodies for burial.
-83(SHAKESPEARE, Henry VI, Pt.1, IV, 7)|
+83(SHAKESPEARE, Henry VI, Pt.1, IV, 7)|Talbot, holding his dead son, dies. Sir William Lucy comes to claim their bodies from the victorious French.
 83(SHAKESPEARE, Henry VI, Pt.1, V, 1)|King and Gloucester discuss peace with France. Winchester, now Cardinal Beaufort, enters with Exeter, Papal Legate and Ambassadors.
 83(SHAKESPEARE, Henry VI, Pt.1, V, 2)|Dauphin, Joan, Burgundy, Alencon, Bastard, Regnier prepare to fight the English.
 83(SHAKESPEARE, Henry VI, Pt.1, V, 3)|Joan communes with fiends. French and English fight. Joan is captured by York. Suffolk captures Margaret and Regnier agrees she shall marry King Henry in exchange for Maine and Anjou.
@@ -352,10 +344,10 @@
 83(SHAKESPEARE, Julius Caesar, III, 2)|Brutus explains to the populace the reasons for killing Caesar. The people cheer Brutus while Anthony and others bring in caesar's body. Anthony speaks of Caesar. "Friends, Romans, Countrymen....." Anthony reads Caesar's will to the crowd.
 83(SHAKESPEARE, Julius Caesar, III, 3)|Cinna talks to the citizens.
 83(SHAKESPEARE, Julius Caesar, IV, 1)|Anthony, Octavius and Lepidus conspire to avenge Caesar's death.
-83(SHAKESPEARE, Julius Caesar, IV, 2)|
-83(SHAKESPEARE, Julius Caesar, IV, 3)|Brutus hears of Portia's death. Cassius hears of Cicero's death._ The ghost of Caesar appears to Brutus.
-83(SHAKESPEARE, Julius Caesar, V, 1)|
-83(SHAKESPEARE, Julius Caesar, V, 2)|
+83(SHAKESPEARE, Julius Caesar, IV, 2)|Brutus and Cassius each feel wronged by the other. They prepare to withdraw from the view of their armies to resolve their dispute privately in Brutus’s tent.
+83(SHAKESPEARE, Julius Caesar, IV, 3)|Brutus hears of Portia's death. Cassius hears of Cicero's death. The ghost of Caesar appears to Brutus.
+83(SHAKESPEARE, Julius Caesar, V, 1)|The opposing armies confront each other at Philippi. Before the battle, Brutus and Cassius exchange insults with Antony and Octavius. Cassius is troubled by an omen of defeat, and he and Brutus say farewell in case they die as a result of the upcoming battle.
+83(SHAKESPEARE, Julius Caesar, V, 2)|Brutus sends Messala to throw all Brutus’s legions into the battle.
 83(SHAKESPEARE, Julius Caesar, V, 3)|Titinius kills himself.
 83(SHAKESPEARE, Julius Caesar, V, 4)|Cato dies on the battlefield.
 83(SHAKESPEARE, Julius Caesar, V, 5)|Brutus kills himself.
@@ -382,21 +374,24 @@
 83(SHAKESPEARE, King Lear, I, 5)|Lear Kent & Fool
 83(SHAKESPEARE, King Lear, II, 1)|Edmund furthers the plot against Edgar, who becomes a fugitive from Gloucester's fury.
 83(SHAKESPEARE, King Lear, II, 2)|Kent is put in the stocks by Cornwall and Regan.
-83(SHAKESPEARE, King Lear, II, 3)|----­
+83(SHAKESPEARE, King Lear, II, 3)|Edgar disguises himself as a madman-beggar to escape his death sentence. (Although Kent remains onstage, a new scene begins because the locale shifts away from Gloucester’s castle, from which Edgar has fled.)
 83(SHAKESPEARE, King Lear, II 4)|Lear finds Kent in the stocks. Goneril and Regan unite against Lear.
-83(SHAKESPEARE, King Lear, III, 2)|Lear and the Fool oucasts in the storm.
-83(SHAKESPEARE, King Lear, III, 3)|----­
-83(SHAKESPEARE, King Lear, III, 5)|----­
+83(SHAKESPEARE, King Lear, III, 1)|Kent, searching for Lear, meets a Gentleman and learns that Lear and the Fool are alone in the storm. Kent tells the Gentleman that French forces are on their way to England.
+83(SHAKESPEARE, King Lear, III, 2)|Lear and the Fool outcasts in the storm.
+83(SHAKESPEARE, King Lear, III, 3)|Gloucester tells Edmund that he has decided to go to Lear’s aid; he also tells him about an incriminating letter he has received about the French invasion. After Gloucester leaves to find Lear, Edmund announces his plan to betray his father to Cornwall.
+83(SHAKESPEARE, King Lear, III, 4)|Lear, Kent, and the Fool reach the hovel, where they find Edgar disguised as Poor Tom, a madman-beggar. When Gloucester finds them, he leads them to the shelter of a house.
+83(SHAKESPEARE, King Lear, III, 5)|Edmund tells Cornwall about Gloucester’s decision to help Lear and about the incriminating letter from France; in return, Cornwall makes Edmund earl of Gloucester.
 83(SHAKESPEARE, King Lear, III, 6)|Lear, his wits gone, holds a mock trial before Kent, the Fool and Edgar.
 83(SHAKESPEARE, King Lear, III, 7)|Cornwall and Regan capture Glouce_ster and blind him.
 83(SHAKESPEARE, King Lear, IV, 1)|Edgar meets the blind Gloucester.
-83(SHAKESPEARE, King Lear, IV, 2)|----­
-83(SHAKESPEARE, King Lear, IV, 3)|----­
-83(SHAKESPEARE, King Lear, IV, 5)|----­
+83(SHAKESPEARE, King Lear, IV, 2)|Goneril and Edmund arrive at Albany and Goneril’s castle. After Goneril has sent Edmund back to Cornwall, Albany enters and fiercely rebukes Goneril for her treatment of Lear. A messenger reports Gloucester’s blinding and the death of the duke of Cornwall.
+83(SHAKESPEARE, King Lear, IV, 3)|In the French camp Kent and a Gentleman discuss Cordelia’s love of Lear, which has brought her back to Britain at the head of the French army; they say that Lear is in the town of Dover, and that, though he is sometimes sane, his shame at his earlier action makes him refuse to see Cordelia.
+83(SHAKESPEARE, King Lear, IV, 4)|In the French camp Cordelia orders out a search party for Lear.
+83(SHAKESPEARE, King Lear, IV, 5)|Regan questions Oswald about Goneril and Edmund, states her intention to marry Edmund, and asks Oswald to dissuade Goneril from pursuing Edmund.
 83(SHAKESPEARE, King Lear, IV, 6)|Gloucester and Edgar on the clifftop; the weed bedecked Lear appears. Edgar intercepts a letter from Goneril to Edmund.
 83(SHAKESPEARE, King Lear, IV, 7)|Lear and Cordelia reconciled.
-83(SHAKESPEARE, King Lear, V, 1)|----­
-83(SHAKESPEARE, King Lear, V, 2)|----­
+83(SHAKESPEARE, King Lear, V, 1)|Albany joins his forces with Regan’s (led by Edmund) to oppose the French invasion. Edgar, still in disguise, approaches Albany with the letter plotting Albany’s death, and promises to produce a champion to maintain the authenticity of the letter in a trial by combat. Edmund then enters and, when alone, reflects upon his possible marriage to either Goneril or Regan and upon his intention to have Cordelia and Lear killed if the British forces are victorious.
+83(SHAKESPEARE, King Lear, V, 2)|Cordelia’s French army is defeated.
 83(SHAKESPEARE, King Lear, V, 3)|Lear and Cordelia are Edmund's prisoners. Goneril and Regan vie for his favour. Albany challenges him. Edgar takes it up. Edmund wounded; Goneril and Regan dead; Cordelia dead; Edmund dead; Lear dead.
 83(SHAKESPEARE, Love's Labour's Lost, I, 1)|----­
 83(SHAKESPEARE, Love's Labour's Lost, I, 2)|Armada, Moth and Jaquenetta
