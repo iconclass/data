@@ -7125,6 +7125,7 @@
 83(MACPHERSON, Poems of Ossian)|(scenes from) specific works of literature: Macpherson, Poems of Ossian
 83(MANZONI, Promessi Sposi)|(scenes from) specific works of literature: Manzoni, Promessi Sposi
 83(MELVILLE, Moby Dick)|(scenes from) specific works of literature: Melville, Moby Dick
+83(OVID, Metamorphoses)|(scenes from) specific works of literature: Ovid, Metamorphoses
 83(PETRARCA, Trionfi)|(scenes from) specific works of literature: Petrarca, Trionfi
 83(POPE, Rape of the lock)|(scenes from) specific works of literature: Pope, Rape of the lock
 83(SCARRON, Roman Comique)|(scenes from) specific works of literature: Scarron, Roman Comique
