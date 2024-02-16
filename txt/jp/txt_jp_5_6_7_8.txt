@@ -7125,13 +7125,48 @@
 83(MACPHERSON, Poems of Ossian)|特定の文学作品 (からの場面): マクファーソン, オシアン詩集
 83(MANZONI, Promessi Sposi)|特定の文学作品 (からの場面): マンゾーニ, いいなづけ
 83(MELVILLE, Moby Dick)|特定の文学作品 (からの場面): メルヴィル, 白鯨
+83(OVID, Metamorphoses)|特定の文学作品 (からの場面): オウィディウス、変身物語
 83(PETRARCA, Trionfi)|特定の文学作品 (からの場面): ペトラルカ, 凱旋
 83(POPE, Rape of the lock)|特定の文学作品 (からの場面): ポープ, 髪盗人
 83(SCARRON, Roman Comique)|特定の文学作品 (からの場面): スカロン, ロマン・コミック
 83(SCHILLER, Mädchen aus der Fremde)|特定の文学作品 (からの場面): シラー, 異国から来た少女
-83(SHAKESPEARE, Cymbeline)|特定の文学作品 (からの場面): シェイクスピア, シンベリン
-83(SHAKESPEARE, Midsummernight's Dream)|特定の文学作品 (からの場面): シェイクスピア, 真夏の夜の夢
-83(SHAKESPEARE, Tempest)|特定の文学作品 (からの場面): シェイクスピア, テンペスト
+83(SHAKESPEARE, All's Well That Ends Well)|特定の文学作品 (からの場面): 終わりよければ全てよし
+83(SHAKESPEARE, Anthony and Cleopatra)|特定の文学作品 (からの場面): アントニーとクレオパトラ
+83(SHAKESPEARE, As You Like It)|特定の文学作品 (からの場面): お気に召すまま
+83(SHAKESPEARE, A Comedy of Errors)|特定の文学作品 (からの場面): 間違いの喜劇
+83(SHAKESPEARE, Coriolanus)|特定の文学作品 (からの場面): コリオレイナス
+83(SHAKESPEARE, Cymbeline)|特定の文学作品 (からの場面): シンベリン
+83(SHAKESPEARE, Hamlet)|特定の文学作品 (からの場面): ハムレット
+83(SHAKESPEARE, Henry IV, Part 1)|特定の文学作品 (からの場面): ヘンリー四世 第1部
+83(SHAKESPEARE, Henry IV, Part 2)|特定の文学作品 (からの場面): ヘンリー四世 第2部
+83(SHAKESPEARE, Henry V)|特定の文学作品 (からの場面): ヘンリー五世
+83(SHAKESPEARE, Henry VI, Part 1)|特定の文学作品 (からの場面): ヘンリー六世 第1部
+83(SHAKESPEARE, Henry VI, Part 2)|特定の文学作品 (からの場面): ヘンリー六世 第2部
+83(SHAKESPEARE, Henry VI, Part 3)|特定の文学作品 (からの場面): ヘンリー六世 第3部
+83(SHAKESPEARE, Henry VIII)|特定の文学作品 (からの場面): ヘンリー八世
+83(SHAKESPEARE, Julius Caesar)|特定の文学作品 (からの場面): ジュリアス・シーザー
+83(SHAKESPEARE, King John)|特定の文学作品 (からの場面): ジョン王
+83(SHAKESPEARE, King Lear)|特定の文学作品 (からの場面): リア王
+83(SHAKESPEARE, Love's Labour's Lost)|特定の文学作品 (からの場面): 恋の骨折り損
+83(SHAKESPEARE, Macbeth)|特定の文学作品 (からの場面): マクベス
+83(SHAKESPEARE, Measure for Measure)|特定の文学作品 (からの場面): 尺には尺を
+83(SHAKESPEARE, Midsummernight's Dream)|特定の文学作品 (からの場面): 夏の夜の夢
+83(SHAKESPEARE, Much Ado about Nothing)|特定の文学作品 (からの場面): 空騒ぎ
+83(SHAKESPEARE, Othello)|特定の文学作品 (からの場面): オセロー
+83(SHAKESPEARE, Pericles)|特定の文学作品 (からの場面): ペリクリーズ
+83(SHAKESPEARE, Richard II)|特定の文学作品 (からの場面): リチャード二世
+83(SHAKESPEARE, Richard III)|特定の文学作品 (からの場面): リチャード三世 
+83(SHAKESPEARE, Romeo and Juliet)|特定の文学作品 (からの場面): ロミオとジュリエット
+83(SHAKESPEARE, Tempest)|特定の文学作品 (からの場面): テンペスト
+83(SHAKESPEARE, The Merchant of Venice)|特定の文学作品 (からの場面): ヴェニスの商人
+83(SHAKESPEARE, The Merry Wives of Windsor)|特定の文学作品 (からの場面): ウィンザーの陽気な女房たち
+83(SHAKESPEARE, The Taming of the Shrew)|特定の文学作品 (からの場面): じゃじゃ馬ならし
+83(SHAKESPEARE, The Winter's Tale)|特定の文学作品 (からの場面): 冬物語
+83(SHAKESPEARE, Timon of Athens)|特定の文学作品 (からの場面): アテネのタイモン
+83(SHAKESPEARE, Titus Andronicus)|特定の文学作品 (からの場面): タイタス・アンドロニカス
+83(SHAKESPEARE, Troilus and Cressida)|特定の文学作品 (からの場面): トロイラスとクレシダ
+83(SHAKESPEARE, Twelfth Night)|特定の文学作品 (からの場面): 十二夜
+83(SHAKESPEARE, Two Gentlemen of Verona)|特定の文学作品 (からの場面): ヴェローナの二紳士
 83(SWIFT, Gulliver's Travels)|特定の文学作品 (からの場面): スウィフト, ガリバー旅行記
 83(TASSO, Aminta)|特定の文学作品 (からの場面): タッソ, アミンタ
 83(TASSO, Gerusalemme Liberata)|特定の文学作品 (からの場面): タッソ, 解放されたエルサレム
