@@ -7136,7 +7136,6 @@
 83(SHAKESPEARE, A Comedy of Errors)|(scenes from) specific works of literature: Shakespeare, A Comedy of Errors
 83(SHAKESPEARE, Coriolanus)|(scenes from) specific works of literature: Shakespeare, Coriolanus
 83(SHAKESPEARE, Cymbeline)|(scenes from) specific works of literature: Shakespeare, Cymbeline
-83(SHAKESPEARE, Midsummernight's Dream)|(scenes from) specific works of literature: Shakespeare, Midsummernight's Dream
 83(SHAKESPEARE, Hamlet)|(scenes from) specific works of literature: Shakespeare, Hamlet
 83(SHAKESPEARE, Henry IV, Part 1)|(scenes from) specific works of literature: Shakespeare, Henry IV, Part 1
 83(SHAKESPEARE, Henry IV, Part 2)|(scenes from) specific works of literature: Shakespeare, Henry IV, Part 2
@@ -7151,6 +7150,7 @@
 83(SHAKESPEARE, Love's Labour's Lost)|(scenes from) specific works of literature: Shakespeare, Love's Labour's Lost
 83(SHAKESPEARE, Macbeth)|(scenes from) specific works of literature: Shakespeare, Macbeth
 83(SHAKESPEARE, Measure for Measure)|(scenes from) specific works of literature: Shakespeare, Measure for Measure
+83(SHAKESPEARE, Midsummernight's Dream)|(scenes from) specific works of literature: Shakespeare, Midsummernight's Dream
 83(SHAKESPEARE, Much Ado about Nothing)|(scenes from) specific works of literature: Shakespeare, Much Ado about Nothing
 83(SHAKESPEARE, Othello)|(scenes from) specific works of literature: Shakespeare, Othello
 83(SHAKESPEARE, Pericles)|(scenes from) specific works of literature: Shakespeare, Pericles

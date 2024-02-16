@@ -7126,13 +7126,49 @@
 83(MACPHERSON, Poems of Ossian)|Szene aus: Macpherson, Dichtungen Ossians
 83(MANZONI, Promessi Sposi)|Szene aus: Manzoni, Promessi Sposi
 83(MELVILLE, Moby Dick)|Szene aus: Melville, Moby Dick
+83(OVID, Metamorphoses)|Szene aus: Ovid, Metamorphoses
 83(PETRARCA, Trionfi)|Szene aus: Petrarca, Trionfi
 83(POPE, Rape of the lock)|Szene aus: Pope, Rape of the lock
 83(SCARRON, Roman Comique)|Szene aus: Scarron, Roman Comique
 83(SCHILLER, Mädchen aus der Fremde)|Szene aus: Schiller, Das Mädchen aus der Fremde
+83(SHAKESPEARE, All's Well That Ends Well)|Szene aus: Shakespeare, Ende gut, alles gut
+83(SHAKESPEARE, Anthony and Cleopatra)|Szene aus: Shakespeare, Antonius und Cleopatra
+83(SHAKESPEARE, As You Like It)|Szene aus: Shakespeare, Wie es euch gefällt
+83(SHAKESPEARE, A Comedy of Errors)|Szene aus: Shakespeare, Die Komödie der Irrungen
+83(SHAKESPEARE, Coriolanus)|Szene aus: Shakespeare, Coriolanus
 83(SHAKESPEARE, Cymbeline)|Szene aus: Shakespeare, Cymbeline
-83(SHAKESPEARE, Midsummernight's Dream)|Szene aus: Shakespeare, Sommernachtstraum
+83(SHAKESPEARE, Midsummernight's Dream)|Szene aus: Ein Sommernachtstraum
+83(SHAKESPEARE, Hamlet)|Szene aus: Shakespeare, Hamlet. Prinz von Dänemark
+83(SHAKESPEARE, Henry IV, Part 1)|Szene aus: Shakespeare, König Heinrich IV. Erster Teil
+83(SHAKESPEARE, Henry IV, Part 2)|Szene aus: Shakespeare, König Heinrich IV. Zweiter Teil
+83(SHAKESPEARE, Henry V)|Szene aus: Shakespeare, König Heinrich V.
+83(SHAKESPEARE, Henry VI, Part 1)|Szene aus: Shakespeare, König Heinrich VI. Erster Teil
+83(SHAKESPEARE, Henry VI, Part 2)|Szene aus: Shakespeare, König Heinrich VI. Zweiter Teil
+83(SHAKESPEARE, Henry VI, Part 3)|Szene aus: Shakespeare, König Heinrich VI. Dritter Teil
+83(SHAKESPEARE, Henry VIII)|Szene aus: Shakespeare, König Heinrich VIII.
+83(SHAKESPEARE, Julius Caesar)|Szene aus: Shakespeare, Julius Cäsar
+83(SHAKESPEARE, King John)|Szene aus: Shakespeare, König Johann
+83(SHAKESPEARE, King Lear)|Szene aus: Shakespeare, König Lear
+83(SHAKESPEARE, Love's Labour's Lost)|Szene aus: Shakespeare, Liebes Leid und Lust
+83(SHAKESPEARE, Macbeth)|Szene aus: Shakespeare, Macbeth
+83(SHAKESPEARE, Measure for Measure)|Szene aus: Shakespeare, Maß für Maß
+83(SHAKESPEARE, Midsummernight's Dream)|(scenes from) specific works of literature: Shakespeare, Ein Sommernachtstraum
+83(SHAKESPEARE, Much Ado about Nothing)|Szene aus: Shakespeare, Viel Lärmen um nichts
+83(SHAKESPEARE, Othello)|Szene aus: Shakespeare, Othello
+83(SHAKESPEARE, Pericles)|Szene aus: Shakespeare, Perikles. Fürst von Tyrus
+83(SHAKESPEARE, Richard II)|Szene aus: Shakespeare, König Richard II.
+83(SHAKESPEARE, Richard III)|Szene aus: Shakespeare, König Richard III.
+83(SHAKESPEARE, Romeo and Juliet)|Szene aus: Shakespeare, Romeo und Julia
 83(SHAKESPEARE, Tempest)|Szene aus: Shakespeare, Der Sturm
+83(SHAKESPEARE, The Merchant of Venice)|Szene aus: Shakespeare, Der Kaufmann von Venedig
+83(SHAKESPEARE, The Merry Wives of Windsor)|Szene aus: Shakespeare, Die lustigen Weiber von Windsor
+83(SHAKESPEARE, The Taming of the Shrew)|Szene aus: Shakespeare, Der Widerspenstigen Zähmung
+83(SHAKESPEARE, The Winter's Tale)|Szene aus: Shakespeare, Das Wintermärchen
+83(SHAKESPEARE, Timon of Athens)|Szene aus: Shakespeare, Timon von Athen
+83(SHAKESPEARE, Titus Andronicus)|Szene aus: Shakespeare, Titus Andronicus
+83(SHAKESPEARE, Troilus and Cressida)|Szene aus: Shakespeare, Troilus und Cressida
+83(SHAKESPEARE, Twelfth Night)|Szene aus: Shakespeare, Was ihr wollt
+83(SHAKESPEARE, Two Gentlemen of Verona)|Szene aus: Shakespeare, Die beiden Veroneser
 83(SWIFT, Gulliver's Travels)|Szene aus: Swift, Gullivers Reisen
 83(TASSO, Aminta)|Szene aus: Tasso, Aminta
 83(TASSO, Gerusalemme Liberata)|Szene aus: Tasso, Gerusalemme Liberata

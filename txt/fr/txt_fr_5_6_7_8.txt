@@ -1,4 +1,4 @@
-5|Idées et Concepts Abstraits
+|Idées et Concepts Abstraits
 51|Généralités
 51A|Existence et Modes d'Existence
 51A1|Existence
@@ -7125,6 +7125,7 @@
 83(MACPHERSON, Poems of Ossian)|scène de : Macpherson, Poèmes d'Ossian
 83(MANZONI, Promessi Sposi)|scène de : Manzoni, Les Fiancés
 83(MELVILLE, Moby Dick)|scène de : Melville, Moby Dick
+83(OVID, Metamorphoses)|scène de : Ovide, Métamorphoses
 83(PETRARCA, Trionfi)|scène de : Pétrarque, Les Triomphes
 83(POPE, Rape of the lock)|scène de : Pope, La Boucle dérobée
 83(SCARRON, Roman Comique)|scène de : Scarron, Roman Comique
