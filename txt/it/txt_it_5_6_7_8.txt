@@ -7126,13 +7126,48 @@
 83(MACPHERSON, Poems of Ossian)|scene da: Macpherson, Canti di Ossian
 83(MANZONI, Promessi Sposi)|scene da: Manzoni, Promessi Sposi
 83(MELVILLE, Moby Dick)|scene da: Melville, Moby Dick
+83(OVID, Metamorphoses)|scene da: Ovidio, Metamorfosi
 83(PETRARCA, Trionfi)|scene da: Petrarca, Trionfi
 83(POPE, Rape of the lock)|scene da: Pope, Ricciolo rapito
 83(SCARRON, Roman Comique)|scene da: Scarron, Romanzo comico
 83(SCHILLER, Mädchen aus der Fremde)|scene da: Schiller, Mädchen aus der Fremde
-83(SHAKESPEARE, Cymbeline)|scene da: Shakespeare, Cimbelino
+83(SHAKESPEARE, All's Well That Ends Well)|scene da: Shakespeare, Tutto è bene quel che finisce bene
+83(SHAKESPEARE, Anthony and Cleopatra)|scene da: Shakespeare, Antony e Cleopatra
+83(SHAKESPEARE, As You Like It)|scene da: Shakespeare, Come vi piace
+83(SHAKESPEARE, A Comedy of Errors)|scene da: Shakespeare, La commedia degli equivoci
+83(SHAKESPEARE, Coriolanus)|scene da: Shakespeare, Coriolanus
+83(SHAKESPEARE, Cymbeline)|scene da: Shakespeare, Cymbelline
+83(SHAKESPEARE, Hamlet)|scene da: Shakespeare, Amleto
+83(SHAKESPEARE, Henry IV, Part 1)|scene da: Shakespeare, Henry IV, prima parte
+83(SHAKESPEARE, Henry IV, Part 2)|scene da: Shakespeare, Henry IV, seconda parte
+83(SHAKESPEARE, Henry V)|scene da: Shakespeare, Henry V
+83(SHAKESPEARE, Henry VI, Part 1)|scene da: Shakespeare, Henry VI, prima parte
+83(SHAKESPEARE, Henry VI, Part 2)|scene da: Shakespeare, Henry VI, seconda parte
+83(SHAKESPEARE, Henry VI, Part 3)|scene da: Shakespeare, Henry VI, terza parte
+83(SHAKESPEARE, Henry VIII)|scene da: Shakespeare, Henry VIII
+83(SHAKESPEARE, Julius Caesar)|scene da: Shakespeare, Julius Caesar
+83(SHAKESPEARE, King John)|scene da: Shakespeare, ReJohn
+83(SHAKESPEARE, King Lear)|scene da: Shakespeare, Re Lear
+83(SHAKESPEARE, Love's Labour's Lost)|scene da: Shakespeare, Pene d’amore perdute
+83(SHAKESPEARE, Macbeth)|scene da: Shakespeare, Macbeth
+83(SHAKESPEARE, Measure for Measure)|scene da: Shakespeare, Misura per misura
 83(SHAKESPEARE, Midsummernight's Dream)|scene da: Shakespeare, Sogno di una notte di mezza estate
-83(SHAKESPEARE, Tempest)|scene da: Shakespeare, Tempesta
+83(SHAKESPEARE, Much Ado about Nothing)|scene da: Shakespeare, Molto rumore su nulla
+83(SHAKESPEARE, Othello)|scene da: Shakespeare, Otello
+83(SHAKESPEARE, Pericles)|scene da: Shakespeare, Pericles principe di Tiro
+83(SHAKESPEARE, Richard II)|scene da: Shakespeare, Richard II
+83(SHAKESPEARE, Richard III)|scene da: Shakespeare, Richard III
+83(SHAKESPEARE, Romeo and Juliet)|scene da: Shakespeare, Romeo e Giulietta
+83(SHAKESPEARE, Tempest)|scene da: Shakespeare, La tempesta
+83(SHAKESPEARE, The Merchant of Venice)|scene da: Shakespeare, Il mercante di Venezia
+83(SHAKESPEARE, The Merry Wives of Windsor)|scene da: Shakespeare, Le allegre comari di Windsor
+83(SHAKESPEARE, The Taming of the Shrew)|scene da: Shakespeare, La bisbetica domata
+83(SHAKESPEARE, The Winter's Tale)|scene da: Shakespeare, Il racconto d'inverno
+83(SHAKESPEARE, Timon of Athens)|scene da: Shakespeare, Timon d’Atene
+83(SHAKESPEARE, Titus Andronicus)|scene da: Shakespeare, Titus Andronicus
+83(SHAKESPEARE, Troilus and Cressida)|scene da: Shakespeare, Troilus e Cressida
+83(SHAKESPEARE, Twelfth Night)|scene da: Shakespeare, La dodicesima notte
+83(SHAKESPEARE, Two Gentlemen of Verona)|scene da: Shakespeare, I due gentiluomini di Verona
 83(SWIFT, Gulliver's Travels)|scene da: Swift, Viaggi di Gulliver
 83(TASSO, Aminta)|scene da: Tasso, Aminta
 83(TASSO, Gerusalemme Liberata)|scene da: Tasso, Gerusalemme Liberata
