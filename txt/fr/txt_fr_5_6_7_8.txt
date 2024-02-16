@@ -7130,9 +7130,43 @@
 83(POPE, Rape of the lock)|scène de : Pope, La Boucle dérobée
 83(SCARRON, Roman Comique)|scène de : Scarron, Roman Comique
 83(SCHILLER, Mädchen aus der Fremde)|scène de : Schiller, La Jeune Étrangère
-83(SHAKESPEARE, Cymbeline)|scène de : Shakespear, Cymbeline
-83(SHAKESPEARE, Midsummernight's Dream)|scène de : Shakespear, Le Songe d'une nuit d'été
-83(SHAKESPEARE, Tempest)|scène de : Shakespear, La Tempête
+83(SHAKESPEARE, All's Well That Ends Well)|scène de :  Shakespear, Tout est bien qui finit bien
+83(SHAKESPEARE, Anthony and Cleopatra)|scène de :  Shakespear, Antoine et Cléopâtre
+83(SHAKESPEARE, As You Like It)|scène de :  Shakespear, Comme il vous plaira
+83(SHAKESPEARE, A Comedy of Errors)|scène de :  Shakespear, La Comédie des erreurs
+83(SHAKESPEARE, Coriolanus)|scène de :  Shakespear, Coriolan
+83(SHAKESPEARE, Cymbeline)|scène de :  Shakespear, Cymbeline
+83(SHAKESPEARE, Hamlet)|scène de :  Shakespear, Hamlet
+83(SHAKESPEARE, Henry IV, Part 1)|scène de :  Shakespear, Henri IV, 1ère partie
+83(SHAKESPEARE, Henry IV, Part 2)|scène de :  Shakespear, Henri IV, 2ème partie
+83(SHAKESPEARE, Henry V)|scène de :  Shakespear, Henri V
+83(SHAKESPEARE, Henry VI, Part 1)|scène de :  Shakespear, Henri VI, 1ère partie
+83(SHAKESPEARE, Henry VI, Part 2)|scène de :  Shakespear, Henri VI, 2ème partie
+83(SHAKESPEARE, Henry VI, Part 3)|scène de :  Shakespear, Henri VI, 3ème partie
+83(SHAKESPEARE, Henry VIII)|scène de :  Shakespear, Henri VIII
+83(SHAKESPEARE, Julius Caesar)|scène de :  Shakespear, Jules César
+83(SHAKESPEARE, King John)|scène de :  Shakespear, Le Roi Jean
+83(SHAKESPEARE, King Lear)|scène de :  Shakespear, Le Roi Lear
+83(SHAKESPEARE, Love's Labour's Lost)|scène de :  Shakespear, Peines d'amour perdues
+83(SHAKESPEARE, Macbeth)|scène de :  Shakespear, Macbeth
+83(SHAKESPEARE, Measure for Measure)|scène de :  Shakespear, Mesure pour mesure
+83(SHAKESPEARE, Midsummernight's Dream)|scène de :  Shakespear, Le Songe d'une nuit d'été
+83(SHAKESPEARE, Much Ado about Nothing)|scène de :  Shakespear, Beaucoup de bruit pour rien
+83(SHAKESPEARE, Othello)|scène de :  Shakespear, Othello
+83(SHAKESPEARE, Pericles)|scène de :  Shakespear, Périclès, prince de Tyr
+83(SHAKESPEARE, Richard II)|scène de :  Shakespear, Richard II
+83(SHAKESPEARE, Richard III)|scène de :  Shakespear, Richard III
+83(SHAKESPEARE, Romeo and Juliet)|scène de :  Shakespear, Roméo et Juliette
+83(SHAKESPEARE, Tempest)|scène de :  Shakespear, La Tempête
+83(SHAKESPEARE, The Merchant of Venice)|scène de :  Shakespear, Le Marchand de Venise
+83(SHAKESPEARE, The Merry Wives of Windsor)|scène de :  Shakespear, Les Joyeuses Commères de Windsor
+83(SHAKESPEARE, The Taming of the Shrew)|scène de :  Shakespear, La Mégère apprivoisée
+83(SHAKESPEARE, The Winter's Tale)|scène de :  Shakespear, Le Conte d'hiver
+83(SHAKESPEARE, Timon of Athens)|scène de :  Shakespear, Timon d'Athènes
+83(SHAKESPEARE, Titus Andronicus)|scène de :  Shakespear, Titus Andronicus
+83(SHAKESPEARE, Troilus and Cressida)|scène de :  Shakespear, Troïlus et Cressida
+83(SHAKESPEARE, Twelfth Night)|scène de :  Shakespear, La Nuit des rois
+83(SHAKESPEARE, Two Gentlemen of Verona)|scène de :  Shakespear, Les Deux Gentilshommes de Vérone
 83(SWIFT, Gulliver's Travels)|scène de : Swift, Les Voyages de Gulliver
 83(TASSO, Aminta)|scène de : Le Tasse, L'Aminta
 83(TASSO, Gerusalemme Liberata)|scène de : Le Tasse, La Jérusalem délivrée
