@@ -129819,9 +129819,43 @@ C 83(ANON., Busant)
 ; 83(POPE, Rape of the lock)
 ; 83(SCARRON, Roman Comique)
 ; 83(SCHILLER, Mädchen aus der Fremde)
+; 83(SHAKESPEARE, All's Well That Ends Well)
+; 83(SHAKESPEARE, Anthony and Cleopatra)
+; 83(SHAKESPEARE, As You Like It)
+; 83(SHAKESPEARE, A Comedy of Errors)
+; 83(SHAKESPEARE, Coriolanus)
 ; 83(SHAKESPEARE, Cymbeline)
 ; 83(SHAKESPEARE, Midsummernight's Dream)
+; 83(SHAKESPEARE, Hamlet)
+; 83(SHAKESPEARE, Henry IV, Part 1)
+; 83(SHAKESPEARE, Henry IV, Part 2)
+; 83(SHAKESPEARE, Henry V)
+; 83(SHAKESPEARE, Henry VI, Part 1)
+; 83(SHAKESPEARE, Henry VI, Part 2)
+; 83(SHAKESPEARE, Henry VI, Part 3)
+; 83(SHAKESPEARE, Henry VIII)
+; 83(SHAKESPEARE, Julius Caesar)
+; 83(SHAKESPEARE, King John)
+; 83(SHAKESPEARE, King Lear)
+; 83(SHAKESPEARE, Love's Labour's Lost)
+; 83(SHAKESPEARE, Macbeth)
+; 83(SHAKESPEARE, Measure for Measure)
+; 83(SHAKESPEARE, Much Ado about Nothing)
+; 83(SHAKESPEARE, Othello)
+; 83(SHAKESPEARE, Pericles)
+; 83(SHAKESPEARE, Richard II)
+; 83(SHAKESPEARE, Richard III)
+; 83(SHAKESPEARE, Romeo and Juliet)
 ; 83(SHAKESPEARE, Tempest)
+; 83(SHAKESPEARE, The Merchant of Venice)
+; 83(SHAKESPEARE, The Merry Wives of Windsor)
+; 83(SHAKESPEARE, The Taming of the Shrew)
+; 83(SHAKESPEARE, The Winter's Tale)
+; 83(SHAKESPEARE, Timon of Athens)
+; 83(SHAKESPEARE, Titus Andronicus)
+; 83(SHAKESPEARE, Troilus and Cressida)
+; 83(SHAKESPEARE, Twelfth Night)
+; 83(SHAKESPEARE, Two Gentlemen of Verona)
 ; 83(SWIFT, Gulliver's Travels)
 ; 83(TASSO, Aminta)
 ; 83(TASSO, Gerusalemme Liberata)
@@ -129945,14 +129979,6 @@ K 8k
 $
 N 83(OVID, Metamorphoses)
 K 8k
-C 83(OVID, Metamorphoses I)
-$
-N 83(OVID, Metamorphoses I)
-K 8k
-C 83(OVID, Metamorphoses I:1-20)
-$
-N 83(OVID, Metamorphoses I:1-20)
-K 8k
 $
 N 83(PETRARCA, Trionfi)
 K 8k
@@ -129965,13 +129991,115 @@ K 8k
 $
 N 83(SCHILLER, Mädchen aus der Fremde)
 $
+N 83(SHAKESPEARE, All's Well That Ends Well)
+K 8k
+$
+N 83(SHAKESPEARE, Anthony and Cleopatra)
+K 8k
+$
+N 83(SHAKESPEARE, As You Like It)
+K 8k
+$
+N 83(SHAKESPEARE, A Comedy of Errors)
+K 8k
+$
+N 83(SHAKESPEARE, Coriolanus)
+K 8k
+$
 N 83(SHAKESPEARE, Cymbeline)
 K 8k
 $
 N 83(SHAKESPEARE, Midsummernight's Dream)
 K 8k
 $
+N 83(SHAKESPEARE, Hamlet)
+K 8k
+$
+N 83(SHAKESPEARE, Henry IV, Part 1)
+K 8k
+$
+N 83(SHAKESPEARE, Henry IV, Part 2)
+K 8k
+$
+N 83(SHAKESPEARE, Henry V)
+K 8k
+$
+N 83(SHAKESPEARE, Henry VI, Part 1)
+K 8k
+$
+N 83(SHAKESPEARE, Henry VI, Part 2)
+K 8k
+$
+N 83(SHAKESPEARE, Henry VI, Part 3)
+K 8k
+$
+N 83(SHAKESPEARE, Henry VIII)
+K 8k
+$
+N 83(SHAKESPEARE, Julius Caesar)
+K 8k
+$
+N 83(SHAKESPEARE, King John)
+K 8k
+$
+N 83(SHAKESPEARE, King Lear)
+K 8k
+$
+N 83(SHAKESPEARE, Love's Labour's Lost)
+K 8k
+$
+N 83(SHAKESPEARE, Macbeth)
+K 8k
+$
+N 83(SHAKESPEARE, Measure for Measure)
+K 8k
+$
+N 83(SHAKESPEARE, Much Ado about Nothing)
+K 8k
+$
+N 83(SHAKESPEARE, Othello)
+K 8k
+$
+N 83(SHAKESPEARE, Pericles)
+K 8k
+$
+N 83(SHAKESPEARE, Richard II)
+K 8k
+$
+N 83(SHAKESPEARE, Richard III)
+K 8k
+$
+N 83(SHAKESPEARE, Romeo and Juliet)
+K 8k
+$
 N 83(SHAKESPEARE, Tempest)
+K 8k
+$
+N 83(SHAKESPEARE, The Merchant of Venice)
+K 8k
+$
+N 83(SHAKESPEARE, The Merry Wives of Windsor)
+K 8k
+$
+N 83(SHAKESPEARE, The Taming of the Shrew)
+K 8k
+$
+N 83(SHAKESPEARE, The Winter's Tale)
+K 8k
+$
+N 83(SHAKESPEARE, Timon of Athens)
+K 8k
+$
+N 83(SHAKESPEARE, Titus Andronicus)
+K 8k
+$
+N 83(SHAKESPEARE, Troilus and Cressida)
+K 8k
+$
+N 83(SHAKESPEARE, Twelfth Night)
+K 8k
+$
+N 83(SHAKESPEARE, Two Gentlemen of Verona)
 K 8k
 $
 N 83(SWIFT, Gulliver's Travels)

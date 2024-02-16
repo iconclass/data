@@ -1,3 +1,41 @@
+83(SHAKESPEARE, All's Well That Ends Well)
+83(SHAKESPEARE, Anthony and Cleopatra)
+83(SHAKESPEARE, As You Like It)
+83(SHAKESPEARE, A Comedy of Errors)
+83(SHAKESPEARE, Coriolanus)
+83(SHAKESPEARE, Cymbeline)
+83(SHAKESPEARE, Hamlet)
+83(SHAKESPEARE, Henry IV Part 1)
+83(SHAKESPEARE, Henry IV Part 2)
+83(SHAKESPEARE, Henry V)
+83(SHAKESPEARE, Henry VI, Part 1)
+83(SHAKESPEARE, Henry VI, Part 2)
+83(SHAKESPEARE, Henry VI, Part 3)
+83(SHAKESPEARE, Henry VIII)
+83(SHAKESPEARE, Julius Caesar)
+83(SHAKESPEARE, King John)
+83(SHAKESPEARE, King Lear)
+83(SHAKESPEARE, Love's Labour's Lost)
+83(SHAKESPEARE, Macbeth)
+83(SHAKESPEARE, Measure for Measure)
+83(SHAKESPEARE, Midsummernight's Dream)
+83(SHAKESPEARE, Much Ado about Nothing)
+83(SHAKESPEARE, Othello)
+83(SHAKESPEARE, Pericles)
+83(SHAKESPEARE, Richard II)
+83(SHAKESPEARE, Richard III)
+83(SHAKESPEARE, Romeo and Juliet)
+83(SHAKESPEARE, The Merchant of Venice)
+83(SHAKESPEARE, The Merry Wives of Windsor)
+83(SHAKESPEARE, The Taming of the Shrew)
+83(SHAKESPEARE, The Tempest)
+83(SHAKESPEARE, The Winter's Tale)
+83(SHAKESPEARE, Timon of Athens)
+83(SHAKESPEARE, Titus Andronicus)
+83(SHAKESPEARE, Troilus and Cressida)
+83(SHAKESPEARE, Twelfth Night)
+83(SHAKESPEARE, Two Gentlemen of Verona)
+
 83(SHAKESPEARE, All's Well That Ends Well, Act 1, scene 1)|Bertram, the Countess of Rousillon and Helena talk about the King of France's illness. Helena is secretly in love with Bertram.
 83(SHAKESPEARE, All's Well That Ends Well, Act 1, scene 2)|The King of France welcomes Bertram and Parolles to his palace.
 83(SHAKESPEARE, All's Well That Ends Well, Act 1, scene 3)|Clown sings "Was this fair face the cause etc." Helena plans to go to Paris to try to heal the King and to follow Bertram.
@@ -21,15 +59,6 @@
 83(SHAKESPEARE, All's Well That Ends Well, Act 5, scene 1)|Helena gives a letter to a gentleman, to deliver to the King of France.
 83(SHAKESPEARE, All's Well That Ends Well, Act 5, scene 2)|Parolles tries to win Lafeu's favour.
 83(SHAKESPEARE, All's Well That Ends Well, Act 5, scene 3)|The King of France pardons Bertram. However, Diana has slipped a ring onto Bertram's finger, which the King originally gave to Helena. Bertram is arrested. Diana appears to explain how she gave the ring to Bertram. The King is on the point of putting her into prison too, when Helena. arrives and the plot is resolved. Helena and Bertram are united.
-83(SHAKESPEARE, A Midsummernight's Dream, Act 1, scene 1)|Theseus and Hippolyta affianced. Egeus complains that Hermia wishes to marry Lysander, not Demetrius. Theseus demands her compliance or death. Lysander and Hermia plan to elope. they confide in Helena, who plans to tell Demetrius, whom she loves.
-83(SHAKESPEARE, A Midsummernight's Dream, Act 1, scene 2)|Bottom and Rustics receive their roles in "Pyramus and Thisbe".
-83(SHAKESPEARE, A Midsummernight's Dream, Act 2, scene 1)|Puck and fairy, "Over hill, over dale." Oberon and Titania quarrel over the changeling boy. Oberon plans his revenge with Puck. Demetrius. rejects Helena. Puck brings Oberon the magic flower. Oberon sngs, "I know a bank".
-83(SHAKESPEARE, A Midsummernight's Dream, Act 2, scene 2)|Titania and fairies. "You spotted snakes." Oberon anoints Titania's eyes. Lysander, Hermia, Demetrius and Helena in the wood.
-83(SHAKESPEARE, A Midsummernight's Dream, Act 3, scene 1)|The Rustics rehearse. Bottom in ass' guise is loved by Titania.
-83(SHAKESPEARE, A Midsummernight's Dream, Act 3, scene 2)|Puck tells Oberon. Oberon scolds Puck for bewitching the wrong lover and bids him find Helena. Lovers in the wood, Hermia and Helena quarreling. Oberon commands puck to put all right Henry VIII between lovers.
-83(SHAKESPEARE, A Midsummernight's Dream, Act 4, scene 1)|Titania and Bottom. Bottom orders the fairies ab out. They sleep and Oberon removes the smell. The lovers reconciled meet Theseus and Hippolyta.
-83(SHAKESPEARE, A Midsummernight's Dream, Act 4, scene 2)|The tradesmen regret, for their own sakes and for Bottom’s, the loss of their opportunity to perform the play, since Bottom is irreplaceable. Bottom arrives and announces that their play has been chosen by Theseus for performance that night.
-83(SHAKESPEARE, A Midsummernight's Dream, Act 5, scene 1)|The Rustics' play enacted before Theseus and the four lovers. The Fairies arrive to bless the marriages.
 83(SHAKESPEARE, Anthony and Cleopatra, Act 1, scene 1)|Anthony & Cleopatra -following her taunts he refuses to hear the messengers from Rome
 83(SHAKESPEARE, Anthony and Cleopatra, Act 1, scene 2)|Soothsayer foretells the future. Anthony hears of the death of his wife.
 83(SHAKESPEARE, Anthony and Cleopatra, Act 1, scene 3)|Charmion, Cleopatra, Anthony announces his departure 
@@ -453,6 +482,15 @@
 83(SHAKESPEARE, Measure for Measure, Act 4, scene 5)|The duke makes plans with Friar Peter, whom he sends away on errands, and then greets Varrius.
 83(SHAKESPEARE, Measure for Measure, Act 4, scene 6)|Isabella and Mariana discuss the roles they are to play when they meet the duke, who is about to enter the city gates.
 83(SHAKESPEARE, Measure for Measure, Act 5, scene 1)|The plot brought to a grand confrontation. Duke, Isabella, Angelo, Mariana, Claudio, Julietta -all ends happily.
+83(SHAKESPEARE, Midsummernight's Dream, Act 1, scene 1)|Theseus and Hippolyta affianced. Egeus complains that Hermia wishes to marry Lysander, not Demetrius. Theseus demands her compliance or death. Lysander and Hermia plan to elope. they confide in Helena, who plans to tell Demetrius, whom she loves.
+83(SHAKESPEARE, Midsummernight's Dream, Act 1, scene 2)|Bottom and Rustics receive their roles in "Pyramus and Thisbe".
+83(SHAKESPEARE, Midsummernight's Dream, Act 2, scene 1)|Puck and fairy, "Over hill, over dale." Oberon and Titania quarrel over the changeling boy. Oberon plans his revenge with Puck. Demetrius. rejects Helena. Puck brings Oberon the magic flower. Oberon sngs, "I know a bank".
+83(SHAKESPEARE, Midsummernight's Dream, Act 2, scene 2)|Titania and fairies. "You spotted snakes." Oberon anoints Titania's eyes. Lysander, Hermia, Demetrius and Helena in the wood.
+83(SHAKESPEARE, Midsummernight's Dream, Act 3, scene 1)|The Rustics rehearse. Bottom in ass' guise is loved by Titania.
+83(SHAKESPEARE, Midsummernight's Dream, Act 3, scene 2)|Puck tells Oberon. Oberon scolds Puck for bewitching the wrong lover and bids him find Helena. Lovers in the wood, Hermia and Helena quarreling. Oberon commands puck to put all right Henry VIII between lovers.
+83(SHAKESPEARE, Midsummernight's Dream, Act 4, scene 1)|Titania and Bottom. Bottom orders the fairies ab out. They sleep and Oberon removes the smell. The lovers reconciled meet Theseus and Hippolyta.
+83(SHAKESPEARE, Midsummernight's Dream, Act 4, scene 2)|The tradesmen regret, for their own sakes and for Bottom’s, the loss of their opportunity to perform the play, since Bottom is irreplaceable. Bottom arrives and announces that their play has been chosen by Theseus for performance that night.
+83(SHAKESPEARE, Midsummernight's Dream, Act 5, scene 1)|The Rustics' play enacted before Theseus and the four lovers. The Fairies arrive to bless the marriages.
 83(SHAKESPEARE, Much Ado about Nothing, Act 1, scene 1)|Beatrice and Benedict spar. Claudio declares his love for Hero.
 83(SHAKESPEARE, Much Ado about Nothing, Act 1, scene 2)|Leonato is given a garbled account of the conversation between Don Pedro and Claudio, and is led to believe that Don Pedro wishes to marry Hero.
 83(SHAKESPEARE, Much Ado about Nothing, Act 1, scene 3)|name. Don John told that Don Pedro is to woo Hero in Claudio's

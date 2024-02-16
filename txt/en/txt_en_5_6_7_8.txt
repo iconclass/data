@@ -7129,9 +7129,43 @@
 83(POPE, Rape of the lock)|(scenes from) specific works of literature: Pope, Rape of the lock
 83(SCARRON, Roman Comique)|(scenes from) specific works of literature: Scarron, Roman Comique
 83(SCHILLER, Mädchen aus der Fremde)|(scenes from) specific works of literature: Schiller, Mädchen aus der Fremde
+83(SHAKESPEARE, All's Well That Ends Well)|(scenes from) specific works of literature: Shakespeare, All's Well That Ends Well
+83(SHAKESPEARE, Anthony and Cleopatra)|(scenes from) specific works of literature: Shakespeare, Anthony and Cleopatra
+83(SHAKESPEARE, As You Like It)|(scenes from) specific works of literature: Shakespeare, As You Like It
+83(SHAKESPEARE, A Comedy of Errors)|(scenes from) specific works of literature: Shakespeare, A Comedy of Errors
+83(SHAKESPEARE, Coriolanus)|(scenes from) specific works of literature: Shakespeare, Coriolanus
 83(SHAKESPEARE, Cymbeline)|(scenes from) specific works of literature: Shakespeare, Cymbeline
 83(SHAKESPEARE, Midsummernight's Dream)|(scenes from) specific works of literature: Shakespeare, Midsummernight's Dream
+83(SHAKESPEARE, Hamlet)|(scenes from) specific works of literature: Shakespeare, Hamlet
+83(SHAKESPEARE, Henry IV, Part 1)|(scenes from) specific works of literature: Shakespeare, Henry IV, Part 1
+83(SHAKESPEARE, Henry IV, Part 2)|(scenes from) specific works of literature: Shakespeare, Henry IV, Part 2
+83(SHAKESPEARE, Henry V)|(scenes from) specific works of literature: Shakespeare, Henry V
+83(SHAKESPEARE, Henry VI, Part 1)|(scenes from) specific works of literature: Shakespeare, Henry VI, Part 1
+83(SHAKESPEARE, Henry VI, Part 2)|(scenes from) specific works of literature: Shakespeare, Henry VI, Part 2
+83(SHAKESPEARE, Henry VI, Part 3)|(scenes from) specific works of literature: Shakespeare, Henry VI, Part 3
+83(SHAKESPEARE, Henry VIII)|(scenes from) specific works of literature: Shakespeare, Henry VIII
+83(SHAKESPEARE, Julius Caesar)|(scenes from) specific works of literature: Shakespeare, Julius Caesar
+83(SHAKESPEARE, King John)|(scenes from) specific works of literature: Shakespeare, King John
+83(SHAKESPEARE, King Lear)|(scenes from) specific works of literature: Shakespeare, King Lear
+83(SHAKESPEARE, Love's Labour's Lost)|(scenes from) specific works of literature: Shakespeare, Love's Labour's Lost
+83(SHAKESPEARE, Macbeth)|(scenes from) specific works of literature: Shakespeare, Macbeth
+83(SHAKESPEARE, Measure for Measure)|(scenes from) specific works of literature: Shakespeare, Measure for Measure
+83(SHAKESPEARE, Much Ado about Nothing)|(scenes from) specific works of literature: Shakespeare, Much Ado about Nothing
+83(SHAKESPEARE, Othello)|(scenes from) specific works of literature: Shakespeare, Othello
+83(SHAKESPEARE, Pericles)|(scenes from) specific works of literature: Shakespeare, Pericles
+83(SHAKESPEARE, Richard II)|(scenes from) specific works of literature: Shakespeare, Richard II
+83(SHAKESPEARE, Richard III)|(scenes from) specific works of literature: Shakespeare, Richard III
+83(SHAKESPEARE, Romeo and Juliet)|(scenes from) specific works of literature: Shakespeare, Romeo and Juliet
 83(SHAKESPEARE, Tempest)|(scenes from) specific works of literature: Shakespeare, Tempest
+83(SHAKESPEARE, The Merchant of Venice)|(scenes from) specific works of literature: Shakespeare, The Merchant of Venice
+83(SHAKESPEARE, The Merry Wives of Windsor)|(scenes from) specific works of literature: Shakespeare, The Merry Wives of Windsor
+83(SHAKESPEARE, The Taming of the Shrew)|(scenes from) specific works of literature: Shakespeare, The Taming of the Shrew
+83(SHAKESPEARE, The Winter's Tale)|(scenes from) specific works of literature: Shakespeare, The Winter's Tale
+83(SHAKESPEARE, Timon of Athens)|(scenes from) specific works of literature: Shakespeare, Timon of Athens
+83(SHAKESPEARE, Titus Andronicus)|(scenes from) specific works of literature: Shakespeare, Titus Andronicus
+83(SHAKESPEARE, Troilus and Cressida)|(scenes from) specific works of literature: Shakespeare, Troilus and Cressida
+83(SHAKESPEARE, Twelfth Night)|(scenes from) specific works of literature: Shakespeare, Twelfth Night
+83(SHAKESPEARE, Two Gentlemen of Verona)|(scenes from) specific works of literature: Shakespeare, Two Gentlemen of Verona
 83(SWIFT, Gulliver's Travels)|(scenes from) specific works of literature: Swift, Gulliver's Travels
 83(TASSO, Aminta)|(scenes from) specific works of literature: Tasso, Aminta
 83(TASSO, Gerusalemme Liberata)|(scenes from) specific works of literature: Tasso, Gerusalemme Liberata
