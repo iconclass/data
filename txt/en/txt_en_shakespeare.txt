@@ -97,7 +97,7 @@
 83(SHAKESPEARE, A Comedy of Errors, IV, 4)|Antipholus (of Ephesus) and Dromio (of Ephesus) meet Adriana, Luciana and the Courtezan. He claims he has been locked out by his wife and that Dromio never gave him the money. Chaos ensues.
 83(SHAKESPEARE, A Comedy of Errors, V, 1)|Antipholus (of Syracuse) and Dromio (of Syracuse) fight over the gold chain. They take sanctuary in a priory. The Abbess refuses Adriana access. She pleads with the Duke on his way to behead Aegean. Antipholus (of Ephesus) and Dromio (of Ephesus) enter and more chaos ensues. At last the Abbess produces Antipholus (of Syracuse) and Dromio (of Syracuse), Aegean is reunited with his sons and all is made clear.
 83(SHAKESPEARE, Coriolanus, I, 1)|Rome. Rioters seek death of Marcius. Menenius pacifies citizenry. Marcius arrives and reports concessions to rioters. Cominius, Lartius, Senators and Tribunes enter seeking Marcius' support against Volscians who are threatening Rome.
-83(SHAKESPEARE, Coriolanus, I, 2)|----­
+83(SHAKESPEARE, Coriolanus, I, 2)|Aufidius and Volscian senators discuss the Roman preparations for war.
 83(SHAKESPEARE, Coriolanus, I, 3)|Volumnia berates Vergilia for regretting Marcius' involvement in battle.
 83(SHAKESPEARE, Coriolanus, I, 4)|Combat begins at Corioles.
 83(SHAKESPEARE, Coriolanus, I, 5)|Corioles taken. Marcius insists on joining Cominius to fight Aufidius.
