@@ -7117,13 +7117,48 @@
 83(MACPHERSON, Poems of Ossian)|(cenas de) obras específicas da literatura: Macpherson, Poems of Ossian
 83(MANZONI, Promessi Sposi)|(cenas de) obras específicas da literatura: Manzoni, Os Noivos
 83(MELVILLE, Moby Dick)|(cenas de) obras específicas da literatura: Melville, Moby Dick
+83(OVID, Metamorphoses)|(cenas de) obras específicas da literatura: Ovídio, Metamorfoses
 83(PETRARCA, Trionfi)|(cenas de) obras específicas da literatura: Petrarca, Triunfos
 83(POPE, Rape of the lock)|(cenas de) obras específicas da literatura: Pope, O Rapto da Madeixa
 83(SCARRON, Roman Comique)|(cenas de) obras específicas da literatura: Scarron, Roman Comique 
 83(SCHILLER, Mädchen aus der Fremde)|(cenas de) obras específicas da literatura: Schiller, Mädchen aus der Fremde (a menina que vem de fora) 
+83(SHAKESPEARE, All's Well That Ends Well)|(cenas de) obras específicas da literatura: Shakespeare, Bem Está O Que Bem Acaba
+83(SHAKESPEARE, Anthony and Cleopatra)|(cenas de) obras específicas da literatura: Shakespeare, Antônio e Cleópatra
+83(SHAKESPEARE, As You Like It)|(cenas de) obras específicas da literatura: Shakespeare, Como Gostais
+83(SHAKESPEARE, A Comedy of Errors)|(cenas de) obras específicas da literatura: Shakespeare, A Comédia dos Erros
+83(SHAKESPEARE, Coriolanus)|(cenas de) obras específicas da literatura: Shakespeare, Coriolano
 83(SHAKESPEARE, Cymbeline)|(cenas de) obras específicas da literatura: Shakespeare, Cimbelino
+83(SHAKESPEARE, Hamlet)|(cenas de) obras específicas da literatura: Shakespeare, Hamlet
+83(SHAKESPEARE, Henry IV, Part 1)|(cenas de) obras específicas da literatura: Shakespeare, Henrique IV, Parte 1
+83(SHAKESPEARE, Henry IV, Part 2)|(cenas de) obras específicas da literatura: Shakespeare, Henrique IV, Parte 2
+83(SHAKESPEARE, Henry V)|(cenas de) obras específicas da literatura: Shakespeare, Henrique V
+83(SHAKESPEARE, Henry VI, Part 1)|(cenas de) obras específicas da literatura: Shakespeare, Henrique VI, Parte 1
+83(SHAKESPEARE, Henry VI, Part 2)|(cenas de) obras específicas da literatura: Shakespeare, Henrique VI, Parte 2
+83(SHAKESPEARE, Henry VI, Part 3)|(cenas de) obras específicas da literatura: Shakespeare, Henrique VI, Parte 3
+83(SHAKESPEARE, Henry VIII)|(cenas de) obras específicas da literatura: Shakespeare, Henrique VIII
+83(SHAKESPEARE, Julius Caesar)|(cenas de) obras específicas da literatura: Shakespeare, Júlio César
+83(SHAKESPEARE, King John)|(cenas de) obras específicas da literatura: Shakespeare, Rei João
+83(SHAKESPEARE, King Lear)|(cenas de) obras específicas da literatura: Shakespeare, Rei Lear
+83(SHAKESPEARE, Love's Labour's Lost)|(cenas de) obras específicas da literatura: Shakespeare, Trabalhos de Amores Perdidos
+83(SHAKESPEARE, Macbeth)|(cenas de) obras específicas da literatura: Shakespeare, Macbeth
+83(SHAKESPEARE, Measure for Measure)|(cenas de) obras específicas da literatura: Shakespeare, Medida por Medida
 83(SHAKESPEARE, Midsummernight's Dream)|(cenas de) obras específicas da literatura: Shakespeare, Sonho de uma Noite de Verão
+83(SHAKESPEARE, Much Ado about Nothing)|(cenas de) obras específicas da literatura: Shakespeare, Muito Barulho por Nada
+83(SHAKESPEARE, Othello)|(cenas de) obras específicas da literatura: Shakespeare, Otelo, o Mouro de Veneza
+83(SHAKESPEARE, Pericles)|(cenas de) obras específicas da literatura: Shakespeare, Péricles, Príncipe de Tiro
+83(SHAKESPEARE, Richard II)|(cenas de) obras específicas da literatura: Shakespeare, Ricardo II
+83(SHAKESPEARE, Richard III)|(cenas de) obras específicas da literatura: Shakespeare, Ricardo III
+83(SHAKESPEARE, Romeo and Juliet)|(cenas de) obras específicas da literatura: Shakespeare, Romeu e Julieta
 83(SHAKESPEARE, Tempest)|(cenas de) obras específicas da literatura: Shakespeare, A Tempestade
+83(SHAKESPEARE, The Merchant of Venice)|(cenas de) obras específicas da literatura: Shakespeare, O Mercador de Veneza
+83(SHAKESPEARE, The Merry Wives of Windsor)|(cenas de) obras específicas da literatura: Shakespeare, As Alegres Comadres de Windsor
+83(SHAKESPEARE, The Taming of the Shrew)|(cenas de) obras específicas da literatura: Shakespeare, A Megera Domada
+83(SHAKESPEARE, The Winter's Tale)|(cenas de) obras específicas da literatura: Shakespeare, Conto do Inverno
+83(SHAKESPEARE, Timon of Athens)|(cenas de) obras específicas da literatura: Shakespeare, Tímon de Atenas
+83(SHAKESPEARE, Titus Andronicus)|(cenas de) obras específicas da literatura: Shakespeare, Tito Andrônico
+83(SHAKESPEARE, Troilus and Cressida)|(cenas de) obras específicas da literatura: Shakespeare, Tróilo e Créssida
+83(SHAKESPEARE, Twelfth Night)|(cenas de) obras específicas da literatura: Shakespeare, Noite de Reis
+83(SHAKESPEARE, Two Gentlemen of Verona)|(cenas de) obras específicas da literatura: Shakespeare, Os Dois Cavalheiros de Verona
 83(SWIFT, Gulliver's Travels)|(cenas de) obras específicas da literatura: Swift, As Viagens de Gulliver
 83(TASSO, Aminta)|(cenas de) obras específicas da literatura: Tasso, Aminta
 83(TASSO, Gerusalemme Liberata)|(cenas de) obras específicas da literatura: Tasso, Jerusalém Libertada
