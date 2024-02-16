@@ -129814,6 +129814,7 @@ C 83(ANON., Busant)
 ; 83(MACPHERSON, Poems of Ossian)
 ; 83(MANZONI, Promessi Sposi)
 ; 83(MELVILLE, Moby Dick)
+; 83(OVID, Metamorphoses)
 ; 83(PETRARCA, Trionfi)
 ; 83(POPE, Rape of the lock)
 ; 83(SCARRON, Roman Comique)
@@ -129940,6 +129941,9 @@ N 83(MANZONI, Promessi Sposi)
 K 8k
 $
 N 83(MELVILLE, Moby Dick)
+K 8k
+$
+N 83(OVID, Metamorphoses)
 K 8k
 $
 N 83(PETRARCA, Trionfi)

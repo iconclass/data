@@ -23,19 +23,25 @@
 83(SHAKESPEARE, All's Well That Ends Well, V, 3)|The King of France pardons Bertram. However, Diana has slipped a ring onto Bertram's finger, which the King originally gave to Helena. Bertram is arrested. Diana appears to explain how she gave the ring to Bertram. The King is on the point of putting her into prison too, when Helena. arrives and the plot is resolved. Helena and Bertram are united.
 83(SHAKESPEARE, Anthony and Cleopatra, I, 1)|Anthony & Cleopatra -following her taunts he refuses to hear the messengers from Rome
 83(SHAKESPEARE, Anthony and Cleopatra, I, 2)|Soothsayer foretells the future. Anthony hears of the death of his wife.
-83(SHAKESPEARE, Anthony and Cleopatra, I, 3)|Charmion, Cleopatra, Anthony announces his departure I 4 Caesar & Lepidus discuss
-83(SHAKESPEARE, Anthony and Cleopatra, I, 5)|Cleopatra laments to Mardian, the eunuch, of the absence of Anthony. II 1 Pompey ,Menas, Menecrates
-83(SHAKESPEARE, Anthony and Cleopatra, II, 2)|Lepidus, Caesar and Anthony argue. II 3 Anthony promises faithfulness to Octavia. Soothsayer advises him to return to Egypt
+83(SHAKESPEARE, Anthony and Cleopatra, I, 3)|Charmion, Cleopatra, Anthony announces his departure 
+83(SHAKESPEARE, Anthony and Cleopatra, I 4)|Caesar & Lepidus discuss
+83(SHAKESPEARE, Anthony and Cleopatra, I, 5)|Cleopatra laments to Mardian, the eunuch, of the absence of Anthony.
+83(SHAKESPEARE, Anthony and Cleopatra, II, 1)|Pompey ,Menas, Menecrates
+83(SHAKESPEARE, Anthony and Cleopatra, II, 2)|Lepidus, Caesar and Anthony argue. 
+83(SHAKESPEARE, Anthony and Cleopatra, II, 3)|Anthony promises faithfulness to Octavia. Soothsayer advises him to return to Egypt
 83(SHAKESPEARE, Anthony and Cleopatra, II, 4)|Lepidus, Maecenas, Agrippa
 83(SHAKESPEARE, Anthony and Cleopatra, II, 5)|Cleopatra receives the new of Anthony's marriage, she threatens the messenger with death
-83(SHAKESPEARE, Anthony and Cleopatra, II, 6)|Pompey agrees to truce II 7 Feast aboard Pompey's ship
-83(SHAKESPEARE, Anthony and Cleopatra, III, 1)|Ventidius & Silius III 2 Anthony prepares to leave Rome, & Caesar & Octavia
+83(SHAKESPEARE, Anthony and Cleopatra, II, 6)|Pompey agrees to truce 
+83(SHAKESPEARE, Anthony and Cleopatra, II, 7)|Feast aboard Pompey's ship
+83(SHAKESPEARE, Anthony and Cleopatra, III, 1)|Ventidius & Silius 
+83(SHAKESPEARE, Anthony and Cleopatra, III, 2)|Anthony prepares to leave Rome, & Caesar & Octavia
 83(SHAKESPEARE, Anthony and Cleopatra, III, 3)|Cleopatra hears from a messenger that Anthony's new wife is unattractive
 83(SHAKESPEARE, Anthony and Cleopatra, III, 4)|Octavia asks to be intermediary between Caesar(her brother) & Anthony (her husband)
 83(SHAKESPEARE, Anthony and Cleopatra, III, 5)|Caesar and Lepidus fight against Pompey.
 83(SHAKESPEARE, Anthony and Cleopatra, III, 6)|Caesar reports that Anthony & Cleopatra have crowned themselves. Octavia appear to negotiate for Anthony
 83(SHAKESPEARE, Anthony and Cleopatra, III, 7)|Enobarbus tells Cleopatra that she distracts Anthony, Anthony accepts challenge of naval battle against advice.
-83(SHAKESPEARE, Anthony and Cleopatra, III, 8)|Caesar marches with his army. III 9 Anthony, Enobarbus -sea battle
+83(SHAKESPEARE, Anthony and Cleopatra, III, 8)|Caesar marches with his army.
+83(SHAKESPEARE, Anthony and Cleopatra, III, 9)|Anthony, Enobarbus -sea battle
 83(SHAKESPEARE, Anthony and Cleopatra, III, 10)|Enobarbus recounts failure of sea battle, retreat of Cleopatra, Anthony following
 83(SHAKESPEARE, Anthony and Cleopatra, III, 11)|Athony tells his attendants to flee -declares love for Cleopatra
 83(SHAKESPEARE, Anthony and Cleopatra, III, 12)|Caesar & Ambassador
@@ -47,44 +53,49 @@
 83(SHAKESPEARE, Anthony and Cleopatra, IV, 5)|Anthony learns of Enobarbus' defection to Caesar & orders his goods sent to him
 83(SHAKESPEARE, Anthony and Cleopatra, IV, 6)|Soldier brings Enobarbus his belongings, deserter 'is conscience stricken
 83(SHAKESPEARE, Anthony and Cleopatra, IV, 7)|Agrippe retreats before Anthony's troops
-83(SHAKESPEARE, Anthony and Cleopatra, IV, 8)|Anthony victorious returns to Cleopatra IV 9 Death of Enobarbus ­IV 10 Anthony & Scarus -prepare for continued battle
-83(SHAKESPEARE, Anthony and Cleopatra, IV 11)|Caesar concentrates on sea-battle IV 12 Defeat of Anthony at sea battle -believes Cleopatra has betrayed him -drives her away
+83(SHAKESPEARE, Anthony and Cleopatra, IV, 8)|Anthony victorious returns to Cleopatra 
+83(SHAKESPEARE, Anthony and Cleopatra, IV, 9)|Death of Enobarbus 
+83(SHAKESPEARE, Anthony and Cleopatra, IV, 10)|Anthony & Scarus - prepare for continued battle
+83(SHAKESPEARE, Anthony and Cleopatra, IV, 11)|Caesar concentrates on sea-battle
+83(SHAKESPEARE, Anthony and Cleopatra, IV, 12)|Defeat of Anthony at sea battle -believes Cleopatra has betrayed him -drives her away
 83(SHAKESPEARE, Anthony and Cleopatra, IV, 13)|Cleopatra sends word to Anthony of her (supposed) death.
 83(SHAKESPEARE, Anthony and Cleopatra, IV, 14)|Anthony hears of Cleopatra's supposed death. Eros kills himself. Anthony tries to kill himself but does not yet die.
 83(SHAKESPEARE, Anthony and Cleopatra, IV, 15)|Anthony is bought to Cleopatra. Anthony dies.
-83(SHAKESPEARE, Anthony and Cleopatra, V, 1)|Caesar demands Anthony 1 s surrender -he hears of his suicide offers meryc to Cleopatra
+83(SHAKESPEARE, Anthony and Cleopatra, V, 1)|Caesar demands Anthony’s surrender -he hears of his suicide offers meryc to Cleopatra
 83(SHAKESPEARE, Anthony and Cleopatra, V, 2)|Cleopatra kneels before Caesar. Cleopatra talks to the clown. Cleopatra prepares for death. Iras dies. Cleopatra applies the asps to her breasts and then her arm and dies. Charmian applies an asp and dies.
 83(SHAKESPEARE, As You Like It, I, 1)|Orlando complains his lot To Adam. Oliver and Orlando argue and the former strikes the latter.
 83(SHAKESPEARE, As You Like It, I, 2)|Rosalind and Celia.
 83(SHAKESPEARE, As You Like It, I, 3)|Duke Frederick banishes Rosalind from the court. Celia pleads with Duke Frederick to allow Rosalind to stay in court. Celia plans to accompany Rosalind in her exile to the forest of Arden. Rosalind and Celia plan to change their names to Ganymede and Aliena respectively.
 83(SHAKESPEARE, As You Like It, II, 1)|Duke Senior & courtiers discuss pleasures of forest life. Jacques laments death of shot deer
 83(SHAKESPEARE, As You Like It, II, 2)|Duke Frederick discovers Celia's absence
-83(SHAKESPEARE, As You Like It, II, 3)|Adam meets Orlando II 4 Rosalind, Celia and Touchstone enter the Forest of Arden. Rosalind, Celia and Touchstone meet Corin and Silvius.
-83(SHAKESPEARE, As You Like It, II, 5)|Arniens sings Jacques mocks his song II 6 Orlando & Adam arrive in Arden; Adam collapses
+83(SHAKESPEARE, As You Like It, II, 3)|Adam meets Orlando 
+83(SHAKESPEARE, As You Like It, II 4)|Rosalind, Celia and Touchstone enter the Forest of Arden. Rosalind, Celia and Touchstone meet Corin and Silvius.
+83(SHAKESPEARE, As You Like It, II, 5)|Arniens sings Jacques mocks his song 
+83(SHAKESPEARE, As You Like It, II, 6)|Orlando & Adam arrive in Arden; Adam collapses
 83(SHAKESPEARE, As You Like It, II, 7)|Duke Senior and Courtiers eat dinner, Orlando demands food (at sword point) Jacques moralises on ages of man A.miens sings
 83(SHAKESPEARE, As You Like It, III, 1)|Duke Frederick confiscates all of Oliver's possessions until he returns with Orlando.
 83(SHAKESPEARE, As You Like It, III, 2)|Orlando, Corin and Touchstone in the Forest of Arden.
 83(SHAKESPEARE, As You Like It, III, 3)|Touchstone and Audrey hear Sir Oliver Martext in the Forest of Arden and discuss the possibility of marriage.
 83(SHAKESPEARE, As You Like It, III, 4)|Rosalind talks to Celia of her love for Orlando.
-83(SHAKESPEARE, As You Like It, III, 5)|--------------­
+83(SHAKESPEARE, As You Like It, III, 5)|“Ganymede” intervenes to try to help Silvius prevail over Phoebe and win her love. Instead, Phoebe falls in love with “Ganymede.”
 83(SHAKESPEARE, As You Like It, IV, 1)|Rosalind, Celia and Jaques in the Forest of Arden. Orlando and Rosalind pretend to marry.
-83(SHAKESPEARE, As You Like It, IV, 2)|-------------­
-83(SHAKESPEARE, As You Like It, IV, 3)|--------------­
-83(SHAKESPEARE, As You Like It, V, 1)|---------------­
-83(SHAKESPEARE, As You Like It, V, 2)|---------------­
-83(SHAKESPEARE, As You Like It, V, 3)|-----------------­
+83(SHAKESPEARE, As You Like It, IV, 2)|Duke Senior’s courtiers celebrate their having killed a deer.
+83(SHAKESPEARE, As You Like It, IV, 3)|Phoebe sends “Ganymede” a letter offering herself in marriage. As Rosalind and Celia wait for Orlando, they learn that he is late for his appointment with “Ganymede” because he was wounded saving his brother Oliver from attack by a lion.
+83(SHAKESPEARE, As You Like It, V, 1)|Touchstone verbally overpowers William, a rival for Audrey’s love.
+83(SHAKESPEARE, As You Like It, V, 2)|Orlando, envious that his brother Oliver and “Aliena,” having fallen in love, plan to be married immediately, tells “Ganymede” how bitter he finds his own situation. “Ganymede” tells him that, if Orlando wishes to marry Rosalind, “Ganymede” can, through magic, make Rosalind appear at the wedding. “Ganymede” also exacts a promise from Phoebe: if at the time of the wedding Phoebe refuses to marry “Ganymede,” she will marry Silvius.
+83(SHAKESPEARE, As You Like It, V, 3)|Touchstone and Audrey listen while two pages sing.
 83(SHAKESPEARE, As You Like It, V, 4)|They all arrange to marry.
 83(SHAKESPEARE, A Comedy of Errors, I, 1)|The prisoner Aegean recounts the story of his two pairs of shipwrecked twins to the Duke of Ephesus.
-83(SHAKESPEARE, A Comedy of Errors, I, 2)|Antipholus S mistakes Dromio E for Dromio s.
-83(SHAKESPEARE, A Comedy of Errors, II, 1)|-----­
-83(SHAKESPEARE, A Comedy of Errors, II, 2)|Antipholus Sand Dromio s are confronted by Adriana and Luciana. They go with them out of curiosity.
-83(SHAKESPEARE, A Comedy of Errors, III, 1)|Antipholus E and Dromio E turn up at their house and find themselves locked out, while the other twins dine within.
-83(SHAKESPEARE, A Comedy of Errors, III, 2)|Antipholus Spays court to Luciana, who spurns him as already married to her sister.
-83(SHAKESPEARE, A Comedy of Errors, IV, 1)|Antipholus Eis arrested for not paying a debt contracted by his twin. He is confronted by Dromio s.
-83(SHAKESPEARE, A Comedy of Errors, IV, 2)|Dromio S tells Adriana and Luciana that Antipholus is under arrest. They give him money to pay off the debt.
-83(SHAKESPEARE, A Comedy of Errors, IV, 3)|Antipholus Sand Dromio s meet the Courtezan.
-83(SHAKESPEARE, A Comedy of Errors, IV, 4)|Antipholus E and Dromio E meet Adriana, Luciana and the Courtezan. He claims he has been locked out by his wife and that Dromio never gave him the money. Chaos ensues.
-83(SHAKESPEARE, A Comedy of Errors, V, 1)|Antipholus Sand Dromio S fight over the gold chain. They take sanctuary in a priory. The Abbess refuses Adriana access. She pleads with the Duke on his way to behead Aegean. Antipholus E and Dromio E enter and more chaos ensues. At last the Abbess produces Antipholus Sand Dromio s, Aegean is reunited with his sons and all is made clear.
+83(SHAKESPEARE, A Comedy of Errors, I, 2)|Antipholus of Syracuse mistakes Dromio of Ephesus for Dromio of Syracuse.
+83(SHAKESPEARE, A Comedy of Errors, II, 1)|Adriana angrily awaits her husband, who is late for dinner. Dromio (of Ephesus) enters and tells about his meeting with Antipholus (of Syracuse). Adriana, furious that Antipholus has denied that he has a wife, sends Dromio back to fetch him home.
+83(SHAKESPEARE, A Comedy of Errors, II, 2)|Antipholus S and Dromio S are confronted by Adriana and Luciana. They go with them out of curiosity.
+83(SHAKESPEARE, A Comedy of Errors, III, 1)|Antipholus (of Ephesus) and Dromio (of Ephesus) turn up at their house and find themselves locked out, while the other twins dine within.
+83(SHAKESPEARE, A Comedy of Errors, III, 2)|Antipholus (of Syracuse) pays court to Luciana, who spurns him as already married to her sister.
+83(SHAKESPEARE, A Comedy of Errors, IV, 1)|Antipholus (of Ephesus) is arrested for not paying a debt contracted by his twin. He is confronted by Dromio (of Syracuse).
+83(SHAKESPEARE, A Comedy of Errors, IV, 2)|Dromio (of Syracuse) tells Adriana and Luciana that Antipholus is under arrest. They give him money to pay off the debt.
+83(SHAKESPEARE, A Comedy of Errors, IV, 3)|Antipholus (of Syracuse) and Dromio (of Syracuse) meet the Courtezan.
+83(SHAKESPEARE, A Comedy of Errors, IV, 4)|Antipholus (of Ephesus) and Dromio (of Ephesus) meet Adriana, Luciana and the Courtezan. He claims he has been locked out by his wife and that Dromio never gave him the money. Chaos ensues.
+83(SHAKESPEARE, A Comedy of Errors, V, 1)|Antipholus (of Syracuse) and Dromio (of Syracuse) fight over the gold chain. They take sanctuary in a priory. The Abbess refuses Adriana access. She pleads with the Duke on his way to behead Aegean. Antipholus (of Ephesus) and Dromio (of Ephesus) enter and more chaos ensues. At last the Abbess produces Antipholus (of Syracuse) and Dromio (of Syracuse), Aegean is reunited with his sons and all is made clear.
 83(SHAKESPEARE, Coriolanus, I, 1)|Rome. Rioters seek death of Marcius. Menenius pacifies citizenry. Marcius arrives and reports concessions to rioters. Cominius, Lartius, Senators and Tribunes enter seeking Marcius' support against Volscians who are threatening Rome.
 83(SHAKESPEARE, Coriolanus, I, 2)|----­
 83(SHAKESPEARE, Coriolanus, I, 3)|Volumnia berates Vergilia for regretting Marcius' involvement in battle.
@@ -94,7 +105,7 @@
 83(SHAKESPEARE, Coriolanus, I, 7)|Lartius leaves Corioles to join Marcius and Cominius.
 83(SHAKESPEARE, Coriolanus, I, 8)|Marcius and Aufidius fight.
 83(SHAKESPEARE, Coriolanus, I, 9)|Marcius praised for his courage and renamed Coriolanus.
-83(SHAKESPEARE, Coriolanus, I 10)|Aufidius rages against Coriolanus.
+83(SHAKESPEARE, Coriolanus, I, 10)|Aufidius rages against Coriolanus.
 83(SHAKESPEARE, Coriolanus, II, 1)|Coriolanus returns to Rome. Sicinius and Brutus wish to block his nomination for Consul.
 83(SHAKESPEARE, Coriolanus, II, 2)|
 83(SHAKESPEARE, Coriolanus, II, 3)|
@@ -112,7 +123,8 @@
 83(SHAKESPEARE, Coriolanus, V, 2)|Menenius rejected.
 83(SHAKESPEARE, Coriolanus, V, 3)|Virgilia, Volumnia, Valeria, Young Marcius and attendants plead for mercy and Coriolanus is finally convinced by his mother.
 83(SHAKESPEARE, Coriolanus, V, 4)|Volscians withdraw.
-83(SHAKESPEARE, Coriolanus, V, 5)|The Senators thankfully welcome Volumnia and other women back to Rome. V 6 Aufidius turns Volscians against Coriolanus and he is killed. Aufidius grants him a noble burial.
+83(SHAKESPEARE, Coriolanus, V, 5)|The Senators thankfully welcome Volumnia and other women back to Rome. 
+83(SHAKESPEARE, Coriolanus, V 6)|Aufidius turns Volscians against Coriolanus and he is killed. Aufidius grants him a noble burial.
 83(SHAKESPEARE, Cymbeline, I, 1)|Imagen has married Posthumus against her father's wishes. (Cymbeline). Posthumus has been banished.
 83(SHAKESPEARE, Cymbeline, I, 2)|-------------­
 83(SHAKESPEARE, Cymbeline, I, 3)|Cloten has attacked Posthumus.
@@ -135,7 +147,7 @@
 83(SHAKESPEARE, Cymbeline, IV, 1)|Cloten near the cave of Belarius.
 83(SHAKESPEARE, Cymbeline, IV, 2)|Guiderius decapitates Cloten. Imagen in a deep sleep after drinking the potion. The two bodies are laid side by side. "Fear no more the heat o' th' sun." Imagen awakes and thinks it is Posthumus beside her.
 83(SHAKESPEARE, Cymbeline, IV, 3)|Roman legions have landed.
-83(SHAKESPEARE, Cymbeline, IV, 4)|
+83(SHAKESPEARE, Cymbeline, IV, 4)|-----
 83(SHAKESPEARE, Cymbeline, V, 1)|Posthumus in the Roman camp, has received the bloody rag which Pisanio sent him as proof of the murder. Filled with remorse he disguises himself as a British peasant and hopes to be killed.
 83(SHAKESPEARE, Cymbeline, V, 2)|Battle scene. Cymbeline rescued by Belarius, Guidarius and Arvigarus.
 83(SHAKESPEARE, Cymbeline, V, 3)|Posthumus captured by Britons.
@@ -145,7 +157,7 @@
 83(SHAKESPEARE, Hamlet, I, 2)|Hamlet confronts Claudius and Gertrude regarding their marriage. 110 that this too too solid flesh would melt .... Frailty thy name is woman." Hamlet and Horatio.
 83(SHAKESPEARE, Hamlet, I, 3)|Polonius gives Laertes advice. 11Neither a borrower or a lender be etc."
 83(SHAKESPEARE, Hamlet, I, 4)|Hamlet and the ghost. Hamlet swears Horatio and Marcellus to secrecy.
-83(SHAKESPEARE, Hamlet, I 5)|
+83(SHAKESPEARE, Hamlet, I, 5)|-----
 83(SHAKESPEARE, Hamlet, II, 1)|Polonius and Ophelia. Ophelia describes Hamlet. "His stockings foul'd/ Ungartered and down gyved etc."
 83(SHAKESPEARE, Hamlet, II, 2)|Hamlet mocks Polonius. "You are a fishmonger etc." Rosencrantz and Guildenstern announce the arrival of the players. Hamlet and the players.
 83(SHAKESPEARE, Hamlet, III, 1)|Hamlet alone. "To be or not to be etc." Hamlet and Ophelia. "Get thee to a nunnery etc." (King and Polonius may be watching).
@@ -157,31 +169,32 @@
 83(SHAKESPEARE, Hamlet, IV, 3)|Claudius sends Hamlet to England.
 83(SHAKESPEARE, Hamlet, IV, 4)|Fortinbras on the march, Hamlet may be watching.
 83(SHAKESPEARE, Hamlet, IV, 5)|Ophelia mad, and singing.
-83(SHAKESPEARE, Hamlet, IV 6)|
+83(SHAKESPEARE, Hamlet, IV, 6)|------
 83(SHAKESPEARE, Hamlet, IV, 7)|Ophelia suicide by drowning.Gertrude tells of her death
 83(SHAKESPEARE, Hamlet, V, 1)|The Gravediggers. Hamlet and the Gravediggers. Hamlet alone holding the skull. "Alas poor Yorick, I knew him, Horatio." Funeral of Ophelia, Hamlet jumps into her grave
 83(SHAKESPEARE, Hamlet, V, 2)|Hamlet and Osric. "Dost know this waterfly." The duel sequence: Hamlet and Laertes fight, Hamlet kills Claudius, Gertrude takes the poison, death of Laertes, death of Hamlet Fortinbras bears off Hamlet's body.
-83(SHAKESPEARE, Henry IV Pt.1, I, 1)|King Henry is bought news of defeat in wales and victory in Scotland by Westmoreland and Blunt. I 2 Prince Hal and Falstaff-Poins enters and persuades Prince Hal to Play a trick on Falstaff and company.
+83(SHAKESPEARE, Henry IV Pt.1, I, 1)|King Henry is bought news of defeat in wales and victory in Scotland by Westmoreland and Blunt. 
+83(SHAKESPEARE, Henry IV Pt.1, I, 2)|Prince Hal and Falstaff-Poins enters and persuades Prince Hal to Play a trick on Falstaff and company.
 83(SHAKESPEARE, Henry IV Pt.1, I, 3)|King dismisses Worcester. Hotspur and prisoners and Mortimer's treachery. WorcesNorthumberland plot against the King the ter, King Hotspur discuss and
-83(SHAKESPEARE, Henry IV Pt.1, I, 4)|
-83(SHAKESPEARE, Henry IV Pt.1, I, 5)|
-83(SHAKESPEARE, Henry IV Pt.1, I, 6)|
+83(SHAKESPEARE, Henry IV Pt.1, I, 4)|-----
+83(SHAKESPEARE, Henry IV Pt.1, I, 5)|-----
+83(SHAKESPEARE, Henry IV Pt.1, I, 6)|-----
 83(SHAKESPEARE, Henry IV Pt.1, II, 1)|Inn-yard. Parley between Carriers, Ostler, Chamberlain and Gadshill.
 83(SHAKESPEARE, Henry IV Pt.1, II, 2)|Falstaff, Prince Hal and Poins. Gadshill, Bardolph, Peto and Falstaff rob some travellers. Prince Hal and Poins then rob the robbers.
 83(SHAKESPEARE, Henry IV Pt.1, II, 3)|Hotspur with Lady Percy.
 83(SHAKESPEARE, Henry IV Pt.1, II, 4)|Prince Hal and Poins tease Francis. Falstaff, Bardolph, Gadshill and Peto join them. Hostess announces a man from the court. Falstaff sends him away and brings news of a rebellion. He and Prince Hal take turns at impersonating Prince Henry. The Sheriff arrives. Falstaff hides. Prince Hal tells the Sheriff he shall answer to him. Peto ands Prince Hal find Falstaff sleeping behind the arras and steal his papers.
-83(SHAKESPEARE, Henry IV Pt.1, II, 5)|
+83(SHAKESPEARE, Henry IV Pt.1, II, 5)|-----
 83(SHAKESPEARE, Henry IV Pt.1, III, 1)|Hotspur, Worcester, Mortimer and Glendower parley. They discuss dividing up the kingdom between them. Lady Mortimer and Lady Percy enter. Hotspur relaxes with his wife and they listen to Lady Mortimer singing.
 83(SHAKESPEARE, Henry IV Pt.1, III, 2)|King Henry chides Prince Hal for his lifestyle. Blunt brings news of Mortimer and Douglas.
 83(SHAKESPEARE, Henry IV Pt.1, III, 3)|Falstaff and Bardolph. Hostess and Falstaff argue about his pocket being picked. Prince Hal confesses to it. He tells Falstaff and Bardolph to be ready to follow him against Hotspur.
-83(SHAKESPEARE, Henry IV Pt.1, III, 4)|
+83(SHAKESPEARE, Henry IV Pt.1, III, 4)|-----
 83(SHAKESPEARE, Henry IV Pt.1, IV, 1)|Hotspur, Worcester and Douglas. Messenger announces Northumberland's illness. Vernon announces that Westmoreland and Prince John are approaching, also King Henry, Prince Hal and his cronies.
 83(SHAKESPEARE, Henry IV Pt.1, IV, 2)|Falstaff and Bardolph. Falstaff bewails his motley soldiers. Prince Hal and Westmoreland enter. They too comment on Falstaff's men.
 83(SHAKESPEARE, Henry IV Pt.1, IV, 3)|Hotspur, Douglas, Worcester and Vernon discuss··when to fight. Blunt enters with the possibility of pardon from King Henry. Hotspur sends him away while they consider this.
 83(SHAKESPEARE, Henry IV Pt.1, IV, 4)|Archbishop of York sends Sir Michael with letters to other conspiritors, as he fears Hotspur's defeat.
-83(SHAKESPEARE, Henry IV Pt.1, IV, 5)|
-83(SHAKESPEARE, Henry IV Pt.1, IV, 6)|
-83(SHAKESPEARE, Henry IV Pt.1, IV, 7)|
+83(SHAKESPEARE, Henry IV Pt.1, IV, 5)|-----
+83(SHAKESPEARE, Henry IV Pt.1, IV, 6)|-----
+83(SHAKESPEARE, Henry IV Pt.1, IV, 7)|-----
 83(SHAKESPEARE, Henry IV Pt.1, V, 1)|King, Prince Hal, Prince John, Blunt and Falstaff. Worcester and Vernon enter-they are sent by the King to try to make peace. Falstaff and Prince Hal are left, discussing the battle.
 83(SHAKESPEARE, Henry IV Pt.1, V, 2)|Worcester and Vernon do not tell Hotspur and Douglas of the King's peace offer. Douglas defies the King. Messenger enters to say the King is on his way. ­
 83(SHAKESPEARE, Henry IV Pt.1, V, 3)|Blunt and Douglas fight. Blunt is killed. Hotspur tells Dougals that he has mistaken Blunt for the King. Falstaf.f enters followed by Prince Hal, who borrows Falstaff's pistol, only to find it is a bottle of sack.
@@ -312,15 +325,6 @@
 83(SHAKESPEARE, Henry VI, Pt.3, V, 5)|King Edward, Clarence, Gloucester, with Queen Margaret, Oxford and Somerset as prisoners. Prince of Wales is brought in, taunts his captors and is killed. Queen Margaret is led away.
 83(SHAKESPEARE, Henry VI, Pt.3, V, 6)|Gloucester murders King Henry.
 83(SHAKESPEARE, Henry VI, Pt.3, V, 7)|King Edward, Queen Elizabeth, Clarence, Gloucester, Hastings, prepare to enjoy the fruits of their victory.
-83(SHAKESPEARE, Midsummernight's Dream, I, 1)|Theseus and Hippolyta affianced. Egeus complains that Hermia wishes to marry Lysander, not Demetrius. Theseus demands her compliance or death. Lysander and Hermia plan to elope. they confide in Helena, who plans to tell Demetrius, whom she loves.
-83(SHAKESPEARE, Midsummernight's Dream, I, 2)|Bottom and Rustics receive their roles in "Pyramus and Thisbe".
-83(SHAKESPEARE, Midsummernight's Dream, II, 1)|Puck and fairy, "Over hill, over dale." Oberon and Titania quarrel over the changeling boy. Oberon plans his revenge with Puck. Demetrius. rejects Helena. Puck brings Oberon the magic flower. Oberon sngs, "I know a bank".
-83(SHAKESPEARE, Midsummernight's Dream, II, 2)|Titania and fairies. "You spotted snakes." Oberon anoints Titania's eyes. Lysander, Hermia, Demetrius and Helena in the wood.
-83(SHAKESPEARE, Midsummernight's Dream, III, 1)|The Rustics rehearse. Bottom in ass' guise is loved by Titania.
-83(SHAKESPEARE, Midsummernight's Dream, III, 2)|Puck tells Oberon. Oberon scolds Puck for bewitching the wrong lover and bids him find Helena. Lovers in the wood, Hermia and Helena quarreling. Oberon commands puck to put all right Henry VIII between lovers.
-83(SHAKESPEARE, Midsummernight's Dream, IV, 1)|Titania and Bottom. Bottom orders the fairies ab out. They sleep and Oberon removes the smell. The lovers reconciled meet Theseus and Hippolyta.
-83(SHAKESPEARE, Midsummernight's Dream, IV, 2)|----­
-83(SHAKESPEARE, Midsummernight's Dream, V, 1)|The Rustics' play enacted before Theseus and the four lovers. The Fairies arrive to bless the marriages.
 83(SHAKESPEARE, Henry VIII, I, 1)|Norfolk, Buckingham, Abergavenny, discuss the meeting in France between French and English kings and Wolsey' s power. Buckingham vows to denounce him to the King for bribery, but is accused of treason and he and Abergavenny arrested by Brandon.
 83(SHAKESPEARE, Henry VIII, I, 2)|King, wolsey, Queen Katherine, Norfolk, Suffolk. Queen pleads for reduction in taxes. King agrees and orders Wolsey to deal with this. Wolsey plans to take the credit. They hear the charges against Buckingham.
 83(SHAKESPEARE, Henry VIII, I, 3)|Lord Chamberlain, Sandys. enter Lovell. They go to dine with Wolsey.
@@ -369,7 +373,8 @@
 83(SHAKESPEARE, King John, V, 3)|King John and the Bastard. King ill on the field of battle.
 83(SHAKESPEARE, King John, V, 4)|Salisbury, Pembroke and Bigot are persuaded by Melun to side with King John.
 83(SHAKESPEARE, King John, V, 5)|The Dauphin is told that Melun is dead and the English are siding with King John. All supplies sunk off Goodwin Sands.
-83(SHAKESPEARE, King John, V, 6)|The Bastard meets Hubert who tells him that King John is poisoned, but his men are with him. V 7 King John dies, mourned by Prince Henry, Salisbury and the Bastard.
+83(SHAKESPEARE, King John, V, 6)|The Bastard meets Hubert who tells him that King John is poisoned, but his men are with him. 
+83(SHAKESPEARE, King John, V, 7)|King John dies, mourned by Prince Henry, Salisbury and the Bastard.
 83(SHAKESPEARE, King Lear, I, 1)|Gloucester introduces Edmund to Kent. Lear divides his kingdom between Goneril and Regan and disowns Cordelia. Kent remonstrates with Lear and is banished. Burgundy ·rejects the dowerless Cordelia and France accepts her. Cordelia commends Lear to her sisters.
 83(SHAKESPEARE, King Lear, I, 2)|Edmund plots to discredit Edgar in Gloucester's esteem.
 83(SHAKESPEARE, King Lear, I, 3)|Goneril and Oswald
@@ -377,46 +382,22 @@
 83(SHAKESPEARE, King Lear, I, 5)|Lear Kent & Fool
 83(SHAKESPEARE, King Lear, II, 1)|Edmund furthers the plot against Edgar, who becomes a fugitive from Gloucester's fury.
 83(SHAKESPEARE, King Lear, II, 2)|Kent is put in the stocks by Cornwall and Regan.
-83(SHAKESPEARE, King Lear, II, 3)|----­II 4 Lear finds Kent in the stocks. Goneril and Regan unite against Lear.
-83(SHAKESPEARE, King Lear, III 2)|Lear and the Fool oucasts in the storm.
-83(SHAKESPEARE, King Lear, III 3)|----­
-83(SHAKESPEARE, King Lear, III 5)|----­
-83(SHAKESPEARE, King Lear, III 6)|Lear, his wits gone, holds a mock trial before Kent, the Fool and Edgar.
-83(SHAKESPEARE, King Lear, III 7)|Cornwall and Regan capture Glouce_ster and blind him.
-83(SHAKESPEARE, King Lear, IV 1)|Edgar meets the blind Gloucester.
+83(SHAKESPEARE, King Lear, II, 3)|----­
+83(SHAKESPEARE, King Lear, II 4)|Lear finds Kent in the stocks. Goneril and Regan unite against Lear.
+83(SHAKESPEARE, King Lear, III, 2)|Lear and the Fool oucasts in the storm.
+83(SHAKESPEARE, King Lear, III, 3)|----­
+83(SHAKESPEARE, King Lear, III, 5)|----­
+83(SHAKESPEARE, King Lear, III, 6)|Lear, his wits gone, holds a mock trial before Kent, the Fool and Edgar.
+83(SHAKESPEARE, King Lear, III, 7)|Cornwall and Regan capture Glouce_ster and blind him.
+83(SHAKESPEARE, King Lear, IV, 1)|Edgar meets the blind Gloucester.
 83(SHAKESPEARE, King Lear, IV, 2)|----­
-83(SHAKESPEARE, King Lear, IV 3)|----­
+83(SHAKESPEARE, King Lear, IV, 3)|----­
 83(SHAKESPEARE, King Lear, IV, 5)|----­
 83(SHAKESPEARE, King Lear, IV, 6)|Gloucester and Edgar on the clifftop; the weed bedecked Lear appears. Edgar intercepts a letter from Goneril to Edmund.
 83(SHAKESPEARE, King Lear, IV, 7)|Lear and Cordelia reconciled.
 83(SHAKESPEARE, King Lear, V, 1)|----­
 83(SHAKESPEARE, King Lear, V, 2)|----­
 83(SHAKESPEARE, King Lear, V, 3)|Lear and Cordelia are Edmund's prisoners. Goneril and Regan vie for his favour. Albany challenges him. Edgar takes it up. Edmund wounded; Goneril and Regan dead; Cordelia dead; Edmund dead; Lear dead.
-83(SHAKESPEARE, King Richard III, I, 1)|Gloucester soliloquises. Clarence under arrest. Hastings enters with news that the King is ill.
-83(SHAKESPEARE, King Richard III, I, 2)|Lady Anne, accompanying the body of Henry VI, is wooed by Gloucester, who begs her to kill him if she will. She reluctantly accepts his advances.
-83(SHAKESPEARE, King Richard III, I, 3)|Queen Elizabeth, Rivers, Grey, Buckingham, Stanley, Gloucester, Hastings, Dorset. Quarrel between Queen and Gloucester. Queen Margaret enters and curses them, most of all Gloucester. Gloucester sends two murderers to dispatch Clarence.
-83(SHAKESPEARE, King Richard III, I, 4)|Clarence recounts his nightmare to Brackenbury. Murderers wake Clarence, stab him and drown him in a Malmsey butt.
-83(SHAKESPEARE, King Richard III, II, 1)|King Edward, Queen Elizabeth, Dorset, Rivers, Hastings, Buckingham, Grey -all make peace with each other. Gloucester enters and announces the death of Clarence.
-83(SHAKESPEARE, King Richard III, II, 2)|Duchess of York, son and daughter of Clarence, discuss his death. Duchess blames Gloucester. Enter Queen Elizabeth and and Rivers announcing King Edward's death. All mourn. Gloucester, Buckingham, Stanley, Hastings, Radcliff enter.
-83(SHAKESPEARE, King Richard III, II, 3)|Citizens discuss the King's death.
-83(SHAKESPEARE, King Richard III, II, 4)|Archbishop of York, Duke of York, Queen El'izabeth, Duchess of York. Messenger tells of the arrest of Rivers, Grey and Vaughan on Gloucester and Buckingham's orders.
-83(SHAKESPEARE, King Richard III, III, 1)|Prince of Wales, Gloucester, Buckingham, Catesby, Cardinal Bourchier. Hastings enters with news that Queen Elizabeth and Duke of York have taken sanctuary. Buckingham persuades Cardinal Bourchier and Hastings to remove York. They return with him and he begs a dagger from Gloucester. He and Prince of Wales leave for the tower. Gloucester, Buckingham and Catesby plot against Hastings and Stanley.
-83(SHAKESPEARE, King Richard III, III, 2)|Messenger from Stanley to Hastings. Catesby sounds out Hastings. Stanley enters. He and Catesby leave for the tower, followed by Buckingham and Hastings.
-83(SHAKESPEARE, King Richard III, III, 3)|Ratcliff with Rivers, Grey and Vaughan on their way to execution.
-83(SHAKESPEARE, King Richard III, III, 4)|Buckingham, Stanley, Hastings, Bishop of Ely, Ratcliff and Level discuss the coronation. Gloucester enters, he and Buckingham withdraw~ He re-enters accusing Queen and Jane Shore of using witchhraft to wither his arm. When Hastings demurs, he has him executed.
-83(SHAKESPEARE, King Richard III, III, 5)|Gloucester, Buckingham, Lord Mayor, Catesby, Loveland Ratcliff enter with Hastings' head.
-83(SHAKESPEARE, King Richard III, III, 6)|Scrivener with Hastings' indictment.
-83(SHAKESPEARE, King Richard III, III, 7)|Gloucester and Buckingham discuss the successful spread of rumours. Lord Mayor etc. enter. Catesby fetches Gloucester and Buckingham 'persuades' him to claim the throne.
-83(SHAKESPEARE, King Richard III, IV, 1)|Queen Elizabeth, Duchess of York, Dorset, Duchess of Gloucester, Lady Margaret Plantagenet are forbidden to visit the Princes by Brackenbury. Stanley enters with news of Gloucester's impending coronation. All bemoan.
-83(SHAKESPEARE, King Richard III, IV, 2)|King Richard, Buckingham, Catesby. King Richard plots Queen's death and arranges with Tyrrell for death of Princes.
-83(SHAKESPEARE, King Richard III, IV, 3)|Tyrrell announces to King Richard the Princes' deaths. Catesby enters with news of Buckingham's desertion.
-83(SHAKESPEARE, King Richard III, IV, 4)|Queen Margaret hides from Queen Elizabeth and Duchess of York, who laments Princes' deaths. King Richard enters and they all curse him. He persuades Queen Elizabeth that he wishes to marry her daughter. Ratcliff enters with news that Richmond was at sea. Stanley enters with the same news. Messengers bring news of revolt in other parts of the country and of Buckingham's capture.
-83(SHAKESPEARE, King Richard III, IV, 5)|Stanley sends message via· Urswick to Richmond that Stanley's son is held hostage by King Richard, who has gained Queen Elizabeth's permission to marry her daughter.
-83(SHAKESPEARE, King Richard III, V, 1)|Buckingham is executed.
-83(SHAKESPEARE, King Richard III, V, 2)|Richmond, Oxford, Blunt, Herbert prepare for battle.
-83(SHAKESPEARE, King Richard III, V, 3)|King Richard, Norfolk, Surrey survey the scene of the forthcoming battle. Richmond, Brandon, Oxford. Blunt is sent with message to Stanley. King Richard also sends him a message. Stanley assures Richmond that he will help him. King Richard is assailed by the ghosts of those he has wronged, who curse him and bless Richmond. Richmond and King Richard respectively address their troops.
-83(SHAKESPEARE, King Richard III, V, 4)|Catesby tells Norfolk of King Richard's valour in battle. Richard calls for a horse
-83(SHAKESPEARE, King Richard III, V, 5)|King Richard fights hand-to-hand with .Richmond. He is killed and Richmond and Stanley enter with the crown. Richmond proclaims peace -and pardon.
 83(SHAKESPEARE, Love's Labour's Lost, I, 1)|----­
 83(SHAKESPEARE, Love's Labour's Lost, I, 2)|Armada, Moth and Jaquenetta
 83(SHAKESPEARE, Love's Labour's Lost, II, 1)|Ferdinand, King of Navarre meets the Princess of France.
@@ -472,6 +453,15 @@
 83(SHAKESPEARE, Measure for Measure, IV, 5)|----­
 83(SHAKESPEARE, Measure for Measure, IV, 6)|----­
 83(SHAKESPEARE, Measure for Measure, V, 1)|The plot brought to a grand confrontation. Duke, Isabella, Angelo, Mariana, Claudio, Julietta -all ends happily.
+83(SHAKESPEARE, Midsummernight's Dream, I, 1)|Theseus and Hippolyta affianced. Egeus complains that Hermia wishes to marry Lysander, not Demetrius. Theseus demands her compliance or death. Lysander and Hermia plan to elope. they confide in Helena, who plans to tell Demetrius, whom she loves.
+83(SHAKESPEARE, Midsummernight's Dream, I, 2)|Bottom and Rustics receive their roles in "Pyramus and Thisbe".
+83(SHAKESPEARE, Midsummernight's Dream, II, 1)|Puck and fairy, "Over hill, over dale." Oberon and Titania quarrel over the changeling boy. Oberon plans his revenge with Puck. Demetrius. rejects Helena. Puck brings Oberon the magic flower. Oberon sngs, "I know a bank".
+83(SHAKESPEARE, Midsummernight's Dream, II, 2)|Titania and fairies. "You spotted snakes." Oberon anoints Titania's eyes. Lysander, Hermia, Demetrius and Helena in the wood.
+83(SHAKESPEARE, Midsummernight's Dream, III, 1)|The Rustics rehearse. Bottom in ass' guise is loved by Titania.
+83(SHAKESPEARE, Midsummernight's Dream, III, 2)|Puck tells Oberon. Oberon scolds Puck for bewitching the wrong lover and bids him find Helena. Lovers in the wood, Hermia and Helena quarreling. Oberon commands puck to put all right Henry VIII between lovers.
+83(SHAKESPEARE, Midsummernight's Dream, IV, 1)|Titania and Bottom. Bottom orders the fairies ab out. They sleep and Oberon removes the smell. The lovers reconciled meet Theseus and Hippolyta.
+83(SHAKESPEARE, Midsummernight's Dream, IV, 2)|----­
+83(SHAKESPEARE, Midsummernight's Dream, V, 1)|The Rustics' play enacted before Theseus and the four lovers. The Fairies arrive to bless the marriages.
 83(SHAKESPEARE, Much Ado about Nothing, I, 1)|Beatrice and Benedict spar. Claudio declares his love for Hero.
 83(SHAKESPEARE, Much Ado about Nothing, I, 2)|----­
 83(SHAKESPEARE, Much Ado about Nothing, I, 3)|name. Don John told that Don Pedro is to woo Hero in Claudio's
@@ -545,6 +535,31 @@
 83(SHAKESPEARE, Richard II, V, 4)|Exton and servant plan to kill King Richard.
 83(SHAKESPEARE, Richard II, V, 5)|King Richard in prison visited by his groom. King Richard attacks his keeper. Exton and servants rush in and Exton kills the King.
 83(SHAKESPEARE, Richard II, V, 6)|Bolingbroke and York hear of the deaths of the rebels from Northumberland, Fitzwater and Percy. Carlisle is banished. Exton enters with King Richard's body. Bolingbroke rues the deed.
+83(SHAKESPEARE, Richard III, I, 1)|Gloucester soliloquises. Clarence under arrest. Hastings enters with news that the King is ill.
+83(SHAKESPEARE, Richard III, I, 2)|Lady Anne, accompanying the body of Henry VI, is wooed by Gloucester, who begs her to kill him if she will. She reluctantly accepts his advances.
+83(SHAKESPEARE, Richard III, I, 3)|Queen Elizabeth, Rivers, Grey, Buckingham, Stanley, Gloucester, Hastings, Dorset. Quarrel between Queen and Gloucester. Queen Margaret enters and curses them, most of all Gloucester. Gloucester sends two murderers to dispatch Clarence.
+83(SHAKESPEARE, Richard III, I, 4)|Clarence recounts his nightmare to Brackenbury. Murderers wake Clarence, stab him and drown him in a Malmsey butt.
+83(SHAKESPEARE, Richard III, II, 1)|King Edward, Queen Elizabeth, Dorset, Rivers, Hastings, Buckingham, Grey -all make peace with each other. Gloucester enters and announces the death of Clarence.
+83(SHAKESPEARE, Richard III, II, 2)|Duchess of York, son and daughter of Clarence, discuss his death. Duchess blames Gloucester. Enter Queen Elizabeth and and Rivers announcing King Edward's death. All mourn. Gloucester, Buckingham, Stanley, Hastings, Radcliff enter.
+83(SHAKESPEARE, Richard III, II, 3)|Citizens discuss the King's death.
+83(SHAKESPEARE, Richard III, II, 4)|Archbishop of York, Duke of York, Queen El'izabeth, Duchess of York. Messenger tells of the arrest of Rivers, Grey and Vaughan on Gloucester and Buckingham's orders.
+83(SHAKESPEARE, Richard III, III, 1)|Prince of Wales, Gloucester, Buckingham, Catesby, Cardinal Bourchier. Hastings enters with news that Queen Elizabeth and Duke of York have taken sanctuary. Buckingham persuades Cardinal Bourchier and Hastings to remove York. They return with him and he begs a dagger from Gloucester. He and Prince of Wales leave for the tower. Gloucester, Buckingham and Catesby plot against Hastings and Stanley.
+83(SHAKESPEARE, Richard III, III, 2)|Messenger from Stanley to Hastings. Catesby sounds out Hastings. Stanley enters. He and Catesby leave for the tower, followed by Buckingham and Hastings.
+83(SHAKESPEARE, Richard III, III, 3)|Ratcliff with Rivers, Grey and Vaughan on their way to execution.
+83(SHAKESPEARE, Richard III, III, 4)|Buckingham, Stanley, Hastings, Bishop of Ely, Ratcliff and Level discuss the coronation. Gloucester enters, he and Buckingham withdraw~ He re-enters accusing Queen and Jane Shore of using witchhraft to wither his arm. When Hastings demurs, he has him executed.
+83(SHAKESPEARE, Richard III, III, 5)|Gloucester, Buckingham, Lord Mayor, Catesby, Loveland Ratcliff enter with Hastings' head.
+83(SHAKESPEARE, Richard III, III, 6)|Scrivener with Hastings' indictment.
+83(SHAKESPEARE, Richard III, III, 7)|Gloucester and Buckingham discuss the successful spread of rumours. Lord Mayor etc. enter. Catesby fetches Gloucester and Buckingham 'persuades' him to claim the throne.
+83(SHAKESPEARE, Richard III, IV, 1)|Queen Elizabeth, Duchess of York, Dorset, Duchess of Gloucester, Lady Margaret Plantagenet are forbidden to visit the Princes by Brackenbury. Stanley enters with news of Gloucester's impending coronation. All bemoan.
+83(SHAKESPEARE, Richard III, IV, 2)|Richard, Buckingham, Catesby. Richard plots Queen's death and arranges with Tyrrell for death of Princes.
+83(SHAKESPEARE, Richard III, IV, 3)|Tyrrell announces to Richard the Princes' deaths. Catesby enters with news of Buckingham's desertion.
+83(SHAKESPEARE, Richard III, IV, 4)|Queen Margaret hides from Queen Elizabeth and Duchess of York, who laments Princes' deaths. Richard enters and they all curse him. He persuades Queen Elizabeth that he wishes to marry her daughter. Ratcliff enters with news that Richmond was at sea. Stanley enters with the same news. Messengers bring news of revolt in other parts of the country and of Buckingham's capture.
+83(SHAKESPEARE, Richard III, IV, 5)|Stanley sends message via· Urswick to Richmond that Stanley's son is held hostage by Richard, who has gained Queen Elizabeth's permission to marry her daughter.
+83(SHAKESPEARE, Richard III, V, 1)|Buckingham is executed.
+83(SHAKESPEARE, Richard III, V, 2)|Richmond, Oxford, Blunt, Herbert prepare for battle.
+83(SHAKESPEARE, Richard III, V, 3)|Richard, Norfolk, Surrey survey the scene of the forthcoming battle. Richmond, Brandon, Oxford. Blunt is sent with message to Stanley. Richard also sends him a message. Stanley assures Richmond that he will help him. Richard is assailed by the ghosts of those he has wronged, who curse him and bless Richmond. Richmond and Richard respectively address their troops.
+83(SHAKESPEARE, Richard III, V, 4)|Catesby tells Norfolk of Richard's valour in battle. Richard calls for a horse
+83(SHAKESPEARE, Richard III, V, 5)|Richard fights hand-to-hand with .Richmond. He is killed and Richmond and Stanley enter with the crown. Richmond proclaims peace -and pardon.
 83(SHAKESPEARE, Romeo and Juliet, I, 1)|An affray between the houses of Montague and Capulet. Escalus intervenes.
 83(SHAKESPEARE, Romeo and Juliet, I, 2)|----­
 83(SHAKESPEARE, Romeo and Juliet, I, 3)|Juliet, Lady Capulet and the Nurse.
@@ -590,7 +605,8 @@
 83(SHAKESPEARE, The Merchant of Venice, IV, 2)|Portia, Nerissa and Graziano.
 83(SHAKESPEARE, The Merchant of Venice, V, 1)|All return to Portia's home. She and Nerissa upbraid their husbands for giving up their rings. Antonio pleads for them. The rings are produced and harmony is restored.
 83(SHAKESPEARE, The Merry Wives of Windsor, I, 1)|General bandinage between Shallow, Slender, Anne Page, Falstaff etc.
-83(SHAKESPEARE, The Merry Wives of Windsor, I, 2)|Evans gives Simple a letter for Quickly. I 3 Tavern scene. Nym, Pistol and Falstaff.
+83(SHAKESPEARE, The Merry Wives of Windsor, I, 2)|Evans gives Simple a letter for Quickly. 
+83(SHAKESPEARE, The Merry Wives of Windsor, I 3 Tavern scene. Nym, Pistol and Falstaff.
 83(SHAKESPEARE, The Merry Wives of Windsor, I, 4)|Caius' house. Many applications to Quickly to intercede with Anne Page.
 83(SHAKESPEARE, The Merry Wives of Windsor, II, 1)|Mrs. Page and Mrs. Ford receive identical letters from Falstaff.
 83(SHAKESPEARE, The Merry Wives of Windsor, II, 2)|Quickly and Falstaff arrange assignations with Mrs. Page and Mrs. Ford. Ford, disguised, asks Falstaff to court his wife.
@@ -729,7 +745,8 @@
 83(SHAKESPEARE, Two Gentlemen of Verona, II, 4)|Dialogue between Silvia, Valentine and Thurio. Duke of Milan announces Proteus. Valentine introduces Silvia to Proteus. Admits to Proteus his love for her.
 83(SHAKESPEARE, Two Gentlemen of Verona, II, 5)|Launce and Speed.
 83(SHAKESPEARE, Two Gentlemen of Verona, II, 6)|Proteus alone.
-83(SHAKESPEARE, Two Gentlemen of Verona, II, 7)|Julia and Lucetta. III 1 The Duke and Valentine. Valentine banished and Silvia imprisoned. Proteus and Valentine. Speed and Launce.
+83(SHAKESPEARE, Two Gentlemen of Verona, II, 7)|Julia and Lucetta. 
+83(SHAKESPEARE, Two Gentlemen of Verona, III, 1)|The Duke and Valentine. Valentine banished and Silvia imprisoned. Proteus and Valentine. Speed and Launce.
 83(SHAKESPEARE, Two Gentlemen of Verona, III, 2)|Duke, Proteus and Thurio.
 83(SHAKESPEARE, Two Gentlemen of Verona, IV, 1)|Valentine and Speed join the outlaws.
 83(SHAKESPEARE, Two Gentlemen of Verona, IV, 2)|Julia, disguised, meets Proteus wooing Silvia. "Who is Silvia, what is she?"
