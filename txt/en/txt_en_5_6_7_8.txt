@@ -7161,6 +7161,40 @@
 83(OVID, Metamorphoses I:747-764)|Phaethon’s parentage
 83(OVID, Metamorphoses I:765-779)|Phaethon sets out for the Palace of the Sun
 83(OVID, Metamorphoses II)|Phaethon’s fall, Callisto, Coronis, Aglauros, Europa
+83(OVID, Metamorphoses II:1-30)|The Palace of the Sun
+83(OVID, Metamorphoses II:31-48)|Phaethon and his father
+83(OVID, Metamorphoses II:49-62)|The Sun’s admonitions
+83(OVID, Metamorphoses II:63-89)|His further warnings
+83(OVID, Metamorphoses II:90-110)|Phaethon insists on driving the chariot
+83(OVID, Metamorphoses II:111-149)|The Sun’s instructions
+83(OVID, Metamorphoses II:150-177)|The Horses run wild
+83(OVID, Metamorphoses II:178-200)|Phaethon lets go of the reins
+83(OVID, Metamorphoses II:201-226)|The mountains burn
+83(OVID, Metamorphoses II:227-271)|The rivers are dried up
+83(OVID, Metamorphoses II:272-300)|Earth complains
+83(OVID, Metamorphoses II:301-328)|Jupiter intervenes and Phaethon dies
+83(OVID, Metamorphoses II:329-343)|Phaethon’s sisters grieve for him
+83(OVID, Metamorphoses II:344-366)|The sisters turned into poplar trees
+83(OVID, Metamorphoses II:367-380)|Cycnus
+83(OVID, Metamorphoses II:381-400)|The Sun returns to his task
+83(OVID, Metamorphoses II:401-416)|Jupiter sees Callisto
+83(OVID, Metamorphoses II:417-440)|Jupiter rapes Callisto
+83(OVID, Metamorphoses II:441-465)|Diana discover’s Callisto’s shame
+83(OVID, Metamorphoses II:466-495)|Callisto turned into a bear
+83(OVID, Metamorphoses II:496-507)|Arcas and Callisto become constellations
+83(OVID, Metamorphoses II:508-530)|Juno complains to Tethys and Oceanus
+83(OVID, Metamorphoses II:531-565)|The Raven and the Crow
+83(OVID, Metamorphoses II:566-595)|The Crow’s story
+83(OVID, Metamorphoses II:596-611)|Coronis is betrayed and Phoebus kills her
+83(OVID, Metamorphoses II:612-632)|Phoebus repents and saves Aesculapius
+83(OVID, Metamorphoses II:633-675)|Chiron and Chariclo’s prophecies
+83(OVID, Metamorphoses II:676-707)|Mercury, Battus and the stolen cattle
+83(OVID, Metamorphoses II:708-736)|Mercury sees Herse
+83(OVID, Metamorphoses II:737-751)|Mercury elicits the help of Aglauros
+83(OVID, Metamorphoses II:752-786)|Minerva calls on Envy
+83(OVID, Metamorphoses II:787-811)|Envy poisons Aglauros’s heart
+83(OVID, Metamorphoses II:812-832)|Aglauros is turned to stone
+83(OVID, Metamorphoses II:833-875)|Jupiter’s abduction of Europa
 83(OVID, Metamorphoses III)|Cadmus, Actaeon, Semele, Tiresias, Narcissus, Pentheus
 83(OVID, Metamorphoses IV)|Pyramus, Leucothoe, Salmacis, Ino, Cadmus, Perseus
 83(OVID, Metamorphoses V)|Perseus, Calliope, Proserpine, Arethusa, The Pierides
