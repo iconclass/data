@@ -130371,69 +130371,91 @@ C 83(OVID, Metamorphoses III:1-49)
 $
 N 83(OVID, Metamorphoses III:1-49)
 K 8k
+R 95A(CADMUS)31
 $
 N 83(OVID, Metamorphoses III:50-94)
 K 8k
+R 95A(CADMUS)34
 $
 N 83(OVID, Metamorphoses III:95-114)
 K 8k
+R 95A(CADMUS)35
 $
 N 83(OVID, Metamorphoses III:115-137)
 K 8k
+R 95A(CADMUS)36
+; 95A(CADMUS)37
 $
 N 83(OVID, Metamorphoses III:138-164)
 K 8k
+R 92C352
 $
 N 83(OVID, Metamorphoses III:165-205)
 K 8k
+R 97C1
 $
 N 83(OVID, Metamorphoses III:206-231)
 K 8k
+R 34B11(+9512)
 $
 N 83(OVID, Metamorphoses III:232-252)
 K 8k
+R 97C11
 $
 N 83(OVID, Metamorphoses III:253-272)
 K 8k
 $
 N 83(OVID, Metamorphoses III:273-315)
 K 8k
+R 95B(SEMELE)51
 $
 N 83(OVID, Metamorphoses III:316-338)
 K 8k
+R 95A(TIRESIAS)61
 $
 N 83(OVID, Metamorphoses III:339-358)
 K 8k
+R 95A(NARCISSUS)21
 $
 N 83(OVID, Metamorphoses III:359-401)
 K 8k
+R 97HH5
 $
 N 83(OVID, Metamorphoses III:402-436)
 K 8k
+R 95A(NARCISSUS)21
 $
 N 83(OVID, Metamorphoses III:437-473)
 K 8k
+R 95A(NARCISSUS)6
 $
 N 83(OVID, Metamorphoses III:474-510)
 K 8k
+R 97B6
 $
 N 83(OVID, Metamorphoses III:511-527)
 K 8k
+R 95A(TIRESIAS)51
 $
 N 83(OVID, Metamorphoses III:528-571)
 K 8k
+R 95A(PENTHEUS)41
 $
 N 83(OVID, Metamorphoses III:572-596)
 K 8k
+R 95A(PENTHEUS)411
 $
 N 83(OVID, Metamorphoses III:597-637)
 K 8k
+R 92L15
 $
 N 83(OVID, Metamorphoses III:638-691)
 K 8k
+R 97C7
 $
 N 83(OVID, Metamorphoses III:692-733)
 K 8k
+R 95A(PENTHEUS)68
 $
 N 83(OVID, Metamorphoses IV)
 K 8k
@@ -130462,9 +130484,11 @@ C 83(OVID, Metamorphoses IV:1-30)
 $
 N 83(OVID, Metamorphoses IV:1-30)
 K 8k
+R 92L1791
 $
 N 83(OVID, Metamorphoses IV:31-54)
 K 8k
+R 97CC7(+0)
 $
 N 83(OVID, Metamorphoses IV:55-92)
 K 8k
