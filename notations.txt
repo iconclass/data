@@ -130033,51 +130033,68 @@ C 83(OVID, Metamorphoses I:1-20)
 $
 N 83(OVID, Metamorphoses I:1-20)
 K 8k
+R 91A14(CHAOS)
 $
 N 83(OVID, Metamorphoses I:21-31)
 K 8k
+R 91A2
 $
 N 83(OVID, Metamorphoses I:32-51)
 K 8k
+R 91A21
+; 91A22
 $
 N 83(OVID, Metamorphoses I:52-68)
 K 8k
+R 91A23
 $
 N 83(OVID, Metamorphoses I:68-88)
 K 8k
+R 91E1
 $
 N 83(OVID, Metamorphoses I:89-112)
 K 8k
+R 91E21
 $
 N 83(OVID, Metamorphoses I:113-124)
 K 8k
+R 91E22
 $
 N 83(OVID, Metamorphoses I:125-150)
 K 8k
+R 91E23
+; 91E24
 $
 N 83(OVID, Metamorphoses I:151-176)
 K 8k
+R 91C21
 $
 N 83(OVID, Metamorphoses I:177-198)
 K 8k
 $
 N 83(OVID, Metamorphoses I:199-243)
 K 8k
+R 97C4
 $
 N 83(OVID, Metamorphoses I:244-273)
 K 8k
+R 91E7
 $
 N 83(OVID, Metamorphoses I:274-292)
 K 8k
+R 91E7
 $
 N 83(OVID, Metamorphoses I:293-312)
 K 8k
+R 91E7
 $
 N 83(OVID, Metamorphoses I:313-347)
 K 8k
+R 91E72
 $
 N 83(OVID, Metamorphoses I:348-380)
 K 8k
+R 91E73
 $
 N 83(OVID, Metamorphoses I:381-415)
 K 8k
@@ -130087,15 +130104,19 @@ K 8k
 $
 N 83(OVID, Metamorphoses I:438-472)
 K 8k
+R 92B342
 $
 N 83(OVID, Metamorphoses I:473-503)
 K 8k
+R 92B325
 $
 N 83(OVID, Metamorphoses I:504-524)
 K 8k
+R 92B325
 $
 N 83(OVID, Metamorphoses I:525-552)
 K 8k
+R 97AA1
 $
 N 83(OVID, Metamorphoses I:553-567)
 K 8k
@@ -130105,27 +130126,39 @@ K 8k
 $
 N 83(OVID, Metamorphoses I:587-600)
 K 8k
+R 92B1219
 $
 N 83(OVID, Metamorphoses I:601-621)
 K 8k
+R 97CC6
 $
 N 83(OVID, Metamorphoses I:622-641)
 K 8k
+R 97CC61
+; 97CC62
 $
 N 83(OVID, Metamorphoses I:642-667)
 K 8k
+R 97CC621
 $
 N 83(OVID, Metamorphoses I:668-688)
 K 8k
+R 97CC63
 $
 N 83(OVID, Metamorphoses I:689-721)
 K 8k
+R 97BB5
+; 97CC64
 $
 N 83(OVID, Metamorphoses I:722-746)
 K 8k
+R 97D12
+; 97CC651
 $
 N 83(OVID, Metamorphoses I:747-764)
 K 8k
+R 92B39111
+; 92B39112
 $
 N 83(OVID, Metamorphoses I:765-779)
 K 8k
