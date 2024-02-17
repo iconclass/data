@@ -129979,6 +129979,14 @@ K 8k
 $
 N 83(OVID, Metamorphoses)
 K 8k
+C 83(OVID, Metamorphoses I)
+$
+N 83(OVID, Metamorphoses I)
+K 8k
+C 83(OVID, Metamorphoses I:1-20)
+$
+N 83(OVID, Metamorphoses I:1-20)
+K 8k
 $
 N 83(PETRARCA, Trionfi)
 K 8k
