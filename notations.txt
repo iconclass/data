@@ -129980,15 +129980,201 @@ $
 N 83(OVID, Metamorphoses)
 K 8k
 C 83(OVID, Metamorphoses I)
+; 83(OVID, Metamorphoses II)
+; 83(OVID, Metamorphoses III)
+; 83(OVID, Metamorphoses IV)
+; 83(OVID, Metamorphoses V)
+; 83(OVID, Metamorphoses VI)
+; 83(OVID, Metamorphoses VII)
+; 83(OVID, Metamorphoses VIII)
+; 83(OVID, Metamorphoses IX)
+; 83(OVID, Metamorphoses X)
+; 83(OVID, Metamorphoses XI)
+; 83(OVID, Metamorphoses XII)
+; 83(OVID, Metamorphoses XIII)
+; 83(OVID, Metamorphoses XIV)
+; 83(OVID, Metamorphoses XV)
 $
 N 83(OVID, Metamorphoses I)
 K 8k
 C 83(OVID, Metamorphoses I:1-20)
+; 83(OVID, Metamorphoses I:21-31)
+; 83(OVID, Metamorphoses I:32-51)
+; 83(OVID, Metamorphoses I:52-68)
+; 83(OVID, Metamorphoses I:68-88)
+; 83(OVID, Metamorphoses I:89-112)
+; 83(OVID, Metamorphoses I:113-124)
+; 83(OVID, Metamorphoses I:125-150)
+; 83(OVID, Metamorphoses I:151-176)
+; 83(OVID, Metamorphoses I:177-198)
+; 83(OVID, Metamorphoses I:199-243)
+; 83(OVID, Metamorphoses I:244-273)
+; 83(OVID, Metamorphoses I:274-292)
+; 83(OVID, Metamorphoses I:293-312)
+; 83(OVID, Metamorphoses I:313-347)
+; 83(OVID, Metamorphoses I:348-380)
+; 83(OVID, Metamorphoses I:381-415)
+; 83(OVID, Metamorphoses I:416-437)
+; 83(OVID, Metamorphoses I:438-472)
+; 83(OVID, Metamorphoses I:473-503)
+; 83(OVID, Metamorphoses I:504-524)
+; 83(OVID, Metamorphoses I:525-552)
+; 83(OVID, Metamorphoses I:553-567)
+; 83(OVID, Metamorphoses I:568-587)
+; 83(OVID, Metamorphoses I:587-600)
+; 83(OVID, Metamorphoses I:601-621)
+; 83(OVID, Metamorphoses I:622-641)
+; 83(OVID, Metamorphoses I:642-667)
+; 83(OVID, Metamorphoses I:668-688)
+; 83(OVID, Metamorphoses I:689-721)
+; 83(OVID, Metamorphoses I:722-746)
+; 83(OVID, Metamorphoses I:747-764)
+; 83(OVID, Metamorphoses I:765-779)
 $
 N 83(OVID, Metamorphoses I:1-20)
 K 8k
 $
-N 83(PETRARCA, Trionfi)
+N 83(OVID, Metamorphoses I:21-31)
+K 8k
+$
+N 83(OVID, Metamorphoses I:32-51)
+K 8k
+$
+N 83(OVID, Metamorphoses I:52-68)
+K 8k
+$
+N 83(OVID, Metamorphoses I:68-88)
+K 8k
+$
+N 83(OVID, Metamorphoses I:89-112)
+K 8k
+$
+N 83(OVID, Metamorphoses I:113-124)
+K 8k
+$
+N 83(OVID, Metamorphoses I:125-150)
+K 8k
+$
+N 83(OVID, Metamorphoses I:151-176)
+K 8k
+$
+N 83(OVID, Metamorphoses I:177-198)
+K 8k
+$
+N 83(OVID, Metamorphoses I:199-243)
+K 8k
+$
+N 83(OVID, Metamorphoses I:244-273)
+K 8k
+$
+N 83(OVID, Metamorphoses I:274-292)
+K 8k
+$
+N 83(OVID, Metamorphoses I:293-312)
+K 8k
+$
+N 83(OVID, Metamorphoses I:313-347)
+K 8k
+$
+N 83(OVID, Metamorphoses I:348-380)
+K 8k
+$
+N 83(OVID, Metamorphoses I:381-415)
+K 8k
+$
+N 83(OVID, Metamorphoses I:416-437)
+K 8k
+$
+N 83(OVID, Metamorphoses I:438-472)
+K 8k
+$
+N 83(OVID, Metamorphoses I:473-503)
+K 8k
+$
+N 83(OVID, Metamorphoses I:504-524)
+K 8k
+$
+N 83(OVID, Metamorphoses I:525-552)
+K 8k
+$
+N 83(OVID, Metamorphoses I:553-567)
+K 8k
+$
+N 83(OVID, Metamorphoses I:568-587)
+K 8k
+$
+N 83(OVID, Metamorphoses I:587-600)
+K 8k
+$
+N 83(OVID, Metamorphoses I:601-621)
+K 8k
+$
+N 83(OVID, Metamorphoses I:622-641)
+K 8k
+$
+N 83(OVID, Metamorphoses I:642-667)
+K 8k
+$
+N 83(OVID, Metamorphoses I:668-688)
+K 8k
+$
+N 83(OVID, Metamorphoses I:689-721)
+K 8k
+$
+N 83(OVID, Metamorphoses I:722-746)
+K 8k
+$
+N 83(OVID, Metamorphoses I:747-764)
+K 8k
+$
+N 83(OVID, Metamorphoses I:765-779)
+K 8k
+$
+N 83(OVID, Metamorphoses II)
+K 8k
+$
+N 83(OVID, Metamorphoses II)
+K 8k
+$
+N 83(OVID, Metamorphoses III)
+K 8k
+$
+N 83(OVID, Metamorphoses IV)
+K 8k
+$
+N 83(OVID, Metamorphoses V)
+K 8k
+$
+N 83(OVID, Metamorphoses VI)
+K 8k
+$
+N 83(OVID, Metamorphoses VII)
+K 8k
+$
+N 83(OVID, Metamorphoses VIII)
+K 8k
+$
+N 83(OVID, Metamorphoses IX)
+K 8k
+$
+N 83(OVID, Metamorphoses X)
+K 8k
+$
+N 83(OVID, Metamorphoses XI)
+K 8k
+$
+N 83(OVID, Metamorphoses XII)
+K 8k
+$
+N 83(OVID, Metamorphoses XIII)
+K 8k
+$
+N 83(OVID, Metamorphoses XIV)
+K 8k
+$
+N 83(OVID, Metamorphoses XV)
+K 8k
+$N 83(PETRARCA, Trionfi)
 K 8k
 $
 N 83(POPE, Rape of the lock)

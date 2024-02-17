@@ -7128,6 +7128,52 @@
 83(OVID, Metamorphoses)|(scenes from) specific works of literature: Ovid, Metamorphoses
 83(OVID, Metamorphoses I)|Chaos, Four Ages, Flood, Daphne, Io, Syrinx, Phaethon
 83(OVID, Metamorphoses I:1-20)|The Primal Chaos
+83(OVID, Metamorphoses I:21-31)|Separation of the elements
+83(OVID, Metamorphoses I:32-51)|The earth and sea. The five zones.
+83(OVID, Metamorphoses I:52-68)|The four winds
+83(OVID, Metamorphoses I:68-88)|Humankind
+83(OVID, Metamorphoses I:89-112)|The Golden Age
+83(OVID, Metamorphoses I:113-124)|The Silver Age
+83(OVID, Metamorphoses I:125-150)|The Bronze Age
+83(OVID, Metamorphoses I:151-176)|The giants
+83(OVID, Metamorphoses I:177-198)|Jupiter threatens to destroy humankind
+83(OVID, Metamorphoses I:199-243)|Lycaon is turned into a wolf
+83(OVID, Metamorphoses I:244-273)|Jupiter invokes the floodwaters
+83(OVID, Metamorphoses I:274-292)|The Flood
+83(OVID, Metamorphoses I:293-312)|The world is drowned
+83(OVID, Metamorphoses I:313-347)|Deucalion and his wife Pyrrha
+83(OVID, Metamorphoses I:348-380)|They ask Themis for help
+83(OVID, Metamorphoses I:381-415)|The human race is re-created
+83(OVID, Metamorphoses I:416-437)|Other species are generated
+83(OVID, Metamorphoses I:438-472)|Phoebus kills the Python and sees Daphne
+83(OVID, Metamorphoses I:473-503)|Phoebus pursues Daphne
+83(OVID, Metamorphoses I:504-524)|Phoebus begs Daphne to yield to him
+83(OVID, Metamorphoses I:525-552)|Daphne becomes the laurel bough
+83(OVID, Metamorphoses I:553-567)|Phoebus honours Daphne
+83(OVID, Metamorphoses I:568-587)|Inachus mourns for Io
+83(OVID, Metamorphoses I:587-600)|Jupiter’s rape of Io
+83(OVID, Metamorphoses I:601-621)|Jupiter transforms Io to a heifer
+83(OVID, Metamorphoses I:622-641)|Juno claims Io and Argus guards her
+83(OVID, Metamorphoses I:642-667)|Inachus finds Io and grieves for her
+83(OVID, Metamorphoses I:668-688)|Jupiter sends Mercury to kill Argus
+83(OVID, Metamorphoses I:689-721)|Mercury tells the story of Syrinx
+83(OVID, Metamorphoses I:722-746)|Io is returned to human form
+83(OVID, Metamorphoses I:747-764)|Phaethon’s parentage
+83(OVID, Metamorphoses I:765-779)|Phaethon sets out for the Palace of the Sun
+83(OVID, Metamorphoses II)|Phaethon’s fall, Callisto, Coronis, Aglauros, Europa
+83(OVID, Metamorphoses III)|Cadmus, Actaeon, Semele, Tiresias, Narcissus, Pentheus
+83(OVID, Metamorphoses IV)|Pyramus, Leucothoe, Salmacis, Ino, Cadmus, Perseus
+83(OVID, Metamorphoses V)|Perseus, Calliope, Proserpine, Arethusa, The Pierides
+83(OVID, Metamorphoses VI)|Arachne, Niobe, Marsyas, Procne, Philomela, Boreas
+83(OVID, Metamorphoses VII)|Jason, Medea, Minos, The Plague, Myrmidons, Procris
+83(OVID, Metamorphoses VIII)|Scylla, Daedalus, Icarus, Meleager, Philemon and Baucis
+83(OVID, Metamorphoses IX)|Hercules, Alcmene, Iole, Galanthis, Dryope, Byblis, Iphis
+83(OVID, Metamorphoses X)|Orpheus, Pygmalion, Myrrha, Venus and Adonis, Atalanta
+83(OVID, Metamorphoses XI)|Death of Orpheus, Midas, Peleus, Ceyx, Alcyone, Aesacus
+83(OVID, Metamorphoses XII)|Rumour, Cycnus, Caeneus, Lapiths and Centaurs, Achilles
+83(OVID, Metamorphoses XIII)|Ajax, Ulysses, Polyxena, Hecuba, Memnon, Galatea, Glaucus
+83(OVID, Metamorphoses XIV)|Scylla, Sibyl, Polyphemus, Circe, Picus, Pomona, Romulus
+83(OVID, Metamorphoses XV)|Pythagoras, Hippolytus, Cipus, Aesculapius, The Caesars
 83(PETRARCA, Trionfi)|(scenes from) specific works of literature: Petrarca, Trionfi
 83(POPE, Rape of the lock)|(scenes from) specific works of literature: Pope, Rape of the lock
 83(SCARRON, Roman Comique)|(scenes from) specific works of literature: Scarron, Roman Comique
