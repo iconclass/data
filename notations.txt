@@ -130891,54 +130891,96 @@ C 83(OVID, Metamorphoses VIII:1-80)
 $
 N 83(OVID, Metamorphoses VIII:1-80)
 K 8k
+R 95B(SCYLLA)21
 $
 N 83(OVID, Metamorphoses VIII:81-151)
 K 8k
+R 95B(SCYLLA)211
+; 95B(SCYLLA)212
+; 97DD26
+; 97D25
 $
 N 83(OVID, Metamorphoses VIII:152-182)
 K 8k
+R 95A(MINOTAUR)11
+; 95A(DAEDALUS)52
+; 95A(MINOTAUR)31
+; 94M35
+; 94M351
+; 94M36
+; 95B(ARIADNE)61
+; 92L1211
+; 92L12111
+; 92L12112
 $
 N 83(OVID, Metamorphoses VIII:183-235)
 K 8k
+R 95A(ICARUS)511
+; 95A(ICARUS)512
+; 95A(ICARUS)68
 $
 N 83(OVID, Metamorphoses VIII:236-259)
 K 8k
+R 97D26
+; 47D8(SAW)
+; 49D5111
 $
 N 83(OVID, Metamorphoses VIII:260-328)
 K 8k
+R 94N311
+; 94N32
+; 94N321
 $
 N 83(OVID, Metamorphoses VIII:329-375)
 K 8k
+R 94N32
 $
 N 83(OVID, Metamorphoses VIII:376-424)
 K 8k
+R 94N322
 $
 N 83(OVID, Metamorphoses VIII:425-450)
 K 8k
+R 94N323
+; 95A(PLEXIPPUS)4
+; 95A(TOXEUS)4
+; 25F24(BOAR)(+33)
 $
 N 83(OVID, Metamorphoses VIII:451-514)
 K 8k
+R 95B(ALTHAEA)6
 $
 N 83(OVID, Metamorphoses VIII:515-546)
 K 8k
+R 94N68
 $
 N 83(OVID, Metamorphoses VIII:547-610)
 K 8k
+R 97I3
+; 92K1121
 $
 N 83(OVID, Metamorphoses VIII:611-678)
 K 8k
+R 95A(PHILEMON & BAUCIS)51
 $
 N 83(OVID, Metamorphoses VIII:679-724)
 K 8k
+R 95A(PHILEMON & BAUCIS)52
+; 97A4
 $
 N 83(OVID, Metamorphoses VIII:725-776)
 K 8k
+R 95A(ERYSICHTHON)41
 $
 N 83(OVID, Metamorphoses VIII:777-842)
 K 8k
+R 95A(ERYSICHTHON)611
 $
 N 83(OVID, Metamorphoses VIII:843-884)
 K 8k
+R 95A(ERYSICHTHON)612
+; 97K4
+; 97M1
 $
 N 83(OVID, Metamorphoses IX)
 K 8k
@@ -130959,45 +131001,81 @@ C 83(OVID, Metamorphoses IX:1-88)
 $
 N 83(OVID, Metamorphoses IX:1-88)
 K 8k
+R 94L41111
+; 94L41112
 $
 N 83(OVID, Metamorphoses IX:89-158)
 K 8k
+R 94L221
+; 94L223
+; 94L681
+; 94L6811
 $
 N 83(OVID, Metamorphoses IX:159-210)
 K 8k
+R 94L6(+0)
 $
 N 83(OVID, Metamorphoses IX:211-272)
 K 8k
+R 94L6812
+; 97F3
+; 94L682
+; 94L6821
+; 94L69
 $
 N 83(OVID, Metamorphoses IX:273-323)
 K 8k
+R 94L11
+; 97CC4
 $
 N 83(OVID, Metamorphoses IX:324-393)
 K 8k
+R 97BB2
+; 97BB3(+0)
 $
 N 83(OVID, Metamorphoses IX:394-417)
 K 8k
+R 97L4
+; 94B153
+; 94B154
+; 94B231
+; 94B232
+; 94B2361
+; 94B234
+; 94B236
 $
 N 83(OVID, Metamorphoses IX:418-438)
 K 8k
+R 97L2
 $
 N 83(OVID, Metamorphoses IX:439-516)
 K 8k
+R 95B(BYBLIS)21
 $
 N 83(OVID, Metamorphoses IX:517-594)
 K 8k
+R 95B(BYBLIS)21(+0)
+; 46E231
+; 42G29
 $
 N 83(OVID, Metamorphoses IX:595-665)
 K 8k
+R 97HH2
 $
 N 83(OVID, Metamorphoses IX:666-713)
 K 8k
+R 95B(IPHIS)11
+; 95B(IPHIS)111
 $
 N 83(OVID, Metamorphoses IX:714-763)
 K 8k
+R 95B(IPHIS)21
+; 95B(IPHIS)211
 $
 N 83(OVID, Metamorphoses IX:764-797)
 K 8k
+R 97K3
+; 31A74
 $
 N 83(OVID, Metamorphoses X)
 K 8k
@@ -131018,45 +131096,72 @@ C 83(OVID, Metamorphoses X:1-85)
 $
 N 83(OVID, Metamorphoses X:1-85)
 K 8k
+R 94O211
+; 94O212
+; 94O2121
+; 94O2122
+; 94O2123
 $
 N 83(OVID, Metamorphoses X:86-105)
 K 8k
+R 94O511
 $
 N 83(OVID, Metamorphoses X:106-142)
 K 8k
+R 97A3
 $
 N 83(OVID, Metamorphoses X:143-219)
 K 8k
+R 92BB121
+; 97B2
+; 97B5
 $
 N 83(OVID, Metamorphoses X:220-242)
 K 8k
+R 97FF6
+; 33C5
 $
 N 83(OVID, Metamorphoses X:243-297)
 K 8k
+R 95A(PYGMALION)21
+; 95A(PYGMALION)211
+; 97O5
 $
 N 83(OVID, Metamorphoses X:298-355)
 K 8k
+R 95B(MYRRHA)21
+; 42G29
 $
 N 83(OVID, Metamorphoses X:356-430)
 K 8k
+R 95B(MYRRHA)211
 $
 N 83(OVID, Metamorphoses X:431-502)
 K 8k
+R 95B(MYRRHA)212
+; 95B(MYRRHA)213
+; 97AA4
 $
 N 83(OVID, Metamorphoses X:503-559)
 K 8k
+R 92C4911
 $
 N 83(OVID, Metamorphoses X:560-637)
 K 8k
+R 95B(ATALANTE)21
 $
 N 83(OVID, Metamorphoses X:638-680)
 K 8k
+R 95B(ATALANTE)211
+; 95B(ATALANTE)2111
 $
 N 83(OVID, Metamorphoses X:681-707)
 K 8k
+R 97CC1
 $
 N 83(OVID, Metamorphoses X:708-739)
 K 8k
+R 92C4915
 $
 N 83(OVID, Metamorphoses XI)
 K 8k
@@ -131078,21 +131183,30 @@ C 83(OVID, Metamorphoses XI:1-66)
 $
 N 83(OVID, Metamorphoses XI:1-66)
 K 8k
+R 94O68
+; 94O681
+; 31E23411
 $
 N 83(OVID, Metamorphoses XI:67-84)
 K 8k
+R 97AA8
 $
 N 83(OVID, Metamorphoses XI:85-145)
 K 8k
+R 97O7
+; 97O71
 $
 N 83(OVID, Metamorphoses XI:146-171)
 K 8k
+R 92B3411
 $
 N 83(OVID, Metamorphoses XI:172-193)
 K 8k
+R 97C6
 $
 N 83(OVID, Metamorphoses XI:194-220)
 K 8k
+R 95A(LAOMEDON)3
 $
 N 83(OVID, Metamorphoses XI:221-265)
 K 8k
