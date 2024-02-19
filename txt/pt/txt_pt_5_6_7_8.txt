@@ -7117,7 +7117,307 @@
 83(MACPHERSON, Poems of Ossian)|(cenas de) obras específicas da literatura: Macpherson, Poems of Ossian
 83(MANZONI, Promessi Sposi)|(cenas de) obras específicas da literatura: Manzoni, Os Noivos
 83(MELVILLE, Moby Dick)|(cenas de) obras específicas da literatura: Melville, Moby Dick
-83(OVID, Metamorphoses)|(cenas de) obras específicas da literatura: Ovídio, Metamorfoses
+83(OVID, Metamorphoses)|(cenas de) obras específicas de literatura: Ovídio, Metamorfoses
+83(OVID, Metamorphoses I)|Caos, Quatro Idades, Dilúvio, Daphne, Io, Syrinx, Phaethon
+83(OVID, Metamorphoses I:1-20)|O caos primordial
+83(OVID, Metamorphoses I:21-31)|Separação dos elementos
+83(OVID, Metamorphoses I:32-51)|A terra e o mar. As cinco zonas.
+83(OVID, Metamorphoses I:52-68)|Os quatro ventos
+83(OVID, Metamorphoses I:68-88)|Humanidade
+83(OVID, Metamorphoses I:89-112)|A Idade de Ouro
+83(OVID, Metamorphoses I:113-124)|A Era de Prata
+83(OVID, Metamorphoses I:125-150)|A Idade do Bronze
+83(OVID, Metamorphoses I:151-176)|Os gigantes
+83(OVID, Metamorphoses I:177-198)|Júpiter ameaça destruir a humanidade
+83(OVID, Metamorphoses I:199-243)|Lycaon é transformado em lobo
+83(OVID, Metamorphoses I:244-273)|Júpiter invoca as águas do dilúvio
+83(OVID, Metamorphoses I:274-292)|A inundação
+83(OVID, Metamorphoses I:293-312)|O mundo está afogado
+83(OVID, Metamorphoses I:313-347)|Deucalião e sua esposa Pirra
+83(OVID, Metamorphoses I:348-380)|Eles pedem ajuda a Themis
+83(OVID, Metamorphoses I:381-415)|A raça humana é recriada
+83(OVID, Metamorphoses I:416-437)|Outras espécies são geradas
+83(OVID, Metamorphoses I:438-472)|Febo mata Python e vê Daphne
+83(OVID, Metamorphoses I:473-503)|Febo persegue Daphne
+83(OVID, Metamorphoses I:504-524)|Febo implora a Daphne que se renda a ele
+83(OVID, Metamorphoses I:525-552)|Daphne se torna o ramo de louro
+83(OVID, Metamorphoses I:553-567)|Febo homenageia Daphne
+83(OVID, Metamorphoses I:568-587)|Inachus chora por Io
+83(OVID, Metamorphoses I:587-600)|O estupro de Io por Júpiter
+83(OVID, Metamorphoses I:601-621)|Júpiter transforma Io em uma novilha
+83(OVID, Metamorphoses I:622-641)|Juno afirma que Io e Argus a protegem
+83(OVID, Metamorphoses I:642-667)|Inachus encontra Io e chora por ela
+83(OVID, Metamorphoses I:668-688)|Júpiter envia Mercúrio para matar Argus
+83(OVID, Metamorphoses I:689-721)|Mercúrio conta a história da Sirinx
+83(OVID, Metamorphoses I:722-746)|Io retorna à forma humana
+83(OVID, Metamorphoses I:747-764)|Parentesco de Phaethon
+83(OVID, Metamorphoses I:765-779)|Phaethon parte para o Palácio do Sol
+83(OVID, Metamorphoses II)|A queda de Phaethon, Calisto, Coronis, Aglauros, Europa
+83(OVID, Metamorphoses II:1-30)|O Palácio do Sol
+83(OVID, Metamorphoses II:31-48)|Faetonte e seu pai
+83(OVID, Metamorphoses II:49-62)|As advertências do Sol
+83(OVID, Metamorphoses II:63-89)|Suas advertências adicionais
+83(OVID, Metamorphoses II:90-110)|Phaethon insiste em dirigir a carruagem
+83(OVID, Metamorphoses II:111-149)|As instruções do Sol
+83(OVID, Metamorphoses II:150-177)|Os cavalos correm soltos
+83(OVID, Metamorphoses II:178-200)|Phaethon solta as rédeas
+83(OVID, Metamorphoses II:201-226)|As montanhas queimam
+83(OVID, Metamorphoses II:227-271)|Os rios estão secos
+83(OVID, Metamorphoses II:272-300)|Terra reclama
+83(OVID, Metamorphoses II:301-328)|Júpiter intervém e Phaethon morre
+83(OVID, Metamorphoses II:329-343)|As irmãs de Phaethon sofrem por ele
+83(OVID, Metamorphoses II:344-366)|As irmãs se transformaram em choupos
+83(OVID, Metamorphoses II:367-380)|Cycnus
+83(OVID, Metamorphoses II:381-400)|O Sol retorna à sua tarefa
+83(OVID, Metamorphoses II:401-416)|Júpiter vê Calisto
+83(OVID, Metamorphoses II:417-440)|Júpiter estupra Calisto
+83(OVID, Metamorphoses II:441-465)|Diana descobre a vergonha de Calisto
+83(OVID, Metamorphoses II:466-495)|Calisto se transformou em um urso
+83(OVID, Metamorphoses II:496-507)|Arcas e Calisto tornam-se constelações
+83(OVID, Metamorphoses II:508-530)|Juno reclama com Tétis e Oceanus
+83(OVID, Metamorphoses II:531-565)|O Corvo e o Corvo
+83(OVID, Metamorphoses II:566-595)|A história do Corvo
+83(OVID, Metamorphoses II:596-611)|Coronis é traído e Febo a mata
+83(OVID, Metamorphoses II:612-632)|Febo se arrepende e salva Esculápio
+83(OVID, Metamorphoses II:633-675)|As profecias de Quíron e Cariclo
+83(OVID, Metamorphoses II:676-707)|Mercúrio, Battus e o gado roubado
+83(OVID, Metamorphoses II:708-736)|Mercúrio vê Herse
+83(OVID, Metamorphoses II:737-751)|Mercúrio pede a ajuda de Aglauros
+83(OVID, Metamorphoses II:752-786)|Minerva chama a inveja
+83(OVID, Metamorphoses II:787-811)|A inveja envenena o coração de Aglauros
+83(OVID, Metamorphoses II:812-832)|Aglauros é transformado em pedra
+83(OVID, Metamorphoses II:833-875)|O rapto de Europa por Júpiter
+83(OVID, Metamorphoses III)|Cadmo, Actéon, Sêmele, Tirésias, Narciso, Penteu
+83(OVID, Metamorphoses III:1-49)|Cadmo procura sua irmã Europa
+83(OVID, Metamorphoses III:50-94)|Cadmo mata o Dragão
+83(OVID, Metamorphoses III:95-114)|Cadmo semeia os dentes do Dragão
+83(OVID, Metamorphoses III:115-137)|Cadmo funda Tebas
+83(OVID, Metamorphoses III:138-164)|Actéon retorna da caça
+83(OVID, Metamorphoses III:165-205)|Actéon vê Diana nua e se transforma em cervo.
+83(OVID, Metamorphoses III:206-231)|Actéon é perseguido por seus cães
+83(OVID, Metamorphoses III:232-252)|Actéon é morto pelos cães
+83(OVID, Metamorphoses III:253-272)|Juno se propõe a punir Semele
+83(OVID, Metamorphoses III:273-315)|Semele é consumida pelo fogo de Júpiter.
+83(OVID, Metamorphoses III:316-338)|O julgamento de Tirésias
+83(OVID, Metamorphoses III:339-358)|Eco vê Narciso
+83(OVID, Metamorphoses III:359-401)|Como Juno alterou a fala de Echo
+83(OVID, Metamorphoses III:402-436)|Narciso se vê e se apaixona
+83(OVID, Metamorphoses III:437-473)|Narciso lamenta a dor do amor não correspondido
+83(OVID, Metamorphoses III:474-510)|Narciso se transforma em flor
+83(OVID, Metamorphoses III:511-527)|Tirésias profetiza o destino de Penteu
+83(OVID, Metamorphoses III:528-571)|Penteu rejeita a adoração de Baco
+83(OVID, Metamorphoses III:572-596)|Acoetes é capturado e interrogado
+83(OVID, Metamorphoses III:597-637)|A história de Acoetes – o lindo menino
+83(OVID, Metamorphoses III:638-691)|O navio e a tripulação de Acoetes são transformados
+83(OVID, Metamorphoses III:692-733)|Penteu é morto pelas Ménades
+83(OVID, Metamorphoses IV)|Píramo, Leucothoe, Salmacis, Ino, Cadmo, Perseu
+83(OVID, Metamorphoses IV:1-30)|O Festival de Baco
+83(OVID, Metamorphoses IV:31-54)|As filhas de Minyas rejeitam Baco
+83(OVID, Metamorphoses IV:55-92)|Arsippe conta a história de Píramo e Tisbe
+83(OVID, Metamorphoses IV:93-127)|A morte de Píramo
+83(OVID, Metamorphoses IV:128-166)|A morte de Tisbe
+83(OVID, Metamorphoses IV:167-189)|A história de Leuconoë: Marte e Vênus
+83(OVID, Metamorphoses IV:190-213)|A história de Leuconoë: a vingança de Vênus
+83(OVID, Metamorphoses IV:214-255)|A transformação de Leucothoë
+83(OVID, Metamorphoses IV:256-273)|Clytie é transformado no heliotrópio
+83(OVID, Metamorphoses IV:274-316)|Alcitoe conta a história de Salmacis
+83(OVID, Metamorphoses IV:317-345)|Salmácis se apaixona por Hermafrodito
+83(OVID, Metamorphoses IV:346-388)|Salmacis e Hermafrodito se fundem.
+83(OVID, Metamorphoses IV:389-415)|As filhas de Minyas se transformam em morcegos
+83(OVID, Metamorphoses IV:416-463)|Juno fica irritada com a irmã de Semele, Ino
+83(OVID, Metamorphoses IV:464-511)|Tisiphone enlouquece Athamas e Ino
+83(OVID, Metamorphoses IV:512-542)|Ino se torna a deusa Leucothoë
+83(OVID, Metamorphoses IV:543-562)|Juno transforma as mulheres tebanas
+83(OVID, Metamorphoses IV:563-603)|Cadmo e Harmonia tornam-se serpentes
+83(OVID, Metamorphoses IV:604-662)|Perseu e Atlas
+83(OVID, Metamorphoses IV:663-705)|Perseu se oferece para salvar Andrômeda
+83(OVID, Metamorphoses IV:706-752)|Perseu derrota a serpente marinha
+83(OVID, Metamorphoses IV:753-803)|Perseu conta a história da Medusa
+83(OVID, Metamorphoses V)|Perseu, Calíope, Prosérpina, Aretusa, Os Pierides
+83(OVID, Metamorphoses V:1-29)|Phineus busca vingança pela perda de sua noiva
+83(OVID, Metamorphoses V:30-73)|A luta: a morte de Athis
+83(OVID, Metamorphoses V:74-106)|A luta: As mortes de Idas, Chromis e outros
+83(OVID, Metamorphoses V:107-148)|A luta: Lampetides, Dorylas e outros
+83(OVID, Metamorphoses V:149-199)|Perseu usa a cabeça da Górgona
+83(OVID, Metamorphoses V:200-249)|Phineus é transformado em pedra
+83(OVID, Metamorphoses V:250-293)|Minerva no Helicon
+83(OVID, Metamorphoses V:294-331)|A disputa entre as Pierides e as Musas
+83(OVID, Metamorphoses V:332-384)|Calliope canta: Cupido faz Dis se apaixonar
+83(OVID, Metamorphoses V:385-424)|Calliope canta: Dis e o estupro de Prosérpina
+83(OVID, Metamorphoses V:425-486)|Calliope canta: Ceres procura Prosérpina
+83(OVID, Metamorphoses V:487-532)|Calliope canta: Ceres pede ajuda a Júpiter
+83(OVID, Metamorphoses V:533-571)|Calliope canta: o destino de Perséfone
+83(OVID, Metamorphoses V:572-641)|Calliope canta: a história de Aretusa
+83(OVID, Metamorphoses V:642-678)|Calíope canta: Triptólemo. O destino dos Pierides
+83(OVID, Metamorphoses VI)|Aracne, Níobe, Mársias, Procne, Filomela, Bóreas
+83(OVID, Metamorphoses VI:1-25)|Aracne rejeita Minerva
+83(OVID, Metamorphoses VI:26-69)|Pallas Minerva desafia Aracne
+83(OVID, Metamorphoses VI:70-102)|Pallas tece sua teia
+83(OVID, Metamorphoses VI:103-128)|Aracne tece o dela em resposta
+83(OVID, Metamorphoses VI:129-145)|Aracne se transforma em aranha
+83(OVID, Metamorphoses VI:146-203)|Niobe rejeita a adoração de Latona
+83(OVID, Metamorphoses VI:204-266)|A vingança dos deuses: os filhos de Niobe são mortos
+83(OVID, Metamorphoses VI:267-312)|As filhas de Niobe são mortas: o destino dela.
+83(OVID, Metamorphoses VI:313-381)|A história de Latona e os Lícios
+83(OVID, Metamorphoses VI:382-400)|A história de Mársias
+83(OVID, Metamorphoses VI:401-438)|O casamento de Procne e Tereu
+83(OVID, Metamorphoses VI:438-485)|A paixão de Tereu pela irmã de Procne, Filomela
+83(OVID, Metamorphoses VI:486-548)|Tereu força Filomela
+83(OVID, Metamorphoses VI:549-570)|Filomela é mutilada
+83(OVID, Metamorphoses VI:571-619)|A verdade é revelada
+83(OVID, Metamorphoses VI:619-652)|A festa impiedosa
+83(OVID, Metamorphoses VI:653-674)|Eles são transformados em pássaros
+83(OVID, Metamorphoses VI:675-721)|Bóreas e Orítia
+83(OVID, Metamorphoses VII)|Jasão, Medeia, Minos, A Peste, Mirmidões, Procris
+83(OVID, Metamorphoses VII:1-73)|Medeia agoniza por causa de seu amor por Jasão
+83(OVID, Metamorphoses VII:74-99)|Jasão promete se casar com Medeia
+83(OVID, Metamorphoses VII:100-158)|Jason ganha o Velocino de Ouro
+83(OVID, Metamorphoses VII:159-178)|Jasão pede a Medeia para prolongar a vida de Éson
+83(OVID, Metamorphoses VII:179-233)|Medeia invoca os poderes e reúne ervas
+83(OVID, Metamorphoses VII:234-293)|Medeia rejuvenesce Éson
+83(OVID, Metamorphoses VII:294-349)|A destruição de Pélias por Medeia
+83(OVID, Metamorphoses VII:350-403)|Medeia foge e chega a Atenas
+83(OVID, Metamorphoses VII:404-424)|Medeia atenta contra a vida de Teseu e depois desaparece
+83(OVID, Metamorphoses VII:425-452)|O louvor a Teseu
+83(OVID, Metamorphoses VII:453-500)|Minos ameaça guerra
+83(OVID, Metamorphoses VII:501-613)|Éaco conta sobre a praga em Egina
+83(OVID, Metamorphoses VII:614-660)|A criação dos Mirmidões
+83(OVID, Metamorphoses VII:661-758)|As infidelidades de Céfalo e Procris
+83(OVID, Metamorphoses VII:759-795)|A transformação do cachorro de Cephalus, Laelaps
+83(OVID, Metamorphoses VII:796-865)|A morte de Procris
+83(OVID, Metamorphoses VIII)|Cila, Dédalo, Ícaro, Meleagro, Filemom e Báucis
+83(OVID, Metamorphoses VIII:1-80)|Cila decide trair sua cidade de Mégara
+83(OVID, Metamorphoses VIII:81-151)|Cila, abandonada, se transforma em pássaro
+83(OVID, Metamorphoses VIII:152-182)|O Minotauro, Teseu e Ariadne
+83(OVID, Metamorphoses VIII:183-235)|Dédalo e Ícaro
+83(OVID, Metamorphoses VIII:236-259)|A morte de Talos
+83(OVID, Metamorphoses VIII:260-328)|A caça ao javali da Calidônia – a causa
+83(OVID, Metamorphoses VIII:329-375)|A Caça ao Javali da Calidônia – o javali é despertado
+83(OVID, Metamorphoses VIII:376-424)|A caça ao javali da Calidônia – a matança
+83(OVID, Metamorphoses VIII:425-450)|A caça ao javali da Calidônia – os despojos
+83(OVID, Metamorphoses VIII:451-514)|Althaea e a marca em chamas
+83(OVID, Metamorphoses VIII:515-546)|A morte de Meleagro
+83(OVID, Metamorphoses VIII:547-610)|Aquelous conta a Teseu e seus amigos sobre Perimele
+83(OVID, Metamorphoses VIII:611-678)|Lelex conta sobre Filemon e Baucis
+83(OVID, Metamorphoses VIII:679-724)|A transformação de Filemon e Baucis.
+83(OVID, Metamorphoses VIII:725-776)|Erysichthon derruba o carvalho sagrado de Ceres
+83(OVID, Metamorphoses VIII:777-842)|Ceres envia Fome para Erysichthon
+83(OVID, Metamorphoses VIII:843-884)|O destino de Erysichthon e sua filha Mestra
+83(OVID, Metamorphoses IX)|Hércules, Alcmena, Iole, Galanthis, Dryope, Byblis, Iphis
+83(OVID, Metamorphoses IX:1-88)|Aquelous luta com Hércules
+83(OVID, Metamorphoses IX:89-158)|A camisa de Nessus
+83(OVID, Metamorphoses IX:159-210)|A agonia de Hércules
+83(OVID, Metamorphoses IX:211-272)|A morte e transformação de Hércules
+83(OVID, Metamorphoses IX:273-323)|Alcmena conta sobre o nascimento de Hércules e de Galantis
+83(OVID, Metamorphoses IX:324-393)|Iole conta a história de sua meia-irmã Dryope
+83(OVID, Metamorphoses IX:394-417)|As profecias de Têmis
+83(OVID, Metamorphoses IX:418-438)|Júpiter reconhece o poder do Destino
+83(OVID, Metamorphoses IX:439-516)|Byblis se apaixona por seu irmão gêmeo Caunus
+83(OVID, Metamorphoses IX:517-594)|A carta mortal
+83(OVID, Metamorphoses IX:595-665)|A transformação de Byblis
+83(OVID, Metamorphoses IX:666-713)|O nascimento de Ífis
+83(OVID, Metamorphoses IX:714-763)|Iphis e Ianthe
+83(OVID, Metamorphoses IX:764-797)|Ísis transforma Iphis
+83(OVID, Metamorphoses X)|Orfeu, Pigmalião, Mirra, Vênus e Adônis, Atalanta
+83(OVID, Metamorphoses X:1-85)|Orfeu e Eurídice
+83(OVID, Metamorphoses X:86-105)|A reunião das árvores
+83(OVID, Metamorphoses X:106-142)|A morte de Ciparissus
+83(OVID, Metamorphoses X:143-219)|Orfeu canta: Ganimedes; Jacinto
+83(OVID, Metamorphoses X:220-242)|Orfeu canta: As Propoetides
+83(OVID, Metamorphoses X:243-297)|Orfeu canta: Pigmalião e a estátua
+83(OVID, Metamorphoses X:298-355)|Orfeu canta: o amor incestuoso de Myrrha por Cinyras
+83(OVID, Metamorphoses X:356-430)|Orfeu canta: Mirra e sua ama
+83(OVID, Metamorphoses X:431-502)|Orfeu canta: o crime e o castigo de Mirra
+83(OVID, Metamorphoses X:503-559)|Orfeu canta: Vênus e Adônis
+83(OVID, Metamorphoses X:560-637)|Vênus conta sua história: Atalanta e Hipômenes
+83(OVID, Metamorphoses X:638-680)|Vênus conta sua história: a corrida a pé
+83(OVID, Metamorphoses X:681-707)|Vênus conta sua história: A transformação
+83(OVID, Metamorphoses X:708-739)|Orfeu canta: A morte de Adônis
+83(OVID, Metamorphoses XI)|Morte de Orfeu, Midas, Peleu, Ceix, Alcione, Ésaco
+83(OVID, Metamorphoses XI:1-66)|A morte de Orfeu
+83(OVID, Metamorphoses XI:67-84)|A transformação das Ménades
+83(OVID, Metamorphoses XI:85-145)|Midas e o toque de ouro
+83(OVID, Metamorphoses XI:146-171)|Pan e Apollo competem antes de Tmolus
+83(OVID, Metamorphoses XI:172-193)|Midas e as orelhas do burro
+83(OVID, Metamorphoses XI:194-220)|Laomedon e as muralhas de Tróia
+83(OVID, Metamorphoses XI:221-265)|Peleu e Tétis
+83(OVID, Metamorphoses XI:266-345)|Ceyx conta a história de Daedalion
+83(OVID, Metamorphoses XI:346-409)|Peleu e o lobo
+83(OVID, Metamorphoses XI:410-473)|A separação de Ceyx e Alcyone
+83(OVID, Metamorphoses XI:474-572)|A tempestade
+83(OVID, Metamorphoses XI:573-649)|A casa do sono
+83(OVID, Metamorphoses XI:650-709)|Morfeu vai para Alcione na forma de Ceyx
+83(OVID, Metamorphoses XI:710-748)|Eles são transformados em pássaros
+83(OVID, Metamorphoses XI:749-795)|A transformação de Ésaco
+83(OVID, Metamorphoses XII)|Rumor, Cycnus, Caeneus, Lápitas e Centauros, Aquiles
+83(OVID, Metamorphoses XII:1-38)|Ifigênia em Aulis
+83(OVID, Metamorphoses XII:39-63)|A Casa dos Rumores
+83(OVID, Metamorphoses XII:64-145)|A morte e transformação de Cycnus
+83(OVID, Metamorphoses XII:146-209)|Nestor conta a história de Caeneus-Caenis
+83(OVID, Metamorphoses XII:210-244)|Nestor conta sobre a batalha de Lápitas e Centauros
+83(OVID, Metamorphoses XII:245-289)|As mortes de Amycus, Gryneus, Cometas
+83(OVID, Metamorphoses XII:290-326)|As mortes de Corythus, Aphidas e outros
+83(OVID, Metamorphoses XII:327-392)|Pirithous, Teseu e Peleu juntam-se à luta
+83(OVID, Metamorphoses XII:393-428)|Cyllarus e Hylonome
+83(OVID, Metamorphoses XII:429-535)|A transformação de Caeneus
+83(OVID, Metamorphoses XII:536-579)|Nestor conta sobre a morte de Periclymenus
+83(OVID, Metamorphoses XII:579-628)|A morte de Aquiles
+83(OVID, Metamorphoses XIII)|Ájax, Ulisses, Polixena, Hécuba, Memnon, Galatea, Glauco
+83(OVID, Metamorphoses XIII:1-122)|O debate sobre as armas: Ajax fala
+83(OVID, Metamorphoses XIII:123-381)|O debate sobre as armas: Ulisses fala
+83(OVID, Metamorphoses XIII:382-398)|A morte do Ájax
+83(OVID, Metamorphoses XIII:399-428)|A queda de Tróia
+83(OVID, Metamorphoses XIII:429-480)|As mortes de Polidoro e Polixena
+83(OVID, Metamorphoses XIII:481-575)|O lamento e a transformação de Hécuba
+83(OVID, Metamorphoses XIII:576-622)|Aurora e os Memnônides
+83(OVID, Metamorphoses XIII:623-639)|Enéias inicia suas andanças
+83(OVID, Metamorphoses XIII:640-674)|A transformação das filhas de Anius.
+83(OVID, Metamorphoses XIII:675-704)|A xícara de Alcon
+83(OVID, Metamorphoses XIII:705-737)|A viagem de Enéias à Sicília
+83(OVID, Metamorphoses XIII:738-788)|Acis e Galatéia
+83(OVID, Metamorphoses XIII:789-869)|A canção de Polifemo
+83(OVID, Metamorphoses XIII:870-897)|Acis é transformado em um deus do rio
+83(OVID, Metamorphoses XIII:898-968)|Glauco conta a Cila sobre sua transformação
+83(OVID, Metamorphoses XIV)|Cila, Sibila, Polifemo, Circe, Picus, Pomona, Rômulo
+83(OVID, Metamorphoses XIV:1-74)|A transformação de Cila
+83(OVID, Metamorphoses XIV:75-100)|Enéias viaja para Cumas
+83(OVID, Metamorphoses XIV:101-153)|Enéias e a Sibila de Cumas
+83(OVID, Metamorphoses XIV:154-222)|Macareu encontra Aquemênides novamente
+83(OVID, Metamorphoses XIV:223-319)|Ulisses e Circe
+83(OVID, Metamorphoses XIV:320-396)|A transformação de Picus
+83(OVID, Metamorphoses XIV:397-434)|O destino de Canens
+83(OVID, Metamorphoses XIV:435-444)|O epitáfio de Caieta
+83(OVID, Metamorphoses XIV:445-482)|Guerra no Lácio: Turnus pede ajuda a Diomedes
+83(OVID, Metamorphoses XIV:483-511)|Acmon e outros são transformados em pássaros
+83(OVID, Metamorphoses XIV:512-526)|A criação da azeitona selvagem
+83(OVID, Metamorphoses XIV:527-565)|A transformação dos navios de Enéias
+83(OVID, Metamorphoses XIV:566-580)|A garça nasce das ruínas de Ardea
+83(OVID, Metamorphoses XIV:581-608)|A deificação de Enéias
+83(OVID, Metamorphoses XIV:609-622)|A linhagem dos reis albaneses
+83(OVID, Metamorphoses XIV:623-697)|Vertumnus corteja Pomona
+83(OVID, Metamorphoses XIV:698-771)|Anaxarete e Ífis
+83(OVID, Metamorphoses XIV:772-804)|Guerra e reconciliação com os Sabinos
+83(OVID, Metamorphoses XIV:805-828)|A deificação de Rômulo
+83(OVID, Metamorphoses XIV:829-851)|A deificação de sua esposa Hersilia
+83(OVID, Metamorphoses XV)|Pitágoras, Hipólito, Cipo, Esculápio, Os Césares
+83(OVID, Metamorphoses XV:1-59)|Miscelus: a fundação de Crotona
+83(OVID, Metamorphoses XV:60-142)|Ensinamentos de Pitágoras: Vegetarianismo
+83(OVID, Metamorphoses XV:143-175)|Ensinamentos de Pitágoras: Metempsicose
+83(OVID, Metamorphoses XV:176-198)|Os Ensinamentos de Pitágoras: O Fluxo Eterno
+83(OVID, Metamorphoses XV:199-236)|Ensinamentos de Pitágoras: As Quatro Idades do Homem
+83(OVID, Metamorphoses XV:237-258)|Os Ensinamentos de Pitágoras: Os Elementos
+83(OVID, Metamorphoses XV:259-306)|Ensinamentos de Pitágoras: Mudanças Geológicas
+83(OVID, Metamorphoses XV:307-360)|Ensinamentos de Pitágoras: Mudanças físicas
+83(OVID, Metamorphoses XV:361-390)|Ensinamentos de Pitágoras: Autogênese
+83(OVID, Metamorphoses XV:391-417)|Ensinamentos de Pitágoras: A Fênix
+83(OVID, Metamorphoses XV:418-452)|Ensinamentos de Pitágoras: Transferências de Poder
+83(OVID, Metamorphoses XV:453-478)|Ensinamentos de Pitágoras: A Santidade da Vida
+83(OVID, Metamorphoses XV:479-546)|A transformação de Hipólito
+83(OVID, Metamorphoses XV:552-621)|Cipus adquire chifres
+83(OVID, Metamorphoses XV:622-745)|Esculápio, o deus, salva Roma da peste
+83(OVID, Metamorphoses XV:745-842)|A deificação de Júlio César
+83(OVID, Metamorphoses XV:843-870)|Celebração de Augusto por Ovídio
+83(OVID, Metamorphoses XV:871-879)|Enviado de Ovídio
 83(PETRARCA, Trionfi)|(cenas de) obras específicas da literatura: Petrarca, Triunfos
 83(POPE, Rape of the lock)|(cenas de) obras específicas da literatura: Pope, O Rapto da Madeixa
 83(SCARRON, Roman Comique)|(cenas de) obras específicas da literatura: Scarron, Roman Comique 

@@ -7125,7 +7125,307 @@
 83(MACPHERSON, Poems of Ossian)|特定の文学作品 (からの場面): マクファーソン, オシアン詩集
 83(MANZONI, Promessi Sposi)|特定の文学作品 (からの場面): マンゾーニ, いいなづけ
 83(MELVILLE, Moby Dick)|特定の文学作品 (からの場面): メルヴィル, 白鯨
-83(OVID, Metamorphoses)|特定の文学作品 (からの場面): オウィディウス、変身物語
+83(OVID, Metamorphoses)|特定の文学作品（のシーン）: オウィディウス、変身物語
+83(OVID, Metamorphoses I)|カオス、フォーエイジ、フラッド、ダフネ、イオ、シュリンクス、ファエトン
+83(OVID, Metamorphoses I:1-20)|原初のカオス
+83(OVID, Metamorphoses I:21-31)|要素の分離
+83(OVID, Metamorphoses I:32-51)|大地と海。 5つのゾーン。
+83(OVID, Metamorphoses I:52-68)|四つの風
+83(OVID, Metamorphoses I:68-88)|人類
+83(OVID, Metamorphoses I:89-112)|黄金時代
+83(OVID, Metamorphoses I:113-124)|銀の時代
+83(OVID, Metamorphoses I:125-150)|青銅器時代
+83(OVID, Metamorphoses I:151-176)|巨人たち
+83(OVID, Metamorphoses I:177-198)|木星は人類を滅ぼす恐れがある
+83(OVID, Metamorphoses I:199-243)|リカオンが狼に変身
+83(OVID, Metamorphoses I:244-273)|木星が洪水を呼び起こす
+83(OVID, Metamorphoses I:274-292)|洪水
+83(OVID, Metamorphoses I:293-312)|世界は溺れていく
+83(OVID, Metamorphoses I:313-347)|デウカリオンとその妻ピュラ
+83(OVID, Metamorphoses I:348-380)|彼らはテミスに助けを求めます
+83(OVID, Metamorphoses I:381-415)|人類は再創造される
+83(OVID, Metamorphoses I:416-437)|他の種も生成される
+83(OVID, Metamorphoses I:438-472)|フィーバスはニシキヘビを殺し、ダフネを見る
+83(OVID, Metamorphoses I:473-503)|フィーバスはダフネを追いかける
+83(OVID, Metamorphoses I:504-524)|フィーバスはダフネに屈服するよう懇願する
+83(OVID, Metamorphoses I:525-552)|ダフネが月桂樹の枝になる
+83(OVID, Metamorphoses I:553-567)|フィーバスがダフネを讃える
+83(OVID, Metamorphoses I:568-587)|イナチュスはイオを悼む
+83(OVID, Metamorphoses I:587-600)|ジュピターによるイオの強姦
+83(OVID, Metamorphoses I:601-621)|ジュピターがイオを未経産牛に変える
+83(OVID, Metamorphoses I:622-641)|ジュノはイオとアーガスが彼女を守っていると主張する
+83(OVID, Metamorphoses I:642-667)|イナチュスはイオを見つけて悲しみます
+83(OVID, Metamorphoses I:668-688)|木星はアーガスを殺すために水星を送る
+83(OVID, Metamorphoses I:689-721)|マーキュリーがシリンクスの物語を語る
+83(OVID, Metamorphoses I:722-746)|イオが人間の姿に戻った
+83(OVID, Metamorphoses I:747-764)|パエトンの親子関係
+83(OVID, Metamorphoses I:765-779)|パエトンは太陽の宮殿へ向かう
+83(OVID, Metamorphoses II)|パエトンの陥落、カリスト、コロニス、アグラウロス、エウロパ
+83(OVID, Metamorphoses II:1-30)|太陽の宮殿
+83(OVID, Metamorphoses II:31-48)|ファエトンと彼の父親
+83(OVID, Metamorphoses II:49-62)|太陽の忠告
+83(OVID, Metamorphoses II:63-89)|彼のさらなる警告
+83(OVID, Metamorphoses II:90-110)|ファエトンは戦車の運転を主張する
+83(OVID, Metamorphoses II:111-149)|太陽の指示
+83(OVID, Metamorphoses II:150-177)|馬が暴走する
+83(OVID, Metamorphoses II:178-200)|パエトンは手綱を手放す
+83(OVID, Metamorphoses II:201-226)|山が燃える
+83(OVID, Metamorphoses II:227-271)|川が干上がっている
+83(OVID, Metamorphoses II:272-300)|地球は文句を言う
+83(OVID, Metamorphoses II:301-328)|ジュピターが介入し、ファエトンは死亡する
+83(OVID, Metamorphoses II:329-343)|パエトンの姉妹たちは彼のことを悲しんでいる
+83(OVID, Metamorphoses II:344-366)|姉妹たちはポプラの木になった
+83(OVID, Metamorphoses II:367-380)|キクヌス
+83(OVID, Metamorphoses II:381-400)|太陽は自分の仕事に戻る
+83(OVID, Metamorphoses II:401-416)|木星がカリストを見る
+83(OVID, Metamorphoses II:417-440)|ジュピターがカリストをレイプ
+83(OVID, Metamorphoses II:441-465)|ダイアナはカリストの恥を知る
+83(OVID, Metamorphoses II:466-495)|クマになったカリスト
+83(OVID, Metamorphoses II:496-507)|アルカスとカリストが星座になる
+83(OVID, Metamorphoses II:508-530)|ジュノーはテティスとオケアナスに文句を言う
+83(OVID, Metamorphoses II:531-565)|カラスとカラス
+83(OVID, Metamorphoses II:566-595)|カラスの物語
+83(OVID, Metamorphoses II:596-611)|コロニスは裏切られ、フィーバスは彼女を殺す
+83(OVID, Metamorphoses II:612-632)|フィーボスは悔い改めてアスクレピオスを救う
+83(OVID, Metamorphoses II:633-675)|ケイロンとカリクロの予言
+83(OVID, Metamorphoses II:676-707)|マーキュリー、バトゥス、そして盗まれた牛
+83(OVID, Metamorphoses II:708-736)|マーキュリーはヘルセを見る
+83(OVID, Metamorphoses II:737-751)|マーキュリーはアグラウロスの助けを引き出す
+83(OVID, Metamorphoses II:752-786)|ミネルヴァがエンヴィーを呼び掛ける
+83(OVID, Metamorphoses II:787-811)|嫉妬がアグラウロスの心を蝕む
+83(OVID, Metamorphoses II:812-832)|アグラウロスは石になった
+83(OVID, Metamorphoses II:833-875)|ジュピターによるエウロパの誘拐
+83(OVID, Metamorphoses III)|カドモス、アクタイオン、セメレ、テイレシアス、ナルキッソス、ペンテウス
+83(OVID, Metamorphoses III:1-49)|カドモスは妹のエウロパを探す
+83(OVID, Metamorphoses III:50-94)|カドモスがドラゴンを倒す
+83(OVID, Metamorphoses III:95-114)|カドモスはドラゴンの歯を蒔く
+83(OVID, Metamorphoses III:115-137)|カドモスがテーベを建国
+83(OVID, Metamorphoses III:138-164)|アクタイオンが狩りから戻る
+83(OVID, Metamorphoses III:165-205)|アクタイオンはダイアナの裸を見て鹿にされてしまう。
+83(OVID, Metamorphoses III:206-231)|アクタイオンは猟犬に追われる
+83(OVID, Metamorphoses III:232-252)|アクタイオンは犬に殺される
+83(OVID, Metamorphoses III:253-272)|ジュノはセメレを罰するために出発する
+83(OVID, Metamorphoses III:273-315)|セメレは木星の炎に焼かれてしまう。
+83(OVID, Metamorphoses III:316-338)|テイレシアスの裁き
+83(OVID, Metamorphoses III:339-358)|エコーはナルキッソスを見る
+83(OVID, Metamorphoses III:359-401)|ジュノーがエコーのスピーチをどのように変更したか
+83(OVID, Metamorphoses III:402-436)|ナルキッソスは自分自身を見て恋に落ちる
+83(OVID, Metamorphoses III:437-473)|ナルキッソスは報われない愛の痛みを嘆く
+83(OVID, Metamorphoses III:474-510)|水仙が花に変わる
+83(OVID, Metamorphoses III:511-527)|テイレシアスはペンテウスの運命を予言する
+83(OVID, Metamorphoses III:528-571)|ペンテウスはバッカス崇拝を拒否する
+83(OVID, Metamorphoses III:572-596)|アコエテスが捕らえられ尋問される
+83(OVID, Metamorphoses III:597-637)|アコエテスの物語 - 美しい少年
+83(OVID, Metamorphoses III:638-691)|アコエテスの船と乗組員が変身
+83(OVID, Metamorphoses III:692-733)|ペンテウスはメナド族に殺される
+83(OVID, Metamorphoses IV)|ピラモス、レウコトー、サルマチス、イノ、カドモス、ペルセウス
+83(OVID, Metamorphoses IV:1-30)|バッカスの祭り
+83(OVID, Metamorphoses IV:31-54)|ミニアスの娘たちはバッカスを拒絶する
+83(OVID, Metamorphoses IV:55-92)|アルシッペがピュラモスとティスベの物語を語る
+83(OVID, Metamorphoses IV:93-127)|ピラマスの死
+83(OVID, Metamorphoses IV:128-166)|ティスベの死
+83(OVID, Metamorphoses IV:167-189)|ルコノエの物語: 火星と金星
+83(OVID, Metamorphoses IV:190-213)|ルコノエの物語: ヴィーナスの復讐
+83(OVID, Metamorphoses IV:214-255)|Leucothoëの変容
+83(OVID, Metamorphoses IV:256-273)|クリュティがヘリオトロープに変身
+83(OVID, Metamorphoses IV:274-316)|アルシトーエがサルマチスの物語を語る
+83(OVID, Metamorphoses IV:317-345)|サルマチスはヘルマフロディトスに恋をする
+83(OVID, Metamorphoses IV:346-388)|サルマチスとヘルマフロディトスが合併。
+83(OVID, Metamorphoses IV:389-415)|ミニアスの娘たちはコウモリになる
+83(OVID, Metamorphoses IV:416-463)|ジュノはセメレの妹イノに激怒
+83(OVID, Metamorphoses IV:464-511)|ティシフォンはアタマスとイノを狂わせる
+83(OVID, Metamorphoses IV:512-542)|イノが女神レウコトーエとなる
+83(OVID, Metamorphoses IV:543-562)|テーベの女性たちを変えるジュノー
+83(OVID, Metamorphoses IV:563-603)|カドモスとハルモニアは蛇になる
+83(OVID, Metamorphoses IV:604-662)|ペルセウスとアトラス
+83(OVID, Metamorphoses IV:663-705)|ペルセウスはアンドロメダを救うと申し出る
+83(OVID, Metamorphoses IV:706-752)|ペルセウスが海蛇を倒す
+83(OVID, Metamorphoses IV:753-803)|ペルセウスはメドゥーサの物語を語る
+83(OVID, Metamorphoses V)|ペルセウス、カリオペ、プロセルピナ、アレトゥーサ、ピエリデス
+83(OVID, Metamorphoses V:1-29)|フィネウスは花嫁を失ったことへの復讐を求めている
+83(OVID, Metamorphoses V:30-73)|戦い：アティスの死
+83(OVID, Metamorphoses V:74-106)|戦い：アイダス、クロミスらの死
+83(OVID, Metamorphoses V:107-148)|戦い：ランペティデス、ドリラスなど
+83(OVID, Metamorphoses V:149-199)|ペルセウスはゴルゴンの頭を使う
+83(OVID, Metamorphoses V:200-249)|フィネウスは石に変えられる
+83(OVID, Metamorphoses V:250-293)|ヘリコンのミネルバ
+83(OVID, Metamorphoses V:294-331)|ピエリデスとミューズの間のコンテスト
+83(OVID, Metamorphoses V:332-384)|カリオペは歌う：キューピッドがディスを恋に落とす
+83(OVID, Metamorphoses V:385-424)|カリオペは歌う：ディスとプロセルピナのレイプ
+83(OVID, Metamorphoses V:425-486)|カリオペは歌う：セレスはプロセルパインを探す
+83(OVID, Metamorphoses V:487-532)|カリオペは歌う：セレスは木星に助けを求める
+83(OVID, Metamorphoses V:533-571)|カリオペは歌う：ペルセポネの運命
+83(OVID, Metamorphoses V:572-641)|カリオペは歌う：アレトゥーサの物語
+83(OVID, Metamorphoses V:642-678)|カリオペは歌います：トリプトレモス。 ピエリデス家の運命
+83(OVID, Metamorphoses VI)|アラクネ、ニオベ、マルシュアス、プロクネ、フィロメラ、ボレアス
+83(OVID, Metamorphoses VI:1-25)|アラクネはミネルヴァを拒絶する
+83(OVID, Metamorphoses VI:26-69)|パラス・ミネルヴァがアラクネに挑む
+83(OVID, Metamorphoses VI:70-102)|パラスは巣を編む
+83(OVID, Metamorphoses VI:103-128)|アラクネはそれに応えて彼女の言葉を織り交ぜる
+83(OVID, Metamorphoses VI:129-145)|アラクネが蜘蛛に変身
+83(OVID, Metamorphoses VI:146-203)|ニオベはラトナ崇拝を拒否
+83(OVID, Metamorphoses VI:204-266)|神々の復讐: ニオベの息子たちは殺される
+83(OVID, Metamorphoses VI:267-312)|ニオベの娘たちは殺される：彼女の運命は。
+83(OVID, Metamorphoses VI:313-381)|ラトナとリュキア人の物語
+83(OVID, Metamorphoses VI:382-400)|マルシュアスの物語
+83(OVID, Metamorphoses VI:401-438)|プロクネとテレウスの結婚
+83(OVID, Metamorphoses VI:438-485)|プロクネの妹フィロメラに対するテレウスの情熱
+83(OVID, Metamorphoses VI:486-548)|テレウスはフィロメラを強制する
+83(OVID, Metamorphoses VI:549-570)|フィロメラは切断される
+83(OVID, Metamorphoses VI:571-619)|真実が明らかになります
+83(OVID, Metamorphoses VI:619-652)|無慈悲な饗宴
+83(OVID, Metamorphoses VI:653-674)|彼らは鳥に変身します
+83(OVID, Metamorphoses VI:675-721)|ボレアスとオリテュイア
+83(OVID, Metamorphoses VII)|ジェイソン、メディア、ミノス、ペスト、ミルミドン、プロクリス
+83(OVID, Metamorphoses VII:1-73)|メディアはジェイソンへの愛に苦悩する
+83(OVID, Metamorphoses VII:74-99)|ジェイソンはメディアと結婚することを約束する
+83(OVID, Metamorphoses VII:100-158)|ジェイソンがゴールデンフリースを獲得
+83(OVID, Metamorphoses VII:159-178)|ジェイソンはメディアにエイソンの寿命を延ばしてくれるよう頼む
+83(OVID, Metamorphoses VII:179-233)|メディアは力を召喚し、薬草を集めます
+83(OVID, Metamorphoses VII:234-293)|メディアがエイソンを若返らせる
+83(OVID, Metamorphoses VII:294-349)|メディアによるペリアスの破壊
+83(OVID, Metamorphoses VII:350-403)|メディアは逃亡してアテネに到着
+83(OVID, Metamorphoses VII:404-424)|メディアはテセウスの命を狙い、その後消滅する
+83(OVID, Metamorphoses VII:425-452)|テセウスへの賛美
+83(OVID, Metamorphoses VII:453-500)|ミノスは戦争を脅かす
+83(OVID, Metamorphoses VII:501-613)|アイアコスはアイギナ島の疫病について語る
+83(OVID, Metamorphoses VII:614-660)|ミルミドンの創造
+83(OVID, Metamorphoses VII:661-758)|ケファルスとプロクリスの不倫
+83(OVID, Metamorphoses VII:759-795)|ケファロスの犬ラエラプスの変身
+83(OVID, Metamorphoses VII:796-865)|プロクリスの死
+83(OVID, Metamorphoses VIII)|スキュラ、ダイダロス、イカロス、メレアグロス、フィレモン、バウシス
+83(OVID, Metamorphoses VIII:1-80)|スキュラはメガラの街を裏切ることを決意する
+83(OVID, Metamorphoses VIII:81-151)|捨てられたスキュラは鳥に変えられる
+83(OVID, Metamorphoses VIII:152-182)|ミノタウロス、テセウス、アリアドネ
+83(OVID, Metamorphoses VIII:183-235)|ダイダロスとイカロス
+83(OVID, Metamorphoses VIII:236-259)|タロスの死
+83(OVID, Metamorphoses VIII:260-328)|カリュドニアのイノシシ狩り – その原因
+83(OVID, Metamorphoses VIII:329-375)|カリュドニアのイノシシ狩り – イノシシが目覚める
+83(OVID, Metamorphoses VIII:376-424)|カリュドニアのイノシシ狩り – 殺害
+83(OVID, Metamorphoses VIII:425-450)|カリュドニアの猪狩り – 戦利品
+83(OVID, Metamorphoses VIII:451-514)|アルテアと燃えるブランド
+83(OVID, Metamorphoses VIII:515-546)|メレアグロスの死
+83(OVID, Metamorphoses VIII:547-610)|アケロウスはテセウスと彼の友人たちにペリメレのことを話す
+83(OVID, Metamorphoses VIII:611-678)|レレックスはフィレモンとバウシスについて語る
+83(OVID, Metamorphoses VIII:679-724)|フィレモンとバウシスの変身。
+83(OVID, Metamorphoses VIII:725-776)|エリュシクトン、ケレスの神聖な樫の木を伐採
+83(OVID, Metamorphoses VIII:777-842)|ケレスは飢餓をエリシクトンに送る
+83(OVID, Metamorphoses VIII:843-884)|エリュシクトンとその娘メストラの運命
+83(OVID, Metamorphoses IX)|ヘラクレス、アルクメネ、イオレ、ガランティス、ドライオペ、ビブリス、イフィス
+83(OVID, Metamorphoses IX:1-88)|アケロウスはヘラクレスと格闘する
+83(OVID, Metamorphoses IX:89-158)|ネッソスのシャツ
+83(OVID, Metamorphoses IX:159-210)|ヘラクレスの苦しみ
+83(OVID, Metamorphoses IX:211-272)|ヘラクレスの死と変容
+83(OVID, Metamorphoses IX:273-323)|アルクメナはヘラクレスの誕生とガランティスについて語る
+83(OVID, Metamorphoses IX:324-393)|イオレは異母妹のドリオペの物語を語る
+83(OVID, Metamorphoses IX:394-417)|テミスの予言
+83(OVID, Metamorphoses IX:418-438)|ジュピターは運命の力を認める
+83(OVID, Metamorphoses IX:439-516)|ビブリスは双子の弟カウヌスと恋に落ちる
+83(OVID, Metamorphoses IX:517-594)|致命的な手紙
+83(OVID, Metamorphoses IX:595-665)|ビブリスの変容
+83(OVID, Metamorphoses IX:666-713)|イフィスの誕生
+83(OVID, Metamorphoses IX:714-763)|イフィスとイアンセ
+83(OVID, Metamorphoses IX:764-797)|イシスがイフィスを変える
+83(OVID, Metamorphoses X)|オルフェウス、ピグマリオン、ミルラ、ヴィーナスとアドニス、アタランタ
+83(OVID, Metamorphoses X:1-85)|オルフェウスとエウリュディケ
+83(OVID, Metamorphoses X:86-105)|木々の集まり
+83(OVID, Metamorphoses X:106-142)|キュパリッソスの死
+83(OVID, Metamorphoses X:143-219)|オルフェウスは歌う：ガニメデ。 ヒヤシンス
+83(OVID, Metamorphoses X:220-242)|オルフェウスは歌う：プロポエティデス
+83(OVID, Metamorphoses X:243-297)|オルフェウスは歌う：ピグマリオンと彫像
+83(OVID, Metamorphoses X:298-355)|オルフェウスは歌う：ミルラのキヌラスへの近親相姦の愛
+83(OVID, Metamorphoses X:356-430)|オルフェウスが歌う：ミルラと乳母
+83(OVID, Metamorphoses X:431-502)|オルフェウスは歌う：ミルラの罪と罰
+83(OVID, Metamorphoses X:503-559)|オルフェウスが歌う：ヴィーナスとアドニス
+83(OVID, Metamorphoses X:560-637)|ヴィーナスが語る：アタランタとヒッポメネス
+83(OVID, Metamorphoses X:638-680)|ヴィーナスが彼女の物語を語る：徒競走
+83(OVID, Metamorphoses X:681-707)|ヴィーナスが語る彼女の物語: 変革
+83(OVID, Metamorphoses X:708-739)|オルフェウスは歌う：アドニスの死
+83(OVID, Metamorphoses XI)|オルフェウス、ミダス、ペレウス、ケイクス、アルシオーネ、アイサクスの死
+83(OVID, Metamorphoses XI:1-66)|オルフェウスの死
+83(OVID, Metamorphoses XI:67-84)|メナド家の変容
+83(OVID, Metamorphoses XI:85-145)|ミダスと黄金のタッチ
+83(OVID, Metamorphoses XI:146-171)|パンとアポロがトモルスの前で競う
+83(OVID, Metamorphoses XI:172-193)|ミダスとロバの耳
+83(OVID, Metamorphoses XI:194-220)|ラオメドンとトロイの城壁
+83(OVID, Metamorphoses XI:221-265)|ペレウスとテティス
+83(OVID, Metamorphoses XI:266-345)|ケイクスがダイダリオンの物語を語る
+83(OVID, Metamorphoses XI:346-409)|ペレウスと狼
+83(OVID, Metamorphoses XI:410-473)|ケイクスとアルシオーネの分離
+83(OVID, Metamorphoses XI:474-572)|テンペスト
+83(OVID, Metamorphoses XI:573-649)|眠りの家
+83(OVID, Metamorphoses XI:650-709)|モーフィアスはケイクスの姿でアルシオーネのもとへ向かう
+83(OVID, Metamorphoses XI:710-748)|彼らは鳥に変えられてしまう
+83(OVID, Metamorphoses XI:749-795)|アイサコスの変容
+83(OVID, Metamorphoses XII)|噂、キクナス、カイネウス、ラピスとケンタウロス、アキレス
+83(OVID, Metamorphoses XII:1-38)|アウリスのイピゲニア
+83(OVID, Metamorphoses XII:39-63)|噂の家
+83(OVID, Metamorphoses XII:64-145)|キクナスの死と変容
+83(OVID, Metamorphoses XII:146-209)|ネストルはカイネウス＝カイニスの物語を語る
+83(OVID, Metamorphoses XII:210-244)|ネストルはラピスとケンタウロスの戦いについて語る
+83(OVID, Metamorphoses XII:245-289)|アミカス、グリネウス、コメテスの死
+83(OVID, Metamorphoses XII:290-326)|コリュトス、アフィダスらの死
+83(OVID, Metamorphoses XII:327-392)|ピリトウス、テセウス、ペレウスが戦いに加わる
+83(OVID, Metamorphoses XII:393-428)|キュララスとハイロノーム
+83(OVID, Metamorphoses XII:429-535)|カイネウスの変身
+83(OVID, Metamorphoses XII:536-579)|ネストルはペリクリメヌスの死について語る
+83(OVID, Metamorphoses XII:579-628)|アキレスの死
+83(OVID, Metamorphoses XIII)|アヤックス、ユリシーズ、ポリクセナ、ヘキューバ、メムノン、ガラテア、グラウカス
+83(OVID, Metamorphoses XIII:1-122)|武器を巡る議論：アヤックスが語る
+83(OVID, Metamorphoses XIII:123-381)|武器をめぐる議論: ユリシーズは語る
+83(OVID, Metamorphoses XIII:382-398)|アヤックスの死
+83(OVID, Metamorphoses XIII:399-428)|トロイの陥落
+83(OVID, Metamorphoses XIII:429-480)|ポリュドロスとポリクセナの死
+83(OVID, Metamorphoses XIII:481-575)|ヘキュバの嘆きと変容
+83(OVID, Metamorphoses XIII:576-622)|オーロラとメムノニデス山脈
+83(OVID, Metamorphoses XIII:623-639)|アエネアスは放浪を始める
+83(OVID, Metamorphoses XIII:640-674)|アニウスの娘たちの変身。
+83(OVID, Metamorphoses XIII:675-704)|アルコンのカップ
+83(OVID, Metamorphoses XIII:705-737)|アエネアスのシチリア島への旅
+83(OVID, Metamorphoses XIII:738-788)|アシスとガラテア
+83(OVID, Metamorphoses XIII:789-869)|ポリュペモスの歌
+83(OVID, Metamorphoses XIII:870-897)|アシスは川の神に変えられる
+83(OVID, Metamorphoses XIII:898-968)|グラウカスはスキュラに自分の変化を語る
+83(OVID, Metamorphoses XIV)|スキュラ、シビュラ、ポリフェムス、キルケ、ピカス、ポモナ、ロムルス
+83(OVID, Metamorphoses XIV:1-74)|スキュラの変身
+83(OVID, Metamorphoses XIV:75-100)|アエネアス、クマエへの旅
+83(OVID, Metamorphoses XIV:101-153)|アエネアスとクマエのシビル
+83(OVID, Metamorphoses XIV:154-222)|マカレウスはアケメニデスと再会
+83(OVID, Metamorphoses XIV:223-319)|ユリシーズとキルケー
+83(OVID, Metamorphoses XIV:320-396)|ピカスの変身
+83(OVID, Metamorphoses XIV:397-434)|カナンスの運命
+83(OVID, Metamorphoses XIV:435-444)|カエタの碑文
+83(OVID, Metamorphoses XIV:445-482)|ラティウムの戦争: トゥルヌスはディオメーデースに助けを求める
+83(OVID, Metamorphoses XIV:483-511)|アクモン達は鳥に姿を変えられる
+83(OVID, Metamorphoses XIV:512-526)|野生のオリーブの誕生
+83(OVID, Metamorphoses XIV:527-565)|アエネアスの船の変遷
+83(OVID, Metamorphoses XIV:566-580)|アルデアの遺跡からサギが生まれる
+83(OVID, Metamorphoses XIV:581-608)|アエネアスの神格化
+83(OVID, Metamorphoses XIV:609-622)|アルバ王の系譜
+83(OVID, Metamorphoses XIV:623-697)|ヴァータムヌスがポモナに求婚
+83(OVID, Metamorphoses XIV:698-771)|アナクサレテとイフィス
+83(OVID, Metamorphoses XIV:772-804)|サビニ人との戦争と和解
+83(OVID, Metamorphoses XIV:805-828)|ロムルスの神格化
+83(OVID, Metamorphoses XIV:829-851)|妻ヘルシリアの神格化
+83(OVID, Metamorphoses XV)|ピタゴラス、ヒッポリトス、キポス、アスクレピオス、シーザーズ
+83(OVID, Metamorphoses XV:1-59)|ミスケロス: クロトーナの創設
+83(OVID, Metamorphoses XV:60-142)|ピタゴラスの教え: 菜食主義
+83(OVID, Metamorphoses XV:143-175)|ピタゴラスの教え: メテムサイコシス
+83(OVID, Metamorphoses XV:176-198)|ピタゴラスの教え: 永遠の流れ
+83(OVID, Metamorphoses XV:199-236)|ピタゴラスの教え: 人間の 4 つの時代
+83(OVID, Metamorphoses XV:237-258)|ピタゴラスの教え: 要素
+83(OVID, Metamorphoses XV:259-306)|ピタゴラスの教え: 地質学的変化
+83(OVID, Metamorphoses XV:307-360)|ピタゴラスの教え: 身体の変化
+83(OVID, Metamorphoses XV:361-390)|ピタゴラスの教え: 自己生成
+83(OVID, Metamorphoses XV:391-417)|ピタゴラスの教え: フェニックス
+83(OVID, Metamorphoses XV:418-452)|ピタゴラスの教え: 権力の伝達
+83(OVID, Metamorphoses XV:453-478)|ピタゴラスの教え: 生命の神聖さ
+83(OVID, Metamorphoses XV:479-546)|ヒッポリュトスの変容
+83(OVID, Metamorphoses XV:552-621)|シプスは角を獲得する
+83(OVID, Metamorphoses XV:622-745)|神アスクレピオスがローマを疫病から救う
+83(OVID, Metamorphoses XV:745-842)|ジュリアス・シーザーの神格化
+83(OVID, Metamorphoses XV:843-870)|オウィディウスによるアウグストゥス祭
+83(OVID, Metamorphoses XV:871-879)|オウィディウスの特使
 83(PETRARCA, Trionfi)|特定の文学作品 (からの場面): ペトラルカ, 凱旋
 83(POPE, Rape of the lock)|特定の文学作品 (からの場面): ポープ, 髪盗人
 83(SCARRON, Roman Comique)|特定の文学作品 (からの場面): スカロン, ロマン・コミック

@@ -131563,54 +131563,93 @@ C 83(OVID, Metamorphoses XV:1-59)
 $
 N 83(OVID, Metamorphoses XV:1-59)
 K 8k
+R 95A(MYSCELUS)512
 $
 N 83(OVID, Metamorphoses XV:60-142)
 K 8k
+R 98B(PYTHAGORAS)5
+; 41C11
 $
 N 83(OVID, Metamorphoses XV:143-175)
 K 8k
+R 98B(PYTHAGORAS)5
+; 31G32
 $
 N 83(OVID, Metamorphoses XV:176-198)
 K 8k
+R 98B(PYTHAGORAS)5
+; 23A2
+; 51K1
 $
 N 83(OVID, Metamorphoses XV:199-236)
 K 8k
+R 98B(PYTHAGORAS)5
+; 31D2(4)
 $
 N 83(OVID, Metamorphoses XV:237-258)
 K 8k
+R 98B(PYTHAGORAS)5
+; 21
 $
 N 83(OVID, Metamorphoses XV:259-306)
 K 8k
+R 98B(PYTHAGORAS)5
+; 25C
+; 51K1
 $
 N 83(OVID, Metamorphoses XV:307-360)
 K 8k
+R 98B(PYTHAGORAS)5
+; 22A31
+; 51K1
 $
 N 83(OVID, Metamorphoses XV:361-390)
 K 8k
+R 98B(PYTHAGORAS)5
+; 58B4
 $
 N 83(OVID, Metamorphoses XV:391-417)
 K 8k
+R 98B(PYTHAGORAS)5
+; 25FF3(PHOENIX)
 $
 N 83(OVID, Metamorphoses XV:418-452)
 K 8k
+R 98B(PYTHAGORAS)5
+; 23S
+; 51FF2
 $
 N 83(OVID, Metamorphoses XV:453-478)
 K 8k
+R 98B(PYTHAGORAS)5
+; 31D9(+0)
+; 58B2
 $
 N 83(OVID, Metamorphoses XV:479-546)
 K 8k
+R 98B(NUMA POMPILIUS)21
+; 97HH6
+; 95B(PHAEDRA)213
+; 95A(HIPPOLYTUS)68
+; 95A(HIPPOLYTUS)681
 $
 N 83(OVID, Metamorphoses XV:552-621)
 K 8k
+R 97C3
+; 96A19111
+; 97O2
 $
 N 83(OVID, Metamorphoses XV:622-745)
 K 8k
+R 92F2791
 $
 N 83(OVID, Metamorphoses XV:745-842)
 K 8k
+R 98B(CAESAR)69
 $
 N 83(OVID, Metamorphoses XV:843-870)
 K 8k
+R 98B(AUGUSTUS)(+1)
 $
 N 83(OVID, Metamorphoses XV:871-879)
 K 8k
