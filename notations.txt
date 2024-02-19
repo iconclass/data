@@ -131477,6 +131477,7 @@ $
 N 83(OVID, Metamorphoses XIV:397-434)
 K 8k
 R 97HH3
+; 97D281
 $
 N 83(OVID, Metamorphoses XIV:435-444)
 K 8k
@@ -131485,39 +131486,59 @@ R 95B(CAIETA)68
 $
 N 83(OVID, Metamorphoses XIV:445-482)
 K 8k
+R 96C(AENEAS)21
+; 96B622
 $
 N 83(OVID, Metamorphoses XIV:483-511)
 K 8k
+R 97D21
 $
 N 83(OVID, Metamorphoses XIV:512-526)
 K 8k
+R 97A1
 $
 N 83(OVID, Metamorphoses XIV:527-565)
 K 8k
+R 96B7112
 $
 N 83(OVID, Metamorphoses XIV:566-580)
 K 8k
+R 97O1
 $
 N 83(OVID, Metamorphoses XIV:581-608)
 K 8k
+R 96C(AENEAS)69
+; 96C(AENEAS)691
+; 96C(AENEAS)692
 $
 N 83(OVID, Metamorphoses XIV:609-622)
 K 8k
+R 44B111
 $
 N 83(OVID, Metamorphoses XIV:623-697)
 K 8k
+R 96A1821
+; 96A18211
+; 96A18212
 $
 N 83(OVID, Metamorphoses XIV:698-771)
 K 8k
+R 97FF2
+; 95A(IPHIS)2
+; 95A(IPHIS)68
 $
 N 83(OVID, Metamorphoses XIV:772-804)
 K 8k
+R 96D(TARPEIA)51
+R 45A
 $
 N 83(OVID, Metamorphoses XIV:805-828)
 K 8k
+R 96C(ROMULUS)69
 $
 N 83(OVID, Metamorphoses XIV:829-851)
 K 8k
+R 96D(HERSILIA)69
 $
 N 83(OVID, Metamorphoses XV)
 K 8k
