@@ -7126,7 +7126,307 @@
 83(MACPHERSON, Poems of Ossian)|Szene aus: Macpherson, Dichtungen Ossians
 83(MANZONI, Promessi Sposi)|Szene aus: Manzoni, Promessi Sposi
 83(MELVILLE, Moby Dick)|Szene aus: Melville, Moby Dick
-83(OVID, Metamorphoses)|Szene aus: Ovid, Metamorphoses
+83(OVID, Metamorphoses)|(Szenen aus) bestimmten Werken der Literatur: Ovid, Metamorphosen
+83(OVID, Metamorphoses I)|Chaos, Vier Zeitalter, Sintflut, Daphne, Io, Syrinx, Phaethon
+83(OVID, Metamorphoses I:1-20)|Das Urchaos
+83(OVID, Metamorphoses I:21-31)|Trennung der Elemente
+83(OVID, Metamorphoses I:32-51)|Die Erde und das Meer. Die fünf Zonen.
+83(OVID, Metamorphoses I:52-68)|Die vier Winde
+83(OVID, Metamorphoses I:68-88)|Menschheit
+83(OVID, Metamorphoses I:89-112)|Das goldene Zeitalter
+83(OVID, Metamorphoses I:113-124)|Das Silberne Zeitalter
+83(OVID, Metamorphoses I:125-150)|Die Bronzezeit
+83(OVID, Metamorphoses I:151-176)|Die Giganten
+83(OVID, Metamorphoses I:177-198)|Jupiter droht die Menschheit zu zerstören
+83(OVID, Metamorphoses I:199-243)|Lycaon wird in einen Wolf verwandelt
+83(OVID, Metamorphoses I:244-273)|Jupiter beschwört die Fluten
+83(OVID, Metamorphoses I:274-292)|Das Hochwasser
+83(OVID, Metamorphoses I:293-312)|Die Welt ist ertrunken
+83(OVID, Metamorphoses I:313-347)|Deukalion und seine Frau Pyrrha
+83(OVID, Metamorphoses I:348-380)|Sie bitten Themis um Hilfe
+83(OVID, Metamorphoses I:381-415)|Die Menschheit wird neu erschaffen
+83(OVID, Metamorphoses I:416-437)|Es entstehen weitere Arten
+83(OVID, Metamorphoses I:438-472)|Phoebus tötet die Python und sieht Daphne
+83(OVID, Metamorphoses I:473-503)|Phoebus verfolgt Daphne
+83(OVID, Metamorphoses I:504-524)|Phoebus bittet Daphne, ihm nachzugeben
+83(OVID, Metamorphoses I:525-552)|Daphne wird zum Lorbeerzweig
+83(OVID, Metamorphoses I:553-567)|Phoebus ehrt Daphne
+83(OVID, Metamorphoses I:568-587)|Inachus trauert um Io
+83(OVID, Metamorphoses I:587-600)|Jupiters Vergewaltigung von Io
+83(OVID, Metamorphoses I:601-621)|Jupiter verwandelt Io in eine Färse
+83(OVID, Metamorphoses I:622-641)|Juno behauptet, dass Io und Argus sie beschützen
+83(OVID, Metamorphoses I:642-667)|Inachus findet Io und trauert um sie
+83(OVID, Metamorphoses I:668-688)|Jupiter schickt Merkur, um Argus zu töten
+83(OVID, Metamorphoses I:689-721)|Merkur erzählt die Geschichte von Syrinx
+83(OVID, Metamorphoses I:722-746)|Io wird in die menschliche Form zurückgebracht
+83(OVID, Metamorphoses I:747-764)|Phaethons Abstammung
+83(OVID, Metamorphoses I:765-779)|Phaethon macht sich auf den Weg zum Sonnenpalast
+83(OVID, Metamorphoses II)|Phaethons Sturz, Callisto, Coronis, Aglauros, Europa
+83(OVID, Metamorphoses II:1-30)|Der Palast der Sonne
+83(OVID, Metamorphoses II:31-48)|Phaethon und sein Vater
+83(OVID, Metamorphoses II:49-62)|Die Ermahnungen der Sonne
+83(OVID, Metamorphoses II:63-89)|Seine weiteren Warnungen
+83(OVID, Metamorphoses II:90-110)|Phaethon besteht darauf, den Streitwagen zu fahren
+83(OVID, Metamorphoses II:111-149)|Die Anweisungen der Sonne
+83(OVID, Metamorphoses II:150-177)|Die Pferde laufen wild
+83(OVID, Metamorphoses II:178-200)|Phaethon lässt die Zügel los
+83(OVID, Metamorphoses II:201-226)|Die Berge brennen
+83(OVID, Metamorphoses II:227-271)|Die Flüsse sind ausgetrocknet
+83(OVID, Metamorphoses II:272-300)|Die Erde beschwert sich
+83(OVID, Metamorphoses II:301-328)|Jupiter greift ein und Phaethon stirbt
+83(OVID, Metamorphoses II:329-343)|Phaethons Schwestern trauern um ihn
+83(OVID, Metamorphoses II:344-366)|Die Schwestern verwandelten sich in Pappeln
+83(OVID, Metamorphoses II:367-380)|Cycnus
+83(OVID, Metamorphoses II:381-400)|Die Sonne kehrt zu ihrer Aufgabe zurück
+83(OVID, Metamorphoses II:401-416)|Jupiter sieht Callisto
+83(OVID, Metamorphoses II:417-440)|Jupiter vergewaltigt Callisto
+83(OVID, Metamorphoses II:441-465)|Diana entdeckt Callistos Schande
+83(OVID, Metamorphoses II:466-495)|Callisto verwandelte sich in einen Bären
+83(OVID, Metamorphoses II:496-507)|Arcas und Callisto werden zu Sternbildern
+83(OVID, Metamorphoses II:508-530)|Juno beschwert sich bei Tethys und Oceanus
+83(OVID, Metamorphoses II:531-565)|Der Rabe und die Krähe
+83(OVID, Metamorphoses II:566-595)|Die Geschichte der Krähe
+83(OVID, Metamorphoses II:596-611)|Coronis wird verraten und Phoebus tötet sie
+83(OVID, Metamorphoses II:612-632)|Phoebus bereut und rettet Aesculapius
+83(OVID, Metamorphoses II:633-675)|Chirons und Chariclos Prophezeiungen
+83(OVID, Metamorphoses II:676-707)|Merkur, Battus und das gestohlene Vieh
+83(OVID, Metamorphoses II:708-736)|Merkur sieht Herse
+83(OVID, Metamorphoses II:737-751)|Merkur ruft die Hilfe von Aglauros hervor
+83(OVID, Metamorphoses II:752-786)|Minerva ruft Neid an
+83(OVID, Metamorphoses II:787-811)|Neid vergiftet Aglauros‘ Herz
+83(OVID, Metamorphoses II:812-832)|Aglauros wird zu Stein
+83(OVID, Metamorphoses II:833-875)|Jupiters Entführung Europas
+83(OVID, Metamorphoses III)|Cadmus, Actaeon, Semele, Tiresias, Narcissus, Pentheus
+83(OVID, Metamorphoses III:1-49)|Cadmus sucht nach seiner Schwester Europa
+83(OVID, Metamorphoses III:50-94)|Cadmus tötet den Drachen
+83(OVID, Metamorphoses III:95-114)|Cadmus sät die Zähne des Drachen
+83(OVID, Metamorphoses III:115-137)|Kadmos gründet Theben
+83(OVID, Metamorphoses III:138-164)|Aktäon kehrt von der Jagd zurück
+83(OVID, Metamorphoses III:165-205)|Aktäon sieht Diana nackt und wird in einen Hirsch verwandelt.
+83(OVID, Metamorphoses III:206-231)|Aktäon wird von seinen Hunden verfolgt
+83(OVID, Metamorphoses III:232-252)|Actaeon wird von den Hunden getötet
+83(OVID, Metamorphoses III:253-272)|Juno macht sich daran, Semele zu bestrafen
+83(OVID, Metamorphoses III:273-315)|Semele wird von Jupiters Feuer verzehrt.
+83(OVID, Metamorphoses III:316-338)|Das Urteil des Teiresias
+83(OVID, Metamorphoses III:339-358)|Echo sieht Narziss
+83(OVID, Metamorphoses III:359-401)|Wie Juno Echos Rede veränderte
+83(OVID, Metamorphoses III:402-436)|Narziss erkennt sich selbst und verliebt sich
+83(OVID, Metamorphoses III:437-473)|Narziss beklagt den Schmerz unerwiderter Liebe
+83(OVID, Metamorphoses III:474-510)|Narzisse verwandelt sich in eine Blume
+83(OVID, Metamorphoses III:511-527)|Teiresias prophezeit das Schicksal des Pentheus
+83(OVID, Metamorphoses III:528-571)|Pentheus lehnt die Verehrung des Bacchus ab
+83(OVID, Metamorphoses III:572-596)|Acoetes wird gefangen genommen und verhört
+83(OVID, Metamorphoses III:597-637)|Acoetes‘ Geschichte – der schöne Junge
+83(OVID, Metamorphoses III:638-691)|Acoetes‘ Schiff und Besatzung verändern sich
+83(OVID, Metamorphoses III:692-733)|Pentheus wird von den Mänaden getötet
+83(OVID, Metamorphoses IV)|Pyramus, Leucothoe, Salmacis, Ino, Cadmus, Perseus
+83(OVID, Metamorphoses IV:1-30)|Das Bacchusfest
+83(OVID, Metamorphoses IV:31-54)|Die Töchter des Minyas lehnen Bacchus ab
+83(OVID, Metamorphoses IV:55-92)|Arsippe erzählt die Geschichte von Pyramus und Thisbe
+83(OVID, Metamorphoses IV:93-127)|Der Tod des Pyramus
+83(OVID, Metamorphoses IV:128-166)|Der Tod von Thisbe
+83(OVID, Metamorphoses IV:167-189)|Leuconoës Geschichte: Mars und Venus
+83(OVID, Metamorphoses IV:190-213)|Leuconoës Geschichte: Die Rache der Venus
+83(OVID, Metamorphoses IV:214-255)|Die Transformation von Leucothoë
+83(OVID, Metamorphoses IV:256-273)|Clytie wird in das Heliotrop umgewandelt
+83(OVID, Metamorphoses IV:274-316)|Alcithoë erzählt die Geschichte von Salmacis
+83(OVID, Metamorphoses IV:317-345)|Salmacis verliebt sich in Hermaphroditus
+83(OVID, Metamorphoses IV:346-388)|Salmacis und Hermaphroditus verschmelzen.
+83(OVID, Metamorphoses IV:389-415)|Die Töchter von Minyas werden zu Fledermäusen
+83(OVID, Metamorphoses IV:416-463)|Juno ist verärgert über Semeles Schwester Ino
+83(OVID, Metamorphoses IV:464-511)|Tisiphone bringt Athamas und Ino in den Wahnsinn
+83(OVID, Metamorphoses IV:512-542)|Ino wird zur Göttin Leucothoë
+83(OVID, Metamorphoses IV:543-562)|Juno verwandelt die thebanischen Frauen
+83(OVID, Metamorphoses IV:563-603)|Cadmus und Harmonia werden zu Schlangen
+83(OVID, Metamorphoses IV:604-662)|Perseus und Atlas
+83(OVID, Metamorphoses IV:663-705)|Perseus bietet an, Andromeda zu retten
+83(OVID, Metamorphoses IV:706-752)|Perseus besiegt die Seeschlange
+83(OVID, Metamorphoses IV:753-803)|Perseus erzählt die Geschichte der Medusa
+83(OVID, Metamorphoses V)|Perseus, Calliope, Proserpine, Arethusa, Die Pieriden
+83(OVID, Metamorphoses V:1-29)|Phineus sinnt auf Rache für den Verlust seiner Braut
+83(OVID, Metamorphoses V:30-73)|Der Kampf: der Tod von Athis
+83(OVID, Metamorphoses V:74-106)|Der Kampf: Der Tod von Idas, Chromis und anderen
+83(OVID, Metamorphoses V:107-148)|Der Kampf: Lampetides, Dorylas und andere
+83(OVID, Metamorphoses V:149-199)|Perseus benutzt den Kopf der Gorgone
+83(OVID, Metamorphoses V:200-249)|Phineus wird zu Stein
+83(OVID, Metamorphoses V:250-293)|Minerva auf Helicon
+83(OVID, Metamorphoses V:294-331)|Der Wettstreit zwischen den Pieriden und den Musen
+83(OVID, Metamorphoses V:332-384)|Calliope singt: Amor lässt Dis sich verlieben
+83(OVID, Metamorphoses V:385-424)|Calliope singt: Dis und die Vergewaltigung von Proserpine
+83(OVID, Metamorphoses V:425-486)|Calliope singt: Ceres sucht nach Proserpine
+83(OVID, Metamorphoses V:487-532)|Calliope singt: Ceres bittet Jupiter um Hilfe
+83(OVID, Metamorphoses V:533-571)|Calliope singt: Persephones Schicksal
+83(OVID, Metamorphoses V:572-641)|Calliope singt: Arethusas Geschichte
+83(OVID, Metamorphoses V:642-678)|Calliope singt: Triptolemus. Das Schicksal der Pieriden
+83(OVID, Metamorphoses VI)|Arachne, Niobe, Marsyas, Procne, Philomela, Boreas
+83(OVID, Metamorphoses VI:1-25)|Arachne lehnt Minerva ab
+83(OVID, Metamorphoses VI:26-69)|Pallas Minerva fordert Arachne heraus
+83(OVID, Metamorphoses VI:70-102)|Pallas webt ihr Netz
+83(OVID, Metamorphoses VI:103-128)|Arachne webt ihr als Antwort
+83(OVID, Metamorphoses VI:129-145)|Arachne wird in eine Spinne verwandelt
+83(OVID, Metamorphoses VI:146-203)|Niobe lehnt die Verehrung Latonas ab
+83(OVID, Metamorphoses VI:204-266)|Die Rache der Götter: Niobes Söhne werden getötet
+83(OVID, Metamorphoses VI:267-312)|Niobes Töchter werden getötet: Ihr Schicksal.
+83(OVID, Metamorphoses VI:313-381)|Die Geschichte von Latona und den Lykiern
+83(OVID, Metamorphoses VI:382-400)|Die Geschichte von Marsyas
+83(OVID, Metamorphoses VI:401-438)|Die Hochzeit von Procne und Tereus
+83(OVID, Metamorphoses VI:438-485)|Tereus‘ Leidenschaft für Procnes Schwester Philomela
+83(OVID, Metamorphoses VI:486-548)|Tereus zwingt Philomela
+83(OVID, Metamorphoses VI:549-570)|Philomela ist verstümmelt
+83(OVID, Metamorphoses VI:571-619)|Die Wahrheit wird enthüllt
+83(OVID, Metamorphoses VI:619-652)|Das erbarmungslose Fest
+83(OVID, Metamorphoses VI:653-674)|Sie verwandeln sich in Vögel
+83(OVID, Metamorphoses VI:675-721)|Boreas und Orithyia
+83(OVID, Metamorphoses VII)|Jason, Medea, Minos, Die Pest, Myrmidonen, Prokris
+83(OVID, Metamorphoses VII:1-73)|Medea quält ihre Liebe zu Jason
+83(OVID, Metamorphoses VII:74-99)|Jason verspricht, Medea zu heiraten
+83(OVID, Metamorphoses VII:100-158)|Jason gewinnt das Goldene Vlies
+83(OVID, Metamorphoses VII:159-178)|Jason bittet Medea, Aisons Li zu verlängern
+83(OVID, Metamorphoses VII:179-233)|Medea beschwört die Kräfte und sammelt Kräuter
+83(OVID, Metamorphoses VII:234-293)|Medea verjüngt Aison
+83(OVID, Metamorphoses VII:294-349)|Medeas Zerstörung von Pelias
+83(OVID, Metamorphoses VII:350-403)|Medea flieht und erreicht Athen
+83(OVID, Metamorphoses VII:404-424)|Medea versucht Theseus umzubringen und verschwindet dann
+83(OVID, Metamorphoses VII:425-452)|Das Lob für Theseus
+83(OVID, Metamorphoses VII:453-500)|Minos droht mit Krieg
+83(OVID, Metamorphoses VII:501-613)|Aiakos erzählt von der Pest auf Ägina
+83(OVID, Metamorphoses VII:614-660)|Die Erschaffung der Myrmidonen
+83(OVID, Metamorphoses VII:661-758)|Die Untreuen von Kephalus und Prokris
+83(OVID, Metamorphoses VII:759-795)|Die Verwandlung von Cephalus‘ Hund Laelaps
+83(OVID, Metamorphoses VII:796-865)|Der Tod von Procris
+83(OVID, Metamorphoses VIII)|Skylla, Daedalus, Ikarus, Meleager, Philemon und Baucis
+83(OVID, Metamorphoses VIII:1-80)|Scylla beschließt, ihre Stadt Megara zu verraten
+83(OVID, Metamorphoses VIII:81-151)|Die verlassene Scylla verwandelt sich in einen Vogel
+83(OVID, Metamorphoses VIII:152-182)|Der Minotaurus, Theseus und Ariadne
+83(OVID, Metamorphoses VIII:183-235)|Daedalus und Ikarus
+83(OVID, Metamorphoses VIII:236-259)|Der Tod von Talos
+83(OVID, Metamorphoses VIII:260-328)|Die kalydonische Wildschweinjagd – die Ursache
+83(OVID, Metamorphoses VIII:329-375)|Die kalydonische Eberjagd – der Eber wird geweckt
+83(OVID, Metamorphoses VIII:376-424)|Die kalydonische Wildschweinjagd – die Tötung
+83(OVID, Metamorphoses VIII:425-450)|Die kalydonische Wildschweinjagd – die Beute
+83(OVID, Metamorphoses VIII:451-514)|Althaea und die brennende Marke
+83(OVID, Metamorphoses VIII:515-546)|Der Tod von Meleager
+83(OVID, Metamorphoses VIII:547-610)|Acheloues erzählt Theseus und seinen Freunden von Perimele
+83(OVID, Metamorphoses VIII:611-678)|Lelex erzählt von Philemon und Baucis
+83(OVID, Metamorphoses VIII:679-724)|Die Verwandlung von Philemon und Baucis.
+83(OVID, Metamorphoses VIII:725-776)|Erysichthon fällt die heilige Eiche der Ceres
+83(OVID, Metamorphoses VIII:777-842)|Ceres schickt Hungersnot nach Erysichthon
+83(OVID, Metamorphoses VIII:843-884)|Das Schicksal von Erysichthon und seiner Tochter Mestra
+83(OVID, Metamorphoses IX)|Herkules, Alkmene, Iole, Galanthis, Dryope, Byblis, Iphis
+83(OVID, Metamorphoses IX:1-88)|Acheloues ringt mit Herkules
+83(OVID, Metamorphoses IX:89-158)|Das Hemd von Nessus
+83(OVID, Metamorphoses IX:159-210)|Die Qual des Herkules
+83(OVID, Metamorphoses IX:211-272)|Der Tod und die Verwandlung des Herkules
+83(OVID, Metamorphoses IX:273-323)|Alcmena erzählt von der Geburt des Herkules und von Galanthis
+83(OVID, Metamorphoses IX:324-393)|Iole erzählt die Geschichte ihrer Halbschwester Dryope
+83(OVID, Metamorphoses IX:394-417)|Die Prophezeiungen der Themis
+83(OVID, Metamorphoses IX:418-438)|Jupiter erkennt die Macht des Schicksals an
+83(OVID, Metamorphoses IX:439-516)|Byblis verliebt sich in ihren Zwillingsbruder Caunus
+83(OVID, Metamorphoses IX:517-594)|Der tödliche Brief
+83(OVID, Metamorphoses IX:595-665)|Die Verwandlung von Byblis
+83(OVID, Metamorphoses IX:666-713)|Die Geburt von Iphis
+83(OVID, Metamorphoses IX:714-763)|Iphis und Ianthe
+83(OVID, Metamorphoses IX:764-797)|Isis verwandelt Iphis
+83(OVID, Metamorphoses X)|Orpheus, Pygmalion, Myrrha, Venus und Adonis, Atalanta
+83(OVID, Metamorphoses X:1-85)|Orpheus und Eurydike
+83(OVID, Metamorphoses X:86-105)|Das Sammeln der Bäume
+83(OVID, Metamorphoses X:106-142)|Der Tod von Cyparissus
+83(OVID, Metamorphoses X:143-219)|Orpheus singt: Ganymed; Hyazinthen
+83(OVID, Metamorphoses X:220-242)|Orpheus singt: Die Propoetides
+83(OVID, Metamorphoses X:243-297)|Orpheus singt: Pygmalion und die Statue
+83(OVID, Metamorphoses X:298-355)|Orpheus singt: Myrrhas inzestuöse Liebe zu Cinyras
+83(OVID, Metamorphoses X:356-430)|Orpheus singt: Myrrha und ihre Amme
+83(OVID, Metamorphoses X:431-502)|Orpheus singt: Myrrhas Verbrechen und Strafe
+83(OVID, Metamorphoses X:503-559)|Orpheus singt: Venus und Adonis
+83(OVID, Metamorphoses X:560-637)|Venus erzählt ihre Geschichte: Atalanta und Hippomenes
+83(OVID, Metamorphoses X:638-680)|Venus erzählt ihre Geschichte: Das Wettrennen
+83(OVID, Metamorphoses X:681-707)|Venus erzählt ihre Geschichte: Die Transformation
+83(OVID, Metamorphoses X:708-739)|Orpheus singt: Der Tod des Adonis
+83(OVID, Metamorphoses XI)|Tod von Orpheus, Midas, Peleus, Ceyx, Alcyone, Aesacus
+83(OVID, Metamorphoses XI:1-66)|Der Tod von Orpheus
+83(OVID, Metamorphoses XI:67-84)|Die Transformation der Mänaden
+83(OVID, Metamorphoses XI:85-145)|Midas und der goldene Touch
+83(OVID, Metamorphoses XI:146-171)|Pan und Apollo konkurrieren vor Tmolus
+83(OVID, Metamorphoses XI:172-193)|Midas und die Eselsohren
+83(OVID, Metamorphoses XI:194-220)|Laomedon und die Mauern von Troja
+83(OVID, Metamorphoses XI:221-265)|Peleus und Thetis
+83(OVID, Metamorphoses XI:266-345)|Ceyx erzählt die Geschichte von Daedalion
+83(OVID, Metamorphoses XI:346-409)|Peleus und der Wolf
+83(OVID, Metamorphoses XI:410-473)|Die Trennung von Ceyx und Alcyone
+83(OVID, Metamorphoses XI:474-572)|Der Sturm
+83(OVID, Metamorphoses XI:573-649)|Das Haus des Schlafes
+83(OVID, Metamorphoses XI:650-709)|Morpheus geht in Form von Ceyx zu Alcyone
+83(OVID, Metamorphoses XI:710-748)|Sie werden in Vögel verwandelt
+83(OVID, Metamorphoses XI:749-795)|Die Verwandlung des Aesacus
+83(OVID, Metamorphoses XII)|Gerücht, Cycnus, Caeneus, Lapithen und Kentauren, Achilles
+83(OVID, Metamorphoses XII:1-38)|Iphigenie in Aulis
+83(OVID, Metamorphoses XII:39-63)|Das Haus der Gerüchte
+83(OVID, Metamorphoses XII:64-145)|Der Tod und die Verwandlung von Cycnus
+83(OVID, Metamorphoses XII:146-209)|Nestor erzählt die Geschichte von Caeneus-Caenis
+83(OVID, Metamorphoses XII:210-244)|Nestor erzählt von der Schlacht der Lapithen und Zentauren
+83(OVID, Metamorphoses XII:245-289)|Der Tod von Amycus, Gryneus, Cometes
+83(OVID, Metamorphoses XII:290-326)|Der Tod von Corythus, Aphidas und anderen
+83(OVID, Metamorphoses XII:327-392)|Pirithoüs, Theseus und Peleus schließen sich dem Kampf an
+83(OVID, Metamorphoses XII:393-428)|Cylarus und Hylonome
+83(OVID, Metamorphoses XII:429-535)|Die Verwandlung des Caeneus
+83(OVID, Metamorphoses XII:536-579)|Nestor erzählt vom Tod des Periklymenos
+83(OVID, Metamorphoses XII:579-628)|Der Tod von Achilles
+83(OVID, Metamorphoses XIII)|Ajax, Odysseus, Polyxena, Hekabe, Memnon, Galatea, Glaucus
+83(OVID, Metamorphoses XIII:1-122)|Die Waffendebatte: Ajax spricht
+83(OVID, Metamorphoses XIII:123-381)|Die Waffendebatte: Odysseus spricht
+83(OVID, Metamorphoses XIII:382-398)|Der Tod von Ajax
+83(OVID, Metamorphoses XIII:399-428)|Der Fall Trojas
+83(OVID, Metamorphoses XIII:429-480)|Der Tod von Polydorus und Polyxena
+83(OVID, Metamorphoses XIII:481-575)|Hekabas Klage und Verwandlung
+83(OVID, Metamorphoses XIII:576-622)|Aurora und die Memnoniden
+83(OVID, Metamorphoses XIII:623-639)|Aeneas beginnt seine Wanderung
+83(OVID, Metamorphoses XIII:640-674)|Die Verwandlung der Töchter von Anius.
+83(OVID, Metamorphoses XIII:675-704)|Der Kelch von Alcon
+83(OVID, Metamorphoses XIII:705-737)|Aeneas‘ Reise nach Sizilien
+83(OVID, Metamorphoses XIII:738-788)|Acis und Galatea
+83(OVID, Metamorphoses XIII:789-869)|Das Lied des Polyphem
+83(OVID, Metamorphoses XIII:870-897)|Acis wird in einen Flussgott verwandelt
+83(OVID, Metamorphoses XIII:898-968)|Glaucus erzählt Skylla von seiner Verwandlung
+83(OVID, Metamorphoses XIV)|Scylla, Sibylle, Polyphem, Circe, Picus, Pomona, Romulus
+83(OVID, Metamorphoses XIV:1-74)|Die Verwandlung von Skylla
+83(OVID, Metamorphoses XIV:75-100)|Aeneas reist nach Cumae
+83(OVID, Metamorphoses XIV:101-153)|Aeneas und die Sybil von Cumae
+83(OVID, Metamorphoses XIV:154-222)|Macareus trifft erneut auf Achämenides
+83(OVID, Metamorphoses XIV:223-319)|Odysseus und Kirke
+83(OVID, Metamorphoses XIV:320-396)|Die Verwandlung von Picus
+83(OVID, Metamorphoses XIV:397-434)|Das Schicksal von Canens
+83(OVID, Metamorphoses XIV:435-444)|Caietas Epitaph
+83(OVID, Metamorphoses XIV:445-482)|Krieg in Latium: Turnus bittet Diomedes um Hilfe
+83(OVID, Metamorphoses XIV:483-511)|Acmon und andere werden in Vögel verwandelt
+83(OVID, Metamorphoses XIV:512-526)|Die Entstehung des wilden Olivenbaums
+83(OVID, Metamorphoses XIV:527-565)|Die Verwandlung der Schiffe des Aeneas
+83(OVID, Metamorphoses XIV:566-580)|Der Reiher wird aus den Ruinen von Ardea geboren
+83(OVID, Metamorphoses XIV:581-608)|Die Vergöttlichung des Aeneas
+83(OVID, Metamorphoses XIV:609-622)|Die Linie der albanischen Könige
+83(OVID, Metamorphoses XIV:623-697)|Vertumnus wirbt um Pomona
+83(OVID, Metamorphoses XIV:698-771)|Anaxarete und Iphis
+83(OVID, Metamorphoses XIV:772-804)|Krieg und Versöhnung mit den Sabinern
+83(OVID, Metamorphoses XIV:805-828)|Die Vergöttlichung des Romulus
+83(OVID, Metamorphoses XIV:829-851)|Die Vergöttlichung seiner Frau Hersilia
+83(OVID, Metamorphoses XV)|Pythagoras, Hippolytus, Cipus, Aesculapius, Die Cäsaren
+83(OVID, Metamorphoses XV:1-59)|Myscelus: die Gründung von Crotona
+83(OVID, Metamorphoses XV:60-142)|Die Lehren des Pythagoras: Vegetarismus
+83(OVID, Metamorphoses XV:143-175)|Lehren des Pythagoras: Metempsychose
+83(OVID, Metamorphoses XV:176-198)|Die Lehren des Pythagoras: Der ewige Fluss
+83(OVID, Metamorphoses XV:199-236)|Die Lehren des Pythagoras: Die vier Zeitalter des Menschen
+83(OVID, Metamorphoses XV:237-258)|Die Lehren des Pythagoras: Die Elemente
+83(OVID, Metamorphoses XV:259-306)|Die Lehren des Pythagoras: Geologische Veränderungen
+83(OVID, Metamorphoses XV:307-360)|Die Lehren des Pythagoras: Körperliche Veränderungen
+83(OVID, Metamorphoses XV:361-390)|Lehren des Pythagoras: Autogenese
+83(OVID, Metamorphoses XV:391-417)|Die Lehren des Pythagoras: Der Phönix
+83(OVID, Metamorphoses XV:418-452)|Die Lehren des Pythagoras: Machtübertragungen
+83(OVID, Metamorphoses XV:453-478)|Die Lehren des Pythagoras: Die Heiligkeit des Lebens
+83(OVID, Metamorphoses XV:479-546)|Die Verwandlung des Hippolyt
+83(OVID, Metamorphoses XV:552-621)|Cipus bekommt Hörner
+83(OVID, Metamorphoses XV:622-745)|Der Gott Äskulap rettet Rom vor der Pest
+83(OVID, Metamorphoses XV:745-842)|Die Vergöttlichung von Julius Cäsar
+83(OVID, Metamorphoses XV:843-870)|Ovids Augustus-Feier
+83(OVID, Metamorphoses XV:871-879)|Ovids Envoi
 83(PETRARCA, Trionfi)|Szene aus: Petrarca, Trionfi
 83(POPE, Rape of the lock)|Szene aus: Pope, Rape of the lock
 83(SCARRON, Roman Comique)|Szene aus: Scarron, Roman Comique
