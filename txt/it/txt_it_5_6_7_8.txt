@@ -4901,6 +4901,76 @@
 71X1(...)2|il libro dei Salmi (con libro, capitolo e versetti tra parentesi) - il libro dei Salmi ~ scene del Nuovo Testamento
 71X1(...)3|il libro dei Salmi (con libro, capitolo e versetti tra parentesi) - il libro dei Salmi ~ motivi cristiani non di origine biblica
 71X1(...)4|il libro dei Salmi (con libro, capitolo e versetti tra parentesi) - il libro dei Salmi ~ altre scene
+71X1(Ps. 1:1)|'Beatus vir' - Beato l'uomo
+71X1(Ps. 1:1)1|'Beatus vir' - Beato l'uomo' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 1:1)2|'Beatus vir' - Beato l'uomo' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 1:1)3|'Beatus vir' - Beato l'uomo' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 1:1)4|'Beatus vir' - Beato l'uomo' - il libro dei Salmi ~ altre scene
+71X1(Ps. 3)|'salmo di David quando fuggiva il figlio Assalonne'
+71X1(Ps. 3)1|'salmo di David quando fuggiva il figlio Assalonne' ~ David fugge da Assalonne
+71X1(Ps. 3)2|'salmo di David quando fuggiva il figlio Assalonne' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 3)3|'salmo di David quando fuggiva il figlio Assalonne' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 3)4|'salmo di David quando fuggiva il figlio Assalonne' - il libro dei Salmi ~ altre scene
+71X1(Ps. 22:18)|'si dividono le mie vesti'
+71X1(Ps. 22:18)1|'si dividono le mie vesti' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 22:18)2|'si dividono le mie vesti' ~ i soldati tirano a sorte per le vesti di Cristo
+71X1(Ps. 22:18)3|'si dividono le mie vesti' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 22:18)4|'si dividono le mie vesti' - il libro dei Salmi ~ altre scene
+71X1(Ps. 26:1)|'Dominus illuminatio' - Il Signore è mia luce
+71X1(Ps. 26:1)1|'Dominus illuminatio' - Il Signore è mia luce' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 26:1)2|'Dominus illuminatio' - Il Signore è mia luce' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 26:1)3|'Dominus illuminatio' - Il Signore è mia luce' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 26:1)4|'Dominus illuminatio' - Il Signore è mia luce' - il libro dei Salmi ~ altre scene
+71X1(Ps. 38:1)|'Dixi custodiam' - Ho detto: Vigilerò
+71X1(Ps. 38:1)1|'Dixi custodiam' - Ho detto: Vigilerò' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 38:1)2|'Dixi custodiam' - Ho detto: Vigilerò' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 38:1)3|'Dixi custodiam' - Ho detto: Vigilerò' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 38:1)4|'Dixi custodiam' - Ho detto: Vigilerò' - il libro dei Salmi ~ altre scene
+71X1(Ps. 49:3)|'la mia bocca esprime sapienza'
+71X1(Ps. 49:3)1|'la mia bocca esprime sapienza' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 49:3)2|'la mia bocca esprime sapienza' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 49:3)3|'la mia bocca esprime sapienza' ~ Giovanni Crisostomo
+71X1(Ps. 49:3)4|'la mia bocca esprime sapienza' - il libro dei Salmi ~ altre scene
+71X1(Ps. 51:1)|'Quid gloriaris' - Perché ti vanti
+71X1(Ps. 51:1)1|'Quid gloriaris' - Perché ti vanti' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 51:1)2|'Quid gloriaris' - Perché ti vanti' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 51:1)3|'Quid gloriaris' - Perché ti vanti' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 51:1)4|'Quid gloriaris' - Perché ti vanti' - il libro dei Salmi ~ altre scene
+71X1(Ps. 52:1)|'Dixit insipiens' - Lo stolto pensa
+71X1(Ps. 52:1)1|'Dixit insipiens' - Lo stolto pensa' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 52:1)2|'Dixit insipiens' - Lo stolto pensa' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 52:1)3|'Dixit insipiens' - Lo stolto pensa' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 52:1)4|'Dixit insipiens' - Lo stolto pensa' - il libro dei Salmi ~ altre scene
+71X1(Ps. 68:1)|'Salvum me fac' - Salvami, o Dio
+71X1(Ps. 68:1)1|'Salvum me fac' - Salvami, o Dio' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 68:1)2|'Salvum me fac' - Salvami, o Dio' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 68:1)3|'Salvum me fac' - Salvami, o Dio' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 68:1)|'4Salvum me fac' - Salvami, o Dio' - il libro dei Salmi ~ altre scene
+71X1(Ps. 74:13)|'hai schiacciato la testa dei draghi sulle acque'
+71X1(Ps. 74:13)1|'hai schiacciato la testa dei draghi sulle acque' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 74:13)2|'hai schiacciato la testa dei draghi sulle acque' ~ battesimo di Cristo
+71X1(Ps. 74:13)3|'hai schiacciato la testa dei draghi sulle acque' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 74:13)4|'hai schiacciato la testa dei draghi sulle acque' - il libro dei Salmi ~ altre scene
+71X1(Ps. 80:1)|'Exultate deo' - Esultate in Dio
+71X1(Ps. 80:1)1|'Exultate deo' - Esultate in Dio' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 80:1)2|'Exultate deo' - Esultate in Dio' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 80:1)3|'Exultate deo' - Esultate in Dio' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 80:1)4|'Exultate deo' - Esultate in Dio' - il libro dei Salmi ~ altre scene
+71X1(Ps. 85:10)|'giustizia e pace si baceranno'
+71X1(Ps. 85:10)1|'giustizia e pace si baceranno' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 85:10)2|'giustizia e pace si baceranno' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 85:10)3|'giustizia e pace si baceranno' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 85:10)4|'giustizia e pace si baceranno' ~ libro dei Salmi ~ altre scene
+71X1(Ps. 101:1)|'Domine exaudi' - Signore, ascolta  la mia preghiera
+71X1(Ps. 101:1)1|'Domine exaudi' - Signore, ascolta  la mia preghiera' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 101:1)2|'Domine exaudi' - Signore, ascolta  la mia preghiera' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 101:1)3|'Domine exaudi' - Signore, ascolta  la mia preghiera' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 101:1)4|'Domine exaudi' - Signore, ascolta  la mia preghiera' - il libro dei Salmi ~ altre scene
+71X1(Ps. 109:1)|'Dixit dominus' - Oracolo del Signore al mio signore
+71X1(Ps. 109:1)1|'Dixit dominus' - Oracolo del Signore al mio signore' - il libro dei Salmi ~ scene del Vecchio Testamento
+71X1(Ps. 109:1)2|'Dixit dominus' - Oracolo del Signore al mio signore' - il libro dei Salmi ~ scene del Nuovo Testamento
+71X1(Ps. 109:1)3|'Dixit dominus' - Oracolo del Signore al mio signore' - il libro dei Salmi ~ motivi cristiani non di origine biblica
+71X1(Ps. 109:1)4|'Dixit dominus' - Oracolo del Signore al mio signore' - il libro dei Salmi ~ altre scene
 71X1(Ps. 118:22)|'la pietra ... è divenuta testata d'angolo'
 71X1(Ps. 118:22)1|'la pietra ... è divenuta testata d'angolo' - il libro dei Salmi ~ scene del Vecchio Testamento
 71X1(Ps. 118:22)2|'la pietra ... è divenuta testata d'angolo' - il libro dei Salmi ~ scene del Nuovo Testamento
@@ -4911,31 +4981,6 @@
 71X1(Ps. 137:1)2|'sui fiumi di Babilonia' - il libro dei Salmi ~ scene del Nuovo Testamento
 71X1(Ps. 137:1)3|'sui fiumi di Babilonia' - il libro dei Salmi ~ motivi cristiani non di origine biblica
 71X1(Ps. 137:1)4|'sui fiumi di Babilonia' - il libro dei Salmi ~ altre scene
-71X1(Ps. 22:18)|'si dividono le mie vesti'
-71X1(Ps. 22:18)1|'si dividono le mie vesti' - il libro dei Salmi ~ scene del Vecchio Testamento
-71X1(Ps. 22:18)2|si dividono le mie vesti' ~ i soldati tirano a sorte per le vesti di Cristo
-71X1(Ps. 22:18)3|'si dividono le mie vesti' - il libro dei Salmi ~ motivi cristiani non di origine biblica
-71X1(Ps. 22:18)4|'si dividono le mie vesti' - il libro dei Salmi ~ altre scene
-71X1(Ps. 3)|'salmo di David quando fuggiva il figlio Assalonne'
-71X1(Ps. 3)1|'salmo di David quando fuggiva il figlio Assalonne' ~ David fugge da Assalonne
-71X1(Ps. 3)2|'salmo di David quando fuggiva il figlio Assalonne' - il libro dei Salmi ~ scene del Nuovo Testamento
-71X1(Ps. 3)3|'salmo di David quando fuggiva il figlio Assalonne' - il libro dei Salmi ~ motivi cristiani non di origine biblica
-71X1(Ps. 3)4|'salmo di David quando fuggiva il figlio Assalonne' - il libro dei Salmi ~ altre scene
-71X1(Ps. 49:3)|'la mia bocca esprime sapienza'
-71X1(Ps. 49:3)1|'la mia bocca esprime sapienza' - il libro dei Salmi ~ scene del Vecchio Testamento
-71X1(Ps. 49:3)2|'la mia bocca esprime sapienza' - il libro dei Salmi ~ scene del Nuovo Testamento
-71X1(Ps. 49:3)3|'la mia bocca esprime sapienza' ~ Giovanni Crisostomo
-71X1(Ps. 49:3)4|'la mia bocca esprime sapienza' - il libro dei Salmi ~ altre scene
-71X1(Ps. 74:13)|'hai schiacciato la testa dei draghi sulle acque'
-71X1(Ps. 74:13)1|'hai schiacciato la testa dei draghi sulle acque' - il libro dei Salmi ~ scene del Vecchio Testamento
-71X1(Ps. 74:13)2|'hai schiacciato la testa dei draghi sulle acque' ~ battesimo di Cristo
-71X1(Ps. 74:13)3|'hai schiacciato la testa dei draghi sulle acque' - il libro dei Salmi ~ motivi cristiani non di origine biblica
-71X1(Ps. 74:13)4|'hai schiacciato la testa dei draghi sulle acque' - il libro dei Salmi ~ altre scene
-71X1(Ps. 85:10)|'giustizia e pace si baceranno'
-71X1(Ps. 85:10)1|'giustizia e pace si baceranno' - il libro dei Salmi ~ scene del Vecchio Testamento
-71X1(Ps. 85:10)2|'giustizia e pace si baceranno' - il libro dei Salmi ~ scene del Nuovo Testamento
-71X1(Ps. 85:10)3|'giustizia e pace si baceranno' - il libro dei Salmi ~ motivi cristiani non di origine biblica
-71X1(Ps. 85:10)4|'giustizia e pace si baceranno' ~ libro dei Salmi
 71X2|Cantico di Salomone, Cantico dei Cantici
 71X2(...)|Cantico di Salomone, Cantico dei Cantici (con libro, capitolo e versetti tra parentesi
 71X2(Song of Sol. 2:2)|come un giglio tra le spine

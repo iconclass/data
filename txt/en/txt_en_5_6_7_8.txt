@@ -4901,11 +4901,11 @@
 71X1(...)2|the book of Psalms (with BOOK CHAPTER:VERSE) - the book of Psalms ~ scenes from the New Testament
 71X1(...)3|the book of Psalms (with BOOK CHAPTER:VERSE) - the book of Psalms ~ non-biblical Christian motifs
 71X1(...)4|the book of Psalms (with BOOK CHAPTER:VERSE) - the book of Psalms ~ other scenes
-71X1(Ps. 1:1)|Beatus vir - Blessed is the man
-71X1(Ps. 1:1)1|Beatus vir - Blessed is the man - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 1:1)2|Beatus vir - Blessed is the man - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 1:1)3|Beatus vir - Blessed is the man - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 1:1)4|Beatus vir - Blessed is the man - the book of Psalms ~ other scenes
+71X1(Ps. 1:1)|'Beatus vir' - Blessed is the man
+71X1(Ps. 1:1)1|'Beatus vir' - Blessed is the man' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 1:1)2|'Beatus vir' - Blessed is the man' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 1:1)3|'Beatus vir' - Blessed is the man' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 1:1)4|'Beatus vir' - Blessed is the man' - the book of Psalms ~ other scenes
 71X1(Ps. 3)1|'psalm of David when he fled from Absalom his son'
 71X1(Ps. 3)1|'psalm of David when he fled from Absalom his son' ~ David fleeing from Absalom
 71X1(Ps. 3)2|'psalm of David when he fled from Absalom his son' - the book of Psalms ~ scenes from the New Testament
@@ -4916,61 +4916,61 @@
 71X1(Ps. 22:18)2|'they part my garments' ~ soldiers casting lots for Christ's clothes
 71X1(Ps. 22:18)3|'they part my garments' - the book of Psalms ~ non-biblical Christian motifs
 71X1(Ps. 22:18)4|'they part my garments' - the book of Psalms ~ other scenes
-71X1(Ps. 26:1)|Dominus illuminatio - The Lord is my light
-71X1(Ps. 26:1)1|Dominus illuminatio - The Lord is my light - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 26:1)2|Dominus illuminatio - The Lord is my light - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 26:1)3|Dominus illuminatio - The Lord is my light - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 26:1)4|Dominus illuminatio - The Lord is my light - the book of Psalms ~ other scenes
-71X1(Ps. 38:1)|Dixi custodiam - I said, I will take heed
-71X1(Ps. 38:1)1|Dixi custodiam - I said, I will take heed - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 38:1)2|Dixi custodiam - I said, I will take heed - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 38:1)3|Dixi custodiam - I said, I will take heed - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 38:1)4|Dixi custodiam - I said, I will take heed - the book of Psalms ~ other scenes
+71X1(Ps. 26:1)|'Dominus illuminatio' - The Lord is my light
+71X1(Ps. 26:1)1|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 26:1)2|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 26:1)3|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 26:1)4|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ other scenes
+71X1(Ps. 38:1)|'Dixi custodiam' - I said, I will take heed
+71X1(Ps. 38:1)1|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 38:1)2|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 38:1)3|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 38:1)4|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ other scenes
 71X1(Ps. 49:3)|'my mouth shall speak of wisdom'
 71X1(Ps. 49:3)1|'my mouth shall speak of wisdom' - the book of Psalms ~ scenes from the Old Testament
 71X1(Ps. 49:3)2|'my mouth shall speak of wisdom' - the book of Psalms ~ scenes from the New Testament
 71X1(Ps. 49:3)3|'my mouth shall speak of wisdom' ~ John Chrysostom
 71X1(Ps. 49:3)4|'my mouth shall speak of wisdom' - the book of Psalms ~ other scenes
-71X1(Ps. 51:1)|Quid gloriaris - Why do you boast
-71X1(Ps. 51:1)1|Quid gloriaris - Why do you boast - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 51:1)2|Quid gloriaris - Why do you boast - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 51:1)3|Quid gloriaris - Why do you boast - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 51:1)4|Quid gloriaris - Why do you boast - the book of Psalms ~ other scenes
-71X1(Ps. 52:1)|Dixit insipiens - The fool says in his heart
-71X1(Ps. 52:1)1|Dixit insipiens - The fool says in his heart - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 52:1)2|Dixit insipiens - The fool says in his heart - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 52:1)3|Dixit insipiens - The fool says in his heart - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 52:1)4|Dixit insipiens - The fool says in his heart - the book of Psalms ~ other scenes
+71X1(Ps. 51:1)|'Quid gloriaris' - Why do you boast
+71X1(Ps. 51:1)1|'Quid gloriaris' - Why do you boast' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 51:1)2|'Quid gloriaris' - Why do you boast' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 51:1)3|'Quid gloriaris' - Why do you boast' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 51:1)4|'Quid gloriaris' - Why do you boast' - the book of Psalms ~ other scenes
+71X1(Ps. 52:1)|'Dixit insipiens' - The fool says in his heart
+71X1(Ps. 52:1)1|'Dixit insipiens' - The fool says in his heart' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 52:1)2|'Dixit insipiens' - The fool says in his heart' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 52:1)3|'Dixit insipiens' - The fool says in his heart' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 52:1)4|'Dixit insipiens' - The fool says in his heart' - the book of Psalms ~ other scenes
 71X1(Ps. 74:13)|'... break the heads of the dragons on the waters'
 71X1(Ps. 74:13)1|'... break the heads of the dragons on the waters' - the book of Psalms ~ scenes from the Old Testament
 71X1(Ps. 74:13)2|'... break the heads of the dragons on the waters' ~ baptism of Christ
 71X1(Ps. 74:13)3|'... break the heads of the dragons on the waters' - the book of Psalms ~ non-biblical Christian motifs
 71X1(Ps. 74:13)4|'... break the heads of the dragons on the waters' - the book of Psalms ~ other scenes
-71X1(Ps. 68:1)|Salvum me fac - Save me
-71X1(Ps. 68:1)1|Salvum me fac - Save me - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 68:1)2|Salvum me fac - Save me - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 68:1)3|Salvum me fac - Save me - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 68:1)4|Salvum me fac - Save me - the book of Psalms ~ other scenes
-71X1(Ps. 80:1)|Exultate deo - Sing aloud to God
-71X1(Ps. 80:1)1|Exultate deo - Sing aloud to God - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 80:1)2|Exultate deo - Sing aloud to God - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 80:1)3|Exultate deo - Sing aloud to God - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 80:1)4|Exultate deo - Sing aloud to God - the book of Psalms ~ other scenes
+71X1(Ps. 68:1)|'Salvum me fac' - Save me
+71X1(Ps. 68:1)1|'Salvum me fac' - Save me' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 68:1)2|'Salvum me fac' - Save me' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 68:1)3|'Salvum me fac' - Save me' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 68:1)4|'Salvum me fac' - Save me' - the book of Psalms ~ other scenes
+71X1(Ps. 80:1)|'Exultate deo' - Sing aloud to God
+71X1(Ps. 80:1)1|'Exultate deo' - Sing aloud to God' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 80:1)2|'Exultate deo' - Sing aloud to God' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 80:1)3|'Exultate deo' - Sing aloud to God' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 80:1)4|'Exultate deo' - Sing aloud to God' - the book of Psalms ~ other scenes
 71X1(Ps. 85:10)|'righteousness and peace have kissed each other'
 71X1(Ps. 85:10)1|'righteousness and peace have kissed each other' - the book of Psalms ~ scenes from the Old Testament
 71X1(Ps. 85:10)2|'righteousness and peace have kissed each other' - the book of Psalms ~ scenes from the New Testament
 71X1(Ps. 85:10)3|'righteousness and peace have kissed each other' - the book of Psalms ~ non-biblical Christian motifs
 71X1(Ps. 85:10)4|'righteousness and peace have kissed each other' ~ the book of Psalms
-71X1(Ps. 101:1)|Domine exaudi - Hear my prayer
-71X1(Ps. 101:1)1|Domine exaudi - Hear my prayer - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 101:1)2|Domine exaudi - Hear my prayer - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 101:1)3|Domine exaudi - Hear my prayer - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 101:1)4|Domine exaudi - Hear my prayer - the book of Psalms ~ other scenes
-71X1(Ps. 109:1)|Dixit dominus - The Lord said to my Lord
-71X1(Ps. 109:1)1|Dixit dominus - The Lord said to my Lord - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 109:1)2|Dixit dominus - The Lord said to my Lord - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 109:1)3|Dixit dominus - The Lord said to my Lord - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 109:1)4|Dixit dominus - The Lord said to my Lord - the book of Psalms ~ other scenes
+71X1(Ps. 101:1)|'Domine exaudi' - Hear my prayer
+71X1(Ps. 101:1)1|'Domine exaudi' - Hear my prayer' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 101:1)2|'Domine exaudi' - Hear my prayer' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 101:1)3|'Domine exaudi' - Hear my prayer' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 101:1)4|'Domine exaudi' - Hear my prayer' - the book of Psalms ~ other scenes
+71X1(Ps. 109:1)|'Dixit dominus' - The Lord said to my Lord
+71X1(Ps. 109:1)1|'Dixit dominus' - The Lord said to my Lord' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 109:1)2|'Dixit dominus' - The Lord said to my Lord' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 109:1)3|'Dixit dominus' - The Lord said to my Lord' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 109:1)4|'Dixit dominus' - The Lord said to my Lord' - the book of Psalms ~ other scenes
 71X1(Ps. 118:22)|'The stone ... has become head of the corner'
 71X1(Ps. 118:22)1|'The stone ... has become head of the corner' - the book of Psalms ~ scenes from the Old Testament
 71X1(Ps. 118:22)2|'The stone ... has become head of the corner' - the book of Psalms ~ scenes from the New Testament
