@@ -4901,6 +4901,76 @@
 71X1(...)2|das Buch der Psalmen (mit BUCH, KAPITEL, VERS) - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
 71X1(...)3|das Buch der Psalmen (mit BUCH, KAPITEL, VERS) - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
 71X1(...)4|das Buch der Psalmen (mit BUCH, KAPITEL, VERS) - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 1:1)|Beatus vir - Wohl dem
+71X1(Ps. 1:1)1|Beatus vir - Wohl dem - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 1:1)2|Beatus vir - Wohl dem - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 1:1)3|Beatus vir - Wohl dem - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 1:1)4|Beatus vir - Wohl dem - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 3)|ein Psalm von David, als er vor seinem Sohne Absalom floh
+71X1(Ps. 3)1|ein Psalm von David, als er vor seinem Sohne Absalom floh (David flieht vor Absalom)
+71X1(Ps. 3)2|ein Psalm von David, als er vor seinem Sohne Absalom floh - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 3)3|ein Psalm von David, als er vor seinem Sohne Absalom floh - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 3)4|ein Psalm von David, als er vor seinem Sohne Absalom floh - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 22:18)|sie teilen unter sich meine Kleider
+71X1(Ps. 22:18)1|sie teilen unter sich meine Kleider - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 22:18)2|sie teilen unter sich meine Kleider (Soldaten losen um die Kleider Christi)
+71X1(Ps. 22:18)3|sie teilen unter sich meine Kleider - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 22:18)4|sie teilen unter sich meine Kleider - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 26:1)|Dominus illuminatio - Der Herr ist mein Licht
+71X1(Ps. 26:1)1|Dominus illuminatio - Der Herr ist mein Licht - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 26:1)2|Dominus illuminatio - Der Herr ist mein Licht - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 26:1)3|Dominus illuminatio - Der Herr ist mein Licht - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 26:1)4|Dominus illuminatio - Der Herr ist mein Licht - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 38:1)|Dixi custodiam - Ich habe mir vorgenommen
+71X1(Ps. 38:1)1|Dixi custodiam - Ich habe mir vorgenommen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 38:1)2|Dixi custodiam - Ich habe mir vorgenommen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 38:1)3|Dixi custodiam - Ich habe mir vorgenommen - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 38:1)4|Dixi custodiam - Ich habe mir vorgenommen - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 49:3)|mein Mund kündet Weisheit
+71X1(Ps. 49:3)1|mein Mund kündet Weisheit - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 49:3)2|mein Mund kündet Weisheit - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 49:3)3|mein Mund kündet Weisheit (Johannes Chrysostomus)
+71X1(Ps. 49:3)4|mein Mund kündet Weisheit - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 51:1)|Quid gloriaris - Was rühmst du dich
+71X1(Ps. 51:1)1|Quid gloriaris - Was rühmst du dich - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 51:1)2|Quid gloriaris - Was rühmst du dich - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 51:1)3|Quid gloriaris - Was rühmst du dich - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 51:1)4|Quid gloriaris - Was rühmst du dich - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 52:1)|Dixit insipiens - Die Toren sprechen
+71X1(Ps. 52:1)1|Dixit insipiens - Die Toren sprechen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 52:1)2|Dixit insipiens - Die Toren sprechen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 52:1)3|Dixit insipiens - Die Toren sprechen - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 52:1)4|Dixit insipiens - Die Toren sprechen - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 68:1)|Salvum me fac - Gott, hilf mir!
+71X1(Ps. 68:1)1|Salvum me fac - Gott, hilf mir! - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 68:1)2|Salvum me fac - Gott, hilf mir! - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 68:1)3|Salvum me fac - Gott, hilf mir! - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 68:1)4|Salvum me fac - Gott, hilf mir! - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 74:13)|in den Wassern hast du zermalmt die Häupter der Drachen
+71X1(Ps. 74:13)1|in den Wassern hast du zermalmt die Häupter der Drachen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 74:13)2|in den Wassern hast du zermalmt die Häupter der Drachen (Taufe Christi)
+71X1(Ps. 74:13)3|in den Wassern hast du zermalmt die Häupter der Drachen - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 74:13)4|in den Wassern hast du zermalmt die Häupter der Drachen - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 80:1)|Exultate deo - Singet fröhlich Gott
+71X1(Ps. 80:1)1|Exultate deo - Singet fröhlich Gott - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 80:1)2|Exultate deo - Singet fröhlich Gott - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 80:1)3|Exultate deo - Singet fröhlich Gott - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 80:1)4|Exultate deo - Singet fröhlich Gott - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 85:10)|Gerechtigkeit und Friede werden sich küssen
+71X1(Ps. 85:10)1|Gerechtigkeit und Friede werden sich küssen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 85:10)2|Gerechtigkeit und Friede werden sich küssen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 85:10)3|Gerechtigkeit und Friede werden sich küssen - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 85:10)4|Gerechtigkeit und Friede werden sich küssen (Buch der Psalmen)
+71X1(Ps. 101:1)|Domine exaudi - Herr, höre mein Gebet
+71X1(Ps. 101:1)1|Domine exaudi - Herr, höre mein Gebet - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 101:1)2|Domine exaudi - Herr, höre mein Gebet - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 101:1)3|Domine exaudi - Herr, höre mein Gebet - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 101:1)4|Domine exaudi - Herr, höre mein Gebet - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 109:1)|Dixit dominus - Der Herr sprach zu meinem Herrn
+71X1(Ps. 109:1)1|Dixit dominus - Der Herr sprach zu meinem Herrn - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 109:1)2|Dixit dominus - Der Herr sprach zu meinem Herrn - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 109:1)3|Dixit dominus - Der Herr sprach zu meinem Herrn - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 109:1)4|Dixit dominus - Der Herr sprach zu meinem Herrn - das Buch der Psalmen (mit Bezug auf andere Szenen)
 71X1(Ps. 118:22)|der Stein, den die Bauleute verwarfen, er ist zum Eckstein geworden
 71X1(Ps. 118:22)1|der Stein, den die Bauleute verwarfen, er ist zum Eckstein geworden - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
 71X1(Ps. 118:22)2|der Stein, den die Bauleute verwarfen, er ist zum Eckstein geworden - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
@@ -4911,31 +4981,6 @@
 71X1(Ps. 137:1)2|an den Flüssen von Babel saßen wir und weinten - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
 71X1(Ps. 137:1)3|an den Flüssen von Babel saßen wir und weinten - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
 71X1(Ps. 137:1)4|an den Flüssen von Babel saßen wir und weinten - das Buch der Psalmen (mit Bezug auf andere Szenen)
-71X1(Ps. 22:18)|sie teilen unter sich meine Kleider
-71X1(Ps. 22:18)1|sie teilen unter sich meine Kleider - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
-71X1(Ps. 22:18)2|sie teilen unter sich meine Kleider (Soldaten losen um die Kleider Christi)
-71X1(Ps. 22:18)3|sie teilen unter sich meine Kleider - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
-71X1(Ps. 22:18)4|sie teilen unter sich meine Kleider - das Buch der Psalmen (mit Bezug auf andere Szenen)
-71X1(Ps. 3)|ein Psalm von David, als er vor seinem Sohne Absalom floh
-71X1(Ps. 3)1|ein Psalm von David, als er vor seinem Sohne Absalom floh (David flieht vor Absalom)
-71X1(Ps. 3)2|ein Psalm von David, als er vor seinem Sohne Absalom floh - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
-71X1(Ps. 3)3|ein Psalm von David, als er vor seinem Sohne Absalom floh - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
-71X1(Ps. 3)4|ein Psalm von David, als er vor seinem Sohne Absalom floh - das Buch der Psalmen (mit Bezug auf andere Szenen)
-71X1(Ps. 49:3)|mein Mund kündet Weisheit
-71X1(Ps. 49:3)1|mein Mund kündet Weisheit - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
-71X1(Ps. 49:3)2|mein Mund kündet Weisheit - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
-71X1(Ps. 49:3)3|mein Mund kündet Weisheit (Johannes Chrysostomus)
-71X1(Ps. 49:3)4|mein Mund kündet Weisheit - das Buch der Psalmen (mit Bezug auf andere Szenen)
-71X1(Ps. 74:13)|in den Wassern hast du zermalmt die Häupter der Drachen
-71X1(Ps. 74:13)1|in den Wassern hast du zermalmt die Häupter der Drachen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
-71X1(Ps. 74:13)2|in den Wassern hast du zermalmt die Häupter der Drachen (Taufe Christi)
-71X1(Ps. 74:13)3|in den Wassern hast du zermalmt die Häupter der Drachen - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
-71X1(Ps. 74:13)4|in den Wassern hast du zermalmt die Häupter der Drachen - das Buch der Psalmen (mit Bezug auf andere Szenen)
-71X1(Ps. 85:10)|Gerechtigkeit und Friede werden sich küssen
-71X1(Ps. 85:10)1|Gerechtigkeit und Friede werden sich küssen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
-71X1(Ps. 85:10)2|Gerechtigkeit und Friede werden sich küssen - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
-71X1(Ps. 85:10)3|Gerechtigkeit und Friede werden sich küssen - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
-71X1(Ps. 85:10)4|Gerechtigkeit und Friede werden sich küssen (Buch der Psalmen)
 71X2|das Hohelied Salomos
 71X2(...)|das Hohelied Salomos (mit BUCH, KAPITEL, VERS)
 71X2(Song of Sol. 2:2)|wie eine Lilie unter den Dornen
