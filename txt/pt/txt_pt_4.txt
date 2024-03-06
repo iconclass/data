@@ -5119,9 +5119,11 @@
 48C1421|série de desenhos, modelos, etc. de um projecto arquitectónico
 48C1422|modelo ~ arquitectura 
 48C1423|planta, projecto ~ arquitectura
+48C14231|planta baixa ~ desenho ou modelo arquitectónico
 48C1424|secção ~ desenho ou modelo arquitectónico
 48C1425|exterior ~ desenho ou modelo arquitectónico
 48C14251|vista de pássaro, vista aérea ou vista de topo ~ desenho ou modelo arquitectónico
+48C14252|fachada ~ desenho ou modelo arquitectónico
 48C1426|interior ~ desenho ou modelo arquitectónico
 48C1427|combinação de exterior e interior ~ desenho ou modelo arquitectónico
 48C143|arquitectura ideal e visionária

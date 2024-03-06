@@ -5201,9 +5201,11 @@
 48C1421|série de plans, dessins, modèles, etc. d'un projet architectural
 48C1422|modèle ~ architecture
 48C1423|plan ~ architecture
+48C14231|plan d’étage ~ dessin ou modèle architectural
 48C1424|section ~ dessin ou modèle architectural
 48C1425|extérieur ~ dessin ou modèle architectural
 48C14251|vue panoramique, d'ensemble ~ dessin ou modèle architectural
+48C14252|façade ~ dessin ou modèle architectural
 48C1426|intérieur ~ dessin ou modèle architectural
 48C1427|extérieur et intérieur combinés ~ dessin ou modèle architectural
 48C143|architecture idéale, visionnaire

@@ -5200,9 +5200,11 @@
 48C1421|Serien von Zeichnungen, Modellen etc. eines architektonischen Projekts
 48C1422|Architekturmodell
 48C1423|Entwurf, Plan eines Gebäudes
+48C14231|Grundriss (Architekturzeichnung oder -modell)
 48C1424|Schnitt durch eine Architektur (Architekturzeichnung oder -modell)
 48C1425|Darstellung des Außenbaus einer Architektur (Architekturzeichnung oder -modell)
 48C14251|Darstellung der Vogelperspektive auf eine Architektur (Architekturzeichnung oder -modell)
+48C14252|Fassade (Architekturzeichnung oder -modell)
 48C1426|Darstellung des Inneren einer Architektur (Architekturzeichnung oder -modell)
 48C1427|kombinierte Darstellung des Außenbaus und des Inneren einer Architektur (Architekturzeichnung oder -modell)
 48C143|ideale and visionäre Architektur

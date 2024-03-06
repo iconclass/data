@@ -5200,9 +5200,11 @@
 48C1421|serie di disegni, modelli, ecc. relativi a un progetto architettonico
 48C1422|modello ~ architettura
 48C1423|pianta ~ architettura
+48C14231|pianta del piano ~ disegno o modello architettonico
 48C1424|sezione ~ disegno o modello architettonico
 48C1425|esterno ~ disegno o modello architettonico
 48C14251|veduta a volo d'uccello ~ disegno o modello architettonico
+48C14252|facciata ~ disegno o modello architettonico
 48C1426|interno ~ disegno o modello architettonico
 48C1427|esterno ed interno combinati insieme ~ disegno o modello architettonico
 48C143|architettura ideale e immaginaria

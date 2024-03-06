@@ -5201,9 +5201,11 @@
 48C1421|series of designs, models, etc. of one architectural project
 48C1422|model ~ architecture
 48C1423|plan ~ architecture
+48C14231|floor plan ~ architectural design or model
 48C1424|section ~ architectural design or model
 48C1425|exterior ~ architectural design or model
 48C14251|bird's eye view ~ architectural design or model
+48C14252|façade ~ architectural design or model
 48C1426|interior ~ architectural design or model
 48C1427|exterior and interior combined ~ architectural design or model
 48C143|ideal and visionary architecture
