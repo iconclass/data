@@ -6497,3 +6497,4 @@
 49N21|leggio ~ lettura
 49N22|indice ~ lettura
 49N23|segnalibro
+49N3|alfabetizzazione

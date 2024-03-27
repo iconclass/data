@@ -6312,3 +6312,4 @@
 49N21|atril  ~ leitura
 49N22|apontador ~ leitura
 49N23|marcador de livro
+49N3|alfabetização

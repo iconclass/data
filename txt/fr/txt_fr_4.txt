@@ -6498,3 +6498,4 @@
 49N21|pupitre, lutrin ~ lecture
 49N22|baguette servant à indiquer un texte ~ lecture
 49N23|signet de livre
+49N3|l'alphabétisation

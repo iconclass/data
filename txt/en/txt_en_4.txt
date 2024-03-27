@@ -529,7 +529,6 @@
 41C3221|goblet foot
 41C323|glass, rummer
 41C323(...)|glass, rummer (with NAME)
-
 41C323(BERKEMEYER)|glass, rummer: berkemeyer
 41C323(PASGLAS)|glass, rummer: pasglas
 41C324|tankard
@@ -6496,3 +6495,4 @@
 49N21|lectern ~ reading
 49N22|pointer ~ reading
 49N23|book-marker
+49N3|literacy

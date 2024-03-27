@@ -6496,3 +6496,4 @@
 49N21|Lesepult
 49N22|Lesefaden
 49N23|Lesezeichen
+49N3|Alphabetisierung
