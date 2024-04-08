@@ -2245,6 +2245,9 @@
 11H(EDWARD)37|Eduard der Bekenner, König von England; mögliche Attribute: Krone, Aussätziger, Ring, Zepter - ein männlicher Heiliger bei der Meditation, in Ekstase
 11H(EDWARD)4|Eduard der Bekenner, König von England; mögliche Attribute: Krone, Aussätziger, Ring, Zepter - nicht-wundertätige Handlungen und Ereignisse in der Vita eines männlichen Heiligen
 11H(EDWARD)5|Wunder in der Vita des hl. Eduard
+11H(EDWARD)51|das Wunder des Rings
+11H(EDWARD)511|Edward gibt den Ring dem Evangelisten Johannes, der als Bettler verkleidet ist
+11H(EDWARD)512|Johannes der Evangelist erscheint englischen Pilgern in Palästina, gibt ihnen Edwards Ring und sagt ihnen den nahenden Tod des Königs voraus
 11H(EDWARD)59|Wunder in der Vita des hl. Eduard - Stigmatisation eines männlichen Heiligen
 11H(EDWARD)6|Eduard der Bekenner, König von England; mögliche Attribute: Krone, Aussätziger, Ring, Zepter - Martyrium, Leiden, Scheitern, Tod eines männlichen Heiligen
 11H(EDWARD)68|Eduard der Bekenner, König von England; mögliche Attribute: Krone, Aussätziger, Ring, Zepter - Tod, Totenbett eines männlichen Heiligen

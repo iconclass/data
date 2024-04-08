@@ -2245,6 +2245,9 @@
 11H(EDWARD)37|Sant'Edoardo il Confessore, re d'Inghilterra; attributi: corona, lebbroso, anello, scettro - il santo in meditazione, in estasi
 11H(EDWARD)4|Sant'Edoardo il Confessore, re d'Inghilterra; attributi: corona, lebbroso, anello, scettro - attività ed episodi non miracolosi ~ santo
 11H(EDWARD)5|attività ed episodi miracolosi ~ Sant'Edoardo
+11H(EDWARD)51|il miracolo dell'anello
+11H(EDWARD)511|Edoardo consegna l'anello a Giovanni evangelista travestito da mendicante
+11H(EDWARD)512|Giovanni evangelista appare ai pellegrini inglesi in Palestina, dà loro l'anello di Edoardo e predice loro l'imminente morte del re
 11H(EDWARD)59|attività ed episodi miracolosi ~ Sant'Edoardo - stimmatizzazione del santo
 11H(EDWARD)6|Sant'Edoardo il Confessore, re d'Inghilterra; attributi: corona, lebbroso, anello, scettro - martirio, sofferenze, avversità, morte del santo
 11H(EDWARD)68|Sant'Edoardo il Confessore, re d'Inghilterra; attributi: corona, lebbroso, anello, scettro - morte, letto di morte del santo

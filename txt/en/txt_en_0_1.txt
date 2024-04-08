@@ -2245,6 +2245,9 @@
 11H(EDWARD)37|the king of England, Edward the Confessor; possible attributes: crown, leper, ring, sceptre - male saint meditating, in ecstasy
 11H(EDWARD)4|the king of England, Edward the Confessor; possible attributes: crown, leper, ring, sceptre - non-miraculous activities and events ~ male saint
 11H(EDWARD)5|miraculous activities and events ~ St. Edward
+11H(EDWARD)51|the miracle of the ring
+11H(EDWARD)511|Edward gives the ring to John the Evangelist, who is disguised as a beggar
+11H(EDWARD)512|John the Evangelist appears to English pilgrims in Palestine, gives them Edward’s ring, and foretells them the king’s approaching death
 11H(EDWARD)59|miraculous activities and events ~ St. Edward - stigmatization of male saint
 11H(EDWARD)6|the king of England, Edward the Confessor; possible attributes: crown, leper, ring, sceptre - martyrdom, suffering, misfortune, death of male saint
 11H(EDWARD)68|the king of England, Edward the Confessor; possible attributes: crown, leper, ring, sceptre - death, deathbed of male saint

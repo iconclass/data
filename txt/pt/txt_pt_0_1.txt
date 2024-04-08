@@ -2259,6 +2259,9 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(EDWARD)37|o Rei de Inglaterra, Eduardo o Confessor; possíveis atributos: coroa, leproso, anel, ceptro - santo meditando, em êxtase
 11H(EDWARD)4|o Rei de Inglaterra, Eduardo o Confessor; possíveis atributos: coroa, leproso, anel, ceptro - actividades e eventos não milagrosos ~ santo
 11H(EDWARD)5|actividades e eventos  milagrosos ~ São Eduardo
+11H(EDWARD)51|o milagre do anel
+11H(EDWARD)511|Eduardo dá o anel a João Evangelista, que está disfarçado de mendigo
+11H(EDWARD)512|João Evangelista aparece aos peregrinos ingleses na Palestina, dá-lhes o anel de Eduardo e prediz-lhes a morte iminente do rei
 11H(EDWARD)59|actividades e eventos  milagrosos ~ São Eduardo - estigmatização do santo
 11H(EDWARD)6|o Rei de Inglaterra, Eduardo o Confessor; possíveis atributos: coroa, leproso, anel, ceptro - martírio, sofrimento, infortúnio, morte do santo
 11H(EDWARD)68|o Rei de Inglaterra, Eduardo o Confessor; possíveis atributos: coroa, leproso, anel, ceptro - morte, leito de morte do santo

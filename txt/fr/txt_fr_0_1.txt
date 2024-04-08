@@ -2245,6 +2245,9 @@
 11H(EDWARD)37|Edouard le Confesseur, roi d'Angleterre; attributs possibles : couronne, lépreux, anneau, sceptre - saint en méditation, en extase
 11H(EDWARD)4|Edouard le Confesseur, roi d'Angleterre; attributs possibles : couronne, lépreux, anneau, sceptre - activités et événements non-miraculeux ~ saint
 11H(EDWARD)5|activités et événements miraculeux ~ St Edouard
+11H(EDWARD)51|le miracle de l'anneau
+11H(EDWARD)511|Edouard donne l'anneau à Jean l'évangéliste, déguisé en mendiant
+11H(EDWARD)512|Jean l'Evangéliste apparaît aux pèlerins anglais en Palestine, leur donne l'anneau d'Edouard et leur prédit la mort prochaine du roi
 11H(EDWARD)59|activités et événements miraculeux ~ St Edouard - stigmatisation du saint
 11H(EDWARD)6|Edouard le Confesseur, roi d'Angleterre; attributs possibles : couronne, lépreux, anneau, sceptre - martyre, souffrance, malheurs, mort du saint
 11H(EDWARD)68|Edouard le Confesseur, roi d'Angleterre; attributs possibles : couronne, lépreux, anneau, sceptre - mort, lit de mort du saint
