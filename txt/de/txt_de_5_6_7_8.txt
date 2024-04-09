@@ -7179,8 +7179,8 @@
 83(OVID, Metamorphoses I:52-68)|Die vier Winde
 83(OVID, Metamorphoses I:68-88)|Menschheit
 83(OVID, Metamorphoses I:89-112)|Das goldene Zeitalter
-83(OVID, Metamorphoses I:113-124)|Das Silberne Zeitalter
-83(OVID, Metamorphoses I:125-150)|Die Bronzezeit
+83(OVID, Metamorphoses I:113-124)|Das silberne Zeitalter
+83(OVID, Metamorphoses I:125-150)|Das bronzene Zeitalter
 83(OVID, Metamorphoses I:151-176)|Die Giganten
 83(OVID, Metamorphoses I:177-198)|Jupiter droht die Menschheit zu zerstören
 83(OVID, Metamorphoses I:199-243)|Lycaon wird in einen Wolf verwandelt
