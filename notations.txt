@@ -130393,9 +130393,6 @@ C 83(OVID, Metamorphoses II:1-30)
 ; 83(OVID, Metamorphoses II:812-832)
 ; 83(OVID, Metamorphoses II:833-875)
 $
-N 83(OVID, Metamorphoses II)
-K 8k
-$
 N 83(OVID, Metamorphoses II:1-30)
 K 8k
 R 92B3911
