@@ -3664,6 +3664,11 @@
 46B412|selling
 46B413|barter
 46B414|hiring, leasing
+46B415|price
+46B4151|price tag
+46B4152|handwritten price, e.g. in a book
+46B416|invoice
+46B4161|receipt
 46B42|examining merchandise
 46B43|bargaining
 46B44|paying (~ commerce) (here also repayment of debt, etc.)

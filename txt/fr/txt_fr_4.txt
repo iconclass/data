@@ -3665,6 +3665,11 @@
 46B412|vendre
 46B413|échange, troc
 46B414|louer, leasing (crédit-bail)
+46B415|prix
+46B4151|étiquette de prix 
+46B4152|prix manuscrit, par ex. dans un livre
+46B416|facture
+46B4161|reçu
 46B42|examiner la marchandise
 46B43|marchandage, négociations
 46B44|payer (~ commerce) (également remboursement de dette, etc.)

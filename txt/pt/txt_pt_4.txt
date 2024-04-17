@@ -3592,6 +3592,11 @@
 46B412|vender
 46B413|negociar por troca, permutar
 46B414|contratar, alugar
+46B415|preço 
+46B4151|etiqueta de preço 
+46B4152|preço manuscrito, por ex. em um livro
+46B416|fatura
+46B4161|recibo 
 46B42|verificação de mercadorias
 46B43|negociar, regatear
 46B44|pagamento (~ comércio) (inclui pagar empréstimos, etc.)

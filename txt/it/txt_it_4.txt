@@ -3664,6 +3664,11 @@
 46B412|vendita
 46B413|baratto
 46B414|noleggio, affitto
+46B415|prezzo
+46B4151|cartellino del prezzo 
+46B4152|prezzo scritto a mano, ad es. in un libro
+46B416|fattura
+46B4161|scontrino 
 46B42|esame della merce
 46B43|contrattazione
 46B44|pagamento (~ commerci) (inserire qui anche restituzione di prestiti, ecc.)

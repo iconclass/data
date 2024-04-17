@@ -3664,6 +3664,11 @@
 46B412|verkaufen
 46B413|Tausch
 46B414|mieten, pachten
+46B415|Preis
+46B4151|Preisschild
+46B4152|handgeschriebener Preis, z.B. in einem Buch
+46B416|Rechnung
+46B4161|Quittung
 46B42|Handelsware überprüfen, untersuchen
 46B43|handeln, feilschen
 46B44|zahlen (für Waren; hier auch Rückzahlung von Schulden etc.)
