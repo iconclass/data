@@ -10009,6 +10009,7 @@
 11Q71477|lectionaire
 11Q71478|'collectarium'
 11Q71479|autres livres ecclésiastiques
+11Q71479(...)|autres livres ecclésiastiques (avec NOM)
 11Q7148|autres objets ~ l'église (éventuellement non liturgiques)
 11Q7148(...)|autres objets ~ l'église (éventuellement non liturgiques) (avec NOM)
 11Q71481|scènes de la Nativité ~ équipement de l'église

@@ -10009,6 +10009,7 @@
 11Q71477|Lektionar
 11Q71478|Collectarium
 11Q71479|andere kirchliche Bücher
+11Q71479(...)|andere kirchliche Bücher (mit NAMEN)
 11Q7148|andere kirchliche Gegenstände (nicht unbedingt liturgisch)
 11Q7148(...)|andere kirchliche Gegenstände (nicht unbedingt liturgisch) (mit NAMEN)
 11Q71481|Szene der Geburt Christi als Element der Kirchenausstattung

@@ -10009,6 +10009,7 @@
 11Q71477|lectionary
 11Q71478|'collectarium'
 11Q71479|other ecclesiastical books
+11Q71479(...)|other ecclesiastical books (with NAME)
 11Q7148|other objects ~ the church (not necessarily liturgical
 11Q7148(...)|other objects ~ the church (not necessarily liturgical) (with NAME)
 11Q71481|Nativity scene ~ equipment of church

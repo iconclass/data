@@ -10032,6 +10032,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11Q71477|leccionário
 11Q71478|"collectarium"
 11Q71479|outros livros eclesiásticos
+11Q71479(...)|outros livros eclesiásticos (com NOME)
 11Q7148|outros objectos ~  igreja (não necessariamente litúrgicos)
 11Q7148(...)|outros objectos ~  igreja (não necessariamente litúrgicos) (com NOME)
 11Q71481|presépio ~ equipamento da igreja

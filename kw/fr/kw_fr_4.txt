@@ -9514,6 +9514,7 @@
 49M511|texte de présentation
 49M52|clips
 49M53|Beutelbuch
+49M53|livre de ceinture
 49M6|éditer
 49M6|éditeur
 49M7|libraire

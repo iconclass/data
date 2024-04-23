@@ -9705,6 +9705,7 @@
 49M511|sovraccopertina
 49M52|fermaglio
 49M53|Beutelbuch
+49M53|libro della cintura
 49M6|editore
 49M6|pubblicare
 49M7|libraio

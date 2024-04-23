@@ -10009,6 +10009,7 @@
 11Q71477|lezionario
 11Q71478|'collectarium'
 11Q71479|altri libri ecclesiastici
+11Q71479(...)|altri libri ecclesiastici (col NOME)
 11Q7148|altri oggetti ~ la chiesa (anche oggetti non liturgici)
 11Q7148(...)|altri oggetti ~ la chiesa (anche oggetti non liturgici) (col NOME)
 11Q71481|Presepio ~ corredo di chiesa

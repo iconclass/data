@@ -9452,6 +9452,7 @@
 49M511|book-jacket
 49M52|clasp
 49M53|Beutelbuch
+49M53|girdle book
 49M6|publisher
 49M6|publishing
 49M7|bookseller

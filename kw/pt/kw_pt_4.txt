@@ -9450,6 +9450,7 @@
 49M511|livro-revestimento
 49M52|fecho
 49M53|Beutelbuch
+49M53|livro de cinto
 49M6|editor
 49M6|publicação
 49M7|livreiro
