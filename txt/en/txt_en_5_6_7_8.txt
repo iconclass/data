@@ -7542,7 +7542,7 @@
 85(RAVEN AND SCORPION)|fable of the Raven and the Scorpion
 85(REYNARD THE FOX)|fable of Reynard the Fox
 85(SWAN AND COOK)|fable of the Swan and the Cook
-85(AESOP, Latin fable index)|Overview of 110 Latin fable titles
+85(AESOP, Latin fable index)|Latin titles of Aesopian fables
 85(DE GALLO GALLINACEO)|fable 1: De Gallo Gallinaceo
 85(DE LUPO ET AGNO)|fable 2: De lupo et agno
 85(DE LEONE ET QUATUOR TAURIS)|fable 3: De leone et quatuor tauris

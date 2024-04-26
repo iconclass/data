@@ -7543,6 +7543,117 @@
 85(RAVEN AND SCORPION)|favola: il Corvo e lo Scorpione
 85(REYNARD THE FOX)|favola: Roman de Renard, Renard la volpe
 85(SWAN AND COOK)|favola: il Cigno e il Cuoco
+85(AESOP, Latin fable index)|Titoli latini delle favole di Esopo
+85(DE GALLO GALLINACEO)|favola 1: De Gallo Gallinaceo
+85(DE LUPO ET AGNO)|favola 2: De lupo et agno
+85(DE LEONE ET QUATUOR TAURIS)|favola 3: De leone et quatuor tauris
+85(DE RANA ET VULPE)|favola 4: De rana et vulpe
+85(DE CANE RUBOS COMEDENTE)|favola 5: De cane rubos comedente
+85(DE ALAUDA ET PULLIS EIUS)|favola 6: De alauda et pullis eius
+85(DE VULPE, CANE ET GALLO)|favola 7: De vulpe, cane et gallo
+85(DE VULPE IN PUTEO)|favola 8: De vulpe in puteo
+85(DE LUPIS ET OVIBUS)|favola 9: De lupis et ovibus
+85(DE VULPE ET AQUILA)|favola 10: De vulpe et aquila
+85(DE LUPO OVIS PELLE INDUTO)|favola 11: De lupo ovis pelle induto
+85(DE AUCIPE ET PALUMBE)|favola 12: De aucipe et palumbe
+85(DE LUPO ET SUE)|favola 13: De Lupo et Sue
+85(DE EQUO ET ASINO)|favola 14: De equo et asino
+85(DE LUPO ET HIRCO)|favola 15: De lupo et hirco
+85(DE COLUMBIS ET ACCIPITRE)|favola 16: De columbis et accipitre
+85(DE MURE URBANO ET MURE RUSTICO)|favola 17: De mure urbano et mure rustico
+85(DE HIRUNDINE ET ALIIS AVICULIS)|favola 18: De hirundine et aliis aviculis
+85(DE CASTORE)|favola 19: De castore
+85(DE CATO ET VULPE)|favola 20: De cato et vulpe
+85(DE CATO ET MURIBUS)|favola 21: De cato et muribus
+85(DE LEONE ET QUIBUSDAM ALIIS QUADRUPEDIBUS)|favola 22: De leone et quibusdam aliis quadrupedibus
+85(DE LEONE ET MURE)|favola 23:  De leone et mure
+85(DE LEONE ET MURE)|favola 24: De Leone et Mure 
+85(DE CANE MORDACI)|favola 25: De cane mordaci
+85(DE RANA ET BOVE)|favola 26: De rana et bove
+85(DE LEONE ET VULPE)|favola 27: De leone et vulpe
+85(DE SIMIA ET VULPECULA)|favola 28: De simia et vulpecula
+85(DE CANE ET BOVE)|favola 29: De cane et bove
+85(DE AVIBUS ET QUADRUPEDIBUS)|favola 30: De avibus et quadrupedibus
+85(DE TIGRIDE ET VULPE)|favola 31: De tigride et vulpe
+85(DE LEAENA ET VULPE)|favola 32: De leaena et vulpe
+85(DE QUERCU ET ARUNDINE)|favola 33: De Quercu et Arundine
+85(DE SOLE ET VENTO)|favola 34: De sole et vento
+85(DE MURE ET RANA)|favola 35: De mure et rana
+85(DE RANIS ET EARUM REGE)|favola 36: De ranis et earum rege
+85(DE ANU ET ANCILLIS)|favola 37: De anu et ancillis
+85(LEO ET URSUS)|favola 38: Leo et ursus
+85(DE CORNICE ET URNA)|favola 39: De cornice et urna
+85(DE HERINACEIS VIPERAS HOSPITES EIICIENTIBUS)|favola 40: De Herinaceis Viperas hospites eiicientibus
+85(DE LEPORIBUS ET RANIS)|favola 41: De Leporibus et Ranis
+85(DE VULPE ET LUPO)|favola 42: De vulpe et lupo
+85(DE CANE ET OVE)|favola 43: De cane et ove
+85(DE PAVONE ET GRUE)|favola 44: De pavone et grue
+85(DE VIPERA ET LIMA)|favola 45: De vipera et lima
+85(DE LEONE, ASINO ET GALLO)|favola 46: De leone, asino et gallo
+85(DE MONEDULA ET PAVONIBUS)|favola 47: De monedula et pavonibus
+85(DE MUSCA ET FORMICA)|favola 48: De musca et formica
+85(DE CICADA ET FORMICA)|favola 49: De cicada et formica
+85(DE RUSTICO ET COLUBRO)|favola 50: De Rustico et Colubro
+85(DE LEONE AEGROTANTE)|favola 51: De leone aegrotante
+85(DE VITULA ET BOVE)|favola 52: De vitula et bove
+85(DE RUSTICO ET ARATRO SUO)|favola 53: De rustico et aratro suo
+85(DE MEMBRIS ET VENTRE)|favola 54: De Membris et Ventre 
+85(DE EQUO ET LEONE)|favola 55: De equo et leone
+85(DE AGRICOLA ET CICONIA)|favola 56: De agricola et ciconia
+85(DE CATO ET GALLO)|favola 57: De cato et gallo
+85(DE VULPE ET PARDO)|favola 58: De vulpe et pardo
+85(DE PASTORIS PUERO ET AGRICOLIS)|favola 59: De pastoris puero et agricolis
+85(DE CAPRO IN PUTEO)|favola 60: De capro in puteo
+85(DE CUPIDINE ET MORTE)|favola 61: De Cupidine et morte
+85(DE AGRICOLA ET FILIIS)|favola 62: De agricola et filiis
+85(CERVUS VETUS ET HINNULUS)|favola 63: Cervus vetus et hinnulus
+85(CANIS VETULUS ET MAGISTER)|favola 64: Canis vetulus et magister
+85(DE IOVE ET CAMELO)|favola 65: De Iove et Camelo 
+85(VULPES SINE CAUDA)|favola 66: Vulpes sine cauda
+85(CORVUS ET VULPES)|favola 67: Corvus et Vulpes 
+85(DE ACCIPITRE COLUMBAM INSEQUENTE)|favola 68: De accipitre columbam insequente
+85(DE NUTRICE ET LUPO)|favola 69: De Nutrice et Lupo 
+85(DE LEPORE ET TESTUDINE)|favola 70: De lepore et testudine
+85(DE CATA IN FEMINAM MUTATA)|favola 71: De cata in feminam mutata
+85(DE ASINO LEONIS PELLE INDUTO)|favola 72: De asino leonis pelle induto
+85(DE PARTU MONTIUM)|favola 73: De partu montium
+85(DE SATYRO ET VIATORE)|favola 74: De satyro et viatore
+85(DE MILVO AEGROTO)|favola 75: De milvo aegroto
+85(DE ACCIPITRE ET LUSCINIA)|favola 76: De accipitre et luscinia
+85(PAVO ET LUSCINIA)|favola 77: Pavo et luscinia
+85(PISCATOR ET PISCICULUS)|favola 78: Piscator et Pisciculus
+85(DE GRUIBUS ET ANSERIBUS)|favola 79: De Gruibus et Anseribus
+85(DE CANE ET UMBRA)|favola 80: De Cane et Umbra
+85(DE CANE ET ASINO)|favola 81: De cane et asino
+85(DE LUPO ET GRUE)|favola 82: De lupo et grue
+85(DE AVARO ET INVIDO)|favola 83: De avaro et invido
+85(DE DUABUS OLLIS)|favola 84: De duabus Ollis
+85(DE VULPECULA ET CICONIA)|favola 85: De vulpecula et ciconia
+85(URSUS ET ALVEARIA)|favola 86: Ursus et alvearia
+85(URSUS ET DUO VIATORES)|favola 87: Ursus et duo viatores
+85(TUBICEN CAPTIVUS)|favola 88: Tubicen captivus
+85(GALLI ET PERDIX)|favola 89: Galli et perdix
+85(AUCEPS ET PERDIX)|favola 90: Auceps et Perdix
+85(AQUILA ET CORVUS)|favola 91: Aquila et corvus
+85(DE LEONE, ASINO ET VULPE)|favola 92: De leone, asino et vulpe
+85(VULPES ET UVA)|favola 93: Vulpes et uva
+85(EQUUS ET CERVUS)|favola 94: Equus et cervus
+85(IUVENIS ET HIRUNDO)|favola 95: Iuvenis et hirundo
+85(ANUS ET ANSER)|favola 96: Anus et anser
+85(DE CANE ET LUPO)|favola 97: De cane et lupo
+85(RUSTICUS ET SYLVA)|favola 98: Rusticus et sylva
+85(LEO SENEX)|favola 99: Leo senex
+85(DE EQUO ET ASELLO ONUSTO)|favola 100: De equo et asello onusto
+85(SENEX ET MORS)|favola 101: Senex et mors
+85(DE ASINO ET APRO)|favola 102: De asino et apro
+85(DE DELPHINO ET SMARIDE)|favola 103: De delphino et smaride
+85(DE PAVONE ET PICA)|favola 104: De pavone et pica
+85(DE SYLVANO ET LEONE)|favola 105: De sylvano et leone
+85(CERVUS IN AQUAS INSPICIENS)|favola 106: Cervus in aquas inspiciens
+85(DE CERVO IN BOVIUM STABULO)|favola 107: De Cervo in bovium stabulo
+85(FORMICA ET COLUMBA)|favola 108: Formica et columba
+85(LEO AMATORIUS)|favola 109: Leo amatorius
+85(AQUILA ET TESTUDO)|favola 110: Aquila et testudo
 85A|favole di Esopo : Usare 85(...) 
 85A(...)|favole di Esopo (col TITOLO) : Usare 85 (...)
 85B|favole di Lafontaine : Usare 85 (...)

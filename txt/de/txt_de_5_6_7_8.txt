@@ -7544,7 +7544,117 @@
 85(RAVEN AND SCORPION)|Fabel: Der Rabe und der Skorpion
 85(REYNARD THE FOX)|Fabel: Reinecke Fuchs
 85(SWAN AND COOK)|Fabel: Der Schwan und der Koch
-85A|Fabeln des Aesop: 85 (...) benutzen
+85(AESOP, Latin fable index)|Lateinische Titel äsopischer Fabeln
+85(DE GALLO GALLINACEO)|Fabel 1: De Gallo Gallinaceo
+85(DE LUPO ET AGNO)|Fabel 2: De lupo et agno
+85(DE LEONE ET QUATUOR TAURIS)|Fabel 3: De leone et quatuor tauris
+85(DE RANA ET VULPE)|Fabel 4: De rana et vulpe
+85(DE CANE RUBOS COMEDENTE)|Fabel 5: De cane rubos comedente
+85(DE ALAUDA ET PULLIS EIUS)|Fabel 6: De alauda et pullis eius
+85(DE VULPE, CANE ET GALLO)|Fabel 7: De vulpe, cane et gallo
+85(DE VULPE IN PUTEO)|Fabel 8: De vulpe in puteo
+85(DE LUPIS ET OVIBUS)|Fabel 9: De lupis et ovibus
+85(DE VULPE ET AQUILA)|Fabel 10: De vulpe et aquila
+85(DE LUPO OVIS PELLE INDUTO)|Fabel 11: De lupo ovis pelle induto
+85(DE AUCIPE ET PALUMBE)|Fabel 12: De aucipe et palumbe
+85(DE LUPO ET SUE)|Fabel 13: De Lupo et Sue
+85(DE EQUO ET ASINO)|Fabel 14: De equo et asino
+85(DE LUPO ET HIRCO)|Fabel 15: De lupo et hirco
+85(DE COLUMBIS ET ACCIPITRE)|Fabel 16: De columbis et accipitre
+85(DE MURE URBANO ET MURE RUSTICO)|Fabel 17: De mure urbano et mure rustico
+85(DE HIRUNDINE ET ALIIS AVICULIS)|Fabel 18: De hirundine et aliis aviculis
+85(DE CASTORE)|Fabel 19: De castore
+85(DE CATO ET VULPE)|Fabel 20: De cato et vulpe
+85(DE CATO ET MURIBUS)|Fabel 21: De cato et muribus
+85(DE LEONE ET QUIBUSDAM ALIIS QUADRUPEDIBUS)|Fabel 22: De leone et quibusdam aliis quadrupedibus
+85(DE LEONE ET MURE)|Fabel 23:  De leone et mure
+85(DE LEONE ET MURE)|Fabel 24: De Leone et Mure 
+85(DE CANE MORDACI)|Fabel 25: De cane mordaci
+85(DE RANA ET BOVE)|Fabel 26: De rana et bove
+85(DE LEONE ET VULPE)|Fabel 27: De leone et vulpe
+85(DE SIMIA ET VULPECULA)|Fabel 28: De simia et vulpecula
+85(DE CANE ET BOVE)|Fabel 29: De cane et bove
+85(DE AVIBUS ET QUADRUPEDIBUS)|Fabel 30: De avibus et quadrupedibus
+85(DE TIGRIDE ET VULPE)|Fabel 31: De tigride et vulpe
+85(DE LEAENA ET VULPE)|Fabel 32: De leaena et vulpe
+85(DE QUERCU ET ARUNDINE)|Fabel 33: De Quercu et Arundine
+85(DE SOLE ET VENTO)|Fabel 34: De sole et vento
+85(DE MURE ET RANA)|Fabel 35: De mure et rana
+85(DE RANIS ET EARUM REGE)|Fabel 36: De ranis et earum rege
+85(DE ANU ET ANCILLIS)|Fabel 37: De anu et ancillis
+85(LEO ET URSUS)|Fabel 38: Leo et ursus
+85(DE CORNICE ET URNA)|Fabel 39: De cornice et urna
+85(DE HERINACEIS VIPERAS HOSPITES EIICIENTIBUS)|Fabel 40: De Herinaceis Viperas hospites eiicientibus
+85(DE LEPORIBUS ET RANIS)|Fabel 41: De Leporibus et Ranis
+85(DE VULPE ET LUPO)|Fabel 42: De vulpe et lupo
+85(DE CANE ET OVE)|Fabel 43: De cane et ove
+85(DE PAVONE ET GRUE)|Fabel 44: De pavone et grue
+85(DE VIPERA ET LIMA)|Fabel 45: De vipera et lima
+85(DE LEONE, ASINO ET GALLO)|Fabel 46: De leone, asino et gallo
+85(DE MONEDULA ET PAVONIBUS)|Fabel 47: De monedula et pavonibus
+85(DE MUSCA ET FORMICA)|Fabel 48: De musca et formica
+85(DE CICADA ET FORMICA)|Fabel 49: De cicada et formica
+85(DE RUSTICO ET COLUBRO)|Fabel 50: De Rustico et Colubro
+85(DE LEONE AEGROTANTE)|Fabel 51: De leone aegrotante
+85(DE VITULA ET BOVE)|Fabel 52: De vitula et bove
+85(DE RUSTICO ET ARATRO SUO)|Fabel 53: De rustico et aratro suo
+85(DE MEMBRIS ET VENTRE)|Fabel 54: De Membris et Ventre 
+85(DE EQUO ET LEONE)|Fabel 55: De equo et leone
+85(DE AGRICOLA ET CICONIA)|Fabel 56: De agricola et ciconia
+85(DE CATO ET GALLO)|Fabel 57: De cato et gallo
+85(DE VULPE ET PARDO)|Fabel 58: De vulpe et pardo
+85(DE PASTORIS PUERO ET AGRICOLIS)|Fabel 59: De pastoris puero et agricolis
+85(DE CAPRO IN PUTEO)|Fabel 60: De capro in puteo
+85(DE CUPIDINE ET MORTE)|Fabel 61: De Cupidine et morte
+85(DE AGRICOLA ET FILIIS)|Fabel 62: De agricola et filiis
+85(CERVUS VETUS ET HINNULUS)|Fabel 63: Cervus vetus et hinnulus
+85(CANIS VETULUS ET MAGISTER)|Fabel 64: Canis vetulus et magister
+85(DE IOVE ET CAMELO)|Fabel 65: De Iove et Camelo 
+85(VULPES SINE CAUDA)|Fabel 66: Vulpes sine cauda
+85(CORVUS ET VULPES)|Fabel 67: Corvus et Vulpes 
+85(DE ACCIPITRE COLUMBAM INSEQUENTE)|Fabel 68: De accipitre columbam insequente
+85(DE NUTRICE ET LUPO)|Fabel 69: De Nutrice et Lupo 
+85(DE LEPORE ET TESTUDINE)|Fabel 70: De lepore et testudine
+85(DE CATA IN FEMINAM MUTATA)|Fabel 71: De cata in feminam mutata
+85(DE ASINO LEONIS PELLE INDUTO)|Fabel 72: De asino leonis pelle induto
+85(DE PARTU MONTIUM)|Fabel 73: De partu montium
+85(DE SATYRO ET VIATORE)|Fabel 74: De satyro et viatore
+85(DE MILVO AEGROTO)|Fabel 75: De milvo aegroto
+85(DE ACCIPITRE ET LUSCINIA)|Fabel 76: De accipitre et luscinia
+85(PAVO ET LUSCINIA)|Fabel 77: Pavo et luscinia
+85(PISCATOR ET PISCICULUS)|Fabel 78: Piscator et Pisciculus
+85(DE GRUIBUS ET ANSERIBUS)|Fabel 79: De Gruibus et Anseribus
+85(DE CANE ET UMBRA)|Fabel 80: De Cane et Umbra
+85(DE CANE ET ASINO)|Fabel 81: De cane et asino
+85(DE LUPO ET GRUE)|Fabel 82: De lupo et grue
+85(DE AVARO ET INVIDO)|Fabel 83: De avaro et invido
+85(DE DUABUS OLLIS)|Fabel 84: De duabus Ollis
+85(DE VULPECULA ET CICONIA)|Fabel 85: De vulpecula et ciconia
+85(URSUS ET ALVEARIA)|Fabel 86: Ursus et alvearia
+85(URSUS ET DUO VIATORES)|Fabel 87: Ursus et duo viatores
+85(TUBICEN CAPTIVUS)|Fabel 88: Tubicen captivus
+85(GALLI ET PERDIX)|Fabel 89: Galli et perdix
+85(AUCEPS ET PERDIX)|Fabel 90: Auceps et Perdix
+85(AQUILA ET CORVUS)|Fabel 91: Aquila et corvus
+85(DE LEONE, ASINO ET VULPE)|Fabel 92: De leone, asino et vulpe
+85(VULPES ET UVA)|Fabel 93: Vulpes et uva
+85(EQUUS ET CERVUS)|Fabel 94: Equus et cervus
+85(IUVENIS ET HIRUNDO)|Fabel 95: Iuvenis et hirundo
+85(ANUS ET ANSER)|Fabel 96: Anus et anser
+85(DE CANE ET LUPO)|Fabel 97: De cane et lupo
+85(RUSTICUS ET SYLVA)|Fabel 98: Rusticus et sylva
+85(LEO SENEX)|Fabel 99: Leo senex
+85(DE EQUO ET ASELLO ONUSTO)|Fabel 100: De equo et asello onusto
+85(SENEX ET MORS)|Fabel 101: Senex et mors
+85(DE ASINO ET APRO)|Fabel 102: De asino et apro
+85(DE DELPHINO ET SMARIDE)|Fabel 103: De delphino et smaride
+85(DE PAVONE ET PICA)|Fabel 104: De pavone et pica
+85(DE SYLVANO ET LEONE)|Fabel 105: De sylvano et leone
+85(CERVUS IN AQUAS INSPICIENS)|Fabel 106: Cervus in aquas inspiciens
+85(DE CERVO IN BOVIUM STABULO)|Fabel 107: De Cervo in bovium stabulo
+85(FORMICA ET COLUMBA)|Fabel 108: Formica et columba
+85(LEO AMATORIUS)|Fabel 109: Leo amatorius
+85(AQUILA ET TESTUDO)|Fabel 110: Aquila et testudo85A|Fabeln des Aesop: 85 (...) benutzen
 85A(...)|Fabeln des Aesop (mit TITEL): 85 (...) benutzen
 85B|Fabeln von Lafontaine: 85 (...) benutzen
 85B(...)|Fabeln von Lafontaine (mit TITEL): 85 (...) benutzen
