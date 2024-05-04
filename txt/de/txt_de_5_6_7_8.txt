@@ -7568,7 +7568,7 @@
 85(DE CATO ET MURIBUS)|Fabel 21: De cato et muribus
 85(DE LEONE ET QUIBUSDAM ALIIS QUADRUPEDIBUS)|Fabel 22: De leone et quibusdam aliis quadrupedibus
 85(DE LEONE ET MURE)|Fabel 23:  De leone et mure
-85(DE LEONE ET MURE)|Fabel 24: De Leone et Mure 
+85(DE LEONE ET MURE 2)|Fabel 24: De Leone et Mure 
 85(DE CANE MORDACI)|Fabel 25: De cane mordaci
 85(DE RANA ET BOVE)|Fabel 26: De rana et bove
 85(DE LEONE ET VULPE)|Fabel 27: De leone et vulpe

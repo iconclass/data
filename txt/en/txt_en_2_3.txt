@@ -1525,6 +1525,7 @@
 25G4(ALOE)|plants and herbs: aloe
 25G4(AMARANTH)|plants and herbs: amaranth
 25G4(ARTICHOKE)|plants and herbs: artichoke
+25G4(BAMBOO)|plants and herbs: bamboo
 25G4(BARLEY)|plants and herbs: barley
 25G4(BASIL)|plants and herbs: basil
 25G4(BEAN)|plants and herbs: bean
@@ -1724,6 +1725,7 @@
 25GG4(ALOE)|plants and herbs: aloe - GG - fantastic plants, fabulous vegetation
 25GG4(AMARANTH)|plants and herbs: amaranth - GG - fantastic plants, fabulous vegetation
 25GG4(ARTICHOKE)|plants and herbs: artichoke - GG - fantastic plants, fabulous vegetation
+25GG4(BAMBOO)|plants and herbs: bamboo - GG - fantastic plants, fabulous vegetation
 25GG4(BARLEY)|plants and herbs: barley - GG - fantastic plants, fabulous vegetation
 25GG4(BASIL)|plants and herbs: basil - GG - fantastic plants, fabulous vegetation
 25GG4(BEAN)|plants and herbs: bean - GG - fantastic plants, fabulous vegetation

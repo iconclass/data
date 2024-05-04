@@ -7566,7 +7566,7 @@
 85(DE CATO ET MURIBUS)|寓話 21: De cato et muribus
 85(DE LEONE ET QUIBUSDAM ALIIS QUADRUPEDIBUS)|寓話 22: De leone et quibusdam aliis quadrupedibus
 85(DE LEONE ET MURE)|寓話 23:  De leone et mure
-85(DE LEONE ET MURE)|寓話 24: De Leone et Mure 
+85(DE LEONE ET MURE 2)|寓話 24: De Leone et Mure 
 85(DE CANE MORDACI)|寓話 25: De cane mordaci
 85(DE RANA ET BOVE)|寓話 26: De rana et bove
 85(DE LEONE ET VULPE)|寓話 27: De leone et vulpe
