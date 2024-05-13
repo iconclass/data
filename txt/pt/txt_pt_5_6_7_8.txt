@@ -5067,7 +5067,7 @@
 71Z52|o rei Ptolomeu IV Filopator tenta matar os judeus com elefantes bêbados; os judeus rezam, e são salvos por dois anjos (3 Macabeus 5)
 71Z6|quarto livro dos Macabeus (4 Macabeus)
 71Z6(...)|quarto livro (não canónico) dos Macabeus (com LIVRO CAPÍTULO, VERSÍCULO)
-72|justaposições e composições tipológicas
+72|justaposições tipológicas, geralmente de cenas do Antigo Testamento e do Novo Testamento
 72A|justaposições tipológicas
 72B|composições tipológicas gerais
 73|Novo Testamento

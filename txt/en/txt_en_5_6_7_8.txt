@@ -5075,7 +5075,7 @@
 71Z52|King Ptolemy IV Philopator tries to have the Jews killed by drunken elephants; the Jews pray and are saved by two angels (3 Maccabees 5)
 71Z6|fourth book of the Maccabees (4 Maccabees)
 71Z6(...)|fourth book of the Maccabees (with BOOK CHAPTER:VERSE)
-72|typological juxtapositions and compositions
+72|typological juxtapositions, usually of scenes from the Old Testament and the New Testament
 72A|typological juxtapositions
 72B|comprehensive typological compositions
 73|New Testament

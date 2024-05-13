@@ -6400,6 +6400,7 @@
 49L26|'ars memorandi', mnemotecnica
 49L27|marchio di proprietà
 49L271|'huismerk', 'Hausmarke'
+49L272|firma del proprietario
 49L3|scritture per fini speciali
 49L31|stenografia, tachigrafia
 49L32|crittografia, scrittura segreta

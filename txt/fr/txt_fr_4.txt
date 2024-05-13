@@ -6401,6 +6401,7 @@
 49L26|'ars memorandi', mnémotechnique
 49L27|marque de propriété
 49L271|'huismerk', 'Hausmarke' : marque de maison
+49L272|signature du propriétaire
 49L3|écriture pour occasions spéciales
 49L31|sténographie
 49L32|cryptographie, écriture secrète
