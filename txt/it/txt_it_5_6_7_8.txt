@@ -5075,7 +5075,7 @@
 71Z52|re Tolomeo IV Filopatore tenta di far uccidere i Giudei da elefanti ubriachi; i Giudei pregano e vengono salvati da due angeli
 71Z6|quarto libro dei Maccabei
 71Z6(...)|quarto libro (non canonico) dei Maccabei (con libro, capitolo e versetti tra parentesi)
-72|giustapposizioni e composizioni tipologiche
+72|giustapposizioni tipologiche, solitamente di scene dell'Antico Testamento e del Nuovo Testamento
 72A|giustapposizioni tipologiche
 72B|composizioni tipologiche generali
 73|Nuovo Testamento

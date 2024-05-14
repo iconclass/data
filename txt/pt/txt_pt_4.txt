@@ -6218,6 +6218,7 @@
 49L26|"ars memorandi", mnemotécnica
 49L27|marca de propriedade
 49L271|huismerk, "Hausmarke"
+49L272|assinatura do proprietário
 49L3|escrita para fins especiais
 49L31|estenografia, taquigrafia
 49L32|criptografia, escrita secreta

@@ -5075,7 +5075,7 @@
 71Z52|König Ptolemäus IV. Philopator versucht, die Juden durch betrunkene Elefanten zu töten; die Juden beten und werden von zwei Engeln gerettet (3 Makkabäer 5)
 71Z6|das vierte Buch der Makkabäer (4 Makkabäer)
 71Z6(...)|das vierte Buch der Makkabäer (mit BUCH, KAPITEL, VERS)
-72|typologische Nebeneinander- und Gegenüberstellungen; typologische Strukturen und Systeme
+72|typologische Nebeneinander- und Gegenüberstellungen, meist von Szenen aus dem Alten Testament und dem Neuen Testament
 72A|typologische Nebeneinander- und Gegenüberstellungen
 72B|umfassende typologische Strukturen und Systeme
 73|Neues Testament

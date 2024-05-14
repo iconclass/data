@@ -6400,6 +6400,7 @@
 49L26|ars memorandi; Mnemotechnik
 49L27|Monogramm eines Besitzers
 49L271|Hausmarke
+49L272|Unterschrift des Eigentümers
 49L3|Schriftarten für besondere Zwecke
 49L31|Stenographie, Kurzschrift
 49L32|Kryptographie, Geheimschrift

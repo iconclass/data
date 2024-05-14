@@ -6398,6 +6398,7 @@
 49L26|'ars memorandi', mnemotechnics
 49L27|mark of ownership
 49L271|'huismerk', 'Hausmarke'
+49L272|owner's signature
 49L3|scripts for special purposes
 49L31|stenography, shorthand
 49L32|cryptography, secret writing
