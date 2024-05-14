@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: ICONCLASS
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - family-names: Posthumus
+    name-particle: E
+    orcid: "https://orcid.org/0000-0002-0006-7542"
+  - name-particle: JPJ
+    family-names: Brandhorst
+    orcid: "https://orcid.org/0000-0001-8403-3552"
+url: "https://iconclass.org/"
+license: CC0-1.0
