@@ -1,17 +1,10 @@
 #!/usr/bin/env python3
 from dotenv import dotenv_values
 from chat_gpt import ChatGPT
-import os.path
+from utils import read_lines
 
 config = dotenv_values(".env")
 chat_gpt = ChatGPT(config)
-
-
-def read_lines(file_name):
-    if not os.path.isfile(file_name):
-        return []
-    with open(file_name, 'r') as f:
-        return [line.rstrip() for line in f]
 
 
 def append(text, file_name):

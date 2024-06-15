@@ -60,11 +60,11 @@
 22C4(...)|kleuren, pigmenten en verf (met NAAM)
 22C4(BLACK)|kleuren, pigmenten en verf: zwart
 22C4(BLUE)|kleuren, pigmenten en verf: blauw
-22C4(BROWN)|Kleuren, pigmenten en verf: bruin
+22C4(BROWN)|kleuren, pigmenten en verf: bruin
 22C4(GOLD)|kleuren, pigmenten en verf: goud
 22C4(GREEN)|kleuren, pigmenten en verf: groen
 22C4(PURPLE)|kleuren, pigmenten en verf: paars
-22C4(RED)|Kleuren, pigmenten en verf: rood
+22C4(RED)|kleuren, pigmenten en verf: rood
 22C4(WHITE)|kleuren, pigmenten en verf: wit
 22C4(YELLOW)|kleuren, pigmenten en verf: geel
 22C5|reflectie (licht in het algemeen)
@@ -98,10 +98,10 @@
 22E34(...)|andere temperatuurschalen (met NAAM)
 22E4|thermometer
 23|tijd
-23A|Allegorie van Tijd en Eeuwigheid
+23A|allegorie van Tijd en Eeuwigheid
 23A1|Vader Tijd, man met vleugels en zeis
 23A11|andere allegorieën van Tijd, bijvoorbeeld 'Tempo' (Ripa)
-23A2|Eeuwigheid, 'Aeternitas'; 'Eternità','Eternità of Perpetuità' (Ripa)
+23A2|Eeuwigheid, 'Aeternitas'; 'Eternità','Eternità o Perpetuità' (Ripa)
 23A21|slang Ouroboros
 23A3|verleden, heden en toekomst
 23A31|verleden
@@ -131,7 +131,7 @@
 23C1|'Annus', personificatie van het jaar; 'Anno', 'Carro dell'anno' (Ripa)
 23C2|maanjaar
 23C3|siderisch jaar
-23D|seizoenen van het jaar (vooral personificaties); 'Stagione', 'De vier seizoenen van het jaar' (Ripa)
+23D|seizoenen van het jaar (vooral personificaties); 'Stagione', 'Le quattro stagioni dell'anno' (Ripa)
 23D1|niet gebruikt
 23D2|jaar verdeeld in twee seizoenen
 23D21|winter halfjaar
@@ -171,7 +171,7 @@
 23E2|jaar verdeeld in twee seizoenen ~ menselijke activiteiten
 23E21|winter half-jaar ~ menselijke activiteiten (jaar verdeeld in twee seizoenen)
 23E22|zomer halfjaar ~ menselijke activiteiten (jaar verdeeld in twee seizoenen)
-23E23|Strijd van zomer en winter ~ menselijke activiteiten (jaar verdeeld in twee seizoenen)
+23E23|strijd van zomer en winter ~ menselijke activiteiten (jaar verdeeld in twee seizoenen)
 23E3|jaar verdeeld in drie seizoenen ~ menselijke activiteiten
 23E31|jaar verdeeld in drie seizoenen ~ menselijke activiteiten (eerste serie)
 23E311|januari - april ~ menselijke activiteiten (jaar verdeeld in drie seizoenen)
@@ -206,7 +206,7 @@
 23F2|jaar verdeeld in twee seizoenen ~ landschappen
 23F21|winter half-jaar ~ landschappen (jaar verdeeld in twee seizoenen)
 23F22|zomer halfjaar ~ landschappen (jaar verdeeld in twee seizoenen)
-23F23|Strijd van zomer en winter ~ landschappen (jaar verdeeld in twee seizoenen)
+23F23|strijd van zomer en winter ~ landschappen (jaar verdeeld in twee seizoenen)
 23F3|jaar verdeeld in drie seizoenen ~ landschappen
 23F31|jaar verdeeld in drie seizoenen ~ landschappen (eerste serie)
 23F311|januari - april ~ landschappen (jaar verdeeld in drie seizoenen)
@@ -241,7 +241,7 @@
 23G2|jaar verdeeld in twee seizoenen ~ stillevens van bloemen en/of vruchten
 23G21|winter half-jaar ~ stillevens van bloemen en/of vruchten (jaar verdeeld in twee seizoenen)
 23G22|zomer halfjaar ~ stillevens van bloemen en/of vruchten (jaar verdeeld in twee seizoenen)
-23G23|Strijd van zomer en winter ~ stillevens van bloemen en/of vruchten (jaar verdeeld in twee seizoenen)
+23G23|strijd van zomer en winter ~ stillevens van bloemen en/of vruchten (jaar verdeeld in twee seizoenen)
 23G3|jaar verdeeld in drie seizoenen ~ stillevens van bloemen en/of vruchten
 23G31|jaar verdeeld in drie seizoenen ~ stillevens van bloemen en/of vruchten (eerste serie)
 23G311|januari - april ~ stillevens van bloemen en/of vruchten (jaar verdeeld in drie seizoenen)
@@ -313,34 +313,34 @@
 23I12|februari; 'Febraro' (Ripa)
 23I13|maart; 'Marzo' (Ripa)
 23I2|maanden van het tweede kwartaal van het jaar
-23I21|april; 'aprile' (Ripa)
+23I21|april; 'Aprile' (Ripa)
 23I22|mei; 'Maggio' (Ripa)
 23I23|juni; 'Giugno' (Ripa)
 23I3|maanden van het derde kwartaal van het jaar
 23I31|juli; 'Luglio' (Ripa)
 23I32|August; 'Agosto' (Ripa)
-23I33|september; 'september' (Ripa)
+23I33|september; 'Settembre' (Ripa)
 23I4|maanden van het vierde kwartaal van het jaar
 23I41|oktober; 'Ottobre' (Ripa)
-23I42|november; 'november' ('Novembre')
+23I42|november; 'Novembre' (Ripa)
 23I43|december; 'Decembre' (Ripa)
-23K|de twaalf maanden vertegenwoordigd door scènes die menselijke activiteiten tonen, meestal in een landschap; de zogenaamde 'arbeid van de maanden'
-23K1|de maanden van het eerste kwartaal van het jaar ~ menselijke activiteiten (de 'arbeid' van januari, februari en maart)
-23K11|januari en zijn 'arbeid'
-23K12|februari en zijn 'arbeid'
-23K13|maart en zijn 'arbeid'
-23K2|de maanden van het tweede kwartaal van het jaar ~ menselijke activiteiten (de 'arbeid' van april, mei en juni)
-23K21|april en zijn 'arbeid'
-23K22|mei en zijn 'arbeid'
-23K23|juni en zijn 'arbeid'
-23K3|de maanden van het derde kwartaal van het jaar ~ menselijke activiteiten (de 'arbeid' van juli, augustus en september)
-23K31|juli en zijn 'arbeid'
-23K32|augustus en zijn 'arbeid'
-23K33|september en zijn 'arbeid'
-23K4|de maanden van het vierde kwartaal van het jaar ~ menselijke activiteiten (de 'arbeid' van oktober, november en december)
-23K41|oktober en zijn 'arbeid'
-23K42|november en zijn 'arbeid'
-23K43|december en zijn 'bezigheden'
+23K|de twaalf maanden vertegenwoordigd door scènes die menselijke activiteiten tonen, meestal in een landschap; de zogenaamde 'labours of the months'
+23K1|de maanden van het eerste kwartaal van het jaar ~ menselijke activiteiten (de 'labours' van januari, februari en maart)
+23K11|januari en zijn 'labours'
+23K12|februari en zijn 'labours'
+23K13|maart en zijn 'labours'
+23K2|de maanden van het tweede kwartaal van het jaar ~ menselijke activiteiten (de 'labours' van april, mei en juni)
+23K21|april en zijn 'labours'
+23K22|mei en zijn 'labours'
+23K23|juni en zijn 'labours'
+23K3|de maanden van het derde kwartaal van het jaar ~ menselijke activiteiten (de 'labours' van juli, augustus en september)
+23K31|juli en zijn 'labours'
+23K32|augustus en zijn 'labours'
+23K33|september en zijn 'labours'
+23K4|de maanden van het vierde kwartaal van het jaar ~ menselijke activiteiten (de 'labours' van oktober, november en december)
+23K41|oktober en zijn 'labours'
+23K42|november en zijn 'labours'
+23K43|december en zijn 'labours'
 23L|de twaalf maanden vertegenwoordigd door landschappen
 23L1|maanden van het eerste kwartaal van het jaar vertegenwoordigd door landschappen
 23L11|landschap dat januari symboliseert
@@ -443,7 +443,7 @@
 23R141|nacht ~ landschap (soms getiteld 'Nox')
 23R142|nacht ~ andere concepten
 23R2|dag van zonsopgang tot zonsondergang
-23R20|'Daglicht', 'Kar van het kunstlicht', 'Dagsereniteit, lucht nimf' (Ripa)
+23R20|'Giorno artificiale', 'Carro del giorno artificiale', 'Serenità del giorno, ninfa dell'aria' (Ripa)
 23R3|de 24 uur van dag en nacht
 23R31|de eerste 12 uur van de dag
 23R310|'Hore del giorno' ('Hora prima', 'Hora seconda', 'Hora terza', 'Hora quarta', 'Hora quinta', 'Hora sesta', 'Hora settima', 'Hora ottava', 'Hora nona', 'Hora decima', 'Hora undecima', 'Hora duodecima') (Ripa)
@@ -460,23 +460,23 @@
 23S22|de wereldrijken gesymboliseerd door vier beesten (Daniël hfdst. 7)
 23S3|de rijken van de wereld verdeeld anders
 23T|historische tijdperken
-23T1|Geschiedenis van de wereld verdeeld in zeven tijdperken van Adam tot het einde van de wereld
+23T1|geschiedenis van de wereld verdeeld in zeven tijdperken van Adam tot het einde van de wereld
 23T11|tijdperk van Adam tot Noach ~ geschiedenis van de wereld
-23T12|Tijdperk van Noach tot Abraham of Mozes ~ geschiedenis van de wereld
+23T12|tijdperk van Noach tot Abraham of Mozes ~ geschiedenis van de wereld
 23T13|tijdperk van Abraham of Mozes tot David ~ geschiedenis van de wereld
 23T14|tijdperk van David tot de Babylonische Ballingschap ~ geschiedenis van de wereld
 23T15|tijdperk van de Gevangenschap tot de komst van Christus ~ geschiedenis van de wereld
 23T16|tijdperk van Christus tot het einde van de wereld ~ werkend, wakend
 23T17|tijdperk van Christus tot het einde van de wereld ~ slapen, rusten (eeuwige Sabbat)
 23T2|moderne verdeling van historische tijdperken
-23T21|pre-historie (historische periode)
-23T22|oude geschiedenis (historische periode)
-23T23|klassieke oudheid (historische periode)
-23T24|'dark ages' (historical epoch)
-23T25|middeleeuwse geschiedenis, middeleeuwen (historische periode)
+23T21|pre-historie (historisch tijdperk)
+23T22|oude geschiedenis (historisch tijdperk)
+23T23|klassieke oudheid (historisch tijdperk)
+23T24|donkere eeuwen (historisch tijdperk)
+23T25|middeleeuwse geschiedenis, middeleeuwen (historisch tijdperk)
 23T26|Renaissance (historische periode, tot de 16e eeuw)
-23T27|Moderne verdeling van historische tijdperken ~ eeuwen
-23T27(...)|Moderne verdeling van historische tijdperken ~ eeuwen (met Romeins NUMMER van eeuw)
+23T27|moderne verdeling van historische tijdperken ~ eeuwen
+23T27(...)|moderne verdeling van historische tijdperken ~ eeuwen (met Romeins NUMMER van eeuw)
 23U|chronologie
 23U1|kalender, almanak
 23U11|eeuwige kalender
@@ -503,14 +503,14 @@
 24A5|fysieke aspecten van de zon
 24A51|zonvlekken
 24A52|ongewone zonneverschijnselen: parhelion of nepzon, vlekken op zonnehalo, enz.
-24A6|Zon vertegenwoordigd als gezicht, wiel, enz.
+24A6|zon vertegenwoordigd als gezicht, wiel, enz.
 24A7|posities van de zon
 24A71|zomerzonnewende, midzomerdag
-24A710|'Zomerzonnewende' (Ripa)
+24A710|'Solstitio estivo' (Ripa)
 24A72|herfstnachtevening
 24A720|'Equinottio dell'autunno' (Ripa)
 24A73|wintersolstitium
-24A730|'Zonnewende in de winter' (Ripa)
+24A730|'Solstitio hiemale' (Ripa)
 24A74|lente-equinox
 24A740|'Equinottio della primavera' (Ripa)
 24A8|zonlicht
@@ -542,22 +542,22 @@
 24C19|Venus (planeet)
 24C191|ochtendster (Venus)
 24C192|avondster (Venus of andere planeet)
-24C2|de mensheid wordt beïnvloed door de planeten, inclusief de zon en de maan; 'Planetenkinderen'
-24C21|(personificaties van de) planeten met hun 'kinderen', de zogenaamde 'Planetenkinder'
+24C2|de mensheid wordt beïnvloed door de planeten, inclusief de zon en de maan; 'Planetenkinder'
+24C21|(personificaties van de) planeten met hun 'children', de zogenaamde 'Planetenkinder'
 24C211|Saturn en zijn kinderen ('Planetenkinder')
-24C212|Jupiter en zijn kinderen ('Planetenkinderen')
+24C212|Jupiter en zijn kinderen ('Planetenkinder')
 24C213|Mars en zijn kinderen ('Planetenkinder')
-24C214|Sol en zijn kinderen ('Planetenkinderen')
-24C215|Venus en haar kinderen ('Planetenkinderen')
-24C216|Mercurius en zijn kinderen ('Planetenkinderen')
-24C217|Luna en haar kinderen ('Planetenkinderen')
-24C22|(personificaties van de) planeten met hun 'kinderen', de zogenaamde 'Planetenkinder', vergezeld door de bijbehorende dierenriemtekens
-24C221|Saturnus en zijn kinderen ('Planetenkinderen') ~ Waterman en Steenbok
-24C222|Jupiter en zijn kinderen ('Planetenkinderen') ~ Vissen en Boogschutter
-24C223|Mars en zijn kinderen ('Planetenkinderen') ~ Ram en Schorpioen
-24C224|Sol en zijn kinderen ('Planetenkinderen') ~ Leo
-24C225|Venus en haar kinderen ('Planetenkinderen') ~ Stier en Weegschaal
-24C226|Mercury en zijn kinderen ('Planetenkinderen') ~ Tweelingen en Maagd
+24C214|Sol en zijn kinderen ('Planetenkinder')
+24C215|Venus en haar kinderen ('Planetenkinder')
+24C216|Mercurius en zijn kinderen ('Planetenkinder')
+24C217|Luna en haar kinderen ('Planetenkinder')
+24C22|(personificaties van de) planeten met hun 'children', de zogenaamde 'Planetenkinder', vergezeld door de bijbehorende dierenriemtekens
+24C221|Saturnus en zijn kinderen ('Planetenkinder') ~ Waterman en Steenbok
+24C222|Jupiter en zijn kinderen ('Planetenkinder') ~ Vissen en Boogschutter
+24C223|Mars en zijn kinderen ('Planetenkinder') ~ Ram en Schorpioen
+24C224|Sol en zijn kinderen ('Planetenkinder') ~ Leo
+24C225|Venus en haar kinderen ('Planetenkinder') ~ Stier en Weegschaal
+24C226|Mercury en zijn kinderen ('Planetenkinder') ~ Tweelingen en Maagd
 24C227|Luna and her children ('Planetenkinder') ~ Kreeft
 24C3|canonieke groep van zeven planeten die symbolisch metalen vertegenwoordigen
 24C31|de zon vertegenwoordigt goud
@@ -580,7 +580,7 @@
 24D11|catasterisme, het eren van een persoon door hem op te nemen tussen de sterren
 24D2|sterrenstelsels
 24D21|Melkweg
-24D211|'genesis of the Milky Way' (Juno zoogt Hercules)
+24D211|ontstaan van de Melkweg (Juno zoogt Hercules)
 24D4|andere sterrenstelsels of stellaire systemen
 24D4(...)|andere sterrenstelsels of stellaire systemen (met NAAM)
 24E|astronomische verschijnselen
@@ -601,9 +601,9 @@
 25A111|centrum van de wereld, 'omphalos' (op kaart of atlas)
 25A1111|kaart met Jeruzalem als centrum
 25A1112|map met Delphi als 'omphalos'
-25A12|Moderne projecties ~ kaart van de wereld
+25A12|moderne projecties ~ kaart van de wereld
 25A13|wereldbol
-25A131|'globe in the shape of an icosahedron' wereldbol in de vorm van een icosaëder
+25A131|wereldbol in de vorm van een icosaëder
 25A14|de vier hoofdrichtingen
 25A141|noord (één van de vier hoofdrichtingen)
 25A1410|'Settentrione' (Ripa)
@@ -627,7 +627,7 @@
 25A24|(kaart van) Afrika
 25A25|(kaart van) Amerika
 25A251|(kaart van) Noord-Amerika
-25A252|Kaart van Zuid-Amerika
+25A252|kaart van Zuid-Amerika
 25A26|(kaart van) Australië
 25A27|(kaart van) de poolgebieden, koude zones
 25A271|(kaart van) de Noordpool
@@ -640,15 +640,15 @@
 25A9|kaart maken
 25A90|'Corografia', 'Geografia', 'Hidrografia' (Ripa)
 25A91|geodesie, landmeten
-25A910|'Altimetrie' (Ripa)
+25A910|'Altimetria' (Ripa)
 25A911|instrumenten gebruikt in de geodesie, landmeetkundige instrumenten
 25A911(...)|instrumenten gebruikt in de geodesie, landmeetkundige instrumenten (met NAAM)
 25A9111|Jacob's stok (meetinstrument)
 25B|continenten worden allegorisch voorgesteld
 25B1|Europa vertegenwoordigd allegorisch; 'Europa' (Ripa)
-25B2|Azië wordt allegorisch voorgesteld; 'Azië' (Ripa)
-25B3|Afrika wordt allegorisch voorgesteld; 'Afrika' (Ripa)
-25B4|Amerika allegorisch voorgesteld; 'Amerika' (Ripa)
+25B2|Azië wordt allegorisch voorgesteld; 'Asia' (Ripa)
+25B3|Afrika wordt allegorisch voorgesteld; 'Africa' (Ripa)
+25B4|Amerika allegorisch voorgesteld; 'America' (Ripa)
 25B5|Australië wordt allegorisch vertegenwoordigd
 25B6|de poolgebieden, koude zones allegorisch gerepresenteerd
 25B61|allegorische voorstelling van de Noordpool
@@ -693,9 +693,9 @@
 25D12|soorten niet-edelstenen
 25D12(...)|soorten niet-edelsteen (met NAAM)
 25D12(CHALK)|soorten niet-edelsteen: krijt
-25D12(FLINT)|Soorten niet-edelsteen: vuursteen
-25D12(MARBLE)|Soorten niet-edelsteen: marmer
-25D12(PUMICE)|Soorten niet-edelsteen: puimsteen
+25D12(FLINT)|soorten niet-edelsteen: vuursteen
+25D12(MARBLE)|soorten niet-edelsteen: marmer
+25D12(PUMICE)|soorten niet-edelsteen: puimsteen
 25D13|mineralen en metalen
 25D13(...)|mineralen en metalen (met NAAM)
 25D13(BITUMEN)|mineralen en metalen: bitumen
@@ -731,7 +731,7 @@
 25D312|schachten en galerijen (van een mijn)
 25D32|mijnwerker
 25D321|prospectiebedrijf
-25D33|Oppervlaktestructuren en omgeving van een mijn
+25D33|oppervlaktestructuren en omgeving van een mijn
 25D34|steengroeve
 25D35|smelten, extraheren uit erts; hoogoven
 25D4|vloeistoffen en gassen gewonnen uit de aarde
@@ -794,24 +794,24 @@
 25F24|gehoefde dieren
 25F24(...)|gehoefde dieren (met NAAM)
 25F24(ANTELOPE)|gehoefde dieren: antilope
-25F24(BISON)|Gehoefde dieren: bizons
+25F24(BISON)|gehoefde dieren: bizons
 25F24(BOAR)|gehoefde dieren: wild zwijn
 25F24(CAMEL)|gehoefde dieren: kameel
 25F24(DEER)|gehoefde dieren: herten
-25F24(DROMEDARY)|Gehoefde dieren: dromedaris
+25F24(DROMEDARY)|gehoefde dieren: dromedaris
 25F24(ELK)|gehoefde dieren: elanden
 25F24(GAZELLE)|gehoefde dieren: gazelle
 25F24(GIRAFFE)|gehoefde dieren: giraffe
 25F24(GNU)|gehoefde dieren: gnoe
-25F24(HIPPOPOTAMUS)|Gehoefde dieren: nijlpaard
+25F24(HIPPOPOTAMUS)|gehoefde dieren: nijlpaard
 25F24(IBEX)|gehoefde dieren: steenbok
-25F24(MUSK-DEER)|Gehoefde dieren: muskushert
-25F24(ONAGER)|Gehoefde dieren: onager
-25F24(ORYX)|Gehoefde dieren: oryx
-25F24(QUAGGA)|Gehoefde dieren: quagga
-25F24(RHINOCEROS)|Gehoefde dieren: neushoorn
-25F24(STAG)|Gehoefde dieren: hert
-25F24(ZEBRA)|Gehoefde dieren: zebra
+25F24(MUSK-DEER)|gehoefde dieren: muskushert
+25F24(ONAGER)|gehoefde dieren: onager
+25F24(ORYX)|gehoefde dieren: oryx
+25F24(QUAGGA)|gehoefde dieren: quagga
+25F24(RHINOCEROS)|gehoefde dieren: neushoorn
+25F24(STAG)|gehoefde dieren: hert
+25F24(ZEBRA)|gehoefde dieren: zebra
 25F25|slurfdieren dieren
 25F25(...)|slurfdieren dieren (met NAAM)
 25F25(ELEPHANT)|slurfdieren: olifant
@@ -897,22 +897,22 @@
 25F37(GULL)|kustvogels en waadvogels: meeuw
 25F37(HERON)|kustvogels en waadvogels: reiger
 25F37(IBIS)|kustvogels en waadvogels: ibis
-25F37(LAPWING)|Kustvogels en steltlopers: kievit
+25F37(LAPWING)|kustvogels en steltlopers: kievit
 25F37(MARABOU)|kustvogels en waadvogels: maraboe
-25F37(PLOVER)|Kustvogels en waadvogels: plevier
-25F37(PURPLE WATER-HEN)|Kustvogels en waadvogels: purperkoet
+25F37(PLOVER)|kustvogels en waadvogels: plevier
+25F37(PURPLE WATER-HEN)|kustvogels en waadvogels: purperkoet
 25F37(SNIPE)|kustvogels en waadvogels: snip
-25F37(STORK)|Kustvogels en waadvogels: ooievaar
+25F37(STORK)|kustvogels en waadvogels: ooievaar
 25F37(TROCHILUS)|kustvogels en waadvogels: trochilus
-25F37(WOODCOCK)|Kustvogels en steltlopers: houtsnip
+25F37(WOODCOCK)|kustvogels en steltlopers: houtsnip
 25F38|wandelaar en hardloper vogels
-25F38(...)|wandelaar en renner vogels (met NAAM)
-25F38(BUSTARD)|'walker and runner birds: bustard' wandelende en rennende vogels: trap
-25F38(OSTRICH)|Loper en renner vogels: struisvogel
-25F38(PARTRIDGE)|wandelaar en renner vogels: patrijs
-25F38(PHEASANT)|wandelaar en hardloper vogels: fazant
-25F38(QUAIL)|'walker and runner birds: quail' wandel- en renvogels: kwartel
-25F38(TURKEY)|wandelaar en hardloper vogels: kalkoen
+25F38(...)|loopvogels (met NAAM)
+25F38(BUSTARD)|loopvogels: trap
+25F38(OSTRICH)|loopvogels: struisvogel
+25F38(PARTRIDGE)|loopvogels: patrijs
+25F38(PHEASANT)|loopvogels: fazant
+25F38(QUAIL)|loopvogels: kwartel
+25F38(TURKEY)|loopvogels: kalkoen
 25F39|andere vogels
 25F39(...)|andere vogels (met NAAM)
 25F39(CUCKOO)|andere vogels: koekoek
@@ -940,18 +940,18 @@
 25F5|amfibieën
 25F51|staartloze amfibieën
 25F51(...)|staartloze amfibieën (met NAAM)
-25F51(FROG)|Staartloze amfibieën: kikker
-25F51(TOAD)|Staartloze amfibieën: pad
+25F51(FROG)|staartloze amfibieën: kikker
+25F51(TOAD)|staartloze amfibieën: pad
 25F52|amfibieën met staart
 25F52(...)|amfibieën met staart (met NAAM)
 25F6|vissen
 25F6(...)|vissen (met NAAM)
 25F61|kraakbeenvissen
 25F61(...)|kraakbeenvissen (met NAAM)
-25F61(DOGFISH)|Kraakbeenvissen: hondshaai
+25F61(DOGFISH)|kraakbeenvissen: hondshaai
 25F61(RAY)|kraakbeenvissen: rog
-25F61(SAWFISH)|Kraakbeenvissen: zaagvissen
-25F61(SHARK)|Kraakbeenvissen: haai
+25F61(SAWFISH)|kraakbeenvissen: zaagvissen
+25F61(SHARK)|kraakbeenvissen: haai
 25F62|benige vissen
 25F62(...)|benige vissen (met NAAM)
 25F62(BARBEL)|beenvissen: baardmeerval
@@ -964,7 +964,7 @@
 25F62(MULLET)|beenvissen: harder
 25F62(PIKE)|beenachtigen: snoek
 25F62(PILOT-FISH)|beenvissen: loodsvissen
-25F62(RED HERRING)|'rode' of gerookte haring: Gebruik 41 C 68 (GEROOKTE HARING); haring: Gebruik 25 F 62 (HARING)
+25F62(RED HERRING)|'red' of gerookte haring: Gebruik 41 C 68 (GEROOKTE HARING); haring: Gebruik 25 F 62 (HARING)
 25F62(ROACH)|beenvissen: blankvoorn
 25F62(SALMON)|beenachtige vissen: zalm
 25F62(SARDINE)|beenvissen: sardien
@@ -978,7 +978,7 @@
 25F62(SUN-FISH)|beenvissen: zonnevis
 25F62(SWORD-FISH)|beenvissen: zwaardvis
 25F62(TUNNY)|beenvissen: tonijn
-25F62(WEEVER)|Beenachtigen: pieterman
+25F62(WEEVER)|beenachtigen: pieterman
 25F63|palingen
 25F63(...)|palingen (met NAAM)
 25F63(EEL)|palingen: paling
@@ -1047,10 +1047,10 @@
 25F75(...)|coelenterata (met NAAM)
 25F75(CORAL)|coelenterata: koraal
 25F75(JELLY-FISH)|coelenterata: kwal
-25F75(SPONGE)|Coelenterata: spons
+25F75(SPONGE)|coelenterata: spons
 25F76|eencellige dieren, bacteriën, bacillen
 25F8|uitgestorven dieren
-25F8(...)|Uitgestorven dieren (met NAAM)
+25F8(...)|uitgestorven dieren (met NAAM)
 25F81|prehistorische dieren
 25F82|fossiele dieren
 25F9|misvormde dieren; monsters
@@ -1065,66 +1065,66 @@
 25F97|monsters met delen, ledematen, organen, enz. van abnormale vorm
 25F971|monsters met lichaamsdelen, ledematen, organen, enz. groter dan normaal
 25F972|monsters met delen, ledematen, organen, enz. kleiner dan normaal
-25FF|prachtige dieren (soms ten onrechte 'grotesken' genoemd); 'Mostri' (Ripa)
+25FF|fantastische dieren (soms ten onrechte 'grotesques' genoemd); 'Mostri' (Ripa)
 25FF1|groepen van fantastische dieren
-25FF2|prachtige dieren ~ zoogdieren
-25FF21|prachtige dieren ~ huisdieren
-25FF22|prachtige dieren ~ apen
+25FF2|fantastische dieren ~ zoogdieren
+25FF21|fantastische dieren ~ huisdieren
+25FF22|fantastische dieren ~ apen
 25FF22(...)|apen (met NAAM) - FF - fantastische dieren
 25FF22(BABOON)|apen: baviaan - FF - fantastische dieren
-25FF23|prachtige dieren ~ roofdieren
-25FF23(...)|prachtige dieren ~ roofdieren (met NAAM)
-25FF23(BADGER)|roofdieren: das - FF - fabelachtige dieren
-25FF23(BEAR)|roofdieren: beer - FF - fabelachtige dieren
-25FF23(CHEETAH)|roofdieren: cheeta - FF - fabelachtige dieren
-25FF23(CROCOTAS)|Fabuleuze dieren ~ roofdieren: crocotas
-25FF23(ERMINE)|roofdieren: hermelijn - FF - fabelachtige dieren
-25FF23(FERRET)|roofdieren: fret - FF - fabelachtige dieren
-25FF23(FOX)|roofdieren: vos - FF - fabelachtige dieren
-25FF23(HYENA)|roofdieren: hyena - FF - fabelachtige dieren
-25FF23(ICHNEUMON)|roofdieren: ichneumon - FF - fabelachtige dieren
-25FF23(LEOPARD)|roofdieren: luipaard - FF - fabelachtige dieren
+25FF23|fantastische dieren ~ roofdieren
+25FF23(...)|fantastische dieren ~ roofdieren (met NAAM)
+25FF23(BADGER)|roofdieren: das - FF - fantastische dieren
+25FF23(BEAR)|roofdieren: beer - FF - fantastische dieren
+25FF23(CHEETAH)|roofdieren: cheeta - FF - fantastische dieren
+25FF23(CROCOTAS)|fantastische dieren ~ roofdieren: crocotas
+25FF23(ERMINE)|roofdieren: hermelijn - FF - fantastische dieren
+25FF23(FERRET)|roofdieren: fret - FF - fantastische dieren
+25FF23(FOX)|roofdieren: vos - FF - fantastische dieren
+25FF23(HYENA)|roofdieren: hyena - FF - fantastische dieren
+25FF23(ICHNEUMON)|roofdieren: ichneumon - FF - fantastische dieren
+25FF23(LEOPARD)|roofdieren: luipaard - FF - fantastische dieren
 25FF23(LION)|roofdieren: leeuw - FF - fabeldieren
-25FF23(LYNX)|roofdieren: lynx - FF - fabelachtige dieren
-25FF23(MANGOUSTE)|roofdieren: mangoest - FF - fabelachtige dieren
-25FF23(MARTEN)|roofdieren: marter - FF - fabelachtige dieren
-25FF23(OTTER)|roofdieren: otter - FF - fabelachtige dieren
-25FF23(PANTHER)|roofdieren: panter - FF - fabelachtige dieren
-25FF23(SABLE)|roofdieren: sabel - FF - fabelachtige dieren
-25FF23(TIGER)|roofdieren: tijger - FF - fabelachtige dieren
-25FF23(WEASEL)|roofdieren: wezel - FF - fabelachtige dieren
-25FF23(WOLF)|roofdieren: wolf - FF - fabelachtige dieren
+25FF23(LYNX)|roofdieren: lynx - FF - fantastische dieren
+25FF23(MANGOUSTE)|roofdieren: mangoest - FF - fantastische dieren
+25FF23(MARTEN)|roofdieren: marter - FF - fantastische dieren
+25FF23(OTTER)|roofdieren: otter - FF - fantastische dieren
+25FF23(PANTHER)|roofdieren: panter - FF - fantastische dieren
+25FF23(SABLE)|roofdieren: sabel - FF - fantastische dieren
+25FF23(TIGER)|roofdieren: tijger - FF - fantastische dieren
+25FF23(WEASEL)|roofdieren: wezel - FF - fantastische dieren
+25FF23(WOLF)|roofdieren: wolf - FF - fantastische dieren
 25FF231|griffin (lion/eagle); 'Griffo' (Ripa)
 25FF232|chimera (leeuw/geit/slang); 'Chimera' (Ripa)
 25FF233|hyena, in staat om van geslacht te veranderen
-25FF24|prachtige dieren ~ hoefdieren
-25FF24(...)|prachtige dieren ~ hoefdieren (met NAAM)
-25FF24(ANTELOPE)|Gehoefde dieren: antilope - FF - fantastische dieren
-25FF24(BISON)|Gehoefde dieren: bizon - FF - fantastische dieren
-25FF24(BOAR)|Gehoefde dieren: wild zwijn - FF - fantastische dieren
-25FF24(BONNACON)|prachtige dieren ~ hoefdieren: bonnacon
-25FF24(CAMEL)|Gehoefde dieren: kameel - FF - fantastische dieren
-25FF24(CATOBLEPAS)|Prachtige dieren ~ gehoefde dieren: catoblepas
-25FF24(DEER)|Gehoefde dieren: herten - FF - fantastische dieren
-25FF24(DROMEDARY)|gehoefde dieren: dromedaris - FF - fabelachtige dieren
-25FF24(ELK)|Gehoefde dieren: elanden - FF - fantastische dieren
-25FF24(GAZELLE)|Gehoefde dieren: gazelle - FF - fantastische dieren
-25FF24(GIRAFFE)|Gehoefde dieren: giraffe - FF - fantastische dieren
-25FF24(GNU)|gehoefde dieren: gnoe - FF - fabelachtige dieren
-25FF24(HIPPOPOTAMUS)|Gehoefde dieren: nijlpaard - FF - fabelachtige dieren
-25FF24(IBEX)|Gehoefde dieren: steenbok - FF - fabelachtige dieren
-25FF24(MUSK-DEER)|gehoefde dieren: muskushert - FF - fabelachtige dieren
-25FF24(ONAGER)|Gehoefde dieren: onager - FF - fantastische dieren
-25FF24(ORYX)|Gehoefde dieren: oryx - FF - fantastische dieren
-25FF24(OX WITH ONE HORN)|prachtige dieren ~ hoefdieren: os met één hoorn
-25FF24(OX WITH THREE HORNS)|Prachtige dieren ~ gehoefde dieren: os met drie hoorns
-25FF24(PEGASUS)|Prachtige dieren ~ gehoefde dieren: Gebruik 93D1 Pegasus, het gevleugelde paard, of 25FF (GEVLEUGELD PAARD) voor gevleugeld paard (niet in klassieke context)
+25FF24|fantastische dieren ~ hoefdieren
+25FF24(...)|fantastische dieren ~ hoefdieren (met NAAM)
+25FF24(ANTELOPE)|gehoefde dieren: antilope - FF - fantastische dieren
+25FF24(BISON)|gehoefde dieren: bizon - FF - fantastische dieren
+25FF24(BOAR)|gehoefde dieren: wild zwijn - FF - fantastische dieren
+25FF24(BONNACON)|fantastische dieren ~ hoefdieren: bonnacon
+25FF24(CAMEL)|gehoefde dieren: kameel - FF - fantastische dieren
+25FF24(CATOBLEPAS)|fantastische dieren ~ gehoefde dieren: catoblepas
+25FF24(DEER)|gehoefde dieren: herten - FF - fantastische dieren
+25FF24(DROMEDARY)|gehoefde dieren: dromedaris - FF - fantastische dieren
+25FF24(ELK)|gehoefde dieren: elanden - FF - fantastische dieren
+25FF24(GAZELLE)|gehoefde dieren: gazelle - FF - fantastische dieren
+25FF24(GIRAFFE)|gehoefde dieren: giraffe - FF - fantastische dieren
+25FF24(GNU)|gehoefde dieren: gnoe - FF - fantastische dieren
+25FF24(HIPPOPOTAMUS)|gehoefde dieren: nijlpaard - FF - fantastische dieren
+25FF24(IBEX)|gehoefde dieren: steenbok - FF - fantastische dieren
+25FF24(MUSK-DEER)|gehoefde dieren: muskushert - FF - fantastische dieren
+25FF24(ONAGER)|gehoefde dieren: onager - FF - fantastische dieren
+25FF24(ORYX)|gehoefde dieren: oryx - FF - fantastische dieren
+25FF24(OX WITH ONE HORN)|fantastische dieren ~ hoefdieren: os met één hoorn
+25FF24(OX WITH THREE HORNS)|fantastische dieren ~ gehoefde dieren: os met drie hoorns
+25FF24(PEGASUS)|fantastische dieren ~ gehoefde dieren: Gebruik 93D1 Pegasus, het gevleugelde paard, of 25FF (GEVLEUGELD PAARD) voor gevleugeld paard (niet in klassieke context)
 25FF24(QUAGGA)|gehoefde dieren: quagga - FF - fantastische dieren
-25FF24(RHINOCEROS)|Gehoefde dieren: neushoorn - FF - fantastische dieren
+25FF24(RHINOCEROS)|gehoefde dieren: neushoorn - FF - fantastische dieren
 25FF24(STAG)|gehoefde dieren: hert - FF - fantastische dieren
-25FF24(WINGED HORSE)|Prachtige dieren ~ gehoefde dieren: gevleugeld paard
+25FF24(WINGED HORSE)|fantastische dieren ~ gehoefde dieren: gevleugeld paard
 25FF241|eenhoorn
-25FF2411|Een eenhoorn gevangen door een maagd, 'Chasse à la licorne'
+25FF2411|en eenhoorn gevangen door een maagd, 'Chasse à la licorne'
 25FF2412|'pirassoipi' (eenhoorn met twee hoorns)
 25FF2413|'oryx unicornis' (gekloofde hoef antilope)
 25FF242|'hippogriffe' (horse/eagle)
@@ -1136,7 +1136,7 @@
 25FF25|fantastische dieren ~ dieren met slurf
 25FF25(...)|getronke dieren (met NAAM) - FF - fantastische dieren
 25FF25(ELEPHANT)|getronste dieren: olifant - FF - fantastische dieren
-25FF26|prachtige dieren ~ knaagdieren
+25FF26|fantastische dieren ~ knaagdieren
 25FF26(...)|knaagdieren (met NAAM) - FF - fantastische dieren
 25FF26(BEAVER)|knaagdieren: bever - FF - fantastische dieren
 25FF26(HARE)|knaagdieren: haas - FF - fantastische dieren
@@ -1146,39 +1146,39 @@
 25FF26(RAT)|knaagdieren: rat - FF - fantastische dieren
 25FF26(SQUIRREL)|knaagdieren: eekhoorn - FF - fantastische dieren
 25FF26(WOMBAT)|knaagdieren: wombat - FF - fantastische dieren
-25FF27|prachtige dieren ~ zwemmende zoogdieren
+25FF27|fantastische dieren ~ zwemmende zoogdieren
 25FF27(...)|zwemmende zoogdieren (met NAAM) - FF - fantastische dieren
 25FF27(DOLPHIN)|zwemmende zoogdieren: dolfijn - FF - fantastische dieren
 25FF27(SEAL)|zwemmende zoogdieren: zeehond - FF - fantastische dieren
 25FF27(WHALE)|zwemmende zoogdieren: walvis - FF - fantastische dieren
-25FF28|prachtige dieren ~ vliegende zoogdieren
+25FF28|fantastische dieren ~ vliegende zoogdieren
 25FF28(...)|vliegende zoogdieren (met NAAM) - FF - fantastische dieren
 25FF28(BAT)|vliegende zoogdieren: vleermuis - FF - fantastische dieren
-25FF29|prachtige dieren ~ andere zoogdieren die niet bedoeld of genoemd zijn hierboven
-25FF29(...)|prachtige dieren ~ andere zoogdieren die niet bedoeld zijn of hierboven genoemd worden (met NAAM)
+25FF29|fantastische dieren ~ andere zoogdieren die niet bedoeld of genoemd zijn hierboven
+25FF29(...)|fantastische dieren ~ andere zoogdieren die niet bedoeld zijn of hierboven genoemd worden (met NAAM)
 25FF29(ARMADILLO)|andere zoogdieren: armadillo - FF - fantastische dieren
 25FF29(HEDGEHOG)|andere zoogdieren: egel - FF - fantastische dieren
-25FF29(LERTIX)|Prachtige dieren ~ andere zoogdieren die niet bedoeld of genoemd zijn hierboven: lertix
+25FF29(LERTIX)|fantastische dieren ~ andere zoogdieren die niet bedoeld of genoemd zijn hierboven: lertix
 25FF29(MOLE)|andere zoogdieren: mol - FF - fantastische dieren
 25FF29(PORCUPINE)|andere zoogdieren: stekelvarken - FF - fantastische dieren
-25FF3|prachtige dieren ~ vogels
+25FF3|fantastische dieren ~ vogels
 25FF3(...)|fantastische dieren ~ vogels (met NAAM)
-25FF3(AVALERION)|prachtige dieren ~ vogels: avalerion
-25FF3(CARABAS)|Prachtige dieren ~ vogels: carabas
-25FF3(CARISTA)|Prachtige dieren ~ vogels: carista
-25FF3(FIRE-BIRD)|prachtige dieren ~ vogels: vuurvogel
-25FF3(HARPY)|harpy (fabelachtige vogel); 'Arpie' (Ripa)
-25FF3(HERCYNIAN BIRD)|prachtige dieren ~ vogels: hercynische vogel
-25FF3(PHOENIX)|prachtige dieren ~ vogels: feniks
-25FF3(PORPHYRION)|Prachtige dieren ~ vogels: porphyrion
-25FF3(ROC)|Prachtige dieren ~ vogels: roc
-25FF3(SELEUCIDIAN BIRD)|prachtige dieren ~ vogels: seleucidische vogel
-25FF3(STELLINUS)|Prachtige dieren ~ vogels: stellinus
-25FF3(TRAGOPA)|Prachtige dieren ~ vogels: tragopa
-25FF31|prachtige dieren ~ huisvogels
+25FF3(AVALERION)|fantastische dieren ~ vogels: avalerion
+25FF3(CARABAS)|fantastische dieren ~ vogels: carabas
+25FF3(CARISTA)|fantastische dieren ~ vogels: carista
+25FF3(FIRE-BIRD)|fantastische dieren ~ vogels: vuurvogel
+25FF3(HARPY)|harpy (fantastische vogel); 'Arpie' (Ripa)
+25FF3(HERCYNIAN BIRD)|fantastische dieren ~ vogels: hercynische vogel
+25FF3(PHOENIX)|fantastische dieren ~ vogels: feniks
+25FF3(PORPHYRION)|fantastische dieren ~ vogels: porphyrion
+25FF3(ROC)|fantastische dieren ~ vogels: roc
+25FF3(SELEUCIDIAN BIRD)|fantastische dieren ~ vogels: seleucidische vogel
+25FF3(STELLINUS)|fantastische dieren ~ vogels: stellinus
+25FF3(TRAGOPA)|fantastische dieren ~ vogels: tragopa
+25FF31|fantastische dieren ~ huisvogels
 25FF311|basilisk (haan met achterwerk van slang)
-25FF312|Cockatrice, een draak met twee poten en het hoofd van een haan
-25FF32|prachtige dieren ~ zangvogels
+25FF312|cockatrice, een draak met twee poten en het hoofd van een haan
+25FF32|fantastische dieren ~ zangvogels
 25FF32(...)|zangvogels (met NAAM) - FF - fantastische dieren
 25FF32(BLACKBIRD)|zangvogels: merel - FF - fantastische dieren
 25FF32(CROW)|zangvogels: kraai - FF - fantastische dieren
@@ -1199,25 +1199,25 @@
 25FF32(WARBLER)|zangvogels: zanger - FF - fantastische dieren
 25FF32(WHITE THROAT)|zangvogels: witte keel - FF - fantastische dieren
 25FF32(WREN)|song-vogels: winterkoning - FF - fantastische dieren
-25FF33|prachtige dieren ~ roofvogels
+25FF33|fantastische dieren ~ roofvogels
 25FF33(...)|roofvogels (met NAAM) - FF - fantastische dieren
 25FF33(EAGLE)|roofvogels: arend - FF - fantastische dieren
 25FF33(FALCON)|roofvogels: valk - FF - fantastische dieren
 25FF33(FISH-HAWK)|roofvogels: visarend, zeearend - FF - fantastische dieren
 25FF33(HAWK)|roofvogels: havik - FF - fantastische dieren
-25FF33(KITE)|roofvogels: 'kite' - FF - fantastische dieren
+25FF33(KITE)|roofvogels: vouw - FF - fantastische dieren
 25FF33(SPARROW-HAWK)|roofvogels: sperwer - FF - fantastische dieren
 25FF33(VULTURE)|roofvogels: gier - FF - fantastische dieren
 25FF331|vulpanser
-25FF332|'double-headed eagle' dubbelkoppige adelaar
-25FF34|prachtige dieren ~ uilen
-25FF35|prachtige dieren ~ siervogels
+25FF332|dubbelkoppige adelaar
+25FF34|fantastische dieren ~ uilen
+25FF35|fantastische dieren ~ siervogels
 25FF35(...)|sierlijke vogels (met NAAM) - FF - fantastische dieren
-25FF35(BIRD OF PARADISE)|siervogels: paradijsvogel - FF - fabelachtige dieren
+25FF35(BIRD OF PARADISE)|siervogels: paradijsvogel - FF - fantastische dieren
 25FF35(HORNBILL)|sierlijke vogels: neushoornvogel - FF - fantastische dieren
 25FF35(PARROT)|siervogels: papegaai - FF - fantastische dieren
 25FF35(PEACOCK)|sierlijke vogels: pauw - FF - fantastische dieren
-25FF36|prachtige dieren ~ water-vogels
+25FF36|fantastische dieren ~ water-vogels
 25FF36(...)|water-vogels (met NAAM) - FF - fantastische dieren
 25FF36(COOT)|water-vogels: meerkoet - FF - fantastische dieren
 25FF36(DIPPER)|water-vogels: waterspreeuw - FF - fantastische dieren
@@ -1226,31 +1226,31 @@
 25FF36(PELICAN)|water-vogels: pelikaan - FF - fantastische dieren
 25FF36(SWAMP-HEN)|water-vogels: moeras-hoen - FF - fantastische dieren
 25FF36(SWAN)|water-vogels: zwaan - FF - fantastische dieren
-25FF37|prachtige dieren ~ kustvogels en waadvogels
+25FF37|fantastische dieren ~ kustvogels en waadvogels
 25FF37(...)|kustvogels en waadvogels (met NAAM) - FF - fantastische dieren
 25FF37(BITTERN)|kustvogels en waadvogels: roerdomp - FF - fantastische dieren
-25FF37(CRANE)|Kustvogels en waadvogels: kraan - FF - fantastische dieren
+25FF37(CRANE)|kustvogels en waadvogels: kraan - FF - fantastische dieren
 25FF37(GULL)|kustvogels en waadvogels: meeuw - FF - fantastische dieren
 25FF37(HERON)|kustvogels en waadvogels: reiger - FF - fantastische dieren
 25FF37(IBIS)|kustvogels en waadvogels: ibis - FF - fantastische dieren
 25FF37(LAPWING)|kustvogels en waadvogels: kievit - FF - fantastische dieren
 25FF37(MARABOU)|kustvogels en waadvogels: maraboe - FF - fantastische dieren
-25FF37(PLOVER)|Kustvogels en waadvogels: plevier - FF - fantastische dieren
-25FF37(PURPLE WATER-HEN)|Kustvogels en waadvogels: purper waterhoen - FF - fantastische dieren
+25FF37(PLOVER)|kustvogels en waadvogels: plevier - FF - fantastische dieren
+25FF37(PURPLE WATER-HEN)|kustvogels en waadvogels: purper waterhoen - FF - fantastische dieren
 25FF37(SNIPE)|kustvogels en waadvogels: snip - FF - fantastische dieren
 25FF37(STORK)|kustvogels en waadvogels: ooievaar - FF - fantastische dieren
 25FF37(TROCHILUS)|kustvogels en waadvogels: trochilus - FF - fantastische dieren
 25FF37(WOODCOCK)|kustvogels en waadvogels: houtsnip - FF - fantastische dieren
 25FF371|'caladrius', 'charadrius' (fabuleuze vogel)
-25FF38|prachtige dieren ~ wandelende en rennende vogels
-25FF38(...)|'walker and runner birds' (with NAME) - FF - fantastische dieren
-25FF38(BUSTARD)|trap- en renvogels: trap - FF - fantastische dieren
-25FF38(OSTRICH)|wandelende en rennende vogels: struisvogel - FF - fantastische dieren
-25FF38(PARTRIDGE)|wandelaar en renner vogels: patrijs - FF - fantastische dieren
-25FF38(PHEASANT)|wandelaar en renner vogels: fazant - FF - fantastische dieren
-25FF38(QUAIL)|wandelaar en renner vogels: kwartel - FF - fantastische dieren
-25FF38(TURKEY)|wandelaar en renner vogels: kalkoen - FF - fantastische dieren
-25FF39|prachtige dieren ~ andere vogels niet genoemd hierboven
+25FF38|fantastische dieren ~ loopvogels
+25FF38(...)|loopvogels (with NAME) - FF - fantastische dieren
+25FF38(BUSTARD)|loopvogels: trap - FF - fantastische dieren
+25FF38(OSTRICH)|loopvogels: struisvogel - FF - fantastische dieren
+25FF38(PARTRIDGE)|loopvogels: patrijs - FF - fantastische dieren
+25FF38(PHEASANT)|loopvogels: fazant - FF - fantastische dieren
+25FF38(QUAIL)|loopvogels: kwartel - FF - fantastische dieren
+25FF38(TURKEY)|loopvogels: kalkoen - FF - fantastische dieren
+25FF39|fantastische dieren ~ andere vogels niet genoemd hierboven
 25FF39(...)|andere vogels (met NAAM) - FF - fantastische dieren
 25FF39(CUCKOO)|andere vogels: koekoek - FF - fantastische dieren
 25FF39(DODO)|andere vogels: dodo - FF - fantastische dieren
@@ -1261,42 +1261,42 @@
 25FF39(TURTLE DOVE)|andere vogels: tortelduif - FF - fantastische dieren
 25FF39(WOODPECKER)|andere vogels: specht - FF - fantastische dieren
 25FF39(WRYNECK)|andere vogels: wryneck - FF - fantastische dieren
-25FF4|prachtige dieren ~ reptielen
-25FF41|prachtige dieren ~ hagedissen
+25FF4|fantastische dieren ~ reptielen
+25FF41|fantastische dieren ~ hagedissen
 25FF41(...)|hagedissen (met NAAM) - FF - fantastische dieren
 25FF41(CHAMELEON)|hagedissen: kameleon - FF - fantastische dieren
 25FF41(LIZARD)|hagedissen: hagedis - FF - fantastische dieren
 25FF411|draak
 25FF412|salamander (fabuleus dier); salamander als geest van vuur
-25FF42|prachtige dieren ~ slangen (asp, draak, hydrus, hydra, amphisbaena, gehoornde slang, cerastes)
+25FF42|fantastische dieren ~ slangen (asp, draak, hydrus, hydra, amphisbaena, gehoornde slang, cerastes)
 25FF42(...)|slangen (met NAAM) - FF - fantastische dieren
 25FF42(VIPER)|slangen: adder - FF - fantastische dieren
 25FF421|aspic
-25FF422|'dragon' draak (grote fabelachtige slang, soms met vleugels en poten)
+25FF422|draak (grote fantastische slang, soms met vleugels en poten)
 25FF423|'hydrus' (waterslang)
 25FF4231|'hydra'; 'Hidra' (Ripa)
 25FF424|'amphisbaena' (snake met kop aan beide uiteinden)
 25FF425|hoornslang
 25FF4251|'cerastes'
-25FF43|prachtige dieren ~ krokodillen
+25FF43|fantastische dieren ~ krokodillen
 25FF43(...)|krokodillen (met NAAM) - FF - fantastische dieren
-25FF43(ALLIGATOR)|Krokodillen: alligator - FF - fantastische dieren
+25FF43(ALLIGATOR)|krokodillen: alligator - FF - fantastische dieren
 25FF43(CROCODILE)|krokodillen: krokodil - FF - fantastische dieren
-25FF44|Prachtige dieren ~ schildpadden
-25FF5|Prachtige dieren ~ amfibieën
+25FF44|fantastische dieren ~ schildpadden
+25FF5|fantastische dieren ~ amfibieën
 25FF51|fantastische dieren ~ staartloze amfibieën
-25FF51(...)|Staartloze amfibieën (met NAAM) - FF - fantastische dieren
-25FF51(FROG)|Staartloze amfibieën: kikker - FF - fantastische dieren
-25FF51(TOAD)|Staartloze amfibieën: pad - FF - fantastische dieren
-25FF52|Prachtige dieren ~ amfibieën met staart
+25FF51(...)|staartloze amfibieën (met NAAM) - FF - fantastische dieren
+25FF51(FROG)|staartloze amfibieën: kikker - FF - fantastische dieren
+25FF51(TOAD)|staartloze amfibieën: pad - FF - fantastische dieren
+25FF52|fantastische dieren ~ amfibieën met staart
 25FF52(...)|amfibieën met staart (met NAAM) - FF - fantastische dieren
-25FF6|Prachtige dieren ~ vissen
-25FF61|leviathan (fabelachtige vis)
-25FF61(...)|Kraakbeenvissen (met NAAM) - FF - fantastische dieren
-25FF61(DOGFISH)|Kraakbeenvissen: hondshaai - FF - fantastische dieren
-25FF61(RAY)|Kraakbeenvissen: rog - FF - fantastische dieren
-25FF61(SAWFISH)|Kraakbeenvissen: zaagvissen - FF - fantastische dieren
-25FF61(SHARK)|Kraakbeenvissen: haai - FF - fantastische dieren
+25FF6|fantastische dieren ~ vissen
+25FF61|leviathan (fantastische vis)
+25FF61(...)|kraakbeenvissen (met NAAM) - FF - fantastische dieren
+25FF61(DOGFISH)|kraakbeenvissen: hondshaai - FF - fantastische dieren
+25FF61(RAY)|kraakbeenvissen: rog - FF - fantastische dieren
+25FF61(SAWFISH)|kraakbeenvissen: zaagvissen - FF - fantastische dieren
+25FF61(SHARK)|kraakbeenvissen: haai - FF - fantastische dieren
 25FF62|zeepaard, hippocampus, 'hippocampus', (paard/vis) (mythologisch hybride monster)
 25FF62(...)|beenvissen (met NAAM) - FF - fantastische dieren
 25FF62(BARBEL)|beenvissen: baardmeerval - FF - fantastische dieren
@@ -1309,15 +1309,15 @@
 25FF62(MULLET)|beenvissen: harder - FF - fantastische dieren
 25FF62(PIKE)|beenachtige vissen: snoek - FF - fantastische dieren
 25FF62(PILOT-FISH)|beenvissen: pilotvis - FF - fantastische dieren
-25FF62(RED HERRING)|'rode' of gerookte haring: Gebruik 41 C 68 (GEROOKTE HARING); haring: Gebruik 25 F 62 (HARING) - FF - fantastische dieren
+25FF62(RED HERRING)|'red' of gerookte haring: Gebruik 41 C 68 (GEROOKTE HARING); haring: Gebruik 25 F 62 (HARING) - FF - fantastische dieren
 25FF62(ROACH)|beenvissen: voorn - FF - fantastische dieren
 25FF62(SALMON)|beenvissen: zalm - FF - fantastische dieren
 25FF62(SARDINE)|beenvissen: sardine - FF - fantastische dieren
 25FF62(SCARUS)|beenvissen: scarus - FF - fantastische dieren
 25FF62(SEA-BREAM)|beenvissen: zeebrasem - FF - fantastische dieren
-25FF62(SEA-DEVIL)|beenachtige vissen: zeeduivel - FF - fabelachtige dieren
+25FF62(SEA-DEVIL)|beenachtige vissen: zeeduivel - FF - fantastische dieren
 25FF62(SEA-PERCH)|beenvissen: zeebaars - FF - fantastische dieren
-25FF62(SEA-WOLF)|beenvissen: zeeduivel - FF - fabelachtige dieren
+25FF62(SEA-WOLF)|beenvissen: zeeduivel - FF - fantastische dieren
 25FF62(SHEAT-FISH)|beenvissen: meerval - FF - fantastische dieren
 25FF62(STURGEON)|beenvissen: steur - FF - fantastische dieren
 25FF62(SUN-FISH)|beenvissen: zonnebaars - FF - fantastische dieren
@@ -1333,8 +1333,8 @@
 25FF64(...)|diepzeevissen (met NAAM) - FF - fantastische dieren
 25FF65|'serra' (vis met enorme vinnen)
 25FF65(...)|andere vissen (met NAAM) - FF - fantastische dieren
-25FF7|prachtige dieren ~ lagere dieren
-25FF71|Prachtige dieren ~ geleedpotigen ('pyrausta')
+25FF7|fantastische dieren ~ lagere dieren
+25FF71|fantastische dieren ~ geleedpotigen ('pyrausta')
 25FF711|'pyrausta'
 25FF711(...)|insecten (met NAAM) - FF - fantastische dieren
 25FF711(ANT)|insects: mier - FF - fantastische dieren
@@ -1365,10 +1365,10 @@
 25FF716(...)|kreeftachtigen (met NAAM) - FF - fantastische dieren
 25FF716(CRAB)|kreeftachtigen: krab - FF - fantastische dieren
 25FF716(LOBSTER)|kreeft - FF - fantastische dieren
-25FF72|Prachtige dieren ~ weekdieren
-25FF72(...)|Prachtige dieren ~ weekdieren (met NAAM)
+25FF72|fantastische dieren ~ weekdieren
+25FF72(...)|fantastische dieren ~ weekdieren (met NAAM)
 25FF72(CUTTLE-FISH)|mollusken: inktvis - FF - fantastische dieren
-25FF72(KRAKEN)|Prachtige dieren ~ weekdieren: kraken
+25FF72(KRAKEN)|fantastische dieren ~ weekdieren: kraken
 25FF72(MUREX)|mollusken: murex - FF - fantastische dieren
 25FF72(MUSSEL)|mollusken: mossel - FF - fantastische dieren
 25FF72(NAUTILUS)|mollusken: nautilus - FF - fantastische dieren
@@ -1384,25 +1384,25 @@
 25FF74(SEA-URCHIN)|stekelhuidigen: zee-egel - FF - fantastische dieren
 25FF74(STARFISH)|echinodermen: zeester - FF - fantastische dieren
 25FF75|coelenterata - FF - fantastische dieren
-25FF75(...)|Coelenterata (met NAAM) - FF - fantastische dieren
-25FF75(CORAL)|Coelenterata: koraal - FF - fantastische dieren
-25FF75(JELLY-FISH)|Coelenterata: kwallen - FF - fantastische dieren
+25FF75(...)|coelenterata (met NAAM) - FF - fantastische dieren
+25FF75(CORAL)|coelenterata: koraal - FF - fantastische dieren
+25FF75(JELLY-FISH)|coelenterata: kwallen - FF - fantastische dieren
 25FF75(SPONGE)|coelenterata: spons - FF - fantastische dieren
 25FF76|eencellige dieren, bacteriën, bacillen - FF - fantastische dieren
-25FF8|prachtige dieren ~uitgestorven dieren
-25FF8(...)|Uitgestorven dieren (met NAAM) - FF - fantastische dieren
-25FF81|prehistorische dieren - FF - fabelachtige dieren
+25FF8|fantastische dieren ~uitgestorven dieren
+25FF8(...)|uitgestorven dieren (met NAAM) - FF - fantastische dieren
+25FF81|prehistorische dieren - FF - fantastische dieren
 25FF82|fossiele dieren - FF - fantastische dieren
 25FF9|nog andere fantastische dieren die niet kunnen worden ingedeeld onder 25 FF 2 - 25 FF 7
 25FF91|monsters groter dan normaal - FF - fantastische dieren
 25FF92|monsters kleiner dan normaal - FF - fantastische dieren
-25FF93|meervoudige geboorte ~ misvormde dieren, monsters - FF - fabelachtige dieren
+25FF93|meervoudige geboorte ~ misvormde dieren, monsters - FF - fantastische dieren
 25FF94|monsters met ontbrekende delen - FF - fantastische dieren
 25FF95|monsters met delen in groter aantal dan normaal - FF - fantastische dieren
 25FF951|drie-koppig beest - FF - fantastische dieren
 25FF952|bicorporates, dieren met twee lichamen en een enkele kop - FF - fantastische dieren
 25FF96|monsters met ledematen, organen, enz. op ongebruikelijke plaatsen - FF - fantastische dieren
-25FF97|monsters met delen, ledematen, organen, enz. van abnormale vorm - FF - fabelachtige dieren
+25FF97|monsters met delen, ledematen, organen, enz. van abnormale vorm - FF - fantastische dieren
 25FF971|monsters met lichaamsdelen, ledematen, organen, enz. groter dan normaal - FF - fantastische dieren
 25FF972|monsters met delen, ledematen, organen, enz. kleiner dan normaal - FF - fantastische dieren
 25G|planten; vegetatie
@@ -1418,7 +1418,7 @@
 25G21(ALMOND)|vruchten: amandel
 25G21(APPLE)|vruchten: appel
 25G21(BEANS)|vruchten: bonen
-25G21(BILBERRY)|Fruits: blauwe bosbes
+25G21(BILBERRY)|vruchten: blauwe bosbes
 25G21(BLACKBERRY)|vruchten: braam
 25G21(CHERRY)|vruchten: kers
 25G21(CHESTNUT)|vruchten: kastanje
@@ -1599,7 +1599,7 @@
 25G41(TULIP)|bloemen: tulp
 25G41(VIOLET)|bloemen: viooltje
 25G41(WATER-LILY)|bloemen: waterlelie
-25G411|'cut flowers'; ruiker, bos bloemen
+25G411|snijbloemen; ruiker, bos bloemen
 25G411(...)|geknipte bloemen; ruikertje, bos bloemen (met NAAM)
 25G4111|guirlande, krans
 25G412|gedroogde bloemen
@@ -1619,7 +1619,7 @@
 25G61|prehistorische planten
 25G62|fossiele planten
 25G7|taal van bloemen
-25GG|fantastische planten, fabelachtige vegetatie
+25GG|fantastische planten, fantastische vegetatie
 25GG1|prachtige planten (in het algemeen)
 25GG11|groepen van fantastische bomen
 25GG12|groepen van fantastische struiken
@@ -1629,81 +1629,81 @@
 25GG21|vruchten van fantastische planten
 25GG21(...)|vruchten van fantastische planten (met NAAM)
 25GG21(ACORN)|vruchten: eikel - GG - fantastische planten, fabuleuze vegetatie
-25GG21(ALMOND)|vruchten: amandel - GG - fantastische planten, fabelachtige vegetatie
+25GG21(ALMOND)|vruchten: amandel - GG - fantastische planten, fantastische vegetatie
 25GG21(APPLE)|vruchten: appel - GG - fantastische planten, fabuleuze vegetatie
-25GG21(BEANS)|vruchten: bonen - GG - fantastische planten, fabelachtige vegetatie
-25GG21(BILBERRY)|vruchten: blauwe bosbes - GG - fantastische planten, fabelachtige vegetatie
+25GG21(BEANS)|vruchten: bonen - GG - fantastische planten, fantastische vegetatie
+25GG21(BILBERRY)|vruchten: blauwe bosbes - GG - fantastische planten, fantastische vegetatie
 25GG21(CHERRY)|vruchten: kers - GG - fantastische planten, fabuleuze vegetatie
-25GG21(CHESTNUT)|vruchten: kastanje - GG - fantastische planten, fabelachtige vegetatie
-25GG21(FIG)|vruchten: vijg - GG - fantastische planten, fabelachtige vegetatie
+25GG21(CHESTNUT)|vruchten: kastanje - GG - fantastische planten, fantastische vegetatie
+25GG21(FIG)|vruchten: vijg - GG - fantastische planten, fantastische vegetatie
 25GG21(HAZELNUT)|vruchten: hazelnoot - GG - fantastische planten, fabuleuze vegetatie
-25GG21(GOURD)|vruchten: kalebas - GG - fantastische planten, fabelachtige vegetatie
+25GG21(GOURD)|vruchten: kalebas - GG - fantastische planten, fantastische vegetatie
 25GG21(LEMON)|vruchten: citroen - GG - fantastische planten, fabuleuze vegetatie
-25GG21(MEDLAR)|vruchten: mispel - GG - fantastische planten, fabelachtige vegetatie
-25GG21(MELON)|vruchten: meloen - GG - fantastische planten, fabelachtige vegetatie
+25GG21(MEDLAR)|vruchten: mispel - GG - fantastische planten, fantastische vegetatie
+25GG21(MELON)|vruchten: meloen - GG - fantastische planten, fantastische vegetatie
 25GG21(NUTS)|vruchten: noten - GG - fantastische planten, fabuleuze vegetatie
 25GG21(PEACH)|vruchten: perzik - GG - fantastische planten, fabuleuze vegetatie
 25GG21(PEAR)|vruchten: peer - GG - fantastische planten, fabuleuze vegetatie
-25GG21(PINE-CONE)|vruchten: dennenappel - GG - fantastische planten, fabelachtige vegetatie
-25GG21(PINEAPPLE)|vruchten: ananas - GG - fantastische planten, fabelachtige vegetatie
-25GG21(PLUM)|vruchten: pruim - GG - fantastische planten, fabelachtige vegetatie
+25GG21(PINE-CONE)|vruchten: dennenappel - GG - fantastische planten, fantastische vegetatie
+25GG21(PINEAPPLE)|vruchten: ananas - GG - fantastische planten, fantastische vegetatie
+25GG21(PLUM)|vruchten: pruim - GG - fantastische planten, fantastische vegetatie
 25GG21(POMEGRANATE)|vruchten: granaatappel - GG - fantastische planten, fabuleuze vegetatie
-25GG21(PUMPKIN)|vruchten: pompoen - GG - fantastische planten, fabelachtige vegetatie
-25GG21(QUINCE)|vruchten: kweepeer - GG - fantastische planten, fabelachtige vegetatie
-25GG21(SPRUCE-CONE)|vruchten: sparappel - GG - fantastische planten, fabelachtige vegetatie
+25GG21(PUMPKIN)|vruchten: pompoen - GG - fantastische planten, fantastische vegetatie
+25GG21(QUINCE)|vruchten: kweepeer - GG - fantastische planten, fantastische vegetatie
+25GG21(SPRUCE-CONE)|vruchten: sparappel - GG - fantastische planten, fantastische vegetatie
 25GG21(STRAWBERRY)|vruchten: aardbei - GG - fantastische planten, fabuleuze vegetatie
-25GG21(WALNUT)|vruchten: walnoot - GG - fantastische planten, fabelachtige vegetatie
+25GG21(WALNUT)|vruchten: walnoot - GG - fantastische planten, fantastische vegetatie
 25GG211|delen van vruchten van fantastische planten
 25GG211(...)|delen van vruchten van fantastische planten (met NAAM)
-25GG211(NUTSHELL)|delen van een vrucht: dop - GG - fantastische planten, fabelachtige vegetatie
+25GG211(NUTSHELL)|delen van een vrucht: dop - GG - fantastische planten, fantastische vegetatie
 25GG2111|zaad van een fantastische plant
 25GG2111(...)|zaad van een fantastische plant (met NAAM)
 25GG2111(PEA)|zaad: erwt - GG - fantastische planten, fantastische vegetatie
 25GG2111(THISTLE-SEED)|zaad: distelzaad - GG - fantastische planten, prachtige vegetatie
 25GG22|(niet-fruit) producten van fantastische planten of bomen
 25GG22(...)|(niet-fruit) producten van fantastische planten of bomen (met NAAM)
-25GG22(ASPARAGUS)|(niet-fruit) producten van planten of bomen: asperges - GG - fantastische planten, fabelachtige vegetatie
-25GG22(CINNAMON)|(niet-fruit) producten van planten of bomen: kaneel - GG - fantastische planten, fabelachtige vegetatie
-25GG22(ONION)|(niet-fruit) producten van planten of bomen: ui - GG - fantastische planten, fabelachtige vegetatie
-25GG22(RADISH)|(niet-fruit) producten van planten of bomen: radijs - GG - fantastische planten, fabelachtige vegetatie
-25GG22(TURNIP)|(niet-fruit) producten van planten of bomen: raap - GG - fantastische planten, fabelachtige vegetatie
+25GG22(ASPARAGUS)|(niet-fruit) producten van planten of bomen: asperges - GG - fantastische planten, fantastische vegetatie
+25GG22(CINNAMON)|(niet-fruit) producten van planten of bomen: kaneel - GG - fantastische planten, fantastische vegetatie
+25GG22(ONION)|(niet-fruit) producten van planten of bomen: ui - GG - fantastische planten, fantastische vegetatie
+25GG22(RADISH)|(niet-fruit) producten van planten of bomen: radijs - GG - fantastische planten, fantastische vegetatie
+25GG22(TURNIP)|(niet-fruit) producten van planten of bomen: raap - GG - fantastische planten, fantastische vegetatie
 25GG3|prachtige bomen
 25GG3(...)|prachtige bomen (met NAAM)
 25GG3(ACACIA)|bomen: acacia - GG - fantastische planten, fabuleuze vegetatie
 25GG3(ALDER)|bomen: els - GG - fantastische planten, prachtige vegetatie
-25GG3(ALMOND-TREE)|bomen: amandelboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(APPLE-TREE)|bomen: appelboom - GG - fantastische planten, fabelachtige vegetatie
+25GG3(ALMOND-TREE)|bomen: amandelboom - GG - fantastische planten, fantastische vegetatie
+25GG3(APPLE-TREE)|bomen: appelboom - GG - fantastische planten, fantastische vegetatie
 25GG3(AVOCADO)|bomen: avocado - GG - fantastische planten, prachtige vegetatie
 25GG3(BEECH)|bomen: beuk - GG - fantastische planten, fabuleuze vegetatie
 25GG3(BIRCH)|bomen: berken - GG - fantastische planten, prachtige vegetatie
 25GG3(CEDAR)|bomen: ceder - GG - fantastische planten, fabuleuze vegetatie
-25GG3(COCONUT-TREE)|bomen: kokospalm - GG - fantastische planten, fabelachtige vegetatie
+25GG3(COCONUT-TREE)|bomen: kokospalm - GG - fantastische planten, fantastische vegetatie
 25GG3(CYPRESS)|bomen: cipres - GG - fantastische planten, prachtige vegetatie
-25GG3(DATE-PALM)|bomen: dadelpalm - GG - fantastische planten, fabelachtige vegetatie
-25GG3(DRACENA)|bomen: dracaena - GG - fantastische planten, fabelachtige vegetatie
-25GG3(ELM)|bomen: iep - GG - fantastische planten, fabelachtige vegetatie
-25GG3(FIG-TREE)|bomen: vijgenboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(FIR)|bomen: spar - GG - fantastische planten, fabelachtige vegetatie
-25GG3(HOLM-OAK)|bomen: steeneik - GG - fantastische planten, fabelachtige vegetatie
-25GG3(LAUREL)|bomen: laurier - GG - fantastische planten, fabelachtige vegetatie
-25GG3(LEMON-TREE)|bomen: citroenboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(LINDEN)|bomen: linden - GG - fantastische planten, fabelachtige vegetatie
-25GG3(MULBERRY-TREE)|bomen: moerbeiboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(MYRRH-TREE)|bomen: mirreboom - GG - fantastische planten, fabelachtige vegetatie
+25GG3(DATE-PALM)|bomen: dadelpalm - GG - fantastische planten, fantastische vegetatie
+25GG3(DRACENA)|bomen: dracaena - GG - fantastische planten, fantastische vegetatie
+25GG3(ELM)|bomen: iep - GG - fantastische planten, fantastische vegetatie
+25GG3(FIG-TREE)|bomen: vijgenboom - GG - fantastische planten, fantastische vegetatie
+25GG3(FIR)|bomen: spar - GG - fantastische planten, fantastische vegetatie
+25GG3(HOLM-OAK)|bomen: steeneik - GG - fantastische planten, fantastische vegetatie
+25GG3(LAUREL)|bomen: laurier - GG - fantastische planten, fantastische vegetatie
+25GG3(LEMON-TREE)|bomen: citroenboom - GG - fantastische planten, fantastische vegetatie
+25GG3(LINDEN)|bomen: linden - GG - fantastische planten, fantastische vegetatie
+25GG3(MULBERRY-TREE)|bomen: moerbeiboom - GG - fantastische planten, fantastische vegetatie
+25GG3(MYRRH-TREE)|bomen: mirreboom - GG - fantastische planten, fantastische vegetatie
 25GG3(OAK)|bomen: eik - GG - fantastische planten, prachtige vegetatie
-25GG3(OLIVE-TREE)|bomen: olijfboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(ORANGE-TREE)|bomen: sinaasappelboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(PALM-TREE)|bomen: palmboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(PEACH-TREE)|bomen: perzikboom - GG - fantastische planten, fabelachtige vegetatie
+25GG3(OLIVE-TREE)|bomen: olijfboom - GG - fantastische planten, fantastische vegetatie
+25GG3(ORANGE-TREE)|bomen: sinaasappelboom - GG - fantastische planten, fantastische vegetatie
+25GG3(PALM-TREE)|bomen: palmboom - GG - fantastische planten, fantastische vegetatie
+25GG3(PEACH-TREE)|bomen: perzikboom - GG - fantastische planten, fantastische vegetatie
 25GG3(PINE)|bomen: den - GG - fantastische planten, prachtige vegetatie
-25GG3(PLANE-TREE)|bomen: plataanboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(POMEGRANATE-TREE)|bomen: granaatappelboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(POPLAR)|bomen: populier - GG - fantastische planten, fabelachtige vegetatie
-25GG3(QUINCE-TREE)|bomen: kweeboom - GG - fantastische planten, fabelachtige vegetatie
-25GG3(SPRUCE)|bomen: spar - GG - fantastische planten, fabelachtige vegetatie
-25GG3(STINKING BEAN TREFOIL)|bomen: stinkende boonklaver - GG - fantastische planten, fabelachtige vegetatie
+25GG3(PLANE-TREE)|bomen: plataanboom - GG - fantastische planten, fantastische vegetatie
+25GG3(POMEGRANATE-TREE)|bomen: granaatappelboom - GG - fantastische planten, fantastische vegetatie
+25GG3(POPLAR)|bomen: populier - GG - fantastische planten, fantastische vegetatie
+25GG3(QUINCE-TREE)|bomen: kweeboom - GG - fantastische planten, fantastische vegetatie
+25GG3(SPRUCE)|bomen: spar - GG - fantastische planten, fantastische vegetatie
+25GG3(STINKING BEAN TREFOIL)|bomen: stinkende boonklaver - GG - fantastische planten, fantastische vegetatie
 25GG3(WALNUT-TREE)|bomen: walnootboom - GG - fantastische planten, fabuleuze vegetatie
-25GG3(WHITE POPLAR)|bomen: witte populier - GG - fantastische planten, fabelachtige vegetatie
+25GG3(WHITE POPLAR)|bomen: witte populier - GG - fantastische planten, fantastische vegetatie
 25GG3(WILLOW)|bomen: wilg - GG - fantastische planten, prachtige vegetatie
 25GG3(YEW)|bomen: taxus - GG - fantastische planten, prachtige vegetatie
 25GG31|prachtige struiken
@@ -1718,12 +1718,12 @@
 25GG31(OLEANDER)|struiken: oleander - GG - fantastische planten, prachtige vegetatie
 25GG31(PRIVET)|struiken: liguster - GG - fantastische planten, prachtige vegetatie
 25GG31(ROSE-BUSH)|struiken: rozenstruik - GG - fantastische planten, prachtige vegetatie
-25GG39|boom als een schema van relaties, diagram in de vorm van een boom - GG - fantastische planten, fabelachtige vegetatie
+25GG39|boom als een schema van relaties, diagram in de vorm van een boom - GG - fantastische planten, fantastische vegetatie
 25GG4|prachtige planten en kruiden
 25GG4(...)|prachtige planten en kruiden (met NAAM)
 25GG4(ACANTHUS)|planten en kruiden: acanthus - GG - fantastische planten, fabuleuze vegetatie
 25GG4(ALOE)|planten en kruiden: aloë - GG - fantastische planten, prachtige vegetatie
-25GG4(AMARANTH)|Planten en kruiden: amarant - GG - fantastische planten, prachtige vegetatie
+25GG4(AMARANTH)|planten en kruiden: amarant - GG - fantastische planten, prachtige vegetatie
 25GG4(ARTICHOKE)|planten en kruiden: artisjok - GG - fantastische planten, fabuleuze vegetatie
 25GG4(BAMBOO)|planten en kruiden: bamboe - GG - fantastische planten, prachtige vegetatie
 25GG4(BARLEY)|planten en kruiden: gerst - GG - fantastische planten, prachtige vegetatie
@@ -1733,18 +1733,18 @@
 25GG4(CAMOMILE)|planten en kruiden: kamille - GG - fantastische planten, prachtige vegetatie
 25GG4(CHONDRILLA)|planten en kruiden: chondrilla - GG - fantastische planten, prachtige vegetatie
 25GG4(CLOVER)|planten en kruiden: klaver - GG - fantastische planten, fabuleuze vegetatie
-25GG4(DICTAMNUS)|Planten en kruiden: dictamnus - GG - fantastische planten, fabuleuze vegetatie
+25GG4(DICTAMNUS)|planten en kruiden: dictamnus - GG - fantastische planten, fabuleuze vegetatie
 25GG4(FIELD ERYNGO)|planten en kruiden: veldgentiaan - GG - fantastische planten, fabuleuze vegetatie
 25GG4(FLEA-BANE)|planten en kruiden: vlooienkruid - GG - fantastische planten, fabuleuze vegetatie
 25GG4(GARLIC)|planten en kruiden: knoflook - GG - fantastische planten, prachtige vegetatie
 25GG4(GERMANDER)|planten en kruiden: germander - GG - fantastische planten, fabuleuze vegetatie
 25GG4(GIANT FENNEL)|planten en kruiden: reuzenvenkel - GG - fantastische planten, prachtige vegetatie
 25GG4(GROUNDSEL)|planten en kruiden: groundsel - GG - fantastische planten, fabuleuze vegetatie
-25GG4(HELLEBORE)|Planten en kruiden: helleborus - GG - fantastische planten, fabuleuze vegetatie
-25GG4(HEMLOCK)|planten en kruiden: 'hemlock' - GG - fantastische planten, prachtige vegetatie
+25GG4(HELLEBORE)|planten en kruiden: helleborus - GG - fantastische planten, fabuleuze vegetatie
+25GG4(HEMLOCK)|planten en kruiden: scheerling - GG - fantastische planten, prachtige vegetatie
 25GG4(HENBANE)|planten en kruiden: bilzekruid - GG - fantastische planten, fabuleuze vegetatie
 25GG4(HOP)|planten en kruiden: hop - GG - fantastische planten, prachtige vegetatie
-25GG4(HOUSELEEK)|Planten en kruiden: huislook - GG - fantastische planten, prachtige vegetatie
+25GG4(HOUSELEEK)|planten en kruiden: huislook - GG - fantastische planten, prachtige vegetatie
 25GG4(HYSSOP)|planten en kruiden: hyssop - GG - fantastische planten, prachtige vegetatie
 25GG4(IVY)|planten en kruiden: klimop - GG - fantastische planten, fabuleuze vegetatie
 25GG4(LETTUCE)|planten en kruiden: sla - GG - fantastische planten, prachtige vegetatie
@@ -1756,15 +1756,15 @@
 25GG4(ORIGANUM)|planten en kruiden: origanum - GG - fantastische planten, fabuleuze vegetatie
 25GG4(PEA)|planten en kruiden: erwt - GG - fantastische planten, fabuleuze vegetatie
 25GG4(PENNYROYAL)|planten en kruiden: pennyroyal - GG - fantastische planten, prachtige vegetatie
-25GG4(PEONY)|Planten en kruiden: pioenroos - GG - fantastische planten, fabuleuze vegetatie
+25GG4(PEONY)|planten en kruiden: pioenroos - GG - fantastische planten, fabuleuze vegetatie
 25GG4(PUMPKIN)|planten en kruiden: pompoen - GG - fantastische planten, prachtige vegetatie
 25GG4(REED)|planten en kruiden: riet - GG - fantastische planten, fabuleuze vegetatie
 25GG4(ROCKET)|planten en kruiden: rucola - GG - fantastische planten, fabuleuze vegetatie
-25GG4(RUE)|planten en kruiden: 'rue' - GG - fantastische planten, fabuleuze vegetatie
+25GG4(RUE)|planten en kruiden: wijnruit - GG - fantastische planten, fabuleuze vegetatie
 25GG4(SAFFRON)|planten en kruiden: saffraan - GG - fantastische planten, prachtige vegetatie
 25GG4(SAGE)|planten en kruiden: salie - GG - fantastische planten, prachtige vegetatie
 25GG4(STINGING-NETTLE)|planten en kruiden: brandnetel - GG - fantastische planten, prachtige vegetatie
-25GG4(STRAWBERRY)|Planten en kruiden: aardbei - GG - fantastische planten, fabuleuze vegetatie
+25GG4(STRAWBERRY)|planten en kruiden: aardbei - GG - fantastische planten, fabuleuze vegetatie
 25GG4(SUNDEW)|planten en kruiden: zonnedauw - GG - fantastische planten, prachtige vegetatie
 25GG4(THISTLE)|planten en kruiden: distel - GG - fantastische planten, prachtige vegetatie
 25GG4(THYME)|planten en kruiden: tijm - GG - fantastische planten, prachtige vegetatie
@@ -1776,15 +1776,15 @@
 25GG41(ALMOND-BLOSSOM)|bloemen: amandelbloesem - GG - fantastische planten, fabuleuze vegetatie
 25GG41(ANEMONE)|bloemen: anemoon - GG - fantastische planten, fabuleuze vegetatie
 25GG41(BUTTERCUP)|bloemen: boterbloem - GG - fantastische planten, fabuleuze vegetatie
-25GG41(CARNATION)|bloemen: anjer - GG - fantastische planten, fabelachtige vegetatie
+25GG41(CARNATION)|bloemen: anjer - GG - fantastische planten, fantastische vegetatie
 25GG41(COLUMBINE)|bloemen: akelei - GG - fantastische planten, fabuleuze vegetatie
 25GG41(CORNFLOWER)|bloemen: korenbloem - GG - fantastische planten, fabuleuze vegetatie
 25GG41(CROCUS)|bloemen: krokus - GG - fantastische planten, fabuleuze vegetatie
 25GG41(HELIOTROPE)|bloemen: heliotroop - GG - fantastische planten, fabuleuze vegetatie
 25GG41(HYACINTH)|bloemen: hyacint - GG - fantastische planten, fabuleuze vegetatie
-25GG41(IMMORTELLE)|bloemen: immortelle - GG - fantastische planten, fabelachtige vegetatie
+25GG41(IMMORTELLE)|bloemen: immortelle - GG - fantastische planten, fantastische vegetatie
 25GG41(LILY)|bloemen: lelie - GG - fantastische planten, fabuleuze vegetatie
-25GG41(LOTUS)|bloemen: lotus - GG - fantastische planten, fabelachtige vegetatie
+25GG41(LOTUS)|bloemen: lotus - GG - fantastische planten, fantastische vegetatie
 25GG41(NARCISSUS)|bloemen: narcis - GG - fantastische planten, fabuleuze vegetatie
 25GG41(ORCHID)|bloemen: orchidee - GG - fantastische planten, fabuleuze vegetatie
 25GG41(PETUNIA)|bloemen: petunia - GG - fantastische planten, fabuleuze vegetatie
@@ -1793,11 +1793,11 @@
 25GG41(SUNFLOWER)|bloemen: zonnebloem - GG - fantastische planten, fabuleuze vegetatie
 25GG41(TULIP)|bloemen: tulp - GG - fantastische planten, fabuleuze vegetatie
 25GG41(VIOLET)|bloemen: viooltje - GG - fantastische planten, fabuleuze vegetatie
-25GG41(WATER-LILY)|bloemen: waterlelie - GG - fantastische planten, fabelachtige vegetatie
+25GG41(WATER-LILY)|bloemen: waterlelie - GG - fantastische planten, fantastische vegetatie
 25GG411|snijd prachtige bloemen; ruiker, bos prachtige bloemen
-25GG411(...)|gesneden bloemen; ruiker, bos bloemen (met NAAM) - GG - fantastische planten, fabelachtige vegetatie
+25GG411(...)|gesneden bloemen; ruiker, bos bloemen (met NAAM) - GG - fantastische planten, fantastische vegetatie
 25GG412|gedroogde prachtige bloemen
-25GG412(...)|gedroogde bloemen (met NAAM) - GG - fantastische planten, fabelachtige vegetatie
+25GG412(...)|gedroogde bloemen (met NAAM) - GG - fantastische planten, fantastische vegetatie
 25GG49|kunstmatige fantastische planten en bloemen
 25GG5|prachtige lagere planten
 25GG51|prachtige varens
@@ -1808,11 +1808,11 @@
 25GG55|prachtige korstmossen
 25GG56|andere fantastische lagere planten
 25GG56(...)|andere lagere planten (met NAAM) - GG - fantastische planten, prachtige vegetatie
-25GG6|Uitgestorven planten - GG - fantastische planten, fabelachtige vegetatie
-25GG6(...)|Uitgestorven planten (met NAAM) - GG - fantastische planten, fabelachtige vegetatie
-25GG61|prehistorische planten - GG - fantastische planten, fabelachtige vegetatie
-25GG62|fossiele planten - GG - fantastische planten, fabelachtige vegetatie
-25GG7|taal van bloemen - GG - fantastische planten, fabelachtige vegetatie
+25GG6|uitgestorven planten - GG - fantastische planten, fantastische vegetatie
+25GG6(...)|uitgestorven planten (met NAAM) - GG - fantastische planten, fantastische vegetatie
+25GG61|prehistorische planten - GG - fantastische planten, fantastische vegetatie
+25GG62|fossiele planten - GG - fantastische planten, fantastische vegetatie
+25GG7|taal van bloemen - GG - fantastische planten, fantastische vegetatie
 25H|landschappen
 25H1|landschappen in de gematigde zone
 25H11|bergen
@@ -1885,11 +1885,11 @@
 25H211|bron, bron van rivier of beekje
 25H212|beek
 25H213|rivier
-25H2130|Rivier gepersonifieerd, 'Fiumi' (Ripa)
+25H2130|rivier gepersonifieerd, 'Fiumi' (Ripa)
 25H2130(...)|rivier gepersonifieerd (met NAAM)
 25H2130(ADIGE)|personificatie van rivier Adige; 'Adige' (Ripa)
 25H2130(ARNO)|personificatie van rivier Arno; 'Arno' (Ripa)
-25H2130(CLAMOR)|Rivier gepersonifieerd: Lawaai
+25H2130(CLAMOR)|rivier gepersonifieerd: Lawaai
 25H2130(DANUBE)|personificatie van de rivier de Donau; 'Danubio' (Ripa)
 25H2130(GANGES)|personificatie van de rivier de Ganges; 'Gange', 'Gange Fiume' (Ripa)
 25H2130(INDUS)|personificatie van de rivier Indus; 'Indo' (Ripa)
@@ -1974,7 +1974,7 @@
 25HH131|rotsachtige kust - HH - ideale landschappen
 25HH1311|fjord, zee-inham - HH - ideale landschappen
 25HH1312|rif ~ kust - HH - ideale landschappen
-25HH1313|Kaap (kust) - HH - ideale landschappen
+25HH1313|kaap (kust) - HH - ideale landschappen
 25HH1314|kustklif of rots - HH - ideale landschappen
 25HH132|duinkust - HH - ideale landschappen
 25HH1321|duinen (zee niet zichtbaar); in de duinen - HH - ideale landschappen
@@ -2001,7 +2001,7 @@
 25HH156|bospad of laan - HH - ideale landschappen
 25HH159|bosbrand - HH - ideale landschappen
 25HH16|gewoon - HH - ideale landschappen
-25HH161|Graslanden, savanne, prairie - HH - ideale landschappen
+25HH161|graslanden, savanne, prairie - HH - ideale landschappen
 25HH17|weide, grasland - HH - ideale landschappen
 25HH171|bergweide, alp - HH - ideale landschappen
 25HH172|'locus amoenus' motief; aangename plek met bomen (~ smaak), weiden (~ zicht), bron of beekje (~ gevoel), zingende vogels (~ gehoor) en bloemen (~ geur) - HH - ideale landschappen
@@ -2021,15 +2021,15 @@
 25HH211|bron, bron van rivier of beek - HH - ideale landschappen
 25HH212|beek - HH - ideale landschappen
 25HH213|rivier - HH - ideale landschappen
-25HH2130|Rivier gepersonifieerd, 'Fiumi' (Ripa) - HH - ideale landschappen
+25HH2130|rivier gepersonifieerd, 'Fiumi' (Ripa) - HH - ideale landschappen
 25HH2130(...)|rivier gepersonifieerd (met NAAM) - HH - ideale landschappen
 25HH2130(ADIGE)|personificatie van rivier Adige; 'Adige' (Ripa) - HH - ideale landschappen
 25HH2130(ARNO)|personificatie van rivier de Arno; 'Arno' (Ripa) - HH - ideale landschappen
-25HH2130(CLAMOR)|Rivier gepersonifieerd: Clamor - HH - ideale landschappen
+25HH2130(CLAMOR)|rivier gepersonifieerd: Clamor - HH - ideale landschappen
 25HH2130(DANUBE)|personificatie van de rivier de Donau; 'Danubio' (Ripa) - HH - ideale landschappen
 25HH2130(GANGES)|personificatie van de rivier de Ganges; 'Gange', 'Gange Fiume' (Ripa) - HH - ideale landschappen
 25HH2130(INDUS)|personificatie van de rivier Indus; 'Indo' (Ripa) - HH - ideale landschappen
-25HH2130(JORDAN)|Rivier gepersonifieerd: Jordaan - HH - ideale landschappen
+25HH2130(JORDAN)|rivier gepersonifieerd: Jordaan - HH - ideale landschappen
 25HH2130(MEANDER)|personificatie van de rivier de Meander; 'Historia' (Ripa) - HH - ideale landschappen
 25HH2130(NIGER)|personificatie van de rivier de Niger; 'Niger' (Ripa) - HH - ideale landschappen
 25HH2130(NILE)|personificatie van de rivier de Nijl; 'Nilo' (Ripa) - HH - ideale landschappen
@@ -2061,13 +2061,13 @@
 25HH225|aanleg van kanaal - HH - ideale landschappen
 25HH2251|bagger, baggermachine - HH - ideale landschappen
 25HH23|zee (zeegezicht) - HH - ideale landschappen
-25HH230|Zee gepersonifieerd; 'Mare' (Ripa) - HH - ideale landschappen
+25HH230|zee gepersonifieerd; 'Mare' (Ripa) - HH - ideale landschappen
 25HH231|fenomenen verbonden met de zee - HH - ideale landschappen
 25HH2311|golf - HH - ideale landschappen
-25HH23111|Surf, breakers - HH - ideale landschappen
+25HH23111|surf, breakers - HH - ideale landschappen
 25HH23112|golf veroorzaakt door schip; terugslag - HH - ideale landschappen
 25HH2312|getij - HH - ideale landschappen
-25HH23121|Eb, laag water - HH - ideale landschappen
+25HH23121|eb, laag water - HH - ideale landschappen
 25HH23122|overstroming, hoogwater - HH - ideale landschappen
 25HH23123|springtij - HH - ideale landschappen
 25HH23124|vloedgolf - HH - ideale landschappen
@@ -2089,7 +2089,7 @@
 25HH23241|zuilen van Hercules - HH - ideale landschappen
 25I|stadzicht, en landschap met door mensen gemaakte constructies
 25I1|stadzicht in het algemeen; 'veduta'
-25I10|Ideale stad: Gebruik 25 II 1
+25I10|ideale stad: Gebruik 25 II 1
 25I11|stad stichting
 25I111|stad stichters
 25I12|vooruitzicht op stad, stadsgezicht, silhouet van stad
@@ -2146,7 +2146,7 @@
 25I9|landschap met ruïnes
 25II|stadsoverzicht, en landschap met door mensen gemaakte constructies - II - ideale landschappen
 25II1|stadsgezicht in het algemeen; 'veduta' - II - ideale stad
-25II10|Ideale stad: Gebruik 25 II 1 - II - ideale stad
+25II10|ideale stad: Gebruik 25 II 1 - II - ideale stad
 25II11|stad stichting - II - ideale stad
 25II111|stadsstichters - II - ideale stad
 25II12|vooruitzicht op stad, stadsgezicht, silhouet van stad - II - ideale stad
@@ -2168,7 +2168,7 @@
 25II151|sierfontein - II - ideale stad
 25II152|monument, standbeeld - II - ideale stad
 25II153|obelisk, naald - II - ideale stad
-25II154|Triomfzuil met wentelende fries - II - ideale stad
+25II154|triomfzuil met wentelende fries - II - ideale stad
 25II155|toren, klokkentoren ~ monumentale versiering - II - ideale stad
 25II16|openbare voorzieningen - II - ideale stad
 25II17|ondergrondse structuren in stad - II - ideale stad
@@ -2195,12 +2195,12 @@
 25II41|windmolen in landschap - II - ideale landschappen
 25II42|watermolen in landschap - II - ideale landschappen
 25II43|fabriek in landschap - II - ideale landschappen
-25II5|Landschap met toren of kasteel - II - ideale landschappen
+25II5|landschap met toren of kasteel - II - ideale landschappen
 25II6|landschap met brug, viaduct of aquaduct - II - ideale landschappen
 25II7|landschap met monument - II - ideale landschappen
 25II71|landschap met menhir - II - ideale landschappen
 25II8|landschap met andere door mensen gemaakte constructies die hierboven niet zijn genoemd, bijv.: begraafplaatsen, speeltuinen, enz. - II - ideale landschappen
-25II9|Landschap met ruïnes - II - ideale landschappen
+25II9|landschap met ruïnes - II - ideale landschappen
 25K|landschappen in de niet-temperatuurzone, exotische landschappen
 25K1|landschappen in tropische en subtropische regio's
 25K11|bergen (in tropische en subtropische regio's)
@@ -2273,7 +2273,7 @@
 25L11|stadskroon, muurkroon
 25M|de Zeven Wereldwonderen
 25M1|Egyptische piramides (Wereldwonder)
-25M2|Hangende tuinen van Semiramis in Babylon (Wereldwonder)
+25M2|hangende tuinen van Semiramis in Babylon (Wereldwonder)
 25M3|tempel van Artemis in Efeze (Wereldwonder)
 25M4|standbeeld van Zeus door Phidias (Wereldwonder)
 25M5|Mausoleum van Halicarnassus (Wereldwonder)
@@ -2413,7 +2413,7 @@
 31A14|menselijke figuur van ideale verhoudingen, bijv. academisch naakt
 31A140|allegorische voorstelling van menselijke figuur van ideale verhoudingen
 31A141|naakt met bedekte geslachtsdelen
-31A19|'homo Platonis', 'dier met twee benen zonder veren'
+31A19|'homo Platonis', 'animal bipes implume'
 31A2|anatomie (niet-medisch)
 31A21|(menselijk) skelet
 31A211|(menselijke) schedel
@@ -2430,7 +2430,7 @@
 31A214|botten van de armen
 31A2141|humerus, bot van de bovenarm
 31A2142|radius en ulna, botten van de onderarm
-31A2143|'carpus' en 'metacarpus', delen van de hand
+31A2143|carpus en metacarpus, delen van de hand
 31A2144|falangen van de vingers
 31A215|botten van de benen
 31A2151|femur, bot van het bovenbeen
@@ -2608,7 +2608,7 @@
 31A25192|hand in de mouw
 31A25193|hand op borst (of maag), gleed in de opening van het gewaad
 31A252|houdingen en gebaren van armen en handen ten opzichte van elkaar
-31A2521|'arms crossed' armen gekruist
+31A2521|armen gekruist
 31A25211|armen gekruist, achter de rug
 31A25212|armen gekruist over de borst
 31A2522|handen gevouwen
@@ -2648,7 +2648,7 @@
 31A25411|lopend arm in arm
 31A2542|oplegging van handen
 31A2543|iemand bij de hand of de pols vastgrijpen; handen in elkaar gevouwen
-31A25431|drie of meer samengevouwen handen, wat betekent 'Eendracht maakt macht'
+31A25431|drie of meer samengevouwen handen, wat betekent 'Unity is Strength'
 31A25432|iemand bij de hand of pols leiden
 31A25433|'immixtio manuum', het plaatsen van gevouwen handen tussen de handen van een andere persoon
 31A25434|elkaars handpalmen slaan
@@ -2667,7 +2667,7 @@
 31A25513|hand made into a fist
 31A2552|houdingen en gebaren van de handpalm
 31A25521|palm van de hand omhoog
-31A25522|'palm of the hand turned down' handpalm naar beneden
+31A25522|handpalm naar beneden
 31A2553|houdingen en gebaren van de duim
 31A25531|duim omhoog
 31A25532|duim omlaag
@@ -2782,7 +2782,7 @@
 31A2763|zwevend in de lucht
 31A27631|zitten of staan op wolken
 31A2764|vallend door de lucht
-31A2765|salto mortale (beweging in de lucht)
+31A2765|salto, 'salto mortale' (beweging in de lucht)
 31A277|beweging in water
 31A2771|waden, pootjebaden
 31A2772|baden (beweging in water)
@@ -2914,7 +2914,7 @@
 31A4528|monsters ~ vliegende zoogdieren
 31A4529|monsters ~ andere zoogdieren
 31A453|monsters ~ vogels
-31A4531|sirene (fabelachtige vogel met het hoofd van een vrouw)
+31A4531|sirene (fantastische vogel met het hoofd van een vrouw)
 31A454|monsters ~ reptielen
 31A4541|monsters ~ hagedissen
 31A4542|monsters ~ slangen
@@ -3012,7 +3012,7 @@
 31A5331|pruik
 31A5332|geschoren hoofd
 31A5333|tonsurer
-31A5334|'lock of hair' pluk haar
+31A5334|pluk haar
 31A5339|kaalheid
 31A534|baard
 31A5341|snor
@@ -3094,7 +3094,7 @@
 31A7221|Miss World
 31A729|'virago' virago, man-vrouw
 31A73|hermafrodiet, androgyn
-31A731|Rebis, de goddelijke hermafrodiet, verzoening van geest en materie ~ alchemie
+31A731|rebis, de goddelijke hermafrodiet, verzoening van geest en materie ~ alchemie
 31A74|transgender, transseksueel
 31A8|het lichaam beschouwd als een machine
 31A9|manieren om te doen alsof je delen van het lichaam geneest of verbetert
@@ -3123,7 +3123,7 @@
 31AA214|botten van de armen - AA - vrouwelijke menselijke figuur
 31AA2141|humerus, bot van de bovenarm - AA - vrouwelijke menselijke figuur
 31AA2142|radius en ulna, botten van de onderarm - AA - vrouwelijk menselijk figuur
-31AA2143|Carpus en metacarpus, delen van de hand - AA - vrouwelijke menselijke figuur
+31AA2143|carpus en metacarpus, delen van de hand - AA - vrouwelijke menselijke figuur
 31AA2144|falangen van de vingers - AA - vrouwelijke menselijke figuur
 31AA215|botten van de benen - AA - vrouwelijk menselijk figuur
 31AA2151|femur, bot van het bovenbeen - AA - vrouwelijke menselijke figuur
@@ -3325,7 +3325,7 @@
 31AA25411|lopend arm in arm - AA - beide armen of handen
 31AA2542|oplegging van handen - AA - beide armen of handen
 31AA2543|iemand bij de hand of de pols vastgrijpen; handen in elkaar - AA - beide armen of handen
-31AA25431|drie of meer samengevouwen handen, wat betekent 'Eendracht maakt macht' - AA - beide armen of handen
+31AA25431|drie of meer samengevouwen handen, wat betekent 'Unity is Strength' - AA - beide armen of handen
 31AA25432|iemand bij de hand of pols leiden - AA - beide armen of handen
 31AA25433|'immixtio manuum', het plaatsen van gevouwen handen tussen de handen van een andere persoon - AA - beide armen of handen
 31AA2544|iemand bij het hoofd vastpakken - AA - met beide armen of handen
@@ -3349,7 +3349,7 @@
 31AA25532|duim omlaag - AA - beide armen of handen
 31AA2554|houdingen en gebaren van duim en andere vingers - AA - beide armen of handen
 31AA25541|strijken met de duim over de bovenkant van de wijsvinger - AA - beide armen of handen
-31AA25542|Duim tussen de wijsvinger en de middelvinger - AA - beide armen of handen
+31AA25542|duim tussen de wijsvinger en de middelvinger - AA - beide armen of handen
 31AA25543|knippen met de vingers - AA - beide armen of handen
 31AA2555|houdingen en gebaren van de wijsvinger - AA - beide armen of handen
 31AA25551|wijsvinger omhoog - AA - beide armen of handen
@@ -3457,7 +3457,7 @@
 31AA2763|zwevend in de lucht - AA - vrouwelijke menselijke figuur
 31AA27631|zittend of staand op wolken - AA - vrouwelijke menselijke figuur
 31AA2764|vallend door de lucht - AA - vrouwelijke menselijke figuur
-31AA2765|salto mortale (beweging in de lucht) - AA - vrouwelijke menselijke figuur
+31AA2765|salto, 'salto mortale' (beweging in de lucht) - AA - vrouwelijke menselijke figuur
 31AA277|beweging in water - AA - vrouwelijke menselijke figuur
 31AA2771|waden, pootjebaden - AA - vrouwelijke menselijke figuur
 31AA2772|baden (beweging in water) - AA - vrouwelijke menselijke figuur
@@ -3557,7 +3557,7 @@
 31AA44211|'caput triciput', 'signum triceps' - AA - vrouwelijke menselijke figuur
 31AA4422|antropomorfisch wezen met twee bovenlichamen - AA - vrouwelijke menselijke figuur
 31AA443|antropomorfe wezens met ledematen, organen, enz. op ongebruikelijke plaatsen - AA - vrouwelijke menselijke figuur
-31AA4431|'Oculi in humeris habentes' - AA - vrouwelijke menselijke figuur
+31AA4431|'oculi in humeris habentes' - AA - vrouwelijke menselijke figuur
 31AA444|antropomorfe wezens met delen van abnormale vorm - AA - vrouwelijke menselijke figuur
 31AA4441|overmatige beharing - AA - vrouwelijk
 31AA44411|wilde man, wodewose, woodehouse - AA - vrouwelijk
@@ -3582,7 +3582,7 @@
 31AA4528|monsters ~ vliegende zoogdieren - AA - vrouwelijke menselijke figuur
 31AA4529|monsters ~ andere zoogdieren - AA - vrouwelijke menselijke figuur
 31AA453|monsters ~ vogels - AA - vrouwelijk
-31AA4531|sirene (fabelachtige vogel met vrouwenhoofd) - AA - vrouwelijk
+31AA4531|sirene (fantastische vogel met vrouwenhoofd) - AA - vrouwelijk
 31AA454|monsters ~ reptielen - AA - vrouwelijke menselijke figuur
 31AA4541|monsters ~ hagedissen - AA - vrouwelijke menselijke figuur
 31AA4542|monsters ~ slangen - AA - vrouwelijke menselijke figuur
@@ -3591,7 +3591,7 @@
 31AA4561|meermin - AA - zeemeermin, sirene
 31AA457|monsters ~ lagere dieren - AA - vrouwelijke menselijke figuur
 31AA458|prachtige wezens met vleugels - AA - vrouwelijke menselijke figuur
-31AA4581|'fairy' - AA - vrouwelijke menselijke figuur
+31AA4581|fee - AA - vrouwelijke menselijke figuur
 31AA4582|elf - AA - vrouwelijke menselijke figuur
 31AA46|ziekten - AA - vrouwelijke menselijke figuur
 31AA461|pijn - AA - vrouwelijke menselijke figuur
@@ -3610,7 +3610,7 @@
 31AA46230|besmettelijke ziekte gepersonifieerd; 'Contagione' (Ripa) - AA - epidemische ziekten
 31AA4624|huid- en geslachtsziekten - AA - epidemische ziekten
 31AA4624(...)|huid- en geslachtsziekten (met NAAM) - AA - epidemische ziekten
-31AA4624(SYPHILIS)|Huidaandoeningen en geslachtsziekten: syfilis - AA - epidemische ziekten
+31AA4624(SYPHILIS)|huidaandoeningen en geslachtsziekten: syfilis - AA - epidemische ziekten
 31AA46241|jeuk - AA - epidemische ziekten
 31AA46242|ulcer - AA - epidemische ziekten
 31AA4625|dropsy - AA - epidemische ziekten
@@ -3640,7 +3640,7 @@
 31AA464211|dansmanie, Sint-Vitusdans - AA - vrouwelijke menselijke figuur
 31AA469|gezondheid - AA - vrouwelijke menselijke figuur
 31AA4690|Gezondheid, 'Sanitas'; 'Sanità' (Ripa) - AA - vrouwelijke menselijke figuur
-31AA5|Zorg voor het lichaam, hygiëne - AA - vrouwelijke menselijke figuur
+31AA5|zorg voor het lichaam, hygiëne - AA - vrouwelijke menselijke figuur
 31AA51|toilet maken - AA - (voor) vrouwen
 31AA511|spiegel - AA - (voor) vrouwen
 31AA5111|kijkend in de spiegel; (mogelijk: overpeinzing van eigen schoonheid - AA - (voor) vrouwen)
@@ -3649,7 +3649,7 @@
 31AA5112|magische verfraaiing - AA - (voor) vrouwen
 31AA512|het dragen van juwelen - AA - (voor) vrouwen
 31AA513|het verzinnen - AA - (voor) vrouwen
-31AA514|Met geuren, parfums, zalven, enz. - AA - voor vrouwen
+31AA514|met geuren, parfums, zalven, enz. - AA - voor vrouwen
 31AA5141|geuren - AA - (voor) vrouwen
 31AA5141(...)|geuren (met NAAM) - AA - (voor) vrouwen
 31AA5142|parfums - AA - (voor) vrouwen
@@ -3670,7 +3670,7 @@
 31AA522|pedicure - AA - vrouwelijke menselijke figuur
 31AA523|'Spinario', kind dat een doorn uit zijn voet trekt - AA - meisje
 31AA53|kapper - AA - ~ vrouwen
-31AA531|Zorg voor het haar - AA - ~ vrouwen
+31AA531|zorg voor het haar - AA - ~ vrouwen
 31AA5311|kam, borstel en andere gereedschappen (verzorging van het haar) - AA - ~ vrouwen
 31AA532|haar knippen - AA - ~ vrouwen
 31AA5321|kapper - AA - ~ vrouwen
@@ -3691,12 +3691,12 @@
 31AA5353|scheren, geschoren worden - AA - ~ vrouwen
 31AA53531|jezelf scheren - AA - ~ vrouwen
 31AA539|verwarde haren - AA - ~ vrouwen
-31AA54|Wassen en baden - AA - in de open lucht
+31AA54|wassen en baden - AA - in de open lucht
 31AA541|handen wassen - AA - in de open lucht
 31AA542|het wassen van het gezicht en hoofd - AA - in de open lucht
 31AA5421|tanden poetsen - AA - in de open lucht
 31AA54211|tandenborstel - AA - in de open lucht
-31AA54212|'toothpick' - AA - in de open lucht
+31AA54212|tandenstoker - AA - in de open lucht
 31AA543|het wassen van iemands voeten - AA - in de open lucht
 31AA544|het wassen van iemands voeten - AA - in de open lucht
 31AA545|een bad nemen - AA - in de open lucht
@@ -3724,8 +3724,8 @@
 31AA5591|négligé - AA - vrouwelijke menselijke figuur
 31AA56|dienaar - AA - kamermeisje
 31AA57|verwijderen van insecten van lichaam - AA - vrouwelijke menselijke figuur
-31AA571|'moederlijke zorg', ontluizen - AA - vrouwelijke menselijke figuur
-31AA572|Op zoek naar vlooien - AA - vrouwelijke menselijke figuur
+31AA571|'motherly care', ontluizen - AA - vrouwelijke menselijke figuur
+31AA572|op zoek naar vlooien - AA - vrouwelijke menselijke figuur
 31AA58|lichaamsbouw - AA - vrouwelijke menselijke figuur
 31AA6|fysieke behoeften - AA - vrouwelijke menselijke figuur
 31AA61|urinatie - AA - vrouwelijke menselijke figuur
@@ -3845,7 +3845,7 @@
 31BB161|naar bed gaan - BB - buiten
 31BB162|siesta - BB - buiten
 31BB17|waking up - BB - buiten
-31BB171|Opstaan uit bed - BB - buitenshuis
+31BB171|opstaan uit bed - BB - buitenshuis
 31BB18|bewusteloosheid - BB - buiten
 31BB181|flauwvallen, bezwijming - BB - buiten
 31BB19|rusten - BB - buiten
@@ -3855,15 +3855,15 @@
 31D11|de eerste jaren ~ de leeftijden van de mens
 31D110|Kinderjaren (alleg.)
 31D111|zuigeling, baby ~ de leeftijden van de mens
-31D1111|'male infant' mannelijke zuigeling
-31D1112|'female infant' vrouwelijke zuigeling
+31D1111|mannelijke zuigeling
+31D1112|vrouwelijke zuigeling
 31D112|kind
 31D1120|Kinderjaren (alleg.)
-31D1121|tot, peuter ~ de leeftijden van de mens
+31D1121|peuter ~ de leeftijden van de mens
 31D11211|peuter (jongen)
 31D11212|peuter (vrouwelijk)
 31D1122|kind tussen peuter en jeugd (van onbepaald geslacht)
-31D11221|'boy' jongen (kind tussen peuter en jeugd)
+31D11221|jongen (kind tussen peuter en jeugd)
 31D112210|Jeugd (alleg.)
 31D11222|meisje (kind tussen peuter en jeugd)
 31D112220|Meisjesjaren (alleg.)
@@ -3878,13 +3878,13 @@
 31D150|Vrouwelijkheid
 31D16|oude man
 31D160|Oude Leeftijd, 'Senectus'; 'Vecchiezza' (Ripa)
-31D161|'mooie oude man'
+31D161|'beau vieillard'
 31D162|lelijke oude man
 31D17|oude vrouw
 31D171|mooie oude vrouw, 'belle vieille'
 31D172|lelijke oude vrouw, heks
 31D2|menselijk leven verdeeld in fasen
-31D2(...)|Het menselijk leven is verdeeld in fasen, bijvoorbeeld drie, vier, zeven, twaalf fasen.
+31D2(...)|het menselijk leven is verdeeld in fasen, bijvoorbeeld drie, vier, zeven, twaalf fasen.
 31D21|de leeftijden van de mens voorgesteld door een trap
 31D21(...)|de leeftijden van de mens voorgesteld door een trap (met AANTAL treden)
 31D3|menselijk leven verdeeld in decennia
@@ -3921,8 +3921,8 @@
 31D91|lang leven
 31D910|'Vita longa' (Ripa)
 31D92|kort leven
-31D920|'Snelheid van het menselijk leven', 'Kort leven' (Ripa)
-31DD3|Menselijk leven verdeeld in decennia - DD - decennia boven 100 jaar
+31D920|'Velocità della vita humana', 'Vita breve' (Ripa)
+31DD3|menselijk leven verdeeld in decennia - DD - decennia boven 100 jaar
 31DD30|0-10 jaar - DD - decennia boven 100 jaar
 31DD31|10-20 years - DD - decennia boven 100 jaar
 31DD32|20-30 jaar - DD - decennia boven 100 jaar
@@ -3941,7 +3941,7 @@
 31E113|laatste woorden en laatste gunsten, nuncupate
 31E12|sterfbed
 31E121|dood met geloof (vredige dood) versus dood zonder geloof (angst voor de dood)
-31E122|Vredig sterven, gelukkige dood
+31E122|vredig sterven, gelukkige dood
 31E1221|euthanasie, het veroorzaken van een gemakkelijke dood
 31E123|doodsstrijd, onrustige dood; angst voor de dood
 31E13|'Ars moriendi'
@@ -3976,7 +3976,7 @@
 31E23|gewelddadige dood, gedood worden; mishandeld en misbruikt worden; de dood zoeken
 31E231|gewelddadige dood ~ elementen
 31E2311|gewelddadige dood ~ water
-31E23111|verdrinken, 'over de plank lopen'
+31E23111|verdrinken, 'walking the plank'
 31E231111|kielhalen
 31E23112|continue druppelen (gewelddadige dood ~ water)
 31E2312|gewelddadige dood ~ vuur
@@ -4090,12 +4090,12 @@
 31EE2221|accidentele dood door hitte - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE22211|accidentele dood ~ brand - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE2222|ongelukkige dood ~ koud - EE - gewond raken door een ongeluk (dood niet betrokken)
-31EE223|Accidentele dood ~ interne oorzaken - EE - gewond raken door een ongeluk (dood niet betrokken)
+31EE223|accidentele dood ~ interne oorzaken - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE2231|accidentele dood ~ honger - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE2232|accidentele dood ~ dorst - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE2233|accidentele dood ~ gebrek aan lucht, verstikking - EE - per ongeluk gewond raken (dood niet betrokken)
 31EE2234|accidentele dood ~ vergiftiging - EE - gewond raken door een ongeluk (dood niet betrokken)
-31EE224|Accidentele dood door vallende objecten - EE - gewond raken door een ongeluk (dood niet betrokken)
+31EE224|accidentele dood door vallende objecten - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE225|sterven door de gevolgen van een val - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE228|dood veroorzaakt door effecten van natuurlijke omgeving, vooral natuurlijke rampen - EE - gewond raken door een ongeluk (dood niet betrokken)
 31EE229|dood veroorzaakt door ongewenste effecten van menselijke activiteiten, in het verkeer, op het werk, enz. - EE - gewond raken door een ongeluk (geen dood betrokken)
@@ -4104,7 +4104,7 @@
 31EE2311|gewelddadige dood ~ water - EE - dood niet zeker; gewonde persoon
 31EE23111|verdrinken, 'walking the plank' (gewelddadige dood ~ water) - EE - dood niet zeker; gewonde persoon
 31EE231111|keelhalen - EE - dood niet zeker; gewonde persoon
-31EE23112|Voortdurend druppelen (gewelddadige dood ~ water) - EE - dood niet zeker; gewonde persoon
+31EE23112|voortdurend druppelen (gewelddadige dood ~ water) - EE - dood niet zeker; gewonde persoon
 31EE2312|gewelddadige dood ~ brand - EE - dood niet zeker; gewonde persoon
 31EE23121|gewelddadige dood door verbranding op de brandstapel; pyre - EE - dood niet zeker; gewonde persoon
 31EE231211|gewelddadige dood door verbranding op de rooster - EE - dood niet zeker; gewonde persoon
@@ -4235,7 +4235,7 @@
 31G331|weging van de ziel
 31G332|opening van het boek des levens
 31G34|de veroordeelde ziel; 'Anima dannata' (Ripa)
-31G35|Engelen en duivels die vechten om de ziel
+31G35|engelen en duivels die vechten om de ziel
 31G36|de ziel gaat naar zijn laatste bestemming
 31G361|duivel die de ziel wegneemt
 31G4|de ziel in de eeuwigheid
@@ -4255,7 +4255,7 @@
 32A21|dik (menselijk type)
 32A210|'Grassezza' (Ripa)
 32A211|steatopyge (menselijk type)
-32A22|'dun' (menselijk type)
+32A22|dun (menselijk type)
 32A3|optimist and pessimist (mensentypen)
 32A31|optimist
 32A32|pessimist
@@ -4280,7 +4280,7 @@
 32B11(...)|reconstructie van prehistorische mens (met NAAM)
 32B11(NEANDERTHAL)|reconstructie van prehistorische mens: Neanderthaler
 32B12|wederopbouw van het leven en de cultuur van de prehistorische mens
-32B2|'Historical' volkeren en nationaliteiten
+32B2|'historical' volkeren en nationaliteiten
 32B2(...)|historische volkeren en nationaliteiten (met NAAM)
 32B2(AMBRONES)|historische volkeren: Ambrones
 32B2(AZTEC)|historische volkeren: Azteken
@@ -4296,7 +4296,7 @@
 32B2(SCYTHIANS)|historische volkeren: Scythen
 32B2(TEUTONS)|historische volkeren: Teutonen
 32B2(THRACIANS)|historische volkeren: Thraciërs
-32B3|mensen en nationaliteiten (anders dan prehistorisch of 'historisch')
+32B3|mensen en nationaliteiten (anders dan prehistorisch of 'historical')
 32B31|Europese volkeren
 32B311|inheemse Europese volkeren
 32B311(...)|inheemse Europese volkeren (met NAAM)
@@ -4379,7 +4379,7 @@
 32B341(INUPIAT)|inheemse volkeren van de Arctische regio's: Inupiat
 32B342|inheemse volkeren van Noord-Amerika
 32B342(...)|inheemse volkeren van Noord-Amerika (met NAAM)
-32B342(SHOSHONE)|Inheemse volkeren van Noord-Amerika: Shoshone
+32B342(SHOSHONE)|inheemse volkeren van Noord-Amerika: Shoshone
 32B342(SIOUX)|inheemse volkeren van Noord-Amerika: Sioux
 32B343|inheemse volkeren van Midden-Amerika
 32B344|inheemse volkeren van Zuid-Amerika
@@ -4394,14 +4394,14 @@
 32B35|Australische en Oceanische volkeren, Australiërs en Oceaniers
 32B351|inheemse volkeren van Australië en Oceanië
 32B351(...)|inheemse volkeren van Australië en Oceanië (met NAAM)
-32B351(PAPUANS)|Inheemse volkeren van Australië en Oceanië: Papoea's
-32B351(POLYNESIANS)|Inheemse volkeren van Australië en Oceanië: Polynesiërs
-32B351(NARUNGGA)|Inheemse volkeren van Australië en Oceanië: Narungga
+32B351(PAPUANS)|inheemse volkeren van Australië en Oceanië: Papoea's
+32B351(POLYNESIANS)|inheemse volkeren van Australië en Oceanië: Polynesiërs
+32B351(NARUNGGA)|inheemse volkeren van Australië en Oceanië: Narungga
 32B352|(nakomelingen van) Australische en Oceanische emigranten, mensen die migreren vanuit Australië of Oceanië
 32B352(...)|(nakomelingen van) Australische en Oceanische emigranten (met NAAM van BESTEMMING)
 32B353|Australische en Oceanische immigranten, persoon die migreert naar Australië of Oceanië
 32B353(...)|Australische en Oceanische immigranten (met NAAM van OORSPRONG)
-32B36|'primitieve', 'premoderne' volkeren
+32B36|'primitive', 'pre-modern' volkeren
 32B37|Pygmeeën (in legende, literatuur en etnografie)
 32B371|Afrikaanse pygmeeën
 32B371(...)|Afrikaanse pygmeeën (met NAAM)
@@ -4502,7 +4502,7 @@
 33C2171|verborgen liefde ontdekt
 33C218|ontwakende liefde
 33C219|onsuccesvolle liefdesaffaire; verleiding
-33C22|'lovers' meeting' ontmoeting van geliefden
+33C22|ontmoeting van geliefden
 33C221|één geliefde wachtend op de ander
 33C222|man (geliefde) die door het raam naar binnen gaat
 33C2221|geliefde omhoog gehesen in een mandje
@@ -4511,7 +4511,7 @@
 33C2241|de uitgesneden tekens (van geliefden) alleen
 33C225|afscheid (van geliefden)
 33C226|onderbroken vergadering, geliefden verrast
-33C2261|'uitkijkpost' ~ ontmoeting van geliefden
+33C2261|'look-out' ~ ontmoeting van geliefden
 33C2262|geliefden bespiedden
 33C227|geliefden bij elkaar gebracht door een derde persoon
 33C229|geliefde weggejaagd; afgewezen worden
@@ -4555,7 +4555,7 @@
 33C413|cunnilingus
 33C42|ontmaagding, verlies van maagdelijkheid (en symbolen)
 33C421|verlies van maagdelijkheid gesymboliseerd
-33C4211|'de gebroken kruik' (verlies van maagdelijkheid gesymboliseerd)
+33C4211|'la cruche cassée' (verlies van maagdelijkheid gesymboliseerd)
 33C4212|vogelkooi geopend (verlies van maagdelijkheid gesymboliseerd)
 33C43|na de geslachtsgemeenschap
 33C44|gevallen vrouw
@@ -4627,7 +4627,7 @@
 33C94|'Ile de Cythère'
 33C941|inscheping voor Cythera
 33C942|inscheping vanaf Cythera
-33C95|Oorsprong van liefde; 'Origine d'amore' (Ripa)
+33C95|oorsprong van liefde; 'Origine d'amore' (Ripa)
 33C951|fontein van liefde, 'Fons Amoris'
 33C96|zelfopofferende liefde
 33C97|Liefde martelt minnaar
@@ -4639,7 +4639,7 @@
 33CC321|rivaliteit van mannen voor de liefde van een vrouw; proberen de rok te krijgen; 'Rivalità' (Ripa) - CC - achtervolging van een man
 33CC3211|vrouwelijke rivaliteit voor de liefde van een man; gevecht om de aandacht; 'andouille' - CC - achtervolging van een man
 33CC322|schuddend geliefden uit een boom, met knuppel - CC - achtervolging van een man
-33CC3221|Het schudden van geliefden uit een boom, door dingen te gooien - CC - achtervolging van een man
+33CC3221|het schudden van geliefden uit een boom, door dingen te gooien - CC - achtervolging van een man
 33CC323|De verloren arbeid van de liefde (een derde persoon die succesvol ingrijpt) - CC - achtervolging van een man
 33CC3231|de daaropvolgende derde - CC - achtervolging van een man
 33CC33|de (moeilijke) keuze ~ hofmakerij - CC - vrouwen die een keuze maken
@@ -4667,7 +4667,7 @@
 33CC62|sodomie, seksueel contact tussen mannen - CC - homoseksuele liefde tussen vrouwen: lesbianisme
 34|mens en dier
 34A|temmen en trainen van dieren
-34A1|Vriendschap tussen mens en dier; strelen, aaien
+34A1|vriendschap tussen mens en dier; strelen, aaien
 34A11|temmen, domesticatie van dieren; getemd of gedomesticeerd dier
 34A111|het knippen van de vleugels van een vogel
 34A2|temmen van wilde paarden
@@ -4690,18 +4690,18 @@
 34B11|hond
 34B11(...)|hond (met NAAM van soort)
 34B111|halsband (van een hond)
-34B112|'hond met bot'
-34B113|'watch-dog', dog aan het kijken
+34B112|hond met bot
+34B113|waakhond, hond aan het kijken
 34B114|de hond uitlaten
 34B12|kat
 34B12(...)|kat (met NAAM van soort)
 34B121|kat en muis
 34B13|huiskippen (binnen in huis)
-34B131|'bird in a cage' vogel in een kooi
+34B131|vogel in een kooi
 34B1311|lege vogelkooi
 34B132|vogels in een grote kooi, volière
 34B133|vogel aan een koord of touw
-34B2|'een huisdier' dat buiten het huis wordt gehouden
+34B2|een huisdier dat buiten het huis wordt gehouden
 34B21|pluimveestal
 34B211|vijver
 34B22|huiskatten die buiten worden gehouden
@@ -4722,7 +4722,7 @@
 34B42|visvijver (in tuin)
 34C|bescherming van dieren
 34C1|het voeren van wilde dieren
-34C11|Het voeren van wilde dieren in de winter
+34C11|het voeren van wilde dieren in de winter
 34C12|het verschaffen van water voor wilde dieren tijdens droogte
 34C2|het bieden van onderdak aan wilde dieren
 34C21|zorgen voor vogels
@@ -4752,7 +4752,7 @@
 34D321|muggengaas, schermen
 34D322|brandende rookmaker, rookpot ~ uitroeiing van insecten
 34D4|beheersing en uitroeiing van andere schadelijke dieren
-34D5|Moderne methoden voor het uitroeien van schadelijke dieren
+34D5|moderne methoden voor het uitroeien van schadelijke dieren
 34D51|verstuiving van chemische oplossingen (moderne methoden voor uitroeiing van schadelijke dieren)
 34E|beperking van dieren
 34E1|gevaarlijke wilde dieren ~ beheersing van dieren
