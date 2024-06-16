@@ -20,7 +20,7 @@
 41A163|huisje
 41A17|boerderij (gebouw)
 41A171|schuur
-41A18|hut, hut, blokhut
+41A18|hut, blokhut
 41A181|blokhut
 41A182|inheemse Amerikaanse hut
 41A1821|wigwam
@@ -98,7 +98,7 @@
 41A333|raamluiken
 41A3331|raamluiken aan de buitenkant
 41A3332|binnenzonwering
-41A334|zonnescherm, zonnescherm, zonnescherm
+41A334|zonnescherm
 41A335|raamplaats
 41A336|menselijke figuur bij (open) raam
 41A3361|menselijke figuur bij (open) raam, gezien van buiten
@@ -183,7 +183,7 @@
 41A631|gazon
 41A632|bloemperk
 41A633|rots tuin
-41A634|doolhof, doolhof ~ tuin
+41A634|doolhof ~ tuin
 41A635|omheinde of ommuurde tuin; 'Hortus Conclusus'
 41A6351|daktuin
 41A636|Franse of architectonische tuin; formele tuin
@@ -416,7 +416,7 @@
 41B3|verlichting; lampen
 41B31|kaars
 41B311|kroonluchter, kandelaar
-41B312|wandlamp, wandlamp
+41B312|wandlamp
 41B313|kaarsenhouder
 41B314|snuffers
 41B32|fakkel
@@ -429,7 +429,7 @@
 41B372|neon lamp, neon buis
 41B4|in brand, laaiend
 41B5|brandbestrijding
-41B51|brandweer, brandweer
+41B51|brandweer
 41B511|brandweermannen
 41B52|brandblusapparatuur
 41B521|emmers (brandblusapparatuur)
@@ -442,7 +442,7 @@
 41B6|ventilatiesystemen
 41B61|luchtschacht
 41BB32|fakkel - BB - fakkel ondersteboven vastgehouden
-41C|voeding, voeding
+41C|voeding
 41C1|eten en drinken
 41C10|gastronomie, de kunst van eten en drinken
 41C11|eten
@@ -457,7 +457,7 @@
 41C129|dorst
 41C13|blazen, om voedsel af te koelen voor het eten
 41C14|roeren, voedsel afkoelen voor het eten
-41C18|verzadiging, verzadiging ~ eten en drinken
+41C18|verzadiging ~ eten en drinken
 41C19|onstilbare honger of dorst
 41C2|keuken en kelder
 41C21|keuken
@@ -584,10 +584,10 @@
 41C6121|graanontbijt
 41C6122|noedels, spaghetti, enz.
 41C62|brood, taart, gebak, enz.
-41C621|brood, brood
+41C621|brood
 41C6211|gevormd brood
 41C62111|plat, rond brood of gebak, bijv. pizza
-41C6212|gevulde broodjes, broodjes, bijv. sandwich, hamburger
+41C6212|gevulde broodjes, bijv. sandwich, hamburger
 41C622|cake, taart, gebak
 41C6221|speciale taarten, speciale gebakjes
 41C6222|koekjes
@@ -667,7 +667,7 @@
 41C7131|jenever, gin
 41C7132|whisky
 41C7133|wodka
-41C7134|brandewijn, brandewijn
+41C7134|brandewijn
 41C714|bier, ale
 41C7141|glas bier
 41C715|andere alcoholische dranken
@@ -684,7 +684,7 @@
 41C732|vruchtensap
 41C74|tabak
 41C741|pijp ~ tabak
-41C7411|waterpijp, waterpijp, nargile
+41C7411|waterpijp, nargile
 41C7412|tabaksrol, opgerolde twist van tabak
 41C7413|tabaksdoos
 41C7414|pijpdrager, pijpstandaard
@@ -990,7 +990,7 @@
 42A133|(zwangere vrouw) neemt speciale voeding
 42A134|Zwangere vrouw die schrikt, zogenaamde moederlijke indruk (Nederlands: 'verzien')
 42A1341|kind met de tekens van maternale impressie
-42A14|vaderschap, vaderschap
+42A14|vaderschap
 42A18|vruchtbaarheid
 42A19|onvruchtbaarheid; onvruchtbare vrouw
 42A190|'Sterilità' (Ripa)
@@ -1269,7 +1269,7 @@
 42D2542|zilveren jubileum
 42D2543|gouden jubileum
 42D2544|diamanten jubileum
-42D26|huwelijksreis, huwelijksreis
+42D26|huwelijksreis
 42D261|vertrek (voor huwelijksreis)
 42D2611|iets gooien naar het getrouwde stel, bijvoorbeeld schoenen, rijst, confetti
 42D262|'alleen eindelijk'
@@ -1412,7 +1412,7 @@
 42E26|terug van de begrafenis
 42E261|begrafenismaaltijd, rouwendenmaaltijd
 42E27|mortuariumspecialisten
-42E271|begrafenisondernemer, begrafenisondernemer
+42E271|begrafenisondernemer
 42E272|grafdelver
 42E273|begraafplaatsbewaker
 42E274|begrafenisvereniging
@@ -1420,7 +1420,7 @@
 42E281|persoon op sterfbed die zijn bezittingen vernietigd ziet
 42E3|graf, tombe en andere grafvormen en grafmarkeringen
 42E31|graf, grafmonument
-42E311|grafsteen, grafsteen
+42E311|grafsteen
 42E3111|rechtopstaande grafsteen
 42E3112|plat, horizontaal grafsteen
 42E3113|andere soorten grafstenen, bijv. kruis
@@ -1504,7 +1504,7 @@
 42F49|verwaarloosde woning
 42F5|huispersoneel, bedienden
 42F51|kamermeisje ~ huishoudelijk personeel
-42F52|schoonmaakster, schoonmaakster
+42F52|schoonmaakster
 42F53|knecht, lakei
 42F54|butler
 42F55|huisbewaker, deurwachter, conciërge
@@ -1603,7 +1603,7 @@
 43A23|bal, formeel dansfeest
 43A3|Pleasure Fair en Circus
 43A31|draaimolen, rotonde; stoelvliegtuig
-43A311|reuzenrad, reuzenrad
+43A311|reuzenrad
 43A32|vermaak met auto's, enz. (kermis)
 43A321|achtbaan
 43A322|botsauto's, botsauto's

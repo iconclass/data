@@ -68,17 +68,17 @@
 51DD2|Onenigheid, Onregelmatigheid
 51DD3|Asymmetrie
 51DD4|Lelijkheid
-51DD5|Onevenwicht, Onevenwicht
+51DD5|Onevenwicht
 51E|Hiërarchische Volgorde
 51E1|Onafhankelijkheid, Autonomie
-51E11|Vrijheid, Vrijheid; 'Libertà' (Ripa)
+51E11|Vrijheid; 'Libertà' (Ripa)
 51E12|Bevrijding
 51E2|Superioriteit
 51E3|Conformiteit; 'Temperamento delle cose terrene con le celesti' (Ripa)
 51E4|Samenhang
 51EE|Hiërarchische Orde (tegenovergestelde concepten)
 51EE1|Afhankelijkheid
-51EE11|Beperking, Beperking
+51EE11|Beperking
 51EE12|Inkorting
 51EE2|Inferioriteit
 51EE3|Nonconformiteit
@@ -154,7 +154,7 @@
 51II|Ruimte (tegenovergestelde concepten)
 51II1|Onbeperkte Ruimte
 51II11|Uitbreiding
-51II2|Leegte, Leegte
+51II2|Leegte
 51II3|Verplaatsing, Verschuiving
 51II4|Afstand
 51II5|isolatie
@@ -192,7 +192,7 @@
 51LL5|Afdaling
 51M|Kwaliteit van Beweging
 51M1|Snelle Beweging
-51M11|Snelheid, Snelheid; 'Agilità', 'Celerità', 'Velocità' (Ripa)
+51M11|Snelheid; 'Agilità', 'Celerità', 'Velocità' (Ripa)
 51M12|Haast
 51MM|Kwaliteit van Beweging (tegenovergestelde concepten)
 51MM1|Langzame beweging
@@ -237,7 +237,7 @@
 52AA31|Vergetelheid; 'Oblivione' (Ripa)
 52AA4|Gebrek aan verbeeldingskracht, starheid
 52AA5|onwetendheid; 'Ignoranza', 'Ignoranza di tutte le cose', 'Ignoranza in un ricco senza lettere' (Ripa)
-52AA51|Dwaasheid, Dwaasheid; 'Pazzia', 'Sciocchezza', 'Stoltitia' (Ripa)
+52AA51|Dwaasheid; 'Pazzia', 'Sciocchezza', 'Stoltitia' (Ripa)
 52AA511|Belachelijkheid
 52AA52|Foutief oordeel
 52AA521|Illusie, Fantoom
@@ -247,7 +247,7 @@
 52AA55|Botte, Stompheid, Saaiheid
 52AA551|Oppervlakkigheid van Geest
 52AA552|Intellectuele Blindheid; 'Cecità della Mente' (Ripa)
-52AA553|Vooroordeel, Vooroordeel
+52AA553|Vooroordeel
 52AA6|onwaarheid
 52B|Redenering
 52B1|Denken, Gedachte, Reflectie; 'Pensiero' (Ripa)
@@ -291,7 +291,7 @@
 52C11|Mening
 52C111|Publieke opinie; 'Opinione' (Ripa)
 52C12|Zin, 'Sententia'
-52C2|Bevestiging, Bevestiging; 'Confermatione' (Ripa)
+52C2|Bevestiging; 'Confermatione' (Ripa)
 52C3|Erkenning, Toekenning
 52C4|begrip, inzicht; 'Apprehensiva' (Ripa)
 52C41|Bevrijding van Fout of Illusie
@@ -303,7 +303,7 @@
 52CC1|Onbeleefdheid
 52CC2|Ontkenning, Negatie
 52CC3|Dissidentie
-52CC31|Weerlegging, Weerlegging, Weerlegging
+52CC31|Weerlegging, Weerlegging
 52CC4|Misverstand, Onbegrip
 52CC41|Fout; 'Errore' (Ripa)
 52D|Communicatie van Gedachte (kwalitatieve aspecten)
@@ -330,7 +330,7 @@
 52E3|Advies; 'Consiglio' (Ripa)
 52EE|Communicatie van Gedachte (antwoord en vraag) (tegenovergestelde concepten)
 52EE1|Vragen, Vraag, Interrogatie
-52EE11|Onderzoek, Onderzoek; 'Investigatione' (Ripa)
+52EE11|Onderzoek; 'Investigatione' (Ripa)
 53|wil, Wilskracht
 53A|Kenmerken van Will
 53A1|Zal; 'Volontà' (Ripa)
@@ -416,15 +416,15 @@
 54A51|goede genie; 'Genio Buono' (Ripa)
 54A52|Onschuld
 54A6|Behulpzaamheid
-54A7|Kracht, Kracht; 'Fortezza', 'Fortezza d'Animo e di corpo', 'Fortezza del corpo congiunta con la generosità dell'animo', 'Fortezza & waarde del corpo congiunto con de prudenza & virtù del animo', 'Forza' (Ripa)
+54A7|Kracht; 'Fortezza', 'Fortezza d'Animo e di corpo', 'Fortezza del corpo congiunta con la generosità dell'animo', 'Fortezza & waarde del corpo congiunto con de prudenza & virtù del animo', 'Forza' (Ripa)
 54A71|Onkwetsbaarheid
 54A72|Onkwetsbaarheid
-54A8|Moed, Dapperheid, Dapperheid, Mannelijkheid; 'Ardire magnanimo et generoso', 'Gagliardezza', 'Valore', 'Virtù heroica', 'Virtù dell'animo e del corpo' (Ripa)
+54A8|Moed, Dapperheid, Mannelijkheid; 'Ardire magnanimo et generoso', 'Gagliardezza', 'Valore', 'Virtù heroica', 'Virtù dell'animo e del corpo' (Ripa)
 54A81|Onbevreesdheid, Onverschrokkenheid; 'Intrepidità & Costanza' (Ripa)
 54A82|Durf, Brutaliteit; 'Audacia' (Ripa)
 54AA|Toestand van Zijn tijdens het Doen (tegenovergestelde concepten)
 54AA1|Inactiviteit
-54AA11|Traagheid, Traagheid; 'Dapocaggine', 'Pigritia' (Ripa)
+54AA11|Traagheid; 'Dapocaggine', 'Pigritia' (Ripa)
 54AA2|nalatigheid; 'Negligenza' (Ripa)
 54AA21|onverschilligheid
 54AA3|Onbekwaamheid
@@ -460,7 +460,7 @@
 54B3|nut, bruikbaarheid; 'Utilità' (Ripa)
 54B4|Efficiëntie
 54B5|belang, overwicht
-54B6|waarde, waarde
+54B6|waarde
 54BB|Middelen en Kenmerken van Middelen (tegenovergestelde concepten)
 54BB1|Inactiviteit
 54BB11|Misbruik, Verkeerd gebruik
@@ -482,7 +482,7 @@
 54C3|invloed
 54C31|Voorbeeld
 54C4|Tentatione; 'Tentatione' (Ripa)
-54CC|bedoeling, doel, doel (tegenovergestelde concepten)
+54CC|bedoeling, doel (tegenovergestelde concepten)
 54CC1|Doelloosheid
 54CC11|zonder intentie, niet-ontwerp, onbedoeldheid, ondoordachtheid
 54CC2|Ontmoediging
@@ -529,7 +529,7 @@
 54EE11|Tegenstand, Tegenaanval, Weerstand
 54EE2|Belemmering, Obstakel
 54EE3|Conflict; 'Contrasto' (Ripa)
-54EE31|onenigheid, onenigheid; 'Discordia' (Ripa)
+54EE31|onenigheid; 'Discordia' (Ripa)
 54EE32|Trotseren
 54EE33|Wedstrijd, Rivaliteit, Emulatie; 'Emulatione' (Ripa)
 54EE4|Aanval
@@ -553,7 +553,7 @@
 54FF2|Verslaan
 55|Eigendom
 55A|Verwerving en Verlies
-55A1|Verwerving, Winst, Winst
+55A1|Verwerving, Winst
 55A11|retentie
 55A12|Beloning, 'Praemium'; 'Premio', 'Remuneratione' (Ripa)
 55AA|Verwerving en Verlies (tegenovergestelde concepten)
@@ -589,11 +589,11 @@
 56A2|Opwinding
 56A21|extase, verheffing
 56AA|Gevoel (tegenovergestelde concepten)
-56AA1|Ongevoeligheid, Ongevoeligheid
+56AA1|Ongevoeligheid
 56AA11|Onbewogenheid; 'Impassibilità' (Ripa)
 56B|Vreugde en Verdriet
 56B1|Plezier, Genot, Vreugde; 'Allegrezza', 'Allegrezza da le medaglie', 'Allegrezza, letitia e giubilo', 'Diletto', 'Piacere', 'Piacere honesto' (Ripa)
-56B11|Vrolijkheid, Vrolijkheid
+56B11|Vrolijkheid
 56B12|Vrolijkheid
 56B13|Jolijt
 56B131|Grappig; 'Giuoco (dall'antico)' (Ripa)
@@ -609,7 +609,7 @@
 56BB11|Bitterheid; 'Amaritudine' (Ripa)
 56BB12|Pijniging; 'Tribulatione' (Ripa)
 56BB121|Klaagzang; 'Querela a Dio' (Ripa)
-56BB13|Hartzeer, Hartzeer; 'Affanno', 'Cordoglio' (Ripa)
+56BB13|Hartzeer; 'Affanno', 'Cordoglio' (Ripa)
 56BB131|Zucht; 'Sospiri' (Ripa)
 56BB19|Troost
 56BB2|Ongelukkigheid; 'Infelicità' (Ripa)
@@ -621,7 +621,7 @@
 56BB33|Mopperen, Klacht; 'Pianto', 'Querela' (Ripa)
 56BB34|Teleurstelling
 56BB35|Frustratie
-56BB4|afschuw, afkeer, afkeer, misselijkheid
+56BB4|afschuw, afkeer, misselijkheid
 56BB41|Verzadiging
 56C|Esthetisch Gevoel
 56C1|Zin voor Schoonheid
@@ -646,7 +646,7 @@
 56DD31|Gebrek aan zelfvertrouwen; 'Viltà' (Ripa)
 56DD32|Alarm, Fright; 'Spavento', 'Terrore' (Ripa)
 56DD33|Verwarring, Verbijstering, Paniek; 'Perturbatione' (Ripa)
-56DD34|afschuw, afschuw
+56DD34|afschuw
 56E|Boosheid en Zachtheid
 56E1|Irritatie
 56E11|Verontwaardiging; 'Sdegno' (Ripa)
@@ -699,7 +699,7 @@
 57A2|Plichtsbesef, Toewijding aan Plicht
 57A21|Plicht
 57A22|Verplichting; 'Obligo' (Ripa)
-57A23|Roeping, Roeping, Missie
+57A23|Roeping, Missie
 57A24|Taak
 57A25|Verantwoordelijkheid, Aansprakelijkheid
 57A3|Geweten; 'Coscienza' (Ripa)
@@ -715,7 +715,7 @@
 57A613|Integriteit
 57A6131|Onschuld, Eenvoud, Openheid, Argeloosheid
 57A614|Trouw, 'Bona Fide'
-57A6141|Betrouwbaarheid, Betrouwbaarheid
+57A6141|Betrouwbaarheid
 57A6142|Eed
 57A62|Fidelity; 'Fedeltà' (Ripa)
 57A63|Onvervalstheid, Zuiverheid; Purità (Ripa)
@@ -765,7 +765,7 @@
 57AA613|sluwheid, listigheid; 'Astutia ingannevole' (Ripa)
 57AA6131|List, Listigheid, Sluwheid, Bedrieglijkheid
 57AA614|Ontrouw, 'Mala fide'
-57AA6141|Onbetrouwbaarheid, Onbetrouwbaarheid
+57AA6141|Onbetrouwbaarheid
 57AA6142|Verraad
 57AA62|Ontrouw, Verraad; 'Perfidia' (Ripa)
 57AA621|Vals spelen, Bedrog; 'Fraude', 'Inganno' (Ripa)
@@ -795,7 +795,7 @@
 57AA72|Onverdraagzaamheid
 57AA73|Onstuimigheid
 57AA74|wraakzucht
-57AA741|Wraak, Vergelding, Vergelding; 'Vendetta' (Ripa)
+57AA741|Wraak, Vergelding; 'Vendetta' (Ripa)
 57AA75|Genadeloosheid
 57AA76|Jaloezie; 'Gelosia', 'Rammarico del ben'altrui' (Ripa)
 57AA77|Onvriendelijkheid
@@ -811,7 +811,7 @@
 57B3|rechtvaardiging, verdediging
 57B31|verzachting, verontschuldiging
 57BB|Beoordeling van Gedrag (tegenovergestelde concepten)
-57BB1|Afkeuring, Afkeuring, Berisping
+57BB1|Afkeuring, Berisping
 57BB11|Waarschuwing, Berisping; 'Riprensione', 'Riprensione giovevole' (Ripa)
 57BB12|Correctie; 'Correttione' (Ripa)
 57BB13|Straf; 'Castigo', 'Pena', 'Punitione' (Ripa)
@@ -827,12 +827,12 @@
 57BB242|Sarcasme
 57BB25|Laster, Kwaadsprekerij; 'Biasimo vitioso', 'Calunnia', 'Detrattione', 'Maledicenza' (Ripa)
 57BB251|Laster van Apelles: slechte rechter met ezelsoren op troon, met Bedrog, Afgunst, Onwetendheid, Argwaan en Verraad, geconfronteerd met onschuldige beschuldigde; Spijt en Waarheid aanwezig
-57BB3|Beschuldiging, Beschuldiging
+57BB3|Beschuldiging
 58|Creatie
 58A|Creatie en Vernietiging
 58A1|Oorsprong
 58A2|Voortplanting
-58A3|Vruchtbaarheid, Productiviteit, Vruchtbaarheid, Vruchtbaarheid; 'Fecondità' (Ripa)
+58A3|Vruchtbaarheid, Productiviteit, Vruchtbaarheid; 'Fecondità' (Ripa)
 58AA|Creatie en Vernietiging (tegenovergestelde concepten)
 58AA1|Vernietiging
 58AA11|Uitroeiing

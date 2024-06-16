@@ -94,7 +94,7 @@
 25FFk114|mond, snavel, puntje
 25FFk115|nek
 25FFk12|borstkas
-25FFk13|buik, buik
+25FFk13|buik
 25FFk131|seksuele organen
 25FFk132|achterste delen, achterwerk
 25FFk14|ledematen
@@ -113,7 +113,7 @@
 25FFk214|mond, snavel, puntje
 25FFk215|nek
 25FFk22|borstkas
-25FFk23|buik, buik
+25FFk23|buik
 25FFk231|seksuele organen
 25FFk232|achterste delen, achterwerk
 25FFk24|ledematen
@@ -132,7 +132,7 @@
 25FFk314|mond, snavel, puntje
 25FFk315|nek
 25FFk32|borstkas
-25FFk33|buik, buik
+25FFk33|buik
 25FFk331|seksuele organen
 25FFk332|achterste delen, achterwerk
 25FFk34|ledematen
@@ -151,7 +151,7 @@
 25FFk414|mond, snavel, puntje
 25FFk415|nek
 25FFk42|borstkas
-25FFk43|buik, buik
+25FFk43|buik
 25FFk431|seksuele organen
 25FFk432|achterste delen, achterwerk
 25FFk44|ledematen
@@ -170,7 +170,7 @@
 25FFk514|mond, snavel, puntje
 25FFk515|nek
 25FFk52|borstkas
-25FFk53|buik, buik
+25FFk53|buik
 25FFk531|seksuele organen
 25FFk532|achterste delen, achterwerk
 25FFk54|ledematen
@@ -189,7 +189,7 @@
 25FFk614|mond, snavel, puntje
 25FFk615|nek
 25FFk62|borstkas
-25FFk63|buik, buik
+25FFk63|buik
 25FFk631|seksuele organen
 25FFk632|achterste delen, achterwerk
 25FFk64|ledematen
@@ -412,7 +412,7 @@
 25FFkq14|mond, snavel, puntje
 25FFkq15|nek
 25FFkq2|borstkas
-25FFkq3|buik, buik
+25FFkq3|buik
 25FFkq31|seksuele organen
 25FFkq32|achterste delen, achterwerk
 25FFkq4|ledematen
@@ -469,7 +469,7 @@
 25Fk41|geboorte van een dier
 25Fk411|geboorte uit een ei
 25Fk412|broeden, uitbroeden
-25Fk413|larve, larve
+25Fk413|larve
 25Fk414|'pupa', chrysalis
 25Fk42|Voeding en verzorging van jonge dieren
 25Fk421|nest, hol, gang
@@ -636,7 +636,7 @@
 25Gk15|sierlijke varianten van planten
 25Gk2|Delen van planten
 25Gk21|steel, stam
-25Gk211|stomp, stomp
+25Gk211|stomp
 25Gk22|tak, stok
 25Gk221|takje, twijg
 25Gk222|stekelige tak
@@ -688,7 +688,7 @@
 31A42k115|nek
 31A42k12|borstkas
 31A42k121|borst(en)
-31A42k13|buik, buik
+31A42k13|buik
 31A42k131|seksuele organen
 31A42k132|'achterste delen'
 31A42k14|armen
@@ -713,7 +713,7 @@
 31A42k215|nek
 31A42k22|borstkas
 31A42k221|borst(en)
-31A42k23|buik, buik
+31A42k23|buik
 31A42k231|seksuele organen
 31A42k232|'achterste delen'
 31A42k24|armen
@@ -738,7 +738,7 @@
 31A42k315|nek
 31A42k32|borstkas
 31A42k321|borst(en)
-31A42k33|buik, buik
+31A42k33|buik
 31A42k331|seksuele organen
 31A42k332|'achterste delen'
 31A42k34|armen
@@ -763,7 +763,7 @@
 31A42k415|nek
 31A42k42|borstkas
 31A42k421|borst(en)
-31A42k43|buik, buik
+31A42k43|buik
 31A42k431|seksuele organen
 31A42k432|'achterste delen'
 31A42k44|armen
@@ -813,7 +813,7 @@
 31A42k615|nek
 31A42k62|borstkas
 31A42k621|borst(en)
-31A42k63|buik, buik
+31A42k63|buik
 31A42k631|seksuele organen
 31A42k632|'achterste delen'
 31A42k64|armen
@@ -837,7 +837,7 @@
 31A42kq15|nek
 31A42kq2|borstkas
 31A42kq21|borst(en)
-31A42kq3|buik, buik
+31A42kq3|buik
 31A42kq31|seksuele organen
 31A42kq32|'achterste delen'
 31A42kq4|armen
@@ -863,7 +863,7 @@
 31A44k115|nek
 31A44k12|borstkas
 31A44k121|borst(en)
-31A44k13|buik, buik
+31A44k13|buik
 31A44k131|seksuele organen
 31A44k132|'achterste delen'
 31A44k14|armen
@@ -888,7 +888,7 @@
 31A44k215|nek
 31A44k22|borstkas
 31A44k221|borst(en)
-31A44k23|buik, buik
+31A44k23|buik
 31A44k231|seksuele organen
 31A44k232|'achterste delen'
 31A44k24|armen
@@ -938,7 +938,7 @@
 31A44k415|nek
 31A44k42|borstkas
 31A44k421|borst(en)
-31A44k43|buik, buik
+31A44k43|buik
 31A44k431|seksuele organen
 31A44k432|'partes posteriores'
 31A44k44|armen
@@ -988,7 +988,7 @@
 31A44k615|nek
 31A44k62|borstkas
 31A44k621|borst(en)
-31A44k63|buik, buik
+31A44k63|buik
 31A44k631|seksuele organen
 31A44k632|'achterste delen'
 31A44k64|armen
@@ -1012,7 +1012,7 @@
 31A44kq15|nek
 31A44kq2|borstkas
 31A44kq21|borst(en)
-31A44kq3|buik, buik
+31A44kq3|buik
 31A44kq31|seksuele organen
 31A44kq32|'achterste delen'
 31A44kq4|armen
@@ -1028,7 +1028,7 @@
 31A45k0|variant
 31A45k1|hoofd of (delen van) gezicht
 31A45k2|lichaam
-31A45k21|borst, borst
+31A45k21|borst
 31A45k22|buik
 31A45k221|seksuele organen
 31A45k222|'achterste delen'
@@ -1496,7 +1496,7 @@
 43Ak11|verlichting, vuurwerk ~ feestelijke activiteiten
 43Ak12|krans, slinger ~ feestelijke activiteiten
 43Ak13|versierd personeel, draagbare structuur ~ feestelijke activiteiten
-43Ak2|optocht, optocht, cavalcade ~ feestelijke activiteiten
+43Ak2|optocht, cavalcade ~ feestelijke activiteiten
 43Ak21|versierde wagen, kar ~ feestelijke activiteiten
 43Ak3|Muziek en lied ~ feestelijke activiteiten
 43Ak4|dansen ~ feestelijke activiteiten
