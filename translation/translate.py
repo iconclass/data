@@ -18,16 +18,20 @@ def translate(file_name_to_translate, target_file_name):
 
     for line in read_lines(file_name_to_translate):
         if processed >= existing_translations:
-            parts = line.split('|', maxsplit=2)
-            translation = chat_gpt.translate(parts[1])
-            append(f'{parts[0]}|{translation}', target_file_name)
-            print(parts[1], ' --> ', translation)
+            if line == '':
+                append(f'', target_file_name)
+                print('(empty line)')
+            else:
+                parts = line.split('|', maxsplit=2)
+                translation = chat_gpt.translate(parts[1])
+                append(f'{parts[0]}|{translation}', target_file_name)
+                print(processed + 1, '|', parts[1], ' --> ', translation)
         processed += 1
 
 
 if __name__ == '__main__':
-    # text = "water (one of the four elements)"
+    # text = "comic strip, 'bande dessinée' - MM - book open"
     # print(chat_gpt.translate(text))
-    file = 'txt_en_2_3.txt'
+    file = 'txt_en_shakespeare.txt'
     translate(f'../txt/en/{file}', f'../txt/nl/BK_{file}')
 
