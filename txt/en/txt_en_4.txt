@@ -2709,6 +2709,7 @@
 44G|law and jurisprudence
 44G0|symbols and allegories of jurisprudence
 44G01|symbols and allegories of law; 'Legge', 'Legge civile' (Ripa)
+44G011|touching or holding a book during a trial
 44G02|'Rechtsdenkmäler'
 44G03|symbols of the lawsuit
 44G1|administration of justice, trial

@@ -2648,6 +2648,7 @@
 44G|lei e jurisprudência
 44G0|símbolos e alegorias da jurisprudência
 44G01|símbolos e alegorias da lei; "Legge", "Legge civile" (Ripa)
+44G011|tocar ou segurar um livro durante o julgamento
 44G02|"Rechtsdenkmäler" 
 44G03|símbolos do processo e acção judicial
 44G1|administração da justiça, julgamento
