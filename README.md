@@ -1,5 +1,11 @@
 # ICONCLASS
 
+Please use the following to cite:
+
+```
+H. van de Waal, Iconclass, an iconographic classification system. Completed and edited by L.D. Couprie, E. Tholen & G. Vellekoop. (Amsterdam, 1972-1985). online edition by E. Posthumus & J.P.J. Brandhorst, 2024. https://iconclass.org/
+```
+
 [![DOI](https://zenodo.org/badge/350851584.svg)](https://zenodo.org/badge/latestdoi/350851584)
 
 A multilingual subject classification system for cultural content
