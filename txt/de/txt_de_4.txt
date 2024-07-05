@@ -2709,7 +2709,7 @@
 44G|Gesetz und Rechtsprechung
 44G0|Symbole und Allegorien der Rechtsprechung
 44G01|Symbole und Allegorien des Gesetzes; Ripa: Legge, Legge civile
-44G011|ein Buch berühren oder festhalten während eines Prozesses
+44G011|ein Buch berühren oder festhalten
 44G02|Rechtsdenkmäler
 44G03|Symbole des (Gerichts-)Prozesses
 44G1|Justizverwaltung, Prozeß
