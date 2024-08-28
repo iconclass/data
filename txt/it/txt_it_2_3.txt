@@ -931,6 +931,7 @@
 25F41(LIZARD)|lacertidi: lucertola
 25F42|serpenti
 25F42(...)|serpenti (col NOME)
+25F42(ADDER)|serpenti: vipera berus
 25F42(VIPER)|serpenti: vipera
 25F43|coccodrilli
 25F43(...)|coccodrilli (col NOME)
@@ -1269,6 +1270,7 @@
 25FF412|salamandra (animale fantastico); la salamandra come spirito del fuoco
 25FF42|animali fantastici ~ serpenti (aspide, drago, hidrus, ecc.)
 25FF42(...)|serpenti (col NOME) - FF - animali fantastici
+25FF42(ADDER)|serpenti: vipera berus - FF - animali fantastici
 25FF42(VIPER)|serpenti: vipera - FF - animali fantastici
 25FF421|aspide
 25FF422|drago (grande serpente favoloso, talvolta con ali e zampe)

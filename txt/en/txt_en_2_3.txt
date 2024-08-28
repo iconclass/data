@@ -931,6 +931,7 @@
 25F41(LIZARD)|lizards: lizard
 25F42|snakes
 25F42(...)|snakes (with NAME)
+25F42(ADDER)|snakes: adder
 25F42(VIPER)|snakes: viper
 25F43|crocodiles
 25F43(...)|crocodiles (with NAME)
@@ -1270,6 +1271,7 @@
 25FF412|salamander (fabulous animal); salamander as spirit of fire
 25FF42|fabulous animals ~ snakes (aspic, dragon, hydrus, hydra, amphisbaena, horned snake, cerastes)
 25FF42(...)|snakes (with NAME) - FF - fabulous animals
+25FF42(ADDER)|snakes: adder - FF - fabulous animals
 25FF42(VIPER)|snakes: viper - FF - fabulous animals
 25FF421|aspic
 25FF422|dragon (large fabulous serpent, sometimes with wings and legs)

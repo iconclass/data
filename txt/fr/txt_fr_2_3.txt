@@ -931,6 +931,7 @@
 25F41(LIZARD)|reptiles sauriens : lézard
 25F42|serpents
 25F42(...)|serpents (avec NOM)
+25F42(ADDER)|serpents: vipère péliade
 25F42(VIPER)|serpents : vipère
 25F43|crocodiles
 25F43(...)|crocodiles (avec NOM)
@@ -1269,6 +1270,7 @@
 25FF412|salamandre (animal fabuleux); la salamandre comme génie du feu
 25FF42|animaux fabuleux ~ serpents (aspic, dragon, hydrus, hydre, amphisbène, serpent à cornes, céraste)
 25FF42(...)|serpents (avec NOM) - FF - animaux fabuleux
+25FF42(ADDER)|serpents: vipère péliade - FF - animaux fabuleux
 25FF42(VIPER)|serpents : vipère - FF - animaux fabuleux
 25FF421|aspic
 25FF422|dragon (grand serpent, parfois avec des ailes et des pattes)

@@ -909,6 +909,7 @@
 25F41(LIZARD)|lagartos: lagarto
 25F42|cobras
 25F42(...)|cobras (com NOME)
+25F42(ADDER)|cobras: víbora europeia comum
 25F42(VIPER)|cobras: víbora
 25F43|crocodilos
 25F43(...)|crocodilos (com NOME)
@@ -1243,6 +1244,7 @@
 25FF412|salamandra (animal fantástico); salamandra como espírito de fogo
 25FF42|animais fantásticos ~ serpentes (vibora-áspide, dragão, "hydrus", hidra, anfisbena, serpente-cornuda , "cerastes" (víbora-cornuda))
 25FF42(...)|serpentes (com NOME) - FF - animais fantásticos
+25FF42(ADDER)|serpentes: víbora  europeia comum - FF - animais fantásticos
 25FF42(VIPER)|serpentes: víbora - FF - animais fantásticos
 25FF421|vibora-áspide
 25FF422|dragão (serpente fabulosa grande, por vezes com asas e pernas)

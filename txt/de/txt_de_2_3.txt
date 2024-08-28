@@ -931,6 +931,7 @@
 25F41(LIZARD)|Eidechsen: Berg-, Waldeidechse
 25F42|Schlangen
 25F42(...)|Schlangen (mit NAMEN)
+25F42(ADDER)|Schlangen: Kreuzotter
 25F42(VIPER)|Schlangen: Viper
 25F43|Krokodile
 25F43(...)|Krokodile (mit NAMEN)
@@ -1269,6 +1270,7 @@
 25FF412|Salamander als Fabeltier; Salamander als Feuergeist
 25FF42|Schlangen als Fabeltiere (Viper, Drache, Hydrus, Hydra, Amphisbaena, gehörnte Schlange, Hornviper)
 25FF42(...)|Schlangen (mit NAMEN) - FF - Fabeltiere
+25FF42(ADDER)|Schlangen: Kreuzotter - FF - Fabeltiere
 25FF42(VIPER)|Schlangen: Viper - FF - Fabeltiere
 25FF421|Viper
 25FF422|Drache (lange Schlange als Fabeltier; manchmal mit Flügeln und Beinen)
