@@ -27053,6 +27053,13 @@
 12NN52(...)|Confucius
 12O|Japanese religion
 12O|Shinto
+12O13|demi-god
+12O13|demi-goddess
+12O13|goddess
+12O13|gods
+12O13|hero
+12O13|heroine
+12O13|kami
 12O2|rite
 12O21|cult
 12O21|devotion
