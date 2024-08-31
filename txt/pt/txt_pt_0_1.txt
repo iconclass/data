@@ -11804,6 +11804,43 @@ Pedro, etc.) - DD - Cristo sem barba"
 12NN62|altar ~ religiões tradicionais chinesas - NN - ao ar livre
 12NN63|estátuas, pinturas, etc. ~ objectos de culto (religiões tradicionais chinesas) - NN - ao ar livre
 12O|xintoísmo
+12O1|representação de conceitos e ideias xintoístas
+12O10|personificações ou símbolos xintoístas
+12O11|representação de ideias gerais xintoístas
+12O12|ser supremo, criador, etc. ~ xintoísmo
+12O13|representações ~ deuses, semideuses, xintoístas, etc.
+12O13(...)|representações ~ deuses, semideuses, xintoístas, etc. (com NOME)
+12O13(...)1|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - primeiros anos da vida, juventude da divindade xintoísta
+12O13(...)11|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - nascimento da divindade xintoísta
+12O13(...)12|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - infância, educação da divindade xintoísta
+12O13(...)2|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - relações amorosas da divindade xintoísta
+12O13(...)3|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - principais acções da divindade xintoísta
+12O13(...)4|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - actividades e relacionamentos hostis da divindade xintoísta
+12O13(...)5|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - actividades e relacionamentos neutros ou amigáveis da divindade xintoísta
+12O13(...)6|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - sofrimento, infortúnio da divindade xintoísta
+12O13(...)68|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - morte da divindade xintoísta
+12O13(...)69|rrepresentações ~ deuses, semideuses, xintoístas, etc. (com NOME) - apoteose, deificação da divindade xintoísta
+12O13(...)7|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - iconografia específica, aspectos alegóricos da divindade xintoísta
+12O13(...)78|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - triunfo da divindade xintoísta
+12O13(...)79|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - venerando, honrando a divindade xintoísta
+12O13(...)8|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - atributos da divindade xintoísta
+12O13(...)9|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - descendência, companheiro(s), sucessão etc. da divindade xintoísta
+12OO13(...)|representações ~ deuses, semideuses, xintoístas, etc. (com NOME)
+12OO13(...)1|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - primeiros anos da vida, juventude da divindade xintoísta
+12OO13(...)11|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - nascimento da divindade xintoísta
+12OO13(...)12|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - infância, educação da divindade xintoísta
+12OO13(...)2|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - relações amorosas da divindade xintoísta
+12OO13(...)3|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - principais acções da divindade xintoísta
+12OO13(...)4|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - actividades e relacionamentos hostis da divindade xintoísta
+12OO13(...)5|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - actividades e relacionamentos neutros ou amigáveis da divindade xintoísta
+12OO13(...)6|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - sofrimento, infortúnio da divindade xintoísta
+12OO13(...)68|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - morte da divindade xintoísta
+12OO13(...)69|rrepresentações ~ deuses, semideuses, xintoístas, etc. (com NOME) - apoteose, deificação da divindade xintoísta
+12OO13(...)7|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - iconografia específica, aspectos alegóricos da divindade xintoísta
+12OO13(...)78|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - triunfo da divindade xintoísta
+12OO13(...)79|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - venerando, honrando a divindade xintoísta
+12OO13(...)8|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - atributos da divindade xintoísta
+12OO13(...)9|representações ~ deuses, semideuses, xintoístas, etc. (com NOME) - descendência, companheiro(s), sucessão etc. da divindade xintoísta
 12O2|práticas rituais ~ xintoísmo
 12O21|culto e devoção ~ xintoísmo
 12O211|oração ~ xintoísmo

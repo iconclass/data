@@ -11778,6 +11778,44 @@
 12NN62|der Altar in den traditionellen chinesischen Religionen - NN - im Freien
 12NN63|Statuen, Bilder etc. als Kultgegenstände in den traditionellen chinesischen Religionen - NN - im Freien
 12O|der Shintoismus
+12O1|die Visualisierung von Konzeptionen und Ideen im Shintoismus
+12O10|Personifikation oder symbolische Darstellung im Shintoismus
+12O11|allgemeine Ideen des Shintoismus
+12O12|höchstes Wesen, Schöpfer etc. im Shintoismus
+12O13|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc.
+12O13(...)|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN)
+12O13(...)1|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Kindheit und Jugend eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)11|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - die Geburt eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)12|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - die frühe Kindheit und Erziehung eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)2|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Liebesaffären eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)3|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - die wichtigsten Taten eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)4|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - aggressive, unfreundliche Aktivitäten und Beziehungen eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)5|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - nicht-aggressive, freundliche oder neutrale Aktivitäten und Beziehungen eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)6|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Leiden, Unglück eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)68|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - der Tod eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)69|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Apotheose, Vergottung eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)7|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - spezifische, z.B. allegorische Aspekte eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)78|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Triumph eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)79|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Anbetung, Ehrung eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)8|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Attribute eines (einer) Shintoistischen Gottes (Göttin)
+12O13(...)9|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Nachkommenschaft, Gefährte(n), Gefolge etc. eines (einer) Shintoistischen Gottes (Göttin)
+12OO13|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc.
+12OO13(...)|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN)
+12OO13(...)1|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Kindheit und Jugend eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)11|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - die Geburt eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)12|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - die frühe Kindheit und Erziehung eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)2|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Liebesaffären eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)3|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - die wichtigsten Taten eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)4|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - aggressive, unfreundliche Aktivitäten und Beziehungen eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)5|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - nicht-aggressive, freundliche oder neutrale Aktivitäten und Beziehungen eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)6|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Leiden, Unglück eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)68|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - der Tod eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)69|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Apotheose, Vergottung eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)7|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - spezifische, z.B. allegorische Aspekte eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)78|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Triumph eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)79|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Anbetung, Ehrung eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)8|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Attribute eines (einer) Shintoistischen Gottes (Göttin)
+12OO13(...)9|Darstellungen Shintoistischer Götter, Halbgötter, Helden etc. (mit NAMEN) - Nachkommenschaft, Gefährte(n), Gefolge etc. eines (einer) Shintoistischen Gottes (Göttin)
 12O2|rituelle Praktiken im Shintoismus
 12O21|Kult und Verehrung im Shintoismus
 12O211|das Gebet im Shintoismus

@@ -11777,15 +11777,52 @@
 12NN52(...)|veggente, profeta (col NOME) ~ religioni tradizionali cinesi - NN - profetessa
 12NN62|altare ~ religioni tradizionali cinesi - NN - altare all'aperto
 12NN63|statue, dipinti, ecc. ~ oggetti di culto (religioni tradizionali cinesi) - NN - statue, dipinti, ecc. all'aperto
-12O|scintoismo
-12O2|pratiche rituali ~ scintoismo
-12O21|culto e devozione ~ scintoismo
-12O211|preghiera ~ scintoismo
-12O5|funzionari religiosi ~ scintoismo
-12O51|sacerdote ~ scintoismo
-12O6|luoghi e oggetti di culto ~ scintoismo
-12O61|tempio, santuario ~ scintoismo
-12OO51|sacerdote ~ scintoismo - OO - sacerdotessa
+12O|shintoismo
+12O1|raffigurazioni di concetti e idee shintoiste ~ religioni non cristiani
+12O10|personificazioni o simboli shintoiste
+12O11|rappresentazioni ~ idee generali shintoiste
+12O12|essere supremo, creatore, ecc. ~ Shintoismo
+12O13|rappresentazioni ~ divinità, semidei, eroi, ecc. shintoiste
+12O13(...)|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)
+12O13(...)1|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- primo periodo della vita di divinità shintoista
+12O13(...)11|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- nascita di divinità shintoista
+12O13(...)12|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- infanzia, educazione di divinità shintoista
+12O13(...)2|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- relazione amorose di divinità shintoista
+12O13(...)3|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- fatti e gesta principali di divinità shintoista
+12O13(...)4|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- attività e rapporti aggressivi di divinità shintoista
+12O13(...)5|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- attività e rapporti amichevoli o neutrali di divinità shintoista
+12O13(...)6|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- sofferenze, avversità di divinità shintoista
+12O13(...)68|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- morte di divinità shintoista
+12O13(...)69|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- apoteosi, deificazione di divinità shintoista
+12O13(...)7|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- iconografie specifiche o allegorie di divinità shintoista
+12O13(...)78|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- trionfo di divinità shintoista
+12O13(...)79|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- venerazione di divinità shintoista
+12O13(...)8|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- attributi di divinità shintoista
+12O13(...)9|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- discendenza, compagno/i, successione, ecc. di divinità shintoista
+12OO13(...)|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)
+12OO13(...)1|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- primo periodo della vita di divinità shintoista
+12OO13(...)11|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- nascita di divinità shintoista
+12OO13(...)12|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- infanzia, educazione di divinità shintoista
+12OO13(...)2|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- relazione amorose di divinità shintoista
+12OO13(...)3|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- fatti e gesta principali di divinità shintoista
+12OO13(...)4|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- attività e rapporti aggressivi di divinità shintoista
+12OO13(...)5|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- attività e rapporti amichevoli o neutrali di divinità shintoista
+12OO13(...)6|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- sofferenze, avversità di divinità shintoista
+12OO13(...)68|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- morte di divinità shintoista
+12OO13(...)69|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- apoteosi, deificazione di divinità shintoista
+12OO13(...)7|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- iconografie specifiche o allegorie di divinità shintoista
+12OO13(...)78|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- trionfo di divinità shintoista
+12OO13(...)79|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- venerazione di divinità shintoista
+12OO13(...)8|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- attributi di divinità shintoista
+12OO13(...)9|rappresentazioni ~ dei, semidei, eroi shintoiste (col NOME)- discendenza, compagno/i, successione, ecc. di divinità shintoista
+12O2|pratiche rituali ~ shintoismo
+12O21|culto e devozione ~ shintoismo
+12O211|preghiera ~ shintoismo
+12O5|funzionari religiosi ~ shintoismo
+12O51|sacerdote ~ shintoismo
+12O6|luoghi e oggetti di culto ~ shintoismo
+12O61|tempio, santuario ~ shintoismo
+12OO51|sacerdote ~ shintoismo - OO - sacerdotessa
 12P|religioni tribali dell'Asia sud-orientale
 12Q|religioni tribali africane
 12Q2|pratiche rituali ~ religioni tribali africane

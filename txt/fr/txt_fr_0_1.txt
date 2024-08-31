@@ -11778,6 +11778,44 @@
 12NN62|autel ~ religions traditionnelles chinoises - NN - en plein air
 12NN63|statues, peintures, etc. ~ objets de culte (religions traditionnelles chinoises) - NN - en plein air
 12O|Shintoïsme
+12O1|concepts et idées shintoïstes visualisés
+12O10|religion shintoïste personnifiée ou symbolisée
+12O11|idées shintoïstes générales
+12O12|être suprême, créateur, etc. ~ Shintoïsme
+12O13|représentations ~ dieux, demi-dieux, héros, etc. (religions shintoïstes)
+12O13(...)|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM)
+12O13(...)1|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - première période de la vie, petite enfance d'une divinités shintoïste
+12O13(...)11|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - naissance d'une divinité shintoïste
+12O13(...)12|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - petite enfance, éducation d'une divinité shintoïste
+12O13(...)2|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - les amours d'une divinité shintoïste
+12O13(...)3|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - exploits majeurs d'une divinité shintoïste
+12O13(...)4|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - activités et relations agressives d'une divinité shintoïste
+12O13(...)5|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - activités et relations non-agressives, amicales ou neutres d'une divinité shintoïste
+12O13(...)6|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - souffrance, mésaventures d'une divinité shintoïste
+12O13(...)68|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - mort d'une divinité shintoïste
+12O13(...)69|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - apothéose, déification d'une divinité shintoïste
+12O13(...)7|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - aspects spécifiques, allégoriques d'une divinité shintoïste
+12O13(...)78|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - triomphe d'une divinité shintoïste
+12O13(...)79|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - vénération, adoration d'une divinité shintoïste
+12O13(...)8|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - attributs de divinités shintoïstes
+12O13(...)9|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - descendants, compagnons, suite, etc. de divinités shintoïstes
+12OO13|représentations ~ dieux, demi-dieux, héros, etc. (religions shintoïstes)
+12OO13(...)|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM)
+12OO13(...)1|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - première période de la vie, petite enfance d'une divinités shintoïste
+12OO13(...)11|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - naissance d'une divinité shintoïste
+12OO13(...)12|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - petite enfance, éducation d'une divinité shintoïste
+12OO13(...)2|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - les amours d'une divinité shintoïste
+12OO13(...)3|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - exploits majeurs d'une divinité shintoïste
+12OO13(...)4|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - activités et relations agressives d'une divinité shintoïste
+12OO13(...)5|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - activités et relations non-agressives, amicales ou neutres d'une divinité shintoïste
+12OO13(...)6|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - souffrance, mésaventures d'une divinité shintoïste
+12OO13(...)68|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - mort d'une divinité shintoïste
+12OO13(...)69|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - apothéose, déification d'une divinité shintoïste
+12OO13(...)7|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - aspects spécifiques, allégoriques d'une divinité shintoïste
+12OO13(...)78|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - triomphe d'une divinité shintoïste
+12OO13(...)79|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - vénération, adoration d'une divinité shintoïste
+12OO13(...)8|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - attributs de divinités shintoïstes
+12OO13(...)9|représentations de dieux, demi-dieux, héros, etc.  shintoïstes (avec NOM) - descendants, compagnons, suite, etc. de divinités shintoïstes
 12O2|rites et pratiques ~ Shintoïsme
 12O21|adoration et dévotion ~ Shintoïsme
 12O211|prière ~ Shintoïsme
