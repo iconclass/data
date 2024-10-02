@@ -56,7 +56,7 @@
 11B52|'Quinity', Quinità, la Trinità con la Madonna col Bambino)
 11C|Dio Padre
 11C1|simboli di Dio Padre
-11C11|occhio que vede tutto, occhio iscritto in un triangolo ~ simbolo di Dio Padre
+11C11|occhio che vede tutto, occhio iscritto in un triangolo ~ simbolo di Dio Padre
 11C12|mano di Dio, 'Dextera Dei' ~ simbolo di Dio Padre
 11C13|tetragramma (in caratteri romani o ebraici) ~ simbolo di Dio Padre
 11C14|(colonna di) fuoco ~ simbolo di Dio Padre
@@ -211,7 +211,7 @@
 11D3371|Cristo a cavallo mentre guida un esercito di cavalieri, 'Militia Christi'
 11D34|Cristo adulto ~ concettualizzazioni
 11D35|tipologie specifiche del Cristo crocifisso (non in contesto narrativo)
-11D351|Cristo sofferente (con la corona di spine, il capo generalmente reclinato da un lato, 'Christus patients')
+11D351|Cristo sofferente (con la corona di spine, il capo generalmente reclinato da un lato, 'Christus patiens')
 11D352|Cristo ricoperto di piaghe della peste, 'Pestkruzifixus'
 11D353|Cristo trionfante (con la corona di spine, il capo generalmente eretto, 'Christus triumphans')
 11D354|Cristo si stacca dalla croce per abbracciare qualcuno
@@ -2668,7 +2668,7 @@
 11H(FRANCIS)36|devozione privata di San Francesco d'Assisi - penitenza del santo
 11H(FRANCIS)37|San Francesco d'Assisi in estasi
 11H(FRANCIS)4|attività ed episodi non miracolosi ~ San Francesco d'Assisi
-11H(FRANCIS)41|San Francesco d'Asssi in atto di predicare
+11H(FRANCIS)41|San Francesco d'Assisi in atto di predicare
 11H(FRANCIS)411|San Francesco d'Assisi predica davanti al Sultano d'Egitto; per convertirlo il Sultano il santo è pronto a camminare attraverso il fuoco
 11H(FRANCIS)42|San Francesco d'Assisi ricostruisce la Natività in una grotta a Greccio, con la stalla, il bue e l'asino
 11H(FRANCIS)5|attività ed episodi miracolosi ~ San Francesco d'Assisi
