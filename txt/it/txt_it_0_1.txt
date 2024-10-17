@@ -6498,7 +6498,7 @@
 11H(VINCENT)65|San Vincenzo viene fatto distendere su cocci che si trasformano in fiori
 11H(VINCENT)68|martirio, sofferenze, avversità, morte di San Vincenzo - morte, letto di morte del santo
 11H(VINCENT)69|maltrattamento del cadavere di San Vincenzo
-11H(VINCENT)691|il cadavere di San Vincenzo è custodito dai corvi che allontano le betie feroci
+11H(VINCENT)691|il cadavere di San Vincenzo è custodito dai corvi che allontano le bestie feroci
 11H(VINCENT)692|il corpo di San Vincenzo è gettato in mare legato a una macina
 11H(VINCENT)693|il corpo di San Vincenzo, galleggiante sull'acqua, è custodito da un corvo
 11H(VINCENT)694|il corpo di San Vincenzo, gettato sulla riva, è sepolto dagli angeli
