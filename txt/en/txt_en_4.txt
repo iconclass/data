@@ -2242,6 +2242,9 @@
 43C9422|group of women (folk dancing)
 43C943|group dancing around someone or something (folk dancing)
 43C95|jigging and jogging, chain dancing in the street
+43C96|proper names of dances
+43C96(...)|proper names of dances (with NAME)
+43C93(TANGO)|proper names of dances: tango
 43CC114|hunter - CC - female hunter, huntress
 43CC1141|assembling, 'départ pour la chasse' - CC - female hunter, huntress
 43CC1142|hunters hunting (N.B.: In 1988-1990 this notation denoted the concept of 43C11421 'hunters resting during the hunt') - CC - female hunter, huntress
