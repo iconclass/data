@@ -2242,6 +2242,9 @@
 43C9422|gruppo di donne (danza popolare)
 43C943|ballo in gruppo intorno a qualcuno o a qualcosa (danza popolare)
 43C95|ballare la giga, sfilare ballando, danza a catena in strada
+43C96|nomi propri di danze
+43C96(...)|nomi propri di danze (col NOME)
+43C96(TANGO)|nomi propri di danze: tango
 43CC114|cacciatore - CC - cacciatrice
 43CC1141|riunione 'départ pour la chasse' - CC - cacciatrice
 43CC1142|cacciatori che cacciano (N.B.: In 1988-1990 il codice denotata il concetto di 43C11421 'cacciatori che riposano durante la caccia') - CC - cacciatrice

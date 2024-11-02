@@ -2185,6 +2185,9 @@
 43C9422|grupo de mulheres (dança popular)
 43C943|grupo dançando em torno de alguém ou de alguma coisa (dança popular)
 43C95|dançar de uma lado para o outro, serpenteando, "fazer o combóio" na rua
+43C96|nomes próprios de danças
+43C96(...)|nomes próprios de danças (com NOME)
+43C96(TANGO)|nomes próprios de danças: tango
 43CC114|caçador - CC - caçadora
 43CC1141|reunião "départ pour la chasse" - CC - caçadora
 43CC1142|caçadores caçando (N.B.: em 1988-1990 este código indicava o conceito do código 43C11421 "caçadores repousando durante a caça") - CC - caçadora

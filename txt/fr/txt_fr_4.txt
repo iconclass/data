@@ -2243,6 +2243,9 @@
 43C9422|groupe de femmes (danse folklorique)
 43C943|danses en groupe autour de quelqu'un ou de quelque chose (danse folklorique)
 43C95|se trémousser, danser la gigue, faire la chaîne en rue
+43C96|noms propres des danses
+43C96(...)|noms propres des danses (avec NOM)
+43C96(TANGO)|noms propres des danses: tango
 43CC114|chasseur - CC - chasseuse
 43CC1141|rassemblement des chasseurs, départ pour la chasse - CC - chasseuse
 43CC1142|chasseurs chassant (N.B. 1988-1990 cette notation indiquait le concept de 43C11421 'chasseurs se reposant durant la chasse') - CC - chasseuse

@@ -11799,23 +11799,23 @@
 12O13(...)79|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - veneration, honouring of Shinto god or goddess
 12O13(...)8|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - attributes of Shinto god or goddess
 12O13(...)9|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - offspring, companion(s), train, etc. of Shinto god or goddess
-12OO13|representations ~ Shinto gods, demi-gods, heroes, etc.
-12OO13(...)|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME)
-12OO13(...)1|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - early life, prime youth of Shinto god or goddess
-12OO13(...)11|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - birth of Shinto god or goddess
-12OO13(...)12|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - infancy, upbringing of Shinto god or goddess
-12OO13(...)2|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - love-affairs of Shinto god or goddess
-12OO13(...)3|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - most important deeds of Shinto god or goddess
-12OO13(...)4|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - aggressive, unfriendly activities and relationships of Shinto god or goddess
-12OO13(...)5|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - non-aggressive, friendly or neutral activities and relationships of Shinto god or goddess
-12OO13(...)6|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - suffering, misfortune of Shinto god or goddess
-12OO13(...)68|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - death of Shinto god or goddess
-12OO13(...)69|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - apotheosis, deification of Shinto god or goddess
-12OO13(...)7|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - specific aspects, allegorical aspects of Shinto god or goddess
-12OO13(...)78|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - triumph of Shinto god or goddess
-12OO13(...)79|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - veneration, honouring of Shinto god or goddess
-12OO13(...)8|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - attributes of Shinto god or goddess
-12OO13(...)9|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - offspring, companion(s), train, etc. of Shinto god or goddess
+12OO13|representations ~ Shinto goddesses, demi-goddesses, heroines, etc. - OO - goddesses, demi-goddesses, heroines
+12OO13(...)|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines
+12OO13(...)1|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines -  early life, prime youth of Shinto god or goddess
+12OO13(...)11|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - birth of Shinto god or goddess
+12OO13(...)12|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - infancy, upbringing of Shinto god or goddess
+12OO13(...)2|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - love-affairs of Shinto god or goddess
+12OO13(...)3|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME)  - OO - goddesses, demi-goddesses, heroines - most important deeds of Shinto god or goddess
+12OO13(...)4|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME)  - OO - goddesses, demi-goddesses, heroines - aggressive, unfriendly activities and relationships of Shinto god or goddess
+12OO13(...)5|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME)  - OO - goddesses, demi-goddesses, heroines - non-aggressive, friendly or neutral activities and relationships of Shinto god or goddess
+12OO13(...)6|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - suffering, misfortune of Shinto god or goddess
+12OO13(...)68|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - death of Shinto god or goddess
+12OO13(...)69|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME)  - OO - goddesses, demi-goddesses, heroines - apotheosis, deification of Shinto god or goddess
+12OO13(...)7|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - specific aspects, allegorical aspects of Shinto god or goddess
+12OO13(...)78|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - triumph of Shinto god or goddess
+12OO13(...)79|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - veneration, honouring of Shinto god or goddess
+12OO13(...)8|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - attributes of Shinto god or goddess
+12OO13(...)9|representations ~ Shinto gods, demi-gods, heroes, etc. (with NAME) - OO - goddesses, demi-goddesses, heroines - offspring, companion(s), train, etc. of Shinto god or goddess
 12O2|ritual practices ~ Shinto
 12O21|worship and devotion ~ Shinto
 12O211|prayer ~ Shinto

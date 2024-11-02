@@ -2242,6 +2242,9 @@
 43C9422|Volkstanz von Frauen
 43C943|Gruppentanz um jemanden oder etwas herum (Volkstanz)
 43C95|Jig (Gigue): Hüpf- und Reihentanz auf der Straße
+43C96|Eigennamen von Tänzen
+43C96(...)|Eigennamen von Tänzen (mit NAMEN)
+43C96(TANGO)|Eigennamen von Tänzen: tango
 43CC114|Jäger - CC - Jägerin
 43CC1141|Versammlung der Jäger vor der Jagd; départ pour la chasse - CC - Jägerin
 43CC1142|Jäger bei der Jagd (N.B. 1988-1990 diese Notation bezeichnete dem Konzept 43C11421 'Jäger bei der Rast') - CC - Jägerin
