@@ -6531,6 +6531,7 @@
 73F223611|Paolo e altri quattro uomini si purificano
 73F22362|Paolo è trascinato fuori dal tempio dai Giudei; è salvato dai soldati che lo arrestano e lo portano via
 73F223621|Paolo parla alla folla dalle scale
+73F2236211|Paolo racconta della sua prima formazione ’ai piedi di Gamaliele'
 73F223622|nel momento in cui lo stanno per fustigare Paolo si dichiara cittadino romano
 73F22363|Paolo davanti al sommo sacerdote Anania e al Sinedrio
 73F223631|dissenso tra Farisei e Sadducei

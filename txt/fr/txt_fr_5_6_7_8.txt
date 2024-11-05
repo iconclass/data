@@ -6530,6 +6530,7 @@
 73F223611|Paul se purifie avec quatre autres hommes
 73F22362|Paul est traîné hors du temple par les Juifs; il est sauvé par des soldats qui l'appréhende et l'emmène
 73F223621|Paul s'adresse à la foule depuis les marches de l'escalier
+73F2236211|Paul raconte sa première formation 'aux pieds de Gamaliel'
 73F223622|comme il est sur le point d'être fouetté, Paul dit qu'il est un citoyen romain
 73F22363|Paul devant le grand prêtre Ananias et le Sanhédrin
 73F223631|désaccord entre les Pharisiens et les Sadducéens
