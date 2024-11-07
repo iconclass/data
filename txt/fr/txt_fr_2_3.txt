@@ -777,6 +777,7 @@
 25F23(ERMINE)|animaux prédateurs : hermine
 25F23(FERRET)|animaux prédateurs : furet
 25F23(FOX)|animaux prédateurs : renard
+25F23(GENET)|animaux prédateurs : genette
 25F23(HYENA)|animaux prédateurs : hyène
 25F23(ICHNEUMON)|animaux prédateurs : ichneumon
 25F23(LEOPARD)|animaux prédateurs : léopard
@@ -1082,6 +1083,7 @@
 25FF23(ERMINE)|animaux prédateurs : hermine - FF - animaux fabuleux
 25FF23(FERRET)|animaux prédateurs : furet - FF - animaux fabuleux
 25FF23(FOX)|animaux prédateurs : renard - FF - animaux fabuleux
+25FF23(GENET)|animaux prédateurs : genette - FF - animaux fabuleux
 25FF23(HYENA)|animaux prédateurs : hyène - FF - animaux fabuleux
 25FF23(ICHNEUMON)|animaux prédateurs : ichneumon - FF - animaux fabuleux
 25FF23(LEOPARD)|animaux prédateurs : léopard - FF - animaux fabuleux

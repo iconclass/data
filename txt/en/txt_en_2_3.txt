@@ -777,6 +777,7 @@
 25F23(ERMINE)|beasts of prey, predatory animals: ermine
 25F23(FERRET)|beasts of prey, predatory animals: ferret
 25F23(FOX)|beasts of prey, predatory animals: fox
+25F23(GENET)|beasts of prey, predatory animals: genet
 25F23(HYENA)|beasts of prey, predatory animals: hyena
 25F23(ICHNEUMON)|beasts of prey, predatory animals: ichneumon
 25F23(LEOPARD)|beasts of prey, predatory animals: leopard
@@ -1082,6 +1083,7 @@
 25FF23(ERMINE)|beasts of prey, predatory animals: ermine - FF - fabulous animals
 25FF23(FERRET)|beasts of prey, predatory animals: ferret - FF - fabulous animals
 25FF23(FOX)|beasts of prey, predatory animals: fox - FF - fabulous animals
+25FF23(GENET)|beasts of prey, predatory animals: genet - FF - fabulous animals
 25FF23(HYENA)|beasts of prey, predatory animals: hyena - FF - fabulous animals
 25FF23(ICHNEUMON)|beasts of prey, predatory animals: ichneumon - FF - fabulous animals
 25FF23(LEOPARD)|beasts of prey, predatory animals: leopard - FF - fabulous animals

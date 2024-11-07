@@ -777,6 +777,7 @@
 25F23(ERMINE)|Raubtiere: Hermelin
 25F23(FERRET)|Raubtiere: Frettchen
 25F23(FOX)|Raubtiere: Fuchs
+25F23(GENET)|Raubtiere: Ginsterkatzen
 25F23(HYENA)|Raubtiere: Hyäne
 25F23(ICHNEUMON)|Raubtiere: Ichneumon, Mungo
 25F23(LEOPARD)|Raubtiere: Leopard
@@ -1082,6 +1083,7 @@
 25FF23(ERMINE)|Raubtiere: Hermelin - FF - Fabeltiere
 25FF23(FERRET)|Raubtiere: Frettchen - FF - Fabeltiere
 25FF23(FOX)|Raubtiere: Fuchs - FF - Fabeltiere
+25FF23(GENET)|Raubtier: Ginsterkatzen - FF - Fabeltiere
 25FF23(HYENA)|Raubtiere: Hyäne - FF - Fabeltiere
 25FF23(ICHNEUMON)|Raubtiere: Ichneumon, Mungo - FF - Fabeltiere
 25FF23(LEOPARD)|Raubtiere: Leopard - FF - Fabeltiere

@@ -777,6 +777,7 @@
 25F23(ERMINE)|predatori, rapaci: ermellino
 25F23(FERRET)|predatori, rapaci: furetto
 25F23(FOX)|predatori, rapaci: volpe
+25F23(GENET)|predatori, rapaci: genetta
 25F23(HYENA)|predatori, rapaci: iena
 25F23(ICHNEUMON)|predatori, rapaci: icneumone
 25F23(LEOPARD)|predatori, rapaci: leopardo
@@ -1082,6 +1083,7 @@
 25FF23(ERMINE)|predatori, rapaci: ermellino - FF - animali fantastici
 25FF23(FERRET)|predatori, rapaci: furetto - FF - animali fantastici
 25FF23(FOX)|predatori, rapaci: volpe - FF - animali fantastici
+25FF23(GENET)|predatori, rapaci: genetta - FF - animali fantastici
 25FF23(HYENA)|predatori, rapaci: iena - FF - animali fantastici
 25FF23(ICHNEUMON)|predatori, rapaci: icneumone - FF - animali fantastici
 25FF23(LEOPARD)|predatori, rapaci: leopardo - FF - animali fantastici

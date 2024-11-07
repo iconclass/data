@@ -761,6 +761,7 @@
 25F23(ERMINE)|carnívoros, predadores: arminho
 25F23(FERRET)|carnívoros, predadores: furão
 25F23(FOX)|carnívoros, predadores: raposa
+25F23(GENET)|carnívoros, predadores: genetta
 25F23(HYENA)|carnívoros, predadores: hiena
 25F23(ICHNEUMON)|carnívoros, predadores: sacarrabos, manguço
 25F23(LEOPARD)|carnívoros, predadores: leopardo
@@ -1057,6 +1058,7 @@
 25FF23(ERMINE)|carnívoros, predadores: arminho - FF - animais fantásticos
 25FF23(FERRET)|carnívoros, predadores: furão - FF - animais fantásticos
 25FF23(FOX)|carnívoros, predadores: raposa - FF - animais fantásticos
+25FF23(GENET|carnívoros, predadores: genetta - FF - animais fantásticos
 25FF23(HYENA)|carnívoros, predadores: hiena - FF - animais fantásticos
 25FF23(ICHNEUMON)|carnívoros, predadores: sacarrabos, manguço - FF - animais fantásticos
 25FF23(LEOPARD)|carnívoros, predadores: leopardo - FF - animais fantásticos
