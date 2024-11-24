@@ -2542,6 +2542,7 @@
 44C231|propaganda eleitoral
 44C24|concessão de direito de voto às mulheres, libertação das mulheres
 44C241|"suffragette"
+44C242|feminismo
 44C29|lutas eleitorais
 44C3|política
 44C30|"Politica" (Ripa)

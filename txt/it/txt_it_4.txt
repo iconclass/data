@@ -2603,6 +2603,7 @@
 44C231|propaganda elettorale
 44C24|ammissione al voto delle donne, liberazione delle donne
 44C241|'suffragette'
+44C242|femminismo
 44C29|lotte elettorali
 44C3|politica
 44C30|'Politica' (Ripa)

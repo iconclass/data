@@ -2603,6 +2603,7 @@
 44C231|voting propaganda
 44C24|political enfranchisement of women, women's liberation
 44C241|'suffragette'
+44C242|feminism
 44C29|election fights
 44C3|politics
 44C30|'Politica' (Ripa)

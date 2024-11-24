@@ -2603,6 +2603,7 @@
 44C231|Wahlwerbung, Wahlpropaganda
 44C24|politische Frauenemanzipation, Frauenbewegung
 44C241|Suffragette
+44C242|Feminismus
 44C29|Wahlkämpfe
 44C3|Politik
 44C30|Ripa: Politica
