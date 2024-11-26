@@ -2245,6 +2245,14 @@
 43C95|se trémousser, danser la gigue, faire la chaîne en rue
 43C96|noms propres des danses
 43C96(...)|noms propres des danses (avec NOM)
+43C96(CAN CAN)|noms propres des danses: cancan
+43C96(FANDANGO)|noms propres des danses: fandango
+43C96(FLAMENCO)|noms propres des danses: flamenco
+43C96(GALOP)|noms propres des danses: galop
+43C96(HORA)|noms propres des danses: hora
+43C96(MINUET)|noms propres des danses: menuet
+43C96(POLONAISE)|noms propres des danses: polonaise
+43C96(SARABANDE)|noms propres des danses: sarabande
 43C96(TANGO)|noms propres des danses: tango
 43CC114|chasseur - CC - chasseuse
 43CC1141|rassemblement des chasseurs, départ pour la chasse - CC - chasseuse

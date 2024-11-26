@@ -2244,6 +2244,14 @@
 43C95|ballare la giga, sfilare ballando, danza a catena in strada
 43C96|nomi propri di danze
 43C96(...)|nomi propri di danze (col NOME)
+43C96(CAN CAN)|nomi propri di danze: cancan
+43C96(FANDANGO)|nomi propri di danze: fandango
+43C96(FLAMENCO)|nomi propri di danze: flamenco
+43C96(GALOP)|nomi propri di danze: galop
+43C96(HORA)|nomi propri di danze: hora
+43C96(MINUET)|nomi propri di danze: minuetto
+43C96(POLONAISE)|nomi propri di danze: polonaise
+43C96(SARABANDE)|nomi propri di danze: sarabande
 43C96(TANGO)|nomi propri di danze: tango
 43CC114|cacciatore - CC - cacciatrice
 43CC1141|riunione 'départ pour la chasse' - CC - cacciatrice

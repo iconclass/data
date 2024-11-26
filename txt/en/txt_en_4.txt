@@ -2244,6 +2244,14 @@
 43C95|jigging and jogging, chain dancing in the street
 43C96|proper names of dances
 43C96(...)|proper names of dances (with NAME)
+43C96(CAN CAN)|proper names of dances: cancan
+43C96(FANDANGO)|proper names of dances: fandango
+43C96(FLAMENCO)|proper names of dances: flamenco
+43C96(GALOP)|proper names of dances: galop
+43C96(HORA)|proper names of dances: hora
+43C96(MINUET)|proper names of dances: minuet
+43C96(POLONAISE)|proper names of dances: polonaise
+43C96(SARABANDE)|proper names of dances: 
 43C96(TANGO)|proper names of dances: tango
 43CC114|hunter - CC - female hunter, huntress
 43CC1141|assembling, 'départ pour la chasse' - CC - female hunter, huntress

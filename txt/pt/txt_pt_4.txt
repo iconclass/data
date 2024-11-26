@@ -2187,6 +2187,14 @@
 43C95|dançar de uma lado para o outro, serpenteando, "fazer o combóio" na rua
 43C96|nomes próprios de danças
 43C96(...)|nomes próprios de danças (com NOME)
+43C96(CAN CAN)|nomes próprios de danças: cancã
+43C96(FANDANGO)|nomes próprios de danças: fandango
+43C96(FLAMENCO)|nomes próprios de danças: flamenco
+43C96(GALOP)|nomes próprios de danças: galope
+43C96(HORA)|nomes próprios de danças: hora
+43C96(MINUET)|nomes próprios de danças: minueto
+43C96(POLONAISE)|nomes próprios de danças: polonesa
+43C96(SARABANDE)|nomes próprios de danças: sarabanda
 43C96(TANGO)|nomes próprios de danças: tango
 43CC114|caçador - CC - caçadora
 43CC1141|reunião "départ pour la chasse" - CC - caçadora
