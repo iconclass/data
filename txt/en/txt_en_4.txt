@@ -2244,15 +2244,26 @@
 43C95|jigging and jogging, chain dancing in the street
 43C96|proper names of dances
 43C96(...)|proper names of dances (with NAME)
+43C96(BEDHAYA)|proper names of dances: bedhaya
 43C96(CAN CAN)|proper names of dances: cancan
-43C96(FANDANGO)|proper names of dances: fandango
+43C96(COUNTRY DANCE)|proper names of dances: contredanse
+43C96(FANDANGO)|proper names of dances:  fandago
 43C96(FLAMENCO)|proper names of dances: flamenco
+43C96(FURLANA)|proper names of dances: furlana
 43C96(GALOP)|proper names of dances: galop
 43C96(HORA)|proper names of dances: hora
+43C96(MAZURKA)|proper names of dances: mazurka
 43C96(MINUET)|proper names of dances: minuet
+43C96(POLKA)|proper names of dances: polka
 43C96(POLONAISE)|proper names of dances: polonaise
-43C96(SARABANDE)|proper names of dances: 
+43C96(QUADRILLE)|proper names of dances: quadrille
+43C96(SALTARELLO)|proper names of dances: saltarello
+43C96(SARABANDE)|proper names of dances: sarabande
+43C96(SCHÄFFLERTANZ)|proper names of dances: dance of the coopers
+43C96(SWORD DANCE)|proper names of dances: sword dance
+43C96(TARANTELLA)|proper names of dances: tarantella
 43C96(TANGO)|proper names of dances: tango
+43C96(WALTZ)|proper names of dances: waltz
 43CC114|hunter - CC - female hunter, huntress
 43CC1141|assembling, 'départ pour la chasse' - CC - female hunter, huntress
 43CC1142|hunters hunting (N.B.: In 1988-1990 this notation denoted the concept of 43C11421 'hunters resting during the hunt') - CC - female hunter, huntress

@@ -2244,15 +2244,26 @@
 43C95|Jig (Gigue): Hüpf- und Reihentanz auf der Straße
 43C96|Eigennamen von Tänzen
 43C96(...)|Eigennamen von Tänzen (mit NAMEN)
+43C96(BEDHAYA)|Eigennamen von Tänzen: Bedhaya
 43C96(CAN CAN)|Eigennamen von Tänzen: Cancan
-43C96(FANDANGO)|Eigennamen von Tänzen: Fandango
+43C96(COUNTRY DANCE)|Eigennamen von Tänzen: Contredanse
+43C96(FANDANGO)|Eigennamen von Tänzen:  Fandago
 43C96(FLAMENCO)|Eigennamen von Tänzen: Flamenco
+43C96(FURLANA)|Eigennamen von Tänzen: Furlana
 43C96(GALOP)|Eigennamen von Tänzen: Galopp
 43C96(HORA)|Eigennamen von Tänzen: Hora
+43C96(MAZURKA)|Eigennamen von Tänzen: Mazurka
 43C96(MINUET)|Eigennamen von Tänzen: Menuett
+43C96(POLKA)|Eigennamen von Tänzen: Polka
 43C96(POLONAISE)|Eigennamen von Tänzen: Polonaise
+43C96(QUADRILLE)|Eigennamen von Tänzen: Quadrille
+43C96(SALTARELLO)|Eigennamen von Tänzen: Saltarello
 43C96(SARABANDE)|Eigennamen von Tänzen: Sarabande
+43C96(SCHÄFFLERTANZ)|Eigennamen von Tänzen: Schäfflertanz
+43C96(SWORD DANCE)|Eigennamen von Tänzen: Schwerttanz
+43C96(TARANTELLA)|Eigennamen von Tänzen: Tarantella
 43C96(TANGO)|Eigennamen von Tänzen: Tango
+43C96(WALTZ)|Eigennamen von Tänzen: Walzer
 43CC114|Jäger - CC - Jägerin
 43CC1141|Versammlung der Jäger vor der Jagd; départ pour la chasse - CC - Jägerin
 43CC1142|Jäger bei der Jagd (N.B. 1988-1990 diese Notation bezeichnete dem Konzept 43C11421 'Jäger bei der Rast') - CC - Jägerin

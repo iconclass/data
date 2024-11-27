@@ -2245,15 +2245,26 @@
 43C95|se trémousser, danser la gigue, faire la chaîne en rue
 43C96|noms propres des danses
 43C96(...)|noms propres des danses (avec NOM)
+43C96(BEDHAYA)|noms propres des danses: bedhaya
 43C96(CAN CAN)|noms propres des danses: cancan
-43C96(FANDANGO)|noms propres des danses: fandango
+43C96(COUNTRY DANCE)|noms propres des danses: contredanse
+43C96(FANDANGO)|noms propres des danses:  fandago
 43C96(FLAMENCO)|noms propres des danses: flamenco
+43C96(FURLANA)|noms propres des danses: furlana
 43C96(GALOP)|noms propres des danses: galop
 43C96(HORA)|noms propres des danses: hora
+43C96(MAZURKA)|noms propres des danses: mazurka
 43C96(MINUET)|noms propres des danses: menuet
+43C96(POLKA)|noms propres des danses: polka
 43C96(POLONAISE)|noms propres des danses: polonaise
+43C96(QUADRILLE)|noms propres des danses: quadrille
+43C96(SALTARELLO)|noms propres des danses: saltarello
 43C96(SARABANDE)|noms propres des danses: sarabande
+43C96(SCHÄFFLERTANZ)|noms propres des danses: danse des tonneliers
+43C96(SWORD DANCE)|noms propres des danses: danse avec épées
+43C96(TARANTELLA)|noms propres des danses: tarantella
 43C96(TANGO)|noms propres des danses: tango
+43C96(WALTZ)|noms propres des danses: valse
 43CC114|chasseur - CC - chasseuse
 43CC1141|rassemblement des chasseurs, départ pour la chasse - CC - chasseuse
 43CC1142|chasseurs chassant (N.B. 1988-1990 cette notation indiquait le concept de 43C11421 'chasseurs se reposant durant la chasse') - CC - chasseuse
