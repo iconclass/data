@@ -2263,6 +2263,7 @@
 43C96(SWORD DANCE)|Eigennamen von Tänzen: Schwerttanz
 43C96(TARANTELLA)|Eigennamen von Tänzen: Tarantella
 43C96(TANGO)|Eigennamen von Tänzen: Tango
+43C96(TWIST)|Eigennamen von Tänzen: Twist
 43C96(WALTZ)|Eigennamen von Tänzen: Walzer
 43CC114|Jäger - CC - Jägerin
 43CC1141|Versammlung der Jäger vor der Jagd; départ pour la chasse - CC - Jägerin

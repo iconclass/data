@@ -2264,6 +2264,7 @@
 43C96(SWORD DANCE)|noms propres des danses: danse avec épées
 43C96(TARANTELLA)|noms propres des danses: tarantella
 43C96(TANGO)|noms propres des danses: tango
+43C96(TWIST)|noms propres des danses: twist
 43C96(WALTZ)|noms propres des danses: valse
 43CC114|chasseur - CC - chasseuse
 43CC1141|rassemblement des chasseurs, départ pour la chasse - CC - chasseuse

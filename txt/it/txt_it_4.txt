@@ -2263,6 +2263,7 @@
 43C96(SWORD DANCE)|nomi propri di danze: danza della spada
 43C96(TARANTELLA)|nomi propri di danze: tarantella
 43C96(TANGO)|nomi propri di danze: tango
+43C96(TWIST)|nomi propri di danze: twist
 43C96(WALTZ)|nomi propri di danze: valzer
 43CC114|cacciatore - CC - cacciatrice
 43CC1141|riunione 'départ pour la chasse' - CC - cacciatrice

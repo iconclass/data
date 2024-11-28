@@ -2263,6 +2263,7 @@
 43C96(SWORD DANCE)|proper names of dances: sword dance
 43C96(TARANTELLA)|proper names of dances: tarantella
 43C96(TANGO)|proper names of dances: tango
+43C96(TWIST)|proper names of dances: twist
 43C96(WALTZ)|proper names of dances: waltz
 43CC114|hunter - CC - female hunter, huntress
 43CC1141|assembling, 'départ pour la chasse' - CC - female hunter, huntress
