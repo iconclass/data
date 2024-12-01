@@ -2246,6 +2246,7 @@
 43C96(...)|proper names of dances (with NAME)
 43C96(BEDHAYA)|proper names of dances: bedhaya
 43C96(CAN CAN)|proper names of dances: cancan
+43C96(COTILLION)|proper names of dances: cotillion
 43C96(COUNTRY DANCE)|proper names of dances: contredanse
 43C96(FANDANGO)|proper names of dances:  fandago
 43C96(FLAMENCO)|proper names of dances: flamenco

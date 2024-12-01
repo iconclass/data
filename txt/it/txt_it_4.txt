@@ -2246,6 +2246,7 @@
 43C96(...)|nomi propri di danze (col NOME)
 43C96(BEDHAYA)|nomi propri di danze: bedhaya
 43C96(CAN CAN)|nomi propri di danze: cancan
+43C96(COTILLION)|nomi propri di danze: cotillon
 43C96(COUNTRY DANCE)|nomi propri di danze: contraddanza
 43C96(FANDANGO)|nomi propri di danze:  fandago
 43C96(FLAMENCO)|nomi propri di danze: flamenco

@@ -2246,6 +2246,7 @@
 43C96(...)|Eigennamen von Tänzen (mit NAMEN)
 43C96(BEDHAYA)|Eigennamen von Tänzen: Bedhaya
 43C96(CAN CAN)|Eigennamen von Tänzen: Cancan
+43C96(COTILLION)|Eigennamen von Tänzen: Kotillon
 43C96(COUNTRY DANCE)|Eigennamen von Tänzen: Contredanse
 43C96(FANDANGO)|Eigennamen von Tänzen:  Fandago
 43C96(FLAMENCO)|Eigennamen von Tänzen: Flamenco
