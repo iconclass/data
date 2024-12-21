@@ -2631,6 +2631,7 @@
 44C31|political propaganda
 44C311|political meeting, propaganda meeting
 44C312|political caricatures and satires
+44C313|political posters and billboards
 44C32|war of classes
 44C33|political parties
 44C34|politician, e.g. party leader

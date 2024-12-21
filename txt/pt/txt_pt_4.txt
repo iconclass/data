@@ -2570,6 +2570,7 @@
 44C31|propaganda política
 44C311|comício político, reunião de propaganda
 44C312|caricaturas e sátira política
+44C313|cartazes e outdoors políticos
 44C32|luta de classe
 44C33|partidos políticos
 44C34|político, e.g. líder do partido

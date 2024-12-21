@@ -2631,6 +2631,7 @@
 44C31|propaganda politica
 44C311|riunione politica, riunione di propaganda
 44C312|caricature e satire politiche
+44C313|manifesti e cartelloni politici
 44C32|lotta di classe
 44C33|partiti politici
 44C34|politico, p.es. capo di un partito

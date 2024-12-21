@@ -2631,6 +2631,7 @@
 44C31|politische Propaganda
 44C311|politische Versammlung, Wahlveranstaltung
 44C312|politische Karikaturen und Satiren
+44C313|politische Plakate und Werbetafeln
 44C32|Klassenkampf
 44C33|politische Parteien
 44C34|Politiker, z.B. Parteivorsitzender

@@ -2632,6 +2632,7 @@
 44C31|propagande politique
 44C311|réunion politique, réunion de propagande
 44C312|caricatures et satires politiques
+44C313|affiches et panneaux d'affichage politiques
 44C32|conflit de classes
 44C33|partis politiques
 44C34|politicien, homme politique, p.ex. chef de parti
