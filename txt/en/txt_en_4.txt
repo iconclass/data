@@ -5005,7 +5005,7 @@
 48A724|music-hall
 48A725|cinema, movie-house
 48A726|cabaret (locality)
-48A729|front of house of buildings used for performances
+48A729|front part of house of buildings used for performances
 48A7291|foyer ~ theatre, etc.
 48A7292|auditorium ~ theatre, etc.
 48A7293|stalls ~ theatre, etc.
