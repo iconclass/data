@@ -693,6 +693,9 @@
 56FF21|Indifférence envers l'Amour; 'Oblivione d'amore' (Ripa)
 56FF22|Amour non partagé
 56FF23|Froideur, Hostilité; 'Inimicitia', 'Inimicitia mortale' (Ripa)
+56FF231|Misanthropie
+56FF232|Misogynie
+56FF233|Homophobie
 57|Moralité
 57A|Bonne et Mauvaise Conduite, Qualités Morales
 57A1|Bonne Conduite

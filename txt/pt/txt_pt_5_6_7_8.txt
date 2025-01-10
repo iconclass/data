@@ -686,6 +686,9 @@
 56FF21|indiferença ao amor; "Oblivione d'amore" (Ripa)
 56FF22|amor não correspondido
 56FF23|inimizade; "Inimicitia", "Inimicitia mortale" (Ripa)
+56FF231|misantropia
+56FF232|misoginia
+56FF233|homofobia
 57|moralidade
 57A|bom e mau comportamento, qualidades morais
 57A1|bom comportamento

@@ -693,6 +693,9 @@
 56FF21|Gleichgültigkeit gegenüber der Liebe; Ripa: Oblivione d'amore
 56FF22|unerwiderte Liebe
 56FF23|Feindschaft; Ripa: Inimicitia, Inimicitia mortale
+56FF231|Misanthropie
+56FF232|Misogynie
+56FF233|Homophobie
 57|Moral
 57A|gutes und böses Verhalten, moralische Vorzüge
 57A1|gutes Verhalten

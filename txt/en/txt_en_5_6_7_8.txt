@@ -693,6 +693,9 @@
 56FF21|Indifference towards Love; 'Oblivione d'amore' (Ripa)
 56FF22|Unrequited Love
 56FF23|Enmity; 'Inimicitia', 'Inimicitia mortale' (Ripa)
+56FF231|Misanthropy
+56FF232|Misogyny
+56FF233|Homophobia
 57|Morality
 57A|Good and Bad Behaviour, Moral Qualities
 57A1|Good Behaviour
