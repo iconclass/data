@@ -810,6 +810,7 @@
 41D221(BOWLER)|couvre-chef: chapeau melon
 41D221(CAP)|couvre-chef: casquette
 41D221(CLOCHE HAT)|couvre-chef: cloche
+41D221(ESCOFFION)|couvre-chef: escoffion
 41D221(FONTANGE)|couvre-chef: fontange
 41D221(HAT)|couvre-chef: chapeau
 41D221(HOOD)|couvre-chef: capuchon

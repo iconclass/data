@@ -811,6 +811,7 @@
 41D221(CAP)|Kopfbedeckung: Kappe
 41D221(CLOCHE HAT)|Kopfbedeckung: Topfhut
 41D221(FONTANGE)|Kopfbedeckung: Fontange
+41D221(ESCOFFION)|Kopfbedeckung: Escoffion
 41D221(HAT)|Kopfbedeckung: Hut
 41D221(HOOD)|Kopfbedeckung: Kapuze
 41D221(MORNING CAP)|Kopfbedeckung: Bonnet du matin

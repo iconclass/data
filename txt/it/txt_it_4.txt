@@ -810,6 +810,7 @@
 41D221(BOWLER)|copricapo: bombetta
 41D221(CAP)|copricapo: berretto
 41D221(CLOCHE HAT)|copricapo: cloche
+41D221(ESCOFFION)|copricapo: escoffion
 41D221(FONTANGE)|copricapo: fontange
 41D221(HAT)|copricapo: cappello
 41D221(HOOD)|copricapo: capuccio
