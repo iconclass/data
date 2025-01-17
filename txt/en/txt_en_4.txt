@@ -811,6 +811,7 @@
 41D221(CAP)|head-gear: cap
 41D221(CLOCHE HAT)|head-gear: cloche hat
 41D221(FONTANGE)|head-gear: fontange
+41D221(ESCOFFION)|head-gear: escoffion
 41D221(HAT)|head-gear: hat
 41D221(HOOD)|head-gear: hood
 41D221(MORNING CAP)|head-gear: morning cap
