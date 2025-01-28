@@ -9717,6 +9717,7 @@
 11P315(...)|Ordini monastici ~ Chiesa Cattolica Romana (col NOME dell'Ordine)
 11P315(AUGUSTINIANS)|ordini monastici, la vita monastica: Agostiniani
 11P315(BENEDICTINES)|ordini monastici, la vita monastica: Benedettini
+11P315(CAMALDOLESE)|ordini monastici, la vita monastica: Camaldolesi
 11P315(CARMELITES)|ordini monastici, la vita monastica: Carmelitani
 11P315(CARTHUSIANS)|ordini monastici, la vita monastica: Certosini
 11P315(CISTERCIANS)|ordini monastici, la vita monastica: Cistercensi

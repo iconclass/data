@@ -9717,6 +9717,7 @@
 11P315(...)|Mönchsorden, monastisches Leben in der römisch-katholischen Kirche (mit NAMEN des Ordens)
 11P315(AUGUSTINIANS)|Mönchsorden, monastisches Leben: Augustiner
 11P315(BENEDICTINES)|Mönchsorden, monastisches Leben: Benediktiner
+11P315(CAMALDOLESE)|Mönchsorden, monastisches Leben: Kamaldulenser
 11P315(CARMELITES)|Mönchsorden, monastisches Leben: Karmeliter
 11P315(CARTHUSIANS)|Mönchsorden, monastisches Leben: Kartäuser
 11P315(CISTERCIANS)|Mönchsorden, monastisches Leben: Zisterzienser

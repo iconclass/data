@@ -9717,6 +9717,7 @@
 11P315(...)|ordres monastiques, la vie monacale (avec NOM de l'ordre) ~ Église catholique
 11P315(AUGUSTINIANS)|ordres monastiques, la vie monacale: Augustiniens
 11P315(BENEDICTINES)|ordres monastiques, la vie monacale: Bénédictins
+11P315(CAMALDOLESE)|ordres monastiques, la vie monacale: Camaldules
 11P315(CARMELITES)|ordres monastiques, la vie monacale: Carmélites
 11P315(CARTHUSIANS)|ordres monastiques, la vie monacale: Chartreux
 11P315(CISTERCIANS)|ordres monastiques, la vie monacale: Cisterciens

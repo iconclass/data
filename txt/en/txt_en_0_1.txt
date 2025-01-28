@@ -9717,6 +9717,7 @@
 11P315(...)|monastic orders, monastic life ~ Roman Catholic church (with NAME of order)
 11P315(AUGUSTINIANS)|monastic orders, monastic life: Augustinians
 11P315(BENEDICTINES)|monastic orders, monastic life: Benedictines
+11P315(CAMALDOLESE)|monastic orders, monastic life: Camaldolese
 11P315(CARMELITES)|monastic orders, monastic life: Carmelites
 11P315(CARTHUSIANS)|monastic orders, monastic life: Carthusians
 11P315(CISTERCIANS)|monastic orders, monastic life: Cistercians

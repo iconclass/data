@@ -9740,6 +9740,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11P315(...)|ordens monásticas, vida monástica ~ igreja Católica Romana (com NOME da ordem)
 11P315(AUGUSTINIANS)|ordens monásticas, vida monástica: Agostinhos
 11P315(BENEDICTINES)|ordens monásticas, vida monástica: Beneditinos
+11P315(CAMALDOLESE)|ordens monásticas, vida monástica: Camaldolese
 11P315(CARMELITES)|ordens monásticas, vida monástica: Carmelitas
 11P315(CARTHUSIANS)|ordens monásticas, vida monástica: Cartuxos
 11P315(CISTERCIANS)|ordens monásticas, vida monástica: Cistercienses
