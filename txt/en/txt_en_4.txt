@@ -5676,6 +5676,7 @@
 48C9112|author, poet dictating
 48C912|'poète maudit'
 48C913|author reading from his own work
+48C914|author presenting his work to a patron or donor
 48C919|author destroying his own work
 48C92|author in non-work situation
 48C921|Fame ~ writer, 'poeta laureatus'

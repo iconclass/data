@@ -5676,6 +5676,7 @@
 48C9112|autore, poeta mentre detta
 48C912|poeta maledetto, 'poète maudit'
 48C913|autore che legge il suo lavoro
+48C914|autore che presenta il suo lavoro a un mecenate o donatore
 48C919|autore che distrugge il suo lavoro
 48C92|scrittore in situazione non lavorativa
 48C921|la Fama ~ scrittore, 'poeta laureato'

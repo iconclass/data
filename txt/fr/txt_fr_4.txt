@@ -5677,6 +5677,7 @@
 48C9112|auteur, poète dictant
 48C912|poète maudit
 48C913|auteur lisant son oeuvre
+48C914|auteur présentant son œuvre à un mécène ou à un donateur
 48C919|auteur détruisant son oeuvre
 48C92|auteur dans ses moments de loisir
 48C921|Renommée ~ écrivain, 'poeta laureatus'

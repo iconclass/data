@@ -206,6 +206,7 @@
 11D3343|Christus mit reuigen Sündern (Adam, David, der Verlorene Sohn, Maria Magdalena, der Gute Schächer, Petrus etc.)
 11D335|der erwachsene Christus zusammen mit Sterblichen
 11D3351|(der erwachsene) Christus erscheint Sterblichen
+11D3352|Christus verteilt Symbole der Autorität oder Macht an kirchliche und/oder weltliche Herrscher
 11D336|der triumphierende Christus, z.B. auf einem Triumphwagen
 11D337|Christus zu Pferd
 11D3371|Christus zu Pferd führt eine Armee von Rittern an, Militia Christi
@@ -9514,6 +9515,8 @@
 11L4|Katechismus
 11L5|Kirchenrecht, Ethik und Theologie
 11L51|Kirchenrecht, kanonisches Recht, Ripa: Legge canonica
+11L511|Verwaltung des Kirchenrechts, Gerichtsverfahren
+11L5111|Gerichtsverhandlung
 11L52|Ethik, Ripa: Etica
 11L521|Kasuistik
 11L53|Theologe
@@ -10076,6 +10079,8 @@
 11Q73245|Erstkommunion
 11Q732451|Erstkommunikant
 11Q732452|Kommunionskleid
+11Q73246|Vorschriften in Bezug auf die Eucharistie
+11Q732461|Laien ist es nicht gestattet, bei den Geistlichen zu sitzen oder sich im heiligen Raum des Altars aufzuhalten
 11Q73249|Entweihung der Hostie
 11Q7325|Priesterweihe, Ordinatio (als das fünfte der sieben Sakramente)
 11Q7326|kirchliche Heirat, Eheschließung (als das sechste der sieben Sakramente)

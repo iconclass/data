@@ -206,6 +206,7 @@
 11D3343|le Christ avec des pécheurs repentis (Adam, David, le fils prodigue, Marie Madeleine, le bon larron, Pierre, etc.)
 11D335|le Christ adulte en compagnie d'êtres humains
 11D3351|le Christ (adulte) apparaissant à des êtres humains
+11D3352|le Christ distribue des symboles d'autorité ou de pouvoir aux dirigeants ecclésiastiques et/ou séculiers
 11D336|le Christ triomphant, p.ex. dans un char triomphal
 11D337|le Christ à cheval
 11D3371|le Christ à cheval menant une armée de chevaliers, 'Militia Christi'
@@ -9514,6 +9515,8 @@
 11L4|catéchisme
 11L5|le Droit Canon, l'éthique et les sciences théologiques
 11L51|Droit Canon; 'Legge canonica' (Ripa)
+11L511|administration du droit canonique, procès
+11L5111|session du tribunal
 11L52|Éthique; 'Etica' (Ripa)
 11L521|casuistique
 11L53|théologien
@@ -10076,6 +10079,8 @@
 11Q73245|Première Communion
 11Q732451|premier communiant
 11Q732452|robe de communion
+11Q73246|règlement relatif à l'Eucharistie
+11Q732461|les laïcs ne sont pas autorisés à s'asseoir avec le clergé ni à se trouver dans l'espace sacré de l'autel
 11Q73249|profanation de l'Hostie
 11Q7325|'Ordinatio', ordination ~ le cinquième des sept sacrements
 11Q7326|mariage à l'église ~ le sixième des sept sacrements

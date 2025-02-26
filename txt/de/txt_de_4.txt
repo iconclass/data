@@ -5676,6 +5676,7 @@
 48C9112|ein Autor bzw. Dichter diktiert
 48C912|poète maudit
 48C913|ein Autor liest aus seinem eigenen Werk
+48C914|Autor bietet sein Werk einem Mäzen oder Spender an
 48C919|ein Autor zerstört sein eigenes Werk
 48C92|ein Autor in Situationen, in denen er nicht arbeitet
 48C921|Ruhm des Schriftstellers; poeta laureatus

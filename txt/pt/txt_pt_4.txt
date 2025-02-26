@@ -5588,6 +5588,7 @@
 48C9112|autor, poeta a ditar
 48C912|"poète maudit"
 48C913|autor a ler a sua obra
+48C914|autor a apresentar a sua obra a um patrono ou doador
 48C919|autor que destrói o seu trabalho
 48C92|autor fora do contexto de trabalho
 48C921|Fama ~ escritor, "poeta laureatus"

@@ -206,6 +206,7 @@
 11D3343|Christ with penitent sinners (Adam, David, prodigal son, Mary Magdalene, good malefactor, Peter, etc.)
 11D335|adult Christ together with mortals
 11D3351|(adult) Christ appearing to mortals
+11D3352|Christ distributing symbols of authority or power to ecclesiastical and/or secular rulers
 11D336|triumphant Christ, e.g. on triumphal chariot
 11D337|Christ on horseback
 11D3371|Christ on horseback leading an army of knights, 'Militia Christi'
@@ -9514,6 +9515,8 @@
 11L4|catechism
 11L5|Canon Law, ethics, and theological sciences
 11L51|Canon Law; 'Legge canonica' (Ripa)
+11L511|administration of canon law, trial
+11L5111|court session
 11L52|Ethics; 'Etica' (Ripa)
 11L521|casuistry
 11L53|theologian
@@ -10076,6 +10079,8 @@
 11Q73245|first communion
 11Q732451|first communicant
 11Q732452|communion dress
+11Q73246|regulations with respect to the Eucharist
+11Q732461|laity not allowed to sit with the clergy or to be in the sacred space of the altar
 11Q73249|profanation of the Host
 11Q7325|'Ordinatio', ordination ~ the fifth of the seven sacraments
 11Q7326|marriage in church ~ the sixth of the seven sacraments

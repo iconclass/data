@@ -206,6 +206,7 @@
 11D3343|Cristo con i peccatori penitenti (Adamo, David, il figliol prodigo, Santa Maria Maddalena, il buon ladrone, San Pietro, ecc.)
 11D335|Cristo adulto con figure di mortali
 11D3351|Cristo appare ai mortali
+11D3352|Cristo distribuisce simboli di autorità o potere ai governanti ecclesiastici e/o secolari
 11D336|Cristo in trionfo, ovvero Cristo sul carro trionfale
 11D337|Cristo a cavallo
 11D3371|Cristo a cavallo mentre guida un esercito di cavalieri, 'Militia Christi'
@@ -9514,6 +9515,8 @@
 11L4|catechismo
 11L5|legge canonica, etica, scienze teologiche
 11L51|legge canonica; 'Legge canonica' (Ripa)
+11L511|amministrazione della legge canonica, processo
+11L5111|sessione del tribunale
 11L52|etica; 'Etica' (Ripa)
 11L521|casistica
 11L53|teologo
@@ -10076,6 +10079,8 @@
 11Q73245|prima comunione
 11Q732451|comunicando
 11Q732452|abito da communione
+11Q73246|norme relative all'Eucaristia
+11Q732461|i laici non possono sedere con il clero o trovarsi nello spazio sacro dell'altare
 11Q73249|profanazione dell'ostia
 11Q7325|'Ordinatio', ordinazione ~ il quinto dei sette sacramenti
 11Q7326|matrimonio in chiesa ~ il sesto dei sette sacramenti

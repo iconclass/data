@@ -206,6 +206,7 @@
 11D3343|Cristo com os pecadores penitentes (Adão, David, o Filho Pródigo, Maria Madalena, o bom ladrão, Pedro, etc.)
 11D335|Cristo com mortais
 11D3351|Cristo aparece aos mortais
+11D3352|Cristo distribuindo símbolos de autoridade ou poder aos governantes eclesiásticos e/ou seculares
 11D336|Cristo triunfante, e.g., num carro triunfal
 11D337|Cristo a cavalo
 11D3371|Cristo a cavalo liderando um exército de cavaleiros, "Milícia Christi"
@@ -9537,6 +9538,8 @@ Pedro, etc.) - DD - Cristo sem barba"
 11L4|catecismo
 11L5|Direito Canónico, ética e ciências teológicas
 11L51|Direito Canónico; "Legge canonica" (Ripa)
+11L511|administração do direito canónico, julgamento
+11L5111|sessão de tribunal
 11L52|Ética; "Etica" (Ripa)
 11L521|casuística
 11L53|teólogo
@@ -10097,6 +10100,9 @@ Pedro, etc.) - DD - Cristo sem barba"
 11Q73244|lendas e milagres associados à Eucaristia (ou à Hóstia)
 11Q73245|primeira comunhão
 11Q732451|primeiro comungante
+11Q732452|vestido de comunhão
+11Q73246|regulamentos relativos à Eucaristia
+11Q732461|os leigos não podem sentar-se com o clero nem estar no espaço sagrado do altar
 11Q73249|profanação da Hóstia
 11Q7325|"Ordinatio", Ordenação ~ o quinto dos sete sacramentos
 11Q7326|Casamento na igreja ~ o sexto dos sete sacramentos
