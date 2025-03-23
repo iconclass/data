@@ -330,7 +330,7 @@
 11DD3371|Cristo a cavallo mentre guida un esercito di cavalieri, 'Militia Christi' - DD - Cristo senza barba
 11DD34|Cristo adulto ~ concettualizzazioni - DD - Cristo senza barba
 11DD35|tipologie specifiche del Cristo crocifisso (non in contesto narrativo) - DD - Cristo senza barba
-11DD351|Cristo sofferente (con la corona di spine, il capo generalmente reclinato da un lato, 'Christus patients') - DD - Cristo senza barba
+11DD351|Cristo sofferente (con la corona di spine, il capo generalmente reclinato da un lato, 'Christus patiens') - DD - Cristo senza barba
 11DD352|Cristo ricoperto di piaghe della peste, 'Pestkruzifixus' - DD - Cristo senza barba
 11DD353|Cristo trionfante (con la corona di spine, il capo generalmente eretto, 'Christus triumphans') - DD - Cristo senza barba
 11DD354|Cristo si stacca dalla croce per abbracciare qualcuno - DD - Cristo senza barba
