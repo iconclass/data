@@ -5275,6 +5275,7 @@
 73B5|the story of the three Wise Men (kings or Magi) (Matthew 2:1-12)
 73B51|the three Wise Men see a star and are astonished by its magnitude
 73B511|one of the kings sees the star
+73B512|the star contains an image of Christ
 73B52|journey of the three Wise Men to Jerusalem
 73B521|the three Wise Men meet at the crossroads
 73B53|first visit of the three Wise Men to King Herod

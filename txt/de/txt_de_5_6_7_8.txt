@@ -5275,6 +5275,7 @@
 73B5|die Geschichte von den Heiligen Drei Königen (oder Magiern) (Matthäus 2:1-12)
 73B51|die Heiligen Drei Könige sehen einen Stern und staunen über seine Größe
 73B511|einer der Heiligen Drei Könige sieht den Stern
+73B512|der Stern enthält ein Bild von Christus
 73B52|die Reise der Heiligen Drei Könige nach Jerusalem
 73B521|die Heiligen Drei Könige treffen sich an einer Kreuzung
 73B53|der erste Besuch der Heiligen Drei Könige bei Herodes

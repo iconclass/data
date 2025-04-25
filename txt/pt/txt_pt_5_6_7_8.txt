@@ -5267,6 +5267,7 @@
 73B5|história dos três Homens Sábios (reis ou magos) (Mateus 2, 1-12)
 73B51|os três Reis Magos vêem a estrela e são surpreendidos pela sua grandeza
 73B511|apenas um dos Magos vê a estrela
+73B512|a estrela contém uma imagem de Cristo
 73B52|viagem dos três Reis Magos a Jerusalém
 73B521|os três Reis Magos encontram-se na encruzilhada
 73B53|primeira visita dos três Reis Magos ao Rei Herodes

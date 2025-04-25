@@ -5274,6 +5274,7 @@
 73B5|histoire des trois Rois mages (Matthieu 2:1-12)
 73B51|les trois Rois mages aperçoivent une étoile dont la grandeur les surprend
 73B511|un des Rois mages voit l'étoile
+73B512|l'étoile contient une image du Christ
 73B52|voyage des Rois mages à Jérusalem
 73B521|les trois Rois mages se rencontrent à un carrefour
 73B53|première visite des Rois mages au roi Hérode

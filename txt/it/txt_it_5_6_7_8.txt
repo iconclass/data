@@ -5275,6 +5275,7 @@
 73B5|storia dei tre Saggi (re o Magi) (Mt. 2, 1-12)
 73B51|i tre Magi vedono la stella e si stupiscono della sua grandezza
 73B511|solo uno dei Magi vede la stella
+73B512|la stella contiene un'immagine di Cristo
 73B52|viaggio dei Magi a Gerusalemme
 73B521|i tre Magi si incontrano al crocevia
 73B53|prima visita dei Magi a re Erode
