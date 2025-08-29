@@ -2028,8 +2028,7 @@
 71E33152|Balaão é levado pelo rei Balac ao Monte Pisga para fazer um segundo sacrifício de touros e carneiros
 71E33153|Balaão é levado pelo rei Balac ao Monte Peor para fazer um terceiro sacrifício de touros e carneiros e vê os israelitas acampando em suas tendas
 71E3316|o profeta Balaão é repreendido pelo rei Balac
-71E3317|"últimas profecias de Balaão ~ os israelitas ""estrela de Jacob""
-"
+71E3317|últimas profecias de Balaão ~ os israelitas ""estrela de Jacob"
 71E3318|Balaão separa-se de Balac
 71E332|permanência dos israelitas em Chitim durante a sua viagem pelo deserto (Números 25)
 71E3321|os israelitas e as mulheres moabitas
@@ -3894,9 +3893,7 @@
 71M451|Elias sobe até ao cimo do monte Carmelo onde se prosta por terra; envia o servo para observar o mar e ver se chove
 71M4511|o servo relata que viu uma pequena nuvem ~ história de Elias
 71M452|debaixo de uma chuva torrencial, Acab regressa a Jezrael no seu carro enquanto Elias corre diante dele
-71M5|"Elias e o anjo; Elias no monte Horeb (1 Reis 19, 1-8)
-
-"
+71M5|Elias e o anjo; Elias no monte Horeb (1 Reis 19, 1-8)
 71M51|Jezabel envia uma mensagem a Elias na qual o ameaça de morte
 71M52|Elias foge para o deserto
 71M521|Elias senta-se debaixo de um junípero e adormece

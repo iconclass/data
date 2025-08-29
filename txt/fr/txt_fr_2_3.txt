@@ -4397,7 +4397,7 @@
 32B351(PAPUANS)|peuples autochtones d'Australie et d'Océanie: Papous
 32B351(POLYNESIANS)|peuples autochtones d'Australie et d'Océanie: Polynésiens
 32B351(NARUNGGA)|peuples autochtones d'Australie et d'Océanie: Narungga
-32B352||(descendants) d'émigrants australiens et océaniens, personnes émigrant d'Australie ou d'Océanie
+32B352|(descendants) d'émigrants australiens et océaniens, personnes émigrant d'Australie ou d'Océanie
 32B352(...)|(descendants) d'émigrants australiens et océaniens (avec NOM de DESTINATION)
 32B353|Immigrants australiens et océaniens, personne migrant vers l'Australie ou l'Océanie
 32B353(...)|Immigrants australiens et océaniens (avec NOM D'ORIGINE)
