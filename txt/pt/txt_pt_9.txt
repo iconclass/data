@@ -82,9 +82,7 @@
 91B1315|(história de) Astreu - actividades e relacionamentos neutros ou amigáveis
 91B1316|(história de) Astreu - sofrimento, infortúnio
 91B13168|(história de) Astreu -  morte
-91B13169|"(história de) Astreu  - apoteose, deificação
-
-"
+91B13169|(história de) Astreu  - apoteose, deificação
 91B1317|(história de) Astreu - iconografia específica, aspectos alegóricos, como patrono ou protector
 91B13178|(história de) Astreu - triunfo
 91B13179|(história de) Astreu - veneração, culto, tributo

@@ -312,8 +312,7 @@
 11DD3283|Cristo como anjo - DD - Cristo sem barba
 11DD3284|Cristo ~ Orfeu - DD - Cristo sem barba
 11DD3285|Cristo ~ Apollo (Helios) - DD - Cristo sem barba
-11DD33|"Cristo com outros
-(representações não narrativas) - DD - Cristo sem barba"
+11DD33|Cristo com outros (representações não narrativas) - DD - Cristo sem barba
 11DD331|Cristo com a Virgem Maria - DD - Cristo sem barba
 11DD3311|Cristo e a Virgem Maria como noivo e noiva - DD - Cristo sem barba
 11DD332|Cristo com anjos - DD - Cristo sem barba
@@ -321,11 +320,9 @@
 11DD3331|Cristo triunfando sobre o diabo(s) - DD - Cristo sem barba
 11DD334|Cristo com os apóstolos, evangelistas, santos, etc. - DD - Cristo sem barba
 11DD3341|Cristo com João Evangelista inclinado sobre o seu peito, "Johannesminne","Christus-Johannes-Gruppe" - DD - Cristo sem barba
-11DD3342|"""Traditio legis"", ""Dominus legem dat"", i.e. Cristo entrega um rolo (a
-Lei) a Paulo; Pedro está presente - DD - Cristo sem barba"
+11DD3342|"""Traditio legis"", ""Dominus legem dat"", i.e. Cristo entrega um rolo (a Lei) a Paulo; Pedro está presente - DD - Cristo sem barba"
 11DD33421|Cristo entrega um rolo (a Lei) a Paulo; apóstolo(s) presente(s) - DD - Cristo sem barba
-11DD3343|"Cristo com os pecadores penitentes (Adão, David, o Filho Pródigo, Maria Madalena, o bom ladrão,
-Pedro, etc.) - DD - Cristo sem barba"
+11DD3343|Cristo com os pecadores penitentes (Adão, David, o Filho Pródigo, Maria Madalena, o bom ladrão, Pedro, etc.) - DD - Cristo sem barba
 11DD335|Cristo com mortais - DD - Cristo em atitude de desdém, de ameaça, etc.
 11DD3351|Cristo aparece aos mortais - DD - Cristo em uma atitude desdenhosa, ameaçador, etc.
 11DD336|Cristo triunfante, e.g., num carro triunfal - DD - Cristo sem barba
@@ -934,8 +931,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(AMBROSE)7|Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós - apoteose, glória, triunfo do santo
 11H(AMBROSE)8|Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós - ocorrências pós-mortem ~ santo
 11H(AMBROSE)81|Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós - descoberta, transporte das relíquias do santo
-11H(AMBROSE)82|"Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós -  milagres que ocorrem durante o manuseamento das relíquias do santo
-"
+11H(AMBROSE)82|Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós -  milagres que ocorrem durante o manuseamento das relíquias do santo
 11H(AMBROSE)83|Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós - acções póstumas, aparições do santo
 11H(AMBROSE)84|Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós - beatificação, canonização do santo
 11H(AMBROSE)9|Ambrósio (Ambrosius), Bispo de Milão; possíveis atributos: colmeia, criança no berço, flagelo de três nós - retrato do santo
@@ -943,10 +939,8 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(ANDREW CORSINI)0|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - santo representado em grupo
 11H(ANDREW CORSINI)1|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - iconografia específica ~ santo
 11H(ANDREW CORSINI)11|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - santo como padroeiro, protector, intercessor
-11H(ANDREW CORSINI)119|"André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo -  santo protegendo os devotos sob o manto, ""Schutzmantel""
-"
-11H(ANDREW CORSINI)12|"André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
-"
+11H(ANDREW CORSINI)119|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo -  santo protegendo os devotos sob o manto, ""Schutzmantel""
+11H(ANDREW CORSINI)12|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
 11H(ANDREW CORSINI)13|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - santo como fundador da Ordem
 11H(ANDREW CORSINI)131|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
 11H(ANDREW CORSINI)2|André Corsini, frade carmelita e Bispo de Fiesole; possíveis atributos: hissope, cordeiro, espada, lobo - primeiros anos da vida do santo
@@ -975,10 +969,8 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(ANDREW)0|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - santo representado em grupo
 11H(ANDREW)1|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - iconografia específica ~ santo
 11H(ANDREW)11|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - santo como  padroeiro, protector, intercessor
-11H(ANDREW)119|"o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - santo protegendo os devotos sob o manto, ""Schutzmantel""
-"
-11H(ANDREW)12|"o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
-"
+11H(ANDREW)119|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - santo protegendo os devotos sob o manto, ""Schutzmantel""
+11H(ANDREW)12|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
 11H(ANDREW)13|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo  - santo como fundador da Ordem
 11H(ANDREW)131|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
 11H(ANDREW)2|o apóstolo André; possíveis atributos: livro, cruz em X (aspa), peixe, rede de pesca, corda, rolo  - primeiros anos da vida do santo
@@ -1007,8 +999,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(ANSELM)0|o monge Beneditino Anselmo, Arcebispo de Cantuária; possíveis atributos: livro, pena, embarcação - santo representado em grupo
 11H(ANSELM)1|iconografia específica ~ Santo Anselmo
 11H(ANSELM)11|iconografia específica ~ Santo Anselmo - santo como padroeiro, protector, intercessor
-11H(ANSELM)119|"iconografia específica ~ Santo Anselmo - santo protegendo os devotos sob o manto, ""Schutzmantel""
-"
+11H(ANSELM)119|iconografia específica ~ Santo Anselmo - santo protegendo os devotos sob o manto, ""Schutzmantel""
 11H(ANSELM)12|Santo Anselmo no seu trono com pena e livro
 11H(ANSELM)13|iconografia específica ~ Santo Anselmo - santo como fundador da Ordem
 11H(ANSELM)131|iconografia específica ~ Santo Anselmo - santo ~confirmação da Ordem, aprovação da(s) Regra(s)
@@ -1038,8 +1029,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(ANTONINUS)0|Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança - santo representado em grupo
 11H(ANTONINUS)1|Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança - iconografia específica ~ santo
 11H(ANTONINUS)11|Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança - santo como padroeiro, protector, intercessor
-11H(ANTONINUS)119|"Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança -  santo protegendo os devotos sob o manto, ""Schutzmantel""
-"
+11H(ANTONINUS)119|Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança -  santo protegendo os devotos sob o manto, ""Schutzmantel""
 11H(ANTONINUS)12|Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
 11H(ANTONINUS)13|Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança - santo como fundador da Ordem
 11H(ANTONINUS)131|Antonino Pierozzi, frade Dominicano e Arcebispo de Florença; possíveis atributos: livro, balança - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
@@ -1368,10 +1358,8 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(BENEDICT)0|Bento de Núrsia, abade de Monte Cassino e fundador da Ordem beneditina; possíveis atributos: hissope, livro, copo (por vezes partido), corvo com pão no bico, peneira (ou bandeja) - santo representado em grupo
 11H(BENEDICT)1|iconografia específica ~ São Bento
 11H(BENEDICT)11|Virgem Maria, São Bento e Santo Agostinho intercedendo a Cristo pelas vítimas da peste
-11H(BENEDICT)119|"Virgem Maria, São Bento e Santo Agostinho intercedendo a Cristo pelas vítimas da peste - santo protegendo os devotos sob o manto, ""Schutzmantel""
-"
-11H(BENEDICT)12|"iconografia específica ~ São Bento - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
-"
+11H(BENEDICT)119|Virgem Maria, São Bento e Santo Agostinho intercedendo a Cristo pelas vítimas da peste - santo protegendo os devotos sob o manto, ""Schutzmantel""
+11H(BENEDICT)12|iconografia específica ~ São Bento - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
 11H(BENEDICT)13|São Bento apresenta e/ou discute a Regra da nova Ordem com os membros da Ordem
 11H(BENEDICT)131|São Bento apresenta e/ou discute a Regra da nova Ordem com os membros da Ordem - santo ~ confirmação da Ordem, aprovação da(s) Regra(s) 
 11H(BENEDICT)2|primeiros anos da vida de São Bento
@@ -1424,10 +1412,8 @@ Pedro, etc.) - DD - Cristo sem barba"
 11H(BERNARD)0|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco  - santo representado em grupo
 11H(BERNARD)1|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco  - iconografia específica ~ santo
 11H(BERNARD)11|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco  - santo como padroeiro, protector, intercessor
-11H(BERNARD)119|"Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco -  santo protegendo os devotos sob o manto, ""Schutzmantel""
-"
-11H(BERNARD)12|"Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
-"
+11H(BERNARD)119|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco -  santo protegendo os devotos sob o manto, ""Schutzmantel""
+11H(BERNARD)12|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
 11H(BERNARD)13|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco - santo como fundador da Ordem
 11H(BERNARD)131|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
 11H(BERNARD)2|Bernardo de Claraval, monge Cisterciense e abade; possíveis atributos: colmeia, dragão acorrentado, crucifixo, cruz com instrumentos da Paixão, (três) mitra a seus pés, cão branco - primeiros anos da vida do santo
@@ -9026,8 +9012,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11I62(GIDEON)1|Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - fundador, iniciador ~ Antigo Testamento (em contexto não bíblico)
 11I62(GIDEON)2|Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - padroeiro, intercessor ~ Antigo Testamento (em contexto não bíblico)
 11I62(GIDEON)3|Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - (outra) iconografia específica, e.g. aspectos alegóricos e simbólicos de personagens masculinos do Antigo Testamento (em contexto não bíblico)
-11I62(GIDEON)4|"Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - devoção pessoal de personagens masculinos do Antigo Testamento, e.g. visão, oração, penitência
-"
+11I62(GIDEON)4|Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - devoção pessoal de personagens masculinos do Antigo Testamento, e.g. visão, oração, penitência
 11I62(GIDEON)5|Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - aditamento lendário ou histórico às biografias de personagens masculinos do Antigo Testamento
 11I62(GIDEON)6|Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - ocorrências post-mortem de personagens masculinos do Antigo Testamento, e.g. descoberta e transporte das relíquias
 11I62(GIDEON)7|Gideão (em contexto não bíblico); possíveis atributos: taça (cheia de orvalho), jarro quebrado, capacete e armadura, velo - outras actividades, relacionamentos, etc. de personagens masculinos do Antigo Testamento
@@ -9219,13 +9204,9 @@ Pedro, etc.) - DD - Cristo sem barba"
 11I62(TUBALCAIN)1|Tubalcaim (em contexto não bíblico) - fundador, iniciador ~ Antigo Testamento (em contexto não bíblico)
 11I62(TUBALCAIN)2|Tubalcaim (em contexto não bíblico) - padroeiro, intercessor ~ Antigo Testamento (em contexto não bíblico)
 11I62(TUBALCAIN)3|Tubalcaim (em contexto não bíblico) - (outra) iconografia específica, e.g. aspectos alegóricos e simbólicos de personagens masculinos do Antigo Testamento (em contexto não bíblico)
-11I62(TUBALCAIN)4|"Tubalcaim (em contexto não bíblico) - devoção pessoal de personagens masculinos do Antigo Testamento, e.g. visão, oração, penitência
-
-"
+11I62(TUBALCAIN)4|Tubalcaim (em contexto não bíblico) - devoção pessoal de personagens masculinos do Antigo Testamento, e.g. visão, oração, penitência
 11I62(TUBALCAIN)5|Tubalcaim (em contexto não bíblico) - aditamento lendário ou histórico às biografias de personagens masculinos do Antigo Testamento
-11I62(TUBALCAIN)6|"Tubalcaim (em contexto não bíblico) - ocorrências post-mortem de personagens masculinos do Antigo Testamento, e.g. descoberta e transporte das relíquias
-
-"
+11I62(TUBALCAIN)6|Tubalcaim (em contexto não bíblico) - ocorrências post-mortem de personagens masculinos do Antigo Testamento, e.g. descoberta e transporte das relíquias
 11I62(TUBALCAIN)7|outras actividades, relacionamentos, etc. de Tubalcaim
 11I62(TUBALCAIN)71|Tubalcaim e Jubal forjando pregos
 11I63|personagens femininas do Antigo Testamento (em contexto não bíblico)
@@ -9242,9 +9223,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11I63(ASENATH)2|Asenath (em contexto não bíblico) - padroeira, intercessora ~ Antigo Testamento
 11I63(ASENATH)3|Asenath (em contexto não bíblico - (outra) iconografia específica, e.g. aspectos alegóricos e simbólicos ~ perrsonagens femininas do Antigo Testamento 
 11I63(ASENATH)4|Asenath (em contexto não bíblico) - devoção pessoal de personagens femininas do Antigo Testamento, e.g. visão, oração, penitência
-11I63(ASENATH)5|"Asenath (em contexto não bíblico) - aditamento lendário ou histórico às biografias de personagens femininas do Antigo Testamento
-
-"
+11I63(ASENATH)5|Asenath (em contexto não bíblico) - aditamento lendário ou histórico às biografias de personagens femininas do Antigo Testamento
 11I63(ASENATH)6|Asenath (em contexto não bíblico) - ocorrências post-mortem de personagens femininas do Antigo Testamento, e.g. descoberta e transporte das relíquias
 11I63(ASENATH)7|Asenath (em contexto não bíblico) - relacionamentos, etc. de personagens femininas no Antigo Testamento
 11I63(BATHSHEBA)|Bathsheba (em contexto não bíblico) 
@@ -9373,9 +9352,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 11I72(...)|personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico)
 11I72(...)1|personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico) - fundador, iniciador ~ Novo Testamento (em contexto não bíblico)
 11I72(...)2|personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico) - padroeiro, intercessor ~ Novo Testamento (em contexto não bíblico)
-11I72(...)3|"personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico) - (outra) iconografia específica, e.g. aspectos alegóricos e simbólicos de personagens masculinos do Novo Testamento (em contexto não bíblico)
-
-"
+11I72(...)3|personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico) - (outra) iconografia específica, e.g. aspectos alegóricos e simbólicos de personagens masculinos do Novo Testamento (em contexto não bíblico)
 11I72(...)4|personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico) - devoção pessoal de personagens masculinos do Novo Testamento, e.g. visão, oração, penitência
 11I72(...)5|personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico) - aditamento lendário ou histórico às biografias de personagens masculinos do Novo Testamento
 11I72(...)6|personagens masculinos do Novo Testamento (com NOME) (em contexto não bíblico) - ocorrências post-mortem de personagens masculinos do Novo Testamento, e.g. descoberta e transporte das relíquias
@@ -11097,9 +11074,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 12E13(...)12|representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - infância, educação da divindade não-cristã
 12E13(...)2|representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - relações amorosas da divindade não-cristã
 12E13(...)3|representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - principais acções da divindade não-cristã
-12E13(...)4|"representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - actividades e relacionamentos hostis da divindade não-cristã
-
-"
+12E13(...)4|representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - actividades e relacionamentos hostis da divindade não-cristã
 12E13(...)5|representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - actividades e relacionamentos neutros ou amigáveis da divindade não-cristã
 12E13(...)6|representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - sofrimento, infortúnio da divindade não-cristã
 12E13(...)68|representações ~ deuses, semideuses, heróis, etc. (com NOME) (religião grega) - morte da divindade não-cristã
@@ -11293,8 +11268,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 12FF13(...)1|representações ~ deusas, semideusas, heroínas, etc.  (com NOME) (religião romana) - primeiros anos da vida, juventude da divindade não-cristã
 12FF13(...)11|representações ~ deusas, semideusas, heroínas, etc.  (com NOME) (religião romana) - nascimento da divindade não-cristã
 12FF13(...)12|representações ~ deusas, semideusas, heroínas, etc. (com NOME) (religião romana) - infância, educação da divindade não-cristã
-12FF13(...)2|"representações ~ deusas, semideusas, heroínas, etc. (com NOME) (religião romana) - relações amorosas da divindade não-cristã
-"
+12FF13(...)2|representações ~ deusas, semideusas, heroínas, etc. (com NOME) (religião romana) - relações amorosas da divindade não-cristã
 12FF13(...)3|representações ~ deusas, semideusas, heroínas, etc. (com NOME) (religião romana) - principais acções da divindade não-cristã
 12FF13(...)4|representações ~ deusas, semideusas, heroínas, etc. (com NOME) (religião romana) - actividades e relacionamentos hostis da divindade não-cristã
 12FF13(...)5|representações ~ deusas, semideusas, heroínas, etc. (com NOME) (religião romana) - actividades e relacionamentos neutros ou amigáveis da divindade não-cristã
@@ -11322,9 +11296,7 @@ Pedro, etc.) - DD - Cristo sem barba"
 12G13(...)1|representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - primeiros anos da vida, juventude da divindade não-cristã
 12G13(...)11|representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - nascimento da divindade não-cristã
 12G13(...)12|representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - infância, educação da divindade não-cristã
-12G13(...)2|"representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - relações amorosas da divindade não-cristã
-
-"
+12G13(...)2|representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - relações amorosas da divindade não-cristã
 12G13(...)3|representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - principais acções da divindade não-cristã
 12G13(...)4|representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - actividades e relacionamentos hostis da divindade não-cristã
 12G13(...)5|representações ~ deuses, semideuses, heróis, etc.(com NOME) no mitraísmo e noutras religiões helenísticas ou romanas tardias (provincial)  (incluindo antigas religiões iranianas) - actividades e relacionamentos neutros ou amigáveis da divindade não-cristã

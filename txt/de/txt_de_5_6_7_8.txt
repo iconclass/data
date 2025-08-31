@@ -7660,7 +7660,8 @@
 85(DE CERVO IN BOVIUM STABULO)|Fabel 107: De Cervo in bovium stabulo
 85(FORMICA ET COLUMBA)|Fabel 108: Formica et columba
 85(LEO AMATORIUS)|Fabel 109: Leo amatorius
-85(AQUILA ET TESTUDO)|Fabel 110: Aquila et testudo85A|Fabeln des Aesop: 85 (...) benutzen
+85(AQUILA ET TESTUDO)|Fabel 110: Aquila et testudo
+85A|Fabeln des Aesop: 85 (...) benutzen
 85A(...)|Fabeln des Aesop (mit TITEL): 85 (...) benutzen
 85B|Fabeln von Lafontaine: 85 (...) benutzen
 85B(...)|Fabeln von Lafontaine (mit TITEL): 85 (...) benutzen

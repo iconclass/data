@@ -6925,7 +6925,8 @@
 #73GG411|a pregnant woman, clothed with the sun and standing on the moon, appears; she is threatened by a red dragon with a long tail and seven heads - GG - Mary as the apocalyptic woman
 8|Irodalom
 81|irodalmi ciklusok
-81(...)|irodalmi ciklus (névvel ciklus)81(ARTHURIAN LEGEND)|'Arthurian legend'
+81(...)|irodalmi ciklus (névvel ciklus)
+81(ARTHURIAN LEGEND)|'Arthurian legend'
 #81(KALEVALA)|'Kalevala'
 #81(NIBELUNGENLIED)|'Nibelungenlied'
 #81A|Arthurian legend : Use 81(ARTHURIAN LEGEND)
