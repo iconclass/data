@@ -836,14 +836,14 @@
 11H(ALL SAINTS)83|Tous Saints, tous les saints martyrs, confesseurs, ermites etc., qui sont au ciel - actions posthumes, apparitions du saint
 11H(ALL SAINTS)84|Tous Saints, tous les saints martyrs, confesseurs, ermites etc., qui sont au ciel - béatification, canonisation du saint
 11H(ALL SAINTS)9|Tous Saints, tous les saints martyrs, confesseurs, ermites etc., qui sont au ciel - portrait du saint
-11H(ALOYSIUS GONZAGA)|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort
-11H(ALOYSIUS GONZAGA)0|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - groupe de saints
-11H(ALOYSIUS GONZAGA)1|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - aspects spécifiques ~ saint
-11H(ALOYSIUS GONZAGA)11|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint en tant que patron, protecteur, intercesseur
-11H(ALOYSIUS GONZAGA)119|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint protégeant des fidèles sous son manteau, 'Schützmantel'
-11H(ALOYSIUS GONZAGA)12|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint écrivant, étudiant, enseignant, dictant (p.ex. en tant que Docteur de l'Église)
-11H(ALOYSIUS GONZAGA)13|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint comme fondateur d'un Ordre
-11H(ALOYSIUS GONZAGA)131|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint ~ consécration d'un Ordre, approbation d'une Règle
+11H(ALOYSIUS GONZAGA)|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort
+11H(ALOYSIUS GONZAGA)0|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - groupe de saints
+11H(ALOYSIUS GONZAGA)1|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - aspects spécifiques ~ saint
+11H(ALOYSIUS GONZAGA)11|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint en tant que patron, protecteur, intercesseur
+11H(ALOYSIUS GONZAGA)119|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint protégeant des fidèles sous son manteau, 'Schützmantel'
+11H(ALOYSIUS GONZAGA)12|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint écrivant, étudiant, enseignant, dictant (p.ex. en tant que Docteur de l'Église)
+11H(ALOYSIUS GONZAGA)13|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint comme fondateur d'un Ordre
+11H(ALOYSIUS GONZAGA)131|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - saint ~ consécration d'un Ordre, approbation d'une Règle
 11H(ALOYSIUS GONZAGA)2|jeunesse de St Louis de Gonzague
 11H(ALOYSIUS GONZAGA)21|St Louis de Gonzague reçoit la première communion de St Charles Borromée
 11H(ALOYSIUS GONZAGA)3|dévotion personnelle de St Louis de Gonzague
@@ -857,18 +857,18 @@
 11H(ALOYSIUS GONZAGA)37|St Louis de Gonzague en extase au pied d'un autel sur lequel il y a un crucifix
 11H(ALOYSIUS GONZAGA)4|activités et événements non-miraculeux ~ St Louis de Gonzague
 11H(ALOYSIUS GONZAGA)41|St Louis de Gonzague enseignant au peuple
-11H(ALOYSIUS GONZAGA)5|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - activités et événement miraculeux ~ saint
-11H(ALOYSIUS GONZAGA)59|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - stigmatisation du saint
-11H(ALOYSIUS GONZAGA)6|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - martyre, souffrance, malheurs, mort du saint
-11H(ALOYSIUS GONZAGA)68|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - mort, lit de mort du saint
-11H(ALOYSIUS GONZAGA)69|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - corps du saint malmené
+11H(ALOYSIUS GONZAGA)5|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - activités et événement miraculeux ~ saint
+11H(ALOYSIUS GONZAGA)59|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - stigmatisation du saint
+11H(ALOYSIUS GONZAGA)6|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - martyre, souffrance, malheurs, mort du saint
+11H(ALOYSIUS GONZAGA)68|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - mort, lit de mort du saint
+11H(ALOYSIUS GONZAGA)69|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - corps du saint malmené
 11H(ALOYSIUS GONZAGA)7|glorification de St Louis de Gonzague
-11H(ALOYSIUS GONZAGA)8|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - événements ayant lieu après la mort ~ saint
-11H(ALOYSIUS GONZAGA)81|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - découverte, translation des reliques du saint
-11H(ALOYSIUS GONZAGA)82|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - miracles ayant lieu pendant le maniement des reliques du saint
-11H(ALOYSIUS GONZAGA)83|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - actions posthumes, apparitions du saint
-11H(ALOYSIUS GONZAGA)84|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - béatification, canonisation du saint
-11H(ALOYSIUS GONZAGA)9|Louis de Gonzague, père Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - portrait du saint
+11H(ALOYSIUS GONZAGA)8|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - événements ayant lieu après la mort ~ saint
+11H(ALOYSIUS GONZAGA)81|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - découverte, translation des reliques du saint
+11H(ALOYSIUS GONZAGA)82|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - miracles ayant lieu pendant le maniement des reliques du saint
+11H(ALOYSIUS GONZAGA)83|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - actions posthumes, apparitions du saint
+11H(ALOYSIUS GONZAGA)84|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - béatification, canonisation du saint
+11H(ALOYSIUS GONZAGA)9|Louis de Gonzague, Jésuite; attributs possibles : crucifix, discipline, lis, tête de mort - portrait du saint
 11H(AMAND)|Amand de Maastricht; attribut possible : serpent
 11H(AMAND)0|Amand de Maastricht; attribut possible : serpent - groupe de saints
 11H(AMAND)1|Amand de Maastricht; attribut possible : serpent - aspects spécifiques ~ saint
@@ -5230,37 +5230,37 @@
 11H(PAUL)83|l'apôtre Paul de Tarse; attributs possibles : livre, rouleau, épée - actions posthumes, apparitions du saint
 11H(PAUL)84|l'apôtre Paul de Tarse; attributs possibles : livre, rouleau, épée - béatification, canonisation du saint
 11H(PAUL)9|l'apôtre Paul de Tarse; attributs possibles : livre, rouleau, épée - portrait du saint
-11H(PETER CANISIUS)|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort
-11H(PETER CANISIUS)0|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - groupe de saints
+11H(PETER CANISIUS)|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort
+11H(PETER CANISIUS)0|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - groupe de saints
 11H(PETER CANISIUS)1|aspects spécifiques ~ St Pierre Canisius
 11H(PETER CANISIUS)11|aspects spécifiques ~ St Pierre Canisius - saint en tant que patron, protecteur, intercesseur
 11H(PETER CANISIUS)119|aspects spécifiques ~ St Pierre Canisius - saint protégeant des fidèles sous son manteau, 'Schützmantel'
 11H(PETER CANISIUS)12|St Pierre Canisius écrivant
 11H(PETER CANISIUS)13|aspects spécifiques ~ St Pierre Canisius - saint comme fondateur d'un Ordre
 11H(PETER CANISIUS)131|aspects spécifiques ~ St Pierre Canisius - saint ~ consécration d'un Ordre, approbation d'une Règle
-11H(PETER CANISIUS)2|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - jeunesse du saint
-11H(PETER CANISIUS)3|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - dévotion personnelle du saint
-11H(PETER CANISIUS)31|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - vocation, conversion du saint
-11H(PETER CANISIUS)32|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - baptême, consécration, prononciation des voeux du saint
-11H(PETER CANISIUS)33|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - renonçant aux biens terrestres, vie ascétique du saint
-11H(PETER CANISIUS)34|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - vision(s), mariage mystique du saint
-11H(PETER CANISIUS)35|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - tentations du saint
-11H(PETER CANISIUS)36|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - pénitence du saint
-11H(PETER CANISIUS)37|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - saint en méditation, en extase
+11H(PETER CANISIUS)2|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - jeunesse du saint
+11H(PETER CANISIUS)3|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - dévotion personnelle du saint
+11H(PETER CANISIUS)31|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - vocation, conversion du saint
+11H(PETER CANISIUS)32|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - baptême, consécration, prononciation des voeux du saint
+11H(PETER CANISIUS)33|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - renonçant aux biens terrestres, vie ascétique du saint
+11H(PETER CANISIUS)34|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - vision(s), mariage mystique du saint
+11H(PETER CANISIUS)35|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - tentations du saint
+11H(PETER CANISIUS)36|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - pénitence du saint
+11H(PETER CANISIUS)37|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - saint en méditation, en extase
 11H(PETER CANISIUS)4|activités et événements non-miraculeux ~ St Pierre Canisius
 11H(PETER CANISIUS)41|St Pierre Canisius enseignant le catéchisme
-11H(PETER CANISIUS)5|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - activités et événement miraculeux ~ saint
-11H(PETER CANISIUS)59|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - stigmatisation du saint
-11H(PETER CANISIUS)6|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - martyre, souffrance, malheurs, mort du saint
-11H(PETER CANISIUS)68|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - mort, lit de mort du saint
-11H(PETER CANISIUS)69|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - corps du saint malmené
-11H(PETER CANISIUS)7|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - apothéose, glorification, triomphe du saint
-11H(PETER CANISIUS)8|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - événements ayant lieu après la mort ~ saint
-11H(PETER CANISIUS)81|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - découverte, translation des reliques du saint
-11H(PETER CANISIUS)82|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - miracles ayant lieu pendant le maniement des reliques du saint
-11H(PETER CANISIUS)83|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - actions posthumes, apparitions du saint
-11H(PETER CANISIUS)84|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - béatification, canonisation du saint
-11H(PETER CANISIUS)9|Pierre Canisius, père jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - portrait du saint
+11H(PETER CANISIUS)5|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - activités et événement miraculeux ~ saint
+11H(PETER CANISIUS)59|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - stigmatisation du saint
+11H(PETER CANISIUS)6|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - martyre, souffrance, malheurs, mort du saint
+11H(PETER CANISIUS)68|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - mort, lit de mort du saint
+11H(PETER CANISIUS)69|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - corps du saint malmené
+11H(PETER CANISIUS)7|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - apothéose, glorification, triomphe du saint
+11H(PETER CANISIUS)8|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - événements ayant lieu après la mort ~ saint
+11H(PETER CANISIUS)81|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - découverte, translation des reliques du saint
+11H(PETER CANISIUS)82|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - miracles ayant lieu pendant le maniement des reliques du saint
+11H(PETER CANISIUS)83|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - actions posthumes, apparitions du saint
+11H(PETER CANISIUS)84|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - béatification, canonisation du saint
+11H(PETER CANISIUS)9|Pierre Canisius, Jésuite; attributs possibles : livre, crucifix, monogramme IHS, plume, tête de mort - portrait du saint
 11H(PETER MARTYR)|Pierre Martyr de Vérone, frère dominicain; attributs possibles : crucifix, doigt sur la bouche, palme de martyr, épée (hache ou couteau) planté dans le crâne (ou dans la poitrine), blessure à la tête
 11H(PETER MARTYR)0|Pierre Martyr de Vérone, frère dominicain; attributs possibles : crucifix, doigt sur la bouche, palme de martyr, épée (hache ou couteau) planté dans le crâne (ou dans la poitrine), blessure à la tête - groupe de saints
 11H(PETER MARTYR)1|Pierre Martyr de Vérone, frère dominicain; attributs possibles : crucifix, doigt sur la bouche, palme de martyr, épée (hache ou couteau) planté dans le crâne (ou dans la poitrine), blessure à la tête - aspects spécifiques ~ saint

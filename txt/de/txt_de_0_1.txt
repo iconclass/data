@@ -836,14 +836,14 @@
 11H(ALL SAINTS)83|Allerheiligen - postume Handlungen, Erscheinungen eines männlichen Heiligen
 11H(ALL SAINTS)84|Allerheiligen - Seligsprechung, Heiligsprechung eines männlichen Heiligen
 11H(ALL SAINTS)9|Allerheiligen - Bildnis eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel
-11H(ALOYSIUS GONZAGA)0|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger, der in einer Gruppe dargestellt ist
-11H(ALOYSIUS GONZAGA)1|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - besondere Darstellungsformen eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)11|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger als Patron, Beschützer, Fürsprecher
-11H(ALOYSIUS GONZAGA)119|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger beschützt Gläubige mit seinem Mantel (Schutzmantel)
-11H(ALOYSIUS GONZAGA)12|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger schreibt, studiert, unterrichtet, diktiert (z.B. als Kirchenlehrer)
-11H(ALOYSIUS GONZAGA)13|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger als Ordensgründer
-11H(ALOYSIUS GONZAGA)131|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger bei einer Regelbestätigung
+11H(ALOYSIUS GONZAGA)|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel
+11H(ALOYSIUS GONZAGA)0|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger, der in einer Gruppe dargestellt ist
+11H(ALOYSIUS GONZAGA)1|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - besondere Darstellungsformen eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)11|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger als Patron, Beschützer, Fürsprecher
+11H(ALOYSIUS GONZAGA)119|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger beschützt Gläubige mit seinem Mantel (Schutzmantel)
+11H(ALOYSIUS GONZAGA)12|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger schreibt, studiert, unterrichtet, diktiert (z.B. als Kirchenlehrer)
+11H(ALOYSIUS GONZAGA)13|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger als Ordensgründer
+11H(ALOYSIUS GONZAGA)131|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - ein männlicher Heiliger bei einer Regelbestätigung
 11H(ALOYSIUS GONZAGA)2|Kindheit und Jugend des hl. Aloysius Gonzaga
 11H(ALOYSIUS GONZAGA)21|der hl. Aloysius Gonzaga empfängt die Erstkommunion vom hl. Karl Borromäus
 11H(ALOYSIUS GONZAGA)3|Frömmigkeit des hl. Aloysius Gonzaga
@@ -857,18 +857,18 @@
 11H(ALOYSIUS GONZAGA)37|der hl. Aloysius Gonzaga gerät vor einem Altar mit Kruzifix in Ekstase
 11H(ALOYSIUS GONZAGA)4|nicht-wundertätige Handlungen und Ereignisse in der Vita des hl. Aloysius Gonzaga
 11H(ALOYSIUS GONZAGA)41|der hl. Aloysius Gonzaga unterrichtet das Volk
-11H(ALOYSIUS GONZAGA)5|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Wunder in der Vita eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)59|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Stigmatisation eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)6|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Martyrium, Leiden, Scheitern, Tod eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)68|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Tod, Totenbett eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)69|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Leichenschändung am Körper eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)5|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Wunder in der Vita eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)59|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Stigmatisation eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)6|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Martyrium, Leiden, Scheitern, Tod eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)68|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Tod, Totenbett eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)69|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Leichenschändung am Körper eines männlichen Heiligen
 11H(ALOYSIUS GONZAGA)7|die Verklärung des hl. Aloysius Gonzaga
-11H(ALOYSIUS GONZAGA)8|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - postume Ereignisse in der Vita eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)81|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Auffindung, Translation der Reliquien eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)82|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Wunder durch die Berührung von Reliquien eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)83|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - postume Handlungen, Erscheinungen eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)84|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Seligsprechung, Heiligsprechung eines männlichen Heiligen
-11H(ALOYSIUS GONZAGA)9|der Jesuitenmönch Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Bildnis eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)8|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - postume Ereignisse in der Vita eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)81|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Auffindung, Translation der Reliquien eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)82|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Wunder durch die Berührung von Reliquien eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)83|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - postume Handlungen, Erscheinungen eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)84|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Seligsprechung, Heiligsprechung eines männlichen Heiligen
+11H(ALOYSIUS GONZAGA)9|der Jesuit Aloysius Gonzaga; mögliche Attribute: Kruzifix, Kasteiung, Lilie, Totenschädel - Bildnis eines männlichen Heiligen
 11H(AMAND)|Amandus von Maastricht; mögliche Attribute: Schlange
 11H(AMAND)0|Amandus von Maastricht; mögliche Attribute: Schlange - ein männlicher Heiliger, der in einer Gruppe dargestellt ist
 11H(AMAND)1|Amandus von Maastricht; mögliche Attribute: Schlange - besondere Darstellungsformen eines männlichen Heiligen

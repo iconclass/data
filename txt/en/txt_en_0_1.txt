@@ -836,14 +836,14 @@
 11H(ALL SAINTS)83|All Saints, 'all who are redeemed and now in Heaven' - posthumous deeds, appearances of male saints
 11H(ALL SAINTS)84|All Saints, 'all who are redeemed and now in Heaven' - beatification, canonization of male saint
 11H(ALL SAINTS)9|All Saints, 'all who are redeemed and now in Heaven' - portrait of male saint
-11H(ALOYSIUS GONZAGA)|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull
-11H(ALOYSIUS GONZAGA)0|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint represented in a group
-11H(ALOYSIUS GONZAGA)1|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - specific aspects ~ male saint
-11H(ALOYSIUS GONZAGA)11|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint as patron, protector, intercessor
-11H(ALOYSIUS GONZAGA)119|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint protecting devotees with cloak, 'Schutzmantel'
-11H(ALOYSIUS GONZAGA)12|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint writing, studying, teaching, dictating (e.g. as Doctor of the Church)
-11H(ALOYSIUS GONZAGA)13|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint as founder of Order
-11H(ALOYSIUS GONZAGA)131|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint ~ confirmation of Order, approval of Rule(s)
+11H(ALOYSIUS GONZAGA)|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull
+11H(ALOYSIUS GONZAGA)0|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint represented in a group
+11H(ALOYSIUS GONZAGA)1|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - specific aspects ~ male saint
+11H(ALOYSIUS GONZAGA)11|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint as patron, protector, intercessor
+11H(ALOYSIUS GONZAGA)119|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint protecting devotees with cloak, 'Schutzmantel'
+11H(ALOYSIUS GONZAGA)12|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint writing, studying, teaching, dictating (e.g. as Doctor of the Church)
+11H(ALOYSIUS GONZAGA)13|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint as founder of Order
+11H(ALOYSIUS GONZAGA)131|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - male saint ~ confirmation of Order, approval of Rule(s)
 11H(ALOYSIUS GONZAGA)2|early life of St. Aloysius Gonzaga
 11H(ALOYSIUS GONZAGA)21|St. Aloysius Gonzaga receives the first communion from St. Charles Borromeo
 11H(ALOYSIUS GONZAGA)3|personal devotion of St. Aloysius Gonzaga
@@ -857,18 +857,18 @@
 11H(ALOYSIUS GONZAGA)37|St. Aloysius Gonzaga in ecstasy before an altar with crucifix
 11H(ALOYSIUS GONZAGA)4|non-miraculous activities and events ~ St. Aloysius Gonzaga
 11H(ALOYSIUS GONZAGA)41|St. Aloysius Gonzaga teaching the people
-11H(ALOYSIUS GONZAGA)5|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - miraculous activities and events ~ male saint
-11H(ALOYSIUS GONZAGA)59|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - stigmatization of male saint
-11H(ALOYSIUS GONZAGA)6|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - martyrdom, suffering, misfortune, death of male saint
-11H(ALOYSIUS GONZAGA)68|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - death, deathbed of male saint
-11H(ALOYSIUS GONZAGA)69|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - maltreatment of corpse of male saint
+11H(ALOYSIUS GONZAGA)5|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - miraculous activities and events ~ male saint
+11H(ALOYSIUS GONZAGA)59|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - stigmatization of male saint
+11H(ALOYSIUS GONZAGA)6|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - martyrdom, suffering, misfortune, death of male saint
+11H(ALOYSIUS GONZAGA)68|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - death, deathbed of male saint
+11H(ALOYSIUS GONZAGA)69|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - maltreatment of corpse of male saint
 11H(ALOYSIUS GONZAGA)7|glory of St. Aloysius Gonzaga
-11H(ALOYSIUS GONZAGA)8|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - post-mortem occurrences ~ male saint
-11H(ALOYSIUS GONZAGA)81|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - finding, transportation of relics of male saint
-11H(ALOYSIUS GONZAGA)82|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - miracles occurring during handling of relics of male saint
-11H(ALOYSIUS GONZAGA)83|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - posthumous deeds, appearances of male saints
-11H(ALOYSIUS GONZAGA)84|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - beatification, canonization of male saint
-11H(ALOYSIUS GONZAGA)9|the Jesuit friar Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - portrait of male saint
+11H(ALOYSIUS GONZAGA)8|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - post-mortem occurrences ~ male saint
+11H(ALOYSIUS GONZAGA)81|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - finding, transportation of relics of male saint
+11H(ALOYSIUS GONZAGA)82|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - miracles occurring during handling of relics of male saint
+11H(ALOYSIUS GONZAGA)83|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - posthumous deeds, appearances of male saints
+11H(ALOYSIUS GONZAGA)84|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - beatification, canonization of male saint
+11H(ALOYSIUS GONZAGA)9|the Jesuit Aloysius Gonzaga; possible attributes: crucifix, discipline, lily, skull - portrait of male saint
 11H(AMAND)|Amand(us) of Maastricht; possible attributes: snake
 11H(AMAND)0|Amand(us) of Maastricht; possible attributes: snake - male saint represented in a group
 11H(AMAND)1|Amand(us) of Maastricht; possible attributes: snake - specific aspects ~ male saint

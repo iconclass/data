@@ -836,14 +836,14 @@
 11H(ALL SAINTS)83|Ognissanti (Tutti i Santi), tutte le anime redente, ascese al Paradiso - interventi compiuti dopo la morte, apparizioni post mortem del santo
 11H(ALL SAINTS)84|Ognissanti (Tutti i Santi), tutte le anime redente, ascese al Paradiso - beatificazione, canonizzazione del santo
 11H(ALL SAINTS)9|Ognissanti (Tutti i Santi), tutte le anime redente, ascese al Paradiso - ritratti del santo
-11H(ALOYSIUS GONZAGA)|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio
-11H(ALOYSIUS GONZAGA)0|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - santo raffigurato in un gruppo; gruppo di santi
-11H(ALOYSIUS GONZAGA)1|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - specifiche iconografie ~ santo
-11H(ALOYSIUS GONZAGA)11|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - santo come patrono, protettore, intercessore
-11H(ALOYSIUS GONZAGA)119|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - santo che protegge i devoti con il manto, 'Schutzmantel'
-11H(ALOYSIUS GONZAGA)12|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - santo (come Dottore della Chiesa) che scrive, studia, insegna, detta
-11H(ALOYSIUS GONZAGA)13|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - santo come fondatore di un Ordine
-11H(ALOYSIUS GONZAGA)131|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - santo ~ conferma dell'Ordine, approvazione della Regola
+11H(ALOYSIUS GONZAGA)|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio
+11H(ALOYSIUS GONZAGA)0|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - santo raffigurato in un gruppo; gruppo di santi
+11H(ALOYSIUS GONZAGA)1|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - specifiche iconografie ~ santo
+11H(ALOYSIUS GONZAGA)11|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - santo come patrono, protettore, intercessore
+11H(ALOYSIUS GONZAGA)119|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - santo che protegge i devoti con il manto, 'Schutzmantel'
+11H(ALOYSIUS GONZAGA)12|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - santo (come Dottore della Chiesa) che scrive, studia, insegna, detta
+11H(ALOYSIUS GONZAGA)13|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - santo come fondatore di un Ordine
+11H(ALOYSIUS GONZAGA)131|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - santo ~ conferma dell'Ordine, approvazione della Regola
 11H(ALOYSIUS GONZAGA)2|primo periodo della vita di San Luigi Gonzaga
 11H(ALOYSIUS GONZAGA)21|San Luigi Gonzaga riceve la prima comunione da San Carlo Borromeo
 11H(ALOYSIUS GONZAGA)3|devozione privata di San Luigi Gonzaga
@@ -857,18 +857,18 @@
 11H(ALOYSIUS GONZAGA)37|San Luigi Gonzaga in estasi di fronte a un altare con il crocifisso
 11H(ALOYSIUS GONZAGA)4|attività ed episodi non miracolosi ~ San Luigi Gonzaga
 11H(ALOYSIUS GONZAGA)41|San Luigi Gonzaga insegna alle genti
-11H(ALOYSIUS GONZAGA)5|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - attività ed episodi miracolosi ~ santo
-11H(ALOYSIUS GONZAGA)59|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - stimmatizzazione del santo
-11H(ALOYSIUS GONZAGA)6|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - martirio, sofferenze, avversità, morte del santo
-11H(ALOYSIUS GONZAGA)68|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - morte, letto di morte del santo
-11H(ALOYSIUS GONZAGA)69|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - maltrattamento del cadavere del santo
+11H(ALOYSIUS GONZAGA)5|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - attività ed episodi miracolosi ~ santo
+11H(ALOYSIUS GONZAGA)59|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - stimmatizzazione del santo
+11H(ALOYSIUS GONZAGA)6|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - martirio, sofferenze, avversità, morte del santo
+11H(ALOYSIUS GONZAGA)68|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - morte, letto di morte del santo
+11H(ALOYSIUS GONZAGA)69|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - maltrattamento del cadavere del santo
 11H(ALOYSIUS GONZAGA)7|gloria di San Luigi Gonzaga
-11H(ALOYSIUS GONZAGA)8|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - avvenimenti post mortem ~ santo
-11H(ALOYSIUS GONZAGA)81|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - rinvenimento, traslazione delle reliquie del santo
-11H(ALOYSIUS GONZAGA)82|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - miracoli avvenuti durante la manipolazione delle reliquie del santo
-11H(ALOYSIUS GONZAGA)83|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - interventi compiuti dopo la morte, apparizioni post mortem del santo
-11H(ALOYSIUS GONZAGA)84|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - beatificazione, canonizzazione del santo
-11H(ALOYSIUS GONZAGA)9|San Luigi Gonzaga frate gesuita; attributi: crocifisso, flagello, giglio, teschio - ritratti del santo
+11H(ALOYSIUS GONZAGA)8|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - avvenimenti post mortem ~ santo
+11H(ALOYSIUS GONZAGA)81|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - rinvenimento, traslazione delle reliquie del santo
+11H(ALOYSIUS GONZAGA)82|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - miracoli avvenuti durante la manipolazione delle reliquie del santo
+11H(ALOYSIUS GONZAGA)83|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - interventi compiuti dopo la morte, apparizioni post mortem del santo
+11H(ALOYSIUS GONZAGA)84|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - beatificazione, canonizzazione del santo
+11H(ALOYSIUS GONZAGA)9|San Luigi Gonzaga, gesuita; attributi: crocifisso, flagello, giglio, teschio - ritratti del santo
 11H(AMAND)|Sant'Amando (Amandus) di Maastricht; attributi: serpente
 11H(AMAND)0|Sant'Amando (Amandus) di Maastricht; attributi: serpente - santo raffigurato in un gruppo; gruppo di santi
 11H(AMAND)1|Sant'Amando (Amandus) di Maastricht; attributi: serpente - specifiche iconografie ~ santo

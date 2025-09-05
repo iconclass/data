@@ -836,14 +836,14 @@
 11H(ALL SAINTS)83|Todos os santos, todas as almas redimidas e agora no Céu - acções póstumas, aparições do santo 
 11H(ALL SAINTS)84|Todos os santos, todas as almas redimidas e agora no Céu - beatificação, canonização do santo 
 11H(ALL SAINTS)9|Todos os santos, todas as almas redimidas e agora no Céu - retrato do santo 
-11H(ALOYSIUS GONZAGA)|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio
-11H(ALOYSIUS GONZAGA)0|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo representado em grupo
-11H(ALOYSIUS GONZAGA)1|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - iconografia específica ~ santo 
-11H(ALOYSIUS GONZAGA)11|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo como padroeiro, protector, intercessor
-11H(ALOYSIUS GONZAGA)119|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo protegendo os devotos sob o manto, "Schutzmantel"
-11H(ALOYSIUS GONZAGA)12|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
-11H(ALOYSIUS GONZAGA)13|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo como fundador da Ordem
-11H(ALOYSIUS GONZAGA)131|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
+11H(ALOYSIUS GONZAGA)|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio
+11H(ALOYSIUS GONZAGA)0|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo representado em grupo
+11H(ALOYSIUS GONZAGA)1|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - iconografia específica ~ santo 
+11H(ALOYSIUS GONZAGA)11|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo como padroeiro, protector, intercessor
+11H(ALOYSIUS GONZAGA)119|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo protegendo os devotos sob o manto, "Schutzmantel"
+11H(ALOYSIUS GONZAGA)12|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo escrevendo, estudando, ensinando, ditando (e.g. como Doutor da Igreja)
+11H(ALOYSIUS GONZAGA)13|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo como fundador da Ordem
+11H(ALOYSIUS GONZAGA)131|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - santo ~ confirmação da Ordem, aprovação da(s) Regra(s)
 11H(ALOYSIUS GONZAGA)2|primeiros anos da vida de São Luís Gonzaga
 11H(ALOYSIUS GONZAGA)21|São Luís Gonzaga recebe a Primeira Comunhão de São Carlos Borromeu
 11H(ALOYSIUS GONZAGA)3|devoção pessoal de São Luís Gonzaga
@@ -857,18 +857,18 @@
 11H(ALOYSIUS GONZAGA)37|São Luís Gonzaga em êxtase diante de um altar com um crucifixo
 11H(ALOYSIUS GONZAGA)4|actividades e eventos não milagrosos ~ São Luís Gonzaga
 11H(ALOYSIUS GONZAGA)41|São Luís Gonzaga ensinando as pessoas
-11H(ALOYSIUS GONZAGA)5|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - actividades e eventos milagrosos ~ santo 
-11H(ALOYSIUS GONZAGA)59|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - estigmatização do santo 
-11H(ALOYSIUS GONZAGA)6|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - martírio, sofrimento, infortúnio, morte do santo
-11H(ALOYSIUS GONZAGA)68|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - morte, leito de morte do santo
-11H(ALOYSIUS GONZAGA)69|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - maus tratos do cadáver do santo
+11H(ALOYSIUS GONZAGA)5|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - actividades e eventos milagrosos ~ santo 
+11H(ALOYSIUS GONZAGA)59|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - estigmatização do santo 
+11H(ALOYSIUS GONZAGA)6|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - martírio, sofrimento, infortúnio, morte do santo
+11H(ALOYSIUS GONZAGA)68|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - morte, leito de morte do santo
+11H(ALOYSIUS GONZAGA)69|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - maus tratos do cadáver do santo
 11H(ALOYSIUS GONZAGA)7|glória de São Luís Gonzaga
-11H(ALOYSIUS GONZAGA)8|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - ocorrências post-mortem  ~ santo 
-11H(ALOYSIUS GONZAGA)81|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - descoberta, transporte das relíquias do santo 
-11H(ALOYSIUS GONZAGA)82|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - milagres que ocorrem durante o manuseamento das relíquias do santo
-11H(ALOYSIUS GONZAGA)83|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - acções póstumas, aparições do santo 
-11H(ALOYSIUS GONZAGA)84|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - beatificação, canonização do santo 
-11H(ALOYSIUS GONZAGA)9|o padre jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - retrato do santo 
+11H(ALOYSIUS GONZAGA)8|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - ocorrências post-mortem  ~ santo 
+11H(ALOYSIUS GONZAGA)81|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - descoberta, transporte das relíquias do santo 
+11H(ALOYSIUS GONZAGA)82|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - milagres que ocorrem durante o manuseamento das relíquias do santo
+11H(ALOYSIUS GONZAGA)83|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - acções póstumas, aparições do santo 
+11H(ALOYSIUS GONZAGA)84|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - beatificação, canonização do santo 
+11H(ALOYSIUS GONZAGA)9|o jesuíta Luís Gonzaga; possíveis atributos: crucifixo, flagelo, lírio, crânio - retrato do santo 
 11H(AMAND)|Amândio (Amandus) de Maastricht; possíveis atributos: serpente
 11H(AMAND)0|Amândio (Amandus) de Maastricht; possíveis atributos: serpente - santo representado em grupo
 11H(AMAND)1|Amândio (Amandus) de Maastricht; possíveis atributos: serpente - iconografia específica ~ santo
@@ -5230,37 +5230,37 @@
 11H(PAUL)83|o apóstolo Paulo de Tarso; possíveis atributos: livro, rolo, espada - acções póstumas, aparições do santo
 11H(PAUL)84|o apóstolo Paulo de Tarso; possíveis atributos: livro, rolo, espada - beatificação, canonização do santo
 11H(PAUL)9|o apóstolo Paulo de Tarso; possíveis atributos: livro, rolo, espada - retrato do santo
-11H(PETER CANISIUS)|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio
-11H(PETER CANISIUS)0|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - santo representado em grupo
+11H(PETER CANISIUS)|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio
+11H(PETER CANISIUS)0|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - santo representado em grupo
 11H(PETER CANISIUS)1|iconografia específica ~ São Pedro Canísio 
 11H(PETER CANISIUS)11|iconografia específica -  São Pedro Canísio - santo como padroeiro, protector, intercessor
 11H(PETER CANISIUS)119|iconografia específica ~ São Pedro Canísio  - santo protegendo os devotos sob o manto, "Schutzmantel"
 11H(PETER CANISIUS)12|São Pedro Canísio escrevendo
 11H(PETER CANISIUS)13|iconografia específica ~ São Pedro Canísio - santo como fundador da Ordem
 11H(PETER CANISIUS)131|iconografia específica ~ São Pedro Canísio - confirmação da Ordem, aprovação da(s) Regra(s)
-11H(PETER CANISIUS)2|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - primeiros anos da vida do santo
-11H(PETER CANISIUS)3|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - devoção pessoal do santo
-11H(PETER CANISIUS)31|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - vocação, conversão do santo
-11H(PETER CANISIUS)32|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - baptismo, consagração, professar votos
-11H(PETER CANISIUS)33|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - renúncia de bens materiais, vida ascética do santo
-11H(PETER CANISIUS)34|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - visão(ões), casamento místico do santo
-11H(PETER CANISIUS)35|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - tentações do santo
-11H(PETER CANISIUS)36|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - penitência do santo
-11H(PETER CANISIUS)37|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - santo meditando, em êxtase
+11H(PETER CANISIUS)2|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - primeiros anos da vida do santo
+11H(PETER CANISIUS)3|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - devoção pessoal do santo
+11H(PETER CANISIUS)31|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - vocação, conversão do santo
+11H(PETER CANISIUS)32|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - baptismo, consagração, professar votos
+11H(PETER CANISIUS)33|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - renúncia de bens materiais, vida ascética do santo
+11H(PETER CANISIUS)34|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - visão(ões), casamento místico do santo
+11H(PETER CANISIUS)35|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - tentações do santo
+11H(PETER CANISIUS)36|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - penitência do santo
+11H(PETER CANISIUS)37|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - santo meditando, em êxtase
 11H(PETER CANISIUS)4|actividades e eventos não milagrosos ~ São Pedro Canísio 
 11H(PETER CANISIUS)41|São Pedro Canísio ensina o catecismo
-11H(PETER CANISIUS)5|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - actividades e eventos milagrosos ~ santo
-11H(PETER CANISIUS)59|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - estigmatização do santo
-11H(PETER CANISIUS)6|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - martírio, sofrimento, infortúnio, morte do santo
-11H(PETER CANISIUS)68|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - morte, leito de morte do santo
-11H(PETER CANISIUS)69|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - maus tratos do cadáver do santo
-11H(PETER CANISIUS)7|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - apoteose, glória, triunfo do santo
-11H(PETER CANISIUS)8|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - ocorrências post-mortem ~ santo
-11H(PETER CANISIUS)81|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - descoberta, transporte das relíquias do santo
-11H(PETER CANISIUS)82|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - milagres que ocorrem durante o manuseamento das relíquias do santo
-11H(PETER CANISIUS)83|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - acções póstumas, aparições do santo
-11H(PETER CANISIUS)84|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - beatificação, canonização do santo
-11H(PETER CANISIUS)9|o padre jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - retrato do santo
+11H(PETER CANISIUS)5|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - actividades e eventos milagrosos ~ santo
+11H(PETER CANISIUS)59|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - estigmatização do santo
+11H(PETER CANISIUS)6|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - martírio, sofrimento, infortúnio, morte do santo
+11H(PETER CANISIUS)68|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - morte, leito de morte do santo
+11H(PETER CANISIUS)69|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - maus tratos do cadáver do santo
+11H(PETER CANISIUS)7|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - apoteose, glória, triunfo do santo
+11H(PETER CANISIUS)8|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - ocorrências post-mortem ~ santo
+11H(PETER CANISIUS)81|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - descoberta, transporte das relíquias do santo
+11H(PETER CANISIUS)82|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - milagres que ocorrem durante o manuseamento das relíquias do santo
+11H(PETER CANISIUS)83|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - acções póstumas, aparições do santo
+11H(PETER CANISIUS)84|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - beatificação, canonização do santo
+11H(PETER CANISIUS)9|o jesuíta Pedro Canísio; possíveis atributos: livro, crucifixo, monograma IHS, pena, crânio - retrato do santo
 11H(PETER MARTYR)|o frade dominicano Pedro Mártir de Verona; possíveis atributos: crucifixo, dedo sobre os lábios, palma, espada (machado ou faca) no crânio (ou peito), ferida na cabeça
 11H(PETER MARTYR)0|o frade dominicano Pedro Mártir de Verona; possíveis atributos: crucifixo, dedo sobre os lábios, palma, espada (machado ou faca) no crânio (ou peito), ferida na cabeça - santo representado em grupo
 11H(PETER MARTYR)1|o frade dominicano Pedro Mártir de Verona; possíveis atributos: crucifixo, dedo sobre os lábios, palma, espada (machado ou faca) no crânio (ou peito), ferida na cabeça - iconografia específica ~ santo
