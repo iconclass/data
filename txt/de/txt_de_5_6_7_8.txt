@@ -4929,6 +4929,11 @@
 71X1(Ps. 38:1)2|'Dixi custodiam' - Ich habe mir vorgenommen' - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
 71X1(Ps. 38:1)3|'Dixi custodiam' - Ich habe mir vorgenommen' - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
 71X1(Ps. 38:1)4|'Dixi custodiam' - Ich habe mir vorgenommen' - das Buch der Psalmen (mit Bezug auf andere Szenen)
+71X1(Ps. 42:2)|'Quemadmodum desiderat cervus' - 'Wie der Hirsch lechzt nach frischem Wasser’
+71X1(Ps. 42:2)1|'Quemadmodum desiderat cervus' - ’Wie der Hirsch lechzt nach frischem Wasser’ - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
+71X1(Ps. 42:2)2|'Quemadmodum desiderat cervus' - 'Wie der Hirsch lechzt nach frischem Wasser’ - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)
+71X1(Ps. 42:2)3|'Quemadmodum desiderat cervus' - 'Wie der Hirsch lechzt nach frischem Wasser’ - das Buch der Psalmen (mit Bezug auf nicht-biblische christliche Motive)
+71X1(Ps. 42:2)4|'Quemadmodum desiderat cervus' - 'Wie der Hirsch lechzt nach frischem Wasser’ - das Buch der Psalmen (mit Bezug auf andere Szenen)
 71X1(Ps. 49:3)|'mein Mund kündet Weisheit
 71X1(Ps. 49:3)1|'mein Mund kündet Weisheit' - das Buch der Psalmen (mit Bezug auf Szenen aus dem Alten Testament)
 71X1(Ps. 49:3)2|'mein Mund kündet Weisheit' - das Buch der Psalmen (mit Bezug auf Szenen aus dem Neuen Testament)

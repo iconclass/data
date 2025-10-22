@@ -4920,15 +4920,20 @@
 71X1(Ps. 22:18)3|'they part my garments' - the book of Psalms ~ non-biblical Christian motifs
 71X1(Ps. 22:18)4|'they part my garments' - the book of Psalms ~ other scenes
 71X1(Ps. 26:1)|'Dominus illuminatio' - The Lord is my light
-71X1(Ps. 26:1)1|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 26:1)2|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 26:1)3|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 26:1)4|'Dominus illuminatio' - The Lord is my light' - the book of Psalms ~ other scenes
-71X1(Ps. 38:1)|'Dixi custodiam' - I said, I will take heed
-71X1(Ps. 38:1)1|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ scenes from the Old Testament
-71X1(Ps. 38:1)2|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ scenes from the New Testament
-71X1(Ps. 38:1)3|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ non-biblical Christian motifs
-71X1(Ps. 38:1)4|'Dixi custodiam' - I said, I will take heed' - the book of Psalms ~ other scenes
+71X1(Ps. 26:1)1|'Dominus illuminatio' - 'The Lord is my light' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 26:1)2|'Dominus illuminatio' - 'The Lord is my light' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 26:1)3|'Dominus illuminatio' - 'The Lord is my light' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 26:1)4|'Dominus illuminatio' - 'The Lord is my light' - the book of Psalms ~ other scenes
+71X1(Ps. 38:1)|'Dixi custodiam' - 'I said, I will take heed'
+71X1(Ps. 38:1)1|'Dixi custodiam' - 'I said, I will take heed' - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 38:1)2|'Dixi custodiam' - 'I said, I will take heed' - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 38:1)3|'Dixi custodiam' - 'I said, I will take heed' - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 38:1)4|'Dixi custodiam' - 'I said, I will take heed' - the book of Psalms ~ other scenes
+71X1(Ps. 42:2)|'Quemadmodum desiderat cervus' - ’As the deer pants for streams of water’
+71X1(Ps. 42:2)1|'Quemadmodum desiderat cervus' - ’As the deer pants for streams of water’ - the book of Psalms ~ scenes from the Old Testament
+71X1(Ps. 42:2)2|'Quemadmodum desiderat cervus' - ’As the deer pants for streams of water’ - the book of Psalms ~ scenes from the New Testament
+71X1(Ps. 42:2)3|'Quemadmodum desiderat cervus' - ’As the deer pants for streams of water’ - the book of Psalms ~ non-biblical Christian motifs
+71X1(Ps. 42:2)4|'Quemadmodum desiderat cervus' - ’As the deer pants for streams of water’ - the book of Psalms ~ other scenes
 71X1(Ps. 49:3)|'my mouth shall speak of wisdom'
 71X1(Ps. 49:3)1|'my mouth shall speak of wisdom' - the book of Psalms ~ scenes from the Old Testament
 71X1(Ps. 49:3)2|'my mouth shall speak of wisdom' - the book of Psalms ~ scenes from the New Testament
