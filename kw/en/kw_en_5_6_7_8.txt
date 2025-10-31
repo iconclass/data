@@ -17183,8 +17183,10 @@
 73F29214|lion
 73F29214|well
 73F29215|arm
+73F29215|dog
 73F29215|banquet
 73F29215|hall
+73F29215|hand
 73F29216|conversion
 73F29216|flute
 73F29216|musician

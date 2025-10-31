@@ -17585,7 +17585,9 @@
 73F29214|échanson
 73F29215|banquet
 73F29215|bras
+73F29215|chien
 73F29215|hall
+73F29215|main
 73F29215|salle
 73F29216|conversion
 73F29216|flûte

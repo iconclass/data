@@ -17185,6 +17185,8 @@
 73F29214|bem
 73F29215|braço
 73F29215|banquete
+73F29215|mão
+73F29215|cachorro
 73F29215|corredor
 73F29216|conversão
 73F29216|flauta

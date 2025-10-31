@@ -17591,6 +17591,8 @@
 73F29214|uccidere (rapporti tra uomo e animale)
 73F29215|banchetto
 73F29215|braccio
+73F29215|cane
+73F29215|mano
 73F29215|sala
 73F29216|conversione
 73F29216|flauto
