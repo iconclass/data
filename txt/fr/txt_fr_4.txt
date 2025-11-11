@@ -3067,6 +3067,7 @@
 45C11(SPEAR)|armes de jet : lance
 45C12|armes de choc
 45C12(...)|armes de choc (avec NOM)
+45C12(AXE)|armes de choc : hache
 45C12(CLUB)|armes de choc : matraque
 45C13|armes tranchantes
 45C13(...)|armes tranchantes (avec NOM)

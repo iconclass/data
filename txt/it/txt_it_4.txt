@@ -3066,6 +3066,7 @@
 45C11(SPEAR)|armi da lancio: lancia
 45C12|armi da botta
 45C12(...)|armi da botta (col NOME)
+45C12(AXE)|armi da botta: ascia
 45C12(CLUB)|armi da botta: clava
 45C13|armi da taglio
 45C13(...)|armi da taglio (col NOME)

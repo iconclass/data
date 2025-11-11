@@ -3066,6 +3066,7 @@
 45C11(SPEAR)|Wurfwaffen: Speer
 45C12|Schlagwaffen
 45C12(...)|Schlagwaffen (mit NAMEN)
+45C12(AXE)|Schlagwaffen: Axt
 45C12(CLUB)|Schlagwaffen: Knüppel
 45C13|Hieb- und Stichwaffen
 45C13(...)|Hieb- und Stichwaffen (mit NAMEN)

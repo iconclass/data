@@ -3066,6 +3066,7 @@
 45C11(SPEAR)|casting weapons: spear
 45C12|weapons for striking a blow
 45C12(...)|weapons for striking a blow (with NAME)
+45C12(AXE)|weapons for striking a blow: axe
 45C12(CLUB)|weapons for striking a blow: club
 45C13|hacking and thrusting weapons
 45C13(...)|hacking and thrusting weapons (with NAME)

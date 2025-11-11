@@ -3002,6 +3002,7 @@
 45C11(SPEAR)|armas de arremesso: lança
 45C12|armas para golpear
 45C12(...)|armas para golpear (com NOME)
+45C12(AXE)|armas para golpear: machado
 45C12(CLUB)|armas para golpear: maça
 45C13|armas armas cortantes e perfurantes
 45C13(...)|armas armas cortantes e perfurantes (com NOME)
