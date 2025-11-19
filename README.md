@@ -44,7 +44,7 @@ The first part of a line, up to the first space, is the field name. If there are
 [
     {N: "1",
      C: ["10", "11", "12", "13", "14"]},
-    {N: "10}
+    {N: "10"}
 ]
 ```
 
