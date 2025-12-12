@@ -2333,6 +2333,7 @@
 26C42|biruta ou manga de vento
 26C5|barómetro
 26C6|vento como um rosto humano, soprando com as bochechas arredondadas
+26C61|com asas presas à cabeça
 26C9|ausência de vento, calma
 26D|geada, tempo frio
 26D1|neve

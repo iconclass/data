@@ -3092,6 +3092,7 @@
 26C6|temps
 26C6|vent
 26C6|visage
+26C61|aile
 26C9|absence
 26C9|calme
 26C9|manque

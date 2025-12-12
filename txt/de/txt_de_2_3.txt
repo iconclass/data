@@ -2368,6 +2368,7 @@
 26C42|Luftsack
 26C5|Barometer
 26C6|Wind als ein menschliches Gesicht, mit aufgeblasenen Backen
+26C61|mit am Kopf befestigten Flügeln
 26C9|Windstille
 26D|Frost, Frostwetter
 26D1|Schnee

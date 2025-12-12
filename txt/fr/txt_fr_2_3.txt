@@ -2368,6 +2368,7 @@
 26C42|manche à vent
 26C5|baromètre
 26C6|vent comme un visage humain, soufflant avec des joues arrondies
+26C61|avec des ailes attachées à la tête
 26C9|absence de vent, calme
 26D|gel, temps glacial
 26D1|neige

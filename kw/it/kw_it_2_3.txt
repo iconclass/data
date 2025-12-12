@@ -3035,6 +3035,7 @@
 26C6|tempo atmosferico
 26C6|vento
 26C6|volto
+26C61|ala
 26C9|calma
 26C9|fenomeni
 26C9|fenomeni meteorologici

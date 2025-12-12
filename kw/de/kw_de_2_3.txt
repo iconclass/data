@@ -3306,6 +3306,7 @@
 26C6|Wetter
 26C6|Wind
 26C6|meteoritische Phänomene
+26C61|Flügel
 26C9|Mangel
 26C9|Natur
 26C9|Phaenomene

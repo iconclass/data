@@ -3041,6 +3041,7 @@
 26C6|phenomena
 26C6|weather
 26C6|wind
+26C61|wing
 26C9|calm
 26C9|lack
 26C9|meteorological phenomena

@@ -2368,6 +2368,7 @@
 26C42|manica a vento
 26C5|barometro
 26C6|vento come volto umano, che soffia con le guance rigonfie, tonde
+26C61|con le ali attaccate alla testa
 26C9|assenza di vento, calma, bonaccia
 26D|gelo, tempo glaciale
 26D1|neve

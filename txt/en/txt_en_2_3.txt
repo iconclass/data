@@ -2369,6 +2369,7 @@
 26C42|windsock
 26C5|barometer
 26C6|wind as a human face, blowing with rounded cheeks
+26C61|with wings attached to the head
 26C9|absence of wind, calm
 26D|frost, freezing weather
 26D1|snow

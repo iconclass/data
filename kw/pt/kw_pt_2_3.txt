@@ -3042,6 +3042,7 @@
 26C6|fenómenos
 26C6|clima
 26C6|vento
+26C61|asa
 26C9|calma
 26C9|falta
 26C9|fenômenos meteorológicos
