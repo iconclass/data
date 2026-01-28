@@ -7287,6 +7287,7 @@
 48A12|Dedikationsbild
 48A12|artist
 48A12|offering
+48A12|dedication
 48A13|art lover
 48A13|artist
 48A13|receiving a person
