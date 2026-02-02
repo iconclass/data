@@ -6467,4 +6467,3 @@
 #49N21|lectern ~ reading
 #49N22|pointer ~ reading
 #49N23|book-marker
-#

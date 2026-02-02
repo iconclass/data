@@ -1,0 +1,5858 @@
+2|příroda
+20|Diana z Efezu
+20|Příroda
+20|Příroda
+20|Stuha
+20|prsa
+21|prvky
+21|pět
+21|čtyři
+210|Prvky
+210|Empedokles
+210|Stuha
+21A|voda
+21A0|Vzduch
+21A0|Vzduchový vůz
+21A0|Stuha
+21A1|duch
+21A1|sylfa
+21B|země
+21B0|Vůz země
+21B0|Stuha
+21B0|Země
+21B1|trpaslík
+21B1|duch
+21B1|troll
+21C|čtyři
+21C0|Ohnivý vůz
+21C0|Oheň
+21C0|Stuha
+21D|voda
+21D0|Voda
+21D0|Vozík na vodu
+21D0|Stuha
+21D1|Je mi líto, ale s tím vám nemohu pomoci.
+21D1|duch
+21D1|Omlouvám se.
+21D2|led
+21D3|pára
+21E|podstata
+21E|éter
+21E|pátá esence
+22|přírodní jevy
+22|jevy
+22A|věc
+22A0|alegorie
+22A1|chemická látka
+22A2|chemické jevy
+22A21|reakce
+22A3|fyzikální jevy
+22A31|stát
+22A311|pevný
+22A312|kapalina
+22A3121|kondenzace
+22A31211|stopa
+22A31211|kondenzační stopa
+22A313|plyn
+22B|elektřina
+22B|magnetismus
+22B1|elektrické jevy
+22B11|kop
+22B2|magnetické jevy
+22B21|magnet
+22B22|síla
+22B22|magnetická síla
+22B221|atrakce
+22B222|odpor
+22C|světlo
+22C1|přirozené světlo
+22C11|paprsek světla
+22C2|umělé světlo
+22C21|paprsek světla
+22C3|nadpřirozené světlo
+22C31|paprsek světla
+22C311|Dobrý den
+22C311|svatozář
+22C3111|kříž
+22C3111|křížový svatozář
+22C3112|kosočtverec
+22C3112|čtverec (tvar)
+22C3113|hvězda
+22C3115|zlato
+22C3115|příze
+22C312|mandle
+22C3121|mandle
+22C3121|oválný
+22C3122|kruh
+22C32|nebe
+22C32|paprsek světla
+22C4|barva
+22C4|barva
+22C4|pigment
+22C4(BLACK)|černá
+22C4(BLUE)|modrá
+22C4(BROWN)|hnědý
+22C4(GOLD)|zlato
+22C4(GREEN)|zelený
+22C4(PURPLE)|fialová
+22C4(RED)|síť
+22C4(WHITE)|bílá
+22C4(YELLOW)|žlutá
+22C5|odraz
+22C8|stín
+22C9|tma
+22C90|Tma
+22C90|Stuha
+22C91|polotma
+22D|zvuk
+22D1|hlasitý zvuk
+22D1|hluk
+22D11|soulad
+22D11|harmonie
+22D11|hudba
+22D11|umělecké dílo
+22D110|Harmonie
+22D110|Stuha
+22D12|nesoulad
+22D2|měkký
+22D3|bariéra
+22D3|zvuková bariéra
+22D4|echo
+22D9|ticho
+22E|teploty
+22E1|teplo
+22E11|zářivý
+22E12|hoření
+22E13|vyzařující
+22E2|chladný
+22E21|zmrazení
+22E22|absolutní nula
+22E22|nulový bod
+22E3|měřítko
+22E31|Fahrenheit
+22E32|Réaumur
+22E33|Celsius
+22E34(...)|Kelvin
+22E4|teploměr
+23|čas
+23A|alegorie
+23A1|kosa
+23A1|křídlo
+23A11|Stuha
+23A11|Čas
+23A2|Věčnost
+23A2|Věčnost
+23A2|Stuha
+23A2|věčnost
+23A21|Ouroboros
+23A21|had
+23A31|minulost
+23A32|přítomný
+23A33|budoucnost
+23A4|účinek
+23A41|vzduch (v)
+23A41|přeprava
+23A41|odhalující
+23A41|pravda
+23A41|odhalení
+23A411|nahý
+23A411|svlékání
+23A42|skrývání
+23A42|minulost
+23A43|Lenost
+23A43|pracovitost
+23A43|trest
+23A43|odměňující
+23A44|prchavost
+23A441|budova
+23A441|zřícenina
+23A45|únos
+23A45|krása
+23B|epochy
+23B1|tisíc
+23B2|tisíciletí
+23B2|tisíc
+23B3|století
+23B3|stovka
+23B30|Stuha
+23B30|Století
+23B4|padesát
+23B5|dvacet pět
+23B6|dvanáct a půl
+23B7|desetiletí
+23B7|ten
+23B8|pět
+23B8|lustrum
+23B9(...)|skvělý rok
+23B9(...)|třistašedesát pět
+23C|sluneční rok
+23C|oni
+23C|rok
+23C1|Rok
+23C1|Dávka
+23C1|Vůz roku
+23C1|Stuha
+23C1|personifikace
+23C2|Miluji tě
+23C3|hvězdný
+23C3|hvězda
+23D|Čtyři roční období (Le)
+23D|Stuha
+23D|Sezóna
+23D|personifikace
+23D|sezóna
+23D2|dva
+23D21|zima
+23D22|léto
+23D23|svár
+23D23|léto
+23D23|zima
+23D3|tři
+23D311|duben
+23D311|únor
+23D311|leden
+23D311|březen
+23D312|srpen
+23D312|červenec
+23D312|červen
+23D312|Existuje
+23D313|December
+23D313|listopad
+23D313|říjen
+23D313|září
+23D321|December
+23D321|únor
+23D321|leden
+23D321|březen
+23D322|duben
+23D322|červenec
+23D322|červen
+23D322|Existuje
+23D323|srpen
+23D323|listopad
+23D323|říjen
+23D323|září
+23D4|čtyři
+23D41|Hyems
+23D41|Zima
+23D41|oteplování
+23D41|zima
+23D42|Jaro
+23D42|Zobrazit
+23D42|jaro
+23D43|Léto
+23D43|Léto
+23D43|léto
+23D44|Podzim
+23D44|Podzim
+23D44|podzim
+23D5|pět
+23D6|šest
+23D611|únor
+23D611|leden
+23D612|duben
+23D612|březen
+23D613|červen
+23D613|Existuje
+23D614|srpen
+23D614|červenec
+23D615|říjen
+23D615|září
+23D616|December
+23D616|listopad
+23D621|December
+23D621|leden
+23D622|únor
+23D622|březen
+23D623|duben
+23D623|Existuje
+23D624|červenec
+23D624|červen
+23D625|srpen
+23D625|září
+23D626|listopad
+23D626|říjen
+23E|aktivity
+23E|práce
+23E|krajina
+23E|zaměstnání
+23E|sezóna
+23E2|dva
+23E21|zima
+23E22|léto
+23E23|svár
+23E23|léto
+23E23|zima
+23E3|tři
+23E311|duben
+23E311|únor
+23E311|leden
+23E311|březen
+23E312|srpen
+23E312|červenec
+23E312|červen
+23E312|Existuje
+23E313|December
+23E313|listopad
+23E313|říjen
+23E313|září
+23E321|December
+23E321|únor
+23E321|leden
+23E321|březen
+23E322|duben
+23E322|červenec
+23E322|červen
+23E322|Existuje
+23E323|srpen
+23E323|listopad
+23E323|říjen
+23E323|září
+23E4|čtyři
+23E41|zima
+23E42|jaro
+23E43|léto
+23E44|podzim
+23E5|pět
+23E6|šest
+23E611|únor
+23E611|leden
+23E612|duben
+23E612|březen
+23E613|červen
+23E613|Existuje
+23E614|srpen
+23E614|červenec
+23E615|říjen
+23E615|září
+23E616|December
+23E616|listopad
+23E621|December
+23E621|leden
+23E622|únor
+23E622|březen
+23E623|duben
+23E623|Existuje
+23E624|červenec
+23E624|červen
+23E625|srpen
+23E625|září
+23E626|listopad
+23E626|říjen
+23F|krajina
+23F|sezóna
+23F2|dva
+23F21|zima
+23F22|léto
+23F23|svár
+23F23|léto
+23F23|zima
+23F3|tři
+23F311|duben
+23F311|únor
+23F311|leden
+23F311|březen
+23F312|srpen
+23F312|červenec
+23F312|červen
+23F312|Existuje
+23F313|December
+23F313|listopad
+23F313|říjen
+23F313|září
+23F321|December
+23F321|únor
+23F321|leden
+23F321|březen
+23F322|duben
+23F322|červenec
+23F322|červen
+23F322|Existuje
+23F323|srpen
+23F323|listopad
+23F323|říjen
+23F323|září
+23F4|čtyři
+23F41|zima
+23F42|jaro
+23F43|léto
+23F44|podzim
+23F5|pět
+23F6|šest
+23F611|únor
+23F611|leden
+23F612|duben
+23F612|březen
+23F613|červen
+23F613|Existuje
+23F614|srpen
+23F614|červenec
+23F615|říjen
+23F615|září
+23F616|December
+23F616|listopad
+23F621|December
+23F621|leden
+23F622|únor
+23F622|březen
+23F623|duben
+23F623|Existuje
+23F624|červenec
+23F624|červen
+23F625|srpen
+23F625|září
+23F626|listopad
+23F626|říjen
+23G|květina
+23G|ovoce
+23G|sezóna
+23G|zátiší
+23G2|dva
+23G21|zima
+23G22|léto
+23G23|svár
+23G23|léto
+23G23|zima
+23G3|tři
+23G311|duben
+23G311|únor
+23G311|leden
+23G311|březen
+23G312|srpen
+23G312|červenec
+23G312|červen
+23G312|Existuje
+23G313|December
+23G313|listopad
+23G313|říjen
+23G313|září
+23G321|December
+23G321|únor
+23G321|leden
+23G321|březen
+23G322|duben
+23G322|červenec
+23G322|červen
+23G322|Existuje
+23G323|srpen
+23G323|listopad
+23G323|říjen
+23G323|září
+23G4|čtyři
+23G41|zima
+23G42|jaro
+23G43|léto
+23G44|podzim
+23G5|pět
+23G6|šest
+23G611|únor
+23G611|leden
+23G612|duben
+23G612|březen
+23G613|červen
+23G613|Existuje
+23G614|srpen
+23G614|červenec
+23G615|říjen
+23G615|září
+23G616|December
+23G616|listopad
+23G621|December
+23G621|leden
+23G622|únor
+23G622|březen
+23G623|duben
+23G623|Existuje
+23G624|červenec
+23G624|červen
+23G625|srpen
+23G625|září
+23G626|listopad
+23G626|říjen
+23H|Bible
+23H|sezóna
+23H2|dva
+23H21|zima
+23H22|léto
+23H23|svár
+23H23|léto
+23H23|zima
+23H3|tři
+23H311|duben
+23H311|únor
+23H311|leden
+23H311|březen
+23H312|srpen
+23H312|červenec
+23H312|červen
+23H312|Existuje
+23H313|December
+23H313|listopad
+23H313|říjen
+23H313|září
+23H321|December
+23H321|únor
+23H321|leden
+23H321|březen
+23H322|duben
+23H322|červenec
+23H322|červen
+23H322|Existuje
+23H323|srpen
+23H323|listopad
+23H323|říjen
+23H323|září
+23H4|čtyři
+23H41|zima
+23H42|jaro
+23H43|léto
+23H44|podzim
+23H5|pět
+23H6|šest
+23H611|únor
+23H611|leden
+23H612|duben
+23H612|březen
+23H613|červen
+23H613|Existuje
+23H614|srpen
+23H614|červenec
+23H615|říjen
+23H615|září
+23H616|December
+23H616|listopad
+23H621|December
+23H621|leden
+23H622|únor
+23H622|březen
+23H623|duben
+23H623|Existuje
+23H624|červenec
+23H624|červen
+23H625|srpen
+23H625|září
+23H626|listopad
+23H626|říjen
+23I|Měsíc obecně
+23I|Stuha
+23I|měsíc
+23I|personifikace
+23I|dvanáct
+23I11|Gennaro
+23I11|leden
+23I12|únor
+23I12|únor
+23I13|březen
+23I13|Březen
+23I21|duben
+23I21|Duben
+23I22|Květen
+23I22|Existuje
+23I23|Červen
+23I23|červen
+23I31|červenec
+23I31|Červenec
+23I32|Srpen
+23I32|srpen
+23I33|září
+23I33|Září
+23I41|říjen
+23I41|Říjen
+23I42|listopad
+23I42|listopad
+23I43|December
+23I43|prosinec
+23K|aktivity
+23K|pečení
+23K|Sokolnictví
+23K|shromáždění
+23K|roubování
+23K|sklizeň
+23K|senoseč
+23K|práce
+23K|krajina
+23K|měsíc
+23K|zaměstnání
+23K|prase
+23K|prořezávání
+23K|porážka
+23K|setí
+23K|mlácení
+23K|dvanáct
+23K|vinice
+23K|vintage
+23K|vinný sud
+23K|lis na víno
+23K|řezbářství
+23K11|leden
+23K12|únor
+23K13|březen
+23K21|duben
+23K22|Existuje
+23K23|červen
+23K31|červenec
+23K32|srpen
+23K33|září
+23K41|říjen
+23K42|listopad
+23K43|December
+23L|krajina
+23L|měsíc
+23L|dvanáct
+23L11|leden
+23L12|únor
+23L13|březen
+23L21|duben
+23L22|Existuje
+23L23|červen
+23L31|červenec
+23L32|srpen
+23L33|září
+23L41|říjen
+23L42|listopad
+23L43|December
+23M|květina
+23M|ovoce
+23M|měsíc
+23M|zátiší
+23M|dvanáct
+23M11|leden
+23M12|únor
+23M13|březen
+23M21|duben
+23M22|Existuje
+23M23|červen
+23M31|červenec
+23M32|srpen
+23M33|září
+23M41|říjen
+23M42|listopad
+23M43|December
+23N|měsíc
+23N|dvanáct
+23N11|leden
+23N12|únor
+23N13|březen
+23N21|duben
+23N22|Existuje
+23N23|červen
+23N31|červenec
+23N32|srpen
+23N33|září
+23N41|říjen
+23N42|listopad
+23N43|December
+23O|značka
+23O|dvanáct
+23O|zvěrokruh
+23O1|zima
+23O11|Kozoroh
+23O11|December
+23O12|Nositel vody
+23O12|leden
+23O13|únor
+23O13|Ryby
+23O2|jaro
+23O21|Beran
+23O21|březen
+23O22|duben
+23O22|Býk
+23O23|Blíženci
+23O23|Existuje
+23O3|léto
+23O31|Rakovina
+23O31|červen
+23O32|červenec
+23O32|Dnes
+23O33|srpen
+23O33|Panna
+23O4|podzim
+23O41|Libry
+23O41|září
+23O42|říjen
+23O42|Štír
+23O43|listopad
+23O43|Lukostřelec
+23O5|astrologie
+23P|týden
+23Q|den
+23Q|sedm
+23Q1|neděle
+23Q2|pondělí
+23Q3|úterý
+23Q4|středa
+23Q5|čtvrtek
+23Q6|pátek
+23Q7|Sobota
+23Q8|zítra
+23R1|den
+23R1|přirozený den
+23R1|dvacet čtyři
+23R10|Přírodní vůz dne
+23R10|Přirozený den
+23R10|Stuha
+23R11|ráno
+23R110|Svítání
+23R110|Stuha
+23R110|personifikace
+23R111|Svítání
+23R111|krajina
+23R113|pak
+23R12|odpoledne
+23R120|Poledne
+23R120|personifikace
+23R121|Poledne
+23R121|krajina
+23R13|večer
+23R130|Večer
+23R130|personifikace
+23R131|Večer
+23R131|krajina
+23R14|noc
+23R140|Noční vůz
+23R140|Noc
+23R140|Nox
+23R140|Stuha
+23R140|Klid noci
+23R140|personifikace
+23R141|Nox
+23R141|krajina
+23R2|den
+23R20|Umělý vůz dne
+23R20|Umělý den
+23R20|Stuha
+23R20|Klid dne
+23R3|hodiny
+23R3|dvacet čtyři
+23R31|dvanáct
+23R310|Hore dne
+23R310|Stuha
+23R310|hodina
+23R32|dvanáct
+23R320|Hore noci
+23R320|Stuha
+23R320|hodina
+23S|říše
+23S|svět
+23S1|čtyři
+23S11|Babylon
+23S12|Persie
+23S13|Řecko
+23S14|Řím
+23S2|Bible
+23S21|Daniel
+23S21|Nebúkadnesar
+23S21|sen
+23S21|velký
+23S21|socha
+23S22|Daniel
+23S22|zvíře
+23S22|čtyři
+23S22|vize
+23T|epochy
+23T|historie
+23T1|Bible
+23T1|sedm
+23T11|Muž
+23T11|Noe
+23T12|Abraham
+23T12|Mojžíš
+23T12|Noe
+23T13|Abraham
+23T13|David
+23T13|Mojžíš
+23T14|Babylonské zajetí
+23T14|David
+23T15|Babylonské zajetí
+23T15|Kristus
+23T16|Kristus
+23T16|než
+23T16|práce
+23T16|Jeho manželka
+23T17|Kristus
+23T17|Nebeský Jeruzalém
+23T17|sabbat
+23T17|než
+23T17|odpočinek
+23T17|spící
+23T21|prehistorie
+23T22|starověká historie
+23T23|klasická antika
+23T24|temné období
+23T25|středověká historie
+23T25|středověk
+23T26|renesance
+23T27|století
+23U|chronologie
+23U1|almanach
+23U1|kalendář
+23U11|věčnost
+23U2|chronometrie
+23U2|instrument
+23U2|měření
+23U20|Horografie
+23U20|Stuha
+23U21|sluneční hodiny
+23U22|přesýpací hodiny
+23U23|vodní hodiny
+23U24|hodiny
+23U241|hodinář
+23U241|hodinář
+23U25|hodiny (hodinky)
+24|nebeská tělesa
+24|nebe
+240|alegorie
+24A|oni
+24A1|východ slunce
+24A11|tyto
+24A110|Úsvit rána
+24A110|Stuha
+24A2|západ slunce
+24A21|soumrak
+24A21|večer
+24A210|Večerní soumrak
+24A210|Stuha
+24A3|zatmění
+24A31|koruna
+24A4|půlnoční slunce
+24A5|fyzikální jevy
+24A51|místo
+24A51|sluneční skvrny
+24A52|Dobrý den
+24A52|falešné slunce
+24A52|sluneční pes
+24A52|jevy
+24A52|místo
+24A6|face
+24A6|kolo
+24A7|pozice
+24A71|letní slunovrat
+24A71|slunovrat
+24A71|letní slunovrat
+24A710|Stuha
+24A710|Letní slunovrat
+24A72|podzimní rovnodennost
+24A72|rovnodennost
+24A720|Podzimní rovnodennost
+24A720|Stuha
+24A73|slunovrat
+24A73|zimní slunovrat
+24A730|Stuha
+24A730|Zimní slunovrat
+24A74|rovnodennost
+24A74|jaro
+24A74|jarní rovnodennost
+24A740|Jarní rovnodennost
+24A740|Stuha
+24A8|světlo
+24A8|sluneční světlo
+24A81|paprsek světla
+24B|Miluji tě
+24B1|srpek měsíce
+24B1|ubývající měsíc
+24B11|face
+24B2|úplněk
+24B21|face
+24B3|srpek měsíce
+24B3|ubývající měsíc
+24B31|face
+24B4|zatmění
+24B5|krajina
+24B5|měsíční krajina
+24B6|světlo
+24B6|měsíční svit
+24B61|měsíční paprsek
+24B61|paprsek světla
+24B62|kontemplace
+24B62|nadávat
+24B7|východ měsíce
+24B8|měsíc zapadá
+24C|planeta
+24C1|sluneční soustava
+24C1|systém
+24C11|Ceres
+24C12|Jupiter
+24C13|březen
+24C14|Rtuť
+24C15|Neptun
+24C16|Pluto
+24C17|Saturn
+24C18|Uran
+24C19|Venuše
+24C191|jitřenka
+24C191|hvězda
+24C192|večernice
+24C192|hvězda
+24C2|Děti planet
+24C2|vliv
+24C2|Miluji tě
+24C2|oni
+24C21|dítě
+24C21|personifikace
+24C211|Saturn
+24C212|Jupiter
+24C213|březen
+24C214|Slunce
+24C215|Venuše
+24C216|Rtuť
+24C217|Měsíc
+24C22|personifikace
+24C22|zvěrokruh
+24C221|Nositel vody
+24C221|Kozoroh
+24C221|Saturn
+24C222|Jupiter
+24C222|Ryby
+24C222|Lukostřelec
+24C223|Beran
+24C223|březen
+24C223|Štír
+24C224|Dnes
+24C224|Slunce
+24C225|Libry
+24C225|Býk
+24C225|Venuše
+24C226|Blíženci
+24C226|Rtuť
+24C226|Panna
+24C227|Rakovina
+24C227|Měsíc
+24C3|kov
+24C3|symbol
+24C31|zlato
+24C31|oni
+24C32|Miluji tě
+24C32|stříbro
+24C33|rtuť
+24C34|měď
+24C34|Venuše
+24C35|železo
+24C35|březen
+24C36|Jupiter
+24C36|novinky
+24C37|olovo
+24C37|Saturn
+24C39(URANUS)|platina
+24C39(URANUS)|Uran
+24D|hvězda
+24D0|alegorie
+24D0|symbol
+24D1|souhvězdí
+24D1(ORION)|Orion
+24D1(POLARIS)|sever
+24D1(POLARIS)|Severní hvězda
+24D1(POLARIS)|Polaris
+24D1(POLARIS)|Žádná hvězda
+24D1(SIRIUS)|Psí hvězda
+24D2|galaxie
+24D21|Mléčná dráha
+24D211|Herkules
+24D211|červen
+24D211|Genesis
+24D211|mléko
+24D211|kojení
+24D4|galaxie
+24E|astronomie
+24E|jevy
+24E1|komet
+24E10|Kometa
+24E10|Stuha
+24E2|meteor
+24E3|meteority
+24F|nebesa
+24F|nebe
+24F1|kontemplace
+24F2|hvězda
+24G|sféra
+24G1|empyrean
+25|země
+25|svět
+250|Stroj světa
+250|Svět
+250|Stuha
+25A|atlas
+25A|mapa
+25A1|světová mapa
+25A11|kruh
+25A11|tvar
+25A11|čtverec (tvar)
+25A111|střed světa
+25A111|pupek
+25A1111|Jeruzalém
+25A1112|Delphi
+25A13|glóbus
+25A131|ikosahedron
+25A14|směr
+25A14|čtyři
+25A141|sever
+25A1410|Stuha
+25A1410|Sever
+25A142|východ
+25A1420|Orient
+25A1420|Stuha
+25A1421|orientace
+25A143|jih
+25A1430|Poledne
+25A1430|Stuha
+25A144|západ
+25A1440|Západ
+25A1440|Stuha
+25A15|zeměpisná šířka
+25A15|zeměpisná délka
+25A1511|rovník
+25A1512|Rakovina
+25A1512|Kozoroh
+25A1512|tropický
+25A1521|poledník
+25A2|kontinent
+25A21|Evropa
+25A22|Záležitost
+25A23|Eurasie
+25A24|Afrika
+25A25|Amerika
+25A251|Severní Amerika
+25A252|Jižní Amerika
+25A26|Austrálie
+25A27|polární oblasti
+25A271|severní pól
+25A272|Jižní pól
+25A3|země
+25A3|region
+25A4|město
+25A5|graf
+25A5|námořní mapa
+25A9|kartografie
+25A90|Korografie
+25A90|Geografie
+25A90|Hydrologie
+25A90|Stuha
+25A90|zeměpis
+25A91|geodézie
+25A91|geodézie
+25A910|Výškový profil
+25A910|Stuha
+25A911|instrument
+25A911|měření
+25A911|geodetický přístroj
+25A9111|Jakubův štáb
+25A9111|personál
+25B|kontinent
+25B1|Evropa
+25B1|Evropa
+25B1|Stuha
+25B2|Záležitost
+25B2|Stuha
+25B3|Afrika
+25B3|Stuha
+25B4|Amerika
+25B4|Stuha
+25B5|Austrálie
+25B6|polární oblasti
+25B61|severní pól
+25B62|Jižní pól
+25C|geologie
+25C|jevy
+25C1|sopečná činnost
+25C11|erupce
+25C11|sopka
+25C111|hledat
+25C112|popelový mrak
+25C12|sopka
+25C13|gejzír
+25C13|teplo
+25C13|jaro (zdroj)
+25C13|pára
+25C14|síra
+25C14|výpary
+25C15|poškození
+25C15|zemětřesení
+25C15|účinek
+25C150|Stuha
+25C150|Zemětřesení
+25C16|Genesis
+25C16|hora
+25C17|Genesis
+25C17|ostrov
+25C19|vyhynulý
+25C19|sopka
+25C192|hledat
+25C2|magnetismus
+25C2|zemský magnetismus
+25C21|kompas
+25C211|kompasová karta
+25D1|kámen
+25D11|drahokam
+25D11(ALMANDINE)|oxid hlinitý
+25D11(AMETHYST)|ametyst
+25D11(CHALCEDONY)|chalcedon
+25D11(CHRYSOBERYL)|chryzoberyl
+25D11(CHRYSOLITE)|chryzolit
+25D11(CHRYSOPRASE)|chrysopras
+25D11(DIAMOND)|diamant
+25D11(EMERALD)|smaragd
+25D11(JASPER)|jaspis
+25D11(ROCK-CRYSTAL)|křišťál
+25D11(RUBY)|rubín
+25D11(SAPPHIRE)|safír
+25D11(TOPAZ)|topaz
+25D11(TURQUOISE)|tyrkysová
+25D12|kámen
+25D12(CHALK)|křída
+25D12(FLINT)|křemen
+25D12(MARBLE)|mramor
+25D12(PUMICE)|pumice
+25D13|kov
+25D13|minerál
+25D13(BITUMEN)|bitumen
+25D13(COPPER)|měď
+25D13(GOLD)|zlato
+25D13(IRON)|železo
+25D13(LEAD)|olovo
+25D13(MAGNETITE)|magnety
+25D13(MERCURY)|rtuť
+25D13(MERCURY)|rtuť
+25D13(PLATINUM)|platina
+25D13(SILVER)|stříbro
+25D13(SULPHUR)|síra
+25D13(TIN)|novinky
+25D14|zvíře
+25D14|děti
+25D141|antracitová
+25D141|uhlí
+25D142|hnědé uhlí
+25D142|uhlí
+25D142|hnědé uhlí
+25D143|jantar
+25D143|fosilie
+25D143|pryskyřice
+25D15|krystal
+25D2|půda
+25D211|humus
+25D22|štěrk
+25D23|písek
+25D24|hlína
+25D241|Hlína
+25D242|spraš
+25D25|rašelina
+25D26|špína
+25D26|bláto
+25D29|prach
+25D3|těžba
+25D31|jít
+25D311|povrchový důl
+25D311|povrchová těžba
+25D312|galerie
+25D312|hřídel
+25D32|miner
+25D32|zaměstnání
+25D321|prospektor
+25D33|budova
+25D34|lom
+25D35|vysoká pec
+25D35|pec
+25D35|náš
+25D35|tavení
+25D4|tekutina
+25D41|minerální voda
+25D41|voda
+25D411|léčení
+25D411|lék
+25D411|jaro (zdroj)
+25D421|jaro (zdroj)
+25D43|olej
+25D431|vrtání
+25D4311|derrick
+25D4312|vrtná plošina
+25D4312|platforma
+25D432|čerpadlo
+25D4321|erupce
+25D4321|erupce
+25D4321|jaro (zdroj)
+25D433|přeprava
+25D4331|potrubní systém
+25D4331|potrubí
+25D434|rafinérie
+25D435|nádrž (kontejner)
+25D44|asfalt
+25D44|makadam
+25D45|plyn
+25D45|země
+25D451|uhlí
+25D4511|továrna
+25D4511|plynárna
+25D4512|plynový zásobník
+25D4512|nádrž (kontejner)
+25D5|zemětřesení
+25D5|geologie
+25D5|sesuv půdy
+25D5|pohyb
+25E|chronologie
+25E|geologie
+25E|historie
+25E(BIG BANG)|Velký třesk
+25E(CENOZOIC)|kainozoikum
+25E(PALEOZOIC)|paleozoikum
+25E(PALEOZOIC)|Primární
+25E(TERTIARY)|Terciární
+25F|zvíře
+25F1|skupina
+25F2|savec
+25F21|skupina
+25F22|opice
+25F22(BABOON)|pavián
+25F23|dravé zvíře
+25F23(BADGER)|jezevec
+25F23(BEAR)|medvěd
+25F23(CHEETAH)|gepard
+25F23(ERMINE)|hermelín
+25F23(FERRET)|fretka
+25F23(FOX)|liška
+25F23(HYENA)|Hyena
+25F23(ICHNEUMON)|ichneumon
+25F23(LEOPARD)|leopard
+25F23(LION)|lev
+25F23(LYNX)|kuna
+25F23(MANGOUSTE)|mangusta
+25F23(MARTEN)|marten
+25F23(OTTER)|vydra
+25F23(PANTHER)|panter
+25F23(POLAR BEAR)|lední medvěd
+25F23(SABLE)|písek
+25F23(TIGER)|tygr
+25F23(WEASEL)|lasice
+25F23(WOLF)|vlk
+25F24|kopytník
+25F24(...)|sob
+25F24(ANTELOPE)|antilopa
+25F24(BISON)|pratur
+25F24(BISON)|My jsme buvoli.
+25F24(BISON)|bonus
+25F24(BOAR)|kanec
+25F24(CAMEL)|velbloud
+25F24(DEER)|jelen
+25F24(DROMEDARY)|jednobradý velbloud
+25F24(ELK)|každý
+25F24(GAZELLE)|gazela
+25F24(GIRAFFE)|žirafa
+25F24(GNU)|kráva
+25F24(HIPPOPOTAMUS)|hroch
+25F24(IBEX)|kamzík
+25F24(MUSK-DEER)|pižmoň
+25F24(ONAGER)|onager
+25F24(ORYX)|Oryx
+25F24(QUAGGA)|quagga
+25F24(RHINOCEROS)|nosorožec
+25F24(STAG)|tyč
+25F24(ZEBRA)|zebra
+25F25|zvíře s kufrem
+25F25(ELEPHANT)|slon
+25F26|hlodavec
+25F26(BEAVER)|bobr
+25F26(HARE)|Vítejte zpět
+25F26(MOUSE)|myš
+25F26(MUSK-RAT)|pižmo
+25F26(MUSK-RAT)|ondatra
+25F26(RABBIT)|králík
+25F26(RAT)|rada
+25F26(SQUIRREL)|veverka
+25F26(WOMBAT)|wombat
+25F27|mořský savec
+25F27(DOLPHIN)|delfín
+25F27(SEAL)|tuleň (savec)
+25F27(WHALE)|velryba
+25F28|létající savec
+25F28(BAT)|jeden
+25F29(ARMADILLO)|pásovec
+25F29(HEDGEHOG)|ježek
+25F29(KANGAROO)|klokan
+25F29(KANGAROO)|vačnatec
+25F29(MOLE)|krtek (savec)
+25F29(PORCUPINE)|dikobraz
+25F29(SLOTH)|lenost
+25F3|pták
+25F31|skupina
+25F32|zpěvný pták
+25F32(BLACKBIRD)|kos
+25F32(CROW)|vrána
+25F32(FINCH)|finch
+25F32(GOLDFINCH)|stehlík
+25F32(JACKDAW)|Kavka
+25F32(LARK)|skřivan
+25F32(MAGPIE)|straka
+25F32(NIGHTINGALE)|slavík
+25F32(RAVEN)|úroveň
+25F32(ROBIN)|červenka
+25F32(SPARROW)|vrabec
+25F32(STARLING)|špaček
+25F32(SWALLOW)|vlaštovka
+25F32(THRUSH)|drozd
+25F32(TIT)|Název
+25F32(WAGTAIL)|konipas
+25F32(WARBLER)|pěnice
+25F32(WHITE THROAT)|bílý krk
+25F32(WREN)|střízlík
+25F33|dravý pták
+25F33(EAGLE)|orel
+25F33(FALCON)|sokol
+25F33(FISH-HAWK)|rybožravý dravec
+25F33(FISH-HAWK)|Osprey
+25F33(HAWK)|jestřáb
+25F33(KITE)|luňák (pták)
+25F33(SPARROW-HAWK)|krahujec
+25F33(VULTURE)|sup
+25F34|sova
+25F35|okrasný pták
+25F35(BIRD OF PARADISE)|rajka
+25F35(BIRD OF PARADISE)|ráj
+25F35(COCKATOO)|kakadu
+25F35(HORNBILL)|zoborožec
+25F35(PARROT)|papoušek
+25F35(PEACOCK)|páv
+25F36|potápěčský pták
+25F36|vodní pták
+25F36(COOT)|Malý chlupatý savec se špičatým čenichem.
+25F36(DIPPER)|lžíce
+25F36(DUCK)|kachna
+25F36(GOOSE)|hus
+25F36(PELICAN)|Pelikán
+25F36(SWAMP-HEN)|bažantice
+25F36(SWAN)|lilie
+25F37|pobřežní pták
+25F37|brodivý pták
+25F37(BITTERN)|hořčit
+25F37(CRANE)|jeřáb
+25F37(GULL)|zlato
+25F37(HERON)|hrdina
+25F37(IBIS)|Ibis
+25F37(LAPWING)|čejka
+25F37(MARABOU)|pírko
+25F37(PLOVER)|pluh
+25F37(PURPLE WATER-HEN)|fialová vodní slepice
+25F37(SNIPE)|bekas
+25F37(STORK)|čáp
+25F37(TROCHILUS)|Trochilus
+25F37(WOODCOCK)|sluka
+25F38|běžec pták
+25F38|kráčející pták
+25F38(...)|perlička
+25F38(BUSTARD)|Velký, těžký pták s dlouhýma nohama, typicky hnědošedé barvy.
+25F38(BUSTARD)|otis
+25F38(OSTRICH)|pštros
+25F38(PARTRIDGE)|koroptev
+25F38(PHEASANT)|bažant
+25F38(QUAIL)|křepelka
+25F38(TURKEY)|krůta
+25F39(...)|včelojed
+25F39(CUCKOO)|kukačka
+25F39(DODO)|dodo
+25F39(DOVE)|kam
+25F39(HOOPOE)|naděje
+25F39(HUMMING-BIRD)|kolibřík
+25F39(KINGFISHER)|ledňáček
+25F39(TURTLE DOVE)|želva
+25F39(WOODPECKER)|datel
+25F39(WRYNECK)|krkavec
+25F4|plaz
+25F41|ještěrka
+25F41(CHAMELEON)|chameleon
+25F42|had
+25F42(...)|užovka obecná
+25F42(VIPER)|Viper
+25F43|krokodýl
+25F43(ALLIGATOR)|aligátor
+25F44|želva
+25F44|želva
+25F5|obojživelník
+25F51|nedostatek
+25F51|ocas
+25F51(FROG)|žába
+25F51(TOAD)|pokoje
+25F52|ocas
+25F6|ryba
+25F61|chrupavčitá ryba
+25F61(DOGFISH)|psí žralok
+25F61(RAY)|paprsek (ryba)
+25F61(SAWFISH)|piloun
+25F61(SHARK)|žralok
+25F62|kostnaté ryby
+25F62(BARBEL)|činka
+25F62(BUTTERFISH)|máslovka
+25F62(CARP)|kapr
+25F62(HERRING)|sleď
+25F62(HIPPOCAMPUS)|hipokampus
+25F62(LUNGFISH)|plíce
+25F62(MACKEREL)|makrela
+25F62(MULLET)|parmice
+25F62(PIKE)|štika (ryba)
+25F62(PILOT-FISH)|pilotní ryba
+25F62(RED HERRING)|odvedení pozornosti
+25F62(ROACH)|šváb
+25F62(SALMON)|losos
+25F62(SARDINE)|sardinky
+25F62(SCARUS)|papouščí ryba
+25F62(SCARUS)|scarus
+25F62(SEA-BREAM)|mořský cejn
+25F62(SEA-DEVIL)|mořský ďábel
+25F62(SEA-PERCH)|mořský okoun
+25F62(SEA-WOLF)|mořský vlk
+25F62(SHEAT-FISH)|ryba sheat
+25F62(STURGEON)|jeseter
+25F62(SUN-FISH)|sluneční ryba
+25F62(SWORD-FISH)|mečoun
+25F62(TUNNY)|tuňák
+25F62(WEEVER)|weever
+25F63|před
+25F63(LAMPREY)|mihule
+25F63(SEA-EEL)|mořský úhoř
+25F64|hluboké moře
+25F7|nižší živočich
+25F71|členovec
+25F711|hmyz
+25F711(ANT)|na
+25F711(ANT)|vážka
+25F711(ANT)|blecha
+25F711(ANT)|veš
+25F711(BEE)|včela
+25F711(BEE)|vážka
+25F711(BEE)|blecha
+25F711(BEE)|veš
+25F711(BEETLE)|brouk
+25F711(BEETLE)|vážka
+25F711(BEETLE)|blecha
+25F711(BEETLE)|veš
+25F711(BUTTERFLY)|motýl
+25F711(BUTTERFLY)|vážka
+25F711(BUTTERFLY)|blecha
+25F711(BUTTERFLY)|veš
+25F711(CATERPILLAR)|housenka
+25F711(CATERPILLAR)|vážka
+25F711(CATERPILLAR)|blecha
+25F711(CATERPILLAR)|veš
+25F711(CICADA)|cikád
+25F711(CICADA)|vážka
+25F711(CICADA)|blecha
+25F711(CICADA)|veš
+25F711(CRICKET)|cvrček (hmyz)
+25F711(CRICKET)|vážka
+25F711(CRICKET)|blecha
+25F711(CRICKET)|veš
+25F711(DAY-FLY)|denní muška
+25F711(DAY-FLY)|vážka
+25F711(DAY-FLY)|efeméra
+25F711(DAY-FLY)|blecha
+25F711(DAY-FLY)|veš
+25F711(DRAGON-FLY)|vážka
+25F711(DUNG-BEETLE)|vážka
+25F711(DUNG-BEETLE)|hnojník
+25F711(DUNG-BEETLE)|blecha
+25F711(DUNG-BEETLE)|veš
+25F711(FLEA)|blecha
+25F711(FLY)|vážka
+25F711(FLY)|blecha
+25F711(FLY)|letět
+25F711(FLY)|veš
+25F711(GLOW-WORM)|vážka
+25F711(GLOW-WORM)|blecha
+25F711(GLOW-WORM)|světluška
+25F711(GLOW-WORM)|veš
+25F711(GNAT)|vážka
+25F711(GNAT)|blecha
+25F711(GNAT)|vědět
+25F711(GNAT)|veš
+25F711(GRASS-HOPPER)|vážka
+25F711(GRASS-HOPPER)|blecha
+25F711(GRASS-HOPPER)|kobylka
+25F711(GRASS-HOPPER)|veš
+25F711(HORNET)|roh
+25F711(HORNET)|ovád
+25F711(ICHNEUMON-FLY)|vážka
+25F711(ICHNEUMON-FLY)|blecha
+25F711(ICHNEUMON-FLY)|ichneumon
+25F711(ICHNEUMON-FLY)|veš
+25F711(LADYBIRD)|vážka
+25F711(LADYBIRD)|blecha
+25F711(LADYBIRD)|beruška
+25F711(LADYBIRD)|veš
+25F711(LOUSE)|veš
+25F711(MANTIS)|vážka
+25F711(MANTIS)|blecha
+25F711(MANTIS)|veš
+25F711(MANTIS)|kudlanec
+25F711(MOSQUITO)|komár
+25F711(MOSQUITO)|komár
+25F711(MOTH)|vážka
+25F711(MOTH)|blecha
+25F711(MOTH)|veš
+25F711(MOTH)|můra
+25F711(PRAYING-MANTIS)|vážka
+25F711(PRAYING-MANTIS)|blecha
+25F711(PRAYING-MANTIS)|veš
+25F711(PRAYING-MANTIS)|kudlanek nábožný
+25F711(SCARABAEUS)|vážka
+25F711(SCARABAEUS)|blecha
+25F711(SCARABAEUS)|veš
+25F711(SCARABAEUS)|scarabaeus
+25F711(WASP)|vážka
+25F711(WASP)|blecha
+25F711(WASP)|veš
+25F711(WASP)|vosa
+25F712|stonožka
+25F712|mnohožka
+25F713|pavouk
+25F714|roztoč (hmyz)
+25F715|scorpion
+25F716|korýš
+25F716(CRAB)|krab
+25F716(LOBSTER)|humr
+25F72|měkkýš
+25F72(CUTTLE-FISH)|sépie
+25F72(MUREX)|murex
+25F72(MUSSEL)|mušle
+25F72(NAUTILUS)|nautilus
+25F72(OCTOPUS)|chobotnice
+25F72(OYSTER)|ústřice
+25F72(POLYP)|polyp
+25F72(SNAIL)|šnek
+25F72(SQUID)|oliheň
+25F73|červ
+25F73(...)|krvežíznivý
+25F73(...)|chaetopod
+25F73(...)|žížala
+25F73(...)|pijavice
+25F73(...)|škrkavka
+25F73(...)|tasemnice
+25F74|ostnokožec
+25F74(SEA-URCHIN)|mořský ježek
+25F74(STARFISH)|hvězdice
+25F75|coelenterát
+25F75(...)|polyp
+25F75(CORAL)|sbor
+25F75(JELLY-FISH)|medúza
+25F75(SPONGE)|houba
+25F76|bacily
+25F76|bakterie
+25F76|jednobuněčné zvíře
+25F8|vyhynulý
+25F8(...)|Ichthyosaurus
+25F81|prehistorie
+25F82|fosilie
+25F9|monstrum
+25F9|tvar
+25F91|velký
+25F92|malý
+25F93|vícečetné porody
+25F94|nepřítomnost
+25F94|limb
+25F94|orgán (část těla)
+25F95|limb
+25F95|množství
+25F95|orgán (část těla)
+25F951|hlava (zvíře)
+25F951|tři
+25F952|dvoukorporátní
+25F952|hlava (zvíře)
+25F952|kufr (karoserie)
+25F952|dva
+25F96|limb
+25F96|orgán (část těla)
+25F97|deformace
+25F97|limb
+25F97|orgán (část těla)
+25F971|velký
+25F972|malý
+25FF|Monstra
+25FF|Stuha
+25FF|zvíře
+25FF|báječné zvíře
+25FF|fikce
+25FF|groteskní
+25FF1|skupina
+25FF2|savec
+25FF21|domácí zvíře
+25FF23(BADGER)|jezevec
+25FF23(BEAR)|medvěd
+25FF23(CHEETAH)|gepard
+25FF23(CROCOTAS)|krokodýli
+25FF23(ERMINE)|hermelín
+25FF23(FERRET)|fretka
+25FF23(FOX)|liška
+25FF23(HYENA)|Hyena
+25FF23(ICHNEUMON)|ichneumon
+25FF23(LION)|lev
+25FF23(LYNX)|kuna
+25FF23(MANGOUSTE)|mangusta
+25FF23(MARTEN)|marten
+25FF23(PANTHER)|panter
+25FF23(SABLE)|písek
+25FF23(WEASEL)|lasice
+25FF23(WOLF)|vlk
+25FF231|Griffo
+25FF231|Stuha
+25FF231|orel
+25FF231|griffin
+25FF231|lev
+25FF232|Chiméra
+25FF232|Stuha
+25FF232|koza
+25FF232|lev
+25FF232|had
+25FF233|měnící se
+25FF233|Hyena
+25FF233|proměna
+25FF233|sex
+25FF24(BISON)|pratur
+25FF24(BISON)|My jsme buvoli.
+25FF24(BISON)|bonus
+25FF24(BISON)|sob
+25FF24(BONNACON)|Dobré ráno
+25FF24(BONNACON)|hodně štěstí
+25FF24(CATOBLEPAS)|katoblepas
+25FF24(ELK)|každý
+25FF24(ELK)|sob
+25FF24(GNU)|kráva
+25FF24(GNU)|sob
+25FF24(OX WITH ONE HORN)|roh
+25FF24(OX WITH ONE HORN)|jeden
+25FF24(OX WITH ONE HORN)|kráva
+25FF24(OX WITH ONE HORN)|vůl s jedním rohem
+25FF24(OX WITH ONE HORN)|jednorožec
+25FF24(OX WITH THREE HORNS)|roh
+25FF24(OX WITH THREE HORNS)|kráva
+25FF24(OX WITH THREE HORNS)|vůl se třemi rohy
+25FF24(OX WITH THREE HORNS)|tři
+25FF24(WINGED HORSE)|Okřídlený kůň
+25FF24(WINGED HORSE)|kůň
+25FF24(WINGED HORSE)|křídlo
+25FF241|roh
+25FF241|jeden
+25FF241|jednorožec
+25FF2411|Lov jednorožce
+25FF2411|lov
+25FF2411|lovkyně
+25FF2411|panenka
+25FF2412|pirassoipi
+25FF2412|dva
+25FF2413|antilopa
+25FF2413|Oryx jednorožec
+25FF242|orel
+25FF242|hippogryf
+25FF242|kůň
+25FF243|antilopa
+25FF243|sob
+25FF244|sup bělohlavý
+25FF245|medvěd
+25FF245|oprava
+25FF245|tyč
+25FF246|roh
+25FF246|ti
+25FF246|ideální
+25FF2461|centicore
+25FF26(HARE)|Vítejte zpět
+25FF26(MOUSE)|myš
+25FF26(MUSK-RAT)|pižmo
+25FF26(MUSK-RAT)|ondatra
+25FF26(RABBIT)|králík
+25FF26(RAT)|rada
+25FF26(WOMBAT)|wombat
+25FF28(BAT)|jeden
+25FF29(ARMADILLO)|pásovec
+25FF29(LERTIX)|lertix
+25FF29(MOLE)|krtek (savec)
+25FF29(PORCUPINE)|dikobraz
+25FF3|pták
+25FF3(AVALERION)|avalerion
+25FF3(CARABAS)|černá klobása
+25FF3(CARISTA)|caesarista
+25FF3(FIRE-BIRD)|ohnivý pták
+25FF3(HARPY)|Harpyje
+25FF3(HARPY)|Harpyje
+25FF3(HARPY)|Stuha
+25FF3(HARPY)|dopis
+25FF3(HERCYNIAN BIRD)|ercinee pták
+25FF3(HERCYNIAN BIRD)|hercynian bird
+25FF3(PHOENIX)|fénix
+25FF3(PORPHYRION)|porfyriny
+25FF3(ROC)|kámen
+25FF3(SELEUCIDIAN BIRD)|seleukovský pták
+25FF3(STELLINUS)|stellinus
+25FF3(TRAGOPA)|tragopa
+25FF31|domácí zvíře
+25FF311|bazilišek
+25FF311|kohout
+25FF311|had
+25FF312|alchymie
+25FF312|kohout
+25FF312|kokatrice
+25FF312|drak
+25FF32(CROW)|vrána
+25FF32(FINCH)|finch
+25FF32(GOLDFINCH)|stehlík
+25FF32(LARK)|skřivan
+25FF32(STARLING)|špaček
+25FF32(WARBLER)|pěnice
+25FF32(WHITE THROAT)|bílý krk
+25FF32(WREN)|střízlík
+25FF33(FISH-HAWK)|rybožravý dravec
+25FF33(FISH-HAWK)|Osprey
+25FF33(KITE)|luňák (pták)
+25FF33(SPARROW-HAWK)|krahujec
+25FF33(VULTURE)|sup
+25FF331|vulpanser
+25FF332|orel
+25FF332|dva
+25FF35(BIRD OF PARADISE)|rajka
+25FF35(BIRD OF PARADISE)|ráj
+25FF35(HORNBILL)|zoborožec
+25FF35(PARROT)|papoušek
+25FF35(PEACOCK)|páv
+25FF36(COOT)|Malý chlupatý savec se špičatým čenichem.
+25FF36(DIPPER)|lžíce
+25FF36(DUCK)|kachna
+25FF36(GOOSE)|hus
+25FF36(PELICAN)|Pelikán
+25FF36(SWAMP-HEN)|bažantice
+25FF371|kaladrius
+25FF371|charadrius
+25FF38(...)|perlička
+25FF38(BUSTARD)|Velký, těžký pták s dlouhýma nohama, typicky hnědošedé barvy.
+25FF38(BUSTARD)|otis
+25FF38(OSTRICH)|pštros
+25FF38(PARTRIDGE)|koroptev
+25FF38(PHEASANT)|bažant
+25FF38(TURKEY)|krůta
+25FF39(HOOPOE)|naděje
+25FF4|plaz
+25FF411|drak
+25FF412|čtyři
+25FF412|Salamandra
+25FF412|duch
+25FF421|aspik
+25FF422|drak
+25FF423|Hydrus
+25FF4231|Hydra
+25FF4231|Stuha
+25FF4231|hydra
+25FF424|amphisbaena
+25FF425|roh
+25FF4251|cerastes
+25FF43(ALLIGATOR)|aligátor
+25FF5|obojživelník
+25FF51(TOAD)|pokoje
+25FF6|ryba
+25FF61|leviatan
+25FF61(SHARK)|žralok
+25FF62|hipokampus
+25FF62|hipokampus
+25FF62|kůň
+25FF62|monstrum
+25FF62|mořský koník
+25FF62(CARP)|kapr
+25FF62(HERRING)|sleď
+25FF62(SALMON)|losos
+25FF63|drak
+25FF63|pekařka
+25FF63|mořský drak
+25FF63(LAMPREY)|mihule
+25FF63(SEA-EEL)|mořský úhoř
+25FF64|Echeneis remora
+25FF64|váhání
+25FF65|velký
+25FF65|pila
+25FF7|nižší živočich
+25FF711|pyrausta
+25FF711(...)|vážka
+25FF711(...)|blecha
+25FF711(...)|veš
+25FF711(CICADA)|cikád
+25FF711(CRICKET)|cvrček (hmyz)
+25FF711(DUNG-BEETLE)|hnojník
+25FF716(CRAB)|krab
+25FF716(LOBSTER)|humr
+25FF72(KRAKEN)|křupání
+25FF72(NAUTILUS)|nautilus
+25FF72(OCTOPUS)|chobotnice
+25FF72(POLYP)|polyp
+25FF72(SNAIL)|šnek
+25FF72(SQUID)|oliheň
+25FF73(...)|krvežíznivý
+25FF73(...)|chaetopod
+25FF73(...)|žížala
+25FF73(...)|pijavice
+25FF73(...)|škrkavka
+25FF73(...)|tasemnice
+25FF74(SEA-URCHIN)|mořský ježek
+25FF74(STARFISH)|hvězdice
+25FF75(...)|polyp
+25FF75(CORAL)|sbor
+25FF75(JELLY-FISH)|medúza
+25FF75(SPONGE)|houba
+25FF8|vyhynulý
+25FF8(...)|Ichthyosaurus
+25FF9|monstrum
+25FF9|tvar
+25FF971|velký
+25FF972|malý
+25G|děti
+25G11|skupina
+25G11|strom
+25G12|keř
+25G12|skupina
+25G13|skupina
+25G14|skupina
+25G14|nižší rostlina
+25G2|produkt
+25G21|ovoce
+25G21(ACORN)|žalud
+25G21(ACORN)|moruše
+25G21(ALMOND)|mandle
+25G21(ALMOND)|moruše
+25G21(APPLE)|jablko
+25G21(APPLE)|moruše
+25G21(BEANS)|žena
+25G21(BEANS)|moruše
+25G21(BILBERRY)|borůvka
+25G21(BILBERRY)|moruše
+25G21(BLACKBERRY)|ostružina
+25G21(CHERRY)|třešeň
+25G21(CHERRY)|moruše
+25G21(CHESTNUT)|chestnut
+25G21(CHESTNUT)|moruše
+25G21(FIG)|fík
+25G21(FIG)|moruše
+25G21(GOURD)|tykev
+25G21(GOURD)|moruše
+25G21(HAZELNUT)|lískový ořech
+25G21(KAKI PERSIMMON)|Kaki kaki
+25G21(KAKI PERSIMMON)|kaki kaki
+25G21(LEMON)|citron
+25G21(LEMON)|moruše
+25G21(MEDLAR)|zprostředkovává
+25G21(MEDLAR)|moruše
+25G21(MELON)|meloun
+25G21(MULBERRY)|moruše
+25G21(NUTS)|užitečnost
+25G21(OLIVE)|olivový
+25G21(ORANGE)|oranžová
+25G21(PEACH)|moruše
+25G21(PEACH)|broskve
+25G21(PEAR)|moruše
+25G21(PEAR)|hruška
+25G21(PINE-CONE)|moruše
+25G21(PINE-CONE)|šiška
+25G21(PINEAPPLE)|moruše
+25G21(PINEAPPLE)|ananas
+25G21(PLUM)|moruše
+25G21(PLUM)|pírko
+25G21(POMEGRANATE)|moruše
+25G21(POMEGRANATE)|granátové jablko
+25G21(PUMPKIN)|moruše
+25G21(PUMPKIN)|dýně
+25G21(QUINCE)|moruše
+25G21(QUINCE)|patnáct
+25G21(RASPBERRY)|malina
+25G21(SPRUCE-CONE)|moruše
+25G21(SPRUCE-CONE)|smrková šiška
+25G21(STRAWBERRY)|moruše
+25G21(STRAWBERRY)|jahoda
+25G21(WALNUT)|moruše
+25G21(WALNUT)|užitečnost
+25G21(WALNUT)|ořech
+25G211(...)|slupka
+25G211(...)|prsa
+25G211(...)|skořápka
+25G211(...)|kůže
+25G211(NUTSHELL)|ve zkratce
+25G2111|semeno
+25G2111(...)|čočka
+25G2111(PEA)|hlava
+25G2111(THISTLE-SEED)|bodlákové semeno
+25G22(...)|kůra (kůže)
+25G22(...)|žárovka
+25G22(...)|mrkev
+25G22(...)|korek
+25G22(...)|root
+25G22(...)|hlíza
+25G22(ASPARAGUS)|chřest
+25G22(CINNAMON)|skořice
+25G22(ONION)|cibule
+25G22(RADISH)|ředkev
+25G22(TURNIP)|tuřín
+25G3|strom
+25G3(ACACIA)|akácie
+25G3(ACER)|acer
+25G3(ACER)|javor
+25G3(ALDER)|věk
+25G3(ALMOND-TREE)|mandlovník
+25G3(APPLE-TREE)|jabloň
+25G3(ASH-TREE)|jasan
+25G3(AVOCADO)|avokádo
+25G3(BEECH)|buk
+25G3(BIRCH)|bříza (strom)
+25G3(CEDAR)|cedr
+25G3(CHERRY-TREE)|třešeň
+25G3(COCONUT-TREE)|kokosová palma
+25G3(CYPRESS)|cypřiš
+25G3(DATE-PALM)|datlovník
+25G3(DRACENA)|dracena
+25G3(ELM)|věda
+25G3(FIG-TREE)|fíkovník
+25G3(FIR)|pro
+25G3(HOLM-OAK)|dub letní
+25G3(INDIAN BANYAN)|banyán
+25G3(INDIAN BANYAN)|indický banyán
+25G3(LAUREL)|bobkový list
+25G3(LEMON-TREE)|citroník
+25G3(LINDEN)|linden
+25G3(MULBERRY-TREE)|moruše
+25G3(MYRRH-TREE)|myrhovník
+25G3(OAK)|dub
+25G3(OLEASTER)|oleaster
+25G3(OLIVE-TREE)|olivovník
+25G3(PALM-TREE)|palma
+25G3(PEACH-TREE)|broskvoň
+25G3(PINE)|borovice
+25G3(PLANE-TREE)|platan
+25G3(PLUM-TREE)|švestka
+25G3(POMEGRANATE-TREE)|granátovník
+25G3(POPLAR)|topol
+25G3(QUINCE-TREE)|patnáctka
+25G3(SPRUCE)|smrk
+25G3(STINKING BEAN TREFOIL)|smradlavý jetel
+25G3(WALNUT-TREE)|ořechový strom
+25G3(WALNUT-TREE)|ořešák
+25G3(WHITE POPLAR)|bílý topol
+25G3(WILLOW)|vrba
+25G3(YEW)|jeden
+25G31|keř
+25G31(...)|kadidlovník
+25G31(BLACKBERRY-BUSH)|ostružinový keř
+25G31(BOX)|box (rostlina)
+25G31(BROOM)|koště (rostlina)
+25G31(BUCKTHORN)|rakytník
+25G31(HAZEL)|lískový
+25G31(JUNIPER)|jalovec
+25G31(MYRTLE)|myrt
+25G31(OLEANDER)|oleandr
+25G31(PRIVET)|privet
+25G31(ROSE-BUSH)|růžový keř
+25G39|diagram
+25G39|schéma
+25G391|alchymie
+25G391|filozofie
+25G4|bylina
+25G4(ACANTHUS)|akant
+25G4(ACANTHUS)|ječmen
+25G4(ACANTHUS)|lotus
+25G4(ACANTHUS)|mint-plant
+25G4(ALOE)|aloe
+25G4(ALOE)|ječmen
+25G4(ALOE)|lotus
+25G4(ALOE)|mint-plant
+25G4(AMARANTH)|Amarant
+25G4(ARTICHOKE)|artišok
+25G4(ARTICHOKE)|ječmen
+25G4(ARTICHOKE)|lotus
+25G4(ARTICHOKE)|mint-plant
+25G4(BASIL)|ječmen
+25G4(BASIL)|bazalka
+25G4(BASIL)|lotus
+25G4(BASIL)|mint-plant
+25G4(BEAN)|ječmen
+25G4(BEAN)|žena
+25G4(BEAN)|lotus
+25G4(BEAN)|mint-plant
+25G4(CABBAGE)|ječmen
+25G4(CABBAGE)|zelí
+25G4(CABBAGE)|lotus
+25G4(CABBAGE)|mint-plant
+25G4(CACTUS)|kaktus
+25G4(CAMOMILE)|ječmen
+25G4(CAMOMILE)|heřmánek
+25G4(CAMOMILE)|lotus
+25G4(CAMOMILE)|mint-plant
+25G4(CHONDRILLA)|ječmen
+25G4(CHONDRILLA)|chondrilla
+25G4(CHONDRILLA)|lotus
+25G4(CHONDRILLA)|mint-plant
+25G4(CLOVER)|ječmen
+25G4(CLOVER)|jetel
+25G4(CLOVER)|lotus
+25G4(CLOVER)|mint-plant
+25G4(DICTAMNUS)|ječmen
+25G4(DICTAMNUS)|Rozhodujeme
+25G4(DICTAMNUS)|lotus
+25G4(DICTAMNUS)|mint-plant
+25G4(FIELD ERYNGO)|ječmen
+25G4(FIELD ERYNGO)|polní eryngo
+25G4(FIELD ERYNGO)|lotus
+25G4(FIELD ERYNGO)|mint-plant
+25G4(FLEA-BANE)|ječmen
+25G4(FLEA-BANE)|blechobijec
+25G4(FLEA-BANE)|lotus
+25G4(FLEA-BANE)|mint-plant
+25G4(GARLIC)|ječmen
+25G4(GARLIC)|česnek
+25G4(GARLIC)|lotus
+25G4(GARLIC)|mint-plant
+25G4(GERMANDER)|ječmen
+25G4(GERMANDER)|germander
+25G4(GERMANDER)|lotus
+25G4(GERMANDER)|mint-plant
+25G4(GIANT FENNEL)|ječmen
+25G4(GIANT FENNEL)|fenykl
+25G4(GIANT FENNEL)|obří fenykl
+25G4(GIANT FENNEL)|lotus
+25G4(GIANT FENNEL)|mint-plant
+25G4(GROUNDSEL)|ječmen
+25G4(GROUNDSEL)|pampeliška
+25G4(GROUNDSEL)|lotus
+25G4(GROUNDSEL)|mint-plant
+25G4(HELLEBORE)|ječmen
+25G4(HELLEBORE)|postní růže
+25G4(HELLEBORE)|lotus
+25G4(HELLEBORE)|mint-plant
+25G4(HEMLOCK)|ječmen
+25G4(HEMLOCK)|jedovatá bolehlav
+25G4(HEMLOCK)|lotus
+25G4(HEMLOCK)|mint-plant
+25G4(HENBANE)|ječmen
+25G4(HENBANE)|vyrovnat
+25G4(HENBANE)|lotus
+25G4(HENBANE)|mint-plant
+25G4(HOP)|ječmen
+25G4(HOP)|skok
+25G4(HOP)|lotus
+25G4(HOP)|mint-plant
+25G4(HOUSELEEK)|ječmen
+25G4(HOUSELEEK)|pórek
+25G4(HOUSELEEK)|lotus
+25G4(HOUSELEEK)|mint-plant
+25G4(HYSSOP)|ječmen
+25G4(HYSSOP)|yzop
+25G4(HYSSOP)|lotus
+25G4(HYSSOP)|mint-plant
+25G4(IVY)|ječmen
+25G4(IVY)|Břečťan
+25G4(IVY)|lotus
+25G4(IVY)|mint-plant
+25G4(LETTUCE)|ječmen
+25G4(LETTUCE)|hlávkový salát
+25G4(LETTUCE)|lotus
+25G4(LETTUCE)|mint-plant
+25G4(LUPIN)|ječmen
+25G4(LUPIN)|lotus
+25G4(LUPIN)|vlčí bob
+25G4(LUPIN)|mint-plant
+25G4(MANDRAKE)|ječmen
+25G4(MANDRAKE)|lotus
+25G4(MANDRAKE)|blín
+25G4(MANDRAKE)|mandragora
+25G4(MANDRAKE)|mint-plant
+25G4(MARJORAM)|ječmen
+25G4(MARJORAM)|lotus
+25G4(MARJORAM)|majoránka
+25G4(MARJORAM)|mint-plant
+25G4(MISTLETOE)|ječmen
+25G4(MISTLETOE)|lotus
+25G4(MISTLETOE)|mint-plant
+25G4(MISTLETOE)|jmelí
+25G4(NETTLE)|ječmen
+25G4(NETTLE)|lotus
+25G4(NETTLE)|mint-plant
+25G4(NETTLE)|kopřiva dvoudomá
+25G4(ORIGANUM)|ječmen
+25G4(ORIGANUM)|lotus
+25G4(ORIGANUM)|mint-plant
+25G4(ORIGANUM)|majoránka
+25G4(PEA)|ječmen
+25G4(PEA)|lotus
+25G4(PEA)|mint-plant
+25G4(PEA)|hlava
+25G4(PENNYROYAL)|ječmen
+25G4(PENNYROYAL)|lotus
+25G4(PENNYROYAL)|mint-plant
+25G4(PENNYROYAL)|mátový
+25G4(PEONY)|ječmen
+25G4(PEONY)|lotus
+25G4(PEONY)|mint-plant
+25G4(PEONY)|pivoňka
+25G4(PUMPKIN)|ječmen
+25G4(PUMPKIN)|lotus
+25G4(PUMPKIN)|mint-plant
+25G4(PUMPKIN)|dýně
+25G4(REED)|ječmen
+25G4(REED)|lotus
+25G4(REED)|mint-plant
+25G4(REED)|jel
+25G4(ROCKET)|ječmen
+25G4(ROCKET)|lotus
+25G4(ROCKET)|mint-plant
+25G4(ROCKET)|raketa (rostlina)
+25G4(RUE)|ječmen
+25G4(RUE)|lotus
+25G4(RUE)|mint-plant
+25G4(RUE)|ulice
+25G4(SAFFRON)|ječmen
+25G4(SAFFRON)|lotus
+25G4(SAFFRON)|mint-plant
+25G4(SAFFRON)|šafrán
+25G4(SAGE)|ječmen
+25G4(SAGE)|lotus
+25G4(SAGE)|mint-plant
+25G4(SAGE)|říkat
+25G4(STINGING-NETTLE)|ječmen
+25G4(STINGING-NETTLE)|lotus
+25G4(STINGING-NETTLE)|mint-plant
+25G4(STINGING-NETTLE)|kopřiva dvoudomá
+25G4(STRAWBERRY)|ječmen
+25G4(STRAWBERRY)|lotus
+25G4(STRAWBERRY)|mint-plant
+25G4(STRAWBERRY)|jahoda
+25G4(SUNDEW)|ječmen
+25G4(SUNDEW)|lotus
+25G4(SUNDEW)|mint-plant
+25G4(SUNDEW)|rosnatka
+25G4(THISTLE)|ječmen
+25G4(THISTLE)|lotus
+25G4(THISTLE)|mint-plant
+25G4(THISTLE)|bodlák
+25G4(THYME)|ječmen
+25G4(THYME)|lotus
+25G4(THYME)|mint-plant
+25G4(THYME)|tymián
+25G4(WATER-HEMLOCK)|ječmen
+25G4(WATER-HEMLOCK)|lotus
+25G4(WATER-HEMLOCK)|mint-plant
+25G4(WATER-HEMLOCK)|vodní bolehlav
+25G4(WHEAT)|ječmen
+25G4(WHEAT)|lotus
+25G4(WHEAT)|mint-plant
+25G4(WHEAT)|pšenice
+25G4(WORMWOOD)|ječmen
+25G4(WORMWOOD)|lotus
+25G4(WORMWOOD)|mint-plant
+25G4(WORMWOOD)|pelyněk
+25G41|květina
+25G41(...)|Vlčí mor
+25G41(ALMOND-BLOSSOM)|mandlový květ
+25G41(ANEMONE)|anemone
+25G41(BUTTERCUP)|pryskyřník
+25G41(CARNATION)|karafiát
+25G41(COLUMBINE)|kolumbín
+25G41(CORNFLOWER)|chrpa
+25G41(CROCUS)|krokus
+25G41(HELIOTROPE)|heliotrop
+25G41(HYACINTH)|hyacint
+25G41(IMMORTELLE)|nesmrtelná
+25G41(LILY)|lilie
+25G41(LOTUS)|lotus
+25G41(NARCISSUS)|narcis
+25G41(NARCISSUS)|narcis
+25G41(ORCHID)|orchidej
+25G41(PETUNIA)|petunie
+25G41(POPPY)|mák
+25G41(ROSE)|růže
+25G41(SUNFLOWER)|slunečnice
+25G41(TULIP)|požár
+25G41(VIOLET)|fialová
+25G41(WATER-LILY)|leknín
+25G411|kytice
+25G411|květinová kytice
+25G4111|věnec
+25G4111|věnec
+25G412|sušení
+25G49|umělá květina
+25G49|umělá rostlina
+25G5|nižší rostlina
+25G51|vzdálený
+25G52|mech
+25G53|řasy
+25G53|mořské řasy
+25G54|houby
+25G541|houba
+25G55|lichen
+25G6|vyhynulý
+25G61|prehistorie
+25G62|fosilie
+25G7|květina
+25G7|jazyk
+25GG|báječná vegetace
+25GG|fantazie
+25GG|děti
+25GG11|skupina
+25GG11|strom
+25GG12|keř
+25GG12|skupina
+25GG13|skupina
+25GG14|skupina
+25GG14|nižší rostlina
+25GG21|ovoce
+25GG21(ACORN)|žalud
+25GG21(ACORN)|moruše
+25GG21(ALMOND)|mandle
+25GG21(ALMOND)|moruše
+25GG21(APPLE)|jablko
+25GG21(APPLE)|moruše
+25GG21(BEANS)|žena
+25GG21(BEANS)|moruše
+25GG21(BILBERRY)|borůvka
+25GG21(BILBERRY)|moruše
+25GG21(CHERRY)|třešeň
+25GG21(CHERRY)|moruše
+25GG21(CHESTNUT)|chestnut
+25GG21(CHESTNUT)|moruše
+25GG21(FIG)|fík
+25GG21(FIG)|moruše
+25GG21(LEMON)|citron
+25GG21(LEMON)|moruše
+25GG21(MEDLAR)|zprostředkovává
+25GG21(MEDLAR)|moruše
+25GG21(MELON)|meloun
+25GG21(MELON)|moruše
+25GG21(NUTS)|moruše
+25GG21(NUTS)|užitečnost
+25GG21(PEACH)|moruše
+25GG21(PEACH)|broskve
+25GG21(PEAR)|moruše
+25GG21(PEAR)|hruška
+25GG21(PINE-CONE)|moruše
+25GG21(PINE-CONE)|šiška
+25GG21(PINEAPPLE)|moruše
+25GG21(PINEAPPLE)|ananas
+25GG21(PLUM)|moruše
+25GG21(PLUM)|pírko
+25GG21(POMEGRANATE)|moruše
+25GG21(POMEGRANATE)|granátové jablko
+25GG21(PUMPKIN)|moruše
+25GG21(PUMPKIN)|dýně
+25GG21(SPRUCE-CONE)|moruše
+25GG21(SPRUCE-CONE)|smrková šiška
+25GG21(STRAWBERRY)|moruše
+25GG21(STRAWBERRY)|jahoda
+25GG21(WALNUT)|moruše
+25GG21(WALNUT)|užitečnost
+25GG21(WALNUT)|ořech
+25GG211(...)|slupka
+25GG211(...)|prsa
+25GG211(...)|skořápka
+25GG211(...)|kůže
+25GG2111|semeno
+25GG2111(PEA)|čočka
+25GG2111(PEA)|hlava
+25GG22(...)|kůra (kůže)
+25GG22(...)|žárovka
+25GG22(...)|korek
+25GG22(...)|root
+25GG22(...)|hlíza
+25GG22(ASPARAGUS)|chřest
+25GG22(ASPARAGUS)|mrkev
+25GG22(CINNAMON)|mrkev
+25GG22(CINNAMON)|skořice
+25GG22(ONION)|mrkev
+25GG22(ONION)|cibule
+25GG22(RADISH)|mrkev
+25GG22(RADISH)|ředkev
+25GG22(TURNIP)|mrkev
+25GG22(TURNIP)|tuřín
+25GG3(ACACIA)|akácie
+25GG3(AVOCADO)|avokádo
+25GG3(BIRCH)|bříza (strom)
+25GG3(HOLM-OAK)|dub letní
+25GG3(LAUREL)|bobkový list
+25GG3(LEMON-TREE)|citroník
+25GG3(MYRRH-TREE)|myrhovník
+25GG3(PINE)|borovice
+25GG3(POPLAR)|topol
+25GG3(QUINCE-TREE)|patnáctka
+25GG3(WHITE POPLAR)|bílý topol
+25GG3(YEW)|jeden
+25GG31|keř
+25GG31(BUCKTHORN)|rakytník
+25GG31(BUCKTHORN)|kadidlovník
+25GG31(OLEANDER)|kadidlovník
+25GG31(OLEANDER)|oleandr
+25GG39|diagram
+25GG39|schéma
+25GG4(AMARANTH)|ječmen
+25GG4(AMARANTH)|lotus
+25GG4(AMARANTH)|mint-plant
+25GG4(MARJORAM)|ječmen
+25GG4(MARJORAM)|lotus
+25GG4(MARJORAM)|majoránka
+25GG4(MARJORAM)|mint-plant
+25GG4(PEONY)|ječmen
+25GG4(PEONY)|lotus
+25GG4(PEONY)|mint-plant
+25GG4(PEONY)|pivoňka
+25GG4(PUMPKIN)|ječmen
+25GG4(PUMPKIN)|lotus
+25GG4(PUMPKIN)|mint-plant
+25GG4(PUMPKIN)|dýně
+25GG41|květina
+25GG41(CARNATION)|Vlčí mor
+25GG41(CARNATION)|karafiát
+25GG41(COLUMBINE)|Vlčí mor
+25GG41(COLUMBINE)|kolumbín
+25GG41(HELIOTROPE)|Vlčí mor
+25GG41(HELIOTROPE)|heliotrop
+25GG41(HYACINTH)|Vlčí mor
+25GG41(HYACINTH)|hyacint
+25GG41(IMMORTELLE)|Vlčí mor
+25GG41(IMMORTELLE)|nesmrtelná
+25GG41(LOTUS)|Vlčí mor
+25GG41(LOTUS)|lotus
+25GG41(PETUNIA)|Vlčí mor
+25GG41(PETUNIA)|petunie
+25GG41(POPPY)|Vlčí mor
+25GG41(POPPY)|mák
+25GG41(ROSE)|Vlčí mor
+25GG41(ROSE)|růže
+25GG41(SUNFLOWER)|Vlčí mor
+25GG41(SUNFLOWER)|slunečnice
+25GG41(TULIP)|Vlčí mor
+25GG41(TULIP)|požár
+25GG411|kytice
+25GG411|květinová kytice
+25GG412|sušení
+25GG49|umělá květina
+25GG49|umělá rostlina
+25GG61|prehistorie
+25GG62|fosilie
+25H|ideální krajina
+25H|krajina
+25H1|mírné pásmo
+25H11|hora
+25H111|vrchol
+25H111|sníh
+25H1111|ledovec
+25H112|kámen
+25H1121|vrchol
+25H1121|vrchol
+25H1122|kaňon
+25H1122|propast
+25H1122|rozhovor
+25H1122|roklina
+25H1123|skalní útvar
+25H1124|kámen
+25H113|kopec
+25H1131|pohřbení
+25H1131|verge
+25H114|kopec
+25H114|zvlněná krajina
+25H115|otvor
+25H115|jám
+25H116|zemětřesení
+25H116|sesuv půdy
+25H119|jeskyně
+25H119|jeskyně
+25H1191|stalaktity
+25H12|pole
+25H12|údolí
+25H121|útes
+25H121|kámen
+25H13|pobřeží
+25H13|ať
+25H131|kámen
+25H1311|fjord
+25H1311|jezero
+25H1311|mořské jezero
+25H1312|Korálový útes
+25H1313|mys (výběžek)
+25H1314|útes
+25H1314|skalní výběžek
+25H132|písečné pobřeží
+25H1321|duny
+25H1321|kopec
+25H1321|písek
+25H133|pláž
+25H1331|písečná mělčina
+25H1332|bahenní pláň
+25H1333|vstup
+25H134|bažina
+25H135|farma
+25H135|laguna
+25H135|šindelová banka
+25H138|pobřežní stavby
+25H1381|vlnovol
+25H1381|ochrana
+25H13811|příbojová zeď
+25H13811|stěna
+25H13812|vlnovník
+25H13813|molo (vlnový lámací)
+25H14|ostrov
+25H141|poloostrov
+25H142|isthmus
+25H15|les
+25H15|strom
+25H151|listnatý les
+25H151|listí
+25H151|list
+25H152|jehličnatý les
+25H152|jehla
+25H152|borovice
+25H153|keř
+25H154|Mýtina v lese
+25H154|šťastní
+25H155|hrana
+25H155|okraj
+25H156|lesní cesta
+25H156|rok
+25H156|cesta
+25H159|čtyři
+25H159|lesní požár
+25H16|pole
+25H16|obyčejný
+25H161|tráva
+25H161|louka
+25H161|savana
+25H17|tráva
+25H17|louka
+25H171|Alp
+25H171|hora
+25H172|pták
+25H172|brook
+25H172|pocit
+25H172|květina
+25H172|slyšení
+25H172|Příjemné místo
+25H172|smysly
+25H172|zrak
+25H172|pach
+25H172|jaro (zdroj)
+25H172|chuť
+25H172|strom
+25H18|zemědělství
+25H18|pěstování
+25H181|země nikoho
+25H181|pustina
+25H182|orání
+25H182|pole
+25H183|úroda
+25H183|pole
+25H19|polder
+25H19|bažina
+25H191|fens
+25H192|rekultivace
+25H1921|motor
+25H1921|čerpadlo
+25H1922|technologie
+25H193|vypouštění
+25H193|země
+25H193|rekultivace
+25H199|povodeň
+25H1991|rozbíjení
+25H1991|praskání
+25H1991|dělá
+25H1992|záchrana
+25H2|vody
+25H2|vodní krajina
+25H21|vodní tok
+25H211|jaro (zdroj)
+25H212|brook
+25H213|řeka
+25H2130|Řeky
+25H2130|Stuha
+25H2130|personifikace
+25H2130|říční bůh
+25H2130(ADIGE)|Adige (řeka)
+25H2130(ARNO)|Arno (řeka)
+25H2130(CLAMOR)|Clamor (řeka)
+25H2130(DANUBE)|Dunaj (řeka)
+25H2130(DANUBE)|Dunaj
+25H2130(GANGES)|Chodby
+25H2130(GANGES)|Řeka Ganga
+25H2130(GANGES)|Ganges (řeka)
+25H2130(INDUS)|Indo
+25H2130(INDUS)|Indus (řeka)
+25H2130(JORDAN)|Jordán (řeka)
+25H2130(MEANDER)|Historie
+25H2130(MEANDER)|Meander (řeka)
+25H2130(NIGER)|Niger (řeka)
+25H2130(NILE)|Nil (řeka)
+25H2130(NILE)|Nil
+25H2130(PO)|Po (řeka)
+25H2130(RHINE)|Rýn (řeka)
+25H2130(TIBER)|Tevere
+25H2130(TIBER)|Tiber (řeka)
+25H2130(TIGRIS)|Tygr
+25H2130(TIGRIS)|Tigris (řeka)
+25H2131|vířivka
+25H214|jezero
+25H2141|odpočinek
+25H21411|přehrada
+25H2142|konec
+25H2142|Pojď
+25H2143|rybník
+25H2143|polovina
+25H21431|louže
+25H215|ústí
+25H215|ústa
+25H215|ústí řeky
+25H216|vodopád
+25H216|vodopád
+25H2161|peřeje
+25H217|břeh řeky
+25H2171|dělá
+25H2172|louka
+25H2172|luční louka
+25H21721|povodeň
+25H2173|cesta
+25H2173|tažná dráha
+25H219|sucho
+25H219|koryto řeky
+25H22|kanál
+25H221|zvedací zámek
+25H221|zámek
+25H222|odpočinek
+25H223|zdržovací komora
+25H223|hráz
+25H224|příkop
+25H225|inženýrství
+25H2251|bagr
+25H2251|stroj
+25H23|námořní malba
+25H23|ať
+25H230|Velký
+25H230|Stuha
+25H230|personifikace
+25H231|jevy
+25H2311|vlna
+25H23111|jistič
+25H23111|surfování
+25H23112|zpětný proud
+25H23112|vlna přídě
+25H23112|zadní vlna
+25H2312|čas
+25H23121|odliv
+25H23121|odliv
+25H23122|přílivová vlna
+25H23122|příliv
+25H23123|přílivová vlna
+25H23124|vlna
+25H2313|fosforescence
+25H2314|proud
+25H23141|vír
+25H2315|hluboké moře
+25H2316|podlaha
+25H2316|oceán
+25H2321|oceán
+25H23210|personifikace
+25H2323|záliv (záliv)
+25H2323|záliv
+25H2324|úzký
+25H2324|úžiny
+25H23241|Herkules
+25H23241|Herkulovy sloupy
+25H23241|pilíř
+25HH111|vrchol
+25HH111|sníh
+25HH112|kámen
+25HH1121|vrchol
+25HH1121|vrchol
+25HH1122|kaňon
+25HH1122|propast
+25HH1122|roklina
+25HH1123|skalní útvar
+25HH1124|kámen
+25HH113|kopec
+25HH1131|pohřbení
+25HH1131|verge
+25HH114|kopec
+25HH114|zvlněná krajina
+25HH115|otvor
+25HH115|jám
+25HH116|zemětřesení
+25HH116|sesuv půdy
+25HH119|jeskyně
+25HH119|jeskyně
+25HH1191|stalaktity
+25HH131|kámen
+25HH1311|fjord
+25HH1311|jezero
+25HH1311|mořské jezero
+25HH1312|Korálový útes
+25HH1313|mys (výběžek)
+25HH1314|útes
+25HH1314|skalní výběžek
+25HH132|písečné pobřeží
+25HH1321|duny
+25HH1321|kopec
+25HH1321|písek
+25HH133|pláž
+25HH1331|písečná mělčina
+25HH1332|bahenní pláň
+25HH1333|vstup
+25HH134|bažina
+25HH135|farma
+25HH135|laguna
+25HH135|šindelová banka
+25HH138|pobřežní stavby
+25HH1381|vlnovol
+25HH1381|ochrana
+25HH13811|příbojová zeď
+25HH13811|stěna
+25HH13812|vlnovník
+25HH13813|molo (vlnový lámací)
+25HH141|poloostrov
+25HH142|isthmus
+25HH161|tráva
+25HH161|louka
+25HH161|savana
+25HH171|Alp
+25HH171|hora
+25HH172|pták
+25HH172|brook
+25HH172|pocit
+25HH172|květina
+25HH172|slyšení
+25HH172|Příjemné místo
+25HH172|smysly
+25HH172|zrak
+25HH172|pach
+25HH172|jaro (zdroj)
+25HH172|chuť
+25HH172|strom
+25HH181|země nikoho
+25HH181|pustina
+25HH1921|motor
+25HH1921|čerpadlo
+25HH1922|technologie
+25HH1991|rozbíjení
+25HH1991|praskání
+25HH1991|dělá
+25HH1992|záchrana
+25HH2130(ADIGE)|Adige (řeka)
+25HH2130(ARNO)|Arno (řeka)
+25HH2130(CLAMOR)|Clamor (řeka)
+25HH2130(DANUBE)|Dunaj (řeka)
+25HH2130(DANUBE)|Dunaj
+25HH2130(GANGES)|Chodby
+25HH2130(GANGES)|Řeka Ganga
+25HH2130(GANGES)|Ganges (řeka)
+25HH2130(INDUS)|Indo
+25HH2130(INDUS)|Indus (řeka)
+25HH2130(JORDAN)|Jordán (řeka)
+25HH2130(MEANDER)|Historie
+25HH2130(MEANDER)|Meander (řeka)
+25HH2130(NIGER)|Niger (řeka)
+25HH2130(NILE)|Nil (řeka)
+25HH2130(NILE)|Nil
+25HH2130(PO)|Po (řeka)
+25HH2130(RHINE)|Rýn (řeka)
+25HH2130(TIBER)|Tevere
+25HH2130(TIBER)|Tiber (řeka)
+25HH2130(TIGRIS)|Tygr
+25HH2130(TIGRIS)|Tigris (řeka)
+25HH21431|louže
+25HH21721|povodeň
+25HH2251|bagr
+25HH2251|stroj
+25HH23111|jistič
+25HH23111|surfování
+25HH23112|zpětný proud
+25HH23112|vlna přídě
+25HH23112|zadní vlna
+25HH23121|odliv
+25HH23121|odliv
+25HH23122|přílivová vlna
+25HH23122|příliv
+25HH23123|přílivová vlna
+25HH23124|vlna
+25HH2321|oceán
+25HH2323|záliv (záliv)
+25HH2323|záliv
+25HH2324|úzký
+25HH2324|úžiny
+25I|krajina
+25I1|město
+25I1|ideální město
+25I1|výhled
+25I11|založení města
+25I111|zakladatel města
+25I12|panorama
+25I12|silueta
+25I13|zahrada
+25I13|park
+25I13|veřejné zahrady
+25I14|veřejná komunikace
+25I14|silnice
+25I141|ulice
+25I1411|ulička
+25I1411|rok
+25I1412|průchod
+25I1413|schodiště
+25I142|třída
+25I142|boulevard
+25I142|esplanáda
+25I142|procházka
+25I143|otočka
+25I144|cirkus
+25I144|místo
+25I144|náměstí (místo)
+25I145|kanál
+25I1451|most
+25I1451|řeka
+25I14511|budova
+25I14511|obchod
+25I146|městská hradba
+25I1461|městská brána
+25I15|zdobení
+25I151|fontána
+25I152|památka
+25I152|socha
+25I153|jehla
+25I153|obelisek
+25I154|frieze
+25I154|šroubovicové vlysy
+25I154|pilíř
+25I154|vítězný sloup
+25I155|věž s hodinami
+25I155|věž
+25I16|toaleta
+25I16|veřejná pohodlnost
+25I16|toaleta
+25I17|podzemní
+25I171|kanalizace
+25I18|okrajové části
+25I19|metropole
+25I2|vesnice
+25I21|založení města
+25I22|panorama
+25I22|silueta
+25I24|veřejná komunikace
+25I24|silnice
+25I241|ulice
+25I2411|ulička
+25I2411|rok
+25I242|třída
+25I242|boulevard
+25I244|místo
+25I244|náměstí (místo)
+25I245|kanál
+25I2451|most
+25I2451|řeka
+25I246|městská hradba
+25I2461|městská brána
+25I25|zdobení
+25I251|fontána
+25I28|okrajové části
+25I3|farma
+25I3|dům
+25I41|mlýn
+25I41|větrný mlýn
+25I42|mlýn
+25I42|vodní mlýn
+25I43|továrna
+25I5|hrad
+25I5|věž
+25I6|akvadukt
+25I6|most
+25I6|viadukt
+25I7|památka
+25I71|menhir
+25I8|hřbitov
+25I8|dětské hřiště
+25I9|zřícenina
+25II1|město
+25II1|ideální město
+25II1|výhled
+25II1411|ulička
+25II1411|rok
+25II1412|průchod
+25II1413|schodiště
+25II1451|most
+25II1451|řeka
+25II14511|budova
+25II14511|obchod
+25II2|vesnice
+25II241|ulice
+25II242|třída
+25II242|boulevard
+25II244|místo
+25II244|náměstí (místo)
+25II245|kanál
+25II246|městská hradba
+25II2461|městská brána
+25II3|farma
+25II3|dům
+25II5|hrad
+25II5|věž
+25II6|akvadukt
+25II6|most
+25II6|viadukt
+25II7|památka
+25II8|hřbitov
+25II8|dětské hřiště
+25II9|zřícenina
+25K|ideální krajina
+25K|krajina
+25K1|subtropická krajina
+25K1|tropická krajina
+25K11|hora
+25K12|roklina
+25K121|pole
+25K121|údolí
+25K13|pobřeží
+25K13|ať
+25K14|ostrov
+25K141|sbor
+25K142|sbor
+25K142|Korálový útes
+25K15|džungle
+25K16|poušť
+25K161|oáza
+25K162|sucho
+25K162|koryto řeky
+25K162|Wadi
+25K17|pole
+25K17|step
+25K18|zemědělství
+25K18|pěstování
+25K181|rýžové pole
+25K181|rýžové pole
+25K181|rýžové pole
+25K182|výsadba
+25K19|bažina
+25K2|led
+25K2|polární oblasti
+25K2|sníh
+25K21|hora
+25K211|ledovec
+25K22|roklina
+25K221|pole
+25K221|údolí
+25K23|pobřeží
+25K24|ostrov
+25K241|ledovec
+25K25|tundra
+25K3|exotický
+25K3|ideální exotika
+25KK1|subtropická krajina
+25KK1|tropická krajina
+25KK2|led
+25KK2|polární oblasti
+25KK2|sníh
+25KK21|hora
+25KK211|ledovec
+25KK22|roklina
+25KK221|pole
+25KK221|údolí
+25KK23|pobřeží
+25KK24|ostrov
+25KK241|ledovec
+25KK25|tundra
+25KK3|exotický
+25KK3|ideální exotika
+25L|alegorie
+25L|město
+25L|symbol
+25L(...)0|šéf
+25L(...)0|patronka
+25L(...)0|personifikace
+25L(...)0|městský patron
+25L(...)0|patronka města
+25L(...)1|obecní symbol
+25L(...)11|městská koruna
+25L(...)11|koruna
+25L(ROME)|Řím
+25L(ROME)0|šéf
+25L(ROME)0|patronka
+25L(ROME)0|personifikace
+25L(ROME)0|městský patron
+25L(ROME)0|patronka města
+25L(ROME)1|obecní symbol
+25L(ROME)11|městská koruna
+25L(ROME)11|koruna
+25L0|šéf
+25L0|patronka
+25L0|personifikace
+25L0|městský patron
+25L0|patronka města
+25L1|obecní symbol
+25L11|městská koruna
+25L11|koruna
+25M|sedm
+25M|div
+25M1|Egypt
+25M1|pyramida
+25M2|Babylon
+25M2|Semiramis (královna)
+25M2|zahrada
+25M2|visuté zahrady
+25M3|Diana z Efezu
+25M3|Efez
+25M3|chrám
+25M4|Jupiter
+25M4|Fidias
+25M4|socha
+25M5|Halikarnassos
+25M5|mauzoleum
+25M6|Silnice
+25M6|kolos
+25M7|Alexandrie
+25M7|Pharos
+25M7|maják
+25N|země
+25N|fikce
+25N(ATLANTIS)|Atlantis
+25N1|Cockaigne
+25N1|Země Cockaigne
+26|meteorologické jevy
+26|jevy
+26|počasí
+26A|mrak
+26A11|cirrus
+26A12|cirrostratus
+26A21|cirrocumulus
+26A21|makrelové mraky
+26A22|vysoký kumulus
+26A23|altostratus
+26A31|stratokumulus
+26A32|nimbus (dešťové mraky)
+26A32|dešťový mrak
+26A4|voda
+26A4|proud
+26A4|stoupající
+26A41|kupovitá oblačnost
+26A41|pěkné počasí
+26A42|kumulonimbus
+26A42|bouřkový mrak
+26A5|mlha
+26A51|vrstva
+26B|déšť
+26B0|Déšť
+26B0|Stuha
+26B1|tooth
+26B1|co
+26B2|duha
+26B20|Duha
+26B20|Stuha
+26B3|rosa
+26B30|Stuha
+26B30|Rugiada
+26B4|liják
+26B4|dešťová sprcha
+26B4|sprcha (déšť)
+26B9|sucho
+26C0|Stuha
+26C0|Vítr
+26C0|meteorologické jevy
+26C0|příroda
+26C0|jevy
+26C0|počasí
+26C0|vítr
+26C1|meteorologické jevy
+26C1|příroda
+26C1|jevy
+26C1|počasí
+26C1|vítr
+26C11|směr
+26C11|čtyři
+26C111|severní vítr
+26C112|východní vítr
+26C113|jižní vítr
+26C114|západní vítr
+26C12|směr
+26C12|osm
+26C121|Boreas
+26C121|Severní
+26C121|severní vítr
+26C122|Slepota
+26C122|severovýchodní vítr
+26C123|Subsolanus
+26C123|východní vítr
+26C124|Euro
+26C124|Eur
+26C124|Stuha
+26C124|Volturnus
+26C124|jihovýchodní vítr
+26C125|Známý
+26C125|jižní vítr
+26C126|Jihovýchodní vítr
+26C126|jihozápadní vítr
+26C127|Zephyrus
+26C127|západní vítr
+26C128|Caurus
+26C128|Iapyx
+26C128|severozápadní vítr
+26C13|směr
+26C13|šestnáct
+26C1311|severní vítr
+26C1312|severovýchodní vítr
+26C1313|severovýchodní vítr
+26C1314|východoseverovýchodní vítr
+26C1315|východní vítr
+26C1316|východojihovýchodní vítr
+26C1317|jihovýchodní vítr
+26C1318|jižní až jihovýchodní vítr
+26C1321|jižní vítr
+26C1322|jihozápadní vítr
+26C1323|jihozápadní vítr
+26C1324|západně-jihozápadní vítr
+26C1325|západní vítr
+26C1326|západoseverozápadní vítr
+26C1327|severozápadní vítr
+26C1328|severozápadní vítr
+26C2|meteorologické jevy
+26C2|příroda
+26C2|jevy
+26C2|síla
+26C2|počasí
+26C2|vítr
+26C2|síla větru
+26C21|námořní termín
+26C22|Beaufort
+26C22|měřítko
+26C3|meteorologické jevy
+26C3|příroda
+26C3|jevy
+26C3|bouře
+26C3|počasí
+26C3|vítr
+26C32|bouře na moři
+26C33|písek
+26C33|písečná bouře
+26C34|sníh
+26C34|sněhová bouře
+26C35|cyklón
+26C35|vír
+26C352|bouře na moři
+26C4|meteorologické jevy
+26C4|příroda
+26C4|jevy
+26C4|starý
+26C4|počasí
+26C4|větrná korouhvička
+26C4|vítr
+26C41|kohout
+26C41|větrná korouhev
+26C42|větrný rukáv
+26C5|barometr
+26C5|meteorologické jevy
+26C5|příroda
+26C5|jevy
+26C5|počasí
+26C5|vítr
+26C6|foukání
+26C6|tvář
+26C6|face
+26C6|meteorologické jevy
+26C6|příroda
+26C6|jevy
+26C6|počasí
+26C6|vítr
+26C61|křídlo
+26C9|klid
+26C9|nedostatek
+26C9|meteorologické jevy
+26C9|příroda
+26C9|jevy
+26C9|počasí
+26C9|vítr
+26D|zmrazení
+26D1|sníh
+26D11|lavina
+26D111|ochrana
+26D2|Dobrý den
+26D3|námraza
+26D3|jinovatka
+26D4|led
+26D41|tundra
+26D42|svíčka
+26D5|zima
+26D9|rozmrazit
+26E|bouře
+26E|bouřka
+26E1|hrom
+26E2|elektřina
+26E2|blesk
+26E21|hromosvod
+26E22|nehoda
+26E3|elektřina
+26E31|Elmo (sv.)
+26E31|Svatý Elmoův oheň
+26E31|čtyři
+26E32|polární záře
+26E32|světlo
+26E32|polární záře
+26F|dobré a špatné
+26F1|pěkné počasí
+26F10|Stuha
+26F10|Zdraví nebo čistota vzduchu
+26F11|vlna veder
+26F111|úpal
+26F2|špatné počasí
+26F21|chladný
+26F22|Mráz
+26F22|zima
+26F3|cyklón
+26F3|poškození
+26F3|účinek
+26F3|vír
+26G|fata morgana
+26G|fata morgána
+26G|optický klam
+29|fantazie
+29|surrealism
+29A|zvíře
+29A|napodobenina
+29A1|zmatený svět
+29A1|Vzhůru nohama
+29A1|obrácený svět
+29A1|obrácený svět
+29A1|vzhůru nohama
+29A1|svět
+29A2|rostliny
+29A2|strom
+29B|napodobenina
+29B|děti
+29C|animace
+29C|loutka
+29D|mrak
+29D|vysvětlující
+29D|přírodní forma
+29D|tvar
+29D|kámen
+29D|dřevo
+3|člověk
+31|biology
+31A|Lidské tělo
+31A|Stuha
+31A|tělo
+31A|lidská postava
+31A|muž
+31A|nahý
+31A|žena
+31A1|standard
+31A1|proporce
+31A11|stojící
+31A12|odděleně
+31A12|zvednutá ruka
+31A12|natáhnutá paže
+31A12|kruh
+31A12|noha
+31A12|do strany
+31A12|čtverec (tvar)
+31A14|akademický akt
+31A14|ideální proporce
+31A140|Ženská krása
+31A140|alegorie
+31A141|pokrývající
+31A141|genitálie
+31A19|Talíř
+31A19|bezpeří dvounohé zvíře
+31A19|Platónův člověk
+31A19|oškubaná drůbež
+31A2|anatomie
+31A21|Viděli
+31A21|kostra
+31A211|lebka
+31A2111|Volat
+31A2112|zub
+31A21121|přední zub
+31A21122|molární
+31A212|hrudník
+31A2121|ryba
+31A2122|páteř
+31A2122|páteř
+31A2122|páteř
+31A2123|klíční kost
+31A2123|klíční kost
+31A2124|lopatka
+31A2124|lopatka
+31A213|pánev
+31A214|paže
+31A2141|pažní kost
+31A2142|poloměr
+31A2142|Loketní kost
+31A2143|zápěstí
+31A2143|ruka
+31A2143|metakarpus
+31A2144|prst
+31A2144|kostky
+31A2144|falangy
+31A215|noha
+31A2151|stehno
+31A2152|stehenní kost
+31A2152|tibia
+31A2153|noha
+31A2153|střední část chodidla
+31A2153|Tarsus
+31A2154|kostky
+31A2154|falangy
+31A2154|pak
+31A22|limb
+31A221|hlava
+31A2211|face
+31A2211|maska
+31A2211|plíseň
+31A22111(...)|tvář
+31A22111(LIPS)|rt
+31A22111(NOSE)|přepravovat
+31A2212|Toto
+31A22121|Obraz vševidoucího
+31A2213|ucho
+31A2214|ústa
+31A22141|jazyk
+31A22151|mozek
+31A22152|dutina
+31A22152|nosní dutina
+31A22152|přepravovat
+31A22153|dutina
+31A22153|ústa
+31A22153|hrdlo
+31A222|poprsí
+31A222|hrudník (prsa)
+31A2221|srdce
+31A22210|symbolika srdce
+31A22210|symbol
+31A222101|láska
+31A2222|bronchus
+31A2222|dlouhý
+31A22221|dýchání
+31A22222|lapání po dechu
+31A22229|dusivý
+31A2223|prsa
+31A22231|bradavka
+31A22232|mléko
+31A2224|rameno
+31A2225|zpět
+31A2226|trup
+31A223|abdomen
+31A223|orgán (část těla)
+31A22311|pupek
+31A22312|cool
+31A2232|žláza
+31A22321|játra
+31A22322|močový měchýř
+31A22322|žlučník
+31A22323|slezina
+31A22324|ledvina
+31A2233|žaludek
+31A22331|zlato
+31A2234|vnitřnosti
+31A2235|močový měchýř
+31A2236|genitálie
+31A22361|bez
+31A223611|varlata
+31A223612|falus
+31A2236121|phallos
+31A223613|semeno
+31A223613|sperma
+31A22362|žena
+31A223621|děloha
+31A223621|děloha
+31A2236211|plod
+31A223622|vaječník
+31A223623|menstruace
+31A223624|vagina
+31A2237|hýždě
+31A22371|anus
+31A224|paže
+31A2242|loket
+31A2244|zápěstí
+31A2245|ruka
+31A22451|ruční tisk
+31A22451|pole
+31A22451|stopa
+31A2246|prst
+31A22461|palec
+31A22462|ukazováček
+31A22463|prostředníček
+31A22464|prsteníček
+31A22465|malíček
+31A2247|hřebík
+31A225|noha
+31A2251|stehno
+31A2252|koleno
+31A2254|kotník
+31A2255|noha
+31A22551|celý
+31A22552|stopu
+31A22552|pole
+31A22552|stopa
+31A2256|pak
+31A2257|hřebík
+31A2261|krevní oběh
+31A2261|oběhový systém
+31A22611|krev
+31A22612|tepna
+31A22613|víno
+31A2262|kůže
+31A22621|vlasy
+31A22622|ochlupení
+31A22623|ochlupení
+31A2263|sval
+31A2264|šlacha
+31A2265|nerv
+31A23|držení těla
+31A231|noha
+31A231|stojící
+31A2311|Opěrná noha a volná noha
+31A2311|protichůdný
+31A2312|hadovitá postava
+31A2313|jeden
+31A2319|stojící na hlavě
+31A232|naklánění
+31A2321|útočníci
+31A2322|zpět
+31A2323|do strany
+31A233|klečení
+31A2331|dva
+31A234|krčení se
+31A234|squatting
+31A2341|schoulená postava
+31A235|sezení
+31A2351|země
+31A2352|sedadlo
+31A2353|paže
+31A2353|loket
+31A2353|koleno
+31A23531|ruka
+31A23531|odpočinek
+31A23531|stehno
+31A2354|řeka
+31A236|ležící
+31A2361|zpět
+31A2362|face
+31A2363|strana
+31A2363|protahování
+31A2364|paže
+31A2364|loket
+31A2364|naklánění
+31A2364|strana
+31A2365|zpět
+31A2365|ruka
+31A2365|hlava
+31A2366|face
+31A2366|ruka
+31A2366|hlava
+31A237|visící
+31A2371|paže
+31A23711|jeden
+31A2372|noha
+31A23721|jeden
+31A23731|vlasy
+31A23732|zub
+31A2391|ohýbání
+31A24|hlava
+31A24|držení těla
+31A242|do strany
+31A2421|vlevo (oproti vpravo)
+31A2422|vpravo (oproti vlevo)
+31A243|zpět
+31A243|ohýbání
+31A244|ohýbání
+31A244|klanění
+31A244|útočníci
+31A245|vlevo (oproti vpravo)
+31A245|do strany
+31A246|vpravo (oproti vlevo)
+31A246|do strany
+31A247|hledání
+31A247|rameno
+31A25|paže
+31A25|gesto
+31A25|ruka
+31A25|držení těla
+31A2511|zvednutá ruka
+31A2511|nahoru
+31A25111|zavřené prsty
+31A25112|šíření
+31A25113|pěst
+31A2512|natáhnutá paže
+31A2512|útočníci
+31A2513|natáhnutá paže
+31A2513|do strany
+31A2514|zpět
+31A2515|dolů
+31A25161|hrudník (prsa)
+31A251611|prsa
+31A251611|držení
+31A25162|srdce
+31A25163|hrudník (prsa)
+31A25163|nápadný
+31A25164|hrudník (prsa)
+31A25164|odhalení
+31A25165|abdomen
+31A25165|skládání
+31A2517|ohýbání
+31A25171|zpět
+31A25172|hlava
+31A2518|cool
+31A25191|kapsa
+31A25192|rukáv
+31A25193|hrudník (prsa)
+31A25193|župan
+31A25193|žaludek
+31A2521|založené ruce
+31A25211|zpět
+31A25212|prsa
+31A25212|hrudník (prsa)
+31A2522|složené ruce
+31A25221|prst
+31A25221|modlitba
+31A25222|tření
+31A25222|vymáčknutí
+31A25231|prst
+31A2524|počítání
+31A2524|prst
+31A253|face
+31A253|hlava
+31A2531|ohýbání
+31A25311|Hlava opřená o ruku
+31A25312|loket
+31A25312|koleno
+31A25312|naklánění
+31A25313|pokrývající
+31A25313|závěsy
+31A25313|bdění
+31A2532|vousy
+31A2533|čelo
+31A25331|prst
+31A25331|ukazováček
+31A25331|ukazování
+31A25332|paroháč
+31A25332|prst
+31A25332|ukazováček
+31A25332|malíček
+31A2534|Toto
+31A25341|hledání
+31A25342|prst
+31A25342|šmírování
+31A25343|tření
+31A25344|slza
+31A25344|otírání
+31A2535|přepravovat
+31A25351|držení
+31A2536|ústa
+31A25361|prst
+31A25361|pískání
+31A25362|tažení
+31A2537|ucho
+31A25371|baňkování
+31A25372|škrábání
+31A254|uchopení
+31A254|dojemný
+31A25411|ruku v ruce
+31A25411|chůze
+31A2542|vkládání rukou
+31A2543|spojené ruce
+31A2543|zápěstí
+31A25431|síla
+31A25431|tři
+31A25431|odborová organizace
+31A25431|jednota
+31A25432|vedoucí
+31A25433|Rušení rukou
+31A25434|dlaně
+31A25434|fackování
+31A2544|hlava
+31A25441|vlasy
+31A25442|krk
+31A25443|hrdlo
+31A2545|rameno
+31A2546|noha
+31A25461|noha
+31A255|prst
+31A25511|zavřené prsty
+31A25512|šíření
+31A25513|pěst
+31A2552|dlaně
+31A25521|nahoru
+31A25522|dolů
+31A2553|palec
+31A25531|nahoru
+31A25532|dolů
+31A2554|palec
+31A25541|ukazováček
+31A25541|hlazení
+31A25542|ukazováček
+31A25542|prostředníček
+31A25543|lámání
+31A2555|ukazováček
+31A25551|nahoru
+31A25552|útočníci
+31A25552|ukazování
+31A25553|lákavý
+31A2556|ukazováček
+31A2556|prostředníček
+31A25561|zavřené prsty
+31A25561|nahoru
+31A25562|V-znamení
+31A25562|značka
+31A25562|šíření
+31A25562|nahoru
+31A256|řeč těla
+31A256|jazyk
+31A26|noha
+31A2611|rovná noha
+31A26111|naklánění
+31A26111|stojící
+31A26112|naklánění
+31A26112|stojící
+31A26112|chodit po špičkách
+31A26112|pak
+31A26113|ležící
+31A26113|sezení
+31A26114|odděleně
+31A26114|naklánění
+31A26114|ležící
+31A26114|sezení
+31A26114|stojící
+31A26115|ležící
+31A26115|zvednuté nohy
+31A26115|protahování
+31A2612|ohýbání
+31A26121|stojící
+31A26122|sezení
+31A26123|squatting
+31A26124|klečení
+31A26126|stojící
+31A26126|rozkročený
+31A26127|sezení
+31A26127|rozkročený
+31A26128|ležící
+31A26128|zvednuté nohy
+31A26128|sezení
+31A26129|zkřížené nohy
+31A26129|sezení
+31A26129|krejčí
+31A261291|Buddhova pozice
+31A261291|lotus
+31A26211|chůze
+31A26212|ohýbání
+31A26212|koleno
+31A26212|výpad
+31A26213|ohýbání
+31A26213|klečení
+31A2622|zpět
+31A2622|ohýbání
+31A2622|útočníci
+31A2623|útočníci
+31A2623|jeden
+31A2623|stojící
+31A26231|rovná noha
+31A262311|kohoutí krok
+31A262311|krokový pochod
+31A262311|krok
+31A26232|ohýbání
+31A262322|ruka
+31A262322|držení
+31A2624|jeden
+31A2624|do strany
+31A2624|stojící
+31A26241|rovná noha
+31A26242|ohýbání
+31A2625|zpět
+31A2625|jeden
+31A2625|stojící
+31A26251|rovná noha
+31A26252|ohýbání
+31A262522|ruka
+31A262522|držení
+31A2626|ležící
+31A2626|sezení
+31A2626|rovná noha
+31A2626|protahování
+31A2627|zkřížené nohy
+31A2627|naklánění
+31A2627|ležící
+31A2627|sezení
+31A2627|stojící
+31A2628|noha
+31A2628|koleno
+31A2628|sezení
+31A27|pohyb
+31A271|útočníci
+31A2711|chůze
+31A27111|tempování
+31A27111|kráčení
+31A27112|běh
+31A27113|procházka
+31A2712|plazení
+31A27121|koleno
+31A27121|chůze
+31A2713|kotoučování
+31A2713|ohromující
+31A2713|potácení se
+31A2714|skákání
+31A2715|válcování
+31A2716|přemet
+31A2717|ruka
+31A2717|stojící na hlavě
+31A2717|chůze
+31A2719|zpět
+31A272|dolů
+31A272|nahoru
+31A2721|skákání
+31A2722|tažení
+31A2723|lezení
+31A2723|schodiště
+31A2724|skákání
+31A2725|sestupující
+31A2725|schodiště
+31A2726|razítkování
+31A2726|šlapání
+31A2731|padající
+31A2732|kluzkost
+31A27321|padající
+31A27321|klopýtání
+31A2733|přeprava
+31A27331|podporující
+31A2734|tažení
+31A2735|hodit (být hozen)
+31A2741|házení
+31A27411|pokles
+31A27411|uvolňování
+31A2742|dosahování
+31A2743|úder
+31A2744|kopání
+31A2745|uchopení
+31A2746|rozbíjení
+31A2747|zvedání
+31A2747|tažení
+31A2748|tlačení
+31A27481|kruh
+31A27481|otáčení
+31A27481|otáčení
+31A27481|kolo
+31A2751|schoulit se
+31A2752|protahování
+31A2753|otáčení
+31A2753|proplétání
+31A2753|kroucení
+31A2754|paže
+31A2755|noha
+31A2756|prohnutí zad
+31A2756|ohýbání
+31A2757|kolečko
+31A2757|přemet
+31A276|vzduch (v)
+31A2761|stoupající
+31A2762|létání
+31A27631|mrak
+31A27631|sezení
+31A27631|stojící
+31A2764|padající
+31A2765|smrtelný skok
+31A2765|přemet
+31A277|vody
+31A2771|brodění
+31A2772|koupání
+31A2773|plavání
+31A2774|plovoucí
+31A2775|potápění
+31A2776|utopení
+31A2776|klesání
+31A2777|pozastavení
+31A2778|vznikající
+31A2779|chůze po vodě
+31A28|stín
+31A281|ďábel
+31A281|prodej
+31A2811|nepřítomnost
+31A282|následující
+31A283|boj
+31A3|pět
+31A3|smysly
+31A30|Sensi
+31A30|Sensi, jak je možné ...
+31A30|Smysl
+31A30|Pocity těla
+31A31|hledání
+31A31|zrak
+31A310|Celkem
+31A311|sklo
+31A311|představení
+31A3111|dálekohled
+31A3111|monokl
+31A3112|sluneční brýle
+31A312|sklo
+31A312|lupa
+31A313|postava vševidoucího
+31A314|špehování
+31A3191|páska přes oči
+31A32|slyšení
+31A32|poslouchání
+31A320|Sluch
+31A321|sluchadlo
+31A329|zaslechnutí
+31A33|pach
+31A330|Čich
+31A331|vůně
+31A34|chuť
+31A340|Chci
+31A341|kontrast
+31A341|dobré a špatné
+31A3411|dobrý vkus
+31A3412|špatný vkus
+31A3412|znechucení
+31A3412|nelibost
+31A342|sladký
+31A3420|alegorie
+31A3420|symbol
+31A343|sůl
+31A344|kyselý
+31A345|hořký
+31A3450|alegorie
+31A3450|symbol
+31A35|pocit
+31A350|Hmat
+31A351|dobrý pocit
+31A352|špatný pocit
+31A41|deformace
+31A41|postižený
+31A41|nemoc
+31A41|postižení
+31A411|Toto
+31A4111|slepota
+31A41111|Matouš 15
+31A41111|vedoucí
+31A41112|mrzák
+31A41112|zastávka
+31A41112|vedoucí
+31A41113|sekání
+31A41113|nápadný
+31A4112|šilhající
+31A4112|šilhání
+31A4113|šedý zákal
+31A4114|myopie
+31A4114|krátkozrakost
+31A4115|dalekozrakost
+31A412|hluchota
+31A4121|hluchoněmý
+31A413|face
+31A413|hlava
+31A4131|rozštěp rtu
+31A4131|rt
+31A414|ochrnutí
+31A415|mrzák
+31A4151|koňská noha
+31A4152|umělá končetina
+31A4152|noha
+31A4152|dřevo
+31A4153|berle
+31A4154|koupací židle
+31A4154|invalidní vozík
+31A4155|svorkový měřidlo
+31A4155|měřidlo (svorkovnice)
+31A416|ohýbání
+31A416|pokřivený
+31A417|hrbáč
+31A418|albín
+31A419|zmrzačení
+31A4191|paže
+31A4191|chybějící
+31A42|legendární
+31A42|proporce
+31A42|vám
+31A421|kolos
+31A421|obr
+31A421|velký
+31A422|trpaslík
+31A422|malý
+31A4221|trpaslík
+31A4221|pygmejové
+31A4222|skřet
+31A4222|hobgoblin
+31A4223|cikády
+31A423|fikce
+31A423|síla
+31A423(...)|batman
+31A423(...)|superman
+31A43|vícečetné porody
+31A44|abnormality
+31A44|limb
+31A44|monstrum
+31A44|orgán (část těla)
+31A44|tvar
+31A441|nepřítomnost
+31A4411|A-cefalie
+31A4411|Blemyae
+31A4411|hlava
+31A4412|Ploché nohy
+31A4412|Scopodes
+31A4412|noha
+31A4413|Toto
+31A4414|Acheiroi
+31A4414|ruka
+31A442|množství
+31A4421|face
+31A4421|tři
+31A4421|tříčlenná tvář
+31A44211|caput triciput
+31A44211|hlava
+31A44211|signum triceps
+31A4422|poprsí
+31A4422|hrudník (prsa)
+31A4422|dva
+31A4431|Toto
+31A4431|mít oči na ramenou
+31A4431|rameno
+31A444|deformace
+31A4441|vlasy
+31A44411|divoký člověk
+31A44411|divoká žena
+31A44412|vousy
+31A45|Monstra
+31A45|zvíře
+31A45|monstrum
+31A45|tvar
+31A4511|hlava (zvíře)
+31A45111|tři
+31A4512|hlava
+31A4512(...)|Ošklivý
+31A452|savec
+31A4521|domácí zvíře
+31A45211|Cynocephalus
+31A4522|opice
+31A4523|dravé zvíře
+31A45231|Sfinga
+31A45231|lev
+31A45231|sfinga
+31A45232|sup bělohlavý
+31A45232|mantikora
+31A4524|kopytník
+31A4525|zvíře s kufrem
+31A4526|hlodavec
+31A4527|mořská příšera
+31A4528|létající savec
+31A453|Královna Pédauque
+31A453|Šeba (královna)
+31A4531|Siréna
+31A454|plaz
+31A4541|ještěrka
+31A4542|had
+31A455|obojživelník
+31A456|ryba
+31A4561|mořská panna
+31A4561|mořský muž
+31A457|nižší živočich
+31A458|křídlo
+31A4581|víla
+31A4582|jedenáct
+31A46|nemoc
+31A461|bolest
+31A4611|horečka
+31A46110|Horečka
+31A462|nakažlivá nemoc
+31A4621|mor
+31A46210|Mor, morová rána
+31A46210|personifikace
+31A4622|malomocenství
+31A46221|malomocný chřestítko
+31A46221|chrastítko
+31A46222|leprosárium
+31A46223|procesí malomocných
+31A46223|průvod
+31A4623(...)|vzteklina
+31A4623(...)|břišní tyfus
+31A46230|Nákaza
+31A46230|personifikace
+31A4624|kožní onemocnění
+31A4624|pohlavní nemoc
+31A4624(SYPHILIS)|syfilis
+31A46241|svědění
+31A46242|vařit
+31A4625|vodnatelnost
+31A4626|AIDS
+31A4629|jed
+31A4629(ERGOTISM)|ergotismus
+31A463|limb
+31A4631|Viděli
+31A4631|rozbíjení
+31A4631|zlomenina
+31A4632|infekce
+31A4632|rána
+31A46321|scar
+31A4633|hlava
+31A46331|bolest hlavy
+31A46332|chladný
+31A463321|kýchání
+31A463322|kašel
+31A46333|zubní lékař
+31A46333|bolest
+31A46333|bolest zubů
+31A4634|rakovina
+31A4634|nádor
+31A464|emocionální onemocnění
+31A464|šílenství
+31A4641|posedlost (démonem)
+31A4642|mánie
+31A4642|posedlost
+31A46421|epidemie
+31A464211|Tanec svatého Víta
+31A464211|Vitus (sv.)
+31A464211|tanec
+31A469|zdraví
+31A4690|Zdraví
+31A4690|Zdravotnictví
+31A5|which
+31A5|hygiena
+31A51|toaleta (výroba)
+31A511|zrcadlo
+31A5111|obdiv
+31A5111|krása
+31A5111|kontemplace
+31A51111|odraz
+31A511111|zkreslení
+31A5112|krása
+31A5112|magie
+31A512|zdobení
+31A512|šperky
+31A513|make-up
+31A5141|vůně
+31A5141(...)|ambra
+31A5141(...)|levandule
+31A5141(...)|musk
+31A5142|parfém
+31A5142(...)|kolínská voda
+31A5143|mast
+31A5144|prášek
+31A5145|nástroj
+31A51451|musk ball
+31A51451|pomander
+31A51452|láhev
+31A51452|lahvička parfému
+31A51453|jaro
+31A51453|mast
+31A51454|box (kontejner)
+31A51454|pudřenka
+31A51455|rtěnka
+31A515|malování na tělo
+31A515|face
+31A5151|tetování
+31A51511|tetování
+31A52|noha
+31A52|ruka
+31A521|manikúra
+31A522|pedikúra
+31A523|Spinario
+31A523|vytahování
+31A523|trn
+31A53|vlasy
+31A53|Kadeřnictví
+31A5311|kartáč
+31A5311|hřeben
+31A5311|kartáč na vlasy
+31A5311|nástroj
+31A532|stříhání vlasů
+31A5321|kadeřník
+31A533|účes
+31A533|styl
+31A5331|paruka
+31A5332|brzy
+31A5332|holení
+31A5333|holení
+31A5333|tonsura
+31A5339|brzy
+31A534|vousy
+31A5341|knír
+31A5342|vousy
+31A53421|kotlety
+31A5349|přestrojení
+31A5349|falešné vousy
+31A5349|falešný knír
+31A5349|knír
+31A535|holič
+31A535|obchod
+31A5351|břitva
+31A5352|Možná
+31A5353|holení
+31A539|rozcuchané vlasy
+31A54|koupání
+31A54|praní
+31A541|mytí (rukou)
+31A542|face
+31A542|hlava
+31A5421|čištění zubů
+31A5421|zub
+31A54211|zubní kartáček
+31A54212|párátko
+31A543|mytí (nohou)
+31A544|mytí (nohou)
+31A545|koupel
+31A5451|lázeňský dům
+31A5451|veřejné lázně
+31A5451|plavecký bazén
+31A5452|sedací koupel
+31A5453|sprchový kout
+31A5454|plivat
+31A5455|Kolik?
+31A5455|pára
+31A5459|po koupeli
+31A5459|sušení
+31A546|toaletní potřeby
+31A5461|mýdlo
+31A54611|bublina
+31A5462|kartáč
+31A5462|houba
+31A5463|látka
+31A5464|župan
+31A5464|župan
+31A5464|šaty
+31A5464|župan
+31A549|sušení
+31A551|obvaz
+31A5511|vazba
+31A5511|korzet
+31A5511|šněrování
+31A552|svlékání
+31A553|sandál
+31A553|bota
+31A5531|obvaz
+31A5531|punčochy
+31A5531|svlékání
+31A554|obvaz
+31A5541|svlékání
+31A559|obvaz
+31A559|svlékání
+31A5591|nedbalý
+31A56|služka
+31A56|služebník
+31A56|toaleta (výroba)
+31A57|hmyz
+31A57|odstranění
+31A571|dítě
+31A571|odblešení
+31A571|veš
+31A571|matka
+31A571|matka a dítě
+31A571|mateřská péče
+31A572|blecha
+31A572|kontrola
+31A58|kulturistika
+31A59|nečistota
+31A6|tyto
+31A61|moč
+31A611|nočník
+31A611|pot
+31A62|vyprázdnění
+31A621|prdění
+31A621|rychlost
+31A621|prdění
+31A621|nadýmání
+31A621|dech
+31A621|vítr
+31A622|trávení
+31A6220|Trávení
+31A623|výkaly
+31A63|zvracení
+31A631|škytání
+31A64|foukání
+31A64|smrkání
+31A65|plivání
+31A651|slina
+31A66|pot
+31A66|pocení
+31A7|sex
+31A71|bez
+31A710|mužství
+31A710|symbol
+31A711|mužnost
+31A712|krása
+31A712|kulturistika
+31A712|soutěž
+31A7121|Pan Vesmír
+31A7121|vesmír
+31A719|milksop
+31A719|rozmazlovat
+31A7191|emancipace
+31A7191|úkol
+31A72|žena
+31A720|ženskost
+31A720|symbol
+31A721|ženskost
+31A7211|panenství
+31A72110|Panenství
+31A722|krása
+31A722|soutěž
+31A7221|Miss World
+31A7221|svět
+31A729|muž-žena
+31A729|virago
+31A73|hermafrodit
+31A731|alchymie
+31A731|roztrhl
+31A74|transgender
+31A74|transsexuál
+31A8|stroj
+31A9|folklór
+31A9|léčení
+31AA1|standard
+31AA1|proporce
+31AA11|stojící
+31AA12|odděleně
+31AA12|zvednutá ruka
+31AA12|natáhnutá paže
+31AA12|kruh
+31AA12|noha
+31AA12|do strany
+31AA12|čtverec (tvar)
+31AA14|akademický akt
+31AA14|ideální proporce
+31AA140|Ženská krása
+31AA140|alegorie
+31AA141|pokrývající
+31AA141|genitálie
+31AA19|Talíř
+31AA19|bezpeří dvounohé zvíře
+31AA19|Platónův člověk
+31AA19|oškubaná drůbež
+31AA2|anatomie
+31AA21|Viděli
+31AA21|kostra
+31AA22|limb
+31AA22111(NOSE)|přepravovat
+31AA22141|jazyk
+31AA22210|symbolika srdce
+31AA22210|symbol
+31AA222101|láska
+31AA22231|bradavka
+31AA22232|mléko
+31AA22311|pupek
+31AA22312|cool
+31AA22321|játra
+31AA22322|močový měchýř
+31AA22322|žlučník
+31AA22323|slezina
+31AA22331|zlato
+31AA22361|bez
+31AA223611|varlata
+31AA223612|falus
+31AA2236121|phallos
+31AA223613|semeno
+31AA223613|sperma
+31AA22362|žena
+31AA223621|děloha
+31AA223621|děloha
+31AA223622|vaječník
+31AA223623|menstruace
+31AA22371|anus
+31AA22461|palec
+31AA22462|ukazováček
+31AA22463|prostředníček
+31AA22464|prsteníček
+31AA22465|malíček
+31AA22551|celý
+31AA22552|stopu
+31AA22552|pole
+31AA22552|stopa
+31AA22611|krev
+31AA22612|tepna
+31AA22613|víno
+31AA22621|vlasy
+31AA22622|ochlupení
+31AA22623|ochlupení
+31AA23|držení těla
+31AA231|noha
+31AA231|stojící
+31AA2311|Opěrná noha a volná noha
+31AA2311|protichůdný
+31AA2312|hadovitá postava
+31AA2313|jeden
+31AA2319|stojící na hlavě
+31AA232|naklánění
+31AA2321|útočníci
+31AA2322|zpět
+31AA2323|do strany
+31AA233|klečení
+31AA234|krčení se
+31AA234|squatting
+31AA235|sezení
+31AA2351|země
+31AA2352|sedadlo
+31AA2353|paže
+31AA2353|loket
+31AA2353|koleno
+31AA2354|řeka
+31AA236|ležící
+31AA2361|zpět
+31AA2362|face
+31AA2363|strana
+31AA2363|protahování
+31AA2364|paže
+31AA2364|loket
+31AA2364|naklánění
+31AA2364|strana
+31AA2365|zpět
+31AA2365|ruka
+31AA2365|hlava
+31AA2366|face
+31AA2366|ruka
+31AA2366|hlava
+31AA237|visící
+31AA23711|jeden
+31AA23721|jeden
+31AA23731|vlasy
+31AA23732|zub
+31AA24|hlava
+31AA24|držení těla
+31AA25|paže
+31AA25|gesto
+31AA25|ruka
+31AA25|držení těla
+31AA2511|zvednutá ruka
+31AA2511|nahoru
+31AA2512|natáhnutá paže
+31AA2512|útočníci
+31AA2513|natáhnutá paže
+31AA2513|do strany
+31AA2514|zpět
+31AA2515|dolů
+31AA25161|hrudník (prsa)
+31AA25162|srdce
+31AA25163|hrudník (prsa)
+31AA25163|nápadný
+31AA25164|hrudník (prsa)
+31AA25164|odhalení
+31AA2517|ohýbání
+31AA25171|zpět
+31AA25172|hlava
+31AA2518|cool
+31AA25191|kapsa
+31AA25192|rukáv
+31AA25193|hrudník (prsa)
+31AA25193|župan
+31AA25193|žaludek
+31AA25311|Hlava opřená o ruku
+31AA25312|loket
+31AA25312|koleno
+31AA25312|naklánění
+31AA25313|pokrývající
+31AA25313|závěsy
+31AA25313|bdění
+31AA25331|prst
+31AA25331|ukazováček
+31AA25331|ukazování
+31AA25332|paroháč
+31AA25332|prst
+31AA25332|ukazováček
+31AA25332|malíček
+31AA25341|hledání
+31AA25342|prst
+31AA25342|šmírování
+31AA25343|tření
+31AA25344|slza
+31AA25344|otírání
+31AA25351|držení
+31AA25361|prst
+31AA25361|pískání
+31AA25371|baňkování
+31AA25372|škrábání
+31AA25411|ruku v ruce
+31AA25411|chůze
+31AA25441|vlasy
+31AA25442|krk
+31AA25443|hrdlo
+31AA25461|noha
+31AA25521|nahoru
+31AA25522|dolů
+31AA25531|nahoru
+31AA25532|dolů
+31AA25541|ukazováček
+31AA25541|hlazení
+31AA25542|ukazováček
+31AA25542|prostředníček
+31AA25543|lámání
+31AA25551|nahoru
+31AA25552|útočníci
+31AA25552|ukazování
+31AA25553|lákavý
+31AA25561|zavřené prsty
+31AA25561|nahoru
+31AA25562|V-znamení
+31AA25562|značka
+31AA25562|šíření
+31AA25562|nahoru
+31AA26|noha
+31AA26111|naklánění
+31AA26111|stojící
+31AA26112|naklánění
+31AA26112|stojící
+31AA26112|chodit po špičkách
+31AA26112|pak
+31AA26113|ležící
+31AA26113|sezení
+31AA26114|odděleně
+31AA26114|naklánění
+31AA26114|ležící
+31AA26114|sezení
+31AA26114|stojící
+31AA26115|ležící
+31AA26115|zvednuté nohy
+31AA26115|protahování
+31AA26121|stojící
+31AA26122|sezení
+31AA26123|squatting
+31AA26124|klečení
+31AA26126|stojící
+31AA26126|rozkročený
+31AA26127|sezení
+31AA26127|rozkročený
+31AA26128|ležící
+31AA26128|zvednuté nohy
+31AA26128|sezení
+31AA26129|zkřížené nohy
+31AA26129|sezení
+31AA26129|krejčí
+31AA261291|Buddhova pozice
+31AA261291|lotus
+31AA26231|rovná noha
+31AA26232|ohýbání
+31AA26241|rovná noha
+31AA26242|ohýbání
+31AA27|pohyb
+31AA271|útočníci
+31AA2711|chůze
+31AA2712|plazení
+31AA27121|koleno
+31AA27121|chůze
+31AA2713|kotoučování
+31AA2713|ohromující
+31AA2713|potácení se
+31AA2714|skákání
+31AA2715|válcování
+31AA2716|přemet
+31AA2717|ruka
+31AA2717|stojící na hlavě
+31AA2717|chůze
+31AA2719|zpět
+31AA272|dolů
+31AA272|nahoru
+31AA2721|skákání
+31AA2722|tažení
+31AA2723|lezení
+31AA2723|schodiště
+31AA2724|skákání
+31AA2725|sestupující
+31AA2725|schodiště
+31AA2726|razítkování
+31AA2726|šlapání
+31AA2731|padající
+31AA2732|kluzkost
+31AA27321|padající
+31AA27321|klopýtání
+31AA2733|přeprava
+31AA27331|podporující
+31AA2734|tažení
+31AA2735|hodit (být hozen)
+31AA2741|házení
+31AA2742|dosahování
+31AA2743|úder
+31AA2744|kopání
+31AA2745|uchopení
+31AA2746|rozbíjení
+31AA2747|zvedání
+31AA2747|tažení
+31AA2748|tlačení
+31AA2751|schoulit se
+31AA2752|protahování
+31AA2753|otáčení
+31AA2753|proplétání
+31AA2753|kroucení
+31AA2754|paže
+31AA2755|noha
+31AA2756|prohnutí zad
+31AA2756|ohýbání
+31AA2757|kolečko
+31AA2757|přemet
+31AA276|vzduch (v)
+31AA2761|stoupající
+31AA2762|létání
+31AA27631|mrak
+31AA27631|sezení
+31AA27631|stojící
+31AA2764|padající
+31AA2765|smrtelný skok
+31AA2765|přemet
+31AA277|vody
+31AA2771|brodění
+31AA2772|koupání
+31AA2773|plavání
+31AA2774|plovoucí
+31AA2775|potápění
+31AA2776|utopení
+31AA2776|klesání
+31AA2777|pozastavení
+31AA2778|vznikající
+31AA2779|chůze po vodě
+31AA28|stín
+31AA281|ďábel
+31AA281|prodej
+31AA2811|nepřítomnost
+31AA282|následující
+31AA3|pět
+31AA3|smysly
+31AA30|Sensi
+31AA30|Sensi, jak je možné ...
+31AA30|Smysl
+31AA30|Pocity těla
+31AA31|hledání
+31AA31|zrak
+31AA3111|dálekohled
+31AA3111|monokl
+31AA3112|sluneční brýle
+31AA3191|páska přes oči
+31AA32|slyšení
+31AA32|poslouchání
+31AA320|Sluch
+31AA321|sluchadlo
+31AA329|zaslechnutí
+31AA33|pach
+31AA330|Čich
+31AA34|chuť
+31AA340|Chci
+31AA341|kontrast
+31AA341|dobré a špatné
+31AA342|sladký
+31AA343|sůl
+31AA344|kyselý
+31AA345|hořký
+31AA35|pocit
+31AA41|deformace
+31AA41|postižený
+31AA41|nemoc
+31AA4111|slepota
+31AA4112|šilhající
+31AA4112|šilhání
+31AA4113|šedý zákal
+31AA4114|myopie
+31AA4114|krátkozrakost
+31AA4115|dalekozrakost
+31AA4121|hluchoněmý
+31AA4151|koňská noha
+31AA4152|umělá končetina
+31AA4152|noha
+31AA4152|dřevo
+31AA4153|berle
+31AA4154|koupací židle
+31AA4154|invalidní vozík
+31AA4155|svorkový měřidlo
+31AA4155|měřidlo (svorkovnice)
+31AA42|legendární
+31AA42|proporce
+31AA42|vám
+31AA43|vícečetné porody
+31AA44|abnormality
+31AA44|limb
+31AA44|monstrum
+31AA44|orgán (část těla)
+31AA44|tvar
+31AA4411|A-cefalie
+31AA4411|Blemyae
+31AA4411|hlava
+31AA4412|Ploché nohy
+31AA4412|Scopodes
+31AA4412|noha
+31AA4413|Toto
+31AA4414|Acheiroi
+31AA4414|ruka
+31AA4421|face
+31AA4421|tři
+31AA4421|tříčlenná tvář
+31AA44211|caput triciput
+31AA44211|hlava
+31AA44211|signum triceps
+31AA4422|poprsí
+31AA4422|hrudník (prsa)
+31AA4422|dva
+31AA4431|Toto
+31AA4431|mít oči na ramenou
+31AA4431|rameno
+31AA4441|vlasy
+31AA45|Monstra
+31AA45|zvíře
+31AA45|monstrum
+31AA45|tvar
+31AA45111|tři
+31AA45231|Sfinga
+31AA45231|lev
+31AA45231|sfinga
+31AA45232|sup bělohlavý
+31AA45232|mantikora
+31AA46|nemoc
+31AA4621|mor
+31AA4622|malomocenství
+31AA4624|kožní onemocnění
+31AA4624|pohlavní nemoc
+31AA46241|svědění
+31AA46242|vařit
+31AA4625|vodnatelnost
+31AA4626|epidemie
+31AA4629|jed
+31AA4629(ERGOTISM)|ergotismus
+31AA46321|scar
+31AA4690|Zdraví
+31AA4690|Zdravotnictví
+31AA5|which
+31AA5|hygiena
+31AA51|toaleta (výroba)
+31AA511111|zkreslení
+31AA5141|vůně
+31AA5141(...)|ambra
+31AA5141(...)|levandule
+31AA5141(...)|musk
+31AA5142|parfém
+31AA5142(...)|kolínská voda
+31AA5143|mast
+31AA5144|prášek
+31AA5145|nástroj
+31AA51451|musk ball
+31AA51451|pomander
+31AA51452|láhev
+31AA51452|lahvička parfému
+31AA51453|jaro
+31AA51453|mast
+31AA51454|box (kontejner)
+31AA51454|pudřenka
+31AA51455|rtěnka
+31AA5151|tetování
+31AA52|noha
+31AA52|ruka
+31AA53|vlasy
+31AA53|Kadeřnictví
+31AA5311|kartáč
+31AA5311|hřeben
+31AA5311|kartáč na vlasy
+31AA5311|nástroj
+31AA5321|kadeřník
+31AA5331|paruka
+31AA5332|brzy
+31AA5332|holení
+31AA5333|holení
+31AA5333|tonsura
+31AA5339|brzy
+31AA5341|knír
+31AA5342|vousy
+31AA5349|přestrojení
+31AA5349|falešné vousy
+31AA5349|falešný knír
+31AA5349|knír
+31AA5351|břitva
+31AA5352|Možná
+31AA5353|holení
+31AA54|koupání
+31AA54|praní
+31AA5451|lázeňský dům
+31AA5451|veřejné lázně
+31AA5451|plavecký bazén
+31AA5452|sedací koupel
+31AA5453|sprchový kout
+31AA5454|plivat
+31AA5459|po koupeli
+31AA5459|sušení
+31AA54611|bublina
+31AA5511|vazba
+31AA5511|korzet
+31AA5511|šněrování
+31AA56|služka
+31AA56|služebník
+31AA56|toaleta (výroba)
+31AA57|hmyz
+31AA57|odstranění
+31AA58|kulturistika
+31AA6|tyto
+31AA611|nočník
+31AA611|pot
+31AA621|prdění
+31AA621|rychlost
+31AA621|prdění
+31AA621|nadýmání
+31AA621|dech
+31AA621|vítr
+31AA622|trávení
+31AA651|slina
+31AA8|stroj
+31AA9|folklór
+31AA9|léčení
+31B|all
+31B|duch
+31B0|alegorie
+31B0|emblém
+31B0|symbol
+31B1|spící
+31B10|Stuha
+31B10|Spánek
+31B11|svět
+31B12|židle
+31B13|podlaha
+31B13|země
+31B14|zívání
+31B15|protahování
+31B161|svět
+31B161|odcházející do důchodu
+31B162|siesta
+31B17|tělo
+31B171|svět
+31B171|stoupající
+31B18|bezvědomí
+31B181|omdlévání
+31B19|odpočinek
+31B2|vize
+31B21|extáze
+31B3|sen
+31B31|noční můra
+31B32|náměsíčnost
+31B33|proroctví
+31B34|vysvětlující
+31B4|hypnóza
+31B4|návrh
+31B51|opilost
+31B52|alkohol
+31B52|opilost
+31B520|Stuha
+31B520|Opilost
+31B521|opilec
+31B522|zemědělec
+31B522|pěstní souboj
+31B522|v
+31B522|hádání
+31B53|závislost
+31B531|alkohol
+31B531|alkoholismus
+31B59|Abstinence
+31B59|Stuha
+31B59|Střízlivost
+31B59|abstinence
+31B59|střízlivost
+31B591|abstinence
+31B591|střídmost
+31B6|výraz
+31B62|face
+31B621|Toto
+31B621|hledání
+31B6211|nahoru
+31B6212|dolů
+31B6213|do strany
+31B6214|pláč
+31B6214|pláč
+31B62141|slza
+31B6215|obočí
+31B6215|čelo
+31B6215|zamračený
+31B6215|vráska
+31B6216|obočí
+31B6216|čelo
+31B6216|pozvednuté obočí
+31B6216|vráska
+31B6217|zavřené oko
+31B62171|mrknutí
+31B622|přepravovat
+31B622|nosní dírka
+31B6221|nahoru
+31B6222|uzavřený nos
+31B6222|držení
+31B6223|otevřená nosní dírka
+31B623|ústa
+31B6231|rt
+31B6231|lisování
+31B62311|líbání
+31B62312|syčení
+31B62312|pískání
+31B62313|usmívající se
+31B6232|otevřená ústa
+31B62321|smích
+31B623210|Stuha
+31B623210|Rýže
+31B62322|šklebící se
+31B62323|jazyk
+31B6233|otevřená ústa
+31B62331|zub
+31B6234|žvýkání
+31B62341|kousání
+31B6235|mluvení
+31B62350|hlas
+31B62351|křik
+31B62352|šeptání
+31B62359|ticho
+31B623591|Stuha
+31B623591|V tichosti
+31B623591|Ticho
+31B623591|prst na rtech
+31B623591|rt
+31B623592|vazba
+31B623592|Je mi líto, ale s tím vám nemohu pomoci.
+31B623592|hlavně
+31B624|tvář
+31B6241|foukání
+31B6242|propadlé tváře
+31B625|čelo
+31B6251|vráska
+31B626|skalp
+31B6261|vlasy
+31B6261|vztyčené vlasy
+31B6262|vlasy
+31B6262|vytahování
+31B6263|hlava
+31B6263|škrábání
+31B7|moudrost
+31B71|génius
+31B710|Geniální
+31B710|Stuha
+31B8|hlupák
+31B8|hlupák
+31B8|zjednodušující
+31B81|folklór
+31B81|léčení
+31B811|holení
+31B812|Eeclo (pekař)
+31B812|pekař
+31B812|pečení
+31B812|zelí
+31B812|hlava
+31B813|očista
+31B814|tekutina
+31B814|trychtýř
+31B814|lévání
+31B9|kontrast
+31B9|hlupák
+31B9|moudrost
+31BB10|Stuha
+31BB10|Spánek
+31BB11|svět
+31BB12|židle
+31BB13|podlaha
+31BB13|země
+31BB14|zívání
+31BB15|protahování
+31BB161|svět
+31BB161|odcházející do důchodu
+31BB162|siesta
+31BB17|tělo
+31BB171|svět
+31BB171|stoupající
+31BB18|bezvědomí
+31BB181|omdlévání
+31BB19|odpočinek
+31C|tělo
+31C|kontrast
+31C|duše
+31C|duch
+31D|věk
+31D|život
+31D11|dětství
+31D111|dítě
+31D1111|chlapec
+31D1112|dívka
+31D112|dítě
+31D1120|dětství
+31D1121|batolátko
+31D11211|chlapec
+31D11212|dívka
+31D11221|chlapec
+31D112210|chlapectví
+31D11222|dívka
+31D112220|dívčí věk
+31D1129|alchymie
+31D1129|filozofické dítě
+31D12|mládež (dospívající)
+31D120|Dospívání
+31D120|Mládež
+31D120|Mládež
+31D120|Stuha
+31D120|mládí
+31D13|dívka
+31D13|mladý
+31D130|panenství
+31D14|dospělý
+31D14|muž
+31D140|Stuha
+31D140|Mužnost
+31D140|dospělost
+31D140|většina
+31D140|mužství
+31D15|dospělý
+31D15|žena
+31D150|dospělost
+31D150|ženství
+31D16|starý muž
+31D160|Stáří
+31D160|Stuha
+31D160|Stáří
+31D160|Stáří
+31D160|stáří
+31D161|krásný stařec
+31D161|starý muž
+31D162|ošklivý
+31D17|stáří
+31D17|stará žena
+31D171|krása
+31D171|krásná stařenka
+31D171|stará žena
+31D172|ošklivý
+31D2(...)|epochy
+31D2(...)|čtyři
+31D2(...)|sedm
+31D2(...)|fáze
+31D2(...)|tři
+31D2(...)|dvanáct
+31D21|schodiště
+31D3|desetiletí
+31D4|narozeniny
+31D5|kontrast
+31D5|stáří
+31D5|mladý
+31D5|mládí
+31D51|dítě
+31D52|dítě
+31D6|omlazení
+31D61|Fontána mládí
+31D61|fontána
+31D61|mládí
+31D62|vaření
+31D62|čtyři
+31D7|stáří
+31D71|vousy
+31D71|dítě
+31D71|placený poručník
+31D8|název
+31D81|svátek
+31D83|pseudonym
+31D84|přezdívka
+31D90|Věk obecně
+31D90|Stuha
+31D91|dlouhá životnost
+31D91|dlouhověkost
+31D910|Stuha
+31D910|Dlouhá životnost
+31D92|krátký život
+31D920|Stuha
+31D920|Rychlost lidského života
+31D920|Krátký život
+31D920|rychlost
+31E|smrt
+31E1|umírající člověk
+31E11|usazování
+31E111|Závěť
+31E112|montáž
+31E112|související
+31E113|poslední hodiny
+31E113|Volání podle jména
+31E113|mluvení
+31E12|smrtelné lože
+31E121|kontrast
+31E121|víra
+31E122|štěstí
+31E122|mír
+31E1221|eutanázie
+31E123|utrpení
+31E123|muž
+31E123|bojující
+31E13|Umění umírání
+31E14|věk
+31E141|dítě
+31E141|mrtvě narozené dítě
+31E142|dítě
+31E143|mládež (dospívající)
+31E144|dospělý
+31E15|vzestup
+31E15|nebe
+31E2|příčina
+31E21|přirozená smrt
+31E211|stáří
+31E212|nemoc
+31E213|náhlá smrt
+31E22|nehoda
+31E221|vody
+31E2211|utopení
+31E2212|mrtvola
+31E222|teploty
+31E2221|teplo
+31E22211|čtyři
+31E2222|chladný
+31E2231|hlad
+31E2232|žízeň
+31E2233|dusivý
+31E2234|jed
+31E224|padající
+31E225|padající
+31E228|příroda
+31E23|provedení
+31E23|zabíjení
+31E23|špatné zacházení
+31E231|prvky
+31E2311|voda
+31E2311|vody
+31E23111|páska přes oči
+31E23111|utopení
+31E23111|police
+31E231111|keelhauling
+31E231111|chodit po prkně
+31E23112|pokles
+31E2312|čtyři
+31E23121|první
+31E23121|podíl
+31E231211|grilovací rošt
+31E23122|mučení
+31E231221|vaření
+31E23123|elektřina
+31E23123|elektrický proud
+31E231231|židle
+31E231231|elektrické křeslo
+31E2313|země
+31E23131|pohřbení zaživa
+31E23132|cihla
+31E23132|Zedník
+31E23132|stěna
+31E2314|voda
+31E23141|dusení
+31E23142|udusení
+31E23142|plyn
+31E23142|dusivý
+31E23143|výpary
+31E232|teploty
+31E2321|vaření
+31E2321|uhlí
+31E2321|teplo
+31E2321|olovo
+31E2321|tání
+31E2322|chladný
+31E23221|zmrazení
+31E2331|hladovění
+31E23319|krmení
+31E23319|síla
+31E23319|nucení
+31E23319|přejídání
+31E2332|žízeň
+31E2333|jed
+31E23331|potraviny
+31E23332|nápoj
+31E233321|otrávený pohár
+31E23333|kousání
+31E23333|bodnutí
+31E233331|had
+31E23335|injekce
+31E234|bití
+31E234|kopání
+31E234|tečka
+31E2341|házení
+31E23411|ukamenování
+31E2342|hlava
+31E23422|házení
+31E23423|nápadný
+31E23431|bičování
+31E2344|skřípání
+31E23451|soud
+31E23451|hřebík (hrot)
+31E2346|zbraň
+31E23461|šipka
+31E23461|střelba
+31E23462|kopí
+31E23462|kopí
+31E234631|meč
+31E234632|dýka
+31E234632|nůž
+31E2347|střelné zbraně
+31E23471|bomba
+31E23471|ruční granát
+31E23472|střelba
+31E23472|střelba
+31E2348|útes
+31E2348|padající
+31E2348|jám
+31E2348|hodit (být hozen)
+31E23481|od
+31E23481|schody
+31E235|mučení
+31E2351|protahování
+31E2352|ohýbání
+31E2353|vazba
+31E23531|rozbíjení
+31E23531|kolo
+31E23532|zvíře
+31E23532|kůň
+31E23532|vozidlo
+31E2354|škrcení
+31E23541|drcení
+31E23541|lisování
+31E2355|viset za krk
+31E2356|ukřižování
+31E23562|vzhůru nohama
+31E23563|Andrewův kříž
+31E23563|tvar
+31E236|zmrzačení
+31E2361|Viděli
+31E2361|rozbíjení
+31E2362|rozřezání na kousky
+31E2362|limb
+31E2362|řezání
+31E2362|roztrhat na kusy
+31E23621|poprava stětím
+31E236211|gilotina
+31E236212|mrtvola
+31E236219|hlava
+31E2362191|pokrm
+31E2362192|ne
+31E23622|jazyk
+31E23623|vnitřnosti
+31E23625|slepota
+31E2363|stahování z kůže
+31E2364|tepna
+31E2364|řezání
+31E2365|jám
+31E2365|hodit (být hozen)
+31E2365|divoké zvíře
+31E237|psychologie
+31E238|sebevražda
+31E2381|sebeobětování
+31E2382|zoufalství
+31E3|mrtvola
+31E31|pitva
+31E31|pitva
+31E311|dýchání
+31E311|pírko
+31E311|poslední hodiny
+31E311|zrcadlo
+31E311|přepravovat
+31E32|zdánlivá smrt
+31E321|umělé dýchání
+31E321|dýchání
+31E321|oživení
+31E33|rozpadající se
+31E33|hniloba
+31E331|ochrana
+31E331|příroda
+31E331|zachování
+31E3311|Falun
+31E3311|miner
+31E3312|mumifikace
+31E34|nález
+31E4|vzkříšení z mrtvých
+31E5|kontrast
+31E5|život
+31E51|mrtvola
+31E51|mrtvý (ten)
+31E51|schůzka
+31E51|jízda (na koni)
+31E51|kostra
+31E51|tři
+31E52|Arcadia
+31E52|Smrt
+31E52|a já v Arkádii
+31E52|pastýř
+31E52|hrobka
+31EE221|vody
+31EE222|teploty
+31EE224|padající
+31EE225|padající
+31EE228|příroda
+31EE231|prvky
+31EE23111|páska přes oči
+31EE23111|utopení
+31EE23111|police
+31EE23111|chodit po prkně
+31EE23112|pokles
+31EE23121|první
+31EE23121|podíl
+31EE231211|grilovací rošt
+31EE23122|mučení
+31EE231221|vaření
+31EE23123|elektřina
+31EE23123|elektrický proud
+31EE232|teploty
+31EE23319|krmení
+31EE23319|síla
+31EE23319|nucení
+31EE23319|přejídání
+31EE23331|potraviny
+31EE23332|nápoj
+31EE233321|otrávený pohár
+31EE23333|kousání
+31EE23333|bodnutí
+31EE233331|had
+31EE23335|injekce
+31EE234|bití
+31EE234|kopání
+31EE234|tečka
+31EE23411|ukamenování
+31EE23422|házení
+31EE23423|nápadný
+31EE23431|bičování
+31EE23451|soud
+31EE23451|hřebík (hrot)
+31EE23471|bomba
+31EE23471|ruční granát
+31EE23472|střelba
+31EE23472|střelba
+31EE23481|od
+31EE23481|schody
+31EE235|mučení
+31EE23531|rozbíjení
+31EE23531|kolo
+31EE23532|zvíře
+31EE23532|kůň
+31EE23532|vozidlo
+31EE23541|drcení
+31EE23541|lisování
+31EE23562|vzhůru nohama
+31EE23563|Andrewův kříž
+31EE23563|tvar
+31EE236|zmrzačení
+31EE237|psychologie
+31EE238|sebevražda
+31F|Smrt
+31F1|symbol
+31F11|lebka
+31F111|nebezpečí
+31F111|signál
+31F12|kosti
+31F2|Smrt
+31F2|Stuha
+31F21|dítě
+31F22|mládež (dospívající)
+31F23|muž
+31F24|starý muž
+31F25|mrtvola
+31F25|hniloba
+31F26|kostra
+31F27|ďábel
+31F3|překvapení
+31F3|tanec smrti
+31F3|tanec
+31F31|skupina
+31F32|pár
+31F32|pár
+31F33|boj
+31F33|život
+31F331|vítěz
+31F34|porážka
+31G|duše
+31G1|život
+31G2|umírající člověk
+31G3|smrt
+31G31|smrtelné lože
+31G31|lidská postava
+31G31|odchod
+31G311|ryba
+31G311|přeprava
+31G311|nebe
+31G32|cestování
+31G321|mrtvý (ten)
+31G321|loď
+31G322|Psychopompos
+31G322|ryba
+31G322|vedoucí
+31G322|nebe
+31G33|soudce
+31G331|vážení
+31G332|kniha
+31G332|otevřená kniha
+31G332|otevření
+31G34|Ztracená duše
+31G34|Stuha
+31G34|odsuzování
+31G34|zatracená duše
+31G35|ryba
+31G35|ďábel
+31G35|boj
+31G36|víly
+31G361|přeprava
+31G361|ďábel
+31G4|věčnost
+31G4|nebe
+31G4|nalévat
+32A|lidské typy
+32A|typ
+32A1|Komplexnost
+32A1|Stuha
+32A1|čtyři
+32A1|temperamenty (čtyři)
+32A11|cholerický temperament
+32A110|Choleric (pro oheň)
+32A110|čtyři
+32A12|sangvinický temperament
+32A120|Sanguigno (pro vzduch)
+32A120|voda
+32A13|flegmatický temperament
+32A130|Flemmatico (pro vodu)
+32A130|voda
+32A14|melancholie
+32A140|Melancholie (za zemí)
+32A140|Melancholie
+32A140|země
+32A141|světová bolest
+32A2|tlustý a hubený
+32A21|hotovo
+32A210|Mastnota
+32A210|Stuha
+32A211|steatopygie
+32A22|tenký
+32A3|optimista a pesimista
+32A31|optimista
+32A32|pesimismus
+32A41|asketický
+32A42|zbabělec
+32A42|zbabělost
+32A43|žrout
+32A43|obžerství
+32A44|lakota
+32A44|bídný
+32A45|parazit
+32A45|houby
+32A46|Lenost
+32A46|lenoch
+32A5|karikatura
+32A6|hlava (zvíře)
+32A6|fyziognomie
+32A61|frenologie
+32A62|chirognomie
+32A7|postava
+32A8|emoce
+32A8|vášeň
+32B|státní příslušnost
+32B|rasa (lidská)
+32B1|prehistorie
+32B11(...)|neandrtálec
+32B11(...)|Peking (man)
+32B12|kultura
+32B12|život
+32B2|vyhynulý
+32B2|historie
+32B2(GAULS)|Galové
+32B2(TEUTONS)|Germáni
+32B31|bílá
+32B311|Evropané
+32B311(ALBANIANS)|Albánci
+32B311(BELGIANS)|Belgičané
+32B311(BULGARIANS)|Bulhaři
+32B311(CROATS)|Chorvaté
+32B311(CZECHS)|Češi
+32B311(DANES)|Dnes
+32B311(DUTCH)|holandský
+32B311(ENGLISH)|Angličtina
+32B311(FLEMINGS)|Flemings
+32B311(FRENCH)|Francouzi
+32B311(GERMANS)|Bratři
+32B311(GREEKS)|Řekové
+32B311(HUNGARIAN)|Maďaři
+32B311(IRISH)|irský
+32B311(ITALIANS)|Italové
+32B311(POLES)|Poláci
+32B311(PORTUGUESE)|portugalština
+32B311(RUMANIANS)|Rumuni
+32B311(RUSSIANS)|Rusové
+32B311(SCOTS)|Skotové
+32B311(SERBIANS)|Srbové
+32B311(SLAVS)|Slované
+32B311(SLOVAKS)|Slováci
+32B311(SPANIARDS)|Španělé
+32B311(SWEDES)|Švédové
+32B311(WALLOONS)|Valoni
+32B312|přistěhovalec
+32B312|neevropané
+32B312(AMERICA)|Američané
+32B312(AUSTRALIA)|Australané
+32B313|přistěhovalci
+32B313(MOROCCO)|Maročané
+32B313(SRI LANKA)|Srílanci
+32B32|Afričané
+32B32(BEDOUINS)|Beduíni
+32B32(BEDOUINS)|Beduíni
+32B32(TUNISIANS)|Tunisané
+32B321|černý
+32B321|Afričané ze subsaharské Afriky
+32B321(BANTUS)|Bantu
+32B3211|Američané
+32B3211|Afroameričané
+32B33|Asiaté
+32B33(ARABS)|Arabové
+32B33(INDIANS)|Indiáni
+32B33(PERSIANS)|Peršané
+32B33(TURKS)|Turecký
+32B331|Mongolové
+32B3311|čínský
+32B3312|japonština
+32B34|Američané
+32B341|Eskymáci
+32B342|domorodí Američané
+32B343|Středoameričané
+32B344|Jihoameričané
+32B345|Karibik
+32B35|Australané
+32B35|Oceánský
+32B36|aborigine
+32B36|primitivní člověk
+32B37|trpaslík
+32B37|pygmejové
+32B37|kmen
+32B371|Afričané
+32B3711|Křováci
+32B3712|Hottentoti
+32B372|Novoguinejci
+32B381|mulat
+32B382|eurasijský
+32B382|míšenec
+32B383|obchod, povolání
+32B383|mestizo
+32B39(...)|Lapps
+32C|klasifikace
+32C|rasa (lidská)
+32C|věda
+33|vztah
+33A|přátelskost
+33A|neagresivní
+33A1|salutování
+33A11|má
+33A11|hlava
+33A11|odhalení
+33A12|spojení pravých rukou
+33A12|ruka
+33A12|potřásání rukou
+33A13|schůzka
+33A131|představení osoby
+33A1311|vizitka
+33A1311|karta
+33A1311|vizitka
+33A132|uznávání
+33A14|objímání
+33A14|líbání
+33A15|ruka
+33A15|rameno
+33A2|odjíždějící
+33A2|rozloučení
+33A21|ptát se
+33A21|zpoždění
+33A3|společnost
+33A3|elegantní společnost
+33A3|host
+33A3|přijímání osoby
+33A3|návštěva
+33A31|od
+33A31|klepání
+33A32|blahopřející
+33A33|kondolující
+33A34|adresování
+33A34|skupina
+33A34|řečník
+33A341|poslouchání
+33A341|vypravěč příběhů
+33A35|rozhovor
+33A35|konverzační téma
+33A35|dialog
+33A350|Konverzace
+33A350|Stuha
+33A39|hostina
+33A39|volná společnost
+33A4|výměna
+33A4|jed
+33A41|příjem
+33A49|odmítnutí (dárku, nabídky)
+33A5|přátelský obrázek
+33A5|přítel
+33A51|přátelství
+33A51|jednostranný
+33A52|ruka
+33A52|rameno
+33A53|ruku v ruce
+33A54|rodokmen
+33A54|Album přátel
+33A58|smíření
+33A59|špatný
+33A59|společník
+33A6|záchrana
+33A61|pomoc
+33A610|Pomoc
+33A610|Stuha
+33A610|Záchrana
+33A62|osvobozující
+33A7|soused
+33A71|partner
+33A711|nerovný
+33A8|dvojitý
+33A81|náhradník
+33A81|substituce
+33B|agresivita
+33B|rozzlobený
+33B1|hádání
+33B10|Trochu
+33B10|Stuha
+33B11|urážlivý
+33B11|posmívání
+33B11|škádlení
+33B111|vztáhnout nos
+33B111|prst
+33B111|přepravovat
+33B111|snook
+33B111|šíření
+33B111|palec
+33B12|obviňující
+33B13|pomluva
+33B14|náročný
+33B14|vyhrožující
+33B2|souboj
+33B3|boj
+33B31|pěstní souboj
+33B32|kopání
+33B33|face
+33B33|facka
+33B33|nápadný
+33B4|únos
+33B41|únos
+33B5|nepřítel
+33B51|protivník
+33B6|zabíjení
+33B6|vraždění
+33B60|Vražda
+33B60|Stuha
+33B9|útěk
+33B9|usilující
+33B90|Let
+33B90|Populární útěk
+33B90|Pronásledování
+33B90|Stuha
+33B91|skrývání
+33B91|skrývat se
+33C1|ženské intriky
+33C1|smrtící ženy
+33C1|vliv
+33C1|škodlivý vliv
+33C1|žena
+33C11|Aristoteles
+33C11|Campaspe (Phyllis)
+33C11|nošení na zádech
+33C11|kurtizána
+33C11|plazení
+33C11|jízda
+33C12|Virgil
+33C12|košík
+33C12|zvedání
+33C12|posmívání
+33C12|okno
+33C121|hýždě
+33C121|svíčka
+33C121|plamen
+33C121|podpal
+33C121|pomsta
+33C13|Alexandr Veliký
+33C13|Candace
+33C2|sliby
+33C21|dvoření
+33C21|nápadník
+33C211|láska na první pohled
+33C2111|hledání
+33C2111|spící
+33C212|jmenování
+33C2121|dopis (epistola)
+33C213|serenáda
+33C214|jed
+33C214|nabídka
+33C2141|Den svatého Valentýna
+33C2141|Valentýn (sv.)
+33C215|korunovace
+33C215|věnec
+33C216|touha
+33C216|osamělost
+33C217|skrývání
+33C217|tajnost
+33C2171|nález
+33C218|probuzení lásky
+33C219|neopětovaná láska
+33C219|svádějící
+33C22|schůzka
+33C221|čekání
+33C222|lezení
+33C222|vstup
+33C222|okno
+33C2221|košík
+33C2221|zvedání
+33C223|zamykání
+33C223|místo setkání
+33C224|řezbářství
+33C224|srdce
+33C224|počáteční
+33C224|název
+33C224|kmen stromu
+33C2241|značka
+33C225|rozloučení
+33C226|překvapení
+33C226|přerušení
+33C2261|sledování
+33C2262|špehování
+33C227|dohazování
+33C227|kuplířka
+33C229|vyhánění
+33C229|neopětovaná láska
+33C229|střední
+33C2291|nočník
+33C2291|pot
+33C2291|okno
+33C23|pár
+33C231|ruku v ruce
+33C232|líbání
+33C2321|ruka
+33C233|objímání
+33C233|symplegma
+33C234|laskání
+33C2340|Milostné laskání
+33C2340|Stuha
+33C235|bojující
+33C235|zápas
+33C236|hádání
+33C236|zášť
+33C239|než
+33C29|kritizující
+33C29|přítel
+33C29|žárlivost
+33C31|dvoření
+33C31|neopětovaná láska
+33C31|jednostranný
+33C311|útěk
+33C3111|oblečení
+33C3111|zanechávající za sebou
+33C3111|bota
+33C312|opouštění
+33C3121|osamělost
+33C313|obviňující
+33C314|útěk
+33C32|neopětovaná láska
+33C32|slídění
+33C32|usilující
+33C321|Stuha
+33C321|Rivalita
+33C321|soutěž
+33C321|rozdělit
+33C321|nápadník
+33C3211|hlupák
+33C3211|kalhoty
+33C322|palice
+33C322|třesení
+33C322|strom
+33C3221|házení
+33C323|Ztracené lásky
+33C323|zasahující
+33C3231|úspěch
+33C3231|vítěz
+33C33|výběr
+33C331|výběr
+33C331|prosévání
+33C331|nápadník
+33C332|páska přes oči
+33C333|bohatství
+33C333|mládí
+33C34|loterie
+33C34|manželská loterie
+33C341|počítač
+33C341|schůzka
+33C4|pohlavní styk
+33C41|pár
+33C411|obscénní
+33C411|pornografie
+33C411|drsný
+33C412|felace
+33C413|cunnilingus
+33C42|odkvět
+33C42|panenství
+33C421|symbol
+33C4211|rozbíjení
+33C4211|rozbitá konvice
+33C4211|pot
+33C4212|klec pro ptáky
+33C4212|otevření
+33C44|padlá žena
+33C44|žena
+33C45|dítě
+33C451|dospělý
+33C451|Pedofilie
+33C46|masturbace
+33C46|masturbace
+33C47|skupinový sex
+33C48|zvíře
+33C48|zoofilie
+33C48|perverzita
+33C48|sexuální zvrácenost
+33C48|sodomie
+33C49|porušující
+33C5|zaměstnání
+33C5|prostituce
+33C51|bordel
+33C511|okrádání
+33C512|vyhánění
+33C52|děvka
+33C521|kurtizána
+33C5211|Korint
+33C5211|Lais
+33C53|dohazování
+33C531|kuplířka
+33C54|Paní
+33C55|pimp
+33C551|elegantní muž
+33C56|nabízení
+33C56|ulice
+33C561|okno
+33C57|otrok
+33C57|obchod
+33C57|obchod s bílými otroky
+33C571|dítě
+33C6|homosexuální
+33C6|lesbianismus
+33C61|pederastie
+33C62|sodomie
+33C71|kastrace
+33C71|impotence
+33C711|eunuch
+33C72|afrodiziakum
+33C72|jiný
+33C72|potence
+33C721|zachování
+33C729|anafrodiziakum
+33C8|touha
+33C8|vášeň
+33C81|kontrast
+33C811|smyslnost
+33C8110|Chtíč
+33C8110|Stuha
+33C8110|Rozkoš
+33C812|cudnost
+33C8120|Cudnost
+33C8120|Cudnost
+33C8120|Cudnost
+33C8120|Stuha
+33C8120|Čestná hanba
+33C8121|pás cudnosti
+33C8121|pás
+33C8122|zkouška
+33C813|cudnost
+33C813|obhajoba
+33C82|kontrast
+33C82|pozemská láska
+33C82|nebeská láska
+33C83|kontrast
+33C83|dvorská láska
+33C84|dvorská láska
+33C85|svobodná láska
+33C851|fantazie
+33C851|promiskuita
+33C86|svůdník
+33C86|ženich
+33C861|Don Juan
+33C861|John (Don)
+33C862|Modrovous
+33C87|šmírování
+33C89|perverzita
+33C89|skatologie
+33C89|sexuální zvrácenost
+33C891|sadismus
+33C8911|flagelantismus
+33C8911|bičování
+33C892|masochismus
+33C893|fetišismus
+33C9|Láska
+33C911|Paní Minne
+33C911|Paměť
+33C9111|šipka
+33C9111|střelba
+33C9112|soud
+33C912|Maurský tanec
+33C912|Morrisův tanec
+33C912|tanec
+33C92|hrad
+33C93|soud
+33C93|hostina
+33C93|galantní večírek
+33C93|zahrada
+33C931|Umění milovat
+33C94|Kythéra
+33C94|Ostrov Kythéra
+33C941|nalodění
+33C942|nalodění
+33C95|Původ lásky
+33C95|Stuha
+33C95|původ
+33C951|Fontána lásky
+33C951|fontána
+33C96|sebeobětování
+33C97|mučení
+33C97|mučení
+33C971|neopětovaná láska
+33C99|Zkrocená zvěř
+33C99|Stuha
+33C99|porážka
+33C99|štít
+33CC3121|osamělost
+33CC331|výběr
+33CC331|prosévání
+33CC331|nápadník
+33CC332|páska přes oči
+33CC333|bohatství
+33CC333|mládí
+33CC51|bordel
+33CC511|okrádání
+33CC512|vyhánění
+33CC52|děvka
+33CC5211|Korint
+33CC5211|Lais
+33CC53|dohazování
+33CC54|Paní
+33CC55|pimp
+33CC551|elegantní muž
+33CC56|nabízení
+33CC56|ulice
+33CC561|okno
+33CC57|otrok
+33CC57|obchod
+33CC57|obchod s bílými otroky
+33CC571|dítě
+34|zvíře
+34|zaměstnání
+34A1|laskání
+34A1|přátelství
+34A1|hlazení
+34A11|domácí zvíře
+34A11|štít
+34A111|pták
+34A111|kuře
+34A111|stříhání
+34A111|papoušek
+34A111|křídlo
+34A2|kůň
+34A2|štít
+34A21|zlomit koně
+34A21|uzda
+34A21|sedlo
+34A22|školení
+34A3|nicméně
+34A3|školení
+34A31|policejní pes
+34A32|vodicí pes
+34A33|lovecký pes
+34A34|výkon
+34A4|peníze
+34A4|výkon
+34A41|medvěd
+34A42|opice
+34A43|morče
+34A5|had
+34A9|špatné zacházení
+34A9|mučení
+34B|domácí zvíře
+34B1|uvnitř
+34B11|nicméně
+34B111|límec
+34B112|Viděli
+34B113|hlídací pes
+34B114|venčení psa
+34B12|kolik
+34B121|myš
+34B13|pták
+34B131|klec pro ptáky
+34B1311|prázdný
+34B132|voliéra
+34B132|klec pro ptáky
+34B133|lano
+34B133|řetězec
+34B2|venku
+34B21|drůbež
+34B211|rybník
+34B22|savec
+34B23|pták
+34B231|kam
+34B2311|kde-cote
+34B232|kuře
+34B232|kohout
+34B232|drůbež
+34B232|je
+34B2321|kurník
+34B233|vodní pták
+34B2331|lilie
+34B2332|hus
+34B2333|kachna
+34B3|obojživelník
+34B31|plaz
+34B31|terárium
+34B4|ryba
+34B41|akvárium
+34B411|akvárium
+34B42|rybník
+34B42|rybník
+34C|ochrana
+34C1|krmení
+34C11|zima
+34C12|sucho
+34C12|zalévání
+34C2|ukrytí
+34C21|pták
+34C21|which
+34C211|hnízdící budka
+34C212|špaček
+34C212|špaččí dům
+34C3|národní park
+34C3|park
+34C3|rezerva
+34C3|divoké zvíře
+34C3|přírodní rezervace
+34C31|plot
+34C32|rošt
+34C4|obhajoba
+34C4|špatné zacházení
+34C41|organizace
+34C5|veterinář
+34D|ovládání
+34D|vymýcení
+34D|škodlivé zvíře
+34D|vermin
+34D1|savec
+34D11|myš
+34D111|past na myši
+34D111|schody
+34D12|rada
+34D121|jed
+34D121|jed na krysy
+34D121|prodej
+34D122|deratizátor
+34D2|pták
+34D21|strašák
+34D3|hmyz
+34D31|letět
+34D311|plácačka na mouchy
+34D312|lepidlo na mouchy
+34D32|komár
+34D321|ne
+34D321|obrazovka
+34D322|hoření
+34D322|pot
+34D322|kouř
+34D322|kadidelnice
+34D51|chemický
+34D51|stříkání
+34E|zdrženlivost
+34E1|divoké zvíře
+34E11|lví doupě
+34E12|medvěd
+34E12|jám
+34E2|sbírka
+34E21|cirkus
+34E22|skrýt
+34E221|správce
+34E3|vazba
+34E3|řetěz
+34E3|lano
+34F|divoké zvíře
+34F1|vyhrožující
+34F11|boj (zvíře)
+34F111|lev
+34F111|ornament
+34F12|zabíjení (zvířat)
+34F13|zabíjení (zvířat)
+34F14|mrtvola
+34F14|požírání
+34F2|which
+34F21|nálezce
+34G|přestrojení
+35|Arcadia
+35|pastorační
+35|pastýř
+36|životní prostředí
+36A|ochrana
+36A|ochrana
+36A1|čištění
+36B|zničení
+36B1|znečištění
+36B11|příroda
+36B111|voda
+36B111|znečištění ovzduší
+36B112|voda
+36B112|znečištění vody
+36B113|půda
+36B113|znečištění půdy

@@ -1,0 +1,9483 @@
+4|civilizace
+4|kultura
+4|společnost
+41|významnost
+41A|bydlení
+41A1|architektura
+41A1|civilní architektura
+41A1|budova
+41A1|vnitřní
+41A10|Budova nebo webová stránka
+41A10|Stuha
+41A11|palác
+41A111|hotel (palác)
+41A111|palác
+41A12|hrad
+41A121|opevnění
+41A121|dům
+41A13|obchodní dům
+41A13|veřejná budova
+41A13|obchod
+41A14|město
+41A14|dům
+41A141|řádek
+41A141|ulice
+41A142|obchod
+41A143|rodinný dům
+41A144|bytový dům
+41A144|bytový dům
+41A15|mrakodrap
+41A16|dům
+41A16|venkovské bydlení
+41A161|venkovský dům
+41A162|vesnice
+41A163|chata
+41A17|farma
+41A171|děti
+41A18|kabina
+41A18|chata
+41A18|chata
+41A181|srub
+41A182|indická chata
+41A182|domorodí Američané
+41A1821|wigwam
+41A191|stan
+41A1911|tábor
+41A1912|domorodí Američané
+41A1912|stan
+41A1912|tepee
+41A1912|typy
+41A192|karavan
+41A1921|tábor
+41A1922|upoutávka
+41A193|hausbót
+41A194|obydlí na jezeře
+41A194|pilířové obydlí
+41A195|chata
+41A195|iglu
+41A195|sněhová chata
+41A196|jeskyně
+41A2|dům
+41A2|vnitřní
+41A21|sál
+41A21|Vstupní hala
+41A211|chodba
+41A2111|galerie
+41A22|pokoj
+41A221|obývací pokoj
+41A221|salón
+41A221|obývací pokoj
+41A222|salón
+41A222|salón
+41A2221|budoir
+41A223|jídelna
+41A23|ložnice
+41A23|pokoj
+41A24|koupelna
+41A24|pokoj
+41A241|vybavení
+41A2411|koupel
+41A2411|plivat
+41A2412|sprcha
+41A2413|bidet
+41A2414|Možná
+41A2415|Možná
+41A2415|jih
+41A25|pokoj
+41A251|pracovna
+41A251|studie
+41A252|kaple
+41A253|salón
+41A253|veranda
+41A253|sluneční veranda
+41A253|veranda
+41A2531|konzervatoř
+41A2531|zahrada
+41A2531|zimní zahrada
+41A254|šatník
+41A2541|skříň
+41A2541|skříň na prádlo
+41A255|půda
+41A255|strop
+41A256|skladování
+41A3|příloha
+41A3|vnější
+41A3|dům
+41A3|část
+41A31|budova
+41A31|fasáda
+41A31|stěna
+41A311|čelo fasády
+41A3111|kameny na štítu
+41A3111|kamenná deska
+41A3111|tablet
+41A312|zadní fasáda
+41A313|vnitřní nádvoří
+41A32|od
+41A32|falešné dveře
+41A32|optický klam
+41A32|sham-door
+41A321|otevření
+41A3211|otevřené dveře
+41A3212|dělené dveře
+41A3212|otevřené dveře
+41A3213|otočné dveře
+41A322|uzavření
+41A3221|zavřené dveře
+41A323|malá budova
+41A323|monumentální umění
+41A323|veranda
+41A324|kov
+41A3241|krásný
+41A3241|klepadlo na dveře
+41A3241|zvonek
+41A3241|klepání
+41A3242|přes rukojeť
+41A3242|klika
+41A325|prahová hodnota
+41A3251|zárubeň
+41A3251|ne
+41A3251|styl
+41A3252|škrabka na boty
+41A3252|dveřní kování
+41A3252|rohožka
+41A3252|s
+41A3252|škrabka
+41A326|poštovní schránka
+41A327|brankář
+41A327|stráž
+41A327|domovní stráž
+41A328|zámek
+41A3281|klíč
+41A32811|hlavní klíč
+41A32811|univerzální klíč
+41A32811|univerzální klíč
+41A3282|západka
+41A3283|obchod
+41A3284|visací zámek
+41A33|falešné okno
+41A33|optický klam
+41A33|falešné okno
+41A33|okno
+41A331|otevření
+41A3311|otevřené okno
+41A332|uzavření
+41A3321|zavřené okno
+41A333|latex
+41A333|žaluzie
+41A3332|vnitřní
+41A334|markýza
+41A334|sluneční clona
+41A334|sluneční clona
+41A335|sedadlo
+41A335|okno-sedadlo
+41A336|lidská postava
+41A336|otevřené okno
+41A3362|vnitřní
+41A337|hledání
+41A337|pohled
+41A3372|vnitřní
+41A34|schodiště
+41A341|schodiště
+41A3411|eskalátor
+41A342|výtah
+41A342|výtah
+41A343|žebřík
+41A344|požární schodiště
+41A345|krok zpět
+41A345|schod (schodiště)
+41A35|přední schod
+41A35|schod (schodiště)
+41A351|terasa
+41A352|stříška
+41A36|střecha
+41A361|věž
+41A3611|klíček
+41A3611|věž
+41A362|pokrývající
+41A362|střešní krytina
+41A363|dekorace
+41A363|štít
+41A37|sklep
+41A37|sklep
+41A38|balkon
+41A381|lodžie
+41A381|veranda
+41A381|veranda
+41A382|výklenek
+41A382|Galerie
+41A391|vypouštění
+41A391|potrubní systém
+41A391|dodávka
+41A391|voda
+41A3911|dobře
+41A3912|čerpadlo
+41A3913|hrdlo
+41A3913|ztráta
+41A3914|toaleta
+41A3914|toaleta
+41A3915|fontána
+41A3916|Možná
+41A3916|umyvadlo
+41A39171|chlapci
+41A39172|gargoyle
+41A392|plyn
+41A392|potrubní systém
+41A393|kabel
+41A393|elektřina
+41A393|armatury
+41A393|světelný spínač
+41A393|zástrčka
+41A393|zásuvka
+41A393|přepínač
+41A393|zapojení
+41A4|dekorace
+41A4|interiérová výzdoba
+41A41|tapeta
+41A411|tapeta
+41A412|obložení
+41A413|gobelín
+41A414|cordovan
+41A414|obuvník
+41A414|zlatá kůže
+41A414|kůže
+41A42|čalounění
+41A421|opona
+41A422|závěsy
+41A422|závěsy
+41A4221|bdění
+41A4231|baldachýn
+41A4231|stříška
+41A43|podlahová krytina
+41A431|koberce
+41A44|strop
+41A5|příloha
+41A5|budova
+41A5|přístavba
+41A51|nádvoří
+41A511|hotel (palác)
+41A511|vnitřní nádvoří
+41A511|palác
+41A511|palác
+41A512|zadní dvůr
+41A52|kočárovna
+41A521|garáž
+41A53|přístřešek
+41A531|pekárna
+41A532|nářadí
+41A54|příloha
+41A54|plot
+41A54|palisády
+41A54|stěna
+41A541|balustrády
+41A542|ulice
+41A5421|bariéra
+41A5422|klapka
+41A5422|polibková brána
+41A543|styl
+41A544|vodní brána
+41A6|zahrada
+41A61|mapa
+41A62|budova
+41A62|zahradní stavby
+41A621|pergola
+41A622|altán
+41A622|letní dům
+41A622|čajový domeček
+41A623|poustevna
+41A624|vyhlídka
+41A625|mříž
+41A626|předstíraná budova
+41A626|falešné budování
+41A63|design
+41A631|tráva
+41A631|plný
+41A632|postel (spiknutí)
+41A632|květinový záhon
+41A633|skalka
+41A634|labyrint
+41A635|Uzavřená zahrada
+41A635|příloha
+41A635|plot
+41A635|stěna
+41A6351|střecha
+41A636|Francouzská zahrada
+41A636|architektonická zahrada
+41A636|formální zahrada
+41A637|anglická zahrada
+41A637|krajina
+41A638|pohon
+41A638|zahradní cesta
+41A638|silnice
+41A64|zahradní dekorace
+41A64|ornament
+41A641|socha
+41A641|socha
+41A6411|trpaslík
+41A6411|cikády
+41A642|obelisek
+41A643|pyramida
+41A644|herm
+41A645|zřícenina
+41A646|váza
+41A65|vody
+41A651|fontána
+41A652|rybník
+41A653|vodopád
+41A653|vodopád
+41A66|jeskyně
+41A67|děti
+41A671|květina
+41A671|ovoce
+41A671|hmyz
+41A671|zátiší
+41A6711|kytice
+41A6711|váza
+41A6712|událost
+41A672|Bonsai
+41A672|keř
+41A672|vycvičený na špalíru
+41A672|tvar
+41A672|topiary práce
+41A672|školení
+41A672|strom
+41A672|ořezávání
+41A673|pot
+41A68|pěstování
+41A681|zahradník
+41A6811|zalévání
+41A682|zahradnické nářadí
+41A682|nástroj
+41A7|nábytek
+41A7|domácnost
+41A711|stůl
+41A7111|stativ
+41A7112|stůl s podnožím
+41A712|police (regál)
+41A712|police
+41A712|příborník
+41A7121|všechno možné
+41A7122|knihovna
+41A71221|kniha
+41A713|látka
+41A713|stolní nádobí
+41A72|sezení
+41A721|židle
+41A7211|stolička
+41A72111|podnožka
+41A7212|křeslo
+41A7212|sedadlo
+41A7213|houpací křeslo
+41A722|pohovka
+41A7221|polštář
+41A723|lavička
+41A73|skladování
+41A731|skříň
+41A732|skříň
+41A732|ornament
+41A733|truhla (kontejner)
+41A734|kontejner
+41A735|zámek
+41A7351|klíč
+41A7352|obchod
+41A7353|visací zámek
+41A741|skládací paraván
+41A741|obrazovka
+41A75|dekorace
+41A751|průvanová zástěna
+41A751|obrazovka
+41A761|svět
+41A7611|postel
+41A7611|postel
+41A7612|stříška
+41A7612|testy
+41A76121|ne
+41A76121|nebesová postel
+41A76122|postel s nebesy
+41A76122|ne
+41A762|houpací síť
+41A763|ložní prádlo
+41A7631|matrace
+41A7632|polštář
+41A7633|list
+41A7634|přikrývka
+41A7635|přikrývka
+41A77|kontejner
+41A771|kbelík
+41A771|může
+41A771|kanystr
+41A771|road
+41A771|kov
+41A771|novinky
+41A771|váza
+41A7711|zlato
+41A7711|drahé kovy
+41A7711|stříbro
+41A772|kámen
+41A772|váza
+41A7721|drahokam
+41A773|keramika
+41A773|jaro
+41A773|jih
+41A773|pot
+41A773|keramika
+41A773|váza
+41A774|láhev
+41A774|sklo
+41A774|jaro
+41A774|váza
+41A775|soud
+41A775|dřevo
+41A7751|košík
+41A776|taška
+41A776|kůže
+41A777|taška
+41A777|ne
+41A777|pytel
+41A778|taška
+41A778|kartonová krabice
+41A778|lepenka
+41A778|papír
+41A779|plast
+41A779|syntetický materiál
+41A78|luxusní zboží
+41A78|drobnosti
+41A81|zařizování
+41A82|stěhování
+41A9|hrad
+41A9|dům
+41A9|zřícenina
+41AA10|Budova nebo webová stránka
+41AA10|Stuha
+41AA11|palác
+41AA111|hotel (palác)
+41AA111|palác
+41AA12|hrad
+41AA121|opevnění
+41AA121|dům
+41AA13|obchodní dům
+41AA13|veřejná budova
+41AA13|obchod
+41AA14|město
+41AA14|dům
+41AA141|řádek
+41AA141|ulice
+41AA142|obchod
+41AA143|rodinný dům
+41AA144|bytový dům
+41AA144|bytový dům
+41AA15|mrakodrap
+41AA16|dům
+41AA16|venkovské bydlení
+41AA161|venkovský dům
+41AA162|vesnice
+41AA163|chata
+41AA17|farma
+41AA171|děti
+41AA18|kabina
+41AA18|chata
+41AA18|chata
+41AA181|srub
+41AA182|indická chata
+41AA182|domorodí Američané
+41AA191|stan
+41AA1911|tábor
+41AA1912|domorodí Američané
+41AA1912|stan
+41AA1912|tepee
+41AA1912|typy
+41AA192|karavan
+41AA1921|tábor
+41AA1922|upoutávka
+41AA193|hausbót
+41AA194|obydlí na jezeře
+41AA194|pilířové obydlí
+41AA195|chata
+41AA195|iglu
+41AA195|sněhová chata
+41AA196|jeskyně
+41B1|čtyři
+41B1|krb
+41B1|teplo
+41B1|otevřený oheň
+41B11|podpal
+41B111|firestone
+41B111|křemen
+41B111|steel
+41B112|troud
+41B113|sírová zápalka
+41B114|zápalka
+41B1141|krabička zápalek
+41B115|pojistka
+41B115|knot
+41B12|hoření
+41B12|palivo
+41B12(COAL)|uhlí
+41B12(FAGGOT)|buzna
+41B12(LOG)|Protokol
+41B12(OIL)|olej
+41B12(STRAW)|sláma
+41B121|plamen
+41B122|kop
+41B123|spalování
+41B123|plyn
+41B13|míchání
+41B131|foukání
+41B1311|měchy
+41B132|ventilátoru
+41B1321|ventilátor
+41B133|šťouchání
+41B1331|poker
+41B14|hašení
+41B151|saze
+41B152|popel
+41B153|popel
+41B153|úder
+41B16|táborák
+41B16|hlídkový oheň
+41B161|ohniště
+41B162|kouř
+41B2|teplo
+41B21|krb
+41B21|otevřený oheň
+41B211|Hyems
+41B211|čtyři
+41B211|oteplování
+41B211|ohřívací miska
+41B212|nástroj
+41B2121|kleště na oheň
+41B2121|kleště
+41B2122|uhlí
+41B2122|hasicí přístroj
+41B213|doplňky
+41B2131|krbová zástěna
+41B2131|obrazovka
+41B2132|fender
+41B2133|podložka pod krb
+41B2133|deska
+41B2134|figurína
+41B2134|lidská postava
+41B2135|řetěz
+41B2135|pot
+41B2136|železná kolejnice
+41B2136|čtyřnohý pes
+41B214|komín
+41B2141|krbová římsa
+41B2141|krbová římsa
+41B2142|ornament
+41B22|kamna
+41B221|rošt
+41B222|trubka
+41B222|komínová trubka
+41B223|kbelík
+41B223|uhlí
+41B224|uhlí
+41B224|meče
+41B23|nožní ohřívač
+41B23|kamna
+41B231|ohřívací miska
+41B232|horkovodní láhev
+41B24|ústřední topení
+41B241|radiátor
+41B29|klimatizace
+41B29|chlazení
+41B3|lampa
+41B3|světlo
+41B31|svíčka
+41B311|kandelábr
+41B312|sconce
+41B312|nástěnná lampa
+41B313|svícen
+41B314|knoty
+41B32|pochodeň
+41B32|vzhůru nohama
+41B33|lucerna
+41B34|olejová lampa
+41B35|parafínová lampa
+41B36|plynová lampa
+41B37|elektrická lampa
+41B371|žárovka
+41B371|žárovka
+41B372|neon
+41B372|Trubka
+41B4|hoření
+41B4|čtyři
+41B5|hašení
+41B5|čtyři
+41B5|hašení požárů
+41B51|čtyřbrigádní
+41B51|zaměstnání
+41B511|hasič
+41B52|vybavení
+41B521|kbelík
+41B522|čerpadlo
+41B523|požární hadice
+41B523|hadice
+41B524|chemické přístroje
+41B525|hasičské auto
+41B53|záchrana
+41B531|skokanský list
+41B6|větrání
+41B61|vzduchový hřídel
+41C|výživa
+41C|výživa
+41C10|umění
+41C10|pití
+41C10|jídlo
+41C10|gastronomie
+41C11|jídlo
+41C111|krmení
+41C111|potraviny
+41C111|dávání
+41C119|hlad
+41C1190|Hlad
+41C1190|Hladomor
+41C1190|Stuha
+41C1190|personifikace
+41C1191|hladomor
+41C1191|hladovění
+41C1192|hladovka
+41C1192|stávka
+41C12|pití
+41C121|nápoj
+41C121|dávání
+41C122|lévání
+41C129|žízeň
+41C13|foukání
+41C13|chlazení
+41C14|chlazení
+41C14|míchání
+41C18|sytost
+41C18|saturace
+41C19|hlad
+41C19|nenasytnost
+41C19|žízeň
+41C21|kuchyně
+41C211|vnitřní
+41C2111|potraviny
+41C2111|kuchyňský kout
+41C2111|zátiší
+41C212|umyvadlo
+41C22|kuchyňský personál
+41C22|zaměstnání
+41C22|personál
+41C22|služebník
+41C221|kuchař
+41C222|kuchařka
+41C222|služka
+41C23|kuchyně
+41C23|bohatí a chudí
+41C231|bohatá kuchyně
+41C232|špatná kuchyně
+41C24|ochrana
+41C241|sklep
+41C2411|vinný sklípek
+41C24111|správce
+41C24111|sommelier
+41C242|lednice
+41C2421|lednička
+41C2421|lednička
+41C25|vaření
+41C251|pražení
+41C2511|plivnout
+41C2512|grilovací rošt
+41C252|smažení
+41C253|vaření
+41C254|čtyři
+41C2541|krb
+41C2541|otevřený oheň
+41C2541|kamna
+41C2542|vařič
+41C2543|výše
+41C26|jídlo
+41C26|příprava
+41C261|čištění
+41C2611|zelenina
+41C2612|ovoce
+41C2612|loupání
+41C26121|citron
+41C26121|slupka
+41C2613|drůbež
+41C2613|zvěř (ulovené zvíře)
+41C26131|oškubaná drůbež
+41C262|dělení
+41C2621|řezání
+41C2621|maso
+41C2622|chléb
+41C2622|řezání
+41C263|kombinování
+41C263|míchání
+41C2631|těsto
+41C2631|těsto
+41C2631|hnětení
+41C264|bití
+41C264|vyhlazení
+41C265|dekorace
+41C269|pokrm
+41C269|praní
+41C27|kuchyňské nádobí
+41C27|nástroj
+41C27(CAULDRON)|kotel
+41C27(CAULDRON)|civilizace
+41C27(CAULDRON)|kultura
+41C27(CAULDRON)|kuchyňské nádobí
+41C27(CAULDRON)|významnost
+41C27(CAULDRON)|výživa
+41C27(CAULDRON)|výživa
+41C27(CAULDRON)|společnost
+41C27(CAULDRON)|nástroj
+41C27(COLANDER)|civilizace
+41C27(COLANDER)|cedník
+41C27(COLANDER)|kultura
+41C27(COLANDER)|kuchyňské nádobí
+41C27(COLANDER)|významnost
+41C27(COLANDER)|výživa
+41C27(COLANDER)|výživa
+41C27(COLANDER)|společnost
+41C27(COLANDER)|nástroj
+41C27(FRYING PAN)|civilizace
+41C27(FRYING PAN)|kultura
+41C27(FRYING PAN)|pánev
+41C27(FRYING PAN)|kuchyňské nádobí
+41C27(FRYING PAN)|významnost
+41C27(FRYING PAN)|výživa
+41C27(FRYING PAN)|výživa
+41C27(FRYING PAN)|společnost
+41C27(FRYING PAN)|nástroj
+41C27(FUNNEL)|civilizace
+41C27(FUNNEL)|kultura
+41C27(FUNNEL)|trychtýř
+41C27(FUNNEL)|kuchyňské nádobí
+41C27(FUNNEL)|lžíce
+41C27(FUNNEL)|významnost
+41C27(FUNNEL)|výživa
+41C27(FUNNEL)|výživa
+41C27(FUNNEL)|společnost
+41C27(FUNNEL)|nástroj
+41C27(GRATER)|civilizace
+41C27(GRATER)|kultura
+41C27(GRATER)|struhadlo
+41C27(GRATER)|kuchyňské nádobí
+41C27(GRATER)|významnost
+41C27(GRATER)|výživa
+41C27(GRATER)|výživa
+41C27(GRATER)|společnost
+41C27(GRATER)|nástroj
+41C27(LADLE)|civilizace
+41C27(LADLE)|kultura
+41C27(LADLE)|kuchyňské nádobí
+41C27(LADLE)|lžíce
+41C27(LADLE)|významnost
+41C27(LADLE)|výživa
+41C27(LADLE)|výživa
+41C27(LADLE)|společnost
+41C27(LADLE)|nástroj
+41C27(PAN)|civilizace
+41C27(PAN)|kultura
+41C27(PAN)|kuchyňské nádobí
+41C27(PAN)|významnost
+41C27(PAN)|výživa
+41C27(PAN)|výživa
+41C27(PAN)|Kdy
+41C27(PAN)|společnost
+41C27(PAN)|nástroj
+41C27(POT)|civilizace
+41C27(POT)|kultura
+41C27(POT)|kuchyňské nádobí
+41C27(POT)|významnost
+41C27(POT)|výživa
+41C27(POT)|výživa
+41C27(POT)|pot
+41C27(POT)|společnost
+41C27(POT)|nástroj
+41C27(ROLLING-PIN)|civilizace
+41C27(ROLLING-PIN)|kultura
+41C27(ROLLING-PIN)|kuchyňské nádobí
+41C27(ROLLING-PIN)|významnost
+41C27(ROLLING-PIN)|výživa
+41C27(ROLLING-PIN)|výživa
+41C27(ROLLING-PIN)|váleček
+41C27(ROLLING-PIN)|společnost
+41C27(ROLLING-PIN)|nástroj
+41C27(SIEVE)|civilizace
+41C27(SIEVE)|kultura
+41C27(SIEVE)|kuchyňské nádobí
+41C27(SIEVE)|lžíce
+41C27(SIEVE)|významnost
+41C27(SIEVE)|výživa
+41C27(SIEVE)|výživa
+41C27(SIEVE)|manželka
+41C27(SIEVE)|společnost
+41C27(SIEVE)|nástroj
+41C27(SKIMMER)|civilizace
+41C27(SKIMMER)|kultura
+41C27(SKIMMER)|kuchyňské nádobí
+41C27(SKIMMER)|významnost
+41C27(SKIMMER)|výživa
+41C27(SKIMMER)|výživa
+41C27(SKIMMER)|třpyt
+41C27(SKIMMER)|společnost
+41C27(SKIMMER)|nástroj
+41C3|stolní nádobí
+41C311|nůž
+41C312|vidlička
+41C313|lžíce
+41C314|sůl
+41C315|box (kontejner)
+41C315|kořenka
+41C316|vajíčkový kalíšek
+41C317|chlazení
+41C317|chladič vína
+41C32|nádoba na pití
+41C32|plavidlo
+41C321|šálek
+41C3211|pití z rohu
+41C3211|roh
+41C3212|nautilus
+41C322|šálek
+41C323|sklo
+41C323|obsahuje
+41C323(BERKEMEYER)|berkemeyer
+41C323(PASGLAS)|prošel
+41C324|pohár na pití
+41C325|fontána
+41C326|jaro
+41C326|jih
+41C327|tvar
+41C3271|zvíře
+41C3272|lidská postava
+41C32721|lebka
+41C33|kávový servis
+41C33|služba (nádobí)
+41C33|čajový servis
+41C331|šálek
+41C331|podšálek
+41C332|pot
+41C333|pot
+41C333|samovar
+41C334|cukřenka
+41C34|večeře
+41C34|služba (nádobí)
+41C341|pokrm
+41C342|pokrm
+41C343|Tři
+41C344|omáčník
+41C345|mísa
+41C35|dekorace
+41C351|středový díl
+41C351|epický
+41C351|prostředek stolu
+41C351|hlavně
+41C352|montované díly
+41C352|triumfy u stolu
+41C353|aquamanile
+41C353|mytí (rukou)
+41C36|večeře
+41C36|služba (nádobí)
+41C36|příborník
+41C37|látka
+41C371|ubrousek
+41C3711|kroužek na ubrousky
+41C3711|prsten
+41C38|zátiší
+41C38|stůl
+41C381|snídaně
+41C381|snídaně
+41C382|banket
+41C4|rodinné jídlo
+41C4|jídlo
+41C41|snídaně
+41C411|káva
+41C411|ráno
+41C42|oběd
+41C42|polední jídlo
+41C421|odpolední čaj
+41C421|čaj
+41C4211|obřad
+41C422|odpolední čaj
+41C43|večeře
+41C44|večeře
+41C5|banket
+41C5|oslav
+41C5|hostina
+41C5|jídlo
+41C50|Hostina
+41C50|Stuha
+41C51|společnost
+41C51|elegantní společnost
+41C52|pitka
+41C52|orgy
+41C520|Nadměrné pití alkoholu
+41C520|Stuha
+41C6|potraviny
+41C6|zátiší
+41C61|mouka
+41C611|kukuřice
+41C612|kukuřice
+41C6121|obilovina
+41C6121|kaše
+41C6122|nudle
+41C6122|špagety
+41C621|chléb
+41C621|bochník
+41C6211|tvar
+41C62111|pizza
+41C62111|kulatý tvar
+41C6212|plnění
+41C6212|hamburger
+41C6212|rohlík (pečivo)
+41C6212|sendvič
+41C622|dort
+41C622|pečivo
+41C622|držet
+41C6221|luxusní dorty
+41C6222|sušenka
+41C623|palačinka
+41C624|vafle
+41C6241|wafer
+41C625|na
+41C626|plíseň
+41C6261|dort
+41C6261|pečivo
+41C6261|držet
+41C6262|sušenka
+41C62621|speculaas plank
+41C6263|železo
+41C6263|vaflovač
+41C6264|pečicí forma
+41C6264|chléb
+41C6264|chlebník
+41C6264|novinky
+41C63|cukr
+41C631|kostkový cukr
+41C632|kostka cukru
+41C633|sirup
+41C634|bonbón
+41C635|lahůdky
+41C635|sladkosti
+41C6351|zmrzlina
+41C6352|čokoláda
+41C636|med
+41C637|cukrem obalený
+41C6371|poleva
+41C6371|poleva
+41C641|mléčné výrobky
+41C6411|máslo
+41C6412|sýr
+41C6413|mléko
+41C64131|podmáslí
+41C64132|jogurt
+41C64133|krém
+41C642|vejce
+41C65|ovoce
+41C65|zelenina
+41C651|brambor
+41C6511|hranolky
+41C6511|čipy
+41C6511|brambůrky
+41C6511|zpracování
+41C652(...)|mrkev
+41C652(...)|tuřín
+41C6521|zpracování
+41C6531|muž
+41C6531|marmeláda
+41C6531|zachování
+41C6531|zpracování
+41C66|koření
+41C66|koření
+41C66(SAFFRON)|šafrán
+41C661|sůl
+41C662|pepř
+41C663|hořčice
+41C671|hotovo
+41C671|olej
+41C671|rostlinné tuky
+41C6711|margarín
+41C672|ocet
+41C673|omáčka
+41C68|ryba
+41C68(SMOKED HERRING)|sleď
+41C68(SMOKED HERRING)|odvedení pozornosti
+41C68(SMOKED HERRING)|uzený sledě
+41C681|mořské plody
+41C69|maso
+41C691|kráva
+41C691|prase
+41C691|porážka
+41C692(...)|hovězí maso
+41C692(...)|jehněčí
+41C692(...)|skopové maso
+41C692(...)|vepřové maso
+41C693|klobása
+41C694|a
+41C695|hotovo
+41C696|polévka
+41C71|alkohol
+41C71|nápoj
+41C711|víno
+41C7111|sklo
+41C7112|láhev vína
+41C712|likér
+41C713|destiláty
+41C713|alkohol
+41C713|duchové
+41C7131|gin
+41C7132|whisky
+41C7133|vodka
+41C7134|brandy
+41C7134|brandy
+41C714|ale
+41C714|medvěd
+41C7141|sklo
+41C7151|koktejl
+41C72|nápoj
+41C72|stimulující
+41C721|káva
+41C7211|šálek
+41C722|čaj
+41C7221|šálek
+41C723|čokoláda
+41C723|kakao
+41C73|nealkoholický nápoj
+41C731|ovoce
+41C731|sirup
+41C732|ovoce
+41C732|šťáva
+41C74|tabák
+41C741|trubka
+41C7411|vodní dýmka
+41C7411|vodní dýmka
+41C7411|vodní dýmka
+41C7412|role
+41C7412|proplétání
+41C7412|kroucení
+41C7413|jaro
+41C7413|tabáková dóza
+41C7414|držák na dýmku
+41C7415|popelník
+41C742|doutník
+41C7421|box (kontejner)
+41C7421|krabička na doutníky
+41C7422|případ
+41C7422|pouzdro na doutníky
+41C7423|držák na doutníky
+41C743|cigareta
+41C7431|případ
+41C7431|pouzdro na cigarety
+41C7432|cigaretový papír
+41C7432|papír
+41C7433|držák na cigaretu
+41C7433|cigareta-trubka
+41C7433|trubka
+41C744|šňupací tabák
+41C7441|box (kontejner)
+41C7441|tabatěrka
+41C745|žvýkací tabák
+41C74511|betel
+41C74511|sýry
+41C74512|žvýkačka
+41C75|jiný
+41C75(HASHISH)|hašiš
+41C751|ópium
+41C7511|opiumová dýmka
+41C7511|trubka
+41C7512|to
+41C7512|dům
+41C7512|opiumový dům
+41C76|parfém
+41C76|vůně
+41C761|box (kontejner)
+41C761|vonná krabička
+41C762|sčítání lidu
+41C762|kadidlo
+41C9|kanibalismus
+41C91|nekrofágie
+41CC2511|plivnout
+41CC2512|grilovací rošt
+41CC2611|zelenina
+41CC2612|ovoce
+41CC2612|loupání
+41CC26121|citron
+41CC26121|slupka
+41CC2613|drůbež
+41CC2613|zvěř (ulovené zvíře)
+41CC2621|řezání
+41CC2621|maso
+41CC2622|chléb
+41CC2622|řezání
+41CC2631|těsto
+41CC2631|těsto
+41CC2631|hnětení
+41CC411|káva
+41CC411|ráno
+41CC421|odpolední čaj
+41CC421|čaj
+41CC4211|obřad
+41CC422|odpolední čaj
+41D|oblečení
+41D1|móda
+41D1|zaměstnání
+41D11|módní ikona
+41D11|deska
+41D12|módní přehlídka
+41D12|ukázat
+41D121|manekýn
+41D121|model (sedící)
+41D122|lidská postava
+41D122|výkladní figurína
+41D13|módní spekulace
+41D131|krásný
+41D131|dandy
+41D1310|Vynikající
+41D1310|Stuha
+41D1311|neuvěřitelný
+41D132|krásná
+41D132|žena
+41D1321|nádherná
+41D14|design
+41D14|módní návrhář
+41D2|oblečení
+41D2|zvyklost
+41D211|šaty
+41D211(BALL GOWN)|plesové šaty
+41D211(CHEMISE À LA REINE)|královská košile
+41D211(CHEMISE À LA REINE)|košile gown
+41D211(COURT GOWN)|soudní talár
+41D211(COURT GOWN)|dvorní šaty
+41D211(DAY DRESS)|odpolední šaty
+41D211(DAY DRESS)|denní šaty
+41D211(DINNER DRESS)|večerní šaty
+41D211(EVENING DRESS)|večerní šaty
+41D211(MANTEAU)|kabát
+41D211(MORNING DRESS)|ranní šaty
+41D211(REDINGOTE)|redingote
+41D211(ROBE VOLANTE)|létající věci
+41D211(ROBE À L'ANGLAISE)|anglické šaty
+41D211(ROBE À LA CIRCASSIENNE)|šaty v cirkusovém stylu
+41D211(ROBE À LA FRANÇAISE)|šaty francouzského střihu
+41D211(ROBE À LA LÉVITE)|levitský oděv
+41D211(ROBE À LA POLONAISE)|polské šaty
+41D211(WALKING DRESS)|procházkové šaty
+41D212|plášť
+41D212|kabát
+41D2121(BOLERO)|Bolero
+41D2121(CARACO)|karako
+41D2121(OVERCOAT)|kabát
+41D21211|Je jich mnoho.
+41D21211|župan
+41D21211|župan
+41D21211|župan
+41D21211(BANYAN)|Je jich mnoho.
+41D2122(MANTELET)|plášť
+41D2122(MANTELET)|mantilla
+41D2122(MANTELET)|pláštěnky
+41D213|společně
+41D213(SAILOR SUIT)|námořník
+41D213(SAILOR SUIT)|námořnický oblek
+41D221|hlavní výstroj
+41D221(...)|hlava
+41D221(...)|má
+41D221(...)|turban
+41D221(BERET)|beret
+41D221(BICORNE)|bicorn
+41D221(BICORNE)|bicorn
+41D221(BOATER)|vodák
+41D221(BOWLER)|bowler má
+41D221(CLOCHE HAT)|klobouk s krempou
+41D221(FONTANGE)|šátek na hlavu
+41D221(HOOD)|kapuce
+41D221(MORNING CAP)|ranní čepice
+41D221(TOP HAT)|top má
+41D221(TOQUE)|dotek
+41D221(TRICORNE)|tricorn
+41D2211|bdění
+41D2212|frýgická čepice
+41D222|krční zařízení
+41D222(COLLAR)|límec
+41D222(JABOT)|náhrdelník
+41D223(BLOUSE)|halenka
+41D223(BLOUSE)|třtinová zoo
+41D2231|prsa
+41D2231|výstřih
+41D224|rukáv
+41D225|rukavice
+41D225|střední
+41D2251|látka
+41D2251|ruka
+41D2251|Zahalené ruce
+41D2252|plíseň
+41D231|kalhoty
+41D2311|codpiece
+41D2311|genitálie
+41D232|rozdělit
+41D2321|Zástěra
+41D233|obuv
+41D233|noha
+41D2331|ponožka
+41D2331|punčochy
+41D2332|sandál
+41D2332|bota
+41D23321|loď
+41D23322|kluzák
+41D2333|hodiny
+41D2334|nerovný
+41D23341|bota
+41D23341|kluzák
+41D23342|bosý
+41D2335|doplňky
+41D2335|stélka
+41D2335|leštit
+41D2335|krém na boty
+41D2335|lžíce na boty
+41D2339|bosý
+41D241|oficiální oděv
+41D241|uniformní
+41D2411|atribut
+41D2411|důstojník
+41D242|společenské oblečení
+41D2421|ples (tanec)
+41D2421|maškarní bál
+41D2422|oblékání
+41D2422|hostina
+41D2423|historický kostým
+41D24231|soutěž krásy
+41D244|fantazie
+41D249|socha
+41D249|socha
+41D251|spodní prádlo
+41D2512(CORSET)|korzet
+41D2513(BLOOMERS)|bloomers
+41D2513(CORSET)|korzet
+41D252|noční prádlo
+41D252(...)|pyžamo
+41D252(NIGHT-CAP)|hlava
+41D252(NIGHT-CAP)|noční čepice
+41D252(NIGHT-GOWN)|šaty
+41D252(NIGHT-GOWN)|noční košile
+41D253|plnění
+41D253|vycpávka
+41D26|doplňky
+41D26|ornament
+41D261|kapesník
+41D262|ventilátor
+41D2621|fanouškovský jazyk
+41D2621|ventilátoru
+41D2621|jazyk
+41D263|pes
+41D263|personál
+41D263|hůl
+41D2631|deštník
+41D2632|slunečník
+41D2632|sluneční clona
+41D264|spojovací materiál
+41D2641|kolík
+41D26411|stehenní kost
+41D26411|bezpečnostní špendlík
+41D2642|tlačítko
+41D26421|manžetový knoflík
+41D26421|hřebec
+41D2643|háček a očko
+41D2643|knoflík
+41D2643|hřebec
+41D2644|přezka
+41D26441|zip-fastener
+41D2645|šle (podvazky)
+41D2645|šle
+41D2646|letět
+41D2646|Zip, zipová spona, zipový uzávěr, zipové zapínání, zipové zapínání, zipové zapínací zařízení, zipové zapínací zařízení, zipový zapínací mechanismus, zipový uzávěr
+41D2651|výšivka
+41D2651|příze
+41D26511|zlato
+41D26512|korálek
+41D2652|krajka
+41D2653|hranice
+41D2653|cop
+41D2653|stuha
+41D2654|mašle (stuha)
+41D2655|korzet
+41D2656|pás
+41D2657|bandoleer
+41D2657|ramenný pás
+41D266|šperky
+41D2661|náhrdelník
+41D26611|perla
+41D26612|přívěsek
+41D26612|medailon
+41D26612|během
+41D26612|drobnost
+41D2662|náramek
+41D26621|kotník
+41D2663|náušnice
+41D2664|prsten
+41D2665|sponky
+41D2665|Rozbitý
+41D2665|spona
+41D2666|diadém
+41D2666|koruna
+41D2668|box (kontejner)
+41D2668|šperkovnice
+41D267|peněženka
+41D268|taška
+41D269|cachenez
+41D269|vlk
+41D269|maska
+41D27|oděv
+41D27|závěsy
+41D271|pneumatický výběžek
+41D271|vítr
+41D28|přestrojení
+41D281|pánské oblečení
+41D281|parodie
+41D282|parodie
+41D282|dámské oblečení
+41D283|maska
+41D29|protože
+41D3|zvyklost
+41D3|folklór
+41D41|vysílání
+41D41|bití
+41D41|čištění zubů
+41D41|which
+41D411|visící
+41D4111|věšák na šaty
+41D4112|ne
+41D42|praní (oblečení)
+41D421|kolíček na prádlo
+41D421|sušení
+41D421|visící
+41D421|kolík
+41D422|bělení
+41D423|hlodat
+41D424|žehlení
+41D4241|žehlička
+41D4241|železo
+41D4242|deska
+41D4242|žehlící prkno
+41D425|čistírna
+41D425|vaření v páře
+41D426|lisování
+41D4261|chybět
+41D427|doplňky
+41D427|kolíček na prádlo
+41D427|sušicí rám
+41D427|kolík
+41D427|nástroj
+41D427|šňůra na prádlo
+41D428|příloha
+41D428|budova
+41D428|přístavba
+41D4281|prádelna
+41D4281|technická místnost
+41D4281|prádelna
+41D4282|prádelna
+41D43|barvení
+41D441|šití
+41D4411|jehla
+41D4412|box (kontejner)
+41D4412|šicí krabička
+41D4413|stroj
+41D4413|šicí stroj
+41D442|oprava
+41D4421|řeky
+41D4421|oprava
+41D443|háčkování
+41D443|výšivka
+41D443|pletení
+41D443|ruční práce
+41D9|nahý
+41D9|téměř nahá
+41D9|zobrazování
+41D9|svlékání
+41D91|muž
+41D92|žena
+41D921|výstřih
+41D94|zastrčení
+41D99|Hanba
+41D991|pokus (úsilí)
+41D991|pokrývající
+41E|zátiší
+41E2|optický klam
+41E2|obrázek
+41E2|optický klam
+42|rodina
+42|potomstvo
+42A1|těhotenství
+42A1|rozmnožování
+42A11|koncepce
+42A111|antikoncepce
+42A111|antikoncepce
+42A11111|kondom
+42A121|plod
+42A13|chování
+42A13|léčba
+42A131|úleva
+42A131|nemocenská
+42A132|závrať
+42A132|nevolnost
+42A133|jídlo
+42A133|potraviny
+42A134|muž
+42A134|tisk
+42A134|mateřský dojem
+42A134|předvídat
+42A1341|dítě
+42A1341|pole
+42A14|otcovství
+42A18|plodnost
+42A19|neplodnost
+42A19|sterilita
+42A19|žena
+42A190|Stuha
+42A190|Sterilita
+42A191|touha
+42A192|koncepce
+42A192|protiopatření
+42A192|plodnost
+42A193|antikoncepce
+42A193|plánování rodiny
+42A2|narození
+42A2|žena
+42A21|porodní sál
+42A21|pokoj
+42A211|porod
+42A2111|squatting
+42A2112|porod tělo
+42A2112|židle
+42A2119|obtížnost
+42A21191|kleště
+42A21192|Císařský řez
+42A21192|sekce
+42A21193|předčasný porod
+42A21194|porod s placentou
+42A212|dítě
+42A2121|dýchání
+42A2121|pláč
+42A2121|první výkřik (ten)
+42A2122|řezání
+42A2122|pupeční šňůra
+42A2123|placenta
+42A213|dítě
+42A213|otec
+42A213|otec a dítě
+42A213|zobrazování
+42A214|which
+42A22|porod
+42A22|návštěva
+42A221|oznamující
+42A23|dům
+42A23|porod
+42A23|značka
+42A24|porodní asistentka
+42A24|porodní asistentka
+42A241|porodník
+42A241|porodník
+42A25|kojná
+42A25|zdravotní sestra
+42A251|kolébka
+42A251|židle
+42A251|křeslo pro kojící matky
+42A252|dítě
+42A252|oblečení
+42A252|zavinovací oblečení
+42A2521|zavinování
+42A26|dvojče
+42A261|Siamská dvojčata
+42A27(...)|vícečetné porody
+42A27(...)|čtyřčata
+42A27(...)|pětčata
+42A27(...)|trojčata
+42A28|dítě
+42A28|zelí
+42A28|folklór
+42A28|angrešt
+42A28|rostoucí
+42A28|těhotenství
+42A28|strom
+42A281|přeprava
+42A2811|nadpřirozená bytost
+42A2812|muž
+42A2813|zvíře
+42A2813|čáp
+42A29|potrat
+42A29|potrat
+42A291|potratář
+42A299|zvíře
+42A299|monstrum
+42A3|dítě
+42A3|matka
+42A3|matka a dítě
+42A30|mateřství
+42A31|ošetřovatelství
+42A31|kojení
+42A311|zdravotní sestra
+42A312|zvíře
+42A32|krmení
+42A33|měnící se
+42A33|praní
+42A331|ubrousek
+42A34|koupel
+42A35|obvaz
+42A351|hřeben
+42A351|vlasy
+42A36|laskání
+42A36|broukání
+42A36|dandling
+42A36|hraní
+42A361|houpání
+42A362|ukolébavka
+42A362|zpěv
+42A37|hledání
+42A37|spící
+42A4|dítě
+42A41|nábytek
+42A411|kolébka
+42A412|dětská židlička
+42A412|židle
+42A413|ohrádka
+42A42|kočárek
+42A42|doprava
+42A42|průzkumník
+42A42|kočárek
+42A4211|nošení na zádech
+42A4212|rozkročený
+42A4212|přeprava
+42A4212|cool
+42A4213|košík
+42A4213|přeprava
+42A4213|kolébka
+42A4213|hlava
+42A43|zuby
+42A43|prořezávání zubů
+42A431|zub
+42A432|prsten
+42A432|kousací kroužek
+42A44|odstavení
+42A441|přehoz
+42A45|chrastítko
+42A46|which
+42A461|rodiče
+42A462|hlídačka dětí
+42A5|chlapec
+42A5|dítě
+42A5|dívka
+42A50|Chlapectví
+42A50|Stuha
+42A50|dětství
+42A51|batolátko
+42A511|krok
+42A511|chůze
+42A5111|plazení
+42A5112|motokára
+42A5113|ochrana hlavy
+42A5113|ochránce
+42A512|mluvení
+42A52|hraní
+42A53|which
+42A53|hygiena
+42A54|špatný
+42A54|vlastní
+42A541|kousání
+42A541|hřebík
+42A542|sání
+42A542|palec
+42A55|dětství
+42A55|smutek
+42A551|uklidňující
+42A552|útěk
+42A5521|nález
+42A5521|vyhledávání
+42A553|domů
+42A553|vracení
+42A56|výchova
+42A561|měření
+42A562|vylučování
+42A562|zub
+42A57|úkol
+42A571|pochůzka
+42A571|pomoc
+42A571|posel
+42A571|nakupování
+42A58|Nepořádný Petr
+42A58|vlasy
+42A58|šokující Peter
+42A59|strašák
+42A59|obtíž
+42AA461|rodiče
+42AA462|hlídačka dětí
+42AA511|krok
+42AA511|chůze
+42AA5111|plazení
+42AA5112|motokára
+42AA5113|ochrana hlavy
+42AA5113|ochránce
+42AA512|mluvení
+42AA541|kousání
+42AA541|hřebík
+42AA542|sání
+42AA542|palec
+42AA5521|nález
+42AA5521|vyhledávání
+42B|dítě
+42B|rodiče
+42B1|láska
+42B1|rodičovská láska
+42B11|otec
+42B11|otcovská láska
+42B111|otec a syn
+42B111|jeho
+42B112|dcera
+42B112|otec a dcera
+42B113|dcera
+42B113|otec a dcera
+42B113|otec a syn
+42B113|jeho
+42B12|matka
+42B12|mateřská láska
+42B121|matka a syn
+42B121|jeho
+42B122|dcera
+42B122|matka a dcera
+42B123|dcera
+42B123|matka a dcera
+42B123|matka a syn
+42B123|jeho
+42B2|nepřítomnost
+42B2|láska
+42B2|špatné zacházení
+42B2|zanedbání
+42B2|rodičovská láska
+42B20|Zapomnění lásky k dětem
+42B20|Stuha
+42B21|odmítnutí
+42B22|pěstoun
+42B221|nevlastní otec
+42B222|macecha
+42B29|zabíjení
+42B29|dětská vražda
+42B3|nálezce
+42B31|opouštění
+42B31|odhalení
+42B311|matka
+42B311|matka a dítě
+42B311|oddělující
+42B312|výměna dětí
+42B312|substituce
+42B321|adopce
+42B3210|Adopce
+42B3210|Stuha
+42B322|nemanželské dítě
+42B322|identifikace
+42B33|pěstoun
+42B34|vyhledávání
+42B35|uznávání
+42B351|identita
+42B351|identifikace
+42B36|nemanželské dítě
+42B361|vyšetřování
+42B361|otcovství
+42B362|matka
+42B362|svobodná matka
+42B4|pobočka láska
+42B4|láska
+42B40|Láska dětí k otci
+42B40|Stuha
+42B41|Římská charita
+42B41|Cimon Říman
+42B41|Ale
+42B41|Roman
+42B41|dcera
+42B41|otec
+42B41|otec a dcera
+42B41|starý muž
+42B41|kojení
+42B42|Římská charita
+42B42|dcera
+42B42|matka
+42B42|matka a dcera
+42B42|stará žena
+42B42|kojení
+42B43|nošení na zádech
+42B5|nepřítomnost
+42B5|pobočka láska
+42B5|láska
+42B51|bohatí a chudí
+42B52|přikrývka
+42B52|koňská deka
+42B53|šipka
+42B53|mrtvola
+42B53|vzorový soudce
+42B53|falešný dědic
+42B53|otec a syn
+42B53|dědic
+42B53|soudce
+42B53|odmítnutí (objednávky, žádosti)
+42B53|střelba
+42B54|otcovražda
+42B542|matricide
+42B6|sirotek
+42B61|opatrovník
+42B610|Stuha
+42B610|Ochrana
+42B7|související
+42B71|domů
+42B72|svátek
+42B72|cestování
+42B74|skupina
+42B741|otec
+42B741|otec a dítě
+42B7411|otec a syn
+42B7411|jeho
+42B7412|dcera
+42B7412|otec a dcera
+42B742|matka
+42B742|matka a dítě
+42B7421|matka a syn
+42B7421|jeho
+42B7422|dcera
+42B7422|matka a dcera
+42B75|skupina
+42B751|vnouče
+42B751|vnučka
+42B751|dědeček
+42B751|babička
+42B751|prarodič a vnouče
+42B751|vnuk
+42B76|dcera
+42B76|otec
+42B76|otec a dcera
+42B76|otec a syn
+42B76|generace
+42B76|vnouče
+42B76|vnučka
+42B76|dědeček
+42B76|babička
+42B76|prarodič a vnouče
+42B76|vnuk
+42B76|skupina
+42B76|matka
+42B76|matka a dcera
+42B76|matka a syn
+42B76|jeho
+42B761|tři
+42B762|čtyři
+42B762|praprarodič
+42B8|oprava
+42B8|nezbednost
+42B8|trest
+42B81|výprask
+42B82|fackování
+42B82|ucho
+42B82|nápadný
+42B821|tažení
+42B83|dobré a špatné
+42B831|dobrý
+42B9|domů
+42B9|rozloučení
+42B9|mládež (dospívající)
+42C|mládí
+42C1|zasvěcení
+42C1|puberta
+42C1|mládež (dospívající)
+42C2|dívka
+42C2|zasvěcení
+42C2|puberta
+42C2|mládež (dospívající)
+42C21|začátečnice
+42C3|kontrast
+42C3|manželství
+42C3|panenka
+42D1|zasnoubení
+42D1|láska
+42D1|sliby
+42D11|návrh
+42D111|klečení
+42D111|nápadník
+42D119|neopětovaná láska
+42D12|povolení
+42D129|oddělující
+42D13|ptát se
+42D13|rodiče
+42D13|povolení
+42D131|vážení
+42D132|sňatkový zprostředkovatel
+42D14|snoubenec
+42D14|snacha
+42D14|otec
+42D14|tchán
+42D14|matka
+42D14|tchyně
+42D14|rodiče
+42D14|představení osoby
+42D14|jeho
+42D141|nevěsta
+42D1411|dávání
+42D1411|portrét
+42D142|ženich
+42D1421|dávání
+42D1421|portrét
+42D15|tchán
+42D15|manželská smlouva
+42D15|tchyně
+42D15|rodiče
+42D16|dokument
+42D16|manželská smlouva
+42D17|svatební dar
+42D1711|Šperkovnice
+42D1711|box (kontejner)
+42D1711|milencova rakev
+42D1712|prsten
+42D1712|snubní prsten
+42D172|věno
+42D18|dávání
+42D19|bakalář
+42D19|hostina
+42D2|obřad
+42D2|manželství
+42D21|nevěsta
+42D21|ženich
+42D21|manžel a manželka
+42D21|svatební šaty
+42D2121|malý věnec
+42D2121|věnec
+42D2122|obvaz
+42D2122|toaleta (výroba)
+42D21221|bdění
+42D213|schůzka
+42D214|čekající
+42D214|svatební oslava
+42D214|svatební host
+42D2141|svědek
+42D2142|družička
+42D2142|dívka
+42D2143|chlapec
+42D2143|stránka (služební)
+42D22|napomínající
+42D22|požehnání
+42D22|dcera
+42D22|snacha
+42D22|tchán
+42D22|tchyně
+42D22|rodiče
+42D22|jeho
+42D22|zeť
+42D221|výběr
+42D221|domů
+42D23|odjíždějící
+42D23|domů
+42D231|únos
+42D2311|nevěsta
+42D2311|zachycení manželky
+42D232|útěk
+42D232|útěk
+42D233|nevěsta
+42D233|výměna
+42D24|civilní sňatek
+42D241|registr
+42D241|podpisování
+42D242|Gretna Green
+42D242|nesrovnalost
+42D243|přijímání osoby
+42D25|hostina
+42D25|jídlo
+42D251|příjezd
+42D252|dort
+42D253|tanec
+42D254|výročí
+42D254|oslav
+42D254|výročí svatby
+42D2541|měď
+42D2541|dvanáct a půl
+42D2542|stříbro
+42D2542|dvacet pět
+42D2543|padesát
+42D2543|zlaté výročí
+42D2544|diamant
+42D2544|šedesát
+42D26|líbánky
+42D26|manžel a manželka
+42D26|cestování
+42D26|svatební cesta
+42D261|odjíždějící
+42D2611|konfety
+42D2611|rýže
+42D2611|bota
+42D2611|házení
+42D262|konečně sám
+42D27|svatební noc
+42D271|svět
+42D271|nevěsta
+42D271|vedoucí
+42D2711|koupel
+42D2711|očista
+42D2712|odkvět
+42D2713|bojující
+42D2713|neochota
+42D272|znepokojující
+42D273|tělo
+42D274|panenství
+42D279|Právo první noci
+42D3|manžel a manželka
+42D3|manželství
+42D3|manželství
+42D3|manželství
+42D30|Manželská cudnost
+42D30|Manželské smlouvy
+42D30|Svatba
+42D30|Stuha
+42D30|věrnost
+42D31|špatný
+42D31|nerovný
+42D311|věk
+42D3111|znepokojující
+42D3111|posmívání
+42D3111|pokárání
+42D3111|třetí strana
+42D312|bohatství
+42D3121|znepokojující
+42D3121|posmívání
+42D3121|pokárání
+42D3121|třetí strana
+42D313|vám
+42D314|zdraví
+42D32|satira
+42D321|schody
+42D322|bitva
+42D322|dominance
+42D322|kalhoty
+42D323|kontrast
+42D33|štěstí
+42D330|Dobrovolnost a manželské spojení
+42D330|Manželská shoda
+42D330|Stuha
+42D330|dobrosrdečnost
+42D331|manžel
+42D331|ideální manžel
+42D332|ideální manželka
+42D332|manželka
+42D34|dominance
+42D341|manžel
+42D342|manželka
+42D3421|pod pantoflem
+42D3421|manžel
+42D3422|Bigorne
+42D3422|Chiceface
+42D35|špatný
+42D351|manželství „à la mode“
+42D351|hádání
+42D352|smíření
+42D36|špatný
+42D37|paroháč
+42D37|podvod
+42D38|trojka
+42D39|cizoložství
+42D390|Cizoložství
+42D390|Stuha
+42D392|pomsta
+42D3921|nevinnost
+42D3921|zkouška
+42D4|smrt
+42D41|vdovec
+42D42|vdova
+42D429|Efez
+42D429|Vdova z Efezu
+42D43|manželství
+42D43|druhé manželství
+42D431|vdovec
+42D432|vdova
+42D5|dcera
+42D5|rozvod
+42D5|otec
+42D5|otec a dcera
+42D6|neopětovaná láska
+42D7|cizoložství
+42D7|Omlouvám se.
+42D7|milenka
+42D71|konkubína
+42D8|příbuzní
+42D81|tchán
+42D82|tchyně
+42D83|zeť
+42D84|snacha
+42D85|švagr
+42D86|švagrová
+42D9|svobodný
+42D9|svobodný
+42D91|bakalář
+42D91|muž
+42D92|svobodná žena
+42D92|žena
+42DD111|klečení
+42DD111|nápadník
+42DD119|neopětovaná láska
+42DD251|příjezd
+42DD252|dort
+42DD253|tanec
+42DD254|výročí
+42DD254|oslav
+42DD254|výročí svatby
+42DD2541|měď
+42DD2541|dvanáct a půl
+42DD2542|stříbro
+42DD2542|dvacet pět
+42DD2543|padesát
+42DD2543|zlaté výročí
+42DD2544|diamant
+42DD2544|šedesát
+42DD3121|znepokojující
+42DD3121|posmívání
+42DD3121|pokárání
+42DD3121|třetí strana
+42DD71|konkubína
+42E|pohřební obřady
+42E|smrt
+42E|Připraveno
+42E1|mrtvola
+42E1|mrtvářská toaleta
+42E1|toaleta (výroba)
+42E11|obvaz
+42E11|praní
+42E111|plášť
+42E112|pokrývající
+42E12|pivo
+42E121|látka
+42E121|smuteční plášť
+42E121|míč
+42E121|Pohřební plášť
+42E1211|pohřební štít
+42E1211|štít
+42E122|smrtelné lože
+42E122|stát
+42E13|Jeho manželka
+42E131|smutek
+42E132|naříkání
+42E1321|naříkající žena
+42E1321|žena
+42E14|rakve
+42E142|květina
+42E142|nabídka
+42E142|prsten
+42E142|snubní prsten
+42E15|balzamování
+42E15|mumifikace
+42E15|příprava
+42E151|mumie
+42E152|hlava
+42E152|limb
+42E17|posmrtná maska
+42E17|maska
+42E18|podobizna
+42E18|lidská postava
+42E19|porušující
+42E191|zmrzačení
+42E192|provedení
+42E193|oblečení
+42E193|okrádání
+42E193|svlékání
+42E194|nekrofilie
+42E2|obřad
+42E2|pohřeb
+42E21|oznamující
+42E211|zaměstnání
+42E211|hrobník
+42E212|karta
+42E212|úmrtní oznámení
+42E212|smuteční přání
+42E212|nekrolog
+42E213|vzpomínka
+42E213|medaile
+42E214|pohřební ústav
+42E214|salón
+42E22|Pohřební průvod
+42E22|pohřební průvod
+42E22|průvod
+42E221|protože
+42E221|pohřební vůz
+42E222|doprava
+42E223|pivo
+42E224|pláčící
+42E23|pohřeb
+42E231|kopání
+42E231|vážně
+42E231|otevření
+42E232|pohřeb
+42E24|adresování
+42E24|vážně
+42E24|otevřený hrob
+42E24|řeč
+42E241|modlitba
+42E242|házení
+42E25|první
+42E26|vracení
+42E261|jídlo
+42E261|smutek
+42E27|specialista na pohřebnictví
+42E27|zaměstnání
+42E27|specialista
+42E271|hrobník
+42E272|kopání
+42E272|hrobník
+42E273|hrobník
+42E273|stráž
+42E274|sdružení
+42E274|pohřební spolek
+42E28|zničení
+42E28|zabíjení
+42E28|majetek
+42E281|smrtelné lože
+42E31|vážně
+42E31|hrobka
+42E311|náhrobek
+42E311|kámen
+42E3113|kříž
+42E312|epitaf
+42E32|niche-hrobka
+42E32|hrobka
+42E32|náhrobní zeď
+42E321|jeskyně
+42E321|vážně
+42E321|kámen
+42E33|sarkofág
+42E331|obálka
+42E331|víko (sarkofág)
+42E34|urna
+42E35|budova
+42E35|památka
+42E35|hrobka
+42E351|Hrad bolesti
+42E351|rakve
+42E351|podobizna
+42E351|ležící
+42E351|lidská postava
+42E351|portrét
+42E351|Přejít
+42E3511|mrtvola
+42E3511|hniloba
+42E3511|kostra
+42E3511|červ
+42E361|jehla
+42E361|obelisek
+42E362|pilíř
+42E363|pyramida
+42E37|starověké formy hrobů
+42E371|prehistorie
+42E3711|pohřební mohyla
+42E3711|pohřbení
+42E3712|dolmen
+42E3712|megalitický
+42E3712|hrobka
+42E372|historie
+42E3721|mastaba
+42E3722|pyramida
+42E3723|mauzoleum
+42E373|pohřeb
+42E373|exotický
+42E3731|strom
+42E3732|opouštění
+42E38|umění
+42E38|pohřební umění
+42E38|značka
+42E39|kenotaf
+42E39|předstíraný hrob
+42E39|sham-grave
+42E4|kult
+42E4|mrtvý (ten)
+42E41|smutek
+42E411|zvyklost
+42E411|smuteční oděv
+42E42|smuteční píseň
+42E43|hřbitov
+42E43|vážně
+42E43|hřbitov
+42E43|hrobka
+42E431|nekropole
+42E4311|katakomby
+42E4311|trezor
+42E432|kostel
+42E432|hřbitov
+42E433|masový hrob
+42E434|park
+42E435|márnice
+42E435|ossuárium
+42E44|which
+42E44|hřbitov
+42E44|vážně
+42E44|hrobka
+42E44|návštěva
+42E441|květina
+42E441|věnec
+42E442|nález
+42E45|karta
+42E45|Na památku
+42E49|znesvěcení
+42E49|vážně
+42E491|mrtvola
+42E491|krádež
+42E4911|krádež těl
+42E51|majetek
+42E52|otevření
+42E52|čtení
+42E52|Závěť
+42E53|distribuce
+42E53|majetek
+42E531|dědictví
+42E5311|dědictví
+42E532|dědic
+42E5321|hádání
+42E54|which
+42E541|pojištění
+42F|domácnost
+42F0|Ekonomika
+42F0|Providence of the grain supply
+42F0|Stuha
+42F0|ekonomika
+42F0|prozřetelnost
+42F1|žena v domácnosti
+42F11|mistr
+42F11|objednávání
+42F11|služebník
+42F12|kontrola
+42F13|dělení
+42F13|potraviny
+42F19|Betty
+42F19|Molly
+42F2|nákup
+42F2|trh
+42F2|nakupování
+42F3|úkol
+42F31|čištění
+42F311|oprašování
+42F312|leštění
+42F313|okno
+42F313|mytí oken
+42F314|zametání
+42F32|nástroj
+42F32(...)|koště
+42F33|svět
+42F33|pokrývající
+42F34|stůl
+42F341|podávání
+42F342|vyčištění
+42F35|which
+42F35|přístavba
+42F4|dům
+42F4|údržba
+42F4|oprava
+42F49|zanedbání
+42F49|zřícenina
+42F5|personál
+42F5|služebník
+42F51|služka
+42F52|uklízečka
+42F52|uklízečka
+42F53|komorník
+42F53|sluha
+42F54|komorník
+42F55|brankář
+42F55|stráž
+42F55|domovní stráž
+42F55|čistič
+42F56|hospodyně
+42F6|nehoda
+42F61|rozbíjení
+42F9|špatný
+42F9|špatné řízení
+42F91|Jan Steen
+42F91|porucha
+42F91|domácnost Jana Steena
+42F91|chaos
+42F92|Lorts (žena)
+42F92|Paní Lortsová
+42F92|žena v domácnosti
+42F92|nepořádný
+42G1|graf
+42G1|diagram
+42G1|rodokmen
+42G1|schéma
+42G1|strom
+42G11|galerie předků
+42G11|předek
+42G11|galerie
+42G11|portrét
+42G11|série
+42G2|stupeň
+42G2|rodinný vztah
+42G2|generace
+42G2|vztah
+42G211|rodiče
+42G2111|otec
+42G2112|matka
+42G212|dítě
+42G2121|jeho
+42G2122|dcera
+42G221|prarodič
+42G2211|dědeček
+42G2212|babička
+42G222|bratr
+42G222|sestra
+42G223|vnouče
+42G223|vnučka
+42G223|vnuk
+42G231|praprarodič
+42G232|teta
+42G232|strýc
+42G233|synovec
+42G233|neteř
+42G234|bratranec
+42G235|pravnuk
+42G241|prapraprarodič
+42G242|prateta
+42G242|prastrýc
+42G243|pravnuk
+42G243|vnučka sestřenice
+42G244|druhý bratranec
+42G245|pravnuk
+42G29|incest
+42Z|exotický
+42Z1|polygamie
+42Z11|poklad
+42Z111|atd.
+42Z112|Turecká lázeň
+42Z112|turecká lázeň
+42Z112|koupel
+42Z113|eunuch
+42Z2|polygamie
+42Z3|komunita
+42Z3|manželství
+42Z31|ženská komunita
+42Z32|Husa červenokrká
+42Z32|rodinné manželství
+42Z32|skupinové manželství
+43|zábava
+43|rekreace
+43A|hostina
+43A|radost
+43A1|oslav
+43A1|folklór
+43A1|lidová slavnost
+43A11|kalendář
+43A11|festival
+43A121|Vánoce
+43A1211|vánoční stromek
+43A1211|strom
+43A1212|dekorace
+43A1213|Santa Claus
+43A1213|Santa Claus
+43A1213|jedenáct
+43A1214|karta
+43A122|karneval
+43A122|Masopust
+43A1221|Loď bláznů
+43A1221|hlupák
+43A1221|loď
+43A1221|loď bláznů
+43A1222|Masopustní čtvrtek
+43A1222|Masopustní čtvrtek
+43A1222|čtvrtek
+43A1223|Padesátý
+43A1224|Masopust
+43A1224|Masopustní úterý
+43A1224|úterý
+43A123|Velikonoce
+43A1231|Velikonoční vajíčko
+43A1231|vejce
+43A12311|šperky
+43A12311|tvar
+43A1232|výstava skotu
+43A1232|vykrmování
+43A1232|kráva
+43A1232|cenový býk
+43A12321|zobrazování
+43A1233|Velikonoční zajíc
+43A1233|Vítejte zpět
+43A1233|králík
+43A13|sezóna
+43A131|jaro
+43A1311|tanec
+43A1311|májka
+43A132|sklizeň
+43A132|vintage
+43A14|vzpomínka
+43A141|1. ledna
+43A141|Nový rok
+43A1411|31. prosince
+43A1411|Silvestr
+43A1411|Silvestr
+43A142|Den bláznů
+43A142|1. dubna
+43A143|Svátek práce
+43A143|První máj
+43A144|Zjevení Páně
+43A144|6. ledna
+43A144|Dvanáctá noc
+43A145|svatý
+43A1451|5. prosince
+43A1451|Mikuláš z Myry (sv.)
+43A1451|Svatý Mikuláš
+43A1451|Svatý Mikuláš
+43A1452|Předvečer Všech svatých
+43A1452|Halloween
+43A1452|31. října
+43A1453|Martin (sv.)
+43A1453|11. listopadu
+43A1454|17. března
+43A1454|Patrick (sv.)
+43A146(...)|Den příměří
+43A146(...)|14. července
+43A146(...)|11. listopadu
+43A146(...)|Den máku
+43A146(...)|čtrnáctého července
+43A2|společnost
+43A2|rodina
+43A2|venkovská slavnost
+43A2|veselá společnost
+43A2|venku
+43A2|piknik
+43A2|soukromá oslava
+43A21|koktejlová párty
+43A21|přijímání osoby
+43A22|vzpomínka
+43A22|jubileum
+43A23|ples (tanec)
+43A23|tanec
+43A3|spravedlivý
+43A3|lunapark
+43A3|zaměstnání
+43A3|zábavní veletrh
+43A31|letadlová židle
+43A31|kolotoč
+43A31|kruhový objezd
+43A311|Ruské kolo
+43A311|obří kolo
+43A311|kolo
+43A32|protože
+43A321|horská dráha
+43A322|autíčka
+43A322|kolize
+43A323|železnice
+43A323|Zpětný chod
+43A33|cvičení
+43A33|dovednost
+43A33|síla
+43A331|střelnice
+43A331|střelba
+43A332|stroj
+43A341|zrcadlo
+43A342|dioráma
+43A343|cyklorama
+43A343|panorama
+43A344|peep show
+43A345|loterie
+43A346|podivín
+43A3461|člověk
+43A3461|monstrum
+43A3462|zvíře
+43A3462|monstrum
+43A3463|děti
+43A3463|kámen
+43A35|venku
+43A35|výkon
+43A351|stan
+43A352|dav
+43A352|buben (hudební nástroj)
+43A352|veřejný
+43A36|cirkus
+43A361|stan
+43A362|vstup
+43A363|stan
+43A3631|arena
+43A3631|kruh
+43A37|cirkus
+43A37|ukázat
+43A371|šéf
+43A371|ředitel
+43A3711|ředitel cirkusu
+43A372|akrobat
+43A3721|lano
+43A3721|lanovka
+43A3722|hrazda
+43A3723|rovnováha
+43A3724|nůž
+43A3724|vrhač nožů
+43A3725|střelec
+43A3725|střelba
+43A3726|kontorsionista
+43A3727|eskapolog
+43A3728|požárník
+43A373|klaun
+43A3731|Klaun
+43A3731|Jednoduchý Simon
+43A3731|hlupák
+43A374|zvíře
+43A374|výkon
+43A374|školení
+43A3741|opice
+43A3742|slon
+43A3743|medvěd
+43A3744|lev
+43A3744|tygr
+43A3745|kůň
+43A3746|nicméně
+43A3747|delfín
+43A3748|tuleň (savec)
+43A3749|blecha
+43A375|zaklínat
+43A375|iluzionista
+43A375|žonglér
+43A375|lehký
+43A3751|ventriloquist
+43A376|věštění
+43A38|cirkus
+43A38|cestování
+43A381|stan
+43A382|stan
+43A4|loď
+43A4|veřejná slavnost
+43A4|ať
+43A4|loď
+43A4|vody
+43A411|oslav
+43A411|celostátní událost
+43A412|královská událost
+43A4121|manželství
+43A4122|narození
+43A42|vstup
+43A42|slavnostní vstup
+43A42|veselý vstup
+43A42|soutěž krásy
+43A42|veřejné přijetí
+43A42|přijímání osoby
+43A42|triumf
+43A421|vozík
+43A421|vítězný vůz
+43A4211|Římský vůz
+43A4211|čtyřspřeží
+43A4212|plovák
+43A4212|platforma
+43A422|oblouk
+43A422|vítězný oblouk
+43A424|peníze
+43A424|rozptyl
+43A4241|mince
+43A4241|falešné peníze
+43A425|dekorace
+43A425|osvětlení
+43A425|lampa
+43A425|náměstí (místo)
+43A425|ulice
+43A426|konfety
+43A426|streamer
+43A43|alegorie
+43A43|symbol
+43A43|námořní triumf
+43A43|triumf
+43A431|Petrarca
+43A431|Petrarca
+43A431|Triumfy (Petrarca)
+43A4311|Láska (Triumfy)
+43A4311|Vůz lásky
+43A4311|Amor
+43A4311|Stuha
+43A4311|Triumfy lásky
+43A4311|Triumf Amora
+43A4312|Vůz cudnosti
+43A4312|Cudnost
+43A4312|Stuha
+43A4312|Triumf cudnosti
+43A4312|Triumf cudnosti
+43A4313|Vůz smrti
+43A4313|Smrt
+43A4313|Smrt
+43A4313|Stuha
+43A4313|Triumf smrti
+43A4313|Triumf smrti
+43A4314|Vůz slávy
+43A4314|Slavný
+43A4314|Stuha
+43A4314|Triumf slávy
+43A4314|Triumf slávy
+43A4315|Vůz času
+43A4315|Stuha
+43A4315|Čas
+43A4315|Triumf času
+43A4315|Triumf času
+43A4315|čas
+43A4316|Vůz božstva
+43A4316|Božstvo
+43A4316|Triumf božství
+43A4316|Triumf věčnosti
+43A4316|věčnost
+43A4321|apoteóza
+43A4321|vzestup
+43A433|korunovace
+43A433|bobkový list
+43A44|ohniště
+43A44|ohňostroj
+43A45|hanba
+43A45|posmívání
+43A45|veřejná hanba
+43A46|letadlo
+43A46|vzduch (v)
+43A46|létání
+43A46|salutování
+43A46|ukázat
+43A49|pohřeb
+43A49|veřejný pohřeb
+43A491|Hrad bolesti
+43A491|katafalk
+43AA21|koktejlová párty
+43AA21|přijímání osoby
+43AA22|vzpomínka
+43AA22|jubileum
+43AA23|ples (tanec)
+43AA23|tanec
+43AA42|vstup
+43AA42|slavnostní vstup
+43AA42|veselý vstup
+43AA42|soutěž krásy
+43AA42|veřejné přijetí
+43AA42|přijímání osoby
+43AA42|triumf
+43AA43|alegorie
+43AA43|symbol
+43AA43|námořní triumf
+43AA43|triumf
+43AA44|ohniště
+43AA44|ohňostroj
+43AA46|letadlo
+43AA46|vzduch (v)
+43AA46|létání
+43AA46|salutování
+43AA46|ukázat
+43AA49|pohřeb
+43AA49|veřejný pohřeb
+43AA491|Hrad bolesti
+43AA491|katafalk
+43B|volný čas
+43B1|místo
+43B1|příroda
+43B11|kontemplace
+43B11|západ slunce
+43B12|alfresco
+43B12|oběd v trávě
+43B12|jídlo
+43B12|piknik
+43B121|montáž
+43B121|požitky na venkově
+43B121|skupina
+43B121|venku
+43B13|turistika
+43B13|chůze
+43B131|jízdní kolo
+43B141|botanika
+43B141|květina
+43B141|bylina
+43B141|děti
+43B142|lov
+43B142|houba
+43B143|bylina
+43B143|sbírání
+43B144|květina
+43B144|sbírání
+43B15|zvíře
+43B151|motýl
+43B151|lov
+43B16|lezení
+43B16|hora
+43B16|horolezectví
+43B17|jeskyně
+43B17|průzkum
+43B2|venku
+43B21|rekreační středisko
+43B3|uvnitř
+43B31|kavárna
+43B31|v
+43B31|salón
+43B31|vinotéka
+43B311|restaurace
+43B312|zahrada
+43B312|čajová zahrada
+43B313|chodník
+43B313|terasa
+43B32|klub
+43B32|místo setkání
+43B33|kasino
+43B331|to
+43B331|hazardní hry
+43B331|hry
+43B34|taneční sál
+43B34|noční klub
+43B41|les
+43B41|hraní
+43B411|lezení
+43B411|strom
+43B412|padající
+43B412|strom
+43B42|park
+43B421|hudební pavilon
+43B5|pláž
+43B51|koupání
+43B51|ať
+43B52|opalování
+43B53|budova
+43B53|hrad
+43B53|písek
+43B54|osel
+43B55|duny
+43B55|písek
+43B6|dětské hřiště
+43B6|hraní
+43B61(...)|vybavení
+43B611|houpačka
+43B612|pád
+43B612|skluzavka
+43B613|Houpačka
+43B7|skrýt
+43B8|sbírka
+43B8|výstava
+43B8|ukázat
+43C1|zvíře
+43C1|cvičení
+43C1|hry
+43C1|sport
+43C11|lov
+43C11|zaměstnání
+43C111|zvěř (ulovené zvíře)
+43C1111|skupina
+43C1112|savec
+43C11121|skupina
+43C11122|opice
+43C11123|dravé zvíře
+43C111231|lov na lišku
+43C1112311|nicméně
+43C1112311|liška
+43C1112311|lovecký pes
+43C111232|lov na lvy
+43C1112321|boj (zvíře)
+43C1112321|lev
+43C11124|kopytník
+43C111241|tyč
+43C111242|Dát
+43C111243|kanec
+43C11125|zvíře s kufrem
+43C11126|hlodavec
+43C111261|Vítejte zpět
+43C111261|králík
+43C11127|mořský savec
+43C1113|pták
+43C112|lovecká nehoda
+43C1121|útočící
+43C1121|zraněná osoba
+43C113|krádež
+43C113|zvěř (ulovené zvíře)
+43C113|úlovek z lovu
+43C113|zátiší
+43C1131|zabít
+43C11311|lovecká trofej
+43C11311|trofej
+43C1132|zobrazování
+43C114|lovec
+43C114|lovkyně
+43C1141|montáž
+43C1141|odjezd na lov
+43C1141|skupina
+43C11421|odpočinek
+43C1143|šlehač
+43C1144|foukání
+43C1144|lovecký roh
+43C1145|zákonný
+43C1146|skupina
+43C1146|portrét
+43C1147|nicméně
+43C1147|lovecký pes
+43C11471|zvěř (ulovené zvíře)
+43C11471|úlovek z lovu
+43C1148|oblečení
+43C1148|vybavení
+43C11481|taška
+43C11481|lovecká taška
+43C11482|lovecký roh
+43C1149|vracení
+43C11491|lovecký zámeček
+43C11491|lovecké sedlo
+43C11491|chata
+43C11491|lovecká schůzka
+43C115|vyhledávání
+43C1151|lovení
+43C1152|sledování
+43C11521|natáčení
+43C11521|fotograf
+43C116|země
+43C116|lovisko
+43C1161|hranice
+43C1161|ne
+43C1162|kamufláž
+43C1162|skrývání
+43C1162|skrývat se
+43C1162|lovecký posed
+43C1162|útočiště
+43C1162|stav
+43C1162|sledování
+43C11621|vysoké sedadlo (lovecký posed)
+43C11621|platforma
+43C116211|strom
+43C116211|lovecký posed
+43C11622|zemní kryt (lovecký posed)
+43C117|hospodář
+43C118|pytlák
+43C12|rybaření
+43C128|rybář
+43C1281|ryba
+43C1281|zobrazování
+43C13|pták
+43C13|drůbež
+43C13|lovec
+43C131|finchová past
+43C131|schody
+43C132|návnada
+43C132|kachní návnada
+43C132|schody
+43C14|mučení
+43C141|skupina
+43C142|savec
+43C1421|soud
+43C1421|bití
+43C1421|kolik
+43C1421|palice
+43C1422|býk
+43C1422|býčí zápasy
+43C1422|boj (zvíře)
+43C14221|toreador
+43C1423|medvěd
+43C143|pták
+43C1431|kohout
+43C1431|boj (zvíře)
+43C1432|hus
+43C1432|vytáhnout husu
+43C144|plaz
+43C145|obojživelník
+43C146|ryba
+43C1461|před
+43C1461|vytáhnout úhoře
+43C2|cvičení
+43C2|hry
+43C2|rychlost
+43C2|sport
+43C211|závod (soutěž)
+43C211|běh
+43C2111|kurz
+43C2111|překážkový běh
+43C2111|překážka
+43C2112|běžecké lyžování
+43C2113|chůze
+43C212|zvíře
+43C212|závod (soutěž)
+43C212|jízda
+43C2121|kůň
+43C2121|jízda (na koni)
+43C21211|žokej
+43C21212|stabilní
+43C21213|závodní dráha
+43C2122|skákání
+43C2122|překážkový běh
+43C213|závod (soutěž)
+43C213|vozidlo
+43C2131|kůň
+43C2131|doprava
+43C21311|vozataj
+43C21312|vozík
+43C21312|mrzutý
+43C2132|jízdní kolo
+43C21321|Giro d'Italia
+43C21321|Tour de France
+43C21321|věž
+43C2133|motocykl
+43C2134|automobil
+43C214|turistika
+43C214|chůze
+43C218|zvíře
+43C218|závod (soutěž)
+43C2181|nicméně
+43C2182|kam
+43C22|vody
+43C221|plavání
+43C2211|potápění
+43C22111|hluboké moře
+43C22111|ať
+43C222|lyžování
+43C222|surfování
+43C222|vodní lyžování
+43C223|kanoistika
+43C223|veslování
+43C224|plachtění
+43C224|jachta
+43C225|loď
+43C225|motorový člun
+43C23|vzduch (v)
+43C23|letectví
+43C231|létání
+43C232|klouzání
+43C233|balón
+43C233|létání
+43C234|parašutismus
+43C234|skok s padákem
+43C24|led
+43C24|sníh
+43C24|zima
+43C24|zimní sporty
+43C241|sáňky
+43C241|sáně
+43C242|bob
+43C243|sáně
+43C244|bruslení
+43C245|lyžování
+43C2451|slalom
+43C2452|skákání
+43C2453|výtah
+43C2453|výtah
+43C2453|lyžařský vlek
+43C246|ledové plachtění
+43C246|plachtění
+43C3|atletika
+43C3|cvičení
+43C3|hry
+43C3|gymnastika
+43C3|sport
+43C31|skok do výšky
+43C31|skákání
+43C311|skok o tyči
+43C312|trampolína
+43C32|skok do dálky
+43C32|skákání
+43C32|skok do dálky
+43C321|skok-skok-skok
+43C33|kopí
+43C34|tanec
+43C34|vrh koulí
+43C35|hod diskem
+43C35|házení
+43C361|přeprava
+43C361|hmotnost
+43C37|podlaha
+43C37|země
+43C371|činky
+43C371|tyč
+43C38|přístroj
+43C381|prsten
+43C382|Existuje
+43C382|rovnováha
+43C382|horizontální tyč
+43C383|přeskokový kůň
+43C384|Existuje
+43C384|Bradla
+43C39|soutěž
+43C39|boj
+43C391|box
+43C392|zápas
+43C393|Brazilské jiu-jitsu
+43C393|židovský
+43C394|oplocení
+43C3941|fólie
+43C3942|meč
+43C3942|meč
+43C395|lano
+43C395|přetahovaná
+43C396|rytíř
+43C396|středověká historie
+43C396|středověk
+43C3961|gladiátor
+43C39611|zvíře
+43C39611|boj (zvíře)
+43C39612|medvěd
+43C39612|lev
+43C3962|most
+43C3962|žádné zbraně
+43C3962|krok
+43C3963|turnaj
+43C39631|právě
+43C39631|naklánění
+43C396312|bariéra
+43C39641|Bouhourt
+43C39641|Dobré ráno
+43C39642|Quintaine
+43C397|turnaj
+43C3971|olympijské hry
+43C4|hry
+43C4|dovednost
+43C4|sport
+43C41|míčové hry
+43C411|cholle
+43C411|choule
+43C411|fotbal
+43C411|fotbal
+43C411|opilý
+43C4111|ragby
+43C4112|americký fotbal
+43C412|ruka
+43C4121|házená
+43C4122|basketbal
+43C4123|volejbal
+43C4124|pro
+43C4124|vodní pólo
+43C413|tyč
+43C4131|lakros
+43C4132|hokej
+43C41321|led
+43C41321|lední hokej
+43C4133|pro
+43C4133|jízda (na koni)
+43C4134|kriket (sport)
+43C4135|baseball
+43C4136|pálka
+43C414|tyč
+43C4141|země
+43C4142|golf
+43C4143|sát
+43C41431|led
+43C4144|kroket
+43C4145|kulečník
+43C415|ruka
+43C415|raket
+43C4151|tenis
+43C4151|tenis
+43C4152|stolní tenis
+43C4152|tenis
+43C4153|hra s míčem
+43C4154|badminton
+43C4154|hra s míčem
+43C4155|pět
+43C4155|dlaně ruky
+43C416|válcování
+43C4161|koule
+43C4162|bowling
+43C4163|prsten
+43C4163|házení
+43C4164|kuželky
+43C4164|kolky
+43C417|házení
+43C4171|káč
+43C4171|pohár a míček
+43C418|stroj
+43C418|pinball
+43C42|ostrostřelba
+43C42|střelba
+43C421|lukostřelec
+43C421|luk a šíp
+43C421|soutěž
+43C4211|pták
+43C4211|ne
+43C4211|střílení ptáka
+43C4212|šampion-výstřel
+43C422|střelné zbraně
+43C422|ruční zbraň
+43C422|revolver
+43C423|střelné zbraně
+43C423|puška
+43C424|cíl
+43C43|soud
+43C43|sada sudů
+43C431|disk
+43C431|otvor
+43C432|lopatka
+43C44|tento
+43C441|vzduchová horní část
+43C441|ďábel na dvou tyčích
+43C441|k čertu
+43C441|tyč
+43C45|prsten
+43C45|naklánění
+43C5|výpočet
+43C5|šance
+43C5|hazardní hry
+43C5|hry
+43C51|karetní hra
+43C511|karbaník
+43C511|podvádění
+43C511|podvod
+43C512|karta
+43C512|hrací karty
+43C5121|žolík
+43C513|trpělivost
+43C52|desková hra
+43C521|Šachy
+43C5211|šachové figurky
+43C5212|hráč (hry)
+43C5212|vítěz
+43C5212|žena
+43C522|backgammon
+43C522|Klik-klak
+43C523|pohárky
+43C5231|kresliči
+43C53|desková hra
+43C531|husí hra
+43C532|monopol
+43C54|domino
+43C55|slovní hra
+43C551|podvádění
+43C551|podvod
+43C552|říká
+43C56|sázení
+43C561|sport
+43C562|ruleta
+43C57|Loterie
+43C58|loterie
+43C581|hodně
+43C582|pool (totalizátor)
+43C582|totalizátor
+43C59|hádanka
+43C59|hádanka
+43C59|hlavolam
+43C59|hádanka
+43C591|šaráda
+43C592|křížovka
+43C593|skládačka
+43C6|hostina
+43C6|hry
+43C6|skupina
+43C61|propadnout
+43C62|židle
+43C62|hudební židle
+43C63|soutěž
+43C63|líbání
+43C63|smyslnost
+43C631|slávky
+43C631|ruka
+43C631|vysoké mušle
+43C631|horké mušle
+43C631|horká ruka
+43C631|nápadný
+43C64|žába
+43C64|střední
+43C68|dospělý
+43C68|dětské hry
+43C69|drsný a bouřlivý
+43C7|dítě
+43C7|dětské hry
+43C7|hry
+43C7|hraní
+43C711|běhová hra
+43C71111|běh
+43C71112|lovení
+43C71113|červený rover, červené světlo?
+43C7112|soutěž
+43C71121|vězeň
+43C71122|dělení
+43C71122|země
+43C71123|lovení
+43C71123|skupina
+43C71123|dojemný
+43C7113|skrývání
+43C7113|skrývat se
+43C71131|schovávaná
+43C7114|kruh
+43C7115|příběh
+43C7116|Londýnský most
+43C7116|oblouk
+43C7116|most
+43C7117|řetězová hra
+43C7117|hadí hra
+43C71171|vlak (sbor)
+43C7118|větrník
+43C7118|víření
+43C712|skákání
+43C7122|přeskakování
+43C7123|kohouti
+43C7123|Ahoj, Cockalorum!
+43C7124|hop-scotch
+43C71251|přemet
+43C71251|kotoučování
+43C71252|stojící na hlavě
+43C71253|plazení
+43C71254|víření
+43C7126|příkop
+43C71261|skok o tyči
+43C713|tanec
+43C7132|skákání přes švihadlo
+43C7132|lano
+43C7132|skákací lano
+43C7133|kruh
+43C7133|čtverec (tvar)
+43C7134|řadový tanec
+43C714|házení
+43C7142|kámen
+43C7143|tyč
+43C7144|mince
+43C7145|ovoce
+43C7146|tanec
+43C71462|lovení
+43C71463|úder
+43C71463|tyč
+43C71464|kopání
+43C7147|bowling
+43C71481|což
+43C71481|prsten
+43C715|prst
+43C715|pěst
+43C715|ruka
+43C71511|stín
+43C71511|silueta
+43C71512|kočičí kolébka
+43C71512|řetězec
+43C7152|plácací hra
+43C7152|nápadný
+43C71521|hromadění
+43C71522|taška
+43C71522|praskání
+43C7153|počítání
+43C7153|ukazování
+43C7155|rým
+43C716|dospělý
+43C716|oblékání
+43C716|napodobenina
+43C716|obchod
+43C717|hádání
+43C7172|lov
+43C71721|stopa
+43C7173|věštění
+43C7174|hodně
+43C7175|páska přes oči
+43C71751|slepé báby
+43C718|houpací hra
+43C7181|houpání
+43C7182|kolébka
+43C7182|houpání
+43C7183|koleno
+43C7183|jízda
+43C7184|přeprava
+43C71841|nošení na zádech
+43C71841|pick-a-back
+43C719|boj
+43C719|drsný a bouřlivý
+43C72|toto
+43C721|kuličky
+43C7211|otvor pro šálek
+43C722|vrchní část (hračka)
+43C7221|víření
+43C7222|bičování
+43C723|naděje
+43C7231|víření
+43C724|létání
+43C724|podívejte se
+43C7241|balón
+43C725|zeptal se
+43C726|astragalus
+43C726|kostky
+43C727|bruslení na kolečkových bruslích
+43C727|bruslení
+43C73|příroda
+43C731|napodobenina
+43C732|pták
+43C732|další
+43C732|okrádání
+43C7321|vejce
+43C7321|lov
+43C733|zvíře
+43C733|škádlení
+43C734|zvíře
+43C735|děti
+43C736|přírodní jevy
+43C736|jevy
+43C736|počasí
+43C7361|déšť
+43C737|led
+43C737|sníh
+43C7371|skluzavka
+43C7372|sněhulák
+43C73721|sněhová koule
+43C7373|sněhová koule
+43C7373|házení
+43C7374|židle
+43C7379|nehoda
+43C7379|rozbíjení
+43C741(...)|kalendář
+43C742|škola
+43C7421|hostina
+43C7421|školní slavnost
+43C7422|výlet
+43C7422|školní výlet
+43C7422|výlet
+43C7423|dětské hřiště
+43C7424|nezbednost
+43C7425|záškoláctví
+43C743|umění
+43C7431|hudba
+43C74311|kuchyňské nádobí
+43C74311|hrubá hudba
+43C74312|pískání
+43C74313|močový měchýř
+43C74313|hlava
+43C7432|tvorba hudby
+43C7432|hudební nástroj
+43C74322|nástroje pro potěšení
+43C7433|zpěv
+43C75|nezbednost
+43C751|nadávky
+43C751|střelba
+43C751|urážlivý
+43C752|škádlení
+43C7521|krádež
+43C753|krásný
+43C753|zvonek
+43C754|Teddy boy
+43C755|vandalismus
+43C761|počítání
+43C767|domů
+43C767|vracení
+43C768|usilující
+43C769|vyhánění
+43C769|přerušení
+43C771|obrázková kniha
+43C771|čtení
+43C772|kniha
+43C7721|obrázek
+43C7721|obrázek
+43C78|toto
+43C781|stavební materiál
+43C7811|hromadění
+43C7812|stavební kámen
+43C7813|meccano
+43C7814|řezání
+43C7815|budova
+43C7815|dům
+43C7815|model
+43C7816|budova
+43C7816|stroj
+43C7816|model
+43C7816|vozidlo
+43C782|pohyb
+43C7821|tanec
+43C7821|panenka
+43C7822|otočná hračka
+43C7823|mlýn
+43C783|mechanické hračky
+43C7831|motor
+43C7831|pára
+43C7832|motor
+43C7833|motor
+43C7833|motor
+43C7833|pára
+43C784|přeprava
+43C7841|vozidlo
+43C78411|ruční vozík
+43C78411|doprava
+43C78412|automobil
+43C78413|protože
+43C78413|kolejnice
+43C78413|horská dráha
+43C78414|vlak
+43C7842|vody
+43C78421|loď
+43C78422|jachta
+43C78423|motorový člun
+43C7843|voda
+43C7843|letectví
+43C78431|letadlo
+43C78432|letadlo
+43C78432|model
+43C78432|motor
+43C78433|raketa
+43C785|foukání
+43C7851|bublina
+43C7851|foukání bublin
+43C786|žena v domácnosti
+43C7861|pokrm
+43C78611|čajový servis
+43C7862|kuchyně
+43C78621|výše
+43C78621|kamna
+43C7863|panenkový dům
+43C7863|dům
+43C7871|panenka
+43C78711|oblečení
+43C78719|dospělý
+43C7872|zvíře
+43C7872|plyšový medvídek
+43C78721|koníček
+43C78721|kůň
+43C78722|kůň
+43C78722|houpací kůň
+43C78729|dospělý
+43C78729|maskot
+43C7881|kniha
+43C7881|vkládání
+43C7882|tkaní
+43C7883|ruční práce
+43C7891|napodobenina
+43C7891|miniatura
+43C7891|model
+43C8|pole
+43C8|země
+43C8|sport
+43C81|šatna
+43C81|šatna
+43C81|pokoj
+43C9|tanečník
+43C9|tanec
+43C91|jeden
+43C911|muž
+43C912|žena
+43C92|pár
+43C92|pár
+43C921|žena
+43C922|muž
+43C923|pozvání
+43C94|společenský tanec
+43C94|skupina
+43C941|vyšší třída
+43C942|lidový tanec
+43C9421|muž
+43C9422|žena
+43C943|kruh
+43C95|řetězový tanec
+43C95|jigování
+43C95|běhání
+43C95|ulice
+43CC1141|montáž
+43CC1141|odjezd na lov
+43CC1141|skupina
+43CC11421|odpočinek
+43CC1143|šlehač
+43CC1144|foukání
+43CC1144|lovecký roh
+43CC1145|zákonný
+43CC1146|skupina
+43CC1146|portrét
+43CC1149|vracení
+43CC11491|lovecký zámeček
+43CC11491|lovecké sedlo
+43CC11491|chata
+43CC11491|lovecká schůzka
+43D1|řemeslo
+43D1|ruční práce
+43D1|koníček
+43D2|sbírání
+44A|stát
+44A|symbol
+44A1|erb
+44A11|zařízení
+44A2|tam
+44A21|řetěz
+44A21|vyšší
+44A3|barva
+44A3|vlajka
+44A31|banner
+44A31|standard
+44A311|vlajkonoš
+44A311|vlajkonoš
+44A32|vlajkový stožár
+44A32|ne
+44A4|dekorace
+44A4|čest
+44A4|medaile
+44A5|Amerika
+44A5|Egypt
+44A5|Francie
+44A5|Německo
+44A5|Itálie
+44A5|Nizozemsko
+44A5|Polsko
+44A5|Švédsko
+44A5|Benátky
+44A5|národní symbol
+44A51|země
+44A51|národ
+44A51|personifikace
+44A51|region
+44A51(...)|Španělsko
+44B|Autorita nebo moc
+44B|Politika
+44B|Stuha
+44B|vláda
+44B|zaměstnání
+44B|stát
+44B0|vládní systém
+44B01|Monarchie by řekla
+44B01|v králi
+44B01|monarchie
+44B011|Aristokracie
+44B011|aristokracie
+44B02|Demokracie
+44B02|demokracie
+44B03|Vláda republiky
+44B03|republika
+44B04|koloniální systém
+44B041|imperialismus
+44B09|Tyranie
+44B09|tyranie
+44B091|Důvod státu
+44B091|důvod státu
+44B1|pravítko
+44B10|ctnost
+44B11|hodnost
+44B111|galerie
+44B111|série
+44B1111|dynastie
+44B112|čar
+44B112|císař
+44B112|systém
+44B1121|mýtus
+44B1121|vracení
+44B113|v králi
+44B114(DOGE)|být nemocný, být nemocný, být nemocný
+44B115|prezident
+44B1151|viceprezident
+44B116|regent
+44B116|substituce
+44B116|místokrál
+44B1161|Stadtholder
+44B117|feudální pán
+44B117|pán
+44B1171|vassal
+44B119|tyran
+44B12|před
+44B12|v králi
+44B12|královská událost
+44B121|publikum
+44B1211|sál
+44B1211|pokoj
+44B1211|trůnní sál
+44B1212|trůn
+44B122|instalace
+44B122|investitura
+44B1221|pasování na rytíře
+44B1221|šlechta
+44B1222|moc
+44B1222|převod moci
+44B1223|dávání
+44B1223|výsada
+44B123|bezplatné odpuštění
+44B123|milosrdenství
+44B123|milost
+44B124|poradce
+44B125|objednávání
+44B126|Lenní držba
+44B127|předmět
+44B1271|dávání
+44B1271|čest
+44B1271|pole
+44B1272|substituce
+44B12721|Damokles
+44B12721|meč
+44B128|neformální
+44B128|předmět
+44B129|zlo
+44B129|léčení
+44B129|královská nemoc
+44B129|dojemný
+44B13|před
+44B13|uctívání
+44B131|akklamace
+44B1311|loajalita
+44B1311|přísaha
+44B1311|nadávání
+44B132|klanění
+44B1321|ohýbání kolena
+44B1322|klečení
+44B1323|vyčerpání
+44B133|vlajka
+44B134|dělo
+44B134|s výjimkou
+44B1341|narození
+44B1341|manželství
+44B1341|královská událost
+44B135|placení
+44B135|pocta
+44B14|apoteóza
+44B15|soud
+44B15|rodina
+44B15|královská rodina
+44B150|Soud
+44B151|dynastie
+44B1511|Manželka
+44B1511|císařovna
+44B1511|královna
+44B15111|princ-manžel
+44B1512|dítě
+44B15121|princ
+44B151211|korunní princ
+44B15122|princezna
+44B151221|korunní princezna
+44B15123|nemanželské dítě
+44B1513|rodiče
+44B15131|otec
+44B15132|matka
+44B15132|královna matka
+44B1515|oblíbený
+44B152|makléř
+44B152|domácnost
+44B152|vlak (sbor)
+44B1521|mistr
+44B1522|důstojník
+44B1523|stránka (služební)
+44B1524|dvorní šašek
+44B1524|hlupák
+44B1524|jester
+44B15241|atribut
+44B152411|hlava
+44B152411|bláznivá čepice
+44B152412|bauble
+44B1525|potraviny
+44B1525|klávesy
+44B1525|testování
+44B1526|lokaj
+44B1526|personál
+44B1527|osobní strážce
+44B153|obřad
+44B153|a etiketa
+44B1531|Zdvořilost
+44B154|festival
+44B155|každodenní život
+44B16|instalace
+44B16|dědictví
+44B161|výběr
+44B161|volby
+44B1611|prohlášení
+44B16111|zvyšování
+44B16111|štít
+44B1612|pomazání
+44B1613|koruna
+44B1613|nabídka
+44B1613|blind
+44B1613|insignie
+44B1613|žezlo
+44B1619|uzurpace
+44B162|korunovace
+44B162|korunovace
+44B1624|pomazání
+44B1625|koruna
+44B1625|nabídka
+44B1625|blind
+44B1625|insignie
+44B1625|žezlo
+44B163|meč
+44B1641|přísaha
+44B165|oslav
+44B165|obřad
+44B1651|soutěž krásy
+44B1651|průvod
+44B1651|průvod
+44B16511|korunovační průvod
+44B168|odmítnutí (objednávky, žádosti)
+44B1681|koruna
+44B1681|šlapání
+44B169|abdikace
+44B169|odesílání
+44B1692|neochota
+44B16921|protivník
+44B16921|útěk
+44B16922|zatýkání
+44B16923|zabíjení
+44B16923|v králi
+44B16923|vraždění
+44B16923|královraždy
+44B17|špatný
+44B19|korunovační klenoty
+44B19|insignie
+44B19|insignie
+44B191|koruna
+44B1911|diadém
+44B192|žezlo
+44B192|personál
+44B1921|paže
+44B1921|ruka
+44B1921|spravedlnost
+44B1922|kopí
+44B1922|kopí
+44B193|kříž
+44B193|blind
+44B194|erb
+44B195|tam
+44B196|standard
+44B197|plášť
+44B197|šaty
+44B1971|císař
+44B1972|v králi
+44B198|náprsník
+44B2|rada
+44B2|zastupitelské orgány
+44B21|národní vláda
+44B211|ministr
+44B2111|předseda vlády
+44B2113|státní tajemník
+44B2113|státní tajemník
+44B22|provincie
+44B221|guvernér
+44B23|město
+44B23|obecní samospráva
+44B231|burgomaster
+44B231|vyšší
+44B232|městská rada
+44B233|sál
+44B233|radnice
+44B24|koloniální vláda
+44B241|koloniální guvernér
+44B241|guvernér
+44B3|správa
+44B3|ovládání
+44B3|regulace vody
+44B31|správce hráze
+44B31|Reeve
+44B32|kontrola
+44B4|diplomacie
+44B4|diplomat
+44B41|velvyslanec
+44B411|odjíždějící
+44B412|cesta
+44B413|přijímání osoby
+44B414|smíření
+44B42|montáž
+44B42|konference
+44B42|vyjednávání
+44B421|mír
+44B4211|dokument
+44B4211|podpisování
+44B4211|smlouva
+44B4212|prohlášení
+44B43|konzulární služby
+44B44|přístupové údaje
+44B44|dokument
+44B44|nabídka
+44B45|spojenectví
+44B45|jednota
+44B450|Umístění
+44B5|zákon
+44B511|Horní komora
+44B511|senát
+44B512|Dolní komora
+44B512|komora
+44B512|parlament
+44B5121|poslanec
+44B52|prohlášení
+44B521|křičet
+44B521|křik
+44B522|záznamy
+44B532|legendární
+44B532|původ
+44B6|dobré a špatné
+44B61|dobrý
+44B610|alegorie
+44B610|personifikace
+44B611|Utopie
+44B62|špatný
+44B621|nespokojenost
+44BB1111|dynastie
+44BB1121|mýtus
+44BB1121|vracení
+44BB1151|viceprezident
+44BB1161|Stadtholder
+44BB1211|sál
+44BB1211|pokoj
+44BB1211|trůnní sál
+44BB1212|trůn
+44BB1311|loajalita
+44BB1311|přísaha
+44BB1311|nadávání
+44BB1321|ohýbání kolena
+44BB1322|klečení
+44BB1323|vyčerpání
+44BB1341|narození
+44BB1341|manželství
+44BB1341|královská událost
+44BB15121|princ
+44BB151211|korunní princ
+44BB15122|princezna
+44BB151221|korunní princezna
+44BB15123|nemanželské dítě
+44BB15131|otec
+44BB15132|matka
+44BB15132|královna matka
+44BB1521|mistr
+44BB1522|důstojník
+44BB1523|stránka (služební)
+44BB1524|dvorní šašek
+44BB1524|hlupák
+44BB1524|jester
+44BB1525|potraviny
+44BB1525|klávesy
+44BB1525|testování
+44BB1526|lokaj
+44BB1526|personál
+44BB1527|osobní strážce
+44BB1531|Zdvořilost
+44BB161|výběr
+44BB161|volby
+44BB162|korunovace
+44BB162|korunovace
+44BB163|meč
+44BB1641|přísaha
+44BB165|oslav
+44BB165|obřad
+44BB1651|soutěž krásy
+44BB1651|průvod
+44BB1651|průvod
+44BB168|odmítnutí (objednávky, žádosti)
+44BB1681|koruna
+44BB1681|šlapání
+44BB169|abdikace
+44BB169|odesílání
+44BB16921|protivník
+44BB16921|útěk
+44BB16922|zatýkání
+44BB16923|zabíjení
+44BB16923|v králi
+44BB16923|vraždění
+44BB16923|královraždy
+44BB1911|diadém
+44BB1971|císař
+44BB1972|v králi
+44C|občan
+44C|občanská práva
+44C|správně
+44C1|občanství
+44C1|státní příslušnost
+44C11|země
+44C11|vlastenectví
+44C110|Láska k vlasti
+44C110|Stuha
+44C12|emigrace
+44C13|imigrace
+44C14|vnitřní migrace
+44C14|migrace
+44C14|přerozdělení obyvatelstva
+44C14|přesídlení
+44C14|Přemístění
+44C141|město
+44C141|venkovský život
+44C141|migrace z venkova do měst
+44C141|městský život
+44C141|vesnice
+44C142|město
+44C142|venkovský život
+44C142|městský život
+44C142|migrace z měst do venkova
+44C142|vesnice
+44C19|zrazení
+44C19|země
+44C19|zrada
+44C2|hlasování
+44C21|kampaň
+44C21|politika
+44C22|volební místnost
+44C22|volební místnost
+44C221|stánek
+44C221|kabina
+44C221|volební místnost
+44C221|volební kabina
+44C221|volební kabina
+44C222|hlasovací lístek
+44C222|hlasovací lístek
+44C223|box (kontejner)
+44C223|urna
+44C223|volební urna
+44C224|stroj
+44C224|hlasovací zařízení
+44C23|volby
+44C231|propaganda
+44C231|volební propaganda
+44C24|emancipace
+44C24|udělení volebního práva ženám
+44C24|osvobozující
+44C24|žena
+44C24|osvobození žen
+44C241|suffragetky
+44C29|boj
+44C3|politika
+44C30|Politika
+44C30|Stuha
+44C31|propaganda
+44C311|montáž
+44C312|karikatura
+44C312|satira
+44C32|třída
+44C32|na
+44C33|politická strana
+44C34|předseda strany
+44C34|politik
+44C35|ideologie
+44C35|politická ideologie
+44C35|teorie
+44C4|demonstrace
+44C41|stávka
+44C42|míchadlo
+44C5|svoboda
+44C5|žurnalistika
+44C5|řeč
+44C59|cenzura
+44C591|pálení (knih)
+44C6|emancipace
+44C6|rasismus
+44D|správa
+44D|zaměstnání
+44D1|kancelář
+44D1|registr
+44D2|proč
+44D20|Datio nebo Gabella
+44D20|Stuha
+44D21|sbírání
+44D21|výběrčí daní
+44D211|placení
+44D22|celní předpisy
+44D221|ulice
+44D221|celní brána
+44D222|pašování
+44D2221|jiný
+44D2221|obchod
+44D223|cestovní pas
+44D223|celá
+44D224|ovládání
+44D224|vyšetřování
+44D23|finance
+44D3|hranice
+44D31|značení
+44D311|ne
+44D311|kámen
+44D32|země
+44D32|registr
+44D321|dělení
+44D4|státní úředník
+44D4|funkcionář
+44D4|úředník
+44D4|státník
+44E|státní služba
+44E|zaměstnání
+44E|služba
+44E1|dodávka
+44E1|voda
+44E11|věž
+44E11|vodárenská věž
+44E12|očista
+44E13|akvadukt
+44E131|potrubní systém
+44E14|fontána
+44E14|veřejná čerpadla
+44E14|čerpadlo
+44E14|utilitární
+44E2|lampa
+44E2|ulice
+44E3|plyn
+44E3|dodávka
+44E4|elektřina
+44E4|dodávka
+44E41|elektrárna
+44E41|stanice
+44E42|kabel
+44E42|elektrické vedení
+44E42|pylon
+44E5|sbírání
+44E5|odpadky
+44E51|automobil
+44E51|nákladní automobil
+44E52|kbelík
+44E52|popelnice
+44E53|čištění
+44E53|zametání ulic
+44E53|zametání
+44E6|potraviny
+44E6|přídělový systém
+44E61|karta
+44E61|přídělová karta
+44E62|kuchařská dílna
+44E62|kuchyně
+44E62|vývařovna
+44F|revoluce
+44F0|Rebellion
+44F0|Stuha
+44F0|Vzpouru
+44F0|Občanská vzpoura
+44F1|vzpoura
+44F1|ulice
+44F11|barikáda
+44F14|plundering
+44F2|občanská válka
+44F2|na
+44F3|nouzový stav
+44F31|zákaz vycházení
+44F4|vojenský soud
+44F4|spravedlnost
+44F4|sumární soudnictví
+44F41|rozsudek
+44F51|spiknutí
+44F51|kreslení
+44F511|přísaha
+44F52|příprava (bitva, válka)
+44F52|tajnost
+44F52|zbraň
+44F53|rada (výbor)
+44F53|skupina
+44F531|vlastenec
+44F532|vůdce
+44F541|míchadlo
+44F541|řeč
+44F542|broadside
+44F542|karikatura
+44F542|úroveň
+44F542|propaganda
+44F55|násilí
+44F551|sabotáž
+44F552|pokus (útok)
+44F552|vraždění
+44F552|politika
+44F553|anarchismus
+44F5531|bomba
+44F554|zničení
+44F554|budova
+44F555|zničení
+44F555|památka
+44F555|portrét
+44F59|porážka
+44F59|selhání
+44F59|odstranění
+44F6|vláda
+44F61|zachycování
+44F62|vyhnanství
+44F62|vyhoštění
+44F621|útěk
+44F63|vyhnanství
+44F630|Exil
+44F630|Stuha
+44F631|uprchlík
+44F631|emigrant
+44F7|vláda
+44F71|prohlášení
+44F711|oslav
+44F7111|tanec
+44F7111|svoboda
+44F7111|strom
+44F72|soudní dvůr
+44F72|spravedlnost
+44F73|rada
+44F741|muž
+44F741|teror
+44F741|teror
+44F7411|provokatér
+44F7411|provokativní činitel
+44F7412|hlášení
+44G|spravedlnost
+44G|zákon
+44G|zaměstnání
+44G0|alegorie
+44G0|symbol
+44G01|Přidat
+44G01|Občanské právo
+44G01|Stuha
+44G02|právní památky
+44G03|soudní spor
+44G1|soudní řízení
+44G11|soudní dvůr
+44G111|obviňující
+44G112|rozsudek
+44G1121|provedení
+44G1121|objednávání
+44G113|osvobození
+44G12|budova
+44G121|soudní dvůr
+44G1211|soudní síň
+44G1211|pokoj
+44G122|značka
+44G1221|Rolandův sloupek
+44G1221|socha
+44G123|svatyně
+44G123|značka
+44G1231|kříž
+44G1231|tržní kříž
+44G13|soudce
+44G130|Soudce
+44G130|Stuha
+44G131(...)|úředník
+44G14|porota
+44G1411|Vehmgericht
+44G1411|vehmický soud
+44G1412|soud
+44G15|svědek
+44G151|prst
+44G151|přísaha
+44G151|dva
+44G1511|vousy
+44G1511|cop
+44G1511|ruka
+44G1511|žena
+44G152|dokument
+44G153|návštěva
+44G159|falešný svědek
+44G159|křivá přísaha
+44G16|advokát
+44G16|právník
+44G161|advokát
+44G162|poradce
+44G163|prosba
+44G17|zkouška
+44G171|čtyři
+44G171|teplo
+44G172|voda
+44G1731|Ústa pravdy
+44G1731|cizoložství
+44G1731|ruka
+44G1731|ústa
+44G1731|pravda
+44G174|souboj
+44G2|veřejná bezpečnost
+44G2|bezpečnost
+44G21|noční hlídka
+44G21|hlídka
+44G211|stráž
+44G211|věžová stráž
+44G22|policie
+44G221|šerif
+44G222|soudní vykonavatel
+44G223|strážník
+44G23|trestní vyšetřování
+44G23|vyšetřování
+44G231|detektiv
+44G231|soukromý detektiv
+44G232|koroner
+44G232|pitva
+44G233|otisky prstů
+44G24|zločinec
+44G24|usilující
+44G241|skupina
+44G241|být schopen
+44G242|nicméně
+44G242|policejní pes
+44G25|zatýkání
+44G251|pout
+44G252|přeprava
+44G253|dotazování
+44G29|psanec
+44G291|svatyně
+44G3|trestní právo
+44G3|trestní právo
+44G3|trest
+44G311|vězení
+44G3110|alegorie
+44G3110|symbol
+44G3111|uvěznit
+44G3111|personál
+44G312|řetězy
+44G312|okovy
+44G312|vězeň
+44G3121|vazba
+44G3121|ruka
+44G313|buňka
+44G313|vězeň
+44G314|tábor
+44G314|řetězová chodba
+44G314|těžká práce
+44G314|chudobinec
+44G315|návštěva
+44G3151|osvobozující
+44G3151|vězeň
+44G3151|výkupné
+44G3152|osvobozující
+44G3152|zázrak
+44G3152|vězeň
+44G316|pokus (úsilí)
+44G316|únik
+44G317|rehabilitace
+44G318|nádvoří
+44G318|vězeň
+44G319|uvolňování
+44G3191|Sbohem
+44G3191|placení
+44G32|kat
+44G32|kat
+44G321|provedení
+44G321|instrument
+44G321|mučení
+44G321(BIRCH ROD)|bříza
+44G321(BIRCH ROD)|rod
+44G321(CROSS)|kříž
+44G321(GALLOWS)|šibenice
+44G321(GALLOWS)|šibenice
+44G321(GALLOWS)|visící
+44G321(GRIDIRON)|grilovací rošt
+44G321(RACK)|regál
+44G321(SCOURGE)|metla
+44G321(SCOURGE)|bič
+44G321(STAKE)|podíl
+44G33|mučení
+44G34|smrt
+44G34|provedení
+44G341|poslední hodiny
+44G34111|rozloučení
+44G34111|související
+44G34111|mluvení
+44G3412|uklidňující
+44G3412|modlitba
+44G3412|duch
+44G3413|pokání
+44G3414|zoufalství
+44G3415|lešení
+44G342|lešení
+44G349|podobizna
+44G349|lidská postava
+44G35|mrtvola
+44G35|provedení
+44G35|veřejný
+44G35|zobrazování
+44G3511|hlava
+44G36|mrtvola
+44G36|provedení
+44G36|zobrazování
+44G3611|hlava
+44G37|veřejné potrestání
+44G371|pohrdání
+44G371|posmívání
+44G371|veřejné zesměšňování
+44G3711|akcie
+44G3712|uhýbání
+44G372|branding
+44G373|bití
+44G3731|bičování
+44G38|vyhnanství
+44G38|vyhnanství
+44G381|deportace
+44G382|ptát se
+44G382|ukrytí
+44G39|změna
+44G39|prevence
+44G399|milost
+44G4|občanské právo
+44G41|soudní spor
+44G42|konec
+44G43|zachycování
+44G43|konfiskace
+44G43|zboží
+44G43|majetek
+44G44|nucení
+44G44|prodej
+44G45|notář
+44G48|rozhodčí řízení
+44G49|barratry
+44G49|napomínající
+44G49|soudní spor
+44G5|zločinec
+44G51|zločin
+44G510|Stuha
+44G510|Zlovolnost nebo vada
+44G511|vrah
+44G5111|vraždění
+44G512|otravník
+44G52|okrádání
+44G52|krádež
+44G521|jeskyně
+44G521|loupežnická jeskyně
+44G5220|Loupež
+44G5220|Stuha
+44G53|zloděj
+44G531|krádež
+44G54|zloděj
+44G540|Krádež
+44G540|Stuha
+44G541|kapesní zloděj
+44G542|zloděj v obchodě
+44G543|plot (přijímač)
+44G543|příjemce
+44G544|krádež
+44G55|padělatel
+44G551|padělání
+44G56|pirát
+44G561|loď
+44G562|pirátství
+44G59|nástroj
+44G591|tmavá lucerna
+44G591|lucerna
+44G6|obrazy spravedlnosti
+44G6|vzorový soudce
+44G6|soudce
+44G61|odstřihnutí
+44G61|ruka
+44G69|špatný soudce
+44G69|korupce
+44G690|Korupce mezi soudci
+44G690|Stuha
+44G8|neformální
+44G8|sebevzdělávání
+44G81|lynčování
+44G82|krvavá pomsta
+44G82|pomsta
+44G82|pomsta
+44G83|osvobozující
+44G83|vězeň
+44G89|záchrana
+44G9|zneužívání
+44G9|korupce
+44G9|vraždění
+44G91|genocida
+44GG51|zločin
+44GG510|Stuha
+44GG510|Zlovolnost nebo vada
+44GG511|vrah
+44GG5111|vraždění
+44GG512|otravník
+44GG52|okrádání
+44GG52|krádež
+44GG53|zloděj
+44GG54|zloděj
+44GG55|padělatel
+44GG56|pirát
+44GG561|loď
+44GG562|pirátství
+44GG59|nástroj
+45|vojenské záležitosti
+45|zaměstnání
+45A|válka a mír
+45A1|na
+45A10|Válka
+45A10|Stuha
+45A10|alegorie
+45A10|symbol
+45A11|militarismus
+45A12|vyhlášení války
+45A13|napomínající
+45A13|propaganda
+45A131|nepřítel
+45A132|příprava (bitva, válka)
+45A14|účinek
+45A141|horor
+45A1411|masakr
+45A142|zločin
+45A143|věda
+45A144|technologie
+45A145|ekonomika
+45A1459|využijte
+45A1459|válečný spekulant
+45A2|mír
+45A20|Mír
+45A20|Mír
+45A20|Stuha
+45A20|alegorie
+45A20|symbol
+45A21|antimilitarismus
+45A21|pacifismus
+45A22|odzbrojení
+45A23|účinek
+45A231|požehnání
+45A232|Hojnost
+45A232|Mír a hojnost
+45A232|hojnost
+45A232|prosperita
+45A233|Spravedlnost
+45A233|Mír
+45A233|Žalm 85
+45A233|líbání
+45A3|vítězství
+45A30|Stuha
+45A30|Victoria
+45A30|Vittoria
+45A30|Vítězství starověkých
+45A30|Námořní vítězství
+45A31|sláva
+45A31|triumf
+45A4|porážka
+45A41|hanba
+45A42|kapitulace
+45A5|studená válka
+45A5|na
+45A51|psychologie
+45A6|pátá kolona
+45A61|sabotáž
+45A9|neutrální
+45A9|nebojovný
+45B|voják
+45B1|nábor
+45B11|nábor
+45B111|krimp
+45B112|smlouva
+45B113|dobrovolnost
+45B114|branná povinnost
+45B1141|krimp
+45B1141|nucení
+45B1141|nátlaková skupina
+45B1141|Šanghaj
+45B115|hodně
+45B1151|uvolňování
+45B116|vyšetření
+45B116|lékařství
+45B1161|odmítnutí
+45B117|substituce
+45B12|odjíždějící
+45B13|příjezd
+45B13|firemní stanice
+45B14|vědomí
+45B14|odmítač vojenské služby
+45B14|namítání
+45B2|školení
+45B21|instruktáž
+45B211|cvičení (vojenské)
+45B212|akce
+45B212|zbraň
+45B2121|střelnice
+45B2121|střelba
+45B213|cvičení
+45B22|teorie
+45B23|manévr
+45B24|soutěž
+45B25|vstup
+45B251|přísaha
+45B2511|porušení slibu
+45B28|akademie
+45B281|loď
+45B3|vojenská služba
+45B3|služba
+45B31|stráž
+45B311|měnící se
+45B312|hlídková místnost
+45B312|kortegaard
+45B312|pokoj
+45B313|náročný
+45B314|útočící
+45B315|strážní budka
+45B32|vojsko
+45B321|kontrola
+45B33|den
+45B33|dělení
+45B331|Probuď se
+45B331|trubka
+45B332|prezenční listina
+45B333|tetování
+45B334|vlajka
+45B334|zobrazování
+45B3341|zvedání
+45B3341|zvyšování
+45B3342|zvedání
+45B3342|snižování
+45B41|salutování
+45B411|zdraví
+45B412|předvádění zbraní
+45B412|puška
+45B412|zobrazování
+45B412|zbraň
+45B413|vlajka
+45B414|vlajka
+45B415|dělo
+45B415|s výjimkou
+45B42|disciplína
+45B421|policie
+45B421|provost
+45B422|soudní dvůr
+45B422|vojenský soud
+45B4221|vojenský soud
+45B423|trest
+45B4231|zatýkání
+45B4232|cvičení
+45B4232|těžká práce
+45B4233|trestající
+45B42331|gauntlet (trest)
+45B42331|běh
+45B4234|vězení
+45B424|degradace
+45B424|hodnost
+45B425|provedení
+45B43|čest
+45B431|propagace
+45B432|citace
+45B432|chválící
+45B433|dekorace
+45B433|pole
+45B433|medaile
+45B49|vzpoura
+45B49|vzpoura
+45B5|oslav
+45B51|soutěž krásy
+45B51|průvod
+45B52|demonstrace
+45B53|dekorace
+45B53|vlajka
+45B54|montáž
+45B54|schůzka
+45B54|důstojník
+45B55|stráž
+45B55|čest
+45B6|mimo službu
+45B61|rekreace
+45B611|jídelna
+45B612|dotek
+45B62|odchod
+45B621|společnost
+45B621|veselá společnost
+45B621|děvka
+45B7|dokončení
+45B71|demobilizace
+45B72|rozpuštěný
+45B73|domů
+45B73|vracení
+45B81|veterán
+45B82|mrzák
+45B82|postižený
+45B83|Hotel Invalides
+45B83|mrzák
+45B83|postižený
+45B83|domov-pro-veterány
+45B84|montáž
+45B84|vzpomínka
+45B84|setkání
+45B9|dezertérství
+45B91|nepřítel
+45C|vybavení
+45C|dodávka
+45C1|zbraň
+45C10|ruky
+45C10|Stuha
+45C11|odlévání zbraní
+45C11|házení
+45C11(BALLISTA)|ballista
+45C11(SLING)|popruh
+45C11(SPEAR)|kopí
+45C12|nápadný
+45C12(CLUB)|palice (zbraň)
+45C13|piercing
+45C13|bodnutí
+45C13(DAGGER)|dýka
+45C13(RAPIER)|rapír
+45C13(SWORD)|meč
+45C131(BLADE)|listy
+45C131(GRIP)|grip
+45C131(GRIP)|jednat
+45C131(GRIP)|rukojeť
+45C131(GUARD)|stráž
+45C131(POMMEL)|pommel
+45C14|zbraně s rukojetí
+45C14|piercing
+45C14|tyčové zbraně
+45C14|bodnutí
+45C14|nápadný
+45C14(HALBERD)|halapartna
+45C14(JAVELIN)|kopí
+45C14(LANCE)|kopí
+45C14(PIKE)|kopí (zbraň)
+45C15|lukostřelec
+45C15(ARROW)|šipka
+45C15(BOW AND ARROW)|luk a šíp
+45C15(BOW)|luk (zbraň)
+45C15(CROSSBOW)|kuše
+45C16|střelné zbraně
+45C16|střelba
+45C16(CANNON)|dělo
+45C16(RIFLE)|puška
+45C161|střelivo
+45C1611|arsenál
+45C1611|skladování
+45C1612|katastrofa
+45C1612|výbuch
+45C1612|střelný prach
+45C17|výbušný
+45C17|projektil
+45C17(GUNPOWDER)|střelný prach
+45C17(MINE)|mina (zbraň)
+45C18|biologická zbraň
+45C18|chemická zbraň
+45C18|jaderná zbraň
+45C19|ochrana
+45C19(...)|plynová maska
+45C19(SHIELD)|štít
+45C2|zvyklost
+45C21|uniformní
+45C211|hlava
+45C212|mít
+45C212|personál
+45C22|brnění
+45C221|helmet
+45C222|chránič paže
+45C222|ochrana
+45C2221|rukavice (rukavice)
+45C2221|rukavice
+45C2221|ochrana rukou
+45C223|brnění
+45C224|podkolenní chránič
+45C23|tětiva
+45C231|pochva
+45C231|plášť
+45C24|kamufláž
+45C3|potraviny
+45C32|rezerva
+45C33|jídlo
+45C33|příprava
+45C34|přeprava
+45C35|kontrola
+45C36|podávání
+45C37|jídlo
+45C4|útočiště
+45C41|tábor
+45C41|stan
+45C42|kasárna
+45C421|posádka
+45C43|civilista
+45C43|host
+45C43|ubytování
+45C431|rekvizice
+45C432|zatykač
+45C433|dobrý
+45C433|přijímání osoby
+45C4331|pomoc
+45C434|špatný
+45C434|přijímání osoby
+45C4341|pomsta
+45C439|ochrana
+45C5|peníze
+45C51|placení
+45C511|pokladník
+45C52|ptát se
+45C6|táboroví přívrženci
+45C61|muž
+45C61|dodavatel
+45C62|žena
+45C621|kantýnská
+45C621|dodavatel
+45C63|Hurenwebel
+45C63|děvka
+45C7|which
+45C7|hygiena
+45C7|lékařství
+45C7|na
+45C71|mrtvola
+45C71|nemocný (the)
+45C71|přeprava
+45C71|zraněná osoba
+45C711|bojiště
+45C711|přeprava
+45C712|vozidlo
+45C72|ošetřovatelství
+45C72|nemocný (the)
+45C72|zraněná osoba
+45C721|bojiště
+45C722|bitva
+45C723|polní nemocnice
+45C723|nemocnice
+45C724|karanténa
+45C8|which
+45C81|sociální péče
+45C82|kaplan
+45C82|náboženství
+45C9|hudba
+45C91|kapela (hudba)
+45C92|signál
+45D1|vlajka
+45D1|standard
+45D11|insignie
+45D12|vlajkonoš
+45D2|divize
+45D2|síly
+45D21|armáda
+45D22|námořnictvo
+45D23|letectvo
+45D3|hodnost
+45D31|voják
+45D311|velitel
+45D311|generál
+45D311|maršál
+45D312(...)|důstojník
+45D313|jízdní voják
+45D313|husar
+45D313|vojín
+45D32|námořnictvo
+45D321|admirál
+45D321|velitel
+45D322|důstojník
+45D323|námořník
+45D33|letectvo
+45E1|komunikace
+45E2|vlak
+45E2|přeprava
+45E3|vozidlo
+45E31|vozík
+45E32(...)|tank (vozidlo)
+45E4|zvíře
+45E5|inženýrství
+45E51|most
+45E51|improvizace
+45E51|dočasný
+45E511|pontónový most
+45E512|Baileyův most
+45E52|barikáda
+45E52|překážka
+45F|příprava (bitva, válka)
+45F|na
+45F1|rada
+45F11|design
+45F12|vyjednávání
+45F2|zpravodajské služby
+45F21|pozorování
+45F21|průzkum
+45F211|vedoucí
+45F211|vězeň
+45F212|mechanické zařízení
+45F22|špion
+45F220|Stuha
+45F220|Kontrolka
+45F221|zaslechnutí
+45F221|rádio
+45F221|telefon
+45F222|zatýkání
+45F23|kontrašpionáž
+45F3|montáž
+45F3|síly
+45F3|vojsko
+45F31|mobilizace
+45F32|rekvizice
+45F33|koncentrace
+45F34|pole
+45F4|přeprava
+45F4|vojsko
+45F41|rozloučení
+45F42|pochodování
+45F43|noc
+45F5|armáda
+45F5|cestování
+45F6|adresování
+45F6|náčelník
+45F6|generál
+45F7|kaplan
+45F7|modlitba
+45F7|náboženská služba
+45F8|náročný
+45F8|nepřítel
+45F9|zrazení
+45F9|zrada
+45F90|Stuha
+45F90|Zrada
+45G|civilizace
+45G|kultura
+45G|obhajoba
+45G|vojenské záležitosti
+45G|zaměstnání
+45G|společnost
+45G|na
+45G1|komunikace
+45G1|řezání
+45G11|maják
+45G11|odstranění
+45G11|dopravní značka
+45G12|překážka
+45G121|armáda
+45G1211|silnice
+45G12111|barikáda
+45G12111|ulice
+45G1212|Caltrop je druh obranného zařízení, ostnaté kolo, které se používá k zablokování cesty.
+45G1212|past na lidi
+45G1212|hřebík (hrot)
+45G12121|jám
+45G12121|schody
+45G12122|zemní mina
+45G12122|mina (zbraň)
+45G12122|minové pole
+45G12123|ostnatý drát
+45G122|námořnictvo
+45G1221|řetěz
+45G1222|mina (zbraň)
+45G1222|minové pole
+45G123|letectvo
+45G1231|letiště
+45G1231|zničení
+45G1232|vyhledávací světlo
+45G1233|balón
+45G2|ochrana
+45G2|sebeochrana
+45G21|útočiště
+45G21|podzemní
+45H|boj
+45H|na
+45H1|útočící
+45H11|signál
+45H111|pláč
+45H111|válečný pokřik
+45H12|přepadení
+45H13|strategický trik
+45H130|Stuha
+45H130|Vojenská lest
+45H2|obhajoba
+45H21|signál
+45H22|protiofenzíva
+45H3|bitva
+45H31|bombardování
+45H32|útočící
+45H33|nastupování
+45H33|souboj
+45H331|nadřazené síly
+45H34|souboj
+45H34|substituce
+45H341|souboj
+45H342|skupina
+45H4|porážka
+45H4|útěk
+45H4|usilující
+45H4|vítězství
+45H5|porážka
+45H5|vítězství
+45H51|nadřazené síly
+45H52|zraněná osoba
+45H53|zabíjení
+45H54|hladovění
+45H54|dodávka
+45H6|partyzánská válka
+45I1|válečný zajatec
+45I11|kapitulace
+45I12|odzbrojení
+45I13|deportace
+45I14|dotazování
+45I141|vymývání mozků
+45I141|mučení
+45I15|which
+45I151|tábor
+45I16|výměna
+45I161|výkupné
+45I17|osvobozující
+45I2|rukojmí
+45I3|tisková zpráva
+45I31|kritizující
+45I4|vyjednávání
+45I4|příměří
+45I41|most
+45I41|zřícenina
+45I5|zastavení
+45I5|pozastavení
+45I51|Boží mír
+45I51|příměří
+45I52|pohřeb
+45I53|příměří
+45I530|Stuha
+45I530|Příměří
+45I6|vítěz
+45I61|triumf
+45I611|korunovace
+45I611|bobkový list
+45I612|řetězení
+45I612|vozík
+45I612|vězeň
+45I62|jízda (na koni)
+45I62|šlapání
+45I63|uchopení
+45I63|vlasy
+45I7|porážka
+45I71|před
+45I71|vítěz
+45K|pozice-válka
+45K|na
+45K1|inženýrství
+45K1|opevnění
+45K11|dočasný
+45K111|příkop
+45K112|země
+45K112|země nikoho
+45K12|stálost
+45K121|palisády
+45K122|bašta
+45K122|opora
+45K13|pevnost
+45K14|město
+45K141|městská hradba
+45K1411|machikula
+45K1412|cimbuří
+45K1412|cimbuří
+45K1413|mezeru v zákoně
+45K142|věž
+45K143|příkop
+45K1431|most
+45K1431|padací most
+45K144|městská brána
+45K1441|padací mříž
+45K2|útočící
+45K21|vítězství
+45K22|blokáda
+45K23|bombardování
+45K231|beranidlo
+45K231|Ram
+45K231|zbraň
+45K24|náhlé útoky
+45K25|přípravné práce
+45K27|městská hradba
+45K27|pevnost
+45K3|obhajoba
+45K31|město
+45K31|opevnění
+45K32|útočící
+45K33|město
+45K33|vítězství
+45K331|opevnění
+45K4|zachycení (město)
+45K5|zrušení obléhání
+45K5|vítězství
+45K51|úleva
+45K52|osvobozující
+45L|okupace (invaze)
+45L1|kapitulace
+45L11|klíč
+45L12|vstup
+45L12|pochodování
+45L13|porážka
+45L2|záznam
+45L2|pocta
+45L21|dodávající
+45L22|dělení
+45L22|kazit
+45L23|přeprava
+45L23|kazit
+45L29|bezpečný průchod
+45L3|plundering
+45L31|kazit
+45L311|trofej
+45L3111|ornament
+45L3111|panoplie
+45L3111|tropaion
+45L3111|zbraň
+45L4|město
+45L4|zničení (města)
+45L40|alegorie
+45L40|personifikace
+45L41|demolice
+45L42|zapálení
+45L43|zřícenina
+45M|civilista
+45M|nebojovníci
+45M11|bitva
+45M12|voják
+45M13|boj
+45M13|nezávislý střelec
+45M2|voják
+45M3|okupace (invaze)
+45M31|domovní prohlídka
+45M31|vyhledávání
+45M39|stoupenec
+45M39|podzemní hnutí
+45M391|sabotáž
+45M4|bombardování
+45M5|únik
+45M5|uprchlík
+45M51|cestování
+45M52|tábor
+45M52|odpočinek
+45M6|tábor
+45M6|internační tábor
+45M7|tábor
+45M7|koncentrační tábor
+46A|komunita
+46A1|sociální stratifikace
+46A1|stratifikace
+46A11|třída
+46A11|dělení
+46A111|Pozemky (tři)
+46A111|duchovenstvo
+46A111|obyčejní lidé
+46A111|šlechta
+46A111|tři
+46A12|rytířství
+46A12|třída
+46A12|rytířství
+46A12|šlechta
+46A12|patriciját
+46A121|korunovaný
+46A122(...)|erb
+46A122(...)|heraldika
+46A122(...)2|crest
+46A122(...)3|zařízení
+46A122(...)3|motto
+46A122(...)4|podnik
+46A122(...)5|banner
+46A122(...)6|tam
+46A123|herold
+46A124|rytíř
+46A1241|rytířský řád
+46A1241|objednávka
+46A1241(...)1|odznak
+46A1241(...)1|řetěz
+46A1241(...)1|insignie
+46A1241(GOLDEN FLEECE)|Zlaté rouno
+46A1241(GOLDEN FLEECE)1|odznak
+46A1241(GOLDEN FLEECE)1|řetěz
+46A1241(GOLDEN FLEECE)1|insignie
+46A1241(HOLY SPIRIT)|Duch Svatý
+46A1241(HOLY SPIRIT)1|odznak
+46A1241(HOLY SPIRIT)1|řetěz
+46A1241(HOLY SPIRIT)1|insignie
+46A1241(ST. JOHN)|Jan (sv.)
+46A1241(ST. JOHN)1|odznak
+46A1241(ST. JOHN)1|řetěz
+46A1241(ST. JOHN)1|insignie
+46A1241(TEUTONIC ORDER)|Řád německých rytířů
+46A1241(TEUTONIC ORDER)1|odznak
+46A1241(TEUTONIC ORDER)1|řetěz
+46A1241(TEUTONIC ORDER)1|insignie
+46A125|rytíř
+46A1251|stránka (služební)
+46A1252|štítonoš
+46A1252|panoš
+46A1253|obřad
+46A1253|pasování na rytíře
+46A12531|Dabing
+46A125311|girding
+46A125311|meč
+46A125312|obejmutí
+46A125312|meč
+46A12532|Dabing
+46A125321|oblečení
+46A125322|půst
+46A125322|Jeho manželka
+46A125323|požehnání
+46A125323|meč
+46A125324|brnění
+46A125324|instalace
+46A125324|investitura
+46A125324|stopa
+46A125324|meč
+46A125325|obejmutí
+46A125325|meč
+46A126|hrdina
+46A126|devět statečných (les)
+46A126|devět
+46A126|významné osobnosti
+46A1261|Joshua
+46A1262|David
+46A1263|Juda Makabejský
+46A1263|Makkabejští
+46A1264|Hector
+46A1265|Alexandr Veliký
+46A1266|Caesar (Julius)
+46A1267|Artuš (král)
+46A1268|Karel Veliký
+46A1269|Godfrey z Bouillonu
+46A127|hlad
+46A127|slavné ženy
+46A127|hrdina
+46A127|Významné osobnosti
+46A127|devět hrdinek (les)
+46A127|devět
+46A127|slavní muži
+46A127|žena
+46A13|obyčejní lidé
+46A131|buržoazie
+46A131|měšťan
+46A131|občan
+46A131|třída
+46A131|střední třída
+46A132|Kříženec ovce a kozy z Dorsetu
+46A132|nejdivočejší
+46A139|Šibal
+46A139|šašek
+46A14|zemědělec
+46A14|zemědělcova žena
+46A141|boj
+46A141|voják
+46A15|chudý (ten)
+46A151|žebrák
+46A151|protože
+46A1511|žebrácká miska
+46A1511|mísa
+46A1512|průvod
+46A152|kočovní lidé
+46A152|tulák
+46A152|bloudění
+46A153|bambochades
+46A153|hostina
+46A154|herec
+46A154|herečka
+46A154|pohrdání
+46A154|hrobník
+46A154|zaměstnání
+46A154|nečestní lidé
+46A154|děvka
+46A155|vyvrhel
+46A155|vyvrhel
+46A16|třída
+46A16|bohatství
+46A161|akvizice
+46A1611|zlatá horečka
+46A1611|poklad
+46A1612|kopání
+46A1612|nález
+46A1612|poklad
+46A162|zobrazování
+46A1621|šperky
+46A1622|rozptyl
+46A1623|kontemplace
+46A163|ochrana
+46A1631|vklad
+46A16311|pohřbívání
+46A16311|skrývání
+46A16311|kopání
+46A16311|skrývání
+46A16311|poklad
+46A1632|box (kontejner)
+46A1632|truhla (kontejner)
+46A1632|pokladnička
+46A16321|bezpečný
+46A16321|trezor
+46A1633|hlídání
+46A1633|poklad
+46A16331|stráž
+46A16332|zvíře
+46A16332|hlídací pes
+46A16333|alarm
+46A16333|zabezpečovací zařízení
+46A164|ten
+46A164|vyšší třída
+46A165|směsice prominentů
+46A166|nový boháč
+46A166|upěčenec
+46A166|nováček
+46A17|třída
+46A17|pracovník
+46A17|dělnická třída
+46A170|práce
+46A171|mistr
+46A171|služebník
+46A1711|žadatel
+46A1711|ptát se
+46A172|placení
+46A1721|odmítnutí (dárku, nabídky)
+46A1722|odmítnutí (objednávky, žádosti)
+46A173|skupina
+46A173|průvod
+46A174|domů
+46A174|vracení
+46A175|dětská práce
+46A175|práce
+46A179|nezaměstnanost
+46A1791|nezaměstnaný (the)
+46A18|otrok
+46A18|otroctví
+46A180|Stuha
+46A180|Otroctví
+46A181|obchod s otroky
+46A181|obchod
+46A182|mistr
+46A183|svoboda
+46A1831|osvobozující
+46A1832|nákup
+46A1833|pokus (úsilí)
+46A1833|únik
+46A1834|zrušení
+46A2|kontrast
+46A2|sociální kontrast
+46A21|třída
+46A21|bohatí a chudí
+46A211|dobré a špatné
+46A212|almužna
+46A212|charita
+46A212|potraviny
+46A212|dávání
+46A2120|Almužna
+46A2120|Stuha
+46A213|filantrop
+46A22|město
+46A22|země
+46A22|venkovský život
+46A22|městský život
+46A2211|měšťan
+46A2219|vylidnění
+46A2219|odliv obyvatelstva z měst
+46A2221|venkovan
+46A22219|vylidnění
+46A22219|odlidňování venkova
+46A23|před
+46A23|význam
+46A23|podřadnost
+46A23|moc
+46A23|bezmocnost
+46A23|nadřazenost
+46A23|nedůležitost
+46A231|šéf
+46A231|chráněný
+46A24|mistr
+46A24|služebník
+46A241|podávání
+46A241|dva
+46A3|veřejné blaho
+46A3|sociální péče
+46A31|sirotek
+46A31|sirotčinec
+46A311|nálezce
+46A311|nálezce-nemocnice
+46A311|nemocnice
+46A32|which
+46A32|stáří
+46A321|domů
+46A321|domov důchodců
+46A3211|chudobinec
+46A3211|dvůr
+46A33|charita
+46A4|rasa (lidská)
+46A4|vztah
+46A41|diskriminace
+46A41|segregace
+46A42|rasismus
+46A421|vzpoura
+46A422|Ku Klux Klan
+46A422|organizace
+46A49|integrace
+46A49|rasismus
+46A5|komunikace
+46A5|jazyk
+46A51|pokus (úsilí)
+46A51|porozumění
+46A511|nedorozumění
+46A52|tlumočník
+46A53|překladatel
+46A54|hluchoněmý
+46A541|čtení ze rtů
+46A541|čtení
+46A542|znaková řeč
+46A55|umělý jazyk
+46A551|Naděje
+46A6|adresářová deska
+46A6|organizace
+46A61|rada (výbor)
+46A61|guvernér
+46A61|správce
+46A611|předseda
+46A612|sekretářka
+46A613|pokladník
+46A614|členství
+46A62|členství
+46A6211|hlasování
+46A6212|zasvěcení
+46A629|vyhoštění
+46A629|zastavení
+46A629|pozastavení
+46A63|montáž
+46A632|adresování
+46A633|diskutovat
+46A633|sporný
+46A634|ptát se
+46A634|přerušení
+46A635|hlasování
+46A636|chaos
+46A636|porucha
+46A638|shromažďovací místnost
+46A638|pokoj
+46A7|dav
+46A71|kontrast
+46A71|individualita
+46A8|bydlení
+46A8|život
+46A81|migrace
+46A81|bloudění
+46A81(GIPSIES)|Cikán
+46A81(GIPSIES)|Cikán
+46A81(NOMADS)|kočovník
+46A811|stan
+46A812|obytný vůz
+46A813|loď
+46A82|ideální komunita
+46A82|příroda
+46A82|vracení
+46A821(...)|skupina
+46A8211|sdílení
+46A822|naturista
+46A823|nudista
+46A83|osamělost
+46A831|Robinsonade
+46A831|ostrov
+46A831|neobydlený ostrov
+46A84|život na hranici
+46A84|průkopnický
+46A841|Divoký západ
+46A841|západ
+46A85|dobrodruh
+46A9|primitivní člověk
+46A91|matriarchát
+46A92|patriarch
+46A93|klan
+46A93|kmen
+46AA126|ženská hlavní postava
+46AA1261|Ester
+46AA1261|Joshua
+46AA1262|David
+46AA1262|Judith
+46AA1263|Jael
+46AA1263|Juda Makabejský
+46AA1263|Makkabejští
+46AA1264|Hector
+46AA1264|Lucretia
+46AA1265|Alexandr Veliký
+46AA1265|Lokomotiva
+46AA1266|Caesar (Julius)
+46AA1266|Virginie
+46AA1267|Artuš (král)
+46AA1267|Helena (sv.)
+46AA1268|Bridget (sv.)
+46AA1268|Karel Veliký
+46AA1269|Alžběta Uherská (sv.)
+46AA1269|Godfrey z Bouillonu
+46AA170|práce
+46AA171|mistr
+46AA171|služebník
+46AA1711|žadatel
+46AA1711|ptát se
+46AA172|placení
+46AA173|skupina
+46AA173|průvod
+46AA174|domů
+46AA174|vracení
+46AA175|dětská práce
+46AA175|práce
+46AA179|nezaměstnanost
+46AA241|podávání
+46AA241|dva
+46AA611|předseda
+46AA612|sekretářka
+46AA613|pokladník
+46AA614|členství
+46AA632|adresování
+46AA633|diskutovat
+46AA633|sporný
+46AA634|ptát se
+46AA634|přerušení
+46AA635|hlasování
+46AA636|chaos
+46AA636|porucha
+46AA638|shromažďovací místnost
+46AA638|pokoj
+46B|podnikání
+46B|ekonomika
+46B|finance
+46B|zaměstnání
+46B|obchod
+46B0|Obchodování s lidským životem
+46B0|Stuha
+46B0|alegorie
+46B1|nákup
+46B1|budova
+46B1|prodej
+46B11|trh
+46B111|stánek
+46B111|stabilní
+46B112|sál
+46B112|tržnice
+46B12|tanec
+46B12|spravedlivý
+46B12|zemědělec
+46B12|vesnice
+46B13|obchod
+46B131|obchodní dům
+46B131|obchodní dům
+46B132|výkladní skříň
+46B132|zobrazování
+46B133|pult
+46B14|vážní dům
+46B15|velkoobchodní dům
+46B16|aukce
+46B17|Burza
+46B17|výměna
+46B18|výstava
+46B18|spravedlivý
+46B18|průmysl
+46B18|obchodní výstava
+46B181|svět
+46B181|světová výstava
+46B19|spravedlivý
+46B19|fantazijní veletrh
+46B2|člověk
+46B21|obchodník
+46B22|obchodník
+46B22|bloudění
+46B221|pouliční obchodník
+46B221(...)|nosič vody
+46B2211|Londýn
+46B2211|Paříž (město)
+46B2211|výkřiky Londýna
+46B2211|křik Paříže
+46B2211|pláč
+46B222|pedály
+46B23|obchodník
+46B23|cestovatel
+46B24|obchodník
+46B241|úředník
+46B241|obchodník
+46B25|trh
+46B26|trh
+46B26|vracení
+46B27|zákazník
+46B271|spokojenost
+46B272|stěžování si
+46B31|peníze
+46B310|Peníze
+46B310|Stuha
+46B311|mince
+46B3111|značka
+46B312|bankovka
+46B312|papír
+46B313|Existuje
+46B313|skořápka
+46B314|účet
+46B314|šek
+46B314|návrh
+46B314|výměna
+46B3140|Změna
+46B3140|Stuha
+46B3140|Wissel
+46B3140|alegorie
+46B32|správa
+46B321|účetní
+46B321|vedení účetnictví
+46B3211|sčítání
+46B322|kancelář
+46B33|vážení
+46B331|instrument
+46B3311|rovnováha
+46B3311|váhy
+46B3312|hmotnost
+46B332|zlato
+46B332|peníze
+46B34|kubické měření
+46B34|měření
+46B341|kontejner
+46B341|kubická míra
+46B341|instrument
+46B35|reklama
+46B351|pláč
+46B352|leták
+46B3521|brožura
+46B353|záznamy
+46B3531|billboard
+46B3531|deska
+46B3532|pilíř
+46B3532|plakátový sloup
+46B3533|sandwich-man
+46B354|deska
+46B354|vývěsní štít
+46B355|karta
+46B355|pole
+46B355|značka
+46B356|reklama
+46B356|oznámení
+46B4|vyjednávání
+46B411|nákup
+46B412|prodej
+46B413|směnný obchod
+46B414|najímání
+46B414|leasing
+46B42|kontrola
+46B42|zboží
+46B43|vyjednávání
+46B44|placení
+46B451|debet
+46B451|dluh
+46B4510|Dluh
+46B4510|Stuha
+46B4511|Dlužím ti
+46B4511|dluhopis
+46B4511|dokument
+46B452|úvěr
+46B4520|Úvěr
+46B4520|Stuha
+46B46|kupní smlouva
+46B46|dokument
+46B46|prodej
+46B471|zisk
+46B4711|zájmy
+46B472|ztráta
+46B48|spekulace
+46B48|burzovní spekulace
+46B481|strom
+46B491|import
+46B492|export
+46B493|expedice
+46B494|společnost
+46B494|obchodní společnost
+46B4941|obchodní loďstvo
+46B4941|námořní obchod
+46B5|organizace
+46B51|peníze
+46B511|měnící se
+46B511|směnárna
+46B512|půjčování
+46B512|lichvář
+46B5120|Stuha
+46B5120|Lichva
+46B5120|lichva
+46B513|Lombard
+46B513|zastavárna
+46B52|výměna
+46B52|trh
+46B52|burza cenných papírů
+46B521|hlášení
+46B53|banka
+46B531|banky
+46B54|kolo
+46B55|pojištění
+46B551|agent
+46B551|pojišťovací agent
+46B56|podnikatel
+46B561|cech
+46B561|obchodník
+46B562|obchodní komora
+46B57|plakát
+46B57|monopol
+46B57|kartel
+46B6|dumping
+46B61|výprodej
+46B61|prodej
+46B7|špion
+46B8|bojkot
+46B9|výsledek
+46B91|podvodnost
+46B910|Špatný nákup
+46B910|Stuha
+46B911|úplatkářství
+46B92|bankrot
+46B921|procesní server
+46B93|deprese
+46B93|šance
+46B931|panika
+46B932|inflace
+46BB221|pouliční obchodník
+46BB221(...)|nosič vody
+46BB222|pedály
+46BB241|úředník
+46BB241|obchodník
+46BB271|spokojenost
+46BB272|stěžování si
+46C|doprava
+46C|přeprava
+46C1|země
+46C11|cesta
+46C11|silnice
+46C111|brod
+46C1111|překračování řeky
+46C1112|přeprava
+46C1113|odrazový můstek
+46C1113|kámen
+46C112|most
+46C1121|stavba
+46C11211|visutý most
+46C11212|konzolový most
+46C11213|výkyvný most
+46C11213|padací most
+46C1122|tvar
+46C11221|krytý most
+46C11221|budova
+46C113|viadukt
+46C114|tunel
+46C114|podzemní
+46C115|regulace dopravy
+46C1151|značka
+46C1151|dopravní značka
+46C1152|strážník
+46C1152|bodová povinnost
+46C1153|lampa
+46C1153|semafor
+46C1159|překážka
+46C1159|dopravní zácpa
+46C116|křižovatka
+46C1160|alegorie
+46C1160|symbol
+46C1161|směrovka
+46C1162|milník
+46C1162|kámen
+46C117|kříž
+46C117|mont-joie
+46C117|silniční přechod
+46C1181|schodiště
+46C12|síla
+46C121|přeprava
+46C1211|taška
+46C1211|košík
+46C1211|batoh
+46C1212|dojička
+46C1212|jho
+46C1213|nosná tyč
+46C1214|ruční vozík
+46C1215|nesení na ramenou
+46C1215|hlava
+46C122|kolečko
+46C123|kart
+46C123|ruční vozík
+46C124|rikša
+46C125|jízdní kolo
+46C1252|tříkolka
+46C1252|tříkolka
+46C12521|tříkolka s nosičem
+46C1253|jednokolka
+46C1254|konečně
+46C1258|část
+46C1261|zeptal se
+46C127|přeprava
+46C1271|nošení na zádech
+46C1272|pivo
+46C1273|židle
+46C1273|od předsedy
+46C128|pracovní síla
+46C128|tažení
+46C128|tlačení
+46C128|vozidlo
+46C13|zvíře
+46C13|kopytník
+46C13|tažné zvíře
+46C131|jízda (na koni)
+46C1311|kolotoč
+46C1311|jízdárna
+46C1311|škola
+46C13111|jízda na koni na střední škole
+46C13111|jízda
+46C13112|kolotoč
+46C1312|jezdecký
+46C1312|portrét
+46C1312|státní portrét
+46C1313|Balthazar Charles
+46C1313|Jezdec z Bambergu
+46C1313|Karel Veliký
+46C1313|Karel I.
+46C1313|Charles V
+46C1313|Colleoni
+46C1313|Konstantin Veliký (sv.)
+46C1313|Curtius (Marcus)
+46C1313|Ferdinand II.
+46C1313|Fridrich Veliký
+46C1313|Gattamelata
+46C1313|Ludvík XIV.
+46C1313|Ludvík XV.
+46C1313|magdeburský jezdec
+46C1313|Marcus Aurelius (císař)
+46C1313|Maximilian (císař)
+46C1313|Napoleon
+46C1313|Petr Veliký
+46C1313|Filip IV.
+46C1313|Rudolf II.
+46C1313|Stanislas Kostka Potocki
+46C1313|Theodoric
+46C1313|Wellington (vévoda z)
+46C1313|císař
+46C1313|jezdecký
+46C1313|v králi
+46C1313|socha
+46C13141|kůň
+46C131411|boj (zvíře)
+46C13142|je
+46C13142|osel
+46C13143|mezka
+46C13144|Ne, vůbec ne.
+46C1315|chov
+46C1315|chov skotu
+46C1315|farma
+46C1315|hřebčín
+46C1316|uzda
+46C1316|sedlání
+46C13161|sedlářství
+46C131611|hlavový postroj
+46C131612|bit
+46C131613|ledviny
+46C131614|sedlo
+46C1316141|Jak se vede?
+46C131615|střemínek
+46C131616|ukazatele
+46C131617|přikrývka
+46C131617|koňská deka
+46C1317|péče o vzhled
+46C13171|ženich
+46C13172|hřeben
+46C13172|hřeben na kartáčování
+46C1318|kůň
+46C1318|pohyb
+46C13181|chůze
+46C13182|klusání
+46C13183|cválání
+46C13184|skákání
+46C13185|chov
+46C13186|kopání
+46C13187|vedoucí
+46C13187|ledviny
+46C1319|nehoda
+46C1319|kůň
+46C13191|utahování šroubů
+46C13192|padající
+46C13192|jízda
+46C13192|házení
+46C13193|útočící
+46C13193|divoké zvíře
+46C132|jízda
+46C14|zvíře
+46C14|řízení
+46C14|tažení
+46C14|vozidlo
+46C141|využití
+46C141|zapřahání
+46C1411|postroj
+46C14111|jho
+46C1413|odpoutání
+46C142|vozík
+46C142|maso
+46C14241|čtyřspřeží
+46C143|tříkolka
+46C144|kabina
+46C144|doprava
+46C145|kart
+46C145|zemědělský vůz
+46C145|nákladní vůz
+46C145|doprava
+46C1451|kryté vozy
+46C1451|kombi s kapotou
+46C146|napomínající
+46C1461|dřevo
+46C1461|tečka
+46C1462|stopa
+46C1463|bič
+46C147|diligence (kočár)
+46C147|koňská tramvaj
+46C147|všem
+46C147|tramvaj
+46C148|sáňky
+46C148|toeslede
+46C149|nehoda
+46C1491|utahování šroubů
+46C1492|vozík
+46C1492|maso
+46C149241|čtyřspřeží
+46C1493|tříkolka
+46C1494|kabina
+46C1494|doprava
+46C1495|kart
+46C1495|zemědělský vůz
+46C1495|nákladní vůz
+46C1495|doprava
+46C1496|napomínající
+46C14961|dřevo
+46C14961|tečka
+46C14962|stopa
+46C14963|bič
+46C1497|diligence (kočár)
+46C1497|koňská tramvaj
+46C1497|všem
+46C1497|tramvaj
+46C1498|sáňky
+46C1498|toeslede
+46C15|železnice
+46C15|vlak
+46C151|kolejnice
+46C151|stopa
+46C15111|nákladní vlak
+46C15112|osobní vlak
+46C1512|tramvaj
+46C15121|tramvaj
+46C1513|zubová železnice
+46C152|lokomotiva
+46C1521|parní lokomotiva
+46C1522|dieselová lokomotiva
+46C1523|elektrická lokomotiva
+46C153|doprava
+46C153|železniční vůz
+46C153|doprava
+46C1531|osobní vůz
+46C1532|nákladní vůz
+46C1532|železniční vůz
+46C154|signální systém
+46C1541|signální skříň
+46C1541|signální stanice
+46C1542|přechod
+46C1542|železniční přejezd
+46C1543|přechod
+46C1543|železniční přejezd
+46C1544|signál
+46C155|útočiště
+46C155|stanice
+46C1551|platforma
+46C1552|čekárna
+46C15591|sklad
+46C156|metro
+46C156|podzemní
+46C1561|stanice
+46C157|jednokolejka
+46C158|visutá železnice
+46C1581|lanovka
+46C159|nehoda
+46C159|železniční nehoda
+46C1591|zubová železnice
+46C1591|kolejnice
+46C1591|stopa
+46C1591|tramvaj
+46C1592|lokomotiva
+46C1593|doprava
+46C1594|signální systém
+46C15941|signální skříň
+46C15941|signální stanice
+46C15942|přechod
+46C15942|železniční přejezd
+46C15943|přechod
+46C15943|železniční přejezd
+46C1595|útočiště
+46C1595|stanice
+46C1596|metro
+46C1596|podzemní
+46C15961|stanice
+46C1597|jednokolejka
+46C1598|visutá železnice
+46C15981|lanovka
+46C16|řízení
+46C16|motorové vozidlo
+46C16|cesta
+46C16|silnice
+46C161|automobil
+46C161|protože
+46C1611|tříkolka
+46C162|bude
+46C162|doprava
+46C163|automobil
+46C163|nákladní automobil
+46C164|obojživelné vozidlo
+46C165|moped
+46C165|motocykl
+46C165|skútr
+46C1661|traktor
+46C167|část
+46C168|údržba
+46C1681|čerpací stanice
+46C1681|čerpací stanice
+46C1681|čerpací stanice
+46C16811|benzín
+46C16811|čerpací stanice
+46C16811|čerpadlo
+46C16812|garáž
+46C16812|oprava
+46C16812|náhradní díly
+46C16812|dodávka
+46C16813|myčka aut
+46C16813|mytí (aut)
+46C1682|parkování
+46C16821|parkoviště
+46C16821|parkovací místo
+46C16822|garáž
+46C16822|vícepodlažní parkoviště
+46C16822|parkovací garáž
+46C16823|metr
+46C16823|parkovací automat
+46C168231|Rita
+46C168231|mořská panna
+46C168231|parkovací obsluha
+46C168231|dopravní strážník
+46C169|nehoda
+46C1691|automobil
+46C16911|tříkolka
+46C1692|bude
+46C1693|automobil
+46C1693|nákladní automobil
+46C1694|obojživelné vozidlo
+46C1695|moped
+46C1695|motocykl
+46C1695|skútr
+46C17|plachtící auto
+46C18|led
+46C18|sníh
+46C181|sáňky
+46C181|sáně
+46C1811|koňské saně
+46C1812|psí spřežení
+46C1813|sobí sáně
+46C1814|tečky
+46C1814|tyč
+46C182|bota
+46C182|sněžnice
+46C183|loď
+46C189|nehoda
+46C19|kolo
+46C191|rozbočovač
+46C191|loď
+46C1911|kuličkové ložisko
+46C192|mluvil
+46C193|jejich
+46C1931|Trubka
+46C1939|stopa
+46C199|stopa
+46C2|námořní malba
+46C2|vody
+46C20|Navigace
+46C20|Stuha
+46C20|navigace
+46C21|loď
+46C211|stavba lodí
+46C212|klouzání
+46C212|těsnění
+46C212|oprava
+46C2121|nicméně
+46C2121|suchý dok
+46C2121|plovoucí dok
+46C213|model
+46C2131|láhev
+46C214|portrét
+46C215|vnější
+46C215(...)|stěžeň
+46C215(ANCHOR)|kotva
+46C215(ANCHOR)|naviják
+46C215(ANCHOR)|naviják
+46C215(BOW)|příď (příď)
+46C215(BOW)|naviják
+46C215(BOW)|naviják
+46C215(FIGURE-HEAD)|naviják
+46C215(FIGURE-HEAD)|figurální hlava
+46C215(FIGURE-HEAD)|naviják
+46C215(MAST)|naviják
+46C215(MAST)|naviják
+46C215(RUDDER)|naviják
+46C215(RUDDER)|kormidlo
+46C215(RUDDER)|naviják
+46C215(WINDLASS)|naviják
+46C216|vnitřní
+46C216(...)|most (lodi)
+46C216(...)|kabina
+46C216(...)|strojovna
+46C216(...)|ohňostroje
+46C219|plovoucí
+46C22|přístav
+46C22|loď
+46C222|kotviště
+46C2231|pier
+46C2231|otočka
+46C2231|přístaviště
+46C2232|sloupek
+46C2232|bóje
+46C2232|kotevní bóje
+46C2233|gangboard
+46C2233|lávka
+46C2234|stroj
+46C22341|jeřáb (stroj)
+46C2235|budova
+46C2235|sklad
+46C2236|loděnice
+46C2236|přístřešek
+46C2237|břeh
+46C23|loď
+46C23|pohon
+46C231|člun
+46C231|pracovní síla
+46C231|odtahování
+46C232|kánoe
+46C232|pracovní síla
+46C232|veslice
+46C2321|tlačení
+46C2321|veslování
+46C2322|tažení
+46C2322|veslování
+46C23221|kuchyně
+46C2323|vědět
+46C2323|veslování
+46C23231|gondola
+46C2324|kanoistika
+46C2325|ne
+46C2325|průzkum
+46C2325|vsadit na
+46C233|zvíře
+46C233|tažení
+46C233|mořská příšera
+46C24|plachetnice
+46C24|jachta
+46C24(...)|kora (loď)
+46C24(...)|boyer
+46C24(...)|vrchol
+46C24(...)|zub
+46C24(...)|škuner
+46C241|vybavení
+46C2411(...)|kladka
+46C2411(...)|lano
+46C2411(...)|list
+46C24111|oddělení
+46C24112|žebřík
+46C24112|lano
+46C24112|lanový žebřík
+46C25|motorová loď
+46C25|parník
+46C251|kolesový parník
+46C251|kolo
+46C252|ponorka
+46C253|krásný
+46C253|potápěčský zvon
+46C254|ledoborec
+46C255|tažení
+46C255|tlačný remorkér
+46C255|tlačení
+46C255|táhnout
+46C256|nákladní loď
+46C256|zatížení
+46C2561|člun
+46C2561|motorový člun
+46C257|liner
+46C257|osobní loď
+46C26|plachetnice
+46C26|parník
+46C261|motorová plachetnice
+46C271|posádka
+46C271|námořník
+46C2711(...)|kapitán
+46C2711(...)|první důstojník
+46C2711(...)|kamarád
+46C2711(...)|kormidelník
+46C2712|disciplína
+46C2712|trest
+46C2713|odchod
+46C2713|svobodný člověk
+46C2713|rekreace
+46C2713|pobyt na pevnině
+46C2719|vzpoura
+46C2719|vzpoura
+46C272|cestující
+46C273|oslav
+46C2731|Neptun
+46C2731|rovník
+46C279|tajnost
+46C279|černý pasažér
+46C28|manévr
+46C28|navigace
+46C280|Navigace
+46C280|Stuha
+46C281|signál
+46C2811|bouřkový signál
+46C282|kompas
+46C282|instrument
+46C282|umístění
+46C282|měření
+46C282|námořní přístroj
+46C2821|nebesa
+46C2821|hvězda
+46C2821|oni
+46C2822|octant
+46C2822|čtvrtina
+46C2822|sextant
+46C2823|astroláb
+46C283|maják
+46C2831|maják
+46C2831|světelná loď
+46C2832|krásný
+46C2832|zvonová bóje
+46C2832|bóje
+46C2832|pískání
+46C2832|píšťalová bóje
+46C2833|bóje
+46C2833|světlo
+46C2833|světelná bóje
+46C284|prozkoumání
+46C284|měření
+46C284|znějící
+46C285|námořník
+46C2851|most (lodi)
+46C2852|kormidelník
+46C2853|pilotní loď
+46C2854|vraní hnízdo
+46C2854|sledování
+46C286|Existuje
+46C286|zvyšování
+46C2861|přejezd
+46C2861|pojízdný most
+46C2862|velbloud
+46C2862|lodní velbloud
+46C289|duchová loď
+46C2891|Létající Holanďan
+46C29|nehoda
+46C29|smrt
+46C29|nemoc
+46C291|trosky lodi
+46C292|trosečník
+46C292|utopení
+46C2921|loď
+46C2921|záchranný člun
+46C2922|plovák
+46C2922|vor
+46C2923|padající
+46C2923|přes palubu
+46C29231|hodit (být hozen)
+46C293|pobřežní stráž
+46C293|záchranná služba
+46C293|služba
+46C2931|utopení
+46C2931|záchrana
+46C2932|bóje
+46C2932|záchranný kruh
+46C2932|záchranný pás
+46C294|trosky lodi
+46C294|břeh
+46C294|vrak
+46C2941|záchrana
+46C295|lákání
+46C295|trosky lodi
+46C2951|plážový sběratel
+46C2951|vrak
+46C296|mořská nemoc
+46C297|pohřeb
+46C297|ať
+46C298|poškození
+46C3|vzduch (v)
+46C3|letectví
+46C3|létání
+46C31|zvíře
+46C31|pták
+46C32|koberce
+46C33|pracovní síla
+46C34|balón
+46C35|vzducholoď
+46C35|zeppelin
+46C36|letadlo
+46C3611|část
+46C3621|posádka
+46C3621|personál
+46C36211|letová posádka
+46C362111|pilot
+46C36212|palubní personál
+46C36212|letuška
+46C362121|průvodčí
+46C362121|správce
+46C362121|letuška
+46C36213|pozemní personál
+46C3622|cestující
+46C371|vrtulník
+46C372|inkaso
+46C373|vznášedlo
+46C38|letiště
+46C38|letiště
+46C381|budova
+46C3811|řídicí věž
+46C3811|věž
+46C3812|hangár
+46C39|nehoda
+46C39|letecká havárie
+46C39|katastrofa
+46C4|kosmonautika
+46C4|planeta
+46C4|prostor
+46C4|cestování
+46C41|raketa
+46C42|kapsle
+46C42|kyvadlová doprava
+46C42|kosmická loď
+46C42|vesmírná stanice
+46C43|Astronaut
+46C43|kosmonaut
+46C49|Neidentifikovaný létající objekt
+46C49|létající talíř
+46C491|ET
+46C491|mimozemšťan
+46C491|mimozemský
+46C491|člověk
+46C491|monstrum
+46C5|cestování
+46C511|příprava
+46C512|odjíždějící
+46C5121|rozloučení
+46C5121|mávání
+46C513|cestovatel
+46C5131|ptát se
+46C5132|mapa
+46C5133|stopování
+46C5134|okrádání
+46C5135|venku
+46C5135|odpočinek
+46C5136|nositel
+46C5136|přeprava
+46C5136|nosit
+46C5136|šerpa
+46C514|příjezd
+46C514|vracení
+46C5141|vítání
+46C519|ztratit se
+46C519|ztratit se
+46C519|vyhledávání
+46C52|hotel
+46C52|v
+46C521|psací stůl
+46C521|recepce
+46C522|hotelový pokoj
+46C522|pokoj
+46C53|migrace
+46C54|cestovní ruch
+46C541|výlet
+46C541|výlet za zábavou
+46C541|výlet
+46C542|kulturní prohlídka
+46C542|věž
+46C5421|prohlídka památek
+46C54211|velká prohlídka
+46C5422|organizovaná prohlídka
+46C54221|vedoucí
+46C5423|kniha
+46C5423|průvodce
+46C543|plavba
+46C543|věž
+46C543|světové turné
+46C55|zavazadla
+46C55|pytel
+46C551|truhla (kontejner)
+46C551|kufr
+46C551|kufr (kontejner)
+46C552|batoh
+46C552|batoh
+46C56|vzpomínka
+46C57|přístup do jiného světa
+46C57|fikce
+46C57|cesta
+46CC215(...)|naviják
+46CC215(...)|naviják
+46D|žurnalistika
+46D1|křičet
+46D1|novinky
+46D1|křik
+46D1|městský vyvolávač
+46D2|distribuce
+46D2|brožura
+46D3|noviny
+46D3|papír
+46D31|stánek
+46D31|kiosek
+46D31|prodej
+46D32|novinový chlapec
+46D33|dodávka
+46D4|časopis
+46D4|měsíční
+46D4|týdenní
+46D41|kachna
+46D41|senzacechtivý tisk
+46D5|tiskaři
+46D51|rada (výbor)
+46D51|redakční rada
+46D52|novinář
+46D52|reportér
+46D53|fotograf
+46D54|rozhovor
+46E1|posel
+46E11|box (kontejner)
+46E12|odznak
+46E13|dispečerská služba
+46E13|estafety
+46E13|služba přeposílání
+46E2|po
+46E21|pošta
+46E211|pošťák
+46E212|doprava
+46E212|poštovní kočár
+46E2121|fáze
+46E213|poštovní schránka
+46E213|poštovní schránka
+46E221|obálka
+46E221|dopis (epistola)
+46E222|karta
+46E222|pohlednice
+46E222|pohlednice
+46E223|balíček
+46E223|balík
+46E224|telegram
+46E225|razítko
+46E231|balení
+46E231|odesílání
+46E232|dodávka
+46E232|pošťák
+46E232|příjem
+46E2321|dobrý
+46E2321|posel
+46E2321|novinky
+46E2322|špatný
+46E2322|posel
+46E2322|novinky
+46E3|zvíře
+46E3|posel
+46E31|nicméně
+46E32|kam
+46E4|signál
+46E41|vlajka
+46E411|stěžeň
+46E42|semafor
+46E43|čtyři
+46E43|světlo
+46E43|kouř
+46E43(...)|lampa
+46E43(ROCKET)|raketa
+46E5|akustika
+46E5|signál
+46E52|instrument
+46E521|krásný
+46E522|reproduktor
+46E522|mluvící trubka
+46E523|chrastítko
+46E524|siréna
+46E525|pískání
+46E6|komunikace
+46E6|elektrické zařízení
+46E6|elektřina
+46E6|elektronická komunikace
+46E6|telekomunikace
+46E61|nikdy
+46E61|telegraf
+46E610|alegorie
+46E611|telex
+46E612|ne
+46E612|telegrafní sloup
+46E612|telefonní sloup
+46E62|telefon
+46E621|stánek
+46E621|telefonní budka
+46E621|kiosek
+46E621|veřejný telefon
+46E621|telefonní budka
+46E622|vybavení
+46E6221|fax
+46E6222|mobilní telefon
+46E6222|mobilní telefon
+46E6223|záznamník
+46E63|vysílání
+46E63|rádio
+46E631|radiotelegraf
+46E631|walkie-talkie
+46E632|Rozhlasové vysílací studio
+46E632|studio
+46E64|vysílání
+46E64|televize
+46E64|televizní vysílání
+46E641|anténa
+46E641|anténa
+46E641|satelitní anténa
+46E6411|televizní věž
+46E6411|anténní věž
+46E6411|rozhlasový stožár
+46E6411|telekomunikační věž
+46E6411|televizní věž
+46E6411|věž
+46E642|studio
+46E642|televizní vysílací studio
+46E65|gramofon
+46E65|fonograf
+46E65|gramofon
+46E651|kompaktní disk
+46E651|disk
+46E651|gramofonová deska
+46E652|audio zařízení
+46E652|vybavení
+46E652|video zařízení
+46E6521|audio přehrávač
+46E6521|přehrávač médií
+46E6521|video přehrávač
+46E653|doplňky
+46E653|audio příslušenství
+46E653|mediální příslušenství
+46E653|video příslušenství
+46E65311|zesílit
+46E65312|reproduktor
+46E653121|sluchátka
+46E6532|video přehrávač
+46E65321|monitor
+46E65321|obrazovka (monitor)
+46E66|záznamník
+46E66|nahrávání
+46E66|magnetofon
+46E66|videorekordér
+46E661|kazety
+46E661|kotouč
+46E661|silnice
+46E662|doplňky
+46E662|vybavení
+46E662|nahrávací zařízení
+46E6621|mikrofon
+46E663|nahrávací studio
+46E663|studio
+46E67|vybavení
+46E67|struktura
+46E671|síť
+46E671|telekomunikační síť
+46E6711|počítačová síť
+46E67111|internet
+46E672|komunikační družice
+46E672|satelit
+46E673|modem
+46E7|umístění
+46E71|akustika
+46E71|echo
+46E72|optika
+46E73|elektřina
+46E731|radar
+46E81|Marforio
+46E81|Socha posměšné postavy
+46E81|mluvící socha
+46E81|socha
+47|řemeslo
+47|průmysl
+47|zaměstnání
+470|Zemědělství
+470|Výztužné tyče
+470|Mechanické umění
+470|Práce s vlnou
+470|Medicína
+470|Navigace
+470|Divadelní
+470|Lov
+470|zemědělství
+470|zbrojíř
+470|oděvní průmysl
+470|lov
+470|lékařství
+470|navigace
+470|sedm
+470|divadlo
+47A|budova
+47A1|vnější
+47A1|továrna
+47A11|dílna
+47A121|komín
+47A121|komín
+47A121|stoh
+47A122|vysoká pec
+47A122|pec
+47A13|venku
+47A2|vnitřní
+47A21|dílna
+47A211|lavička
+47A211|stůl
+47A211|pracovní stůl
+47A212|čtyři
+47A212|kovárna
+47A212|pec
+47A212|výše
+47A22|továrna
+47A22|stroj
+47A221|montážní linka
+47A23|laboratoř
+47A23|výzkum
+47B1|řemeslník
+47B1|ruční práce
+47B1|pracovník
+47B11|kov
+47B111|kovář
+47B111|kovárna
+47B1111|kovář
+47B11111|podkova
+47B1112|zbrojíř
+47B1113|zámkař
+47B112|mosazník
+47B112|mědikovec
+47B113|cínáři
+47B113|plechář
+47B114|zvoník
+47B115|mince
+47B115|máta
+47B12|klenotník
+47B12|drahokam
+47B121|lapidární
+47B122|řezání
+47B122|řezák na diamanty
+47B122|leštění
+47B13|kámen
+47B131|řezání
+47B131|sawyer
+47B131|kameník
+47B131|kamenný řezbář
+47B132|rozbíjení
+47B132|drtič kamenů
+47B14|křída
+47B14|hlína
+47B14|písek
+47B141|cihla
+47B141|cihelna
+47B142|pec
+47B142|vápno
+47B15|sklo
+47B151|sklář
+47B152|zrcadlár
+47B153|optik
+47B153|představení
+47B154|broušení
+47B154|bruska na čočky
+47B16|rostlinný materiál
+47B161|dřevo
+47B161|dřevo
+47B1611|tesař
+47B1612|sawyer
+47B1613|gymnastka
+47B1614|řezbářství
+47B1614|řezbář
+47B171|kůže
+47B1711|kolejnice
+47B1712|koželuh
+47B1713|moudrý
+47B1713|kožešník
+47B181|potraviny
+47B1811|pekař
+47B18111|foukání
+47B18111|roh
+47B1812|cukrář
+47B1812|sladkosti
+47B1813|kuchař
+47B1813|cukrář
+47B1814|řezník
+47B182|nápoj
+47B1821|vaření piva
+47B1822|destilace
+47B1822|gin-destilérka
+47B183|stimulující
+47B191|údržba
+47B191|oprava
+47B192|mlynář
+47B21|kov
+47B211|železo
+47B211|steel
+47B2111|těžký průmysl
+47B212|inženýrství
+47B212|přeprava
+47B22|kámen
+47B23|křída
+47B23|hlína
+47B23|písek
+47B231|cihla
+47B231|cihelna
+47B232|vápno
+47B233|cementárna
+47B234|keramika
+47B235|sklo
+47B24|rostlinný materiál
+47B241|dřevo
+47B2411|mlýn
+47B2411|pila
+47B25|živočišný materiál
+47B251|kůže
+47B26|nápoj
+47B26|potraviny
+47B26|stimulující
+47B27|chemický průmysl
+47B28|elektronický průmysl
+47C|zpracování
+47C12|příprava
+47C121|vaření
+47C121|teplo
+47C121|vaření v páře
+47C1211|tání
+47C122|chlazení
+47C123|hydratační
+47C123|voda
+47C124|sušení
+47C125|dodávka
+47C13|čištění
+47C131|bělení
+47C132|písek
+47C14|výběr
+47C14|třídění
+47C141|promítání
+47C141|prosévání
+47C142|foukání
+47C149|odmítnout
+47C149|odmítnutí
+47C1491|sbírání
+47C2|vytlačování
+47C2|odstranění
+47C21|kopání
+47C211|bagrování
+47C22|hromadění
+47C23|šíření
+47C24|posun
+47C24|přeprava
+47C241|dopravní pás
+47C241|horizontální doprava
+47C242|zvedání
+47C242|vertikální doprava
+47C2431|tlačení
+47C2432|tažení
+47C2433|válcování
+47C2434|házení
+47C3|dělení
+47C31|řezání
+47C311|sekání
+47C312|rozdělení
+47C32|stříhání
+47C32|boxování
+47C32|razítkování
+47C33|řezání
+47C34|odlupování
+47C34|sekání
+47C35|otěr
+47C35|podání
+47C35|plánu
+47C35|škrábání
+47C36|sekání
+47C37|broušení
+47C38|drcení
+47C4|spojující
+47C41|uchopení
+47C42|vazba
+47C42|vázání (svazování)
+47C421|uzel
+47C429|rozplétání
+47C429|rozvazování
+47C4291|uzel
+47C43|připojení
+47C432|hřebík
+47C4321|hmoždýnky
+47C4321|nitování
+47C433|šroubování
+47C4331|obchod
+47C4331|matice (šroubovací)
+47C434|zapínání
+47C435|lepení
+47C436|pájení
+47C437|svařování
+47C51|vyrovnání
+47C51|vyhlazení
+47C511|leštění
+47C512|leštění
+47C52|konsolidace
+47C521|lisování
+47C53|válcování
+47C55|broušení
+47C55|ostření
+47C56|otupení
+47C57|ztuhnutí
+47C59|zdrsnění
+47C6|tvarování
+47C61|míchání
+47C611|lévání
+47C6112|vyprázdnění
+47C62|tvarování
+47C621|plíseň
+47C622|tažení
+47C63|odlévání
+47C7|tvar
+47C71|ohýbání
+47C72|skládání
+47C73|tvarování
+47C731|kování
+47C732|Reliéfní tisk
+47C8|Jít
+47C8|vrtání
+47C8|piercing
+47D1|motor
+47D1|stroj
+47D1|výroba
+47D2|zvíře
+47D2|pracovník
+47D2|stroj
+47D2|pracovní síla
+47D21|ruční mlýn
+47D21|mlýn
+47D22|mlýn
+47D22|běžecký pás
+47D3|stroj
+47D3|vítr
+47D31|mlýn
+47D31|větrný mlýn
+47D311|oddělení
+47D311|knot
+47D4|stroj
+47D4|voda
+47D41|mlýn
+47D41|vodní mlýn
+47D411|lopatkové kolo
+47D411|kolo
+47D5|stroj
+47D5|pára
+47D50|alegorie
+47D50|parní energie
+47D6|stroj
+47D61|spalování
+47D62|elektřina
+47D63|jaderná energie
+47D69|automatizace
+47D691|automat
+47D6911|robot
+47D692|pružina (kovová)
+47D693|věčnost
+47D7|stroj
+47D7(HOPPER)|skokan
+47D7(MILL-STONE)|mlýnský kámen
+47D8|nástroj
+47D8(ANVIL)|kovadlina
+47D8(ASCIA)|sekera
+47D8(AXE)|osa
+47D8(CHAIN)|řetěz
+47D8(CHISEL)|dláto
+47D8(COIN STAMP)|mince
+47D8(CROWBAR)|páčidlo
+47D8(DRILL)|vrták
+47D8(FILE)|soubor
+47D8(GRINDSTONE)|brusný kámen
+47D8(HAMMER)|kladivo
+47D8(KNIFE)|nůž
+47D8(NAIL)|hřebík (hrot)
+47D8(PICKAXE)|krumpáč
+47D8(PLANE)|letadlo
+47D8(PRESS)|tisk
+47D8(ROPE)|lano
+47D8(SAW)|pila
+47D8(SCISSORS)|nůžky
+47D8(SCREW)|šroub
+47D8(SIPHON)|sifon
+47D8(TACKLE)|řešit
+47D8(TONGS)|kleště
+47D8(VICE)|vice (nástroj)
+47D8(WEDGE)|klín
+47D8(WINDLASS)|naviják
+47D9|poškození
+47D9|zničení
+47D9|ztráta
+47D9|stroj
+47E|organizace
+47E1|výroba
+47E11|domácí výroba
+47E12|řemeslná výroba
+47E12|ruční práce
+47E12|dovednost
+47E13|průmyslová výroba
+47E13|stroj
+47E131|masová výroba
+47E2|korporátní organizace
+47E2|cech
+47E21|rada (výbor)
+47E211|radnice
+47E211|sál
+47E22|insignie
+47E221|odznak
+47E221|medaile
+47E23|stupeň
+47E231|učeň
+47E232|tovaryš
+47E2321|putovní tovaryš
+47E2321|putovní tovaryš
+47E2321|bloudění
+47E233|mistrovství
+47E2331|mistrovské dílo
+47E24|ovládání
+47E24|kvalita
+47E241|důstojník
+47E242|punc
+47E242|pole
+47E25|hostina
+47E251|soutěž krásy
+47E252|oslav
+47E252|svátek
+47E2521|pondělí
+47E2521|modré pondělí
+47E3|odborová organizace
+47E3|jednota
+47E4|personál
+47E41|šéf
+47E41|ředitel
+47F|výroba
+47F11|experiment
+47F11|výzkum
+47F12|design
+47F13|model
+47F14|testování
+47F2|produkt
+47F21|třídění
+47F22|balení
+47F3|produkt
+47F3|skladování
+47F31|sklad
+47F31|budova
+47F31|síla
+47F31|sklad
+47F32|konzervování
+47F32|ochrana
+47F32|zachování
+47F32|novinky
+47F4|příprava
+47F9|poškození
+47F9|zničení
+47F9|ztráta
+47F9|produkt
+47G|budova
+47G1|staveniště
+47G11|výběr
+47G111|zázrak
+47G111|zobrazování
+47G12|země
+47G12|vytyčování
+47G12|geodézie
+47G2|nadace
+47G2|příkop
+47G21|obřad
+47G21|první kámen
+47G21|kámen
+47G211|obětování
+47G22|vyčištění
+47G22|země
+47G23|buldozer
+47G23|země
+47G23|meče
+47G24|zatloukání pilotů
+47G24|náraz
+47G31|kostra (rám)
+47G311|Zedník
+47G3111|Znak kameníka
+47G3111|pole
+47G3111|zednická značka
+47G312|cihla
+47G312|zedník
+47G313|betonář
+47G314|rámec
+47G314|dřevo
+47G32|oslav
+47G32|střecha
+47G32|vrchol
+47G33|dekorace
+47G331|střecha
+47G332|zasklení
+47G332|olovo
+47G332|okno
+47G333|náplast
+47G334|podlaha
+47G335|interiérová výzdoba
+47G3351|omítání
+47G3352|zakrývání
+47G3353|Obložení stěn
+47G3354|tapeta
+47G3355|čalounění
+47G336|potrubní systém
+47G336|zapojení
+47G3361|instalatér
+47G3362|elektrikář
+47G3363|instalatér
+47G341|obřad
+47G41|lešení
+47G42|centrování
+47G43|bednění
+47G43|bednění
+47G5|stavební materiál
+47G51|kov
+47G52|kámen
+47G53|hlína
+47G53|písek
+47G531|bláto
+47G532|cihla
+47G532|dlaždice
+47G533|beton
+47G5331|železobeton
+47G534|sklo
+47G54|rostlinný materiál
+47G541|jel
+47G542|větvička
+47G543|dřevo
+47G543|dřevo
+47G5431|paprsek
+47G5431|z čehož
+47G5431|krokve
+47G5432|deska
+47G5432|police
+47G55|živočišný materiál
+47G551|skrýt
+47G551|kůže
+47G56|látka
+47G57|syntetický materiál
+47G6|stroj
+47G6|nástroj
+47G6(MORTISE CHISEL)|dláto
+47G6(PLUMB-LINE)|olovnice
+47G6(RAMMER)|rámy
+47G6(WATER-LEVEL)|vodováha
+47G6(WATER-LEVEL)|hladina vody
+47G7|stavební materiál
+47G7|přeprava
+47G8|technologie
+47G9|demolice
+47G91|zhroucení
+47G91|zřícenina
+47H|textilní průmysl
+47H1|materiál
+47H11|prádlo
+47H111|lněné semínko
+47H12|bavlna
+47H13|hedvábí
+47H131|housenka
+47H131|bource morušový
+47H132|kokon
+47H132|panenka
+47H14|vlna
+47H15|syntetický materiál
+47H2|příprava
+47H2|zpracování
+47H2|příze
+47H21|česání
+47H211|hackle
+47H22|praní
+47H23|karty
+47H23|hřeben
+47H3|výroba
+47H3|zpracování
+47H3|příze
+47H31|točení
+47H311|přední část
+47H312|vřeteno
+47H313|kolovrátek
+47H32|proplétání
+47H32|kroucení
+47H33|bělení
+47H34|barvení
+47H35|vinutí
+47H351|kotouč
+47H351|cívka
+47H352|tanec
+47H4|výroba
+47H4|zpracování
+47H4|příze
+47H41|lano
+47H41|výroba lan
+47H411|lanový chodník
+47H411|křik
+47H42|háčkování
+47H43|krajka
+47H44|pletení
+47H45|plétání
+47H46|tkaní
+47H462|vzor
+47H463|tkalcovský stav
+47H5|látka
+47H5|zpracování
+47H51|barvení
+47H512|batikování
+47H512|vzor
+47H52|tisk
+47H521|malba
+47H531|prádlo
+47H532|bavlna
+47H533|hedvábí
+47H534|vlna
+47H5341|plstění
+47H535|syntetický materiál
+47H54|výšivka
+47H55|patchwork
+47H56|ořezávání
+47H6|látka
+47H6(...)|brokát
+47H6(VELVET)|samet
+47H7|oblečení
+47H7|oděvní průmysl
+47H7|výroba
+47H71|krejčí
+47H711|figurína
+47H711|lidská postava
+47H712|kopírovací kolečko
+47H712|kolo
+47H713|náprst
+47H72|klobouky
+47H73|obuvník
+47H731|poslední
+47H74|výrobce dřeváků
+47H75|parukář
+47H75|klínový výrobce
+47H76|pírko
+47I|farma
+47I1|zemědělství
+47I10|Zemědělství
+47I10|Zemědělství
+47I10|Stuha
+47I10|Studium zemědělství
+47I10|personifikace
+47I11|děti
+47I111|pohanka
+47I111|obilovina
+47I111|kukuřice
+47I111|chléb
+47I111|národ
+47I111|oves
+47I111|rýže
+47I111|žito
+47I111|pšenice
+47I1111|kukuřičný klas
+47I112|mrkev
+47I112|brambor
+47I112|root
+47I112|hlíza
+47I112|tuřín
+47I119|plevel
+47I12|pěstování
+47I12|zemědělec
+47I12|půda
+47I121|plodnost
+47I121|hnojení
+47I122|meče
+47I1221|sekání
+47I1221|okopávání
+47I123|orání
+47I124|brána
+47I125|válcování
+47I126|odplevelení
+47I127|okopávání
+47I128|hrabání
+47I13|pěstování
+47I13|zemědělec
+47I13|rostoucí
+47I131|setí
+47I132|výsadba
+47I132|transplantace
+47I133|děti
+47I133|rozmnožování
+47I134|řezání
+47I134|roubování
+47I134|kluzkost
+47I1341|opylování
+47I1342|vazba
+47I135|prořezávání
+47I136|pokrývající
+47I1361|stín
+47I137|stříkání
+47I138|zalévání
+47I1381|zavlažování
+47I139|vypouštění
+47I14|zemědělec
+47I14|sklizeň
+47I141|shromáždění
+47I141|sekání
+47I141|sbírání
+47I142|vazba
+47I1421|snop
+47I1422|přízrak
+47I143|skladování (sklizeň)
+47I1431|seno
+47I144|sbírání zbytků
+47I145|přeprava
+47I1451|vozem na seno
+47I1451|doprava
+47I146|hromadění
+47I1461|kupka sena
+47I147|skladování
+47I1471|pytel
+47I1472|jám
+47I1473|síla
+47I148|mlácení
+47I1481|vichřice
+47I149|dvoření
+47I149|tanec
+47I149|jídlo
+47I149|venku
+47I149|odpočinek
+47I15|zemědělské nářadí
+47I15|nástroj
+47I15(COULTER)|radlice
+47I15(FLAIL)|mlát
+47I15(HARROW)|brána
+47I15(HOE)|jak
+47I15(PITCHFORK)|dvouhrotá vidlice
+47I15(PLOUGH)|pluh
+47I15(PRUNING-KNIFE)|řezací nůž
+47I15(RAKE)|hrábě
+47I15(SCYTHE)|kosa
+47I15(SICKLE)|srp
+47I15(SPADE)|meče
+47I15(WINNOW)|vichřice
+47I16|poškození
+47I16|ztráta
+47I16|ochrana
+47I17|sklizeň
+47I17|produkt
+47I17(HAY)|nebo
+47I17(STRAW)|sláma
+47I2|chov
+47I2|chov skotu
+47I2|zemědělec
+47I21|zvíře
+47I21|skot
+47I21|domácí zvíře
+47I21|kopytník
+47I211|skot
+47I2111|býk
+47I21111|kráva
+47I2112|kráva
+47I2113|telátko
+47I2114|jalovice
+47I212|prase
+47I2121|kanec
+47I21211|sekání
+47I2122|odejít
+47I2123|selátko
+47I2123|selátko
+47I2124|žalud
+47I2124|les
+47I2124|chovatel prasat
+47I213|ovce
+47I2131|Ram
+47I2132|Ano
+47I2133|jehněčí
+47I214|koza
+47I2141|kozel
+47I2143|dítě
+47I22|skot
+47I221|kovbojka
+47I221|pasák krav
+47I221|pastýř
+47I221|pastevkyně
+47I221|pastýř
+47I221|pastýřka
+47I2211|stádo
+47I2211|ovce
+47I22111|stáj
+47I22111|sklad
+47I22111|vracení
+47I22111|stabilní
+47I2212|nesení na ramenou
+47I2212|jehněčí
+47I2212|ovce
+47I2213|personál
+47I222|krmení
+47I222|zalévání
+47I2221|vykrmování
+47I2222|krmítko
+47I2223|jíst
+47I2223|žlab
+47I2224|krmivo
+47I223|dojení
+47I2231|mléko
+47I2231|přeprava
+47I2231|jho
+47I22311|dojička
+47I2232|míchání
+47I224|Stříhání
+47I224|ovce
+47I2241|máčení
+47I2241|praní
+47I226|branding
+47I226|značení
+47I2261|žehlička na značení
+47I2262|ušní značka
+47I2262|pole
+47I2262|nosní kroužek
+47I2262|prsten
+47I2262|den
+47I227|čištění
+47I227|stabilní
+47I2271|ovčín
+47I228|řízení
+47I228|pastýř
+47I2281|kovboj
+47I2282|shrnutí
+47I2283|jízda (na koni)
+47I2283|rodeo
+47I229|stopa
+47I23|drůbež
+47I24|včelařství
+47I241|včelař
+47I242|včelí úl
+47I2421|voština
+47I2422|mluvit
+47I243|rojen
+47I2431|včelí strom
+47I2431|strom
+47I244|včela
+47I2441|královna
+47I2442|dělnice (včela)
+47I2443|dron
+47I3|zahradník
+47I3|rostoucí
+47I3|zahradnictví
+47I3|zeleninová zahrada
+47I3|děti
+47I3|zelenina
+47I31|zahrada
+47I31|školka
+47I311|postel (spiknutí)
+47I311|nucené lože
+47I312|krásný
+47I312|obálka
+47I312|sklo
+47I4|ovoce
+47I4|rostoucí
+47I41|ovocný strom
+47I41|strom
+47I411|ovocný sad
+47I412|špalír
+47I413|sklizeň
+47I4131|sbírání
+47I4132|třesení
+47I4132|házení
+47I42|víno
+47I42|vinařství
+47I421|vinice
+47I4211|chata
+47I422|děti
+47I422|víno
+47I4221|list
+47I4221|úponek
+47I4222|hroznové víno
+47I4223|hroznové víno
+47I423|hroznové víno
+47I423|sklizeň
+47I423|vintage
+47I4231|košík
+47I4231|přeprava
+47I424|výroba
+47I4241|hroznové víno
+47I4241|lis na víno
+47I4242|hroznové víno
+47I4242|lisování
+47I42421|lis na víno
+47I425|jeskyně
+47I425|vinný sklípek
+47I4251|testování vína
+47I426|plnění do lahví
+47I426|láhev vína
+47I5|květina
+47I5|rostoucí
+47I51|školka
+47I52|zahrada
+47I52|bylina
+47I52|bylinková zahrada
+47I521|lék
+47I53|skleník
+47I53|oranžérie
+47I531|skleník
+47I531|skleník
+47I54|žárovka
+47I541|políčko žárovek
+47I541|pole
+47I6|tropická kultura
+47I7|arboristika
+47I71|školka
+47I71|strom
+47I8|lesnictví
+47I8|strom
+47I81|lesník
+47I82|pracovník
+47I83|hoření
+47I83|uhlíř
+47I83|výroba dřevěného uhlí
+47I83|dřevěný náhrdelník
+47I831|uhlíková pec
+47I831|pec
+47I84|dřevorubec
+47I84|řezbářství
+47I84|dřevorubec
+47I85|shromáždění
+47I85|dřevo
+47I86|údržba
+47I861|vyčištění
+47I862|cesta
+47I862|silnice
+47I863|výsadba
+47I87|hromadění
+47I87|sklad dřeva
+47I871|dřevo
+47I871|upoutávka
+47I871|přeprava
+47I8711|plovoucí
+47I8711|řeka
+47I872|paprsek
+47I88|řezání
+47I88|rašelina
+47I9|vyčištění
+47I9|země
+47I9|rekultivace
+47K|rybaření
+47K1|pobřežní rybolov
+47K1|mořské rybolov
+47K11|lov velryb
+47K12|lov mušlí
+47K13|lov korýšů
+47K14|sleď
+47K2|sladkovodní rybolov
+47K21|rybník
+47K21|rybník
+47K3|mušle
+47K3|ústřice
+47K31|sbor
+47K31|potápění
+47K31|lov perel
+47K4|pletení
+47K4|ne
+47K41|oprava
+47L|stavba lodí
+47L1|loď
+47L11|skluz
+47L12|lešení
+47L2|pracovník
+47L21|dokový dělník
+47L22|tesař
+47L22|lodní tesař
+47L3|spuštění
+47L31|křest
+47L31|název
+47L32|maidentrip
+48|umění
+480|Umění
+480|Stuha
+480|alegorie
+480|emblém
+480|symbol
+48A|veřejný
+48A1|Patron
+48A1|znalec
+48A1|šéf
+48A11|umělec
+48A11|provize
+48A111|zákazník
+48A111|návštěva
+48A12|Obrázek věnování
+48A12|umělec
+48A12|nabídka
+48A12|oddanost
+48A13|zákony o druzích
+48A13|umělec
+48A13|přijímání osoby
+48A13|salón
+48A2|kritizující
+48A2|diskutovat
+48A211|kritický
+48A220|Závist (Invidia)
+48A220|Neznalost
+48A220|Závist a nevědomost
+48A220|neznalost
+48A221|kritický
+48A23|teorie umění
+48A23|teorie
+48A231|Srovnání
+48A24|zasvěcení
+48A25|změna
+48A25|pověst
+48A251|hlad
+48A252|špatná pověst
+48A26|karikatura
+48A3|soutěž
+48A31|porota
+48A311|cena
+48A4|umělec
+48A4|uctívání
+48A41|korunovace
+48A41|bobkový list
+48A42|vzpomínka
+48A5|ochrana
+48A5|umělecké dílo
+48A51|obnova
+48A59|plundering
+48A59|na
+48A591|regenerace
+48A6|poškození
+48A6|zničení
+48A6|umělecké dílo
+48A7|vysvětlující
+48A7|hlasité čtení
+48A7|zobrazování
+48A7|umělecké dílo
+48A71|výkon
+48A711|zkouška
+48A712|publikum
+48A7121|potlesk
+48A7121|facka
+48A713|interval
+48A72|budova
+48A72|venku
+48A72|výkon
+48A721|divadlo
+48A722|koncertní sál
+48A723|operní dům
+48A723|divadlo
+48A724|muzikál
+48A725|kino
+48A725|kino
+48A726|kabaret
+48A729|přední část domu
+48A729|vnitřní
+48A7291|domov
+48A7292|hlediště
+48A7293|stánky
+48A7294|galerie
+48A7295|box (prostor v divadle)
+48A7295|lóže
+48A8|umělecké dílo
+48A81|sbírání
+48A811|sběratel umění
+48A8111|sbírka umění
+48A8111|sbírka
+48A8111|galerie
+48A8112|Komnata umění a kuriozit
+48A8112|kancelář
+48A8112|zajímavosti
+48A81121|skříň na umělecká díla
+48A82|výstava
+48A821|muzeum
+48A8211|čekající
+48A8211|brankář
+48A8211|personál
+48A822|salón
+48A822|dočasný
+48A83|zaměstnání
+48A83|obchod
+48A83|obchod
+48A831|obchodník s uměním
+48A8311|prodejce starožitností
+48A832|umělecké dílo
+48A832|aukce
+48A832|prodej
+48A91|styl
+48A92|lidové umění
+48A93|naivní umění
+48A94|amatérské umění
+48A95|dětské umění
+48A96|psychiatrické umění
+48A96|psychotické umění
+48A97|triviální umění
+48A97|kýč
+48A98|ornament
+48A981|abstraktní umění
+48A981|geometrie
+48A9811|řádek
+48A9811|pravý úhel
+48A9811|přímka
+48A98111|meandr
+48A9812|řádek
+48A9812|přímka
+48A9813|zakřivená čára
+48A9813|kulatý tvar
+48A98131|kruh
+48A98131|gilošování
+48A98132|elipsa
+48A98133|Řecká vlna
+48A98133|spirála
+48A98133|vlna
+48A9814|zakřivená čára
+48A9814|řádek
+48A9814|přímka
+48A98141|krajka
+48A9815|hvězda
+48A98151|pentagram
+48A9816|vyzařující
+48A9816|kolo
+48A9817|otáčení
+48A98171|jin a jang
+48A98172|triskele
+48A982|lidská postava
+48A9821|limb
+48A98211|hlavně
+48A98211|maska
+48A98212|listí
+48A98212|hlava
+48A9822|monstrum
+48A9823|monstrum
+48A983|děti
+48A98311|listí
+48A983111|akant
+48A983112|palmeta
+48A98312|úponek
+48A98313|Astwerk
+48A98313|pobočka
+48A9832|ovoce
+48A9832|zelenina
+48A98321|granátové jablko
+48A9833|květina
+48A98331|lilie
+48A98332|lotus
+48A98333|kytice
+48A98341|rozeta
+48A984|zvíře
+48A9841|bukránie
+48A9841|hlava (zvíře)
+48A9841|kráva
+48A9842|hlava (zvíře)
+48A9842|Ram
+48A9843|hlava (zvíře)
+48A9843|lev
+48A9844|delfín
+48A9846|monstrum
+48A9851|transparent
+48A9851|stuha
+48A9851|posouvat
+48A9852|plisování
+48A9853|skořápka
+48A9854|váza
+48A9855|lambrequin
+48A9856|architektura
+48A9857(...)|vejce a šíp
+48A986|fantazie
+48A9861|řezbářská práce
+48A9861|strapwork
+48A9862|Náušnice
+48A9862|lobový styl
+48A9863|skalka
+48A9871|arabeska
+48A98711|kandelábr
+48A9872|groteskní
+48A9873|maurský
+48A9874|kazit
+48A9874|trofej
+48A9875|věnec
+48A9876|kazeta
+48A9877|medailon
+48A9878|prokládání
+48A98781|abstraktní umění
+48A98781|uzel
+48A98782|zvíře
+48A98783|květina
+48A9879|Listí a proutky
+48AA721|divadlo
+48AA722|koncertní sál
+48AA723|operní dům
+48AA723|divadlo
+48AA724|muzikál
+48AA725|kino
+48AA725|kino
+48AA726|kabaret
+48AA729|přední část domu
+48AA729|vnitřní
+48AA9821|limb
+48AA9822|monstrum
+48AA9823|monstrum
+48AA983111|akant
+48AA983112|palmeta
+48AA9841|bukránie
+48AA9841|hlava (zvíře)
+48AA9841|kráva
+48AA9842|hlava (zvíře)
+48AA9842|Ram
+48AA9843|hlava (zvíře)
+48AA9843|lev
+48AA9844|delfín
+48AA9846|monstrum
+48AA9851|transparent
+48AA9851|stuha
+48AA9851|posouvat
+48AA9852|plisování
+48AA9853|skořápka
+48AA9854|váza
+48AA9855|lambrequin
+48AA9856|architektura
+48B|umělec
+48B1|práce
+48B1|studio
+48B10|inspirace
+48B101|Múzy
+48B111|požadavek
+48B111|potřeby studia
+48B121|design
+48B121|náčrt
+48B122|klasické pozůstatky
+48B122|studium
+48B123|model
+48B124|model (sedící)
+48B1242|nahý
+48B13|model (sedící)
+48B14|výuka
+48B141|akademie
+48B141|škola
+48B1410|Akademie
+48B1410|Stuha
+48B1410|personifikace
+48B142|prodigy
+48B142|talent
+48B142|mládež (dospívající)
+48B143|žák
+48B15|asistent
+48B15|žák
+48B19|zničení
+48B19|umělecké dílo
+48B21|hlad
+48B22|rodina
+48B23|klub
+48B24|Bohémský život
+48B24|hostina
+48B25|génius
+48B25|neslavnost
+48B25|nedostatek
+48B26|smrtelné lože
+48B3|portrét
+48B3|autoportrét
+48B4|organizace
+48B4|odborová organizace
+48B41|Lukáš (sv.)
+48B41|cech
+48B411|erb
+48B42|akademie
+48B42|sdružení
+48B43|rétorická komora
+48B43|rétorická komora
+48B43|rétorik
+48BB101|Múzy
+48BB111|požadavek
+48BB111|potřeby studia
+48BB1242|nahý
+48BB141|akademie
+48BB141|škola
+48BB1410|Akademie
+48BB1410|Stuha
+48BB1410|personifikace
+48BB142|prodigy
+48BB142|talent
+48BB142|mládež (dospívající)
+48BB143|žák
+48C|umělec
+48C|zaměstnání
+48C1|architektura
+48C10|Architektura
+48C10|Stuha
+48C10|alegorie
+48C10|emblém
+48C10|symbol
+48C101|chata
+48C101|původ
+48C11|architekt
+48C11|práce
+48C111|design
+48C111|náčrt
+48C112|klasické pozůstatky
+48C112|studium
+48C113|design
+48C113|model
+48C113|nabídka
+48C113|šéf
+48C114|budova
+48C114|dohled
+48C12|architekt
+48C13|architekt
+48C13|portrét
+48C13|autoportrét
+48C14|umělecké dílo
+48C141|budova
+48C1411|vnější
+48C14111|ptačí perspektiva
+48C1412|vnitřní
+48C1413|karikatura
+48C142|design
+48C142|model
+48C1421|série
+48C1422|maketa
+48C1424|sekce
+48C1425|vnější
+48C14251|ptačí perspektiva
+48C1426|vnitřní
+48C143|ideální architektura
+48C143|vize
+48C1431|fantazie
+48C1432|maketa
+48C1432|model
+48C1433|design
+48C1434|sekce
+48C1435|vnější
+48C14351|ptačí perspektiva
+48C1436|vnitřní
+48C144|pošetilost
+48C145|malba
+48C145|socha
+48C1451|architektonický obrázek
+48C149|zřícenina
+48C15|nástroj
+48C161|pilíř
+48C1611|půlsloupec
+48C1611|pilastr
+48C1612|hlavní město (architektura)
+48C1613|základna
+48C1614|šroubovice
+48C1614|Šalamounův sloup
+48C1614|spirála
+48C1615|kolonáda
+48C162|oblouk
+48C162|archivolt
+48C1621|arkáda
+48C1622|trezor
+48C1622(...)|ventilátorový trezor
+48C1622(...)|lierne-vault
+48C16221|základní kámen
+48C1623|rada
+48C1624|mušle
+48C163|kniha
+48C163|objednávka
+48C1631|Dórský řád
+48C1632|Toskánský řád
+48C1633|Iontový řád
+48C1634|korintský řád
+48C1635|složená objednávka
+48C164|lidská postava
+48C1641|atlantes
+48C1642|Karyatidy
+48C165|tvarování
+48C1661|rustikální
+48C167|podlaha
+48C167|chodník
+48C168(...)|počítadlo
+48C168(...)|rám
+48C168(ARCHITRAVE)|architráv
+48C2|socha
+48C20|Stuha
+48C20|Sochařství
+48C20|Socha
+48C20|alegorie
+48C20|emblém
+48C20|symbol
+48C21|práce
+48C21|sochař
+48C21|studio
+48C211|náčrt
+48C211|model
+48C212|odlévání
+48C212|dutý odlitek
+48C213|klasické pozůstatky
+48C213|studium
+48C22|sochař
+48C23|portrét
+48C23|sochař
+48C23|autoportrét
+48C24|reprodukce
+48C24|socha
+48C24|umělecké dílo
+48C241|galerie
+48C242|kancelář
+48C242|lidská postava
+48C242|mluvit
+48C243|karikatura
+48C244|herm
+48C244|podstavec
+48C25|nástroj
+48C25(MALLET)|šablona
+48C26|medaile
+48C27|zub
+48C3|užitá umění
+48C3|řemeslo
+48C30|alegorie
+48C30|emblém
+48C30|symbol
+48C31|řemeslník
+48C311|zlatník
+48C311|klenotník
+48C311|kov
+48C311|drahé kovy
+48C311|stříbrník
+48C312|obyčejný kov
+48C312|kov
+48C313|Hrnčíř
+48C314|foukání
+48C314|foukání skla
+48C315|výroba gobelínů
+48C315|tkalec tapisérií
+48C315|tkaní
+48C316|truhlář
+48C316|nábytek
+48C316|truhlář
+48C316|truhlář
+48C32|řemeslník
+48C32|portrét
+48C32|autoportrét
+48C33|umělecké dílo
+48C34|nástroj
+48C34(POTTER'S WHEEL)|hrnčířský kruh
+48C34(POTTER'S WHEEL)|kolo
+48C34(TOUCH-STONE)|touchstone
+48C35|dekorace
+48C35|ornament
+48C351|aplikace
+48C351|reliéfní
+48C352|důlek
+48C352|v prohlubni
+48C3521|rytina
+48C3522|leptání
+48C3523|řezbářství
+48C35231|řezbářství
+48C353|dekorace bytu
+48C3531|malba
+48C35311|lakování
+48C3532|tisk
+48C3533|smaltování
+48C3534|dýhování
+48C35341|intarzie
+48C35342|intarzie
+48C3535|damaškování
+48C3535|černit
+48C3536|inkrustující
+48C36|design
+48C36|průmyslový design
+48C361|průmyslový designér
+48C4|monumentální umění
+48C40|alegorie
+48C40|emblém
+48C40|symbol
+48C41|monumentální umělec
+48C411|mozaikář
+48C412|malíř nástěnných maleb
+48C412|malíř
+48C413|sklo
+48C413|umělec zabývající se vitrážemi
+48C42|portrét
+48C42|autoportrét
+48C43|umělecké dílo
+48C44|nástroj
+48C51|iluminace knihy
+48C51|miniatura
+48C51|malba
+48C510|Malba
+48C510|Malba
+48C510|Stuha
+48C510|alegorie
+48C510|emblém
+48C510|symbol
+48C5101|kresba
+48C5101|původ
+48C511|práce
+48C511|malíř
+48C511|studio
+48C5110|inspirace
+48C51101|Múzy
+48C51102|tvorba hudby
+48C51102|hudební nástroj
+48C51111|požadavek
+48C51111|potřeby studia
+48C51121|design
+48C51121|náčrt
+48C51122|klasické pozůstatky
+48C51122|studium
+48C51123|model (sedící)
+48C511232|nahý
+48C5113|model (sedící)
+48C5114|barva
+48C5114|barva
+48C5115|žák
+48C5115|výuka
+48C51151|asistent
+48C5119|zničení
+48C5119|umělecké dílo
+48C512|malíř
+48C513|malíř
+48C513|portrét
+48C513|autoportrét
+48C514|obrázek
+48C514|umělecké dílo
+48C5141|galerie
+48C5141|malovaná galerie
+48C5143|karikatura
+48C515|malířské nářadí
+48C515|nástroj
+48C5151|malířský stojan
+48C5152|paleta
+48C5153|kartáč
+48C5154|figurína
+48C5154|lidská postava
+48C5154|figurína, model, podobizna, podobizna, podobizna, podobizna, podobizna, podobizna, podobizna
+48C5154|loutka
+48C5155|kniha
+48C5155|modelová kniha
+48C5156|rám
+48C51561|univerzální klíč
+48C51562|opona
+48C5157|párátko
+48C52|kresba
+48C520|alegorie
+48C520|emblém
+48C520|symbol
+48C521|kreslič
+48C521|práce
+48C5211|klasické pozůstatky
+48C5211|studium
+48C5212|lekce kreslení
+48C5212|výuka
+48C522|kreslič
+48C523|kreslič
+48C523|portrét
+48C523|autoportrét
+48C524|náčrt
+48C524|umělecké dílo
+48C525|nástroj
+48C5251|pokoj
+48C5251|kamera obscura
+48C5252|pokoj
+48C5252|kamera lucida
+48C5253|konvexní zrcadlo
+48C5253|zrcadlo
+48C5254|fyzionotrace
+48C5254|silueta
+48C5254|silueta-přístroj
+48C5255|perspektiva
+48C53|grafické umění
+48C530|alegorie
+48C530|emblém
+48C530|symbol
+48C531|grafický umělec
+48C5311|rytec
+48C5311|řezbář
+48C5311|dřevorubec
+48C5312|rytec
+48C5312|rytec
+48C5313|litograf
+48C532|grafický umělec
+48C532|portrét
+48C532|autoportrét
+48C533|rytina
+48C533|leptání
+48C533|litografie
+48C533|tisk
+48C533|dřevoryt
+48C533|umělecké dílo
+48C534|nástroj
+48C61|fotografie
+48C610|alegorie
+48C610|emblém
+48C610|symbol
+48C611|fotograf
+48C6111|studio
+48C61111|požadavek
+48C61111|potřeby studia
+48C6112|fotografie
+48C6112|fotografování
+48C61121|model (sedící)
+48C61121|portrét
+48C6113|tmavá místnost
+48C6114|film
+48C6114|zpracování
+48C61141|rozvíjející se
+48C61142|tisk
+48C612|fotograf
+48C613|fotograf
+48C613|portrét
+48C613|autoportrét
+48C614|fotografie
+48C614|umělecké dílo
+48C6141|negativní
+48C6142|skluzavka
+48C6142|transparentnost
+48C6143|film
+48C6143|deska
+48C6144|digitální fotografie
+48C615|přístroj
+48C6151|pokoj
+48C62|kinematografie
+48C620|alegorie
+48C620|emblém
+48C620|symbol
+48C621|kameraman
+48C621|práce
+48C6211|studio
+48C6212|natáčení
+48C62121|celovečerní film
+48C62121|film
+48C62122|animovaný film
+48C62122|karikatura
+48C6213|řezání
+48C6213|montáž
+48C622|kameraman
+48C623|kameraman
+48C623|portrét
+48C623|autoportrét
+48C624|celuloid
+48C624|film
+48C6241|kotouč
+48C625|přístroj
+48C6251|pokoj
+48C6251|filmová kamera
+48C6251|filmová kamera
+48C6251|videokamera
+48C6252|projektor
+48C6253|kouzelná lucerna
+48C63|kinematografie
+48C63|původ
+48C63|fotografie
+48C7|hudba
+48C70|Hudba
+48C70|Stuha
+48C70|alegorie
+48C70|emblém
+48C70|symbol
+48C701|původ
+48C702|magická síla hudby
+48C71|skladatel
+48C7110|inspirace
+48C71101|Múzy
+48C713|portrét
+48C72|hudebník
+48C721|práce
+48C7210|inspirace
+48C72101|Múzy
+48C7211|hudební lekce
+48C7211|žák
+48C723|portrét
+48C73|hudební nástroj
+48C731|smyčcový nástroj
+48C731|strunný nástroj
+48C7311|housle
+48C7312|bas
+48C7312|violoncello
+48C7312|kontrabas
+48C7312|fialová
+48C7312|violoncello
+48C7313|rebec
+48C7313|znásilnění
+48C7314|Pospěš si
+48C732|drnkací nástroj
+48C732|strunný nástroj
+48C7321|harfa
+48C7321|lyre
+48C7321|psalterium
+48C7322|harfa
+48C7323|lute
+48C7323|teorba
+48C7324|Spí.
+48C7324|Malá harfa
+48C7324|kytara
+48C7324|mandolína
+48C7325|cimbál
+48C7325|citer
+48C733|klávesový nástroj
+48C7331|cembalo
+48C7331|panenský
+48C7332|klavichord
+48C7332|cembalo
+48C7333|klavír
+48C73331|velký plán
+48C7334|tělo
+48C73341|církevní varhany
+48C7335|akordeon
+48C734|bicí nástroj
+48C7341|buben (hudební nástroj)
+48C73411|tamburína
+48C7342|kastaněty
+48C7342|klepadla
+48C7343|krásný
+48C7343|zvonkohra
+48C7343|zvonkohry
+48C735|dechový nástroj
+48C7351|Aulos
+48C7351|flétna
+48C7351|tibia
+48C73511|záznamník
+48C73512|fagot
+48C73512|klarinet
+48C73512|hoboj
+48C73512|podvod
+48C73513|Příčná flétna
+48C73513|příčný
+48C7352|foukání
+48C7352|roh
+48C7352|roh
+48C7352|trombon
+48C7352|trubka
+48C7352|pokoj
+48C73521|saxofon
+48C7353|syrinx
+48C7354|dudy
+48C7354|musette
+48C7355|ústní harmonika
+48C7356(CONCH)|mušle
+48C736|populární hudba
+48C737|kuchyňské nádobí
+48C737|hrubá hudba
+48C737(RUMBLING-POT)|hrkající hrnec
+48C738|doplňky
+48C738|vidlička
+48C738|metronom
+48C738|notový pult
+48C738|ladicí vidlička
+48C74|notový zápis
+48C74|hodnocení
+48C74|poznámka
+48C74|skóre
+48C74|psaní
+48C741|kniha
+48C741|tiskoviny
+48C742|rukopis
+48C7421|autogram
+48C7421|skladatel
+48C743|hudební teorie
+48C743|teorie
+48C75|hudební nástroj
+48C75|hudebník
+48C7511|ladění
+48C75111|lute
+48C7512|kontemplace
+48C752|tvorba hudby
+48C7521|smyčcový nástroj
+48C7521|strunný nástroj
+48C7522|drnkací nástroj
+48C7522|strunný nástroj
+48C7523|klávesový nástroj
+48C7524|bicí nástroj
+48C7525|dechový nástroj
+48C753|koncert
+48C753|skupina
+48C753|tvorba hudby
+48C7531|orchestr
+48C7532|kapela (hudba)
+48C7532|komorní orchestr
+48C7532|jazzová kapela
+48C7532|popová kapela
+48C7532|kvarteto
+48C7532|kvintet
+48C7532|tři
+48C754|tvorba hudby
+48C754|zpěv
+48C7541|doprovodný
+48C7541|zpěvák
+48C75411|žonglér
+48C75411|potulný pěvec
+48C75412|bard
+48C75412|básník
+48C75412|básník
+48C7542|doprovodný
+48C7542|zpěvák
+48C755|tvorba hudby
+48C755|zpěv
+48C7551|a cappella
+48C7551|zpěvák
+48C7551|sólista
+48C75512|žena
+48C7552|zločin
+48C756|lidová hudba
+48C756|tvorba hudby
+48C756|populární hudba
+48C756|pouliční hudba
+48C7561|houslista
+48C75611|Pospěš si
+48C75612|hudební skříňka
+48C75613|všestranný člověk
+48C75613|one-man band
+48C75614|kapela (hudba)
+48C75614|dechový orchestr
+48C75614|pouliční kapela
+48C7562|lidová píseň
+48C7562|zpěv
+48C75621|prodejce balad
+48C75621|baladista
+48C75621|prodej
+48C75621|zpěvák
+48C76|automatizace
+48C76|mechanická hudba
+48C761|hrací skříňka
+48C762|tělo
+48C762|hrdě
+48C762|pouliční varhany
+48C763|orchestrion
+48C763|mechanické piano
+48C77|řidič
+48C771|mít
+48C771|tyč
+48C78|publikum
+48C78|koncert
+48C78|poslouchání
+48C8|jeviště (divadlo)
+48C8|umělecké dílo
+48C80|alegorie
+48C80|emblém
+48C80|symbol
+48C801|balet
+48C801|tanec
+48C802|divadlo
+48C8021|drama
+48C8021|literatura
+48C803|hudba
+48C804|film
+48C81|vybavení
+48C811|design
+48C811|scénografie
+48C813|scéna (divadelní)
+48C813|nastavit (scéna)
+48C8131|pozadí
+48C8132|lampa
+48C8133|opona
+48C814|šatna
+48C814|pokoj
+48C821|ředitel
+48C821|výrobce
+48C821|inspicient
+48C822|choreograf
+48C823|prompter
+48C824|pomocník na jevišti
+48C83|umělec
+48C831|portrét
+48C8311|tanečník
+48C8312|herec
+48C8312|herečka
+48C8313|operní pěvkyně
+48C8313|zpěvák
+48C8314|kabaretní umělec
+48C8315|filmový herec
+48C8315|filmová herečka
+48C8321|tanečník
+48C8322|herec
+48C8322|herečka
+48C8323|operní pěvkyně
+48C8323|zpěvák
+48C8324|kabaretní umělec
+48C8325|filmový herec
+48C8325|filmová herečka
+48C84|balet
+48C84|výkon
+48C841|školení
+48C842|tanečník
+48C842|skupina
+48C8422|žena
+48C843|baletní krok
+48C843|pozice
+48C843|držení těla
+48C843|krok
+48C844|baletní šaty
+48C844|zvyklost
+48C85|drama
+48C85|výkon
+48C85|hra (divadelní)
+48C85|divadlo
+48C851|zkouška
+48C851|studium
+48C852|herec
+48C852|herečka
+48C852|skupina
+48C852|trupa
+48C85211|vydávání se za jinou osobu
+48C85211|dámské oblečení
+48C85221|vydávání se za jinou osobu
+48C85221|pánské oblečení
+48C8523|cestování
+48C85231|oznamující
+48C853|zvyklost
+48C853|divadelní kostým
+48C854|žánr
+48C854|divadelní žánr
+48C8541|mysteriózní hra
+48C8541|náboženské drama
+48C85411|morálka
+48C8542|rétorik
+48C8543|komedie
+48C8543|komedie dell'arte
+48C85431|typ
+48C85431(COLOMBINE)|Colombine
+48C85431(HARLEQUIN)|Harlekýn
+48C85431(PANTALONE)|Kalhoty
+48C85431(PIERROT)|Pierrot
+48C85431(PULCINELLA)|Pulcinella
+48C8544|němá hra
+48C8544|maska
+48C8544|pantomima
+48C85441|živý obraz
+48C8545|tragédie
+48C85450|Stuha
+48C85450|Tragédie
+48C8546|komedie
+48C85460|Komedie
+48C85460|Stará komedie
+48C85460|Stuha
+48C8547|náplň
+48C8547|satyrská hra
+48C85481|smíšená technika
+48C85481|totální divadlo
+48C85482|dění
+48C855|loutkové divadlo
+48C855|loutkové divadlo
+48C855|ukázat
+48C8551|loutka
+48C85511|Jan Klaassen
+48C85511|Katrijn
+48C85511|Punch a Judy
+48C8552|loutka
+48C856|stín
+48C856|silueta
+48C86|drama
+48C86|hudební drama
+48C86|výkon
+48C861|zkouška
+48C861|role
+48C861|studium
+48C862|dílo
+48C8621|operní pěvkyně
+48C8621|zpěvák
+48C8622|operní pěvkyně
+48C8622|zpěvák
+48C8622|žena
+48C863|zpěvná hra
+48C863|muzikál
+48C863|opereta
+48C864|kabaret
+48C8641|umělec
+48C8641|kabaretní umělec
+48C865|ukázat
+48C865|rozmanitost
+48C865|vaudeville
+48C8651|striptýz
+48C8651|svlékání
+48C87|film
+48C87|ukázat
+48C871|herec
+48C871|herečka
+48C871|obrazovka
+48C8711|filmový herec
+48C8712|filmová herečka
+48C872|vysvětlovač
+48C872|vysvětlující film
+48C873|žánr
+48C8731|celovečerní film
+48C8732|příroda
+48C8733|dokumentární film
+48C8734|animovaný film
+48C8734|karikatura
+48C9|fikce
+48C9|literatura
+48C90|Lehčí
+48C90|Stuha
+48C90|alegorie
+48C90|emblém
+48C90|dopisy
+48C90|symbol
+48C901|Poezie
+48C901|poezie
+48C9011|epická poezie
+48C90111|Hrdinská báseň
+48C90111|básnická tvorba
+48C9012|Lyrická báseň
+48C9012|lyrická poezie
+48C90121|milostná poezie
+48C9013|mixture
+48C9014|Satirická báseň
+48C9014|satirická poezie
+48C9015|Pastorální báseň
+48C9015|pastorální poezie
+48C902|próza
+48C9021|epický
+48C91|básník
+48C91|spisovatel
+48C910|Poetický rozruch
+48C910|Stuha
+48C910|inspirace
+48C9101|Múzy
+48C911|psaní
+48C9111|autogram
+48C9112|diktování
+48C912|prokletý básník
+48C913|hlasité čtení
+48C913|umělecké dílo
+48C919|zničení
+48C919|umělecké dílo
+48C92|básník
+48C92|spisovatel
+48C921|Laureát
+48C921|hlad
+48C921|bobkový list
+48C921|básník laureát
+48C93|básník
+48C93|portrét
+48C93|spisovatel
+48CC51111|požadavek
+48CC51111|potřeby studia
+48CC51121|design
+48CC51121|náčrt
+48CC51122|klasické pozůstatky
+48CC51122|studium
+48CC51123|model (sedící)
+48CC51151|asistent
+48CC61111|požadavek
+48CC61111|potřeby studia
+48CC61141|rozvíjející se
+48CC61142|tisk
+48CC6211|studio
+48CC6212|natáčení
+48CC62121|celovečerní film
+48CC62121|film
+48CC62122|animovaný film
+48CC62122|karikatura
+48CC6213|řezání
+48CC6213|montáž
+48CC70|Hudba
+48CC70|Stuha
+48CC70|alegorie
+48CC70|emblém
+48CC70|symbol
+48CC71|skladatel
+48CC7110|inspirace
+48CC71101|Múzy
+48CC72|hudebník
+48CC7210|inspirace
+48CC7211|hudební lekce
+48CC7211|žák
+48CC73|hudební nástroj
+48CC731|smyčcový nástroj
+48CC731|strunný nástroj
+48CC732|drnkací nástroj
+48CC732|strunný nástroj
+48CC733|klávesový nástroj
+48CC7331|cembalo
+48CC7331|panenský
+48CC7332|klavichord
+48CC7332|cembalo
+48CC7333|klavír
+48CC73331|velký plán
+48CC7334|tělo
+48CC73341|církevní varhany
+48CC7335|akordeon
+48CC734|bicí nástroj
+48CC7341|buben (hudební nástroj)
+48CC73411|tamburína
+48CC7342|kastaněty
+48CC7342|klepadla
+48CC7343|krásný
+48CC7343|zvonkohra
+48CC7343|zvonkohry
+48CC735|dechový nástroj
+48CC7351|Aulos
+48CC7351|flétna
+48CC7351|tibia
+48CC7352|foukání
+48CC7352|roh
+48CC7352|roh
+48CC7352|trombon
+48CC7352|trubka
+48CC7352|pokoj
+48CC7353|syrinx
+48CC7354|dudy
+48CC7354|musette
+48CC7355|ústní harmonika
+48CC736|populární hudba
+48CC737|kuchyňské nádobí
+48CC737|hrubá hudba
+48CC738|doplňky
+48CC738|vidlička
+48CC738|metronom
+48CC738|notový pult
+48CC738|ladicí vidlička
+48CC74|notový zápis
+48CC74|hodnocení
+48CC74|poznámka
+48CC74|skóre
+48CC74|psaní
+48CC7421|autogram
+48CC7421|skladatel
+48CC75|hudební nástroj
+48CC75|hudebník
+48CC75111|lute
+48CC75512|žena
+48CC75611|Pospěš si
+48CC75612|hudební skříňka
+48CC75613|všestranný člověk
+48CC75613|one-man band
+48CC75614|kapela (hudba)
+48CC75614|dechový orchestr
+48CC75614|pouliční kapela
+48CC76|automatizace
+48CC761|hrací skříňka
+48CC762|tělo
+48CC762|hrdě
+48CC762|pouliční varhany
+48CC763|orchestrion
+48CC763|mechanické piano
+48CC77|řidič
+48CC78|publikum
+48CC78|koncert
+48CC78|poslouchání
+49|učení
+49|zaměstnání
+49|věda
+49A|výuka
+49A0|Výcvik
+49A0|Doktrína
+49A0|Vzdělávání
+49A0|Instituce
+49A0|Stuha
+49A0|alegorie
+49A0|doktrína
+49A0|emblém
+49A0|symbol
+49A1|hraní
+49A1|studium
+49B|dítě
+49B|škola
+49B|výuka
+49B1|mateřská škola
+49B2|třída
+49B2|základní škola
+49B211|první školní den
+49B211|vedoucí
+49B22|domů
+49B22|vracení
+49B23|poslední školní den
+49B24|žák
+49B24|učitel
+49B241|rodiče
+49B25|disciplína
+49B25|trest
+49B251|roh
+49B251|udržování v
+49B252|bití
+49B2521|bříza (prut)
+49B2521|rod
+49B2521|větvička
+49B2522|žák
+49B2522|učitel
+49B253|řádek
+49B253|psaní
+49B31|střední škola
+49B31|střední vzdělání
+49B32|technická škola
+49B32|odborné vzdělávání
+49B33|pedagogická fakulta
+49B4|univerzita
+49B40|Akademie
+49B40|Stuha
+49B40|personifikace
+49B41|organizace
+49B411|založení
+49B4111|vzpomínka
+49B412|rada (výbor)
+49B412|důstojník
+49B413|kostelník
+49B4131|žena
+49B4131|žezlo
+49B414|insignie
+49B414|tam
+49B415|fakulty
+49B416|vysoká škola
+49B416|budova
+49B421|čtení
+49B4211|instalace
+49B4211|řeč
+49B4212|Mistr s učedníky
+49B4212|žák
+49B4212|učitel
+49B4213|Obdržíte dřevoryt
+49B4213|dřevoryt
+49B4214|praxe
+49B422|vyšetření
+49B423|stupeň
+49B423|doktor
+49B423|příjem
+49B4231|diplomová práce
+49B4232|diplom
+49B4233|čestný titul
+49B4233|čest
+49B43|učitel
+49B431|skupina
+49B44|student
+49B441|studium
+49B4411|noc
+49B442|studentský život
+49B4421|zvyklost
+49B4422|pokoj
+49B4423|láska
+49B4424|student prvního ročníku
+49B44241|immatrikulace
+49B4425|svátek
+49B4426|odesílání
+49B4427|vzpoura
+49B4428|organizace
+49B44281|klub
+49B44282|bratrstvo
+49B44283|zasvěcení
+49B44284|hostina
+49B44285|soutěž krásy
+49B4429|Žebrající student
+49B4429|bloudění
+49BB431|skupina
+49BB441|studium
+49BB4411|noc
+49BB442|studentský život
+49BB4421|zvyklost
+49BB4422|pokoj
+49BB4423|láska
+49BB4424|student prvního ročníku
+49BB44241|immatrikulace
+49BB4425|svátek
+49BB4426|odesílání
+49BB4427|vzpoura
+49BB4428|organizace
+49BB44281|klub
+49BB44282|bratrstvo
+49BB44283|zasvěcení
+49BB44284|hostina
+49BB44285|soutěž krásy
+49BB4429|Žebrající student
+49BB4429|bloudění
+49C0|Stuha
+49C0|Znalosti
+49C0|Věda
+49C0|Studium
+49C0|alegorie
+49C0|emblém
+49C0|erudice
+49C0|symbol
+49C01|pokušení
+49C01|světský
+49C011|ivory tower
+49C011|odříkání
+49C011|učenec
+49C1|Liberální umění
+49C1|humanitní vědy
+49C1|sedm
+49C11|personifikace
+49C11|tři
+49C11|trivia
+49C111|Gramatika
+49C111|Stuha
+49C111|gramatika
+49C112|Dialektika
+49C112|Dialektika
+49C112|Stuha
+49C112|logický
+49C113|Výslovnost
+49C113|Rétorika
+49C113|Rétorika
+49C113|Stuha
+49C113|výřečnost
+49C113|rétorika
+49C12|čtyři
+49C12|personifikace
+49C12|čtyři svobodná umění
+49C121|Aritmetika
+49C121|Aritmetika
+49C121|Stuha
+49C121|aritmetika
+49C122|Geometrie
+49C122|Stuha
+49C122|geometrie
+49C123|Astronomie
+49C123|Stuha
+49C123|astronomie
+49C124|Hudba
+49C124|Stuha
+49C124|hudba
+49C131|filozofie
+49C131|moudrost
+49C14|emblém
+49C14|symbol
+49C15|Vulgární umění
+49C15|kontrast
+49C16|fakulty
+49C16|čtyři
+49C16|čtyři fakulty
+49C161|teologie
+49C162|spravedlnost
+49C163|lékařství
+49C164|filozofie
+49C17|humanitní vědy
+49C2|filozofie
+49C20|Filozofie
+49C20|Filozofie
+49C20|Stuha
+49C201|diskutovat
+49C201|filozof
+49C21|disciplína
+49C211|Metafyzika
+49C211|Metafyzika
+49C211|Stuha
+49C211|metafyzika
+49C212|Logika
+49C212|Stuha
+49C212|logický
+49C213|epistemologie
+49C213|znalosti
+49C213|teorie
+49C2131|Talíř
+49C2131|Platónská jeskyně
+49C2131|jeskyně
+49C214|estetika
+49C3|filozof
+49C3|učenec
+49C31|skupina
+49C32|studie
+49C33|akademie
+49C33|učená společnost
+49C33|organizace
+49C34|bloudění
+49C4|dialog
+49C4|diskutovat
+49C4|sporný
+49C41|znepokojující
+49C41|přerušení
+49D|matematika
+49D0|Matematika
+49D0|Stuha
+49D1|aritmetika
+49D11|číslo
+49D11(10)|ten
+49D11(1095)|tisíc devadesát pět
+49D11(11)|žák
+49D11(12)|dvanáct
+49D11(13)|třináct
+49D11(16)|šestnáct
+49D11(2)|dva
+49D11(3)|tři
+49D11(4)|čtyři
+49D11(5)|pět
+49D11(6)|šest
+49D11(666)|666
+49D11(7)|sedm
+49D11(8)|osm
+49D11(9)|devět
+49D110|symbolika čísel
+49D110|symbol
+49D121|doplnění
+49D1211|Fibonacciho
+49D1211|Fibonacciho řada
+49D122|odečtení
+49D123|multiplikace
+49D124|dělení
+49D13|hodnocení
+49D13|měřítko
+49D131|desetinná stupnice
+49D132|binární stupnice
+49D2|algebra
+49D2|statistiky
+49D21|rovnice
+49D21|vzorec
+49D22|graf
+49D22|diagram
+49D22|obrazový graf
+49D3|geometrie
+49D3|planimetrie
+49D30|Ikonografie
+49D30|Půdorys
+49D30|Stuha
+49D31|bod
+49D32|řádek
+49D321|přímka
+49D3211|protínající se přímky
+49D3212|úhel
+49D3213|rovnoběžné přímky
+49D3214|zlatá střední cesta
+49D3214|zlatý řez
+49D3214|zlatý řez
+49D3214|sekce
+49D322|zakřivená čára
+49D3221|nesrovnalost
+49D3222|krása
+49D3222|pravidelnost
+49D3223|spirála
+49D33|trojúhelník
+49D331|rovnoramenný trojúhelník
+49D332|rovnostranný trojúhelník
+49D333|pravý úhel
+49D34|čtyřstranný
+49D341|nesrovnalost
+49D342|pravidelnost
+49D342(...)|deltoid
+49D342(...)|obdélník
+49D342(...)|kosočtverec
+49D342(...)|trapéz
+49D342(RHOMBUS)|pastilka
+49D342(SQUARE)|čtverec (tvar)
+49D35|mnohoúhelník
+49D351|nesrovnalost
+49D352|pravidelnost
+49D352(6)|šestiúhelník
+49D352(8)|osmibok
+49D36|kruh
+49D361|segment
+49D362|kvadratura kruhu
+49D363|obvod
+49D364|poloměr
+49D365|centrum
+49D366|průměr
+49D37|kužel
+49D37|kuželová sekce
+49D37|sekce
+49D371|elipsa
+49D372|parabola
+49D373|hyperbola
+49D4|geometrie
+49D4|pevný
+49D4|stereometrie
+49D40|Stuha
+49D40|Stereometrický
+49D41|Platónská tělesa
+49D41|pět
+49D42|roh
+49D421|hrana
+49D43|hranol
+49D431|trojúhelník
+49D432|čtyřúhelníkový hranol
+49D433|Paralelepiped
+49D44|pyramida
+49D441|trojúhelník
+49D442|čtyřúhelníková pyramida
+49D45|mnohostěn
+49D45|pravidelnost
+49D451|čtyřstěn
+49D452|kostka
+49D452|šestihranný
+49D453|osmistěn
+49D454|dodekahedron
+49D455|ikosahedron
+49D46|válec
+49D461|šroubovice
+49D461|spirála
+49D47|kužel
+49D48|glóbus
+49D481|elipsoid
+49D51|kresba
+49D511|kreslicí nástroje
+49D511|instrument
+49D511(...)|křivka
+49D511(...)|pantograf
+49D511(PROTRACTOR)|úhloměr
+49D511(RULER)|pravítko (kreslicí nástroj)
+49D5111|kompasy
+49D5112|úhelník (kreslicí nástroj)
+49D52|měření
+49D521|instrument
+49D521|měřicí přístroj
+49D521(...)|měřidlo (měřicí přístroj)
+49D521(...)|měřidlo
+49D521(...)|měřítko
+49D53|počítání
+49D531|výpočetní přístroj
+49D531|instrument
+49D531|stroj
+49D531(...)|počítací stroj
+49D531(...)|pokladna
+49D531(...)|logaritmické pravítko
+49D5311|počítadlo
+49D5311|počítací rám
+49D5312|pult
+49D5312|počítací deska
+49D5313|koberce
+49D5313|látka
+49D5313|účetní látka
+49D5314|odlévací pult
+49D5314|žeton
+49D5314|peníze
+49D54|počítač
+49D54|rovnice
+49D54|stroj
+49D541|notebook
+49D541|notebook
+49D542|tablet
+49D61|teorie množin
+49D61|teorie
+49D62|geometrie
+49D62|neevklidovská geometrie
+49D63|geometrie
+49D64|polygonometrie
+49D64|trigonometrie
+49D65|deskriptivní geometrie
+49D65|geometrie
+49D7|optický klam
+49D7|perspektiva
+49D70|Perspektivní
+49D70|Stuha
+49D70|alegorie
+49D71|anamorfóza
+49E1|astronomie
+49E1|kosmografie
+49E1|hvězda
+49E10|Astronomie
+49E10|Kosmografie
+49E10|Stuha
+49E11|astronomický přístroj
+49E11|instrument
+49E11|měřicí přístroj
+49E111|observatoř
+49E112|radioteleskop
+49E112|dalekohled
+49E12|graf
+49E12|mapa
+49E12|hvězdná mapa
+49E121|glóbus
+49E121|hvězdný glóbus
+49E122|armilární sféra
+49E122|nebeský glóbus
+49E122|glóbus
+49E123|planetárium
+49E123|planetárium
+49E13|kosmologické teorie
+49E13|teorie
+49E131|země
+49E131|geocentrická teorie
+49E132|heliocentrická teorie
+49E132|sluneční soustava
+49E132|oni
+49E133|rozšíření
+49E133|vesmír
+49E1331|Velký třesk
+49E21|fyzika
+49E210|Fyzika
+49E210|Stuha
+49E2111|relativita
+49E2111|teorie
+49E212|kvantová teorie
+49E212|teorie
+49E22|mechanika
+49E220|Mechanika
+49E220|Stuha
+49E221|dynamika
+49E221|kinetika
+49E2211|tření
+49E222|gravitace
+49E2221|kyvadlo
+49E2222|balistika
+49E2222|projektil
+49E223|mechanika tekutin
+49E223|hydraulika
+49E224|aerodynamika
+49E224|plyn
+49E2241|vakuová fyzika
+49E23|termodynamika
+49E24|akustika
+49E24|zvuk
+49E25|světlo
+49E25|optika
+49E251|instrument
+49E251|optický přístroj
+49E2511|čočka
+49E25111|hořící sklo
+49E25111|sluneční brýle
+49E2512|mikroskop
+49E2513|dalekohled
+49E2513|dalekohled
+49E2514|dalekohled
+49E2515|Trojrozměrný
+49E252|lom
+49E253|hranol
+49E2531|barva
+49E2531|sedm
+49E254|hořící zrcadlo
+49E254|konkávní zrcadlo
+49E254|zrcadlo
+49E255|zvětšení
+49E26|elektrodynamika
+49E26|elektromagnetika
+49E27|atomová fyzika
+49E27|molekulární fyzika
+49E27|jaderná fyzika
+49E271|atom
+49E271|elektron
+49E271|elementárnost
+49E271|molekula
+49E271|neutron
+49E271|částice
+49E2711|model
+49E272|radioaktivita
+49E2721|ochrana
+49E273|jaderná reakce
+49E3|chemie
+49E31|chemický symbol
+49E31|symbol
+49E32|anorganická chemie
+49E33|organická chemie
+49E39|alchymie
+49E391|alchymista
+49E391|měchy
+49E391|tavicí kelímek
+49E391|destilace
+49E391|destilační přístroj
+49E391|pec
+49E391|přesýpací hodiny
+49E391|stále
+49E3911|pokus (úsilí)
+49E3911|zlato
+49E3912|Kámen mudrců
+49E3912|vyhledávání
+49E3912|kámen
+49E3913|selhání
+49E3913|selhání
+49E392|alchymistický symbol
+49E392|symbol
+49E393|vybavení
+49E3931|plavidlo
+49E39311|ampulka
+49E39311|láhev
+49E39311(OVUM PHILOSOPHICUM)|vejce
+49E39311(OVUM PHILOSOPHICUM)|láhev
+49E39311(OVUM PHILOSOPHICUM)|Filozofické vejce
+49E39311(OVUM PHILOSOPHICUM)|filozofické vejce
+49E39312|dýně
+49E39312|láhev
+49E39313|jaro
+49E39313|být
+49E39313|pot
+49E39313(...)|láhev
+49E3932|pec
+49E3932(ASSAY FURNACE)|analýza pece
+49E3932(ASSAY FURNACE)|kalcinace
+49E3932(ATHANOR)|athanor
+49E3933|koupel
+49E3933|koupel
+49E3933(BALNEUM ARENAE)|Písková koupel
+49E3933(BALNEUM MARIAE)|Maryina koupel
+49E394|látka
+49E3941|síra
+49E3942|rtuť
+49E394211|pták Hermův
+49E3943|bude
+49E3944|věc
+49E3944|prvotní materiál
+49E3945|Kámen mudrců
+49E3945|kámen
+49E39451|kvintesence
+49E39452|Bílý kámen
+49E39453|Červený kámen
+49E3946|Vyberte si život
+49E39461|Všelék
+49E3949(ANTIMONY)|antimon
+49E3949(SAL AMMONIAC)|bude amoniak
+49E3949(SAL AMMONIAC)|amoniak
+49E3949(VITRIOL)|vitriol
+49E395|proces
+49E3951|čtyři
+49E3951|Skvělá práce
+49E3951|fáze
+49E3951|transmutace
+49E39511|černění
+49E39511|melanóza
+49E39511|nigredo
+49E39511|fáze
+49E39512|bělost
+49E39512|leukémie
+49E39512|fáze
+49E39512|bělení
+49E39513|citrinita
+49E39513|fáze
+49E39513|xantóza
+49E39513|žloutnutí
+49E39514|iOS
+49E39514|zarudnutí
+49E39514|zarudnutí
+49E39514|fáze
+49E3952|Skvělá práce
+49E3952|fáze
+49E3952|transmutace
+49E3952(CALCINATION)|kalcinace
+49E3952(CIBATION)|oslavit
+49E3952(COAGULATION)|srážení
+49E3952(COAGULATION)|upevnění
+49E3952(CONJUNCTION)|chemická svatba
+49E3952(CONJUNCTION)|spojka
+49E3952(CONJUNCTION)|svatba
+49E3952(DISTILLATION)|destillatio
+49E3952(DISTILLATION)|destilace
+49E3952(EXALTATION)|povýšení
+49E3952(MULTIPLICATION)|multiplikace
+49E3952(PROJECTION)|projekce
+49E3952(PUTREFACTION)|kvašení
+49E3952(PUTREFACTION)|hniloba
+49E3952(SEPARATION)|divize
+49E3952(SEPARATION)|oddělení
+49E3952(SOLUTION)|rozpuštění
+49E3952(SOLUTION)|řešení
+49E3952(SUBLIMATION)|sublimace
+49E3953|kombinování
+49E3954|interakce
+49E3954|reakce
+49E3954|látka
+49E39541|výměna
+49E39542|odpařování
+49E39542|rozpouštědlo
+49E39543|naproti
+49E395431|Měsíc
+49E395431|Rtuť
+49E395431|Miluji tě
+49E395431|Slunce
+49E395431|síra
+49E395431|oni
+49E4|krystalografie
+49E5|geologie
+49E51|mineralogie
+49E6|meteorologie
+49E61|observatoř
+49E7|technologie
+49E71|inženýrství
+49E8|laboratoř
+49E81|přístroj
+49E81|vybavení
+49E811|demonstrace
+49E811|oblíbené laboratorní zařízení
+49E9|experiment
+49E9|testování
+49E91|vynález
+49F|biology
+49F1|botanika
+49F1|děti
+49F11|botanická zahrada
+49F11|zahrada
+49F11|botanická zahrada
+49F12|Herbář
+49F2|zvíře
+49F2|zoologie
+49F21|experiment
+49F22|paleontologie
+49F3|antropologie
+49F3|fyzická antropologie
+49F31|kraniologie
+49G|lékařství
+49G0|Medicína
+49G0|Stuha
+49G0|alegorie
+49G01|emblém
+49G01|značka
+49G01|symbol
+49G011|prut a had
+49G012|pentagram
+49G1|lékař
+49G11|holič
+49G11|chirurg
+49G12|holič
+49G12|zubní lékař
+49G13|oftalmolog
+49G2|nemocný člověk
+49G21|svět
+49G211|návštěva
+49G22|ošetřovatelství
+49G23|léčení
+49G231|zázrak
+49G232|vkládání rukou
+49G233|duch
+49G24|lék
+49G25|zotavení
+49G251|zhoršení
+49G26|předstírání
+49G29|hypochondr
+49G3|vyšetření
+49G3|léčba
+49G31|poradenství
+49G31|diagnóza
+49G31|lékař
+49G31|nemocný člověk
+49G311|moč
+49G3111|košík
+49G3111|pisoár
+49G312|teploty
+49G312|teploměr
+49G3121|graf
+49G3121|teplotní graf
+49G313|jazyk
+49G314|stetoskop
+49G315|tělo
+49G315|perkuse
+49G3151|kopání
+49G3151|koleno
+49G3151|reflex
+49G316|pulz
+49G317|předpis
+49G317|psaní
+49G32|antiseptika
+49G321|bandáž
+49G321|mast
+49G322|imobilizace
+49G322|náplast
+49G322|popruh
+49G322|dlahy
+49G33|očista
+49G331|klystýr
+49G331|stříkat
+49G34|krvácení
+49G34|baňka
+49G341|krvežíznivý
+49G341|pijavice
+49G342|baňkování muž
+49G35|operace
+49G350|Chirurgie
+49G351|operační sál
+49G351|pokoj
+49G351|divadlo
+49G352|narkóza
+49G353|amputace
+49G353|odstřihnutí
+49G3531|umělá končetina
+49G3531|protéza
+49G354|transplantace
+49G359|instrument
+49G36|koupel
+49G36|tok vod
+49G36|vody
+49G361|lázně
+49G361|lázeňské město
+49G37|injekce
+49G37|injekční stříkačka
+49G371|očkování
+49G372|infuze
+49G373|krev
+49G373|transfuze
+49G38|elektroterapie
+49G38|radioterapie
+49G381|rentgen
+49G39|masáž
+49G4|nemocnice
+49G41|pokoj
+49G41|oddělení
+49G42|nemocný (the)
+49G42|návštěva
+49G43|zdravotní sestra
+49G431|muž
+49G44|sanitka
+49G44|přeprava
+49G44|přeprava
+49G51|azyl
+49G51|nakažlivá nemoc
+49G51|nemocnice
+49G511|izolace
+49G511|karanténa
+49G52|azyl
+49G52|blázinec
+49G52|duševní domov
+49G6|lékařský výzkum
+49G6|výzkum
+49G6|specialista
+49G61|anatomie
+49G61|fyziologie
+49G611|oběhový systém
+49G612|dýchání
+49G613|trávicí trakt
+49G613|trávicí systém
+49G6131|zubní lékařství
+49G614|kůže
+49G615|endokrinní systém
+49G616|urogenitální systém
+49G6161|gynekologie
+49G6161|porodnictví
+49G617|pohybový aparát
+49G618|smysly
+49G6181|oftalmologie
+49G619|nerv
+49G619|neurologie
+49G621|pitva
+49G621|patolog
+49G6211|pitevna
+49G6211|anatomický sál
+49G6212|lekce anatomie
+49G6212|výuka
+49G6213|anatomický vzorek
+49G622|anatomický model
+49G622|pět
+49G622|lidská postava
+49G622|model
+49G6221|kostra
+49G6222|sval
+49G6222|stáhnutý z kůže
+49G6223|víno
+49G6224|tepna
+49G6225|nerv
+49G63|bakteriologie
+49G64|dítě
+49G64|pediatrie
+49G65|geriatrie
+49G65|stáří
+49G71|psychologie
+49G711|testování
+49G712|grafologie
+49G712|rukopis
+49G712|testování
+49G72|psychiatrist
+49G721|pohovka
+49G721|psychoanalýza
+49G8|lékárna
+49G81|lék
+49G811|doktrína
+49G811|podpisy (doktrína)
+49G812|jed
+49G82|lékárník
+49G82|lékárna
+49G82|lékárna
+49G82|lékárník
+49G83|nástroj
+49G831|malta
+49G831|pestle
+49G84|Zírající ústa
+49G84|obchod
+49G84|vývěsní štít
+49G84|zívání
+49G9|folklór
+49G9|nelegální
+49G9|lidová medicína
+49G91|šarlatán
+49G91|trh
+49G91|šarlatán
+49G91|šarlatán
+49G91|akrobat
+49G911|Malleghem (Čarodějnice z)
+49G911|řezání
+49G911|operace
+49G911|kámen
+49G911|operace s kamenem
+49G911|čarodějnice
+49G912|zubní lékař
+49G912|molární
+49G912|vytahování
+49G912|zub
+49G914|jídlo
+49G914|žába
+49G914|had
+49G914|pavouk
+49G914|pokoje
+49H|společenské vědy
+49H1|sociologie
+49H2|folklór
+49H3|antropologie
+49H3|kulturní antropologie
+49H3|etnologie
+49I|zeměpis
+49I0|Geografie
+49I1|expedice
+49I1|průzkum
+49I1|nález
+49I1|cesta
+49I11|prozkoumat
+49K1|archeologie
+49K1|historie
+49K10|Historie
+49K10|Stuha
+49K11|kopání
+49K11|výkop
+49K12|kniha
+49K12|kronika
+49K2|umění
+49K2|dějiny umění
+49K3|filologie
+49K31|lingvistika
+49K32|jazyk
+49K321|stát se
+49K322|věta
+49K322|věta (fráze)
+49L1|abeceda
+49L1|písmeno (znak)
+49L10|vynález
+49L11|rukopis
+49L11|psaní
+49L111|sekretářka
+49L112|pero
+49L112|brk
+49L112|ostření
+49L113|mazání
+49L113|text
+49L12|římské písmo
+49L13|řecké písmo
+49L141|hebrejské písmo
+49L142|arabské písmo
+49L15|ozdobný dopis
+49L15|ornament
+49L16|anagram
+49L16|čtverec dopisu
+49L16|letterword
+49L16|monogram
+49L17|počáteční
+49L171|historiovaná iniciála
+49L2|ideografické písmo
+49L2|písmeno (znak)
+49L2|obrazové písmo
+49L21|egyptské písmo
+49L21|hieroglyf
+49L211|ozdobný hieroglyf
+49L211|Hieroglyfický
+49L22|klínové písmo
+49L23|čínské písmo
+49L23|japonské písmo
+49L23|korejské písmo
+49L23|orientální písmo
+49L24|Aztécké písmo
+49L24|Inca skript
+49L24|Mayský písmo
+49L24|starověké americké písmo
+49L25|piktogram
+49L251|věcí
+49L26|ars memorandi
+49L26|paměť
+49L26|mnemotechnika
+49L27|pole
+49L27|vlastnictví
+49L271|vlastní značka
+49L271|vlastní značka
+49L31|stenografie
+49L31|stenografie
+49L32|kryptografie
+49L32|tajnost
+49L33|zrcadlové psaní
+49L4|kaligrafie
+49L4|písmo
+49L5|nástroj
+49L5|nástroj pro psaní
+49L51|pero
+49L511|brk
+49L52|tužka
+49L6|doplňky
+49L6|psací potřeby
+49L61|inkoust
+49L611|pouze
+49L611|ink-blot
+49L62|inkoustová lahvička
+49L62|kalamář
+49L63|nůž
+49L63|kapesní nůž
+49L64|povrch pro psaní
+49L641|papír
+49L6411|notebook
+49L642|papyrus
+49L643|pergamen
+49L643|pergamen z jelení kůže
+49L644|psací tabule
+49L6441|Tabule
+49L6442|bílá tabule
+49L645|tablet
+49L645|psací tablet
+49L6451|hlína
+49L6451|hliněná tabulka
+49L6451|kámen
+49L6451|kamenná deska
+49L64511|smaragdová tabulka
+49L64511|smaragdové tabulky
+49L64511|stůl smaragdový
+49L6452|mluvit
+49L6452|vosková tabulka
+49L6453|břidlice
+49L65|tam
+49L65|razítko
+49L651|pečetní vosk
+49L651|mluvit
+49L66|stůl
+49L66|psací stůl
+49L67(ERASER)|guma
+49L67(PAPERCLIP)|sponka na papír
+49L67(PAPERWEIGHT)|těžítko
+49L7|dokument
+49L7|rukopis
+49L7|rukopis
+49L71|posouvat
+49L711|box (kontejner)
+49L711|kapsa
+49L72|kniha
+49L72|kodex
+49L73|transparent
+49L8|registrace
+49L81|graffiti
+49M|výroba knih
+49M|výroba
+49M1|tisk
+49M10|Stuha
+49M10|Tisk
+49M11|stroj
+49M11|tisk
+49M121|tání
+49M121|písmolijec
+49M122|sazeč
+49M123|tiskárna
+49M124|korektor
+49M13|písmeno (znak)
+49M13|tisk (typ)
+49M13|typ (tisk)
+49M13(...)|Garamond
+49M14|nástroj
+49M2|stroj
+49M2|násobení
+49M21|psací stroj
+49M22|multiplikátor
+49M23|Xerox stroj
+49M23|kopírovat
+49M23|fotostatický přístroj
+49M3|tiskoviny
+49M31|velkoformátový list
+49M31|leták
+49M32|kniha
+49M32|uzavřená kniha
+49M32|otevřená kniha
+49M321|knižní ilustrace
+49M321|ilustrace
+49M3211|bloková kniha
+49M3212|komiks
+49M3212|komiks
+49M3212|pás
+49M322|brožura
+49M4|dekorace
+49M41|knižní ilustrace
+49M41|ilustrace
+49M411|přední strana obálky
+49M412|nálepka
+49M413|historiovaná iniciála
+49M413|počáteční
+49M42|ornament
+49M43|strana
+49M43|titulní strana
+49M431|zařízení
+49M431|pole
+49M431|tiskárna
+49M5|vazba
+49M5|vazba knih
+49M51|obálka knihy
+49M51|obálka
+49M511|reklamní text
+49M511|obálka knihy
+49M52|spona
+49M53|kniha s kapsičkami
+49M53|pásová kniha
+49M6|vydavatel
+49M6|vydavatelství
+49M7|knihkupec
+49M7|knihkupectví
+49M7|obchod
+49M71|antikvariát
+49M71|antikvariát
+49M72|knihkupectví
+49M72|stánek
+49M72|kiosek
+49M72|stabilní
+49M8|Z knihovny
+49M9|knihovna
+49M9|veřejná knihovna
+49M91|archiv
+49MM3211|bloková kniha
+49MM3212|komiks
+49MM3212|komiks
+49MM3212|pás
+49N|čtení
+49N1|hlasité čtení
+49N2|doplňky
+49N2|čtecí příslušenství
+49N21|pult
+49N22|ukazatel
+49N23|záložka
+49N23|značení
