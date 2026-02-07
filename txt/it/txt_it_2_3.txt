@@ -4693,6 +4693,7 @@
 34B112|cane con un osso
 34B113|cane da guardia, cane che fa la guardia
 34B114|portare a spasso il cane
+34B1141|tenere un cane al guinzaglio
 34B12|gatto
 34B12(...)|gatto (col NOME della razza)
 34B121|gatto e topo

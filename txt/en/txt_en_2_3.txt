@@ -4698,6 +4698,7 @@
 34B112|dog with bone
 34B113|watch-dog, dog watching
 34B114|walking the dog
+34B1141|holding a dog on a leash
 34B12|cat
 34B12(...)|cat (with NAME of kind)
 34B121|cat and mouse

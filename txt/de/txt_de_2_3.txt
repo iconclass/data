@@ -4694,6 +4694,7 @@
 34B112|Hund mit Knochen
 34B113|Wachhund
 34B114|den Hund ausführen
+34B1141|einen Hund an der Leine halten
 34B12|Katze
 34B12(...)|Katze (mit NAMEN der Rasse)
 34B121|Katze und Maus

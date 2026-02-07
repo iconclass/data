@@ -4635,6 +4635,7 @@
 34B112|cão com osso
 34B113|cão de guarda, cão que guarda
 34B114|passear o cão
+34B1141|segurando um cão na trela
 34B12|gato
 34B12(...)|gato (com NOME da raça)
 34B121|gato e rato

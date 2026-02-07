@@ -4694,6 +4694,7 @@
 34B112|chien avec un os
 34B113|chien de garde, chien qui garde
 34B114|promener le chien
+34B1141|tenant un chien en laisse
 34B12|chat
 34B12(...)|chat (avec NOM de l'espèce)
 34B121|chat et souris

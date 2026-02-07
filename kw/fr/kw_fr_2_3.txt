@@ -5798,6 +5798,7 @@
 34B112|os
 34B113|chien de garde
 34B114|promener le chien
+34B1141|laisse
 34B12|chat
 34B121|souris
 34B13|oiseau

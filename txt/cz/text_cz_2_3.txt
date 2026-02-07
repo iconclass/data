@@ -4698,6 +4698,7 @@
 34B112|pes s kostí
 34B113|watch-dog, dog watching
 34B114|venčení psa
+34B1141|držení psa na vodítku
 34B12|cat
 34B12(...)|kočka (se jménem druhu)
 34B121|kočka a myš

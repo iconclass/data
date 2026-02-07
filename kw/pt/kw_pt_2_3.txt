@@ -5729,6 +5729,7 @@
 34B112|osso
 34B113|watch-dog
 34B114|passear com o cão
+34B1141|coleira
 34B12|gato
 34B121|rato
 34B13|pássaro

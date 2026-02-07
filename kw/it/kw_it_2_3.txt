@@ -5811,6 +5811,7 @@
 34B112|osso
 34B113|cane da guardia
 34B114|portare a spasso il cane
+34B1141|guinzaglio
 34B12|gatto
 34B121|topo
 34B13|uccello

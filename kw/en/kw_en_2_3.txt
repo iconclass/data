@@ -5733,6 +5733,7 @@
 34B112|bone
 34B113|watch-dog
 34B114|walking the dog
+34B1141|leash
 34B12|cat
 34B121|mouse
 34B13|bird

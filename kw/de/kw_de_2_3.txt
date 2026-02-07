@@ -6316,6 +6316,7 @@
 34B112|Knochen
 34B113|Wachhund
 34B114|ausfuehren (den Hund)
+34B1141|Leine
 34B12|Katze
 34B121|Maus
 34B13|Vogel
