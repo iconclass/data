@@ -1515,6 +1515,7 @@
 25G31(BOX)|shrubs: box
 25G31(BROOM)|shrubs: broom
 25G31(BUCKTHORN)|shrubs: buckthorn
+25G31(HAWTHORN)|shrubs: hawthorn
 25G31(HAZEL)|shrubs: hazel
 25G31(JUNIPER)|shrubs: juniper
 25G31(MYRTLE)|shrubs: myrtle
@@ -1545,7 +1546,6 @@
 25G4(GERMANDER)|plants and herbs: germander
 25G4(GIANT FENNEL)|plants and herbs: giant fennel
 25G4(GROUNDSEL)|plants and herbs: groundsel
-25G4(HAWTHORN)|plants and herbs: hawthorn
 25G4(HELLEBORE)|plants and herbs: hellebore
 25G4(HEMLOCK)|plants and herbs: hemlock
 25G4(HENBANE)|plants and herbs: henbane
@@ -1745,7 +1745,6 @@
 25GG4(GERMANDER)|plants and herbs: germander - GG - fantastic plants, fabulous vegetation
 25GG4(GIANT FENNEL)|plants and herbs: giant fennel - GG - fantastic plants, fabulous vegetation
 25GG4(GROUNDSEL)|plants and herbs: groundsel - GG - fantastic plants, fabulous vegetation
-25GG4(HAWTHORN)|plants and herbs: hawthorn - GG - fantastic plants, fabulous vegetation
 25GG4(HELLEBORE)|plants and herbs: hellebore - GG - fantastic plants, fabulous vegetation
 25GG4(HEMLOCK)|plants and herbs: hemlock - GG - fantastic plants, fabulous vegetation
 25GG4(HENBANE)|plants and herbs: henbane - GG - fantastic plants, fabulous vegetation

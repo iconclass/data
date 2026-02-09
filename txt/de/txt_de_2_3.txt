@@ -1514,6 +1514,7 @@
 25G31(BOX)|Sträucher: Buchsbaum
 25G31(BROOM)|Sträucher: Ginster
 25G31(BUCKTHORN)|Sträucher: Wegdorn
+25G31(HAWTHORN)|Sträucher: Weißdorne
 25G31(HAZEL)|Sträucher: Haselnußstrauch
 25G31(JUNIPER)|Sträucher: Wacholderstrauch
 25G31(MYRTLE)|Sträucher: Myrtenstrauch
@@ -1544,7 +1545,6 @@
 25G4(GERMANDER)|Pflanzen und Kräuter: Gamander
 25G4(GIANT FENNEL)|Pflanzen und Kräuter: Gemeines Steckenkraut, Fenchel
 25G4(GROUNDSEL)|Pflanzen und Kräuter: Kreuzkraut
-25G4(HAWTHORN)|Pflanzen und Kräuter: Weißdorne
 25G4(HELLEBORE)|Pflanzen und Kräuter: Nieswurz
 25G4(HEMLOCK)|Pflanzen und Kräuter: Schierling
 25G4(HENBANE)|Pflanzen und Kräuter: Bilsenkraut
@@ -1744,7 +1744,6 @@
 25GG4(GERMANDER)|Pflanzen und Kräuter: Gamander - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(GIANT FENNEL)|Pflanzen und Kräuter: Gemeines Steckenkraut, Fenchel - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(GROUNDSEL)|Pflanzen und Kräuter: Kreuzkraut - GG - Phantasiepflanzen, erfundene Vegetation
-25GG4(HAWTHORN)|Pflanzen und Kräuter: Weißdorne - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(HELLEBORE)|Pflanzen und Kräuter: Nieswurz - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(HEMLOCK)|Pflanzen und Kräuter: Schierling - GG - Phantasiepflanzen, erfundene Vegetation
 25GG4(HENBANE)|Pflanzen und Kräuter: Bilsenkraut - GG - Phantasiepflanzen, erfundene Vegetation

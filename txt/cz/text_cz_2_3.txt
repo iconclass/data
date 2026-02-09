@@ -1515,6 +1515,7 @@
 25G31(BOX)|shrubs: box
 25G31(BROOM)|shrubs: broom
 25G31(BUCKTHORN)|shrubs: buckthorn
+25G31(HAWTHORN)|shrubs: hloh
 25G31(HAZEL)|shrubs: hazel
 25G31(JUNIPER)|shrubs: juniper
 25G31(MYRTLE)|shrubs: myrtle
@@ -1545,7 +1546,6 @@
 25G4(GERMANDER)|rostliny a byliny: germander
 25G4(GIANT FENNEL)|rostliny a byliny: fenykl obrovský
 25G4(GROUNDSEL)|rostliny a byliny: podzemnice olejná
-25G4(HAWTHORN)|rostliny a byliny: hloh
 25G4(HELLEBORE)|rostliny a byliny: čemeřice
 25G4(HEMLOCK)|rostliny a byliny: bolehlav
 25G4(HENBANE)|rostliny a byliny: henbane
@@ -1745,7 +1745,6 @@
 25GG4(GERMANDER)|rostliny a byliny: germander - GG - fantastické rostliny, báječná vegetace
 25GG4(GIANT FENNEL)|rostliny a byliny: fenykl obrovský - GG - fantastické rostliny, báječná vegetace
 25GG4(GROUNDSEL)|rostliny a byliny: zemědým - GG - fantastické rostliny, báječná vegetace
-25GG4(HAWTHORN)|rostliny a byliny: hloh - GG - fantastické rostliny, báječná vegetace
 25GG4(HELLEBORE)|rostliny a byliny: čemeřice - GG - fantastické rostliny, báječná vegetace
 25GG4(HEMLOCK)|rostliny a byliny: bolehlav - GG - fantastické rostliny, báječná vegetace
 25GG4(HENBANE)|rostliny a byliny: henbane - GG - fantastické rostliny, báječná vegetace

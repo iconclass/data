@@ -1514,6 +1514,7 @@
 25G31(BOX)|arbusti: bosso
 25G31(BROOM)|arbusti: ginestra
 25G31(BUCKTHORN)|arbusti: ramno
+25G31(HAWTHORN)|arbusti: biancospino
 25G31(HAZEL)|arbusti: nocciolo
 25G31(JUNIPER)|arbusti: ginepro
 25G31(MYRTLE)|arbusti: mirto
@@ -1544,7 +1545,6 @@
 25G4(GERMANDER)|piante ed erbe: camedrio
 25G4(GIANT FENNEL)|piante ed erbe: finocchio gigante
 25G4(GROUNDSEL)|piante ed erbe: senecione
-25G4(HAWTHORN)|piante ed erbe: biancospino
 25G4(HELLEBORE)|piante ed erbe: elleboro
 25G4(HEMLOCK)|piante ed erbe: cicuta
 25G4(HENBANE)|piante ed erbe: ebano
@@ -1744,7 +1744,6 @@
 25GG4(GERMANDER)|piante ed erbe: camedrio - GG - piante fantastiche, vegetazione fantastica
 25GG4(GIANT FENNEL)|piante ed erbe: finocchio gigante - GG - piante fantastiche, vegetazione fantastica
 25GG4(GROUNDSEL)|piante ed erbe: senecione - GG - piante fantastiche, vegetazione fantastica
-25GG4(HAWTHORN)|piante ed erbe: biancospino - GG - piante fantastiche, vegetazione fantastica
 25GG4(HELLEBORE)|piante ed erbe: elleboro - GG - piante fantastiche, vegetazione fantastica
 25GG4(HEMLOCK)|piante ed erbe: cicuta - GG - piante fantastiche, vegetazione fantastica
 25GG4(HENBANE)|piante ed erbe: ebano - GG - piante fantastiche, vegetazione fantastica
