@@ -1544,6 +1544,7 @@
 25G4(GERMANDER)|plantes et herbes : germandrée
 25G4(GIANT FENNEL)|plantes et herbes : férule
 25G4(GROUNDSEL)|plantes et herbes : séneçon
+25G4(HAWTHORN)|plantes et herbes : aubépine
 25G4(HELLEBORE)|plantes et herbes : ellébore
 25G4(HEMLOCK)|plantes et herbes : ciguë
 25G4(HENBANE)|plantes et herbes : jusquiame
@@ -1743,6 +1744,7 @@
 25GG4(GERMANDER)|plantes et herbes : germandrée - GG - plantes fantastiques, végétation fictive
 25GG4(GIANT FENNEL)|plantes et herbes : férule - GG - plantes fantastiques, végétation fictive
 25GG4(GROUNDSEL)|plantes et herbes : séneçon - GG - plantes fantastiques, végétation fictive
+25GG4(HAWTHORN)|plantes et herbes : aubépine - GG - plantes fantastiques, végétation fictive
 25GG4(HELLEBORE)|plantes et herbes : ellébore - GG - plantes fantastiques, végétation fictive
 25GG4(HEMLOCK)|plantes et herbes : ciguë - GG - plantes fantastiques, végétation fictive
 25GG4(HENBANE)|plantes et herbes : jusquiame - GG - plantes fantastiques, végétation fictive

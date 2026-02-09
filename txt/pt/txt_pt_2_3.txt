@@ -1510,6 +1510,7 @@
 25G4(GERMANDER)|plantas e ervas: camédrios, carvalhinha
 25G4(GIANT FENNEL)|plantas e ervas: canafrecha, férula-vulgar
 25G4(GROUNDSEL)|plantas e ervas: senécio
+25G4(HAWTHORN)|plantas e ervas: espinheiro
 25G4(HELLEBORE)|plantas e ervas: heléboro e afins
 25G4(HEMLOCK)|plantas e ervas: cicuta
 25G4(HENBANE)|plantas e ervas: meimendro
@@ -1707,6 +1708,7 @@
 25GG4(GERMANDER)|plantas e ervas: camédrios, carvalhinha - DD - plantas fantásticas, vegetação fantástica
 25GG4(GIANT FENNEL)|plantas e ervas: canafrecha, férula-vulgar - DD - plantas fantásticas, vegetação fantástica
 25GG4(GROUNDSEL)|plantas e ervas: senécio - DD - plantas fantásticas, vegetação fantástica
+25GG4(HAWTHORN)|plantas e ervas: espinheiro - DD - plantas fantásticas, vegetação fantástica
 25GG4(HELLEBORE)|plantas e ervas: heléboro e afins - DD - plantas fantásticas, vegetação fantástica
 25GG4(HEMLOCK)|plantas e ervas: cicuta - DD - plantas fantásticas, vegetação fantástica
 25GG4(HENBANE)|plantas e ervas: meimendro - DD - plantas fantásticas, vegetação fantástica
