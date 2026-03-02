@@ -128,11 +128,8 @@ def read_txt(lang, kw_or_text):
                 if len(tmp) != 2:
                     continue
                 notation, txt = tmp
-                if notation in d:
-                    d[notation] = d[notation] + "\n" + txt
-                else:
-                    d[notation] = txt
-    return d
+                d.setdefault(notation, []).append(txt)
+    return {k: "\n".join(v) for k, v in d.items()}
 
 
 def dump(lang):
