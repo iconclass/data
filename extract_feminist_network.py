@@ -113,8 +113,9 @@ def build_network(
                 )
 
     extras = [feminist_notation]
+    existing_ids = {n["id"] for n in nodes}
     for notation in extras:
-        if notation not in {n["id"] for n in nodes}:
+        if notation not in existing_ids:
             nodes.append(
                 {
                     "id": notation,
