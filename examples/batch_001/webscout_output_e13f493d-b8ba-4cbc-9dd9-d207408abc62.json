@@ -1,0 +1,34 @@
+{
+  "search_results": [
+    {
+      "evidence_id": "ebe5a0b2-2153-4c1f-bf26-7090fc41c177",
+      "source_type": "museum_record",
+      "title": "Alegoria da Justiça (séc. XVIII)",
+      "url": "https://example.org/museum/item/12345",
+      "abnt_citation": "MUSEU NACIONAL DE BELAS ARTES. **Alegoria da Justiça (séc. XVIII)**. 2024. Disponível em: <https://example.org/museum/item/12345>. Acesso em: 02 mar. 2026.",
+      "iconclass_candidates": [
+        "48C514",
+        "31AA231"
+      ],
+      "notes": "Pintura a óleo, escola portuguesa",
+      "score": 0.85
+    },
+    {
+      "evidence_id": "4a90f16f-d5e4-4b72-a61c-62f09fe17944",
+      "source_type": "vocabulary",
+      "title": "Justice (allegory)",
+      "url": "https://iconclass.org/48C514",
+      "abnt_citation": "ICONCLASS. **Justice (allegory)**. Notação: 48C514. 2024. Disponível em: <https://iconclass.org/48C514>. Acesso em: 02 mar. 2026.",
+      "iconclass_candidates": [
+        "48C514"
+      ],
+      "notes": "ICONCLASS definition",
+      "score": 0.95
+    }
+  ],
+  "summary_evidence": "Encontrados 2 resultados relevantes com correspondência iconográfica ICONCLASS 48C514 (Justice).",
+  "gaps": [
+    "Informações sobre contexto legal brasileiro limitadas",
+    "Necessário verificar atribuição autoral"
+  ]
+}

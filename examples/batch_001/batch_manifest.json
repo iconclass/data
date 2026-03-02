@@ -1,0 +1,34 @@
+{
+  "batch_id": "ac48fbfe-da55-4d26-af0b-861bcc98deb2",
+  "name": "Female Legal Allegories - Pilot Batch",
+  "created_at": "2026-03-02T12:00:49.213523",
+  "params": {
+    "layer_pack": "default-justice-pack-v1",
+    "concurrency": 8,
+    "max_retries": 4,
+    "scoring_formula": "default"
+  },
+  "status": "created",
+  "items": [
+    {
+      "item_id": "e13f493d-b8ba-4cbc-9dd9-d207408abc62",
+      "batch_id": "ac48fbfe-da55-4d26-af0b-861bcc98deb2",
+      "input_url": "https://example.org/museum/item/12345",
+      "title_hint": "Alegoria da Justiça",
+      "date_hint": "XVIII century",
+      "place_hint": "Brasil",
+      "status": "pending",
+      "hash": "3bd9f42c3dac5f749ea64b528d711c42713d967a8d423a353cd9efa97ae2ad7c"
+    },
+    {
+      "item_id": "dff72060-3ffc-4ee4-ac51-4704cd6c32de",
+      "batch_id": "ac48fbfe-da55-4d26-af0b-861bcc98deb2",
+      "input_url": "https://example.org/archive/document/67890",
+      "title_hint": "Themis na iconografia jurídica",
+      "date_hint": "XIX century",
+      "place_hint": "Portugal",
+      "status": "pending",
+      "hash": "2d77eb5f4e214a50938d2ebde96b10c3270c1d1bd94782bfa81d35ce350066f8"
+    }
+  ]
+}

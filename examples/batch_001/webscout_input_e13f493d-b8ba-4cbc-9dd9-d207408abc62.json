@@ -1,0 +1,19 @@
+{
+  "query_type": "item",
+  "target": "Alegoria da Justiça",
+  "context": {
+    "period": "XVIII century",
+    "region": "Brasil",
+    "languages": [
+      "pt",
+      "en",
+      "es",
+      "fr"
+    ]
+  },
+  "constraints": {
+    "max_results": 50,
+    "must_have_image": true,
+    "must_have_institution": false
+  }
+}
