@@ -67,6 +67,7 @@ def read_notations(filename, cursor):
     rowid = 1
     INSERT_SQL = "INSERT INTO notations VALUES (?, ?, ?, ?, ?)"
     notation_ids = {}
+    rows = []
     with open(filename, "rt", encoding="utf8") as input_file:
         for lineno, chunk in enumerate(input_file.read().split("\n$")):
             try:
@@ -81,10 +82,10 @@ def read_notations(filename, cursor):
             refs = "|".join(obj.get("r", [])) or None
             key = obj.get("k")
             if notation:
-                data = (rowid, notation, children, refs, key)
-                cursor.execute(INSERT_SQL, data)
                 notation_ids[notation] = rowid
+                rows.append((rowid, notation, children, refs, key))
                 rowid += 1
+    cursor.executemany(INSERT_SQL, rows)
     return notation_ids
 
 
@@ -93,6 +94,7 @@ def read_texts(txt_type, notation_ids, filename, language, cursor):
     INSERT_SQL = (
         "INSERT INTO texts (ref, type, language, text) VALUES (?, %s, ?, ?)" % txt_type
     )
+    rows = []
     with open(filename, "rt", encoding="utf8") as input_file:
         for line in input_file.read().split("\n"):
             if line.startswith("#"):
@@ -105,8 +107,8 @@ def read_texts(txt_type, notation_ids, filename, language, cursor):
             ref = notation_ids.get(notation)
             if not ref:
                 continue
-            data = (ref, language, txt)
-            cursor.execute(INSERT_SQL, data)
+            rows.append((ref, language, txt))
+    cursor.executemany(INSERT_SQL, rows)
 
 
 def read_keys(notation_ids, filename, cursor):
@@ -118,17 +120,17 @@ def read_keys(notation_ids, filename, cursor):
     INSERT_SQL1 = "INSERT INTO keys (id, code, suffix) VALUES (?, ?, ?)"
 
     keys_ids = {}
+    rows = []
     with open(filename, "rt", encoding="utf8") as input_file:
         for chunk in input_file.read().split("\n$"):
             obj = parse_dbtxt(chunk)
             code = obj.get("k")
             for suffix in obj.get("s", []):
                 row_id += 1
-                data = (row_id, code, suffix)
-                cursor.execute(INSERT_SQL1, data)
+                rows.append((row_id, code, suffix))
                 keys_ids[f"{code}{suffix}"] = row_id
             notation_ids[code] = row_id
-            
+    cursor.executemany(INSERT_SQL1, rows)
     return keys_ids
 
 if __name__ == "__main__":
