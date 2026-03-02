@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
-from collections import defaultdict
+from collections import defaultdict, Counter
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
@@ -147,7 +147,9 @@ class EvidenceTracer:
     def generate_report(self) -> Dict[str, Any]:
         """Generate comprehensive evidence traceability report."""
         total_claims = self.stats["total_claims"]
-        
+        severity_counts = Counter(i["severity"] for i in self.issues)
+        type_counts = Counter(i["type"] for i in self.issues)
+
         return {
             "summary": {
                 "total_records": self.stats["total_records"],
@@ -183,14 +185,11 @@ class EvidenceTracer:
             "issues": {
                 "total": len(self.issues),
                 "by_severity": {
-                    "high": len([i for i in self.issues if i["severity"] == "high"]),
-                    "medium": len([i for i in self.issues if i["severity"] == "medium"]),
-                    "low": len([i for i in self.issues if i["severity"] == "low"]),
+                    "high": severity_counts["high"],
+                    "medium": severity_counts["medium"],
+                    "low": severity_counts["low"],
                 },
-                "by_type": dict(
-                    (issue_type, len([i for i in self.issues if i["type"] == issue_type]))
-                    for issue_type in set(i["type"] for i in self.issues)
-                ),
+                "by_type": dict(type_counts),
                 "details": self.issues,
             },
             "claim_details": self.claim_details,
