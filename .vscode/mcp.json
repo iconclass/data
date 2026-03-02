@@ -11,7 +11,11 @@
 				"ghcr.io/github/github-mcp-server"
 			],
 			"env": {
+<<<<<<< Updated upstream
 				"GITHUB_PERSONAL_ACCESS_TOKEN": "${input:github_token}"
+=======
+				"GITHUB_PERSONAL_ACCESS_TOKEN": "${input:github_token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}"
+>>>>>>> Stashed changes
 			},
 			"type": "stdio"
 		}
