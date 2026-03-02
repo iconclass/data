@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "google.geminicodeassist"
+        "google.geminicodeassist",
+        "chakrounanas.turbo-console-log"
     ]
 }
