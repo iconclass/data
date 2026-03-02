@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/master-record.schema.json",
+  "title": "MasterRecord",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "master_record_version",
+    "batch_id",
+    "item_id",
+    "item_hash",
+    "input",
+    "webscout",
+    "iconocode",
+    "exports",
+    "timestamps"
+  ],
+  "properties": {
+    "master_record_version": { "type": "string" },
+    "batch_id": { "type": "string", "format": "uuid" },
+    "item_id": { "type": "string", "format": "uuid" },
+    "item_hash": { "type": "string", "minLength": 16 },
+    "input": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["input_url"],
+      "properties": {
+        "input_url": { "type": "string", "format": "uri" },
+        "title_hint": { "type": "string" },
+        "date_hint": { "type": "string" },
+        "place_hint": { "type": "string" }
+      }
+    },
+    "webscout": { "$ref": "webscout-output.schema.json" },
+    "iconocode": { "$ref": "iconocode-output.schema.json" },
+    "exports": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["abnt_citations", "audit_flags"],
+      "properties": {
+        "abnt_citations": { "type": "array", "items": { "type": "string" } },
+        "audit_flags": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "timestamps": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["created_at", "updated_at"],
+      "properties": {
+        "created_at": { "type": "string", "format": "date-time" },
+        "updated_at": { "type": "string", "format": "date-time" }
+      }
+    }
+  }
+}

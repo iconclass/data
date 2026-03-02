@@ -1,0 +1,624 @@
+{
+  "root": "48C51",
+  "root_label": "pintura (incluindo iluminura e miniatura)",
+  "subtree_size": 53,
+  "nodes": [
+    {
+      "id": "48C51",
+      "label": "pintura (incluindo iluminura e miniatura)",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C510",
+      "label": "\"Pictura\", representações simbólicas, alegorias e emblemas ~ pintura; \"Pittura\" (Ripa)",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5101",
+      "label": "a origem da pintura e do desenho",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C511",
+      "label": "pintor no trabalho, no seu ateliê",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5110",
+      "label": "inspiração do pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51101",
+      "label": "o pintor e sua musa",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC51101",
+      "label": "o pintor e sua musa - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51102",
+      "label": "pintor a tocar, pintor com instrumento musical",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC51102",
+      "label": "pintor a tocar, pintor com instrumento musical - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC5110",
+      "label": "inspiração do pintor - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5111",
+      "label": "oficina, ateliê ~ pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51111",
+      "label": "requisitos do ateliê ~ pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC51111",
+      "label": "requisitos do ateliê ~ pintor - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC5111",
+      "label": "oficina, ateliê ~ pintor - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5112",
+      "label": "situações de trabalho ~ pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51121",
+      "label": "pintor a fazer desenhos preliminares, esboços ",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC51121",
+      "label": "pintor a fazer desenhos preliminares, esboços - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51122",
+      "label": "pintor a estudar as ruínas clássicas ",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC51122",
+      "label": "pintor a estudar as ruínas clássicas - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51123",
+      "label": "pintor a trabalhar a partir de um modelo vivo",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C511231",
+      "label": "pintor a trabalhar a partir de um modelo vestido",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC511231",
+      "label": "pintor a trabalhar a partir de um modelo vestido - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C511232",
+      "label": "pintor a trabalhar a partir de um modelo nu",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC511232",
+      "label": "pintor a trabalhar a partir de um modelo nu - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC51123",
+      "label": "pintor a trabalhar a partir de um modelo vivo - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC5112",
+      "label": "situações de trabalho ~ pintor - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5113",
+      "label": "modelo, que posa sentado(a) ~ pintura",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC5113",
+      "label": "modelo, que posa sentado(a) ~ pintura - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5114",
+      "label": "pintor a preparar cores",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC5114",
+      "label": "pintor a preparar cores - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5115",
+      "label": "pintor a instruir os aprendizes, assistentes ou alunos",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51151",
+      "label": "pintor no trabalho com aprendizes, assistentes ou alunos",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC51151",
+      "label": "pintor no trabalho com aprendizes, assistentes ou alunos - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC5115",
+      "label": "pintor a instruir os aprendizes, assistentes ou alunos - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5119",
+      "label": "pintor a destruir o próprio trabalho",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC5119",
+      "label": "pintor a destruir o próprio trabalho - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48CC511",
+      "label": "pintor no trabalho, no seu ateliê - CC - no exterior",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C512",
+      "label": "pintor fora do contexto de trabalho",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C513",
+      "label": "retrato, auto-retrato de pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C514",
+      "label": "quadro, pintura",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5141",
+      "label": "\"gemalte Galerie\"",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5142",
+      "label": "quadro dentro de um quadro",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5143",
+      "label": "caricatura da pintura",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C515",
+      "label": "ferramentas, instrumentos do pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5151",
+      "label": "cavalete",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5152",
+      "label": "paleta",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5153",
+      "label": "pincéis ~ instrumentos do pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5154",
+      "label": "manequim, boneco articulado",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5155",
+      "label": "livro de desenhos preparatórios ~ instrumentos do pintor",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5156",
+      "label": "moldura, etc.",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51561",
+      "label": "\"passe-partout\"",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C51562",
+      "label": "cortina (fingida)",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "48C5157",
+      "label": "",
+      "group": "justice_subtree"
+    },
+    {
+      "id": "31AA231",
+      "label": "figura de pé - AA - figura humana feminina",
+      "group": "feminist_anchor"
+    }
+  ],
+  "edges": [
+    {
+      "source": "48C51",
+      "target": "48C510",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51",
+      "target": "48C511",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51",
+      "target": "48C512",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51",
+      "target": "48C513",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51",
+      "target": "48C514",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51",
+      "target": "48C515",
+      "type": "narrower"
+    },
+    {
+      "source": "48C510",
+      "target": "48C5101",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48C5110",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48C5111",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48C5112",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48C5113",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48C5114",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48C5115",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48C5119",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511",
+      "target": "48CC511",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5110",
+      "target": "48C51101",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5110",
+      "target": "48C51102",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5110",
+      "target": "48CC5110",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51101",
+      "target": "48CC51101",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51102",
+      "target": "48CC51102",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC5110",
+      "target": "48CC51101",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC5110",
+      "target": "48CC51102",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5111",
+      "target": "48C51111",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5111",
+      "target": "48CC5111",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51111",
+      "target": "48CC51111",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC5111",
+      "target": "48CC51111",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5112",
+      "target": "48C51121",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5112",
+      "target": "48C51122",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5112",
+      "target": "48C51123",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5112",
+      "target": "48CC5112",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51121",
+      "target": "48CC51121",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51122",
+      "target": "48CC51122",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51123",
+      "target": "48C511231",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51123",
+      "target": "48C511232",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51123",
+      "target": "48CC51123",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511231",
+      "target": "48CC511231",
+      "type": "narrower"
+    },
+    {
+      "source": "48C511232",
+      "target": "48CC511232",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC51123",
+      "target": "48CC511231",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC51123",
+      "target": "48CC511232",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC5112",
+      "target": "48CC51121",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC5112",
+      "target": "48CC51122",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC5112",
+      "target": "48CC51123",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5113",
+      "target": "48CC5113",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5114",
+      "target": "48CC5114",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5115",
+      "target": "48C51151",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5115",
+      "target": "48CC5115",
+      "type": "narrower"
+    },
+    {
+      "source": "48C51151",
+      "target": "48CC51151",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC5115",
+      "target": "48CC51151",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5119",
+      "target": "48CC5119",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC511",
+      "target": "48CC5110",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC511",
+      "target": "48CC5111",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC511",
+      "target": "48CC5112",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC511",
+      "target": "48CC5113",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC511",
+      "target": "48CC5114",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC511",
+      "target": "48CC5115",
+      "type": "narrower"
+    },
+    {
+      "source": "48CC511",
+      "target": "48CC5119",
+      "type": "narrower"
+    },
+    {
+      "source": "48C514",
+      "target": "48C5141",
+      "type": "narrower"
+    },
+    {
+      "source": "48C514",
+      "target": "48C5142",
+      "type": "narrower"
+    },
+    {
+      "source": "48C514",
+      "target": "48C5143",
+      "type": "narrower"
+    },
+    {
+      "source": "48C515",
+      "target": "48C5151",
+      "type": "narrower"
+    },
+    {
+      "source": "48C515",
+      "target": "48C5152",
+      "type": "narrower"
+    },
+    {
+      "source": "48C515",
+      "target": "48C5153",
+      "type": "narrower"
+    },
+    {
+      "source": "48C515",
+      "target": "48C5154",
+      "type": "narrower"
+    },
+    {
+      "source": "48C515",
+      "target": "48C5155",
+      "type": "narrower"
+    },
+    {
+      "source": "48C515",
+      "target": "48C5156",
+      "type": "narrower"
+    },
+    {
+      "source": "48C515",
+      "target": "48C5157",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5156",
+      "target": "48C51561",
+      "type": "narrower"
+    },
+    {
+      "source": "48C5156",
+      "target": "48C51562",
+      "type": "narrower"
+    },
+    {
+      "source": "31AA231",
+      "target": "48C514",
+      "type": "feminist_association"
+    }
+  ]
+}

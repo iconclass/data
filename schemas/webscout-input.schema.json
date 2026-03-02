@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/webscout-input.schema.json",
+  "title": "WebScoutInput",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["query_type", "target", "context", "constraints"],
+  "properties": {
+    "query_type": {
+      "type": "string",
+      "enum": ["seed", "item", "manual"]
+    },
+    "target": {
+      "type": "string",
+      "minLength": 1
+    },
+    "context": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "languages": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "period": {
+          "type": "string"
+        },
+        "region": {
+          "type": "string"
+        }
+      }
+    },
+    "constraints": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "max_results": { "type": "integer", "minimum": 1, "maximum": 1000 },
+        "must_have_image": { "type": "boolean" },
+        "must_have_institution": { "type": "boolean" }
+      }
+    }
+  }
+}

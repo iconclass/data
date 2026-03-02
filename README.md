@@ -59,3 +59,13 @@ Alas, no. The ["base" ICONCLASS system](notations.txt) has around 40K nodes arra
 A further complication is the use of WITH-NAMES placeholders in tree, also known as _bracketed text_. These notations look like 11H(...) where the ... can be filled in with any valid entry that makes sense to the user using that particular node in the tree. In the example, 11H(...) are male saints, so that could be 11H(JOHN) - but this could be in any language or variant. In the printed volumes for IC, several entries were already filled in as a convenience, and over the years some items have been added to the "official" list.
 
 This also causes a problem when we create static _dumps_ of the IC system, for example in RDF as it creates very large files.
+
+## Dual-agent corpus builder specification assets
+
+This repository now includes a concrete architecture package for a batch-first **WebScout → IconoCode** pipeline:
+
+- Architecture and operational defaults: `docs/spec-1/dual-agent-corpus-builder.md`
+- JSON contracts: `schemas/*.schema.json`
+- PostgreSQL MVP migration: `sql/migrations/0001_dual_agent_corpus.sql`
+
+These files are intended as implementation scaffolding for evidence-traceable corpus construction with ABNT-ready source output.

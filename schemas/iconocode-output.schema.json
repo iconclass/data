@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/iconocode-output.schema.json",
+  "title": "IconoCodeOutput",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["pre_iconographic", "codes", "interpretation", "validation", "confidence"],
+  "properties": {
+    "pre_iconographic": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["motif", "observed"],
+        "additionalProperties": false,
+        "properties": {
+          "motif": { "type": "string" },
+          "observed": { "type": "boolean" },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "codes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["scheme", "notation", "code_role", "confidence"],
+        "additionalProperties": false,
+        "properties": {
+          "scheme": { "type": "string", "enum": ["iconclass", "getty_aat", "tgn", "ulan", "custom"] },
+          "notation": { "type": "string" },
+          "label": { "type": "string" },
+          "code_role": { "type": "string", "enum": ["depicts", "attribute", "context", "style"] },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "evidence_source_id": { "type": "string" }
+        }
+      }
+    },
+    "interpretation": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["claim_text", "claim_type", "status", "confidence"],
+        "additionalProperties": false,
+        "properties": {
+          "claim_text": { "type": "string" },
+          "claim_type": {
+            "type": "string",
+            "enum": ["iconographic", "legal_context", "dating", "attribution", "postcolonial_marker"]
+          },
+          "status": { "type": "string", "enum": ["supported", "tentative", "gap"] },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+        }
+      }
+    },
+    "validation": {
+      "type": "object",
+      "required": ["claim_ledger"],
+      "additionalProperties": false,
+      "properties": {
+        "claim_ledger": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["claim_text", "supports", "contradicts"],
+            "additionalProperties": false,
+            "properties": {
+              "claim_text": { "type": "string" },
+              "supports": { "type": "array", "items": { "type": "string" } },
+              "contradicts": { "type": "array", "items": { "type": "string" } },
+              "gaps": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+  }
+}
