@@ -1,0 +1,72 @@
+{
+  "pre_iconographic": [
+    {
+      "motif": "female figure",
+      "observed": true,
+      "notes": "Central figure, classical dress"
+    },
+    {
+      "motif": "scales",
+      "observed": true,
+      "notes": "Right hand, balanced position"
+    },
+    {
+      "motif": "sword",
+      "observed": true,
+      "notes": "Left hand, pointing downward"
+    },
+    {
+      "motif": "blindfold",
+      "observed": false,
+      "notes": "Eyes open, not blindfolded"
+    }
+  ],
+  "codes": [
+    {
+      "scheme": "iconclass",
+      "notation": "48C514",
+      "label": "Justice (allegory)",
+      "code_role": "depicts",
+      "confidence": 0.95,
+      "evidence_source_id": null
+    },
+    {
+      "scheme": "iconclass",
+      "notation": "31AA231",
+      "label": "woman standing",
+      "code_role": "attribute",
+      "confidence": 0.9,
+      "evidence_source_id": null
+    }
+  ],
+  "interpretation": [
+    {
+      "claim_text": "Representação alegórica da Justiça sem venda nos olhos, típica do período colonial português",
+      "claim_type": "iconographic",
+      "status": "tentative",
+      "confidence": 0.75
+    },
+    {
+      "claim_text": "Obra datada entre 1750-1800 com base no estilo pictórico",
+      "claim_type": "dating",
+      "status": "tentative",
+      "confidence": 0.65
+    }
+  ],
+  "validation": {
+    "claim_ledger": [
+      {
+        "claim_text": "Representação alegórica da Justiça",
+        "supports": [
+          "ICONCLASS definition",
+          "Museum catalog"
+        ],
+        "contradicts": [],
+        "gaps": [
+          "Análise iconográfica comparativa necessária"
+        ]
+      }
+    ]
+  },
+  "confidence": 0.78
+}

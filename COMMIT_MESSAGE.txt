@@ -1,0 +1,65 @@
+feat: Add dual-agent corpus builder MVP assets
+
+Introduces architecture specification, data schemas, and PostgreSQL migration
+to enable batch-first, evidence-traceable corpus construction for iconographic
+analysis. Implements extraction and network generation for feminist themes in
+ICONCLASS, supporting robust, ABNT-ready output and validation workflows.
+
+## Architecture & Schemas
+
+- Add SPEC-1 dual-agent architecture (docs/spec-1/)
+  - WebScout → IconoCode pipeline with state machine
+  - Batch/item orchestration with retry/backoff
+  - Evidence-first validation policies
+  - MVP acceptance criteria
+
+- Add JSON Schema 2020-12 contracts (schemas/)
+  - webscout-input.schema.json — query structure
+  - webscout-output.schema.json — search results + evidence
+  - iconocode-output.schema.json — 4-stage iconographic analysis
+  - master-record.schema.json — consolidated batch records
+
+- Add PostgreSQL migration (sql/migrations/0001_dual_agent_corpus.sql)
+  - Evidence-traceable relational model
+  - Batch/item state machine with CHECK constraints
+  - Source-claim linkage tables
+  - UUID primary keys + deduplication indexes
+
+## Utilities
+
+- Add validate_schemas.py — JSON/JSONL schema validation
+- Add abnt_citations.py — ABNT NBR 6023:2018 citation generator
+- Add batch_example.py — demonstration batch generator
+- Add trace_evidence.py — evidence traceability audit
+- Add extract_feminist_network.py — ICONCLASS subtree + thematic bridges
+
+## Documentation
+
+- Update README.md with dual-agent section
+  - Quick start workflow
+  - Utility usage examples
+  - Database setup instructions
+  - MVP acceptance criteria
+
+- Add ASSET_SUMMARY.md — detailed implementation inventory
+- Add CHANGELOG.md — version 1.0.0 release notes
+
+## Testing
+
+- Generate examples/batch_001/ demonstration batch
+- Verify ABNT citation extraction
+- Verify evidence traceability analysis
+- All Python utilities tested and executable
+
+## Research Context
+
+Target domain: Female legal allegories in Brazil/Europe (XV–XX c.)
+
+Supports:
+- Batch processing (10-10,000 items)
+- Evidence-first interpretation with source-claim linkage
+- ABNT-ready academic output for Brazilian thesis requirements
+- Resumable/idempotent processing with SHA256 deduplication
+- Postcolonial/feminist analysis via thematic network extraction
+
+Files changed: 14 files, ~2,509 lines added
