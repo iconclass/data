@@ -61,77 +61,75 @@ class IC:
 
 
 def text(ic, filename):
-    F = open(filename, "w")
-    for obj in track(ic.notations.values()):
-        nn = obj["N"][0]
-        uri = f"http://iconclass.org/{quote(nn)}"
-        t = ic.txts.get(nn)
-        if not t:
-            print(f"No text for {nn}")
-            continue
-        t = t.replace("\n", r"\n").replace('"', r"\"")
-        F.write(f'<{uri}> <http://www.w3.org/2004/02/skos/core#prefLabel> "{t}"@en.\n')
-
-        kprefix = obj.get("K", {}).get("K", [None])[0]
-        if not kprefix:
-            continue
-        for k in obj.get("K", {}).get("S", []):
-            kt = ic.txts.get(kprefix + k)
-            kt = kt.replace("\n", r"\n").replace('"', r"\"")
-            if not kt:
+    with open(filename, "w") as F:
+        for obj in track(ic.notations.values()):
+            nn = obj["N"][0]
+            uri = f"http://iconclass.org/{quote(nn)}"
+            t = ic.txts.get(nn)
+            if not t:
+                print(f"No text for {nn}")
                 continue
-            lastk = f"{nn}(+{k})"
-            kuri = f"http://iconclass.org/{quote(lastk)}"
-            F.write(
-                f'<{kuri}> <http://www.w3.org/2004/02/skos/core#prefLabel> "{t} (+ {kt})"@en .\n'
-            )
-    F.close()
+            t = t.replace("\n", r"\n").replace('"', r"\"")
+            F.write(f'<{uri}> <http://www.w3.org/2004/02/skos/core#prefLabel> "{t}"@en.\n')
+
+            kprefix = obj.get("K", {}).get("K", [None])[0]
+            if not kprefix:
+                continue
+            for k in obj.get("K", {}).get("S", []):
+                kt = ic.txts.get(kprefix + k)
+                kt = kt.replace("\n", r"\n").replace('"', r"\"")
+                if not kt:
+                    continue
+                lastk = f"{nn}(+{k})"
+                kuri = f"http://iconclass.org/{quote(lastk)}"
+                F.write(
+                    f'<{kuri}> <http://www.w3.org/2004/02/skos/core#prefLabel> "{t} (+ {kt})"@en .\n'
+                )
 
 
 def structure(ic, filename):
-    F = open(filename, "w")
-    for obj in track(ic.notations.values()):
-        nn = obj["N"][0]
-        uri = f"http://iconclass.org/{quote(nn)}"
-        F.write(
-            f"<{uri}> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .\n"
-        )
-        F.write(
-            f"<{uri}> <http://www.w3.org/2004/02/skos/core#inScheme> <https://iconclass.org/rdf/2021/09/> .\n"
-        )
-        F.write(f'<{uri}> <http://www.w3.org/2004/02/skos/core#notation> "{nn}" .\n')
-
-        for c in obj.get("C", []):
-            curi = f"http://iconclass.org/{quote(c)}"
+    with open(filename, "w") as F:
+        for obj in track(ic.notations.values()):
+            nn = obj["N"][0]
+            uri = f"http://iconclass.org/{quote(nn)}"
             F.write(
-                f"<{uri}> <http://www.w3.org/2004/02/skos/core#narrower> <{curi}> .\n"
+                f"<{uri}> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .\n"
             )
             F.write(
-                f"<{curi}> <http://www.w3.org/2004/02/skos/core#broader> <{uri}> .\n"
+                f"<{uri}> <http://www.w3.org/2004/02/skos/core#inScheme> <https://iconclass.org/rdf/2021/09/> .\n"
             )
+            F.write(f'<{uri}> <http://www.w3.org/2004/02/skos/core#notation> "{nn}" .\n')
 
-        for r in obj.get("R", []):
-            ruri = f"http://iconclass.org/{quote(r)}"
-            F.write(
-                f"<{uri}> <http://www.w3.org/2004/02/skos/core#related> <{ruri}> .\n"
-            )
-
-        for k in obj.get("K", {}).get("S", []):
-            thek = ""
-            theuri = nn
-            for kk in k:
-                thek = thek + kk
-                lastk = f"{nn}(+{thek})"
-                kuri = f"http://iconclass.org/{quote(lastk)}"
-                nuri = f"http://iconclass.org/{quote(theuri)}"
+            for c in obj.get("C", []):
+                curi = f"http://iconclass.org/{quote(c)}"
                 F.write(
-                    f"<{nuri}> <http://www.w3.org/2004/02/skos/core#narrower> <{kuri}> .\n"
+                    f"<{uri}> <http://www.w3.org/2004/02/skos/core#narrower> <{curi}> .\n"
                 )
                 F.write(
-                    f"<{kuri}> <http://www.w3.org/2004/02/skos/core#broader> <{nuri}> .\n"
+                    f"<{curi}> <http://www.w3.org/2004/02/skos/core#broader> <{uri}> .\n"
                 )
-                theuri = lastk
-    F.close()
+
+            for r in obj.get("R", []):
+                ruri = f"http://iconclass.org/{quote(r)}"
+                F.write(
+                    f"<{uri}> <http://www.w3.org/2004/02/skos/core#related> <{ruri}> .\n"
+                )
+
+            for k in obj.get("K", {}).get("S", []):
+                thek = ""
+                theuri = nn
+                for kk in k:
+                    thek = thek + kk
+                    lastk = f"{nn}(+{thek})"
+                    kuri = f"http://iconclass.org/{quote(lastk)}"
+                    nuri = f"http://iconclass.org/{quote(theuri)}"
+                    F.write(
+                        f"<{nuri}> <http://www.w3.org/2004/02/skos/core#narrower> <{kuri}> .\n"
+                    )
+                    F.write(
+                        f"<{kuri}> <http://www.w3.org/2004/02/skos/core#broader> <{nuri}> .\n"
+                    )
+                    theuri = lastk
 
 
 if __name__ == "__main__":
