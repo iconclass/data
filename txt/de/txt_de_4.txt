@@ -6448,6 +6448,7 @@
 49L64|Schreibmaterialien, Schreiboberflächen
 49L641|Papier (als Schreibmaterial)
 49L6411|Notizbuch
+49L6419|Wasserzeichen
 49L642|Papyrus (als Schreibmaterial)
 49L643|Pergament, Velin (als Schreibmaterial)
 49L644|Wandtafeln

@@ -6449,6 +6449,7 @@
 49L64|supports d'écriture, surfaces destinées aux écritures
 49L641|papier (support d'écriture); papier à lettres 
 49L6411|cahier
+49L6419|filigrane
 49L642|papyrus ~ support d'écriture
 49L643|parchemin, vellum (parchemin très fin) ~ support d'écriture
 49L644|tableaux, planches, tablettes ~ support d'écriture

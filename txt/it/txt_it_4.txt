@@ -6448,6 +6448,7 @@
 49L64|materiali, superfici, su cui scrivere
 49L641|carta (materiali su cui scrivere)
 49L6411|taccuino, quaderno
+49L6419|filigrana
 49L642|papiro (materiali su cui scrivere)
 49L643|pergamena, cartapecora (materiali su cui scrivere)
 49L644|tavole su cui scrivere

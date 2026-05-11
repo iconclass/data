@@ -6263,6 +6263,8 @@
 49L63|canivete
 49L64|materiais para escrever, superfícies de escrita
 49L641|papel (material de escrita)
+49L6411|caderno
+49L6419|marca d'água
 49L642|papiro (material de escrita)
 49L643|pergaminho, velino (material de escrita)
 49L644|tábuas para escrever
