@@ -6411,6 +6411,32 @@
 49L113|erasing text
 49L12|écriture romaine; écriture basée sur l'alphabet romain
 49L12(...)|écriture romaine; écriture basée sur l'alphabet romain (avec LETTRES)
+49L12(A)|lettre romaine A
+49L12(B)|lettre romaine B
+49L12(C)|lettre romaine C
+49L12(D)|lettre romaine D
+49L12(E)|lettre romaine E
+49L12(F)|lettre romaine F
+49L12(G)|lettre romaine G
+49L12(H)|lettre romaine H
+49L12(I)|lettre romaine I
+49L12(J)|lettre romaine J
+49L12(K)|lettre romaine K
+49L12(L)|lettre romaine L
+49L12(M)|lettre romaine M
+49L12(N)|lettre romaine N
+49L12(O)|lettre romaine O
+49L12(P)|lettre romaine P
+49L12(Q)|lettre romaine Q
+49L12(R)|lettre romaine R
+49L12(S)|lettre romaine S
+49L12(T)|lettre romaine T
+49L12(U)|lettre romaine U
+49L12(V)|lettre romaine V
+49L12(W)|lettre romaine W
+49L12(X)|lettre romaine X
+49L12(Y)|lettre romaine Y
+49L12(Z)|lettre romaine Z
 49L13|écriture grecque
 49L13(...)|écriture grecque (avec LETTRES)
 49L14|autres écritures alphabétiques

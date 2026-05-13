@@ -6410,6 +6410,32 @@
 49L113|Text tilgen
 49L12|lateinische Schrift; Schriftarten, die auf der lateinischen Schrift basieren
 49L12(...)|lateinische Schrift (mit BUCHSTABEN)
+49L12(A)|lateinischer Buchstabe A
+49L12(B)|lateinischer Buchstabe B
+49L12(C)|lateinischer Buchstabe C
+49L12(D)|lateinischer Buchstabe D
+49L12(E)|lateinischer Buchstabe E
+49L12(F)|lateinischer Buchstabe F
+49L12(G)|lateinischer Buchstabe G
+49L12(H)|lateinischer Buchstabe H
+49L12(I)|lateinischer Buchstabe I
+49L12(J)|lateinischer Buchstabe J
+49L12(K)|lateinischer Buchstabe K
+49L12(L)|lateinischer Buchstabe L
+49L12(M)|lateinischer Buchstabe M
+49L12(N)|lateinischer Buchstabe N
+49L12(O)|lateinischer Buchstabe O
+49L12(P)|lateinischer Buchstabe P
+49L12(Q)|lateinischer Buchstabe Q
+49L12(R)|lateinischer Buchstabe R
+49L12(S)|lateinischer Buchstabe S
+49L12(T)|lateinischer Buchstabe T
+49L12(U)|lateinischer Buchstabe U
+49L12(V)|lateinischer Buchstabe V
+49L12(W)|lateinischer Buchstabe W
+49L12(X)|lateinischer Buchstabe X
+49L12(Y)|lateinischer Buchstabe Y
+49L12(Z)|lateinischer Buchstabe Z
 49L13|griechische Schrift
 49L13(...)|griechische Schrift (mit Buchstaben)
 49L14|andere Schriftarten, Alphabete

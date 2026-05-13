@@ -6227,6 +6227,32 @@
 49L113|apagar texto
 49L12|caracteres, escrita romana; escrita com base no alfabeto latino
 49L12(...)|caracteres, escrita romana; escrita com base no alfabeto latino (com LETRAS)
+49L12(A)|letra latina A
+49L12(B)|letra latina B
+49L12(C)|letra latina C
+49L12(D)|letra latina D
+49L12(E)|letra latina E
+49L12(F)|letra latina F
+49L12(G)|letra latina G
+49L12(H)|letra latina H
+49L12(I)|letra latina I
+49L12(J)|letra latina J
+49L12(K)|letra latina K
+49L12(L)|letra latina L
+49L12(M)|letra latina M
+49L12(N)|letra latina N
+49L12(O)|letra latina O
+49L12(P)|letra latina P
+49L12(Q)|letra latina Q
+49L12(R)|letra latina R
+49L12(S)|letra latina S
+49L12(T)|letra latina T
+49L12(U)|letra latina U
+49L12(V)|letra latina V
+49L12(W)|letra latina W
+49L12(X)|letra latina X
+49L12(Y)|letra latina Y
+49L12(Z)|letra latina Z
 49L13|caracteres, escrita grega
 49L13(...)|caracteres, escrita grega (com LETRAS)
 49L14|outros caracteres alfabéticos

@@ -6408,6 +6408,32 @@
 49L113|erasing text
 49L12|Roman script; scripts based on the Roman alphabet
 49L12(...)|Roman script; scripts based on the Roman alphabet (with LETTERS)
+49L12(A)|Roman letter A
+49L12(B)|Roman letter B
+49L12(C)|Roman letter C
+49L12(D)|Roman letter D
+49L12(E)|Roman letter E
+49L12(F)|Roman letter F
+49L12(G)|Roman letter G
+49L12(H)|Roman letter H
+49L12(I)|Roman letter I
+49L12(J)|Roman letter J
+49L12(K)|Roman letter K
+49L12(L)|Roman letter L
+49L12(M)|Roman letter M
+49L12(N)|Roman letter N
+49L12(O)|Roman letter O
+49L12(P)|Roman letter P
+49L12(Q)|Roman letter Q
+49L12(R)|Roman letter R
+49L12(S)|Roman letter S
+49L12(T)|Roman letter T
+49L12(U)|Roman letter U
+49L12(V)|Roman letter V
+49L12(W)|Roman letter W
+49L12(X)|Roman letter X
+49L12(Y)|Roman letter Y
+49L12(Z)|Roman letter Z
 49L13|Greek script
 49L13(...)|Greek script (with LETTERS)
 49L14|other alphabetic scripts
