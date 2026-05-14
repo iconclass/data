@@ -4467,6 +4467,7 @@
 47C41|festmachen (industrielle Verfahrensweisen)
 47C42|festbinden, binden (industrielle Verfahrensweisen)
 47C421|verschiedene Formen von Knoten
+47C4211|Liebesseil
 47C429|auftrennen, entknoten, lösen (industrielle Verfahrensweisen)
 47C4291|einen Knoten lösen
 47C43|zusammenfügen (industrielle Verfahrensweisen)

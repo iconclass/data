@@ -4391,6 +4391,7 @@
 47C41|apertar (processos industriais)
 47C42|amarrar, ligar (processos industriais)
 47C421|tipos de nós
+47C4211|nó de amor
 47C429|desembaraçar, desatar, desprender, desamarrar (processos industriais)
 47C4291|desatar um nó
 47C43|unir (processos industriais)

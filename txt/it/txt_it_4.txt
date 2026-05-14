@@ -4467,6 +4467,7 @@
 47C41|stringere, fare presa (procedimenti industriali)
 47C42|legare, allacciare
 47C421|tipi di nodi
+47C4211|nodo d'amore
 47C429|disfare, slegare
 47C4291|slegare un nodo
 47C43|unire (procedimenti industriali)

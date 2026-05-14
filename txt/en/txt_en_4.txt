@@ -4467,6 +4467,7 @@
 47C41|gripping (industrial process)
 47C42|lashing, binding (industrial processes)
 47C421|types of knots
+47C4211|love-knot
 47C429|unravelling, untying (industrial processes)
 47C4291|untying a knot
 47C43|joining (industrial process)

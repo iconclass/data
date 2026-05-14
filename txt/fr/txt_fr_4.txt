@@ -4468,6 +4468,7 @@
 47C41|faire adhérer (processus industriel)
 47C42|attacher, unir (processus industriel)
 47C421|sortes de noeuds
+47C4211|lacs d'amour
 47C429|démêler, défaire, dénouer (processus industriel)
 47C4291|dénouer un noeud
 47C43|assembler (processus industriel)
