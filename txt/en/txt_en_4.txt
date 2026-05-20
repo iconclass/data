@@ -831,6 +831,7 @@
 41D2231|piece of clothing covering the breast or décolleté
 41D2231(...)|piece of clothing covering the breast or décolleté (with NAME)
 41D224|sleeves
+41D224(...)|sleeves (with NAME)
 41D225|gloves, mittens, etc.
 41D225(...)|gloves, mittens (with NAME)
 41D2251|'manus velatae' (hands covered with a cloth)
@@ -843,6 +844,7 @@
 41D232(...)|skirt (with NAME)
 41D2321|apron
 41D233|gear for legs and feet
+41D233(...)|gear for legs and feet (with NAME)
 41D2331|stockings, socks
 41D2332|shoes, sandals
 41D23321|boots

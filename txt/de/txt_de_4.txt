@@ -831,6 +831,7 @@
 41D2231|Kleidungsstück, das die Brust oder das Dekolleté bedeckt
 41D2231(...)|Kleidungsstück, das die Brust oder das Dekolleté bedeckt (mit NAMEN)
 41D224|Ärmel
+41D224(...)|Ärmel (mit NAMEN)
 41D225|Handschuhe, Fäustlinge, etc.
 41D225(...)|Handschuhe, Fäustlinge, etc. (mit NAMEN)
 41D2251|manus velatae: die Hände sind von einem Tuch bedeckt
@@ -845,6 +846,7 @@
 41D233|Kleidungsstücke für Beine und Füße
 41D2331|Strümpfe, Socken
 41D2332|Schuhe, Sandalen
+41D2332(...)|Schuhe, Sandalen (mit NAMEN)
 41D23321|Stiefel
 41D23322|Pantoffeln
 41D2333|Holzschuhe, Pantinen

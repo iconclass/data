@@ -831,6 +831,7 @@
 41D2231|parte o capo di abbigliamento che copre il petto o il décolleté
 41D2231(...)|parte o capo di abbigliamento che copre il petto o il décolleté (col NOME)
 41D224|maniche
+41D224(...)|maniche (col NOME)
 41D225|guanti, manopolo, mezzi guanti, etc.
 41D225(...)|guanti, manopolo, mezzi guanti, etc. (col NOME)
 41D2251|'manus velatae' (mani coperte da un panno)
@@ -845,6 +846,7 @@
 41D233|parte o capo di abbigliamento per gambe e piede
 41D2331|calze, calzini
 41D2332|scarpe, sandali
+41D2332(...)|scarpe, sandali (col NOME)
 41D23321|stivali
 41D23322|pantofole
 41D2333|calzature di legno, zoccoli

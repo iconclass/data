@@ -788,6 +788,7 @@
 41D223(...)|vestuário para a parte superior do corpo (com NOME)
 41D2231|peça de vestuário que cobre o peito ou decote
 41D224|mangas
+41D224(...)|mangas (com NOME)
 41D225|luvas, mitenes (luvas sem dedos)
 41D2251|"manus velatae" (mãos cobertas com um tecido)
 41D2252|regalo
@@ -799,6 +800,7 @@
 41D233|vestuário (equipamento) para pernas e pés
 41D2331|collants, meias compridas, meias
 41D2332|sapatos, sandálias
+41D2332(...)|sapatos, sandálias (com NOME)
 41D23321|botas
 41D2333|sapatos de madeira, tamancos
 41D2334|os pés calçados de forma desigual

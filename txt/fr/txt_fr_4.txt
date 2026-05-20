@@ -831,6 +831,7 @@
 41D2231|accessoire vestimentaire couvrant la poitrine ou le décolleté
 41D2231(...)|accessoire vestimentaire couvrant la poitrine ou le décolleté (avec NOM)
 41D224|manches
+41D224(...)|manches (avec NOM)
 41D225|gants, moufle, mitaines
 41D225(...)|gants, moufle, mitaines (avec NOM)
 41D2251|'manus velatae' (mains couvertes d'un tissu)
@@ -845,9 +846,9 @@
 41D233|accessoires vestimentaires pour les pieds et jambes
 41D2331|bas, chaussettes
 41D2332|souliers, chaussures, sandales
+41D2332(...)|souliers, chaussures, sandales (avec NOM)
 41D23321|bottes
 41D23322|chaussons
-
 41D2333|sabots
 41D2334|pieds chaussés inégalement
 41D23341|un pied chaussé d'un soulier et l'autre d'une pantoufle ~ pieds chaussés inégalement
