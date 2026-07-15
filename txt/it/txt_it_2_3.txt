@@ -2499,6 +2499,7 @@
 31A223622|ovaie
 31A223623|mestruazione
 31A223624|vagina
+31A223625|clitoride
 31A2237|natiche, 'partes posteriores'
 31A22371|ano
 31A224|braccia

@@ -2463,6 +2463,7 @@
 31A223622|ovários
 31A223623|menstruação
 31A223624|vagina
+31A223625|clitóris
 31A2237|nádegas, "partes posteriores"
 31A22371|ânus
 31A224|braços

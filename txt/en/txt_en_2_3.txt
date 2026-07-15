@@ -2500,6 +2500,7 @@
 31A223622|ovaries
 31A223623|menstruation
 31A223624|vagina
+31A223625|clitoris
 31A2237|buttocks, 'partes posteriores'
 31A22371|anus
 31A224|arms

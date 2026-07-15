@@ -2499,6 +2499,7 @@
 31A223622|ovaires
 31A223623|menstruation
 31A223624|vagin
+31A223625|clitoris
 31A2237|fesses, derrière, 'partes posteriores'
 31A22371|anus
 31A224|bras
