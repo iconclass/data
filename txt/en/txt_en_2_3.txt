@@ -2538,6 +2538,8 @@
 31A22623|pubic hair
 31A22624|skin colour
 31A22624(...)|skin colour (with FITZPATRICK number)
+31A22625|birthmark, mole
+31A22626|freckles
 31A2263|muscles
 31A2264|tendons, sinews
 31A2265|nerves
@@ -3229,6 +3231,8 @@
 31AA22623|pubic hair - AA - female human figure
 31AA22624|skin colour - AA - female human figure
 31AA22624(...)|skin colour (with FITZPATRICK number) - AA - female human figure
+31AA22625|birthmark, mole - AA - female human figure
+31AA22626|freckles - AA - female human figure
 31AA2263|muscles - AA - female human figure
 31AA2264|tendons, sinews - AA - female human figure
 31AA2265|nerves - AA - female human figure
