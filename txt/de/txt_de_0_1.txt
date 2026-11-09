@@ -9877,6 +9877,8 @@
 11Q331|Einsiedler, Eremit
 11Q3311|Thebaide
 11Q332|Stylit, Dendrit
+11Q34|asketische Vision
+11Q35|demonische Vision
 11Q4|Mystik
 11Q41|Kontemplation
 11Q42|Ekstase, religiöse Exaltation, Verzückung

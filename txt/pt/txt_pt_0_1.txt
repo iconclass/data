@@ -9877,6 +9877,8 @@
 11Q331|anacoreta, eremita
 11Q3311|Tebaida
 11Q332|estilita; dendrita
+11Q34|visão ascética
+11Q35|visão demoníaca
 11Q4|misticismo
 11Q41|contemplação
 11Q42|êxtase, exaltação espiritual, arrebentamento

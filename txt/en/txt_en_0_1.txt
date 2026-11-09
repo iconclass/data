@@ -9877,6 +9877,8 @@
 11Q331|anchorite, hermit
 11Q3311|Thebaid
 11Q332|stylite; dendrite
+11Q34|ascetic vision
+11Q35|demonic vision
 11Q4|mysticism
 11Q41|contemplation
 11Q42|ecstasy, spiritual exaltation, rapture

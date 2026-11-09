@@ -9877,6 +9877,8 @@
 11Q331|anachorète, ermite
 11Q3311|ermite de la Thébaïde
 11Q332|stylite; dendrite
+11Q34|vision ascétique
+11Q35|vision démoniaque
 11Q4|mysticisme
 11Q41|contemplation
 11Q42|extase, exaltation spirituelle, élan
