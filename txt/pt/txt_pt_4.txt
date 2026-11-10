@@ -4923,6 +4923,7 @@
 48A713|intervalo ~ arte performativa
 48A72|edifícios destinados a actuações, performances
 48A721|teatro (edifício)
+48A7211|anfiteatro
 48A722|sala de concerto
 48A723|ópera
 48A724|music-hall, café-concerto
@@ -5032,6 +5033,7 @@
 48A9879|"Laub-und Bandelwerk" ~ ornamentos
 48AA72|edifícios destinados a actuações, performances - AA - actuações, performances ao ar livre
 48AA721|teatro (edifício) - AA - actuações, performances ao ar livre
+48AA7211|anfiteatro - AA - actuações, performances ao ar livre
 48AA722|sala de concertos - AA - actuações, performances ao ar livre
 48AA723|ópera - AA - actuações, performances ao ar livre
 48AA724|music-hall, café-concerto - AA - actuações, performances ao ar livre

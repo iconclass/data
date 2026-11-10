@@ -5005,6 +5005,7 @@
 48A713|interval ~ art performance
 48A72|buildings for performances
 48A721|theatre (building)
+48A7211|amphitheatre
 48A722|concert hall
 48A723|opera house
 48A724|music-hall
@@ -5114,6 +5115,7 @@
 48A9879|'Laub- und Bandelwerk' ~ ornament
 48AA72|buildings for performances - AA - open-air performances
 48AA721|theatre (building) - AA - open-air performances
+48AA7211|amphitheatre - AA - open-air performances
 48AA722|concert hall - AA - open-air performances
 48AA723|opera house - AA - open-air performances
 48AA724|music-hall - AA - open-air performances

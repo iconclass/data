@@ -5005,6 +5005,7 @@
 48A713|Pause (bei einer künstlerischen Aufführung)
 48A72|Gebäude für (künstlerische) Aufführungen
 48A721|Theatergebäude
+48A7211|Amphitheater
 48A722|Konzertgebäude, Konzertsaal
 48A723|Opernhaus
 48A724|Musikhalle, Konzerthalle
@@ -5114,6 +5115,7 @@
 48A9879|Laub- und Bandelwerk
 48AA72|Gebäude für (künstlerische) Aufführungen - AA - Aufführungen im Freien; open-air
 48AA721|Theatergebäude - AA - Aufführungen im Freien; open-air
+48AA7211|Amphitheater - AA - Aufführungen im Freien; open-air
 48AA722|Konzertgebäude, Konzertsaal - AA - Aufführungen im Freien; open-air
 48AA723|Opernhaus - AA - Aufführungen im Freien; open-air
 48AA724|Musikhalle, Konzerthalle - AA - Aufführungen im Freien; open-air

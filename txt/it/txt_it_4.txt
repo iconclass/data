@@ -5005,6 +5005,7 @@
 48A713|intervallo ~ opera d'arte
 48A72|costruzioni finalizzate a rappresentazioni teatrali
 48A721|teatro (costruzione)
+48A7211|anfiteatro
 48A722|sala da concerto
 48A723|opera
 48A724|caffè concerto
@@ -5114,6 +5115,7 @@
 48A9879|'Laub- und Bandelwerk' ~ composizioni decorative
 48AA72|costruzioni finalizzate a rappresentazioni teatrali - AA - rappresentazioni teatrali all'aria aperta
 48AA721|teatro (costruzione) - AA - rappresentazioni teatrali all'aria aperta
+48AA7211|anfiteatro - AA - rappresentazioni teatrali all'aria aperta
 48AA722|sala da concerto - AA - rappresentazioni teatrali all'aria aperta
 48AA723|opera - AA - rappresentazioni teatrali all'aria aperta
 48AA724|caffè concerto - AA - rappresentazioni teatrali all'aria aperta

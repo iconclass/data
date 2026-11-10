@@ -5005,6 +5005,7 @@
 48A713|entracte ~ représentation artistique
 48A72|édifices où se donnent les représentations
 48A721|théâtre (édifice)
+48A7211|amphithéâtre
 48A722|salle de concert
 48A723|opéra (édifice)
 48A724|théâtre de variétés, music-hall
@@ -5114,6 +5115,7 @@
 48A9879|'Laub- und Bandelwerk' ~ ornement
 48AA72|édifices où se donnent les représentations - AA - spectacle en plein air
 48AA721|théâtre (édifice) - AA - spectacle en plein air
+48A7211|amphithéâtre - AA - spectacle en plein air
 48AA722|salle de concert - AA - spectacle en plein air
 48AA723|opéra (édifice) - AA - spectacle en plein air
 48AA724|théâtre de variétés, music-hall - AA - spectacle en plein air
